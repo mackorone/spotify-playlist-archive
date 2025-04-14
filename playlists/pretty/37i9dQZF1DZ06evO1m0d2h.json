@@ -1,12 +1,12 @@
 {
   "description": "This is Sleep Token. The essential tracks, all in one playlist.",
-  "num_followers": 341802,
+  "num_followers": 342008,
   "original_name": "This Is Sleep Token",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAABV74XEQxlgqRcoTFmym8/Z",
+  "snapshot_id": "Z/mtAAAAAAD+i6P9FUa4tqyt6lmw51av",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
+        "name": "Is It Really You?",
+        "url": "https://open.spotify.com/album/30KxStn2hzuDWJyNqLa5N1"
       },
       "artists": [
         {
           "name": "Sleep Token",
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        },
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         }
       ],
-      "duration_ms": 317093,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/1jTutTLIxJ46mtNsrvWLyT"
+      "duration_ms": 279593,
+      "name": "Is It Really You?",
+      "url": "https://open.spotify.com/track/7kjcdiknoCUe0OeE3BIw9J"
     },
     {
       "added_at": null,
@@ -267,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is It Really You?",
-        "url": "https://open.spotify.com/album/30KxStn2hzuDWJyNqLa5N1"
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
       },
       "artists": [
         {
           "name": "Sleep Token",
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        },
-        {
-          "name": "Loathe",
-          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         }
       ],
-      "duration_ms": 279593,
-      "name": "Is It Really You?",
-      "url": "https://open.spotify.com/track/7kjcdiknoCUe0OeE3BIw9J"
+      "duration_ms": 317093,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1jTutTLIxJ46mtNsrvWLyT"
     },
     {
       "added_at": null,

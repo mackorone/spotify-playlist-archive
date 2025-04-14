@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">ardit</a> fu\*\*\*\*\* <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">ardit</a>🔥 100 dk er det bedste nye rap
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,192 likes - 66 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,193 likes - 66 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

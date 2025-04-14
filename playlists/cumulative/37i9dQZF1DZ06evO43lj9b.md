@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 43 min
+52 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Dangerous Vibes \- Emmaculate Remix / Edit](https://open.spotify.com/track/59o9HdXbhgQRCzAkDUr3IF) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/72d5mhtRADQ4eMVcLzkLR9) | 3:25 | 2025-03-11 |  |
 | [Day Dreaming](https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:34 | 2025-03-11 |  |
 | [Don't Stop The Feeling](https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 8:15 | 2025-03-11 |  |
-| [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 | 2025-03-11 |  |
+| [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 | 2025-03-11 | 2025-04-14 |
 | [Everytime I See You](https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:37 | 2025-03-11 |  |
 | [Exotic Dance \- From The "Coffy" Soundtrack](https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 3:18 | 2025-03-11 |  |
 | [FIND YOUR WINGS \(feat\. Roy Ayers, Sydney Bennett & Kali Uchis\)](https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 2:59 | 2025-03-11 |  |
@@ -37,6 +37,7 @@
 | [In Time](https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I) | [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra), [Erik Dillard](https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In Time](https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E) | 8:43 | 2025-03-11 |  |
 | [Liquid Love](https://open.spotify.com/track/1uOgZkPPwGgya04nRoM1wy) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 4:46 | 2025-03-11 |  |
 | [Love Will Bring Us Back Together](https://open.spotify.com/track/5yw2PVkZ9ttCVsBlDBIOb2) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Fever](https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD) | 6:01 | 2025-03-11 |  |
+| [Mystery of Love](https://open.spotify.com/track/30SaZGpgPzSPrOvXb5ygYw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Virgin Ubiquity: Unreleased Recordings 1976 \- 1981](https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU) | 3:51 | 2025-04-14 |  |
 | [Mystic Voyage](https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Brighter Day](https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh) | 4:13 | 2025-03-11 |  |
 | [Mystic Voyage](https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 3:42 | 2025-03-11 |  |
 | [Papa Was A Rolling Stone](https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:33 | 2025-03-11 |  |

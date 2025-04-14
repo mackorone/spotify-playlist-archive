@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,933 likes - 54 songs - 3 hr 23 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,937 likes - 57 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,6 +61,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 51 | [Happy](https://open.spotify.com/track/3WGiMyK486Aat4b9ZxuHic) | [The Wrens](https://open.spotify.com/artist/04cetTUz2JTzXBqFKO5YB5) | [The Meadowlands](https://open.spotify.com/album/4Olz2cm8ncBqhnRcDwqVFK) | 5:33 |
 | 52 | [You Don't Have One Hope](https://open.spotify.com/track/50ZJVGTEnnDGwzIctwd5g3) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [You Don't Have One Hope](https://open.spotify.com/album/72DUqvLhI6ZyqvB82bovq9) | 2:17 |
 | 53 | [nerds](https://open.spotify.com/track/1xbYxwk8eexZgTABS6zuzM) | [Yorck Street](https://open.spotify.com/artist/2mQRyEpdhQxiykFmC74TSB) | [Yorck Street](https://open.spotify.com/album/4NWSdRujBcr2IYiBOsKNdD) | 0:40 |
-| 54 | [PANAS](https://open.spotify.com/track/0gQlbFskqEn6Oq6BbC7wMY) | [SSSLIP](https://open.spotify.com/artist/3i4ymq99xVgnNYbDxRK9I8), [RubyyXo](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [SSSLIP\-RMX01](https://open.spotify.com/album/47zbySGzKDp8itUYb9J0L2) | 4:20 |
+| 54 | [Dark Shirt](https://open.spotify.com/track/2FU34BCqCh93uP1XQYNtoq) | [Joshua Chuquimia Crampton](https://open.spotify.com/artist/4vV7A3OS088S8Ps2NtTcRO) | [Profundo Amor](https://open.spotify.com/album/0kcRYlSmu6DV3nIjFsYfTl) | 4:39 |
+| 55 | [New Power](https://open.spotify.com/track/4jss2X2iCZjOU7zAUjc3zW) | [Cindy](https://open.spotify.com/artist/3vUqg3VWCLmEA1es1T4nGn) | [I'm Cindy](https://open.spotify.com/album/3obhwQ6jhn7Yy3ZGL6jwYt) | 3:16 |
+| 56 | [PANAS](https://open.spotify.com/track/0gQlbFskqEn6Oq6BbC7wMY) | [SSSLIP](https://open.spotify.com/artist/3i4ymq99xVgnNYbDxRK9I8), [RubyyXo](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [SSSLIP\-RMX01](https://open.spotify.com/album/47zbySGzKDp8itUYb9J0L2) | 4:20 |
+| 57 | [All Day Long](https://open.spotify.com/track/7dAuc6UOo9aMhT6A6n2iXg) | [Shop Assistants](https://open.spotify.com/artist/3uHLyTtYMnhAWxfPy6VjNm) | [Will Anything Happen](https://open.spotify.com/album/6wtQQXsd3wIKyGhwIfGpE9) | 1:50 |
 
-Snapshot ID: `AAAMLncD/epsWZt8JljYASKIpfNvPRZc`
+Snapshot ID: `AAAMM/bT6Rpmmj4hpF/kodUbDG7v6t3g`

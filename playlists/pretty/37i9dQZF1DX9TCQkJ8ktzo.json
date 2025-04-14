@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 45145,
+  "num_followers": 45175,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Los \u00c9xitos en Espa\u00f1ol y Franc\u00e9s",
-        "url": "https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn"
-      },
-      "artists": [
-        {
-          "name": "Les Surfs",
-          "url": "https://open.spotify.com/artist/5ZKI9KiIkT1VRgDOfawSjx"
-        }
-      ],
-      "duration_ms": 146440,
-      "name": "Tu Seras Mi Baby",
-      "url": "https://open.spotify.com/track/4tko6GvGRI2Ege56DN9QNa"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Palabra De Rey",
         "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 180986,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Los \u00c9xitos en Espa\u00f1ol y Franc\u00e9s",
+        "url": "https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn"
+      },
+      "artists": [
+        {
+          "name": "Les Surfs",
+          "url": "https://open.spotify.com/artist/5ZKI9KiIkT1VRgDOfawSjx"
+        }
+      ],
+      "duration_ms": 146440,
+      "name": "Tu Seras Mi Baby",
+      "url": "https://open.spotify.com/track/4tko6GvGRI2Ege56DN9QNa"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Suspenso Infernal",
-      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Palabra De Rey",
         "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Son con Guaguanc\u00f3",
-        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
         }
       ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
+      "duration_ms": 172160,
+      "name": "Suspenso Infernal",
+      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -427,6 +411,38 @@
       "duration_ms": 193782,
       "name": "Ven Que Te Quiero",
       "url": "https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Muchacha Bonita",
+      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -463,18 +479,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 141240,
-      "name": "Muchacha Bonita",
-      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
+      "duration_ms": 177893,
+      "name": "Cuando Calienta el Sol",
+      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Cuando Calienta el Sol",
-      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Para Mi Siempre Amor...",
         "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
       },
@@ -627,66 +627,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Trios de Oro, Vol. 1",
-        "url": "https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR"
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
       },
       "artists": [
         {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 157880,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Versiones Originales Vol.2",
-        "url": "https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK"
-      },
-      "artists": [
-        {
-          "name": "Los Cinco Latinos",
-          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Locamente Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
-        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
-      },
-      "artists": [
-        {
-          "name": "Los Yetis",
-          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/1wCJgm1ZdVyV9prrKSX9Kg"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
-        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
-      },
-      "artists": [
-        {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "El d\u00eda de los enamorados (remastered)",
-      "url": "https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m"
+      "duration_ms": 150333,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -707,18 +659,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+        "name": "Trios de Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
         }
       ],
-      "duration_ms": 150333,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
+      "duration_ms": 157880,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -739,6 +691,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Versiones Originales Vol.2",
+        "url": "https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK"
+      },
+      "artists": [
+        {
+          "name": "Los Cinco Latinos",
+          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Locamente Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Lo Mejor De (Remastered)",
         "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
       },
@@ -755,22 +723,34 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Cuba y Puerto Rico",
-        "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
+        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
+        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Los Yetis",
+          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Herencia Gitana",
-      "url": "https://open.spotify.com/track/71OaY7celWpuQh00OlDrls"
+      "duration_ms": 234693,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/1wCJgm1ZdVyV9prrKSX9Kg"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
+        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero Y Su Piano",
+          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -791,34 +771,54 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Son con Guaguanc\u00f3",
-        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP"
       },
       "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "El Malquerido",
+      "url": "https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
+        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
+      },
+      "artists": [
+        {
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "El d\u00eda de los enamorados (remastered)",
+      "url": "https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Cuba y Puerto Rico",
+        "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 168280,
-      "name": "Oye Mi Consejo",
-      "url": "https://open.spotify.com/track/7dLU5U9ikHDXucBcTp0jcr"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
-        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
-      },
-      "artists": [
-        {
-          "name": "Los Yetis",
-          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "Shimmy Shimmy Ko Ko Bop",
-      "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
+      "duration_ms": 191053,
+      "name": "Herencia Gitana",
+      "url": "https://open.spotify.com/track/71OaY7celWpuQh00OlDrls"
     }
   ],
   "unique_name": "Los 60s",

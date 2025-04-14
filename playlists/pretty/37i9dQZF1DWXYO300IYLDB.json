@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 139314,
+  "num_followers": 139316,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-04-03 15:00:24",
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
-    },
-    {
-      "added_at": "2025-04-03 15:00:24",
-      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 261005,
       "name": "Fable",
       "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "added_at": "2025-04-03 15:00:24",
+      "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2025-04-03 15:00:24",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-04-03 15:00:24",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Girl from the North Country",
-      "url": "https://open.spotify.com/track/739sLmfUkVFoyPtb0C3263"
-    },
-    {
-      "added_at": "2025-04-03 15:00:24",
-      "album": {
         "name": "Donavon Frankenreiter",
         "url": "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 186000,
       "name": "It Don't Matter",
       "url": "https://open.spotify.com/track/2UjGyCvayHjGihV3oLhD8a"
+    },
+    {
+      "added_at": "2025-04-03 15:00:24",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Girl from the North Country",
+      "url": "https://open.spotify.com/track/739sLmfUkVFoyPtb0C3263"
     },
     {
       "added_at": "2025-04-03 15:00:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-04-03 15:00:24",
       "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
-    },
-    {
-      "added_at": "2025-04-03 15:00:24",
-      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2025-04-03 15:00:24",
       "album": {
-        "name": "Heartbreakdown",
-        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 254822,
-      "name": "Heartbreakdown",
-      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2025-04-03 15:00:24",
@@ -1107,6 +1091,22 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2025-04-03 15:00:24",
+      "album": {
+        "name": "Heartbreakdown",
+        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 254822,
+      "name": "Heartbreakdown",
+      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
     },
     {
       "added_at": "2025-04-03 15:00:24",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-04-03 15:00:24",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 179871,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
-    },
-    {
-      "added_at": "2025-04-03 15:00:24",
-      "album": {
         "name": "Pool",
         "url": "https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 213026,
       "name": "NO SZNS",
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
+    },
+    {
+      "added_at": "2025-04-03 15:00:24",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 179871,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
     },
     {
       "added_at": "2025-04-03 15:00:24",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-04-03 15:00:24",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU"
-    },
-    {
-      "added_at": "2025-04-03 15:00:24",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 186153,
       "name": "Listen to Your Heart",
       "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
+    },
+    {
+      "added_at": "2025-04-03 15:00:24",
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU"
     },
     {
       "added_at": "2025-04-03 15:00:24",

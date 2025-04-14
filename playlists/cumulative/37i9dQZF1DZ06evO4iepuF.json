@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "autotune garbage",
+        "url": "https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72492,
+      "name": "byte girlfriend",
+      "url": "https://open.spotify.com/track/0Gsv7r7jP9nhMhnrgGqFF8"
+    },
+    {
+      "album": {
         "name": "kittydog music album",
         "url": "https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk"
       },
@@ -342,7 +360,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 117594,
       "name": "crystal spray - Remastered",
       "url": "https://open.spotify.com/track/5e31ls6AAuRNkcEGmSGcMX"
@@ -432,7 +450,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 108500,
       "name": "escape room",
       "url": "https://open.spotify.com/track/0XuoqKqcGQF5jedK0bU9f9"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 114661,
       "name": "see into forever",
       "url": "https://open.spotify.com/track/4Vzzg8l0XMhoG6K3BiJ74d"

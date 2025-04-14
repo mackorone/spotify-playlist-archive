@@ -16130,7 +16130,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 145989,
       "name": "Dein Mann Freestyle",
       "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
@@ -38006,7 +38006,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -58116,7 +58116,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 147692,
       "name": "Shamballa",
       "url": "https://open.spotify.com/track/6hl9Tc95QrqDk4Q3uWLHls"
@@ -60855,6 +60855,24 @@
     },
     {
       "album": {
+        "name": "Stecu",
+        "url": "https://open.spotify.com/album/4jaDmAMncBr4KdbJNfLLS5"
+      },
+      "artists": [
+        {
+          "name": "Faris Adam",
+          "url": "https://open.spotify.com/artist/0WOBasNNoE4TJ3CV2xnUvX"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222168,
+      "name": "Stecu",
+      "url": "https://open.spotify.com/track/58RQdadIHxBeiZ1kyDXnCo"
+    },
+    {
+      "album": {
         "name": "Stecu Stecu",
         "url": "https://open.spotify.com/album/3SqI4Bef1HLRDBH9iGEyfg"
       },
@@ -60866,7 +60884,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 223750,
       "name": "Stecu Stecu",
       "url": "https://open.spotify.com/track/2ECbN3xQ7M6B7AI9BhhCy7"
@@ -74114,7 +74132,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 320251,
       "name": "\u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/37g065kUQYRuIEx3Kmv6Ge"

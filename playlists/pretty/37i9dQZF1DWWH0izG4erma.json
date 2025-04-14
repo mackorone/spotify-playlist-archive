@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Ryan Hurd",
-  "num_followers": 617601,
+  "num_followers": 617656,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,18 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "Ain't Doin' Jack",
-        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
+        "name": "Next to You",
+        "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 160680,
-      "name": "Ain't Doin' Jack",
-      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
+      "duration_ms": 241668,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -223,18 +223,18 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "Next to You",
-        "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
+        "name": "Ain't Doin' Jack",
+        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
       },
       "artists": [
         {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 241668,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
+      "duration_ms": 160680,
+      "name": "Ain't Doin' Jack",
+      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -255,6 +255,22 @@
       "duration_ms": 159522,
       "name": "Hope It Kills Me (feat. Sterling Elza)",
       "url": "https://open.spotify.com/track/1WDJGQJVOHiu7LMvLyOvXF"
+    },
+    {
+      "added_at": "2025-04-11 04:00:34",
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 158634,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -291,22 +307,6 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 173636,
-      "name": "Love You Again",
-      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
-    },
-    {
-      "added_at": "2025-04-11 04:00:34",
-      "album": {
         "name": "Jesus and Joan Jett",
         "url": "https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl"
       },
@@ -323,18 +323,18 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "Relapse",
-        "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
         }
       ],
-      "duration_ms": 158634,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
+      "duration_ms": 173636,
+      "name": "Love You Again",
+      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "added_at": "2025-04-11 04:00:34",
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "Something's Gonna Kill Me",
-        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "Something's Gonna Kill Me",
-      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
-    },
-    {
-      "added_at": "2025-04-11 04:00:34",
-      "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
@@ -503,18 +503,18 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "Something's Gonna Kill Me",
+        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+      "duration_ms": 183680,
+      "name": "Something's Gonna Kill Me",
+      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Homeboy",
+      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
+    },
+    {
+      "added_at": "2025-04-11 04:00:34",
+      "album": {
         "name": "Jackson Dean",
         "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 144173,
       "name": "Pray All The Way Home",
       "url": "https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF"
-    },
-    {
-      "added_at": "2025-04-11 04:00:34",
-      "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Homeboy",
-      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -887,18 +887,22 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "Trainwreck",
-        "url": "https://open.spotify.com/album/5ae3UYQnHYgWmlCJJJFCTN"
+        "name": "Whiskey Lullaby",
+        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
       },
       "artists": [
         {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+          "name": "Drew Jacobs",
+          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
+        },
+        {
+          "name": "Caitlynne Curtis",
+          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
         }
       ],
-      "duration_ms": 196736,
-      "name": "Trainwreck",
-      "url": "https://open.spotify.com/track/3O2ayZuGK2uqX8ubT2GVVW"
+      "duration_ms": 269594,
+      "name": "Whiskey Lullaby",
+      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -919,22 +923,18 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "Whiskey Lullaby",
-        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
+        "name": "Trainwreck",
+        "url": "https://open.spotify.com/album/5ae3UYQnHYgWmlCJJJFCTN"
       },
       "artists": [
         {
-          "name": "Drew Jacobs",
-          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
-        },
-        {
-          "name": "Caitlynne Curtis",
-          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
         }
       ],
-      "duration_ms": 269594,
-      "name": "Whiskey Lullaby",
-      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
+      "duration_ms": 196736,
+      "name": "Trainwreck",
+      "url": "https://open.spotify.com/track/3O2ayZuGK2uqX8ubT2GVVW"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
+        "name": "9 Lives (Black Cat)",
+        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 204628,
+      "name": "9 Lives (Black Cat)",
+      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+    },
+    {
+      "added_at": "2025-04-11 04:00:34",
+      "album": {
         "name": "Bruce County",
         "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 224693,
       "name": "Moonshines",
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
-    },
-    {
-      "added_at": "2025-04-11 04:00:34",
-      "album": {
-        "name": "Excuse the Mess",
-        "url": "https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ"
-      },
-      "artists": [
-        {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
-        }
-      ],
-      "duration_ms": 171819,
-      "name": "Excuse the Mess",
-      "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "9 Lives (Black Cat)",
-        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+        "name": "Excuse the Mess",
+        "url": "https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
         }
       ],
-      "duration_ms": 204628,
-      "name": "9 Lives (Black Cat)",
-      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+      "duration_ms": 171819,
+      "name": "Excuse the Mess",
+      "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
+        "name": "Lie to You",
+        "url": "https://open.spotify.com/album/6LoWEtyw51LNXFfDp3EnVV"
+      },
+      "artists": [
+        {
+          "name": "Sterling Elza",
+          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Lie to You",
+      "url": "https://open.spotify.com/track/6vuEHF2KMhRyBUiZuOPuCl"
+    },
+    {
+      "added_at": "2025-04-11 04:00:34",
+      "album": {
         "name": "The Better Me",
         "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
@@ -1559,26 +1575,6 @@
       "duration_ms": 198000,
       "name": "Learning As I Go",
       "url": "https://open.spotify.com/track/5BjSorudpG5f73ToFjJYeN"
-    },
-    {
-      "added_at": "2025-04-11 04:00:34",
-      "album": {
-        "name": "Brother (feat. Cody Jinks)",
-        "url": "https://open.spotify.com/album/4dzIoO8nMVH9JulFgr8Hnu"
-      },
-      "artists": [
-        {
-          "name": "Mark Morton",
-          "url": "https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF"
-        },
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 200780,
-      "name": "Brother (feat. Cody Jinks)",
-      "url": "https://open.spotify.com/track/1d2LBm2TtcInHUexN8v4tT"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -1631,18 +1627,22 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
-        "name": "World On Fire",
-        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
+        "name": "Brother (feat. Cody Jinks)",
+        "url": "https://open.spotify.com/album/4dzIoO8nMVH9JulFgr8Hnu"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Mark Morton",
+          "url": "https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF"
+        },
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 261269,
-      "name": "World On Fire",
-      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
+      "duration_ms": 200780,
+      "name": "Brother (feat. Cody Jinks)",
+      "url": "https://open.spotify.com/track/1d2LBm2TtcInHUexN8v4tT"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-04-11 04:00:34",
       "album": {
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
+    },
+    {
+      "added_at": "2025-04-11 04:00:34",
+      "album": {
         "name": "Come Get Your Memory",
         "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
       },
@@ -1675,26 +1691,6 @@
       "duration_ms": 171000,
       "name": "Come Get Your Memory",
       "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
-    },
-    {
-      "added_at": "2025-04-11 04:00:34",
-      "album": {
-        "name": "All of Your Stones",
-        "url": "https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 429488,
-      "name": "I Need You (feat. Ashley Monroe)",
-      "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"
     }
   ],
   "unique_name": "Country Rocks",

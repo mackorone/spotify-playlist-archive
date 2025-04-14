@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,598 songs - 4 day 0 hr 42 min
+1,599 songs - 4 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Can’t Get Over Myself \- feat\. Zuma.](https://open.spotify.com/track/2BQhm7S8FL2B1bdq0IlRKo) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Zuma.](https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5) | [Can’t Get Over Myself \(feat\. Zuma.\)](https://open.spotify.com/album/3R5j05cIiE1DmVu2DwYjai) | 3:20 | 2023-04-18 | 2023-05-10 |
 | [Carrion](https://open.spotify.com/track/51v4uvCuVT39JvgOsN9s7T) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [EP1 TSTST](https://open.spotify.com/album/4IeKAzgiVWHu82BIm2QktQ) | 5:07 | 2022-08-11 | 2022-08-26 |
 | [Carta de Obon](https://open.spotify.com/track/5p4BNZpmZ8ZLGN64zJgLwA) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Contact](https://open.spotify.com/album/3mVkAa9KXbNmpuofycXBBf) | 4:31 | 2024-01-23 | 2024-01-31 |
-| [Cat & Mouse](https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Cat & Mouse](https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO) | 3:22 | 2025-03-18 |  |
+| [Cat & Mouse](https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Cat & Mouse](https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO) | 3:22 | 2025-03-18 | 2025-04-14 |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-06-28 | 2022-07-29 |
 | [Catch The Miracle](https://open.spotify.com/track/0veerJcFJTSumChnxuLD0i) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Catch The Miracle](https://open.spotify.com/album/2jHtSMczXw6jiUfFL64Vjz) | 5:24 | 2023-08-31 | 2023-09-06 |
 | [CATCH UP](https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [DLEN](https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [CATCH UP](https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp) | 3:01 | 2024-02-20 | 2024-02-28 |
@@ -1562,6 +1562,7 @@
 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:37 | 2023-02-21 | 2023-04-05 |
 | [窓](https://open.spotify.com/track/1kSI2K7ziJRvqqv1pOwJC8) | [The World Will Tear Us Apart](https://open.spotify.com/artist/1GS838TTVSArwgjWcidfYV) | [窓/深呼吸](https://open.spotify.com/album/1ZI5gjnYMMz0wdbVMA1Ssb) | 4:26 | 2023-01-17 | 2023-01-25 |
 | [笑い話の夜 \- album ver.](https://open.spotify.com/track/2x953wBThParvOKoGF0XBR) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [笑い話の夜](https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY) | 4:40 | 2023-07-04 | 2023-08-04 |
+| [紫陽花](https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [紫陽花](https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY) | 3:51 | 2025-04-13 |  |
 | [続・New York City](https://open.spotify.com/track/0SEtY9Z4GWq9i0sNyIttFA) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [続・New York City](https://open.spotify.com/album/2YGIs4EQXhDL9R9D1lz3WZ) | 4:42 | 2022-10-04 | 2022-10-28 |
 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 | 2022-10-11 | 2023-01-18 |
 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2022-12-15 | 2023-06-07 |

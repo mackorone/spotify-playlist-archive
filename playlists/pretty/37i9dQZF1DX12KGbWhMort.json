@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 186870,
+  "num_followers": 186895,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 239426,
       "name": "Abr\u00e1zame Muy Fuerte",
       "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -303,18 +303,18 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+      "duration_ms": 248000,
+      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -335,22 +335,6 @@
       "duration_ms": 330000,
       "name": "Princesa M\u00e1gica",
       "url": "https://open.spotify.com/track/4sev2aiinAmDue7Lur6PZ9"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -383,6 +367,22 @@
       "duration_ms": 289866,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
-        "name": "Laura Pausini - Spanish Version",
-        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Se fu\u00e9",
-      "url": "https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+        "name": "Laura Pausini - Spanish Version",
+        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 281226,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
+      "duration_ms": 280666,
+      "name": "Se fu\u00e9",
+      "url": "https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -619,6 +603,22 @@
       "duration_ms": 256440,
       "name": "Inmortal",
       "url": "https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281226,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3aoVX17mIukbwctlbu99zk"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/1mkZZjz0X8YexDWXlx7zmX"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
         "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
         "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 310866,
       "name": "Sin miedo a nada (feat. Amaia Montero)",
       "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3aoVX17mIukbwctlbu99zk"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/1mkZZjz0X8YexDWXlx7zmX"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 191209,
+      "name": "Carita de Inocente",
+      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
         "name": "Ida y Vuelta",
         "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 214720,
       "name": "Aunque Ahora Est\u00e9s Con El",
       "url": "https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "Buen Viaje",
-        "url": "https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Lerner",
-          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/3QEWvj2NI5ybtUAVnwzmzF"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -955,18 +955,18 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+        "name": "Buen Viaje",
+        "url": "https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
         }
       ],
-      "duration_ms": 191209,
-      "name": "Carita de Inocente",
-      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+      "duration_ms": 252840,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/3QEWvj2NI5ybtUAVnwzmzF"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/59f765mlM08j2POCl3zPvd"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 291040,
       "name": "Entre La Tierra Y El Cielo",
       "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "Tu Mano",
-        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/59f765mlM08j2POCl3zPvd"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
         "name": "Independiente + Demos",
         "url": "https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 246677,
       "name": "Besos a la Lona",
       "url": "https://open.spotify.com/track/0p9zxloVaytLMbORCBMfwO"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "Tu Mano",
-        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Ser\u00e9",
-      "url": "https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -1419,6 +1419,22 @@
       "duration_ms": 240653,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/63I0BWAZ6HxEoiR18ZEmAn"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
+        "name": "QUE SED",
+        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 152117,
+      "name": "JURO QUE ME DOLIO",
+      "url": "https://open.spotify.com/track/79m3yH0VRc0dSrqg8lXot3"
     },
     {
       "added_at": "2025-04-11 03:00:07",
@@ -1499,22 +1515,6 @@
       "duration_ms": 199866,
       "name": "He Venido Por Ti",
       "url": "https://open.spotify.com/track/0BzpzUw1akFAoEUzTLGoQ0"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "QUE SED",
-        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 152117,
-      "name": "JURO QUE ME DOLIO",
-      "url": "https://open.spotify.com/track/79m3yH0VRc0dSrqg8lXot3"
     },
     {
       "added_at": "2025-04-11 03:00:07",

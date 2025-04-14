@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 235156,
+  "num_followers": 235224,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Break My Love",
-        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Break My Love",
-      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 211278,
       "name": "Places",
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -663,6 +663,30 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 227117,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
       },
@@ -687,26 +711,22 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp"
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
       },
       "artists": [
         {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 227117,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI"
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -743,6 +763,26 @@
       "duration_ms": 435000,
       "name": "Quezacotl",
       "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -787,62 +827,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 222092,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Throwing Stones",
-        "url": "https://open.spotify.com/album/1oqD3HkCzU48MmKANuFb6c"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 219678,
-      "name": "Throwing Stones",
-      "url": "https://open.spotify.com/track/1IWIcqxOyoCDnzRHKTc1F5"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/1K6suHCZSSwuZucm6H8ypP"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Throwing Stones",
+        "url": "https://open.spotify.com/album/1oqD3HkCzU48MmKANuFb6c"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 219678,
+      "name": "Throwing Stones",
+      "url": "https://open.spotify.com/track/1IWIcqxOyoCDnzRHKTc1F5"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "Endlessly",
         "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 217377,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -907,18 +923,18 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         }
       ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+      "duration_ms": 229188,
+      "name": "Martin",
+      "url": "https://open.spotify.com/track/6o9cf8uFietnTZLtSGCvHH"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -943,38 +959,6 @@
       "duration_ms": 203760,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 229188,
-      "name": "Martin",
-      "url": "https://open.spotify.com/track/6o9cf8uFietnTZLtSGCvHH"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 337258,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1015,6 +999,22 @@
       "duration_ms": 268000,
       "name": "Sunrise To The Morning",
       "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 337258,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1107,46 +1107,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 361080,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
@@ -1167,18 +1127,22 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Only I",
-        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
       "artists": [
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 228028,
-      "name": "Only I",
-      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
+      "duration_ms": 361080,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1199,6 +1163,42 @@
       "duration_ms": 213000,
       "name": "More than you could give",
       "url": "https://open.spotify.com/track/5fbbmByDHyc65qietqLMvZ"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Only I",
+        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 228028,
+      "name": "Only I",
+      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2025-04-03 23:00:32",

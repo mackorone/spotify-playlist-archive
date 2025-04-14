@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Lana Del Rey \(Cover\), Luciano, Anne\-Marie, und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,988 likes - 92 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,998 likes - 92 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

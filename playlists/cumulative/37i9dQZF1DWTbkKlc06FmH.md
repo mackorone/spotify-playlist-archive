@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-998 songs - 2 day 11 hr 2 min
+999 songs - 2 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-12 |  |
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-03-21 |  |
 | [burning man](https://open.spotify.com/track/5H47xnpkJJ7GoWCwWqgdwh) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [burning man](https://open.spotify.com/album/22HED6m34EsVktB1gImPoS) | 2:40 | 2023-04-20 | 2023-05-10 |
-| [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 | 2025-03-11 |  |
+| [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 | 2025-03-11 | 2025-04-14 |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-06-04 | 2024-07-03 |
 | [Call It \(feat\. Eddie Chacon\)](https://open.spotify.com/track/2Dw6yvvZEStwyr5xPnudaJ) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Call It \(feat\. Eddie Chacon\)](https://open.spotify.com/album/1TMSyOYQglfAuZqzL3B3JQ) | 4:00 | 2024-05-08 | 2024-06-05 |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2022-12-21 |
@@ -783,6 +783,7 @@
 | [Them Changes](https://open.spotify.com/track/4a3k8LyQje1ZY1Rtgv5YlU) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Brainfeeder X](https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4) | 3:08 | 2022-11-10 | 2022-11-13 |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2022-11-08 | 2024-02-09 |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-20 | 2023-02-24 |
+| [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-13 |  |
 | [Think Twice](https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [Think Twice](https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu) | 3:12 | 2024-01-16 | 2024-06-05 |
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 | 2022-10-20 | 2024-04-19 |
 | [This Conversation](https://open.spotify.com/track/2ygafa90f0JvCNhV9vihZI) | [Body of Light](https://open.spotify.com/artist/4PR7TsQ2ZXxE9KaZ7NLSou) | [This Conversation](https://open.spotify.com/album/61NDFeLLqDQKjSLp8KnXZ4) | 2:47 | 2023-04-18 | 2023-05-10 |

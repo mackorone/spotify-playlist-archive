@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 584360,
+  "num_followers": 584420,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAAA8uaT3j4ZHJ+i421e3Ltvh",
+  "snapshot_id": "Z/mtAAAAAAAHuu497fd7V53ZpusakD92",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 390866,
-      "name": "Freedom! '90 - Remastered",
-      "url": "https://open.spotify.com/track/1wZ7o1mZysv1l26ZWawVfW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 346813,
       "name": "Don't Let the Sun Go Down on Me",
       "url": "https://open.spotify.com/track/7xGOvQukPKKQVLiJOPSmt0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 390866,
+      "name": "Freedom! '90 - Remastered",
+      "url": "https://open.spotify.com/track/1wZ7o1mZysv1l26ZWawVfW"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 557293,
-      "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
-      "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symphonica (Deluxe Version)",
         "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 230508,
       "name": "Let Her Down Easy - Live",
       "url": "https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 557293,
+      "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
+      "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits III",
-        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 307360,
-      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
-      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 245533,
       "name": "If I Told You That (feat. George Michael) - Radio Edit",
       "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits III",
+        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 307360,
+      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
+      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
     },
     {
       "added_at": null,

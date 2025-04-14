@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Una celebración al fuego, el ritmo y la tierra 🔥 ¡Nos vemos en Tequila, Jalisco el 3 de Mayo! <a href="https://www.akamba.mx/"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,782 likes - 20 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,779 likes - 20 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 7 | [Abu Simbel](https://open.spotify.com/track/1Y3yJHrBkkfj3GZKv1MVhF) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Abu Simbel](https://open.spotify.com/album/3HVXzuVnuaWJyflpsF8MWj) | 3:46 |
 | 8 | [Pushing On \- Radio Edit](https://open.spotify.com/track/2xO5HHSZq0LwWRNqtDKhFo) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Pushing On \(Radio Edit\)](https://open.spotify.com/album/5K1QlVp1ZuvLCsoqasWUHm) | 2:43 |
 | 9 | [Mori Shej](https://open.spotify.com/track/6xP9DPvBHvyNGlARsRs0Vg) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Peia](https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2) | [Mori Shej](https://open.spotify.com/album/1poZEQjEYpOq7YZ1KUHHGu) | 4:34 |
-| 10 | [So U Kno](https://open.spotify.com/track/1YGxSgWIWqxKuLLocPVxhC) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:43 |
-| 11 | [Titatite \- Radio Edit](https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Titatite](https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ) | 2:41 |
+| 10 | [Titatite \- Radio Edit](https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Titatite](https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ) | 2:41 |
+| 11 | [So U Kno](https://open.spotify.com/track/1YGxSgWIWqxKuLLocPVxhC) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:43 |
 | 12 | [Do My Thing \- Dixon Rework](https://open.spotify.com/track/4taJ42xa2t0EmWsrHcZNiz) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Do My Thing \(Dixon Rework\)](https://open.spotify.com/album/0f3ZiEntOHX7P6W790ukxe) | 3:17 |
 | 13 | [Never Alone \(ft\. Dix\_On The Phone\)](https://open.spotify.com/track/3nvbuSK7WPDwpyXNAv5sYO) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 4:08 |
 | 14 | [Hercules Theme](https://open.spotify.com/track/5Y6j5OOV7RxICBWhPvc5Ju) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/6LPZgo0gjHTMmOwzMSUqAV) | 4:28 |

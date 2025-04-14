@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Smerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,797 likes - 113 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,798 likes - 113 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 76 | [There's No Rush](https://open.spotify.com/track/6MWkEW76cWg525TFAnMJN5) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [There's No Rush](https://open.spotify.com/album/2nNUB55npuDmGdPTost3t8) | 5:01 |
 | 77 | [No Front Teeth](https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [No Front Teeth](https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI) | 4:46 |
 | 78 | [Another You](https://open.spotify.com/track/4nAvG5BhF7UagtZ7fbN7aE) | [Jerome Blazé](https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e), [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI) | [Another You](https://open.spotify.com/album/7stbpDUCuxiJON5WVrmk8b) | 4:05 |
-| 79 | [Day by Day](https://open.spotify.com/track/5x7G2cvGdmx0zO5fbXtT8D) | [Bananagun \(Aus\)](https://open.spotify.com/artist/6Kvjj9yVAlBIHnDMbNnnQd) | [Day by Day](https://open.spotify.com/album/36LwgzhRl0BToC9aNS6Qsr) | 2:10 |
+| 79 | [Day by Day](https://open.spotify.com/track/5x7G2cvGdmx0zO5fbXtT8D) | [Bananagun \(Aus\)](https://open.spotify.com/artist/2bgMCMbcjoMXemFtGbPPeh) | [Day by Day](https://open.spotify.com/album/36LwgzhRl0BToC9aNS6Qsr) | 2:10 |
 | 80 | [The Big Man Upstairs \- PD Remix](https://open.spotify.com/track/5zCW0c40imT6QQMeBTSApE) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Big Man Upstairs \(PD Remix\)](https://open.spotify.com/album/0NNEw6bsx9pVmGJgCgIUs9) | 3:24 |
 | 81 | [Playing Cards](https://open.spotify.com/track/1qGbBVMcseKGiTkTb3qwKF) | [Vanilla Cola Club](https://open.spotify.com/artist/3Bw1LP9QAOflha7WYRNx3e) | [Playing Cards](https://open.spotify.com/album/6HyQoqntOHEONJCrGm9RXn) | 4:02 |
 | 82 | [Do You Really](https://open.spotify.com/track/2S6eoz1sJ4Yfn7gmLFRMjq) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [Do You Really](https://open.spotify.com/album/6iMmTxoGj3rbSFabTwZCr9) | 2:33 |

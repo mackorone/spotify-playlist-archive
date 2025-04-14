@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-527 songs - 1 day 6 hr 7 min
+530 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alagoas](https://open.spotify.com/track/0eXS5ijxTdz78D630arGBJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/72O5JvUfLI71iSMqaOdNAY) | 3:50 | 2024-07-12 | 2024-09-08 |
 | [Alalaké](https://open.spotify.com/track/4GdTt8CIuuj5Ya7V0wStxX) | [Bembeya Jazz National](https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3) | [Guinée an XI \- Le rendez\-vous annuel des grands](https://open.spotify.com/album/2OJ65rj90aCDM5A2S4xmco) | 4:05 | 2025-04-02 |  |
 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 | 2024-02-20 | 2024-03-10 |
+| [All Day Long](https://open.spotify.com/track/7dAuc6UOo9aMhT6A6n2iXg) | [Shop Assistants](https://open.spotify.com/artist/3uHLyTtYMnhAWxfPy6VjNm) | [Will Anything Happen](https://open.spotify.com/album/6wtQQXsd3wIKyGhwIfGpE9) | 1:50 | 2025-04-13 |  |
 | [All I Want for Now](https://open.spotify.com/track/78xtCgOIMJxAsW2HCz5Oh3) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dizzy Strange Summer](https://open.spotify.com/album/2Zkl4c8OsEeJWEKyCeKQCv) | 2:48 | 2024-01-24 | 2024-03-10 |
 | [All the Same](https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc) | [Jessamine](https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG) | [The Long Arm of Coincidence](https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ) | 6:39 | 2024-11-25 | 2025-01-12 |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2024-01-13 | 2024-03-10 |
@@ -99,6 +100,7 @@
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-10-10 | 2024-11-14 |
 | [Crushing](https://open.spotify.com/track/0qS8CNO9bZlCJoGk6jyGXo) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/2WwcPCIKcAoVlYmIKjd8PO) | 3:51 | 2025-01-18 | 2025-03-02 |
 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 | 2025-03-01 |  |
+| [Dark Shirt](https://open.spotify.com/track/2FU34BCqCh93uP1XQYNtoq) | [Joshua Chuquimia Crampton](https://open.spotify.com/artist/4vV7A3OS088S8Ps2NtTcRO) | [Profundo Amor](https://open.spotify.com/album/0kcRYlSmu6DV3nIjFsYfTl) | 4:39 | 2025-04-13 |  |
 | [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 | 2024-05-20 | 2024-05-25 |
 | [Day Out](https://open.spotify.com/track/47aR6Tg46yUtzc8N9QsRfI) | [Spresso](https://open.spotify.com/artist/1dsIiWajz8hxv8BVeqGWkw), [Alpha Maid](https://open.spotify.com/artist/6Rjl3uxMWyxlvDo6FnT6kW), [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Rockstars](https://open.spotify.com/album/7MqHeNymT801sFiL6dm8Z6) | 1:36 | 2024-08-12 | 2024-09-08 |
 | [Days Incomplete](https://open.spotify.com/track/4kWa3YO4waI2Iz69peM7gx) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Days Incomplete](https://open.spotify.com/album/4eG5JklQFLR4PPSVzfcb4d) | 3:39 | 2024-05-16 | 2024-07-12 |
@@ -330,6 +332,7 @@
 | [nerds](https://open.spotify.com/track/1xbYxwk8eexZgTABS6zuzM) | [Yorck Street](https://open.spotify.com/artist/2mQRyEpdhQxiykFmC74TSB) | [Yorck Street](https://open.spotify.com/album/4NWSdRujBcr2IYiBOsKNdD) | 0:40 | 2025-04-12 |  |
 | [Neverland](https://open.spotify.com/track/2pmf8TGCLVBHioGVYiE0WY) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 3:11 | 2025-04-09 |  |
 | [New Joy](https://open.spotify.com/track/7wriad6oBytAE04VvbKuno) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 3:16 | 2024-04-25 | 2024-05-16 |
+| [New Power](https://open.spotify.com/track/4jss2X2iCZjOU7zAUjc3zW) | [Cindy](https://open.spotify.com/artist/3vUqg3VWCLmEA1es1T4nGn) | [I'm Cindy](https://open.spotify.com/album/3obhwQ6jhn7Yy3ZGL6jwYt) | 3:16 | 2025-04-13 |  |
 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 | 2025-02-10 | 2025-03-02 |
 | [No Ideology](https://open.spotify.com/track/09CnarDkzHTMaxk2CEBr8k) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM), [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [This Weather](https://open.spotify.com/album/3lD6HDsjczWFXeQzUYCqQt) | 3:49 | 2024-12-10 | 2025-01-12 |
 | [No Reply at All \- 2007 Remaster](https://open.spotify.com/track/0aeUuMypcIbr5y2oQUKyBV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:33 | 2024-04-13 | 2024-05-16 |

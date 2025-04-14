@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 15441,
+  "num_followers": 15443,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240217,
+      "name": "4pm in Calabasas",
+      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 350640,
       "name": "The Birds Pt. 2",
       "url": "https://open.spotify.com/track/51LmI5GE3tHKISLNZMjDPC"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 329133,
-      "name": "Jezebel",
-      "url": "https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 240217,
-      "name": "4pm in Calabasas",
-      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
+      "duration_ms": 329133,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "THE NEWS",
+        "url": "https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Born 2 Rap",
         "url": "https://open.spotify.com/album/5MDmKDe9kmJBsf8yYn8dUM"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 314262,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4CUoTkHeYj5RYxWbH44EK0"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "THE NEWS",
-        "url": "https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C"
     },
     {
       "added_at": "2022-10-01 16:57:49",

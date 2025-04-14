@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 685888,
+  "num_followers": 685863,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 331266,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Run to the Hills - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
         "name": "Garage Inc.",
         "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "The Number of the Beast (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Run to the Hills - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "City of Evil",
         "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Fuel",
-      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 265560,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
+        "name": "Below The Belt",
+        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "duration_ms": 222214,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
         "name": "Talk To Me (feat. Lzzy Hale)",
         "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
-        "name": "Below The Belt",
-        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
-      },
-      "artists": [
-        {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Had Enough",
-      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Born To Be Wild",
-      "url": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "We Are The Royal",
         "url": "https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 154293,
       "name": "Tommy-Gun",
       "url": "https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Born To Be Wild",
+      "url": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Look Alive",
         "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 225053,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "added_at": "2024-11-12 16:18:09",

@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-352 songs - 1 day 0 hr 21 min
+353 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [ignited \-イグナイテッド\-](https://open.spotify.com/track/3PLKngOPCO0D40dJdefwRQ) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [vertical infinity](https://open.spotify.com/album/2jI5qiLWmetKrWEd25nxBu) | 3:11 | 2022-07-27 | 2024-04-19 |
 | [ignited \-イグナイテッド\-](https://open.spotify.com/track/67qVpiwvi82qlTG2y9goGb) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [vertical infinity](https://open.spotify.com/album/64CI52k0ELD3r7Nj8PBHQe) | 3:11 | 2022-07-27 | 2022-07-29 |
 | [ignited \-イグナイテッド\-](https://open.spotify.com/track/5ody4fV5urprV4ZRU6wGVC) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [1000000000000](https://open.spotify.com/album/4YSUF18ShAYt1ltHyWj3Y9) | 3:16 | 2024-01-27 |  |
+| [Into Infinity \- Gundam Pavilion Theme](https://open.spotify.com/track/2PhJ7bYuBdMpZfvImLgKAv) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | ["GUNDAM: Next Universal Century" Original Motion Picture Soundtrack](https://open.spotify.com/album/5JlBkE5vrTPVU1GQ65S65X) | 4:44 | 2025-04-10 |  |
 | [Into the Sky](https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 3:51 | 2022-10-01 | 2024-04-19 |
 | [Into the Sky](https://open.spotify.com/track/7rZ5VNIFZo8nC8XSSCvv7K) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 3:51 | 2022-07-27 | 2022-11-13 |
 | [Into the Sky](https://open.spotify.com/track/44KVXVZQMWUDkEjkm3jJDC) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 3:49 | 2022-07-27 |  |

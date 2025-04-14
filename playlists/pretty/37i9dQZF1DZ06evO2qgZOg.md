@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,306 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,358 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 49 | [You Get Me High](https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:17 |
 | 50 | [American Horse \(feat\. John Cooper of Skillet and Ayron Jones\)](https://open.spotify.com/track/30Qr90fqL0EvHCqc0pJz7H) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug), [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z), [John Cooper](https://open.spotify.com/artist/6F6yFWTDuaw4cZTjmHxdY8), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [American Horse \(feat\. John Cooper of Skillet and Ayron Jones\)](https://open.spotify.com/album/4XSZtfqgfpWiqmfEc7lOtE) | 3:43 |
 
-Snapshot ID: `Z/hbgAAAAACD8gCfpBcqFQ4ecwsNNfMF`
+Snapshot ID: `Z/mtAAAAAAAXp8gfL2JbhlZZOqFPTKFt`

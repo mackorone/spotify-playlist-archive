@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,897 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,955 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Al Harbein](https://open.spotify.com/track/6Ot3W2qlxch3yje4gl10Of) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Al Harbein](https://open.spotify.com/album/3V5nwOj4A4NuuMFJ9p8spI) | 3:07 |
 | 2 | [Ya Sidi Ensa](https://open.spotify.com/track/70bsA9PpuP5DTq1OcL01h6) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Sidi Ensa](https://open.spotify.com/album/44gSXHC6qBhAjPECo8oCbW) | 3:32 |
-| 3 | [Dwali](https://open.spotify.com/track/0FTatqMMiIIYA1b5tds3Fc) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Dwali](https://open.spotify.com/album/4qOcCHQTWnVXYxdaltr0K9) | 2:54 |
-| 4 | [Reef Al Ain](https://open.spotify.com/track/4XJLSMhfdZF5l8dltDLDFM) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Reef Al Ain](https://open.spotify.com/album/7uKsNJCZhfdoWkyTzQhVeR) | 3:25 |
-| 5 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
+| 3 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
+| 4 | [Dwali](https://open.spotify.com/track/0FTatqMMiIIYA1b5tds3Fc) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Dwali](https://open.spotify.com/album/4qOcCHQTWnVXYxdaltr0K9) | 2:54 |
+| 5 | [Reef Al Ain](https://open.spotify.com/track/4XJLSMhfdZF5l8dltDLDFM) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Reef Al Ain](https://open.spotify.com/album/7uKsNJCZhfdoWkyTzQhVeR) | 3:25 |
 | 6 | [Ghassa](https://open.spotify.com/track/3NgAMwYFwomQ1HIR36ZzXU) | [Antoine Massaad](https://open.spotify.com/artist/7boKi7t7z9sUCMBPulT3yy) | [Ghassa](https://open.spotify.com/album/7eZDhS8lvxUaZA7EEmCSxe) | 3:29 |
 | 7 | [إعصار](https://open.spotify.com/track/3onmHEWXtxQsmDPuNdt5Nu) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [إعصار](https://open.spotify.com/album/3dgU4LqWdVsBoxFppyo7mc) | 2:59 |
 | 8 | [وش السعد](https://open.spotify.com/track/16rdnG9GfJEy2MOFRbOin7) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [وش السعد](https://open.spotify.com/album/0DRCFcvHAFO6zysgR4vtJp) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 49 | [سمرة وصغيرة](https://open.spotify.com/track/5NQOrWxcIL2Xh9I1SDoRmy) | [Mahfoud Almaher](https://open.spotify.com/artist/6Hc6rbR7BcGj4qxnBrfWd3) | [سمرة وصغيرة](https://open.spotify.com/album/0oLeiK4TOJ93hWGFxSrOhZ) | 3:19 |
 | 50 | [Aal Morra](https://open.spotify.com/track/6DbC4WjeVh5SHo2l86eyis) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [Aal Morra](https://open.spotify.com/album/2hfjuBJXE3NJgiHBKdXYiz) | 3:05 |
 
-Snapshot ID: `Z+u/FQAAAADxJLFF/8s7qL7CjDHcn155`
+Snapshot ID: `Z/vlbgAAAACeF5n1bA8e2sV9nyzBANzZ`

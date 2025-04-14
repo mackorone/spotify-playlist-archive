@@ -4,7 +4,7 @@
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-508 songs - 1 day 17 hr 56 min
+509 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Hammer No More](https://open.spotify.com/track/0FgyfQXiMO6JEO81x3Zyl5) | [Chronos](https://open.spotify.com/artist/7gl6UujcSreAjSrbYeQHtx) | [Downpour](https://open.spotify.com/album/1qtR7u9Q2LZW2jKuzJ4nOr) | 5:08 | 2022-04-02 | 2022-07-27 |
 | [Happy Day](https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Holding Nothing Back](https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz) | 3:23 | 2022-04-02 | 2022-11-13 |
 | [He Is Alive](https://open.spotify.com/track/1vHPJ28cxBU4N2AowlNxhQ) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:32 | 2021-04-04 |  |
-| [He Is Risen](https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [The Blood + the Breath: Songs That Tell the Story of Redemption](https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON) | 3:32 | 2021-04-04 |  |
+| [He Is Risen](https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [The Blood + the Breath: Songs That Tell the Story of Redemption](https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON) | 3:32 | 2021-04-04 | 2025-04-14 |
 | [He Lives](https://open.spotify.com/track/45bFl67prA7LMOld5TZiAr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:04 | 2022-04-02 | 2022-04-21 |
 | [He Lives](https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Adam Agee](https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl) | [He Lives](https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi) | 4:46 | 2023-04-02 | 2023-05-19 |
 | [He Lives](https://open.spotify.com/track/1Dqh9zfjOQ3cpVIIqiIWCO) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [FLAME](https://open.spotify.com/artist/2s6kyMmJZFgPCHXU0QxJLp), [Jai](https://open.spotify.com/artist/3uHnfXxUrnPq1XYw8t8Sz2) | [Blacklight](https://open.spotify.com/album/1vpWTofvoOJDwfnD1zcsGB) | 4:44 | 2022-04-02 | 2022-04-16 |
@@ -204,6 +204,7 @@
 | [High & Lowly](https://open.spotify.com/track/3JJ0ir0D41tww1n28pBWEV) | [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [A Better Word](https://open.spotify.com/album/2SHolEGtQ0budBudf8LYaZ) | 5:01 | 2021-04-04 | 2024-04-24 |
 | [His Tomb Is Empty Now](https://open.spotify.com/track/4Sx1vVgoMaRPzxTJWtfJFh) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [Moxie and Mettle](https://open.spotify.com/album/1kyZS7aXOPfpWbhpv4vRJy) | 2:38 | 2022-04-02 | 2022-07-23 |
 | [Holy Ground \- Live](https://open.spotify.com/track/2Z0A7W013G7P0byg4GNtse) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 5:28 | 2022-04-02 | 2025-04-12 |
+| [Holy Jesus](https://open.spotify.com/track/1NcL8hR3dfpDyUwNqQLbY8) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Mariah McManus Goss](https://open.spotify.com/artist/4NFdgVfqbDIAzHDhQKB6In) | [Holy Jesus](https://open.spotify.com/album/2XzkenTIwnHipgyRC61WQ2) | 7:28 | 2025-04-11 |  |
 | [Holy Spirit](https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 5:02 | 2021-04-04 |  |
 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 | 2021-04-04 | 2023-04-03 |
 | [Hope Is Alive](https://open.spotify.com/track/0dlCOZVKLcwKXuSoZpeaO1) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:31 | 2021-04-04 | 2022-07-21 |

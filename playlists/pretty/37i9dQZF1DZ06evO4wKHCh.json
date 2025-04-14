@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 10685,
+  "num_followers": 10689,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAABsiWE1Qfy3OIPJLbo056oY",
+  "snapshot_id": "Z/mtAAAAAACha1SDDqAmmS0tm8+e7xou",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140937,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 LIVES",
         "url": "https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 182255,
       "name": "9 LIVES",
       "url": "https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 140937,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ"
     },
     {
       "added_at": null,

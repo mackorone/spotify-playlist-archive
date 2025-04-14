@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=uopfwQtKTRGjixXko63lnA"> احمد سعد </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc?si=k0R\_oCB8Sa\-mJCoQvYz2Jw"> رامي صبري </a>
 
-364 songs - 21 hr 13 min
+365 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,9 +234,10 @@
 | [Ya Layaly](https://open.spotify.com/track/7ygixJ8FptOv80Ot2KadAN) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Ana Kteer](https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT) | 4:59 | 2023-03-16 | 2024-02-17 |
 | [Ya Rab Tkoon Be Khair](https://open.spotify.com/track/7BHkU54RSmqhtd8TNKRKx6) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Rab Tkoon Be Khair](https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV) | 3:05 | 2023-01-03 | 2023-02-08 |
 | [Ya Salam \- Remix](https://open.spotify.com/track/7kFcz3xHq7hsOrfQWkipvP) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Ya Salam \(Remix\)](https://open.spotify.com/album/3hmV8luknujbOif3arzW4J) | 4:13 | 2022-04-13 | 2022-10-11 |
-| [Yaah](https://open.spotify.com/track/70dKMd8vTYyNZ0UBbtrT00) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/1kOTpVpceIIpzMSoHgTOK9) | 4:10 | 2024-12-26 |  |
+| [Yaah](https://open.spotify.com/track/70dKMd8vTYyNZ0UBbtrT00) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/1kOTpVpceIIpzMSoHgTOK9) | 4:10 | 2024-12-26 | 2025-04-14 |
 | [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 | 2023-09-01 | 2023-09-06 |
 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-09-01 | 2024-09-10 |
+| [Youm Ma Tensa](https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 3:54 | 2025-04-13 |  |
 | [Zay El Ganna](https://open.spotify.com/track/6AVEglzXRfBsRag62s9JGn) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [Zay El Ganna](https://open.spotify.com/album/3f7aSZmg3DNCFwsnDiKVr7) | 3:20 | 2024-07-08 | 2024-09-10 |
 | [Zee3](https://open.spotify.com/track/5CTXFh5o4qpiXZeM1jxTBk) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:41 | 2022-10-24 | 2023-01-03 |
 | [أنا بابا](https://open.spotify.com/track/5PPphP4W68g1VWhghpGK0U) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [أنا بابا](https://open.spotify.com/album/368APOrzIAWbdIJo3YkiVS) | 3:10 | 2024-09-09 |  |

@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-906 songs - 2 day 5 hr 44 min
+907 songs - 2 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 | 2021-06-25 | 2022-04-11 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2024-01-02 | 2024-05-07 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-10-04 | 2025-03-13 |
+| [Magic Number \(魔法数字\)](https://open.spotify.com/track/6pB4kJ4eRa0sJMUtplqekk) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Wah!!!](https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv) | 3:51 | 2025-04-04 |  |
 | [Malibu](https://open.spotify.com/track/6AtujsUSK8GjPQFvxndsqd) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Malibu](https://open.spotify.com/album/0l2kwAGmItOlj5N1qyULip) | 2:13 | 2021-11-19 | 2022-04-21 |
 | [Maps](https://open.spotify.com/track/4EwNG7uCvLEm5a6KgerCHf) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Explicit Version\)](https://open.spotify.com/album/23YpPKzhIwTKxe3xnc1dbz) | 3:39 | 2021-03-15 | 2022-04-19 |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2022-07-25 | 2022-10-14 |
@@ -543,7 +544,7 @@
 | [Monster](https://open.spotify.com/track/3wv0Ht6hXfj4zYdWctVnp1) | [ALASKALASKA](https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ) | [Monster](https://open.spotify.com/album/0gMJKnDtsImn2K0AmTsDO8) | 3:53 | 2021-03-16 | 2022-04-17 |
 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 | 2023-09-15 | 2024-06-01 |
 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-09-15 | 2024-06-01 |
-| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-12-12 |  |
+| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-12-12 | 2025-04-14 |
 | [Mother Medicine](https://open.spotify.com/track/7Ck0oGr0jPQyndsFOI2YqL) | [Claire Brooks](https://open.spotify.com/artist/1MoEDGaAMr0yXNhJkhAshB) | [Mother Medicine](https://open.spotify.com/album/44ninZxaQGnDuiyOaWRQjz) | 3:20 | 2025-03-28 |  |
 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 | 2022-11-10 | 2022-11-13 |
 | [Motion Sickness](https://open.spotify.com/track/4jKuJqfWmoMEfY2bk5gOeW) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Motion Sickness](https://open.spotify.com/album/1nua8dbyLXPy9i63Wm1vRt) | 3:49 | 2020-10-16 | 2022-07-29 |

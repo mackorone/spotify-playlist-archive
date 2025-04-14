@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Marilina Bertoldi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,050 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,076 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 77 | [Buena Vida](https://open.spotify.com/track/0m4uBVdlN7w7UF3EUwl5p1) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Buena Vida](https://open.spotify.com/album/0xp6ySI30uaOndjR1oX4qx) | 2:18 |
 | 78 | [La Rueda Mágica \- EADDA9223 \(feat\. Andrés Calamaro & Conociendo Rusia\)](https://open.spotify.com/track/050rSCLSxQfqh0M9y9dID7) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:08 |
 | 79 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 |
-| 80 | [Lío](https://open.spotify.com/track/0vCeL7Xa9lySZYp3zDjRCe) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Lío](https://open.spotify.com/album/2yfqV5BPJGdxEsHqKUwRNo) | 2:12 |
+| 80 | [LÍO](https://open.spotify.com/track/0vCeL7Xa9lySZYp3zDjRCe) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [LÍO](https://open.spotify.com/album/2yfqV5BPJGdxEsHqKUwRNo) | 2:12 |
 | 81 | [La Paz de los Cementerios](https://open.spotify.com/track/3iF3tNpKgXAckADAGaOoJx) | [Benito Cerati](https://open.spotify.com/artist/13QnAhCICgwMtr6HPWoRbH), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [La Paz de los Cementerios](https://open.spotify.com/album/21sG7MxHui4jYSPay7cZS8) | 3:28 |
 | 82 | [Volver a casa](https://open.spotify.com/track/05195FLjI1KmJDB8MxHU1U) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir), [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Volver a casa](https://open.spotify.com/album/55SkNTTfJRbCtnFTKvDMMd) | 3:51 |
 | 83 | [Libertad es presión](https://open.spotify.com/track/1h0eBZEshg04SI0NxrYzxl) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Libertad es presión](https://open.spotify.com/album/0OI4jt9SzJwh43TrUEiX9m) | 3:34 |

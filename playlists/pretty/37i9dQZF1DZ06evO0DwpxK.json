@@ -1,12 +1,12 @@
 {
   "description": "This is HUMBE. The essential tracks, all in one playlist.",
-  "num_followers": 251622,
+  "num_followers": 251707,
   "original_name": "This Is HUMBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAAD7bIcKoy+yxJd50aCEpFFa",
+  "snapshot_id": "Z/mtAAAAAAAtk8Z+PPbR4fEGYedLqW96",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 227428,
-      "name": "TINTO DE VERANO",
-      "url": "https://open.spotify.com/track/1yf4iiJDoxC0il1ymYNWue"
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/1RKIZ8ItW0muYnz2vTcC4M"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 241038,
-      "name": "bien hecho",
-      "url": "https://open.spotify.com/track/1RKIZ8ItW0muYnz2vTcC4M"
+      "duration_ms": 227428,
+      "name": "TINTO DE VERANO",
+      "url": "https://open.spotify.com/track/1yf4iiJDoxC0il1ymYNWue"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
       "duration_ms": 228973,
       "name": "Para Olvidarte",
       "url": "https://open.spotify.com/track/6TS89XsZ9TXdRfESrUurbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Vida, Y Ya",
-        "url": "https://open.spotify.com/album/4rxU2TZelNYNHYN59cMI10"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Una Vida, Y Ya",
-      "url": "https://open.spotify.com/track/5v1LLkuUTtm9Hy6btIPXXn"
     }
   ],
   "unique_name": "This Is HUMBE",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,179,221 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,179,354 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 15 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |
 | 16 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 17 | [FUNK UNIVERSO](https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [FUNK UNIVERSO](https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw) | 2:07 |
-| 18 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
-| 19 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 |
+| 18 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 |
+| 19 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 20 | [AVANGARD](https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc) | 2:36 |
 | 21 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
 | 22 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 94 | [Hallelujah](https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Hallelujah](https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd) | 3:09 |
 | 95 | [Baller \(feat\. So\-ma, Karyuu & Barney Soon\)](https://open.spotify.com/track/5hhwoBsZHsDxv2umK0d9Y0) | [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA), [So\-Ma](https://open.spotify.com/artist/6pSazeJX4l2oEaI0Ws70Fh), [Karyuu](https://open.spotify.com/artist/3uqDkh9EZU2GDSjvzdP0Yk), [Barney Soon](https://open.spotify.com/artist/3qATkFNgYtCJTmFzKrsm7T) | [SESSION\_02](https://open.spotify.com/album/6ljtPok6A0Ca5z4w3UoGtY) | 2:44 |
 | 96 | [Torch](https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [Torch](https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX) | 2:53 |
-| 97 | [Open Your Eyes](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Open Your Eyes](https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK) | 3:05 |
-| 98 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 |
-| 99 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 97 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 98 | [Open Your Eyes](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Open Your Eyes](https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK) | 3:05 |
+| 99 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 |
 | 100 | [HOMEWARD BOUND](https://open.spotify.com/track/6SJxVscXUNKHByst4t6Hlu) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [HOMEWARD BOUND](https://open.spotify.com/album/77qphqm55wE28WErICmvo5) | 3:52 |
 
 Snapshot ID: `Z9s69AAAAAAqwp+DXOvgufS+D4dTg/l+`

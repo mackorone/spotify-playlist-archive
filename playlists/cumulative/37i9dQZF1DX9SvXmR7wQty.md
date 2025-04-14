@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Cœur De Pirate
 
-3,223 songs - 7 day 3 hr 0 min
+3,224 songs - 7 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 | 2022-02-19 |
 | [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 | 2025-03-14 |  |
 | [Amour, Haine & Danger](https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Amour, Haine & Danger](https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3) | 3:18 | 2022-09-30 | 2022-10-15 |
-| [Amoureuse](https://open.spotify.com/track/3rrYJegUcvKTRCaiQz6rXn) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Amoureuse](https://open.spotify.com/album/4L5eH3XhpdBLat8JOyPtCS) | 2:30 | 2025-04-04 |  |
+| [Amoureuse](https://open.spotify.com/track/3rrYJegUcvKTRCaiQz6rXn) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Amoureuse](https://open.spotify.com/album/4L5eH3XhpdBLat8JOyPtCS) | 2:30 | 2025-04-04 | 2025-04-14 |
 | [Amours et Contradictions](https://open.spotify.com/track/0QvndhdnzK1S5nDH5mBaMW) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi), [Malia Laura](https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG) | [Amours et Contradictions](https://open.spotify.com/album/5S8FScCHYUnn7FTvU7iI1I) | 2:59 | 2024-04-19 | 2024-04-27 |
 | [AMÉRICA](https://open.spotify.com/track/4SlHJDVnBmKPzlUFKkebIv) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [América](https://open.spotify.com/album/7oUfp7K3bbzupkxaXBNtdi) | 3:00 | 2022-09-30 | 2022-10-15 |
 | [An Introduction](https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp) | [Mimo](https://open.spotify.com/artist/3eIJIZKEFoBYxr8A12M00k) | [An Introduction](https://open.spotify.com/album/2tWhEALTbr4KFkuI3TZ17d) | 2:26 | 2022-03-04 | 2022-03-12 |
@@ -2135,6 +2135,7 @@
 | [On y va](https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [On y va](https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm) | 2:35 | 2024-04-26 | 2024-06-15 |
 | [One Night Thing](https://open.spotify.com/track/6EoPV2i2JNh3gK0dxxCaAc) | [Cshmr](https://open.spotify.com/artist/4ZNir8YWJxjx6xcZ2xOMak) | [SVINT, Volume 1](https://open.spotify.com/album/4u2MFO6rdp94e3OYVWEc1v) | 2:55 | 2021-12-31 | 2022-01-08 |
 | [One Thing](https://open.spotify.com/track/0Bs56JlclotElvFYTRWhIc) | [MTO Hutsu](https://open.spotify.com/artist/115caDn8rzO6GlMLH6KANa), [FlipTunesMusic](https://open.spotify.com/artist/1E4zec6yKQRB9yh28vKrwG) | [One Thing](https://open.spotify.com/album/6djrlFJHxIB0GJt9LEhi5n) | 3:25 | 2022-04-01 | 2022-04-16 |
+| [One Time](https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 2:53 | 2025-04-11 |  |
 | [Onirisme](https://open.spotify.com/track/2z1T0cX0Ejfn2cBHkfDwaE) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE), [Twani](https://open.spotify.com/artist/6Msx0U86zJHArfvDk6zO9Q), [Latitude 45](https://open.spotify.com/artist/6okG8kU8o6PpE3OFeWahxJ) | [Onirisme](https://open.spotify.com/album/3d32bUlwtdWbqjLIS7GuQf) | 3:03 | 2022-05-13 | 2022-05-28 |
 | [Onze](https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Onze / À l'étang des roseaux](https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR) | 3:10 | 2023-11-24 | 2023-12-16 |
 | [Ophélie](https://open.spotify.com/track/6JXobHSIftFuXLENPR36KL) | [Olivier Bélisle](https://open.spotify.com/artist/79QE8luVEKueEZS4dgZ0gq) | [Rester en voyage](https://open.spotify.com/album/6yahz9eY7znTgFvcfkDz1o) | 3:39 | 2023-10-13 | 2023-10-21 |

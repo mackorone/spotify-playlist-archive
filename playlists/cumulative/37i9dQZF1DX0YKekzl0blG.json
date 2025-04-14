@@ -3487,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4TGvBVWFdYgARvdajEfAkU"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        },
+        {
+          "name": "Spank Rock",
+          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "Shove It",
+      "url": "https://open.spotify.com/track/1coivm4gzVsvpzqW4bN4WM"
+    },
+    {
+      "album": {
         "name": "The Invisible Band",
         "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
@@ -4344,7 +4366,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 158546,
       "name": "Up the Bracket",
       "url": "https://open.spotify.com/track/6dgNSYxHgPruJtgISdi61C"

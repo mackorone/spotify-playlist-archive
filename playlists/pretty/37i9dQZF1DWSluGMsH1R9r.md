@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,445,898 likes - 230 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445,932 likes - 230 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,9 +196,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 186 | [transition](https://open.spotify.com/track/0xzLNybwXCrgQ6GjbIKlm7) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [transition](https://open.spotify.com/album/6UfEKOtts2xmAXoMg9TxNI) | 2:35 |
 | 187 | [Penumbra](https://open.spotify.com/track/75RUCsqgTfDJtapy9sIxwQ) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Penumbra](https://open.spotify.com/album/6Tzbh7jg6UDkELlI4sZ2NS) | 2:51 |
 | 188 | [Relinquishing](https://open.spotify.com/track/3pUnfBXv3XTGqdtpHH9a4T) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Relinquishing](https://open.spotify.com/album/3O66GdoL4N2pmZf1PImUO1) | 2:05 |
-| 189 | [Fljúga](https://open.spotify.com/track/1rFxXMAIF7GQhBhBNzumT1) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fljúga](https://open.spotify.com/album/5wQ1doSiGa5Onc5SxGpd61) | 2:37 |
-| 190 | [Rendezvous](https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Rendezvous](https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf) | 2:28 |
-| 191 | [Fireside](https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Fireside](https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK) | 2:24 |
+| 189 | [Fireside](https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Fireside](https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK) | 2:24 |
+| 190 | [Fljúga](https://open.spotify.com/track/1rFxXMAIF7GQhBhBNzumT1) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fljúga](https://open.spotify.com/album/5wQ1doSiGa5Onc5SxGpd61) | 2:37 |
+| 191 | [Rendezvous](https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Rendezvous](https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf) | 2:28 |
 | 192 | [Encore une Danse](https://open.spotify.com/track/5o7LUHW8BVTU0NQV8wMgbw) | [Francis Laplanne](https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY) | [Encore une Danse](https://open.spotify.com/album/6wym62QStSSPaBmDN1kunZ) | 2:01 |
 | 193 | [Fairytale](https://open.spotify.com/track/6aYcNnHc0sFXkLci7WG0wl) | [Tony Austero](https://open.spotify.com/artist/4IcLLdhDhgVZtC1GmZxyzw) | [Fairytale](https://open.spotify.com/album/5RkThHQOqsHovp186WdJ7L) | 2:05 |
 | 194 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 |

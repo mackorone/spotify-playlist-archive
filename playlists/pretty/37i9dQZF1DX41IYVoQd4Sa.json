@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31792,
+  "num_followers": 31802,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-04-10 21:00:26",
       "album": {
-        "name": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05de\u05ea\u05d2\u05dc\u05d2\u05dc",
-        "url": "https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF"
-      },
-      "artists": [
-        {
-          "name": "Shuli Rand",
-          "url": "https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN"
-        }
-      ],
-      "duration_ms": 259724,
-      "name": "\u05dc\u05d2\u05dc\u05d2\u05dc \u05d0\u05ea \u05d6\u05d4 \u05d4\u05dc\u05d0\u05d4",
-      "url": "https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR"
-    },
-    {
-      "added_at": "2025-04-10 21:00:26",
-      "album": {
         "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
         "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 231000,
       "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
+    },
+    {
+      "added_at": "2025-04-10 21:00:26",
+      "album": {
+        "name": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05de\u05ea\u05d2\u05dc\u05d2\u05dc",
+        "url": "https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF"
+      },
+      "artists": [
+        {
+          "name": "Shuli Rand",
+          "url": "https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN"
+        }
+      ],
+      "duration_ms": 259724,
+      "name": "\u05dc\u05d2\u05dc\u05d2\u05dc \u05d0\u05ea \u05d6\u05d4 \u05d4\u05dc\u05d0\u05d4",
+      "url": "https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR"
     },
     {
       "added_at": "2025-04-10 21:00:26",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-04-10 21:00:26",
       "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
-    },
-    {
-      "added_at": "2025-04-10 21:00:26",
-      "album": {
         "name": "\u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05df",
         "url": "https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X"
       },
@@ -551,6 +535,38 @@
       "duration_ms": 279375,
       "name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
       "url": "https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic"
+    },
+    {
+      "added_at": "2025-04-10 21:00:26",
+      "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
+    },
+    {
+      "added_at": "2025-04-10 21:00:26",
+      "album": {
+        "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
+        "url": "https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4"
+      },
+      "artists": [
+        {
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
+      "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
     },
     {
       "added_at": "2025-04-10 21:00:26",
@@ -575,22 +591,6 @@
       "duration_ms": 165513,
       "name": "\u05de\u05e9\u05d5\u05dc\u05e9",
       "url": "https://open.spotify.com/track/489N0TwvwxHTv9EnZQiOzo"
-    },
-    {
-      "added_at": "2025-04-10 21:00:26",
-      "album": {
-        "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
-        "url": "https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4"
-      },
-      "artists": [
-        {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
-      "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
     },
     {
       "added_at": "2025-04-10 21:00:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-04-10 21:00:26",
       "album": {
-        "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3"
-    },
-    {
-      "added_at": "2025-04-10 21:00:26",
-      "album": {
         "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
         "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 159665,
       "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
+    },
+    {
+      "added_at": "2025-04-10 21:00:26",
+      "album": {
+        "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3"
     },
     {
       "added_at": "2025-04-10 21:00:26",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-04-10 21:00:26",
       "album": {
+        "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
+    },
+    {
+      "added_at": "2025-04-10 21:00:26",
+      "album": {
         "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
       },
@@ -863,6 +879,26 @@
       "duration_ms": 180224,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+    },
+    {
+      "added_at": "2025-04-10 21:00:26",
+      "album": {
+        "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
+      },
+      "artists": [
+        {
+          "name": "Gon Ben Ari",
+          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+        },
+        {
+          "name": "Zulat Choir",
+          "url": "https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7"
+        }
+      ],
+      "duration_ms": 326979,
+      "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
     },
     {
       "added_at": "2025-04-10 21:00:26",
@@ -899,22 +935,6 @@
     {
       "added_at": "2025-04-10 21:00:26",
       "album": {
-        "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
-    },
-    {
-      "added_at": "2025-04-10 21:00:26",
-      "album": {
         "name": "\u05d4\u05d0\u05de\u05e0\u05d4 \u05d4\u05d7\u05d1\u05e8\u05ea\u05d9\u05ea",
         "url": "https://open.spotify.com/album/5QeQGrTNQwH1hToFmA4M7Q"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 185585,
       "name": "\u05d9\u05dc\u05d3\u05d4",
       "url": "https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6"
-    },
-    {
-      "added_at": "2025-04-10 21:00:26",
-      "album": {
-        "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
-      },
-      "artists": [
-        {
-          "name": "Gon Ben Ari",
-          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
-        },
-        {
-          "name": "Zulat Choir",
-          "url": "https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7"
-        }
-      ],
-      "duration_ms": 326979,
-      "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
     },
     {
       "added_at": "2025-04-10 21:00:26",
@@ -987,6 +987,38 @@
     {
       "added_at": "2025-04-10 21:00:26",
       "album": {
+        "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt"
+      },
+      "artists": [
+        {
+          "name": "Aviv Guedj",
+          "url": "https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT"
+        }
+      ],
+      "duration_ms": 263853,
+      "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy"
+    },
+    {
+      "added_at": "2025-04-10 21:00:26",
+      "album": {
+        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
+    },
+    {
+      "added_at": "2025-04-10 21:00:26",
+      "album": {
         "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
         "url": "https://open.spotify.com/album/06NWZGpy4LHAAajTtMiTjU"
       },
@@ -1023,22 +1055,6 @@
     {
       "added_at": "2025-04-10 21:00:26",
       "album": {
-        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
-    },
-    {
-      "added_at": "2025-04-10 21:00:26",
-      "album": {
         "name": "Chasin' You",
         "url": "https://open.spotify.com/album/7xpEGPX6zHBckWJsRsyg05"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 153200,
       "name": "Big Wolf",
       "url": "https://open.spotify.com/track/5oyh5aHumv5soKCDA1f9B5"
-    },
-    {
-      "added_at": "2025-04-10 21:00:26",
-      "album": {
-        "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt"
-      },
-      "artists": [
-        {
-          "name": "Aviv Guedj",
-          "url": "https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT"
-        }
-      ],
-      "duration_ms": 263853,
-      "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

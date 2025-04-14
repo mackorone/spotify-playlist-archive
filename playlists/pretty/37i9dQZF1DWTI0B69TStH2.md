@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href="spotify:artist:6EuekoOKebcHJWIqHuBK0H">Wiktoria Kida</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,888 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,891 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

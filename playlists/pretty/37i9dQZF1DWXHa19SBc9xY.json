@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 109164,
+  "num_followers": 109223,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,30 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
+        "name": "Pra Beber e Amar",
+        "url": "https://open.spotify.com/album/5LfVXJXf0W8GhIVPftzlHP"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        }
+      ],
+      "duration_ms": 151606,
+      "name": "O Caf\u00e9 Num Esfriou",
+      "url": "https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
         "name": "Bateu",
         "url": "https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz"
       },
@@ -251,30 +275,6 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
-        "name": "Pra Beber e Amar",
-        "url": "https://open.spotify.com/album/5LfVXJXf0W8GhIVPftzlHP"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "DG e Batid\u00e3o Stronda",
-          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
-        }
-      ],
-      "duration_ms": 151606,
-      "name": "O Caf\u00e9 Num Esfriou",
-      "url": "https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -307,26 +307,6 @@
       "duration_ms": 158000,
       "name": "Vem conversar",
       "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -379,6 +359,26 @@
       "duration_ms": 180000,
       "name": "Mais Raro",
       "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -467,38 +467,6 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 180394,
-      "name": "Vem de L\u00e1",
-      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
         "name": "Magn\u00e9tica",
         "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 202500,
       "name": "VEJA BABY - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 180394,
+      "name": "Vem de L\u00e1",
+      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -603,32 +603,8 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
-        "name": "Te Vi Na Rua",
-        "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        }
-      ],
-      "duration_ms": 174310,
-      "name": "Te Vi Na Rua",
-      "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
-        "name": "Somos Instantes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+        "name": "Fiz Esse Som Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
       },
       "artists": [
         {
@@ -636,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 224687,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
+      "duration_ms": 209339,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -695,18 +671,26 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
+        "name": "Te Vi Na Rua",
+        "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
       },
       "artists": [
         {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
         }
       ],
-      "duration_ms": 158478,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
+      "duration_ms": 174310,
+      "name": "Te Vi Na Rua",
+      "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -723,22 +707,6 @@
       "duration_ms": 196546,
       "name": "Que Sorte",
       "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -763,6 +731,22 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
         "name": "Carnaval a Dois",
         "url": "https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw"
       },
@@ -775,38 +759,6 @@
       "duration_ms": 185865,
       "name": "Carnaval a Dois",
       "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
-        "name": "P\u00f4r Do Sol Degrad\u00ea",
-        "url": "https://open.spotify.com/album/04Hm4DhDDuVdPEmBctOZ1J"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "P\u00f4r Do Sol Degrad\u00ea",
-      "url": "https://open.spotify.com/track/4yCtYSXQApwTyTxHurV4oG"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 209339,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -827,6 +779,54 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
+        "name": "Somos Instantes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
+        "name": "P\u00f4r Do Sol Degrad\u00ea",
+        "url": "https://open.spotify.com/album/04Hm4DhDDuVdPEmBctOZ1J"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "P\u00f4r Do Sol Degrad\u00ea",
+      "url": "https://open.spotify.com/track/4yCtYSXQApwTyTxHurV4oG"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -887,26 +887,6 @@
       "duration_ms": 164571,
       "name": "Coisa Mais Linda",
       "url": "https://open.spotify.com/track/2xCN1ZiUbeYNnSl7Gin8c8"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
-        "name": "N\u00f3s Dois Aqui",
-        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        }
-      ],
-      "duration_ms": 241572,
-      "name": "N\u00f3s Dois Aqui",
-      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -987,6 +967,26 @@
       "duration_ms": 286320,
       "name": "Dend\u00ea",
       "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
+        "name": "N\u00f3s Dois Aqui",
+        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        }
+      ],
+      "duration_ms": 241572,
+      "name": "N\u00f3s Dois Aqui",
+      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
-        "name": "Sala De Estar",
-        "url": "https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A"
-      },
-      "artists": [
-        {
-          "name": "LOFRAN",
-          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
-        },
-        {
-          "name": "Jadeco",
-          "url": "https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY"
-        }
-      ],
-      "duration_ms": 245676,
-      "name": "Sala De Estar",
-      "url": "https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
         "name": "Guardei Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/2y3G5TBxKnjis6HbznwjIu"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 156000,
       "name": "Guardei Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/7mJxoDXhXEipGjgr8Fwxc2"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
+        "name": "Sala De Estar",
+        "url": "https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A"
+      },
+      "artists": [
+        {
+          "name": "LOFRAN",
+          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
+        },
+        {
+          "name": "Jadeco",
+          "url": "https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY"
+        }
+      ],
+      "duration_ms": 245676,
+      "name": "Sala De Estar",
+      "url": "https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
+        "name": "Vou Me Banhar",
+        "url": "https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M"
+      },
+      "artists": [
+        {
+          "name": "LOFRAN",
+          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
+        },
+        {
+          "name": "J\u00f4natas Belgrande",
+          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
+        }
+      ],
+      "duration_ms": 222307,
+      "name": "Vou Me Banhar",
+      "url": "https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
         "name": "Sou Daqui",
         "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 175350,
       "name": "Minha Preta",
       "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
-        "name": "Vou Me Banhar",
-        "url": "https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M"
-      },
-      "artists": [
-        {
-          "name": "LOFRAN",
-          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
-        },
-        {
-          "name": "J\u00f4natas Belgrande",
-          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
-        }
-      ],
-      "duration_ms": 222307,
-      "name": "Vou Me Banhar",
-      "url": "https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -1335,8 +1335,8 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
-        "name": "Som de Alceu",
-        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
+        "name": "Amor das Minhas Vidas",
+        "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
       },
       "artists": [
         {
@@ -1344,13 +1344,13 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 182587,
-      "name": "Som de Alceu",
-      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
+      "duration_ms": 177343,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
     },
     {
       "added_at": "2025-04-04 05:59:03",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2025-04-04 05:59:03",
       "album": {
+        "name": "Som de Alceu",
+        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Som de Alceu",
+      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
+    },
+    {
+      "added_at": "2025-04-04 05:59:03",
+      "album": {
         "name": "Amanheceu (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1eQnp2hdYxu5iprEeZC5Kq"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 205984,
       "name": "Love Love",
       "url": "https://open.spotify.com/track/0mlV6Ox95JtjLjFI5wz4Si"
-    },
-    {
-      "added_at": "2025-04-04 05:59:03",
-      "album": {
-        "name": "Amor das Minhas Vidas",
-        "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 177343,
-      "name": "Amor das Minhas Vidas",
-      "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
     },
     {
       "added_at": "2025-04-04 05:59:03",

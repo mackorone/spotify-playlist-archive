@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,237 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,267 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 12 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 |
 | 13 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 |
 | 14 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
-| 15 | [Doff](https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL) | 3:04 |
-| 16 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 |
+| 15 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 |
+| 16 | [Doff](https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL) | 3:04 |
 | 17 | [image no\. 4](https://open.spotify.com/track/1TbDfkXAw8sbd3oewgAOW4) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8), [Image Tapes](https://open.spotify.com/artist/2gi84HSldDZMD7fwwY4xAz) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 2:05 |
 | 18 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 |
 | 19 | [mirage](https://open.spotify.com/track/5Sort7TKBLV8Mf5SiW85bw) | [\[zoethecat\]](https://open.spotify.com/artist/2a0He55lnQxr74EmQv8yyi) | [mirage](https://open.spotify.com/album/3X8ZJ5G96XzV3LBJpe8Qs3) | 2:02 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 41 | [Make Me Feel Loved](https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx) | [Juan Pablo Garcia Garcia](https://open.spotify.com/artist/2PjNvegzUcfzzUZjAOzRbA), [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [Infinite Present](https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q) | 3:47 |
 | 42 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 |
 | 43 | [Tadpoles](https://open.spotify.com/track/1Y4BfksWNxJkJX5bHL8Amo) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Blooming Spring](https://open.spotify.com/album/1GM55IkCrUsVwsM1vcQwH3) | 5:11 |
-| 44 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
-| 45 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 |
+| 44 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 |
+| 45 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
 | 46 | [Hypnos](https://open.spotify.com/track/6AcwRvuVN9FjROlyLIws2o) | [Thanatosu](https://open.spotify.com/artist/3rMs54wpvLXamcx1FA8zdO) | [Morpheus](https://open.spotify.com/album/3m5K6PDYB2Uh9pXIZDLwc9) | 2:17 |
 | 47 | [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 |
 | 48 | [they sink \- TOKiMONSTA remix](https://open.spotify.com/track/1wrVNFd1voyFZ12xX2elYT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [they sink](https://open.spotify.com/album/7xnL3Sr60ByV3juvyDrYE0) | 4:42 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 63 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 |
 | 64 | [floating](https://open.spotify.com/track/2d7z7wZhWV4mbbblWogbj4) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [dylanwesch](https://open.spotify.com/artist/4cJkh0ixPviJyRB2mStQDC) | [floating](https://open.spotify.com/album/6kOBHeeHa9KgcGbRoWaqpF) | 2:25 |
 | 65 | [Vibrando Alto En Tulum](https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:53 |
-| 66 | [Tree](https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 2](https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd) | 5:12 |
-| 67 | [Mudita](https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI) | [Marko Ivic](https://open.spotify.com/artist/5LqMTuz0Lw3pN29tpmDE5C) | [Mudita](https://open.spotify.com/album/54Zk9JASCc4kYAnJHlOX2K) | 6:17 |
+| 66 | [Mudita](https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI) | [Marko Ivic](https://open.spotify.com/artist/5LqMTuz0Lw3pN29tpmDE5C) | [Mudita](https://open.spotify.com/album/54Zk9JASCc4kYAnJHlOX2K) | 6:17 |
+| 67 | [Tree](https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 2](https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd) | 5:12 |
 | 68 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
 | 69 | [Two Halves Touching](https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 3:50 |
 | 70 | [The Space Within Me](https://open.spotify.com/track/5zOEew2ZPxhodfqZJXEx6Z) | [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [The Space Within Me](https://open.spotify.com/album/604WCWWdkwFVqBsWYYDZTp) | 2:58 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 79 | [When You Wish \(Cuando Sueñas\) \- Piano](https://open.spotify.com/track/49A3qwVyoYJ8poNAcXv7d6) | [Sueñito](https://open.spotify.com/artist/3ScsUDOUKuTIV8rbrYWVzK) | [When You Wish \(Cuando Sueñas\) \[Piano\]](https://open.spotify.com/album/5lqIIW91kAc40scIEJbz6u) | 3:29 |
 | 80 | [Bamboo](https://open.spotify.com/track/4G9zWkdcUUKdyClixTdQML) | [Tiny Bonsai](https://open.spotify.com/artist/66l97lF8upSBEAb9deRhO5), [Bagira](https://open.spotify.com/artist/1SscozEVDjQtVcYJ4e07fE) | [Fading Colors](https://open.spotify.com/album/2zePDYWSWucFFHSewmjGci) | 2:06 |
 | 81 | [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 |
-| 82 | [Lost in a Sea of Pillows and Blankets](https://open.spotify.com/track/0DqAh9xAcKRmufrnXMkknI) | [.anxious.](https://open.spotify.com/artist/0kVQBzHzHP111Qt5rU7F0d) | [Inhale/Exhale/Disappear](https://open.spotify.com/album/4xW6CEkFnd2LgkHDZPCAEG) | 3:24 |
-| 83 | [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 |
+| 82 | [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 |
+| 83 | [Lost in a Sea of Pillows and Blankets](https://open.spotify.com/track/0DqAh9xAcKRmufrnXMkknI) | [.anxious.](https://open.spotify.com/artist/0kVQBzHzHP111Qt5rU7F0d) | [Inhale/Exhale/Disappear](https://open.spotify.com/album/4xW6CEkFnd2LgkHDZPCAEG) | 3:24 |
 | 84 | [Window Camping](https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [ROOM7](https://open.spotify.com/album/4v6m1ay44BiT0DBFBGljgu) | 2:03 |
 | 85 | [Teclas Pálidas](https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm) | [Ismael Pinkler](https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx), [Nicolás Bacal](https://open.spotify.com/artist/4O07zL2JRvvUnaUYA1q4lp) | [Nocturnos](https://open.spotify.com/album/1MRUtV8mhRa3UrNp7HjRA9) | 5:27 |
 | 86 | [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 94 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 |
 | 95 | [Sxs13](https://open.spotify.com/track/73Oxy2zrZMTFgFARikF4UA) | [BXT Aer](https://open.spotify.com/artist/4Ih0m8L9Xc3fksQjlZHiWk) | [Beauty](https://open.spotify.com/album/28B4EwvzIlTy1gT9UlavVa) | 1:25 |
 | 96 | [P a r a l l a x](https://open.spotify.com/track/5cWpQKs9O72HG4cYYZyiv9) | [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Parallax](https://open.spotify.com/album/40LaUfA7iILyLnjZOxnst0) | 4:16 |
-| 97 | [O O O O](https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:25 |
-| 98 | [Wuhwah](https://open.spotify.com/track/5lZCrTVKG8d7ydCrSsbjYq) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vin](https://open.spotify.com/album/0OWKd8AB4v7itVOTRPJfgM) | 1:56 |
-| 99 | [Marginalia \#119](https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/31TDrtEsbcHHJNnZ9IWOB9) | 6:09 |
+| 97 | [Marginalia \#119](https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/31TDrtEsbcHHJNnZ9IWOB9) | 6:09 |
+| 98 | [O O O O](https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:25 |
+| 99 | [Wuhwah](https://open.spotify.com/track/5lZCrTVKG8d7ydCrSsbjYq) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vin](https://open.spotify.com/album/0OWKd8AB4v7itVOTRPJfgM) | 1:56 |
 | 100 | [Inner Balance](https://open.spotify.com/track/7eutjZvgO3DOz0HXbRvW6o) | [Sup Nasa](https://open.spotify.com/artist/4FlqZhoTqYt8tpct6QwgZR) | [Kula](https://open.spotify.com/album/5uHujIKsaQA1HFqt2cGCLM) | 2:06 |
 
 Snapshot ID: `Z6KJFAAAAAByqYbJ7hOAiGh8KYW984oA`

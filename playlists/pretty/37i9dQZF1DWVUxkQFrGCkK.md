@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > next up: IBZ opening
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,196 likes - 394 songs - 1 day 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,346 likes - 394 songs - 1 day 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

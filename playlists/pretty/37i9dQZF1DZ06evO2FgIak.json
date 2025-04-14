@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 50037,
+  "num_followers": 50044,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAABKq9Dgl/LsQHPR42wPAmNx",
+  "snapshot_id": "Z/mtAAAAAAA4AIs8E3b49vv8tF7Gx+o3",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Good Morning Little School Girl",
+      "url": "https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Burning Spider",
         "url": "https://open.spotify.com/album/7fstnHfNoKfBJQpvY5VuEk"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 184550,
       "name": "Soul Fever Blues",
       "url": "https://open.spotify.com/track/3Ui7cdWASapLaUp2RHym7q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Good Morning Little School Girl",
-      "url": "https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "I Feel So Good",
-      "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 241000,
       "name": "My Home Is In The Delta",
       "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "I Feel So Good",
+      "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Rollin' And Tumblin'",
-      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 179760,
       "name": "You Can't Lose What You Ain't Never Had",
       "url": "https://open.spotify.com/track/3R8jEWbqIexfbDteE3jlOz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Rollin' And Tumblin'",
+      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 174567,
-      "name": "Forty Days And Forty Nights",
-      "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 165133,
       "name": "The Same Thing",
       "url": "https://open.spotify.com/track/5tDx3DmAvMfB5dPHiTbtse"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 174567,
+      "name": "Forty Days And Forty Nights",
+      "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Mud",
-        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Tom Cat",
-      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 445026,
       "name": "The Red Rooster",
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Mud",
+        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Tom Cat",
+      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
     },
     {
       "added_at": null,
@@ -803,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Get No Grindin'",
         "url": "https://open.spotify.com/album/4lpsTbPd0zSyBewg5cPfwZ"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saga Blues: Natural Born Lover 1954-1958",
-        "url": "https://open.spotify.com/album/7MDOsIzQ653hvBoBY19KGP"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 165840,
-      "name": "I Want To Be Loved",
-      "url": "https://open.spotify.com/track/348vMftVTCp10l8C90s2kE"
+      "duration_ms": 178600,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
     }
   ],
   "unique_name": "This Is Muddy Waters",

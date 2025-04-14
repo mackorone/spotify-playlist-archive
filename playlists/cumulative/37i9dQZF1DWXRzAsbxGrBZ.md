@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-259 songs - 1 day 5 hr 57 min
+260 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Nights In Summer](https://open.spotify.com/track/6Z90kPVY4fSYnr85ZYGdwb) | [Guztav](https://open.spotify.com/artist/5njhRrz5uOFMp6PVBhq4XH) | [Music In Me](https://open.spotify.com/album/4L9GNHi3y050I4HcaPWx5m) | 6:30 | 2024-05-16 | 2024-05-23 |
 | [No Regrets](https://open.spotify.com/track/5V6S1byIWwSaw8NmjTl7p1) | [D.General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l) | [Rebirth](https://open.spotify.com/album/6EmeH4g6wfJdrs8UsgpmRe) | 6:07 | 2025-03-20 |  |
 | [Not in My Kitchen](https://open.spotify.com/track/066sdKveccU5X0AWozTGFR) | [Gabbana](https://open.spotify.com/artist/0I3Acccg46Me47afcARZYX) | [Stargazer](https://open.spotify.com/album/42CTvGrcnED1o181lUvJaZ) | 6:15 | 2025-02-27 | 2025-03-08 |
+| [Now We Clubbing](https://open.spotify.com/track/6RfisJox9FpuOCPNkHarZm) | [Mafia Natives](https://open.spotify.com/artist/2gJtEjCHOcI0URtuwwMd99) | [Now We Clubbing](https://open.spotify.com/album/74NPdzWKLitAaSxveEqnIx) | 7:25 | 2025-04-10 |  |
 | [Number Number \- Addictive Mix](https://open.spotify.com/track/2zqv4cZbwc6mCq1kzoOa1n) | [Da Real Emkay](https://open.spotify.com/artist/3fCLla6NLpXvcKZ6GYZxmt), [AquaReece](https://open.spotify.com/artist/7nDbXotkmo5aHfr3ETKZSX) | [Number Number \(Addictive Mix\)](https://open.spotify.com/album/6Og6AVtxLlxdwRZxZisSwP) | 6:50 | 2025-02-27 |  |
 | [Nyuku](https://open.spotify.com/track/09NBJKI7cAb5i9tuOLebTd) | [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD), [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Nyuku EP](https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx) | 5:12 | 2025-02-27 |  |
 | [Octave](https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU) | 7:33 | 2023-09-08 | 2024-04-19 |
@@ -195,7 +196,7 @@
 | [Roots](https://open.spotify.com/track/3TbGj9hbpWLKJgvKGDATKf) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Roots](https://open.spotify.com/album/30x3AKPB2ObI21cIZwBvUK) | 5:04 | 2025-02-21 |  |
 | [S'khanyisele](https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Sir Bless](https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m) | [Thief In The Night](https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b) | 6:15 | 2022-09-14 | 2023-03-25 |
 | [Safari \- Original Mix](https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Safari](https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj) | 6:08 | 2022-09-14 | 2023-03-25 |
-| [Saka Nyuka](https://open.spotify.com/track/5NRTfbbrkyIJ7UKsMgrbS2) | [Soulfreakah](https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn), [Ezra](https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ) | [Reflexions Of Soul](https://open.spotify.com/album/6QUUeLGanYjk0ucVFV8O5k) | 7:36 | 2025-03-20 |  |
+| [Saka Nyuka](https://open.spotify.com/track/5NRTfbbrkyIJ7UKsMgrbS2) | [Soulfreakah](https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn), [Ezra](https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ) | [Reflexions Of Soul](https://open.spotify.com/album/6QUUeLGanYjk0ucVFV8O5k) | 7:36 | 2025-03-20 | 2025-04-14 |
 | [Sandcastle \- Sir LSG & The Bless Radio Edit](https://open.spotify.com/track/7wkPyS0jyJUEqxuxfuppFh) | [Sir LSG](https://open.spotify.com/artist/2Uy7rPXDCqkd90ksG3sgt0), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl), [The Bless](https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5) | [Sandcastle \(Remixes\)](https://open.spotify.com/album/0OMsO7ck4mM05y1joUjI4k) | 4:22 | 2024-05-16 | 2024-05-23 |
 | [Santa Fe](https://open.spotify.com/track/3BGR4pjUMMZlc6gK2iZu00) | [Biko King](https://open.spotify.com/artist/4c65PT6IbqRhW1wNLhjbEj), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Jus Garden](https://open.spotify.com/artist/1Vv54QoRgcfMdGiQGd19lx) | [Lost in Rhythmic Echoes](https://open.spotify.com/album/2eW9TRzI9KuFK0ndmLNxSp) | 7:43 | 2025-03-07 | 2025-04-05 |
 | [Sarhalel \- Ed\-Ward Remix](https://open.spotify.com/track/0RAXgMtZEM2KFwbsVqFCYU) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ed\-Ward, Intr0beatz & Jonny Miller Remixes](https://open.spotify.com/album/35EzfNv7BipGFSlUFlZbQX) | 6:10 | 2022-09-29 | 2023-03-18 |

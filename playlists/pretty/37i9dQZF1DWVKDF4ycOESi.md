@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Sfera e Shiva, Pinguini Tattici Nucleari e Max Pezzali, I Cani, Cesare Cremonini ed Elisa, Lana Del Rey e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,664 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,667 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

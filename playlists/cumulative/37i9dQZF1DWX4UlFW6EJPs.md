@@ -4,7 +4,7 @@
 
 > Save who you can save\. Listen to music from and inspired by The Last of Us, now streaming on Max.
 
-119 songs - 4 hr 23 min
+122 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Collateral](https://open.spotify.com/track/7bjpKVomLZrKnBpuR8sXwK) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:08 | 2023-03-01 |  |
 | [Complications](https://open.spotify.com/track/67u2hkSPKTyKpWnEpHhYWO) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 2:32 | 2023-03-01 |  |
 | [Don't Look](https://open.spotify.com/track/76RdZMmRezzaNdUbcjjNyU) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 2:07 | 2023-03-01 |  |
+| [Ecstasy](https://open.spotify.com/track/2V9p00deRkvclpg7A7FWaz) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 6:13 | 2025-04-14 |  |
 | [Endure](https://open.spotify.com/track/5gLcteZSW89HtwM9Glwp0r) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:29 | 2023-03-01 |  |
 | [Fleeting](https://open.spotify.com/track/5q76hPNXXR1S8BF86hbM1b) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:54 | 2023-03-01 |  |
 | [Forgotten Memories](https://open.spotify.com/track/4TVtXw28cKW0qT8aNM2ODh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:07 | 2023-01-30 | 2023-03-02 |
@@ -60,9 +61,11 @@
 | [Just Like Heaven](https://open.spotify.com/track/4UzXNnMuJxEwbq7fUltTBY) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of the Cure](https://open.spotify.com/album/4g8z4lndGfNGx4IVyxLjJ7) | 4:17 | 2023-02-27 |  |
 | [Left Behind](https://open.spotify.com/track/37t1gWrJgoofbjVmyLBE5q) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 3:11 | 2023-03-01 |  |
 | [Left Behind \(Together\)](https://open.spotify.com/track/74MeFebolnDpgvEOMVCAnF) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:08 | 2023-03-01 |  |
+| [Little Sadie](https://open.spotify.com/track/2SiQKjD5mANk0qkNTx2BmO) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 2:35 | 2025-04-14 |  |
 | [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Silk Purse](https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G) | 4:23 | 2023-01-30 |  |
 | [Long Long Time](https://open.spotify.com/track/6CcPNaOx5cp5nYhpc0p7Ur) | [Nick Offerman](https://open.spotify.com/artist/4NrhfauK45NuwkOlx2CemS) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:12 | 2023-03-01 |  |
 | [Longing](https://open.spotify.com/track/0pvR6pWkGrO0lYGtFV1Dvi) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:56 | 2023-03-01 |  |
+| [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 | 2025-04-14 |  |
 | [Murals](https://open.spotify.com/track/1v1OjOgLVvOtPjHBLl3bWS) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:31 | 2023-03-01 |  |
 | [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:47 | 2023-09-26 | 2024-04-19 |
 | [Never Let Me Down Again](https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM) | [Jessica Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 3:29 | 2023-03-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: ODUMODUBLVCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,536 likes - 52 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,751 likes - 52 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

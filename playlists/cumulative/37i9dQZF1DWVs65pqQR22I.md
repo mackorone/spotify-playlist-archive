@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-191 songs - 8 hr 24 min
+192 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Black Noise Dreams](https://open.spotify.com/track/1TJf1NqEz3KhyOwXWyWQXb) | [Crafting Audio](https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9) | [Deep Sleep with Black Noise](https://open.spotify.com/album/3AHDCQsMfbtu6Yed2NSoLA) | 2:33 | 2023-03-10 |  |
 | [Black Noise Echoes](https://open.spotify.com/track/7ns9LIhwLORwcqlp1CmkrF) | [aquamcaelo](https://open.spotify.com/artist/3gkO4ZXcG2LyYFRuUn01eN) | [Black Noise Illusion](https://open.spotify.com/album/1KdrVDgj7zg1FQdZhN7ecT) | 2:41 | 2023-03-31 |  |
 | [Black Noise Flow](https://open.spotify.com/track/69giPBrDWEcyuTPVyPBG9m) | [Dinkotrons](https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B) | [Black Noise Flow](https://open.spotify.com/album/4aNzsxsepFfomWsCbpylAO) | 3:02 | 2023-03-31 |  |
-| [Black Noise FLuff](https://open.spotify.com/track/2DYugakipXLiLjIKNIo15K) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Black Noise FLuff](https://open.spotify.com/album/4RJIOa4oQTbjjKQU3u4fbr) | 3:14 | 2023-03-31 |  |
+| [Black Noise FLuff](https://open.spotify.com/track/2DYugakipXLiLjIKNIo15K) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Black Noise FLuff](https://open.spotify.com/album/4RJIOa4oQTbjjKQU3u4fbr) | 3:14 | 2023-03-31 | 2025-04-14 |
 | [Black Noise Focus](https://open.spotify.com/track/2NH1KZNvtssanbH5LSyd2d) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Black Noise Focus](https://open.spotify.com/album/5sP7LLLaBgw7pzMkWSfroY) | 4:30 | 2024-01-10 | 2025-02-27 |
 | [Black Noise for a Good Night's Sleep](https://open.spotify.com/track/0TO0pKnZmxIQr9cuvbtOx0) | [Evomin](https://open.spotify.com/artist/377XEfaskiPevvTMYzJvUb) | [Black Noise Therapy](https://open.spotify.com/album/1x2hCe8u45zaDDTcMMJlH4) | 2:48 | 2023-03-10 | 2023-07-06 |
 | [Black Noise for Inner Peace](https://open.spotify.com/track/1Cz9wBvWLeop8IWZuJTAnO) | [No Shapes Island](https://open.spotify.com/artist/2yllrSykto1kVMIOhbwed4) | [Black Noise for Inner Peace](https://open.spotify.com/album/6xGyGZ5YoMEByVmdVge96G) | 1:59 | 2023-03-23 | 2023-06-20 |
@@ -114,12 +114,12 @@
 | [Exquisite Black Noise](https://open.spotify.com/track/51buzvWwqdxkVXexBG9ACe) | [Delicatessen Noise](https://open.spotify.com/artist/5RxupLWXooqV5lxD8c4vCz) | [Delicate Black Noise](https://open.spotify.com/album/1WhZbjAQu52jXBtUBx2dZ1) | 3:08 | 2023-03-31 |  |
 | [Focused Black Noise](https://open.spotify.com/track/4706E26ijxiFCGJAC8RbRi) | [BGVV](https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T) | [Close Your Eyes To Black Noise](https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe) | 2:05 | 2023-03-10 | 2024-02-14 |
 | [Focused Black Noise](https://open.spotify.com/track/5rURzzYYHLowCCnERjNBu5) | [LBE Sound Factory](https://open.spotify.com/artist/2KH7b9r4W32S6NlIKaf1Fc) | [Soothing Black Noise](https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc) | 2:13 | 2023-04-21 |  |
-| [Focused Mind Black Noise](https://open.spotify.com/track/1CaTOiBEuHSyMtF84KA9qM) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Focused Mind Black Noise](https://open.spotify.com/album/5fZ4T8Ll08WOc4VXIdVcMo) | 3:10 | 2023-10-10 |  |
+| [Focused Mind Black Noise](https://open.spotify.com/track/1CaTOiBEuHSyMtF84KA9qM) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Focused Mind Black Noise](https://open.spotify.com/album/5fZ4T8Ll08WOc4VXIdVcMo) | 3:10 | 2023-10-10 | 2025-04-14 |
 | [Gentle Black Noise](https://open.spotify.com/track/6cKQ38a2sw68PwIUC5Gbxu) | [Timmid](https://open.spotify.com/artist/7biX22cIP5NyuORMdCWF8R) | [Gentle Black Noise](https://open.spotify.com/album/0Gv8mzDoswMXHLSKd6j02w) | 2:47 | 2023-03-10 | 2023-06-20 |
 | [Gentle Static Black Noise](https://open.spotify.com/track/5wghBv8Vw1g9GCg8qZJRBh) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Ambient Black Noise](https://open.spotify.com/album/011O4hLo0E8wvkPNWqIZzq) | 2:51 | 2023-06-19 |  |
 | [Gloomy Noise](https://open.spotify.com/track/6mxPuJkPOu7PAqrO0meeCC) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Gloomy Noise](https://open.spotify.com/album/3lxF9kGz4d59CMkLwa7kZy) | 4:31 | 2025-02-26 |  |
 | [Healing Black Noise](https://open.spotify.com/track/0X8ox5fpqRnq7yDgqX71Uw) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [Black Noise Detox](https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1) | 2:43 | 2023-06-01 |  |
-| [Healing Black Noise](https://open.spotify.com/track/1ebZEnzqflZFmFNxoBcef3) | [Four Elements Sounds](https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD) | [Healing Black Noise](https://open.spotify.com/album/1W59umcqmAWW0xYPU5v2ni) | 2:08 | 2023-06-01 | 2025-03-31 |
+| [Healing Black Noise](https://open.spotify.com/track/1ebZEnzqflZFmFNxoBcef3) | [Four Elements Sounds](https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD) | [Healing Black Noise](https://open.spotify.com/album/1W59umcqmAWW0xYPU5v2ni) | 2:08 | 2023-06-01 |  |
 | [Healing Black Noise](https://open.spotify.com/track/2IswQJThBN7riJqBofP1gK) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Healing Black Noise](https://open.spotify.com/album/4vTf5vLobu75WEgLrpFKGu) | 2:19 | 2023-03-10 | 2023-07-06 |
 | [Healing Frequencies of Black Noise](https://open.spotify.com/track/6mluEKukHRCKj2i0fWLxqd) | [Digital Sounds Recordings](https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI) | [Black Noise Tranquility](https://open.spotify.com/album/51gGDgzoPx2BKrcssfpXD7) | 1:48 | 2023-03-10 | 2023-06-20 |
 | [Hypnotic Depths \- Black Noise](https://open.spotify.com/track/3sJfhU9JUHzkA2HxHJdaVC) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Ethereal Slumber & Hypnotic Depths \(Black Noise\)](https://open.spotify.com/album/7xRitZQaZnYeNzjQi6RONO) | 3:12 | 2023-08-11 | 2025-04-12 |
@@ -155,6 +155,7 @@
 | [Relaxing Black Noise Waves](https://open.spotify.com/track/6NaJlg3pGN7B8bFHt6nePo) | [Sleep Sauce](https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9) | [Black Noise Relaxing Waves](https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ) | 3:03 | 2023-03-31 |  |
 | [Rested With Black Noise](https://open.spotify.com/track/5QubAzZM2TGhW4i85WzsWQ) | [Winding Down](https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX) | [Rested With Black Noise](https://open.spotify.com/album/0lWKh9nharNGwtYzpEnWaf) | 2:31 | 2023-04-21 | 2023-09-09 |
 | [Restful Black Noise](https://open.spotify.com/track/5kCPxgzPyyiSBMw0OXlwFD) | [Lakshmi Roo](https://open.spotify.com/artist/1JfWdDJgevvJTexlg05huU) | [Harmonious Black Noise](https://open.spotify.com/album/5rTO0oFjsYW5urVkgnsBou) | 2:21 | 2023-03-10 | 2023-07-06 |
+| [Sable Black Noise](https://open.spotify.com/track/51bflDSdiVPYyiD7yXk6bJ) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Sable Black Noise](https://open.spotify.com/album/0YglITRpJibVCwRAF0eoNV) | 3:09 | 2025-04-09 |  |
 | [Sensual Black Noise](https://open.spotify.com/track/4Aqj0z0W7blJFBBHosVpRT) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [Black Noise Haven](https://open.spotify.com/album/6ymMlHHmCbSgtf4qWTAXFU) | 2:43 | 2023-03-10 |  |
 | [Seraphic Equilibrium \- Black Noise](https://open.spotify.com/track/7IYEFcq06tIyv3y7enDrIC) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Dark Tranquility \(Black Noise\)](https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe) | 2:52 | 2023-06-01 |  |
 | [Serendipitous Black Noise](https://open.spotify.com/track/4I0BfEIZfJPkpGJTqGahCN) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [Black Noise Haven](https://open.spotify.com/album/6ymMlHHmCbSgtf4qWTAXFU) | 3:02 | 2023-03-10 |  |

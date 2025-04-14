@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,482 likes - 43 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,491 likes - 43 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 42 | [1972 \(Intro\)](https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 1:07 |
 | 43 | [Terra \- Acústico](https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rael Convida: Black Alien \(Acústico\)](https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl) | 4:01 |
 
-Snapshot ID: `Z/hbgAAAAABTz9C6c9WtMpSG0faw27Y6`
+Snapshot ID: `Z/mtAAAAAADkjY9JAfU17jjXLAJcUU+3`

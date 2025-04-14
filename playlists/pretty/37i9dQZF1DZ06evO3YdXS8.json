@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 631868,
+  "num_followers": 631950,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAAAH+Hot5xcaSThZtg09cMzb",
+  "snapshot_id": "Z/mtAAAAAAD+u2OMrrnwSVnJTE8Zjsmr",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
       },
       "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
+      "duration_ms": 413986,
+      "name": "La Carcacha/Besitos - Live",
+      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
       },
       "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 413986,
-      "name": "La Carcacha/Besitos - Live",
-      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
+      "duration_ms": 253733,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
     },
     {
       "added_at": null,

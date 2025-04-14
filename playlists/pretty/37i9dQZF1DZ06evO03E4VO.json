@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAAAt0Rxv4dkChSxMKfR93wzm",
+  "snapshot_id": "Z/mtAAAAAABJnLFnBcDbKYOuw4CATB/O",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "hookah envenena",
         "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 202706,
       "name": "wish you were here",
       "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": null,

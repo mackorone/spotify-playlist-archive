@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-441 songs - 23 hr 13 min
+443 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2022-12-06 | 2022-12-13 |
 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-01-23 | 2023-02-01 |
 | [Chew On My Heart](https://open.spotify.com/track/6t7089pe4VklogK683LdPM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart](https://open.spotify.com/album/35CBeD16aEGo0xnm5ov6pM) | 3:15 | 2022-06-06 | 2022-07-29 |
-| [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-04-03 |  |
+| [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-04-03 | 2025-04-14 |
 | [Clean](https://open.spotify.com/track/731wrbYzVBKXCgdcvZ1vDM) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 2:53 | 2022-08-15 | 2022-08-23 |
 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 | 2022-07-25 | 2024-09-26 |
 | [Clouds](https://open.spotify.com/track/6GJpkR776SkVYZLTVxtdNT) | [North To East](https://open.spotify.com/artist/3bJnr1lqzY1jVOZ6vYZI9I) | [Clouds](https://open.spotify.com/album/1gKdKi8qjeUqheWmyfqWzY) | 4:24 | 2022-06-06 | 2022-07-29 |
@@ -293,7 +293,7 @@
 | [Olympia](https://open.spotify.com/track/6xsIZGWud4OdojtNN63z3Y) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Olympia](https://open.spotify.com/album/4y0eCEU0tFEqJJnJzeD9IG) | 3:40 | 2022-12-12 | 2022-12-20 |
 | [On My Way](https://open.spotify.com/track/30w9SEmvLQTrWf9LFxA7IO) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [On My Way](https://open.spotify.com/album/3ezCvHQlNEaFkZflL2FXIh) | 3:23 | 2022-06-06 | 2022-07-29 |
 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 | 2024-01-08 | 2024-02-08 |
-| [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 | 2023-02-27 |  |
+| [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 | 2023-02-27 | 2025-04-14 |
 | [Optimist](https://open.spotify.com/track/5I1opogpl6oOEKmXRDXSEO) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Optimist](https://open.spotify.com/album/785hSUKzozAGvKU8jQ6C0u) | 2:33 | 2024-12-09 | 2025-03-13 |
 | [orbit](https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [orbit](https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2) | 3:09 | 2023-11-27 | 2023-12-04 |
 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-28 |  |
@@ -347,6 +347,7 @@
 | [Sirens](https://open.spotify.com/track/4eGua701gIqWxYrETSpHGK) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Sirens](https://open.spotify.com/album/2qqtSS2ug1CM1UncwBi66w) | 3:22 | 2023-02-07 | 2023-02-14 |
 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 | 2022-07-25 | 2022-08-09 |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-10-10 | 2022-11-14 |
+| [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-14 |  |
 | [So Am I](https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:03 | 2022-07-25 | 2024-04-19 |
 | [so done](https://open.spotify.com/track/0CJujB84MFibxHqxFQVLu1) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [so done \(bye\)](https://open.spotify.com/album/42NA4WjXX7liHHiUiAHQ0l) | 2:54 | 2022-06-06 | 2022-07-29 |
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2022-11-14 | 2022-11-22 |
@@ -360,6 +361,7 @@
 | [Sometimes](https://open.spotify.com/track/0uDsj6KuyEjlFoqQvBcpD4) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Sometimes](https://open.spotify.com/album/0pBAd71oIWyzc7hNeUxbXG) | 3:48 | 2022-06-06 | 2022-07-29 |
 | [Sound of Your Voice](https://open.spotify.com/track/79EPrcuYKoky4lG3BvmzCy) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [The Mirror Talk EP](https://open.spotify.com/album/5iVjJgRq6O9s0VguOtHFox) | 3:02 | 2022-06-13 | 2022-07-29 |
 | [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 | 2023-04-04 | 2023-04-11 |
+| [SPINE](https://open.spotify.com/track/28vHQECRl8L7pjMGvSRxZA) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [SPINE](https://open.spotify.com/album/7qyvVpY8rXmWqMd4w6aU2g) | 2:21 | 2025-04-14 |  |
 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 | 2023-12-11 | 2023-12-18 |
 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-29 |  |
 | [Starting Line](https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Starting Line](https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD) | 4:30 | 2022-06-20 | 2022-07-26 |

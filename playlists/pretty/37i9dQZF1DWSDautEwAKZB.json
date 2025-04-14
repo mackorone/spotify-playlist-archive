@@ -292,22 +292,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 156819,
-      "name": "Hush \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5"
       },
       "artists": [
@@ -324,17 +308,17 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
+      "duration_ms": 156819,
+      "name": "Hush \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -351,6 +335,22 @@
       "duration_ms": 189005,
       "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -839,6 +839,38 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Fora de Si - Spotify Singles",
+        "url": "https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 136764,
+      "name": "Fora de Si - Spotify Singles",
+      "url": "https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 197815,
+      "name": "No Pasa Nada - Recorded at Panoram Studios, Mexico",
+      "url": "https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "EMPELICULADOS - Spotify Singles",
         "url": "https://open.spotify.com/album/1L88SIO4NmlW9TeY5gbCLb"
       },
@@ -859,22 +891,6 @@
       "duration_ms": 222245,
       "name": "EMPELICULADOS - Spotify Singles",
       "url": "https://open.spotify.com/track/3PjY7hNtvJPnFeZxplptne"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 197815,
-      "name": "No Pasa Nada - Recorded at Panoram Studios, Mexico",
-      "url": "https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -907,22 +923,6 @@
       "duration_ms": 260213,
       "name": "Flaco - Spotify Singles",
       "url": "https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Fora de Si - Spotify Singles",
-        "url": "https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 136764,
-      "name": "Fora de Si - Spotify Singles",
-      "url": "https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
-      },
-      "artists": [
-        {
-          "name": "Twin Shadow",
-          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Telepat\u00eda - Spotify Singles",
-      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "La HP - Spotify Singles",
         "url": "https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Telepat\u00eda - Spotify Singles",
+      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -1196,22 +1196,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 252942,
-      "name": "i don't think i love you anymore - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8"
       },
       "artists": [
@@ -1223,6 +1207,22 @@
       "duration_ms": 228839,
       "name": "Declare Independence - Spotify Singles",
       "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 252942,
+      "name": "i don't think i love you anymore - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD"
     }
   ],
   "unique_name": "Spotify Singles: Latin",

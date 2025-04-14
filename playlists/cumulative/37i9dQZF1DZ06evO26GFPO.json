@@ -1459,6 +1459,28 @@
     },
     {
       "album": {
+        "name": "Rio Amazing",
+        "url": "https://open.spotify.com/album/5fgZC8oUAh81jIaFC1uGTW"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142267,
+      "name": "Rio Amazing",
+      "url": "https://open.spotify.com/track/1eS2HniGToALW0y9cjB2Qk"
+    },
+    {
+      "album": {
         "name": "Ritmo Do Crime",
         "url": "https://open.spotify.com/album/3eGzFoARBUyPBPe5rOP9La"
       },

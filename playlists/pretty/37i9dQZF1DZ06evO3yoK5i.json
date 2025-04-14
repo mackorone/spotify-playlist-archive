@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 236922,
+  "num_followers": 236964,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAADuA9A7ecKyw63R9rinuasV",
+  "snapshot_id": "Z/mtAAAAAAATYxfYfwyxsVlP5UfYiY1z",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Un attimo di pace",
+      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Musica Es",
         "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 240893,
       "name": "Fuego en el Fuego",
       "url": "https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un attimo di pace",
-      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
-      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dietro Le Apparenze",
         "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
       },
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 281253,
-      "name": "Estrella Gemela - Remastered 2021",
-      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
+      "duration_ms": 203026,
+      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
+      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
       "duration_ms": 238640,
       "name": "Parla con me",
       "url": "https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Estrella Gemela - Remastered 2021",
+      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estilolibre",
+        "url": "https://open.spotify.com/album/2f3T6MTtosgsvOUa4a7PHk"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Un Angel No Es",
+      "url": "https://open.spotify.com/track/2dQbR9FMqNdHGsbGErEAuF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eros Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 304573,
       "name": "Si Bastasen un Par de Canciones",
       "url": "https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 278053,
-      "name": "Tierra Prometida - Remastered 2021",
-      "url": "https://open.spotify.com/track/11ioDeqYPCbfB6vk8mwEpI"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilolibre",
-        "url": "https://open.spotify.com/album/2f3T6MTtosgsvOUa4a7PHk"
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Un Angel No Es",
-      "url": "https://open.spotify.com/track/2dQbR9FMqNdHGsbGErEAuF"
+      "duration_ms": 278053,
+      "name": "Tierra Prometida - Remastered 2021",
+      "url": "https://open.spotify.com/track/11ioDeqYPCbfB6vk8mwEpI"
     },
     {
       "added_at": null,

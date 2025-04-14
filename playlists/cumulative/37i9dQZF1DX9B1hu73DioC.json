@@ -9509,6 +9509,24 @@
     },
     {
       "album": {
+        "name": "Wah!!!",
+        "url": "https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231202,
+      "name": "Magic Number (\u9b54\u6cd5\u6570\u5b57)",
+      "url": "https://open.spotify.com/track/6pB4kJ4eRa0sJMUtplqekk"
+    },
+    {
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0l2kwAGmItOlj5N1qyULip"
       },
@@ -10062,7 +10080,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 240262,
       "name": "Mormor",
       "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"

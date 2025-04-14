@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,481 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,623 likes - 48 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 47 | [Se parler](https://open.spotify.com/track/6Ad3BSo7qrnSmWFCe8uFRe) | [Papi Del Sol](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H) | [Se parler](https://open.spotify.com/album/6q9kOsRXl141VZkaa6PTKB) | 3:29 |
 | 48 | [Bodycon](https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Bodycon](https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY) | 2:39 |
 
-Snapshot ID: `Z/hNdgAAAAC4+vsFGndNYj0j2r9xEiAE`
+Snapshot ID: `Z/vYBwAAAADZppGx+7tXwXcKwENZptse`

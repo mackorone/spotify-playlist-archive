@@ -1,12 +1,12 @@
 {
   "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
-  "num_followers": 17741,
+  "num_followers": 17743,
   "original_name": "This Is CHiCO with HoneyWorks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAABRe4bDAVQ4l1CP03VkswYH",
+  "snapshot_id": "Z/mtAAAAAAAd+g5BYWS7KhTf7D7eRyrn",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
-        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 243480,
-      "name": "\u30cf\u30f3\u30b3\u30a6\u4e88\u544a",
-      "url": "https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
         "url": "https://open.spotify.com/album/7FLJSAtkxRX1jMy85Z2v9U"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 90333,
       "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
       "url": "https://open.spotify.com/track/0YrVb49QPa6sGimAxP2ZDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 243480,
+      "name": "\u30cf\u30f3\u30b3\u30a6\u4e88\u544a",
+      "url": "https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 224453,
-      "name": "\u304d\u3063\u3068\u5225\u308c\u308b\u3088",
-      "url": "https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7"
+      "duration_ms": 234520,
+      "name": "\u3042\u306a\u305f\u306f\u604b\u3092\u3057\u3066\u306a\u3044",
+      "url": "https://open.spotify.com/track/4rp3HCeKTq2FI2IOjTsH1V"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8 TVsize",
-        "url": "https://open.spotify.com/album/0kNJ3BzFw3lPFdooeN5MdN"
+        "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
+        "url": "https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 90000,
-      "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8 TVsize",
-      "url": "https://open.spotify.com/track/7h9dwMxEmUl4kRA3Jo90to"
+      "duration_ms": 209133,
+      "name": "\u30d2\u30b9\u30c8\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/0nzaNIkYGdZ8zI97ZT1Q1u"
     },
     {
       "added_at": null,
@@ -608,15 +608,15 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 234520,
-      "name": "\u3042\u306a\u305f\u306f\u604b\u3092\u3057\u3066\u306a\u3044",
-      "url": "https://open.spotify.com/track/4rp3HCeKTq2FI2IOjTsH1V"
+      "duration_ms": 224453,
+      "name": "\u304d\u3063\u3068\u5225\u308c\u308b\u3088",
+      "url": "https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
-        "url": "https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8"
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8 TVsize",
+        "url": "https://open.spotify.com/album/0kNJ3BzFw3lPFdooeN5MdN"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 209133,
-      "name": "\u30d2\u30b9\u30c8\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/0nzaNIkYGdZ8zI97ZT1Q1u"
+      "duration_ms": 90000,
+      "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8 TVsize",
+      "url": "https://open.spotify.com/track/7h9dwMxEmUl4kRA3Jo90to"
     },
     {
       "added_at": null,

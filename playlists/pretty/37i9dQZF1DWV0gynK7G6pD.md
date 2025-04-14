@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Benjamin Grosvenor
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,913 likes - 69 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,933 likes - 69 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

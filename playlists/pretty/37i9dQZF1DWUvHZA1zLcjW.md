@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,044 likes - 122 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,055 likes - 122 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 72 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 |
 | 73 | [Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon](https://open.spotify.com/track/7ci2JgRHMiVIAueWOiWMye) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Jean\-François Paillard](https://open.spotify.com/artist/2YBQnjSxJ4GZyKh6VHEOEG), [Orchestre de chambre Jean\-François Paillard](https://open.spotify.com/artist/0rssD81jXF0qfMH4n7CYAn) | [Pachelbel: Canon \- Albinoni: Adagio \- Bach, Bonporti, Molter: Works](https://open.spotify.com/album/7jjGzvUCag9B1lA7fzVz3W) | 6:17 |
 | 74 | [O Salutaris Hostia](https://open.spotify.com/track/0yliZfVDGhX9f7uYxBJWzy) | [Ēriks Ešenvalds](https://open.spotify.com/artist/1luoTtYQjMoJPSzl9YCO1B), [Youth Choir "Kamer..."](https://open.spotify.com/artist/1KLQ5jkwH7LW0DQ0I6pcKt), [Jurģis Cābulis](https://open.spotify.com/artist/5vOGRpxH3nVvKLMp1RIsBn), [Lelde Šmīdberga](https://open.spotify.com/artist/3Vka72xc5QWL5p6PSvIyrH), [Marta Elizabete Smilga](https://open.spotify.com/artist/7pjSl70FUEZEfYztTzDzt8) | [O Salutaris Hostia](https://open.spotify.com/album/0CHixOCkBlCacAJGv7BifC) | 3:36 |
-| 75 | [Flute Sonata in E Minor, BWV 1034: III\. Andante \(Arr\. For Piano by Irene Cantos\)](https://open.spotify.com/track/3qyJC7Z09qlY8ag19H9nD0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Irene Cantos](https://open.spotify.com/artist/5ha9AFbBAUk78wpLtgnfhT) | [Flute Sonata in E Minor BWV 1034 \(Arr\. For Piano by Irene Cantos\)](https://open.spotify.com/album/0kz3RAPraMJwYT4lz8UngA) | 4:09 |
+| 75 | [Flute Sonata in E Minor, BWV 1034: III\. Andante \(Arr\. For Piano by Irene Cantos\)](https://open.spotify.com/track/3qyJC7Z09qlY8ag19H9nD0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Irene Cantos](https://open.spotify.com/artist/5ha9AFbBAUk78wpLtgnfhT) | [Flute Sonata in E Minor BWV 1034 \(Arr\. for Piano by Irene Cantos\)](https://open.spotify.com/album/0kz3RAPraMJwYT4lz8UngA) | 4:09 |
 | 76 | [Midwayer](https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 5:45 |
 | 77 | […And at the Hour of Death](https://open.spotify.com/track/1gU5jNTPxkrF52O7vUTWzR) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 1\)](https://open.spotify.com/album/2SpKHUMv3voHKHsmNhuD38) | 2:32 |
 | 78 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29151,
+  "num_followers": 29149,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAABTdOpNIjxl0AD0293p2UFA",
+  "snapshot_id": "Z/mtAAAAAAA+82REAunooNGUrGndY8Rv",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 179084,
+      "name": "Para Variar",
+      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 195488,
       "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
       "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 179084,
-      "name": "Para Variar",
-      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Qu\u00e9 Te Vas",
-        "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 201190,
-      "name": "Por Qu\u00e9 Te Vas",
-      "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inevitables",
         "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 171808,
       "name": "Inevitables",
       "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Qu\u00e9 Te Vas",
+        "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 201190,
+      "name": "Por Qu\u00e9 Te Vas",
+      "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 175887,
+      "name": "Besos De Bar",
+      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Popurr\u00ed de Juan Gabriel",
         "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 175887,
-      "name": "Besos De Bar",
-      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De 0 a 100",
         "url": "https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 168645,
       "name": "De 0 a 100",
       "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Dejo Entrar",
-        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 192845,
-      "name": "Te Dejo Entrar",
-      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Dejo Entrar",
+        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Te Dejo Entrar",
+      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Combustible",
         "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 166805,
       "name": "Combustible",
       "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 150424,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
     },
     {
       "added_at": null,
@@ -899,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1nto Me Duele",
-        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
       },
       "artists": [
         {
@@ -908,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 233755,
-      "name": "Cu\u00e1nto Me Duele",
-      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
+      "duration_ms": 150424,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
     },
     {
       "added_at": null,
@@ -927,6 +911,22 @@
       "duration_ms": 163210,
       "name": "Stop",
       "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cu\u00e1nto Me Duele",
+        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "Cu\u00e1nto Me Duele",
+      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
     },
     {
       "added_at": null,

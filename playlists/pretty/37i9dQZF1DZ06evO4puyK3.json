@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 164676,
+  "num_followers": 164678,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAABJD/bMWKwAjD5Fw3hoILeN",
+  "snapshot_id": "Z/mtAAAAAADotIBdPlsPTe6pIyuote1B",
   "tracks": [
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrasta",
-        "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Arrasta",
-      "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 230907,
       "name": "TUA INDECIS\u00c3O",
       "url": "https://open.spotify.com/track/00Ofee5Bbfstz49RfSL0oM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrasta",
+        "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Arrasta",
+      "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
     },
     {
       "added_at": null,

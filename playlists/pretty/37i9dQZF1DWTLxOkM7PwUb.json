@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 8839,
+  "num_followers": 8856,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Dos Mil 16",
+      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 196363,
       "name": "C14TORCE II",
       "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Dos Mil 16",
-      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "Pero Ya No",
+      "url": "https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
       },
@@ -283,26 +299,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "GPS (feat. French Montana)",
-        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "GPS (feat. French Montana)",
-      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "7 Mares",
         "url": "https://open.spotify.com/album/6TSmHx93BHYt4L7Idl6CMt"
       },
@@ -319,18 +315,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+        "name": "GPS (feat. French Montana)",
+        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
-      "duration_ms": 243957,
-      "name": "Las Jordan",
-      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
+      "duration_ms": 216306,
+      "name": "GPS (feat. French Montana)",
+      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
     },
     {
       "added_at": "2025-03-29 03:00:05",
@@ -355,8 +355,24 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 243957,
+      "name": "Las Jordan",
+      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
       "artists": [
         {
@@ -364,9 +380,25 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 160638,
-      "name": "Pero Ya No",
-      "url": "https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy"
+      "duration_ms": 178000,
+      "name": "BYE ME FUI",
+      "url": "https://open.spotify.com/track/0FktnzDqjClqU6iqOZVEs2"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Negro Cursi",
+        "url": "https://open.spotify.com/album/7LqHd1AY8zjuwbyHKprJz4"
+      },
+      "artists": [
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Negro Cursi",
+      "url": "https://open.spotify.com/track/04OuLVuV5uxOz3mWKGNINS"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -387,22 +419,6 @@
       "duration_ms": 270400,
       "name": "ODIO",
       "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Negro Cursi",
-        "url": "https://open.spotify.com/album/7LqHd1AY8zjuwbyHKprJz4"
-      },
-      "artists": [
-        {
-          "name": "El Doctor",
-          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Negro Cursi",
-      "url": "https://open.spotify.com/track/04OuLVuV5uxOz3mWKGNINS"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -439,22 +455,6 @@
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "BYE ME FUI",
-      "url": "https://open.spotify.com/track/0FktnzDqjClqU6iqOZVEs2"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -547,62 +547,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "BUTAKAS EP",
-        "url": "https://open.spotify.com/album/2kCY7NsTmu3dJu7jead73e"
-      },
-      "artists": [
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        }
-      ],
-      "duration_ms": 184701,
-      "name": "LADO A LADO",
-      "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
-      },
-      "artists": [
-        {
-          "name": "M2H",
-          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
-        },
-        {
-          "name": "Gonzalo Genek",
-          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
-        },
-        {
-          "name": "Marav\u00ed",
-          "url": "https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj"
-        }
-      ],
-      "duration_ms": 233691,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Solo de Mi",
         "url": "https://open.spotify.com/album/4tpexvNazI77pndY3LdOLX"
       },
@@ -635,6 +579,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Desde el Fin del Mundo",
         "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
       },
@@ -647,6 +607,82 @@
       "duration_ms": 218288,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/14OsvO7eecMfOIdRClquk9"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "BUTAKAS EP",
+        "url": "https://open.spotify.com/album/2kCY7NsTmu3dJu7jead73e"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "duration_ms": 184701,
+      "name": "LADO A LADO",
+      "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "MAWZ",
+        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "A tus Pies",
+      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
+      },
+      "artists": [
+        {
+          "name": "M2H",
+          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+        },
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "Marav\u00ed",
+          "url": "https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj"
+        }
+      ],
+      "duration_ms": 233691,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -675,22 +711,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Illuminati (Remix)",
         "url": "https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam"
       },
@@ -715,22 +735,26 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "MAWZ",
-        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
+        "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
+        "url": "https://open.spotify.com/album/5GcW2cCrVqjPm3dgDJOBRF"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 211964,
-      "name": "A tus Pies",
-      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
+      "duration_ms": 268794,
+      "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
+      "url": "https://open.spotify.com/track/53rkN7z3bKorDSIxDvqXNt"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -755,26 +779,18 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
-        "url": "https://open.spotify.com/album/5GcW2cCrVqjPm3dgDJOBRF"
+        "name": "C14TORCE IV",
+        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 268794,
-      "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
-      "url": "https://open.spotify.com/track/53rkN7z3bKorDSIxDvqXNt"
+      "duration_ms": 173440,
+      "name": "C14TORCE IV",
+      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -851,22 +867,6 @@
       "duration_ms": 414320,
       "name": "Mi Llamada (Remix)",
       "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "C14TORCE IV",
-        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "C14TORCE IV",
-      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "CON OTRA",
-        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "CON OTRA",
-      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Calle 2 (Remix)",
         "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "CON OTRA",
+        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "CON OTRA",
+      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Cama Vacia",
         "url": "https://open.spotify.com/album/6kjJgUCFPKSf7Tr27whxpe"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 172680,
       "name": "Cama Vacia",
       "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "GRACIAS POR NADA",
+        "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 219448,
+      "name": "GRACIAS POR NADA",
+      "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1463,38 +1479,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "GRACIAS POR NADA",
-        "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 219448,
-      "name": "GRACIAS POR NADA",
-      "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "DAME LOVE",
-        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 190557,
-      "name": "DAME LOVE",
-      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "L.O.V.E.",
         "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "DAME LOVE",
+        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 190557,
+      "name": "DAME LOVE",
+      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "No Puedo Fingir",
         "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
       },
@@ -1571,6 +1571,30 @@
       "duration_ms": 164352,
       "name": "No Puedo Fingir",
       "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Tus Dudas",
+        "url": "https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Elmabel",
+          "url": "https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr"
+        },
+        {
+          "name": "Rodridi",
+          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Tus Dudas",
+      "url": "https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1599,30 +1623,6 @@
       "duration_ms": 196858,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Tus Dudas",
-        "url": "https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        },
-        {
-          "name": "Elmabel",
-          "url": "https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr"
-        },
-        {
-          "name": "Rodridi",
-          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Tus Dudas",
-      "url": "https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Como Nadie",
+        "url": "https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX"
+      },
+      "artists": [
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 136373,
+      "name": "Como Nadie",
+      "url": "https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Llegu\u00e9 Tarde",
         "url": "https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Como Nadie",
-        "url": "https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX"
-      },
-      "artists": [
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 136373,
-      "name": "Como Nadie",
-      "url": "https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD"
     },
     {
       "added_at": "2024-07-26 04:59:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp?si=trsZdUWrRp6Zm09rLQp7Zg">Shakes & Les</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,962 likes - 60 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,537 likes - 60 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

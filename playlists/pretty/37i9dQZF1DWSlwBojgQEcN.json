@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1722483,
+  "num_followers": 1722484,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "Venus (Acoustic)",
+        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 175120,
+      "name": "Sweet Love of Mine (Acoustic)",
+      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "Love Songs For Robots",
         "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 253670,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Venus (Acoustic)",
-        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 175120,
-      "name": "Sweet Love of Mine (Acoustic)",
-      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Love You the Most",
-        "url": "https://open.spotify.com/album/4pbTZ28exY6GZ6x3Hm5psZ"
+        "name": "Whatever You Do",
+        "url": "https://open.spotify.com/album/01MktWtflLn2FrKjMYNtVM"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 171928,
-      "name": "Love You the Most",
-      "url": "https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj"
+      "duration_ms": 247133,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/4K37GcwIOuIiN9LxLw98Us"
     }
   ],
   "unique_name": "Acoustic Love",

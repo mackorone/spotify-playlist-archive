@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Italia amore mio 🇮🇹🇮🇹🇮🇹 😍😍😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,510 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,511 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 10 | [Vado al massimo](https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:03 |
 | 11 | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu) | 3:28 |
 | 12 | [Allo stadio](https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [La Faccia Delle Donne](https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh) | 3:39 |
-| 13 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
-| 14 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
+| 13 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
+| 14 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
 | 15 | [Papa Nero](https://open.spotify.com/track/1X3eAXBIhLIsD8krO81Vup) | [Pitura Freska](https://open.spotify.com/artist/7nDp1YwhqukHtWtiQeH0LD) | [GRAN CALMA](https://open.spotify.com/album/5HuowqKpNxqmuwSY0RLjaP) | 3:54 |
 | 16 | [Gigante](https://open.spotify.com/track/7wfaa5eSB5e8L3iKTsFTql) | [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Pugili fragili](https://open.spotify.com/album/5tDFqVgQ2YMRlkA8tNQOof) | 3:40 |
 | 17 | [L'assenzio \( the Power of Nothing\)](https://open.spotify.com/track/1yhr95Jd7uqh391cqQDrpx) | [Bluvertigo](https://open.spotify.com/artist/6q8FspLLQOHpabMMbEb8Vq) | [Pop Tools \(Alcune Fasi e Forme d'Onda\)](https://open.spotify.com/album/2NZmrYl2xI4xZSAOG2YRM7) | 3:53 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 32 | [Tu fai schifo sempre](https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k) | [I Pandemonium](https://open.spotify.com/artist/717AOR8NywHgYvjrlQtzyp) | [I Pandemonium](https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2) | 3:35 |
 | 33 | [Verso il 2000](https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Verso il 2000](https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6) | 4:34 |
 | 34 | [Bada Bambina](https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:54 |
-| 35 | [Sugli sugli bane bane](https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6) | [Le Figlie del Vento](https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb) | [Mai dire compilation!](https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV) | 2:41 |
+| 35 | [Ping Pong](https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:46 |
 | 36 | [Cose Veloci](https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B) | [Garbo](https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso) | [Fotografie](https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ) | 4:07 |
-| 37 | [Ping Pong](https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:46 |
+| 37 | [Sugli sugli bane bane](https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6) | [Le Figlie del Vento](https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb) | [Mai dire compilation!](https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV) | 2:41 |
 | 38 | [Sbatti Ben Su Del BeBop](https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss) | [Ladri Di Biciclette](https://open.spotify.com/artist/4xsbbVfhjw1iCPyLKQdKQe) | [Made In Italy](https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9) | 4:09 |
 | 39 | [La bottega del caffe'](https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC) | [Alberto Camerini](https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI) | [Rockmantic Collection](https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3) | 3:40 |
 | 40 | [Faccia di cane](https://open.spotify.com/track/4pxSUeyBMAdSWjs69J8RZQ) | [New Trolls](https://open.spotify.com/artist/5RN8L3RHQZ87m7gNWUyFmu) | [Aldebaran..\. e altre emozioni](https://open.spotify.com/album/47HDlTeacOGiaTVwfOZ0GR) | 4:07 |

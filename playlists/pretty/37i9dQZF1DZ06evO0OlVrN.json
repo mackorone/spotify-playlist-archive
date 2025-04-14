@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7621,
+  "num_followers": 7622,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAADHmc0L7arwN3OV6WK2M9uA",
+  "snapshot_id": "Z/mtAAAAAAAgrL6U6hGw+dghcMrf9vqd",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 de Coleccion",
-        "url": "https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Devolucion",
-      "url": "https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
         "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 167146,
       "name": "Ay Chatita",
       "url": "https://open.spotify.com/track/2lVmMy1vCsXYarAEmwJQRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 de Coleccion",
+        "url": "https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Devolucion",
+      "url": "https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Me Moriria",
-      "url": "https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
         "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 211266,
       "name": "El Espejo",
       "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Me Moriria",
+      "url": "https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0"
     },
     {
       "added_at": null,

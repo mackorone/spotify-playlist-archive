@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Mamalarky
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,741 likes - 120 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,757 likes - 120 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

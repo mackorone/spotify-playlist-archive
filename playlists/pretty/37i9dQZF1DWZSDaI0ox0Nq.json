@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 20479,
+  "num_followers": 20482,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+      },
+      "artists": [
+        {
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "El Choclo",
+      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Viajera",
         "url": "https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
-      },
-      "artists": [
-        {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "El Choclo",
-      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Tita De Buenos Aires",
+        "url": "https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP"
+      },
+      "artists": [
+        {
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        }
+      ],
+      "duration_ms": 136213,
+      "name": "Arrabalera",
+      "url": "https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Tangos de Lengue",
         "url": "https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 188464,
       "name": "Los Mareados",
       "url": "https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
-      },
-      "artists": [
-        {
-          "name": "Eladia Bl\u00e1zquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Adios Nonino",
-      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -267,22 +267,26 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Vos y yo",
-        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
         },
         {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        },
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
         }
       ],
-      "duration_ms": 238852,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
+      "duration_ms": 154951,
+      "name": "Ser\u00eda Facil Decir",
+      "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -323,18 +327,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tita De Buenos Aires",
-        "url": "https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP"
+        "name": "Azsulado",
+        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
       },
       "artists": [
         {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+          "name": "Alicia Vignola",
+          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
         }
       ],
-      "duration_ms": 136213,
-      "name": "Arrabalera",
-      "url": "https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17"
+      "duration_ms": 196373,
+      "name": "Mujer ni\u00f1a y amiga",
+      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -355,42 +359,38 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Vos y yo",
+        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         },
         {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        },
-        {
-          "name": "Sebasti\u00e1n Barbui",
-          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
         }
       ],
-      "duration_ms": 154951,
-      "name": "Ser\u00eda Facil Decir",
-      "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
+      "duration_ms": 238852,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
     },
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Azsulado",
-        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
       },
       "artists": [
         {
-          "name": "Alicia Vignola",
-          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
+          "name": "Eladia Bl\u00e1zquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Mujer ni\u00f1a y amiga",
-      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
+      "duration_ms": 286093,
+      "name": "Adios Nonino",
+      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "En Ese Ayer/Ventarr\u00f3n",
+      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Toda Mi Vida",
         "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 130720,
       "name": "Baldosa Floja",
       "url": "https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "En Ese Ayer/Ventarr\u00f3n",
-      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
+        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
         }
       ],
-      "duration_ms": 193348,
-      "name": "La Piel de la Ciudad",
-      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
+      "duration_ms": 155280,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -603,18 +603,34 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
-        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
       },
       "artists": [
         {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         }
       ],
-      "duration_ms": 155280,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 193348,
+      "name": "La Piel de la Ciudad",
+      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -635,22 +651,6 @@
       "duration_ms": 232930,
       "name": "Milonga del Desocupado",
       "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Cabeza Negra",
-        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 154006,
-      "name": "Fuga de Ausencias",
-      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Yo No Se Que Me Han Hecho Tus Ojos",
         "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 208426,
       "name": "Yo No Se Que Me Han Hecho Tus Ojos",
       "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Cabeza Negra",
+        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 154006,
+      "name": "Fuga de Ausencias",
+      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Virginia Luque Interpreta a Disc\u00e9polo",
         "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 198693,
       "name": "Sur",
       "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2024-08-02 17:18:29",

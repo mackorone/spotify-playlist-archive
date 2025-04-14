@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN y Envidia Kotxina.",
-  "num_followers": 111796,
+  "num_followers": 111812,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
+        "name": "C\u00f3mo Convertirse en Nada",
+        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
+      },
+      "artists": [
+        {
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "C\u00f3mo Convertirse en Nada",
+      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
         "name": "El Mutante del Barrio Chino",
         "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 168520,
       "name": "Ja, Ja, Ja",
       "url": "https://open.spotify.com/track/0QVrkmPehChchi52biyo8w"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "C\u00f3mo Convertirse en Nada",
-        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
-      },
-      "artists": [
-        {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "C\u00f3mo Convertirse en Nada",
-      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -895,38 +895,6 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "DES0KUPA",
-        "url": "https://open.spotify.com/album/2Q0d5XA1ZeJOG6NbfLhjKI"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "DES0KUPA",
-      "url": "https://open.spotify.com/track/5UyFdKSTKokWO4xtesk7D4"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "Mama, Come, R\u00ede, Traga",
-        "url": "https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 172015,
-      "name": "Mama, Come, R\u00ede, Traga",
-      "url": "https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
         "name": "No Olvidamos, 3 de Marzo - Single",
         "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
@@ -939,6 +907,22 @@
       "duration_ms": 231593,
       "name": "No Olvidamos, 3 de Marzo",
       "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
+        "name": "DES0KUPA",
+        "url": "https://open.spotify.com/album/2Q0d5XA1ZeJOG6NbfLhjKI"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "DES0KUPA",
+      "url": "https://open.spotify.com/track/5UyFdKSTKokWO4xtesk7D4"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -959,18 +943,18 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+        "name": "Mama, Come, R\u00ede, Traga",
+        "url": "https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K"
       },
       "artists": [
         {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
         }
       ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+      "duration_ms": 172015,
+      "name": "Mama, Come, R\u00ede, Traga",
+      "url": "https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -991,18 +975,18 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Rico deprimido (XX5)",
-        "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
       },
       "artists": [
         {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
         }
       ],
-      "duration_ms": 205696,
-      "name": "Rico deprimido - XX5",
-      "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
+        "name": "Rico deprimido (XX5)",
+        "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
+      },
+      "artists": [
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+        }
+      ],
+      "duration_ms": 205696,
+      "name": "Rico deprimido - XX5",
+      "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
         "name": "Yo Soy Aquel",
         "url": "https://open.spotify.com/album/7LS6h2qgq2smyc3dVEiEMD"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 139998,
       "name": "Yo Soy Aquel",
       "url": "https://open.spotify.com/track/17uv9rAMfpwfluvH7nDG9I"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
+        "name": "Insolente",
+        "url": "https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8"
+      },
+      "artists": [
+        {
+          "name": "V\u00f3mito",
+          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Insolente",
+      "url": "https://open.spotify.com/track/3kPfpAXC0jv4ygeEmGRvfG"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
         "name": "Control de Masas",
         "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Insolente",
-        "url": "https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8"
-      },
-      "artists": [
-        {
-          "name": "V\u00f3mito",
-          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Insolente",
-      "url": "https://open.spotify.com/track/3kPfpAXC0jv4ygeEmGRvfG"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
         "name": "El M\u00e1s Gremlin de Montilla",
         "url": "https://open.spotify.com/album/1WvwhwDNw1w7Xsum7oXK34"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 139969,
       "name": "El M\u00e1s Gremlin de Montilla",
       "url": "https://open.spotify.com/track/5bvz0zijssCwb0TzYdA4I4"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Flakos",
-        "url": "https://open.spotify.com/album/4bmytLfH88cDDDLUz96FV4"
-      },
-      "artists": [
-        {
-          "name": "El Flacotirador",
-          "url": "https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq"
-        }
-      ],
-      "duration_ms": 220328,
-      "name": "Flakos",
-      "url": "https://open.spotify.com/track/6NoGBsWTCSi4D5yHLO5hz9"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
+        "name": "Flakos",
+        "url": "https://open.spotify.com/album/4bmytLfH88cDDDLUz96FV4"
+      },
+      "artists": [
+        {
+          "name": "El Flacotirador",
+          "url": "https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq"
+        }
+      ],
+      "duration_ms": 220328,
+      "name": "Flakos",
+      "url": "https://open.spotify.com/track/6NoGBsWTCSi4D5yHLO5hz9"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
+        "name": "Asesino",
+        "url": "https://open.spotify.com/album/7CWCkNZXurX0lIxMxsu60Z"
+      },
+      "artists": [
+        {
+          "name": "Anti-Regimen",
+          "url": "https://open.spotify.com/artist/31Z203RSSNLMPBEiVSlKPX"
+        }
+      ],
+      "duration_ms": 111940,
+      "name": "Asesino",
+      "url": "https://open.spotify.com/track/5Ea2vv462Slyk3xh9mBRnV"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
         "name": "A Cara de Perro",
         "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Vieja Guardia",
-        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 170585,
-      "name": "Vieja Guardia",
-      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
+        "name": "Vieja Guardia",
+        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 170585,
+      "name": "Vieja Guardia",
+      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
         "name": "No Hay Agua",
         "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
       },
@@ -1523,6 +1539,54 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
+        "name": "J\u00f3dete",
+        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
+      },
+      "artists": [
+        {
+          "name": "M.C.D.",
+          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
+        }
+      ],
+      "duration_ms": 227992,
+      "name": "Gernika",
+      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
+        "name": "Anda y Que Te Den",
+        "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 224172,
+      "name": "Anda y Que Te Den",
+      "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
+        "name": "Esta es una Noche de Rock & Roll",
+        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 180444,
+      "name": "Esta es una Noche de Rock & Roll",
+      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
         "name": "All Cayetanos Are Bastards",
         "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
       },
@@ -1535,6 +1599,22 @@
       "duration_ms": 160034,
       "name": "All Cayetanos Are Bastards",
       "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1571,70 +1651,6 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Anda y Que Te Den",
-        "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 224172,
-      "name": "Anda y Que Te Den",
-      "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "Quiero Romper",
-        "url": "https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI"
-      },
-      "artists": [
-        {
-          "name": "Chicharrica",
-          "url": "https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Amanece",
-      "url": "https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "Esta es una Noche de Rock & Roll",
-        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        }
-      ],
-      "duration_ms": 180444,
-      "name": "Esta es una Noche de Rock & Roll",
-      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "J\u00f3dete",
-        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
-      },
-      "artists": [
-        {
-          "name": "M.C.D.",
-          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
-        }
-      ],
-      "duration_ms": 227992,
-      "name": "Gernika",
-      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
         "name": "Humanos",
         "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 155469,
       "name": "Love the Antros",
       "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

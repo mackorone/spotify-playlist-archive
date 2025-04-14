@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 12862,
+  "num_followers": 12873,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -241,26 +241,6 @@
       "url": "https://open.spotify.com/track/1QqMvDt9jLx8KftqqZSX6g"
     },
     {
-      "added_at": "2025-04-11 11:37:28",
-      "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
       "added_at": "2024-08-09 04:23:31",
       "album": {
         "name": "Entre Luca Y Juan Mej\u00eda",
@@ -315,6 +295,26 @@
     {
       "added_at": "2025-04-11 11:37:28",
       "album": {
+        "name": "Pedacito de Playa (Remix)",
+        "url": "https://open.spotify.com/album/0imbRSXYfskLHqDOQ50E61"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Arg\u00fcello",
+          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Pedacito de Playa - Remix",
+      "url": "https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q"
+    },
+    {
+      "added_at": "2025-04-11 11:37:28",
+      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8"
       },
@@ -339,22 +339,22 @@
     {
       "added_at": "2025-04-11 11:37:28",
       "album": {
-        "name": "Pedacito de Playa (Remix)",
-        "url": "https://open.spotify.com/album/0imbRSXYfskLHqDOQ50E61"
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
       "artists": [
         {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         },
         {
-          "name": "Arg\u00fcello",
-          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 197294,
-      "name": "Pedacito de Playa - Remix",
-      "url": "https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q"
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2025-04-11 11:37:28",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Afro Vibes",
         "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 177213,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Dame Un Break",
+        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 200598,
+      "name": "Dame Un Break",
+      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
         "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 215466,
       "name": "Conexi\u00f3n Total",
       "url": "https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Dame Un Break",
-        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 200598,
-      "name": "Dame Un Break",
-      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
-      },
-      "artists": [
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
-        }
-      ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Besos Ricos",
         "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 187715,
       "name": "Besos Ricos",
       "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+        }
+      ],
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
     },
     {
-      "added_at": "2025-04-11 11:37:28",
-      "album": {
-        "name": "Yo Quisiera",
-        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
-    },
-    {
       "added_at": "2024-08-09 04:23:31",
       "album": {
         "name": "Aqu\u00ed Me Tienes",
@@ -799,6 +783,22 @@
       "duration_ms": 157259,
       "name": "Aqu\u00ed Me Tienes",
       "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
+    },
+    {
+      "added_at": "2025-04-11 11:37:28",
+      "album": {
+        "name": "Yo Quisiera",
+        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 177446,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "La Tormenta",
         "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 201700,
       "name": "Nene",
       "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Calz\u00f3n",
-        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 231828,
-      "name": "Calz\u00f3n",
-      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Sun a Shine",
         "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 172069,
       "name": "Sun a Shine",
       "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Calz\u00f3n",
+        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 231828,
+      "name": "Calz\u00f3n",
+      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Losken Roland",
-        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 140955,
-      "name": "Losken Roland",
-      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Los Playa Vol. 1",
         "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 217366,
       "name": "Loco Playa",
       "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Losken Roland",
+        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 140955,
+      "name": "Losken Roland",
+      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Corolla 94",
         "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 201176,
       "name": "Corolla 94",
       "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Rumbo a Tierra",
-        "url": "https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 212885,
-      "name": "Tumbamurallas",
-      "url": "https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Te Quiero Olvidar",
         "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 222857,
       "name": "Juguito de Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1f6Eb2c12zolucM1UuvZal"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Rumbo a Tierra",
+        "url": "https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 212885,
+      "name": "Tumbamurallas",
+      "url": "https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7"
     },
     {
       "added_at": "2024-08-09 04:23:31",

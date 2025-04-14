@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 허회경\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 세이수미\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-936 songs - 2 day 9 hr 10 min
+937 songs - 2 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Dive into love](https://open.spotify.com/track/6apTn1k3YjfjkoMUTS1av2) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Dive into love](https://open.spotify.com/album/1wrWUQmvi9dqyxPPQHTg6H) | 3:22 | 2021-12-21 | 2022-04-30 |
 | [Do You Believe in Love?](https://open.spotify.com/track/6aOFf7lR1t5OHM6kN6keme) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Do You Believe in Love?](https://open.spotify.com/album/2PjLdyzhTz97ubbZYnfnht) | 3:29 | 2024-05-22 | 2024-06-19 |
 | [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 | 2022-08-04 | 2024-01-31 |
-| [Do You Think Of Me?](https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me?](https://open.spotify.com/album/7pOrzU2NCcOT1QxvBX70Fe) | 3:16 | 2025-04-11 |  |
+| [Do You Think Of Me?](https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me?](https://open.spotify.com/album/7pOrzU2NCcOT1QxvBX70Fe) | 3:16 | 2025-04-11 | 2025-04-14 |
 | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/track/0GveX1FMRVjfXQtPJAvQJJ) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/album/6i8NTK3zdu3TJxo1TR8uzG) | 3:16 | 2022-05-11 | 2022-05-24 |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-31 | 2022-04-19 |
 | [Domino](https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Domino](https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e) | 3:07 | 2023-02-14 | 2023-03-01 |
@@ -228,6 +228,7 @@
 | [Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 | 2024-04-04 | 2024-11-07 |
 | [Every moment I love you \(Vocal\. Jungmi\)](https://open.spotify.com/track/2MU397brSaHDInIX3GQxHa) | [Iony](https://open.spotify.com/artist/2RR1uB9PpnHP715OJwuc3M), [정미](https://open.spotify.com/artist/3yjSnXK7X8xcXl0A7w9Cp2) | [Every moment I love you](https://open.spotify.com/album/7vXbsn5HkkjqJP3LA3hfyi) | 2:58 | 2022-03-31 | 2022-04-18 |
 | [Everyday](https://open.spotify.com/track/2i7P8keTV3Z7XsOEF5pAul) | [Chung Kyung\-Ho](https://open.spotify.com/artist/0dTV9RVJ7pIvxTUVsaGUeA) | [Everyday](https://open.spotify.com/album/1lzsxFXavvdyNsoBuFE2ci) | 4:05 | 2022-03-31 | 2022-04-12 |
+| [Everyday i felt the same](https://open.spotify.com/track/4pbVHxFnF0b2ZFKCYx96M4) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [pool vol\. 5 \- Everyday i felt the same](https://open.spotify.com/album/6kT4QgbZ9fFMXB6iPdjhB2) | 3:21 | 2025-04-14 |  |
 | [Everything](https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Everything](https://open.spotify.com/album/6NQwGZ8CGt28dy5EcyNRn0) | 5:00 | 2022-03-31 | 2022-07-23 |
 | [Everything Bagel](https://open.spotify.com/track/5MKVBVQrjVRONziiVVA3Z3) | [Chawool](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Everything Bagel](https://open.spotify.com/album/2Kp8ezqdUoEN3kYE7iecCB) | 3:09 | 2024-11-06 | 2024-12-20 |
 | [Everything To](https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Everything To](https://open.spotify.com/album/0KoqY8z0QLw4hwVvgEGdvn) | 4:13 | 2022-03-31 | 2022-04-08 |

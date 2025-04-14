@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  Anne\-Marie, Lana Del Rey, Green Day, Bon Iver, Awich and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,389 likes - 86 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,402 likes - 87 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,12 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [Lunch](https://open.spotify.com/track/62R3oYh4gzAkBmEDN3qquI) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Shirt Expansion Pack](https://open.spotify.com/album/5yxwJLd5dNGSN4VFNVNt3i) | 2:09 |
 | 78 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 |
 | 79 | [Lost In Time](https://open.spotify.com/track/6RxAiQGhBC9mZhWQEXJn6M) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/3GGarrspHOxKZ9TCrOzq4t) | 2:52 |
-| 80 | [Late Night Last Train](https://open.spotify.com/track/0oJMLA6dVTVy7Q2n2wGO3p) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Late Night Last Train](https://open.spotify.com/album/6pvagroHlvFHe7cx7m9Nck) | 3:59 |
-| 81 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 |
-| 82 | [The Blue](https://open.spotify.com/track/07wirW8ltGkS5G7oh3YLNR) | [Cheney](https://open.spotify.com/artist/4bnmkvO26VCc366AFf19r2) | [The Blue](https://open.spotify.com/album/5bOv8e1wMKF1iSwqUjpCG1) | 3:09 |
-| 83 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 |
-| 84 | [Safe And Sound](https://open.spotify.com/track/1SWmFw0DQKttwFHiPRWNWo) | [Tapeworms](https://open.spotify.com/artist/4g7cKubwimQPEEg9AgBMZr) | [Grand Voyage](https://open.spotify.com/album/67Zg776IO3i70H2JDk49GG) | 4:02 |
-| 85 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 |
-| 86 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
+| 80 | [Lights Camera](https://open.spotify.com/track/6xwgiGHKZ8utkvITmAOOmk) | [Name the Night](https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH) | [Lights Camera](https://open.spotify.com/album/18X00mHZ9e29b86AVSCkQN) | 3:05 |
+| 81 | [Late Night Last Train](https://open.spotify.com/track/0oJMLA6dVTVy7Q2n2wGO3p) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Late Night Last Train](https://open.spotify.com/album/6pvagroHlvFHe7cx7m9Nck) | 3:59 |
+| 82 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 |
+| 83 | [The Blue](https://open.spotify.com/track/07wirW8ltGkS5G7oh3YLNR) | [Cheney](https://open.spotify.com/artist/4bnmkvO26VCc366AFf19r2) | [The Blue](https://open.spotify.com/album/5bOv8e1wMKF1iSwqUjpCG1) | 3:09 |
+| 84 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 |
+| 85 | [Safe And Sound](https://open.spotify.com/track/1SWmFw0DQKttwFHiPRWNWo) | [Tapeworms](https://open.spotify.com/artist/4g7cKubwimQPEEg9AgBMZr) | [Grand Voyage](https://open.spotify.com/album/67Zg776IO3i70H2JDk49GG) | 4:02 |
+| 86 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 |
+| 87 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
 
 Snapshot ID: `Z/fc/gAAAABYAPwS1BjYRfASXDSmuCoO`

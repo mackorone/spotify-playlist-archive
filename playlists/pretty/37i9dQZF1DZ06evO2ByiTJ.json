@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15243,
+  "num_followers": 15246,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAACN7LHw+dagCgL5yOhnDCJm",
+  "snapshot_id": "Z/mtAAAAAABc7yNaArWCk6qEzeMhmbtK",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chegou Um Tempo Novo",
-        "url": "https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 286293,
-      "name": "Chegou Um Tempo Novo",
-      "url": "https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chegou Um Tempo Novo",
+        "url": "https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 286293,
+      "name": "Chegou Um Tempo Novo",
+      "url": "https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elaine Martins (Ao Vivo) - Live MK 10 MI",
+        "url": "https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Raridade - Live MK 10 MI",
+      "url": "https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
         "url": "https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 253000,
       "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
       "url": "https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elaine Martins (Ao Vivo) - Live MK 10 MI",
-        "url": "https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Raridade - Live MK 10 MI",
-      "url": "https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elyon",
-        "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 240976,
-      "name": "El Elyon",
-      "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elaine Martins (Ao Vivo)",
         "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
       },
@@ -807,8 +791,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Filho Volta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN"
+        "name": "El Elyon",
+        "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 240976,
+      "name": "El Elyon",
+      "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00e1grimas Ensinam",
+        "url": "https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu"
       },
       "artists": [
         {
@@ -816,13 +816,13 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         },
         {
-          "name": "Jairo Bonfim",
-          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
         }
       ],
-      "duration_ms": 260062,
-      "name": "Filho Volta (Ao Vivo)",
-      "url": "https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg"
+      "duration_ms": 266054,
+      "name": "Prefiro Ser Fiel",
+      "url": "https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1grimas Ensinam",
-        "url": "https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu"
+        "name": "Filho Volta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN"
       },
       "artists": [
         {
@@ -856,13 +856,13 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         },
         {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+          "name": "Jairo Bonfim",
+          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
         }
       ],
-      "duration_ms": 266054,
-      "name": "Prefiro Ser Fiel",
-      "url": "https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri"
+      "duration_ms": 260062,
+      "name": "Filho Volta (Ao Vivo)",
+      "url": "https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg"
     },
     {
       "added_at": null,

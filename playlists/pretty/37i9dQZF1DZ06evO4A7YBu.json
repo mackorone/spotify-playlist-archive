@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 39117,
+  "num_followers": 39125,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAABu5y730ynwAtxaHp/6UU0o",
+  "snapshot_id": "Z/mtAAAAAACryD7txm3sAYsHJajiAZ2/",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Black and White",
-      "url": "https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH"
+      "duration_ms": 193746,
+      "name": "Terminator Oscillator",
+      "url": "https://open.spotify.com/track/3dpuDgfz7CDoSmM9pllsqW"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 193746,
-      "name": "Terminator Oscillator",
-      "url": "https://open.spotify.com/track/3dpuDgfz7CDoSmM9pllsqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
@@ -180,9 +164,25 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Get to the Gone",
-      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
+      "duration_ms": 231240,
+      "name": "Black and White",
+      "url": "https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Control It",
+      "url": "https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Control It",
-      "url": "https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov"
+      "duration_ms": 169800,
+      "name": "Get to the Gone",
+      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Otsegolectric",
-      "url": "https://open.spotify.com/track/5bs9d0qiIvhKqhJs27BZaE"
+      "duration_ms": 138400,
+      "name": "Destroy All",
+      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 138400,
-      "name": "Destroy All",
-      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
+      "duration_ms": 159133,
+      "name": "Otsegolectric",
+      "url": "https://open.spotify.com/track/5bs9d0qiIvhKqhJs27BZaE"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 220533,
-      "name": "So",
-      "url": "https://open.spotify.com/track/6JUuxEQ47lJH3qfPf5nlil"
+      "duration_ms": 185160,
+      "name": "Shadow Zone",
+      "url": "https://open.spotify.com/track/3HcUKdqS6M8dEticD9RC4G"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Shadow Zone",
-      "url": "https://open.spotify.com/track/3HcUKdqS6M8dEticD9RC4G"
+      "duration_ms": 220533,
+      "name": "So",
+      "url": "https://open.spotify.com/track/6JUuxEQ47lJH3qfPf5nlil"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 180680,
       "name": "Behemoth",
       "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
     },
     {
       "added_at": null,

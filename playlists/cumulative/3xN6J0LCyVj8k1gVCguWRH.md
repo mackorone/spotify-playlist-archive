@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,756 songs - 11 day 2 hr 40 min
+4,759 songs - 11 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2758,6 +2758,7 @@
 | [Movie](https://open.spotify.com/track/3xd6t5iceZOsnu0tktmAyC) | [Zeon](https://open.spotify.com/artist/0r00jeDjSJ9jYI7KxKVTaF) | [Movie](https://open.spotify.com/album/7vHm7kW7cZV2COqEhtQLbj) | 3:17 | 2024-04-13 | 2024-04-24 |
 | [Mr Trumpet Man \(feat\. Shirma Rouse\)](https://open.spotify.com/track/2dXml4rpyZfgukr4Uxfl5s) | [Rik Mol](https://open.spotify.com/artist/6r2GlGO2PIi6TRfcfl3TJF), [Shirma Rouse](https://open.spotify.com/artist/1vNl797vEfGx0JnC1eFoH0) | [Mr Trumpet Man \(feat\. Shirma Rouse\)](https://open.spotify.com/album/4MJWts36UQKRo7PBuaWR41) | 3:18 | 2024-02-20 | 2024-02-28 |
 | [Mr\. Brightside](https://open.spotify.com/track/05AwHQNvi54qbh1YKb2GpB) | [Lifening](https://open.spotify.com/artist/0b1gSPjmcRO596EDjajLqk) | [Mr\. Brightside](https://open.spotify.com/album/3IKyRfhdvQ79bHvnGUWFdw) | 3:45 | 2023-06-30 | 2023-07-22 |
+| [Mr\. Slipstream](https://open.spotify.com/track/0KKgvlnziscBGzCbfzFISU) | [Jordan Power](https://open.spotify.com/artist/12uvc7Jyw3SUOpFtnKOUkX) | [Mr\. Slipstream](https://open.spotify.com/album/2YMw7EqDlynJXLOxiAD97t) | 3:33 | 2025-04-13 |  |
 | [Ms Blue](https://open.spotify.com/track/4KpHPvvItXgb34KnBO4z27) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Ms Blue](https://open.spotify.com/album/5f2JMc95WTQqwViFu2bAle) | 3:12 | 2023-06-09 | 2023-06-24 |
 | [Mud \(Rise\)](https://open.spotify.com/track/2vlbSsNvCgwKXYN8xMGUhB) | [Lee Clark Allen](https://open.spotify.com/artist/53EDGKx11Wy9nm3EPnPbra) | [Little Rock](https://open.spotify.com/album/1p6aIgMZiC0GKoiMpdPSEF) | 3:05 | 2024-03-24 | 2024-04-02 |
 | [Mujer en El Espejo](https://open.spotify.com/track/7p5vu3yJJezXKBnf2OQXJp) | [Aly Suavalle](https://open.spotify.com/artist/5AcrJYEUDB1T1n5pjuDMRk) | [Mujer en El Espejo](https://open.spotify.com/album/3oGsHBpSP4RPSi9rsJwWNR) | 3:27 | 2025-03-26 | 2025-04-07 |
@@ -3210,6 +3211,7 @@
 | [PLEASE](https://open.spotify.com/track/11qXjbyIOWRFHaK4lOeZx2) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [PLEASE](https://open.spotify.com/album/0cXCXOxrVSz4u8AevBsGYz) | 4:25 | 2024-09-25 | 2024-10-07 |
 | [Please Don't Call Me](https://open.spotify.com/track/7GqwLdZ5WDoFPn0ic9EayK) | [KKyle](https://open.spotify.com/artist/7f0jta51sdmrZEkTrpcMYU) | [Please Don't Call Me](https://open.spotify.com/album/6EllXwFP1gUUW7TmGZkMWE) | 2:00 | 2024-10-17 | 2024-10-30 |
 | [Please Dont Ever Go Away \(From Me\)](https://open.spotify.com/track/32YvRwlZLQcXQ0BCrcu9xI) | [April Stubbs](https://open.spotify.com/artist/2kpUtFUInedvpfLOR7Kv8C) | [Please Dont Ever Go Away \(From Me\)](https://open.spotify.com/album/7AB6Nn0mDr9OYDDv3LVFng) | 3:46 | 2025-02-03 | 2025-02-15 |
+| [Please Pick Up The Phone](https://open.spotify.com/track/3ZyaBaVDuyNPX68y93fPCg) | [Tyler Herwig](https://open.spotify.com/artist/2xdCts7UWRYMS4Uyf6GBM5) | [Please Pick Up The Phone](https://open.spotify.com/album/1LDz4wY7j9QjmivPOeitc4) | 3:16 | 2025-04-13 |  |
 | [Please Stay](https://open.spotify.com/track/3kRR0BXjpP7B8aLWsPlCQy) | [RAD III](https://open.spotify.com/artist/4VOKPyqkzuUlunlQUFeHNR) | [Please Stay](https://open.spotify.com/album/6Y5P1YsrxmowlIX3hOKZQf) | 4:12 | 2023-08-11 | 2023-09-01 |
 | [Please Stay Here](https://open.spotify.com/track/5nVu4tPtOThlDpXQVU5ijd) | [Esteban Rodriguez](https://open.spotify.com/artist/6ALwV46oCerVGv5QWX8ACp) | [Please Stay Here](https://open.spotify.com/album/3P2HVArccCCgpmcycSevbY) | 2:42 | 2025-03-12 | 2025-03-24 |
 | [Pleasure](https://open.spotify.com/track/3XeaQtDcd6nOfersQwo3KM) | [Treis](https://open.spotify.com/artist/6hUIDnCrzRoxekFkOoy8Fi) | [Homesick](https://open.spotify.com/album/7qxWIr6enjaJKvrB3a5Qoz) | 3:16 | 2024-03-19 | 2024-04-02 |
@@ -3936,6 +3938,7 @@
 | [Supplier](https://open.spotify.com/track/2yOO0mAZ160Ta4MBWdJ5N5) | [Sammy Vizz](https://open.spotify.com/artist/6hPgq23tX1rVK7Y7Oh4u1X), [Real Unidad](https://open.spotify.com/artist/7nC9Qq3c3RisY9vYcwItzT) | [Supplier](https://open.spotify.com/album/2YLybkmPRFlpQHrRHXD7CC) | 2:37 | 2025-02-14 | 2025-02-26 |
 | [Supply Teacher](https://open.spotify.com/track/6eySAdsLyQZiqp2d9xTDle) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Supply Teacher](https://open.spotify.com/album/1kX5IVVppWTMfnbKaemB7Q) | 3:26 | 2024-09-02 | 2024-09-14 |
 | [Surfside](https://open.spotify.com/track/6lcNOIEjrQsNrwltIwACjJ) | [Lex Lündon](https://open.spotify.com/artist/2KhzNkB9RjXXkUcoNVefu0) | [Surfside](https://open.spotify.com/album/5wF7yO7BHmD5PjcNoSy6lr) | 2:55 | 2022-09-23 | 2022-10-09 |
+| [Surprise Party \(Happy Birthday\)](https://open.spotify.com/track/7F6jK9xmFjqCP7ilVl4KHh) | [Beyond Aram](https://open.spotify.com/artist/6E0zzY7tNMLUxxArnmYIkf) | [Surprise Party \(Happy Birthday\)](https://open.spotify.com/album/5QYYa1Rh1Th2bUIG3CrFTc) | 2:43 | 2025-04-13 |  |
 | [Survive](https://open.spotify.com/track/7Ep0GcvNPFmHqdQil8gQWG) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Survive](https://open.spotify.com/album/5c9HIZ7Fh8174KuEhM6WtU) | 3:18 | 2022-01-28 | 2022-02-13 |
 | [Suéltate](https://open.spotify.com/track/7uolRIeUqiQDK8nFNHqR4y) | [Penelope Robin](https://open.spotify.com/artist/6sglnBv6ujltPtZ5gXvMXg) | [Suéltate](https://open.spotify.com/album/5qhBTZ1MM5MziLmw82c245) | 2:30 | 2024-09-18 | 2024-09-30 |
 | [Swallowed Up In Space](https://open.spotify.com/track/6zUh0SQ7SPx30vbr3plUZU) | [Little Lies](https://open.spotify.com/artist/1iqg3wZBy6NqCXRhnEFNqZ) | [Swallowed Up In Space](https://open.spotify.com/album/5etv3hkp6lxgaVMVCKkK2D) | 2:53 | 2023-03-10 | 2023-04-02 |

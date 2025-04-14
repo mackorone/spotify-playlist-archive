@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,164 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,234 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [a última dança](https://open.spotify.com/track/096gZM7wp5GKHBwtWY3d0z) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [pluglip](https://open.spotify.com/artist/2U0pxQZXxuKh6zKZ9t4uXV) | [a última dança](https://open.spotify.com/album/2eooZYrJukknYGymvXdl5E) | 2:06 |
 | 50 | [Resenha de Ex\-Love](https://open.spotify.com/track/5wV5dO1GOI4srs4Um5cJXo) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [O Que Bate É Maluquice](https://open.spotify.com/album/4cFKT3iVF65cmcBbgw5FWJ) | 4:06 |
 
-Snapshot ID: `L43sOAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L48q+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

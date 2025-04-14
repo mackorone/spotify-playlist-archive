@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Scoot Teasley, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,203 likes - 153 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,221 likes - 153 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

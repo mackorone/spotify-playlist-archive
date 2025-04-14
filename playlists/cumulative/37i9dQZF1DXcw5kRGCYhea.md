@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-210 songs - 10 hr 44 min
+212 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Chemin d'or](https://open.spotify.com/track/6g9JKWPybsqrZaqqgjCTx2) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:32 | 2024-04-18 | 2024-05-28 |
 | [CHICA BUENA](https://open.spotify.com/track/1I84KvSqQ4R1e80AV8qLGw) | [Ohl Boga](https://open.spotify.com/artist/43Pu5SXw5ttytggsrWaA1x) | [CHICA BUENA](https://open.spotify.com/album/16S3aQ7fWdkJdbLpQopqRy) | 3:00 | 2024-11-21 | 2024-12-11 |
 | [CHIRON](https://open.spotify.com/track/45wxMKFaDHRTLxYxXKl0rc) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8) | 2:29 | 2024-07-04 | 2024-12-11 |
-| [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 | 2024-12-10 |  |
+| [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 | 2024-12-10 | 2025-04-14 |
 | [Chouchou](https://open.spotify.com/track/7ddAiJ1dvmdPjmCWu9uYsM) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:52 | 2024-03-26 | 2024-04-19 |
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-23 |  |
 | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/track/7cDD6fOmjVI5NN1krdQ9U2) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads) | 3:38 | 2024-11-04 | 2024-12-23 |
@@ -199,6 +199,7 @@
 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-03-26 | 2024-09-15 |
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-07 | 2024-08-23 |
 | [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 | 2024-06-16 | 2024-08-03 |
+| [Triple V](https://open.spotify.com/track/6e1T28Wkr7r8xciTXcwhKJ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:13 | 2025-04-13 |  |
 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-03-26 | 2024-07-09 |
 | [Un jour, je l'aurai](https://open.spotify.com/track/0Qx1ecCyHjCwGdKy85DZ8y) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Un jour, je l'aurai](https://open.spotify.com/album/19UjRPhzBwQe0fVkPR05Lq) | 3:46 | 2024-12-10 |  |
 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-07-03 | 2024-12-11 |
@@ -216,6 +217,7 @@
 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 | 2024-03-26 | 2024-06-15 |
 | [ZIGZAG](https://open.spotify.com/track/77lYswhyc95GFXBmYDWf7Z) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/3xONo4cCWp0JG0PZ85rV1C) | 2:48 | 2024-12-10 |  |
 | [À QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 | 2024-06-22 | 2024-07-05 |
+| [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 | 2025-04-13 |  |
 | [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 | 2024-10-22 | 2024-12-11 |
 | […Fin Bdat](https://open.spotify.com/track/2oiz0b7fTaEE6FCyjvBhGW) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [The Triplet](https://open.spotify.com/album/4lSapA6tPoPQRY4yrubZe8) | 2:30 | 2024-08-30 | 2024-11-07 |
 

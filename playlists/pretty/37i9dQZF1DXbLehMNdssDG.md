@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,855 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,885 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 39 | [432 Hz Solfeggio Reset](https://open.spotify.com/track/3hzTLp11Cdl5y4BNnlO1bk) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [432 Hz Solfeggio Reset](https://open.spotify.com/album/6CB1dAXdottNbT9IORe9JI) | 2:36 |
 | 40 | [432 Hz Foreverness](https://open.spotify.com/track/5r9GeLzmAvxVi8kUrYeIWN) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [432 Hz New Horizon](https://open.spotify.com/album/5rx3l1qJDAajbBzNv2A833) | 3:19 |
 | 41 | [432 Hz Delta](https://open.spotify.com/track/1N4hq8aaeNpp6f6Q2MPwb4) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Binaural Waves](https://open.spotify.com/album/7ocLgwnXM4M2ugl89K9Rxj) | 2:40 |
-| 42 | [Dream Spheres](https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Dream Spheres](https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD) | 4:25 |
-| 43 | [Breathing](https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Breathing](https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW) | 2:30 |
+| 42 | [Breathing](https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Breathing](https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW) | 2:30 |
+| 43 | [Dream Spheres](https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Dream Spheres](https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD) | 4:25 |
 | 44 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 |
 | 45 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 |
 | 46 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
 | 47 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 |
 | 48 | [Courageous Healing \- 174 Hz](https://open.spotify.com/track/4XTFF9BX7qfWjTNSmydBNl) | [Sleep Sound Hub](https://open.spotify.com/artist/0eQbWfd6C8ygIpoWvUQHJY) | [Courageous Healing \- 174 Hz](https://open.spotify.com/album/4Il09onZqCgQ5keq6X1tim) | 2:27 |
-| 49 | [Continuing Endlessly](https://open.spotify.com/track/0IiVkUz6EE1a9OgUMr9KXB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Continuing Endlessly](https://open.spotify.com/album/0q25lL0bB1GKES6cqr15NI) | 3:03 |
-| 50 | [Emotional Resilience \- 174 Hz](https://open.spotify.com/track/3ofc1ailmJ8I8eD6M4ayrn) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Emotional Resilience \- 174 Hz](https://open.spotify.com/album/423zRtEyaDMv90lQDd6hF2) | 2:53 |
+| 49 | [Emotional Resilience \- 174 Hz](https://open.spotify.com/track/3ofc1ailmJ8I8eD6M4ayrn) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Emotional Resilience \- 174 Hz](https://open.spotify.com/album/423zRtEyaDMv90lQDd6hF2) | 2:53 |
+| 50 | [Continuing Endlessly](https://open.spotify.com/track/0IiVkUz6EE1a9OgUMr9KXB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Continuing Endlessly](https://open.spotify.com/album/0q25lL0bB1GKES6cqr15NI) | 3:03 |
 
 Snapshot ID: `Zs80WgAAAAAMm4wTEF5Gpj+MiHkyES5i`

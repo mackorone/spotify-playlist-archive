@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,052 songs - 3 day 3 hr 43 min
+1,053 songs - 3 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Lido](https://open.spotify.com/track/0HZtVLVL6oLU9WobKQxqGu) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 3:20 | 2021-01-23 | 2025-01-19 |
 | [Lies](https://open.spotify.com/track/3ITz7EuikyRkS8FL9dVJoB) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Realm Of Consciousness](https://open.spotify.com/album/3JhFuFkXfTCjXj4Uh6gx2w) | 5:40 | 2019-05-26\* | 2019-06-19 |
 | [Life In Superposition](https://open.spotify.com/track/0IUyjp9h2UhcbvbdwgzcgE) | [Estle](https://open.spotify.com/artist/7t1AOe4bZv5UFEd0LtVqND), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [It's Always Been You](https://open.spotify.com/album/6R8qor0kjDehlzVXCCgvJ2) | 3:34 | 2024-08-05 | 2025-02-01 |
+| [Light Candles, To Mark The Way](https://open.spotify.com/track/4okNkZuyAEjqWP1HMM2G4l) | [Carrier](https://open.spotify.com/artist/1ah87EalVGzB4AEfY7zm2u) | [Tender Spirits](https://open.spotify.com/album/0SMHAas5Ll8Y6Rdp7L8mtL) | 8:18 | 2025-04-04 |  |
 | [Like a Butterfly](https://open.spotify.com/track/1F4u9meLzVwyHtoSWmjJJQ) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Ambition](https://open.spotify.com/album/2MN2uo6fMXPy4V9L2Wg6Qc) | 3:19 | 2021-07-23 | 2022-07-01 |
 | [Lila](https://open.spotify.com/track/6Rc72u0zYg2Qv4KNKqSXlW) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Beatboxer](https://open.spotify.com/album/7JV7TVVRza4UMGZOApn70E) | 7:07 | 2019-07-27 | 2020-08-26 |
 | [Lines](https://open.spotify.com/track/0xXKBial2Oc7HnRoAqOzT8) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Lines](https://open.spotify.com/album/41RncdoLzWmK2GwtjbOLez) | 3:00 | 2019-05-26\* | 2020-10-22 |
@@ -539,7 +540,7 @@
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-10-22 |  |
 | [Loon E](https://open.spotify.com/track/27WhNUMC7jvvQ6m2zF3FW0) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [Club Moss](https://open.spotify.com/album/2XpWP3eKFkMNlISF1ApaMm) | 5:51 | 2024-03-15 | 2024-05-01 |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2023-03-24 | 2023-05-04 |
-| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 |  |
+| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 | 2025-04-14 |
 | [Love](https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Love](https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq) | 3:56 | 2025-02-12 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-19 | 2024-02-23 |
 | [Loyalty](https://open.spotify.com/track/4zyYWKv2hYVdAzeVBHeJAv) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Loyalty](https://open.spotify.com/album/3JB13d1xqzarAyIUD9BKbV) | 3:18 | 2024-05-24 | 2024-06-14 |

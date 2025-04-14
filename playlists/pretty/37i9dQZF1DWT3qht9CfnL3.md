@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,141 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,123 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 | 96 | [Kitty](https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Kitty](https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee) | 3:20 |
 | 97 | [K.O](https://open.spotify.com/track/68UHfxaUV0dhNQDZPuTi16) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK) | [K.O](https://open.spotify.com/album/7mUpaaMMXt1ZA8R2fuMeyi) | 3:16 |
 | 98 | [BILLBOARD](https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BILLBOARD](https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR) | 3:54 |
-| 99 | [KARMA](https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [KARMA](https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO) | 2:41 |
+| 99 | [KARMA](https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Square Houze](https://open.spotify.com/artist/6yQqyQJiGD4UgKNE02P4Np) | [KARMA](https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO) | 2:41 |
 
 Snapshot ID: `Z+91dwAAAAAMoSqbtrtjMxW5uM4Zz9vn`

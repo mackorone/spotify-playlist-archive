@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les hits Raï du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,455 likes - 60 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,576 likes - 60 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/track/4iJG6cWUusjhEAE25AmMwu) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/album/3vjvWe3TFqoAoKYdVoq5m6) | 5:49 |
-| 2 | [Hala Rani Fiha](https://open.spotify.com/track/5906V9Gvt3VJzJReUsR8cG) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Hala Rani Fiha](https://open.spotify.com/album/4aMCboAxYhNkypniSCeZLZ) | 4:50 |
+| 1 | [Hala Rani Fiha](https://open.spotify.com/track/5906V9Gvt3VJzJReUsR8cG) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Hala Rani Fiha](https://open.spotify.com/album/4aMCboAxYhNkypniSCeZLZ) | 4:50 |
+| 2 | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/track/4iJG6cWUusjhEAE25AmMwu) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/album/3vjvWe3TFqoAoKYdVoq5m6) | 5:49 |
 | 3 | [Khatra Trouh Khatra Tji](https://open.spotify.com/track/5Q9jPMLj8BVPQwhqjyHsnx) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [Yousri Oscar](https://open.spotify.com/artist/5zANHpMauAK5zIFJFOycE2) | [Khatra Trouh Khatra Tji](https://open.spotify.com/album/7A4BBjY47n9sFWvxNczrhU) | 5:34 |
 | 4 | [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 |
 | 5 | [Ma msagma ma cheba ma Hnina](https://open.spotify.com/track/11HB3Toz6I1l7zXQ0RQpuL) | [Djamel Milano](https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Ma msagma ma cheba ma Hnina](https://open.spotify.com/album/2AXP0Z8CA36mMmff32VoGK) | 4:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/track/0ASqhlxw7xAYrYu5XPNuQ4) | [Abderrahmane Piti](https://open.spotify.com/artist/0hcxeVxZkWcHMlt0oJw9qY), [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs) | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/album/6GSFQJUp2IvC2z2aMQoDlz) | 4:35 |
 | 60 | [Allah Ghaleb](https://open.spotify.com/track/1w1C72J7CTI02ZJabhqiF8) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Tchikou 22](https://open.spotify.com/artist/1Awe2WHMc69DBEf6TG6WvX) | [Allah Ghaleb](https://open.spotify.com/album/5tz0bhi47zfLWciF35NHsW) | 5:11 |
 
-Snapshot ID: `Z9xk7wAAAAB0twcEQAjY9/lA8TKsbpnY`
+Snapshot ID: `Z/vmPgAAAAB6kXEACI5W/bCPPbAV5DOx`

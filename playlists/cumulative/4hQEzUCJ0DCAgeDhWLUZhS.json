@@ -5577,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "WINDOW",
+        "url": "https://open.spotify.com/album/3T7C9Pu9Sf1MuOoQnhtGVW"
+      },
+      "artists": [
+        {
+          "name": "Les Votives",
+          "url": "https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168352,
+      "name": "Priscilla",
+      "url": "https://open.spotify.com/track/0kohaqR08X8cG9yocgbHzx"
+    },
+    {
+      "album": {
         "name": "Pull Me Through",
         "url": "https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji"
       },

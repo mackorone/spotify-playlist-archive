@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-1,414 songs - 3 day 2 hr 43 min
+1,415 songs - 3 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,7 +558,7 @@
 | [House Again](https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY) | 3:22 | 2024-11-05 | 2024-11-07 |
 | [House Again](https://open.spotify.com/track/6rSxWLdzLKLE07pdKi64wP) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Hudson Westbrook](https://open.spotify.com/album/11p50hPPDIJ02CCECbKdli) | 3:22 | 2024-11-18 | 2024-11-20 |
 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-03-25 | 2025-03-28 |
-| [How Does It Feel To Be Forgotten](https://open.spotify.com/track/7sFMOSnRBa6td4lZa1oiTI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:41 | 2025-04-08 |  |
+| [How Does It Feel To Be Forgotten](https://open.spotify.com/track/7sFMOSnRBa6td4lZa1oiTI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:41 | 2025-04-08 | 2025-04-14 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-06-14 | 2024-06-17 |
 | [How to Kill Houseplants](https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [How to Kill Houseplants](https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD) | 3:28 | 2025-03-18 | 2025-03-26 |
 | [How to Make Gravy](https://open.spotify.com/track/6rEOqC9CQW7kzelaDivh65) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Songs From The South](https://open.spotify.com/album/0OkaKuQnx3pxK5t35dv54V) | 4:27 | 2024-12-21 | 2025-01-03 |
@@ -1134,8 +1134,8 @@
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-11-12 | 2024-11-21 |
 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-05-07 | 2024-05-17 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-28 | 2024-08-02 |
-| [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 | 2025-04-08 |  |
-| [Stay](https://open.spotify.com/track/74y1VgzL668hynrvA59WQB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR) | 2:45 | 2025-04-10 | 2025-04-12 |
+| [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 | 2025-04-08 | 2025-04-14 |
+| [Stay](https://open.spotify.com/track/74y1VgzL668hynrvA59WQB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR) | 2:45 | 2025-04-10 |  |
 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 | 2024-12-26 | 2025-01-01 |
 | [Stay in Your Lane](https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Stay in Your Lane](https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z) | 3:29 | 2024-02-20 | 2024-03-27 |
 | [Stayed Gone](https://open.spotify.com/track/2Evk4YMwD4zjjha2k3dbV7) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Christian Borle](https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Joel Perez](https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 3:00 | 2024-02-06 | 2024-02-15 |
@@ -1415,6 +1415,7 @@
 | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn) | 3:10 | 2024-03-30 | 2024-04-11 |
 | [オトノケ \- Otonoke \- Opening Theme to DAN DA DAN](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke \(Opening Theme to DAN DA DAN\)](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-22 | 2025-01-01 |
 | [三人遊](https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:57 | 2025-03-07 | 2025-03-11 |
+| [八方來財](https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 2:53 | 2025-04-13 |  |
 | [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 | 2025-03-05 | 2025-03-12 |
 | [才二十三](https://open.spotify.com/track/1h1odoIBoxI1BvZUpoAGcH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:44 | 2025-03-08 | 2025-03-10 |
 | [特別的人](https://open.spotify.com/track/0VTzUEuHYD8s7CgQ15cDPo) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [危險世界](https://open.spotify.com/album/3QR6UyUXB4KclN8HwSIhx9) | 4:19 | 2025-03-05 | 2025-03-13 |

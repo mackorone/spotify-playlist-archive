@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,818 songs - 3 day 22 hr 23 min
+1,819 songs - 3 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 | 2023-02-23 | 2023-10-06 |
 | [All My Heroes](https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 3:25 | 2022-03-10 | 2022-05-11 |
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-08 | 2025-03-14 |
-| [All My Life \- and then…](https://open.spotify.com/track/3YXzBX4UsYFPe11sUty9yS) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:35 | 2024-10-24 |  |
+| [All My Life \- and then…](https://open.spotify.com/track/3YXzBX4UsYFPe11sUty9yS) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:35 | 2024-10-24 | 2025-04-14 |
 | [All Over Town](https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [All Over Town](https://open.spotify.com/album/321cYact51YEkdO42GqeVe) | 3:47 | 2024-09-05 | 2025-03-28 |
 | [Alla Glömda Nätter](https://open.spotify.com/track/2fynD15EUzMbPtuKScAiNV) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett & Vita Pärlor](https://open.spotify.com/album/5rzvik02bW2rHsyaPGyS0f) | 4:16 | 2025-04-03 |  |
 | [Alla måste älska mig](https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Alla måste älska mig](https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1) | 2:44 | 2022-06-09 | 2022-07-28 |
@@ -1686,6 +1686,7 @@
 | [Vart Jag Varit \(Je Viens De Rien\) \[feat\. Maxida Märak\]](https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Vart Jag Varit \(Je Viens De Rien\) \[feat\. Maxida Märak\]](https://open.spotify.com/album/1g0LUBd086L86cj5X40hxl) | 3:21 | 2022-03-17 | 2022-07-29 |
 | [Vaskar mina tårar](https://open.spotify.com/track/1qUYbmIfoIDVRaRuDUlVZ3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Vaskar mina tårar](https://open.spotify.com/album/2UR8C8nPqhQ1W7t1ti5TAn) | 2:56 | 2021-12-16 | 2022-02-13 |
 | [Vattenfast maskara](https://open.spotify.com/track/4mUcCiwzgHl6PgYt1AsDF4) | [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Vattenfast maskara](https://open.spotify.com/album/0rtgvXiMJh6mGluRT9Kre4) | 3:07 | 2021-12-16 | 2022-04-02 |
+| [Vegas Nights](https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Vegas Nights](https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5) | 3:08 | 2025-04-10 |  |
 | [Vem e som dig](https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh) | [Willow](https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv) | [Vem e som dig](https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae) | 2:48 | 2024-02-29 | 2024-04-19 |
 | [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-28 |  |
 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 | 2024-02-08 | 2024-04-05 |

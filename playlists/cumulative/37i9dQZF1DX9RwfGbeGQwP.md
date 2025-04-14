@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,568 songs - 2 day 10 hr 57 min
+1,569 songs - 2 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Another Promise](https://open.spotify.com/track/5ZV8OzO3O4YfBArCQyilaL) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [WERE](https://open.spotify.com/artist/5P1tayGhNEZlky687uFT06) | [Another Promise](https://open.spotify.com/album/2vI7bNZCTthrYZFgymzTGb) | 2:18 | 2022-08-12 | 2022-10-15 |
 | [Anti](https://open.spotify.com/track/3zqBbUO98vVRF8SBFVMDrI) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Anti](https://open.spotify.com/album/6uWgVDRheEtVFDnlTOzsvf) | 2:14 | 2022-07-08 | 2022-12-10 |
 | [aperol spritz](https://open.spotify.com/track/6h1tgGz0ZWoNvPVadoGanS) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [aperol spritz](https://open.spotify.com/album/4WeG7tPEaI7ywF6jayjuA8) | 2:10 | 2024-10-04 |  |
-| [aperture](https://open.spotify.com/track/4nB73xtcP4qEfLcK8x2HfT) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [aperture](https://open.spotify.com/album/6uu13CX4JIamrQT6aefBy6) | 2:20 | 2025-03-28 |  |
+| [aperture](https://open.spotify.com/track/4nB73xtcP4qEfLcK8x2HfT) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [aperture](https://open.spotify.com/album/6uu13CX4JIamrQT6aefBy6) | 2:20 | 2025-03-28 | 2025-04-14 |
 | [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 | 2023-09-08 | 2024-10-19 |
 | [April](https://open.spotify.com/track/2Tc2p3pNAWjnIjiP6fS6y4) | [Young Akino](https://open.spotify.com/artist/4u16ySAhgpcfh3aRi0pv5o) | [April](https://open.spotify.com/album/60e5ClJJ339aOagoS3C21n) | 2:00 | 2023-08-03 |  |
 | [Aqua Bar](https://open.spotify.com/track/2fMjuehxqKJQml8jitq4Xd) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93) | [Aqua Bar](https://open.spotify.com/album/1ZBxF4yICm5p5i3gwqBW4F) | 1:33 | 2022-09-02 | 2023-09-05 |
@@ -169,6 +169,7 @@
 | [Bulls](https://open.spotify.com/track/3hzGguJ3xIzOWoSFZBOV4x) | [New Gate](https://open.spotify.com/artist/1zLR47Dgv8ab7NZyoPi2ay) | [Bulls](https://open.spotify.com/album/3koh0TI5LLhJ2bkD0smZ3f) | 2:34 | 2022-01-27 | 2022-07-15 |
 | [Buoyant Mood](https://open.spotify.com/track/7k6qKm5mhfkzjVuvMEUuVe) | [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [Buoyant Mood](https://open.spotify.com/album/498d4L9mZNgKbjuXrNDpQC) | 2:01 | 2022-11-25 | 2023-03-09 |
 | [Bushwick Garage](https://open.spotify.com/track/1f7AROTmLIHlt0Xuia9pIf) | [Fade Boggz](https://open.spotify.com/artist/540xW8Zj0jKsxRi39virc5) | [Bushwick Garage](https://open.spotify.com/album/4Ia4TfhX7YVgHimtmu6xMy) | 2:13 | 2024-08-30 | 2025-03-05 |
+| [butterflies in my head](https://open.spotify.com/track/0ycyOQwmsZWgiTRNN1MDFk) | [G Sounds](https://open.spotify.com/artist/0C7tVaY5qlP5YgYh7DSUoJ) | [butterflies in my head](https://open.spotify.com/album/425IDUiunzsWmbNdzo7uom) | 1:44 | 2025-04-11 |  |
 | [BUYING TIME](https://open.spotify.com/track/42ONWs84CDvyidcjFTPAdq) | [LiLucifer](https://open.spotify.com/artist/6Lr60FHZF0k8lGTQVQoBSO) | [THROWAWAY VOL\. 4: LAVENDER & LILAC](https://open.spotify.com/album/6lhvBh2ftiVNoDXajbHWL4) | 3:15 | 2022-04-08 | 2022-07-01 |
 | [By Your Side](https://open.spotify.com/track/1LkuMhbV1HMSB7Mye60a40) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [By Your Side](https://open.spotify.com/album/6yEFO1j7AKAUl08KjgKglg) | 2:00 | 2023-03-24 |  |
 | [cactus on my table](https://open.spotify.com/track/0KLNaZS6yJY6R3jyJJsXun) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Cactus Man](https://open.spotify.com/album/0xbp9NClixl5hupffRxnCA) | 1:45 | 2023-04-20 | 2024-12-01 |
@@ -615,7 +616,7 @@
 | [I can feel it](https://open.spotify.com/track/0VkfOFnwM8Qe2rJ4CAgPGS) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [I can feel it](https://open.spotify.com/album/2VDL52SN0l9MUAvkrC7d5y) | 1:47 | 2022-12-16 | 2024-12-11 |
 | [i feel empty](https://open.spotify.com/track/6kLYMXJQxcArmGYcVueUGR) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [i feel empty](https://open.spotify.com/album/06yV2b0E8Hbw8JzD6vrDwU) | 2:23 | 2022-12-09 | 2023-09-29 |
 | [I G S D](https://open.spotify.com/track/0lhV41i2VQmivlyW6Kwnqj) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [I G S D](https://open.spotify.com/album/4mxHR55aIhn6Hf6FK3gFPX) | 2:20 | 2023-11-17 | 2023-12-08 |
-| [I Just Want to Know You](https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [I Just Want to Know You](https://open.spotify.com/album/5CbZsUZjooxzpksZulU7DX) | 2:57 | 2024-09-13 | 2025-04-09 |
+| [I Just Want to Know You](https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [I Just Want to Know You](https://open.spotify.com/album/5CbZsUZjooxzpksZulU7DX) | 2:57 | 2024-09-13 |  |
 | [I Know](https://open.spotify.com/track/79AMJyh9oHGXinUaxh6Dd4) | [Nollex](https://open.spotify.com/artist/19WVYQtlRI6EPouvwegNNH) | [Harlow](https://open.spotify.com/album/0X7ddNw3fLTJXDZQ8xW2BQ) | 4:54 | 2022-01-27 | 2022-12-17 |
 | [I Needed](https://open.spotify.com/track/6rsCeQsdo9VyUeJkc9ozgB) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Wax Poetry](https://open.spotify.com/album/0iepUkNqUGDPxkKcC2Uwo8) | 2:00 | 2022-01-27 | 2022-06-10 |
 | [I try to tell him](https://open.spotify.com/track/552NfkgzKgOqDCk8SQLhmS) | [French Connection](https://open.spotify.com/artist/0mCMWvvi5gXel5a0ZZ172H) | [Grind For Years](https://open.spotify.com/album/5AiP0EETQ0GhQNJdEQbwHi) | 1:48 | 2023-03-08 | 2024-09-15 |
@@ -1343,7 +1344,7 @@
 | [sweet talking](https://open.spotify.com/track/42PjDGWFTfsX2OA6L91oOI) | [Cloudsky](https://open.spotify.com/artist/6dtqfQLAJjTheAJD4V7Tw7) | [sweet talking](https://open.spotify.com/album/4INfio2l70PiYP2io6A8lp) | 3:04 | 2023-09-04 |  |
 | [Sweev](https://open.spotify.com/track/2l4PjGR8nSYiuttb6mo47K) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Sweev](https://open.spotify.com/album/1HOCEZCmzrrIhYuhB7rPef) | 2:18 | 2022-01-27 | 2022-05-20 |
 | [Swell](https://open.spotify.com/track/2NDAiSSorPzaQ7i5sx4dDI) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Just One More Thing](https://open.spotify.com/album/0OjE95D7HmdIY5VghaCRhx) | 1:48 | 2023-09-08 | 2024-07-13 |
-| [Swing and miss](https://open.spotify.com/track/10yfgyCghuupvr2fyed4CR) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Swing and miss](https://open.spotify.com/album/4Bir9zuvbKUiyU5ZlBp4Qf) | 2:28 | 2022-06-03 |  |
+| [Swing and miss](https://open.spotify.com/track/10yfgyCghuupvr2fyed4CR) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Swing and miss](https://open.spotify.com/album/4Bir9zuvbKUiyU5ZlBp4Qf) | 2:28 | 2022-06-03 | 2025-04-14 |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-01-27 | 2022-09-09 |
 | [swing the morning away](https://open.spotify.com/track/0NJdY9aWRqnPiSA0Yy3AN9) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [swing the morning away](https://open.spotify.com/album/1AuZlcWPkOC6Hv6LNWVsKZ) | 2:35 | 2024-12-06 | 2025-01-20 |
 | [Swirl it please](https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Swirl it please](https://open.spotify.com/album/6cDBCFnk3iCIHEJDpVnPiM) | 1:58 | 2024-07-05 |  |

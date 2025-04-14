@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 21 | [hair down](https://open.spotify.com/track/5VsqyVi1rbl1zppQ3hXYWG) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:29 |
 | 22 | [Touch & Go](https://open.spotify.com/track/4UAfFOvpghqEbatFJZEoG0) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4FVAdXCpUKOmtPy2D9Kkg6) | 3:28 |
 | 23 | [Hat Trick](https://open.spotify.com/track/02Y5afO1mCHxKp9ozmBv1Q) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:49 |
-| 24 | [BURN EVERYTHING](https://open.spotify.com/track/1ZLME4ZLJTdptjVeewKFyv) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [HERD IMMUNITY 1.0](https://open.spotify.com/album/5VG8UYwd5izn2TQPX8fvBn) | 2:47 |
+| 24 | [BURN EVERYTHING](https://open.spotify.com/track/1ZLME4ZLJTdptjVeewKFyv) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Yé](https://open.spotify.com/artist/3BZbaVVOuBOsvV4eMLSEDN) | [HERD IMMUNITY 1.0](https://open.spotify.com/album/5VG8UYwd5izn2TQPX8fvBn) | 2:47 |
 | 25 | [Bad Boy](https://open.spotify.com/track/4cqeHoB8cBcoXeZPmP2YqI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 2:02 |
 | 26 | [God Sent](https://open.spotify.com/track/0MyOenr6UKkwTFlBvO5dQz) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 0:54 |
 | 27 | [Hard To Get](https://open.spotify.com/track/76EsDQYBWuwOSh8BBf8fIT) | [KUN](https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior) | [Hard To Get](https://open.spotify.com/album/11lQK5t31grTuIBjhCyL47) | 2:39 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 104 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 105 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AbunWgAAAAC1KUtbj+vR/+JrZPXGd6u6`
+Snapshot ID: `AbusvgAAAAApg7UkO/zwNUGAUDIln6FE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,618 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,623 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Простужен](https://open.spotify.com/track/3VnFEw7QY1kDjU5I0VSFPf) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [Простужен](https://open.spotify.com/album/6vogXAr8gw3aW4AXgxLLR1) | 1:34 |
 | 50 | [мальчик](https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww) | [кис\-кис](https://open.spotify.com/artist/4jIvmo6hfAQ04NSOWPVVA3) | [Магазин игрушек для взрослых](https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu) | 3:02 |
 
-Snapshot ID: `L43sOAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L48q+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

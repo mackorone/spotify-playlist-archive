@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 226618,
+  "num_followers": 226668,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAADzwhQOKp2M0OQ62WmVLqTe",
+  "snapshot_id": "Z/mtAAAAAACRPO6xN4Dyio5NvIjK8AD9",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 218040,
-      "name": "Abracadabras (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/2mJYTwrs3lMTJ0Z2TXnbZZ"
+      "duration_ms": 182333,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
       "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 182333,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
+      "duration_ms": 218040,
+      "name": "Abracadabras (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/2mJYTwrs3lMTJ0Z2TXnbZZ"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
       "duration_ms": 220253,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Oleada",
+      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 205466,
       "name": "Ser\u00eda Feliz",
       "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Oleada",
-      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
     },
     {
       "added_at": null,

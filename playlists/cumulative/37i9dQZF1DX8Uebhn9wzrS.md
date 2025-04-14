@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,299 songs - 3 day 15 hr 36 min
+2,301 songs - 3 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 | 2022-04-15 | 2022-10-14 |
 | [Artificial](https://open.spotify.com/track/5a5TO5nHnrrCRtEGNpO8jV) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [Artificial](https://open.spotify.com/album/3v5ThC3GpRXSwxqjeBHlrQ) | 2:07 | 2023-03-08 |  |
 | [As a friend](https://open.spotify.com/track/7bFqZel7uUPao8OU2SxazG) | [Boho Scottish](https://open.spotify.com/artist/0TudjISZ7XuF3WDYBYxXqx) | [Let´s Make A Wish](https://open.spotify.com/album/3AzgtFCVkJTL00DVJ8nujl) | 1:35 | 2022-04-15 | 2023-08-18 |
-| [as evening fades](https://open.spotify.com/track/3XTMgAGuQ1OhS2rR82KF8K) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [as evening fades](https://open.spotify.com/album/541TqA3eo2pNFFf33JEoDq) | 1:58 | 2025-01-24 |  |
+| [as evening fades](https://open.spotify.com/track/3XTMgAGuQ1OhS2rR82KF8K) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [as evening fades](https://open.spotify.com/album/541TqA3eo2pNFFf33JEoDq) | 1:58 | 2025-01-24 | 2025-04-14 |
 | [As the Colors of Dawn](https://open.spotify.com/track/12ZeIRkJj7J0eNrj1lwzNH) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [As the Colors of Dawn](https://open.spotify.com/album/166hCS6shddMRmgZYzwoQU) | 2:43 | 2023-08-03 | 2023-10-06 |
 | [As Winter Approaches](https://open.spotify.com/track/337lEaR06seeCBSNpBC3IA) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [As Winter Approaches](https://open.spotify.com/album/4nt9OYAoyYSYQ1iDODbZoa) | 1:37 | 2022-11-11 | 2023-09-16 |
 | [Aspire](https://open.spotify.com/track/37MeQL8h7N0Vq35LHfCFGZ) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Aspire](https://open.spotify.com/album/4AGxA5Bq2ezLLIEEtPjLyP) | 2:12 | 2022-07-01 | 2022-11-26 |
@@ -501,7 +501,7 @@
 | [Deep Water](https://open.spotify.com/track/7ifY5vAGZ32qT8XBAgKXuM) | [Buve Clouds](https://open.spotify.com/artist/60dVy7kuRrJZvOsFFiMBK9) | [Deep Water](https://open.spotify.com/album/0jneJ2Fl7ChM1x7nwyEHVM) | 2:23 | 2024-02-09 | 2024-04-26 |
 | [Demure](https://open.spotify.com/track/2cJSIbNyza74uZU3OmKdVO) | [Lithe X](https://open.spotify.com/artist/4YjQHRiLaA7cY1osayE74F) | [Demure](https://open.spotify.com/album/1pOBSJLXhnoz44gtKjzZBf) | 2:18 | 2022-04-15 | 2022-05-27 |
 | [departure](https://open.spotify.com/track/3VtNgwrW7ZpnPjXfnkXBTh) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [departure](https://open.spotify.com/album/5rwZIBeQdCg8X7NabbmJbF) | 2:04 | 2022-04-15 | 2022-05-27 |
-| [Departures](https://open.spotify.com/track/01Umgki1DY4yk49HikSgx7) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Departures](https://open.spotify.com/album/4z4h9zajNER1hQyONGOrrb) | 2:07 | 2025-03-07 |  |
+| [Departures](https://open.spotify.com/track/01Umgki1DY4yk49HikSgx7) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Departures](https://open.spotify.com/album/4z4h9zajNER1hQyONGOrrb) | 2:07 | 2025-03-07 | 2025-04-14 |
 | [Deploy](https://open.spotify.com/track/2UYDi8xrBMkWhzjLe6phna) | [Gradient Island](https://open.spotify.com/artist/2L6LmEsTHaUiSr1cxjbT0U) | [The Lost Tapes](https://open.spotify.com/album/7vKH3FSTOeST6BdCNorsdy) | 1:27 | 2022-04-15 | 2022-06-10 |
 | [Deux Issues](https://open.spotify.com/track/5rEZbTGUKmxNpfdqaQkd36) | [Major Mélanger](https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH) | [Deux Issues](https://open.spotify.com/album/1JFbMzfDYFX0LrJpfCzipd) | 2:44 | 2023-12-08 |  |
 | [Devolving](https://open.spotify.com/track/1o11MvTRPD8vW7BhAQmWLw) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Devolving](https://open.spotify.com/album/7DhS7EenGeLLAJPwfuEVMA) | 1:56 | 2022-05-13 | 2022-11-12 |
@@ -1745,6 +1745,7 @@
 | [seven](https://open.spotify.com/track/0x5lZBgd6EekTwkTGVGE7M) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [seven](https://open.spotify.com/album/2kbVdVtXdNRlDg8gUbOmJ2) | 2:36 | 2023-01-06 | 2024-11-16 |
 | [Shade](https://open.spotify.com/track/1KDSYqKNzT5uo6aHDL88vC) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Shade](https://open.spotify.com/album/2b5gBLg7rnvm78UE3amQk7) | 2:00 | 2023-07-13 | 2025-03-20 |
 | [Shades Of Groove](https://open.spotify.com/track/0rxKoqUnlNePLIP6lzeBxE) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Shades Of Groove](https://open.spotify.com/album/1q86UDMbp2LLSLa7aSC5al) | 2:44 | 2022-04-15 | 2022-09-02 |
+| [Shadows](https://open.spotify.com/track/5VEiJ4VqtQlgT7pqXjRvCW) | [Mellow Mirror](https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G) | [Shadows](https://open.spotify.com/album/3aeJQgUEajPY0axkZ3OuR6) | 2:03 | 2025-04-11 |  |
 | [shanghai tower](https://open.spotify.com/track/0BBtNOB7ofrOJ9PLM74EQn) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [shanghai tower](https://open.spotify.com/album/4ds0B84aCLuJkq15R8iT3O) | 2:17 | 2024-02-23 |  |
 | [Shanghai, 4AM](https://open.spotify.com/track/7GWNhXxBhU5zXifNuLA9Vp) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Shanghai, 4AM](https://open.spotify.com/album/33a3a2DxYBxPv5RYa18pxe) | 1:47 | 2022-04-15 | 2022-10-29 |
 | [Shapes](https://open.spotify.com/track/4BiiiOiilAEgCkeynf3hlC) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Shapes](https://open.spotify.com/album/2Gk8tUVQ8KTbTJCd2hnvZZ) | 1:54 | 2022-10-07 |  |
@@ -2200,6 +2201,7 @@
 | [Walking Through Rainbows](https://open.spotify.com/track/67zPAbFFnnVhQdfVhHDqTM) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Walking Through Rainbows](https://open.spotify.com/album/5D9XTz50hVBrWmajZa4QGj) | 2:42 | 2022-09-16 | 2023-01-07 |
 | [Walking Through The Stars](https://open.spotify.com/track/0iTZSbxozdf64p3ozCo8d5) | [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Walking Through The Stars](https://open.spotify.com/album/7gqBpFvwPy7Ygkp62K0IpH) | 1:56 | 2022-12-02 | 2023-09-16 |
 | [wall colors.](https://open.spotify.com/track/3NcBc9qshhcySWH721OHWR) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [wall colors.](https://open.spotify.com/album/1x9txLbApbNCcc0Lx6F6GH) | 2:22 | 2022-04-15 | 2023-03-02 |
+| [Wallflower](https://open.spotify.com/track/55A4cz4xvBtybJAguBzBSJ) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Wallflower](https://open.spotify.com/album/2QROOCX5ImLrU3hpeHXzTG) | 2:28 | 2025-04-11 |  |
 | [Waltz of the Ancients](https://open.spotify.com/track/0v54Uruqd5UyzfifVVaHUK) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Runa](https://open.spotify.com/album/59m5jt7eZk4og1QhHT4YHf) | 2:03 | 2024-02-02 |  |
 | [wanderlust](https://open.spotify.com/track/3H4uTtG1wEOaEgMt5TuTim) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [wanderlust](https://open.spotify.com/album/0Nf2gi4zB4TQ4PZme0xgZo) | 2:09 | 2023-06-06 | 2023-10-06 |
 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 | 2023-01-20 |  |

@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-226 songs - 16 hr 1 min
+227 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Ki moun ou ye](https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7) | 5:20 | 2024-01-18 | 2024-04-19 |
 | [Ki moun ou ye](https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE) | 5:20 | 2024-01-18 | 2024-05-01 |
 | [Kolyskova](https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Light](https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT) | 5:46 | 2021-10-20 |  |
+| [Komorebi](https://open.spotify.com/track/05C1jOzbVwgBk7QIblRtIS) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Komorebi](https://open.spotify.com/album/4mc84YGqjBp90AnPB1XfkA) | 3:33 | 2025-03-21 |  |
 | [L'homme félin](https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY) | [Labelle](https://open.spotify.com/artist/7wF9y3gjWdR3DOtFG5PVFS) | [NOIR ANIMA](https://open.spotify.com/album/2KY2Lb0t4KYC11YDvYeJna) | 4:36 | 2023-11-23 | 2024-06-23 |
 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 | 2024-04-30 |  |
 | [La Ruée](https://open.spotify.com/track/31WNmOPMuCiQG3dbRF1SKp) | [Tony Njoku](https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK) | [Last Bloom](https://open.spotify.com/album/02Ry9p7negWeW2eowLlnDA) | 3:03 | 2025-01-29 |  |
@@ -139,7 +140,7 @@
 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 | 2022-03-04 |  |
 | [Ne Yaptıysam Senin İçin](https://open.spotify.com/track/1BGAAf5sBYsob5EWCgLWdB) | [Durukan Betses](https://open.spotify.com/artist/4bwCObMA0kPsoCaDEz3eid) | [Ne Yaptıysam Senin İçin](https://open.spotify.com/album/63RJH91Yv0sEBD02zPFxWD) | 4:52 | 2024-02-02 | 2024-10-05 |
 | [Newcastle](https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 5:43 | 2023-12-12 |  |
-| [NO ME DABA CUENTA](https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [María José Luna](https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR) | [NO ME DABA CUENTA](https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK) | 3:29 | 2024-08-21 |  |
+| [NO ME DABA CUENTA](https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [María José Luna](https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR) | [NO ME DABA CUENTA](https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK) | 3:29 | 2024-08-21 | 2025-04-14 |
 | [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 | 2024-02-02 | 2025-03-23 |
 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 | 2022-07-01 |  |
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 | 2024-04-19 |
@@ -148,7 +149,7 @@
 | [OH WAH \(feat\. NATURE\)](https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [OH WAH \(feat\. NATURE\)](https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1) | 3:25 | 2024-04-23 | 2024-11-02 |
 | [On te l'avait dit](https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 6:24 | 2021-10-20 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2021-10-20 |  |
-| [Ordunun Dereleri](https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Ordunun Dereleri](https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm) | 4:45 | 2021-10-20 |  |
+| [Ordunun Dereleri](https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Ordunun Dereleri](https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm) | 4:45 | 2021-10-20 | 2025-04-14 |
 | [Parev' Ajere](https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:33 | 2021-10-20 |  |
 | [Particle](https://open.spotify.com/track/5hHiaNGhCIBVXbtKh5qJKy) | [Gamelan X](https://open.spotify.com/artist/51m4Z9wxLvsGoplFSxAMjI) | [Satu](https://open.spotify.com/album/3rHVI7CZbaiTPyHB4Cb3jX) | 6:29 | 2024-10-16 | 2025-02-01 |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2021-10-20 | 2024-04-19 |
@@ -215,7 +216,7 @@
 | [Wakangenei](https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH) | [Ankobo + Kaboo](https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6) | [Wakangenei](https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2) | 3:52 | 2021-10-20 | 2024-07-18 |
 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 | 2024-01-11 | 2024-06-06 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-28 |  |
-| [Whaya](https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Whaya](https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t) | 3:46 | 2022-11-17 | 2025-03-08 |
+| [Whaya](https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Whaya](https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t) | 3:46 | 2022-11-17 |  |
 | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Muyun Brothers](https://open.spotify.com/artist/2y2brohJLOwREBed1LdUMF) | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR) | 3:06 | 2024-02-10 |  |
 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2021-10-20 |  |
 | [Ya Watan](https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Manara](https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG) | 2:50 | 2024-10-16 |  |

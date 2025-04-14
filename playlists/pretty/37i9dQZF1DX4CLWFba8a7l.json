@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Spacey Jane",
-  "num_followers": 125919,
+  "num_followers": 125924,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
       },
@@ -559,26 +575,6 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Room For You",
-        "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Room For You",
-      "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
       },
@@ -595,6 +591,22 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "If Our Love Is Dead",
+      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR"
       },
@@ -607,22 +619,6 @@
       "duration_ms": 167849,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -647,34 +643,22 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
-        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+        "name": "Room For You",
+        "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "If Our Love Is Dead",
-      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
-      },
-      "artists": [
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 303130,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
+      "duration_ms": 183373,
+      "name": "Room For You",
+      "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
     },
     {
       "added_at": "2025-04-10 14:00:36",
@@ -691,6 +675,22 @@
       "duration_ms": 217400,
       "name": "Don't Forget You Love Me",
       "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 303130,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
+        "name": "Electric Feel (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Electric Feel - Spotify Singles",
+      "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 231966,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Electric Feel (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Electric Feel - Spotify Singles",
-      "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -911,18 +911,34 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "All the Noise",
-        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 179858,
-      "name": "All the Noise",
-      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
+      "duration_ms": 174595,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+    },
+    {
+      "added_at": "2025-04-10 14:00:36",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "duration_ms": 185247,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -943,18 +959,18 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 174595,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+      "duration_ms": 179858,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -987,22 +1003,6 @@
       "duration_ms": 228500,
       "name": "Desire to Stay",
       "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "How to Kill Houseplants",
-        "url": "https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 208797,
-      "name": "How to Kill Houseplants",
-      "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1057,20 +1057,20 @@
       "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
     },
     {
-      "added_at": "2025-04-10 14:00:36",
+      "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo"
+        "name": "How to Kill Houseplants",
+        "url": "https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD"
       },
       "artists": [
         {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 185247,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth"
+      "duration_ms": 208797,
+      "name": "How to Kill Houseplants",
+      "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
+        "name": "Spend My Nights",
+        "url": "https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX"
       },
       "artists": [
         {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 239769,
-      "name": "Love at First Sight - Spotify Singles",
-      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "What You've Lost",
-        "url": "https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8"
-      },
-      "artists": [
-        {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
-        }
-      ],
-      "duration_ms": 171351,
-      "name": "What You've Lost",
-      "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
+      "duration_ms": 150250,
+      "name": "Spend My Nights",
+      "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
+        "name": "What You've Lost",
+        "url": "https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 171351,
+      "name": "What You've Lost",
+      "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
         "name": "Just Like North",
         "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
       },
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 239769,
+      "name": "Love at First Sight - Spotify Singles",
+      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
         "name": "Happiness In A Place It Shouldn't Be",
         "url": "https://open.spotify.com/album/7bB8437Z2UvT6SSMFBWez2"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 169304,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Spend My Nights",
-        "url": "https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Spend My Nights",
-      "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
     },
     {
       "added_at": "2025-04-08 14:00:10",

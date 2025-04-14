@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: ME:I
 
-496 songs - 1 day 4 hr 19 min
+498 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 | 2023-02-09 | 2023-03-25 |
 | [Hey baby!](https://open.spotify.com/track/0MyB2GqSgFY5pK37jHSSH3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Dejavu](https://open.spotify.com/album/1wEHnUyeTsnlJFXuh5dWBY) | 2:35 | 2023-02-23 | 2023-04-14 |
 | [Hey Song](https://open.spotify.com/track/0tjzgMwPAAkL4xAY3g74FS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Hey Song](https://open.spotify.com/album/5zrsUKzB8ULxQAavQLs8He) | 3:31 | 2023-09-07 | 2023-10-06 |
-| [Hi\-Five](https://open.spotify.com/track/2tInxej0SuDFc5c94x4GBB) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Hi\-Five](https://open.spotify.com/album/4pe4BLnbONwKENMUxzYpq9) | 2:45 | 2025-04-01 |  |
+| [Hi\-Five](https://open.spotify.com/track/2tInxej0SuDFc5c94x4GBB) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Hi\-Five](https://open.spotify.com/album/4pe4BLnbONwKENMUxzYpq9) | 2:45 | 2025-04-01 | 2025-04-14 |
 | [Higher \- Remix](https://open.spotify.com/track/5ziiPlHiZWgexfYDWaMfMS) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Zen Masuta](https://open.spotify.com/artist/6lwzRQVG0c0n3XhfYOKyLU) | [Higher \(Remix\)](https://open.spotify.com/album/6egmg7oo4uDNKDYDUXSkR2) | 3:56 | 2023-11-09 | 2024-01-12 |
 | [himawari](https://open.spotify.com/track/6EMixJeYzOGRHrrGz4EVwT) | [RKID'z](https://open.spotify.com/artist/2M4aC5IMTkKDehBolXar1B) | [HIMAWARI](https://open.spotify.com/album/7L3JLQdnE1BWXXubSZSqWZ) | 3:39 | 2023-11-09 | 2024-03-02 |
 | [Himotoai](https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Himotoai](https://open.spotify.com/album/0NSqWhZSLPVcgceCGpVV5O) | 2:42 | 2023-03-03 | 2023-03-18 |
@@ -188,7 +188,7 @@
 | [Meiteika](https://open.spotify.com/track/4Jfy4KEi4H0YX0dyvaQDk5) | [あすくーる](https://open.spotify.com/artist/4mtzJEsnw8kOF6zmxYatok), [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [あらの](https://open.spotify.com/artist/1lbHbxaaPWLNcAfYaxyVZy) | [Meiteika](https://open.spotify.com/album/1Bg08HJ6DV7pyJPRk9OWXS) | 3:07 | 2023-09-07 | 2023-12-14 |
 | [meow bell](https://open.spotify.com/track/0u8kiQsb059uWLMxL5Foio) | [nogika chaba](https://open.spotify.com/artist/3vbtMfAWkjNFOFrcQRFZyZ) | [TEA TIME](https://open.spotify.com/album/4pLBNMAi00WNFyiBSUgq29) | 2:08 | 2023-04-13 | 2023-05-19 |
 | [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 | 2023-10-12 | 2023-11-11 |
-| [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Money Baby \(feat\. Awich\)](https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV) | 3:00 | 2024-10-03 |  |
+| [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Money Baby \(feat\. Awich\)](https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV) | 3:00 | 2024-10-03 | 2025-04-14 |
 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 | 2023-11-09 | 2024-05-01 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-26 | 2023-02-24 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-09-07 | 2023-11-11 |
@@ -233,6 +233,7 @@
 | [Purple Sky](https://open.spotify.com/track/2iSDIJbLx7CyyHSD6oGrOB) | [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Purple Sky](https://open.spotify.com/album/2TfT67IkpQsOoAqSaqy3sb) | 3:30 | 2023-01-26 | 2023-03-18 |
 | [qr](https://open.spotify.com/track/5V6DyBn1ZNQ8dAUFA1z8sj) | [Worldname](https://open.spotify.com/artist/15VNmjbvNwDyx8WHtp5h0W) | [qr](https://open.spotify.com/album/7taowW8LRr2YGXC8EZKpV6) | 3:07 | 2024-07-01 | 2024-07-05 |
 | [Rashiku](https://open.spotify.com/track/1TBHbljkZmfH15BkKowBDK) | [yangskinny](https://open.spotify.com/artist/3S1RuiWcc2b2Kbwm2zxaAl) | [Rashiku](https://open.spotify.com/album/3hOIKNqobignQz1MheQ0o9) | 4:22 | 2023-02-09 | 2023-03-03 |
+| [Ready Go](https://open.spotify.com/track/3DXsJF9I3rmb4tzTaavbpT) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/63Fi9c3GqnaR2aTbm4lR5D) | 3:20 | 2025-04-13 |  |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-08-17 | 2024-01-20 |
 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 | 2024-01-19 | 2024-04-19 |
 | [Run](https://open.spotify.com/track/4JZzsSVtY9AkFtAgO2b2RP) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Showcase](https://open.spotify.com/album/51Dh8xNNwdk0C7CaWimgMH) | 4:06 | 2023-02-09 | 2023-03-10 |
@@ -499,6 +500,7 @@
 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 | 2023-12-07 | 2024-05-01 |
 | [鎌倉STYLE](https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [鎌倉STYLE](https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W) | 3:20 | 2024-08-01 | 2024-11-08 |
 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 | 2023-01-26 | 2023-03-18 |
+| [電車の窓から](https://open.spotify.com/track/7eED5ZjvphcEaQjxkzsvBP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アンコール](https://open.spotify.com/album/4BciHYMbN5HlyO899tmMc9) | 4:52 | 2025-04-13 |  |
 | [青梅](https://open.spotify.com/track/0D0RLKxs1x9BfEnaFUfKCl) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [青梅](https://open.spotify.com/album/3iSZuYp6JssxuMOsqte6NO) | 3:11 | 2023-08-17 | 2023-09-22 |
 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 | 2023-11-11 |
 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-18 | 2024-07-01 |

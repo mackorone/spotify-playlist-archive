@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-363 songs - 23 hr 57 min
+364 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All Day](https://open.spotify.com/track/49S2zEVuoV3BcA2mdyowiA) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/7MtJoa3DKfwRls9963YtqX) | 3:06 | 2023-05-19 | 2023-05-27 |
 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 | 2024-02-02 |  |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-05-19 |  |
-| [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 |  |
+| [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 | 2025-04-14 |
 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 | 2024-07-12 |  |
 | [Alsace](https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Alsace](https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS) | 1:57 | 2024-07-05 |  |
 | [Always By Your Side](https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Always By Your Side](https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH) | 5:37 | 2024-06-14 |  |
@@ -147,6 +147,7 @@
 | [Hydrate](https://open.spotify.com/track/6hHn9EtyvsJhovCmCCaJz2) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Hydrate EP](https://open.spotify.com/album/1X4AfBEtMngYcVObm6QKq1) | 6:22 | 2021-07-24 | 2023-05-20 |
 | [Hypnotizin'](https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Hypnotizin'](https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig) | 3:58 | 2024-09-06 | 2024-10-17 |
 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 | 2021-07-24 | 2024-08-28 |
+| [I Don't Mind](https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Esra Nuray](https://open.spotify.com/artist/6OcDeuYpbb3U1QSTeQPuA7) | [I Don't Mind](https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw) | 3:35 | 2025-04-11 |  |
 | [I feel it](https://open.spotify.com/track/14a2TSfC8bFHtl5SuZRh5r) | [Echo Synth](https://open.spotify.com/artist/1VAGFpwbHuweT28iy1UzE4) | [I feel it](https://open.spotify.com/album/5yQBmsyXWQz3PqNC5E413g) | 2:22 | 2023-10-27 | 2025-02-22 |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2021-07-24 |  |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-19 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1144989,
+  "num_followers": 1145016,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Doble Vida (Remastered)",
-        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 346053,
-      "name": "En La Ciudad De La Furia - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -123,22 +107,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -151,6 +119,38 @@
       "duration_ms": 233746,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "En La Ciudad De La Furia - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "El amor despu\u00e9s del amor",
-      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 336360,
-      "name": "Balada Del Diablo y La Muerte",
-      "url": "https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH"
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -247,6 +231,22 @@
       "duration_ms": 273306,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 336360,
+      "name": "Balada Del Diablo y La Muerte",
+      "url": "https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario (2019 Remasterizado)",
+        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 265312,
+      "name": "Viernes, 3AM - 2019 Remasterizado",
+      "url": "https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 354746,
       "name": "Ala Delta",
       "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario (2019 Remasterizado)",
-        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 265312,
-      "name": "Viernes, 3AM - 2019 Remasterizado",
-      "url": "https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 285093,
       "name": "Sin documentos",
       "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 223532,
-      "name": "Ya No Mires Atr\u00e1s",
-      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -883,38 +883,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Viento Dile a la Lluvia",
-        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 169120,
-      "name": "Viento, Dile a la Lluvia",
-      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 454530,
-      "name": "Libros Sapienciales",
-      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Ya No Mires Atr\u00e1s",
         "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
@@ -931,6 +899,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Viento Dile a la Lluvia",
+        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 169120,
+      "name": "Viento, Dile a la Lluvia",
+      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Treinta Minutos de Vida",
         "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 174973,
       "name": "El Oso",
       "url": "https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 454530,
+      "name": "Libros Sapienciales",
+      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Mi Cuarto",
-        "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
       "artists": [
         {
-          "name": "Vivencia",
-          "url": "https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY"
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 237573,
-      "name": "Los Juguetes Y Los Ni\u00f1os",
-      "url": "https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF"
+      "duration_ms": 326647,
+      "name": "Agua de R\u00edo",
+      "url": "https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1023,6 +1023,22 @@
       "duration_ms": 130213,
       "name": "Ayer Nom\u00e1s",
       "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Mi Cuarto",
+        "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
+      },
+      "artists": [
+        {
+          "name": "Vivencia",
+          "url": "https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Los Juguetes Y Los Ni\u00f1os",
+      "url": "https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1071,22 +1087,6 @@
       "duration_ms": 240013,
       "name": "Tan Solo",
       "url": "https://open.spotify.com/track/6vNaGz1KH44XJ9zRyCE81I"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 326647,
-      "name": "Agua de R\u00edo",
-      "url": "https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT"
     },
     {
       "added_at": "2024-11-11 16:58:11",

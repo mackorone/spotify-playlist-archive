@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Juanjo Bona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,158 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,164 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 20 | [Puertas al campo](https://open.spotify.com/track/3ULo9iXLy2Mv235k0uuWeW) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [DESQUICIADO](https://open.spotify.com/album/29Rmm5352PQfQBSee0pWXM) | 3:05 |
 | 21 | [La Eternidad](https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [La Eternidad](https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr) | 3:45 |
 | 22 | [Tu Novia Me Tiene Miedo](https://open.spotify.com/track/3nhk2EbjtSw59eHNcz8v6p) | [Fitasha](https://open.spotify.com/artist/6TziwTrHsHSviAxb6EBoPk) | [Tu Novia Me Tiene Miedo](https://open.spotify.com/album/7zVo9vjsyL3snaXgHu9AwD) | 4:22 |
-| 23 | [Vértigo](https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Vértigo](https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe) | 2:24 |
-| 24 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
+| 23 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
+| 24 | [Vértigo](https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Vértigo](https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe) | 2:24 |
 | 25 | [Tengo TDH](https://open.spotify.com/track/5ZtscymtM4nLewkx59Z06H) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Tengo TDH](https://open.spotify.com/album/3BWzL0NpSTpppnWSLXRBmg) | 2:55 |
 | 26 | [El Baño de las Chicas \- Oreiana Remix](https://open.spotify.com/track/4pZ46x0Wgvfn0HvAiuzpFD) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr), [Oreiana](https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y) | [El Baño de las Chicas \(Oreiana Remix\)](https://open.spotify.com/album/6GIWlciqamp7b3s9kFC5aG) | 4:13 |
 | 27 | [PRIVADO](https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [EL NENE, VOL\. 1](https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx) | 2:19 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 33 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 34 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
 | 35 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
-| 36 | [Nada es para siempre](https://open.spotify.com/track/3UvcQKVDs2aCi3SDjLE2tJ) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Nada es para siempre](https://open.spotify.com/album/1uwQ7i3zlQNKZX9cjUoQm3) | 2:41 |
-| 37 | [Me lo invento](https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Me lo invento](https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj) | 3:15 |
+| 36 | [Me lo invento](https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Me lo invento](https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj) | 3:15 |
+| 37 | [Nada es para siempre](https://open.spotify.com/track/3UvcQKVDs2aCi3SDjLE2tJ) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Nada es para siempre](https://open.spotify.com/album/1uwQ7i3zlQNKZX9cjUoQm3) | 2:41 |
 | 38 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
-| 39 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
-| 40 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 |
-| 41 | [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 |
-| 42 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
+| 39 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 |
+| 40 | [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 |
+| 41 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
+| 42 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
 | 43 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
 | 44 | [FANCY](https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [FANCY](https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH) | 2:23 |
 | 45 | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/album/2H1bgQIXX0yLMYXG77cUfq) | 2:57 |
 | 46 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 |
-| 47 | [ibuprofeno](https://open.spotify.com/track/6K2lKVZS90RrnZcGA1ALGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ibuprofeno](https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl) | 2:48 |
-| 48 | [Fatty Fairy](https://open.spotify.com/track/7yZrh7dzQLjYrGZ4NdDTfN) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Fatty Fairy](https://open.spotify.com/album/06331uDlz3m9Uliot3gZmb) | 2:27 |
-| 49 | [No Es La Mía](https://open.spotify.com/track/16VwRXrWNvrqi1wMgHvsst) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [No Es La Mía](https://open.spotify.com/album/3Igm3BJMtaaUmDud6RBATt) | 2:52 |
+| 47 | [No Es La Mía](https://open.spotify.com/track/16VwRXrWNvrqi1wMgHvsst) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [No Es La Mía](https://open.spotify.com/album/3Igm3BJMtaaUmDud6RBATt) | 2:52 |
+| 48 | [ibuprofeno](https://open.spotify.com/track/6K2lKVZS90RrnZcGA1ALGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ibuprofeno](https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl) | 2:48 |
+| 49 | [Fatty Fairy](https://open.spotify.com/track/7yZrh7dzQLjYrGZ4NdDTfN) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Fatty Fairy](https://open.spotify.com/album/06331uDlz3m9Uliot3gZmb) | 2:27 |
 | 50 | [Fumo Escarcha](https://open.spotify.com/track/7gHvsVdofphSMQsKg47UnX) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Serchito trambotiko](https://open.spotify.com/artist/7yNV6fwF1pigvEZTsEaegm), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [dn.aire](https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J) | [Fumo Escarcha](https://open.spotify.com/album/43qGLfNbqTbP9sWiFGSUEA) | 3:15 |
 
 Snapshot ID: `Z+xh5wAAAACRfENOq3ZYNhMH/vt0PfAT`

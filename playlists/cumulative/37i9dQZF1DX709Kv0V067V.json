@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 145793,
       "name": "Close Of Day",
       "url": "https://open.spotify.com/track/3H9DsbBc9Znt08pyOtXBoI"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 165250,
       "name": "Dummra At Night",
       "url": "https://open.spotify.com/track/1jSZPy7olA0IUqr8Vmamkv"
@@ -4233,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Through the Forest",
+        "url": "https://open.spotify.com/album/4gWWUsdWzGa7ieooBBZKSO"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Through the Forest",
+      "url": "https://open.spotify.com/track/0oTdeagIaeCFi6f5kypFsm"
+    },
+    {
+      "album": {
         "name": "Time Travel",
         "url": "https://open.spotify.com/album/4DTNbeJ1jcQPB1TPChFDFn"
       },
@@ -4280,7 +4298,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 156000,
       "name": "Togetherness (Forest Sleep 528 Hz)",
       "url": "https://open.spotify.com/track/3tqIjFtPZ8EBzsXRngKW4s"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: ONEFOUR, Lana Del Rey, Dean Lewis, Spacey Jane, Shaboozey, Myles Smith, Bon Iver + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,005 likes - 95 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,025 likes - 95 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 94 | [hot and talking](https://open.spotify.com/track/72vZQDoPeWNmo9cbuAfFvY) | [JUNO](https://open.spotify.com/artist/5rxsXE7ZCWfW3ft7Dc5eyu) | [hot and talking](https://open.spotify.com/album/06Wt4oQiVFEWTbR2G65Qie) | 3:28 |
 | 95 | [Pink Silence](https://open.spotify.com/track/4RmZkuusymVkxPif2PzKCl) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Pink Silence](https://open.spotify.com/album/1y11ZOaFzAjF8zmHqjTBwN) | 3:19 |
 
-Snapshot ID: `Z/iT0gAAAACJxhv51xRLgC2kMo0zuOBb`
+Snapshot ID: `Z/xHYwAAAADeNKTRRu2qt5EMQmWJtsgN`

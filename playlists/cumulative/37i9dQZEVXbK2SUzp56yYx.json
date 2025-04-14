@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 182560,
       "name": "Diskovery",
       "url": "https://open.spotify.com/track/0glgTkbSgskHVjGj2Hdy8A"
@@ -4510,7 +4510,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
@@ -10350,7 +10350,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 95302,
       "name": "MONTAGEM TOMADA - Super Slowed",
       "url": "https://open.spotify.com/track/4CsIS26ndsxIzM8X8VEaXd"
@@ -13346,6 +13346,24 @@
       "duration_ms": 118208,
       "name": "sexisdeath",
       "url": "https://open.spotify.com/track/5TLe3JtOqaTEj249Up1luW"
+    },
+    {
+      "album": {
+        "name": "sexyswag",
+        "url": "https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc"
+      },
+      "artists": [
+        {
+          "name": "madk1d",
+          "url": "https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89552,
+      "name": "sexyswag2010",
+      "url": "https://open.spotify.com/track/5WvTdhqJlb9p1UwZmBVRwx"
     },
     {
       "album": {
@@ -20510,7 +20528,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 157200,
       "name": "\u0417\u0430\u043a\u0440\u0438\u0447\u0443 \u043d\u0430 \u0432\u0435\u0441\u044c \u043c\u0438\u0440",
       "url": "https://open.spotify.com/track/35lJ5MAI1svXOy6fuTdCLi"
@@ -21136,7 +21154,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 260693,
       "name": "\u041a\u043b\u0438\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/4gXLyzyKegOJQDNzmEwr6f"
@@ -22277,6 +22295,24 @@
     },
     {
       "album": {
+        "name": "\u043c\u043e\u043b\u0447\u0438",
+        "url": "https://open.spotify.com/album/7F4ihsFaSOFu3XMpkv838o"
+      },
+      "artists": [
+        {
+          "name": "kyNZai",
+          "url": "https://open.spotify.com/artist/6lAZ0uf04xVwcPK1uciVa6"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113711,
+      "name": "\u043c\u043e\u043b\u0447\u0438",
+      "url": "https://open.spotify.com/track/5iNXs2LTLN6LL5KHogaLVY"
+    },
+    {
+      "album": {
         "name": "\u041c\u043e\u043b\u0438\u0442\u0432\u044b. \u0410\u043d\u0435\u043a\u0434\u043e\u0442\u044b. \u0422\u043e\u0441\u0442\u044b.",
         "url": "https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox"
       },
@@ -22842,6 +22878,24 @@
       "duration_ms": 176500,
       "name": "\u041d\u0435 \u043f\u0440\u0443\u0442 \u043a\u043e\u043b\u0451\u0441\u0430 (prod. by Lucky)",
       "url": "https://open.spotify.com/track/6xhos61o07I2h0xl9JKKR1"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0435 \u043f\u0443\u0433\u0430\u0439\u0441\u044f, \u0434\u0435\u0442\u043a\u0430",
+        "url": "https://open.spotify.com/album/6nBn3C3LQn5Wp0kcgQIuvj"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d \u041c\u0435\u043b\u0430\u0434\u0437\u0435",
+          "url": "https://open.spotify.com/artist/5bX3Yvt80Oa7RI0JClYieW"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215902,
+      "name": "\u041d\u0435 \u043f\u0443\u0433\u0430\u0439\u0441\u044f, \u0434\u0435\u0442\u043a\u0430",
+      "url": "https://open.spotify.com/track/7kf7kSDcZIlFGCGs7Qu5cS"
     },
     {
       "album": {
@@ -26145,6 +26199,28 @@
     },
     {
       "album": {
+        "name": "\u0441\u043f\u0430\u0442\u044c \u0441 \u0442\u043e\u0431\u043e\u0439",
+        "url": "https://open.spotify.com/album/6rF2GahxUmod6RxivqazPB"
+      },
+      "artists": [
+        {
+          "name": "negative.",
+          "url": "https://open.spotify.com/artist/2qI6HFbaIAQHNA8TPoN3GQ"
+        },
+        {
+          "name": "ali4gnn",
+          "url": "https://open.spotify.com/artist/0b7re729kNwU5EWdswRRZq"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137104,
+      "name": "\u0441\u043f\u0430\u0442\u044c \u0441 \u0442\u043e\u0431\u043e\u0439",
+      "url": "https://open.spotify.com/track/2dAAoW7HrHbt2ufRH9gKNC"
+    },
+    {
+      "album": {
         "name": "Unreleased",
         "url": "https://open.spotify.com/album/41hoRdJrkyIV7L2NcmGwRn"
       },
@@ -26796,7 +26872,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 196806,
       "name": "\u0422\u043e\u043f \u0434\u0435\u0432\u043e\u0447\u043a\u0438",
       "url": "https://open.spotify.com/track/4qD6DfHEdEhcVhcNIoNZOd"

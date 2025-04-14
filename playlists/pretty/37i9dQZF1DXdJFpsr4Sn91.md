@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🎥 Kannessa OLGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,852 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,859 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pieni ystävä](https://open.spotify.com/track/3Gnt3zrmjmtfg5zmcfgehp) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Pieni ystävä](https://open.spotify.com/album/6T59VioHQazN7bAVDcZCwU) | 3:17 |
-| 2 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
-| 3 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
-| 4 | [Valot kamera action](https://open.spotify.com/track/7iXarUBY2dGYlnBdGbVo9m) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Valot kamera action](https://open.spotify.com/album/4NH4Ywxj9JN89F7vLnX2hU) | 2:24 |
-| 5 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
-| 6 | [Leima \(feat\. Turisti\)](https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ORIGO](https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt) | 2:36 |
-| 7 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
-| 8 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
-| 9 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 |
-| 10 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 |
-| 11 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 |
-| 12 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 |
-| 13 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
+| 2 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
+| 3 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
+| 4 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
+| 5 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
+| 6 | [Valot kamera action](https://open.spotify.com/track/7iXarUBY2dGYlnBdGbVo9m) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Valot kamera action](https://open.spotify.com/album/4NH4Ywxj9JN89F7vLnX2hU) | 2:24 |
+| 7 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
+| 8 | [Leima \(feat\. Turisti\)](https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ORIGO](https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt) | 2:36 |
+| 9 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
+| 10 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 |
+| 11 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 |
+| 12 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 |
+| 13 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 |
 | 14 | [Kirsikat](https://open.spotify.com/track/0RrtayzwGZd7rCvLgrDmMU) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kirsikat](https://open.spotify.com/album/7dWEiZ4iqA45KlrjXosIHQ) | 3:26 |
 | 15 | [Enkeli](https://open.spotify.com/track/24nWnuX84FdKgpDCZgg3tQ) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Enkeli](https://open.spotify.com/album/68BaBbcSTIuakL0CHamIBt) | 2:50 |
 | 16 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 89 | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/album/4AiGX40bV04dmI9Fq2a08y) | 2:37 |
 | 90 | [Jäävuorii](https://open.spotify.com/track/17KVNRBrEV9Y1l0l6jbr3t) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Jäävuorii](https://open.spotify.com/album/3LKRIasfmbfoFhFQJZ5a5O) | 4:05 |
 
-Snapshot ID: `Z/rRuAAAAAAjjXzRo00rH+yYfML4+qEY`
+Snapshot ID: `Z/wMewAAAAA9hppNTWYOo03gNYxebeUn`

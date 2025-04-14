@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 12688,
+  "num_followers": 12702,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "added_at": "2025-04-03 13:32:20",
+      "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/700oyQvND1pNIADYqOkrre"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 223302,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
-    },
-    {
-      "added_at": "2025-04-03 13:32:20",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
-    },
-    {
-      "added_at": "2025-04-03 13:32:20",
-      "album": {
         "name": "ETERNALT",
         "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
       "artists": [
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 274386,
-      "name": "If We Ever Meet Again",
-      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
+      "duration_ms": 158733,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -443,6 +427,22 @@
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2025-04-03 13:32:20",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "If We Ever Meet Again",
+      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
-        "name": "Queen of Tears (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd"
+        "name": "If I have you only (My love X Nerd Connection)",
+        "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
         }
       ],
-      "duration_ms": 245066,
-      "name": "Can't Get Over You",
-      "url": "https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo"
+      "duration_ms": 250573,
+      "name": "If I have you only (My love X Nerd Connection)",
+      "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -547,18 +547,18 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
-        "name": "If I have you only (My love X Nerd Connection)",
-        "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd"
       },
       "artists": [
         {
-          "name": "Nerd Connection",
-          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 250573,
-      "name": "If I have you only (My love X Nerd Connection)",
-      "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
+      "duration_ms": 245066,
+      "name": "Can't Get Over You",
+      "url": "https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
+        "name": "Heavenly fate (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
+        "url": "https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "Heavenly fate",
+      "url": "https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR"
+    },
+    {
+      "added_at": "2025-04-03 13:32:20",
+      "album": {
         "name": "3:33",
         "url": "https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 142614,
       "name": "Ctrl",
       "url": "https://open.spotify.com/track/3BxWRi8BjQquBqW6zbpQxJ"
-    },
-    {
-      "added_at": "2025-04-03 13:32:20",
-      "album": {
-        "name": "Heavenly fate (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
-        "url": "https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Heavenly fate",
-      "url": "https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
-        "name": "Alchemy of Souls: Light and Shadow, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP"
-      },
-      "artists": [
-        {
-          "name": "LIA (ITZY)",
-          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "Blue Flower",
-      "url": "https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76"
-    },
-    {
-      "added_at": "2025-04-03 13:32:20",
-      "album": {
         "name": "If You Ask Me What Love Is",
         "url": "https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 223040,
       "name": "If You Ask Me What Love Is",
       "url": "https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH"
+    },
+    {
+      "added_at": "2025-04-03 13:32:20",
+      "album": {
+        "name": "Alchemy of Souls: Light and Shadow, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "Blue Flower",
+      "url": "https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
+    },
+    {
+      "added_at": "2025-04-03 13:32:20",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2025-04-03 13:32:20",
-      "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
-        "name": "CONNECTION",
-        "url": "https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH"
-      },
-      "artists": [
-        {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU"
-    },
-    {
-      "added_at": "2025-04-03 13:32:20",
-      "album": {
         "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2025-04-03 13:32:20",
+      "album": {
+        "name": "CONNECTION",
+        "url": "https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-04-03 13:32:20",
       "album": {
-        "name": "Let's Stay Well (My love X Roy Kim)",
-        "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Let's Stay Well (My love X Roy Kim)",
-      "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
-    },
-    {
-      "added_at": "2025-04-03 13:32:20",
-      "album": {
         "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
         "url": "https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO"
       },
@@ -1295,22 +1279,6 @@
       "duration_ms": 256626,
       "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
       "url": "https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF"
-    },
-    {
-      "added_at": "2025-04-03 13:32:20",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
-      },
-      "artists": [
-        {
-          "name": "Parc Jae Jung",
-          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "Let's Say Goodbye",
-      "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
     },
     {
       "added_at": "2025-04-03 13:32:20",
@@ -1335,6 +1303,38 @@
       "duration_ms": 178813,
       "name": "Attention (Feat. DAWN, BLAS\u00c9)",
       "url": "https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z"
+    },
+    {
+      "added_at": "2025-04-03 13:32:20",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+    },
+    {
+      "added_at": "2025-04-03 13:32:20",
+      "album": {
+        "name": "Let's Stay Well (My love X Roy Kim)",
+        "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Let's Stay Well (My love X Roy Kim)",
+      "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
     }
   ],
   "unique_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",

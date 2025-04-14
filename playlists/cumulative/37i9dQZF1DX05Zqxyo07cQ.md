@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-712 songs - 1 day 10 hr 44 min
+713 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Essence](https://open.spotify.com/track/2EnLnhNkVlMlqwpz4b8lct) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 2](https://open.spotify.com/album/5K63oXlxc0jMxHooauDXva) | 3:30 | 2023-03-23 | 2024-02-09 |
 | [Essentials](https://open.spotify.com/track/1GJb1W2u1XOC4NnTprGsGk) | [River Hall](https://open.spotify.com/artist/2fuR3LZlCAFO9u0DlORUag) | [Essentials](https://open.spotify.com/album/1k52LUN5DCwcsQB7tqlc48) | 3:00 | 2023-03-23 | 2024-03-21 |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2023-03-23 | 2024-02-09 |
-| [Eternal mirage](https://open.spotify.com/track/23E3WfMLsstTOfP4HJnVSz) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Eternal mirage](https://open.spotify.com/album/4krCr357O9G5m7we7yB98O) | 2:30 | 2025-03-27 |  |
+| [Eternal mirage](https://open.spotify.com/track/23E3WfMLsstTOfP4HJnVSz) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Eternal mirage](https://open.spotify.com/album/4krCr357O9G5m7we7yB98O) | 2:30 | 2025-03-27 | 2025-04-14 |
 | [Eternal Moon](https://open.spotify.com/track/26nLhM4tNejbXtnUGB1SIp) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Eternal Moon](https://open.spotify.com/album/3MOOaUzMLOAHdSwpUzxe4k) | 2:19 | 2025-03-19 |  |
 | [Eternal Moonlight](https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF) | [Rettifilo Flo](https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE) | [Eternal Moonlight](https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK) | 2:58 | 2024-05-04 | 2025-03-03 |
 | [Eternal Oasis](https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Oasis](https://open.spotify.com/album/4BQWK3mMwAveseWKb0oZfV) | 2:38 | 2025-01-08 |  |
@@ -598,6 +598,7 @@
 | [Something Free](https://open.spotify.com/track/1uOIozoCIupXmj0dlIOSW5) | [Aurora's Aria](https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj) | [Something Free](https://open.spotify.com/album/5TEJChNgO0SChgX5qX5O4P) | 3:29 | 2024-05-04 | 2024-09-14 |
 | [Somniantes](https://open.spotify.com/track/2oRPG3rScsUtAwJ5W0Ij6m) | [Enma](https://open.spotify.com/artist/65t1qirLuVn4JyCfkiPUIc) | [Somniantes](https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI) | 2:41 | 2024-07-09 |  |
 | [Somnium](https://open.spotify.com/track/1AAarJ2ZVp2JNvoRY43V41) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Somnium](https://open.spotify.com/album/3A13wz1QjS5umrWC7sEA7L) | 2:14 | 2023-03-23 | 2023-05-06 |
+| [Somnolent Mori](https://open.spotify.com/track/7dl6vG0X75fB9J5l7b494p) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Somnolent Mori](https://open.spotify.com/album/1czqzODAZjH1TClXpW61qz) | 3:39 | 2025-04-09 |  |
 | [Sona](https://open.spotify.com/track/685glMCresRk1Yvy50O1wO) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Sona](https://open.spotify.com/album/5eCtu7zfvFUWQyqp63NDHu) | 2:30 | 2023-03-23 | 2024-05-05 |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2023-03-23 | 2024-01-18 |
 | [Soñando contigo](https://open.spotify.com/track/1i08QuMuJk5RPROZkCkt8k) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Soñando contigo](https://open.spotify.com/album/1Ht1ElfGVwAe4CUmCKKCoa) | 3:19 | 2023-03-23 | 2024-02-09 |

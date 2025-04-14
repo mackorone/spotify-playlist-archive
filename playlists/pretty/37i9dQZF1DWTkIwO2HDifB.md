@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Descer e os funks mais 🔑 do Brasil\. Foto: DJ CZ, MC Mito, DJ TS, MC Pogba
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,523,341 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,523,424 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

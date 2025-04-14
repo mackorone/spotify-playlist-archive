@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 49324,
+  "num_followers": 49331,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "25 Horas",
-        "url": "https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 247595,
-      "name": "25 Horas",
-      "url": "https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 300160,
       "name": "Tu Amor Me Hace Bien - Salsa Version",
       "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "25 Horas",
+        "url": "https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 247595,
+      "name": "25 Horas",
+      "url": "https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -327,42 +327,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
-        }
-      ],
-      "duration_ms": 316960,
-      "name": "Amor Narc\u00f3tico",
-      "url": "https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -391,6 +355,42 @@
       "duration_ms": 293893,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+        }
+      ],
+      "duration_ms": 316960,
+      "name": "Amor Narc\u00f3tico",
+      "url": "https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -631,38 +631,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Kaleth Morales En Guitarras",
-        "url": "https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y"
-      },
-      "artists": [
-        {
-          "name": "Kaleth Morales",
-          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Lo Mejor Para Los Dos (Todo de Cabeza) - Version Guitarra - En Vivo",
-      "url": "https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 301133,
       "name": "Pegame Tu Vicio",
       "url": "https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Kaleth Morales En Guitarras",
+        "url": "https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y"
+      },
+      "artists": [
+        {
+          "name": "Kaleth Morales",
+          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Lo Mejor Para Los Dos (Todo de Cabeza) - Version Guitarra - En Vivo",
+      "url": "https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -735,6 +719,22 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
         "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 211133,
       "name": "Sorbito De Champagne",
       "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 311506,
+      "name": "Cuando Quieras Quiero - En Vivo",
+      "url": "https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 311506,
-      "name": "Cuando Quieras Quiero - En Vivo",
-      "url": "https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "La Vamo a Tumb\u00e1",
         "url": "https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Colecci\u00f3n \u00c9xitos Pastor L\u00f3pez (Vol. 1)",
-        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 213840,
-      "name": "Golpe Con Golpe",
-      "url": "https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Banana",
         "url": "https://open.spotify.com/album/4N6iE1vx2PCBTnTdTQxF6c"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 219800,
       "name": "Banana",
       "url": "https://open.spotify.com/track/5c6iti6anvtf59SwSo1bUe"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Colecci\u00f3n \u00c9xitos Pastor L\u00f3pez (Vol. 1)",
+        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 213840,
+      "name": "Golpe Con Golpe",
+      "url": "https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y"
     }
   ],
   "unique_name": "Sopa y Seco",

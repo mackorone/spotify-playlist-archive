@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Q",
-  "num_followers": 1363653,
+  "num_followers": 1363628,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -161,38 +161,6 @@
       "url": "https://open.spotify.com/track/1CqwiEhGcYlRntmpTIHGCu"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
-    },
-    {
-      "added_at": "2025-03-28 04:00:52",
-      "album": {
-        "name": "10 songs",
-        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 178902,
-      "name": "be with ya",
-      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
-    },
-    {
       "added_at": "2024-10-20 00:14:41",
       "album": {
         "name": "Love Me Not (feat. Rex Orange County)",
@@ -211,6 +179,38 @@
       "duration_ms": 188198,
       "name": "Love Me Not (feat. Rex Orange County)",
       "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
+    },
+    {
+      "added_at": "2025-03-28 04:00:52",
+      "album": {
+        "name": "10 songs",
+        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 178902,
+      "name": "be with ya",
+      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2025-03-21 05:31:12",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Inwood Hill Park",
-      "url": "https://open.spotify.com/track/4qZLrKsaGkYmVRGUviVPtk"
-    },
-    {
       "added_at": "2024-12-13 05:00:40",
       "album": {
         "name": "W1LL U L13?",
@@ -497,20 +481,36 @@
       "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
     },
     {
-      "added_at": "2025-02-07 16:47:53",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/5fZozb3fnQVbCr3npr4TUV"
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
       "artists": [
         {
-          "name": "Blaxian",
-          "url": "https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 147098,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/65cZbTtLNKCiHz1LgCe44a"
+      "duration_ms": 189680,
+      "name": "Inwood Hill Park",
+      "url": "https://open.spotify.com/track/4qZLrKsaGkYmVRGUviVPtk"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Medea",
+        "url": "https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
     },
     {
       "added_at": "2024-09-13 09:09:19",
@@ -529,20 +529,20 @@
       "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2025-02-07 16:47:53",
       "album": {
-        "name": "Medea",
-        "url": "https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM"
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/5fZozb3fnQVbCr3npr4TUV"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "Blaxian",
+          "url": "https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
+      "duration_ms": 147098,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/65cZbTtLNKCiHz1LgCe44a"
     },
     {
       "added_at": "2024-11-15 18:25:56",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "AFTER HOURS",
-        "url": "https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "AFTER HOURS",
-      "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
-    },
-    {
       "added_at": "2025-01-31 10:02:28",
       "album": {
         "name": "take time",
@@ -735,22 +719,6 @@
       "duration_ms": 136991,
       "name": "take time",
       "url": "https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Hamartia",
-        "url": "https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 169499,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk"
     },
     {
       "added_at": "2024-05-24 06:53:46",
@@ -771,6 +739,54 @@
       "duration_ms": 150857,
       "name": "LET U LEAD (with Billy Lemos)",
       "url": "https://open.spotify.com/track/5rp6f6CiXVjpZ09u0BHeeN"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Hamartia",
+        "url": "https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 169499,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "AFTER HOURS",
+        "url": "https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "AFTER HOURS",
+      "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
+    },
+    {
+      "added_at": "2024-08-23 05:28:40",
+      "album": {
+        "name": "Lonely Fight",
+        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 229169,
+      "name": "Lonely Fight",
+      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
     },
     {
       "added_at": "2025-02-07 08:30:49",
@@ -807,22 +823,6 @@
       "duration_ms": 160007,
       "name": "SCREAM MY NAME",
       "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
-    },
-    {
-      "added_at": "2024-08-23 05:28:40",
-      "album": {
-        "name": "Lonely Fight",
-        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 229169,
-      "name": "Lonely Fight",
-      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
     },
     {
+      "added_at": "2024-05-03 04:03:47",
+      "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 167730,
+      "name": "act viii: i hate to be alone",
+      "url": "https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3"
+    },
+    {
       "added_at": "2024-09-27 23:55:30",
       "album": {
         "name": "Songs About You Specifically",
@@ -999,22 +1015,6 @@
       "duration_ms": 110000,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA"
-    },
-    {
-      "added_at": "2024-05-03 04:03:47",
-      "album": {
-        "name": "u made me a st4r",
-        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 167730,
-      "name": "act viii: i hate to be alone",
-      "url": "https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3"
     },
     {
       "added_at": "2024-05-17 06:55:24",
@@ -1181,30 +1181,6 @@
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
-      "added_at": "2025-02-14 07:50:47",
-      "album": {
-        "name": "Stream of Consciousness",
-        "url": "https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE"
-      },
-      "artists": [
-        {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 162401,
-      "name": "Stream of Consciousness",
-      "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
-    },
-    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "Rolling Stone",
@@ -1235,6 +1211,30 @@
       "duration_ms": 229310,
       "name": "Dream About You All Through The Night.",
       "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
+    },
+    {
+      "added_at": "2025-02-14 07:50:47",
+      "album": {
+        "name": "Stream of Consciousness",
+        "url": "https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 162401,
+      "name": "Stream of Consciousness",
+      "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
     },
     {
       "added_at": "2025-02-14 07:50:47",
@@ -1337,6 +1337,22 @@
       "url": "https://open.spotify.com/track/2d33eD2TZ0JpJSg0D20FS2"
     },
     {
+      "added_at": "2025-03-28 04:00:52",
+      "album": {
+        "name": "10 songs",
+        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 184856,
+      "name": "bad man",
+      "url": "https://open.spotify.com/track/4r8vfDMCXnU4Kl9AYYaXRM"
+    },
+    {
       "added_at": "2024-08-16 04:08:50",
       "album": {
         "name": "Don't You Love Me? - A COLORS SHOW",
@@ -1367,22 +1383,6 @@
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
-    },
-    {
-      "added_at": "2024-07-12 06:42:32",
-      "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/0guY00xcfV14JOPOzlGi9y"
-      },
-      "artists": [
-        {
-          "name": "Bathe",
-          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/2xmxsclppT2TcVZmbb18P0"
     },
     {
       "added_at": "2025-01-17 07:53:24",
@@ -1421,20 +1421,36 @@
       "url": "https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr"
     },
     {
-      "added_at": "2025-03-28 04:00:52",
+      "added_at": "2024-07-12 06:42:32",
       "album": {
-        "name": "10 songs",
-        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/0guY00xcfV14JOPOzlGi9y"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
         }
       ],
-      "duration_ms": 184856,
-      "name": "bad man",
-      "url": "https://open.spotify.com/track/4r8vfDMCXnU4Kl9AYYaXRM"
+      "duration_ms": 203226,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/2xmxsclppT2TcVZmbb18P0"
+    },
+    {
+      "added_at": "2022-07-15 04:02:46",
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
       "added_at": "2025-02-07 08:30:49",
@@ -1455,22 +1471,6 @@
       "duration_ms": 178800,
       "name": "WHO ARE YOU ANYWAY? (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/3qMj6GQYGayyJjubOZ5sm4"
-    },
-    {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/5FWmsWC8TyoupXKAPq9nll"
     },
     {
-      "added_at": "2024-06-14 07:30:32",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
-    },
-    {
       "added_at": "2024-03-01 07:06:56",
       "album": {
         "name": "pretend",
@@ -1535,6 +1519,22 @@
       "duration_ms": 170676,
       "name": "pretend",
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "added_at": "2024-06-14 07:30:32",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
     },
     {
-      "added_at": "2025-02-14 07:50:47",
-      "album": {
-        "name": "The Breeze Grew a Fire",
-        "url": "https://open.spotify.com/album/27Wwasz4XZHobOHQaB4R0g"
-      },
-      "artists": [
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 229453,
-      "name": "Heart of a Child",
-      "url": "https://open.spotify.com/track/7qBRZlD9CyeR1IzhqGKnvC"
-    },
-    {
       "added_at": "2024-08-16 04:08:50",
       "album": {
         "name": "I Could Be Forever",
@@ -1631,6 +1615,22 @@
       "duration_ms": 253728,
       "name": "I Could Be Forever",
       "url": "https://open.spotify.com/track/1f2MtVFQobJYlbHLQycFPm"
+    },
+    {
+      "added_at": "2025-02-14 07:50:47",
+      "album": {
+        "name": "The Breeze Grew a Fire",
+        "url": "https://open.spotify.com/album/27Wwasz4XZHobOHQaB4R0g"
+      },
+      "artists": [
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 229453,
+      "name": "Heart of a Child",
+      "url": "https://open.spotify.com/track/7qBRZlD9CyeR1IzhqGKnvC"
     },
     {
       "added_at": "2024-07-12 06:42:32",
@@ -1649,20 +1649,24 @@
       "url": "https://open.spotify.com/track/1keltSbtxb5JeAiCfcVYeh"
     },
     {
-      "added_at": "2024-06-14 07:30:32",
+      "added_at": "2024-06-07 12:28:44",
       "album": {
-        "name": "Grey Scale",
-        "url": "https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6"
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Grey Scale",
-      "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
+      "duration_ms": 87301,
+      "name": "Wasted Words (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1697,24 +1701,20 @@
       "url": "https://open.spotify.com/track/78vkxGOY3zrvFkGfaskQP3"
     },
     {
-      "added_at": "2024-06-07 12:28:44",
+      "added_at": "2024-06-14 07:30:32",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+        "name": "Grey Scale",
+        "url": "https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 87301,
-      "name": "Wasted Words (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
+      "duration_ms": 179066,
+      "name": "Grey Scale",
+      "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
     },
     {
       "added_at": "2024-08-30 06:47:05",
@@ -1809,22 +1809,6 @@
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
-      "added_at": "2024-06-21 07:44:39",
-      "album": {
-        "name": "Petra",
-        "url": "https://open.spotify.com/album/1bO7MgtALIhHvzpYveTenM"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Petra",
-      "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
-    },
-    {
       "added_at": "2024-09-13 09:09:19",
       "album": {
         "name": "Had Enough",
@@ -1841,20 +1825,20 @@
       "url": "https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
+      "added_at": "2024-06-21 07:44:39",
       "album": {
-        "name": "she want prada",
-        "url": "https://open.spotify.com/album/7uVLA0zq1PgZhFvM1a3Gbm"
+        "name": "Petra",
+        "url": "https://open.spotify.com/album/1bO7MgtALIhHvzpYveTenM"
       },
       "artists": [
         {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
         }
       ],
-      "duration_ms": 190270,
-      "name": "she want prada",
-      "url": "https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs"
+      "duration_ms": 212000,
+      "name": "Petra",
+      "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1875,6 +1859,22 @@
       "duration_ms": 130434,
       "name": "New Friends (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
+    },
+    {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "she want prada",
+        "url": "https://open.spotify.com/album/7uVLA0zq1PgZhFvM1a3Gbm"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "duration_ms": 190270,
+      "name": "she want prada",
+      "url": "https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2001,22 +2001,6 @@
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
     },
     {
-      "added_at": "2025-01-31 09:26:21",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/7Cn9LpY72xeeysmfJRyher"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 399264,
-      "name": "Better (unplugged)",
-      "url": "https://open.spotify.com/track/4jLsSrvC5c9pbyk7vUz56c"
-    },
-    {
       "added_at": "2024-06-28 18:42:06",
       "album": {
         "name": "ACCELERATOR",
@@ -2031,6 +2015,22 @@
       "duration_ms": 228003,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
+    },
+    {
+      "added_at": "2025-01-31 09:26:21",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/7Cn9LpY72xeeysmfJRyher"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 399264,
+      "name": "Better (unplugged)",
+      "url": "https://open.spotify.com/track/4jLsSrvC5c9pbyk7vUz56c"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2277,22 +2277,6 @@
       "url": "https://open.spotify.com/track/4BXSRihMONgWl0Df6fHQhE"
     },
     {
-      "added_at": "2025-01-24 10:24:05",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/5liG8ifZWteRMyYAQMh9fj"
-      },
-      "artists": [
-        {
-          "name": "Bathe",
-          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/0BP4fjdFdVvhNFa6Ij2CeL"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "All For You",
@@ -2345,6 +2329,22 @@
       "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
     },
     {
+      "added_at": "2025-01-24 10:24:05",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/5liG8ifZWteRMyYAQMh9fj"
+      },
+      "artists": [
+        {
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/0BP4fjdFdVvhNFa6Ij2CeL"
+    },
+    {
       "added_at": "2023-12-08 06:22:08",
       "album": {
         "name": "Used To",
@@ -2385,6 +2385,26 @@
       "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
     },
     {
+      "added_at": "2025-04-04 04:43:43",
+      "album": {
+        "name": "SAGEhaven",
+        "url": "https://open.spotify.com/album/2N31RbPWaokWd8MTehI7Wn"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 176572,
+      "name": "Roadrunner (feat. midwxst)",
+      "url": "https://open.spotify.com/track/2wuYcWEYGxnGWNisxljB1Y"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "WHITNEY",
@@ -2417,42 +2437,6 @@
       "url": "https://open.spotify.com/track/6U09H7CVra0HbNPJGnQDDU"
     },
     {
-      "added_at": "2025-01-24 10:24:05",
-      "album": {
-        "name": "Phone Me",
-        "url": "https://open.spotify.com/album/6LIuYms8fxfEeX2p9DSN14"
-      },
-      "artists": [
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Phone Me",
-      "url": "https://open.spotify.com/track/26fYCk38bHvGH9TYC9S9Bz"
-    },
-    {
-      "added_at": "2025-04-04 04:43:43",
-      "album": {
-        "name": "SAGEhaven",
-        "url": "https://open.spotify.com/album/2N31RbPWaokWd8MTehI7Wn"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 176572,
-      "name": "Roadrunner (feat. midwxst)",
-      "url": "https://open.spotify.com/track/2wuYcWEYGxnGWNisxljB1Y"
-    },
-    {
       "added_at": "2025-03-14 07:00:38",
       "album": {
         "name": "Before Bleu",
@@ -2467,6 +2451,22 @@
       "duration_ms": 158193,
       "name": "Hollow Ground",
       "url": "https://open.spotify.com/track/3Qs629rdNfGOgdj9lFDSYB"
+    },
+    {
+      "added_at": "2025-01-24 10:24:05",
+      "album": {
+        "name": "Phone Me",
+        "url": "https://open.spotify.com/album/6LIuYms8fxfEeX2p9DSN14"
+      },
+      "artists": [
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Phone Me",
+      "url": "https://open.spotify.com/track/26fYCk38bHvGH9TYC9S9Bz"
     },
     {
       "added_at": "2024-06-14 07:30:32",
@@ -2533,6 +2533,22 @@
       "url": "https://open.spotify.com/track/5GWEfTYjFrHctThz0sfGJE"
     },
     {
+      "added_at": "2024-09-13 09:09:19",
+      "album": {
+        "name": "Pointy Heights",
+        "url": "https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "birds, bees",
+      "url": "https://open.spotify.com/track/7fIHFXaxaFZ9TLxdZeYIRD"
+    },
+    {
       "added_at": "2025-02-21 06:45:33",
       "album": {
         "name": "Desires",
@@ -2547,22 +2563,6 @@
       "duration_ms": 162695,
       "name": "All I need",
       "url": "https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU"
-    },
-    {
-      "added_at": "2024-11-15 18:25:56",
-      "album": {
-        "name": "Maddie",
-        "url": "https://open.spotify.com/album/3fYaec13Ybs5Hu49lcoeUy"
-      },
-      "artists": [
-        {
-          "name": "Nafeesisboujee",
-          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
-        }
-      ],
-      "duration_ms": 135511,
-      "name": "Maddie",
-      "url": "https://open.spotify.com/track/3EMS7KLO9UhMtTPxYGYdmE"
     }
   ],
   "unique_name": "Vanguard",

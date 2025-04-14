@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-466 songs - 1 day 3 hr 15 min
+467 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Post Traumatic Blues](https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Post Traumatic Blues](https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni) | 5:43 | 2023-07-14 |  |
 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-06 |  |
 | [Premiere Fois](https://open.spotify.com/track/5rNn1oWeq47oYMcBCTxECN) | [Forenzics](https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3), [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL), [Tim Finn](https://open.spotify.com/artist/6OIoPLnbAe0U4k1NFjqIyN) | [Premiere Fois](https://open.spotify.com/album/6hxpiIIMwghgcThALEbvuK) | 3:47 | 2021-11-25 |  |
+| [Priscilla](https://open.spotify.com/track/0kohaqR08X8cG9yocgbHzx) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [WINDOW](https://open.spotify.com/album/3T7C9Pu9Sf1MuOoQnhtGVW) | 2:48 | 2025-04-13 |  |
 | [Pull Me Through](https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Pull Me Through](https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji) | 3:08 | 2023-07-14 |  |
 | [Puppets Can’t Control You](https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can’t Control You](https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K) | 3:14 | 2025-01-24 |  |
 | [Purge The Poison](https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Purge The Poison](https://open.spotify.com/album/4l15cBxcsMtKozzTLPsXnc) | 3:16 | 2021-04-16 | 2022-03-18 |

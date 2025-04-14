@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 79226,
+  "num_followers": 79274,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
         "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Come To My Garden",
         "url": "https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 199293,
       "name": "Les Fleurs",
       "url": "https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Don't You Worry 'Bout A Thing",
-      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 285746,
       "name": "He Loves Me (Lyzel in E Flat)",
       "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "MTV Unplugged No. 2.0",
-        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 369173,
-      "name": "Just Like Water - Live",
-      "url": "https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 175240,
       "name": "Way to the Show",
       "url": "https://open.spotify.com/track/2jVLwzrzKVhcI8UmVonVas"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 369173,
+      "name": "Just Like Water - Live",
+      "url": "https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -655,6 +655,22 @@
       "duration_ms": 136466,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0e4K4O83kizeU1mwneF7Pr"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0e4K4O83kizeU1mwneF7Pr"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "I Care 4 U",
         "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 265666,
       "name": "Are You That Somebody",
       "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -847,6 +831,22 @@
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/1b7TYKwABkacRzPqSErH9u"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
     }
   ],
   "unique_name": "Quinta Brunson's Taste",

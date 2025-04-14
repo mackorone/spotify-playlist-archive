@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 198567,
       "name": "bergema sampai selamanya",
       "url": "https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe"
@@ -5826,7 +5826,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -6242,7 +6242,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 234589,
       "name": "Masing Masing",
       "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
@@ -6474,7 +6474,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 214567,
       "name": "Monokrom",
       "url": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL"
@@ -8816,7 +8816,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-10",
+      "date_removed": null,
       "duration_ms": 313670,
       "name": "Selamat (Selamat Tinggal)",
       "url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK"
@@ -9270,7 +9270,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/6cChz3Pak7UtjuVJJRZmCm"
@@ -9679,6 +9679,24 @@
     },
     {
       "album": {
+        "name": "Stecu",
+        "url": "https://open.spotify.com/album/4jaDmAMncBr4KdbJNfLLS5"
+      },
+      "artists": [
+        {
+          "name": "Faris Adam",
+          "url": "https://open.spotify.com/artist/0WOBasNNoE4TJ3CV2xnUvX"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222168,
+      "name": "Stecu",
+      "url": "https://open.spotify.com/track/58RQdadIHxBeiZ1kyDXnCo"
+    },
+    {
+      "album": {
         "name": "Stecu Stecu",
         "url": "https://open.spotify.com/album/3SqI4Bef1HLRDBH9iGEyfg"
       },
@@ -9690,7 +9708,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 223750,
       "name": "Stecu Stecu",
       "url": "https://open.spotify.com/track/2ECbN3xQ7M6B7AI9BhhCy7"

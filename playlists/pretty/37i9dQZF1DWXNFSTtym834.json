@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1296228,
+  "num_followers": 1296248,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "Toxicity",
-      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -167,6 +151,38 @@
       "duration_ms": 278600,
       "name": "Before I Forget",
       "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Faint",
+      "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "Toxicity",
+      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -219,8 +235,8 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
@@ -228,25 +244,25 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 162106,
-      "name": "Faint",
-      "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 221000,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
+      "duration_ms": 352426,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -283,18 +299,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Avenged Sevenfold",
-        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 352426,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
+      "duration_ms": 221000,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -331,6 +347,22 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 381946,
+      "name": "The Pot",
+      "url": "https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
         "name": "Mezmerize",
         "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
       },
@@ -347,34 +379,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 381946,
-      "name": "The Pot",
-      "url": "https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -411,6 +427,22 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
+        "name": "Life Starts Now",
+        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
@@ -427,8 +459,8 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
       },
       "artists": [
         {
@@ -436,25 +468,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
-        "name": "Life Starts Now",
-        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
+      "duration_ms": 283826,
+      "name": "Unholy Confessions",
+      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -571,22 +587,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Unholy Confessions",
-      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Black Rain (Expanded Edition)",
         "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 476266,
       "name": "The Day That Never Comes",
       "url": "https://open.spotify.com/track/13Uvqll8OQDjw3wDweIK9y"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -667,22 +683,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "The Sinister Urge",
         "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Lateralus",
-        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 562706,
-      "name": "Lateralus",
-      "url": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Babylon (Revised Online Music)",
         "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 236013,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 562706,
+      "name": "Lateralus",
+      "url": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
+        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
+        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Ich tu dir weh",
+      "url": "https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
         "name": "With Teeth (Bonus Tracks)",
         "url": "https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3"
       },
@@ -907,38 +923,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Twilight Of The Thunder God",
-        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Twilight Of The Thunder God",
-      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
-        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
-        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Ich tu dir weh",
-      "url": "https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Untouchables",
         "url": "https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+        "name": "Twilight Of The Thunder God",
+        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+      "duration_ms": 248746,
+      "name": "Twilight Of The Thunder God",
+      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1015,6 +999,22 @@
       "duration_ms": 275253,
       "name": "The Wicker Man - 2015 Remaster",
       "url": "https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "Nemesis",
-      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "The Golden Age Of Grotesque",
         "url": "https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 205720,
       "name": "mOBSCENE",
       "url": "https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "Nemesis",
+      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Fate of Norns",
-        "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "The Pursuit Of Vikings",
-      "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Karmacode",
         "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Brave New World (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+        "name": "Fate of Norns",
+        "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 434293,
-      "name": "Blood Brothers - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
+      "duration_ms": 270253,
+      "name": "The Pursuit Of Vikings",
+      "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1351,6 +1335,22 @@
       "duration_ms": 209066,
       "name": "Destroy Everything",
       "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Brave New World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 434293,
+      "name": "Blood Brothers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Soundtrack to Your Escape (The Quiet Place Version)",
-        "url": "https://open.spotify.com/album/62MmtzoCMy82PoeKb6TIVf"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "The Quiet Place",
-      "url": "https://open.spotify.com/track/2gUrjc9fWHZytKm6FtBY7E"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Adema",
         "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 219933,
       "name": "The Way You Like It",
       "url": "https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Soundtrack to Your Escape (The Quiet Place Version)",
+        "url": "https://open.spotify.com/album/62MmtzoCMy82PoeKb6TIVf"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "The Quiet Place",
+      "url": "https://open.spotify.com/track/2gUrjc9fWHZytKm6FtBY7E"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Shadows Are Security",
-        "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Through Struggle",
-      "url": "https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Confession [Special Edition]",
         "url": "https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 218933,
       "name": "Praise",
       "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Shadows Are Security",
+        "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Through Struggle",
+      "url": "https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1"
     },
     {
       "added_at": "2024-06-13 12:59:15",

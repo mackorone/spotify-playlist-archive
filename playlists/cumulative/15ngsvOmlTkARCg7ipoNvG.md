@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,959 songs - 1 day 15 hr 46 min
+1,963 songs - 1 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [Distant Path](https://open.spotify.com/track/3oAGdCxsQR96TWQZ2P8Uwk) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:26 | 2024-01-29 |  |
 | [Distant Rainbows](https://open.spotify.com/track/3eOVg6RQHlHFb0QtRznlEh) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Autumn Rain](https://open.spotify.com/album/0JsMeQCTqpoV07HsE6QVC0) | 1:56 | 2024-01-29 |  |
 | [Distant Sea](https://open.spotify.com/track/4awlFbyeKDw4IvtqYusn1A) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Inspiring Wonder](https://open.spotify.com/album/5GaqAoc0gAzImOql9eWKVF) | 1:02 | 2022-02-19 |  |
+| [Distant Shore](https://open.spotify.com/track/5WdLx92ssiZpYNmy0AGFK8) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Distant Shore](https://open.spotify.com/album/3rhgyKa76ZgYwHQbkpRx0B) | 1:00 | 2025-04-13 |  |
 | [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2022-01-12 | 2024-01-30 |
 | [Divine](https://open.spotify.com/track/51yS1LEgaT1LHhNmNeimhI) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Divine](https://open.spotify.com/album/0ew7HolRlYFcUMCr4TBsVi) | 1:00 | 2024-03-14 |  |
 | [Do We Wake](https://open.spotify.com/track/5nEvhoKxYs665DDlRyhtrU) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Do We Wake](https://open.spotify.com/album/3Dc0xwwuSUKPQ0FxuuN8VZ) | 3:36 | 2022-01-12 | 2024-02-13 |
@@ -1019,6 +1020,7 @@
 | [Love Is Far Way \- Remastered](https://open.spotify.com/track/1IcQ6noWlvfzl3LqVpe5eW) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Selected Trios](https://open.spotify.com/album/28mNtiGCdqzEFctOdeDxC8) | 1:05 | 2024-02-09 | 2024-02-13 |
 | [Love Within Us](https://open.spotify.com/track/5xtYJCcExovHuz7G2jV027) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Love Within Us](https://open.spotify.com/album/2tF3EsNvOxuDwBpuqhhDQw) | 0:56 | 2024-07-29 |  |
 | [Loving In The Light](https://open.spotify.com/track/3whulguc6rUnuicUrNxYMC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Inner Calling](https://open.spotify.com/album/6jz7Ss9WTWOTMh7hGZikzy) | 1:03 | 2022-02-24 | 2024-01-30 |
+| [Loving Season Arr\. For Grand Piano](https://open.spotify.com/track/7GEV8Emcf9Tq8ejcqPtRyF) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Loving Season Arr\. For Grand Piano](https://open.spotify.com/album/1yU28hzG9wNvEo30Xg2TX7) | 1:00 | 2025-04-13 |  |
 | [Loving Season Arr\. For Piano](https://open.spotify.com/track/1BwGkCmRgxtWtMPj4Vi4CM) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Loving Season](https://open.spotify.com/album/0D0lemhY49ziiknE9EZ8Hf) | 1:00 | 2025-04-13 |  |
 | [Loving Smile](https://open.spotify.com/track/7ID8DliBbIxjnUgu8tJde7) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Loving Smile](https://open.spotify.com/album/3Ndz4X6KSvC8dCRX9ZmvQs) | 1:00 | 2025-02-15 |  |
 | [Loving World](https://open.spotify.com/track/51gUmm6GI54ffw7g8b6qGg) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:11 | 2022-01-20 |  |
@@ -1412,6 +1414,7 @@
 | [Rising Slowly](https://open.spotify.com/track/0n10oibTqB9lEnv9n5AbsU) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Fading Slowly](https://open.spotify.com/album/5vlyicl1WMOpCXzfKO4wN0) | 1:01 | 2025-01-15 |  |
 | [Ritual](https://open.spotify.com/track/5SiPkC4PR7y5cln5uMWxLu) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Ritual](https://open.spotify.com/album/5rJbhuifkpMkDXXcwb6JPB) | 1:00 | 2025-01-19 |  |
 | [Rituals](https://open.spotify.com/track/3YJ9hH60heOwEIhuiWw5F7) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Rituals](https://open.spotify.com/album/546GMTj3bOaoHduB1BXIfK) | 1:00 | 2025-03-15 |  |
+| [River](https://open.spotify.com/track/4qSMVLS6LiyZ3cCFRtUY9k) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [River](https://open.spotify.com/album/0XRWfPqp86E5lWoHfM0QG6) | 1:00 | 2025-04-13 |  |
 | [River Dreaming Again](https://open.spotify.com/track/1jumcuQob1Gj4zziQpYvDM) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Constant Glow](https://open.spotify.com/album/1GJvpTYe3wv4ZpjXwH1oUP) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Riverbank](https://open.spotify.com/track/3FmcR0kCYJWxTpgaUOnTsQ) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Riverbank](https://open.spotify.com/album/0QZ3N49jEk7A09ybz5iW6n) | 1:00 | 2025-01-03 |  |
 | [Rivers](https://open.spotify.com/track/46S417G0xvadkFYteZQvpj) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |
@@ -1589,6 +1592,7 @@
 | [Spring Calm](https://open.spotify.com/track/5C2OmELc1ZYiR911w0nqGa) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Spring Calm](https://open.spotify.com/album/4OCPUSt17iYA7vzvs4Yuiw) | 1:00 | 2024-04-08 |  |
 | [Spring Love](https://open.spotify.com/track/67RGhUQhVEt85I5ZBZ0KM7) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Spring Love](https://open.spotify.com/album/2UyCmWsUZaxDXtVoD1KUPu) | 1:00 | 2025-03-15 |  |
 | [Spring Meadows](https://open.spotify.com/track/6mdX2ewmW0gh1Rj9wBJqXf) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Seasons](https://open.spotify.com/album/336oLXBbHOoXUMlolO0knz) | 2:06 | 2022-01-12 | 2024-01-30 |
+| [Spring Mornings](https://open.spotify.com/track/2LV85YnRKB3Yc3EBbBHAr4) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Spring Mornings](https://open.spotify.com/album/6J7xFsP2MF8OBNGycY2FoB) | 1:00 | 2025-04-13 |  |
 | [Spring Sun](https://open.spotify.com/track/7uwwThNv4jACx8G2HBicP1) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
 | [Spring Warmth Again \- Cello Version](https://open.spotify.com/track/7MQhI8USlPbgNtamZs5SV7) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spring Warmth Again \(Cello Version\)](https://open.spotify.com/album/2UXnDLSHUF8Il2sKg23Wfl) | 1:00 | 2022-07-15 |  |
 | [Springs](https://open.spotify.com/track/2TeIwE6hFj5ChMP3Eifq7m) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Springs](https://open.spotify.com/album/6nYmCTJRGkzYRuGntxjzpf) | 1:00 | 2024-02-17 |  |

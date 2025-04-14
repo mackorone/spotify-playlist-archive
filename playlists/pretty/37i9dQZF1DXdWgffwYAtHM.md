@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:6gt6D5EyS6DRo3X4KuNhz5">O Turno da Noite</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,828 likes - 13 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,831 likes - 13 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

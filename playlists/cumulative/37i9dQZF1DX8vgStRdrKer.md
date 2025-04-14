@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=vifkgyFKR6mKTqLFn5uJvg>Prinx Emmanuel</a>
 
-277 songs - 22 hr 36 min
+278 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 | 2024-03-15 | 2024-04-19 |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2023-09-15 | 2024-03-16 |
 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Promise Effiong](https://open.spotify.com/artist/1I9z32ju9HEWHAZcEhKGqp) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 | 2024-07-12 | 2024-10-13 |
-| [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 | 2024-05-03 |  |
+| [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 | 2024-05-03 | 2025-04-14 |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-09-15 | 2024-03-16 |
 | [Emmanuel](https://open.spotify.com/track/6c5UMnCmZBski9aytlYIra) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Emmanuel](https://open.spotify.com/album/1BITuUt6zjCQP1cTcy8cgc) | 5:25 | 2024-01-05 | 2024-03-19 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 |  |
@@ -100,6 +100,7 @@
 | [Good God](https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4) | [Good God](https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic) | 3:39 | 2024-03-01 | 2024-04-14 |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 |  |
 | [Halle \- Remix](https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [Phindi P](https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Halle \- Remix](https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE) | 5:04 | 2024-07-26 | 2024-09-15 |
+| [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/album/0PmiXhRIA1vUUSjHOKn1sq) | 2:28 | 2025-02-28 |  |
 | [He Won't \(Worship Medley\)](https://open.spotify.com/track/0zGdGRc5Cv0b89wx3HfiNn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [He Won't \(Worship Medley\)](https://open.spotify.com/album/04pSAhuoZGv9xW2mdTwbgR) | 11:49 | 2025-03-28 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-22 |  |
 | [HEAVENS GATE](https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Am](https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw) | 4:49 | 2024-07-26 | 2024-08-17 |

@@ -84563,6 +84563,24 @@
     },
     {
       "album": {
+        "name": "Lights Camera",
+        "url": "https://open.spotify.com/album/18X00mHZ9e29b86AVSCkQN"
+      },
+      "artists": [
+        {
+          "name": "Name the Night",
+          "url": "https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Lights Camera",
+      "url": "https://open.spotify.com/track/6xwgiGHKZ8utkvITmAOOmk"
+    },
+    {
+      "album": {
         "name": "Lights Camera Action",
         "url": "https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf"
       },

@@ -4777,6 +4777,24 @@
     },
     {
       "album": {
+        "name": "Ataque de Nostalgia",
+        "url": "https://open.spotify.com/album/379QFaTd7RDlaaEnzCvl1B"
+      },
+      "artists": [
+        {
+          "name": "Miree",
+          "url": "https://open.spotify.com/artist/3ltRp2hE6eDAHQlkwWfpxD"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159765,
+      "name": "Kl\u00ednex",
+      "url": "https://open.spotify.com/track/5hybB3dNqw8SiUk7AecaBZ"
+    },
+    {
+      "album": {
         "name": "Kulo Tenassi Deluxe",
         "url": "https://open.spotify.com/album/68phYLPYbMoENxIarPPJks"
       },
@@ -8692,7 +8710,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 174994,
       "name": "ROMAN EMPIRE!",
       "url": "https://open.spotify.com/track/08VCLpjhrKQbKlF50kq8MK"

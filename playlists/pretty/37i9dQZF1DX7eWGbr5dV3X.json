@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Towa Bird.",
-  "num_followers": 8621,
+  "num_followers": 8619,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "whatever u like",
+        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 200877,
+      "name": "whatever u like",
+      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "NEVERLAND",
         "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 232773,
       "name": "Tweety",
       "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "whatever u like",
-        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 200877,
-      "name": "whatever u like",
-      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "K I'm Mortal",
-        "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
-      },
-      "artists": [
-        {
-          "name": "Kimmortal",
-          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "K I'm Mortal",
-      "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "What Happened, Happened",
         "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
       },
@@ -455,22 +439,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Round and Round (Bright Light Bright Light Remix)",
-        "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
+        "name": "K I'm Mortal",
+        "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
       },
       "artists": [
         {
-          "name": "Jujubee",
-          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
-        },
-        {
-          "name": "Bright Light Bright Light",
-          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
+          "name": "Kimmortal",
+          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
         }
       ],
-      "duration_ms": 216842,
-      "name": "Round and Round (Bright Light Bright Light Remix)",
-      "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
+      "duration_ms": 220253,
+      "name": "K I'm Mortal",
+      "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -507,18 +487,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "You Look so Good",
-        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
+        "name": "Round and Round (Bright Light Bright Light Remix)",
+        "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
       "artists": [
         {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+          "name": "Jujubee",
+          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
+        },
+        {
+          "name": "Bright Light Bright Light",
+          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
         }
       ],
-      "duration_ms": 170728,
-      "name": "You Look so Good",
-      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
+      "duration_ms": 216842,
+      "name": "Round and Round (Bright Light Bright Light Remix)",
+      "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 193333,
       "name": "Hyperdome",
       "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "You Look so Good",
+        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 170728,
+      "name": "You Look so Good",
+      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 164295,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Boys Aside",
         "url": "https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 221248,
       "name": "I'm Not Afraid",
       "url": "https://open.spotify.com/track/3mPH0blHMOPAjSkEKOUQd2"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
-      },
-      "artists": [
-        {
-          "name": "Alextbh",
-          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
-        }
-      ],
-      "duration_ms": 273080,
-      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
     }
   ],
   "unique_name": "API Pride",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Cole Phillips
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,628 likes - 200 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,672 likes - 200 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

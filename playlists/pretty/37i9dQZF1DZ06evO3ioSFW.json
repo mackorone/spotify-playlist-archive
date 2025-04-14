@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 492612,
+  "num_followers": 492953,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAADhHbMSS9Lf4/wc7B5lUgxk",
+  "snapshot_id": "Z/mtAAAAAACUTeHg5xz6Ccn2RaZxM9JE",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Mariposas",
+        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Yo por \u00c9l",
+      "url": "https://open.spotify.com/track/4Wf7GYRnkySl3s9h5uKlhd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pensando Positivo",
         "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 193300,
       "name": "Pensando Positivo",
       "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Mariposas",
-        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Yo por \u00c9l",
-      "url": "https://open.spotify.com/track/4Wf7GYRnkySl3s9h5uKlhd"
     },
     {
       "added_at": null,

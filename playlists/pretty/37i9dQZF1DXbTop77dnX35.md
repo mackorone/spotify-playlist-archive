@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Rema, Lojay, Reekado Banks and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,284 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,405 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

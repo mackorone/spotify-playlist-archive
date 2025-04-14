@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 
 > 
 
-[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 280 songs - 15 hr 51 min
+[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 282 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -288,5 +288,7 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 | 278 | [The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 |
 | 279 | [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b) | 5:21 |
 | 280 | [Airplane Mode](https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC) | 2:44 |
+| 281 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 |
+| 282 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
 
-Snapshot ID: `AAABQXbQXIvOOe/FN2e57WdPf0F0yPR4`
+Snapshot ID: `AAABQ5CVuS9UUGJXD+PnhSd8Zj0xX0om`

@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our our March newsletter...</a> Cover: 2hollis
+> <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our our March newsletter...</a> Cover: Clairo
 
-3,292 songs - 7 day 11 hr 8 min
+3,294 songs - 7 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Aeroplane \- Single Edit](https://open.spotify.com/track/7iWHPvGnF0JhXlV8rI7xDP) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Aeroplane](https://open.spotify.com/album/1ktPfnZAzUcMGpuHxgs3RF) | 3:54 | 2025-02-21 | 2025-04-05 |
 | [afraid \(feat\. nate sib\)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [afraid \(feat\. nate sib\)](https://open.spotify.com/album/3wUZg9qN8bFDXHh109BaOv) | 2:58 | 2025-01-30 | 2025-04-05 |
 | [After Laughter \(Comes Tears\)](https://open.spotify.com/track/1IXa70EPedlpafPL7Ood2z) | [Wendy Rene](https://open.spotify.com/artist/4ba7uNtpOq0us2C5Nx19zN) | [After Laughter \(Comes Tears\)](https://open.spotify.com/album/6wBfFrmOvBu0cyksWWlp94) | 2:59 | 2024-09-12 | 2025-01-18 |
+| [After Laughter \(Comes Tears\)](https://open.spotify.com/track/3sMTpU1SNIeMCWu7sQKXMN) | [Wendy Rene](https://open.spotify.com/artist/4ba7uNtpOq0us2C5Nx19zN) | [After Laughter Comes Tears](https://open.spotify.com/album/3p7Dha66qIdeuBuFfEtvz2) | 3:02 | 2025-04-13 |  |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-04-05 | 2023-07-12 |
 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 | 2024-10-04 | 2025-01-18 |
 | [Afterlife](https://open.spotify.com/track/0Xi1Cs3WebgME5QFZcJQcs) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Afterlife](https://open.spotify.com/album/4bTzs8uMPepY1Dv99FesVW) | 2:34 | 2022-05-27 | 2022-07-01 |
@@ -1100,6 +1101,7 @@
 | [girl like me](https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [girl like me](https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED) | 2:58 | 2022-02-11 | 2022-04-16 |
 | [Girl Song](https://open.spotify.com/track/37G7NBSwMiZfi3Swzgh4rW) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:56 | 2024-08-09 | 2024-09-21 |
 | [girl with a problem](https://open.spotify.com/track/3XftKOFKKZKMt36MKV7fH4) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [girl with a problem](https://open.spotify.com/album/47eQy5ZfIwvTxS7t5B9aFp) | 2:51 | 2024-05-03 | 2024-08-02 |
+| [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 | 2025-04-13 |  |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-02 | 2023-04-15 |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2021-06-05 | 2021-12-02 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-08 | 2022-12-24 |
@@ -2572,7 +2574,7 @@
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2019-08-02 | 2020-05-14 |
 | [Sober Up](https://open.spotify.com/track/3UnMcZ7ewqsJgCcuT7hQhu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca \(Deluxe\)](https://open.spotify.com/album/7K1rLdxIp1SappJzswQAbU) | 3:38 | 2021-06-12 | 2021-08-14 |
 | [Sofia](https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sofia](https://open.spotify.com/album/7JX98HsEi7hCH0vmfT7s2K) | 3:08 | 2019-07-30\* | 2019-11-14 |
-| [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2020-01-28 | 2020-05-05 |
+| [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2020-01-28 |  |
 | [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 | 2021-02-12 | 2021-04-16 |
 | [Soft Drink](https://open.spotify.com/track/0WCB977PfbtbJa85dbSzVP) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Drink](https://open.spotify.com/album/1Ehb2AaSOAbyehOOSGW80b) | 3:19 | 2021-08-14 | 2021-11-13 |
 | [Soft Side](https://open.spotify.com/track/0tQkQQ94DEbpj7cded0KtA) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/7FVjc6puo9t6Fd0R9AaVpy) | 2:34 | 2022-03-04 | 2022-06-10 |
@@ -2673,7 +2675,7 @@
 | [Steal My Sunshine \(feat\. Cherry Glazerr\)](https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 4:00 | 2021-09-25 | 2021-12-02 |
 | [Steal This Night](https://open.spotify.com/track/4HYIaUJAJlUC1Kd8pcoaDN) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Steal This Night \(Sped Up\)](https://open.spotify.com/album/6PvEBFPbP45tzWSsnJTePV) | 1:47 | 2022-12-22 | 2023-02-15 |
 | [Steamroller](https://open.spotify.com/track/3y2WGxpoUCvEzuSfbsDA5q) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Steamroller](https://open.spotify.com/album/68nQzRa9NE4R2mFPPgPwWk) | 3:25 | 2023-04-07 | 2023-05-13 |
-| [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 | 2021-05-08 | 2024-02-22 |
+| [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 | 2021-05-08 |  |
 | [Steel \(feat\. Dora Jar\)](https://open.spotify.com/track/4QtzCm1dFD3p14kPJpkb9U) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 2:43 | 2024-03-21 | 2024-12-18 |
 | [Steep](https://open.spotify.com/track/4KwCVDiQdrcpQs0SPn5Maa) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Steep](https://open.spotify.com/album/6a9oFkzTey2Hri3qnq1FVw) | 2:16 | 2023-11-22 | 2024-01-04 |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2020-04-03 | 2021-01-12 |

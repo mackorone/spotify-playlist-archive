@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> اسمعوا افضل الاغاني الخليجية\. الغلاف: أحلام
+> اسمعوا افضل الاغاني الخليجية\. الغلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,185 likes - 44 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,231 likes - 44 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ah Men Qalbi](https://open.spotify.com/track/4IKkoJtURxPMEgWtT6Prtv) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Enaq Al Akheer \- Part 1](https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm) | 4:17 |
-| 2 | [طلعت ابيه](https://open.spotify.com/track/1UGaliIKCl7MOWzvzh5chs) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [عايض ٢٠٢٥](https://open.spotify.com/album/6CKUiiaHgkhNidqi3MGLYe) | 4:38 |
+| 1 | [طلعت ابيه](https://open.spotify.com/track/1UGaliIKCl7MOWzvzh5chs) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [عايض ٢٠٢٥](https://open.spotify.com/album/6CKUiiaHgkhNidqi3MGLYe) | 4:38 |
+| 2 | [Ah Men Qalbi](https://open.spotify.com/track/4IKkoJtURxPMEgWtT6Prtv) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Enaq Al Akheer \- Part 1](https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm) | 4:17 |
 | 3 | [Alsaa Kam](https://open.spotify.com/track/0XK1Pijju1M9oGvw1GG1cf) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alsaa Kam](https://open.spotify.com/album/1UM0MyiJRdPqVgDuRKlRCb) | 3:57 |
 | 4 | [Haka Wajed](https://open.spotify.com/track/5VpHmHIWNXyNmLd4ryeyHV) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Abdul Majeed Abdullah 2024](https://open.spotify.com/album/7q9ZsaQ6tyCoB4aJq1Lma7) | 4:14 |
 | 5 | [Nosy Al Ajmal](https://open.spotify.com/track/0jMoAlPlTfxFEcR5tYI86H) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Nosy Al Ajmal](https://open.spotify.com/album/04kL7GXfzkQcAqNdYcUM2R) | 4:32 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 43 | [Qeiam](https://open.spotify.com/track/6gHhZKa9F7WqCVXkj29Qss) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Marhaba](https://open.spotify.com/album/0SwI39bKzHkorStj3SHDV8) | 4:04 |
 | 44 | [Thaag El Ghamaam](https://open.spotify.com/track/7CJTam1agxsYHmlByF1sa0) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fouad Abdulwahed 2024](https://open.spotify.com/album/5rh03DFJueGrJqjQHPJXSK) | 4:23 |
 
-Snapshot ID: `Z/fWiwAAAAA5WS6H9zSUIupm1eC+j2w1`
+Snapshot ID: `Z/vrqgAAAAA4fiQoc0E0pqYVXq271O5m`

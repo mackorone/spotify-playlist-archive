@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 797540,
+  "num_followers": 797706,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAACYBZx2YGp13ejIhjSwU6Cq",
+  "snapshot_id": "Z/mtAAAAAAAxJTjr9/bEBAyBbo5aXrWP",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recordando Ariel Camacho (Live)",
+        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "Porque Te Vas De Mi - Live",
+      "url": "https://open.spotify.com/track/5PmJVyeiO6hzmu56MWabWt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 150000,
       "name": "Nataaoki",
       "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recordando Ariel Camacho (Live)",
-        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Porque Te Vas De Mi - Live",
-      "url": "https://open.spotify.com/track/5PmJVyeiO6hzmu56MWabWt"
     },
     {
       "added_at": null,

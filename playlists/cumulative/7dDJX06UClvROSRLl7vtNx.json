@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 134337,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2VKSzc1Zdjni8rQGFxvBm9"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 136500,
       "name": "Better Than Today",
       "url": "https://open.spotify.com/track/41lhdlcrHf4xHTxJgnpf7U"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 157661,
       "name": "Burn Low",
       "url": "https://open.spotify.com/track/4PKaNwchWgz4JCBuJPiLBH"
@@ -6437,6 +6437,32 @@
     },
     {
       "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/4E0K8bqbI6kXogJARmebtj"
+      },
+      "artists": [
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Dawilk",
+          "url": "https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151282,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/0xikytQeABwldw3dTO18kP"
+    },
+    {
+      "album": {
         "name": "Hope You Love Me Too",
         "url": "https://open.spotify.com/album/40DvN836TVuEFJPWyXknm5"
       },
@@ -10126,7 +10152,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 174512,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/0E7U13bmvEccq4CtC3q0Pw"
@@ -15235,6 +15261,32 @@
     },
     {
       "album": {
+        "name": "Sweet Disposition",
+        "url": "https://open.spotify.com/album/3KAFYeHbYDJIdQAlSvgpzw"
+      },
+      "artists": [
+        {
+          "name": "Lima Riff",
+          "url": "https://open.spotify.com/artist/4qysYl9hMKYs6FdekZ3xFZ"
+        },
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "Tom Bailey",
+          "url": "https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217699,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/1DegAT0ZQxGICdkQmBZ9vS"
+    },
+    {
+      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/1PRCO6wRoGDqbmhTUzWawM"
       },
@@ -17740,6 +17792,36 @@
       "duration_ms": 133000,
       "name": "Wish You All the Best",
       "url": "https://open.spotify.com/track/4TII4nhhzE28nrQRGI77QX"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/5dAlVdIsoXVNiY0dVxvNN8"
+      },
+      "artists": [
+        {
+          "name": "Chill Gull",
+          "url": "https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw"
+        },
+        {
+          "name": "rivve",
+          "url": "https://open.spotify.com/artist/4mH4QjsUfCleAq6wz2QOJV"
+        },
+        {
+          "name": "UnderWater Project",
+          "url": "https://open.spotify.com/artist/3GT3gnZ90UuW5Cs0AJopzb"
+        },
+        {
+          "name": "Andreea Flavia",
+          "url": "https://open.spotify.com/artist/2Lv3VRT5DQaAFNEpKOHUz1"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/0Defp1X2yg9DiHsKn6vkI8"
     },
     {
       "album": {

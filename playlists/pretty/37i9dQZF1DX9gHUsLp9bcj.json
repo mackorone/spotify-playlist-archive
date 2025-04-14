@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 40776,
+  "num_followers": 40806,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Sus \u00c9xitos Fabulosos (Remastered)",
-        "url": "https://open.spotify.com/album/33RJnq1ma4lVTBKPCK92vf"
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
         }
       ],
-      "duration_ms": 167760,
-      "name": "Cerezo Rosa - Remastered",
-      "url": "https://open.spotify.com/track/1caIyurPdAPvl9kUyNfwir"
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -219,6 +203,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "Sus \u00c9xitos Fabulosos (Remastered)",
+        "url": "https://open.spotify.com/album/33RJnq1ma4lVTBKPCK92vf"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Cerezo Rosa - Remastered",
+      "url": "https://open.spotify.com/track/1caIyurPdAPvl9kUyNfwir"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 202560,
       "name": "Solamente una Vez",
       "url": "https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Ruega por Nosotros",
+      "url": "https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -255,22 +271,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Ruega por Nosotros",
-      "url": "https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "El Rey del Mambo",
         "url": "https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7"
       },
@@ -283,22 +283,6 @@
       "duration_ms": 188840,
       "name": "Que Rico el Mambo",
       "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Mambo",
-        "url": "https://open.spotify.com/album/5ziv918FePQggsqRgyxOQb"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 156880,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/2718M9JCtwKzYqMlq4nR6f"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -319,18 +303,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
+        "name": "Alma de negro",
+        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
       },
       "artists": [
         {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
+      "duration_ms": 140146,
+      "name": "Aquellos ojos verdes (bolero)",
+      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -351,6 +339,38 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "Mambo",
+        "url": "https://open.spotify.com/album/5ziv918FePQggsqRgyxOQb"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 156880,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/2718M9JCtwKzYqMlq4nR6f"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "El Revolucionario",
         "url": "https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 192261,
       "name": "La Cama de Piedra",
       "url": "https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Alma de negro",
-        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Aquellos ojos verdes (bolero)",
-      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -435,6 +435,38 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "La que se fue",
+      "url": "https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Boleros In Tr\u00edo",
+        "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 157480,
+      "name": "Amor Que Malo Eres",
+      "url": "https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "Mexico's Greatest Hits",
         "url": "https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW"
       },
@@ -447,6 +479,54 @@
       "duration_ms": 232333,
       "name": "Quiereme Mucho (Yours)",
       "url": "https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Canciones del Corazon",
+        "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 185547,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Los 5 Latinos (Singles Collection)",
+        "url": "https://open.spotify.com/album/1973kRaYyDe5rJeRAvQHQ6"
+      },
+      "artists": [
+        {
+          "name": "Los 5 Latinos",
+          "url": "https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/3ND2X5ewlEMOnuzvsvi71w"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "P\u00e9njamo",
+      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -483,70 +563,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "La que se fue",
-      "url": "https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Boleros In Tr\u00edo",
-        "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 157480,
-      "name": "Amor Que Malo Eres",
-      "url": "https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "The Best Of Perez Prado: The Original Mambo #5",
-        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 150386,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Canciones del Corazon",
-        "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 185547,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
         "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
       },
@@ -563,34 +579,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+        "name": "The Best Of Perez Prado: The Original Mambo #5",
+        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 195946,
-      "name": "P\u00e9njamo",
-      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Los 5 Latinos (Singles Collection)",
-        "url": "https://open.spotify.com/album/1973kRaYyDe5rJeRAvQHQ6"
-      },
-      "artists": [
-        {
-          "name": "Los 5 Latinos",
-          "url": "https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/3ND2X5ewlEMOnuzvsvi71w"
+      "duration_ms": 150386,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "Canciones del Corazon",
+        "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 173792,
+      "name": "Perf\u00eddia",
+      "url": "https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "M\u00e9xico 100 Canciones Vintage",
         "url": "https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 167506,
       "name": "Cha-Cha De Pollos (Cha-Cha for Chicks)",
       "url": "https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Canciones del Corazon",
-        "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 173792,
-      "name": "Perf\u00eddia",
-      "url": "https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente & His Orchestra",
-          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Agua Limpia Todo",
-      "url": "https://open.spotify.com/track/5JnJ9IRO4lO4uCZvIT4CoN"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Canciones de la Radio, Vol. 2",
         "url": "https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 141626,
       "name": "Espinita",
       "url": "https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Agua Limpia Todo",
+      "url": "https://open.spotify.com/track/5JnJ9IRO4lO4uCZvIT4CoN"
     },
     {
       "added_at": "2024-04-24 22:38:01",

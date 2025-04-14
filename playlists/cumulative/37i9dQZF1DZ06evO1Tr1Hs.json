@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230923,
+      "name": "Blakk Rokkstar",
+      "url": "https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO"
+    },
+    {
+      "album": {
         "name": "Teen X : Relapsed",
         "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 131414,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t"
@@ -74,7 +92,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 165411,
       "name": "Delinquent (feat. Homixide Gang)",
       "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 168160,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs"
@@ -374,7 +392,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 161309,
       "name": "Hella",
       "url": "https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1"
@@ -518,7 +536,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 150318,
       "name": "Lookbook",
       "url": "https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ"
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 147614,
       "name": "Root Of All Evil",
       "url": "https://open.spotify.com/track/7x19FKGt44L9a0gSEXZ5f1"
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 178285,
       "name": "Stunt",
       "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 104544,
       "name": "Teenager Rager",
       "url": "https://open.spotify.com/track/0MwOpzSByFjvmgjeY0It4a"

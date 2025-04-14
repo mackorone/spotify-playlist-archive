@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 388528,
+  "num_followers": 388602,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -264,13 +264,13 @@
       },
       "artists": [
         {
-          "name": "Samfree",
-          "url": "https://open.spotify.com/artist/4WURgk0jAO9xb8AIJ2ERye"
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
         }
       ],
-      "duration_ms": 202085,
-      "name": "\u30eb\u30ab\u30eb\u30ab\u2605\u30ca\u30a4\u30c8\u30d5\u30a3\u30fc\u30d0\u30fc -MIKU EXPO 2014 in INDONESIA Live-",
-      "url": "https://open.spotify.com/track/1qfh55N9dvFU1ESAJ3jFQG"
+      "duration_ms": 284422,
+      "name": "\u30e1\u30eb\u30c8 -MIKU EXPO 2014 in INDONESIA Live-",
+      "url": "https://open.spotify.com/track/6nWONiqCJwFxKKfAJSKaev"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -291,18 +291,38 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "Tell Your World EP",
+        "url": "https://open.spotify.com/album/5lReAmKNgxEHuESCWyY5S7"
+      },
+      "artists": [
+        {
+          "name": "livetune",
+          "url": "https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Tell Your World",
+      "url": "https://open.spotify.com/track/6kBNaF6seD0JqFl4aBJ55e"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
         "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
       },
       "artists": [
         {
-          "name": "ryo (supercell)",
-          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+          "name": "Samfree",
+          "url": "https://open.spotify.com/artist/4WURgk0jAO9xb8AIJ2ERye"
         }
       ],
-      "duration_ms": 284422,
-      "name": "\u30e1\u30eb\u30c8 -MIKU EXPO 2014 in INDONESIA Live-",
-      "url": "https://open.spotify.com/track/6nWONiqCJwFxKKfAJSKaev"
+      "duration_ms": 202085,
+      "name": "\u30eb\u30ab\u30eb\u30ab\u2605\u30ca\u30a4\u30c8\u30d5\u30a3\u30fc\u30d0\u30fc -MIKU EXPO 2014 in INDONESIA Live-",
+      "url": "https://open.spotify.com/track/1qfh55N9dvFU1ESAJ3jFQG"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -359,26 +379,6 @@
       "duration_ms": 195048,
       "name": "\u304b\u3089\u304f\u308a\u30d4\u30a8\u30ed -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/0f6Z1Kbo3PzA1sTtoaBbqK"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "Tell Your World EP",
-        "url": "https://open.spotify.com/album/5lReAmKNgxEHuESCWyY5S7"
-      },
-      "artists": [
-        {
-          "name": "livetune",
-          "url": "https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Tell Your World",
-      "url": "https://open.spotify.com/track/6kBNaF6seD0JqFl4aBJ55e"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
-        "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
-      },
-      "artists": [
-        {
-          "name": "wowaka",
-          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "\u30ed\u30fc\u30ea\u30f3\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u30b3\u30a4\u30f3\u30ed\u30c3\u30ab\u30fc\u30d9\u30a4\u30d3\u30fc",
         "url": "https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
-        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
+        "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
+        "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
       },
       "artists": [
         {
-          "name": "ryo (supercell)",
-          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+          "name": "wowaka",
+          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
         }
       ],
-      "duration_ms": 414040,
-      "name": "ODDS&ENDS -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
-      "url": "https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt"
+      "duration_ms": 194000,
+      "name": "\u30ed\u30fc\u30ea\u30f3\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -827,6 +811,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
+        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
+      },
+      "artists": [
+        {
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+        }
+      ],
+      "duration_ms": 414040,
+      "name": "ODDS&ENDS -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
+      "url": "https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "Trump",
         "url": "https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 158926,
       "name": "Blackjack",
       "url": "https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
-        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
-      },
-      "artists": [
-        {
-          "name": "wowaka",
-          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "\u88cf\u8868\u30e9\u30d0\u30fc\u30ba -MIKUNOPOLIS in LOS ANGELES Live-",
-      "url": "https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -891,6 +875,22 @@
       "duration_ms": 234637,
       "name": "Sweet Devil - Eight Mix",
       "url": "https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
+        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
+      },
+      "artists": [
+        {
+          "name": "wowaka",
+          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "\u88cf\u8868\u30e9\u30d0\u30fc\u30ba -MIKUNOPOLIS in LOS ANGELES Live-",
+      "url": "https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
+        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
+      },
+      "artists": [
+        {
+          "name": "Yuuyu",
+          "url": "https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi"
+        }
+      ],
+      "duration_ms": 238390,
+      "name": "\u6df1\u6d77\u5c11\u5973 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
+      "url": "https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
         "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
       },
@@ -1087,6 +1103,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
+        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
+      },
+      "artists": [
+        {
+          "name": "Ika",
+          "url": "https://open.spotify.com/artist/5cPwMq2sLgOTGX7FHIcd3n"
+        }
+      ],
+      "duration_ms": 149531,
+      "name": "\u307f\u304f\u307f\u304f\u306b\u3057\u3066\u3042\u3052\u308b\u266a\u3010\u3057\u3066\u3084\u3093\u3088\u3011 -MIKU EXPO 2014 in INDONESIA Live-",
+      "url": "https://open.spotify.com/track/5mLPTVNnyp7zJkmDOl4FIS"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "crystaL",
         "url": "https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu"
       },
@@ -1108,38 +1140,6 @@
       },
       "artists": [
         {
-          "name": "Yuuyu",
-          "url": "https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi"
-        }
-      ],
-      "duration_ms": 238390,
-      "name": "\u6df1\u6d77\u5c11\u5973 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
-      "url": "https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
-        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
-      },
-      "artists": [
-        {
-          "name": "Ika",
-          "url": "https://open.spotify.com/artist/5cPwMq2sLgOTGX7FHIcd3n"
-        }
-      ],
-      "duration_ms": 149531,
-      "name": "\u307f\u304f\u307f\u304f\u306b\u3057\u3066\u3042\u3052\u308b\u266a\u3010\u3057\u3066\u3084\u3093\u3088\u3011 -MIKU EXPO 2014 in INDONESIA Live-",
-      "url": "https://open.spotify.com/track/5mLPTVNnyp7zJkmDOl4FIS"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
-        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
-      },
-      "artists": [
-        {
           "name": "OSTER project",
           "url": "https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off"
         }
@@ -1147,22 +1147,6 @@
       "duration_ms": 236271,
       "name": "\u30d4\u30a2\u30ce\u00d7\u30d5\u30a9\u30eb\u30c6\u00d7\u30b9\u30ad\u30e3\u30f3\u30c0\u30eb -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/6UFEn1vSVfMx9MUN8ccdj0"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u82b1\u675f\u3068\u6c34\u846c",
-        "url": "https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 328946,
-      "name": "WORLD'S END UMBRELLA - ORIGINAL",
-      "url": "https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1179,6 +1163,22 @@
       "duration_ms": 516642,
       "name": "\u30e1\u30c6\u30aa",
       "url": "https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u82b1\u675f\u3068\u6c34\u846c",
+        "url": "https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 328946,
+      "name": "WORLD'S END UMBRELLA - ORIGINAL",
+      "url": "https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "moon",
-        "url": "https://open.spotify.com/album/5PDWbuNnJa04B3c9n9AwTd"
-      },
-      "artists": [
-        {
-          "name": "iroha(sasaki)",
-          "url": "https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc"
-        }
-      ],
-      "duration_ms": 335435,
-      "name": "moon",
-      "url": "https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Obscure Questions(\u30aa\u30d6\u30b9\u30ad\u30e5\u30a2 \u30af\u30a8\u30b9\u30c1\u30e7\u30f3\u30ba) [feat. Hatsune Miku]",
         "url": "https://open.spotify.com/album/62tr8ONXURBl4kxqLGjbMO"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 200900,
       "name": "\u3042\u308a\u3075\u308c\u305f\u305b\u304b\u3044\u305b\u3044\u3075\u304f feat.\u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/6Cxzd8UyB28Grofsy17tfF"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "moon",
+        "url": "https://open.spotify.com/album/5PDWbuNnJa04B3c9n9AwTd"
+      },
+      "artists": [
+        {
+          "name": "iroha(sasaki)",
+          "url": "https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc"
+        }
+      ],
+      "duration_ms": 335435,
+      "name": "moon",
+      "url": "https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "\u76f8\u611b\u6027\u7406\u8ad6",
+        "url": "https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "\u611b\u8a00\u8449",
+      "url": "https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
         "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u76f8\u611b\u6027\u7406\u8ad6",
-        "url": "https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 264400,
-      "name": "\u611b\u8a00\u8449",
-      "url": "https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
         "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
       },
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u5fd8\u5374\u5fc3\u4e2d",
-        "url": "https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG"
+        "name": "DECO*27 VOCALOID COLLECTION 2008\uff5e2012",
+        "url": "https://open.spotify.com/album/4F8Fq5f3JSTsG5GnJ37Ctc"
       },
       "artists": [
         {
-          "name": "0-9",
-          "url": "https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn"
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
-      "duration_ms": 253954,
-      "name": "\u5fd8\u5374\u5fc3\u4e2d",
-      "url": "https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg"
+      "duration_ms": 183384,
+      "name": "\u4e8c\u606f\u6b69\u884c (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/01MsqQ89M1tOEfxgWmEsWL"
     }
   ],
   "unique_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",

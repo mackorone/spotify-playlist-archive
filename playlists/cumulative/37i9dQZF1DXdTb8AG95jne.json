@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \ud5c8\ud68c\uacbd) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc138\uc774\uc218\ubbf8) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 196293,
       "name": "Do You Think Of Me?",
       "url": "https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL"
@@ -4110,6 +4110,24 @@
       "duration_ms": 245320,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/2i7P8keTV3Z7XsOEF5pAul"
+    },
+    {
+      "album": {
+        "name": "pool vol. 5 - Everyday i felt the same",
+        "url": "https://open.spotify.com/album/6kT4QgbZ9fFMXB6iPdjhB2"
+      },
+      "artists": [
+        {
+          "name": "DASUTT",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Everyday i felt the same",
+      "url": "https://open.spotify.com/track/4pbVHxFnF0b2ZFKCYx96M4"
     },
     {
       "album": {

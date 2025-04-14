@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Malcom Todd",
-  "num_followers": 1688608,
+  "num_followers": 1688591,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
         "name": "If Only I Could Wait b/w Walk Home",
         "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 202003,
       "name": "If Only I Could Wait",
       "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "Can we talk about Isaac?",
-        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 243203,
-      "name": "Can we talk about Isaac?",
-      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
         "name": "Big Ideas",
         "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
       },
@@ -911,6 +895,38 @@
       "duration_ms": 213116,
       "name": "Soup",
       "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Basic Being Basic",
+        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Can we talk about Isaac?",
+        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 243203,
+      "name": "Can we talk about Isaac?",
+      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -947,18 +963,18 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "Basic Being Basic",
-        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
+        "name": "Starry Eyed",
+        "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 158109,
-      "name": "Basic Being Basic",
-      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+      "duration_ms": 136925,
+      "name": "Starry Eyed",
+      "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "Starry Eyed",
-        "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 136925,
-      "name": "Starry Eyed",
-      "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
         "name": "Cheer Me On",
         "url": "https://open.spotify.com/album/3BZrsHbBApn2UyM8IclceX"
       },
@@ -1055,26 +1055,6 @@
       "duration_ms": 257786,
       "name": "Cheer Me On",
       "url": "https://open.spotify.com/track/11gdbJcwyy7mgOrhArwi1D"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 203945,
-      "name": "Everything is romantic featuring caroline polachek",
-      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1111,18 +1091,38 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "He's My Man",
-        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
       "artists": [
         {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 232985,
-      "name": "He's My Man",
-      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+      "duration_ms": 203945,
+      "name": "Everything is romantic featuring caroline polachek",
+      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 153101,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
         }
       ],
-      "duration_ms": 153101,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "Husk",
-        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 204651,
-      "name": "Husk",
-      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
         "name": ":)",
         "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 180568,
       "name": ":)",
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
+        "name": "brown eyes*",
+        "url": "https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "brown eyes*",
+      "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
         "name": "Calling After Me",
         "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "brown eyes*",
-        "url": "https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO"
+        "name": "Teach Me How To Love",
+        "url": "https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd"
       },
       "artists": [
         {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
         }
       ],
-      "duration_ms": 163346,
-      "name": "brown eyes*",
-      "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
+      "duration_ms": 182913,
+      "name": "Teach Me How To Love",
+      "url": "https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1455,22 +1471,18 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "Ask That God (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
+        "name": "Creatures In Heaven",
+        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 205966,
-      "name": "Somebody's Son (feat. Lindsey Buckingham)",
-      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1491,114 +1503,22 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "Creatures In Heaven",
-        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
+        "name": "Ask That God (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 221670,
-      "name": "Creatures in Heaven",
-      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "Teach Me How To Love",
-        "url": "https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd"
-      },
-      "artists": [
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
         {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 182913,
-      "name": "Teach Me How To Love",
-      "url": "https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "Coffin Change",
-        "url": "https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 185361,
-      "name": "Coffin Change",
-      "url": "https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "Call Me Up",
-        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 161168,
-      "name": "Call Me Up",
-      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "Blood On the Silver Screen",
-        "url": "https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 208591,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "I Miss You Already + I Haven\u2019t Left Yet (Deluxe)",
-        "url": "https://open.spotify.com/album/2PpathAsqvsMNCdRrRW9rf"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Purple Teeth, The Bravery",
-      "url": "https://open.spotify.com/track/17Az6lQEgxICVvHrr7VbAg"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "PSILOCYBIN & DAISIES",
-        "url": "https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 137141,
-      "name": "**PSILOCYBIN & DAISIES**",
-      "url": "https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS"
+      "duration_ms": 205966,
+      "name": "Somebody's Son (feat. Lindsey Buckingham)",
+      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1619,18 +1539,66 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/6JPC4BxmhOmvzjFOgAvgIZ"
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
       },
       "artists": [
         {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
         }
       ],
-      "duration_ms": 120408,
-      "name": "DJ",
-      "url": "https://open.spotify.com/track/5UzMBhyklGE8ORRmhhNOBD"
+      "duration_ms": 161168,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Coffin Change",
+        "url": "https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 185361,
+      "name": "Coffin Change",
+      "url": "https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "I Miss You Already + I Haven\u2019t Left Yet (Deluxe)",
+        "url": "https://open.spotify.com/album/2PpathAsqvsMNCdRrRW9rf"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Purple Teeth, The Bravery",
+      "url": "https://open.spotify.com/track/17Az6lQEgxICVvHrr7VbAg"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Blood On the Silver Screen",
+        "url": "https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 208591,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1651,18 +1619,54 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "i'll be happy when",
-        "url": "https://open.spotify.com/album/0EG43re9S4RRLXO6WE2gqD"
+        "name": "PSILOCYBIN & DAISIES",
+        "url": "https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 176573,
-      "name": "i\u2019ll be happy when",
-      "url": "https://open.spotify.com/track/3Q3URGmQcp4hbF2ZTgHeDc"
+      "duration_ms": 137141,
+      "name": "**PSILOCYBIN & DAISIES**",
+      "url": "https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/6JPC4BxmhOmvzjFOgAvgIZ"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 120408,
+      "name": "DJ",
+      "url": "https://open.spotify.com/track/5UzMBhyklGE8ORRmhhNOBD"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Pushing Daisies",
+        "url": "https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        },
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 207189,
+      "name": "Pushing Daisies",
+      "url": "https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl"
     }
   ],
   "unique_name": "Indie Pop",

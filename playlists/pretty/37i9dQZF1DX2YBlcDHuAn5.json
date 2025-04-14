@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 32506,
+  "num_followers": 32508,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2025-04-04 06:32:35",
       "album": {
-        "name": "Sarah's Place (feat. Noah Kahan)",
-        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 214056,
-      "name": "Sarah's Place (feat. Noah Kahan)",
-      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
-    },
-    {
-      "added_at": "2025-04-04 06:32:35",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
       },
@@ -243,38 +223,22 @@
     {
       "added_at": "2025-04-04 06:32:35",
       "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF"
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli"
-    },
-    {
-      "added_at": "2025-04-04 06:32:35",
-      "album": {
-        "name": "Good Horses (feat. Miranda Lambert)",
-        "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 237773,
-      "name": "Good Horses (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
       "added_at": "2025-04-04 06:32:35",
@@ -307,6 +271,42 @@
       "duration_ms": 165058,
       "name": "The Man He Sees in Me",
       "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
+    },
+    {
+      "added_at": "2025-04-04 06:32:35",
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli"
+    },
+    {
+      "added_at": "2025-04-04 06:32:35",
+      "album": {
+        "name": "Good Horses (feat. Miranda Lambert)",
+        "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 237773,
+      "name": "Good Horses (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
     },
     {
       "added_at": "2025-04-04 06:32:35",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-04-04 06:32:35",
       "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+    },
+    {
+      "added_at": "2025-04-04 06:32:35",
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 234237,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
-    },
-    {
-      "added_at": "2025-04-04 06:32:35",
-      "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
     },
     {
       "added_at": "2025-04-04 06:32:35",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-04-04 06:32:35",
       "album": {
-        "name": "Can't Let You In, Can't Let You Out",
-        "url": "https://open.spotify.com/album/2oh9crqE4SLLnas9UFRnFx"
-      },
-      "artists": [
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Can't Let You In, Can't Let You Out",
-      "url": "https://open.spotify.com/track/5uR1HLJjVfukNCjZ1hkKIw"
-    },
-    {
-      "added_at": "2025-04-04 06:32:35",
-      "album": {
         "name": "Hold Your Fire",
         "url": "https://open.spotify.com/album/3AMaRXx8JHkgraFE2koTaY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 196384,
       "name": "Hold Your Fire",
       "url": "https://open.spotify.com/track/6mzTD4VqE5lEg7MLQ8PKqK"
+    },
+    {
+      "added_at": "2025-04-04 06:32:35",
+      "album": {
+        "name": "Can't Let You In, Can't Let You Out",
+        "url": "https://open.spotify.com/album/2oh9crqE4SLLnas9UFRnFx"
+      },
+      "artists": [
+        {
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Can't Let You In, Can't Let You Out",
+      "url": "https://open.spotify.com/track/5uR1HLJjVfukNCjZ1hkKIw"
     },
     {
       "added_at": "2025-04-04 06:32:35",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-04-04 06:32:35",
       "album": {
-        "name": "First Round's On Me",
-        "url": "https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8"
+        "name": "Mortality Blues",
+        "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
       },
       "artists": [
         {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 236574,
-      "name": "First Round's On Me",
-      "url": "https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP"
+      "duration_ms": 195490,
+      "name": "Mortality Blues",
+      "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
     }
   ],
   "unique_name": "Country & Americana",

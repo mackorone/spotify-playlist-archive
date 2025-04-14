@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-94 songs - 6 hr 4 min
+95 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [ウィッシュ・オン・マイ・スター \- Solo](https://open.spotify.com/track/0ALdiZoLjRAuLjvvIygb6k) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:49 | 2024-06-18 | 2025-01-27 |
 | [オーバー・ザ・レインボー](https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:13 | 2024-01-29 |  |
 | [グラデュエーション](https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:56 | 2024-01-29 |  |
+| [ゴーイング・トゥ・カリフォルニア](https://open.spotify.com/track/0emHVNucvPkBSiFLyEaCHk) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:07 | 2025-04-14 |  |
 | [ザ・ダンス](https://open.spotify.com/track/5cSeRkCQaQ7ByIse0QmYfc) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:33 | 2024-01-29 | 2024-10-11 |
 | [スロー・ダンス](https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:42 | 2024-10-11 |  |
 | [タイム・アフター・タイム](https://open.spotify.com/track/232vMbFWbfON2ZS0I2S4RI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:08 | 2024-01-29 |  |
@@ -91,7 +92,7 @@
 | [フラガール](https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:44 | 2024-01-29 |  |
 | [フラガール \- アコースティック・ヴァージョン](https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:39 | 2024-01-29 |  |
 | [フラガール \-虹を\-](https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Miho Teruya](https://open.spotify.com/artist/5rbx6VW8D4lpHU4J1wY0FB) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:38 | 2024-01-29 |  |
-| [ブリーズ \- Solo](https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:41 | 2024-01-29 |  |
+| [ブリーズ \- Solo](https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:41 | 2024-01-29 | 2025-04-14 |
 | [ホワイル・マイ・ギター・ジェントリー・ウィープス \- Solo](https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:06 | 2024-01-29 |  |
 | [レッツ・ダンス \- Solo](https://open.spotify.com/track/4OtasHlPr3hKhb8HEIruK1) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 2:45 | 2024-01-29 | 2024-02-26 |
 | [ヴァリエーションズ・オン・ア・ダンス](https://open.spotify.com/track/6Np7BEc0F56BSFnbVvC5xA) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live & Let Live～Love for Japan](https://open.spotify.com/album/6RMhWS03tHCnnSAWKM038l) | 6:41 | 2024-02-08 | 2024-02-23 |

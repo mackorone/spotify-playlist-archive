@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 49637,
+  "num_followers": 49654,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Tiempos de Tribulacion",
         "url": "https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 363120,
       "name": "Orillas",
       "url": "https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Culpable O No",
-        "url": "https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "25 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+        "name": "Culpable O No",
+        "url": "https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
-      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
+      "duration_ms": 253053,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -555,6 +555,22 @@
       "duration_ms": 201021,
       "name": "Todo Lo Que Se Fue",
       "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -591,22 +607,6 @@
       "duration_ms": 227099,
       "name": "Lo Quiero Todo",
       "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "\u00daltimos D\u00edas",
-        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 319933,
-      "name": "\u00daltimos D\u00edas",
-      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "\u00daltimos D\u00edas",
+        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 319933,
+      "name": "\u00daltimos D\u00edas",
+      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Criminal (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Am\u00e9rica Vibra",
         "url": "https://open.spotify.com/album/4gzXNuK24CY9voI94eWFmj"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 219470,
       "name": "Eu Quero Tudo",
       "url": "https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Cuanto Heredamos",
-        "url": "https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Cuanto Heredamos",
-      "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Nonpalidece",
         "url": "https://open.spotify.com/album/1kYgzpnvsVgE3QOf1Gq1zm"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 219936,
       "name": "La Alegr\u00eda Manda",
       "url": "https://open.spotify.com/track/0xlJjSgFvffjl78AE5003Q"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Seguir Viviendo Sin Tu Amor",
+        "url": "https://open.spotify.com/album/4LqtYba4wLsXu4vzPG4aEk"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 166082,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/5F3qW7U4Tmqwmh0SsVkyOr"
     }
   ],
   "unique_name": "Atardecer en la playa",

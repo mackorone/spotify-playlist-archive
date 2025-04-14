@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Javier B\u00e1tiz por siempre ",
-  "num_followers": 560187,
+  "num_followers": 560276,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -243,50 +227,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -307,6 +259,54 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "El Diablito",
         "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
@@ -319,6 +319,22 @@
       "duration_ms": 282133,
       "name": "Los Dioses Ocultos",
       "url": "https://open.spotify.com/track/3aYLIO4htUZCAygXUbbc3Q"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -355,22 +371,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "La ingrata",
-      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -383,54 +383,6 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Oye Como Va",
-      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -467,6 +419,38 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -476,25 +460,9 @@
           "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Aqu\u00ed No Es As\u00ed",
-      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
+      "duration_ms": 212000,
+      "name": "La ingrata",
+      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -531,6 +499,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Enjambre Y Los Hu\u00e9spedes Del Orbe",
         "url": "https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
       "artists": [
         {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -579,18 +563,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+      "duration_ms": 294266,
+      "name": "Aqu\u00ed No Es As\u00ed",
+      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -611,18 +595,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -687,6 +671,22 @@
       "duration_ms": 294586,
       "name": "A.D.O.",
       "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Un Panteon Muy Vivo",
-        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 423360,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
         "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 178946,
       "name": "Que Grosero",
       "url": "https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 423360,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Reptilectric",
+        "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 232288,
+      "name": "Reptilectric",
+      "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Tres-D",
         "url": "https://open.spotify.com/album/74vmH4UpHZolSYKsHa0qns"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 190893,
       "name": "Hay Amores Que Matan",
       "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Reptilectric",
-        "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 232288,
-      "name": "Reptilectric",
-      "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Si Senor",
-      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "D.D. Y Ponle Play",
         "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Amores Perros (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Si Senor",
+      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "En Esta Ciudad",
         "url": "https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 207946,
       "name": "Carretera",
       "url": "https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Ojos Claros, Labios Rosas",
-      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Pop...\u00a1Por La Cara!",
+        "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 244292,
+      "name": "Pervert Pop Song",
+      "url": "https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Adicto al Rock N Roll",
         "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
       },
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Pop...\u00a1Por La Cara!",
-        "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
       "artists": [
         {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 244292,
-      "name": "Pervert Pop Song",
-      "url": "https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o"
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1303,38 +1303,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Botas Negras",
-        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
-      },
-      "artists": [
-        {
-          "name": "Radio Kaos",
-          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
-        }
-      ],
-      "duration_ms": 343826,
-      "name": "Botas Negras",
-      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Ely Guerra",
-        "url": "https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "Jurame",
-      "url": "https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Rock En Espanol - Lo Mejor De La Casta\u00f1eda",
         "url": "https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA"
       },
@@ -1347,6 +1315,22 @@
       "duration_ms": 218866,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Botas Negras",
+        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
+      },
+      "artists": [
+        {
+          "name": "Radio Kaos",
+          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
+        }
+      ],
+      "duration_ms": 343826,
+      "name": "Botas Negras",
+      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1395,6 +1379,22 @@
       "duration_ms": 281888,
       "name": "Don Quijote Marihuana",
       "url": "https://open.spotify.com/track/6Xn9nL00DDLBjH828A6kjX"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Ely Guerra",
+        "url": "https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 275586,
+      "name": "Jurame",
+      "url": "https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Mantando Gueros",
-        "url": "https://open.spotify.com/album/6ljMqIyil2pDBcZlsysK76"
-      },
-      "artists": [
-        {
-          "name": "Brujeria",
-          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
-        }
-      ],
-      "duration_ms": 143306,
-      "name": "Matando Gueros",
-      "url": "https://open.spotify.com/track/2gjr6Seh7mH5Tsgmo5DqjQ"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Rock Milenium",
         "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 167226,
       "name": "Paquita Disco",
       "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Mantando Gueros",
+        "url": "https://open.spotify.com/album/6ljMqIyil2pDBcZlsysK76"
+      },
+      "artists": [
+        {
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+        }
+      ],
+      "duration_ms": 143306,
+      "name": "Matando Gueros",
+      "url": "https://open.spotify.com/track/2gjr6Seh7mH5Tsgmo5DqjQ"
     },
     {
       "added_at": "2024-12-16 22:58:03",

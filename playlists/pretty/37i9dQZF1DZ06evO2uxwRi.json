@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 41454,
+  "num_followers": 41461,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAAAxNX3yicKCAxb9yAQvHyVm",
+  "snapshot_id": "Z/mtAAAAAAAiDKC/ckxut7EDk1r9j8jf",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 188253,
-      "name": "This Disaster",
-      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
+      "duration_ms": 231240,
+      "name": "Failure's Not Flattering",
+      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Failure's Not Flattering",
-      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
+      "duration_ms": 188253,
+      "name": "This Disaster",
+      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
     },
     {
       "added_at": null,
@@ -511,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
       "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 204400,
-      "name": "nothing matters (with Jordan Pundik of New Found Glory)",
-      "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
+      "duration_ms": 178810,
+      "name": "Accidentally in Love",
+      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
     },
     {
       "added_at": null,
@@ -547,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
       "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 178810,
-      "name": "Accidentally in Love",
-      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
+      "duration_ms": 204400,
+      "name": "nothing matters (with Jordan Pundik of New Found Glory)",
+      "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever And Ever x Infinity",
         "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 177037,
       "name": "Greatest Of All Time",
       "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radiosurgery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 177461,
       "name": "Summer Fling, Don't Mean a Thing",
       "url": "https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 137040,
-      "name": "Never Ending Story Theme Song",
-      "url": "https://open.spotify.com/track/6mW2DU0mYICqZ26p53QKsT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radiosurgery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 192599,
       "name": "Anthem for the Unwanted",
       "url": "https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 137040,
+      "name": "Never Ending Story Theme Song",
+      "url": "https://open.spotify.com/track/6mW2DU0mYICqZ26p53QKsT"
     },
     {
       "added_at": null,

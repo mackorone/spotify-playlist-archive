@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2025 (previous playlists archived on my profile)",
-  "num_followers": 22933,
+  "num_followers": 22937,
   "original_name": "acting on feeling",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAMLncD/epsWZt8JljYASKIpfNvPRZc",
+  "snapshot_id": "AAAMM/bT6Rpmmj4hpF/kodUbDG7v6t3g",
   "tracks": [
     {
       "added_at": "2025-03-01 22:42:13",
@@ -873,7 +873,39 @@
       "url": "https://open.spotify.com/track/1xbYxwk8eexZgTABS6zuzM"
     },
     {
-      "added_at": "2025-04-12 20:06:53",
+      "added_at": "2025-04-13 16:16:01",
+      "album": {
+        "name": "Profundo Amor",
+        "url": "https://open.spotify.com/album/0kcRYlSmu6DV3nIjFsYfTl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Chuquimia Crampton",
+          "url": "https://open.spotify.com/artist/4vV7A3OS088S8Ps2NtTcRO"
+        }
+      ],
+      "duration_ms": 279347,
+      "name": "Dark Shirt",
+      "url": "https://open.spotify.com/track/2FU34BCqCh93uP1XQYNtoq"
+    },
+    {
+      "added_at": "2025-04-13 16:19:32",
+      "album": {
+        "name": "I'm Cindy",
+        "url": "https://open.spotify.com/album/3obhwQ6jhn7Yy3ZGL6jwYt"
+      },
+      "artists": [
+        {
+          "name": "Cindy",
+          "url": "https://open.spotify.com/artist/3vUqg3VWCLmEA1es1T4nGn"
+        }
+      ],
+      "duration_ms": 196709,
+      "name": "New Power",
+      "url": "https://open.spotify.com/track/4jss2X2iCZjOU7zAUjc3zW"
+    },
+    {
+      "added_at": "2025-04-13 17:28:24",
       "album": {
         "name": "SSSLIP-RMX01",
         "url": "https://open.spotify.com/album/47zbySGzKDp8itUYb9J0L2"
@@ -891,6 +923,22 @@
       "duration_ms": 260538,
       "name": "PANAS",
       "url": "https://open.spotify.com/track/0gQlbFskqEn6Oq6BbC7wMY"
+    },
+    {
+      "added_at": "2025-04-13 17:41:54",
+      "album": {
+        "name": "Will Anything Happen",
+        "url": "https://open.spotify.com/album/6wtQQXsd3wIKyGhwIfGpE9"
+      },
+      "artists": [
+        {
+          "name": "Shop Assistants",
+          "url": "https://open.spotify.com/artist/3uHLyTtYMnhAWxfPy6VjNm"
+        }
+      ],
+      "duration_ms": 110706,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/7dAuc6UOo9aMhT6A6n2iXg"
     }
   ],
   "unique_name": "acting on feeling",

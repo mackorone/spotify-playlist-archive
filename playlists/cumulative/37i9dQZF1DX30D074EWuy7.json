@@ -3542,7 +3542,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 79041,
       "name": "Generazia",
       "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
@@ -8326,6 +8326,24 @@
       "duration_ms": 302021,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3H6qLglqHy5yqL1agQIYeW"
+    },
+    {
+      "album": {
+        "name": "My Secret Place",
+        "url": "https://open.spotify.com/album/2Dh0ru1gVuY0QFx2c8oWbm"
+      },
+      "artists": [
+        {
+          "name": "Roberto Gatto",
+          "url": "https://open.spotify.com/artist/6tIWJmvLweVkGTqWVByg70"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248682,
+      "name": "Rambler",
+      "url": "https://open.spotify.com/track/03t9fUUQ2aMsFbgIcqXOO8"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 489754,
+  "num_followers": 489811,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAAB8RaOR/QrU9LuQvlIT2oHK",
+  "snapshot_id": "Z/mtAAAAAAAefv2NISigbm+lI1Zv3W41",
   "tracks": [
     {
       "added_at": null,
@@ -691,34 +691,6 @@
       "duration_ms": 244466,
       "name": "Hold on to What You Believe (Live from Shepherd's Bush Empire, 2010)",
       "url": "https://open.spotify.com/track/1CW58In68DanWsAtiNuu0T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Johannesburg",
-        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
-        },
-        {
-          "name": "The Very Best",
-          "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
-        },
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 240453,
-      "name": "Wona",
-      "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
     }
   ],
   "unique_name": "This Is Mumford & Sons",

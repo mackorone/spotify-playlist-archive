@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Trueno & Young Miko, Rauw Alejandro, Prince Royce and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,447 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,491 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -275,22 +275,6 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
-    },
-    {
-      "added_at": "2025-04-10 22:00:14",
-      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 166963,
       "name": "Den k\u00e4nslan",
       "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
+    },
+    {
+      "added_at": "2025-04-10 22:00:14",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "WIND BLOW",
-        "url": "https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rn Dixg\u00e5rd",
-          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
-        }
-      ],
-      "duration_ms": 205804,
-      "name": "WIND BLOW",
-      "url": "https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN"
-    },
-    {
-      "added_at": "2025-04-10 22:00:14",
-      "album": {
         "name": "Know You've Been Loved",
         "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 216594,
       "name": "Know You've Been Loved",
       "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
+    },
+    {
+      "added_at": "2025-04-10 22:00:14",
+      "album": {
+        "name": "WIND BLOW",
+        "url": "https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Dixg\u00e5rd",
+          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
+        }
+      ],
+      "duration_ms": 205804,
+      "name": "WIND BLOW",
+      "url": "https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "Fyllda Av Sommar",
-        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 204287,
-      "name": "Fyllda Av Sommar",
-      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
-    },
-    {
-      "added_at": "2025-04-10 22:00:14",
-      "album": {
         "name": "Dandelion Kids",
         "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
       },
@@ -899,18 +883,34 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 (Tolkningarna)",
-        "url": "https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq"
+        "name": "Alphabet City Songs (Lost and Found Album)",
+        "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
       },
       "artists": [
         {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
         }
       ],
-      "duration_ms": 237561,
-      "name": "Jag vill tacka livet",
-      "url": "https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U"
+      "duration_ms": 235705,
+      "name": "East River Park Song",
+      "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
+    },
+    {
+      "added_at": "2025-04-10 22:00:14",
+      "album": {
+        "name": "Fyllda Av Sommar",
+        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 204287,
+      "name": "Fyllda Av Sommar",
+      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "Alphabet City Songs (Lost and Found Album)",
-        "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 (Tolkningarna)",
+        "url": "https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq"
       },
       "artists": [
         {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 235705,
-      "name": "East River Park Song",
-      "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
+      "duration_ms": 237561,
+      "name": "Jag vill tacka livet",
+      "url": "https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "What I'm Running From",
-        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 227654,
-      "name": "What I'm Running From",
-      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
-    },
-    {
-      "added_at": "2025-04-10 22:00:14",
-      "album": {
         "name": "Hem till Dalarna",
         "url": "https://open.spotify.com/album/3gEKKDGJxBp3ZKKtzaoNKU"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 281776,
       "name": "Hem till Dalarna",
       "url": "https://open.spotify.com/track/0WxY13xpXXt7f3zeUJRo0D"
+    },
+    {
+      "added_at": "2025-04-10 22:00:14",
+      "album": {
+        "name": "What I'm Running From",
+        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "duration_ms": 227654,
+      "name": "What I'm Running From",
+      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -1107,34 +1107,18 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "Vita Skelett",
-        "url": "https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl"
+        "name": "F\u00f6rloraren",
+        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
       },
       "artists": [
         {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
         }
       ],
-      "duration_ms": 183086,
-      "name": "Spartas Svarta Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey"
-    },
-    {
-      "added_at": "2025-04-10 22:00:14",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 188601,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
+      "duration_ms": 185333,
+      "name": "F\u00f6rloraren",
+      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
+        "name": "Vita Skelett",
+        "url": "https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 183086,
+      "name": "Spartas Svarta Hj\u00e4rta",
+      "url": "https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey"
+    },
+    {
+      "added_at": "2025-04-10 22:00:14",
+      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
       },
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "F\u00f6rloraren",
-        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
       },
       "artists": [
         {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 185333,
-      "name": "F\u00f6rloraren",
-      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+      "duration_ms": 188601,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
-        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
+        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
       },
       "artists": [
         {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
         }
       ],
-      "duration_ms": 354600,
-      "name": "Silverregn",
-      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
+      "duration_ms": 209610,
+      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
+        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
+        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
       },
       "artists": [
         {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
         }
       ],
-      "duration_ms": 172838,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
+      "duration_ms": 354600,
+      "name": "Silverregn",
+      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "Whiskey Tears II",
-        "url": "https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2"
+        "name": "EN D\u00d6ENDE PLANET",
+        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
       },
       "artists": [
         {
-          "name": "Mike \u00c4pt",
-          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Whiskey Tears II",
-      "url": "https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2"
+      "duration_ms": 243529,
+      "name": "EN D\u00d6ENDE PLANET",
+      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 172838,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
+    },
+    {
+      "added_at": "2025-04-10 22:00:14",
+      "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/1dtyicmDm2kBFPmwMLdVMu"
       },
@@ -1347,6 +1363,22 @@
       "duration_ms": 210520,
       "name": "Har p\u00e5 k\u00e4nn",
       "url": "https://open.spotify.com/track/2jlC60WVWghOGflEo0kt9L"
+    },
+    {
+      "added_at": "2025-04-10 22:00:14",
+      "album": {
+        "name": "Whiskey Tears II",
+        "url": "https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2"
+      },
+      "artists": [
+        {
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Whiskey Tears II",
+      "url": "https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -1383,22 +1415,6 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "Back To The Sea",
-        "url": "https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Back To The Sea",
-      "url": "https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq"
-    },
-    {
-      "added_at": "2025-04-10 22:00:14",
-      "album": {
         "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
         "url": "https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2025-04-10 22:00:14",
       "album": {
-        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
+        "name": "Back To The Sea",
+        "url": "https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
         }
       ],
-      "duration_ms": 209610,
-      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
+      "duration_ms": 193666,
+      "name": "Back To The Sea",
+      "url": "https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq"
     },
     {
       "added_at": "2025-04-10 22:00:14",
@@ -1443,22 +1459,6 @@
       "duration_ms": 223908,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/1cVhitY0LNYiskEEIwSANH"
-    },
-    {
-      "added_at": "2025-04-10 22:00:14",
-      "album": {
-        "name": "EN D\u00d6ENDE PLANET",
-        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
-      },
-      "artists": [
-        {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
-        }
-      ],
-      "duration_ms": 243529,
-      "name": "EN D\u00d6ENDE PLANET",
-      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
     }
   ],
   "unique_name": "Aktuellt",

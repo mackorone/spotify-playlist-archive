@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN y Envidia Kotxina.
 
-279 songs - 14 hr 13 min
+280 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Algo Se Tuerce](https://open.spotify.com/track/1aq2koct6YoMKfSpM45nCD) | [Casual Kids](https://open.spotify.com/artist/6Du1nUi00XM60WEBK4LqEz), [Odio Kronico](https://open.spotify.com/artist/2lbPbsEKtHvu3mIhep5870) | [Algo Se Tuerce](https://open.spotify.com/album/6WsgjkUck2yh7jmVSLStut) | 2:38 | 2025-02-27 | 2025-03-14 |
 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 | 2023-12-08 |  |
 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 | 2023-12-08 | 2024-04-19 |
-| [Amanece](https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI) | 3:32 | 2025-03-27 |  |
+| [Amanece](https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI) | 3:32 | 2025-03-27 | 2025-04-14 |
 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 | 2024-11-21 |  |
 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 | 2023-12-08 |  |
 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 | 2023-12-08 |  |
@@ -33,6 +33,7 @@
 | [Antimateria](https://open.spotify.com/track/2vzkOxWmJWQFzRRu1zNRsN) | [Beta Máximo](https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M) | [Antimateria](https://open.spotify.com/album/7DMDHH3ko36wCPkA6XSMv5) | 1:41 | 2024-07-12 | 2024-08-17 |
 | [Arcano](https://open.spotify.com/track/343upm20E1tcXBoSlHaVuX) | [Cuarto Mundo](https://open.spotify.com/artist/7hcEkjyJlcVJ4pAfbIAGNx) | [Cuarto Mundo](https://open.spotify.com/album/2Q0qXD7BSCwRuZJ6cb2xuR) | 3:16 | 2024-12-05 | 2025-01-04 |
 | [Arderán](https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [Arderán](https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC) | 3:02 | 2024-05-23 | 2024-11-22 |
+| [Asesino](https://open.spotify.com/track/5Ea2vv462Slyk3xh9mBRnV) | [Anti\-Regimen](https://open.spotify.com/artist/31Z203RSSNLMPBEiVSlKPX) | [Asesino](https://open.spotify.com/album/7CWCkNZXurX0lIxMxsu60Z) | 1:51 | 2025-04-10 |  |
 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 | 2023-12-08 |  |
 | [Así Es la Vida](https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI) | 3:53 | 2024-04-18 | 2024-06-22 |
 | [Así Es la Vida](https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd) | 3:53 | 2023-12-08 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 143491,
+  "num_followers": 143530,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAADIfkN7ugfJUTIBf5Ked64e",
+  "snapshot_id": "Z/mtAAAAAAA44RVRrcb5U6hBiMiKbbeM",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 201973,
       "name": "The Wedding Song",
       "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -499,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mother's Lullaby",
-        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
+        "name": "Amore (Remastered)",
+        "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
       },
       "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 197125,
-      "name": "A Mother\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
+      "duration_ms": 214572,
+      "name": "Mi manchi",
+      "url": "https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE"
     },
     {
       "added_at": null,
@@ -551,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amore (Remastered)",
-        "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
+        "name": "A Mother's Lullaby",
+        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
       },
       "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 214572,
-      "name": "Mi manchi",
-      "url": "https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE"
+      "duration_ms": 197125,
+      "name": "A Mother\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 36599,
+  "num_followers": 36655,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAAC0N2DMWP7oK+mnBEWCb/4l",
+  "snapshot_id": "Z/mtAAAAAACZ/GZbTlNDucfzZUmMFi9H",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Que Te Entregues Hoy",
-      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Booty Booty",
         "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
       },
@@ -607,6 +591,38 @@
       "duration_ms": 150155,
       "name": "Booty Booty",
       "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Que Te Entregues Hoy",
+      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "El \u00c1guila Real (Nave 727)",
+      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
     },
     {
       "added_at": null,
@@ -631,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+        "name": "70 Calaveras (En Vivo)",
+        "url": "https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe"
       },
       "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 193613,
-      "name": "El \u00c1guila Real (Nave 727)",
-      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
+      "duration_ms": 169394,
+      "name": "70 Calaveras - En Vivo",
+      "url": "https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4"
     },
     {
       "added_at": null,
@@ -675,26 +695,6 @@
       "duration_ms": 166284,
       "name": "Los Benjamines",
       "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "70 Calaveras (En Vivo)",
-        "url": "https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 169394,
-      "name": "70 Calaveras - En Vivo",
-      "url": "https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DE 8 A 5",
-        "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 194477,
-      "name": "De 8 A 5",
-      "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Voladora",
         "url": "https://open.spotify.com/album/4SnkVoszi7UkF2KhTG6aLM"
       },
@@ -799,22 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANEXO",
-        "url": "https://open.spotify.com/album/0vwYY2uOeR2Y0KZfhbPUgp"
+        "name": "DE 8 A 5",
+        "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 155325,
-      "name": "ANEXO",
-      "url": "https://open.spotify.com/track/5mCaf24VMbBH62lCCoqIDH"
+      "duration_ms": 194477,
+      "name": "De 8 A 5",
+      "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
     },
     {
       "added_at": null,
@@ -847,6 +827,26 @@
       "duration_ms": 193306,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANEXO",
+        "url": "https://open.spotify.com/album/0vwYY2uOeR2Y0KZfhbPUgp"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 155325,
+      "name": "ANEXO",
+      "url": "https://open.spotify.com/track/5mCaf24VMbBH62lCCoqIDH"
     },
     {
       "added_at": null,

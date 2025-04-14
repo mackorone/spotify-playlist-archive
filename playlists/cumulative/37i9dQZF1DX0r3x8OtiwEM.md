@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-687 songs - 2 day 18 hr 49 min
+688 songs - 2 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Baharat](https://open.spotify.com/track/6iuW3TfMShUo5FTi6NNsRC) | [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Baharat](https://open.spotify.com/album/4nDtzWgOouNi3e09jNUwJa) | 4:01 | 2021-04-08 | 2022-07-25 |
 | [Balloons \- Made in Paris Remix](https://open.spotify.com/track/6sHBpR20gmPQmsAiqhbhJe) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Made in Paris](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Once in a Blue Moon \(Remixes\)](https://open.spotify.com/album/2eghyUE7oGVnvdlHZhcbN6) | 5:46 | 2021-05-07 | 2022-06-10 |
 | [Be Patient](https://open.spotify.com/track/2d9QvDQS5ijgMBynTnYMa3) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Be Patient](https://open.spotify.com/album/3xjRJcTxSTvP4QeR8EX1vj) | 3:08 | 2022-04-15 | 2022-04-20 |
+| [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 | 2025-04-11 |  |
 | [Beirut](https://open.spotify.com/track/1QAukxDeTuctdK9O6IzyJv) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Beirut](https://open.spotify.com/album/1zuIiMG3WV5wVKe5iD2dQq) | 5:13 | 2022-07-01 | 2022-07-09 |
 | [Believe](https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Believe](https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu) | 3:50 | 2024-07-26 |  |
 | [Best of Me \- Radio Edit](https://open.spotify.com/track/3nQPkePHredC24hsQBmlbj) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Best of Me \(Radio Edit\)](https://open.spotify.com/album/4r3jo7rdIgbAbMXX6tkyTB) | 3:49 | 2020-09-26 | 2022-10-18 |
@@ -532,7 +533,7 @@
 | [Skylight](https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi) | [Kakoon](https://open.spotify.com/artist/2ld0pvwzBjgpoU2qjkPTsL) | [Skylight](https://open.spotify.com/album/2IXu5Xw0MCEIIlqYoTF3aB) | 7:22 | 2021-02-24 | 2022-10-22 |
 | [Sledi Toku](https://open.spotify.com/track/2P9atiBKXqG543yPl3gtzO) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ) | [Sledi Toku](https://open.spotify.com/album/21endjynO2HcNX2HKbLE13) | 8:15 | 2019-09-27 | 2020-05-19 |
 | [Slip](https://open.spotify.com/track/2fjSqGaz3ElHPdGxfVLtCv) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Slip](https://open.spotify.com/album/3yz2COT2SPoRPK0j5ux1SJ) | 7:07 | 2020-02-01 | 2020-08-08 |
-| [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-11-11 |  |
+| [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-11-11 | 2025-04-14 |
 | [Smiling Birds](https://open.spotify.com/track/222a7UeWbEtafZgtG5Jk8L) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Smiling Birds](https://open.spotify.com/album/17ikFw6pP5z3wNHP0uLEnZ) | 7:01 | 2021-11-23 | 2022-03-21 |
 | [Solar](https://open.spotify.com/track/2GBRDBk7T7S9HH2qnb7hGz) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Solar](https://open.spotify.com/album/1XuAu9y2hafCD9euPlTjd2) | 5:03 | 2022-04-04 | 2022-04-17 |
 | [Solid](https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP) | [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Solid](https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy) | 6:44 | 2023-04-05 | 2023-04-29 |

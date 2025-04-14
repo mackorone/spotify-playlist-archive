@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 23 | [Mike + Susan](https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:01 |
 | 24 | [Sailplane](https://open.spotify.com/track/0wnvuWlOgNtP5v2pDDFcOD) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 2:34 |
 
-Snapshot ID: `Z/hbgAAAAAD7MJkY889gHvf94w/3NGQt`
+Snapshot ID: `Z/mtAAAAAADyt2mNWhK/b6HCK9e6N2L/`

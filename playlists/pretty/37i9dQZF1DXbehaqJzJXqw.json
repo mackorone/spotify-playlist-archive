@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 550345,
+  "num_followers": 550689,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,34 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
+        "name": "Breakfast on the Morning Tram (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Matt Skelton",
+          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
+        },
+        {
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+        },
+        {
+          "name": "Dave Chamberlain",
+          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Ces petits riens",
+      "url": "https://open.spotify.com/track/1f5RkzhoRnzCO6AzMhkhdY"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
       },
@@ -127,6 +155,38 @@
       "duration_ms": 201200,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "Les yeux ouverts (dream a little dream of me)",
+      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2025-03-13 14:04:20",
@@ -179,66 +239,6 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
-        "name": "Breakfast on the Morning Tram (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Matt Skelton",
-          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
-        },
-        {
-          "name": "John Parricelli",
-          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
-        },
-        {
-          "name": "Dave Chamberlain",
-          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
-        }
-      ],
-      "duration_ms": 201056,
-      "name": "Ces petits riens",
-      "url": "https://open.spotify.com/track/1f5RkzhoRnzCO6AzMhkhdY"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "Les yeux ouverts (dream a little dream of me)",
-      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
         "name": "Ilo Veyou",
         "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
       },
@@ -287,38 +287,6 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
-        "name": "Les ronds de carotte",
-        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
-      },
-      "artists": [
-        {
-          "name": "Thomas Fersen",
-          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
-        }
-      ],
-      "duration_ms": 245226,
-      "name": "Au caf\u00e9 de la paix",
-      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Un jour comme un autre",
-      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -347,6 +315,38 @@
       "duration_ms": 224016,
       "name": "Samba saravah",
       "url": "https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
+        "name": "Les ronds de carotte",
+        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fersen",
+          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "Au caf\u00e9 de la paix",
+      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Un jour comme un autre",
+      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
     },
     {
       "added_at": "2025-03-13 14:04:20",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
-        "name": "Quelqu'un M'a Dit",
-        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
         "name": "Faites vous des amis",
         "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 265426,
       "name": "Assedic",
       "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
+        "name": "Quelqu'un M'a Dit",
+        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
     },
     {
       "added_at": "2025-03-13 14:04:20",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Tout Doucement",
-      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
         "name": "J'ai Deux Amours",
         "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 289413,
       "name": "Menilmontant",
       "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Tout Doucement",
+      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
     },
     {
       "added_at": "2025-03-13 14:04:20",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
+        "name": "Quelqu'un M'a Dit",
+        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "La noy\u00e9e",
+      "url": "https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
         "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
         "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 219204,
       "name": "Tu t'laissez aller",
       "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
-        "name": "Quelqu'un M'a Dit",
-        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "La noy\u00e9e",
-      "url": "https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4"
     },
     {
       "added_at": "2025-03-13 14:04:20",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
-        "name": "For One to Love",
-        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 374243,
-      "name": "Le Mal de Vivre",
-      "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
-    },
-    {
-      "added_at": "2025-03-13 14:04:20",
-      "album": {
         "name": "Les Souvenirs Sous Ma Frange",
         "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2025-03-13 14:04:20",
       "album": {
-        "name": "A Fraction Of You",
-        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
+        "name": "For One to Love",
+        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
       },
       "artists": [
         {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
         }
       ],
-      "duration_ms": 211160,
-      "name": "O\u00f9 veux-tu aller ?",
-      "url": "https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc"
+      "duration_ms": 374243,
+      "name": "Le Mal de Vivre",
+      "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
     },
     {
       "added_at": "2025-03-13 14:04:20",
@@ -1079,6 +1063,22 @@
       "duration_ms": 187626,
       "name": "En septembre sous la pluie",
       "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
+    },
+    {
+      "added_at": "2025-03-13 14:04:20",
+      "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "O\u00f9 veux-tu aller ?",
+      "url": "https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc"
     },
     {
       "added_at": "2025-03-13 14:04:20",

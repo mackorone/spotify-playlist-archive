@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 488468,
+  "num_followers": 488500,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "racine carr\u00e9e",
-        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Formidable",
-      "url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Fr\u00e9ro Delavega",
         "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
       },
@@ -223,22 +207,6 @@
       "duration_ms": 178986,
       "name": "Le chant des sir\u00e8nes",
       "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Pour que tu m'aimes encore",
-      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -271,6 +239,38 @@
       "duration_ms": 222080,
       "name": "Ta marini\u00e8re",
       "url": "https://open.spotify.com/track/2JFmiASjHttT8AK7WeZjAb"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Pour que tu m'aimes encore",
+      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Formidable",
+      "url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Regarde-moi",
-        "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
-      },
-      "artists": [
-        {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
-        }
-      ],
-      "duration_ms": 164567,
-      "name": "Un jour je marierai un ange",
-      "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "C'est d\u00e9j\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+        "name": "Regarde-moi",
+        "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
       },
       "artists": [
         {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
         }
       ],
-      "duration_ms": 173266,
-      "name": "D\u00e9pass\u00e9",
-      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+      "duration_ms": 164567,
+      "name": "Un jour je marierai un ange",
+      "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -495,6 +479,22 @@
       "duration_ms": 182040,
       "name": "Si j'avais su",
       "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "D\u00e9pass\u00e9",
+      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
+        "name": "Quand la musique est bonne",
+        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Quand la musique est bonne",
+      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 211293,
       "name": "Sous le vent",
       "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "Quand la musique est bonne",
-        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Quand la musique est bonne",
-      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Toi + Moi",
-      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 274626,
       "name": "R\u00e9siste - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Toi + Moi",
+      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -715,18 +715,22 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
+        "name": "Ceinture noire",
+        "url": "https://open.spotify.com/album/019J7AS3BBfPXy8rV3ZTJO"
       },
       "artists": [
         {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
+      "duration_ms": 199040,
+      "name": "La m\u00eame",
+      "url": "https://open.spotify.com/track/3sjqktglX8F6EWvjUmHe0y"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -747,22 +751,18 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Ceinture noire",
-        "url": "https://open.spotify.com/album/019J7AS3BBfPXy8rV3ZTJO"
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
         }
       ],
-      "duration_ms": 199040,
-      "name": "La m\u00eame",
-      "url": "https://open.spotify.com/track/3sjqktglX8F6EWvjUmHe0y"
+      "duration_ms": 184840,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
     },
     {
       "added_at": "2024-10-21 08:32:27",

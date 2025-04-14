@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68784,
+  "num_followers": 68787,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hbgAAAAACTHNfpBBCHuYYx5Ier5Pzb",
+  "snapshot_id": "Z/mtAAAAAAB3f4nqlV/juQKPYCwPtw9X",
   "tracks": [
     {
       "added_at": null,
@@ -1187,18 +1187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LE GUSTA QUE LA VEAN",
-        "url": "https://open.spotify.com/album/52tk7FBtVA5xgzLfnzQ4jn"
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
       "artists": [
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Susan Soltero",
+          "url": "https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx"
         }
       ],
-      "duration_ms": 169000,
-      "name": "LE GUSTA QUE LA VEAN",
-      "url": "https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ"
+      "duration_ms": 43008,
+      "name": "INTERLUDE / REPORTE DEL TIEMPO",
+      "url": "https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y"
     }
   ],
   "unique_name": "This Is Lunay",

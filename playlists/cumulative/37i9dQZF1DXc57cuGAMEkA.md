@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック  Anne\-Marie, Lana Del Rey, Green Day, Bon Iver, Awich and more!
 
-9,140 songs - 21 day 6 hr 57 min
+9,141 songs - 21 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4247,6 +4247,7 @@
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-01-18 | 2024-01-26 |
 | [Lighthouse](https://open.spotify.com/track/46788befoNH7QS8zLZbfJT) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Lighthouse](https://open.spotify.com/album/2Xl05sxgAvqCXhQo4A1SQ4) | 3:40 | 2024-02-08 | 2024-02-16 |
 | [Lightning](https://open.spotify.com/track/1mreBnJEA5A6uIOTzkKq8Z) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lightning](https://open.spotify.com/album/1H6XatdVMrvJMvokzH2Kef) | 2:57 | 2023-08-17 | 2023-08-25 |
+| [Lights Camera](https://open.spotify.com/track/6xwgiGHKZ8utkvITmAOOmk) | [Name the Night](https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH) | [Lights Camera](https://open.spotify.com/album/18X00mHZ9e29b86AVSCkQN) | 3:05 | 2025-04-10 |  |
 | [Lights Camera Action](https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Lights Camera Action](https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf) | 2:42 | 2024-09-27 | 2024-10-04 |
 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 | 2024-06-06 | 2024-06-14 |
 | [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 | 2024-02-08 | 2024-02-16 |

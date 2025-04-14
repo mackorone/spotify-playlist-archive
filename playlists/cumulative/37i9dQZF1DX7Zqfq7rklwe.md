@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-221 songs - 14 hr 31 min
+222 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Haamukirjoitus](https://open.spotify.com/track/2VsChldNUjT45aH8Ag4jWi) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haamukirjoitus](https://open.spotify.com/album/7mmTem3c0cqFyED5zerjhk) | 3:10 | 2024-09-19 | 2024-10-25 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2024-09-11 | 2025-01-10 |
 | [Haluaako Piepponen turpaan?](https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haluaako Piepponen turpaan?](https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg) | 3:32 | 2024-10-24 | 2025-01-24 |
+| [Haluamanilainen, mietin sua pahalla \- Emma Gaala 2025 Live](https://open.spotify.com/track/6GdsfRTm1mjLgyCP5Qd653) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Haluamanilainen, mietin sua pahalla \(Emma Gaala 2025 Live\)](https://open.spotify.com/album/2QXiRw2Y032iqIuXDyaFOo) | 5:22 | 2025-04-13 |  |
 | [Hearts Burst into Fire](https://open.spotify.com/track/6DsILuMLGYN6QqPXlhGHWo) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB) | 4:57 | 2024-09-11 | 2024-09-13 |
 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 | 2025-03-18 |  |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2025-03-28 |

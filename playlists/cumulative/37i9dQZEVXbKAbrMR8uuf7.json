@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 151627,
       "name": "100 Conmigo",
       "url": "https://open.spotify.com/track/4sMLOi2r2M2gJeO4qeZB7A"
@@ -7679,6 +7679,24 @@
     },
     {
       "album": {
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239853,
+      "name": "De Color de Rosa",
+      "url": "https://open.spotify.com/track/1z2E3JoXfQX2p8uwqNcsLX"
+    },
+    {
+      "album": {
         "name": "DE LA CALLE",
         "url": "https://open.spotify.com/album/5s3leJRV7x2JmTYpftMSlT"
       },
@@ -11728,7 +11746,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
@@ -27032,7 +27050,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 240195,
       "name": "PPC",
       "url": "https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC"
@@ -29422,6 +29440,24 @@
       "duration_ms": 162229,
       "name": "Ropa Cara",
       "url": "https://open.spotify.com/track/2zY1iTaEgs8ROkkWtWLe7l"
+    },
+    {
+      "album": {
+        "name": "Homenaje Rubby Perez",
+        "url": "https://open.spotify.com/album/7fxdNrwBNaystSriqBckdf"
+      },
+      "artists": [
+        {
+          "name": "La Respuesta",
+          "url": "https://open.spotify.com/artist/7ILBki8jV0HL0QlIcEGPv4"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Rubby Perez",
+      "url": "https://open.spotify.com/track/0CB6xCaGU5kbB4fz6BygLe"
     },
     {
       "album": {
@@ -37004,7 +37040,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"

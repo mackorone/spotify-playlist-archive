@@ -3411,6 +3411,32 @@
     },
     {
       "album": {
+        "name": "Baile do Panta",
+        "url": "https://open.spotify.com/album/6sPc0S84IlwDrHbPmPV424"
+      },
+      "artists": [
+        {
+          "name": "Nego Trufa",
+          "url": "https://open.spotify.com/artist/62Gt9kCSVSxobYTVkrowRy"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Baile do Panta",
+      "url": "https://open.spotify.com/track/5AoOD6SAzOOE6jwxvRIBPq"
+    },
+    {
+      "album": {
         "name": "Baile no Morro",
         "url": "https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230"
       },
@@ -8314,7 +8340,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 120937,
       "name": "Discreto",
       "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
@@ -8492,7 +8518,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 193432,
       "name": "Do Job",
       "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
@@ -9458,7 +9484,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 190276,
       "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
@@ -11030,7 +11056,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 171162,
       "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
       "url": "https://open.spotify.com/track/6x6EA3N9xXgptSakS7VZUg"
@@ -16302,7 +16328,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 197027,
       "name": "Me Bloqueia (Ao Vivo)",
       "url": "https://open.spotify.com/track/0rosNwHC9T8YNu3EvXLPfX"
@@ -17034,7 +17060,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 165566,
       "name": "Mentirosa - Ao Vivo",
       "url": "https://open.spotify.com/track/7pBPXkaVQaP3Y3Wwfkpvbn"
@@ -19224,7 +19250,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 170847,
       "name": "Nossas Fotos",
       "url": "https://open.spotify.com/track/7fW5TnCdNFhdPw7C2QakEO"
@@ -23236,7 +23262,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-14",
       "duration_ms": 158827,
       "name": "Puta \u00c9 S\u00f3 um Detalhe",
       "url": "https://open.spotify.com/track/4eqOz5gdCYww9GB5q3q1pU"
@@ -31810,7 +31836,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 157557,
       "name": "\u00daltima Noite",
       "url": "https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f"

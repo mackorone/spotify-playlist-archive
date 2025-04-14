@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,802 likes - 33 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,008 likes - 33 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 10 | [Give](https://open.spotify.com/track/1LzRiE4LCTF80qZectiltH) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 3:56 |
 | 11 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 |
 | 12 | [Atlantic](https://open.spotify.com/track/0asMwoxaKllA4Cm791LGOW) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:53 |
-| 13 | [Jericho](https://open.spotify.com/track/1jTutTLIxJ46mtNsrvWLyT) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 5:17 |
+| 13 | [Is It Really You?](https://open.spotify.com/track/7kjcdiknoCUe0OeE3BIw9J) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Is It Really You?](https://open.spotify.com/album/30KxStn2hzuDWJyNqLa5N1) | 4:39 |
 | 14 | [Dark Signs](https://open.spotify.com/track/39I8byKcHBzTQbtbxTBSM7) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 4:28 |
 | 15 | [The Apparition](https://open.spotify.com/track/21eMasL93nEafqRwlI851z) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 4:28 |
 | 16 | [The Love You Want](https://open.spotify.com/track/4lVVewXw4g8hB7sldQyJiL) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:23 |
-| 17 | [Is It Really You?](https://open.spotify.com/track/7kjcdiknoCUe0OeE3BIw9J) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Is It Really You?](https://open.spotify.com/album/30KxStn2hzuDWJyNqLa5N1) | 4:39 |
+| 17 | [Jericho](https://open.spotify.com/track/1jTutTLIxJ46mtNsrvWLyT) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 5:17 |
 | 18 | [Sugar](https://open.spotify.com/track/6kxSspYgCP6DmpLwqmrZ3O) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 4:52 |
 | 19 | [Aqua Regia](https://open.spotify.com/track/5ub6Cb5yKmgGGwjvqZM1gI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:56 |
 | 20 | [Mine](https://open.spotify.com/track/3mkxroy1t6J9HGywwjjE5a) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:56 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 32 | [When The Party's Over \- from the room below](https://open.spotify.com/track/6qH9hCt89r1o0NUWFRmj3n) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 2:26 |
 | 33 | [I Wanna Dance With Somebody \- from the room below](https://open.spotify.com/track/6YnB0wTkXJOdn2m41yTiXD) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 2:49 |
 
-Snapshot ID: `Z/hbgAAAAABV74XEQxlgqRcoTFmym8/Z`
+Snapshot ID: `Z/mtAAAAAAD+i6P9FUa4tqyt6lmw51av`

@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-614 songs - 1 day 8 hr 28 min
+615 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Brown Noise Airplane Mode](https://open.spotify.com/track/4vei5lYKqbu2xN9AuDWA88) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [Brown Dreams](https://open.spotify.com/album/7E6ns1hJsMqE2Az6hSEncI) | 1:48 | 2023-01-27 | 2023-06-17 |
 | [Brown Noise at Night](https://open.spotify.com/track/0TIUp9NyEVhrGvLB97VoF3) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Brown Noise for Focus](https://open.spotify.com/album/6mWJo4K18ceBw2sQ77sykB) | 3:32 | 2022-06-03 | 2023-01-28 |
 | [Brown Noise Baby](https://open.spotify.com/track/32jLpAriwqWXQu7uRFQPDF) | [Science Noise](https://open.spotify.com/artist/21rKXFXyX0IWKpYmoOaP8Q) | [Ambient Brown Noise](https://open.spotify.com/album/6QYNjdZuKZYigTitGT38bG) | 2:21 | 2022-11-18 |  |
+| [Brown Noise Bedtime Ballad](https://open.spotify.com/track/4LNaj47DGkmZYhB8oPHfdN) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Brown Noise Bedtime Ballad](https://open.spotify.com/album/7tRAIgzSzH9y0gdrUZJYpQ) | 3:45 | 2025-04-09 |  |
 | [Brown Noise Bliss](https://open.spotify.com/track/5kIF95v6YpJ9E0zw8RjFkD) | [Marronicity](https://open.spotify.com/artist/0YvU1cVEZlg5XkGV2Vb0GI) | [Shades Of Brown](https://open.spotify.com/album/5uRuMEZqivuCsfCY7GOZMM) | 2:52 | 2023-01-27 |  |
 | [Brown Noise Calm](https://open.spotify.com/track/2qs40c5Ja7KKp6KTXeSvXo) | [ULXI](https://open.spotify.com/artist/4BEynIaDkgnXy4tS0v0DQU) | [Brown Noise Calm](https://open.spotify.com/album/5Oab92us7Xu7CeVxkwGKPt) | 3:40 | 2022-06-03 |  |
 | [Brown Noise Calm 220Hz](https://open.spotify.com/track/5Sz8Tr9JuNcMF4fddILlfG) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Ocean of Brown Noise](https://open.spotify.com/album/5wPC98DNiarjguDqozjxAs) | 3:42 | 2022-06-03 |  |
@@ -613,7 +614,7 @@
 | [Waves Of The Night](https://open.spotify.com/track/0DIB9i5oO3ZvOV6gImWDEq) | [Ambient Network](https://open.spotify.com/artist/7gDEVFSaJkRgEsy7vy8XdJ) | [Ambient Pink](https://open.spotify.com/album/6ROmF0FcSMakiN75LG7BkQ) | 3:06 | 2022-11-18 | 2025-03-19 |
 | [Way Down Deep 240 Hz](https://open.spotify.com/track/123VXXgsLsUFKoZ49rEhBg) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Way Down Deep](https://open.spotify.com/album/1CtBpLMV3kM3KROr0cr9JJ) | 2:57 | 2022-07-01 |  |
 | [Whoosh Brown Noise](https://open.spotify.com/track/0zAndDiOtoHSWhi16chS8L) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Steady Brown Noise Sounds](https://open.spotify.com/album/10TlukHJ5eYF7eftTzFi4D) | 3:04 | 2022-11-18 | 2023-02-17 |
-| [Wide Pink Noise](https://open.spotify.com/track/3iUZRdqydcjzXBZHaCE1iz) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Pink Noise Concentration](https://open.spotify.com/album/5AGgUXH6rsmcBfGF2LMLEp) | 2:21 | 2022-11-18 |  |
+| [Wide Pink Noise](https://open.spotify.com/track/3iUZRdqydcjzXBZHaCE1iz) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Pink Noise Concentration](https://open.spotify.com/album/5AGgUXH6rsmcBfGF2LMLEp) | 2:21 | 2022-11-18 | 2025-04-14 |
 | [Wide Pink Noise](https://open.spotify.com/track/1M0eWXM3GqQ4wKSASkbqhY) | [White Noise Atmospheres](https://open.spotify.com/artist/2MMporXXsUcHOMx6Wd01rI) | [50 Distant Drones](https://open.spotify.com/album/1KpPWzgubZHu2QyneeVOgx) | 3:12 | 2021-12-01 | 2022-11-19 |
 | [Wide Pink Waves](https://open.spotify.com/track/2yzfzJdAbu6950OeCQhwpt) | [Sleep Potential](https://open.spotify.com/artist/6ILcQ2MsnRyFr5JCy3ulCv) | [Snoozy Pink](https://open.spotify.com/album/1VywcFh781PnxJVMm8IFqf) | 2:52 | 2023-01-27 | 2025-03-19 |
 | [Wind in the Dark](https://open.spotify.com/track/26WqUA9xR2crARgdyxdmSS) | [noiZzz in the dark](https://open.spotify.com/artist/6vB7nFsvEuozFD6z9WLaO3) | [Brown Noise = Baby Sleep](https://open.spotify.com/album/4rZbMOTW58WcrC9DgpNdvM) | 3:37 | 2021-12-01 | 2022-11-19 |
