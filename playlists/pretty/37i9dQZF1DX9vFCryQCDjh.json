@@ -475,6 +475,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 243488,
+      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
+      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Seotaiji and Boys IV",
         "url": "https://open.spotify.com/album/6wZ64exaxdBrA0bK1zciva"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 242341,
       "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
       "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 243488,
-      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
-      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -555,18 +555,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+        "name": "Remake Romantic 2",
+        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
       "artists": [
         {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+          "name": "Seo Young Eun",
+          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
+        },
+        {
+          "name": "Kim Yeon Woo",
+          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
         }
       ],
-      "duration_ms": 220733,
-      "name": "We are the future",
-      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
+      "duration_ms": 213707,
+      "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -587,22 +591,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Remake Romantic 2",
-        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
       },
       "artists": [
         {
-          "name": "Seo Young Eun",
-          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
-        },
-        {
-          "name": "Kim Yeon Woo",
-          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
         }
       ],
-      "duration_ms": 213707,
-      "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
+      "duration_ms": 220733,
+      "name": "We are the future",
+      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "White",
+        "url": "https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Eternal Love",
+      "url": "https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 248493,
       "name": "\uc560\uc218",
       "url": "https://open.spotify.com/track/1auld5LOJw0YBl91S40aK4"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "White",
-        "url": "https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi"
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
       },
       "artists": [
         {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 249226,
-      "name": "Eternal Love",
-      "url": "https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP"
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "\ube44\uc0c1",
         "url": "https://open.spotify.com/album/27v7cg2HKnJupI58mM5qjo"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Papaya 1st",
         "url": "https://open.spotify.com/album/1Glo0W3cv0WvAZbrlnX4Kf"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "The Third Eye",
-        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
       },
       "artists": [
         {
-          "name": "Kim Hyun Jung",
-          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+          "name": "KYT",
+          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
         }
       ],
-      "duration_ms": 207693,
-      "name": "Bruise",
-      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
+      "duration_ms": 237165,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
+        "name": "The Third Eye",
+        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
       },
       "artists": [
         {
-          "name": "KYT",
-          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
         }
       ],
-      "duration_ms": 237165,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma"
+      "duration_ms": 207693,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7iFMWe0szI11EHVa24MvUg"
+      },
+      "artists": [
+        {
+          "name": "\uc778\ub514\uace0",
+          "url": "https://open.spotify.com/artist/5wlEalFbAjh5M8bp0DCOuK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Please Summer!",
+      "url": "https://open.spotify.com/track/2fJ6nalbCW2IAuKoEdlzqt"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "2nd Album",
         "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7iFMWe0szI11EHVa24MvUg"
-      },
-      "artists": [
-        {
-          "name": "\uc778\ub514\uace0",
-          "url": "https://open.spotify.com/artist/5wlEalFbAjh5M8bp0DCOuK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Please Summer!",
-      "url": "https://open.spotify.com/track/2fJ6nalbCW2IAuKoEdlzqt"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Near",
-        "url": "https://open.spotify.com/album/5kQUU3anzMorpejpvGKNgc"
-      },
-      "artists": [
-        {
-          "name": "S#arp",
-          "url": "https://open.spotify.com/artist/4IQMpwDgwfxBhZPhiBq3I4"
-        }
-      ],
-      "duration_ms": 212662,
-      "name": "Tell Me, Tell Me",
-      "url": "https://open.spotify.com/track/2bwetLLe8jn43ikuOfjF5v"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Let Me Love",
         "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 240653,
       "name": "\ub2e4\uc9d0",
       "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Near",
+        "url": "https://open.spotify.com/album/5kQUU3anzMorpejpvGKNgc"
+      },
+      "artists": [
+        {
+          "name": "S#arp",
+          "url": "https://open.spotify.com/artist/4IQMpwDgwfxBhZPhiBq3I4"
+        }
+      ],
+      "duration_ms": 212662,
+      "name": "Tell Me, Tell Me",
+      "url": "https://open.spotify.com/track/2bwetLLe8jn43ikuOfjF5v"
     },
     {
       "added_at": "2024-08-05 17:06:13",

@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145045,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/6xcC2CwfPn9RJaQ5PuUlzW"
+    },
+    {
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 393533,
       "name": "Silver",
       "url": "https://open.spotify.com/track/5LB8Xop5SuozvPINeSSMf5"

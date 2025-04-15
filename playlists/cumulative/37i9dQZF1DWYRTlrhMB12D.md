@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-225 songs - 17 hr 6 min
+226 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Ham Hain Rahi Pyar Ke](https://open.spotify.com/track/21KLl43JhFp0UPZSssfm3E) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Nau Do Gyarah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qZ48c89Wg1VN9TVHwHapf) | 4:51 | 2022-01-05 | 2024-04-19 |
 | [Ham Hain Rahi Pyar Ke](https://open.spotify.com/track/7ATQ6V6C9JZsfOxEIzinEq) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Nau Do Gyarah](https://open.spotify.com/album/71y1FToTJ2jefo1LSJzSuY) | 4:51 | 2024-04-08 |  |
 | [Hawa Mein Udta Jaye](https://open.spotify.com/track/4CHMgTLE7B1zGUGzi7k5yG) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Barsaat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kQNA934VKsG2PM3zJZdSG) | 3:08 | 2022-01-05 | 2022-07-25 |
+| [Hothon Se Chhu Lo Tum \- From "Prem Geet"](https://open.spotify.com/track/4EWCkL6rAYxOUvXLtcWfKI) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Prem Geet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aLedlf7u6dlkt66OyoE3y) | 4:54 | 2025-04-14 |  |
 | [Hum Tum Se Mohabbat Karke \- Hanste Bhi Rahe](https://open.spotify.com/track/3dWaN2oB9WvL4P3TLWZZGN) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Awaara](https://open.spotify.com/album/4FBRxpP3WLREdA32HyScFm) | 3:39 | 2021-09-29 | 2022-07-29 |
 | [Ichak Dana Beechak Dana](https://open.spotify.com/track/59EXBfMRlHQLT3zE46twiE) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Shree 420](https://open.spotify.com/album/0WzbgAopzfxj49ucK5RXmE) | 4:33 | 2022-01-05 | 2022-03-02 |
 | [Is Rang Badalti Duniya Mein](https://open.spotify.com/track/1H0Emv03XFvyMaLY0NqnUg) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Raj Kumar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BRoVLkAJb8WqSeEkIX4UX) | 4:33 | 2024-04-08 |  |
@@ -163,7 +164,7 @@
 | [O Saathi Re \- Kishore Kumar](https://open.spotify.com/track/6V02gm33UVBuwK9ZUfxkDw) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Kalyanji\-Anandji](https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq) | [Muqaddar Ka Sikandar](https://open.spotify.com/album/5iuWbRrIYDp6Q4ViSNxVXL) | 4:30 | 2024-04-08 |  |
 | [O Saathi Re \- Male Vocals](https://open.spotify.com/track/63S7VKZE3X5wHVTmSwxuSF) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5) | 4:29 | 2021-09-29 | 2022-07-15 |
 | [O Sajna Barkha Bahar Aayi](https://open.spotify.com/track/2JelpfYzD73iLuKBygllvX) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Parakh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1xwejcpKMDo30EvZA71FNB) | 3:09 | 2024-04-08 | 2024-04-19 |
-| [O Sajna Barkha Bahar Aayi](https://open.spotify.com/track/6F7vjZLKx9CD6rve0p684V) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Salil Chowdhury](https://open.spotify.com/artist/0Ck0U5EF4b0VBMmpZPuUmv) | [Parakh](https://open.spotify.com/album/06EO0Efgbzd0n2t72O57hK) | 3:09 | 2024-04-08 |  |
+| [O Sajna Barkha Bahar Aayi](https://open.spotify.com/track/6F7vjZLKx9CD6rve0p684V) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Salil Chowdhury](https://open.spotify.com/artist/0Ck0U5EF4b0VBMmpZPuUmv) | [Parakh](https://open.spotify.com/album/06EO0Efgbzd0n2t72O57hK) | 3:09 | 2024-04-08 | 2025-04-15 |
 | [Pal Pal Dil Ke Paas \- From "Blackmail"](https://open.spotify.com/track/0HI3O9uCBWtu7B3boRpCaL) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Blackmail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ynfe6E7ukd6HgaEvVNOwF) | 5:29 | 2021-09-29 |  |
 | [Patta Patta Buta Buta \- From "Ek Nazar"](https://open.spotify.com/track/3njIlJ7F6nOqASfSLD9BJJ) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Ek Nazar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ZwPppD9qJGIIQz2qZ6xtN) | 5:42 | 2024-04-08 |  |
 | [Phir Chiddi Raat](https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:08 | 2023-05-02 | 2024-01-25 |

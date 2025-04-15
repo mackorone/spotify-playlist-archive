@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 124285,
       "name": "Floating",
       "url": "https://open.spotify.com/track/3v5XyzY6R066AXKCdnNWaw"
@@ -7445,6 +7445,28 @@
     },
     {
       "album": {
+        "name": "soan",
+        "url": "https://open.spotify.com/album/6K49UxbSlK8c2PxGJ0oObp"
+      },
+      "artists": [
+        {
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+        },
+        {
+          "name": "steichi",
+          "url": "https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126520,
+      "name": "soan",
+      "url": "https://open.spotify.com/track/1pxON0fWsbRsmaXnUlSAlA"
+    },
+    {
+      "album": {
         "name": "Soft Moments",
         "url": "https://open.spotify.com/album/1laFeTsAZGskVBQxGrRdIm"
       },
@@ -7532,7 +7554,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 121544,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/7wFyWSyBfLpg9l39JftoKZ"
@@ -9114,6 +9136,24 @@
       "duration_ms": 98314,
       "name": "u'pond waters",
       "url": "https://open.spotify.com/track/3pbZPVeeJD6uEQuTYNMXui"
+    },
+    {
+      "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/46MXN7JDW8o8E7YisqVshH"
+      },
+      "artists": [
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Umami",
+      "url": "https://open.spotify.com/track/1CoW6lB9ZQULmdJJXDm2Ac"
     },
     {
       "album": {

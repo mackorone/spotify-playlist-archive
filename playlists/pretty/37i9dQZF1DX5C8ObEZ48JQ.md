@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC?si=eiLbDgIyQ7WaXuDmFFax0w">Jubed</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,008 likes - 58 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,020 likes - 58 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 32 | [OUTGROWN](https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [OUTGROWN](https://open.spotify.com/album/30LAd0BP8dRmDty37j8o26) | 4:13 |
 | 33 | [Sunday](https://open.spotify.com/track/7zPzWT3WjSqszmpS54pUUa) | [SSSOUNDMAN](https://open.spotify.com/artist/6ozIxfjjWlPEWxMCwdrFii) | [Sunday](https://open.spotify.com/album/4W7gufMbRo0lw53VRI9gEA) | 1:25 |
 | 34 | [Alhaji](https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Alhaji](https://open.spotify.com/album/70vdKrzZ5W8XqRj4YcbWyr) | 2:01 |
-| 35 | [Healing](https://open.spotify.com/track/3xD1r9yHgvuwBole90zKkU) | [Dhee Drey](https://open.spotify.com/artist/6DPKGja52YjzYYKdGTLwyU) | [Healing](https://open.spotify.com/album/59IcABfOlnrpMczpzxneK8) | 2:46 |
+| 35 | [Healing](https://open.spotify.com/track/3xD1r9yHgvuwBole90zKkU) | [DHREY](https://open.spotify.com/artist/37YlqSH2vvBYNwWZLO8VbI) | [Healing](https://open.spotify.com/album/59IcABfOlnrpMczpzxneK8) | 2:46 |
 | 36 | [Loco](https://open.spotify.com/track/3nu3wQ8o2HXj7E8wlQEKRC) | [Jomanie](https://open.spotify.com/artist/1MryqL3mBaTJu2je1P8L5c) | [Loco](https://open.spotify.com/album/3997iuy5cSmN5XE0mOL7E4) | 2:29 |
 | 37 | [where did the sun go?](https://open.spotify.com/track/04qU2CG6PhTzmC0EhqsErn) | [olayinka ehi](https://open.spotify.com/artist/2EsyrViPfcXSN2bQDy9zor) | [where did the sun go?](https://open.spotify.com/album/0E3pazD9wJt804nKTJpIFY) | 3:37 |
 | 38 | [Only You](https://open.spotify.com/track/1J0ObiCz8dvjMU3NGMnmaH) | [GrG](https://open.spotify.com/artist/7Mzz35qOFOLwZ1i8Ask8TP), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Only You](https://open.spotify.com/album/3zM8hqakFUzcpBGL3upf39) | 3:17 |

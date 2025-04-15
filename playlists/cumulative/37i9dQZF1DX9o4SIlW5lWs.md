@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Cazzu.
 
-528 songs - 1 day 5 hr 53 min
+529 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Pienso en Ti](https://open.spotify.com/track/6FJWdltW5dOa4pAHBDW9pi) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Amor, Familia y Respeto](https://open.spotify.com/album/434Iw6Hpknzb3altfTyF71) | 2:54 | 2024-07-05 | 2024-10-12 |
 | [Pienso en Ti](https://open.spotify.com/track/1CyNMu6acmjLDN51yaWWap) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [\- 22 \-](https://open.spotify.com/album/5F10xwo7yEThhhBLctvaG1) | 3:12 | 2022-04-01 | 2022-07-06 |
 | [Poco](https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Poco](https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1) | 4:09 | 2022-09-09 | 2022-12-24 |
+| [Podés pedirme perdón](https://open.spotify.com/track/4AVSVpsAUkji9gTQHeSG0r) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Podés pedirme perdón](https://open.spotify.com/album/5ZuEM0UUQdwt5PF4C6Bz7S) | 3:18 | 2025-04-14 |  |
 | [Por Dios Que No](https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Dios Que No](https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN) | 2:48 | 2024-01-08 | 2025-02-17 |
 | [Por Encima del Nivel](https://open.spotify.com/track/2tBsLztR635tP8lddCbN66) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Por Encima del Nivel](https://open.spotify.com/album/6GXbVr5p6M6HcsgNmrKZqF) | 3:11 | 2024-06-21 | 2024-10-17 |
 | [Por Favor \(feat\. Antonio Rios\)](https://open.spotify.com/track/4ZcQybhEqO2Vp4ywomVhmX) | [Bruno Lippi](https://open.spotify.com/artist/6baxQG4TXqSMv4z8ydP0cK), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [Por Favor \(feat\. Antonio Rios\)](https://open.spotify.com/album/2sJ5Ip4DmfnhaBOWW5FA2m) | 3:38 | 2024-10-04 | 2024-10-26 |
@@ -409,7 +410,7 @@
 | [Si Hay Alguien en Tu Vida](https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:38 | 2022-01-14 | 2022-07-29 |
 | [Si Me Lo Pide Otra Vez](https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Hay Mas de Mi](https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV) | 3:33 | 2025-02-28 |  |
 | [Si Regresas](https://open.spotify.com/track/56MNKndcWxFCIlgpDtd8Fd) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Si Regresas](https://open.spotify.com/album/5hSPjucZjmNTdvuJ4Th9xW) | 3:23 | 2024-05-03 | 2024-06-17 |
-| [Si Te Agarran Las Ganas](https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Si Te Agarran Las Ganas](https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz) | 3:59 | 2023-08-18 |  |
+| [Si Te Agarran Las Ganas](https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Si Te Agarran Las Ganas](https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz) | 3:59 | 2023-08-18 | 2025-04-15 |
 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 | 2022-01-14 |  |
 | [Si Te Vas a Ir](https://open.spotify.com/track/1gcYZcLom5DPoe1kUgBY1O) | [Valsi](https://open.spotify.com/artist/04vVNmaKhinxxW4eCJIyX7) | [Si Te Vas a Ir](https://open.spotify.com/album/2vfua93emUkMUPLje0054c) | 2:38 | 2022-04-01 | 2022-04-20 |
 | [Si Tu Amor No Vuelve / Corazón de Acero](https://open.spotify.com/track/47dnVU6GPbn6IP9wVWl5Z6) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Si Tu Amor No Vuelve / Corazón de Acero](https://open.spotify.com/album/032HbqNinaK4njyzDouiYT) | 4:20 | 2022-02-04 | 2022-04-21 |

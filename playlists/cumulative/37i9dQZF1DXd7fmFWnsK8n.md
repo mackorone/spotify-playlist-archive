@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-164 songs - 11 hr 36 min
+165 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [I believe in...](https://open.spotify.com/track/4gIWIFVf5sS0UBSqJlDnf1) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [I believe in...](https://open.spotify.com/album/1S9Q4uwWgeHVVU8eQqliLB) | 3:45 | 2024-07-09 |  |
 | [IDOLiSH7 七瀬 陸 スペシャルメッセージ](https://open.spotify.com/track/7CA0DaN6tRGqrdat8WyboZ) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [IDOLiSH7 七瀬 陸 スペシャルメッセージ](https://open.spotify.com/album/2arRW6VgBqzxwKKnJCj3Au) | 0:30 | 2022-08-20 |  |
 | [IMPERIAL CHAIN](https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [IMPERIAL CHAIN](https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7) | 4:12 | 2022-10-04 |  |
-| [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 | 2022-06-14 |  |
+| [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 | 2022-06-14 | 2025-04-15 |
 | [It's ALL\-for you\-](https://open.spotify.com/track/1w0YxydzqRlLP2SiEA5NLk) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [TVアニメ『アイドリッシュセブン Second BEAT!』オリジナルサウンドトラック「BEYOND THE SHiNE」](https://open.spotify.com/album/0MgWGPhbTjNGKwLltSznhc) | 5:07 | 2022-06-09 | 2022-07-23 |
 | [Joker Flag](https://open.spotify.com/track/02OQ0YqKcvzeXLvq27Tv3j) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:42 | 2022-06-14 | 2022-07-25 |
 | [Joker Flag](https://open.spotify.com/track/08ZmRDsxkGC2uvkCDTUkyb) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [MONSTER GENERATiON](https://open.spotify.com/album/1C2C7NYO2zWuuOOrIiQlV4) | 4:43 | 2022-06-09 | 2022-07-11 |
@@ -116,6 +116,7 @@
 | [Take my rose](https://open.spotify.com/track/4LwRwNdOtEFlFUPCTBlCDM) | [Riku Nanase \(CV: Kensho Ono\)](https://open.spotify.com/artist/0Bq1mg6MFqIr0KpIzE84ZC), [Gaku Yaotome \(CV: Wataru Hatano\)](https://open.spotify.com/artist/3I9m87ybp1RVh06pGCVYi8), [Momo \(CV: Soichiro Hoshi\)](https://open.spotify.com/artist/5WRGYmpIXSNxYtZhY8wkuQ), [Torao Mido \(CV: Takashi Kondo\)](https://open.spotify.com/artist/4ywzIhLH7AjkcGSusAEf3I) | [Take my rose](https://open.spotify.com/album/688jVLZjDRjXoAcaWeF685) | 3:36 | 2024-01-29 | 2024-04-19 |
 | [Take my rose](https://open.spotify.com/track/3II5q9WqmuH8JbwbjRKmoQ) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX), [百 \(CV.保志総一朗\)](https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9), [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [Take my rose](https://open.spotify.com/album/4nJyeH7cjJ0fIwNtRU3jf4) | 3:36 | 2024-04-16 |  |
 | [Tears Over \~この星の君と\~](https://open.spotify.com/track/2j1iEHt7rc5viU1NDiSVA0) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [Intermezzo](https://open.spotify.com/album/0usMI7YhKzGwU3SUp72XAx) | 3:52 | 2022-06-09 | 2022-07-29 |
+| [Tenuto](https://open.spotify.com/track/5GITkeU06Cn3mrFCz2eQ55) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Tenuto](https://open.spotify.com/album/5zI76VBCBUciGGE2gErCYo) | 2:50 | 2025-04-15 |  |
 | [THE FUNKY UNIVERSE](https://open.spotify.com/track/0tJvlqFpeOfTSBHouFr3W5) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:59 | 2022-06-09 | 2022-06-20 |
 | [THE POLiCY](https://open.spotify.com/track/0XFawxpWbJpymBtIOVhhou) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [THE POLiCY](https://open.spotify.com/album/1ne9rypmcOkXuw251cVaAC) | 3:59 | 2022-06-09 | 2022-07-29 |
 | [TO MY DEAREST](https://open.spotify.com/track/7rfxc3WaLBRMoUHXJF9FDh) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:20 | 2022-06-09 | 2022-07-10 |

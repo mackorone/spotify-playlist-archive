@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1uuASu7T9L.md) - [plain]
 
 ### [A Minecraft Movie Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXc1uuASu7T9L)
 
-> Be there and be square\. Listen to the music from A Minecraft Movie, coming soon to theaters.
+> Be there and be square\. Listen to the music from A Minecraft Movie, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,686 likes - 31 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,226 likes - 31 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1uuASu7T9L.md) - [plain]
 | 30 | [Run from the Great Hog](https://open.spotify.com/track/3IMLlUSBk0W2s1ghWP6FX7) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:46 |
 | 31 | [Back in The Nether](https://open.spotify.com/track/77BfDoyInQUHK7USNT65T2) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:41 |
 
-Snapshot ID: `Z+Ye2QAAAAC+t24YpxkqRpykp8y7Mz83`
+Snapshot ID: `Z/113wAAAAAJD4c+aYW531X/4wC+6hmT`

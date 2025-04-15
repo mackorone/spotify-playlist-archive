@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Kean Cipriano, Ice Seguerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,790 likes - 103 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,808 likes - 103 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

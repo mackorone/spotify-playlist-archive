@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 274564,
+  "num_followers": 274712,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAADpPJRyGyUNTFQ4bqU+ckZb",
+  "snapshot_id": "Z/r+gAAAAACSaLQFomiqj0jyn2qwa9eg",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 4",
-        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 186137,
-      "name": "Estamos al Aire",
-      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aun Te Pienso",
         "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 184500,
       "name": "Aun Te Pienso",
       "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hits Visuales, Vol. 4",
+        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 186137,
+      "name": "Estamos al Aire",
+      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
     },
     {
       "added_at": null,

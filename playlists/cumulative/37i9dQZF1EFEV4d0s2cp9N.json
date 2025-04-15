@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "would i be yours?",
+        "url": "https://open.spotify.com/album/4s4U15Zass2usbXrNJPBpA"
+      },
+      "artists": [
+        {
+          "name": "ISAAK",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "surrender",
+      "url": "https://open.spotify.com/track/2lleU8uOuQfNe1IvN6JUXf"
+    },
+    {
+      "album": {
         "name": "Take Me To Eterna",
         "url": "https://open.spotify.com/album/57Tirl2ZE5G9AgqpyFLD8P"
       },

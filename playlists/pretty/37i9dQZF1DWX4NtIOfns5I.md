@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > swooning over new Alice Phoebe Lou 🕯️
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,901 likes - 129 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,981 likes - 129 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

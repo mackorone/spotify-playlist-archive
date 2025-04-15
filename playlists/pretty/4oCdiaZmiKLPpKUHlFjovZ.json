@@ -6,8 +6,28 @@
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAbQ1qxFiZNnfqZU/ivkV71RkmA9u0G",
+  "snapshot_id": "AAAbSGK19Cd+tIVtl2yRuE2/6pyhc3zv",
   "tracks": [
+    {
+      "added_at": "2025-04-14 20:47:18",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
     {
       "added_at": "2025-03-21 23:44:19",
       "album": {
@@ -43,6 +63,42 @@
       "duration_ms": 119285,
       "name": "Free Mr. Banks",
       "url": "https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR"
+    },
+    {
+      "added_at": "2025-04-14 20:48:05",
+      "album": {
+        "name": "MAKE HIP-HOP FUN AGAIN!",
+        "url": "https://open.spotify.com/album/3lKyqj1ADu9DfU4DUnjR4A"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Mike G Beatz",
+          "url": "https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "Bout Bidness",
+      "url": "https://open.spotify.com/track/1dM4YjCw6SPAVeEcctILW6"
+    },
+    {
+      "added_at": "2025-04-14 20:50:24",
+      "album": {
+        "name": "Still Mackin",
+        "url": "https://open.spotify.com/album/64gdgxcttAEHU2E4dDJVAZ"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Still Mackin",
+      "url": "https://open.spotify.com/track/6XX4qMCPFOaYnQoDskW3My"
     },
     {
       "added_at": "2025-03-31 22:58:21",

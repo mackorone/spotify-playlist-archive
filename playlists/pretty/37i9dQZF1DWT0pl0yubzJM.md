@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,178 likes - 35 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,180 likes - 35 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 25 | [Príncipe Oscuro](https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [A Un Millón De Años Blues](https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI) | 2:47 |
 | 26 | [Agujeros Negros](https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Revolución](https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O) | 2:38 |
 | 27 | [Marea de Venus](https://open.spotify.com/track/7okWsNhHC4LEaK9jqnSK9V) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/4erCMQs14Tol0V6EyaR5du) | 4:22 |
-| 28 | [Remisero](https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi) | 3:22 |
-| 29 | [Trece](https://open.spotify.com/track/485OU7VBMjCAAFL2JYAsoH) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 2:21 |
+| 28 | [Trece](https://open.spotify.com/track/485OU7VBMjCAAFL2JYAsoH) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 2:21 |
+| 29 | [Remisero](https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi) | 3:22 |
 | 30 | [Montañas de Agua](https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trance Zomba](https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS) | 3:29 |
 | 31 | [Marmota](https://open.spotify.com/track/2uBslBzniJrOGbVBuUeFjB) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló y Yo Sigo Volando](https://open.spotify.com/album/6oCgx5mp3ZK7AbMKmMLBUz) | 4:42 |
 | 32 | [Microman](https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 3:54 |

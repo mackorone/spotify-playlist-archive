@@ -1,6 +1,6 @@
 {
   "description": "Parque Sim\u00f3n Bol\u00edvar, Marzo 27, 28, 29 y 30. Foto: Olivia Rodrigo",
-  "num_followers": 45482,
+  "num_followers": 45480,
   "original_name": "Festival Est\u00e9reo Picnic 2025",
   "owner": {
     "name": "Spotify",
@@ -391,42 +391,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Beautiful Now",
-      "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Si T\u00fa Me Quisieras",
-      "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
       },
@@ -447,22 +411,38 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "FACE MYSELF",
-        "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 227903,
-      "name": "FACE MYSELF",
-      "url": "https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ"
+      "duration_ms": 202333,
+      "name": "Si T\u00fa Me Quisieras",
+      "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Beautiful Now",
+      "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -479,6 +459,26 @@
       "duration_ms": 237227,
       "name": "Lightenup",
       "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "FACE MYSELF",
+        "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 227903,
+      "name": "FACE MYSELF",
+      "url": "https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "GUTS (spilled)",
-        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/3jhlwdu8nU7hFTEGHUomN3"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Walk Me Home...",
         "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 159937,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4X27CYcGvCfy75TkVJehSG"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/3jhlwdu8nU7hFTEGHUomN3"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/3X41M8FCQJCuBWwIeKFQ3Q"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Otra Vida",
         "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 218752,
       "name": "Otra Vida",
       "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/3X41M8FCQJCuBWwIeKFQ3Q"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "In The Darkest Of Nights, Let The Birds Sing",
-        "url": "https://open.spotify.com/album/4UaPlMSS15FOS4A858WULM"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 184622,
-      "name": "Walk With A Big Stick",
-      "url": "https://open.spotify.com/track/1zkHzl23G4eLrgbzLcPbwx"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Reloj Vital",
         "url": "https://open.spotify.com/album/3gNxPvdAjHGwAKPU0N08cX"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 219506,
       "name": "The New Pollution",
       "url": "https://open.spotify.com/track/1flci5s2ER4nP40d5Cf4Nj"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "In The Darkest Of Nights, Let The Birds Sing",
+        "url": "https://open.spotify.com/album/4UaPlMSS15FOS4A858WULM"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 184622,
+      "name": "Walk With A Big Stick",
+      "url": "https://open.spotify.com/track/1zkHzl23G4eLrgbzLcPbwx"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Llorando En La Limo",
-        "url": "https://open.spotify.com/album/641HF5Dke7iDKWLWIeKhir"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 137439,
-      "name": "Llorando En La Limo",
-      "url": "https://open.spotify.com/track/67FhuBvtSAij3rAB3nRs4F"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "MIEL",
         "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 181786,
       "name": "CELESTE // YA LO SABES",
       "url": "https://open.spotify.com/track/34PUpL0jT5ypEofPXPbmcs"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Llorando En La Limo",
+        "url": "https://open.spotify.com/album/641HF5Dke7iDKWLWIeKhir"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 137439,
+      "name": "Llorando En La Limo",
+      "url": "https://open.spotify.com/track/67FhuBvtSAij3rAB3nRs4F"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/3m0cpkYGyTNk2B68COYiaI"
-      },
-      "artists": [
-        {
-          "name": "Canales Nacionales",
-          "url": "https://open.spotify.com/artist/6IKWIwAANTdlk5fSh2PBDJ"
-        }
-      ],
-      "duration_ms": 227343,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/397lOi77wEVEDDcqQL41Uy"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Dulcinea",
         "url": "https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 186129,
       "name": "Ya no kiero </3",
       "url": "https://open.spotify.com/track/06gDkePPzDMXRoXKVX0sLh"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/3m0cpkYGyTNk2B68COYiaI"
+      },
+      "artists": [
+        {
+          "name": "Canales Nacionales",
+          "url": "https://open.spotify.com/artist/6IKWIwAANTdlk5fSh2PBDJ"
+        }
+      ],
+      "duration_ms": 227343,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/397lOi77wEVEDDcqQL41Uy"
     },
     {
       "added_at": "2025-03-28 16:02:55",

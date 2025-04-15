@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-119 songs - 10 hr 7 min
+120 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Mezcalero](https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy), [Martín Telechanski](https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1) | [Mezcalero](https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj) | 4:57 | 2023-12-08 |  |
 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 | 2022-08-12 |  |
 | [Milonga Del Fin Del Mundo](https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Milonga Del Fin Del Mundo](https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw) | 5:24 | 2023-12-08 |  |
-| [Monumental](https://open.spotify.com/track/6dlFsQKa8km5nQPNpVmaEU) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Monumental](https://open.spotify.com/album/0tcgqfwrBoCcZ4T9LiDcjI) | 5:18 | 2023-12-08 |  |
+| [Monumental](https://open.spotify.com/track/6dlFsQKa8km5nQPNpVmaEU) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Monumental](https://open.spotify.com/album/0tcgqfwrBoCcZ4T9LiDcjI) | 5:18 | 2023-12-08 | 2025-04-15 |
 | [No Fear](https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 5:01 | 2022-08-12 | 2024-04-19 |
 | [NO LA VI VENIR](https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj) | [Hot Shooters](https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr) | [Boticario de Amor](https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL) | 3:05 | 2024-03-08 |  |
 | [Nublado](https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC) | [La Grande](https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0) | [Sesiones 2017\-2020](https://open.spotify.com/album/17NlLQlimG217X7OALtTSy) | 6:14 | 2022-08-12 |  |
@@ -97,6 +97,7 @@
 | [Primavera Porteña](https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [100](https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4) | 6:42 | 2022-08-12 |  |
 | [Promesas Sobre el Bidet](https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ) | [Juan Cruz De Urquiza](https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl), [Miguel Tarzia](https://open.spotify.com/artist/5l8QeZti5fdN56GFbFHjF0), [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV), [Pipi Piazzolla](https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14) | [De Este Lado](https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G) | 7:51 | 2022-08-12 |  |
 | [Puerta y Regazo](https://open.spotify.com/track/2w1MdztRfIx6mS0SFSA53y) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 2:29 | 2022-08-12 | 2024-04-19 |
+| [Puertas y Ventanas](https://open.spotify.com/track/2OeTcS3A1g1RsUj1xycs5Y) | [ASH Trio](https://open.spotify.com/artist/1lWRqHdNuzCQUaJdl1HUwm), [Hernan Hecht](https://open.spotify.com/artist/7dl3J3Gs0ryFhyeRDypljB), [Juan Pablo Arredondo](https://open.spotify.com/artist/6qcNKGD04YEUm0JlD9bhQv), [Natalio Sued](https://open.spotify.com/artist/1WqYlCDG2cmVXPZ1CcdMOs) | [Formas](https://open.spotify.com/album/5tpPFkMTHnxQBDay46yEqX) | 4:29 | 2025-04-14 |  |
 | [Qom](https://open.spotify.com/track/6C6rocIKeKyQ3bMqYDmhjR) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk), [Demian Cabaud](https://open.spotify.com/artist/4ZLSEw2BcU0GeZhyJotEDM), [Marcos Cavaleiro](https://open.spotify.com/artist/3tlZjxpF9HfPrAccSufAun) | [Estrellero](https://open.spotify.com/album/0h3Wf48mmz3NdceNSjdzYu) | 4:38 | 2023-08-11 | 2023-08-28 |
 | [Rough Biker Coda](https://open.spotify.com/track/51yHj5JhzkWpRmzu42Xpw7) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 0:54 | 2023-12-08 | 2024-02-11 |
 | [Rusty](https://open.spotify.com/track/06k4d1KJ5iokCdTuzdVjCe) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 3:35 | 2022-08-12 | 2024-04-19 |

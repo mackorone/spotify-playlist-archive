@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-231 songs - 11 hr 16 min
+232 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Brown Zafu](https://open.spotify.com/track/54yxkeux1ZvKxmV8lLkoWL) | [Infinity Drifter](https://open.spotify.com/artist/66Nsavr2JDxr4253JILk4B) | [Brown Zafu](https://open.spotify.com/album/0G2y6fqQZMiHeAxkM7w3Qu) | 2:33 | 2025-02-10 |  |
 | [Brännö](https://open.spotify.com/track/41wFdqenwjhXF5ePYxD4mv) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Brännö](https://open.spotify.com/album/0aD67jjpO2jRneNAqsvh7R) | 2:12 | 2023-06-30 |  |
 | [Bucolia](https://open.spotify.com/track/19mlhPZJTyZi7uP2dE3MAv) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Bucolia](https://open.spotify.com/album/2YB6mquvIXoVoMwgaY0l7D) | 4:14 | 2023-04-28 |  |
+| [By the Creek](https://open.spotify.com/track/2wNyMwLskL0yAYyipYOdyI) | [Between Worlds](https://open.spotify.com/artist/0HBncYc0ljDrJAqog1F1Qi) | [By the Creek](https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu) | 2:23 | 2025-04-11 |  |
 | [Calihue](https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM) | [Paihuén](https://open.spotify.com/artist/4UOw7vZ41cwDXGNce9zTLB) | [Calihue](https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6) | 2:11 | 2023-04-28 | 2025-03-14 |
 | [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 | 2024-08-23 |  |
 | [Calmed by Warm Waters](https://open.spotify.com/track/3mWmH6nNL76C1XZTliqMd7) | [MALTA PROJECT](https://open.spotify.com/artist/5B7ADRhLSbaat7jHheA9YF) | [The Dwelling Place](https://open.spotify.com/album/3hiRwsgc4MzGqKbS45TJpN) | 3:19 | 2023-04-28 | 2025-03-16 |
@@ -40,7 +41,7 @@
 | [Celestial Incandescence \- Spa](https://open.spotify.com/track/7CxSyjymXR6bquZA2Mj7BS) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Celestial Incandescence](https://open.spotify.com/album/4cWd16fQU6DEnYmJ45IhQT) | 3:28 | 2023-04-28 | 2024-06-04 |
 | [chammomile](https://open.spotify.com/track/5nDPKdOwEO5mEql3Nqze3G) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Body Scan](https://open.spotify.com/album/7zDsE6swmHKUn6hNktcOPU) | 3:16 | 2023-08-18 |  |
 | [Chitwan Longing](https://open.spotify.com/track/2HVEoqPXUYIVeshrfufq0u) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Chitwan Longing](https://open.spotify.com/album/6m6lONbEzbgiXCspvdaZ92) | 2:54 | 2023-04-28 |  |
-| [Circle](https://open.spotify.com/track/5kfHwava0Jn209SJch0yVO) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Circle](https://open.spotify.com/album/0FWYBWscbQyFSXLHuxTfd3) | 2:19 | 2023-06-30 |  |
+| [Circle](https://open.spotify.com/track/5kfHwava0Jn209SJch0yVO) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Circle](https://open.spotify.com/album/0FWYBWscbQyFSXLHuxTfd3) | 2:19 | 2023-06-30 | 2025-04-15 |
 | [Clarity](https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR) | [Jaylen Sharise](https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph) | [Clarity](https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf) | 2:46 | 2023-04-28 |  |
 | [Clearing](https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab) | [dYb](https://open.spotify.com/artist/5J2i1y9d9QrAVdBi92SX3r) | [Clearing](https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw) | 3:46 | 2023-04-28 | 2025-03-22 |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2023-04-28 |  |
@@ -52,7 +53,7 @@
 | [Dedication To Calm](https://open.spotify.com/track/1VD7Pn1IS8rHixuWExfZp1) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Dedication To Calm](https://open.spotify.com/album/496IgIL2DJaK4f2WOggFJA) | 3:38 | 2023-04-28 | 2024-06-04 |
 | [Deep Forest](https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Deep Forest](https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2) | 2:35 | 2024-02-15 | 2024-04-02 |
 | [Deep Waves](https://open.spotify.com/track/4zXwVwJ9lyE8RS5clgcMog) | [Sink in Calm](https://open.spotify.com/artist/3okr43B0Zj9ydMIOuPrMXX) | [Deep Waves](https://open.spotify.com/album/766NOhts6UUYKkr6TOjn6n) | 3:39 | 2023-04-28 | 2025-02-04 |
-| [Domestic Waters](https://open.spotify.com/track/7ssngwB7w7olN4CwMkrDcB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Domestic Waters](https://open.spotify.com/album/0hsQnSQhjZ00ZtX2JPPFIl) | 3:04 | 2024-10-01 |  |
+| [Domestic Waters](https://open.spotify.com/track/7ssngwB7w7olN4CwMkrDcB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Domestic Waters](https://open.spotify.com/album/0hsQnSQhjZ00ZtX2JPPFIl) | 3:04 | 2024-10-01 | 2025-04-15 |
 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2023-04-28 | 2024-08-24 |
 | [Dream On](https://open.spotify.com/track/79U5R6G2pmBRSSGCjlJmA9) | [Isla Laine](https://open.spotify.com/artist/1MjZBlMMS2FIikJ0klCTUC) | [Dream On](https://open.spotify.com/album/2tlRlrBMx9JpcOUs2C4m4T) | 3:15 | 2023-04-28 |  |
 | [Dream River](https://open.spotify.com/track/7h55IavoXCs66iwVRoff0e) | [Slumber Pals](https://open.spotify.com/artist/7eX1arZxMWfM7B7Jx3GtJO) | [Dream River](https://open.spotify.com/album/74d432GBiGsHeEpJ5GQX5b) | 2:44 | 2023-04-28 |  |
@@ -139,7 +140,7 @@
 | [Morning Yoga](https://open.spotify.com/track/745hKdfWK8QlbkmJVNR2kk) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Morning Yoga](https://open.spotify.com/album/02rCmVAY6NsJXNxFOM1HOa) | 3:19 | 2024-07-19 |  |
 | [My Sanctuary](https://open.spotify.com/track/3MiOoOWcIVfxT4DtiVx7RW) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [My Sanctuary](https://open.spotify.com/album/6LD9SZaxij45q5VylWfDpM) | 3:31 | 2023-04-28 | 2024-06-04 |
 | [My Small River](https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 2:59 | 2023-06-09 |  |
-| [Namah \(Nature\)](https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Namah](https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU) | 3:19 | 2023-04-28 | 2025-04-06 |
+| [Namah \(Nature\)](https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Namah](https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU) | 3:19 | 2023-04-28 |  |
 | [Natura Deambulatio](https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy) | [Floating Portal](https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X) | [Natura Deambulatio](https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2) | 3:30 | 2024-04-01 |  |
 | [Natural Healing](https://open.spotify.com/track/4xqHr91EEXm4qhnEeju02d) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Natural Healing](https://open.spotify.com/album/724HzfOLKOY1i1vx0f6ziy) | 3:33 | 2023-04-28 | 2024-11-05 |
 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 | 2023-04-28 |  |

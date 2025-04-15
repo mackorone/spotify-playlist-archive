@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Organize
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401,266 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,293 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 8 | [HA HA HA HA](https://open.spotify.com/track/46EVmz3fZglNWoo2uyRkMu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [HA HA HA HA](https://open.spotify.com/album/5cQ0A1z9Xlpi2M4RLGO8Xz) | 1:42 |
 | 9 | [ŞÜKÜR Kİ DELİRMEDİM](https://open.spotify.com/track/3Virp8bdmG2T0KVJrHwyWH) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [ŞÜKÜR Kİ DELİRMEDİM](https://open.spotify.com/album/1O2zX3ZDEZYU4LcqPik6VQ) | 1:55 |
 | 10 | [Ölmedim Ben](https://open.spotify.com/track/5XGsUaTVnP4SAwBmWTJ6Fz) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ölmedim Ben](https://open.spotify.com/album/5BDPRMeOh1GLNAsQq9GvBu) | 2:49 |
-| 11 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/38qDM8ydEFYori6yyBCjq8), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 |
+| 11 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 |
 | 12 | [Le Beyrut](https://open.spotify.com/track/48Wo9RAuEzFCtZRfB190C2) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [D3](https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3), [Orchi](https://open.spotify.com/artist/17adKXL6KxtaIcWY6UvEve), [APL](https://open.spotify.com/artist/3MiZSR4SDzxNoPfjRbMywk) | [AÇ KURT MIXTAPE](https://open.spotify.com/album/2lCBkbMGavxhvod2I4qtZo) | 2:21 |
 | 13 | [kAHpE](https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [kAHpE](https://open.spotify.com/album/4LJKT3syN0IUiZY4PIz2EQ) | 2:21 |
 | 14 | [Underrated](https://open.spotify.com/track/4zO0OhG0WcOLqqYCNf1ZUy) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED), [TRAP ZONE](https://open.spotify.com/artist/2Rf5bF15wJxPz4LQatGKSt) | [Underrated](https://open.spotify.com/album/3312EVA6CqDfOC6Dp7vNmO) | 3:37 |

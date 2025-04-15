@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Tim Maia",
-  "num_followers": 1398657,
+  "num_followers": 1398873,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Samba Meu",
-        "url": "https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9"
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
       "artists": [
         {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 227520,
-      "name": "T\u00e1 perdoado",
-      "url": "https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz"
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -343,18 +343,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+        "name": "Samba Meu",
+        "url": "https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
         }
       ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+      "duration_ms": 227520,
+      "name": "T\u00e1 perdoado",
+      "url": "https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Belchior Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
-      },
-      "artists": [
-        {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        },
-        {
-          "name": "Gilvan de Oliveira",
-          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 229013,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Belchior Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
+      },
+      "artists": [
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        },
+        {
+          "name": "Gilvan de Oliveira",
+          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "P\u00e1ssaro Proibido",
+        "url": "https://open.spotify.com/album/2cRw1H1XHHS9VHxQkbz0Y5"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Olhos Nos Olhos",
+      "url": "https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Em Casa Com os Gil",
         "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "For\u00e7a Bruta (1970)",
-        "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Oba, L\u00e1 Vem Ela",
-      "url": "https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Meus Caros Amigos",
         "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 166573,
       "name": "O Que Ser\u00e1 (A Flor Da Terra)",
       "url": "https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "For\u00e7a Bruta (1970)",
+        "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Oba, L\u00e1 Vem Ela",
+      "url": "https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1499,22 +1515,6 @@
       "duration_ms": 227826,
       "name": "Metamorfose ambulante",
       "url": "https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "P\u00e1ssaro Proibido",
-        "url": "https://open.spotify.com/album/2cRw1H1XHHS9VHxQkbz0Y5"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Olhos Nos Olhos",
-      "url": "https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L"
     },
     {
       "added_at": "2025-03-07 03:00:30",

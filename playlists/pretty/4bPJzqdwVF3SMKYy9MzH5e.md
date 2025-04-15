@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,097 songs - 4 day 16 hr 17 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,098 songs - 4 day 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2105,5 +2105,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2095 | [CADILLAC DREAMS](https://open.spotify.com/track/1CKpqV7rC3cPNVRnEWsurC) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B) | 4:21 |
 | 2096 | [Baby G \- Victoria Remix](https://open.spotify.com/track/1PqInWz8dRWlaN9xlzPhrE) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [GOODBYE SALÒ THE REMIXES](https://open.spotify.com/album/6GXLeq56Ku6jhhrgws8bo9) | 3:10 |
 | 2097 | [FSU \(feat\. GASHI & Rich The Kid\)](https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:51 |
+| 2098 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
 
-Snapshot ID: `AAAEA1SczDqkp81WMcA1kOJC/vZbhB6u`
+Snapshot ID: `AAAEBJJF3kStf10BnxY1VLD31Lbkt1u+`

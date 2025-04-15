@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,915 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,929 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 71 | [夏鳥の詩 \-サマーバード\- \- Game Edit](https://open.spotify.com/track/7ILrFq6VkqmCx8LdrXooRL) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！！ 紅月「夏鳥の詩 \-サマーバード\-」 \(Game Edit\)](https://open.spotify.com/album/5pwjlcxQkjJ16XRN7TPFvf) | 2:28 |
 | 72 | [Trap For You](https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:08 |
 | 73 | [Melody in the Dark](https://open.spotify.com/track/31lx7Gh3CIcdAGT8oVcb7L) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 4:29 |
-| 74 | [Eccentric Party Night!!](https://open.spotify.com/track/2QTW9QCezADudK7HLwok3Z) | [五奇人/朔間零\(CV.増田俊樹\)、斎宮宗\(CV.高橋広樹\)、深海奏汰\(CV.西山宏太朗\)、日々樹渉\(CV.江口拓也\)、逆先夏目\(CV.野島健児\)](https://open.spotify.com/artist/2i7G4TgWipSjW01CIfapWE) | [あんさんぶるスターズ！ アルバムシリーズ Switch](https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u) | 4:48 |
-| 75 | [ムーンライトディスコ](https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7) | [月都スペクタクル/巴 日和\(CV.花江 夏樹\)、風早 巽\(CV.中澤 まさとも\)、氷鷹 北斗\(CV.前野 智昭\)、深海 奏汰\(CV.西山 宏太朗\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4OIoYN6iSXZvwjcboxXCit) | [あんさんぶるスターズ！！ シャッフルユニットソング コレクション \(vol.02\)](https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k) | 4:40 |
+| 74 | [ムーンライトディスコ](https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7) | [月都スペクタクル/巴 日和\(CV.花江 夏樹\)、風早 巽\(CV.中澤 まさとも\)、氷鷹 北斗\(CV.前野 智昭\)、深海 奏汰\(CV.西山 宏太朗\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4OIoYN6iSXZvwjcboxXCit) | [あんさんぶるスターズ！！ シャッフルユニットソング コレクション \(vol.02\)](https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k) | 4:40 |
+| 75 | [Eccentric Party Night!!](https://open.spotify.com/track/2QTW9QCezADudK7HLwok3Z) | [五奇人/朔間零\(CV.増田俊樹\)、斎宮宗\(CV.高橋広樹\)、深海奏汰\(CV.西山宏太朗\)、日々樹渉\(CV.江口拓也\)、逆先夏目\(CV.野島健児\)](https://open.spotify.com/artist/2i7G4TgWipSjW01CIfapWE) | [あんさんぶるスターズ！ アルバムシリーズ Switch](https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u) | 4:48 |
 
 Snapshot ID: `Z/Vf3AAAAACEgWu+K9QhixCmrGT+k+S+`

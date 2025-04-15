@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:3L9uBgjdSGghrzkEpr4Fy7">FattMack</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,740 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,773 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 8 | [omm](https://open.spotify.com/track/5hWQC9AoZWOXT1bcYJ1ls1) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU) | [omm](https://open.spotify.com/album/2wbK0hxPyiTcyhhRpY20UC) | 2:36 |
 | 9 | [Double D's](https://open.spotify.com/track/2g7q8degYW2rpPlhhbzp9y) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [Double D’s](https://open.spotify.com/album/2n7rQ1zji5uaH23AuzyfCV) | 2:08 |
 | 10 | [FENCES](https://open.spotify.com/track/3fPOq1COLTCK6n3EnJUY6K) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [THERE WERE SIGNS](https://open.spotify.com/album/6akUkCnLUpKwViYAeBL0WP) | 2:26 |
-| 11 | [Infest](https://open.spotify.com/track/07GazJuA6rItzkbbj22XQq) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Infest](https://open.spotify.com/album/5kkwUWAdUqCbFQSr1hENdO) | 2:58 |
+| 11 | [Infest](https://open.spotify.com/track/07GazJuA6rItzkbbj22XQq) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [Infest](https://open.spotify.com/album/5kkwUWAdUqCbFQSr1hENdO) | 2:58 |
 | 12 | [Money Drugs Sex](https://open.spotify.com/track/2OpSymvjW2GMuV36Wsmer8) | [sincity](https://open.spotify.com/artist/3KcdSDPFIPsZgWseaLC8Nu) | [Money Drugs Sex](https://open.spotify.com/album/0yVrUxzzBVaFHooc5R5Vl2) | 1:47 |
 | 13 | [Okay](https://open.spotify.com/track/32cHb0lGUepK7qVu06EmGC) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [DREAMS NEVER DIE](https://open.spotify.com/album/3aDklSkHajFA1fAIC4lOiv) | 2:31 |
 | 14 | [Faux](https://open.spotify.com/track/1PrhvvNGasll8r4NDH5rzN) | [Boy Ace](https://open.spotify.com/artist/5tfYneqaKo1KSNXT8KyyCy) | [Faux](https://open.spotify.com/album/1QaRGkqdl8CPxnfbUpqCCH) | 1:58 |

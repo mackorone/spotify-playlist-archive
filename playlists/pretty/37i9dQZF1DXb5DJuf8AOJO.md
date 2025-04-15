@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > This Holy Week, The Jesuit Music Ministry shares with us some classic Filipino liturgical songs\. Cover: Fr\. Eduardo P\. Hontiveros, SJ \- Father of Filipino Liturgical Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,163 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,258 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 53 | [Awit Ng Pasasalamat](https://open.spotify.com/track/1PE8QcwzPyRKmrOPOoULuO) | [Himig Heswita](https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2) | [Purihi't Pasalamatan \(Mga Piling Awitin Ni Fr\. Honti Handog Ng Himig Heswita\)](https://open.spotify.com/album/6PEUoD8gghE0vi7qzGXKuJ) | 3:08 |
 | 54 | [Pintig ng Puso](https://open.spotify.com/track/7tfu7v69XNcQk0EQiXWNWz) | [Floyd Tena](https://open.spotify.com/artist/4xODnj5Y62813OgmtheRXT) | [Soundtrack of Our Faith](https://open.spotify.com/album/7hXYZmePJcMo5SHtQcTJhG) | 3:11 |
 
-Snapshot ID: `Z/qOFQAAAAAFApyk9r5A3pw0PTRlBZNa`
+Snapshot ID: `Z/yYugAAAAB0t0phBNwcRPaQRKMmqh78`

@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-384 songs - 19 hr 53 min
+385 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Smoke](https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Smoke](https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC) | 2:55 | 2023-06-23 | 2024-05-01 |
 | [So Crazy Again](https://open.spotify.com/track/6ocJJ9ONBpE4bPqCid872J) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [So Crazy Again](https://open.spotify.com/album/1xw161vIjZ8ZjFoeiYoflT) | 2:36 | 2024-05-20 | 2024-08-03 |
 | [Solteiro Sou Um Perigo](https://open.spotify.com/track/5VUkNfVb58kUWyWoWdbvha) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Solteiro Sou Um Perigo](https://open.spotify.com/album/3B6QqQI2gmHsqddUrKkSZT) | 2:48 | 2023-06-13 | 2024-03-14 |
+| [Speak To Me \- Edit](https://open.spotify.com/track/1C1RzCVqek17m7rszNg3mr) | [Snow N Stuff](https://open.spotify.com/artist/6wIX9hW2uQAVv190xXV9mA) | [Speak To Me](https://open.spotify.com/album/3zifCl5R2DaZGEmrPNUM1N) | 3:45 | 2025-04-14 |  |
 | [Speaker Freaker](https://open.spotify.com/track/5f2y5tmQpZULdL0hVmbv2G) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Speaker Freaker](https://open.spotify.com/album/4mloW9V9myqJR0LJBl6eVN) | 3:41 | 2023-09-22 | 2024-03-14 |
 | [Spinnin With You](https://open.spotify.com/track/7a93LT7k6s6e049aRFc72N) | [Alex Moretto](https://open.spotify.com/artist/3UelwLWbuCQkJvohXe9CIm), [Alfie Cridland](https://open.spotify.com/artist/3gOl0pzEP8SvToQrrrbw7P), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Spinnin With You](https://open.spotify.com/album/4N7ktGHprTdlbHW2G2oN05) | 1:58 | 2024-08-16 |  |
 | [Spiritual](https://open.spotify.com/track/2wvoT36KoTsuL6Qm0vWLca) | [CHR3ASY](https://open.spotify.com/artist/4SdL3N0FRmyxx9LspVEs1z) | [Spiritual](https://open.spotify.com/album/24IDZ8Cz8J03TJAxQsBuyq) | 2:49 | 2024-08-02 |  |

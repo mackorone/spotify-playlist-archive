@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 169389,
+  "num_followers": 169430,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Faut que tu m'aimes",
-        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
-      },
-      "artists": [
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 192998,
-      "name": "Faut que tu m'aimes",
-      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "La loi du papillon",
         "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
       },
@@ -271,18 +255,18 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Le Chant des sir\u00e8nes",
-        "url": "https://open.spotify.com/album/0NhgwNb57nLRJsL9G4NSpY"
+        "name": "Faut que tu m'aimes",
+        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
       },
       "artists": [
         {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
         }
       ],
-      "duration_ms": 219865,
-      "name": "La terre est ronde",
-      "url": "https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK"
+      "duration_ms": 192998,
+      "name": "Faut que tu m'aimes",
+      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -303,38 +287,18 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Chaque seconde (feat. M. Pokora)",
-        "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
+        "name": "Le Chant des sir\u00e8nes",
+        "url": "https://open.spotify.com/album/0NhgwNb57nLRJsL9G4NSpY"
       },
       "artists": [
         {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        },
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
         }
       ],
-      "duration_ms": 165986,
-      "name": "Chaque seconde (feat. M. Pokora)",
-      "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
-        "name": "Sans plus attendre",
-        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+      "duration_ms": 219865,
+      "name": "La terre est ronde",
+      "url": "https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -355,6 +319,42 @@
       "duration_ms": 207040,
       "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
       "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "Sans plus attendre",
+        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "Chaque seconde (feat. M. Pokora)",
+        "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Chaque seconde (feat. M. Pokora)",
+      "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
+        "name": "La goffa Lolita",
+        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
+      },
+      "artists": [
+        {
+          "name": "Vinc\u00e8 la petite culotte",
+          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
+        }
+      ],
+      "duration_ms": 221149,
+      "name": "La goffa Lolita",
+      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
         "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
         "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 205440,
       "name": "Les rois du monde - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
       "url": "https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
-        "name": "La goffa Lolita",
-        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
-      },
-      "artists": [
-        {
-          "name": "Vinc\u00e8 la petite culotte",
-          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
-        }
-      ],
-      "duration_ms": 221149,
-      "name": "La goffa Lolita",
-      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "Amoureuse (Edition Deluxe)",
         "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 221600,
       "name": "Amoureuse - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "Week End \u00c0 Rome",
         "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 254453,
       "name": "Week-end \u00e0 Rome",
       "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     }
   ],
   "unique_name": "Bleu Blanc Route",

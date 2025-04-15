@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Owls, Omens, and Oracles",
+        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216586,
+      "name": "I Am In Love",
+      "url": "https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm"
+    },
+    {
+      "album": {
         "name": "Traveler's Soul",
         "url": "https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly"
       },
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 140840,
       "name": "Superpower",
       "url": "https://open.spotify.com/track/630fKF86aeU8HfOyFf3FIq"

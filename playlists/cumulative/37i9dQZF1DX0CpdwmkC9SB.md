@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2025.
 
-482 songs - 1 day 8 hr 39 min
+483 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-05-31 | 2025-03-07 |
 | [Gideon's Charge \(feat\. KINGH\) \- Edit](https://open.spotify.com/track/7t0WZ9eqHbwicqu3XcCD5x) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [KINGH](https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo) | [Gideon’s Charge \(feat\. KINGH\)](https://open.spotify.com/album/1LV4kdReSJjYz4GrPJ6B4s) | 2:41 | 2024-05-31 | 2024-10-02 |
 | [Ginger Tea](https://open.spotify.com/track/6czUD2XTIXOsZuZ1v8oSRj) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Anthology](https://open.spotify.com/album/1Mxrx2PfSMBxZ8X5MakZCO) | 1:23 | 2025-04-04 |  |
+| [Girl from Mars](https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 3:30 | 2025-04-14 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2024-05-31 | 2025-03-07 |
 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Dance, No One's Watching](https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h) | 3:59 | 2025-03-06 |  |
 | [Godspeed >](https://open.spotify.com/track/0Ecv9GA4TMKjWB0EeykkMe) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Godspeed >](https://open.spotify.com/album/3AxS0RHAEcHmL1rICjxidd) | 5:09 | 2025-04-04 |  |
@@ -316,7 +317,7 @@
 | [More Pressure](https://open.spotify.com/track/0sMWdvSFBg1bVkzyszM819) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:14 | 2025-03-06 |  |
 | [Mork n Mindy](https://open.spotify.com/track/06GBeo9UxaThL6monvFzHe) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [Spare Ribs](https://open.spotify.com/album/1w857brUeHQfcPpjCd3wHQ) | 3:24 | 2024-05-31 | 2025-03-07 |
 | [Mortal Man](https://open.spotify.com/track/3dp9Eq6cmdiueBFbwPbp7m) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:55 | 2025-04-04 |  |
-| [Mosaïque](https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mosaïque](https://open.spotify.com/album/0CyW2YVJhur4mWOSSSUFU6) | 3:41 | 2025-04-04 |  |
+| [Mosaïque](https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mosaïque](https://open.spotify.com/album/0CyW2YVJhur4mWOSSSUFU6) | 3:41 | 2025-04-04 | 2025-04-15 |
 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 | 2025-04-04 |  |
 | [Mr Majestic](https://open.spotify.com/track/0wrg4FXpFKz1y1tYsZPJOw) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Mr\. Majestic](https://open.spotify.com/album/5vJVHRuapQS98n2Oj0Nnso) | 5:21 | 2025-04-04 |  |
 | [MR\. SANDMAN](https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MR\. SANDMAN](https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb) | 2:25 | 2024-05-31 |  |

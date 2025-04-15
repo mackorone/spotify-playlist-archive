@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Rachelle Allison
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,451 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,484 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 27 | [Je Donne](https://open.spotify.com/track/1bol6WkjrtvcxPydk4tsGC) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Belle vie](https://open.spotify.com/album/4JPoxkWhDRrfLZbUOE3Aez) | 2:30 |
 | 28 | [Ma partition](https://open.spotify.com/track/4uokP7DOEf7LKERqIEsHat) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Ma partition](https://open.spotify.com/album/3w5UZizv5UTz34NJXGuJE7) | 3:35 |
 | 29 | [Pas de Ralentir](https://open.spotify.com/track/3s3LcEdYzo77TOqFOuvjVF) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Pas de Ralentir](https://open.spotify.com/album/1UEYHUqi81046VKwNXVjAv) | 2:34 |
-| 30 | [Alé pa](https://open.spotify.com/track/6vUPLVSg1JqUYiHserSImx) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [Vj Awax](https://open.spotify.com/artist/63KHCzO0dRMpLV9uyTHUjV) | [Alé pa](https://open.spotify.com/album/567IStllgOTK3HfGniBTXn) | 2:41 |
+| 30 | [Alé pa](https://open.spotify.com/track/6vUPLVSg1JqUYiHserSImx) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm) | [Alé pa](https://open.spotify.com/album/567IStllgOTK3HfGniBTXn) | 2:41 |
 | 31 | [LANMOU TOXIC](https://open.spotify.com/track/5eK8op8qRBS5unsE5O0IGI) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [LANMOU TOXIC](https://open.spotify.com/album/4fwY41o2uN6BKEIFwJe1i7) | 4:10 |
 | 32 | [Danje \- Golden Guest Edit](https://open.spotify.com/track/2IFtl8DdJ6oCW1oEF8umxh) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Danje \(Golden Guest Edit\)](https://open.spotify.com/album/3kq3m2zcWwSHNjPtbzKNQg) | 3:05 |
 | 33 | [A mes côtés](https://open.spotify.com/track/1CC4cbv9dHce9iAQp00egV) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY) | [Mon Rêve](https://open.spotify.com/album/0aAWgxB9EnN40ZjGprGnZC) | 3:25 |

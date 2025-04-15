@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Rema, Lojay, Reekado Banks and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,405 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,533 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 43 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
 | 44 | [Dare to Say](https://open.spotify.com/track/5XQJ4LUieLRFDjbCFM8XAx) | [Fewa](https://open.spotify.com/artist/75C3ZzGRAbVr4Fk3osN51M), [AfroSelecta\-BBK](https://open.spotify.com/artist/7BZSGajmAz3pSRG2l7LPnk) | [Dare to Say](https://open.spotify.com/album/7he9lQvvjaYaiOtOr8IBZb) | 2:21 |
 | 45 | [Mini Mini](https://open.spotify.com/track/4g4stHTtmuhnQrOEOFMbFZ) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [Mini Mini](https://open.spotify.com/album/4QQxabdVOt7ycHTZsdstGu) | 2:47 |
-| 46 | [Fashionista](https://open.spotify.com/track/0Pvc4qZjRnW2NO7FE9dZxi) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Klem](https://open.spotify.com/artist/2aImsy0HLKw0cbiyCDJX3t), [TA’Reina](https://open.spotify.com/artist/7eJJ5RmpQYlbLLyCNAlWwV) | [Fashionista](https://open.spotify.com/album/37db52MGUbEnokt77Z15lL) | 2:47 |
+| 46 | [Fashionista](https://open.spotify.com/track/0Pvc4qZjRnW2NO7FE9dZxi) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Klem](https://open.spotify.com/artist/2aImsy0HLKw0cbiyCDJX3t), [Ta'Reina](https://open.spotify.com/artist/1DGNrD4UBLeAIP9P2aqvie) | [Fashionista](https://open.spotify.com/album/37db52MGUbEnokt77Z15lL) | 2:47 |
 | 47 | [I Go Lie for You?](https://open.spotify.com/track/7oe9DaaWXtNIObdwt443lH) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [I Go Lie for You?](https://open.spotify.com/album/34YIZF36lNz6b1rHB9Z7qV) | 3:27 |
 | 48 | [Clingy](https://open.spotify.com/track/47T1ubQyQImtj2kZ0WRWd9) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Clingy](https://open.spotify.com/album/0n5DbGWxP7DokcO5e9RlRV) | 2:43 |
 | 49 | [Maradona](https://open.spotify.com/track/0FSEqwIBzMOI6R5n8E6Cxx) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65) | [Maradona](https://open.spotify.com/album/43l7zSy9bqfrBYBaNWhc9P) | 2:32 |

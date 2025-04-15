@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-127 songs - 6 hr 34 min
+128 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Derecho De Antigüedad](https://open.spotify.com/track/15KNGMJFNAaZUq7qNmuKJU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antiguedad](https://open.spotify.com/album/0s8ImVdy8zLd19wySRzk1s) | 3:03 | 2022-06-01 |  |
 | [Di Que Regresarás](https://open.spotify.com/track/7dPxocEuvcOA0YC7woHPvu) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Primer Lugar](https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa) | 3:45 | 2022-06-01 |  |
 | [Diamante Negro](https://open.spotify.com/track/2Oiw6YkJgH8bEVR19YDdwL) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Diamante Negro](https://open.spotify.com/album/5kxWakS53bUY1Ee3ZVMNo0) | 3:26 | 2022-08-16 | 2023-02-24 |
+| [Diamante Negro](https://open.spotify.com/track/320Sk1ouyKo9jQIDjRgBYC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Diamante Negro](https://open.spotify.com/album/0hjfd0waBAkVDRvAXHhddR) | 3:26 | 2025-04-15 |  |
 | [Dos Gotas de Agua](https://open.spotify.com/track/5y9jffhDLOKtHBdEMVm0Ss) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:53 | 2023-08-25 |  |
 | [Dos Gotas De Agua](https://open.spotify.com/track/1pQFw81rRvhmkxkC9ntDeq) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Dos Gotas De Agua](https://open.spotify.com/album/7yEy8rEkjEDUjb8xUHLt59) | 2:58 | 2022-06-01 | 2023-08-26 |
 | [Dos Palabras](https://open.spotify.com/track/2U4rYsQST35mzVWF2aXbys) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Momentos](https://open.spotify.com/album/0I23ARWW1udSmzFAqi7Ydb) | 3:05 | 2024-08-23 |  |
@@ -85,7 +86,7 @@
 | [Me Enamoré](https://open.spotify.com/track/5yjxlJvf44tL3lSGngW8FT) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Enamoré](https://open.spotify.com/album/1tMi99IP653XVZRF0luB6p) | 2:57 | 2024-08-09 | 2024-10-07 |
 | [Me Enamoré](https://open.spotify.com/track/6VRj4KDvAAy2aGuPdJJeZA) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Momentos](https://open.spotify.com/album/0I23ARWW1udSmzFAqi7Ydb) | 2:57 | 2025-02-16 |  |
 | [Me Esta Doliendo el Alma](https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Esta Doliendo el Alma](https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I) | 3:19 | 2022-06-01 | 2025-02-21 |
-| [Me Lo Contaron Ayer](https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:34 | 2022-06-01 |  |
+| [Me Lo Contaron Ayer](https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:34 | 2022-06-01 | 2025-04-15 |
 | [Me Muero por Ella \(Bachata\) Feat\. La Original Banda el Limón de Salvador Lizárraga](https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:54 | 2022-09-05 |  |
 | [Me Pongo en Tu Lugar](https://open.spotify.com/track/6tanSQtzUgIZ8L7us6vLvz) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl) | 3:06 | 2022-06-01 | 2022-07-14 |
 | [Me Pongo En Tu Lugar](https://open.spotify.com/track/6xSumymUkikvGOrzXIUgVW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ) | 3:06 | 2022-12-10 | 2023-12-14 |

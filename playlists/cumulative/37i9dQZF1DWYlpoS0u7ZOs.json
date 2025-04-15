@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: KEO",
+  "description": "A new wave of rock music. Cover: UNIVERSITY",
   "name": "shockwave",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 253200,
       "name": "Accidental Doom",
       "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
+    },
+    {
+      "album": {
+        "name": "Adam & Steve",
+        "url": "https://open.spotify.com/album/7yV48nbPydSyv2xod1SQLe"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150791,
+      "name": "Adam & Steve",
+      "url": "https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s"
     },
     {
       "album": {
@@ -520,7 +538,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 196586,
       "name": "AWOL",
       "url": "https://open.spotify.com/track/2aZ5hd1ZxWZD9os2lZcVCV"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 173583,
       "name": "Back2bed",
       "url": "https://open.spotify.com/track/1cC6rj10DoUfWPNkYYyB5D"
@@ -898,7 +916,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 289622,
       "name": "Bleeding",
       "url": "https://open.spotify.com/track/0pj4uSiZvfWSzXsG44sxrN"
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 171789,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5Og7LhaGMG7dx2dD9NWG7x"
@@ -1190,6 +1208,24 @@
       "duration_ms": 230000,
       "name": "Bygones",
       "url": "https://open.spotify.com/track/0jkye0KLXWdmmrsJ4Uld4H"
+    },
+    {
+      "album": {
+        "name": "Call Me Silent",
+        "url": "https://open.spotify.com/album/37FuvoYHpcG2FSvtdTP9zv"
+      },
+      "artists": [
+        {
+          "name": "CIEL",
+          "url": "https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191121,
+      "name": "Call Me Silent",
+      "url": "https://open.spotify.com/track/37g44HFLQVYdecUca8bxYR"
     },
     {
       "album": {
@@ -1384,7 +1420,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 177360,
       "name": "CHUNKS",
       "url": "https://open.spotify.com/track/6uBuSsnkhwnIwBnzGadzkX"
@@ -1402,7 +1438,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 219926,
       "name": "Circus",
       "url": "https://open.spotify.com/track/5Xinke5CL0UrKNenCaOzHg"
@@ -1514,7 +1550,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 178765,
       "name": "Come On Outside",
       "url": "https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh"
@@ -1698,6 +1734,24 @@
       "duration_ms": 192582,
       "name": "Crowd",
       "url": "https://open.spotify.com/track/5btcktwEOwwLGjg4ZOXU8A"
+    },
+    {
+      "album": {
+        "name": "Curwen",
+        "url": "https://open.spotify.com/album/3ks2f53mSTSzD0eLeC01mt"
+      },
+      "artists": [
+        {
+          "name": "UNIVERSITY",
+          "url": "https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270093,
+      "name": "Curwen",
+      "url": "https://open.spotify.com/track/0Okysd8JMaWIrXcR1M08he"
     },
     {
       "album": {
@@ -1892,7 +1946,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 175840,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/3yIl0VnKy4vL2WKvhkSLpF"
@@ -2800,7 +2854,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 171709,
       "name": "For The Weekend",
       "url": "https://open.spotify.com/track/2q7DmMeGKPyEKqR8RvRvu8"
@@ -3031,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Fun",
+        "url": "https://open.spotify.com/album/1sDoxYydHKTNCQwBUdFNNV"
+      },
+      "artists": [
+        {
+          "name": "Emily Breeze",
+          "url": "https://open.spotify.com/artist/581WwGSO6sWHN0RLc9EBqr"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208491,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/6drlAn97N5xQ3G14k8RRe6"
+    },
+    {
+      "album": {
         "name": "fuzz",
         "url": "https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR"
       },
@@ -3190,7 +3262,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 261278,
       "name": "Glue",
       "url": "https://open.spotify.com/track/64ogJV998yBGKEnu5VrUeB"
@@ -3334,7 +3406,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 165900,
       "name": "Gossip",
       "url": "https://open.spotify.com/track/7CrDzSEaTaZ4WjizyXSNoI"
@@ -3576,7 +3648,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 127586,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/4HnCccqn8ks24fjM7KQZhf"
@@ -3691,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "Highway Man",
+        "url": "https://open.spotify.com/album/0XHnz7bYP1A6Bfo49IauRf"
+      },
+      "artists": [
+        {
+          "name": "The New Eves",
+          "url": "https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "Highway Man",
+      "url": "https://open.spotify.com/track/4eAXBJOQjxZV14Su1G8QhC"
+    },
+    {
+      "album": {
         "name": "HMPB",
         "url": "https://open.spotify.com/album/3ce7X8NKiBXO8Ci9yQg4D5"
       },
@@ -3792,7 +3882,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 207250,
       "name": "Hosepipe Ban",
       "url": "https://open.spotify.com/track/2VoUmo4TPFuyq3vAWPr5na"
@@ -3832,6 +3922,24 @@
       "duration_ms": 137404,
       "name": "hotline",
       "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "album": {
+        "name": "Hounds",
+        "url": "https://open.spotify.com/album/7MHz0lcNIvOFmW0h1rVA98"
+      },
+      "artists": [
+        {
+          "name": "For Nina",
+          "url": "https://open.spotify.com/artist/0BW2ZsFaUNFmJ6lHAK8Xn3"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "Hounds",
+      "url": "https://open.spotify.com/track/1juKw5XH5DW9oS4obIiV4T"
     },
     {
       "album": {
@@ -4285,6 +4393,24 @@
     },
     {
       "album": {
+        "name": "it's nice to see you, stranger",
+        "url": "https://open.spotify.com/album/6RdLtRKb5anSmRQxmHI4ZE"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182781,
+      "name": "it's nice to see you, stranger",
+      "url": "https://open.spotify.com/track/4GyxvCkRn9sS7pgWmt1r8D"
+    },
+    {
+      "album": {
         "name": "Jacked",
         "url": "https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn"
       },
@@ -4502,6 +4628,24 @@
       "duration_ms": 200160,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/7keNZhvY8vbs3AyqDewmjj"
+    },
+    {
+      "album": {
+        "name": "Kare Wa",
+        "url": "https://open.spotify.com/album/3W2wZ6EndBoSfAjOY5EsNk"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273874,
+      "name": "Kare Wa",
+      "url": "https://open.spotify.com/track/0SkF6eBxOx0WQcHMIB48i4"
     },
     {
       "album": {
@@ -5186,7 +5330,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 206478,
       "name": "Man Of Ill Repute",
       "url": "https://open.spotify.com/track/5YUJszTDZObtNi9exv7eVm"
@@ -5222,7 +5366,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 297800,
       "name": "Manic",
       "url": "https://open.spotify.com/track/5BFgNcqeEnXO1L3nrW0kMV"
@@ -5276,7 +5420,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 301693,
       "name": "Massive Twenty One Pilots Tattoo",
       "url": "https://open.spotify.com/track/1CT0BPp8AlxmnT7L9rh12O"
@@ -5348,7 +5492,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 126645,
       "name": "Mean Girlz",
       "url": "https://open.spotify.com/track/5EBlBdOfvQy0hY0lZDY5Pp"
@@ -5661,6 +5805,24 @@
     },
     {
       "album": {
+        "name": "Much Better",
+        "url": "https://open.spotify.com/album/4QemJPG8neALdVNSiSXApT"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159225,
+      "name": "Much Better",
+      "url": "https://open.spotify.com/track/2mMsxyKMwIkzSxxcoDlnNj"
+    },
+    {
+      "album": {
         "name": "MURDER",
         "url": "https://open.spotify.com/album/2GuQlMTTDVRa71Knxe9qyO"
       },
@@ -5953,6 +6115,24 @@
     },
     {
       "album": {
+        "name": "Not My Person",
+        "url": "https://open.spotify.com/album/5lltd56S7efie3SZEfGr9o"
+      },
+      "artists": [
+        {
+          "name": "Ashaine White",
+          "url": "https://open.spotify.com/artist/3nhn1Qpg3aXPWN2IzaLj05"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Not My Person",
+      "url": "https://open.spotify.com/track/53YRSGi6YpEl5BH555pBYt"
+    },
+    {
+      "album": {
         "name": "The Stitches EP",
         "url": "https://open.spotify.com/album/2urUIJXWhnb5Ta0mbe1COz"
       },
@@ -6054,7 +6234,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 201466,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1"
@@ -6259,6 +6439,24 @@
     },
     {
       "album": {
+        "name": "Pick a Cheek",
+        "url": "https://open.spotify.com/album/2S26A9sg9dQOuaVplEPdEd"
+      },
+      "artists": [
+        {
+          "name": "Big Sleep",
+          "url": "https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181172,
+      "name": "Pick a Cheek",
+      "url": "https://open.spotify.com/track/3P5rCffH5bHysyS3TjoBiQ"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/4iliUdAPQoj5PCe9rmfGzC"
       },
@@ -6440,6 +6638,24 @@
       "duration_ms": 183004,
       "name": "PSYCHO!",
       "url": "https://open.spotify.com/track/49AHu113tqQwWl7JGgvWFp"
+    },
+    {
+      "album": {
+        "name": "Pub Watch",
+        "url": "https://open.spotify.com/album/227FBuf1tCv5C92D3J2E3L"
+      },
+      "artists": [
+        {
+          "name": "CARSICK",
+          "url": "https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Pub Watch",
+      "url": "https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj"
     },
     {
       "album": {
@@ -7387,6 +7603,24 @@
     },
     {
       "album": {
+        "name": "Space Rocket Simulator",
+        "url": "https://open.spotify.com/album/6tUUYYIhmU1PSGmfaYfRBy"
+      },
+      "artists": [
+        {
+          "name": "pyncher",
+          "url": "https://open.spotify.com/artist/66NBYDmR4OTIL8AuMvKTK7"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184075,
+      "name": "Space Rocket Simulator",
+      "url": "https://open.spotify.com/track/1J8wwuoS37YHs5CkO9gSGY"
+    },
+    {
+      "album": {
         "name": "Speculate",
         "url": "https://open.spotify.com/album/0KpBHUkVGJVmOWZvnGQgIF"
       },
@@ -7434,7 +7668,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 150035,
       "name": "Sports Day",
       "url": "https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4"
@@ -7625,6 +7859,24 @@
     },
     {
       "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/2QjtSyu3thWdKs9uYKXp8R"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123564,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/6SftkzXqkL3eCEvCe4UzSU"
+    },
+    {
+      "album": {
         "name": "STUCK",
         "url": "https://open.spotify.com/album/3J0ex9Eg21PORgqtZ2s2yR"
       },
@@ -7787,6 +8039,24 @@
     },
     {
       "album": {
+        "name": "Take It All Off",
+        "url": "https://open.spotify.com/album/2Tn673PvKPjUg1GqIrWUjP"
+      },
+      "artists": [
+        {
+          "name": "VERA",
+          "url": "https://open.spotify.com/artist/2J8ZjQR9hiBtoEVqD1SCVI"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Take It All Off",
+      "url": "https://open.spotify.com/track/0NJP5lOQw5UkFloWg5OYfj"
+    },
+    {
+      "album": {
         "name": "Take Me Far Away",
         "url": "https://open.spotify.com/album/5r6N4QKpG22l1cFkZoduCY"
       },
@@ -7870,7 +8140,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 164599,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4bVl1QANpKT2KSuHaDCl9S"
@@ -7942,7 +8212,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 225139,
       "name": "The Curb",
       "url": "https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2"
@@ -8457,6 +8727,24 @@
     },
     {
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/4rlS0DAXAfNrNlFtPMySMD"
+      },
+      "artists": [
+        {
+          "name": "Sandhouse",
+          "url": "https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163313,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/2Z6QeHgOk17KRXsODxiGuP"
+    },
+    {
+      "album": {
         "name": "Universal Credit",
         "url": "https://open.spotify.com/album/5GBhIOSB3AQRXWfjkNJcXa"
       },
@@ -8889,6 +9177,24 @@
     },
     {
       "album": {
+        "name": "When",
+        "url": "https://open.spotify.com/album/4yQY9EUSaMyrCWL2MqN45p"
+      },
+      "artists": [
+        {
+          "name": "Slow Fiction",
+          "url": "https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "When",
+      "url": "https://open.spotify.com/track/1noZLKaVUYHiyhl6bhh4j7"
+    },
+    {
+      "album": {
         "name": "When Does It Feel Like Love?",
         "url": "https://open.spotify.com/album/1uvWBx1EUy3NewnlfRzQkr"
       },
@@ -9008,7 +9314,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 221591,
       "name": "white knuckles",
       "url": "https://open.spotify.com/track/5cIGVczqgwq9JKB2MfgyUU"
@@ -9123,6 +9429,24 @@
     },
     {
       "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/1deFQIGd2Xb6Egh1HQMF12"
+      },
+      "artists": [
+        {
+          "name": "Love As Always",
+          "url": "https://open.spotify.com/artist/5W2qYw2mJRmrahG94eSZVp"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208852,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/378dKSlV7JgBnmUmgWDVk7"
+    },
+    {
+      "album": {
         "name": "Wolves & Madmen",
         "url": "https://open.spotify.com/album/1dtCfgJyJ19dhYWVhh0V1c"
       },
@@ -9156,6 +9480,24 @@
       "duration_ms": 257000,
       "name": "Wonderview Avenue",
       "url": "https://open.spotify.com/track/4gatVa46M1UTnwTdKaqJRu"
+    },
+    {
+      "album": {
+        "name": "Shale",
+        "url": "https://open.spotify.com/album/47M6KuoGryxDEzhcIcUqDS"
+      },
+      "artists": [
+        {
+          "name": "Shale",
+          "url": "https://open.spotify.com/artist/0xHF1WsfkOmGD1ajOfbj60"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223141,
+      "name": "Work Dog",
+      "url": "https://open.spotify.com/track/6tVvqY42bOTAdNPptQJzHJ"
     },
     {
       "album": {

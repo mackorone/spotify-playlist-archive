@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 23725,
+  "num_followers": 23733,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAADIsaLErfii5Cac6us5tjwq",
+  "snapshot_id": "Z/r+gAAAAACg4Hb651w30bpGlbIcUM6R",
   "tracks": [
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
+        "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 372800,
+      "name": "Tempo de Cura",
+      "url": "https://open.spotify.com/track/5gjX2f8PACqq8dqUXwOdMI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Orar e Adorar 4 - 24h por Dia",
         "url": "https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA"
       },
@@ -807,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
-        "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
       },
       "artists": [
         {
@@ -816,9 +832,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 372800,
-      "name": "Tempo de Cura",
-      "url": "https://open.spotify.com/track/5gjX2f8PACqq8dqUXwOdMI"
+      "duration_ms": 421866,
+      "name": "Toma Teu Trono",
+      "url": "https://open.spotify.com/track/0EYhxEagvkr3yasS5goZSQ"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 326550,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 421866,
-      "name": "Toma Teu Trono",
-      "url": "https://open.spotify.com/track/0EYhxEagvkr3yasS5goZSQ"
     },
     {
       "added_at": null,

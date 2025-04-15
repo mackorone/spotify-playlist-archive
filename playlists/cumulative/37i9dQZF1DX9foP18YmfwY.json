@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 231219,
       "name": "Bom \u00c9 Estarmos Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/6lc2KWi6u3cXMMjMVlBuO6"
@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
+        "url": "https://open.spotify.com/album/1lQY6Gs9eK42Emoqf27JK6"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349500,
+      "name": "Me V\u00ea Como Ningu\u00e9m Me V\u00ea",
+      "url": "https://open.spotify.com/track/1qXR4bBNp3tg4yTWhfXb3D"
+    },
+    {
+      "album": {
         "name": "Top 10 Celina Borges",
         "url": "https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp"
       },
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 290125,
       "name": "Oceano de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
@@ -4274,6 +4292,28 @@
       "duration_ms": 287562,
       "name": "Yeshua (feat. Eliana Ribeiro)",
       "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
+    },
+    {
+      "album": {
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/1RgF5MTXDQaKDLkfJHiMfZ"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288384,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/4xBOvhQnJXr9pLmkX9Otp5"
     },
     {
       "album": {

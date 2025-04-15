@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,451 likes - 112 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,471 likes - 112 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fortare](https://open.spotify.com/track/0LYN3OvXOZ7rTUOWKj72Pc) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Where Strippers Go To Die](https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf) | 2:59 |
-| 2 | [Bara vi, bara jag, bara du](https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bara vi, bara jag, bara du](https://open.spotify.com/album/21zpZFBvL9oiNdXMSVQEyN) | 2:25 |
+| 1 | [Bara vi, bara jag, bara du](https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bara vi, bara jag, bara du](https://open.spotify.com/album/21zpZFBvL9oiNdXMSVQEyN) | 2:25 |
+| 2 | [Fortare](https://open.spotify.com/track/0LYN3OvXOZ7rTUOWKj72Pc) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Where Strippers Go To Die](https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf) | 2:59 |
 | 3 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 4 | [Love](https://open.spotify.com/track/0QJwHsJO0RXWj0D3bJ9kpm) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Love](https://open.spotify.com/album/1K9qmgDs1Wqq2YNyWEVjRY) | 2:31 |
 | 5 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 |
 | 6 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
-| 7 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
-| 8 | [Jag Är](https://open.spotify.com/track/4sAUGUun3R9KZYQlZ6YCBj) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Jag Är](https://open.spotify.com/album/1dWqLkECIKnh0LiL1rV9vq) | 3:13 |
-| 9 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 |
-| 10 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 |
-| 11 | [Aldrig gå](https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Aldrig gå](https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d) | 3:07 |
-| 12 | [Vera](https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Där natten möter dagen](https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ) | 3:40 |
-| 13 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 |
-| 14 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
+| 7 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
+| 8 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
+| 9 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 |
+| 10 | [Jag Är](https://open.spotify.com/track/4sAUGUun3R9KZYQlZ6YCBj) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Jag Är](https://open.spotify.com/album/1dWqLkECIKnh0LiL1rV9vq) | 3:13 |
+| 11 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 |
+| 12 | [Aldrig gå](https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Aldrig gå](https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d) | 3:07 |
+| 13 | [Vera](https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Där natten möter dagen](https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ) | 3:40 |
+| 14 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 |
 | 15 | [Devil May Care](https://open.spotify.com/track/5F8rpUjmPinFhheVKrFbON) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Devil May Care](https://open.spotify.com/album/0LAZdOugjI7P0pAV7HtYaU) | 3:03 |
 | 16 | [Zensemester](https://open.spotify.com/track/7t3R0ya9eGhuQxqqwPsSHm) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Zensemester](https://open.spotify.com/album/0ycaQWO0x34HPPtIWpfbPk) | 3:40 |
 | 17 | [Räddare i nöden](https://open.spotify.com/track/3QR9CKSgMGMq27gnSl5pft) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Räddare i nöden](https://open.spotify.com/album/4yY4PIqnPv3UYRvIaJU0X7) | 4:01 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 111 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 |
 | 112 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
 
-Snapshot ID: `Z/g/bgAAAABwSLGovgkwdhfhT/Aa/i4Z`
+Snapshot ID: `Z/za8AAAAAD8qr+SSGjGGAPlnqjfvZb5`

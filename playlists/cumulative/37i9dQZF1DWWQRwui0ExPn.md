@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,305 songs - 11 day 12 hr 40 min
+7,306 songs - 11 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,7 +695,7 @@
 | [bitcoin is like meh](https://open.spotify.com/track/736t7rPnY9jSm7OUSHanl1) | [citi](https://open.spotify.com/artist/7oUs8NGSwzZNnf7aZ4Nrvq) | [fan 5](https://open.spotify.com/album/68dv8lhZWhtbOFrgm4Jk5j) | 2:02 | 2022-09-02 | 2022-12-03 |
 | [Bitter Sea](https://open.spotify.com/track/1i0a3kPuCiCeIA2EHN6s8Y) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Bitter Sea](https://open.spotify.com/album/2KLXdX9AoWq0g0HExG5Wdk) | 2:30 | 2022-05-27 | 2022-09-23 |
 | [Bitterlemon](https://open.spotify.com/track/5VjHKqdeoJ6DGISivEOuGZ) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Bitterlemon](https://open.spotify.com/album/2YD6ShnDCmonWcaEWbgye1) | 1:38 | 2022-01-14 | 2022-07-08 |
-| [BITTERSWEET](https://open.spotify.com/track/0xunInNNapbevuAlbhS0pT) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [BITTERSWEET](https://open.spotify.com/album/7gdKbnH3m4oCwr7WfqA3Ro) | 2:03 | 2024-01-12 |  |
+| [BITTERSWEET](https://open.spotify.com/track/0xunInNNapbevuAlbhS0pT) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [BITTERSWEET](https://open.spotify.com/album/7gdKbnH3m4oCwr7WfqA3Ro) | 2:03 | 2024-01-12 | 2025-04-15 |
 | [Bittersweet](https://open.spotify.com/track/6QpCprfkDICS3zcONi1NFD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Painted Skies](https://open.spotify.com/album/1fmbmKYCy6gXHoCZPnqSJb) | 2:08 | 2023-01-06 | 2023-02-14 |
 | [Bittersweet](https://open.spotify.com/track/4DwW1HW7iEK7DtUDiSte3X) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90), [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Bittersweet](https://open.spotify.com/album/1ei9Kv8hCrpTcnz3JscN4l) | 3:02 | 2022-09-30 | 2023-01-13 |
 | [Bittersweet Memories](https://open.spotify.com/track/6JvPLRyFyc5fnvaHnjVhIZ) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL) | [Bittersweet Memories](https://open.spotify.com/album/3Sy32uYspLRkdbQwlA3D0q) | 2:15 | 2022-04-15 | 2022-09-09 |
@@ -1710,7 +1710,7 @@
 | [Double Scoop](https://open.spotify.com/track/2kfuSaLpF8f7JHDgrO73YG) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Double Scoop](https://open.spotify.com/album/2NlLnpQv3caQArs3iXLJL0) | 2:40 | 2023-09-29 | 2023-12-15 |
 | [Dove](https://open.spotify.com/track/4UvT6Zdl9bQx6hwMA9oLLe) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Dove](https://open.spotify.com/album/2k7TW8AIKYGz6PiR497dEE) | 2:26 | 2024-12-20 | 2025-02-07 |
 | [Dove](https://open.spotify.com/track/1fwUMTDD8Xsf5JlDtr3xlN) | [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU), [berj](https://open.spotify.com/artist/7xR93JftiLRnLgZfKwD4Oi) | [Dove](https://open.spotify.com/album/1OYBlHR9P8DVNdMiAfMeNw) | 2:30 | 2022-05-27 | 2022-09-23 |
-| [down](https://open.spotify.com/track/27RAHiM4eikE8Sdt8Opzgn) | [lost in calabasas](https://open.spotify.com/artist/3GF2XFVjpHIE64oLGHx2Tx) | [down](https://open.spotify.com/album/2TMRNKQ7NAkvGbBKZyDe6p) | 2:01 | 2024-01-19 | 2025-03-29 |
+| [down](https://open.spotify.com/track/27RAHiM4eikE8Sdt8Opzgn) | [lost in calabasas](https://open.spotify.com/artist/3GF2XFVjpHIE64oLGHx2Tx) | [down](https://open.spotify.com/album/2TMRNKQ7NAkvGbBKZyDe6p) | 2:01 | 2024-01-19 |  |
 | [Down by the River](https://open.spotify.com/track/7A7LsOfLIvvhRq0okcY8P5) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Inside Yourself](https://open.spotify.com/album/5blmviT255GIiUc5q6AwWs) | 1:49 | 2022-12-09 | 2024-01-12 |
 | [Down Low](https://open.spotify.com/track/2gk9WoFm0fbQxEWO6Btm5J) | [typographicc](https://open.spotify.com/artist/33yCrt6g1gckis4sCmxfzC) | [Down Low](https://open.spotify.com/album/7aHttJeGMlG3mgontkrnNP) | 2:16 | 2021-07-11 | 2022-03-12 |
 | [Down the steps](https://open.spotify.com/track/6ARwI2sn7fNnVIZBoxMdrW) | [Sleepy Titan](https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL) | [Down the steps](https://open.spotify.com/album/32o9p0VbwmuJ0p4yhhdurk) | 2:24 | 2024-03-01 |  |
@@ -3925,7 +3925,7 @@
 | [Medicinal Sushi](https://open.spotify.com/track/3mbwQJDnCQxyclWLlj47FG) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Medicinal Sushi](https://open.spotify.com/album/46UGUGL6oz0XVuSN6SkMcs) | 2:24 | 2020-04-03 | 2021-09-04 |
 | [Mediocre](https://open.spotify.com/track/1Wme1G8qaZ8tylNR7ny0T1) | [AFONE](https://open.spotify.com/artist/7lGJafb4Rw0qXKNmIqRpB4) | [Mediocre](https://open.spotify.com/album/0AdQ9lkpeV59cCGHG9lBkK) | 3:32 | 2021-10-02 | 2022-04-15 |
 | [meditate minds](https://open.spotify.com/track/5Y4nAJYenoA15vWtRJllMP) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Meditate minds](https://open.spotify.com/album/0VdZe0UBgagpg11nuneoHK) | 2:17 | 2019-12-22 | 2021-01-21 |
-| [Meditation](https://open.spotify.com/track/5rOfiupihqwPKK0Abikxqi) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Meditation](https://open.spotify.com/album/7rojaIxCtL8NdCPA5a8Duw) | 2:49 | 2024-09-27 |  |
+| [Meditation](https://open.spotify.com/track/5rOfiupihqwPKK0Abikxqi) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Meditation](https://open.spotify.com/album/7rojaIxCtL8NdCPA5a8Duw) | 2:49 | 2024-09-27 | 2025-04-15 |
 | [Meditation](https://open.spotify.com/track/7MnDyrWn3Dj9qpcDM3QTdO) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Meditation](https://open.spotify.com/album/0NqsqLK6jSuRo8GuhrlwiT) | 1:22 | 2022-12-09 | 2023-06-08 |
 | [Medusa's Beach House](https://open.spotify.com/track/1vePVCMe8gl1aigWVeAGTo) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Medusa's Beach House](https://open.spotify.com/album/4TbNtP4sfwFVK14mnvCC1Z) | 2:55 | 2023-03-16 | 2023-05-19 |
 | [Meep Meep](https://open.spotify.com/track/1knmSUh7gYWMl6Cl43gsVR) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [Meep Meep](https://open.spotify.com/album/7HLeV7cZuigC6gISGpSjGV) | 1:38 | 2022-10-28 | 2023-01-20 |
@@ -7148,6 +7148,7 @@
 | [Winter rain](https://open.spotify.com/track/4S2QNrT4UyeCZK9dyBpFnp) | [PRODA](https://open.spotify.com/artist/2wKsHaG2GNyzDYW3nhDlJZ) | [Winter rain](https://open.spotify.com/album/2iWEmXEyT7CSQ3sFMW3GDZ) | 2:13 | 2023-01-06 | 2024-05-25 |
 | [Winter Stories](https://open.spotify.com/track/6jwzGn9qLJn8dPkat001na) | [Morakle](https://open.spotify.com/artist/61y6w6H60Xm87eRHuGAhyj) | [Winter Stories](https://open.spotify.com/album/2PSo3vYPAO5J78p56LsGb5) | 1:41 | 2024-01-26 | 2024-11-15 |
 | [Winter Wonderland](https://open.spotify.com/track/7GvkwVWW90W8vvUIgj54vt) | [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [Winter Wonderland](https://open.spotify.com/album/0QTZHBEsjse6oTZlOxbrJn) | 1:52 | 2021-12-17 | 2021-12-27 |
+| [winterblossom](https://open.spotify.com/track/57lrPlDmonXOO8JMip8NG8) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [winterblossom](https://open.spotify.com/album/4cbJwIjbpltVznF2el1VTV) | 2:32 | 2025-04-11 |  |
 | [wintertale](https://open.spotify.com/track/6Oaa0s5yzNB8LMGGM7dJDL) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [wintertale](https://open.spotify.com/album/741s6yQUkm8BSIbhOY2ABs) | 1:24 | 2022-12-23 | 2023-08-11 |
 | [Winter’s Butterfly](https://open.spotify.com/track/7KnEwMYwJIkW2PU8wqkEGG) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Winter’s Butterfly](https://open.spotify.com/album/052vacW1ZsS24rfrqDNqPO) | 2:21 | 2022-12-09 | 2023-01-20 |
 | [Wisdom](https://open.spotify.com/track/4hPG9tMp7mG6W0nsZlHx0k) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Wisdom](https://open.spotify.com/album/7b22wYhBosveim1S2iGCXZ) | 2:10 | 2024-07-05 | 2025-03-18 |

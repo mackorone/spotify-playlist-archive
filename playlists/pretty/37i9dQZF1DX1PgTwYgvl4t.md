@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=oRTyS4OKTBCTyzA6uPpEIg>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,787 likes - 100 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,926 likes - 100 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 88 | [Mofaramo](https://open.spotify.com/track/5c7vnReasBzgUKKsp44mKZ) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Mofaramo](https://open.spotify.com/album/3bETF6am5mHOCAMEOYBqNl) | 3:38 |
 | 89 | [Before Your Throne \- Live](https://open.spotify.com/track/27LcHHruNMuHCN6Fc9L6U4) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Before Your Throne \(Live\)](https://open.spotify.com/album/4u2vnwlPnxYKdIpAn3b7wo) | 12:45 |
 | 90 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 |
-| 91 | [The Invitation \- Grace's Version](https://open.spotify.com/track/7cu8qfP88qhpBxQ2ZvMB8f) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [The Invitation \(Revisited\)](https://open.spotify.com/album/46dd3h3Fl0DBqXKtLsCARC) | 8:46 |
+| 91 | [The Invitation \- Grace's Version](https://open.spotify.com/track/7cu8qfP88qhpBxQ2ZvMB8f) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [The Invitation](https://open.spotify.com/album/46dd3h3Fl0DBqXKtLsCARC) | 8:46 |
 | 92 | [Alpha And Omega \(feat\. Labisi\)](https://open.spotify.com/track/2Jnd6Dh738gaUcRzSAbzNu) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Lifted](https://open.spotify.com/album/4hB1B4x6hL6c9cwGA54LJe) | 3:22 |
 | 93 | [You Are the Reason](https://open.spotify.com/track/1c0ALi1HY9oAkWpVrG1UJe) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Limits](https://open.spotify.com/album/0B2Dh7ZBqo6mvDMKNjq0FL) | 6:21 |
 | 94 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 |

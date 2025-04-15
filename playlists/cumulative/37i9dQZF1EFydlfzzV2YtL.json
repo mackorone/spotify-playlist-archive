@@ -1387,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "Infinite Icon",
+        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193280,
+      "name": "If the Earth is Spinning (feat. Sia)",
+      "url": "https://open.spotify.com/track/24SJ5ugsrMU20yLjZIsxlI"
+    },
+    {
+      "album": {
         "name": "Words on Bathroom Walls (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0sEhMYq3QFy3ShBGzUO2wu"
       },

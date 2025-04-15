@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,800 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,804 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 72 | [トレフル・ド・ノエル](https://open.spotify.com/track/4fucPRyOOv2aA6G44JWy2Y) | [Makoto Kikuchi \(CV: Hiromi Hirata\)](https://open.spotify.com/artist/0BFGQalWMJTIDXhAeqcCYv), [二階堂千鶴 \(CV.野村香菜子\)](https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe), [島原エレナ \(CV.角元明日香\)](https://open.spotify.com/artist/5qK6C6COeVNyWWCiaBBJ12), [真壁瑞希 \(CV.阿部里果\)](https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv) | 4:27 |
 | 73 | [秘密のメモリーズ](https://open.spotify.com/track/30mTHdJlzkjL9L17Fx0lEy) | [Takane Shijou \(CV: Yumi Hara\)](https://open.spotify.com/artist/0jByAMysntS3sv6vTCXNJl), [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz) | [THE IDOLM@STER LIVE THE@TER DREAMERS 05](https://open.spotify.com/album/1K4K7FKVGIAH1Bo2DD2mdr) | 4:38 |
 | 74 | [ハッピー ラッキー ジェットマシーン](https://open.spotify.com/track/4NdgJgaPYF2Vzz9upH1XzV) | [横山奈緒 \(CV.渡部優衣\)](https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 03](https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6) | 3:31 |
-| 75 | [Melty Fantasia](https://open.spotify.com/track/1bxWvoS6ILmvh0BWZ8atgV) | [真壁瑞希 \(CV.阿部里果\)](https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg), [白石 紬 \(CV.南 早紀\)](https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI), [北沢志保 \(CV.雨宮 天\)](https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0) | [THE IDOLM@STER MILLION THE@TER GENERATION 08 EScape](https://open.spotify.com/album/6Gy0t8MgPIC4GMZcYX3hIa) | 4:23 |
+| 75 | [PRETTY DREAMER](https://open.spotify.com/track/4QKS4SZo1brO5rAtHQs8YX) | [我那覇 響 \(CV.沼倉愛美\)](https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU), [春日未来 \(CV.山崎はるか\)](https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv), [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz), [望月杏奈 \(CV.夏川椎菜\)](https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs), [横山奈緒 \(CV.渡部優衣\)](https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 03](https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6) | 4:36 |
 
 Snapshot ID: `Z+QwIQAAAADZSAR+pxHD2DVS6JHKwBCc`

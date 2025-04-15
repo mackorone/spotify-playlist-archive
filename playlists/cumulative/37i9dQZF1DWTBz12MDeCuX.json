@@ -6767,6 +6767,24 @@
     },
     {
       "album": {
+        "name": "Blitzlicht",
+        "url": "https://open.spotify.com/album/6Qr8nZlaplmhruQkcGP56o"
+      },
+      "artists": [
+        {
+          "name": "Fanny",
+          "url": "https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128640,
+      "name": "Blitzlicht",
+      "url": "https://open.spotify.com/track/3RYjAvNZ48OuWR0SaH83SB"
+    },
+    {
+      "album": {
         "name": "Block In Der Brust",
         "url": "https://open.spotify.com/album/1xCqi0g3kNJFW3y6pyBzgs"
       },
@@ -27784,7 +27802,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu"
@@ -41558,7 +41576,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 137923,
       "name": "southbound",
       "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"

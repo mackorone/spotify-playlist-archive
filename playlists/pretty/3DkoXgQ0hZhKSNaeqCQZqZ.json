@@ -1,13 +1,29 @@
 {
   "description": "All songs made for furs, by furs.  Request @ spotify.furrest.net",
-  "num_followers": 554,
+  "num_followers": 553,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADdZ81mS/TGvMtGHelG/JpXbtLd9U3",
+  "snapshot_id": "AAADef9eJSHA5yU2I0M/1xRgDHy5xDYh",
   "tracks": [
+    {
+      "added_at": "2025-04-14 15:57:34",
+      "album": {
+        "name": "RAVEPOP",
+        "url": "https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "b-b-BASS DOWN LOW",
+      "url": "https://open.spotify.com/track/4i9kCaqvah5JzOLoNeA2Br"
+    },
     {
       "added_at": "2025-04-12 07:35:53",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 175000,
       "name": "iPop",
       "url": "https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC"
+    },
+    {
+      "added_at": "2025-04-14 15:58:12",
+      "album": {
+        "name": "The Flower",
+        "url": "https://open.spotify.com/album/5xkLgn7UBRDbmGsxoU77hj"
+      },
+      "artists": [
+        {
+          "name": "Siv Kyne",
+          "url": "https://open.spotify.com/artist/4VFrZg2IkVBK66DEnA8CK4"
+        },
+        {
+          "name": "Melodinumbra",
+          "url": "https://open.spotify.com/artist/2o5GlEfiErzi5R8dzihueQ"
+        }
+      ],
+      "duration_ms": 86117,
+      "name": "The Flower",
+      "url": "https://open.spotify.com/track/2gRC0oHnH8t5l6qlgmpttT"
     },
     {
       "added_at": "2025-04-08 05:43:59",

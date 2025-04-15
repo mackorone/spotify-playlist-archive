@@ -1,12 +1,12 @@
 {
   "description": "This is Tokyo Ska Paradise Orchestra. The essential tracks, all in one playlist.",
-  "num_followers": 37673,
+  "num_followers": 37682,
   "original_name": "This Is Tokyo Ska Paradise Orchestra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAADqVM0Dotnvb35esXn91HOf",
+  "snapshot_id": "Z/r+gAAAAABWbishmgA6g4hoXr1aw84u",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOKYO SKA TREASURES\u301c\u30d9\u30b9\u30c8\u30fb\u30aa\u30d6\u30fb\u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u301c",
-        "url": "https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
-        }
-      ],
-      "duration_ms": 268355,
-      "name": "Good Morning\u301c\u30d6\u30eb\u30fc\u30fb\u30c7\u30a4\u30b8\u30fc - feat.aiko",
-      "url": "https://open.spotify.com/track/1aDAbunCg2yNlCTG4dZcrS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
         "url": "https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 204373,
       "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
       "url": "https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOKYO SKA TREASURES\u301c\u30d9\u30b9\u30c8\u30fb\u30aa\u30d6\u30fb\u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u301c",
+        "url": "https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "duration_ms": 268355,
+      "name": "Good Morning\u301c\u30d6\u30eb\u30fc\u30fb\u30c7\u30a4\u30b8\u30fc - feat.aiko",
+      "url": "https://open.spotify.com/track/1aDAbunCg2yNlCTG4dZcrS"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST OF TOKYO SKA 1998-2007",
-        "url": "https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "\u661f\u964d\u308b\u591c\u306b",
-      "url": "https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6563\u308a\u3086\u304f\u82b1\u306e\u305b\u3044\u3067",
         "url": "https://open.spotify.com/album/5rYnsyLY11mDwQVJVwxu5u"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEST OF TOKYO SKA 1998-2007",
+        "url": "https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "\u661f\u964d\u308b\u591c\u306b",
+      "url": "https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WORLD SKA SYMPHONY",
         "url": "https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 273280,
       "name": "\u6d41\u661f\u3068\u30d0\u30e9\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last\u301cLive\u301c",
-        "url": "https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "\u30eb\u30d1\u30f3\u4e09\u4e16\u306e\u30c6\u30fc\u30de'78",
-      "url": "https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last\u301cLive\u301c",
+        "url": "https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "\u30eb\u30d1\u30f3\u4e09\u4e16\u306e\u30c6\u30fc\u30de'78",
+      "url": "https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BEST OF TOKYO SKA 1998-2007",
         "url": "https://open.spotify.com/album/6fHwXjGZqaA4HW5yigfuEq"
       },
@@ -583,26 +583,6 @@
       "duration_ms": 171106,
       "name": "\u30eb\u30d1\u30f3\u4e09\u4e16'78",
       "url": "https://open.spotify.com/track/3GUQ1HfyTPQ9mSP8ya95Ee"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b0\u30e9\u30f3\u30d7\u30ea",
-        "url": "https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Ozawa Kenji",
-          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
-      "url": "https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR"
     },
     {
       "added_at": null,
@@ -627,8 +607,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
-        "url": "https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ"
+        "name": "\u30b0\u30e9\u30f3\u30d7\u30ea",
+        "url": "https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Ozawa Kenji",
+          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
+      "url": "https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
+        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 250366,
-      "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
-      "url": "https://open.spotify.com/track/2G58KvDX7VmM7069VlHWdR"
+      "duration_ms": 303466,
+      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
+      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
-        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
+        "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
+        "url": "https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 303466,
-      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
-      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
+      "duration_ms": 250366,
+      "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
+      "url": "https://open.spotify.com/track/2G58KvDX7VmM7069VlHWdR"
     },
     {
       "added_at": null,
@@ -695,38 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
-        "url": "https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "\u5feb\u54c9\u3092\u53eb\u3076\u3068\u304d",
-      "url": "https://open.spotify.com/track/3Grbp1AzBvGAZt8meIoJ4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WILD PEACE",
-        "url": "https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "\u30b4\u30c3\u30c9\u30d5\u30a1\u30fc\u30b6\u30fc\u611b\u306e\u30c6\u30fc\u30de",
-      "url": "https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S.O.S. [Share One Sorrow] (feat.Tokyo Tanaka & Jean-Ken Johnny)",
         "url": "https://open.spotify.com/album/0dCx3huClCtbq4KZvi4SRr"
       },
@@ -747,6 +715,38 @@
       "duration_ms": 242791,
       "name": "S.O.S. [Share One Sorrow] - feat.Tokyo Tanaka & Jean-Ken Johnny",
       "url": "https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WILD PEACE",
+        "url": "https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "\u30b4\u30c3\u30c9\u30d5\u30a1\u30fc\u30b6\u30fc\u611b\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
+        "url": "https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "\u5feb\u54c9\u3092\u53eb\u3076\u3068\u304d",
+      "url": "https://open.spotify.com/track/3Grbp1AzBvGAZt8meIoJ4Z"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b9\u30ab\u30d1\u30e9\u767b\u5834",
-        "url": "https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 131893,
-      "name": "\u541b\u3068\u50d5",
-      "url": "https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba & \u9577\u6ff1\u306d\u308b & \u6771\u4eac\u90fd\u7acb\u7247\u5009\u9ad8\u7b49\u5b66\u6821\u5439\u594f\u697d\u90e8)",
         "url": "https://open.spotify.com/album/3Wjb7fLV5CEZWjG9odwkCB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 264379,
       "name": "\u30c4\u30d0\u30e1 - feat. \u30df\u30c9\u30ea\u30fc\u30ba & \u9577\u6ff1\u306d\u308b & \u6771\u4eac\u90fd\u7acb\u7247\u5009\u9ad8\u7b49\u5b66\u6821\u5439\u594f\u697d\u90e8",
       "url": "https://open.spotify.com/track/7JbneHNJCvLcBDkcXbddMK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b9\u30ab\u30d1\u30e9\u767b\u5834",
+        "url": "https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 131893,
+      "name": "\u541b\u3068\u50d5",
+      "url": "https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-483 songs - 1 day 16 hr 25 min
+484 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [All Things Burn](https://open.spotify.com/track/1RC35S8rOlc4cMAhC8IOVQ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 5:41 | 2021-12-26 | 2023-06-28 |
 | [All Things Burn](https://open.spotify.com/track/2NVRwrkHjiwfB1EIDLH3p7) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:41 | 2023-07-13 | 2023-08-12 |
 | [Alyosha Lying](https://open.spotify.com/track/2Xm1NUw2buXWoNvzKz7Wai) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Alyosha Lying](https://open.spotify.com/album/7f2iPwLQp0qiCdiZy986Fh) | 2:59 | 2023-11-24 | 2025-04-12 |
-| [AMB001](https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [AMB001\-008](https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv) | 6:03 | 2025-01-17 |  |
+| [AMB001](https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [AMB001\-008](https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv) | 6:03 | 2025-01-17 | 2025-04-15 |
 | [Amos](https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk) | [Daniel Imhof](https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS) | [Amos](https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG) | 8:03 | 2023-04-07 | 2025-01-14 |
 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 | 2022-03-04 | 2025-03-31 |
 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 | 2022-03-25 | 2025-03-08 |
@@ -152,6 +152,7 @@
 | [Dogtooth](https://open.spotify.com/track/0uTTMTQdkZjmacsiSMQ71s) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Dogtooth](https://open.spotify.com/album/1VqyDNavZFGg51K7hgpQHf) | 2:00 | 2023-09-22 | 2023-11-25 |
 | [Dogtooth](https://open.spotify.com/track/5ShV0OkZyUdKI2c3giDipi) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [KEYS & LOCKS](https://open.spotify.com/album/3XTRz14kTisUNAsgkRFqQE) | 2:00 | 2023-12-01 | 2024-04-19 |
 | [Don't Worry \- Child Mix](https://open.spotify.com/track/0j9Waqd2mmYCStV7YiLgxQ) | [DJ Lostboi](https://open.spotify.com/artist/4hM2xGRI8JsgyLX9OBfeli) | [The Flash](https://open.spotify.com/album/6ZMQKff7TtJQraOaXwVI9h) | 5:37 | 2021-12-26 | 2023-08-12 |
+| [Dragon Bridge](https://open.spotify.com/track/0wWCZ69qJ5sY2Cc5X9xNOi) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Dragon Bridge](https://open.spotify.com/album/5ULcrCdfbtnV8XPeW2TpYX) | 3:45 | 2025-04-11 |  |
 | [Dream World](https://open.spotify.com/track/4HwvMpiBQtLdmPDEskAp2P) | [Mayk'l](https://open.spotify.com/artist/3zIB464sWOBFwqHeppzfkt) | [Ambitsound](https://open.spotify.com/album/7nXqROD0bpRtgbeewrfj8D) | 3:07 | 2022-03-04 | 2022-07-29 |
 | [Dreamers \(Part I\)](https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx) | [Interstellar Funk](https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf) | [Into The Echo](https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f) | 7:01 | 2022-04-01 | 2025-01-10 |
 | [Drive West On Sunset \- Ambient](https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Being There \(Ambient\)](https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR) | 5:03 | 2023-03-10 | 2023-12-20 |

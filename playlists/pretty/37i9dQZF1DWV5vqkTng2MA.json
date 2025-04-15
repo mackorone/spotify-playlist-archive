@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 421523,
+  "num_followers": 421580,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -711,38 +711,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "How Do You Get By",
-        "url": "https://open.spotify.com/album/698NNT71NehpuCIDRFXWic"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Murr",
-          "url": "https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG"
-        }
-      ],
-      "duration_ms": 250614,
-      "name": "How Do You Get By",
-      "url": "https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Will I Ever Know",
-      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "Cold Times",
         "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
       },
@@ -775,18 +743,34 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+      "duration_ms": 219880,
+      "name": "Will I Ever Know",
+      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "How Do You Get By",
+        "url": "https://open.spotify.com/album/698NNT71NehpuCIDRFXWic"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Murr",
+          "url": "https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG"
+        }
+      ],
+      "duration_ms": 250614,
+      "name": "How Do You Get By",
+      "url": "https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -803,6 +787,22 @@
       "duration_ms": 231506,
       "name": "For Your Consideration",
       "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "Electric Fever",
-        "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
-      },
-      "artists": [
-        {
-          "name": "Them Vibes",
-          "url": "https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664"
-        }
-      ],
-      "duration_ms": 227567,
-      "name": "Electric Fever",
-      "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "Hard Working Americans",
         "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 288693,
       "name": "Stomp and Holler",
       "url": "https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "Electric Fever",
+        "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
+      },
+      "artists": [
+        {
+          "name": "Them Vibes",
+          "url": "https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664"
+        }
+      ],
+      "duration_ms": 227567,
+      "name": "Electric Fever",
+      "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "Rolling Over Me",
-        "url": "https://open.spotify.com/album/63oxuPBkp987wX1y353urb"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "Rolling Over Me",
-      "url": "https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "Oporto-Madrid Blvd",
         "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "Rolling Over Me",
+        "url": "https://open.spotify.com/album/63oxuPBkp987wX1y353urb"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Rolling Over Me",
+      "url": "https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "Washashore Cowgirl",
-        "url": "https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP"
-      },
-      "artists": [
-        {
-          "name": "Monica Rizzio",
-          "url": "https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3"
-        }
-      ],
-      "duration_ms": 185033,
-      "name": "Washashore Cowgirl",
-      "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "Blind Ambition",
         "url": "https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 231729,
       "name": "Blind Ambition",
       "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "Washashore Cowgirl",
+        "url": "https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP"
+      },
+      "artists": [
+        {
+          "name": "Monica Rizzio",
+          "url": "https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "Washashore Cowgirl",
+      "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"
     },
     {
       "added_at": "2025-03-19 18:26:36",

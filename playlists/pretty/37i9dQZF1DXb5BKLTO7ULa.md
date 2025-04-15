@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van: Anouk, Bon Iver, Jack en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,963 likes - 93 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,964 likes - 93 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 66 | [6feet Under](https://open.spotify.com/track/7zi57nedtmmqK7WIsVjR6M) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Keep Applying Pressure!](https://open.spotify.com/album/1ubT6HTxSfKy1ddr6QvKPW) | 2:48 |
 | 67 | [ireallylikeboys](https://open.spotify.com/track/2tIBSnICLrCZLLqEpaL5X2) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [ireallylikeboys](https://open.spotify.com/album/6Tt6CMuQfrZ77xiZ692yqQ) | 2:29 |
 | 68 | ['s Avonds](https://open.spotify.com/track/7x1g0FzxUy4ca0NQE6ufl3) | [PRISKA](https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w) | ['s Avonds](https://open.spotify.com/album/5sP1fZrdIBXxXeU0daeAko) | 2:52 |
-| 69 | [Feelings](https://open.spotify.com/track/5jB0Q9ZPsfyrT0oSAt04Ug) | [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Feelings](https://open.spotify.com/album/55s6eEr4iqNuZWfwAcrQzN) | 2:49 |
+| 69 | [Feelings](https://open.spotify.com/track/5jB0Q9ZPsfyrT0oSAt04Ug) | [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Feelings](https://open.spotify.com/album/55s6eEr4iqNuZWfwAcrQzN) | 2:49 |
 | 70 | [Got It From My Momma](https://open.spotify.com/track/2VpVYYHEIUS8mfrmhI0pAB) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Got It From My Momma](https://open.spotify.com/album/3MM0YL5O4zU2i1LsZCLTeR) | 2:11 |
 | 71 | [Hopeless on the dance floor](https://open.spotify.com/track/0s4skSYr7Dc0wlpysQHZoB) | [Westheaven](https://open.spotify.com/artist/6DL4MG7n0el4T6yCY2ARDo), [JAÏNDA](https://open.spotify.com/artist/66o7kKRzYuVjtmQo4acAkR) | [Hopeless on the dance floor](https://open.spotify.com/album/0MPPBe94Gd6FgB4JgVXTXW) | 3:24 |
 | 72 | [Spooky](https://open.spotify.com/track/15NBU7EHReQ6ANZBcMpljn) | [Dreamteam](https://open.spotify.com/artist/6ZnwZN3qKP8co3zW6O2gX3), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM) | [Spooky](https://open.spotify.com/album/0AYtPAQMmMKZHmDS9iErIl) | 2:34 |

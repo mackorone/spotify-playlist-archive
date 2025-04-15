@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 989766,
+  "num_followers": 989932,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,26 @@
     {
       "added_at": "2025-04-11 05:00:39",
       "album": {
+        "name": "In the Moment (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/4f7J80jlBhnA3TSWdjc5KF"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 250577,
+      "name": "In the Moment - Adriatique Remix",
+      "url": "https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y"
+    },
+    {
+      "added_at": "2025-04-11 05:00:39",
+      "album": {
         "name": "Last Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
-    },
-    {
-      "added_at": "2025-04-11 05:00:39",
-      "album": {
-        "name": "In the Moment (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/4f7J80jlBhnA3TSWdjc5KF"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 250577,
-      "name": "In the Moment - Adriatique Remix",
-      "url": "https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y"
     },
     {
       "added_at": "2025-04-11 05:00:39",
@@ -919,38 +919,22 @@
     {
       "added_at": "2025-04-11 05:00:39",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "Volen Sentir",
-          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
         }
       ],
-      "duration_ms": 244517,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
-    },
-    {
-      "added_at": "2025-04-11 05:00:39",
-      "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+      "duration_ms": 369798,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
     },
     {
       "added_at": "2025-04-11 05:00:39",
@@ -971,18 +955,62 @@
     {
       "added_at": "2025-04-11 05:00:39",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+    },
+    {
+      "added_at": "2025-04-11 05:00:39",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+        }
+      ],
+      "duration_ms": 244517,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
+    },
+    {
+      "added_at": "2025-04-11 05:00:39",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
       },
       "artists": [
         {
           "name": "Miss Monique",
           "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
         }
       ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+      "duration_ms": 261290,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
     },
     {
       "added_at": "2025-04-11 05:00:39",
@@ -1083,26 +1111,18 @@
     {
       "added_at": "2025-04-11 05:00:39",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "ASHER SWISSA",
-          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
-        },
-        {
-          "name": "SANDHAUS",
-          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 261290,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
+      "duration_ms": 215435,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
     },
     {
       "added_at": "2025-04-11 05:00:39",
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2025-04-11 05:00:39",
       "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        }
-      ],
-      "duration_ms": 369798,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
-    },
-    {
-      "added_at": "2025-04-11 05:00:39",
-      "album": {
         "name": "Calmy / Slowly",
         "url": "https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 208690,
       "name": "Calmy",
       "url": "https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P"
+    },
+    {
+      "added_at": "2025-04-11 05:00:39",
+      "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2025-04-11 05:00:39",
@@ -1191,26 +1207,6 @@
       "duration_ms": 178442,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc"
-    },
-    {
-      "added_at": "2025-04-11 05:00:39",
-      "album": {
-        "name": "All we ever wanted",
-        "url": "https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2"
-      },
-      "artists": [
-        {
-          "name": "MVCA",
-          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
-        },
-        {
-          "name": "SCHWARZ",
-          "url": "https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All we ever wanted",
-      "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
     }
   ],
   "unique_name": "Lowkey Tech",

@@ -4489,6 +4489,28 @@
     },
     {
       "album": {
+        "name": "MUST KILL A MAN",
+        "url": "https://open.spotify.com/album/2YF8NH7GuT1mmWqtfHB99t"
+      },
+      "artists": [
+        {
+          "name": "SUSU DANCES",
+          "url": "https://open.spotify.com/artist/5xzkrHv0l4ZPXmyls39T3w"
+        },
+        {
+          "name": "Anko Ronie",
+          "url": "https://open.spotify.com/artist/6MUYPxoPs1a1m7eTuEVtBN"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126511,
+      "name": "MUST KILL A MAN",
+      "url": "https://open.spotify.com/track/4hbvrYUhXDe91sdi38p8KM"
+    },
+    {
+      "album": {
         "name": "Mwasuze Wa",
         "url": "https://open.spotify.com/album/6Q1FbRWdX15G9BAICes1QK"
       },
@@ -5542,6 +5564,10 @@
         {
           "name": "Jenesis Kimera",
           "url": "https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c"
+        },
+        {
+          "name": "Blxck Charm",
+          "url": "https://open.spotify.com/artist/5deVwszQi3hfe9qQFLdbu2"
         }
       ],
       "date_added": "2025-03-07",
@@ -5924,7 +5950,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 199175,
       "name": "Pepepepe",
       "url": "https://open.spotify.com/track/2sCdsQv4x44paAKor3Yeh9"

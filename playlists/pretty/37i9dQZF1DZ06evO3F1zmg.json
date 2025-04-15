@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 41197,
+  "num_followers": 41200,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAADVgeep3ROc2xuBlrBoSfsF",
+  "snapshot_id": "Z/r+gAAAAAA6GLv2NtlqAHbMbZkcFshh",
   "tracks": [
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paid N Full",
-        "url": "https://open.spotify.com/album/33xTOJ4e7JhkOvmdJ57dT4"
-      },
-      "artists": [
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Cuttin Up (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/2oQQn3SO9cQ51JOhuBq3uy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money Mouf",
         "url": "https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 211703,
       "name": "Money Mouf",
       "url": "https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paid N Full",
+        "url": "https://open.spotify.com/album/33xTOJ4e7JhkOvmdJ57dT4"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Cuttin Up (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/2oQQn3SO9cQ51JOhuBq3uy"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHOT O' CLOCK",
-        "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 150457,
-      "name": "SHOT O' CLOCK",
-      "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
         "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 182400,
       "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
       "url": "https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHOT O' CLOCK",
+        "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 150457,
+      "name": "SHOT O' CLOCK",
+      "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"
     },
     {
       "added_at": null,
@@ -1031,30 +1031,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
-        "url": "https://open.spotify.com/album/2uMMOoH30YHKnbg5nVXtMM"
+        "name": "Up Now (feat. G-Eazy and Rich The Kid)",
+        "url": "https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI"
       },
       "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         },
         {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         }
       ],
-      "duration_ms": 201248,
-      "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
-      "url": "https://open.spotify.com/track/7IfxYyZaO3S3PJf5agEEWS"
+      "duration_ms": 198087,
+      "name": "Up Now (feat. G-Eazy and Rich The Kid)",
+      "url": "https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt"
     }
   ],
   "unique_name": "This Is Saweetie",

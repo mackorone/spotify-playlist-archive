@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-688 songs - 2 day 18 hr 56 min
+689 songs - 2 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-08-12 |  |
 | [All I Know](https://open.spotify.com/track/3xaiWZvVvs59VpCtNWEUY6) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond) | [Megan EP](https://open.spotify.com/album/4vzXrvITQCyH3FSQMygG2V) | 7:43 | 2020-03-25 | 2020-04-09 |
 | [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 | 2025-03-07 |  |
-| [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 |  |
+| [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 | 2025-04-15 |
 | [Alle](https://open.spotify.com/track/1SMyvP1TNiTiJ8rDZG54BJ) | [Eluize](https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha), [La Fraicheur](https://open.spotify.com/artist/5xrTRjPCPnJZVsI6RUaG1i) | [Alle](https://open.spotify.com/album/1s3j5UFwrQGG8Z971wgeaD) | 6:41 | 2019-10-24 | 2020-03-19 |
 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 | 2023-09-01 | 2024-10-13 |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-07-19 |  |
@@ -363,6 +363,7 @@
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-03-22 | 2023-07-01 |
 | [Matthew Keeps Me Pirrie](https://open.spotify.com/track/2ZYGLQ89EATPCZcLsHEowa) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Matthew Keeps Me Pirrie](https://open.spotify.com/album/2ilvzpDDnNQWbvgoSQZ4xF) | 6:42 | 2019-10-10 | 2019-11-09 |
 | [Mayhem](https://open.spotify.com/track/6OJKnaeNbqSgamGZ6IIGz1) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Mayhem EP](https://open.spotify.com/album/0adw9asM0RMlE4bIqc3LBB) | 7:44 | 2021-10-10 | 2021-10-11 |
+| [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 | 2025-04-11 |  |
 | [Menora](https://open.spotify.com/track/6JbEVzpVtACMzP7lniEpoP) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE), [Leibo & Zarhi](https://open.spotify.com/artist/1HYgV0V9YzC2iYTA6vuHkI) | [MenorAnna](https://open.spotify.com/album/7i8fYPZGhLDynDKqqLljgE) | 7:20 | 2019-09-19 | 2020-01-13 |
 | [Mesopotamia](https://open.spotify.com/track/24wkID8UHARIJLeKAkcjq6) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Mesopotamia](https://open.spotify.com/album/1bJJ1flQQjW6hWPGSjG4b6) | 3:20 | 2021-02-03 | 2021-03-23 |
 | [Metamorphoses](https://open.spotify.com/track/26DlNiM65CQpLZ7iW2QBNE) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Metamorphoses](https://open.spotify.com/album/670k1I7dtojjK2eO1UVU59) | 3:17 | 2019-10-25 | 2020-03-15 |

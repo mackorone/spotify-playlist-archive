@@ -9627,6 +9627,24 @@
     },
     {
       "album": {
+        "name": "CUNTISSIMO",
+        "url": "https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240963,
+      "name": "CUNTISSIMO",
+      "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
+    },
+    {
+      "album": {
         "name": "The Legacy Series Vol. 2",
         "url": "https://open.spotify.com/album/45fQ7LLQ9s3cVQJrXf0LxR"
       },
@@ -14098,7 +14116,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 193170,
       "name": "Exhale (Cloud Nine)",
       "url": "https://open.spotify.com/track/5h7XsOehjVBYNWSSnHL95Z"
@@ -20296,7 +20314,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 178487,
       "name": "Hibiscus",
       "url": "https://open.spotify.com/track/2OPu5bEsquv5zdJMa5r48C"
@@ -25476,7 +25494,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"

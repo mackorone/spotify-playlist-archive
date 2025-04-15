@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-553 songs - 1 day 2 hr 47 min
+555 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Home](https://open.spotify.com/track/52xDg0M5k738bEuyIS2gaA) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO) | [65 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ZqpbHqafFKFuAF5g9wYB7) | 3:06 | 2023-03-10 | 2024-10-12 |
 | [Home](https://open.spotify.com/track/03dJLOR6HlYLBVajj5cxA2) | [Gints Zilbalodis](https://open.spotify.com/artist/4q9ORXtwSESmnqDUdBUqMi), [Rihards Zalupe](https://open.spotify.com/artist/4nI8qjYW0A1QO0ycB4OHFu) | [Flow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7q9YwO9ldgxUXi1H9M9cuY) | 2:04 | 2025-03-07 |  |
 | [Hotel Arcadia](https://open.spotify.com/track/3PdscIZzEFo61H5iHoe365) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Girl, You Know It's True \(Original Score Music\)](https://open.spotify.com/album/08qNs7RE88VyrZ5h1vgD8p) | 1:56 | 2023-12-22 | 2025-03-22 |
+| [Hotel Reverie](https://open.spotify.com/track/01E5YbXlfg4RmJMj8LbkvW) | [Ariel Marx](https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq) | [Black Mirror: Season 7 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NwJYMdAG8j7kvicBKFRKb) | 1:12 | 2025-04-14 |  |
 | [I Could Use a Boost](https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:07 | 2024-10-01 |  |
 | [I Importune You \(feat\. Percival Schuttenbach\)](https://open.spotify.com/track/7AjH6bywEZga06Y3bEkyqh) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Witcher: Season 3 \- Vol\. 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax) | 1:12 | 2023-06-30 | 2025-01-11 |
 | [I Importune You \(feat\. Percival Schuttenbach\)](https://open.spotify.com/track/7muq4xFFXRAZ7Kl3ZFPZNf) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Witcher: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v) | 1:12 | 2023-07-21 | 2024-04-19 |
@@ -522,6 +523,7 @@
 | [Uncharted](https://open.spotify.com/track/403J2ArGAXfFE6H1Ip14zB) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Uncharted \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3VXjsE6bQdoqThN3jS8wL9) | 2:06 | 2022-02-18 | 2024-10-12 |
 | [Underneath](https://open.spotify.com/track/2c6aqx1qoJYIy6jycbdQ9f) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [Liebes Kind \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4D1pxDnypVfBMkBlz2rb9y) | 2:03 | 2023-09-01 | 2025-03-22 |
 | [Uprising Ending](https://open.spotify.com/track/6KACuXAi0TR3zoVXebB76J) | [Cho Young\-Wuk](https://open.spotify.com/artist/0qUHwGKZS1Q1hTe2Zbt2L6) | [Uprising \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HZHK6M97lJjHWPBAhOiIX) | 5:11 | 2024-10-11 |  |
+| [USS Callister: Into Infinity](https://open.spotify.com/track/4qbsyN6H7eCLVE8U3jld7O) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Black Mirror: Season 7 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NwJYMdAG8j7kvicBKFRKb) | 2:23 | 2025-04-14 |  |
 | [Valhalla](https://open.spotify.com/track/2iwMiWOLogxv9JvecBWYm3) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Omer Benyamin](https://open.spotify.com/artist/40hRguYmaIZ2y3BpdvgvII), [Steven Doar](https://open.spotify.com/artist/4PMgWcJWZlbsMc4AcbRrtt) | [Twilight of the Gods \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0AfVESlPyukgMkyWo4ipnQ) | 2:34 | 2024-09-23 |  |
 | [Vengeance](https://open.spotify.com/track/2hj1c8CjQZVhz2xXp2FQ1a) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance](https://open.spotify.com/album/5VG8Za7HUfIlafQMYIDYf4) | 3:19 | 2022-07-29 | 2024-11-21 |
 | [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/18BWdMn9ZcOaXuepgpmQg9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 4, Episodes 1\-3 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/7DQjEbNiFCXAZ9mEirk4bm) | 3:52 | 2022-07-22 | 2022-07-30 |

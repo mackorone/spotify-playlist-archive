@@ -4,7 +4,7 @@
 
 > 
 
-37 songs - 2 hr 36 min
+38 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Riflessione finale](https://open.spotify.com/track/1rlFvwrdtu1dO7iB8ZoBUl) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Sfinge](https://open.spotify.com/album/35JBlxCx7XjzZDD5XbR76s) | 4:26 | 2024-07-03 |  |
 | [Riverside](https://open.spotify.com/track/2S7hH8gCuwlqL8vqia3eJp) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 3:01 | 2024-07-09 |  |
 | [Romance](https://open.spotify.com/track/4RsL2ZlU4P0CIKDrOwQkzz) | [Hiroshi Suzuki](https://open.spotify.com/artist/3h1E4x69By503ompHFmKn5) | [WaJazz: Japanese Jazz Spectacle Vol.I \- Deep, Heavy and Beautiful Jazz from Japan 1968\-1984 \- The Nippon Columbia masters \- Selected by Yusuke Ogawa \(Universounds\)](https://open.spotify.com/album/43MWVtG1KdkHNLSDyfbXB6) | 5:56 | 2024-07-03 |  |
+| [Romantic](https://open.spotify.com/track/6iXO4A5u0CRLNre9lSxntL) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/5DRd3WmUMyVgQvRWowIsPZ) | 3:03 | 2025-04-14 |  |
 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 | 2024-07-03 |  |
 | [Summer Cruise Ship](https://open.spotify.com/track/614OlObZvoTtW765yyGM84) | [UWANOSORA](https://open.spotify.com/artist/5cyWYZjbXR0b9yY7HztDFI) | [Hidamari](https://open.spotify.com/album/5FejbHbqrLiRYjL97zd7WW) | 5:37 | 2024-07-03 |  |
 | [The Sign \(feat\. Pase Rock\)](https://open.spotify.com/track/2g8vK3m0npTrzsADQAnbVO) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Pase Rock](https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:49 | 2024-07-09 |  |

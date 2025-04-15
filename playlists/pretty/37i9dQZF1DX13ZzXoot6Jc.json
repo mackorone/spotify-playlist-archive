@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Morgan Wallen",
-  "num_followers": 451295,
+  "num_followers": 451291,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-04-10 16:53:28",
       "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+    },
+    {
+      "added_at": "2025-04-10 16:53:28",
+      "album": {
         "name": "I Wish You Would (ft. Midland)",
         "url": "https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 173499,
       "name": "I Wish You Would (ft. Midland)",
       "url": "https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo"
-    },
-    {
-      "added_at": "2025-04-10 16:53:28",
-      "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": "2025-04-10 16:53:28",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-04-10 16:53:28",
       "album": {
-        "name": "What Happens Now? (Deluxe)",
-        "url": "https://open.spotify.com/album/1zK6DiSD46bOoBoXyG6Jzp"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/2hLIuS8Izy0qxhD5TZE9JS"
-    },
-    {
-      "added_at": "2025-04-10 16:53:28",
-      "album": {
         "name": "I Can Feel It",
         "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 163600,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
+    },
+    {
+      "added_at": "2025-04-10 16:53:28",
+      "album": {
+        "name": "What Happens Now? (Deluxe)",
+        "url": "https://open.spotify.com/album/1zK6DiSD46bOoBoXyG6Jzp"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/2hLIuS8Izy0qxhD5TZE9JS"
     },
     {
       "added_at": "2025-04-10 16:53:28",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-04-10 16:53:28",
       "album": {
-        "name": "Thought of You",
-        "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 163242,
-      "name": "Thought of You",
-      "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
-    },
-    {
-      "added_at": "2025-04-10 16:53:28",
-      "album": {
         "name": "No Caller ID",
         "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 208759,
       "name": "No Caller ID",
       "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
+    },
+    {
+      "added_at": "2025-04-10 16:53:28",
+      "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 163242,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
     },
     {
       "added_at": "2025-04-10 16:53:28",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-04-10 16:53:28",
       "album": {
+        "name": "Back Then Right Now",
+        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 201485,
+      "name": "Back Then Right Now",
+      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
+    },
+    {
+      "added_at": "2025-04-10 16:53:28",
+      "album": {
         "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 210026,
       "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
-    },
-    {
-      "added_at": "2025-04-10 16:53:28",
-      "album": {
-        "name": "Back Then Right Now",
-        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 201485,
-      "name": "Back Then Right Now",
-      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
     },
     {
       "added_at": "2025-04-10 16:53:28",

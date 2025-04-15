@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Elias
 
-2,612 songs - 5 day 2 hr 30 min
+2,613 songs - 5 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Blick Von Dir](https://open.spotify.com/track/7BKG0RkQHjjDYekwQ0Z5ct) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Blick Von Dir](https://open.spotify.com/album/2cSPrx75blbsrQfPYZ7lbV) | 2:08 | 2022-09-01 | 2022-10-14 |
 | [Blind](https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:30 | 2022-12-22 | 2023-01-24 |
 | [Blitzlicht](https://open.spotify.com/track/4Ro083Dj0kBhr6JslQjfLj) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Blitzlicht](https://open.spotify.com/album/2udJZcqPmnJwgcVgCGrBII) | 2:46 | 2024-09-05 | 2024-10-11 |
+| [Blitzlicht](https://open.spotify.com/track/3RYjAvNZ48OuWR0SaH83SB) | [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Blitzlicht](https://open.spotify.com/album/6Qr8nZlaplmhruQkcGP56o) | 2:08 | 2025-04-14 |  |
 | [Block In Der Brust](https://open.spotify.com/track/4kdCsDQpeoUh12tY5xwZvD) | [DuZiN](https://open.spotify.com/artist/4Ym2JmF0xLcZ2htTrAWn3z), [Eight Λ Eleven](https://open.spotify.com/artist/14piLP687bcwtQTCOg6D6l) | [Block In Der Brust](https://open.spotify.com/album/1xCqi0g3kNJFW3y6pyBzgs) | 2:53 | 2023-10-27 | 2024-02-07 |
 | [BLOCK THERAPIE](https://open.spotify.com/track/38ppVJNdbvse74GN5XnqvL) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [BLOCK THERAPIE](https://open.spotify.com/album/6Y9rQSjnvesJzbbXtJD6k2) | 3:08 | 2024-04-18 | 2024-07-27 |
 | [blogg](https://open.spotify.com/track/5xy9zM5B3QwGGL3TswojM6) | [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [blogg](https://open.spotify.com/album/37BiPMLdhD282Eg1gcK76i) | 2:28 | 2023-04-20 | 2023-04-28 |
@@ -1392,7 +1393,7 @@
 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 | 2022-09-01 | 2022-12-02 |
 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 | 2025-02-03 |  |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-12-04 | 2023-12-15 |
-| [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 | 2025-01-21 |  |
+| [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 | 2025-01-21 | 2025-04-15 |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2023-09-14 | 2023-10-06 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-13 | 2024-01-31 |
 | [Low](https://open.spotify.com/track/2k0ZMNVR4Wk6M6ZFcD0NwR) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc) | [Low](https://open.spotify.com/album/4FNrH4cbXqJr1FNdqgQyJR) | 1:59 | 2023-07-26 | 2023-10-13 |
@@ -2073,7 +2074,7 @@
 | [SOS](https://open.spotify.com/track/5KPPwG3v0m6IExWNby02eJ) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [SOS](https://open.spotify.com/album/0dO8QSi4feDnQUJSNVqBvK) | 2:38 | 2023-08-10 | 2023-09-15 |
 | [SOS](https://open.spotify.com/track/0bhyA6wgnTz8ivLKMwNA41) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [SOS](https://open.spotify.com/album/5o0H06rGfbETsssJeok0YI) | 2:59 | 2024-11-14 | 2024-12-10 |
 | [SOUTH OF FRANCE \- REMIX](https://open.spotify.com/track/5BjYmIIW8NIwItLPGjqKqP) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MIXTAPE PLUTO](https://open.spotify.com/album/5IcsHifVLGG0emBPlMZacj) | 3:03 | 2024-10-31 | 2024-11-08 |
-| [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-20 |  |
+| [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-20 | 2025-04-15 |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2022-07-19 | 2023-08-15 |
 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 | 2022-06-09 | 2022-07-14 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-08-07 | 2023-08-30 |

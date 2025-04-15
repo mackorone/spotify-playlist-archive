@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: G\-Eazy
+> A little bit of pop, a little bit of rap\. Cover: honestav
 
-682 songs - 1 day 7 hr 8 min
+686 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Alley\-Oop](https://open.spotify.com/track/00lroakMBzkEPKCt2eNfrf) | [Dazy Chain](https://open.spotify.com/artist/2gHF2JSNXKMMTfF1mQxEK9), [Lone Waves](https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS) | [Alley\-Oop](https://open.spotify.com/album/0OJLq8CREfpFv87oUACfF4) | 2:48 | 2022-08-05 | 2022-11-22 |
 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 | 2022-04-11 | 2022-06-11 |
 | [Always Be There](https://open.spotify.com/track/4LoKQ3eOcdLPX7agIxvkwj) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV), [CASO](https://open.spotify.com/artist/0yeVflnnTfACkYWpG2JVDi) | [Always Be There](https://open.spotify.com/album/2I4TjYRCahlkPxY5xG0svc) | 2:51 | 2021-11-16 | 2022-02-26 |
+| [antidepressants](https://open.spotify.com/track/6rWLrj4M3PDu6XpgjY7vAU) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [antidepressants](https://open.spotify.com/album/7ymEP219k33PfwUwrHHI3C) | 1:58 | 2025-04-14 |  |
 | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 | 2022-08-12 | 2023-09-09 |
 | [Around You](https://open.spotify.com/track/3LWhbpStRiRnTM3FrdmqOB) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Around You](https://open.spotify.com/album/4xiADjut6p4Q6JaoZZ01tp) | 3:02 | 2022-05-20 | 2022-06-18 |
 | [Ashin' Blunts \(feat\. Arden Jones\)](https://open.spotify.com/track/1W3bGB7MjO9ka88Vffmfq9) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Ashin’ Blunts \(feat\. Arden Jones\)](https://open.spotify.com/album/5jhlUotsAqL2I31M7f1Ui7) | 2:18 | 2023-09-05 | 2024-04-19 |
@@ -322,6 +323,7 @@
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-05-31 |  |
 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 | 2022-12-16 | 2023-04-05 |
 | [it's over now](https://open.spotify.com/track/5b0TwhUwB5v0l6z1tEvHJG) | [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [it's over now](https://open.spotify.com/album/4PM2v7SjpShQMrJjvKLUvI) | 2:06 | 2024-03-08 | 2024-03-16 |
+| [I’d Rather Overdose](https://open.spotify.com/track/2UvJGqD2wNzCfOHrUsm2Pu) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [Z](https://open.spotify.com/artist/0e04X89GPDO1SJQZHZYsij) | [hara\-kiri](https://open.spotify.com/album/10pNBvKvxocr6QKihfbAuM) | 3:55 | 2025-04-14 |  |
 | [Jenny](https://open.spotify.com/track/1xipoyu49i67F7kM6GLRBY) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Jenny](https://open.spotify.com/album/2CBcNQze7xZTpNRiTyJ5cT) | 2:10 | 2021-11-16 | 2022-02-26 |
 | [Johnny D](https://open.spotify.com/track/5rLKasnwdMsum1BOb5t3In) | [DYLVN](https://open.spotify.com/artist/1wtLdgT2rz2Ddp30cDotFm) | [Johnny D](https://open.spotify.com/album/1p2mNsTJJPzac5pOf1Yyjt) | 1:51 | 2023-03-03 | 2024-03-16 |
 | [Just Be You](https://open.spotify.com/track/0baJ0dpMNqtQMKYYFpvtAY) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Just Be You](https://open.spotify.com/album/5hiWu3iJHqGv1bNDaGwarc) | 3:06 | 2023-04-26 | 2024-06-01 |
@@ -437,6 +439,7 @@
 | [Off A Cliff \(With Reo Cragun\)](https://open.spotify.com/track/7KjY1Xr1vXsAgolo63F0sV) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Escape Cycle](https://open.spotify.com/album/2JCIdveMkl6k4YdAqEMEBx) | 2:53 | 2023-08-25 | 2024-06-01 |
 | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY) | 2:27 | 2022-06-10 | 2022-11-30 |
 | [Oh My!](https://open.spotify.com/track/23GrnBNBJhVlYlraSi3sT3) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Oh My!](https://open.spotify.com/album/5NBpzjZMW5PCvxVCNSTwrD) | 3:11 | 2022-07-22 | 2022-11-30 |
+| [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 | 2025-04-14 |  |
 | [okay okay](https://open.spotify.com/track/5cUqAcXOXUBAIak03DlsTh) | [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [okay okay](https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57) | 3:01 | 2022-01-26 | 2022-03-26 |
 | [old change](https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [old change](https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23) | 1:54 | 2024-02-16 | 2025-02-15 |
 | [OLD NEWS](https://open.spotify.com/track/3uY6ip9RD3AB7lWJHSWAp9) | [Heath240](https://open.spotify.com/artist/1ojvdyodoMexNXR8my5FOo) | [OLD NEWS](https://open.spotify.com/album/0zVNdC56TzBMNX4k6v8JbQ) | 2:29 | 2022-09-23 | 2022-10-22 |
@@ -460,6 +463,7 @@
 | [PAY ATTENTION](https://open.spotify.com/track/7h74fcrF3X8tHrATyM4Wx3) | [Luken](https://open.spotify.com/artist/5My5zbBpSGJBOQGyCaAVCE) | [PAY ATTENTION](https://open.spotify.com/album/3Jt0ysuRqkGLqZ94NUv9iO) | 2:07 | 2022-08-05 | 2022-10-15 |
 | [PDA](https://open.spotify.com/track/36NqiAgn72InTKB3TRPbhB) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [PDA](https://open.spotify.com/album/1euweddL5gMCa2war37gph) | 2:23 | 2023-07-14 | 2024-01-23 |
 | [Peanut Butter Cherry](https://open.spotify.com/track/76QHEenc8e1T3vydKzdg46) | [Alec King](https://open.spotify.com/artist/1WcUEKDht7lhgklZZJrzNg) | [Peanut Butter Cherry](https://open.spotify.com/album/1FYRShkevWA1VVx5b0ipjF) | 2:56 | 2022-05-20 | 2022-07-13 |
+| [Pedal to Metal 2.0](https://open.spotify.com/track/1JO9geiAkd9qmfRDXmBJPT) | [Tyler Pigg](https://open.spotify.com/artist/4nJeXFj0prRJ1jWSa8x9K7), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Pedal to Metal 2.0](https://open.spotify.com/album/4kalNj3jR7R0eIZVIJ5B3v) | 2:57 | 2025-04-14 |  |
 | [Perfect](https://open.spotify.com/track/77cj905zkxzZ0BOUaMd9SM) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Perfect](https://open.spotify.com/album/6HFU5gAvlDMV22aoFeyRC8) | 3:34 | 2021-12-16 | 2022-02-26 |
 | [Peso](https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 2:49 | 2022-04-04 | 2022-04-09 |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-20 | 2022-07-09 |
@@ -685,7 +689,7 @@
 | [YESSIR!](https://open.spotify.com/track/2exdDhuNjyxtmJIKkbSWbo) | [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ) | [YESSIR!](https://open.spotify.com/album/5tw4tHdOVaj4dZwXr8Zrke) | 1:50 | 2022-04-08 | 2022-08-13 |
 | [YOU](https://open.spotify.com/track/0rXaoCJbmIUdMIKQwinA0k) | [J\-Wright](https://open.spotify.com/artist/4ZwarqrZFCfYgb3F4KS6gr) | [YOU](https://open.spotify.com/album/2AMsS7LgT4DAgMfRTTo7r0) | 2:58 | 2022-06-03 | 2022-11-30 |
 | [you](https://open.spotify.com/track/249pLzwkXDMii8wHyfZpZD) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [you](https://open.spotify.com/album/25zQdgsABXUprCCJp82mph) | 2:41 | 2022-02-04 | 2022-07-02 |
-| [You Got Me Like](https://open.spotify.com/track/0akftvzeUycOzE8qnd1r2U) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [You Got Me Like](https://open.spotify.com/album/2kgxYPxjhCq5F38bk97l2T) | 2:20 | 2024-05-31 |  |
+| [You Got Me Like](https://open.spotify.com/track/0akftvzeUycOzE8qnd1r2U) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [You Got Me Like](https://open.spotify.com/album/2kgxYPxjhCq5F38bk97l2T) | 2:20 | 2024-05-31 | 2025-04-15 |
 | [You Say](https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [You Say](https://open.spotify.com/album/4WWh2CNXxoAweEEcsZqadG) | 3:44 | 2023-04-04 | 2024-06-01 |
 | [YOUNG RUETTIGER \(I DO WHAT I WANT\)](https://open.spotify.com/track/46BkJ2O37x5Tg8BjjYVcMj) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [INTENTION](https://open.spotify.com/album/3WekRkctnb3QRPomnKFG3K) | 3:20 | 2023-04-07 | 2024-06-01 |
 | [YOUNG RUETTIGER \(I DO WHAT I WANT\)](https://open.spotify.com/track/6tDSxtJwyvQ6TL5jJK5RjJ) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [INTENTION](https://open.spotify.com/album/6yktPF79RZehdGx93H9wwh) | 3:20 | 2023-04-07 | 2024-04-19 |

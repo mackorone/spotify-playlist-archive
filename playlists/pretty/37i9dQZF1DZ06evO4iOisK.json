@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 26458,
+  "num_followers": 26457,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAABIL26u0f9zYZgbdH3g+yJu",
+  "snapshot_id": "Z/r+gAAAAADV3GVq2yKvpFCEkf+kI1GV",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 298813,
-      "name": "\u8679",
-      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 225173,
       "name": "COME IN SUMMER",
       "url": "https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 298813,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RE-BIRTH",
+        "url": "https://open.spotify.com/album/0QkQ99HalEIISHAJnKIdG3"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 256413,
+      "name": "RE-BIRTH",
+      "url": "https://open.spotify.com/track/7bjkxYQWVQWtOZOmwLu0gD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockin' the World",
         "url": "https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 245053,
       "name": "SINGING",
       "url": "https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RE-BIRTH",
-        "url": "https://open.spotify.com/album/0QkQ99HalEIISHAJnKIdG3"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 256413,
-      "name": "RE-BIRTH",
-      "url": "https://open.spotify.com/track/7bjkxYQWVQWtOZOmwLu0gD"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST",
-        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 296866,
-      "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
-      "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JUST ONE LIFE",
         "url": "https://open.spotify.com/album/5A7EqhnNTiZRwqkxbu25So"
       },
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WENDY \u301cIt's You\u301c",
-        "url": "https://open.spotify.com/album/06GqXPj1Cwi3mkNh5TECYQ"
+        "name": "BEST",
+        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
       },
       "artists": [
         {
@@ -724,9 +708,25 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 203733,
-      "name": "Blowing",
-      "url": "https://open.spotify.com/track/1A5pLyFdYX6QVdQt9Gkp7w"
+      "duration_ms": 296866,
+      "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
+      "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "ROCKIN' OUT",
+      "url": "https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+        "name": "WENDY \u301cIt's You\u301c",
+        "url": "https://open.spotify.com/album/06GqXPj1Cwi3mkNh5TECYQ"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 210746,
-      "name": "ROCKIN' OUT",
-      "url": "https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30"
+      "duration_ms": 203733,
+      "name": "Blowing",
+      "url": "https://open.spotify.com/track/1A5pLyFdYX6QVdQt9Gkp7w"
     },
     {
       "added_at": null,

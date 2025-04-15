@@ -3217,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396000,
+      "name": "Dark blue",
+      "url": "https://open.spotify.com/track/0IFOpfmpnZUnvVe0PcTYfg"
+    },
+    {
+      "album": {
         "name": "Nevermen",
         "url": "https://open.spotify.com/album/6B2zFE8keFSYZkNlani62g"
       },

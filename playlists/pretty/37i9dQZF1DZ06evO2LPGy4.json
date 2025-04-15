@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 456675,
+  "num_followers": 456832,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAADkpVomOA8yka9eL3ZoUa5K",
+  "snapshot_id": "Z/r+gAAAAAD+4fF+/SEO1JKvy2uGuh1E",
   "tracks": [
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Area 81",
-      "url": "https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Expediente",
         "url": "https://open.spotify.com/album/5asYzRIL4KNTEDDXBoHC1N"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 191026,
       "name": "Los 4 Ases - En Vivo",
       "url": "https://open.spotify.com/track/0PWgsrMYk6c7grmdsW7Fx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Area 81",
+      "url": "https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq"
     },
     {
       "added_at": null,

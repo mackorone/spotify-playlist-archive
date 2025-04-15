@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Dillom, Airbag, Marilina Bertoldi y Juliana Gattas.
 
-334 songs - 20 hr 8 min
+335 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Está Bien](https://open.spotify.com/track/7nNJjT0i00WGlpp4ELLEky) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Está Bien](https://open.spotify.com/album/14IWJB0UvZlZ6oePf1nrJ5) | 3:10 | 2022-09-05 | 2024-03-07 |
 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 | 2023-11-21 | 2024-04-19 |
 | [Eutanasia](https://open.spotify.com/track/25BJFkN0hSzlwDfVphh6rV) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/4hNCyXh4Bd1V9gzKskIK15) | 2:34 | 2024-03-06 |  |
+| [Extrañas Intenciones](https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8) | 2:48 | 2025-04-14 |  |
 | [Fantasma](https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Fantasma](https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo) | 3:20 | 2023-09-04 | 2023-09-30 |
 | [Fantasmas](https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Fantasmas](https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L) | 3:52 | 2023-11-21 |  |
 | [Fax](https://open.spotify.com/track/5SODEL6YnaJqng9sIiiTjx) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Fax](https://open.spotify.com/album/2coynF5NZJ4v9qa1XLZELQ) | 3:11 | 2024-07-12 |  |

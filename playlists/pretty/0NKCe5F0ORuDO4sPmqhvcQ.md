@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,569 likes - 136 songs - 7 hr 54 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,570 likes - 138 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 134 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
 | 135 | [MOVEMENT! \(feat\. XKYLAR\)](https://open.spotify.com/track/6l19K7QQtoEjQ9lIYTIYul) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [MOVEMENT! \(feat\. XKYLAR\)](https://open.spotify.com/album/21w0JBs8aPxFLb2Qx9ZPTk) | 3:07 |
 | 136 | [Chemicals](https://open.spotify.com/track/6N3xZEUzHtvkd7S66wSS0D) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Afraid Of The Dark EP](https://open.spotify.com/album/2MvFlPSWTJgl2BQ4vbIpda) | 3:38 |
+| 137 | [YOU & I](https://open.spotify.com/track/6cgOdelOyLpjdcOl811Z9t) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [YOU & I](https://open.spotify.com/album/29MLRMFFGmRPxHJ93JeHhZ) | 3:51 |
+| 138 | [Death By Love](https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Death By Love](https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF) | 2:50 |
 
-Snapshot ID: `AAAqS278t7iVfUfOsU78/zZ6DzKfZGhe`
+Snapshot ID: `AAAqTaIeLuVgaz43UH3Svtxgi4jQ69Vd`

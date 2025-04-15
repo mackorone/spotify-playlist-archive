@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   S\u00f8n",
-  "num_followers": 46259,
+  "num_followers": 46261,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
-        "name": "Dopamin",
-        "url": "https://open.spotify.com/album/1vFGBcedPfM321fycYoNqs"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 148758,
-      "name": "Dopamin",
-      "url": "https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk"
-    },
-    {
-      "added_at": "2025-04-10 22:00:24",
-      "album": {
         "name": "Tag Mig Som Jeg Er",
         "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 195748,
       "name": "Tag Mig Som Jeg Er",
       "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
+    },
+    {
+      "added_at": "2025-04-10 22:00:24",
+      "album": {
+        "name": "Dopamin",
+        "url": "https://open.spotify.com/album/1vFGBcedPfM321fycYoNqs"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 148758,
+      "name": "Dopamin",
+      "url": "https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
-        "name": "Regnv\u00e5de sale",
-        "url": "https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h"
-      },
-      "artists": [
-        {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "N\u00e6rmest en ven",
-      "url": "https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO"
-    },
-    {
-      "added_at": "2025-04-10 22:00:24",
-      "album": {
         "name": "Lige Meget Hvor Langt Du Er",
         "url": "https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 258797,
       "name": "Lige Meget Hvor Langt Du Er",
       "url": "https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23"
+    },
+    {
+      "added_at": "2025-04-10 22:00:24",
+      "album": {
+        "name": "Regnv\u00e5de sale",
+        "url": "https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "N\u00e6rmest en ven",
+      "url": "https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -587,18 +587,18 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
-        "name": "Det sker alt for tit",
-        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
       },
       "artists": [
         {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 187422,
-      "name": "Det sker alt for tit",
-      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -619,18 +619,18 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+        "name": "Det sker alt for tit",
+        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
       },
       "artists": [
         {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
         }
       ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+      "duration_ms": 187422,
+      "name": "Det sker alt for tit",
+      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -719,22 +719,18 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
-        "name": "Dans I Morgen",
-        "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
+        "name": "Minder Om Dig",
+        "url": "https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA"
       },
       "artists": [
         {
           "name": "Dos Santos",
           "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        },
-        {
-          "name": "Wads",
-          "url": "https://open.spotify.com/artist/3WpiiMu5szsvN2jSBHCxNu"
         }
       ],
-      "duration_ms": 192783,
-      "name": "Dans I Morgen (feat. Wads)",
-      "url": "https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf"
+      "duration_ms": 177165,
+      "name": "Minder Om Dig",
+      "url": "https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -755,6 +751,22 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
+        "name": "Vores Forhandling",
+        "url": "https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR"
+      },
+      "artists": [
+        {
+          "name": "Karoline Funder",
+          "url": "https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV"
+        }
+      ],
+      "duration_ms": 149761,
+      "name": "Vores Forhandling",
+      "url": "https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI"
+    },
+    {
+      "added_at": "2025-04-10 22:00:24",
+      "album": {
         "name": "Turn Around",
         "url": "https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE"
       },
@@ -771,22 +783,6 @@
       "duration_ms": 176067,
       "name": "Turn Around",
       "url": "https://open.spotify.com/track/4gDjuMCJSVsvHCLFEtb3mU"
-    },
-    {
-      "added_at": "2025-04-10 22:00:24",
-      "album": {
-        "name": "Vores Forhandling",
-        "url": "https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR"
-      },
-      "artists": [
-        {
-          "name": "Karoline Funder",
-          "url": "https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV"
-        }
-      ],
-      "duration_ms": 149761,
-      "name": "Vores Forhandling",
-      "url": "https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -855,6 +851,26 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
+        "name": "Dans I Morgen",
+        "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        },
+        {
+          "name": "Wads",
+          "url": "https://open.spotify.com/artist/3WpiiMu5szsvN2jSBHCxNu"
+        }
+      ],
+      "duration_ms": 192783,
+      "name": "Dans I Morgen (feat. Wads)",
+      "url": "https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf"
+    },
+    {
+      "added_at": "2025-04-10 22:00:24",
+      "album": {
         "name": "Oktobernat",
         "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 175357,
       "name": "Oktobernat",
       "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
-    },
-    {
-      "added_at": "2025-04-10 22:00:24",
-      "album": {
-        "name": "Minder Om Dig",
-        "url": "https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 177165,
-      "name": "Minder Om Dig",
-      "url": "https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
-        "name": "grib mig hvis jeg falder",
-        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
-      },
-      "artists": [
-        {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
-        }
-      ],
-      "duration_ms": 193981,
-      "name": "Gennemsku Mig Nu",
-      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
-    },
-    {
-      "added_at": "2025-04-10 22:00:24",
-      "album": {
         "name": "B\u00e6nkevarmer",
         "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 234138,
       "name": "Uden At T\u00e6nke P\u00e5 Dig",
       "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+    },
+    {
+      "added_at": "2025-04-10 22:00:24",
+      "album": {
+        "name": "grib mig hvis jeg falder",
+        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "Gennemsku Mig Nu",
+      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv"
+        "name": "Uvejr - Del 1",
+        "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
       },
       "artists": [
         {
-          "name": "Thea Dora",
-          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
         }
       ],
-      "duration_ms": 184048,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL"
+      "duration_ms": 215625,
+      "name": "Krystalklart Kaos",
+      "url": "https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv"
+      },
+      "artists": [
+        {
+          "name": "Thea Dora",
+          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
+        }
+      ],
+      "duration_ms": 184048,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL"
+    },
+    {
+      "added_at": "2025-04-10 22:00:24",
+      "album": {
         "name": "H\u00e6rv\u00e6rk / Mesterv\u00e6rk: Side A",
         "url": "https://open.spotify.com/album/2kLhXQO7TXZNp2fuLrhcRa"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 191223,
       "name": "Ingenting Er \u00c9n Ting",
       "url": "https://open.spotify.com/track/1TX8I69pBbZBWjFOUFQFrX"
-    },
-    {
-      "added_at": "2025-04-10 22:00:24",
-      "album": {
-        "name": "Uvejr - Del 1",
-        "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
-      },
-      "artists": [
-        {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Krystalklart Kaos",
-      "url": "https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-04-10 22:00:24",
       "album": {
-        "name": "1000 H\u00e6nder",
-        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "1000 H\u00e6nder",
-      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
-    },
-    {
-      "added_at": "2025-04-10 22:00:24",
-      "album": {
         "name": "Alt hvad jeg vil",
         "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
       },
@@ -1091,6 +1075,38 @@
       "duration_ms": 224980,
       "name": "Alt hvad jeg vil",
       "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
+    },
+    {
+      "added_at": "2025-04-10 22:00:24",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 182860,
+      "name": "Sang Til Min Far",
+      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:24",
+      "album": {
+        "name": "1000 H\u00e6nder",
+        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
+      },
+      "artists": [
+        {
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "1000 H\u00e6nder",
+      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
     },
     {
       "added_at": "2025-04-10 22:00:24",
@@ -1131,22 +1147,6 @@
       "duration_ms": 200325,
       "name": "D\u00e9r (feat. Wads)",
       "url": "https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k"
-    },
-    {
-      "added_at": "2025-04-10 22:00:24",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 182860,
-      "name": "Sang Til Min Far",
-      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
     },
     {
       "added_at": "2025-04-10 22:00:24",

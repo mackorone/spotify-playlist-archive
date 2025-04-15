@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Jadal
 
-212 songs - 12 hr 56 min
+213 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,14 +54,14 @@
 | [Es3af](https://open.spotify.com/track/5khYoylXkIwVdQFLCcB9Y5) | [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [Es3af](https://open.spotify.com/album/6DDHBycta6TWnWQTrIGfox) | 2:35 | 2023-08-24 |  |
 | [Estana Shway](https://open.spotify.com/track/4FpuQ35dEPPfrGmmeIU8nQ) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Estana Shway](https://open.spotify.com/album/5fs7QWGjKT8B6BWxas8b9k) | 3:51 | 2023-04-01 | 2023-04-24 |
 | [Estana Shway \- أخرس \- استنى شوي](https://open.spotify.com/track/3TabrhNZICePlryYNcw4C9) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Estana Shway \(أخرس \- استنى شوي\)](https://open.spotify.com/album/46o2uznwnj6kiw4NYa2rtc) | 3:51 | 2022-02-09 | 2023-04-01 |
-| [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 | 2022-11-17 |  |
+| [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 | 2022-11-17 | 2025-04-15 |
 | [Etnaset](https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etnaset](https://open.spotify.com/album/5nE6ovXOMjYZ1UG695iIkU) | 3:15 | 2021-12-23 |  |
 | [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 | 2022-11-08 | 2023-04-24 |
 | [Fattaht](https://open.spotify.com/track/0ma4ipffXSLN3MsVLnyqMQ) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Fattaht](https://open.spotify.com/album/44cb4xOeQ0EEkQEt8bFlKQ) | 2:56 | 2023-07-22 | 2025-01-29 |
 | [Galbi](https://open.spotify.com/track/2XuqFsSXzQQ5VIVnxJsYuQ) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Galbi](https://open.spotify.com/album/3INMinVy8sVP4MBZmUfhCH) | 2:16 | 2022-03-21 | 2023-04-24 |
 | [Garage](https://open.spotify.com/track/5Qq5hZVtezixlTY3xnHoPH) | [SAFAR](https://open.spotify.com/artist/1iUKQz9tEcGbhps9vvtd67) | [Garage](https://open.spotify.com/album/6OXHaxXv3KWhBfCJNXZh2B) | 3:19 | 2023-04-23 |  |
 | [GHIR BLACH](https://open.spotify.com/track/0R3Y8nj4PvdAAOcxEkBaPE) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3), [Cameleon](https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9) | [GHIR BLACH](https://open.spotify.com/album/41BXgKi4Ad4ZZ6dgYB5yG0) | 3:50 | 2022-05-31 |  |
-| [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 | 2022-07-18 |  |
+| [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 | 2022-07-18 | 2025-04-15 |
 | [Ghouyoum](https://open.spotify.com/track/4jRENpUjx6AVcs4qwDPmn5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/4IswYbu0UyUIPl4eBgDQnq) | 2:52 | 2023-01-19 | 2024-04-19 |
 | [GRAND CASABLANCA](https://open.spotify.com/track/0XSH8YUaehYghWI5Mw2FYC) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [GRAND CASABLANCA](https://open.spotify.com/album/7eKFo8B2iSBV9KMZ7rqKsY) | 3:08 | 2021-12-23 |  |
 | [Ha'oud \(I Will Return\)](https://open.spotify.com/track/1OExzy9fGc3TGP5zFvp0AH) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Ha'oud \(I Will Return\)](https://open.spotify.com/album/2sp15C7t9ATNj3TuJKDtWF) | 3:45 | 2021-12-23 | 2023-04-24 |
@@ -168,6 +168,7 @@
 | [Wainek Min Zaman](https://open.spotify.com/track/29DwQyK5zL5VRfC3dKpKUy) | [Yazan Haifawi](https://open.spotify.com/artist/1XNUjQOaJHx64HU5plUCdO) | [Wahad](https://open.spotify.com/album/0fgLTm5CXLPuKLBej7Msti) | 3:13 | 2024-03-11 | 2024-04-19 |
 | [Wainek Min Zaman](https://open.spotify.com/track/1R69Raqo1YOHxk2fOpk9xS) | [Yazan Haifawi](https://open.spotify.com/artist/1XNUjQOaJHx64HU5plUCdO) | [Wahad](https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV) | 3:13 | 2023-04-23 |  |
 | [Washwesh Elwadaa](https://open.spotify.com/track/3XlJ0BNy4OMkqpLEtLnMoP) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Five Seasons](https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq) | 3:41 | 2023-05-08 |  |
+| [Wedyan](https://open.spotify.com/track/2ZMnK8KvLqOhEBpTbO8Cps) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Wedyan](https://open.spotify.com/album/01g17OR42wlw32RNUyfdpz) | 3:25 | 2025-04-14 |  |
 | [Wein Ma Trooh, pt\. 1](https://open.spotify.com/track/2DgOibtnwJ6azHeFln7qAM) | [Masar](https://open.spotify.com/artist/5DtZJ6PZq71ll1Pke5su7K) | [Wein Ma Trooh, pt\. 1](https://open.spotify.com/album/6iJ58NKpXDA9fQ9Enlayeg) | 3:53 | 2023-05-30 |  |
 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 | 2021-12-23 |  |
 | [Winds of Jawlan](https://open.spotify.com/track/3JNVotjNZ9Mu5GNRPc4Lx5) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Rahawan](https://open.spotify.com/album/4NvaG3qf2KhQj6ppLU278A) | 4:48 | 2022-04-18 | 2022-09-21 |

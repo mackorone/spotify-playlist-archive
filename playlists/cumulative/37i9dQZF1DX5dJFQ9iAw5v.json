@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 318200,
       "name": "Monumental",
       "url": "https://open.spotify.com/track/6dlFsQKa8km5nQPNpVmaEU"
@@ -1820,6 +1820,36 @@
       "duration_ms": 149003,
       "name": "Puerta y Regazo",
       "url": "https://open.spotify.com/track/2w1MdztRfIx6mS0SFSA53y"
+    },
+    {
+      "album": {
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/5tpPFkMTHnxQBDay46yEqX"
+      },
+      "artists": [
+        {
+          "name": "ASH Trio",
+          "url": "https://open.spotify.com/artist/1lWRqHdNuzCQUaJdl1HUwm"
+        },
+        {
+          "name": "Hernan Hecht",
+          "url": "https://open.spotify.com/artist/7dl3J3Gs0ryFhyeRDypljB"
+        },
+        {
+          "name": "Juan Pablo Arredondo",
+          "url": "https://open.spotify.com/artist/6qcNKGD04YEUm0JlD9bhQv"
+        },
+        {
+          "name": "Natalio Sued",
+          "url": "https://open.spotify.com/artist/1WqYlCDG2cmVXPZ1CcdMOs"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269296,
+      "name": "Puertas y Ventanas",
+      "url": "https://open.spotify.com/track/2OeTcS3A1g1RsUj1xycs5Y"
     },
     {
       "album": {

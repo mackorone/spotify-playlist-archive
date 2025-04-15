@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5unMLFzqYY.md) - [plain]
 
 > Enjoy the NCT WISH \[ASIA TOUR LOG in\] LIVE SET including the voices of them on stage! \(NCT WISH의 무대 멘트와 목소리가 포함된 \[ASIA TOUR LOG in\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,558 likes - 21 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,662 likes - 22 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5unMLFzqYY.md) - [plain]
 | 10 | [CHOO CHOO](https://open.spotify.com/track/1WiImFNE0hJBfnZz0nSoLc) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:34 |
 | 11 | [Touchdown](https://open.spotify.com/track/0V6HdqRV92qVOJwqde6Km5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:12 |
 | 12 | [Stage Log from NCT WISH \- Spoiler Alert : poppop](https://open.spotify.com/track/7y9xO2foVZ4Z62ZWN5WN6l) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [2025 NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/album/5VHutEWx1K8Tybt1mdvFWI) | 5:25 |
-| 13 | [Songbird \- Korean Version](https://open.spotify.com/track/1cMpJsa4qpXyjmVkck6u0f) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/6b3jGLfth5QGeWUDVssNkG) | 3:01 |
-| 14 | [NASA](https://open.spotify.com/track/4FlwKeii8Y46oyTLtsYLJq) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:03 |
-| 15 | [Tears Are Falling \- Korean Version](https://open.spotify.com/track/4hmVSpc2AK4RKSPdATITbL) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/6b3jGLfth5QGeWUDVssNkG) | 3:05 |
-| 16 | [Make You Shine](https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Pokémon \| Make You Shine](https://open.spotify.com/album/6DDyjcjzezPkC912QMkf6j) | 3:19 |
-| 17 | [Stage Log from NCT WISH \- Ending Commentary \#1](https://open.spotify.com/track/1sa3KQiORD1sQMZMt71PPf) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [2025 NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/album/5VHutEWx1K8Tybt1mdvFWI) | 3:37 |
-| 18 | [Stage Log from NCT WISH \- Ending Commentary \#2](https://open.spotify.com/track/6cznOJCHPhVqTgV78z45BG) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [2025 NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/album/5VHutEWx1K8Tybt1mdvFWI) | 12:42 |
-| 19 | [Our Adventures](https://open.spotify.com/track/5Y93XMH6dJ4Yy8ImAdMewa) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 2:52 |
-| 20 | [Stage Log from NCT WISH \- Closing](https://open.spotify.com/track/2874QYBNauDXXlJV3hmNwI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [2025 NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/album/5VHutEWx1K8Tybt1mdvFWI) | 2:49 |
-| 21 | [We Go!](https://open.spotify.com/track/4E4FEpgRWPdymqCckJ1C1R) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:01 |
+| 13 | [Melt Inside My Pocket](https://open.spotify.com/track/1iHLurrRAWHisZAmzp9Uio) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:11 |
+| 14 | [Songbird \- Korean Version](https://open.spotify.com/track/1cMpJsa4qpXyjmVkck6u0f) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/6b3jGLfth5QGeWUDVssNkG) | 3:01 |
+| 15 | [NASA](https://open.spotify.com/track/4FlwKeii8Y46oyTLtsYLJq) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:03 |
+| 16 | [Tears Are Falling \- Korean Version](https://open.spotify.com/track/4hmVSpc2AK4RKSPdATITbL) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/6b3jGLfth5QGeWUDVssNkG) | 3:05 |
+| 17 | [Make You Shine](https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Pokémon \| Make You Shine](https://open.spotify.com/album/6DDyjcjzezPkC912QMkf6j) | 3:19 |
+| 18 | [Stage Log from NCT WISH \- Ending Commentary \#1](https://open.spotify.com/track/1sa3KQiORD1sQMZMt71PPf) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [2025 NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/album/5VHutEWx1K8Tybt1mdvFWI) | 3:37 |
+| 19 | [Stage Log from NCT WISH \- Ending Commentary \#2](https://open.spotify.com/track/6cznOJCHPhVqTgV78z45BG) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [2025 NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/album/5VHutEWx1K8Tybt1mdvFWI) | 12:42 |
+| 20 | [Our Adventures](https://open.spotify.com/track/5Y93XMH6dJ4Yy8ImAdMewa) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 2:52 |
+| 21 | [Stage Log from NCT WISH \- Closing](https://open.spotify.com/track/2874QYBNauDXXlJV3hmNwI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [2025 NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/album/5VHutEWx1K8Tybt1mdvFWI) | 2:49 |
+| 22 | [We Go!](https://open.spotify.com/track/4E4FEpgRWPdymqCckJ1C1R) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:01 |
 
-Snapshot ID: `Z+5OJAAAAADwmZRz8mXVp3UCBkihBw0u`
+Snapshot ID: `Z/zQzAAAAABv9RRQlqoxXVzdEZgxRdUS`

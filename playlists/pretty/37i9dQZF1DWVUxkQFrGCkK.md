@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > next up: IBZ opening
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,346 likes - 394 songs - 1 day 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,455 likes - 394 songs - 1 day 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 9 | [Jericho](https://open.spotify.com/track/1tXQqqYBa50elzGUApxovl) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Jericho](https://open.spotify.com/album/0rfqdrDKh28nNwp6h1qXh9) | 3:20 |
 | 10 | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 |
 | 11 | [Be The One](https://open.spotify.com/track/55AaJDkEJHuTPDTTN0jyOO) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Be The One](https://open.spotify.com/album/4Cfs32AOHK8RszMias2SgF) | 3:29 |
-| 12 | [Sun Is Shining \- sone\. Remix](https://open.spotify.com/track/6JqX7rVJn8TwkqMOgcDv1A) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5), [sone.](https://open.spotify.com/artist/0IUu7qzhlQ3OxKomKLpC5c) | [Sun Is Shining](https://open.spotify.com/album/1e148SBg4QqwN5ptrJpwZH) | 3:04 |
+| 12 | [Sun Is Shining \- sone\. Remix](https://open.spotify.com/track/6JqX7rVJn8TwkqMOgcDv1A) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5), [sone.](https://open.spotify.com/artist/0IUu7qzhlQ3OxKomKLpC5c) | [Sun Is Shining \(sone\. Remix\)](https://open.spotify.com/album/1e148SBg4QqwN5ptrJpwZH) | 3:04 |
 | 13 | [Mind](https://open.spotify.com/track/0rDLnNA0WZQn8ZhOD0xf6u) | [Anton Khabbaz](https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu) | [Mind](https://open.spotify.com/album/0j7lShbaJqIorvZbjooex8) | 2:57 |
 | 14 | [Take It Easy on Me](https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Take It Easy on Me](https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U) | 2:39 |
 | 15 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 |

@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Ar\u0131yo",
+        "url": "https://open.spotify.com/album/48i9T2rTEgtK7K5j44Hq92"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Ar\u0131yo",
+      "url": "https://open.spotify.com/track/0f5wEn5loiPLw2ItV8Qxoi"
+    },
+    {
+      "album": {
         "name": "Ayaza Serdim",
         "url": "https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF"
       },
@@ -244,7 +262,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 161186,
       "name": "Bekleyenim",
       "url": "https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR"
@@ -552,7 +570,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 140315,
       "name": "Cennet",
       "url": "https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 206053,
       "name": "G\u00f6zlerime Bak (Live)",
       "url": "https://open.spotify.com/track/6Dv9DRWgjv8CDoosS4l3Ex"

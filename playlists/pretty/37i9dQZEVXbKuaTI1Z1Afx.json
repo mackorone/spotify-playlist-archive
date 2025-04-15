@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 367003,
+  "num_followers": 367016,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L48q+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L5B8eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "It's Not You, It's Me",
         "url": "https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "WHIM WHAMIEE",
         "url": "https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "MONTAGEM TOMADA",
         "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1mfvWzF39LwVpAm8g0LhQT"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "undressed",
         "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "MONTAGEM TOMADA",
         "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "WTHELLY",
         "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Trap Royalty",
         "url": "https://open.spotify.com/album/4L5UyAU9wOBjoKTS1RZ8Iw"
@@ -141,23 +141,7 @@
       "url": "https://open.spotify.com/track/165YYCNnhsCAYphFGtrfyY"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "Malcolm Todd",
-        "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
@@ -185,7 +169,23 @@
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "Malcolm Todd",
+        "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
@@ -217,7 +217,39 @@
       "url": "https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 235833,
+      "name": "Buscando Tus Besos",
+      "url": "https://open.spotify.com/track/5hCfmqE3kJrIIA4bacK7gx"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "Dat Type Of Gurl",
+        "url": "https://open.spotify.com/album/2n2sXuFZW2FrhI8JYhicI7"
+      },
+      "artists": [
+        {
+          "name": "Rasheeda",
+          "url": "https://open.spotify.com/artist/3x6gZfwmkDn92EKOwnYq4H"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "My Bubble Gum",
+      "url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC"
@@ -261,23 +293,7 @@
       "url": "https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "Dat Type Of Gurl",
-        "url": "https://open.spotify.com/album/2n2sXuFZW2FrhI8JYhicI7"
-      },
-      "artists": [
-        {
-          "name": "Rasheeda",
-          "url": "https://open.spotify.com/artist/3x6gZfwmkDn92EKOwnYq4H"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "My Bubble Gum",
-      "url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Just In Case",
         "url": "https://open.spotify.com/album/1LgijIY2d3GFKb5bhWYOf4"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Solcito",
         "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "PASSO BEM SOLTO",
         "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
@@ -329,23 +345,7 @@
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "Emergence",
-        "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 386253,
-      "name": "Emergence",
-      "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
@@ -381,7 +381,23 @@
       "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 386253,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
         "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "MUTT (CB REMIX)",
         "url": "https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "CLOVER",
         "url": "https://open.spotify.com/album/5Qd57v5SWaP70VXJBzmu1j"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/0ceAnr7yV1CO6Hseca0vrB"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "messy",
         "url": "https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "I'm A Little Crazy",
         "url": "https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "tell you straight",
         "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
@@ -501,39 +517,23 @@
       "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "DEEP IN YOUR SOUL",
+        "url": "https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
         }
       ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+      "duration_ms": 191515,
+      "name": "DEEP IN YOUR SOUL",
+      "url": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 163874,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Kansas Anymore (The Longest Goodbye)",
         "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
@@ -549,7 +549,23 @@
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 163874,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Get Jiggy",
         "url": "https://open.spotify.com/album/1y8KPFWhfmZ3LGeLDf4AOu"
@@ -569,55 +585,23 @@
       "url": "https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
-        "name": "DEEP IN YOUR SOUL",
-        "url": "https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW"
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
         {
-          "name": "alan vuong",
-          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 191515,
-      "name": "DEEP IN YOUR SOUL",
-      "url": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "MONA LISA",
-        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        }
-      ],
-      "duration_ms": 137191,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Ordinary (Wedding Version)",
         "url": "https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct"
@@ -633,7 +617,23 @@
       "url": "https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -649,7 +649,23 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 137191,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
@@ -669,55 +685,7 @@
       "url": "https://open.spotify.com/track/7sFMOSnRBa6td4lZa1oiTI"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "WASH",
-        "url": "https://open.spotify.com/album/1G1RHhRuKnknYqMuprAT6A"
-      },
-      "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "WASH",
-      "url": "https://open.spotify.com/track/6KPtG0aIKnSqszstXgH2NS"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "I Feel Alive (from \"A Minecraft Movie\")",
-        "url": "https://open.spotify.com/album/06GP0d361nDvlMMr8FDSM1"
-      },
-      "artists": [
-        {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "I Feel Alive (from \u201cA Minecraft Movie\u201d)",
-      "url": "https://open.spotify.com/track/1b0glc1z1S4pDyU9WCKohN"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 165961,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/74y1VgzL668hynrvA59WQB"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Te Quer\u00eda Ver",
         "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
@@ -737,23 +705,55 @@
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
-        "name": "Me More Cowboy Than You (Demo)",
-        "url": "https://open.spotify.com/album/5d0kDRfGB0Oeu7B133W2sN"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR"
       },
       "artists": [
         {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 163770,
-      "name": "Me More Cowboy Than You - Demo",
-      "url": "https://open.spotify.com/track/4Kq6O0OuPpQBZJYhawYtio"
+      "duration_ms": 165961,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/74y1VgzL668hynrvA59WQB"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "I Feel Alive (from \"A Minecraft Movie\")",
+        "url": "https://open.spotify.com/album/06GP0d361nDvlMMr8FDSM1"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "I Feel Alive (from \u201cA Minecraft Movie\u201d)",
+      "url": "https://open.spotify.com/track/1b0glc1z1S4pDyU9WCKohN"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "WASH",
+        "url": "https://open.spotify.com/album/1G1RHhRuKnknYqMuprAT6A"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "WASH",
+      "url": "https://open.spotify.com/track/6KPtG0aIKnSqszstXgH2NS"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
@@ -769,7 +769,23 @@
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "Me More Cowboy Than You (Demo)",
+        "url": "https://open.spotify.com/album/5d0kDRfGB0Oeu7B133W2sN"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 163770,
+      "name": "Me More Cowboy Than You - Demo",
+      "url": "https://open.spotify.com/track/4Kq6O0OuPpQBZJYhawYtio"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
@@ -785,7 +801,23 @@
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 198082,
+      "name": "YOUR WAY'S BETTER",
+      "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"
+    },
+    {
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "suburban daredevil",
         "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
@@ -821,52 +853,20 @@
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
     },
     {
-      "added_at": "2025-04-13 15:56:00",
+      "added_at": "2025-04-14 15:32:19",
       "album": {
-        "name": "PA QUE LO BAILES (BAILALO ROCKY)",
-        "url": "https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS"
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
       "artists": [
         {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 125548,
-      "name": "PA QUE LO BAILES (BAILALO ROCKY)",
-      "url": "https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "Love Me To Heaven",
-        "url": "https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 206561,
-      "name": "Love Me To Heaven",
-      "url": "https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr"
-    },
-    {
-      "added_at": "2025-04-13 15:56:00",
-      "album": {
-        "name": "Itty Bitty",
-        "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Itty Bitty",
-      "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
+      "duration_ms": 226050,
+      "name": "Walk Home",
+      "url": "https://open.spotify.com/track/4rxStMhSPuwm1QfXwp5zUA"
     }
   ],
   "unique_name": "Viral 50 - USA",

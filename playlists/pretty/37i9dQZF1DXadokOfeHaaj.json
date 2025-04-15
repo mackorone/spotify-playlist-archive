@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Dam Swindle",
-  "num_followers": 35390,
+  "num_followers": 35400,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
         "name": "From The Stars EP",
         "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 260156,
       "name": "From The Stars",
       "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 279346,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
-        "name": "The Person You\u2019d Like To Be",
-        "url": "https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 197890,
-      "name": "The Person You\u2019d Like To Be",
-      "url": "https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
         "name": "Watching Me Dance",
         "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
+        "name": "The Person You\u2019d Like To Be",
+        "url": "https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 197890,
+      "name": "The Person You\u2019d Like To Be",
+      "url": "https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
-        "name": "Mild To Moderate Pain",
-        "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 195282,
-      "name": "Mild To Moderate Pain",
-      "url": "https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 165454,
       "name": "So Low",
       "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
+        "name": "Mild To Moderate Pain",
+        "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 195282,
+      "name": "Mild To Moderate Pain",
+      "url": "https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
+        "name": "Coming Back To Me Good",
+        "url": "https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 169568,
+      "name": "Coming Back To Me Good",
+      "url": "https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
         "name": "stay alive",
         "url": "https://open.spotify.com/album/3FE6DDUtqAM7HrKueMyXAZ"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 130164,
       "name": "stay alive",
       "url": "https://open.spotify.com/track/1bP6FLHUIUjfecYLsNPK16"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
-        "name": "Coming Back To Me Good",
-        "url": "https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 169568,
-      "name": "Coming Back To Me Good",
-      "url": "https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK"
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 205897,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL"
+      "duration_ms": 258986,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM"
     }
   ],
   "unique_name": "Indie Electronic ",

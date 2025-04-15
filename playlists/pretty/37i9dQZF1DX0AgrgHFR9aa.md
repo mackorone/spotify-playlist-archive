@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,158 likes - 39 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,187 likes - 39 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 38 | [Helvetica](https://open.spotify.com/track/2uLHuCD8pTTRdESyzQIxHm) | [Dj Per\-k](https://open.spotify.com/artist/7FUOByx9lUieRgTu0Glxrz), [Verso](https://open.spotify.com/artist/2wadI8Occyuywvkq9rbbn7), [French Light Records](https://open.spotify.com/artist/7d5v0oeFx3pH3Ep9xlNQlM) | [Helvetica](https://open.spotify.com/album/48guKebksVXsWJuOIAQfji) | 2:06 |
 | 39 | [Chez Polix](https://open.spotify.com/track/5fIt7HHNwcEZWF8DNDLSVp) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [Chez Polix](https://open.spotify.com/album/3RKxPQ7LZpOpnx0L1hmBM5) | 3:02 |
 
-Snapshot ID: `Z/g/ZQAAAADG2/dhpKzSmfC54HOv/rSF`
+Snapshot ID: `Z/zGSQAAAABLn0VRBFkrKjMejqtXUtRC`

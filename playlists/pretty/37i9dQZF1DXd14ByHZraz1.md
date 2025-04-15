@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Juicce
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,346 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,353 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 7 | [MarijuaNnNa](https://open.spotify.com/track/0JXGYHwFOGXdWYWWatSDVO) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [MarijuaNnNa](https://open.spotify.com/album/4vG8zwik7tH9HpaTGvDFlR) | 3:40 |
 | 8 | [Champagne Bottle](https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Mazzocchi](https://open.spotify.com/artist/3nMnwaOd4MPONzv5i46Wza) | [Champagne Bottle](https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof) | 1:58 |
 | 9 | [Fighting](https://open.spotify.com/track/1WD13O1Fxz8UfHKAmrbOp6) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Fighting](https://open.spotify.com/album/3CUd8OGMA8tGPOwMcWdNdh) | 2:28 |
-| 10 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [MRTNI](https://open.spotify.com/artist/0O8F8VzYUlBBnMU1TdaaCa), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
+| 10 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
 | 11 | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/track/4ytfVjVEXfJIe0uZj4WoTF) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/album/1hQ4ooJU4Qof6MDgExzqbI) | 2:56 |
 | 12 | [Miami](https://open.spotify.com/track/0pUqMnvppzZqnmkTmlsCie) | [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [Miami](https://open.spotify.com/album/3kTdSQgAtS4hiY7QZH1iJ0) | 3:12 |
 | 13 | [Mad Max](https://open.spotify.com/track/3WOK3bugvtrDkh04XKUPEq) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Echoes of a Decade](https://open.spotify.com/album/5hbjXY9vfqoNptQKw64FzE) | 2:37 |

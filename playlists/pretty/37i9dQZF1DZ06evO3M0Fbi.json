@@ -1,12 +1,12 @@
 {
   "description": "This is Nirvana. The essential tracks, all in one playlist.",
-  "num_followers": 1419194,
+  "num_followers": 1419325,
   "original_name": "This Is Nirvana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAABifqSeoQJ4Gv4SIFOS9JXH",
+  "snapshot_id": "Z/r+gAAAAAA7k+ZKBlLxpWLHR050Suq5",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 215203,
-      "name": "Love Buzz",
-      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
+      "duration_ms": 217000,
+      "name": "You Know You're Right",
+      "url": "https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 217000,
-      "name": "You Know You're Right",
-      "url": "https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv"
+      "duration_ms": 215203,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
     },
     {
       "added_at": null,

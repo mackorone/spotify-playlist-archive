@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 99948,
+  "num_followers": 99980,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "20eme anniversaire",
+        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Qui saura",
+      "url": "https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "L'Heure D'Et\u00e9",
         "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 158800,
       "name": "Demain c'est toi",
       "url": "https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "20eme anniversaire",
-        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
-      },
-      "artists": [
-        {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Qui saura",
-      "url": "https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Ferrat chante Aragon, l'int\u00e9grale",
+        "url": "https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 141106,
+      "name": "Aimer \u00e0 perdre la raison",
+      "url": "https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 201280,
       "name": "Sad & Slow (avec Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Ferrat chante Aragon, l'int\u00e9grale",
-        "url": "https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA"
-      },
-      "artists": [
-        {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
-        }
-      ],
-      "duration_ms": 141106,
-      "name": "Aimer \u00e0 perdre la raison",
-      "url": "https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL"
     },
     {
       "added_at": "2024-10-03 14:22:43",

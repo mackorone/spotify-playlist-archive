@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-305 songs - 22 hr 48 min
+306 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 | 2022-12-30 | 2024-04-19 |
 | [Seiko 2](https://open.spotify.com/track/7vRbhipDnha1XKNlsEeIVr) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music for Commercials](https://open.spotify.com/album/6769wncEGDC4eRl66lcrpi) | 1:08 | 2024-03-07 | 2025-01-14 |
 | [Seiko 3](https://open.spotify.com/track/6SIBardoRzJ6gSxRS6rfH6) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 1:19 | 2022-12-30 | 2025-03-07 |
-| [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/01CmlNGcKb7UblwhQJ75A8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/1H2S9hCMFvYTd0S98LPZBP) | 3:45 | 2024-03-07 |  |
+| [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/01CmlNGcKb7UblwhQJ75A8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/1H2S9hCMFvYTd0S98LPZBP) | 3:45 | 2024-03-07 | 2025-04-15 |
 | [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/6mqZsDccxymJpBFX5OAuR8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/2XZm1qudmuRBlupOM82pvo) | 3:45 | 2022-12-30 | 2024-04-19 |
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2022-01-07 |  |
 | [sensory](https://open.spotify.com/track/5s55CnaMZgC7RRzZkUbAPC) | [gen asai](https://open.spotify.com/artist/4s1ecdG6K20lrCOSkqf7BR) | [saunagood](https://open.spotify.com/album/0iNaYKXcXqLvGuRP5w3BYl) | 4:33 | 2022-01-07 |  |
@@ -299,6 +299,7 @@
 | [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 | 2022-12-30 | 2023-01-21 |
 | [クラムボンの瞑想\- Meditation of Clammbon](https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8) | [磯田健一郎](https://open.spotify.com/artist/3rFwskAbReckTSOvClgBCt) | [マジエルのまどろみ \- Majel's Slumber](https://open.spotify.com/album/1Z4lvGOqC5H6rDfkeJre8a) | 11:32 | 2024-07-04 |  |
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2022-12-30 |  |
+| [ホタル](https://open.spotify.com/track/02JgKm14vFP4VZHnCmybm3) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [フィルハーモニー](https://open.spotify.com/album/3WFwWemOagEeB7XdtveFLe) | 4:26 | 2025-03-21 |  |
 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2022-12-30 | 2025-01-14 |
 | [光と水](https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 4:35 | 2025-03-06 |  |
 | [光の塵](https://open.spotify.com/track/3vqINomEEpyG7nlUfqbd49) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 5:03 | 2023-10-13 |  |

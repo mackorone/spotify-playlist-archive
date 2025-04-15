@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 135 songs - 5 hr 23 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 136 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,12 +136,13 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 126 | [Gdzie Jest Biały Węgorz \(Zejście\)](https://open.spotify.com/track/40rPqOehcndc4xODWUCfYo) | [Cypis](https://open.spotify.com/artist/20akE7sZUTpZSC78lPhqvt) | [Gdzie Jest Biały Węgorz \(Zejście\)](https://open.spotify.com/album/4M5Gxzc8TJ3zT52ue8gPpN) | 3:50 |
 | 127 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 |
 | 128 | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 |
-| 129 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
-| 130 | [pity party.](https://open.spotify.com/track/4huNCzAZGc2nmzs3uMU6Qp) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Nurture Nurture](https://open.spotify.com/artist/4HsVsh5FD1FlKpUSbbmvIv) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 2:06 |
-| 131 | [THIS AIN’T EVEN ABOUT ANYONE LOL!](https://open.spotify.com/track/2OFmvK2LnlWoWvxATonQqh) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:51 |
-| 132 | [reassurance.](https://open.spotify.com/track/6NAy2TcjgLjcJiVgdL8flR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 1:52 |
-| 133 | [grey.](https://open.spotify.com/track/5IGCyJsxjhC3Y050ONc9Kx) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:39 |
-| 134 | [don'twasteurtimeonme.](https://open.spotify.com/track/11HdoXtPilCaCGTnIu1HvU) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 3:02 |
-| 135 | [hbo.](https://open.spotify.com/track/341d4xN6OfiZxCNe55f19K) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:22 |
+| 129 | [Summer Dub](https://open.spotify.com/track/0MaCHDp2w5kM0fPuYQpDGh) | [Wez Devine](https://open.spotify.com/artist/30tYWjGZbGNowjOI0bl6XG) | [Summer Motion](https://open.spotify.com/album/48oNciJNJ5a6Ut0d5PbpL0) | 3:21 |
+| 130 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
+| 131 | [pity party.](https://open.spotify.com/track/4huNCzAZGc2nmzs3uMU6Qp) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Nurture Nurture](https://open.spotify.com/artist/4HsVsh5FD1FlKpUSbbmvIv) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 2:06 |
+| 132 | [THIS AIN’T EVEN ABOUT ANYONE LOL!](https://open.spotify.com/track/2OFmvK2LnlWoWvxATonQqh) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:51 |
+| 133 | [reassurance.](https://open.spotify.com/track/6NAy2TcjgLjcJiVgdL8flR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 1:52 |
+| 134 | [grey.](https://open.spotify.com/track/5IGCyJsxjhC3Y050ONc9Kx) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:39 |
+| 135 | [don'twasteurtimeonme.](https://open.spotify.com/track/11HdoXtPilCaCGTnIu1HvU) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 3:02 |
+| 136 | [hbo.](https://open.spotify.com/track/341d4xN6OfiZxCNe55f19K) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:22 |
 
-Snapshot ID: `AAAEUvK+35nBQWOcBze5pp4Z1c9Rn4hK`
+Snapshot ID: `AAAEWTFkROlqSxeXP881wyAEm3YvPxNP`

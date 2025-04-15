@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. yeule
 
-1,098 songs - 2 day 5 hr 28 min
+1,099 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [K.K.O](https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [K.K.O](https://open.spotify.com/album/6QMZWUgeNUjAqwaxgFsPFm) | 1:56 | 2023-02-03 | 2023-03-10 |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 | 2022-04-01 |
 | [K9](https://open.spotify.com/track/5nnhETVQeAoJEnGJDuB6fC) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [K9](https://open.spotify.com/album/4yBjOCopyDn9TDoJHm59kf) | 2:55 | 2024-05-16 | 2024-09-06 |
+| [Kare Wa](https://open.spotify.com/track/0SkF6eBxOx0WQcHMIB48i4) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [Kare Wa](https://open.spotify.com/album/3W2wZ6EndBoSfAjOY5EsNk) | 4:33 | 2025-04-14 |  |
 | [Karma Police](https://open.spotify.com/track/1bBThfzpHomaiU1ppk3khJ) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [Karma Police](https://open.spotify.com/album/3qxm2uAdDd0Ns08tcMjwVz) | 3:01 | 2024-08-08 | 2024-11-22 |
 | [Kawasaki \(I Love It\)](https://open.spotify.com/track/1Oqran5DzGGQ1a3U1dQQDM) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Kawasaki \(I Love It\)](https://open.spotify.com/album/31SchVDFY93wxiw59fHdyY) | 3:18 | 2022-07-21 | 2022-09-23 |
 | [KEEP THE PACE](https://open.spotify.com/track/0XMSd4LHV5ZKAUTRclwBw9) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [KEEP THE PACE](https://open.spotify.com/album/54eDyS3Lay5udZ1ypiianP) | 2:53 | 2021-12-27 | 2022-01-19 |

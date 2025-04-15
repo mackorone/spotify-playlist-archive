@@ -4033,6 +4033,28 @@
     },
     {
       "album": {
+        "name": "Get Get Down",
+        "url": "https://open.spotify.com/album/5dj7dMGSn3mW3AS3OoWxYd"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Alpharock",
+          "url": "https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147656,
+      "name": "Get Get Down",
+      "url": "https://open.spotify.com/track/6GiEvgq0lKlDWZoEwlBWvJ"
+    },
+    {
+      "album": {
         "name": "Get in Trouble (So What) [Timmy Trumpet Remix]",
         "url": "https://open.spotify.com/album/3Wx7YFIseIAZPGXgFIX6l8"
       },
@@ -4758,7 +4780,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 183230,
       "name": "Higher State Of Consciousness",
       "url": "https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64"

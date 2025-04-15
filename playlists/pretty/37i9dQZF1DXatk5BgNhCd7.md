@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\.  Silvestre Dangond & Carin Leon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,953 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,978 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 24 | [NOstas](https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE delux: CERODRAMA](https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa) | 2:56 |
 | 25 | [Loco Enamorao](https://open.spotify.com/track/2C9wgqVgp2a8mfYDy0cBdG) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Loco Enamorao](https://open.spotify.com/album/7CPL4wlEuAjNfubaCRrJlN) | 2:55 |
 | 26 | [Rabito](https://open.spotify.com/track/4fp25WCtddRl3vAhXm7XDo) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Rabito](https://open.spotify.com/album/5VuHkPp6K8DuLedlpuOvRd) | 3:28 |
-| 27 | [Locura Sin Techo \- Remix](https://open.spotify.com/track/4Q2STXSjuRAE17aCIhGfHu) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy), [La Deskarga](https://open.spotify.com/artist/3Pohtvl5MO8eQpaZVOrhUS), [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m) | [Locura Sin Techo \(Remix\)](https://open.spotify.com/album/4F3kVz0eoyIIK6HnTyauSa) | 3:29 |
+| 27 | [Locura Sin Techo \- Remix](https://open.spotify.com/track/4Q2STXSjuRAE17aCIhGfHu) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy), [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m), [La Deskarga](https://open.spotify.com/artist/3Pohtvl5MO8eQpaZVOrhUS) | [Locura Sin Techo \(Remix\)](https://open.spotify.com/album/4F3kVz0eoyIIK6HnTyauSa) | 3:29 |
 | 28 | [Tattoo](https://open.spotify.com/track/7o86AdTcQ1BNS9IuPWFInP) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Tattoo](https://open.spotify.com/album/2vPUeL49SW7293P5weOgpf) | 2:24 |
 | 29 | [Nuestros Éxitos, Vol\. 2](https://open.spotify.com/track/4Co8pTu9T1GyUEvWcixHpZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Nuestros Éxitos, Vol\. 2](https://open.spotify.com/album/0bc8pqpJCuytZPZo3QuVva) | 12:08 |
 | 30 | [Siempre Te Amaré](https://open.spotify.com/track/36x26xwtCVlkB5GOXWHPkD) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Siempre Te Amaré](https://open.spotify.com/album/5hBzllmbT50u4SaoR6eEpi) | 3:09 |

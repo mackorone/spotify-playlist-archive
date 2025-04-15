@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: WESLEYFRANKLIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,386,629 likes - 178 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,386,733 likes - 178 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 25 | [Floating](https://open.spotify.com/track/3AlbQwbI3EPSvSSoNbXKQK) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
 | 26 | [Hold Me Close](https://open.spotify.com/track/3DbAEsKYzGhSFwmxmMGBgT) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [No Spaces](https://open.spotify.com/album/1ry3yFtzymJ4jrLZBhuLiZ) | 2:28 |
 | 27 | [Moonlight \(with Isaiah Falls & Merges\)](https://open.spotify.com/track/2WD0WNbFPiFsH2IMMCXIcn) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:59 |
-| 28 | [Unfair](https://open.spotify.com/track/0lSfXdVmXrc6A8TaKBewQq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Unfair](https://open.spotify.com/album/53YwsrvkeXQ0Q7GUYSM1pH) | 2:07 |
+| 28 | [Unfair](https://open.spotify.com/track/0lSfXdVmXrc6A8TaKBewQq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [Unfair](https://open.spotify.com/album/53YwsrvkeXQ0Q7GUYSM1pH) | 2:07 |
 | 29 | [Stay \(feat\. Roy Woods\)](https://open.spotify.com/track/2SkYAIrEkCn09z0IwtK37w) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [I am, because you are...](https://open.spotify.com/album/1iCa2uKzbjFT2csPFD6VAm) | 2:55 |
 | 30 | [Afraid, Pt\. 2 \- feat\. Xenia Manasseh](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2 \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 |
 | 31 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 |

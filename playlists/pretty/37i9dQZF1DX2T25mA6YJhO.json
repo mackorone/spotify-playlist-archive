@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Repion.",
-  "num_followers": 25997,
+  "num_followers": 26013,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,46 @@
     {
       "added_at": "2025-04-10 22:00:09",
       "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/6K2TLtJqoTFvbDiBPTfMI1"
+      },
+      "artists": [
+        {
+          "name": "NI\u00d1A COYOTE eta CHICO TORNADO",
+          "url": "https://open.spotify.com/artist/4QlaoCIrTZjyl1M6TaDUEW"
+        },
+        {
+          "name": "Maika Makovski",
+          "url": "https://open.spotify.com/artist/23qto2LKAJoFxdffbvVvKC"
+        },
+        {
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        },
+        {
+          "name": "Los Zigarros",
+          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
+        },
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+        },
+        {
+          "name": "Le Ra",
+          "url": "https://open.spotify.com/artist/48qMM7J4at63DHV5hqHZfY"
+        },
+        {
+          "name": "Waxy",
+          "url": "https://open.spotify.com/artist/7gtw6fJ0m3qOtkRPSYKipQ"
+        }
+      ],
+      "duration_ms": 65161,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2IKrGxiXxcp4gViTALjfSJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:09",
+      "album": {
         "name": "Te vi en el concierto",
         "url": "https://open.spotify.com/album/2Aagt3zBoR5sNhY8Tysml5"
       },
@@ -763,22 +803,6 @@
     {
       "added_at": "2025-04-10 22:00:09",
       "album": {
-        "name": "Ya no me duele mal",
-        "url": "https://open.spotify.com/album/2cPrx0zF9cy34OWngW5Mqf"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ya no me duele mal",
-      "url": "https://open.spotify.com/track/6S7XyK2Ao38xtVG21dy3uk"
-    },
-    {
-      "added_at": "2025-04-10 22:00:09",
-      "album": {
         "name": "Qu\u00e9 hay de ti? con Cora Yako",
         "url": "https://open.spotify.com/album/7oM21zceAHpG7pWF8ma13q"
       },
@@ -799,42 +823,18 @@
     {
       "added_at": "2025-04-10 22:00:09",
       "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/6K2TLtJqoTFvbDiBPTfMI1"
+        "name": "Ya no me duele mal",
+        "url": "https://open.spotify.com/album/2cPrx0zF9cy34OWngW5Mqf"
       },
       "artists": [
         {
-          "name": "NI\u00d1A COYOTE eta CHICO TORNADO",
-          "url": "https://open.spotify.com/artist/4QlaoCIrTZjyl1M6TaDUEW"
-        },
-        {
-          "name": "Maika Makovski",
-          "url": "https://open.spotify.com/artist/23qto2LKAJoFxdffbvVvKC"
-        },
-        {
-          "name": "Rodrigo Cuevas",
-          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
-        },
-        {
-          "name": "Los Zigarros",
-          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
-        },
-        {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
-        },
-        {
-          "name": "Le Ra",
-          "url": "https://open.spotify.com/artist/48qMM7J4at63DHV5hqHZfY"
-        },
-        {
-          "name": "Waxy",
-          "url": "https://open.spotify.com/artist/7gtw6fJ0m3qOtkRPSYKipQ"
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
         }
       ],
-      "duration_ms": 65161,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2IKrGxiXxcp4gViTALjfSJ"
+      "duration_ms": 180000,
+      "name": "Ya no me duele mal",
+      "url": "https://open.spotify.com/track/6S7XyK2Ao38xtVG21dy3uk"
     },
     {
       "added_at": "2025-04-10 22:00:09",

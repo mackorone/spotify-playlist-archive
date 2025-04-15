@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Ruby Plume
 
-841 songs - 1 day 20 hr 56 min
+842 songs - 1 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [I just don't think I'll make it over you.](https://open.spotify.com/track/3GrePGRplvl9v5EFZs2xzj) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [I just don't think I'll make it over you.](https://open.spotify.com/album/0WujnDrd2N0FksTXRW0yDl) | 3:43 | 2024-11-15 |  |
 | [I Just Killed a Spider](https://open.spotify.com/track/2v08UMPVyUwg5NmCNEQpMY) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I Just Killed a Spider](https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39) | 2:29 | 2024-04-12 | 2024-09-07 |
 | [I Know What It Isn't](https://open.spotify.com/track/0AHmkzxAC070F548NHKAM0) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [I Know What It Isn't](https://open.spotify.com/album/0nv0PvvCZ2OrvlUWUxGaj8) | 3:03 | 2023-11-17 | 2024-02-21 |
+| [i know, i know, i know](https://open.spotify.com/track/3HXGdQXb9XTDD1IqFWkSNc) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [i know, i know, i know](https://open.spotify.com/album/2gW4roHxueJO5T94B0KS8v) | 3:22 | 2025-04-14 |  |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 | 2022-09-10 |
 | [I Love My Birthday](https://open.spotify.com/track/7n7hPWER2dtJovBznJHa8W) | [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [I Love My Birthday](https://open.spotify.com/album/4FT9kjBjX9zpfxtqPCVUxB) | 3:07 | 2022-01-14 | 2022-08-20 |
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-14 | 2022-04-09 |

@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 146100,
       "name": "Alcance",
       "url": "https://open.spotify.com/track/5ztAcoTCCDKvkdGnAjqNM5"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 216062,
       "name": "Always Raining",
       "url": "https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 171000,
       "name": "Back Alley Rainstorm",
       "url": "https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 208124,
       "name": "Been Raining For Hours",
       "url": "https://open.spotify.com/track/7iZHDQwbapPo9MYf3KLSG0"
@@ -326,6 +326,24 @@
       "duration_ms": 196000,
       "name": "Big Thunder",
       "url": "https://open.spotify.com/track/0TyW7t2bweA1BLsIOc2iah"
+    },
+    {
+      "album": {
+        "name": "Blast From The Sky",
+        "url": "https://open.spotify.com/album/6PlLDX3TUIhY2syQAuawEF"
+      },
+      "artists": [
+        {
+          "name": "The Sound Of Thunder",
+          "url": "https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192446,
+      "name": "Blast From The Sky",
+      "url": "https://open.spotify.com/track/0jUlM2XfSiAIocpNuZhPlI"
     },
     {
       "album": {
@@ -484,7 +502,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 122601,
       "name": "Calming Rain Sounds",
       "url": "https://open.spotify.com/track/0etdbMJmGbANfSdrcJ2fNE"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 177586,
       "name": "Calming Rain Sounds",
       "url": "https://open.spotify.com/track/4Tx8wbiny4HLw62K9hppp8"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 139691,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/0MAlsJSQfEgP9VjUtNQL8Q"
@@ -718,7 +736,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 147696,
       "name": "Constant Heavy Rain",
       "url": "https://open.spotify.com/track/0T6g62X91GsCWDuHwl4LHe"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 132874,
       "name": "Contemplate",
       "url": "https://open.spotify.com/track/3vHt6dOIG28NFiyJzX3HmG"
@@ -952,7 +970,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 180000,
       "name": "Dark Storm",
       "url": "https://open.spotify.com/track/2bI4BdFdtdDBM2q3xB3IZR"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 192124,
       "name": "Das Unwetter",
       "url": "https://open.spotify.com/track/7D9DQF0eBc7E3OLBNXaKIu"
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 192000,
       "name": "Don't Mind The Rain",
       "url": "https://open.spotify.com/track/0MaiuoWpYrbJVeCibetT3k"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 155902,
       "name": "Dozy Rain",
       "url": "https://open.spotify.com/track/3wOtLN7sjMS5nuO7VLJsoN"
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 137462,
       "name": "Drizzling Down",
       "url": "https://open.spotify.com/track/4scLidW4WSD9JbaRc9CspV"
@@ -1445,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Electrostatic",
+        "url": "https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv"
+      },
+      "artists": [
+        {
+          "name": "Vedhamn Sounds",
+          "url": "https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163203,
+      "name": "Electrostatic",
+      "url": "https://open.spotify.com/track/4Q73bV2I8Bl55TWlBBUyr5"
+    },
+    {
+      "album": {
         "name": "En Sinton\u00eda",
         "url": "https://open.spotify.com/album/3fnaCxg6msIv9Pmtv5haC3"
       },
@@ -1456,7 +1492,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 160783,
       "name": "En Sinton\u00eda",
       "url": "https://open.spotify.com/track/0JGDyzJ1lBIkvcTVSKYWsf"
@@ -1690,7 +1726,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 169412,
       "name": "Farifax Rain",
       "url": "https://open.spotify.com/track/5xhJMhyDHNzFS2FCDSQTp7"
@@ -1834,7 +1870,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 149391,
       "name": "Focus Rain On Shore",
       "url": "https://open.spotify.com/track/74tDgRyL1BSz4nNFNVTWxq"
@@ -1870,7 +1906,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 136000,
       "name": "Foggy Day - Rain",
       "url": "https://open.spotify.com/track/6O1pVoqhU67xcef4pglZHK"
@@ -1960,7 +1996,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 208000,
       "name": "Forgotten Skies",
       "url": "https://open.spotify.com/track/5hY7DPBIJJc0tIBVMBIcIZ"
@@ -2050,7 +2086,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 139666,
       "name": "Fuerte lluvia y trueno",
       "url": "https://open.spotify.com/track/226PADyAAd84tELtUrT4No"
@@ -2086,7 +2122,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 193338,
       "name": "Gentle Garden Rain",
       "url": "https://open.spotify.com/track/43xyo8dOzS47tWP2omabv6"
@@ -2104,7 +2140,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 126703,
       "name": "Gentle Rainfall",
       "url": "https://open.spotify.com/track/0VXm3lekdKs2OriLvog6qz"
@@ -2212,7 +2248,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 134492,
       "name": "Good Night Nature Rain",
       "url": "https://open.spotify.com/track/3XyCMBq2Q11RBeW3n6gRw4"
@@ -2338,7 +2374,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 216000,
       "name": "Hailing Hummidity",
       "url": "https://open.spotify.com/track/07uamJXxvjKfV5N8Y28oUF"
@@ -2374,7 +2410,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 200505,
       "name": "Hard Rain 3",
       "url": "https://open.spotify.com/track/2nqyQEWwRitXReoUdODWzl"
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Healing Storm",
       "url": "https://open.spotify.com/track/4twYB7FXbZMS5a0e6GN5Tc"
@@ -2680,7 +2716,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 180000,
       "name": "It's gonna rain all night",
       "url": "https://open.spotify.com/track/1G0eLrad9sztISHG75a5cv"
@@ -2698,7 +2734,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 216000,
       "name": "It's Gonna Rain Tonight",
       "url": "https://open.spotify.com/track/2Ei6wXJdIcrKxIQ11v8OhW"
@@ -2734,7 +2770,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 208062,
       "name": "it's raining",
       "url": "https://open.spotify.com/track/6rgwScNF1ITtEYa8mkLQ0P"
@@ -2788,7 +2824,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 156007,
       "name": "La temp\u00eate",
       "url": "https://open.spotify.com/track/2wXuw7beVHAyCdOhIqvmgZ"
@@ -2806,7 +2842,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 126000,
       "name": "Late Night Raining",
       "url": "https://open.spotify.com/track/2zStQSzyTzzTMPcXPdbRJE"
@@ -2914,7 +2950,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 178000,
       "name": "Light Rain - Distant Thunder",
       "url": "https://open.spotify.com/track/3Cs5FEzThXXBVwavjW2DaX"
@@ -3094,7 +3130,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 149666,
       "name": "Lluvia, trueno, viento",
       "url": "https://open.spotify.com/track/1ebeEq5lUHhIPwvFeNr6gi"
@@ -3166,7 +3202,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 132124,
       "name": "Luscious Rain",
       "url": "https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0"
@@ -3220,7 +3256,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 130229,
       "name": "Marsh Rain",
       "url": "https://open.spotify.com/track/2RfArgDAbCC1zHe5oGGmRO"
@@ -3400,7 +3436,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 137666,
       "name": "Muffled Thunder",
       "url": "https://open.spotify.com/track/62FbvSIIiSQ8nCClTv5JTr"
@@ -3526,7 +3562,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 160500,
       "name": "Neighborhood Rain",
       "url": "https://open.spotify.com/track/3UXRdoAEg4rM51dYaB95nM"
@@ -3544,7 +3580,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 137391,
       "name": "Nemesis",
       "url": "https://open.spotify.com/track/7kyjoTvqu9H0cq7qYXeyMm"
@@ -3652,7 +3688,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 145002,
       "name": "Nocturne Rain",
       "url": "https://open.spotify.com/track/1mOkjs4DIuCQg6qmAxttyW"
@@ -3724,7 +3760,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Northern Thunder",
       "url": "https://open.spotify.com/track/1nM1KVbx4nHwsuw5oIJUET"
@@ -3832,7 +3868,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 174932,
       "name": "Oneiric Rain",
       "url": "https://open.spotify.com/track/4KVtQrlK6ABMi5UkSuXHBF"
@@ -3868,7 +3904,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 148607,
       "name": "Out In the Wild",
       "url": "https://open.spotify.com/track/4H2UoVHDlQe6t14ulSYW6y"
@@ -3886,7 +3922,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 182000,
       "name": "Outdoors Rain With Thunder (Seamless)",
       "url": "https://open.spotify.com/track/0prtbZYVPOt3qX5taZ3EtH"
@@ -4102,7 +4138,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Porch Cleanse",
       "url": "https://open.spotify.com/track/20djsX0GYVMsGjRVTeuOVP"
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 151579,
       "name": "Pure Air & Water",
       "url": "https://open.spotify.com/track/3nQbThFvoVnXOS0pHXcnTY"
@@ -4343,6 +4379,24 @@
     },
     {
       "album": {
+        "name": "Rain For The Queen",
+        "url": "https://open.spotify.com/album/2q0IUlA89T4UMf4n4j2DMR"
+      },
+      "artists": [
+        {
+          "name": "Royal Rain",
+          "url": "https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210517,
+      "name": "Rain & Thunder Outside The Palace",
+      "url": "https://open.spotify.com/track/5H6GwQZbsw9LSewKcfb57O"
+    },
+    {
+      "album": {
         "name": "Leaking Clouds",
         "url": "https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh"
       },
@@ -4372,7 +4426,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 208062,
       "name": "Rain all day",
       "url": "https://open.spotify.com/track/4U3kZ08NfzuRTKIjoUzNFD"
@@ -4444,7 +4498,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 158250,
       "name": "Rain Dancing",
       "url": "https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp"
@@ -4480,7 +4534,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 158250,
       "name": "Rain Dream",
       "url": "https://open.spotify.com/track/4UDjpSQ6sKKdgfXsUh6Brj"
@@ -4498,7 +4552,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 173951,
       "name": "Rain Drops for Deep Sleep",
       "url": "https://open.spotify.com/track/73oH76vGccrt4sU44ifR1p"
@@ -4678,7 +4732,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 171357,
       "name": "Rain Meditation",
       "url": "https://open.spotify.com/track/2H2D2WpopERgoEfIkY9ORD"
@@ -4732,7 +4786,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 209020,
       "name": "Rain On The Autumn Leaves",
       "url": "https://open.spotify.com/track/4Uclrcxkq2wCWX5ieA0LfN"
@@ -4804,7 +4858,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 190152,
       "name": "Rain On The Rooftop",
       "url": "https://open.spotify.com/track/4M2Ig5mHw3p3H1OJwutuyO"
@@ -4894,7 +4948,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 170000,
       "name": "Rain Trees",
       "url": "https://open.spotify.com/track/1N8ouMgBmPtOkNVYf1DX8J"
@@ -4930,7 +4984,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 120372,
       "name": "Rain White Noise",
       "url": "https://open.spotify.com/track/7wiYlHZDFHzFJt3YvdZ3Qc"
@@ -5056,7 +5110,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 146621,
       "name": "Raindrop Therapy: Calming Nature Sounds",
       "url": "https://open.spotify.com/track/6D9jolrYI4EHvePVa9FNdq"
@@ -5218,7 +5272,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 143666,
       "name": "Rainstorm",
       "url": "https://open.spotify.com/track/5Z5fhku3u9oxVV6KTPRsPZ"
@@ -5236,7 +5290,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 180176,
       "name": "Rainy Alley",
       "url": "https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1"
@@ -5380,7 +5434,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 208124,
       "name": "Rainy Nights",
       "url": "https://open.spotify.com/track/0rAc8hJhlILO2N4Peo0Y75"
@@ -5416,7 +5470,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 144000,
       "name": "Rainy Stoop",
       "url": "https://open.spotify.com/track/4ydNgtF9wusuw2CPFvofnH"
@@ -5452,7 +5506,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 133746,
       "name": "Recordings of Rain",
       "url": "https://open.spotify.com/track/1zG951qozJFbc91W7dZL9n"
@@ -5524,7 +5578,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 147123,
       "name": "Relaxing Forest Clappering",
       "url": "https://open.spotify.com/track/0EdfDTRdy5nMuy89Eiw4xp"
@@ -5614,7 +5668,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 174000,
       "name": "REM Cycle Rain",
       "url": "https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0"
@@ -5812,7 +5866,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 160000,
       "name": "Seaside Harbor - Rain",
       "url": "https://open.spotify.com/track/40Sbi8GwdiszUczHmym3fG"
@@ -5866,7 +5920,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 212000,
       "name": "Sleep in the rain",
       "url": "https://open.spotify.com/track/1bsxsOKLVuh2jCUdrm6X3r"
@@ -5902,7 +5956,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 138932,
       "name": "Sleep Rain in Nature",
       "url": "https://open.spotify.com/track/5vNsQqP4iqNL5UvK3XCKRf"
@@ -6010,7 +6064,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 146000,
       "name": "Slumber Rain",
       "url": "https://open.spotify.com/track/2pUhY7tWx8egpw2qn84iSi"
@@ -6568,7 +6622,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 216000,
       "name": "Storms Eye",
       "url": "https://open.spotify.com/track/5tu0yyz3KaVGWSxs6RchPA"
@@ -6640,7 +6694,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 155671,
       "name": "Stormy Night Reflections: Rain Soundscape",
       "url": "https://open.spotify.com/track/6rbJkjLFKy3UFYwODuA8pl"
@@ -6694,7 +6748,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 208000,
       "name": "Stormy Road",
       "url": "https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc"
@@ -6809,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "Thunder & Rain",
+        "url": "https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE"
+      },
+      "artists": [
+        {
+          "name": "Creatress",
+          "url": "https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Subtle Thunderstorm",
+      "url": "https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C"
+    },
+    {
+      "album": {
         "name": "Days Of Rain",
         "url": "https://open.spotify.com/album/0cBWB9SDm1IIxQ7weGrpiG"
       },
@@ -6838,7 +6910,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 159388,
       "name": "Summer Storms",
       "url": "https://open.spotify.com/track/58EtUoSNjEOnomIEc5daGp"
@@ -6971,6 +7043,24 @@
     },
     {
       "album": {
+        "name": "The Nimbus Part Four",
+        "url": "https://open.spotify.com/album/58f3l3acutVm5ZXbLw95pP"
+      },
+      "artists": [
+        {
+          "name": "Neo Si",
+          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "The Nimbus Part Four",
+      "url": "https://open.spotify.com/track/7qRzGy11S8qSinKHXbFAVx"
+    },
+    {
+      "album": {
         "name": "Wet Terrain",
         "url": "https://open.spotify.com/album/3HUBias9HKd0fxmDMZX9lD"
       },
@@ -7036,7 +7126,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 207410,
       "name": "Through The Storm And Rain",
       "url": "https://open.spotify.com/track/7Lr2svEwRL2D0FyFeUkTsu"
@@ -7126,7 +7216,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 167047,
       "name": "Thunder And Storm",
       "url": "https://open.spotify.com/track/3W1bHskcJ8bcJdwpD2HCBE"
@@ -7198,10 +7288,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 132000,
       "name": "Thunder Through The Night",
       "url": "https://open.spotify.com/track/06gtbxmgyG7uYuDDsorKSg"
+    },
+    {
+      "album": {
+        "name": "Electrifying Thunder",
+        "url": "https://open.spotify.com/album/4vXUtxHGMiwqsYXVRxt9fT"
+      },
+      "artists": [
+        {
+          "name": "Rain Hive",
+          "url": "https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186547,
+      "name": "Thunderbolt Blitz",
+      "url": "https://open.spotify.com/track/7tn4tHgB0yfNVv1hoS2RKg"
     },
     {
       "album": {
@@ -7241,6 +7349,24 @@
     },
     {
       "album": {
+        "name": "Thunderstorms In Italy",
+        "url": "https://open.spotify.com/album/59SfFs0fby6KmMp9A6hnPu"
+      },
+      "artists": [
+        {
+          "name": "Pluvious",
+          "url": "https://open.spotify.com/artist/5m8Ny76aXScYfB1HkcjzB6"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Thunderstorms In Italy - Seamless",
+      "url": "https://open.spotify.com/track/4usbGXSHEFUs8W9lXvGRw5"
+    },
+    {
+      "album": {
         "name": "L\u00e9g\u00e8re pluie d'orage",
         "url": "https://open.spotify.com/album/2SGw4AZyKFo9jMVOXsSQqy"
       },
@@ -7270,7 +7396,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 138948,
       "name": "Tonnerre Tropical",
       "url": "https://open.spotify.com/track/4g8Uwb4iR9NVsQA4zpixt5"
@@ -7360,7 +7486,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 126316,
       "name": "Tormenta De Lluvia",
       "url": "https://open.spotify.com/track/5sIj5SGyT0k2CsZYGoue5n"
@@ -7522,7 +7648,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 128000,
       "name": "Under Roof - Rain/Thunder",
       "url": "https://open.spotify.com/track/3k5VRh1H1Khp7PN8Yp8fB8"
@@ -7540,7 +7666,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 195729,
       "name": "Under Shelter Rainstorm",
       "url": "https://open.spotify.com/track/6H8uyA5LdEyEEHqOkCslYI"
@@ -7558,7 +7684,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 158250,
       "name": "Under The Clouds",
       "url": "https://open.spotify.com/track/4PHRttQK5SWtPDBVEPnbhu"
@@ -7576,7 +7702,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 150000,
       "name": "Under the rain",
       "url": "https://open.spotify.com/track/11xruOZ75TACfdzIk7PzbD"
@@ -7724,7 +7850,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 153065,
       "name": "Watch The Storm",
       "url": "https://open.spotify.com/track/3g8n6JHQDGGjrE27lAtpvn"
@@ -7742,7 +7868,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 208000,
       "name": "Wellness Rain",
       "url": "https://open.spotify.com/track/4rKp4sdH20PMMy6XBNARZt"

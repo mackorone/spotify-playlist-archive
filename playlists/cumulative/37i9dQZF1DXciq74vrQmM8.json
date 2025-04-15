@@ -10631,6 +10631,24 @@
     },
     {
       "album": {
+        "name": "Kare Wa",
+        "url": "https://open.spotify.com/album/3W2wZ6EndBoSfAjOY5EsNk"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273874,
+      "name": "Kare Wa",
+      "url": "https://open.spotify.com/track/0SkF6eBxOx0WQcHMIB48i4"
+    },
+    {
+      "album": {
         "name": "Karma Police",
         "url": "https://open.spotify.com/album/3qxm2uAdDd0Ns08tcMjwVz"
       },

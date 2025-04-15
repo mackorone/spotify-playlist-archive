@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 48661,
+  "num_followers": 48674,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "El Cantante de los Cantantes",
+        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Lo Qu\u00e9 Pide La Gente",
         "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "El Cantante de los Cantantes",
-        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 622520,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
         "name": "The Original Gangster",
         "url": "https://open.spotify.com/album/3JeCqt5x6vtDbGPYhGDmW6"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Salsa Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/41WgoKq8UltJA2tL7msFdt"
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
       },
       "artists": [
         {
-          "name": "Orquesta la Conquistadora",
-          "url": "https://open.spotify.com/artist/5K43dAVcndPzz93nk2k0LG"
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
         }
       ],
-      "duration_ms": 307841,
-      "name": "Se Prendio La Candela",
-      "url": "https://open.spotify.com/track/1FrzGFS0PQeAAIvL5alfnE"
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
     }
   ],
   "unique_name": "Cocina con Salsa",

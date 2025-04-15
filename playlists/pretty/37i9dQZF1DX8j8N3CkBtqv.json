@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Faheem Abdullah, Kushagra, Akanksha Sethi and other exciting artists.",
-  "num_followers": 79125,
+  "num_followers": 79185,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-04-04 06:23:20",
       "album": {
+        "name": "Dil Ki Sada",
+        "url": "https://open.spotify.com/album/0JP7dZnlGJuAHWTht7rEof"
+      },
+      "artists": [
+        {
+          "name": "Prady J",
+          "url": "https://open.spotify.com/artist/0Z7xTlsSbRQzaCTISzk8jJ"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Dil Ki Sada",
+      "url": "https://open.spotify.com/track/41iqI5PyUzXt6gpU4C3OKY"
+    },
+    {
+      "added_at": "2025-04-04 06:23:20",
+      "album": {
         "name": "Kehndi Hai",
         "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 149927,
       "name": "Kehndi Hai",
       "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
-    },
-    {
-      "added_at": "2025-04-04 06:23:20",
-      "album": {
-        "name": "Dil Ki Sada",
-        "url": "https://open.spotify.com/album/0JP7dZnlGJuAHWTht7rEof"
-      },
-      "artists": [
-        {
-          "name": "Prady J",
-          "url": "https://open.spotify.com/artist/0Z7xTlsSbRQzaCTISzk8jJ"
-        }
-      ],
-      "duration_ms": 247578,
-      "name": "Dil Ki Sada",
-      "url": "https://open.spotify.com/track/41iqI5PyUzXt6gpU4C3OKY"
     },
     {
       "added_at": "2025-04-04 06:23:20",
@@ -571,18 +571,26 @@
     {
       "added_at": "2025-04-04 06:23:20",
       "album": {
-        "name": "Tera Yaar",
-        "url": "https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr"
+        "name": "Bemisaal",
+        "url": "https://open.spotify.com/album/3AtuHjZeRoHty99elMAmn2"
       },
       "artists": [
         {
-          "name": "KhoslaRaghu",
-          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        },
+        {
+          "name": "rohh",
+          "url": "https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Tera Yaar",
-      "url": "https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9"
+      "duration_ms": 168086,
+      "name": "Dheere Dheere",
+      "url": "https://open.spotify.com/track/2UqZKzgUmm7StpSPx050t4"
     },
     {
       "added_at": "2025-04-04 06:23:20",
@@ -623,46 +631,18 @@
     {
       "added_at": "2025-04-04 06:23:20",
       "album": {
-        "name": "Bemisaal",
-        "url": "https://open.spotify.com/album/3AtuHjZeRoHty99elMAmn2"
+        "name": "Tera Yaar",
+        "url": "https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr"
       },
       "artists": [
         {
-          "name": "Samad Khan",
-          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
-        },
-        {
-          "name": "Bharath",
-          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
-        },
-        {
-          "name": "rohh",
-          "url": "https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf"
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
         }
       ],
-      "duration_ms": 168086,
-      "name": "Dheere Dheere",
-      "url": "https://open.spotify.com/track/2UqZKzgUmm7StpSPx050t4"
-    },
-    {
-      "added_at": "2025-04-04 06:23:20",
-      "album": {
-        "name": "Jaane Jaana",
-        "url": "https://open.spotify.com/album/1SZ92QLakvszzoWAZ4H6Xh"
-      },
-      "artists": [
-        {
-          "name": "Abir",
-          "url": "https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO"
-        },
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jaane Jaana",
-      "url": "https://open.spotify.com/track/19r3RVBCyOUyNoTHZqbEHX"
+      "duration_ms": 225000,
+      "name": "Tera Yaar",
+      "url": "https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9"
     },
     {
       "added_at": "2025-04-04 06:23:20",
@@ -683,6 +663,26 @@
       "duration_ms": 182000,
       "name": "Channa Ve",
       "url": "https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ"
+    },
+    {
+      "added_at": "2025-04-04 06:23:20",
+      "album": {
+        "name": "Jaane Jaana",
+        "url": "https://open.spotify.com/album/1SZ92QLakvszzoWAZ4H6Xh"
+      },
+      "artists": [
+        {
+          "name": "Abir",
+          "url": "https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jaane Jaana",
+      "url": "https://open.spotify.com/track/19r3RVBCyOUyNoTHZqbEHX"
     },
     {
       "added_at": "2025-04-04 06:23:20",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-04-04 06:23:20",
       "album": {
-        "name": "Summercoat",
-        "url": "https://open.spotify.com/album/2TJrs5gRMnUFKmZAWJ8TWu"
+        "name": "Elahi",
+        "url": "https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy"
       },
       "artists": [
         {
-          "name": "Bharat Chauhan",
-          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+          "name": "Salman Elahi",
+          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
         }
       ],
-      "duration_ms": 213874,
-      "name": "Summercoat",
-      "url": "https://open.spotify.com/track/5nXpK11JqlN0kOx4IXzV7R"
+      "duration_ms": 225283,
+      "name": "Raza",
+      "url": "https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G"
     }
   ],
   "unique_name": "Naya Indiestan",

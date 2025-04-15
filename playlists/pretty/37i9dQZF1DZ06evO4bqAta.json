@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 565820,
+  "num_followers": 565948,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAACODIEP9S2rJgMPQFHNOg51",
+  "snapshot_id": "Z/r+gAAAAABZgYmclHSTLHAse7shDaYC",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Dylan",
-        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Song to Woody",
-      "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
+      "duration_ms": 186213,
+      "name": "The Man in Me",
+      "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
     },
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 186213,
-      "name": "The Man in Me",
-      "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
+      "duration_ms": 160000,
+      "name": "Song to Woody",
+      "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
     },
     {
       "added_at": null,

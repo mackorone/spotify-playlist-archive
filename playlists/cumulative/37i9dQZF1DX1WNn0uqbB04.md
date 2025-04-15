@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-105 songs - 6 hr 38 min
+106 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,10 +80,11 @@
 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 | 2023-08-04 |  |
 | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Sgoliat vs KoolTURE](https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1) | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8) | 3:36 | 2023-08-04 |  |
 | [Purgamorio](https://open.spotify.com/track/137izbynWsYW4PNJGuyYNQ) | [Entangados](https://open.spotify.com/artist/4JwhUf48kn5DD7iUo1ILUu) | [Purgamorio](https://open.spotify.com/album/7cdQH9TufqbcM1HT0A2cjn) | 4:34 | 2023-11-24 | 2023-12-23 |
+| [Quiero Verte Una Vez Más \- Tango](https://open.spotify.com/track/1VtlqzEmFWttigIeYAZtQ9) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Siempre Tango](https://open.spotify.com/artist/5H7ESVqExDnW9YMScjKbAw) | [Quiero Verte Una Vez Más \(Tango\)](https://open.spotify.com/album/1brLm5hMsOCXQ7jHrRGtTH) | 3:35 | 2025-04-11 |  |
 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 | 2023-11-24 | 2025-02-26 |
 | [Regina](https://open.spotify.com/track/4HJaTZTBxNZ7kxZExuMMDr) | [Electrocutango](https://open.spotify.com/artist/2cj1R53AEPGh3hNvipWs0i) | [Felino](https://open.spotify.com/album/2fCOloYpBVq62UjAz24FhS) | 5:43 | 2023-08-04 |  |
 | [Rg](https://open.spotify.com/track/63he9ulZGKrfFrWa1mTYgI) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [Summer Tango](https://open.spotify.com/album/1XDSxgEXFdtUMPxL5dXLpj) | 3:38 | 2024-11-04 | 2025-01-27 |
-| [Roberto](https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:33 | 2023-08-04 |  |
+| [Roberto](https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:33 | 2023-08-04 | 2025-04-15 |
 | [Santa Maria \(Del Buen Ayre\)](https://open.spotify.com/track/3sPkMFWk9zi5LAA0T1qvpc) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 5:57 | 2023-08-04 | 2024-04-19 |
 | [Santa María \(del Buen Ayre\)](https://open.spotify.com/track/65MDo5mxRY45IHpyVkLEU5) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La revancha del tango](https://open.spotify.com/album/2riLhxE3UzS3evEXAwjEJq) | 5:57 | 2023-11-24 |  |
 | [Sin Rumbo](https://open.spotify.com/track/6WGeW1Ooa2dndzIGwXCVFW) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Otros Aires](https://open.spotify.com/album/24uMVkq4ni8tDFHwva5e8p) | 3:53 | 2023-08-04 | 2024-04-19 |

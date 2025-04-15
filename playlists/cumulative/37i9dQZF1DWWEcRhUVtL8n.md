@@ -4,12 +4,12 @@
 
 > New and approved indie pop\. Cover: Malcom Todd
 
-2,089 songs - 4 day 14 hr 35 min
+2,090 songs - 4 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Wasted\) on the Moon](https://open.spotify.com/track/2GurI9rmNY6YArkxEYTUKt) | [Halo Kitsch](https://open.spotify.com/artist/4kjYrogjc9CwlkeA6Sy9mH) | [\(Wasted\) on the Moon](https://open.spotify.com/album/367MwS3jbBYe9A6DV487PJ) | 3:51 | 2021-02-03 | 2021-05-11 |
-| [\*\*PSILOCYBIN & DAISIES\*\*](https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PSILOCYBIN & DAISIES](https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH) | 2:17 | 2025-03-07 |  |
+| [\*\*PSILOCYBIN & DAISIES\*\*](https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PSILOCYBIN & DAISIES](https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH) | 2:17 | 2025-03-07 | 2025-04-15 |
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-21 |  |
 | [1 2 365 4 Me](https://open.spotify.com/track/6TtDPG6eFqDGooeyKYXaea) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [Kennen's Cassettes](https://open.spotify.com/album/6ex0UfSwjQz35e3ksthUxW) | 2:54 | 2021-02-25 | 2022-04-14 |
 | [100 Degrees](https://open.spotify.com/track/3rfMbh0ZIJyPR9IjrW3Y0s) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [100 Degrees](https://open.spotify.com/album/1gXllHQq0TLUjpD6sSWOOl) | 3:22 | 2023-06-02 | 2023-06-17 |
@@ -1191,6 +1191,7 @@
 | [Marigold](https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Hearth Room](https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO) | 3:22 | 2024-01-12 | 2024-02-08 |
 | [mario kart \(feat\. Travis Barker\)](https://open.spotify.com/track/30ymFh1FOJFYrxHNwP1NQU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [drinking under the streetlights](https://open.spotify.com/album/5U4bpnZJBgFxmkhLMDmXEz) | 3:15 | 2021-06-04 | 2022-04-15 |
 | [Mariposa](https://open.spotify.com/track/1DoTOLMkoBQBvwL03teDcX) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Mariposa](https://open.spotify.com/album/3odwLJIqls0IKMF5WlQg65) | 3:41 | 2020-10-13\* | 2021-01-21 |
+| [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 | 2025-04-04 |  |
 | [mason jar](https://open.spotify.com/track/44MDRUBb2OWMXznojxHMS4) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [mason jar / wanna be](https://open.spotify.com/album/0fKp8beezInGKO2Rqw7cLh) | 3:40 | 2021-10-29 | 2022-01-17 |
 | [Massive Escape \- Arlie Remix](https://open.spotify.com/track/68rtq5ugG2ac3CQJRkVOKm) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg), [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Massive Escape \(Arlie Remix\)](https://open.spotify.com/album/5cmU7KKqlejkXB7ZtfnGMg) | 2:58 | 2022-05-20 | 2022-07-18 |
 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 | 2021-05-04 | 2021-05-28 |

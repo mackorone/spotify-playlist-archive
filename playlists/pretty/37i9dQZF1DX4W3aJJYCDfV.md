@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Bon Iver, Lana Del Rey, Loyle Carner and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,756 likes - 119 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,778 likes - 119 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 97 | [sunny side up](https://open.spotify.com/track/6vAdFjljMSaMIO7IO6FY2V) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [sunny side up](https://open.spotify.com/album/4rHc20KVLV00z8i0xVDCpp) | 3:19 |
 | 98 | [London Eye](https://open.spotify.com/track/2RJqqdQ6LAPBF3Dme2kzUV) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [London Eye](https://open.spotify.com/album/3fVgBKX3yt1H91R2DTOUcf) | 2:12 |
 | 99 | [Ratbag](https://open.spotify.com/track/3BvjuuVPy8VcfTIFXE5QWE) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Ratbag](https://open.spotify.com/album/341iSjPgXfJvcffAe575bY) | 2:56 |
-| 100 | [Unfair](https://open.spotify.com/track/0lSfXdVmXrc6A8TaKBewQq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Unfair](https://open.spotify.com/album/53YwsrvkeXQ0Q7GUYSM1pH) | 2:07 |
+| 100 | [Unfair](https://open.spotify.com/track/0lSfXdVmXrc6A8TaKBewQq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [Unfair](https://open.spotify.com/album/53YwsrvkeXQ0Q7GUYSM1pH) | 2:07 |
 | 101 | [Waiting For The Walls To Change](https://open.spotify.com/track/3lLHICs9iYNNt0kV8u8GZk) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Waiting For The Walls To Change](https://open.spotify.com/album/3AuI4FInQDWRBtAlp6Y496) | 3:22 |
 | 102 | [Vamos](https://open.spotify.com/track/1DV4TvzyQRoaSxhWWrzPQ3) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Vamos](https://open.spotify.com/album/7i4cyku82xBs8ERCNIAo0F) | 3:33 |
 | 103 | [Citrus](https://open.spotify.com/track/4g10sqEm8v6qbe3LSb8wtK) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Beats & Pieces](https://open.spotify.com/album/4Gw6m1hSwHNKu08Jj6xpCy) | 2:09 |

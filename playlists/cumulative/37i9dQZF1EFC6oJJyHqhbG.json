@@ -385,6 +385,28 @@
     },
     {
       "album": {
+        "name": "Snow Waltz",
+        "url": "https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224525,
+      "name": "Crazy For Christmas [Feat. Bonnie McKee]",
+      "url": "https://open.spotify.com/track/5iUOoOkcWqWUh8ByJfOnOa"
+    },
+    {
+      "album": {
         "name": "Trespassing (Deluxe Version)",
         "url": "https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h"
       },
@@ -1628,6 +1650,32 @@
       "duration_ms": 183750,
       "name": "Obsessed (feat. Ashley Sienna)",
       "url": "https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH"
+    },
+    {
+      "album": {
+        "name": "Obsessed (feat. Ashley Sienna) [Slush Puppy Remix]",
+        "url": "https://open.spotify.com/album/1oafjF0WNExySlSD6LaJXw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        },
+        {
+          "name": "Slush Puppy",
+          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155848,
+      "name": "Obsessed (feat. Ashley Sienna) - Slush Puppy Remix",
+      "url": "https://open.spotify.com/track/6hfBfgN4UzqJ2FsqqwwyFw"
     },
     {
       "album": {

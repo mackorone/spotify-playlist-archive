@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Sub Zero Project & Dual Damage
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,319 likes - 110 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,392 likes - 110 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

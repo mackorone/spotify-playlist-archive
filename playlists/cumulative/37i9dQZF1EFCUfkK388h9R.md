@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-55 songs - 2 hr 51 min
+56 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [He's Trippi](https://open.spotify.com/track/7CLfpXbv3Nt7QDDclvvyfo) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Facsimile](https://open.spotify.com/album/7avdF6sTNZkC771gxNmj1n) | 3:04 | 2024-03-21 |  |
 | [Holy Water](https://open.spotify.com/track/4x8KGMFJ2KiIvYF03Hoaa9) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:06 | 2024-03-21 |  |
 | [Hostess \(feat\. MORGAN\)](https://open.spotify.com/track/6bg1ttQQudY6bLj24AakE7) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Ground Control](https://open.spotify.com/album/201chlVCJuhQvGZXB0wRn0) | 3:09 | 2024-03-21 |  |
+| [How To Dance](https://open.spotify.com/track/17TLMCiWbRnNblIfXiDLfF) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:09 | 2025-04-14 |  |
 | [Imposter Syndrome](https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Imposter Syndrome](https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1) | 2:38 | 2024-03-21 |  |
 | [In My Feelings](https://open.spotify.com/track/24sYu4sEQAOVJ0YSWL0xAX) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [In My Feelings](https://open.spotify.com/album/3ccswYRmCZt3WZsusyn4FW) | 3:16 | 2024-03-21 |  |
 | [Let the Right One In](https://open.spotify.com/track/0yxXrDd1MYIb8LNEQdc4fy) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Let the Right One In](https://open.spotify.com/album/4Vwc3fRso8tmCrlp4Rc1a4) | 3:08 | 2024-03-21 |  |

@@ -3021,6 +3021,28 @@
     },
     {
       "album": {
+        "name": "Hissa",
+        "url": "https://open.spotify.com/album/6Ei4UzqkF6PgJGi9QNneUa"
+      },
+      "artists": [
+        {
+          "name": "Abhin Joshi",
+          "url": "https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq"
+        },
+        {
+          "name": "Abhi Solanki",
+          "url": "https://open.spotify.com/artist/3tC0KUr3YwXIhJ2l6mJ8ob"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181709,
+      "name": "Hissa",
+      "url": "https://open.spotify.com/track/7q4M600wYwnYjqzMRz49yS"
+    },
+    {
+      "album": {
         "name": "Ho Savera",
         "url": "https://open.spotify.com/album/690vcyjxcrzMMgi54ulMkz"
       },
@@ -5558,7 +5580,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 226285,
       "name": "Lamha Ye",
       "url": "https://open.spotify.com/track/6DXeCwgEuE5rf5cgbU0mQ1"
@@ -8362,7 +8384,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 152042,
       "name": "Shikwe Gile - Live",
       "url": "https://open.spotify.com/track/1iJz2tL0JkK7Q2HjJKUzli"
@@ -8600,6 +8622,24 @@
       "duration_ms": 194307,
       "name": "Tasveer",
       "url": "https://open.spotify.com/track/1yXjnMoQ0efLuS9ITfLIJ1"
+    },
+    {
+      "album": {
+        "name": "Tasweer",
+        "url": "https://open.spotify.com/album/2roCoXtU0n2OKlv3Mc4wP2"
+      },
+      "artists": [
+        {
+          "name": "Rahul Jain",
+          "url": "https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Tasweer",
+      "url": "https://open.spotify.com/track/1DVZdAQcO55X638XYaphEr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,200 likes - 208 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,747 likes - 208 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 3 | [n da morning](https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [n da morning](https://open.spotify.com/album/3dPpOhzZ93SSz2E5qD47HR) | 2:11 |
 | 4 | [Don't Forget About Us \- KAYTRANADA Remix](https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Don't Forget About Us \(KAYTRANADA Remix\)](https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy) | 4:03 |
 | 5 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
-| 6 | [Unfair](https://open.spotify.com/track/0lSfXdVmXrc6A8TaKBewQq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Unfair](https://open.spotify.com/album/53YwsrvkeXQ0Q7GUYSM1pH) | 2:07 |
+| 6 | [Unfair](https://open.spotify.com/track/0lSfXdVmXrc6A8TaKBewQq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [Unfair](https://open.spotify.com/album/53YwsrvkeXQ0Q7GUYSM1pH) | 2:07 |
 | 7 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 |
 | 8 | [Nine Lives](https://open.spotify.com/track/0UEA1XtQAnIhPZRSHVPtDL) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Nine Lives](https://open.spotify.com/album/53zoCLGDPcf1Lfdwqibiv4) | 2:25 |
 | 9 | [Think I Might](https://open.spotify.com/track/3J5w5UZuhcaI1qryqeIk06) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Think I Might](https://open.spotify.com/album/2Jf36TiQ4eQqhRRaOYfhp1) | 2:54 |

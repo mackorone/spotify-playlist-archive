@@ -1,6 +1,6 @@
 {
   "description": "Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors. ",
-  "num_followers": 26971,
+  "num_followers": 26992,
   "original_name": "AfroTech Now",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,30 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        },
+        {
+          "name": "Bobbi Fallon",
+          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
         "name": "Afrika My Afrika",
         "url": "https://open.spotify.com/album/1rUOxTpEkSvqRgqM1zsg9o"
       },
@@ -347,30 +371,6 @@
       "duration_ms": 392547,
       "name": "Afrika My Afrika",
       "url": "https://open.spotify.com/track/63siScIvu0PyOOqSHPzcud"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi"
-      },
-      "artists": [
-        {
-          "name": "Joezi",
-          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
-        },
-        {
-          "name": "Bun Xapa",
-          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
-        },
-        {
-          "name": "Bobbi Fallon",
-          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Two Zulu Men In Ibiza EP",
-        "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
-      },
-      "artists": [
-        {
-          "name": "DJ Merlon",
-          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
-        },
-        {
-          "name": "Enoo Napa",
-          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
-        }
-      ],
-      "duration_ms": 421027,
-      "name": "Two Zulu Men In Ibiza",
-      "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
         "name": "Caiiro",
         "url": "https://open.spotify.com/album/4F0Pcxgo3WnuTJB3vivwEh"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 332940,
       "name": "Nyali",
       "url": "https://open.spotify.com/track/5xvGIAil7WmvgruwDfShzu"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
+        "name": "Two Zulu Men In Ibiza EP",
+        "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
+      },
+      "artists": [
+        {
+          "name": "DJ Merlon",
+          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "duration_ms": 421027,
+      "name": "Two Zulu Men In Ibiza",
+      "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -891,30 +891,6 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "The Healers: The Last Chapter",
-        "url": "https://open.spotify.com/album/2F3Nw7Z7Gt6ET52DosiPTH"
-      },
-      "artists": [
-        {
-          "name": "Black Motion",
-          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
-        },
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        },
-        {
-          "name": "Tabia",
-          "url": "https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8"
-        }
-      ],
-      "duration_ms": 531583,
-      "name": "Soyeka",
-      "url": "https://open.spotify.com/track/26ds7GM8yEPdOkkvEcBZQZ"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
         "name": "Kamweretho",
         "url": "https://open.spotify.com/album/69cfR9Rdbe7TBqppvRk12t"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 388173,
       "name": "Kamweretho - Soultronixx Remix",
       "url": "https://open.spotify.com/track/758giWRZzVK6NlDb4KV6Qe"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
+        "name": "The Healers: The Last Chapter",
+        "url": "https://open.spotify.com/album/2F3Nw7Z7Gt6ET52DosiPTH"
+      },
+      "artists": [
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        },
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Tabia",
+          "url": "https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8"
+        }
+      ],
+      "duration_ms": 531583,
+      "name": "Soyeka",
+      "url": "https://open.spotify.com/track/26ds7GM8yEPdOkkvEcBZQZ"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -1059,6 +1059,50 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
+        "name": "LoMhlaba EP",
+        "url": "https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp"
+      },
+      "artists": [
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        },
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        }
+      ],
+      "duration_ms": 472904,
+      "name": "LoMhlaba - Original Mix",
+      "url": "https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
+        "name": "Remedy (Remixes)",
+        "url": "https://open.spotify.com/album/5gQv1M4Pt9Ds51DME9gaxD"
+      },
+      "artists": [
+        {
+          "name": "Agoria",
+          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
+        },
+        {
+          "name": "NOEMIE",
+          "url": "https://open.spotify.com/artist/7gmBCPfdEiZGywHfJJYYQX"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+        }
+      ],
+      "duration_ms": 560876,
+      "name": "Remedy - Manoo Remix",
+      "url": "https://open.spotify.com/track/4RUUxXoKOM8NEY3Cuujfvg"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
         "name": "Water - EP",
         "url": "https://open.spotify.com/album/0y5jkgA5ai7IP6faeF4z2g"
       },
@@ -1095,50 +1139,6 @@
       "duration_ms": 390000,
       "name": "Water - Bun Xapa & Ziddo Remix",
       "url": "https://open.spotify.com/track/1sT55xi844O2Y4j2Y0Fzsf"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
-        "name": "Remedy (Remixes)",
-        "url": "https://open.spotify.com/album/5gQv1M4Pt9Ds51DME9gaxD"
-      },
-      "artists": [
-        {
-          "name": "Agoria",
-          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
-        },
-        {
-          "name": "NOEMIE",
-          "url": "https://open.spotify.com/artist/7gmBCPfdEiZGywHfJJYYQX"
-        },
-        {
-          "name": "Manoo",
-          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
-        }
-      ],
-      "duration_ms": 560876,
-      "name": "Remedy - Manoo Remix",
-      "url": "https://open.spotify.com/track/4RUUxXoKOM8NEY3Cuujfvg"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
-        "name": "LoMhlaba EP",
-        "url": "https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp"
-      },
-      "artists": [
-        {
-          "name": "Cee ElAssaad",
-          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
-        },
-        {
-          "name": "Thandi Draai",
-          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
-        }
-      ],
-      "duration_ms": 472904,
-      "name": "LoMhlaba - Original Mix",
-      "url": "https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG"
     }
   ],
   "unique_name": "AfroTech Now",

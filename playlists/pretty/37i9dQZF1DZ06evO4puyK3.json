@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 164678,
+  "num_followers": 164687,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAADotIBdPlsPTe6pIyuote1B",
+  "snapshot_id": "Z/r+gAAAAACBjP83U9xdTwPQgYJ3L0SI",
   "tracks": [
     {
       "added_at": null,
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suplicar",
-        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
       "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Suplicar",
-      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
+      "duration_ms": 187311,
+      "name": "Rol\u00ea",
+      "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
     },
     {
       "added_at": null,
@@ -771,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+        "name": "Suplicar",
+        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
       },
       "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 187311,
-      "name": "Rol\u00ea",
-      "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
+      "duration_ms": 186382,
+      "name": "Suplicar",
+      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "V\u00edcio",
+        "url": "https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 175890,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "fome",
         "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 198920,
       "name": "fome",
       "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "V\u00edcio",
-        "url": "https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "V\u00edcio",
-      "url": "https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
       "duration_ms": 155761,
       "name": "PROIBIDONA",
       "url": "https://open.spotify.com/track/0Tqnom8PwHN01ntaY5KDiE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Amo Cada Vez Mais (Duas Vozes)",
-        "url": "https://open.spotify.com/album/2PJENalb6VmoT0Slugd89q"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 347672,
-      "name": "Te Amo Cada Vez Mais (Duas Vozes)",
-      "url": "https://open.spotify.com/track/6PkD5UbpneV73smkeHuQT2"
     }
   ],
   "unique_name": "This Is Gloria Groove",

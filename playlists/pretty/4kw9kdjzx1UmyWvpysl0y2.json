@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125444,
+  "num_followers": 125440,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT7HiKZAd62wX+V4HRUhF55hmxxmhp",
+  "snapshot_id": "AAAT7v2XWovdqGFsuGHU6xGcE3821hXa",
   "tracks": [
+    {
+      "added_at": "2025-04-14 14:30:37",
+      "album": {
+        "name": "Hyperstrike",
+        "url": "https://open.spotify.com/album/4OQXloIuW9Z0PTpPqIfF2d"
+      },
+      "artists": [
+        {
+          "name": "Lizdek",
+          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
+        },
+        {
+          "name": "Atura",
+          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
+        }
+      ],
+      "duration_ms": 199034,
+      "name": "Hyperstrike",
+      "url": "https://open.spotify.com/track/0UKAhAIlMCi61n7Q8Q0hmR"
+    },
     {
       "added_at": "2025-04-11 14:46:02",
       "album": {
@@ -1187,42 +1207,6 @@
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
-    },
-    {
-      "added_at": "2025-01-21 15:35:31",
-      "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/2PltPTD4z6mQAbfJpsflyc"
-      },
-      "artists": [
-        {
-          "name": "rshand",
-          "url": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
-        }
-      ],
-      "duration_ms": 181022,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5UsmTQN4ohO09NCNoD04ux"
-    },
-    {
-      "added_at": "2025-01-20 16:23:24",
-      "album": {
-        "name": "Roots (Festival VIP)",
-        "url": "https://open.spotify.com/album/0wTCzlXwljR7qDID6OixIG"
-      },
-      "artists": [
-        {
-          "name": "Gammer",
-          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 180843,
-      "name": "Roots - Festival VIP",
-      "url": "https://open.spotify.com/track/08pKfNxr05lKXa0PF5OB0t"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

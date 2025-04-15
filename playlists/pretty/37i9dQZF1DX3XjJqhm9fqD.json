@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier",
-  "num_followers": 94884,
+  "num_followers": 94907,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,26 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
+        "name": "Ti Sesi Ti Sela",
+        "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
+      },
+      "artists": [
+        {
+          "name": "BMIXX",
+          "url": "https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM"
+        },
+        {
+          "name": "Afriken An",
+          "url": "https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4"
+        }
+      ],
+      "duration_ms": 173113,
+      "name": "Ti Sesi Ti Sela",
+      "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
         "name": "Patron",
         "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 280383,
       "name": "Se Pa Pou Dat",
       "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
-        "name": "Ti Sesi Ti Sela",
-        "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
-      },
-      "artists": [
-        {
-          "name": "BMIXX",
-          "url": "https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM"
-        },
-        {
-          "name": "Afriken An",
-          "url": "https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4"
-        }
-      ],
-      "duration_ms": 173113,
-      "name": "Ti Sesi Ti Sela",
-      "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
+        "name": "Mal",
+        "url": "https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4"
+      },
+      "artists": [
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 258790,
+      "name": "Mal",
+      "url": "https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
         "name": "Akouna",
         "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Mal",
-        "url": "https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4"
-      },
-      "artists": [
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 258790,
-      "name": "Mal",
-      "url": "https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "Ha\u00eftian Troubadours, Vol. 1",
         "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 268240,
       "name": "Ou pati",
       "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -951,6 +931,26 @@
       "duration_ms": 253208,
       "name": "Bay Vag",
       "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Roberto Martino",
+          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
+        }
+      ],
+      "duration_ms": 363533,
+      "name": "Tu me touches",
+      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
         "name": "10 IS IT",
         "url": "https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 229341,
       "name": "Valide",
       "url": "https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Roberto Martino",
-          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
-        }
-      ],
-      "duration_ms": 363533,
-      "name": "Tu me touches",
-      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
     },
     {
       "added_at": "2025-04-04 14:00:39",

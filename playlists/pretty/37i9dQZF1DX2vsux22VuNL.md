@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Bin
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,797 likes - 95 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,792 likes - 95 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 30 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 |
 | 31 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 |
 | 32 | [Trama](https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr), [Aksel](https://open.spotify.com/artist/1sUETKU4N8F8kABpmDiOZW) | [Trama](https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7) | 4:19 |
-| 33 | [Pra Casar](https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu), [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Pra Casar](https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ) | 2:42 |
-| 34 | [Cairo](https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Cairo](https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti) | 3:25 |
+| 33 | [Cairo](https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Cairo](https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti) | 3:25 |
+| 34 | [Pra Casar](https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu), [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Pra Casar](https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ) | 2:42 |
 | 35 | [Carta Branca](https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Carta Branca](https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU) | 3:41 |
 | 36 | [Teu Sorriso](https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Teu Sorriso](https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE) | 3:03 |
 | 37 | [A Laje](https://open.spotify.com/track/6pDASjyhHtN2Dv4ZY8EBhU) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Kandace Lindsey](https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E) | [A Laje](https://open.spotify.com/album/2SJX2EcFiTzY466hX1cWMv) | 5:42 |

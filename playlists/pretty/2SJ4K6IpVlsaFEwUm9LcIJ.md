@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,937 likes - 57 songs - 3 hr 33 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,945 likes - 58 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,5 +65,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 55 | [New Power](https://open.spotify.com/track/4jss2X2iCZjOU7zAUjc3zW) | [Cindy](https://open.spotify.com/artist/3vUqg3VWCLmEA1es1T4nGn) | [I'm Cindy](https://open.spotify.com/album/3obhwQ6jhn7Yy3ZGL6jwYt) | 3:16 |
 | 56 | [PANAS](https://open.spotify.com/track/0gQlbFskqEn6Oq6BbC7wMY) | [SSSLIP](https://open.spotify.com/artist/3i4ymq99xVgnNYbDxRK9I8), [RubyyXo](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [SSSLIP\-RMX01](https://open.spotify.com/album/47zbySGzKDp8itUYb9J0L2) | 4:20 |
 | 57 | [All Day Long](https://open.spotify.com/track/7dAuc6UOo9aMhT6A6n2iXg) | [Shop Assistants](https://open.spotify.com/artist/3uHLyTtYMnhAWxfPy6VjNm) | [Will Anything Happen](https://open.spotify.com/album/6wtQQXsd3wIKyGhwIfGpE9) | 1:50 |
+| 58 | [High](https://open.spotify.com/track/6ZQUvbyiTVNy66ghsYb1Tg) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [Three Times](https://open.spotify.com/album/4R90JamYSfq0pNRb2xoiu5) | 4:07 |
 
-Snapshot ID: `AAAMM/bT6Rpmmj4hpF/kodUbDG7v6t3g`
+Snapshot ID: `AAAMNDfNcz92xpwBWUqbpPcuSDYiPTTt`

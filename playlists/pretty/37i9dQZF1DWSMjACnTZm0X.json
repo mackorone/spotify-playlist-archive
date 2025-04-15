@@ -1,6 +1,6 @@
 {
   "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS?si=zB5Yt39aTUmPPs2CC5-bZg\">Summer Walker</a>, <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=ODYUO-AxRxqrQRgbMg371w\">DJ Maphorisa</a>, <a href=\"https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i?si=MPQG0uQrSCOrK8C4NUjq9w\">Xduppy</a>",
-  "num_followers": 17840,
+  "num_followers": 17841,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-04-10 22:04:35",
       "album": {
-        "name": "Joy Is Coming",
-        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Joy Is Coming",
-      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
-    },
-    {
-      "added_at": "2025-04-10 22:04:35",
-      "album": {
         "name": "STANCE MUSIC",
         "url": "https://open.spotify.com/album/3yjD0as4nWLdQmrSwjiupT"
       },
@@ -627,22 +611,6 @@
     {
       "added_at": "2025-04-10 22:04:35",
       "album": {
-        "name": "Zero Panic, Vol. 2",
-        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "7.5G",
-      "url": "https://open.spotify.com/track/4cfJumsxrjjRSUUSDk0VK0"
-    },
-    {
-      "added_at": "2025-04-10 22:04:35",
-      "album": {
         "name": "Piki Piki",
         "url": "https://open.spotify.com/album/02h0OPWKVn1Rm0777wYapn"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 345000,
       "name": "Piki Piki",
       "url": "https://open.spotify.com/track/4d6MlNXvSMliZpgqdXBlNv"
+    },
+    {
+      "added_at": "2025-04-10 22:04:35",
+      "album": {
+        "name": "Zero Panic, Vol. 2",
+        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "7.5G",
+      "url": "https://open.spotify.com/track/4cfJumsxrjjRSUUSDk0VK0"
+    },
+    {
+      "added_at": "2025-04-10 22:04:35",
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
     },
     {
       "added_at": "2025-04-10 22:04:35",

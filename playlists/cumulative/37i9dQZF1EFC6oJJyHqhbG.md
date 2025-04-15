@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-149 songs - 8 hr 55 min
+151 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cold Heart](https://open.spotify.com/track/3l5lhKAXRyISZ1NOBEMRhO) | [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd) | [Fight for Love](https://open.spotify.com/album/5jjrd3mUF01Da1FITGf8fY) | 3:34 | 2024-02-27 |  |
 | [Complainer](https://open.spotify.com/track/3qiDkKNPtSSgJZEpoC74M3) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 1](https://open.spotify.com/album/0hNZeC0Mr88CdIZDR1JZZV) | 3:39 | 2024-02-27 |  |
 | [Confessions of a Teenage Girl](https://open.spotify.com/track/1DETYnNVfsy8Pr49Aw54SH) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 2:55 | 2024-02-27 |  |
+| [Crazy For Christmas \[Feat\. Bonnie McKee\]](https://open.spotify.com/track/5iUOoOkcWqWUh8ByJfOnOa) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Snow Waltz](https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI) | 3:44 | 2025-04-14 |  |
 | [Cuckoo](https://open.spotify.com/track/7j1SWWci3yWLgmMSZwurgd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:02 | 2024-02-27 |  |
 | [Daddy Like](https://open.spotify.com/track/7B09gC8k5Srx20Gj3UHrYq) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 2:55 | 2024-02-27 |  |
 | [Day Trippin' \(feat\. Estelle\)](https://open.spotify.com/track/5GUbRosulNfGV5o5KfpHFn) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Automatic](https://open.spotify.com/album/02NhNhhyNfv5OdlJw4jUpj) | 3:12 | 2024-02-27 |  |
@@ -93,6 +94,7 @@
 | [Miracle Man](https://open.spotify.com/track/57rqeUy6NV7Qlf5VNrqS7D) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:28 | 2024-02-27 |  |
 | [Naked](https://open.spotify.com/track/4gPUnZW8IT1mmF9aj9NLF7) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:42 | 2024-02-27 |  |
 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 | 2024-04-06 |  |
+| [Obsessed \(feat\. Ashley Sienna\) \- Slush Puppy Remix](https://open.spotify.com/track/6hfBfgN4UzqJ2FsqqwwyFw) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Obsessed \(feat\. Ashley Sienna\) \[Slush Puppy Remix\]](https://open.spotify.com/album/1oafjF0WNExySlSD6LaJXw) | 2:35 | 2025-04-14 |  |
 | [On Your Side](https://open.spotify.com/track/656cRvXoLSQZWQ2FrzOCcD) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [WHITE](https://open.spotify.com/album/5pLjsnW9X7xn7cZCpMQnQd) | 5:40 | 2024-02-27 |  |
 | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 | 2024-02-27 |  |
 | [Open Your Eyes](https://open.spotify.com/track/1AddvxH9HumxaQ8av44opX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:59 | 2024-02-27 |  |

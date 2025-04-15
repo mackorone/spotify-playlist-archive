@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-530 songs - 1 day 6 hr 17 min
+531 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Hey Baby](https://open.spotify.com/track/68RtnQedwKOJ4MmtXErnOU) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Hey Baby](https://open.spotify.com/album/59BkwpCbJSFyUdrA6HCT4Z) | 2:47 | 2025-03-21 |  |
 | [Hey, Hey Girl](https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:15 | 2024-04-03 | 2024-05-16 |
 | [Hidden Glow](https://open.spotify.com/track/712k1F2RhljxhqVAVRlvnv) | [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Daniel Dor](https://open.spotify.com/artist/1MKHZ2XG5GkCmLK7VMGjIZ) | [The Garden Suite](https://open.spotify.com/album/0UccFpMfqmge5fNISVNHdH) | 2:14 | 2024-12-09 | 2025-01-12 |
+| [High](https://open.spotify.com/track/6ZQUvbyiTVNy66ghsYb1Tg) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [Three Times](https://open.spotify.com/album/4R90JamYSfq0pNRb2xoiu5) | 4:07 | 2025-04-15 |  |
 | [Himmel](https://open.spotify.com/track/2VSkFvTEK9R7AsrWRLp8ON) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Himmel / Swarm](https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd) | 3:29 | 2024-09-08 | 2024-11-14 |
 | [Hog Of The Forsaken](https://open.spotify.com/track/0f5bYBJ7CQkqqLZjhJTNw9) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 3:35 | 2025-04-04 |  |
 | [Home Before Dark](https://open.spotify.com/track/5w7hp3eB2fpRSIxKgRfpXg) | [Nora Guthrie](https://open.spotify.com/artist/3XDzVXu9qPOYMcxvN8Qq7t) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:36 | 2024-05-16 | 2024-07-12 |

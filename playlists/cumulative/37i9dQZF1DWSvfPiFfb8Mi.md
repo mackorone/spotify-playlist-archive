@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-364 songs - 1 day 0 hr 1 min
+365 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2023-05-19 | 2024-04-19 |
 | [Alfa](https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa](https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY) | 4:45 | 2022-06-20 | 2024-04-19 |
 | [Alfa \- Original Mix](https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa EP](https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd) | 4:45 | 2021-07-24 | 2023-03-09 |
-| [Alive](https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Alive](https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW) | 3:50 | 2023-06-09 |  |
+| [Alive](https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Alive](https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW) | 3:50 | 2023-06-09 | 2025-04-15 |
 | [All Day](https://open.spotify.com/track/49S2zEVuoV3BcA2mdyowiA) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/7MtJoa3DKfwRls9963YtqX) | 3:06 | 2023-05-19 | 2023-05-27 |
 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 | 2024-02-02 |  |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-05-19 |  |
@@ -61,6 +61,7 @@
 | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv) | 3:14 | 2024-03-29 | 2024-08-18 |
 | [Changed For The Better \- Disco Version](https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Night Versions](https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc) | 4:34 | 2024-10-04 | 2025-03-05 |
 | [Chasing Thrills](https://open.spotify.com/track/1ce0YjciXVfVjzQtAYWHoL) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Chasing Thrills](https://open.spotify.com/album/4OEZyk2librDK5xV4NH0Es) | 3:06 | 2025-03-07 | 2025-03-10 |
+| [Closer To Me](https://open.spotify.com/track/5SCvUWfDY3XuvyS6oap0Le) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Closer To Me](https://open.spotify.com/album/2BUwdL6f9Sv4EHDHJ8NhHD) | 3:35 | 2025-04-11 |  |
 | [COLOGNE](https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [COLOGNE](https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1) | 3:20 | 2024-06-14 |  |
 | [Colors \- The Knocks Remix](https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Colors \(The Knocks Remix\)](https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU) | 4:12 | 2023-05-19 |  |
 | [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/1Cpr1FGRdiayMbTcZ2WDN3), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2023-05-19 |  |

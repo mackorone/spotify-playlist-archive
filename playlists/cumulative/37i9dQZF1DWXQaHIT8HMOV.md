@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan gems in one playlist\. Cover: Daddy Andre
 
-401 songs - 20 hr 38 min
+402 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Muleleetu](https://open.spotify.com/track/15KycmRRSpjaczTTgwowex) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Muleleetu](https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D) | 2:38 | 2024-04-05 | 2025-02-08 |
 | [Muntu Wange](https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Muntu Wange](https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P) | 3:09 | 2024-02-09 | 2024-06-14 |
 | [Muntu Wange](https://open.spotify.com/track/1MzK3QdKmYJGJRHEZEIU80) | [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Muntu Wange](https://open.spotify.com/album/3am9ICPhUXW2iobYTud7ZC) | 3:01 | 2024-11-22 | 2024-12-14 |
+| [MUST KILL A MAN](https://open.spotify.com/track/4hbvrYUhXDe91sdi38p8KM) | [SUSU DANCES](https://open.spotify.com/artist/5xzkrHv0l4ZPXmyls39T3w), [Anko Ronie](https://open.spotify.com/artist/6MUYPxoPs1a1m7eTuEVtBN) | [MUST KILL A MAN](https://open.spotify.com/album/2YF8NH7GuT1mmWqtfHB99t) | 2:06 | 2025-04-14 |  |
 | [Mwasuze Wa](https://open.spotify.com/track/1w8PZon1ltITJFDZ9lhesv) | [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG) | [Mwasuze Wa](https://open.spotify.com/album/6Q1FbRWdX15G9BAICes1QK) | 2:42 | 2024-07-26 | 2024-10-11 |
 | [MWENGE BIGERE](https://open.spotify.com/track/4BOsDFj7pInD0ozmbZgxEZ) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [MWENGE BIGERE](https://open.spotify.com/album/2ioMfh0dzAtRL0TtMFo1dq) | 3:25 | 2024-12-13 |  |
 | [My Date](https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG) | [Green Daddy](https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU), [Temperature Touch](https://open.spotify.com/artist/3gHHNHGrHh9JIJ8VtWKfVT) | [My Date](https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4) | 3:30 | 2024-03-08 |  |
@@ -277,7 +278,7 @@
 | [Olaba Otya](https://open.spotify.com/track/4cEulGWNUME4qgxvoSY62g) | [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c), [Yung Mulo](https://open.spotify.com/artist/0rD5D5T04ObkUSE2o9hHTh) | [Olaba Otya](https://open.spotify.com/album/2ZLFgnR7YuN5sWsIuDPajD) | 3:22 | 2025-02-07 |  |
 | [Oli Wa Maanyi](https://open.spotify.com/track/0ukyr8KY2vOBRjzcEJcAHO) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Oli Wa Maanyi](https://open.spotify.com/album/4uQC6gdVIxP9a0WO3m07Wp) | 3:12 | 2024-03-15 | 2024-04-06 |
 | [OLUUSI NEBOWA](https://open.spotify.com/track/3Mt4KMbbeX3um1Fi2t0Paj) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [OLUUSI NEBOWA](https://open.spotify.com/album/33k8MXxtGacejkSBxmuRiV) | 3:25 | 2025-02-21 |  |
-| [Omalayo](https://open.spotify.com/track/7lL3fcLm3lseywtGggMpBP) | [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c) | [Omalayo](https://open.spotify.com/album/7IneDgcWyhhrw3fUOsOIwh) | 3:01 | 2025-03-07 |  |
+| [Omalayo](https://open.spotify.com/track/7lL3fcLm3lseywtGggMpBP) | [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c), [Blxck Charm](https://open.spotify.com/artist/5deVwszQi3hfe9qQFLdbu2) | [Omalayo](https://open.spotify.com/album/7IneDgcWyhhrw3fUOsOIwh) | 3:01 | 2025-03-07 |  |
 | [Omu](https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Omu](https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1) | 2:54 | 2022-05-19 | 2023-03-21 |
 | [Omukwano \(Love\)](https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Omukwano \(Love\)](https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN) | 3:03 | 2023-09-07 | 2024-05-25 |
 | [Omwami](https://open.spotify.com/track/30vOxrrv6DscZqziG7DFic) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [The One Omwami](https://open.spotify.com/album/77dA9HhOrTOGx1mtsJqGtj) | 4:11 | 2024-05-24 |  |
@@ -296,7 +297,7 @@
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 | 2023-07-30 |
 | [Party Mood](https://open.spotify.com/track/5v78YlySIPsrKJ1KHIRT2N) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:04 | 2024-03-15 | 2024-04-06 |
 | [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 | 2023-04-06 | 2023-06-03 |
-| [Pepepepe](https://open.spotify.com/track/2sCdsQv4x44paAKor3Yeh9) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Pepepepe](https://open.spotify.com/album/2Wy6NBtz5cWdiMcpFkVude) | 3:19 | 2024-04-12 |  |
+| [Pepepepe](https://open.spotify.com/track/2sCdsQv4x44paAKor3Yeh9) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Pepepepe](https://open.spotify.com/album/2Wy6NBtz5cWdiMcpFkVude) | 3:19 | 2024-04-12 | 2025-04-15 |
 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 | 2022-05-12 | 2023-05-24 |
 | [Phobia](https://open.spotify.com/track/4f8UClRXe2WvUIy8G9alTq) | [Steve Keys](https://open.spotify.com/artist/3w4fNOrPfTHQVnj9iiMfPa) | [BOMA](https://open.spotify.com/album/60B3rDu4BN316BQyxkyQP7) | 3:08 | 2024-03-15 | 2024-04-06 |
 | [Pickup](https://open.spotify.com/track/2zpIwVEQbpGkcrbJx9L8YE) | [Mambo Yo](https://open.spotify.com/artist/20r5jEZhPbG7Rsnq8UNQk7) | [Pickup](https://open.spotify.com/album/2OBWZY4po5Iz1NG8R6hvkE) | 2:58 | 2024-06-07 | 2024-07-05 |

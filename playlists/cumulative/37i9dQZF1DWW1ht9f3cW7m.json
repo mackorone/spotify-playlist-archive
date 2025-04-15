@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Dolly Pardon",
+        "url": "https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j"
+      },
+      "artists": [
+        {
+          "name": "ABY iO",
+          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197571,
+      "name": "Dolly Pardon",
+      "url": "https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3"
+    },
+    {
+      "album": {
         "name": "Don't Miss It.",
         "url": "https://open.spotify.com/album/5VvA1wrLCjFVCaj7jALPPQ"
       },
@@ -3122,7 +3140,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 205442,
       "name": "Stay For Good",
       "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"

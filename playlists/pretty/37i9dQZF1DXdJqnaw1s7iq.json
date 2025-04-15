@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 56135,
+  "num_followers": 56172,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 284800,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Archangel",
-      "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
-    },
-    {
       "added_at": "2024-02-29 17:58:01",
       "album": {
         "name": "XXYYXX",
@@ -1007,6 +991,22 @@
       "duration_ms": 247771,
       "name": "About You",
       "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Yore",
-        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
       "artists": [
         {
-          "name": "Evenings",
-          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 172252,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
+      "duration_ms": 206746,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Begin",
         "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 250706,
       "name": "Treat Me Like Fire",
       "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Yore",
+        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
+      },
+      "artists": [
+        {
+          "name": "Evenings",
+          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 345560,
       "name": "Blind - Radio Edit",
       "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 226479,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Meditations on Afrocentrism",
-        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 254698,
-      "name": "Down the Line - It Takes a Number",
-      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 279000,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Meditations on Afrocentrism",
+        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 254698,
+      "name": "Down the Line - It Takes a Number",
+      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 245585,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "99 Cents",
         "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 195333,
       "name": "Chasing Shadows",
       "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 245585,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Nostalchic",
-        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
-      },
-      "artists": [
-        {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        },
-        {
-          "name": "Kerry Leatham",
-          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
-        }
-      ],
-      "duration_ms": 326439,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 282124,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/1zdDIieTg3JyVPeHPO9227"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        },
+        {
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+        }
+      ],
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Weval",
-        "url": "https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci"
+        "name": "Multi-Love",
+        "url": "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR"
       },
       "artists": [
         {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh"
+      "duration_ms": 256066,
+      "name": "Can\u2019t Keep Checking My Phone",
+      "url": "https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn"
     }
   ],
   "unique_name": "voltage",

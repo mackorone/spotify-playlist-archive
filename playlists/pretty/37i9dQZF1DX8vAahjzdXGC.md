@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Stephanie Poetri, DAESUNG, hingga Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,508 likes - 89 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,531 likes - 89 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

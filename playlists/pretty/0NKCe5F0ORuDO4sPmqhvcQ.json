@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20569,
+  "num_followers": 20570,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqS278t7iVfUfOsU78/zZ6DzKfZGhe",
+  "snapshot_id": "AAAqTaIeLuVgaz43UH3Svtxgi4jQ69Vd",
   "tracks": [
     {
       "added_at": "2024-10-28 23:42:32",
@@ -2635,6 +2635,42 @@
       "duration_ms": 218482,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/6N3xZEUzHtvkd7S66wSS0D"
+    },
+    {
+      "added_at": "2025-04-14 20:51:35",
+      "album": {
+        "name": "YOU & I",
+        "url": "https://open.spotify.com/album/29MLRMFFGmRPxHJ93JeHhZ"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "YOU & I",
+      "url": "https://open.spotify.com/track/6cgOdelOyLpjdcOl811Z9t"
+    },
+    {
+      "added_at": "2025-04-14 20:51:46",
+      "album": {
+        "name": "Death By Love",
+        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Death By Love",
+      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
     }
   ],
   "unique_name": "Moving Castle Monthly",

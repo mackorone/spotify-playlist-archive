@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 14 Apr 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Apr 03:03 UTC.",
   "num_followers": 91,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAARHPPQ8IbwlnINDuEuBPE5nVYOv2Ie",
+  "snapshot_id": "AAARIIBhGL0HGngQUJChWvIgXhds+tn/",
   "tracks": [
+    {
+      "added_at": "2025-04-15 03:03:45",
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/4fy8OpuY3eepNbp6V0p6Og"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 181213,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/2rY9jItQLvMWImHZygEV3d"
+    },
+    {
+      "added_at": "2025-04-15 03:03:45",
+      "album": {
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/64cOYqyNOKxVqTC9RTT6B4"
+      },
+      "artists": [
+        {
+          "name": "Mario Judah",
+          "url": "https://open.spotify.com/artist/5HFSWl4JPwju06kHxukvTe"
+        }
+      ],
+      "duration_ms": 111483,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/0HiaBnwgzpidl19WHWzQQx"
+    },
     {
       "added_at": "2025-04-12 18:03:59",
       "album": {
@@ -91,6 +123,22 @@
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
+    },
+    {
+      "added_at": "2025-04-14 18:03:48",
+      "album": {
+        "name": "IN THE RAIN",
+        "url": "https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "IN THE RAIN",
+      "url": "https://open.spotify.com/track/7gJsLJXg9WIMFG2AoxddtD"
     },
     {
       "added_at": "2025-04-12 13:03:50",
@@ -529,6 +577,22 @@
       "url": "https://open.spotify.com/track/4yJSTICwkb1yEHaTJwMtPJ"
     },
     {
+      "added_at": "2025-04-14 18:03:48",
+      "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/1u233gR5ztuIFT27g3uJVQ"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/4Ww6lRhfa8rXS3FpvHXaEF"
+    },
+    {
       "added_at": "2025-04-08 08:03:52",
       "album": {
         "name": "I MISS YOU ON TOUR",
@@ -755,70 +819,6 @@
       "duration_ms": 119285,
       "name": "Free Mr. Banks",
       "url": "https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR"
-    },
-    {
-      "added_at": "2025-04-04 18:03:16",
-      "album": {
-        "name": "B\u00d8NESCRAPER",
-        "url": "https://open.spotify.com/album/5BdBDX5zGZP0cidRxkV9C2"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 213238,
-      "name": "B\u00d8NESCRAPER",
-      "url": "https://open.spotify.com/track/6MOsvwUNRWQUm1UYTwVrr1"
-    },
-    {
-      "added_at": "2025-04-08 22:04:17",
-      "album": {
-        "name": "Next To Nothing",
-        "url": "https://open.spotify.com/album/07wG33xE4KhKuP5CoY2SBk"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 200174,
-      "name": "Next To Nothing",
-      "url": "https://open.spotify.com/track/00aC5vOKuBjjEIkNQJwfBy"
-    },
-    {
-      "added_at": "2025-04-04 08:03:22",
-      "album": {
-        "name": "Born 2 Lose",
-        "url": "https://open.spotify.com/album/5DtOVJRwY4p4UeECbBcdFT"
-      },
-      "artists": [
-        {
-          "name": "Sematary",
-          "url": "https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Born 2 Lose",
-      "url": "https://open.spotify.com/track/23jXlmyI48r5wMNaEUAJ4Q"
-    },
-    {
-      "added_at": "2025-04-09 03:03:59",
-      "album": {
-        "name": "Exile Is A Habit",
-        "url": "https://open.spotify.com/album/6nT8gVADgr0SA6u5Fcd9xf"
-      },
-      "artists": [
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-        }
-      ],
-      "duration_ms": 258837,
-      "name": "Exile Is A Habit",
-      "url": "https://open.spotify.com/track/7FOy0aIsja2T9gRsmsjGxq"
     }
   ],
   "unique_name": "New Singles Now",

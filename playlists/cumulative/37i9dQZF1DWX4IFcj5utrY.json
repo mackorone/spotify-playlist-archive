@@ -7037,6 +7037,28 @@
     },
     {
       "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/2lbXsTTB1f6XpmzoHcBqZ9"
+      },
+      "artists": [
+        {
+          "name": "House of Assembly",
+          "url": "https://open.spotify.com/artist/4cjjSwcE055STvqoAXDdqn"
+        },
+        {
+          "name": "Tenda Mudzimu",
+          "url": "https://open.spotify.com/artist/0NXG0dnA2HuhtP44BoPlLv"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282817,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/1B6FeS4JlfEBvGOSH4EHg7"
+    },
+    {
+      "album": {
         "name": "Fall Again",
         "url": "https://open.spotify.com/album/2qChqzw0sVZRs986XHtM0G"
       },
@@ -8204,7 +8226,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 360000,
       "name": "God's Calling",
       "url": "https://open.spotify.com/track/2YKWrbHso3MViCrzcY8Qsk"
@@ -14136,7 +14158,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 238041,
       "name": "Make You Mine (Radio Edit)",
       "url": "https://open.spotify.com/track/1EZsoWbbn4nkK2GIhqbFSy"
@@ -22230,6 +22252,24 @@
       "duration_ms": 366497,
       "name": "Thath'isigubhu - Shimza Remix",
       "url": "https://open.spotify.com/track/4QdiYJFWyyQRrVFfC6B4aN"
+    },
+    {
+      "album": {
+        "name": "Thatha",
+        "url": "https://open.spotify.com/album/6urULtJExxHgea6DKNwjmC"
+      },
+      "artists": [
+        {
+          "name": "Snothile",
+          "url": "https://open.spotify.com/artist/424CeiN7Dv5NXN4Oiy6kAi"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320222,
+      "name": "Thatha",
+      "url": "https://open.spotify.com/track/3rdwkc7ztPAqZvoOcPxCei"
     },
     {
       "album": {

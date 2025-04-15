@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 299998,
+  "num_followers": 300040,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAAA6s6PicH8TlNPkvKkgk/ry",
+  "snapshot_id": "Z/r+gAAAAAAek8GrxGL/JukoDqhU+XMB",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Wake Up Dead - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 213480,
       "name": "Conquer Or Die",
       "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Wake Up Dead - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 386600,
-      "name": "In My Darkest Hour - Remastered 2004",
-      "url": "https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 211226,
       "name": "Train Of Consequences - Remastered 2004",
       "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 386600,
+      "name": "In My Darkest Hour - Remastered 2004",
+      "url": "https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cryptic Writings (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 324800,
-      "name": "A Secret Place - Remastered 2004 / Remixed",
-      "url": "https://open.spotify.com/track/3b1nPEPh9OGSngRUciEv6P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Is My Business...And Business Is Good!",
         "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 223040,
       "name": "Rattlehead",
       "url": "https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cryptic Writings (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 324800,
+      "name": "A Secret Place - Remastered 2004 / Remixed",
+      "url": "https://open.spotify.com/track/3b1nPEPh9OGSngRUciEv6P"
     },
     {
       "added_at": null,

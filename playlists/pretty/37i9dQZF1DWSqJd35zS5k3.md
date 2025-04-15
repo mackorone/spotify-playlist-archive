@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 
 > Disfruta de la Navidad con los villancicos de siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,266 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,257 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 | 19 | [Aires De Navidad](https://open.spotify.com/track/3q07EDAXOMoQ4SSf5NRkVn) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 3:43 |
 | 20 | [Adeste fideles \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/7y2tR9xVxAtMorrHlfbhYP) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:11 |
 | 21 | [Será Navidad](https://open.spotify.com/track/0acqWzpBnvVMYH6gUHp6n2) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [Será Navidad](https://open.spotify.com/album/29R5J7MYQfmCLtnrTtr5dV) | 4:29 |
-| 22 | [Ya Vienen Los Reyes Magos](https://open.spotify.com/track/0bvLkXD2ryQfzlncgfkWmX) | [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos Populares](https://open.spotify.com/album/4nGMKw99fIhkLqwfHeRP6N) | 1:27 |
+| 22 | [Ya Vienen Los Reyes Magos](https://open.spotify.com/track/0bvLkXD2ryQfzlncgfkWmX) | [Burbujitas](https://open.spotify.com/artist/0eIRTHiorCLmVl5hf3BFdp) | [Villancicos Populares](https://open.spotify.com/album/4nGMKw99fIhkLqwfHeRP6N) | 1:27 |
 | 23 | [Rodolfo el reno](https://open.spotify.com/track/5Z3hzul2EcIOU9y8xgKXhn) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Navidad Navidad](https://open.spotify.com/album/1IWZv2eiVbzCkOpmujRJUL) | 2:41 |
 | 24 | [Campanilleros](https://open.spotify.com/track/2UtnMJKcYLCuzHcjJ4fY3i) | [Raya Real](https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk) | [Villancicos Flamencos\. Los 25 Mejores](https://open.spotify.com/album/0qOy8vcf2rx1nk2XMXvXax) | 2:27 |
 | 25 | [Hacia Belen va Una Burra](https://open.spotify.com/track/28baA91bOjAcIlIF2il0aH) | [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos Rumbas en Navidad](https://open.spotify.com/album/6SjQ6W17o5d9VyUAntdcoS) | 2:15 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 | 33 | [Noche de Luz](https://open.spotify.com/track/7ik5Jy4AHMiyeVa0gjTZiv) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Navidad Gitana](https://open.spotify.com/album/4QWtS8yZ9BwRuml4umrkax) | 5:02 |
 | 34 | [Dime Niño De Quién Eres](https://open.spotify.com/track/6zAHtE5Q47Dunn0ckeRpYA) | [Amor Romeira](https://open.spotify.com/artist/4oppNV49HTaGkLELc2UBGR) | [Dime Niño De Quién Eres](https://open.spotify.com/album/5fQEQ6zfS5jRGMp6IHWNpm) | 1:47 |
 | 35 | [Amigos del Mundo \(Happy Christmas\)](https://open.spotify.com/track/3Gai0VbsOK43I0DX9UD6jN) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Feliz Navidad Te Desea](https://open.spotify.com/album/6rTXQ879rnaqNMGe7maeZe) | 4:11 |
-| 36 | [Alegria Alegria](https://open.spotify.com/track/3FgTps6uIQvc4aGCk9GreM) | [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos Populares](https://open.spotify.com/album/4nGMKw99fIhkLqwfHeRP6N) | 2:06 |
+| 36 | [Alegria Alegria](https://open.spotify.com/track/3FgTps6uIQvc4aGCk9GreM) | [Burbujitas](https://open.spotify.com/artist/0eIRTHiorCLmVl5hf3BFdp) | [Villancicos Populares](https://open.spotify.com/album/4nGMKw99fIhkLqwfHeRP6N) | 2:06 |
 | 37 | [Los Campanilleros](https://open.spotify.com/track/2EWEv8C3D3RcHxv86P886F) | [Los Cantaseries](https://open.spotify.com/artist/01irPp5AwGTBpRghY1ViQn) | [Villancicos Populares, Vol\. 1](https://open.spotify.com/album/5aV4rNmsyplLNLF1D5YpEU) | 2:10 |
 | 38 | [Navidad](https://open.spotify.com/track/0Nnw7TrVyaG6MlU7neAQAi) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Los Más Famosos Cantamos Villancicos](https://open.spotify.com/album/66SdA3KT1K5f2FGW7pEU7X) | 3:07 |
 | 39 | [Catatumba](https://open.spotify.com/track/7H6Q8plQwrNPJVsWj5kKOs) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Villancicos Populares Vol.2](https://open.spotify.com/album/7FfvCgqDR7xDRVD509V1WS) | 2:00 |
-| 40 | [En el Portal de Belen](https://open.spotify.com/track/5eYKEvHLJTOy9g2pO5Ww1N) | [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos Populares](https://open.spotify.com/album/4nGMKw99fIhkLqwfHeRP6N) | 2:29 |
+| 40 | [En el Portal de Belen](https://open.spotify.com/track/5eYKEvHLJTOy9g2pO5Ww1N) | [Burbujitas](https://open.spotify.com/artist/0eIRTHiorCLmVl5hf3BFdp) | [Villancicos Populares](https://open.spotify.com/album/4nGMKw99fIhkLqwfHeRP6N) | 2:29 |
 | 41 | [Canta Rie Bebe](https://open.spotify.com/track/7KLysW538NyXr3cytDsUdo) | [Los Rumberos](https://open.spotify.com/artist/5myphaphrVwbDvh0VQ0cT0) | [Villancicos Flamencos](https://open.spotify.com/album/7d27I1o90CfF7zQP3v9Wmt) | 2:58 |
 | 42 | [La Virgen Va Caminando](https://open.spotify.com/track/4cZjNkiKIYjt6At32mIeUY) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Villancicos Populares Vol.2](https://open.spotify.com/album/7FfvCgqDR7xDRVD509V1WS) | 1:31 |
 | 43 | [A la huella, a la huella](https://open.spotify.com/track/56OTn9jzJ0k9dCf93rOPDR) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 2:50 |

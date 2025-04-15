@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207826,
+      "name": "Canine",
+      "url": "https://open.spotify.com/track/7bvFWzATD9xN9F1QBvnUcd"
+    },
+    {
+      "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
       },
@@ -734,7 +752,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 183400,
       "name": "Hell is in Your Head",
       "url": "https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9"

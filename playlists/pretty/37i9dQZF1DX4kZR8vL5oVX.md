@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Bamby \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,750 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,769 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 21 | [Padtal](https://open.spotify.com/track/4fKexvjJAV9MrhQNgN0IH8) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Padtal](https://open.spotify.com/album/1OPmur8touyc5GnLwwQE45) | 1:39 |
 | 22 | [Ordinary](https://open.spotify.com/track/1UjGqPkcwYCJz4siKYoQwu) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 2:09 |
 | 23 | [Ok très bien \(feat\. Louane\)](https://open.spotify.com/track/08kYnV0Acua0D1LxkElDXP) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:39 |
-| 24 | [Bend Your Back \- A COLORS SHOW](https://open.spotify.com/track/2HZi15KL2f3tQQPe0RKWq4) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Bend Your Back \- A COLORS SHOW](https://open.spotify.com/album/1EvPift4GR1Ndh7dZedjYn) | 2:30 |
+| 24 | [Bend Your Back \- A COLORS SHOW](https://open.spotify.com/track/2HZi15KL2f3tQQPe0RKWq4) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Bend Your Back \- A COLORS SHOW](https://open.spotify.com/album/1EvPift4GR1Ndh7dZedjYn) | 2:30 |
 | 25 | [Aux Deux Fêlés](https://open.spotify.com/track/5N7ocYESHbZu5gKOBNh7pH) | [Moona](https://open.spotify.com/artist/5PXOHFvMnDtfEG8Lsu0eSd) | [Aux Deux Fêlés](https://open.spotify.com/album/5YRcKoRm5iLbxSmOWPFKu3) | 2:25 |
 | 26 | [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/5cjh58WGH7rads54ZGZ4cM) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Mauvaise idée \(Au pays des Merveilles\)](https://open.spotify.com/album/4IeHU1yMrCPJ09yoLn7thf) | 2:51 |
 | 27 | [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 |

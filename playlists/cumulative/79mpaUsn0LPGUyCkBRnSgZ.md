@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-818 songs - 2 day 6 hr 42 min
+819 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Dael](https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 6:39 | 2024-10-09 |  |
 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 | 2022-01-11 | 2023-05-17 |
 | [Dare To Dream](https://open.spotify.com/track/7gXldQvrCf4pMuXVH1X59U) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Hope Above Adversity](https://open.spotify.com/album/3DVlr1EF2msBWa3JLVBJuA) | 3:18 | 2022-07-15 |  |
+| [Dark blue](https://open.spotify.com/track/0IFOpfmpnZUnvVe0PcTYfg) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 6:36 | 2025-04-14 |  |
 | [Dark Ear](https://open.spotify.com/track/4pzkDLgql51eVBPU0T0QMQ) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq) | [Nevermen](https://open.spotify.com/album/6B2zFE8keFSYZkNlani62g) | 3:35 | 2024-03-25 |  |
 | [Dark Light](https://open.spotify.com/track/1o7oOkRLN3ORajw71WC0mx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [The Birds Outside Sang](https://open.spotify.com/album/336M91KDT5FewEOZI5SUJd) | 1:31 | 2024-01-18 | 2024-05-27 |
 | [De Selby \(Part 1\)](https://open.spotify.com/track/78x3oT0wyvcm9GRmuAP6Vq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:39 | 2023-08-18 | 2023-08-28 |

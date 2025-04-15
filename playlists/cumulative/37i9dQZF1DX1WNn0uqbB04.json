@@ -1421,6 +1421,28 @@
     },
     {
       "album": {
+        "name": "Quiero Verte Una Vez M\u00e1s (Tango)",
+        "url": "https://open.spotify.com/album/1brLm5hMsOCXQ7jHrRGtTH"
+      },
+      "artists": [
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        },
+        {
+          "name": "Siempre Tango",
+          "url": "https://open.spotify.com/artist/5H7ESVqExDnW9YMScjKbAw"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215675,
+      "name": "Quiero Verte Una Vez M\u00e1s - Tango",
+      "url": "https://open.spotify.com/track/1VtlqzEmFWttigIeYAZtQ9"
+    },
+    {
+      "album": {
         "name": "Ran Tan Plan",
         "url": "https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4"
       },
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 153500,
       "name": "Roberto",
       "url": "https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s"

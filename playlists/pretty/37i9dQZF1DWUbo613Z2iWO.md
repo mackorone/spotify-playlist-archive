@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Jai'len Josey
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,743 likes - 174 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,761 likes - 174 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 4 | [DOWN BAD](https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [DOWN BAD](https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC) | 2:12 |
 | 5 | [Think I Might](https://open.spotify.com/track/3J5w5UZuhcaI1qryqeIk06) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Think I Might](https://open.spotify.com/album/2Jf36TiQ4eQqhRRaOYfhp1) | 2:54 |
 | 6 | [Sunshine](https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 2:24 |
-| 7 | [Unfair](https://open.spotify.com/track/0lSfXdVmXrc6A8TaKBewQq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Unfair](https://open.spotify.com/album/53YwsrvkeXQ0Q7GUYSM1pH) | 2:07 |
+| 7 | [Unfair](https://open.spotify.com/track/0lSfXdVmXrc6A8TaKBewQq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [Unfair](https://open.spotify.com/album/53YwsrvkeXQ0Q7GUYSM1pH) | 2:07 |
 | 8 | [Nine Lives](https://open.spotify.com/track/0UEA1XtQAnIhPZRSHVPtDL) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Nine Lives](https://open.spotify.com/album/53zoCLGDPcf1Lfdwqibiv4) | 2:25 |
 | 9 | [Stay \(feat\. Roy Woods\)](https://open.spotify.com/track/2SkYAIrEkCn09z0IwtK37w) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [I am, because you are...](https://open.spotify.com/album/1iCa2uKzbjFT2csPFD6VAm) | 2:55 |
 | 10 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |

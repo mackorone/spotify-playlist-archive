@@ -1,6 +1,6 @@
 {
   "description": "Affirmations and meditation music for a mindful start of the day. ",
-  "num_followers": 30885,
+  "num_followers": 30937,
   "original_name": "Affirmations",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-08-28 14:29:46",
       "album": {
+        "name": "Blue Skies (174 Hz)",
+        "url": "https://open.spotify.com/album/4EVCcEzQekL26my2vfBuis"
+      },
+      "artists": [
+        {
+          "name": "Endemoniada",
+          "url": "https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2"
+        }
+      ],
+      "duration_ms": 183944,
+      "name": "Blue Skies (174 Hz)",
+      "url": "https://open.spotify.com/track/2gXD7eSRbKOQgwggkcSsuB"
+    },
+    {
+      "added_at": "2024-08-28 14:29:46",
+      "album": {
         "name": "Emotional Resilience - 174 Hz",
         "url": "https://open.spotify.com/album/423zRtEyaDMv90lQDd6hF2"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 173871,
       "name": "Emotional Resilience - 174 Hz",
       "url": "https://open.spotify.com/track/3ofc1ailmJ8I8eD6M4ayrn"
-    },
-    {
-      "added_at": "2024-08-28 14:29:46",
-      "album": {
-        "name": "Continuing Endlessly",
-        "url": "https://open.spotify.com/album/0q25lL0bB1GKES6cqr15NI"
-      },
-      "artists": [
-        {
-          "name": "Elton Baptiste",
-          "url": "https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS"
-        }
-      ],
-      "duration_ms": 183002,
-      "name": "Continuing Endlessly",
-      "url": "https://open.spotify.com/track/0IiVkUz6EE1a9OgUMr9KXB"
     }
   ],
   "unique_name": "Affirmations",

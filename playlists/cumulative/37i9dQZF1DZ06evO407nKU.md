@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 13 min
+129 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [El Día Que Me Fui \(En Vivo\)](https://open.spotify.com/track/20k6zFGYcY0xQ51hLDrx7r) | [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Día Que Me Fui \(En Vivo\)](https://open.spotify.com/album/3o4AMtRkJGieVeQwmgTair) | 3:34 | 2024-03-04 | 2024-04-02 |
 | [El Signo Libra](https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mas Perdidos Que Nunca](https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie) | 4:09 | 2022-06-01 | 2025-02-26 |
 | [El Viejón](https://open.spotify.com/track/34GAoi7sp1UWnY94buABzg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Viejón](https://open.spotify.com/album/2P7d2DZU9Po5AnCzjEIybA) | 3:24 | 2024-08-06 | 2024-09-30 |
+| [En Tu Sonrisa](https://open.spotify.com/track/6hzawDp9DjbaRlDsR12R0K) | [Grupo Doble S](https://open.spotify.com/artist/0iGURLngDC4AjEKaAmF1LF), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Tu Sonrisa](https://open.spotify.com/album/7a2CkvPQeStjenYvF2Ozzp) | 3:01 | 2025-04-15 |  |
 | [Enamorado](https://open.spotify.com/track/65Li8S1PcoLMy7dilqQrYh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:38 | 2022-06-01 | 2022-10-11 |
 | [Eso Me Excita](https://open.spotify.com/track/6EzJpdfLbZcjB0BFEoykXJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 2:38 | 2022-06-01 | 2022-10-13 |
 | [Esta Llorando Mi Corazon](https://open.spotify.com/track/36MObYo9fag3mOtQp9EyIU) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Banda AT](https://open.spotify.com/artist/3yNkh615RFz50gE4kRlXto) | [Esta Llorando Mi Corazon](https://open.spotify.com/album/3qOPkLvWStrB8SIFfL5F9P) | 3:22 | 2022-06-16 | 2022-10-09 |
@@ -119,7 +120,7 @@
 | [Te Voy a Borrar](https://open.spotify.com/track/14YBw9TqXQLouHQ2Axf4XD) | [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Voy a Borrar](https://open.spotify.com/album/5BF6wa9keGK6lCmDputl45) | 3:01 | 2022-06-01 | 2022-10-12 |
 | [Tengo Un Problema](https://open.spotify.com/track/6KZimZRdGSWbsNwCRzue9Y) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tengo Un Problema](https://open.spotify.com/album/1l2wGXbYBOC0f6tRvrUDIf) | 3:03 | 2024-10-23 | 2025-02-25 |
 | [Tira Que Jala \- Live](https://open.spotify.com/track/2OZNhRH9Z2oNqLCBz9YeZy) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Grupo La Kaña](https://open.spotify.com/artist/6paWSc30mMu1ji3scSzD1Q) | [Tira Que Jala \(Live\)](https://open.spotify.com/album/6tn0gofCUDKRDvyD61nYMy) | 3:22 | 2024-02-08 | 2025-01-24 |
-| [Tonieladas](https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Tonieladas \(feat\. Kanales\)](https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX) | 3:20 | 2022-06-01 |  |
+| [Tonieladas](https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Tonieladas \(feat\. Kanales\)](https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX) | 3:20 | 2022-06-01 | 2025-04-15 |
 | [Tres Botes](https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:37 | 2022-06-01 |  |
 | [Tu Cariñito](https://open.spotify.com/track/2RI4LPeI4Ke4MOdmnaDDnf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Cariñito](https://open.spotify.com/album/0PlRDjwGgq2MQhWNw8VQBP) | 2:20 | 2022-06-01 |  |
 | [Tu Forma De Ser](https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Vas](https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR) | 3:03 | 2022-06-01 |  |

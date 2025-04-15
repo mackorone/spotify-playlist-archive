@@ -3557,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "Three Times",
+        "url": "https://open.spotify.com/album/4R90JamYSfq0pNRb2xoiu5"
+      },
+      "artists": [
+        {
+          "name": "1010benja",
+          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247154,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6ZQUvbyiTVNy66ghsYb1Tg"
+    },
+    {
+      "album": {
         "name": "Himmel / Swarm",
         "url": "https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd"
       },

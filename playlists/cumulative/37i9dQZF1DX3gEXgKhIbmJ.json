@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Gringo",
+        "url": "https://open.spotify.com/album/3bFrxMbPC5kxbVWfYkqDzF"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131142,
+      "name": "Gringo",
+      "url": "https://open.spotify.com/track/7tGY7AG6nPFCeP2KAXZCen"
+    },
+    {
+      "album": {
         "name": "GROUPIES",
         "url": "https://open.spotify.com/album/3e0u0TUdHfcvJPotNBP1r1"
       },

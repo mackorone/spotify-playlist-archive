@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u53cb\u6210\u7a7a",
-  "num_followers": 59720,
+  "num_followers": 59728,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-04-08 16:56:23",
       "album": {
+        "name": "Earring",
+        "url": "https://open.spotify.com/album/3bjGlwW1CBhy85iKtkEIGu"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "duration_ms": 240705,
+      "name": "Earring",
+      "url": "https://open.spotify.com/track/4Jh5HJiOWwREsT8zUSOJ7W"
+    },
+    {
+      "added_at": "2025-04-08 16:56:23",
+      "album": {
         "name": "HATA EXPO -The Collaboration Album-",
         "url": "https://open.spotify.com/album/7H6K36YquDfRbMYHHG6SoX"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2025-04-08 16:56:23",
       "album": {
-        "name": "Earring",
-        "url": "https://open.spotify.com/album/3bjGlwW1CBhy85iKtkEIGu"
-      },
-      "artists": [
-        {
-          "name": "\u6c50\u308c\u3044\u3089",
-          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
-        }
-      ],
-      "duration_ms": 240705,
-      "name": "Earring",
-      "url": "https://open.spotify.com/track/4Jh5HJiOWwREsT8zUSOJ7W"
-    },
-    {
-      "added_at": "2025-04-08 16:56:23",
-      "album": {
         "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
         "url": "https://open.spotify.com/album/28DVTgvUMIxHDP7TLc2v7e"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-04-08 16:56:23",
       "album": {
-        "name": "\u30a2\u30cd\u30e2\u30cd",
-        "url": "https://open.spotify.com/album/4ZmyxpMBVaajJWiyhweSUv"
-      },
-      "artists": [
-        {
-          "name": "Kei Sugawara",
-          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
-        }
-      ],
-      "duration_ms": 197406,
-      "name": "\u30a2\u30cd\u30e2\u30cd",
-      "url": "https://open.spotify.com/track/0SB9l1vbYG5A44AJFlmc7J"
-    },
-    {
-      "added_at": "2025-04-08 16:56:23",
-      "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/03qtRC7CB1CDF9lF09zR5g"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 187436,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/3SdnMsWOvVo5evJ1PUcojW"
+    },
+    {
+      "added_at": "2025-04-08 16:56:23",
+      "album": {
+        "name": "\u30a2\u30cd\u30e2\u30cd",
+        "url": "https://open.spotify.com/album/4ZmyxpMBVaajJWiyhweSUv"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "duration_ms": 197406,
+      "name": "\u30a2\u30cd\u30e2\u30cd",
+      "url": "https://open.spotify.com/track/0SB9l1vbYG5A44AJFlmc7J"
     },
     {
       "added_at": "2025-04-08 16:56:23",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2025-04-08 16:56:23",
       "album": {
-        "name": "\u3068\u3042\u308b\u30a2\u30a4\u3092\u7db4\u3063\u3066\u3001",
-        "url": "https://open.spotify.com/album/09GG4R46QMHhcseigszsxL"
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu"
       },
       "artists": [
         {
-          "name": "Sato",
-          "url": "https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31"
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
         }
       ],
-      "duration_ms": 243760,
-      "name": "\u6625\u4e00\u756a",
-      "url": "https://open.spotify.com/track/0wsrPqMvaGQl58DCBNdkf8"
+      "duration_ms": 125000,
+      "name": "HATE ME",
+      "url": "https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

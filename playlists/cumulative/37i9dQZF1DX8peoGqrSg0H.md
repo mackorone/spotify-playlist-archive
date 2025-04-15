@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: ATLAS
 
-680 songs - 1 day 16 hr 8 min
+681 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All Night \(feat\. Loco\)](https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [All Night \(feat\. Loco\)](https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo) | 3:03 | 2022-06-09 | 2022-07-08 |
 | [ambulance](https://open.spotify.com/track/0mMT09W4GI0c374hAHoRKg) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [ambulance](https://open.spotify.com/album/2TJb5ZrRwdPjo0GzDCJeo2) | 3:29 | 2022-09-29 | 2022-10-13 |
 | [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 | 2023-12-27 | 2024-01-04 |
+| [Bad Shawty](https://open.spotify.com/track/4O3J4WqPNqZP9Fib5ztyvj) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Bad Shawty](https://open.spotify.com/album/3OXNYJD05Ze2PBHOnUS1zA) | 3:30 | 2025-04-14 |  |
 | [BANG!](https://open.spotify.com/track/3xTAnualQLXQTPXCY8fDQn) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [BANG!](https://open.spotify.com/album/5mPMtvMVqTKpYVdfqJPmOp) | 3:34 | 2025-03-20 | 2025-04-04 |
 | [Barbie \(Oops! Oops!\)](https://open.spotify.com/track/7rxclG8zeoSUdquI4aPLWu) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [Barbie \(Oops! Oops!\) \- Single](https://open.spotify.com/album/2xNpxsrXEwOGkAjarvT6p2) | 2:56 | 2023-09-08 | 2023-09-16 |
 | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3) | 3:33 | 2022-09-02 | 2022-09-09 |
@@ -449,7 +450,7 @@
 | [ร้ายก็ได้ \(Don't Mind\)](https://open.spotify.com/track/7myYgpUsnTi9gZ7Q1J6RGH) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [ร้ายก็ได้ \(Don't Mind\) \- Single](https://open.spotify.com/album/4soh1kZrD4soADmcghnh4l) | 2:54 | 2023-11-02 | 2023-11-10 |
 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 | 2024-08-07 |  |
 | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/track/5AMYykC6sdveY7NfwHNUm4) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/album/4eQhhdfCD27Z4Bqx3J8R23) | 3:44 | 2022-05-26 | 2022-07-24 |
-| [ลอง \(Reputation\)](https://open.spotify.com/track/4Z19UYA5JKGLhdg7g7wMHu) | [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ลอง \(Reputation\)](https://open.spotify.com/album/3Sy8cFPzSYdgqr107PFUBQ) | 3:38 | 2025-03-20 |  |
+| [ลอง \(Reputation\)](https://open.spotify.com/track/4Z19UYA5JKGLhdg7g7wMHu) | [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ลอง \(Reputation\)](https://open.spotify.com/album/3Sy8cFPzSYdgqr107PFUBQ) | 3:38 | 2025-03-20 | 2025-04-15 |
 | [ลองคุย \(TRY\)](https://open.spotify.com/track/4Fengh8aD0M4QLZB21nloU) | [Baby Mic Candy](https://open.spotify.com/artist/77Z7s7XB4PIcoWQIoYK8ww) | [ลองคุย \(TRY\)](https://open.spotify.com/album/0AcOnm6igHeqUYQMtOShIQ) | 3:55 | 2022-11-18 | 2022-12-02 |
 | [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/track/7sBi5mkwgckfb68RDRWKMS) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/album/1fkjw8BqsMHwXc5gWzDGUo) | 3:35 | 2023-10-19 | 2024-04-12 |
 | [ละลาย \(LaLaLye\)](https://open.spotify.com/track/0sGRwyZJH9lRft6hoNWDPU) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [ละลาย \(LaLaLye\) \- Single](https://open.spotify.com/album/1aWimcmep85JiuUE2shfny) | 3:43 | 2024-11-28 | 2025-03-02 |

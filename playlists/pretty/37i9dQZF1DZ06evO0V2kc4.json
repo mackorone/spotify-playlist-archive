@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 70467,
+  "num_followers": 70485,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAACWjmdF6J+2uDJS86L6RAII",
+  "snapshot_id": "Z/r+gAAAAACdoELGFaBTcBLrI3Myw8KA",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baez Sings Dylan",
-        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 273506,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 216133,
       "name": "Gracias A La Vida",
       "url": "https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 273506,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P"
     },
     {
       "added_at": null,

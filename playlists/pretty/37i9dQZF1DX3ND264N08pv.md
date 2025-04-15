@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,503 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,538 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 16 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 |
 | 17 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 |
 | 18 | [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 |
-| 19 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
+| 19 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
 | 20 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
-| 21 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
+| 21 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
 | 22 | [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 |
 | 23 | [Straight To The Brain](https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Straight To The Brain](https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q) | 2:05 |
 | 24 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 45 | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e) | 3:35 |
 | 46 | [Mind Control](https://open.spotify.com/track/1LPHe6Gm9NfUBhhSUTRQrb) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Mind Control](https://open.spotify.com/album/08Mz2EPv19ITTa6ScLo3nP) | 2:48 |
 | 47 | [Het Beest Is Wakker](https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x) | [Het Beest Is Wakker](https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6) | 2:59 |
-| 48 | [Zware Jongens](https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Zware Jongens](https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota) | 2:44 |
-| 49 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 |
+| 48 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 |
+| 49 | [Zware Jongens](https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Zware Jongens](https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota) | 2:44 |
 | 50 | [Furious Anger](https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Furious Anger](https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR) | 3:25 |
 
 Snapshot ID: `Z/BQngAAAAD8Ep0xeQZ7UrRC2iaKiJcz`

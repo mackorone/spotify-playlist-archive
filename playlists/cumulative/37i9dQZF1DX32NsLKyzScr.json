@@ -6875,6 +6875,28 @@
     },
     {
       "album": {
+        "name": "eternal life",
+        "url": "https://open.spotify.com/album/35B3JXlJi4OCZ83NHrSGp2"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161787,
+      "name": "eternal life",
+      "url": "https://open.spotify.com/track/7L5OaUjmQBnuuxkcrQj7jE"
+    },
+    {
+      "album": {
         "name": "Eternal Rave",
         "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
       },
@@ -12356,7 +12378,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 153207,
       "name": "Last Song (feat. Faouzia)",
       "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"

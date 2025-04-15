@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jervis Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,511 likes - 99 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,568 likes - 99 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

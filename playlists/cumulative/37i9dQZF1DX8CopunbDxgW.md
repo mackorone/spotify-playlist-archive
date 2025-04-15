@@ -4,7 +4,7 @@
 
 > the best indie dance tracks of the moment 😗 with it's murph
 
-1,767 songs - 4 day 12 hr 26 min
+1,768 songs - 4 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Day Dreams \- Mona Yim Remix](https://open.spotify.com/track/66WUdzZp9QD96YlIu4QcTa) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Day Dreams \(Mona Yim Remix\)](https://open.spotify.com/album/0cWQC0nw6WBOknMp07rAnF) | 3:18 | 2024-08-30 | 2024-09-21 |
 | [Day Is Long \(I Don't Want To Love You\)](https://open.spotify.com/track/68YA5OHbGzn9nFdQ2lgGe5) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Day Is Long \(I Don't Want To Love You\)](https://open.spotify.com/album/61W8kAH0sVLMpWuWeKD9q2) | 2:48 | 2025-01-10 | 2025-02-22 |
 | [Day Starter](https://open.spotify.com/track/2Fq880m3Pp53xhzmSMeteS) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Day Starter / Affection](https://open.spotify.com/album/71T9iwrkVndtgjJPtTJbkR) | 3:14 | 2024-12-06 | 2025-01-11 |
+| [Daybreak](https://open.spotify.com/track/4dXVydA1uwkWnaVtH1IfgH) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Daybreak](https://open.spotify.com/album/2AlOh1B9MA0sD65pWqV79n) | 4:01 | 2025-04-14 |  |
 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2023-09-29 | 2023-10-21 |
 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-07 | 2024-01-13 |
 | [Days Like This](https://open.spotify.com/track/6y3ZGJ2zecaZHYsRJ7fg0I) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz) | [Soulonica](https://open.spotify.com/album/2hMO585Rgwx9e2Y1oIFnQV) | 8:02 | 2023-02-24 | 2023-03-04 |
@@ -1035,7 +1036,7 @@
 | [Mind Talking](https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Stimulate \(Deluxe\)](https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx) | 2:34 | 2023-08-25 | 2023-09-02 |
 | [Mindless](https://open.spotify.com/track/63JuomZqCbDTgZ4lect9T2) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Under The Weather](https://open.spotify.com/album/5qwVn38pLMvOFSki8dbRrp) | 2:49 | 2021-09-10 | 2022-02-02 |
 | [Mine](https://open.spotify.com/track/25VKwAAJ7YLvpTJ02yNV5x) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Mine](https://open.spotify.com/album/1BY0QxlWWcjHjpEVqgTnDa) | 4:00 | 2021-08-27 | 2022-02-12 |
-| [Mine \(Channel Tres Remix\)](https://open.spotify.com/track/42kFWZayxUQkMyGNTyFsUg) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Mine \(Channel Tres Remix\)](https://open.spotify.com/album/6wT3yGTtl1xGuedJrQXs8G) | 3:05 | 2025-02-07 |  |
+| [Mine \(Channel Tres Remix\)](https://open.spotify.com/track/42kFWZayxUQkMyGNTyFsUg) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Mine \(Channel Tres Remix\)](https://open.spotify.com/album/6wT3yGTtl1xGuedJrQXs8G) | 3:05 | 2025-02-07 | 2025-04-15 |
 | [Minute by Minute](https://open.spotify.com/track/3Zg98hOD3YAcmMmgylEfRu) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Minute by Minute](https://open.spotify.com/album/2zQrGye52xr5lt6AKbFDcq) | 5:13 | 2022-02-25 | 2022-07-25 |
 | [miracle](https://open.spotify.com/track/0AYDyOjY8Mu2b9JCqzPSHh) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [miracle / smilin'](https://open.spotify.com/album/5FAwrmMHOIJUQRt8FAdvpV) | 2:32 | 2022-05-06 | 2022-07-28 |
 | [Mirror](https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Mirror](https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ) | 5:44 | 2023-10-20 | 2023-12-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/7AbHJtc16ssgYnjxLPj9mS\">Venter</a>  ",
-  "num_followers": 37500,
+  "num_followers": 37522,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,26 @@
     {
       "added_at": "2025-04-03 22:00:52",
       "album": {
+        "name": "Smoke & Embers",
+        "url": "https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        },
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Smoke & Embers",
+      "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"
+    },
+    {
+      "added_at": "2025-04-03 22:00:52",
+      "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 228066,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
-    },
-    {
-      "added_at": "2025-04-03 22:00:52",
-      "album": {
-        "name": "Smoke & Embers",
-        "url": "https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        },
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Smoke & Embers",
-      "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"
     },
     {
       "added_at": "2025-04-03 22:00:52",

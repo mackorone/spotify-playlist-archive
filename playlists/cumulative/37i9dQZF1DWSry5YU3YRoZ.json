@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 189520,
       "name": "dawn",
       "url": "https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT"
@@ -328,6 +328,24 @@
       "duration_ms": 233561,
       "name": "Down",
       "url": "https://open.spotify.com/track/7hRhNpXVmoWicHNmgXcF3j"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374991,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK"
     },
     {
       "album": {
@@ -501,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Words",
+        "url": "https://open.spotify.com/album/7bStTwJ9EMJ2sjVxZ14stb"
+      },
+      "artists": [
+        {
+          "name": "Budung",
+          "url": "https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288493,
+      "name": "Forgotten Words",
+      "url": "https://open.spotify.com/track/5TgDaGcHs18ShvEeSESWKC"
+    },
+    {
+      "album": {
         "name": "Glass",
         "url": "https://open.spotify.com/album/4Ek9ovRZi20qAA9Y3M6BAn"
       },
@@ -642,7 +678,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 237504,
       "name": "Haze",
       "url": "https://open.spotify.com/track/1AIeM0tVZYsi9KCMjNECUx"
@@ -938,7 +974,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 166266,
       "name": "Long long night",
       "url": "https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw"
@@ -1143,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204463,
+      "name": "Prayers of a Hedgehog",
+      "url": "https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C"
+    },
+    {
+      "album": {
         "name": "Offset",
         "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
       },
@@ -1269,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Someone I Know",
+        "url": "https://open.spotify.com/album/2lvXJqGEVay3Cou1kv0On4"
+      },
+      "artists": [
+        {
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243924,
+      "name": "Sometimes - Demo version",
+      "url": "https://open.spotify.com/track/3qityOOfW44GLIA3tIaXB2"
+    },
+    {
+      "album": {
         "name": "\ub0a8\ud574",
         "url": "https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G"
       },
@@ -1280,7 +1352,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 247000,
       "name": "Sparkling Sunshine",
       "url": "https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g"
@@ -1608,24 +1680,6 @@
       "duration_ms": 274304,
       "name": "\uadf8 \ubc24",
       "url": "https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd"
-    },
-    {
-      "album": {
-        "name": "\uafc8 Dream",
-        "url": "https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "date_added": "2023-11-03",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
-      "duration_ms": 374991,
-      "name": "\uafc8 Dream",
-      "url": "https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK"
     },
     {
       "album": {

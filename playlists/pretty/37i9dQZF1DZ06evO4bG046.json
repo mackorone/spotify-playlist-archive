@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 34804,
+  "num_followers": 34808,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAAB9u7v4uIc4xQ1k4IDCixeJ",
+  "snapshot_id": "Z/r+gAAAAAD0noN1wXMEH9qQzOp5Oj7e",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
-        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 273851,
-      "name": "Ayer Cach\u00e9 - En Vivo 2014",
-      "url": "https://open.spotify.com/track/2WUkVGzTEbjir1z4rJm7U6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ventana (Remasterizado 2020)",
         "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 283189,
       "name": "La Quebr\u00e1 del Aj\u00ed (Remasterizado 2020)",
       "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
+        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 273851,
+      "name": "Ayer Cach\u00e9 - En Vivo 2014",
+      "url": "https://open.spotify.com/track/2WUkVGzTEbjir1z4rJm7U6"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
+        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 303842,
+      "name": "Como Tus R\u00edos Te Recorren - En Vivo 2014",
+      "url": "https://open.spotify.com/track/3kuHkjG1G7Zqzu9Onb9gmS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obras de Violeta Parra",
         "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 663000,
       "name": "Y Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/0qarO5TEf1JwiJMyV6GQ23"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
-        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 32914,
-      "name": "El Pasillo del C\u00f3ndor - En Vivo 2014",
-      "url": "https://open.spotify.com/track/3VqyFnVNNe030MDH6XR6b2"
     }
   ],
   "unique_name": "This Is Los Jaivas",

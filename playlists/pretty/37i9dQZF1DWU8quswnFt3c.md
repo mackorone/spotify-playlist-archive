@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,469 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,465 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 30 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
 | 31 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
 | 32 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 |
-| 33 | [Bus Station](https://open.spotify.com/track/4SVO6an1H4SfvoHJxf37dl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Mixed Feelings \(opening season\)](https://open.spotify.com/album/2F9o96gJGhX2z1ggQNOG0p) | 2:25 |
-| 34 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
+| 33 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
+| 34 | [Bus Station](https://open.spotify.com/track/4SVO6an1H4SfvoHJxf37dl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Mixed Feelings \(opening season\)](https://open.spotify.com/album/2F9o96gJGhX2z1ggQNOG0p) | 2:25 |
 | 35 | [Hening Rindu](https://open.spotify.com/track/78407B74rCuif4YYE4SRUv) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Hening Rindu](https://open.spotify.com/album/1cPlyNOK1dziSnIkjNweS4) | 3:56 |
 | 36 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 |
 | 37 | [Method Actor](https://open.spotify.com/track/0sggL2BsarV5q8acXljmWI) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [My Method Actor](https://open.spotify.com/album/4BBVZgRsWeNVgGmub6LY3p) | 3:51 |
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 50 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 |
 | 51 | [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 |
 | 52 | [Horses](https://open.spotify.com/track/3q9t1eJSGjzsKhs8iDKPfZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 3:32 |
-| 53 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
-| 54 | [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 |
+| 53 | [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 |
+| 54 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
 | 55 | [Ninacamina](https://open.spotify.com/track/5VOYJdMdKHsg9SPKFBcTfc) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [girl EDM \(disc 1\)](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 3:07 |
 | 56 | [lost love](https://open.spotify.com/track/5uXAZfUUgjk0x5a9WoMYnE) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [lost love](https://open.spotify.com/album/63Glu1UhzrFEHa4Y5qTCpE) | 3:22 |
 | 57 | [Industry Corporate Freak](https://open.spotify.com/track/33aigucvBFkOAa2yRHy7g5) | [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL) | [Industry Corporate Freak](https://open.spotify.com/album/30Nk32LOHIeOd9TGxbaW3c) | 4:38 |
 | 58 | [XOXO](https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq) | [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v) | [XOXO](https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ) | 2:55 |
 | 59 | [Mothearth](https://open.spotify.com/track/6v7qPWc49BjNyq1Ei9pY3p) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Mothearth](https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto) | 5:27 |
 | 60 | [STRESS](https://open.spotify.com/track/7I0FfSYkHtYq3M20c0XnwU) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [dj galen](https://open.spotify.com/artist/18ZA3vytlUTwnjKxjohr3g), [spellcasting](https://open.spotify.com/artist/2AqLY2MtalQAJ29dlkdVck) | [STRESS](https://open.spotify.com/album/2W0xdBTCynpdpGZcwdTf00) | 3:27 |
-| 61 | [Ambulance](https://open.spotify.com/track/585AnHpC4c13rIhnsoioyg) | [Cece Natalie](https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F) | [Miss Behaves](https://open.spotify.com/album/7EfN2vmlrsZTFkWYLI3f3e) | 2:26 |
-| 62 | [Som En Sol](https://open.spotify.com/track/4R86lqU8YrlNtwgsqBE2Dl) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Toxe2](https://open.spotify.com/album/2bztnBGwhJiRQBpuqHjYtt) | 2:55 |
+| 61 | [Som En Sol](https://open.spotify.com/track/4R86lqU8YrlNtwgsqBE2Dl) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Toxe2](https://open.spotify.com/album/2bztnBGwhJiRQBpuqHjYtt) | 2:55 |
+| 62 | [Ambulance](https://open.spotify.com/track/585AnHpC4c13rIhnsoioyg) | [Cece Natalie](https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F) | [Miss Behaves](https://open.spotify.com/album/7EfN2vmlrsZTFkWYLI3f3e) | 2:26 |
 | 63 | [Agosto](https://open.spotify.com/track/1U3gNlN90I6TMGEs2KCOvH) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF) | [Agosto](https://open.spotify.com/album/4LFDZ4pCM49hjqBZiNTKkO) | 3:22 |
 | 64 | [put elphi on](https://open.spotify.com/track/6SKt4sgcmcn4qcxEBGICG6) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [put elphi on](https://open.spotify.com/album/3mcAvlzWECPY8d7HyMgLiM) | 2:22 |
 | 65 | [girl EDM](https://open.spotify.com/track/1oNYiuCvyixmwcyNZyq3Dd) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [girl EDM \(disc 1\)](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 3:45 |

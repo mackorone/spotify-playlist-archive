@@ -4,7 +4,7 @@
 
 > Enjoy the NCT WISH \[ASIA TOUR LOG in\] LIVE SET including the voices of them on stage! \(NCT WISH의 무대 멘트와 목소리가 포함된 \[ASIA TOUR LOG in\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-31 songs - 1 hr 56 min
+32 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Hands Up](https://open.spotify.com/track/0Wp5yopFqgKyklOReg9S8a) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:14 | 2025-03-17 | 2025-04-04 |
 | [Hands Up \- Korean Version](https://open.spotify.com/track/0GUXS5junKKWJ8nV81APzq) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 3:14 | 2025-03-17 |  |
 | [Make You Shine](https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Pokémon \| Make You Shine](https://open.spotify.com/album/6DDyjcjzezPkC912QMkf6j) | 3:19 | 2025-04-03 |  |
+| [Melt Inside My Pocket](https://open.spotify.com/track/1iHLurrRAWHisZAmzp9Uio) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:11 | 2025-04-14 |  |
 | [Miracle](https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Miracle](https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL) | 2:57 | 2025-03-17 |  |
 | [NASA](https://open.spotify.com/track/4FlwKeii8Y46oyTLtsYLJq) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:03 | 2025-03-17 |  |
 | [On & On](https://open.spotify.com/track/5RJK0rH8I8I5BeBRLlTvPy) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 3:03 | 2025-03-17 | 2025-04-04 |

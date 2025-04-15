@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request @ spotify.furrest.net
 
-331 songs - 17 hr 34 min
+333 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Ascension \- overblur Remix](https://open.spotify.com/track/2JwBdY53fZAAQjG9HE1bNI) | [Khaliber](https://open.spotify.com/artist/27uhOz3aj61Jbvnoc0yUrH), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d), [Kurvy Pinx](https://open.spotify.com/artist/294PZzIa01hFjsMxXYseQy), [overblur](https://open.spotify.com/artist/6WmXUzSYwIPwKx2XTJHxkD) | [Ascension](https://open.spotify.com/album/1URFm51P2ulnuyo4bLoweF) | 3:53 | 2024-02-09 |  |
 | [AT THE END OF EVERYTHING](https://open.spotify.com/track/04aZ1x9Qb0mYh5T5xmztg4) | [Goodnight Girl](https://open.spotify.com/artist/6DuT8CQIbI5VoQaJKVmKQi), [Doodled](https://open.spotify.com/artist/120IFZzkXYONTLup5hTkqW) | [WANNABE](https://open.spotify.com/album/5X1DBiUGnShpPetLnT7EoQ) | 3:30 | 2024-08-15 |  |
 | [Ayleeyuns](https://open.spotify.com/track/13oIzlPIENDOkJaFU7H7Bx) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Ayleeyuns](https://open.spotify.com/album/52JfrqP4UKV7nqh1qyVqm5) | 4:08 | 2024-03-31 |  |
+| [b\-b\-BASS DOWN LOW](https://open.spotify.com/track/4i9kCaqvah5JzOLoNeA2Br) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:18 | 2025-04-14 |  |
 | [Best friend](https://open.spotify.com/track/3GuAaedm9h7AtcDfZY3ymI) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3), [Dangwoo](https://open.spotify.com/artist/1I1fniaM5aQpdPmWZq0hWv), [Kruyo](https://open.spotify.com/artist/5iUiHeYlymptgOr8hdFHwe), [Chase](https://open.spotify.com/artist/4eIQ6kXx8kwoW4ykKQ3nNI), [Cross](https://open.spotify.com/artist/75hD2nouxnATI5mcNqoHpT), [Coolman](https://open.spotify.com/artist/7HXmQqlhwWd4kHlAg0A9cD), [Niloc](https://open.spotify.com/artist/2VDjNNL97uqtKSSWXlJUSS) | [Best friend](https://open.spotify.com/album/25US1PpTgszREgddFdqMoU) | 3:30 | 2024-03-25 |  |
 | [Big Balls](https://open.spotify.com/track/11xlPlEzy8pKKuQEAJpyzb) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Big Balls](https://open.spotify.com/album/0cmu1siHEV3cLivD7qw0iV) | 2:39 | 2023-06-14 |  |
 | [Blood // Water](https://open.spotify.com/track/4AyS2onxBbtArFwc6lXCTt) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [Songs From A Broken Mind](https://open.spotify.com/album/7I7NrdgIIqrol4fyBMOr0A) | 3:28 | 2023-06-14 |  |
@@ -305,6 +306,7 @@
 | [That Spark](https://open.spotify.com/track/124urhdKEhZ6Fm3yft6SE8) | [Eris Soundworks](https://open.spotify.com/artist/5X1SwenxpH0EvoxYsQZNxz), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Visitor](https://open.spotify.com/album/4VOMEobaVteSEzw688Bkkj) | 5:05 | 2024-03-06 |  |
 | [THE ANSWER](https://open.spotify.com/track/1WAjkenGGMIGhDL6bK5BRn) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [IN THE DARK / THE ANSWER](https://open.spotify.com/album/5XFda23kFtFtWgGSAU1NaK) | 3:50 | 2023-11-17 |  |
 | [THE FLIES \- REMIX](https://open.spotify.com/track/19HjBefvsg5MYOTULhFxvX) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 2:20 | 2024-07-14 |  |
+| [The Flower](https://open.spotify.com/track/2gRC0oHnH8t5l6qlgmpttT) | [Siv Kyne](https://open.spotify.com/artist/4VFrZg2IkVBK66DEnA8CK4), [Melodinumbra](https://open.spotify.com/artist/2o5GlEfiErzi5R8dzihueQ) | [The Flower](https://open.spotify.com/album/5xkLgn7UBRDbmGsxoU77hj) | 1:26 | 2025-04-14 |  |
 | [The General's Dogs](https://open.spotify.com/track/60Agi3R9ZYvncE1aNgOuAX) | [Exit Mouse](https://open.spotify.com/artist/3Ogz8kpK4hhGhHfSPVY7ER) | [The General's Dogs](https://open.spotify.com/album/6LfxDLa7ytzXxtGu9iaDp5) | 2:48 | 2023-06-14 |  |
 | [THE KILL](https://open.spotify.com/track/5UZgQsvQ9LVca5XqDRFbOb) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [THE KILL](https://open.spotify.com/album/14fINCadFpJCCbREk6JVLf) | 3:11 | 2024-08-15 |  |
 | [the largest boy \(ever\)](https://open.spotify.com/track/6pfzmolYBWEEGGCDuCo4Bi) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Data Soup Demos](https://open.spotify.com/album/5CWYFxQJrUcIJGCCyLVszB) | 1:44 | 2024-11-18 |  |

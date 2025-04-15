@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-459 songs - 23 hr 29 min
+460 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Blooming Daze](https://open.spotify.com/track/2IK0o41yNFBaBvO4dRGEP9) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Blooming Daze](https://open.spotify.com/album/6O8NndYqdd8GgQWIs8A0Xa) | 3:32 | 2025-03-25 |  |
 | [Blossom](https://open.spotify.com/track/5yGRHsgHyUgctn0nDJXk9D) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Blossom](https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG) | 3:02 | 2022-01-12 | 2023-03-15 |
 | [Breaking Silence](https://open.spotify.com/track/4380dhBofsUcbAwa2UqBMc) | [Sounding Cosmos](https://open.spotify.com/artist/57cTypsKxiOGCYx2AbCHkn) | [Breaking Silence](https://open.spotify.com/album/4FH4IHc9VxPs19eX0oagVT) | 3:20 | 2024-03-06 |  |
+| [Breath of the Night](https://open.spotify.com/track/6HaoGedpMDq3gGRt2N8IGl) | [Mosaic Tiles](https://open.spotify.com/artist/0N6CxcY2aQYuRWl8HNkqWO) | [Breath of the Night](https://open.spotify.com/album/7iGbbvTejsQId8hXLqEVRc) | 2:30 | 2025-03-25 |  |
 | [Breathe In Life](https://open.spotify.com/track/4HC6IEkrv8jhBBse3tcQHH) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Breathe In Life](https://open.spotify.com/album/6tmwkDjL7V66iC4cROQKOr) | 2:14 | 2023-07-06 | 2024-03-21 |
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-03-18 |  |
 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 | 2022-01-12 | 2023-07-29 |
@@ -313,7 +314,7 @@
 | [Once More Forever](https://open.spotify.com/track/63B7LUA9cMoC1Ssk1DrPWx) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Once More Forever](https://open.spotify.com/album/18o0ClCIX8wrxpZfVXf84w) | 3:38 | 2025-02-28 | 2025-04-08 |
 | [Only Questions](https://open.spotify.com/track/3AUdlTHQPSfW7VudQg4xXY) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Max Richter: Piano Works](https://open.spotify.com/album/6rMEMWqwtuzVBGZJ1af0qJ) | 1:56 | 2022-04-13 | 2022-04-21 |
 | [Onthou 432 Hz](https://open.spotify.com/track/7COlRpwJZKvioLFQNTDoJr) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Onthou 432 Hz](https://open.spotify.com/album/6TSFGLI8KxF4KyB3oUeXXY) | 2:53 | 2024-11-21 |  |
-| [Oort Impressions](https://open.spotify.com/track/6Hcqf5pG4yUYcS972jVyQU) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Oort Impressions](https://open.spotify.com/album/5X6rZIMU2FGUEVJ6iRrvcr) | 2:44 | 2025-01-21 |  |
+| [Oort Impressions](https://open.spotify.com/track/6Hcqf5pG4yUYcS972jVyQU) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Oort Impressions](https://open.spotify.com/album/5X6rZIMU2FGUEVJ6iRrvcr) | 2:44 | 2025-01-21 | 2025-04-15 |
 | [Opaque](https://open.spotify.com/track/0n7cjB7t74Vq7l0gXBmfH8) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Opaque](https://open.spotify.com/album/226NWzxnTuE8IeVl1bVgp7) | 2:37 | 2025-01-21 |  |
 | [Orison](https://open.spotify.com/track/3GJyYi78wUaUZgbrwipcpG) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Orison](https://open.spotify.com/album/3iaTv0CK057m9PxroFoi8g) | 3:02 | 2022-01-12 | 2023-07-29 |
 | [Ortu Lunae](https://open.spotify.com/track/5mOfWZHRYAKAjzjZXC1LpD) | [Hilduriam](https://open.spotify.com/artist/2sGWavPR2tKkwpw3a7jBSj) | [Ortu Lunae](https://open.spotify.com/album/1qO9sh6NNSdLDTpBYUHisQ) | 3:26 | 2024-01-17 | 2025-02-22 |

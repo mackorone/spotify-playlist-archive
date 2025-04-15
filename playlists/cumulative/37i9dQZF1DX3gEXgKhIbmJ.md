@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-260 songs - 10 hr 33 min
+261 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Gideon](https://open.spotify.com/track/6IdWc9IXfwk3ZkGgeSNIIC) | [Prod Pedrunk](https://open.spotify.com/artist/79me07P9RVGtTW5QS8tEb9) | [Gideon](https://open.spotify.com/album/2kgFSJojiz0SE1gk7ecpRS) | 3:32 | 2023-11-17 | 2024-01-20 |
 | [GO!](https://open.spotify.com/track/3pXNplcoTZThHOyUsG01XD) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [GO!](https://open.spotify.com/album/3ZcUWAviyQBoklaNJjauq2) | 2:24 | 2024-09-13 |  |
 | [Golpe](https://open.spotify.com/track/4mdHDKWElFhvubKOmoXcX6) | [Kvel](https://open.spotify.com/artist/7l0eO47IChQIAiekqjzUjf), [Mattyahu](https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw), [APEE](https://open.spotify.com/artist/1kbmSvYaLCeWwcYffCmLrX) | [Golpe](https://open.spotify.com/album/6AwKE2CfeGzscrKS7iiFQo) | 3:11 | 2024-05-10 | 2024-11-30 |
+| [Gringo](https://open.spotify.com/track/7tGY7AG6nPFCeP2KAXZCen) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Gringo](https://open.spotify.com/album/3bFrxMbPC5kxbVWfYkqDzF) | 2:11 | 2025-04-14 |  |
 | [GROUPIES](https://open.spotify.com/track/5yB3lKEERZ1u7ag44te5bi) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [GROUPIES](https://open.spotify.com/album/3e0u0TUdHfcvJPotNBP1r1) | 2:04 | 2023-09-15 | 2023-09-23 |
 | [Guerra](https://open.spotify.com/track/2Kmnl2HePPPejOeethzWmY) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Guerra](https://open.spotify.com/album/13OY8tDfRBOisgLf6E1pqO) | 2:23 | 2023-10-27 | 2024-11-30 |
 | [Guerra](https://open.spotify.com/track/2ji9WHNU2CXRPb8Zevnnpf) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Guerra](https://open.spotify.com/album/3PRhDBXhCBniQnZYA5D6CB) | 2:23 | 2023-09-15 | 2023-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,408 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,791 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 7 | [Makhna \- From "Drive"](https://open.spotify.com/track/7BjQqiOJio4RdPL33yALKE) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/6pY4tNppoP8sV77Dc4ecVj) | 3:03 |
 | 8 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
 | 9 | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/album/3vBso6gFPmEwstdMXn3Ahi) | 2:56 |
-| 10 | [Bam Bam Bhole \- From "Sikandar"](https://open.spotify.com/track/5fRN1ylOoNE3p85zwksuwf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Bam Bam Bhole \(From "Sikandar"\)](https://open.spotify.com/album/39rvScfuks8QH4LvfB8rmk) | 3:38 |
+| 10 | [Dil Behkaaye](https://open.spotify.com/track/4RluWOpOG1YBZEtUmEAExY) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rutvik Talashilkar](https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb) | [Dil Behkaaye](https://open.spotify.com/album/2WginyYdZBd5opfBW38Cy0) | 3:25 |
 | 11 | [Uff Teri Adaa](https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Karthik Calling Karthik](https://open.spotify.com/album/13aLziSCr93ULLwPE2JURA) | 5:04 |
 | 12 | [Saath Hum Jo Chale \- Daaru Desi](https://open.spotify.com/track/3RuPAEb9EKGnHhlQpW9bZ2) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Saath Hum Jo Chale \(Daaru Desi\)](https://open.spotify.com/album/187oGXnc2jrLBqwvBxZeaA) | 2:03 |
 | 13 | [Main Heer Teri](https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Main Heer Teri](https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 74 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 |
 | 75 | [Ek Main Aur Ekk Tu](https://open.spotify.com/track/4UDFr3P1lRS6seQfmzCjz7) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Anushka Manchanda](https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:21 |
 
-Snapshot ID: `Z/jbkAAAAAAviPURk+g1yHMmA4TfrIFg`
+Snapshot ID: `Z/zFSQAAAADj+pOL9qWusNlrQBnyB/tv`

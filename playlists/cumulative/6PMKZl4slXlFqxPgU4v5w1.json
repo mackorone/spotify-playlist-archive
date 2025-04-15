@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Original Soundtrack",
+        "url": "https://open.spotify.com/album/5DRd3WmUMyVgQvRWowIsPZ"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Honma",
+          "url": "https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183026,
+      "name": "Romantic",
+      "url": "https://open.spotify.com/track/6iXO4A5u0CRLNre9lSxntL"
+    },
+    {
+      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },

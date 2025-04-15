@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2313,
+  "num_followers": 2314,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "BANDABERT\u00c8",
+        "url": "https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "duration_ms": 217999,
+      "name": "Folle citt\u00e0",
+      "url": "https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "Sulla riva del fiume",
         "url": "https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "BANDABERT\u00c8",
-        "url": "https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o"
-      },
-      "artists": [
-        {
-          "name": "Loredana Bert\u00e8",
-          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
-        }
-      ],
-      "duration_ms": 217999,
-      "name": "Folle citt\u00e0",
-      "url": "https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
         "name": "Vai mo' (2021 Remaster)",
         "url": "https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX"
       },
@@ -455,22 +455,18 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Quando sarai piccola",
-        "url": "https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm"
+        "name": "Creuza de ma",
+        "url": "https://open.spotify.com/album/6UGZ5FUUu2W0MWtEUvEcIJ"
       },
       "artists": [
         {
-          "name": "Simone Cristicchi",
-          "url": "https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz"
-        },
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/0DRQddAJlPIR3pMzRJm5kb"
+          "name": "Fabrizio De Andr\u00e9",
+          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
         }
       ],
-      "duration_ms": 225636,
-      "name": "La cura",
-      "url": "https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr"
+      "duration_ms": 375813,
+      "name": "Cr\u00eauza de m\u00e4 - New Mix 2014",
+      "url": "https://open.spotify.com/track/4Y3WfBJo7kwWkvzU8jzbno"
     },
     {
       "added_at": "2025-03-03 09:30:09",
@@ -491,18 +487,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Creuza de ma",
-        "url": "https://open.spotify.com/album/6UGZ5FUUu2W0MWtEUvEcIJ"
+        "name": "Quando sarai piccola",
+        "url": "https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm"
       },
       "artists": [
         {
-          "name": "Fabrizio De Andr\u00e9",
-          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
+          "name": "Simone Cristicchi",
+          "url": "https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz"
+        },
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/0DRQddAJlPIR3pMzRJm5kb"
         }
       ],
-      "duration_ms": 375813,
-      "name": "Cr\u00eauza de m\u00e4 - New Mix 2014",
-      "url": "https://open.spotify.com/track/4Y3WfBJo7kwWkvzU8jzbno"
+      "duration_ms": 225636,
+      "name": "La cura",
+      "url": "https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr"
     },
     {
       "added_at": "2025-03-03 09:30:09",

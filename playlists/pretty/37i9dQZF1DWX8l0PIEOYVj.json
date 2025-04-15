@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "DOPAMINE++",
-        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "DOPAMINE++",
-      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/48QCBT4gmWL2vnumry86eP"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 166400,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/7I2eD1bRTXJDkQcg9liRr1"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "DOPAMINE++",
+        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "DOPAMINE++",
+      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -1551,34 +1551,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Say What You Mean",
-        "url": "https://open.spotify.com/album/1p9XaMzSeW7WjcuzwhiF79"
-      },
-      "artists": [
-        {
-          "name": "ROY KNOX",
-          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
-        },
-        {
-          "name": "SadBois",
-          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
-        },
-        {
-          "name": "afterxheaven",
-          "url": "https://open.spotify.com/artist/1nBDBNm03zYq8mm569LT9L"
-        },
-        {
-          "name": "Noah Cunane",
-          "url": "https://open.spotify.com/artist/477tsxxnnHIlgh6oY6t9eq"
-        }
-      ],
-      "duration_ms": 187621,
-      "name": "Say What You Mean",
-      "url": "https://open.spotify.com/track/44gSWtR35BRroza0YfWEuT"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "EDGE (The Remixes)",
         "url": "https://open.spotify.com/album/6NIM6v3gwobJAy7IY5jNJA"
       },
@@ -1619,6 +1591,34 @@
       "duration_ms": 201425,
       "name": "Heart Don't Work Like That",
       "url": "https://open.spotify.com/track/2O3k8jEGLZNOJzz5siJZTt"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Say What You Mean",
+        "url": "https://open.spotify.com/album/1p9XaMzSeW7WjcuzwhiF79"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "afterxheaven",
+          "url": "https://open.spotify.com/artist/1nBDBNm03zYq8mm569LT9L"
+        },
+        {
+          "name": "Noah Cunane",
+          "url": "https://open.spotify.com/artist/477tsxxnnHIlgh6oY6t9eq"
+        }
+      ],
+      "duration_ms": 187621,
+      "name": "Say What You Mean",
+      "url": "https://open.spotify.com/track/44gSWtR35BRroza0YfWEuT"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "Darkest Days (feat. Sandra Yvette)",
+        "url": "https://open.spotify.com/album/0L9qUzPx8fbPP9IaAoUTq5"
+      },
+      "artists": [
+        {
+          "name": "FLOTE",
+          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+        },
+        {
+          "name": "Sandra Yvette",
+          "url": "https://open.spotify.com/artist/5oogJiIMNvcoAIiyFk3NTe"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Darkest Days (feat. Sandra Yvette)",
+      "url": "https://open.spotify.com/track/6meFLb7oAeZEZ9FWWyTJul"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "Your Imagination",
         "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 205333,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/2Cg5nw3PsrHYudEux8IBcT"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "Darkest Days (feat. Sandra Yvette)",
-        "url": "https://open.spotify.com/album/0L9qUzPx8fbPP9IaAoUTq5"
-      },
-      "artists": [
-        {
-          "name": "FLOTE",
-          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
-        },
-        {
-          "name": "Sandra Yvette",
-          "url": "https://open.spotify.com/artist/5oogJiIMNvcoAIiyFk3NTe"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Darkest Days (feat. Sandra Yvette)",
-      "url": "https://open.spotify.com/track/6meFLb7oAeZEZ9FWWyTJul"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "VOLPETRON ASCENDS EP",
+        "url": "https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 187034,
+      "name": "IT ISN'T ME",
+      "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "Crashing Hard",
         "url": "https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i"
       },
@@ -2007,26 +2027,6 @@
       "duration_ms": 208000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "VOLPETRON ASCENDS EP",
-        "url": "https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 187034,
-      "name": "IT ISN'T ME",
-      "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2127,6 +2127,26 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "fragments of us",
+        "url": "https://open.spotify.com/album/2UbZfD8vJwGXmgZe0Px4Bl"
+      },
+      "artists": [
+        {
+          "name": "GhostDragon",
+          "url": "https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O"
+        },
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "the ugly truth",
+      "url": "https://open.spotify.com/track/3qWZTAWqQh164rvOFrTpUm"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/6iguOPqXcNx3qOm8BuelPE"
       },
@@ -2151,6 +2171,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "The Nature of Hope",
+        "url": "https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        }
+      ],
+      "duration_ms": 210206,
+      "name": "Straight Into The Ground",
+      "url": "https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj"
       },
@@ -2171,18 +2207,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "The Nature of Hope",
-        "url": "https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm"
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
       },
       "artists": [
         {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+        },
+        {
+          "name": "Fazzi",
+          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
         }
       ],
-      "duration_ms": 210206,
-      "name": "Straight Into The Ground",
-      "url": "https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa"
+      "duration_ms": 195775,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2207,26 +2247,6 @@
       "duration_ms": 237200,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/16Hipr5yWu4Skxei5kG6W2"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
-      },
-      "artists": [
-        {
-          "name": "ARAYA",
-          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
-        },
-        {
-          "name": "Fazzi",
-          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
-        }
-      ],
-      "duration_ms": 195775,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2271,6 +2291,26 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "Retraced",
+        "url": "https://open.spotify.com/album/6YX3ZpToWvi6hmy8bMEvAt"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "duration_ms": 249330,
+      "name": "Retraced",
+      "url": "https://open.spotify.com/track/7CvgfJoj4aw6thesUvfHtT"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/7wYiEcHymyhrB6n9TDnbvu"
       },
@@ -2295,26 +2335,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Retraced",
-        "url": "https://open.spotify.com/album/6YX3ZpToWvi6hmy8bMEvAt"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 249330,
-      "name": "Retraced",
-      "url": "https://open.spotify.com/track/7CvgfJoj4aw6thesUvfHtT"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Elysian Fields",
         "url": "https://open.spotify.com/album/5ttdnzEUkTLtSLkIaE0jZ1"
       },
@@ -2331,26 +2351,6 @@
       "duration_ms": 207887,
       "name": "Elysian Fields",
       "url": "https://open.spotify.com/track/3MyUhaoPmjq0vNRP53qtNz"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "Someone To Forget",
-        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Someone To Forget",
-      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2431,6 +2431,26 @@
       "duration_ms": 176516,
       "name": "Only the Good Die Young",
       "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Someone To Forget",
+        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Someone To Forget",
+      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2551,26 +2571,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "fragments of us",
-        "url": "https://open.spotify.com/album/2UbZfD8vJwGXmgZe0Px4Bl"
-      },
-      "artists": [
-        {
-          "name": "GhostDragon",
-          "url": "https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O"
-        },
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "the ugly truth",
-      "url": "https://open.spotify.com/track/3qWZTAWqQh164rvOFrTpUm"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Wait for Fate",
         "url": "https://open.spotify.com/album/44pzhFsX019bA88c9GF7YO"
       },
@@ -2679,22 +2679,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Run To You",
-        "url": "https://open.spotify.com/album/23qIuKBlt9cdu15zgStaju"
+        "name": "If The World Was Ending",
+        "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
       },
       "artists": [
         {
-          "name": "CHPTR.",
-          "url": "https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e"
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
         },
         {
-          "name": "Nytrix",
-          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+          "name": "Dayce Williams",
+          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
         }
       ],
-      "duration_ms": 219200,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/1hZ0phqPlhuC2isK7luDO4"
+      "duration_ms": 248798,
+      "name": "If The World Was Ending",
+      "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2715,22 +2715,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "If The World Was Ending",
-        "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
+        "name": "Run To You",
+        "url": "https://open.spotify.com/album/23qIuKBlt9cdu15zgStaju"
       },
       "artists": [
         {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+          "name": "CHPTR.",
+          "url": "https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e"
         },
         {
-          "name": "Dayce Williams",
-          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
         }
       ],
-      "duration_ms": 248798,
-      "name": "If The World Was Ending",
-      "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
+      "duration_ms": 219200,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/1hZ0phqPlhuC2isK7luDO4"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2839,22 +2839,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Violet Sky (feat. Sarah de Warren)",
-        "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
+        "name": "On Purpose",
+        "url": "https://open.spotify.com/album/2BkAoe9YZd9unSoWw1IN4G"
       },
       "artists": [
         {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Ryland James",
+          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
         }
       ],
-      "duration_ms": 228333,
-      "name": "Violet Sky (feat. Sarah de Warren)",
-      "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
+      "duration_ms": 256971,
+      "name": "On Purpose",
+      "url": "https://open.spotify.com/track/0g01JYDahgFwR3CJuKxnfG"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2879,22 +2879,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "On Purpose",
-        "url": "https://open.spotify.com/album/2BkAoe9YZd9unSoWw1IN4G"
+        "name": "Violet Sky (feat. Sarah de Warren)",
+        "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
       },
       "artists": [
         {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
         },
         {
-          "name": "Ryland James",
-          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 256971,
-      "name": "On Purpose",
-      "url": "https://open.spotify.com/track/0g01JYDahgFwR3CJuKxnfG"
+      "duration_ms": 228333,
+      "name": "Violet Sky (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -3027,6 +3027,26 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/28NpcJHOCvuYdr0c0DDmwF"
+      },
+      "artists": [
+        {
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+        },
+        {
+          "name": "Aloma Steele",
+          "url": "https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX"
+        }
+      ],
+      "duration_ms": 262404,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6lx0nNHGV82zak7aO2JNWz"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/46FzxdBWcLjsIwz4uNfFat"
       },
@@ -3039,26 +3059,6 @@
       "duration_ms": 298666,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/1nZhZTjI2G6nL8RpxUDg0n"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/7rSmxxmdBhLhWcLN2BNynt"
-      },
-      "artists": [
-        {
-          "name": "KEPIK",
-          "url": "https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn"
-        },
-        {
-          "name": "fakelife",
-          "url": "https://open.spotify.com/artist/7aZ0l4w4hDJpL0iJkivm9x"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/0EkUz1zkIuFeEUbyT1lLNe"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -3083,22 +3083,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Salvage",
-        "url": "https://open.spotify.com/album/76O98yEsB6i0hzdp1upNvP"
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/7rSmxxmdBhLhWcLN2BNynt"
       },
       "artists": [
         {
-          "name": "Abandoned",
-          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
+          "name": "KEPIK",
+          "url": "https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn"
         },
         {
-          "name": "HYLIA",
-          "url": "https://open.spotify.com/artist/6zRFKufuh8CGgePzQeIzw8"
+          "name": "fakelife",
+          "url": "https://open.spotify.com/artist/7aZ0l4w4hDJpL0iJkivm9x"
         }
       ],
-      "duration_ms": 276413,
-      "name": "Salvage",
-      "url": "https://open.spotify.com/track/6Oe2fIOBBnGqZSZbbw7Xb9"
+      "duration_ms": 235714,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/0EkUz1zkIuFeEUbyT1lLNe"
     }
   ],
   "unique_name": "Bass Lounge",

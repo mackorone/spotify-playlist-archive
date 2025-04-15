@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-14",
+      "date_removed": null,
       "duration_ms": 218687,
       "name": "2022",
       "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 297974,
       "name": "Dependente / Pirata e Tesouro / Fala - Ao Vivo",
       "url": "https://open.spotify.com/track/4GJs1j7djCRBS7mns7T6ze"
@@ -6074,7 +6074,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 324923,
       "name": "HINO DOS D",
       "url": "https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy"
@@ -6770,6 +6770,36 @@
       "duration_ms": 146938,
       "name": "Jeito Bandido",
       "url": "https://open.spotify.com/track/4mxQxigLPhAwyRSlplw8ZT"
+    },
+    {
+      "album": {
+        "name": "Joga, Joga",
+        "url": "https://open.spotify.com/album/0zn5figp29khgVYNEVGaBL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "Joga, Joga",
+      "url": "https://open.spotify.com/track/3oR92uxdNLvV4A05uEfoh1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-334 songs - 18 hr 47 min
+335 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [DALLA](https://open.spotify.com/track/0BE13JCAlf4OYlWzlXNitY) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [DALLA](https://open.spotify.com/album/5GlGTxGBX3amAqGEjZAD7l) | 2:56 | 2022-04-12 | 2022-04-21 |
 | [Day alone 혼자가 편해](https://open.spotify.com/track/7m36n39z9ADfvrUUPJXot8) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Day alone 혼자가 편해](https://open.spotify.com/album/38NNuKdQgSX9MN5KECEcdJ) | 3:10 | 2022-04-12 | 2022-04-21 |
 | [DAYDREAM](https://open.spotify.com/track/3CMrYymwyfZ2RSvbpKKMNE) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [bleeding in](https://open.spotify.com/album/5FnmNodRYZmvGdVvYUnapA) | 3:43 | 2022-04-21 | 2022-07-25 |
-| [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-22 |  |
+| [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-22 | 2025-04-15 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-21 | 2022-07-27 |
 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-13 | 2023-12-31 |
 | [Dear\. My Side](https://open.spotify.com/track/2F9SwgEESnCPpTug9icsHH) | [Park Do Ha](https://open.spotify.com/artist/6Mv1YjL5xpxbMLTgIqdgul) | [Dear\. My Side](https://open.spotify.com/album/5298Ty693jV61VMRPalvsZ) | 3:39 | 2022-04-12 | 2022-04-21 |
@@ -276,6 +276,7 @@
 | [Take a walk \(feat\. iHwak, HNMR & Def.\)](https://open.spotify.com/track/35PtNrnrtgm5dP8MyyzPIJ) | [ØFFSHORE](https://open.spotify.com/artist/4D1yVc6ltwIZHxxNPBe552), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58), [HNMR](https://open.spotify.com/artist/1ABm2iv8e5ceCIJNY7hWVT), [iHwak](https://open.spotify.com/artist/3jFHDlsc9Ei6K4OP00hwm8) | [Scene \#2](https://open.spotify.com/album/7Hsohl8K1M7Gb8OFCIxB1R) | 3:35 | 2022-05-02 | 2022-05-04 |
 | [Take back \(feat\. Hong Dahye of OurR\)](https://open.spotify.com/track/1kLHPzTqfIvTsCv0g65hMq) | [Clazziquai](https://open.spotify.com/artist/0akZcna6MlOPRo0reVTaPr), [Hong Dahye 홍다혜 of OurR](https://open.spotify.com/artist/2nB7N23iRS12G3JrGwaunA) | [Take back \(feat\. Hong Dahye of OurR\)](https://open.spotify.com/album/6ekCmyawGqo2dsBZLk57mD) | 3:10 | 2022-06-09 | 2022-06-14 |
 | [TALK2ME! \(feat\. pH\-1\)](https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:25 | 2022-08-01 | 2022-08-13 |
+| [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 | 2025-04-14 |  |
 | [THE](https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [JIAN](https://open.spotify.com/artist/4eIoxNh0xJ6x7iCf7r2hSb) | [ARE YOU THERE](https://open.spotify.com/album/67NbgsJ02X78ydRgMxRjUU) | 3:37 | 2022-04-12 | 2022-07-29 |
 | [The Blue Night of Jeju Island](https://open.spotify.com/track/1bkVIRImvamFobcgE8aVW0) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [The Blue Night of Jeju Island](https://open.spotify.com/album/5iW0uj451v2676mosJU16B) | 3:43 | 2022-07-09 | 2022-07-12 |
 | [The chair](https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Object](https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq) | 3:53 | 2023-02-03 | 2023-02-15 |

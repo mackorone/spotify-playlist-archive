@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: GUADA.",
-  "num_followers": 128949,
+  "num_followers": 128968,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -955,30 +955,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Un Hogar",
-        "url": "https://open.spotify.com/album/2jRu9kgYQ7PDPEF31ztpYr"
-      },
-      "artists": [
-        {
-          "name": "Las Nietas del Charli",
-          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 132189,
-      "name": "Un Hogar",
-      "url": "https://open.spotify.com/track/2swtKrgHN16HxDxNtF2rAc"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Todo te parece normal",
         "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 177971,
       "name": "Trastos",
       "url": "https://open.spotify.com/track/5x26NTcyjv0uink1DZ8DxJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Un Hogar",
+        "url": "https://open.spotify.com/album/2jRu9kgYQ7PDPEF31ztpYr"
+      },
+      "artists": [
+        {
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 132189,
+      "name": "Un Hogar",
+      "url": "https://open.spotify.com/track/2swtKrgHN16HxDxNtF2rAc"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Gu\u00edame",
-        "url": "https://open.spotify.com/album/1lTSt76ujjKGJVIV77oroM"
-      },
-      "artists": [
-        {
-          "name": "Lorena \u00c1lvarez",
-          "url": "https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA"
-        }
-      ],
-      "duration_ms": 441145,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/60CIrMzhavWqg9VktE8IFB"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1307,6 +1291,38 @@
       "duration_ms": 251856,
       "name": "Hoy no tengo nada que hacer",
       "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Gu\u00edame",
+        "url": "https://open.spotify.com/album/1lTSt76ujjKGJVIV77oroM"
+      },
+      "artists": [
+        {
+          "name": "Lorena \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA"
+        }
+      ],
+      "duration_ms": 441145,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/60CIrMzhavWqg9VktE8IFB"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Cenicientes del carb\u00f3n",
+        "url": "https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19"
+      },
+      "artists": [
+        {
+          "name": "Marisa Valle Roso",
+          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
+        }
+      ],
+      "duration_ms": 244742,
+      "name": "Cenicientes del carb\u00f3n",
+      "url": "https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Cenicientes del carb\u00f3n",
-        "url": "https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19"
-      },
-      "artists": [
-        {
-          "name": "Marisa Valle Roso",
-          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
-        }
-      ],
-      "duration_ms": 244742,
-      "name": "Cenicientes del carb\u00f3n",
-      "url": "https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1379,6 +1379,26 @@
       "duration_ms": 157928,
       "name": "Continuar",
       "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Due\u00f1a",
+        "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        },
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "duration_ms": 195024,
+      "name": "Due\u00f1a",
+      "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1419,26 +1439,6 @@
       "duration_ms": 331442,
       "name": "Casida de la Rosa",
       "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Due\u00f1a",
-        "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        },
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        }
-      ],
-      "duration_ms": 195024,
-      "name": "Due\u00f1a",
-      "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+      },
+      "artists": [
+        {
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+        }
+      ],
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
         "name": "Todas Las Banderas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 180250,
       "name": "Todas Las Banderas (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
-      },
-      "artists": [
-        {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
-        }
-      ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Fado",
-        "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
-      },
-      "artists": [
-        {
-          "name": "La Pena",
-          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
-        }
-      ],
-      "duration_ms": 268018,
-      "name": "Fado",
-      "url": "https://open.spotify.com/track/2EzKiPAcNG3Ozihcj8Np10"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Fado",
+        "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
+      },
+      "artists": [
+        {
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
+        }
+      ],
+      "duration_ms": 268018,
+      "name": "Fado",
+      "url": "https://open.spotify.com/track/2EzKiPAcNG3Ozihcj8Np10"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
-      },
-      "artists": [
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 240771,
-      "name": "Pajarillo Negro",
-      "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "El Estallido",
         "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
+      },
+      "artists": [
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 240771,
+      "name": "Pajarillo Negro",
+      "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
     }
   ],
   "unique_name": "Cancionistas",

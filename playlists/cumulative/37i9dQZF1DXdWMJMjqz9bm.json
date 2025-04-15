@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap. Cover: G-Eazy",
+  "description": "A little bit of pop, a little bit of rap. Cover: honestav",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -668,6 +668,24 @@
       "duration_ms": 171000,
       "name": "Always Be There",
       "url": "https://open.spotify.com/track/4LoKQ3eOcdLPX7agIxvkwj"
+    },
+    {
+      "album": {
+        "name": "antidepressants",
+        "url": "https://open.spotify.com/album/7ymEP219k33PfwUwrHHI3C"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118608,
+      "name": "antidepressants",
+      "url": "https://open.spotify.com/track/6rWLrj4M3PDu6XpgjY7vAU"
     },
     {
       "album": {
@@ -6101,6 +6119,28 @@
     },
     {
       "album": {
+        "name": "hara-kiri",
+        "url": "https://open.spotify.com/album/10pNBvKvxocr6QKihfbAuM"
+      },
+      "artists": [
+        {
+          "name": "honestav",
+          "url": "https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF"
+        },
+        {
+          "name": "Z",
+          "url": "https://open.spotify.com/artist/0e04X89GPDO1SJQZHZYsij"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235853,
+      "name": "I\u2019d Rather Overdose",
+      "url": "https://open.spotify.com/track/2UvJGqD2wNzCfOHrUsm2Pu"
+    },
+    {
+      "album": {
         "name": "Jenny",
         "url": "https://open.spotify.com/album/2CBcNQze7xZTpNRiTyJ5cT"
       },
@@ -8339,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "OIL MONEY",
+        "url": "https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "OIL MONEY",
+      "url": "https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm"
+    },
+    {
+      "album": {
         "name": "okay okay",
         "url": "https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57"
       },
@@ -8766,6 +8824,28 @@
       "duration_ms": 176507,
       "name": "Peanut Butter Cherry",
       "url": "https://open.spotify.com/track/76QHEenc8e1T3vydKzdg46"
+    },
+    {
+      "album": {
+        "name": "Pedal to Metal 2.0",
+        "url": "https://open.spotify.com/album/4kalNj3jR7R0eIZVIJ5B3v"
+      },
+      "artists": [
+        {
+          "name": "Tyler Pigg",
+          "url": "https://open.spotify.com/artist/4nJeXFj0prRJ1jWSa8x9K7"
+        },
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177628,
+      "name": "Pedal to Metal 2.0",
+      "url": "https://open.spotify.com/track/1JO9geiAkd9qmfRDXmBJPT"
     },
     {
       "album": {
@@ -13090,7 +13170,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 140852,
       "name": "You Got Me Like",
       "url": "https://open.spotify.com/track/0akftvzeUycOzE8qnd1r2U"

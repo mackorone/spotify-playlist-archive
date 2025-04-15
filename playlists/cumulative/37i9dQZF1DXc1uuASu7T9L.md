@@ -2,7 +2,7 @@
 
 ### [A Minecraft Movie Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXc1uuASu7T9L)
 
-> Be there and be square\. Listen to the music from A Minecraft Movie, coming soon to theaters.
+> Be there and be square\. Listen to the music from A Minecraft Movie, now in theaters.
 
 31 songs - 1 hr 38 min
 

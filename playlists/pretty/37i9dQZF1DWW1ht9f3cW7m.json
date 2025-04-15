@@ -1,6 +1,6 @@
 {
   "description": "sweet and fresh emerging indie pop, featuring Djo \ud83c\udf51",
-  "num_followers": 29717,
+  "num_followers": 29721,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-04-12 18:30:49",
       "album": {
-        "name": "UnHinged",
-        "url": "https://open.spotify.com/album/7A4oGPJzbB706sfR5AxZVz"
-      },
-      "artists": [
-        {
-          "name": "DellaXOZ",
-          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
-        }
-      ],
-      "duration_ms": 168573,
-      "name": "UnHinged",
-      "url": "https://open.spotify.com/track/0tnqSQzffOCR3J0bnBUtJa"
-    },
-    {
-      "added_at": "2025-04-12 18:30:49",
-      "album": {
         "name": "russian doll (smaller)",
         "url": "https://open.spotify.com/album/0YVvrkQ2UAKBI0svaDhXTe"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 61772,
       "name": "russian doll - smaller",
       "url": "https://open.spotify.com/track/00iPwEqAow8PUdV73vvIsu"
+    },
+    {
+      "added_at": "2025-04-12 18:30:49",
+      "album": {
+        "name": "UnHinged",
+        "url": "https://open.spotify.com/album/7A4oGPJzbB706sfR5AxZVz"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "duration_ms": 168573,
+      "name": "UnHinged",
+      "url": "https://open.spotify.com/track/0tnqSQzffOCR3J0bnBUtJa"
     },
     {
       "added_at": "2025-04-12 18:30:49",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-04-12 18:30:49",
       "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC"
-    },
-    {
-      "added_at": "2025-04-12 18:30:49",
-      "album": {
         "name": "Brian Cox",
         "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
       },
@@ -507,6 +491,38 @@
     {
       "added_at": "2025-04-12 18:30:49",
       "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC"
+    },
+    {
+      "added_at": "2025-04-12 18:30:49",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/43e8cs35ILaJjlDtj8H44z"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 260624,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5ji0TlbJHbHkbNrr6hoi0n"
+    },
+    {
+      "added_at": "2025-04-12 18:30:49",
+      "album": {
         "name": "Snug as a Bug",
         "url": "https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 179057,
       "name": "Snug as a Bug",
       "url": "https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh"
-    },
-    {
-      "added_at": "2025-04-12 18:30:49",
-      "album": {
-        "name": "friends",
-        "url": "https://open.spotify.com/album/4AYWIcHcXqQ5fq4l08Bp1C"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        }
-      ],
-      "duration_ms": 160114,
-      "name": "friends",
-      "url": "https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr"
     },
     {
       "added_at": "2025-04-12 18:30:49",
@@ -567,6 +567,22 @@
       "duration_ms": 172956,
       "name": "Againandagain",
       "url": "https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL"
+    },
+    {
+      "added_at": "2025-04-12 18:30:49",
+      "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/4AYWIcHcXqQ5fq4l08Bp1C"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "duration_ms": 160114,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr"
     },
     {
       "added_at": "2025-04-12 18:30:49",
@@ -631,22 +647,6 @@
       "duration_ms": 172991,
       "name": "Weather's Better",
       "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
-    },
-    {
-      "added_at": "2025-04-12 18:30:49",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/43e8cs35ILaJjlDtj8H44z"
-      },
-      "artists": [
-        {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
-        }
-      ],
-      "duration_ms": 260624,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5ji0TlbJHbHkbNrr6hoi0n"
     },
     {
       "added_at": "2025-04-12 18:30:49",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-04-12 18:30:49",
       "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX"
-      },
-      "artists": [
-        {
-          "name": "Thala",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
-        }
-      ],
-      "duration_ms": 215258,
-      "name": "body to you",
-      "url": "https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe"
-    },
-    {
-      "added_at": "2025-04-12 18:30:49",
-      "album": {
         "name": "girlhood.",
         "url": "https://open.spotify.com/album/6pLO5gFGkmR3dUAx8EEtqS"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 248575,
       "name": "COMING HOME 2 U",
       "url": "https://open.spotify.com/track/7cRBPefk7PJ1ARS0NRm4t6"
+    },
+    {
+      "added_at": "2025-04-12 18:30:49",
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "duration_ms": 215258,
+      "name": "body to you",
+      "url": "https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe"
     },
     {
       "added_at": "2025-04-12 18:30:49",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-04-12 18:30:49",
       "album": {
-        "name": "Feral",
-        "url": "https://open.spotify.com/album/53fLgn5m83bKdJ1Bszg5en"
-      },
-      "artists": [
-        {
-          "name": "Fickle Friends",
-          "url": "https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1"
-        }
-      ],
-      "duration_ms": 184216,
-      "name": "Feral",
-      "url": "https://open.spotify.com/track/22iHFRz6uGaWpeThdeww09"
-    },
-    {
-      "added_at": "2025-04-12 18:30:49",
-      "album": {
         "name": "Flink Pike",
         "url": "https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 173140,
       "name": "Flink Pike",
       "url": "https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL"
+    },
+    {
+      "added_at": "2025-04-12 18:30:49",
+      "album": {
+        "name": "Feral",
+        "url": "https://open.spotify.com/album/53fLgn5m83bKdJ1Bszg5en"
+      },
+      "artists": [
+        {
+          "name": "Fickle Friends",
+          "url": "https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1"
+        }
+      ],
+      "duration_ms": 184216,
+      "name": "Feral",
+      "url": "https://open.spotify.com/track/22iHFRz6uGaWpeThdeww09"
     },
     {
       "added_at": "2025-04-12 18:30:49",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-04-12 18:30:49",
       "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
+    },
+    {
+      "added_at": "2025-04-12 18:30:49",
+      "album": {
         "name": "chamomile",
         "url": "https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 217058,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/0hBzNwcC1tQynw8fj7nPaj"
-    },
-    {
-      "added_at": "2025-04-12 18:30:49",
-      "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 171235,
-      "name": "Good Riddance",
-      "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
     },
     {
       "added_at": "2025-04-12 18:30:49",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-04-12 18:30:49",
       "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm"
+      },
+      "artists": [
+        {
+          "name": "Erica Manzoli",
+          "url": "https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ"
+        }
+      ],
+      "duration_ms": 209543,
+      "name": "Bunny",
+      "url": "https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj"
+    },
+    {
+      "added_at": "2025-04-12 18:30:49",
+      "album": {
         "name": "I Feel You",
         "url": "https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 171650,
       "name": "I\u2019m sad and I\u2019m angry and I\u2019m scared that you hate me",
       "url": "https://open.spotify.com/track/2Il5seHCUssppn09Kg3xg3"
-    },
-    {
-      "added_at": "2025-04-12 18:30:49",
-      "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm"
-      },
-      "artists": [
-        {
-          "name": "Erica Manzoli",
-          "url": "https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ"
-        }
-      ],
-      "duration_ms": 209543,
-      "name": "Bunny",
-      "url": "https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj"
     },
     {
       "added_at": "2025-04-12 18:30:49",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-04-12 18:30:49",
       "album": {
+        "name": "Dolly Pardon",
+        "url": "https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j"
+      },
+      "artists": [
+        {
+          "name": "ABY iO",
+          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
+        }
+      ],
+      "duration_ms": 197571,
+      "name": "Dolly Pardon",
+      "url": "https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3"
+    },
+    {
+      "added_at": "2025-04-12 18:30:49",
+      "album": {
         "name": "walking home at 5 am",
         "url": "https://open.spotify.com/album/0baCi4IvuyfUiP2LPB8yro"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 136289,
       "name": "walking home at 5 am",
       "url": "https://open.spotify.com/track/0H1TpfK4ewdGrd3b6gD5Ny"
-    },
-    {
-      "added_at": "2025-04-12 18:30:49",
-      "album": {
-        "name": "Stay For Good",
-        "url": "https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs"
-      },
-      "artists": [
-        {
-          "name": "Siobh\u00e1n Winifred",
-          "url": "https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x"
-        }
-      ],
-      "duration_ms": 205442,
-      "name": "Stay For Good",
-      "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"
     }
   ],
   "unique_name": "peach",

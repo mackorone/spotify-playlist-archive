@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-663 songs - 1 day 13 hr 20 min
+665 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Dark Places \- Promnite Remix](https://open.spotify.com/track/3fG0CSPqKqBYmv9JUdHzvg) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV), [Promnite](https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5) | [Dark Places \(Promnite Remix\)](https://open.spotify.com/album/3mP38vYlIEwpsGJ1sR2Jam) | 5:55 | 2022-09-22 | 2023-07-20 |
 | [Dark Places \- Shadient Remix](https://open.spotify.com/track/2HFNl3R6uuV20q6BTCnELY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV), [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd) | [Dark Places \(Shadient Remix\)](https://open.spotify.com/album/4TrORdXsvq6MLrKfI6e4e0) | 4:25 | 2022-11-03 | 2023-07-20 |
 | [Darkness](https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Darkness](https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2) | 3:20 | 2023-11-27 | 2024-03-23 |
+| [Death By Love](https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Death By Love](https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF) | 2:50 | 2025-04-14 |  |
 | [deep end](https://open.spotify.com/track/7kJbfc0nj7M3jVbk3Gpuzh) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [deep end](https://open.spotify.com/album/12xlRBmhi9gZpyY7UYr5Ie) | 2:45 | 2023-11-11 | 2024-03-23 |
 | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/track/0Ls2AaWYmU2LRzWAmFdlkc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/album/3E8eOi78N03MllCrjGGcVz) | 2:11 | 2022-07-15 | 2022-11-23 |
 | [Deepend](https://open.spotify.com/track/2mqaosDXabZq2tf7bhPnjK) | [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR), [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I), [Lydell](https://open.spotify.com/artist/39NS4e6MwwxYioDlGMLdD2) | [Deepend](https://open.spotify.com/album/6lCXl4mrPMEsl89i74Uqmi) | 3:26 | 2023-01-20 | 2024-09-07 |
@@ -665,6 +666,7 @@
 | [You](https://open.spotify.com/track/4bEhrJXoZuzVxZxiP8jzfs) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [You](https://open.spotify.com/album/7nLNrFYSLGQ0nDpxGBXNqz) | 2:36 | 2023-08-28 | 2023-09-26 |
 | [You](https://open.spotify.com/track/2jn2xXESbqEL8HAfNN9VH8) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You Stay High](https://open.spotify.com/album/7nB5MqLrLkwjmf8fhfmcAN) | 2:48 | 2023-02-23 | 2023-06-23 |
 | [You](https://open.spotify.com/track/7mGMjDKyFiEvBReptdRyeG) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You](https://open.spotify.com/album/5QQq7rHmsOgNnFvWYpslmW) | 2:48 | 2023-01-12 | 2023-01-30 |
+| [YOU & I](https://open.spotify.com/track/6cgOdelOyLpjdcOl811Z9t) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [YOU & I](https://open.spotify.com/album/29MLRMFFGmRPxHJ93JeHhZ) | 3:51 | 2025-04-14 |  |
 | [YOU AND ME](https://open.spotify.com/track/1VyRpTEE3InYTwUGcjsHJm) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [YOU AND ME](https://open.spotify.com/album/1ltwxGR8bbmlFMprZmF9pH) | 3:40 | 2023-03-15 | 2023-04-01 |
 | [Younger \- BARDZ Remix](https://open.spotify.com/track/4RkEXZ8eXEYHzoGuZIOohL) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [BARDZ](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk) | [Younger \(The Remixes\)](https://open.spotify.com/album/2R5F1MQ1GZk1GFUHB3mLVI) | 3:22 | 2021-12-01 | 2022-02-05 |
 | [Younger \- Blookah Remix](https://open.spotify.com/track/5bROtKOIFUxZkma5LeFbXa) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR) | [Younger \(The Remixes\)](https://open.spotify.com/album/2R5F1MQ1GZk1GFUHB3mLVI) | 3:15 | 2021-12-01 | 2022-02-05 |

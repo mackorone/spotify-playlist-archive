@@ -1,37 +1,13 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Las Ninyas del Corro, Faenna.",
-  "num_followers": 541203,
+  "num_followers": 541245,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/g/dAAAAABdwOjBsPX11EWgejKsN76c",
+  "snapshot_id": "Z/zAXAAAAAD7tjSU2u1pChOWOx6BjJm8",
   "tracks": [
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Pobres Ricos",
-        "url": "https://open.spotify.com/album/2clcTctrpWPZeVk33Q6Opb"
-      },
-      "artists": [
-        {
-          "name": "Las Ninyas del Corro",
-          "url": "https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh"
-        },
-        {
-          "name": "Faenna",
-          "url": "https://open.spotify.com/artist/2iLGzMc00PRgD5qP07bP2b"
-        },
-        {
-          "name": "Esse Delgado",
-          "url": "https://open.spotify.com/artist/0EbyCaJGcegI7KdTTWKuW0"
-        }
-      ],
-      "duration_ms": 207305,
-      "name": "Pobres Ricos",
-      "url": "https://open.spotify.com/track/4TDM2k4hXzWn5gSfYZkzmb"
-    },
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
@@ -115,6 +91,30 @@
       "duration_ms": 117646,
       "name": "Hugo Bozz",
       "url": "https://open.spotify.com/track/5Z00rHfWwTteOUPy8k5B9P"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Pobres Ricos",
+        "url": "https://open.spotify.com/album/2clcTctrpWPZeVk33Q6Opb"
+      },
+      "artists": [
+        {
+          "name": "Las Ninyas del Corro",
+          "url": "https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh"
+        },
+        {
+          "name": "Faenna",
+          "url": "https://open.spotify.com/artist/2iLGzMc00PRgD5qP07bP2b"
+        },
+        {
+          "name": "Esse Delgado",
+          "url": "https://open.spotify.com/artist/0EbyCaJGcegI7KdTTWKuW0"
+        }
+      ],
+      "duration_ms": 207305,
+      "name": "Pobres Ricos",
+      "url": "https://open.spotify.com/track/4TDM2k4hXzWn5gSfYZkzmb"
     },
     {
       "added_at": "2025-04-10 22:00:20",

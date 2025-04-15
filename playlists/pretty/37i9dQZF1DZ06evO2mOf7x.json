@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 45699,
+  "num_followers": 45714,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mtAAAAAADJxNJ1C6BCVS5lUqz+0qlV",
+  "snapshot_id": "Z/r+gAAAAADG9DzwA63UVaWCg7WLgQZ5",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es Brujeria",
-        "url": "https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4"
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
       },
       "artists": [
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 227266,
-      "name": "No Es Brujeria",
-      "url": "https://open.spotify.com/track/0nZUAnwrg9l0QUqW8O8sbb"
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0"
     },
     {
       "added_at": null,
@@ -235,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bordado a Mano",
-        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+        "name": "No Es Brujeria",
+        "url": "https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4"
       },
       "artists": [
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 233066,
-      "name": "La Jugada",
-      "url": "https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0"
+      "duration_ms": 227266,
+      "name": "No Es Brujeria",
+      "url": "https://open.spotify.com/track/0nZUAnwrg9l0QUqW8O8sbb"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Te Puedes Ir",
-        "url": "https://open.spotify.com/album/7e72Ilntb53n5ltBHrGGF0"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 222742,
-      "name": "Ya Te Puedes Ir",
-      "url": "https://open.spotify.com/track/2YzDFbrE8eGm4ZzCsefIf0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompiendo Cadenas",
         "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
       },
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Extra\u00f1arte Tanto",
-        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
+        "name": "Ya Te Puedes Ir",
+        "url": "https://open.spotify.com/album/7e72Ilntb53n5ltBHrGGF0"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 233536,
-      "name": "Para No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
+      "duration_ms": 222742,
+      "name": "Ya Te Puedes Ir",
+      "url": "https://open.spotify.com/track/2YzDFbrE8eGm4ZzCsefIf0"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 203546,
       "name": "Te Llevaste - Original mix",
       "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para No Extra\u00f1arte Tanto",
+        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 233536,
+      "name": "Para No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy La Mujer",
-        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 198853,
-      "name": "Tu Ingratitud",
-      "url": "https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompiendo Cadenas",
         "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 295209,
       "name": "Rompiendo Cadenas - Original mix",
       "url": "https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 198853,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR"
     },
     {
       "added_at": null,

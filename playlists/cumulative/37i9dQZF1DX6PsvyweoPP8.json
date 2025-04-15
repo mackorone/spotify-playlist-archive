@@ -339,6 +339,28 @@
     },
     {
       "album": {
+        "name": "9 HORAS",
+        "url": "https://open.spotify.com/album/4cGf4dZwcRNpVobF80MAkA"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120944,
+      "name": "9 HORAS",
+      "url": "https://open.spotify.com/track/2FLwcBzdTDUWrHUO5Wle1g"
+    },
+    {
+      "album": {
         "name": "A D I C T O <3",
         "url": "https://open.spotify.com/album/1ps2Q5sBq5Q3SiiJpYIh6u"
       },
@@ -1312,7 +1334,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 128000,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/1R2kdZX8vA5BV7NrX1vs2b"

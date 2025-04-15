@@ -7063,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/2AlOh1B9MA0sD65pWqV79n"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241996,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/4dXVydA1uwkWnaVtH1IfgH"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
       },
@@ -20574,7 +20592,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-15",
       "duration_ms": 185166,
       "name": "Mine (Channel Tres Remix)",
       "url": "https://open.spotify.com/track/42kFWZayxUQkMyGNTyFsUg"

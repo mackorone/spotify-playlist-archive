@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/5AHDW1DFSiGIs6USHhaWJl"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Hutcherson",
+          "url": "https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/5ERwxnaMQKOnSPD4Odayg7"
+    },
+    {
+      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0"
       },
