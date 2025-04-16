@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3gBZUcNeVumkeeJ19CY2sX">Ken Carson</a>
 
-2,265 songs - 4 day 4 hr 45 min
+2,266 songs - 4 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1732,7 +1732,7 @@
 | [Said It’s Lit](https://open.spotify.com/track/4sw5u1NAL7Wd1WaPBEHOFj) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Said It’s Lit](https://open.spotify.com/album/7vkA6H43oTStJyxEJeyIiI) | 2:30 | 2022-02-04 | 2022-04-02 |
 | [Same](https://open.spotify.com/track/6nqni866nZIDToOS8dC7NH) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Same](https://open.spotify.com/album/5LY0M0pI4ha5DvUuneqTpM) | 2:30 | 2024-03-29 | 2024-07-13 |
 | [Same \(Remix\) \[feat\. Rylo Rodriguez\]](https://open.spotify.com/track/4PP12e63p1wPBLQn0ARynj) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [On Zai](https://open.spotify.com/album/0qXeIPzrKbNIJmZmu37Pp1) | 2:32 | 2024-07-12 | 2024-07-27 |
-| [Samsung Screenz](https://open.spotify.com/track/4fNIbrx8ydICags4LfwPgv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Samsung Screenz](https://open.spotify.com/album/1pJ2x0ZcLGcIuxmDm9AeJk) | 3:20 | 2025-04-04 |  |
+| [Samsung Screenz](https://open.spotify.com/track/4fNIbrx8ydICags4LfwPgv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Samsung Screenz](https://open.spotify.com/album/1pJ2x0ZcLGcIuxmDm9AeJk) | 3:20 | 2025-04-04 | 2025-04-16 |
 | [Sandcastles](https://open.spotify.com/track/4Pbygk2v96q46GcpkFXsPy) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Sandcastles](https://open.spotify.com/album/3HL4Ly3lvYntdBZIfdvuPK) | 2:50 | 2023-01-27 | 2023-03-25 |
 | [Savages](https://open.spotify.com/track/4T7SSgpvgt0BfQz73sjAvM) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [The Golden Child](https://open.spotify.com/album/5JtuaEXZo0QZ2scZGo7QVn) | 2:34 | 2022-07-22 | 2022-10-15 |
 | [Say Luv](https://open.spotify.com/track/3a3Tz1TtYuwTJMqbc6IeD1) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Say Luv](https://open.spotify.com/album/1jxdGY4MuFGOzgoUTWslet) | 2:20 | 2023-07-07 | 2023-10-14 |
@@ -1953,6 +1953,7 @@
 | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 | 2022-04-29 | 2022-07-02 |
 | [Temper](https://open.spotify.com/track/6fXhozDwpdQEUKhq5Ak0mz) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Temper](https://open.spotify.com/album/3VSRbWNR7FBK54z6gWUY3f) | 1:49 | 2022-12-16 | 2023-02-25 |
 | [Texas](https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Texas](https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ) | 2:26 | 2022-11-25 | 2023-04-09 |
+| [Texas](https://open.spotify.com/track/6eKNwVDSwoZlVNYBlqxWiC) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3) | [Texas](https://open.spotify.com/album/4VDg88gvR9aF0sLLK2cZUf) | 2:24 | 2025-04-16 |  |
 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 | 2024-06-21 |  |
 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 | 2023-06-23 | 2023-12-02 |
 | [Thank You](https://open.spotify.com/track/1QjMYUcsW27rFvFBCb09VW) | [FinEsseMo](https://open.spotify.com/artist/0GWQysZc1ulCcyPRqaSkTp) | [Thank You](https://open.spotify.com/album/2yMT4GhqL5QNySnmdRkVGl) | 1:22 | 2023-01-13 | 2023-03-11 |

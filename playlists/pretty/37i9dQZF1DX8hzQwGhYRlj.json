@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38278,
+  "num_followers": 38287,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -599,34 +599,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
-        "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        },
-        {
-          "name": "Stephen Shingles",
-          "url": "https://open.spotify.com/artist/0j2P4TtJ6MuqncwEHeRvUN"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Holberg Suite, Op. 40: 5. Rigaudon (Allegro con brio)",
-      "url": "https://open.spotify.com/track/2fPsJT9Q1d5ferqW3brhQP"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Songs",
         "url": "https://open.spotify.com/album/77ECwA3RIFptg5sTjz21Sb"
       },
@@ -651,6 +623,34 @@
       "duration_ms": 379693,
       "name": "The Mountain Thrall, Op. 32",
       "url": "https://open.spotify.com/track/5fBUHjqqtBwX36qabYf8Ep"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
+        "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Stephen Shingles",
+          "url": "https://open.spotify.com/artist/0j2P4TtJ6MuqncwEHeRvUN"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Holberg Suite, Op. 40: 5. Rigaudon (Allegro con brio)",
+      "url": "https://open.spotify.com/track/2fPsJT9Q1d5ferqW3brhQP"
     },
     {
       "added_at": "2022-09-30 04:01:00",

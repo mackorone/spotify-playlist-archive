@@ -1551,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/65h8c3viDOcBSZvrEZhygC"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219788,
+      "name": "In The Air (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6CKqTFTUPGJqqqJqWg53eR"
+    },
+    {
+      "album": {
         "name": "Big Swerv",
         "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
@@ -1786,7 +1808,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 193419,
       "name": "MALIBU - WITH TEE GRIZZLEY & G HERBO",
       "url": "https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4"
@@ -1986,7 +2008,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 157500,
       "name": "Neph Nem (feat. Ballout & G Herbo)",
       "url": "https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9"
@@ -2956,6 +2978,24 @@
       "duration_ms": 140173,
       "name": "Statement",
       "url": "https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S"
+    },
+    {
+      "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153329,
+      "name": "Still Dangerous",
+      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
     },
     {
       "album": {

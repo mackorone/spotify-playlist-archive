@@ -4,7 +4,7 @@
 
 > \#fyp
 
-716 songs - 1 day 13 hr 45 min
+717 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Paqueta](https://open.spotify.com/track/1MVFkoITWetg97ZJCrJV1I) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Paqueta](https://open.spotify.com/album/7pJ5pRbkQQFcZfE3M2uDBX) | 2:59 | 2023-11-17 | 2024-05-04 |
 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2023-03-24 | 2023-10-11 |
 | [Paranoïa](https://open.spotify.com/track/2xdZCFcEmCXfGWdmgqZxiG) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Comme vous voulez](https://open.spotify.com/album/5D6nkb0MJIZxuVKJb4aE5l) | 2:43 | 2025-03-21 |  |
+| [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 | 2025-04-15 |  |
 | [Paris\-Seychelles](https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:17 | 2025-04-04 |  |
 | [Parler tout bas](https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Parler tout bas](https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc) | 3:21 | 2024-04-26 | 2024-08-22 |
 | [PAS DE REMORDS](https://open.spotify.com/track/7l2BGF9fCc6hmhGfNjbKit) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:53 | 2024-01-05 | 2024-03-07 |
@@ -594,7 +595,7 @@
 | [Se\-vrak](https://open.spotify.com/track/2PPbiHIoyr8yMGOfyZMR2X) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Le bruit de mon âme](https://open.spotify.com/album/3CXUsBNZx5yumUzihzq82M) | 4:14 | 2025-03-07 |  |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-21 | 2023-09-10 |
 | [Seklenland, Pt.1](https://open.spotify.com/track/3hOnpHlXrgxTb66TM1PYBk) | [H.LA DROGUE](https://open.spotify.com/artist/2tgTUUrbrQd6iuAjW5BQI7) | [Seklenland, Pt.1](https://open.spotify.com/album/72GEg1dVPB1LdSZEqbwG8d) | 2:41 | 2024-06-28 | 2024-07-20 |
-| [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-03 |  |
+| [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-03 | 2025-04-16 |
 | [Serre\-moi fort](https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Serre\-moi fort](https://open.spotify.com/album/5su35ho6QuT12QzASVupHO) | 3:36 | 2024-01-19 | 2024-02-17 |
 | [Serrure \#3](https://open.spotify.com/track/1OORbnoHMf1Iy7HVa2n521) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Serrure \#3](https://open.spotify.com/album/2RajtZ8lghhX1rxA3Q6hN8) | 2:17 | 2024-01-26 | 2024-04-20 |
 | [Seuls dans ta chambre](https://open.spotify.com/track/1tadLcRwtibDfcDr5oICdk) | [Maxence](https://open.spotify.com/artist/6WK6ZRBhoIRXA8xkAvhMKv) | [Comme un enfant](https://open.spotify.com/album/5oNqamIfsePGgS6iXyvk9u) | 3:44 | 2025-01-24 | 2025-02-22 |

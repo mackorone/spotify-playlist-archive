@@ -577,6 +577,28 @@
     },
     {
       "album": {
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "Falling In Love (feat. 10cm)",
+      "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+    },
+    {
+      "album": {
         "name": "Season Note",
         "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
       },
@@ -660,7 +682,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 204266,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"

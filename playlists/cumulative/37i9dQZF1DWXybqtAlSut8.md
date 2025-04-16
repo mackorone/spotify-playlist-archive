@@ -4,10 +4,11 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-91 songs - 3 hr 55 min
+92 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A lush place](https://open.spotify.com/track/4Ez3xJIWYlznOpQhXIqrQd) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A lush place](https://open.spotify.com/album/4318e9RZfPOssfbYp2vaFQ) | 1:35 | 2025-04-15 |  |
 | [A Night in Betlehem](https://open.spotify.com/track/3xtHgFlnDDGfbrZN1dLL9j) | [Alain Charles](https://open.spotify.com/artist/2L2Vb334f3AI43K4SLIw5R) | [A Night in Betlehem](https://open.spotify.com/album/5oyhg2Oz9rnTowx9aWblJR) | 2:30 | 2024-11-19 |  |
 | [A Thousand Hallelujahs \(Peaceful Piano\)](https://open.spotify.com/track/5aOYmTTULpBeMXaolacarM) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT), [David Lindner](https://open.spotify.com/artist/6MVj3DhruXo4DDagJbp0fw) | [A Thousand Hallelujahs \(Peaceful Piano\)](https://open.spotify.com/album/6ZMIhTKsvR2YFF3jtotThe) | 3:24 | 2024-03-20 |  |
 | [Abide With Me](https://open.spotify.com/track/4uU3O4zkkwt4cxDpn3WruK) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Abide With Me](https://open.spotify.com/album/4Tqo2AVH37raVlj5GHgWnu) | 3:19 | 2024-11-29 | 2025-04-05 |

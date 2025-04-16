@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Benjamin Grosvenor
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,921 likes - 67 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,933 likes - 67 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 63 | [The Crossing of a Sea: I\. The light that glows on the sea waves – 'Love'](https://open.spotify.com/track/1X2IrumSGqhDIsFnwxAJLR) | [Cyrus Meurant](https://open.spotify.com/artist/78uMSeWf7d9jt9hMDZFRRd), [Syzygy Ensemble](https://open.spotify.com/artist/0181Aj8WrVj3UovTv8Nuoh) | [Cyrus Meurant: The Crossing of a Sea](https://open.spotify.com/album/5qm6YT8KiwoVArj33J7gGT) | 8:11 |
 | 64 | [Sonata Undine in E Minor, Op\. 167: I\. Allegro](https://open.spotify.com/track/2i1zlCBJC5nUUl6mnsqGck) | [Carl Reinecke](https://open.spotify.com/artist/6qrUIvuYX2DLbDruM7rguh), [Frédéric Chatoux](https://open.spotify.com/artist/3FyFV6wqCH4eCYdl3LyjFf), [Lutxi Nesprias](https://open.spotify.com/artist/0rPbFlTeAoyq0Z8SjenHK9) | [Reinecke: Sonata Undine in E Minor, Op\. 167](https://open.spotify.com/album/0nFHBbKsDmQS8aY4zwE9vy) | 7:29 |
 | 65 | [Aroldo: Ah dal sen di quella tomba](https://open.spotify.com/track/4VwVsQdRtkygljpL8JsjVh) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Eleonora Buratto](https://open.spotify.com/artist/6yjrFkWTUphrQDkhRQhiXy), [Orchestra dell'Opera Carlo Felice Genova](https://open.spotify.com/artist/3jyadgg759ylNywrIUftvg), [Sesto Quatrini](https://open.spotify.com/artist/1sa4jvdVceJISpHeWqxmMK) | [Indomita](https://open.spotify.com/album/4ROCFZtGkK3VF5TqUnGMAu) | 4:05 |
-| 66 | [Troisème Leçon de Ténèbres à voix seule: I\. Jod](https://open.spotify.com/track/15L66lM7qfE9gYlYPrkL3O) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Ensemble les Surprises](https://open.spotify.com/artist/4J8BVp3FHkxUokjzMmYxnf), [Louis\-Noël Bestion de Camboulas](https://open.spotify.com/artist/0gSvZOOKP86zFSkFDEPDWQ) | [Couperin & Lalande: Leçons de Ténèbres](https://open.spotify.com/album/7ewoJulXTdmg2tTpLrmZhQ) | 1:33 |
+| 66 | [Troisème Leçon de Ténèbres à deux voix: I\. Jod](https://open.spotify.com/track/15L66lM7qfE9gYlYPrkL3O) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Ensemble les Surprises](https://open.spotify.com/artist/4J8BVp3FHkxUokjzMmYxnf), [Louis\-Noël Bestion de Camboulas](https://open.spotify.com/artist/0gSvZOOKP86zFSkFDEPDWQ) | [Couperin & Lalande: Leçons de Ténèbres](https://open.spotify.com/album/7ewoJulXTdmg2tTpLrmZhQ) | 1:33 |
 | 67 | [I\. Movido, urgente](https://open.spotify.com/track/3PE5Qywsl5vhK0YBcxQWLj) | [Osvaldo Golijov](https://open.spotify.com/artist/4MFSQmb7Y47xW7JJmJboCv), [Julian Azkoul](https://open.spotify.com/artist/1S66SaZZamHWwVHDaG0SHc), [United Strings of Europe](https://open.spotify.com/artist/06LENZ42CaYKdcxfzaCrul) | [Golijov: Last Round: I\. Movido, urgente](https://open.spotify.com/album/16mmgiAiqoNFs9AsJGJA1M) | 6:36 |
 
 Snapshot ID: `Z/zS/QAAAABCW4FRt8OBzQeiTOm6ALqd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,090 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,089 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 10 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/0QSELmravjW44FAonYCWV5) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/0nkB7pN7Zw01xnzfx4u7oj) | 2:53 |
 | 11 | [Step Into Christmas \- Acoustic](https://open.spotify.com/track/4jm6JwmRMV1wzKLW3cQKNK) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Step Into Christmas \(Acoustic\)](https://open.spotify.com/album/0T2O9nj2khsfg0I8J5FgVe) | 3:03 |
 | 12 | [Old Toy Trains](https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Old Toy Trains](https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4) | 2:45 |
-| 13 | [Little Drummer Boy](https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Little Drummer Boy](https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z) | 2:51 |
-| 14 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 |
+| 13 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 |
+| 14 | [Little Drummer Boy](https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Little Drummer Boy](https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z) | 2:51 |
 | 15 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/album/1ty1Uh3tvroLVRHR6t2ao5) | 2:27 |
 | 16 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 |
 | 17 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 |

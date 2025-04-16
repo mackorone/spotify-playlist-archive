@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 青葉市子
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,906 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,905 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 36 | [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 |
 | 37 | [Moonlight](https://open.spotify.com/track/0WssiQ4l0tiVkeWslWYt1C) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Moonlight](https://open.spotify.com/album/2mazcGoo3AHuIKugiV3Q3V) | 2:06 |
 | 38 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 |
-| 39 | [ヒート](https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:18 |
+| 39 | [KITERU](https://open.spotify.com/track/2CassFuANXkFy27iNpRxxK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [KITERU](https://open.spotify.com/album/6bmjYh9k2kpYXDIgSKqE5t) | 1:45 |
 | 40 | [Donuts Mind If I Do](https://open.spotify.com/track/7dVsIb37EhgpQ4Wg07h7c2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/0OVqSFvnMWiYgeMfu6VJsB) | 3:48 |
 | 41 | [ハイエースナンバー](https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [ハイエースナンバー](https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e) | 3:08 |
 | 42 | [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 44 | [Kakumei Zenya](https://open.spotify.com/track/76DBtBel5B2u8qvUszcj9f) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 3:08 |
 | 45 | [Trial](https://open.spotify.com/track/6F4dJc6g4o9bunMkhciBzN) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Antigone](https://open.spotify.com/album/2G9x4lIqKywDAywaIJPsQm) | 4:06 |
 | 46 | [予感](https://open.spotify.com/track/5KNP39R2DEshipc9QjzPiT) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 2:43 |
-| 47 | [ラブ・ミー・モア](https://open.spotify.com/track/6xiP9Mgz8RQZW0U7Jjzi2l) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [ラブ・ミー・モア](https://open.spotify.com/album/4OaFKc0z7zKY6hX6LfXSrG) | 4:35 |
-| 48 | [Mona Lisa](https://open.spotify.com/track/5w9QUh8OIm4k0YQQVygent) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Mona Lisa](https://open.spotify.com/album/3y3enebOp9Bej82K3mDorK) | 2:45 |
-| 49 | [Show Me How](https://open.spotify.com/track/27gA5keIlQKx0dRCUYawQy) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Show Me How](https://open.spotify.com/album/6fEvIJCPAcJnfslkrXtdHF) | 3:00 |
-| 50 | [True Feelings](https://open.spotify.com/track/24nL2PxXk3NGcuHi8EH5Nd) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/2aJ0E4mGlgX34vkZlnrvKv) | 2:46 |
+| 47 | [Mona Lisa](https://open.spotify.com/track/5w9QUh8OIm4k0YQQVygent) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Mona Lisa](https://open.spotify.com/album/3y3enebOp9Bej82K3mDorK) | 2:45 |
+| 48 | [Show Me How](https://open.spotify.com/track/27gA5keIlQKx0dRCUYawQy) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Show Me How](https://open.spotify.com/album/6fEvIJCPAcJnfslkrXtdHF) | 3:00 |
+| 49 | [True Feelings](https://open.spotify.com/track/24nL2PxXk3NGcuHi8EH5Nd) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/2aJ0E4mGlgX34vkZlnrvKv) | 2:46 |
+| 50 | [バナナボート \(feat\. Elle Teresa\)](https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:42 |
 
-Snapshot ID: `Z/Vc4gAAAAAsbSdTpiUtxz65BMnpWfTA`
+Snapshot ID: `Z/6RhwAAAAArPkPRi3NPi6SYZy3G9AG8`

@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: honestav
 
-686 songs - 1 day 7 hr 20 min
+690 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Flip](https://open.spotify.com/track/1WKq2z9qobfyQs3VMnAF9h) | [Delawou](https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [Flip](https://open.spotify.com/album/6MK0vzutpi0ekxM63AJ3Ur) | 3:29 | 2023-01-13 | 2023-03-18 |
 | [Float](https://open.spotify.com/track/7B2bBV0UHQwjuumnpr461D) | [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [Float](https://open.spotify.com/album/2BF22IRfGkJhNsdDYxVE7r) | 1:33 | 2022-04-01 | 2022-06-11 |
 | [Floats My Boat](https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [The Bright Side](https://open.spotify.com/album/3p6L2cN8kt6nOVL1TUtPWZ) | 3:26 | 2022-04-14 | 2023-07-15 |
+| [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2025-04-15 |  |
 | [For A Minute](https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [For A Minute](https://open.spotify.com/album/2751qfhddwsCitLsJwhbvS) | 1:48 | 2022-04-04 | 2022-06-18 |
 | [For The Squadron](https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [For The Squadron](https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI) | 3:08 | 2022-02-18 | 2022-03-26 |
 | [forget about you](https://open.spotify.com/track/348bpHZqS0Nac9k7ILPjQ7) | [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [forget about you](https://open.spotify.com/album/5RpbigRzWwue3Xg4cdSKRo) | 2:13 | 2023-06-16 | 2023-06-24 |
@@ -303,6 +304,7 @@
 | [I Need That](https://open.spotify.com/track/7rAF5wL1bYlEaiTpduBFxk) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/3XmZANtEMaFvy8CGBHiJZy) | 2:30 | 2022-12-02 | 2024-02-23 |
 | [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2024-01-22 | 2024-06-01 |
 | [I WANNA SEE SOME ASS \(feat\. jetsonmade\)](https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:05 | 2022-04-04 | 2022-11-12 |
+| [I Won't Beg for You](https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [I Won't Beg for You](https://open.spotify.com/album/5OyOJw6cJrHZkBp6Qns0Wz) | 2:03 | 2025-04-15 |  |
 | [I'D GIVE IT ALL UP](https://open.spotify.com/track/6MsEajhvcMbnuWXT1y6HL2) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [I'D GIVE IT ALL UP](https://open.spotify.com/album/2bDitgjXkr1k4GWkUXCQxl) | 2:45 | 2022-07-01 | 2022-10-15 |
 | [i'm drunk and i miss you more](https://open.spotify.com/track/50jtIig2VWqCVXai7Epm3c) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [i'm drunk and i miss you more](https://open.spotify.com/album/766FtGkdeEbLJ2RYOlIuoE) | 2:35 | 2022-03-22 | 2022-04-29 |
 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 | 2023-07-21 | 2024-06-01 |
@@ -386,6 +388,7 @@
 | [MIAMI](https://open.spotify.com/track/22jhg2lrnoTRWhgLKJfNXu) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP), [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [MIAMI](https://open.spotify.com/album/4mt0kFeuQ5kchPiAwsPArF) | 3:12 | 2023-05-26 | 2024-06-01 |
 | [midwest kids](https://open.spotify.com/track/5VPiXYa0YEMrq6cf0MFWM5) | [Apollo](https://open.spotify.com/artist/6DuMOGPBqZFTTM1MawW6Lw) | [midwest kids](https://open.spotify.com/album/7eX31xLsNWdM8NFJu1oLlb) | 2:25 | 2022-10-21 | 2023-06-17 |
 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 | 2024-05-31 | 2025-02-25 |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2025-04-15 |  |
 | [miranda!](https://open.spotify.com/track/3uG9TIm5RSa04lKkPvb4wu) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [miranda!](https://open.spotify.com/album/1pC6umMKhr0BrOtJT8QxG2) | 2:19 | 2023-04-07 | 2023-07-08 |
 | [MISS ME](https://open.spotify.com/track/3obnp1i01eTrrU816HOfxx) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MISS ME](https://open.spotify.com/album/3nswnoYynY8SodmuIpVhOu) | 2:38 | 2023-02-03 | 2024-01-23 |
 | [Miss Sunshine](https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Miss Sunshine](https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq) | 3:23 | 2025-02-24 |  |
@@ -622,6 +625,7 @@
 | [Tokyo Drift](https://open.spotify.com/track/76A5wgXcn1uFnm2U1NfKMM) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tokyo Drift](https://open.spotify.com/album/3D0aMA56sQOTU4HpbAqQvS) | 2:21 | 2022-12-02 | 2022-12-09 |
 | [Tom Brady](https://open.spotify.com/track/02cQm104XjRk0sQd1ZQb8y) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Tom Brady](https://open.spotify.com/album/24cmHXOPr2NLM6L1zIvrsA) | 2:16 | 2023-02-17 | 2024-05-25 |
 | [Tom Holland](https://open.spotify.com/track/1Ovf6VdhqNnM9eOd1ZJQgd) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tom Holland](https://open.spotify.com/album/7GgItGEIkjMOZ1fm8VKkxJ) | 3:15 | 2022-02-04 | 2022-06-04 |
+| [Too Easy](https://open.spotify.com/track/0NL9Bfuishm9oqCrzyvLCM) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Too Easy](https://open.spotify.com/album/2ppvVNqEa4we1ZD0kWM4ju) | 2:13 | 2025-04-15 |  |
 | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 | 2023-06-16 | 2023-06-24 |
 | [Top Tier](https://open.spotify.com/track/5jmBbkBYN9Zxbr8oYQEuUE) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Top Tier](https://open.spotify.com/album/4C47vc9dpvndlfRPPAWsP0) | 2:52 | 2024-03-15 | 2024-10-19 |
 | [Touristy Places](https://open.spotify.com/track/1ADdTIO8N6I03vxzr0BDji) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Touristy Places](https://open.spotify.com/album/6egT3yssUm6XR99QLGiNQ7) | 2:39 | 2023-06-30 | 2024-06-01 |

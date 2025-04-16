@@ -3361,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/37oa2gj7UbnLZrtRnYdDXG"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147083,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/2qnPCR6Qh8gDzCjS5LIWeL"
+    },
+    {
+      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/4caNry14PWQzUjxfzHckws"
       },

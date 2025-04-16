@@ -1,6 +1,6 @@
 {
   "description": "A big grin for your ears",
-  "num_followers": 1090577,
+  "num_followers": 1090608,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-04-09 14:37:50",
       "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "bloodonmyhands (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/0DA8aZZvG73AijDYT00ki1"
-    },
-    {
-      "added_at": "2025-04-09 14:37:50",
-      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
+    },
+    {
+      "added_at": "2025-04-09 14:37:50",
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "bloodonmyhands (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/0DA8aZZvG73AijDYT00ki1"
     },
     {
       "added_at": "2025-04-09 14:37:50",

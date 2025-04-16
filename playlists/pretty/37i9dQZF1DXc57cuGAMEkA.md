@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  Anne\-Marie, Lana Del Rey, Green Day, Bon Iver, Awich and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,405 likes - 87 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,417 likes - 87 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 70 | [愛とか。](https://open.spotify.com/track/22alwYLfFsS5tOWhO7UbSD) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [愛とか。](https://open.spotify.com/album/1YHyYjUNSTLgTRGAj8JOCp) | 3:54 |
 | 71 | [月に願う](https://open.spotify.com/track/70fkoVXkPUtJXFjjFWlX7c) | [sorato](https://open.spotify.com/artist/5PJX4HycJJooJ50iJduQH5) | [月に願う](https://open.spotify.com/album/7AxVbYRfuXJQ6zV1wWDZym) | 2:38 |
 | 72 | [Fast\-Paced](https://open.spotify.com/track/2uyIKccjlaD8la6zRtSWZ5) | [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [Fast\-Paced](https://open.spotify.com/album/0fUISpTG9y3pJe715TCIQE) | 3:22 |
-| 73 | [Y.O.L.O.](https://open.spotify.com/track/3ccFHM7h04RCGQTNGB9Mvy) | [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Y.O.L.O.](https://open.spotify.com/album/353cuZSlMXkZ5BNBadgvn7) | 3:00 |
+| 73 | [Y.O.L.O.](https://open.spotify.com/track/3ccFHM7h04RCGQTNGB9Mvy) | [JESSE](https://open.spotify.com/artist/21SXSbiDrpvDjCTWkwd1Hb), [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Y.O.L.O.](https://open.spotify.com/album/353cuZSlMXkZ5BNBadgvn7) | 3:00 |
 | 74 | [I Didn’t Use To](https://open.spotify.com/track/4r1CCwT9h9PNIitYde2UEd) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [INSIDE :](https://open.spotify.com/album/7fRksONg2LUzGqXbIMd140) | 4:39 |
 | 75 | [Lean Into The Wind](https://open.spotify.com/track/7khl86Ck9I8TD0Kj3PnfKB) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Lean Into The Wind](https://open.spotify.com/album/46RHH83L7ShCUAhnYm23Tt) | 3:47 |
 | 76 | [Kiss U Dead Or Alive](https://open.spotify.com/track/3MoLK3iAM6l0praSsqqVtZ) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [Kiss U Dead Or Alive](https://open.spotify.com/album/1sVS1TrGB8wpo33AIuDkMv) | 4:28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 9062,
+  "num_followers": 9067,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAC/2SYRZoBODnBuIxBTmqB+",
+  "snapshot_id": "Z/xQAAAAAAB964Og5uU4ht56StfLW3HY",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 234731,
       "name": "The Color Purple (Reprise)",
       "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -859,46 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked: The Soundtrack (Commentary)",
-        "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 55463,
-      "name": "What Is This Feeling? - Commentary",
-      "url": "https://open.spotify.com/track/1PI2oZgPiJoyPsTKED1YVD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
-        }
-      ],
-      "duration_ms": 238937,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
         "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
       },
@@ -923,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked: The Soundtrack (Commentary)",
-        "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 46367,
-      "name": "The Wizard And I - Commentary",
-      "url": "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
         "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
       },
@@ -952,9 +896,29 @@
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 296655,
-      "name": "At All",
-      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
+      "duration_ms": 238937,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wicked: The Soundtrack (Commentary)",
+        "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 55463,
+      "name": "What Is This Feeling? - Commentary",
+      "url": "https://open.spotify.com/track/1PI2oZgPiJoyPsTKED1YVD"
     },
     {
       "added_at": null,
@@ -1027,22 +991,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+        }
+      ],
+      "duration_ms": 296655,
+      "name": "At All",
+      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wicked: The Soundtrack (Commentary)",
         "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 88320,
-      "name": "Ozdust Duet (Bonus Track) - Commentary",
-      "url": "https://open.spotify.com/track/58eg6kFZP3JLPoKOGCD6Ln"
+      "duration_ms": 46367,
+      "name": "The Wizard And I - Commentary",
+      "url": "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tompsett",
+          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+        }
+      ],
+      "duration_ms": 216976,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/4ZbjHd0YJJCjT5Koi5Ubwq"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

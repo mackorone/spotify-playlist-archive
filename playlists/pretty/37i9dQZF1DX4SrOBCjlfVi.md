@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo & Lil Baby, Ken Carson, Tee Grizzley and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,449 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,539 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 7 | [We Got Buttons](https://open.spotify.com/track/5MaMB2QUkc8SmmrNQSFSot) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [We Got Buttons](https://open.spotify.com/album/5UUy44Zmlm62y5z8qCyLPF) | 2:46 |
 | 8 | [Think Twice](https://open.spotify.com/track/5tASU9HNqhOTaYqYP6lrcd) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [Think Twice](https://open.spotify.com/album/0c5bUmRVLetjyILY1G7c4C) | 2:23 |
 | 9 | [ILMB \(feat\. Travis Scott\)](https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ILMB \(feat\. Travis Scott\)](https://open.spotify.com/album/0OORiZ1arhRjbiSzNq9itT) | 3:04 |
-| 10 | [Speed It Up](https://open.spotify.com/track/2sIcNAbHwM6NybKhIF3frR) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ) | [Speed It Up](https://open.spotify.com/album/38EnkkjO51PwsqyVl239yS) | 1:52 |
+| 10 | [Speed It Up \- feat\. Ohthatsmizz](https://open.spotify.com/track/2sIcNAbHwM6NybKhIF3frR) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs) | [Speed It Up](https://open.spotify.com/album/38EnkkjO51PwsqyVl239yS) | 1:52 |
 | 11 | [I Look Like](https://open.spotify.com/track/59tJKl874T0lrWnV5wpSYf) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [I Look Like](https://open.spotify.com/album/6ERHiXy2VELXPIbk4ZWL2X) | 3:26 |
 | 12 | [Disgusted](https://open.spotify.com/track/1izgz7mqWzI5QR3E8y7nQI) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Disgusted](https://open.spotify.com/album/329JqKc4yslwBZ4EVI0spK) | 2:16 |
 | 13 | [I Know Y'all Miss Me](https://open.spotify.com/track/1CizYGJmf99A75iOxtCKvt) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [I Know Y'all Miss Me](https://open.spotify.com/album/65K5HLhoMRMAg5lOD4pmEl) | 1:30 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 24 | [Family](https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Family](https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo) | 3:05 |
 | 25 | [Rock Bottom](https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Rock Bottom](https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN) | 1:40 |
 | 26 | [What You Want](https://open.spotify.com/track/7xxC9gJ4X443aqVGQ4lX1q) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [What You Want](https://open.spotify.com/album/3IhEHIp04NUIyNONhOOHK0) | 2:11 |
-| 27 | [My Brother](https://open.spotify.com/track/11U77AJ32CJrifcvVQT18U) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [Adrian Chafer](https://open.spotify.com/artist/16dti6ifSjSyZ8PHWMwGFR), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [My Brother](https://open.spotify.com/album/5BKJJS9rEUH81nzZU7Sgbk) | 2:27 |
+| 27 | [My Brother](https://open.spotify.com/track/11U77AJ32CJrifcvVQT18U) | [Adrian Chafer](https://open.spotify.com/artist/16dti6ifSjSyZ8PHWMwGFR), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [My Brother](https://open.spotify.com/album/5BKJJS9rEUH81nzZU7Sgbk) | 2:27 |
 | 28 | [Advance](https://open.spotify.com/track/6uhtimPogQjcl08jli7vw3) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Sader](https://open.spotify.com/artist/6aobSyXaADVrlzxAAMVlLX) | [Advance](https://open.spotify.com/album/03bbvHm2AmOVRn8RIgFLlx) | 2:11 |
 | 29 | [Breathe](https://open.spotify.com/track/5455mOQFBHWwKmlHlm91B0) | [Resentvul](https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH) | [Breathe](https://open.spotify.com/album/7F4dUXcRd7ge02DNvElGfq) | 1:32 |
 | 30 | [Brokey](https://open.spotify.com/track/2jRLxqBlsq4VHYXHhvbCc6) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Brokey](https://open.spotify.com/album/3YEmdP0E9a342MEda5yEPG) | 2:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Batas Senja
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,225 likes - 96 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,283 likes - 96 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 36 | [Apa Itu Konsep Bahagia?](https://open.spotify.com/track/2lJW88pg9jJSCjlhC7DCF7) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Apa Itu Konsep Bahagia?](https://open.spotify.com/album/7fZz26PcaW4LcELEPPnxpM) | 3:36 |
 | 37 | [Seakan Ku Tak Ada](https://open.spotify.com/track/6wkWh72bSNRnuDhTM27AMs) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [dear aa](https://open.spotify.com/album/2oy6Vw4KefIUaLDwxchV2s) | 4:38 |
 | 38 | [Elegi Esok Pagi](https://open.spotify.com/track/4NuTMOmnKTWBsYh2vn9Rey) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC), [Segara](https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC) | [Elegi Esok Pagi](https://open.spotify.com/album/7hQBSVBwUgEq8brOZxSy3N) | 3:44 |
-| 39 | [Can we rewind the time?](https://open.spotify.com/track/4rXWgg1TubNNQpReXOAypN) | [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Can we rewind the time?](https://open.spotify.com/album/1714ufe5qFtyepmse6lqZk) | 5:36 |
+| 39 | [Can we rewind the time?](https://open.spotify.com/track/4rXWgg1TubNNQpReXOAypN) | [WILD](https://open.spotify.com/artist/5wiNMYMncIaYexr00AbVh8) | [Can we rewind the time?](https://open.spotify.com/album/1714ufe5qFtyepmse6lqZk) | 5:36 |
 | 40 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
 | 41 | [Apa Artinya Aku](https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Apa Artinya Aku](https://open.spotify.com/album/58887aaSwwaOePaJQr6NHP) | 4:02 |
 | 42 | [Lebaran Ceria](https://open.spotify.com/track/60oINQuJtGGHZ7OJymbGLD) | [Base Jam](https://open.spotify.com/artist/1cmNv6nRmcxsTGv3o8PHoB) | [Lebaran Ceria](https://open.spotify.com/album/40DoI3jKrEQMXRH9q79yzQ) | 3:07 |

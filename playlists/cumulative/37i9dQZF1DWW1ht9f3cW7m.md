@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring Djo 🍑
 
-208 songs - 11 hr 25 min
+209 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 | 2025-04-12 |  |
 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 | 2024-06-14 |  |
 | [All I Ever Dream About](https://open.spotify.com/track/3wxG6mf4sbIg5i8hnCcMnG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [All I Ever Dream About](https://open.spotify.com/album/6ChtPY348jHDmASn1U6FlZ) | 3:04 | 2024-08-21 | 2025-04-13 |
+| [All I Ever Dream About](https://open.spotify.com/track/4Qwp34CisVMC3T8EXBxccl) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 3:05 | 2025-04-12 |  |
 | [animal](https://open.spotify.com/track/30xK4yILvzrLjkbrBZ9lJD) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [animal](https://open.spotify.com/album/2uu0FiVvr6niABxLz2zPWM) | 3:33 | 2025-01-24 | 2025-04-13 |
 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 | 2024-07-12 | 2025-04-13 |
 | [anything for you](https://open.spotify.com/track/0ucxeQa4PyP4rRpOswffcv) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [anything for you](https://open.spotify.com/album/2YQbA9MRcttOywdtMYkWHG) | 3:17 | 2024-06-14 | 2024-09-12 |
@@ -200,7 +201,7 @@
 | [UnHinged](https://open.spotify.com/track/0tnqSQzffOCR3J0bnBUtJa) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [UnHinged](https://open.spotify.com/album/7A4oGPJzbB706sfR5AxZVz) | 2:48 | 2025-01-24 |  |
 | [Use Me](https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Use Me](https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V) | 3:39 | 2024-06-14 | 2025-04-13 |
 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 | 2025-04-12 |  |
-| [walking home at 5 am](https://open.spotify.com/track/0H1TpfK4ewdGrd3b6gD5Ny) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [walking home at 5 am](https://open.spotify.com/album/0baCi4IvuyfUiP2LPB8yro) | 2:16 | 2025-04-12 |  |
+| [walking home at 5 am](https://open.spotify.com/track/0H1TpfK4ewdGrd3b6gD5Ny) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [walking home at 5 am](https://open.spotify.com/album/0baCi4IvuyfUiP2LPB8yro) | 2:16 | 2025-04-12 | 2025-04-16 |
 | [Warm Body](https://open.spotify.com/track/4pIhmvniF8QKJBxE0oPQmp) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Warm Body](https://open.spotify.com/album/6zGTF7LNVhBNJGbvrcxcK5) | 4:32 | 2024-06-14 | 2025-04-13 |
 | [Weather's Better](https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Weather's Better](https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5) | 2:52 | 2024-09-20 |  |
 | [What Are You Doing](https://open.spotify.com/track/0sMWCcykjctGdCPaGD5CpQ) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [What Are You Doing](https://open.spotify.com/album/3F8aJdmGNH18cpDUg6asVN) | 3:28 | 2025-01-24 | 2025-04-13 |

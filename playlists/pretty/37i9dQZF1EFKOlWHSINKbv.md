@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,319 likes - 151 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320 likes - 151 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 36 | [Jaguar](https://open.spotify.com/track/6mnnWzRl1C6LABvoUar9tF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:31 |
 | 37 | [Focused On You \(feat\. 2 Chainz & Mya\)](https://open.spotify.com/track/5JtOjk5smrCjVoSnBOCdp3) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Cuffing Season](https://open.spotify.com/album/02Pte1TJ00hQSaWJCyJLzm) | 3:12 |
 | 38 | [Sometimes](https://open.spotify.com/track/2m0pzukUN2eFutFjnXNFXF) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Sometimes](https://open.spotify.com/album/2iF0e8WtqcNWDgmo7mDz0m) | 4:33 |
-| 39 | [Real Games](https://open.spotify.com/track/4c3d0xt7rUFDV7EnnRYi4i) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 5:31 |
-| 40 | [Swing \- From "Marvel's Spider\-Man 2"](https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Swing \(From "Marvel's Spider\-Man 2"\)](https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U) | 3:04 |
+| 39 | [Swing \- From "Marvel's Spider\-Man 2"](https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Swing \(From "Marvel's Spider\-Man 2"\)](https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U) | 3:04 |
+| 40 | [Real Games](https://open.spotify.com/track/4c3d0xt7rUFDV7EnnRYi4i) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 5:31 |
 | 41 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
 | 42 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:00 |
 | 43 | [Whenever You Call](https://open.spotify.com/track/5QeBkGDOUGOLtcdOwqqqiB) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [This is 嵐](https://open.spotify.com/album/1aGPwO93UYZ3OMtnVcekI6) | 3:15 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 96 | [Royalty](https://open.spotify.com/track/32DOdPhSbnzARVnZTzdb5s) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Mali Is...](https://open.spotify.com/album/7MMjwKpaSrATroOvGcjTGv) | 4:06 |
 | 97 | [Road to You](https://open.spotify.com/track/1UWozOfeMSDbTSZBFhdn8V) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The Beauty of Everything, Pt\. 2](https://open.spotify.com/album/6niD0YxomwByeULnjwA8cD) | 5:06 |
 | 98 | [Actress \(feat\. R\. Kelly\)](https://open.spotify.com/track/6xmOQuO9dYQ8Dcy5KWj8UZ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [Free TC](https://open.spotify.com/album/1NRfRc8JCu0iTzAPArjM7H) | 6:12 |
-| 99 | [Never Be the Same \(feat\. Jay Rock\)](https://open.spotify.com/track/7usLkn9m0kjKqz5BD80IPq) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Beach House EP](https://open.spotify.com/album/2P0JJ9p0o3unqi6EK4iDQw) | 4:22 |
-| 100 | [No Lights](https://open.spotify.com/track/4yEGuMeq1XdPzjon9AocdU) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:28 |
+| 99 | [No Lights](https://open.spotify.com/track/4yEGuMeq1XdPzjon9AocdU) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:28 |
+| 100 | [Never Be the Same \(feat\. Jay Rock\)](https://open.spotify.com/track/7usLkn9m0kjKqz5BD80IPq) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Beach House EP](https://open.spotify.com/album/2P0JJ9p0o3unqi6EK4iDQw) | 4:22 |
 | 101 | [My Girl \(feat\. Trevor Jackson\)](https://open.spotify.com/track/72HxHGqgHeONFehs5x3cTN) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp), [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [My Girl \(feat\. Trevor Jackson\)](https://open.spotify.com/album/3KQ6sKgBfNwxEExu3Zc8aS) | 3:49 |
 | 102 | [Dim My Light \(feat\. 6LACK\)](https://open.spotify.com/track/129mBjUSbfKo0BdK13aJjY) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:39 |
 | 103 | [Fun Fact ft\. Rick Ross](https://open.spotify.com/track/1M61PaGIKWdams4A2NInOc) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Aura III](https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF) | 3:42 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 150 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 151 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
 
-Snapshot ID: `AbuySgAAAAAd/350HodZos9dsW0jFiBG`
+Snapshot ID: `Abu4CAAAAAA5Ys56BV1W1AfjjQrlLL/l`

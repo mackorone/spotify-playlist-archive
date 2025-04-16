@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-935 songs - 2 day 6 hr 45 min
+938 songs - 2 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Another way](https://open.spotify.com/track/280Vd5Lf980YfIJIc67vUr) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Another way](https://open.spotify.com/album/2kBYyZ9ufAfsQqoY5SYqaE) | 3:31 | 2024-05-23 |  |
 | [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2022-04-11 |  |
 | [April In Paris](https://open.spotify.com/track/3g2ctas7bdFNBQqY2tvmVB) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [April In Paris](https://open.spotify.com/album/0vPYfucQhycMD6htX9rvyl) | 2:31 | 2022-09-29 | 2023-06-23 |
+| [Archway](https://open.spotify.com/track/7dYWVK67QlZpzozutKTnDI) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Archway](https://open.spotify.com/album/1AmITiHXUCuX0JSQS8jPPF) | 3:52 | 2025-04-15 |  |
 | [Around six thirty](https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Around six thirty](https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza) | 3:23 | 2023-08-10 | 2024-07-23 |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-01-05 | 2023-03-10 |
 | [As Long as I Remember](https://open.spotify.com/track/3yNPrHXW5Sk6xmKikBSdTu) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [As Long as I Remember](https://open.spotify.com/album/0LOYMlqDB85bzpxsLX4w65) | 3:35 | 2025-02-20 |  |
@@ -309,7 +310,7 @@
 | [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2022-12-01 |  |
 | [Holding Onto Dawn](https://open.spotify.com/track/27yLQgeE70oyihRLEorqRy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Holding Onto Dawn](https://open.spotify.com/album/0JNJYL6httnFWoLYXh6JAE) | 3:14 | 2024-03-08 |  |
 | [Holograms](https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Holograms](https://open.spotify.com/album/32TK2PRS6wBvm4JIM9DdNk) | 3:52 | 2023-02-23 |  |
-| [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
+| [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 | 2025-04-16 |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
 | [Homebound](https://open.spotify.com/track/7obaAm9tRqarKIJ1JsRelQ) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Homebound](https://open.spotify.com/album/55PXw2IMn0zVQ9DrjEmYnu) | 3:29 | 2022-08-10 | 2024-05-24 |
 | [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 | 2022-10-27 |  |
@@ -559,7 +560,7 @@
 | [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 | 2023-09-22 | 2024-11-26 |
 | [My Special Waltz](https://open.spotify.com/track/2gAXDPR92WmrdhJBJWyKGY) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [My Special Waltz](https://open.spotify.com/album/5C6s63fnTb9BBMIBmJ7hvA) | 2:39 | 2024-10-08 |  |
 | [My Words Are Not Enough](https://open.spotify.com/track/37nnBZliiFwBAYZolb1e0W) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [My Words Are Not Enough](https://open.spotify.com/album/0j6u4s9bsjhp1lLHA6PAic) | 2:42 | 2023-03-23 | 2024-11-26 |
-| [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 | 2023-10-27 |  |
+| [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 | 2023-10-27 | 2025-04-16 |
 | [Naima](https://open.spotify.com/track/6N1c9EHlOMHdQ55hmHkhDq) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Naima](https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ) | 3:10 | 2022-11-17 |  |
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 | 2025-02-04 |
 | [Need to rest](https://open.spotify.com/track/0Z9IuuRyNcz275MxEMvdZ7) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [Need to rest](https://open.spotify.com/album/10hgpKgMU5w4n3pCRIfPrY) | 3:07 | 2023-10-06 | 2024-12-17 |
@@ -570,6 +571,7 @@
 | [New Romance](https://open.spotify.com/track/2NRILkVKGzv1DDTumMgKYV) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [New Romance](https://open.spotify.com/album/6ybz7EoyBOx2aDyzzXYGUZ) | 2:44 | 2025-03-03 |  |
 | [New Shoes](https://open.spotify.com/track/1CsB9h88MSlYaQGzDTX9Al) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 3:56 | 2022-09-29 |  |
 | [New sponsor](https://open.spotify.com/track/6EIQvvPBFyPsa4zRJYtoNq) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [New sponsor](https://open.spotify.com/album/2Xgmzfb2ZGhDBM0xYfj86c) | 3:18 | 2023-08-10 |  |
+| [New York at Night](https://open.spotify.com/track/4BtKyqKq0W6R72tpoU8BeU) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [New York at Night](https://open.spotify.com/album/5q4AvsTsrgfMaTEpdivrzy) | 4:38 | 2025-04-15 |  |
 | [Newspapers Heads](https://open.spotify.com/track/5Zthx9hZRFSJRhO0UEi8Ox) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Newspapers Heads](https://open.spotify.com/album/7tuJ3IScGPnWvBio5JV98x) | 4:02 | 2023-06-01 | 2024-09-28 |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-04-11 | 2023-03-18 |
 | [Nightfall](https://open.spotify.com/track/0pUJIrhpnvI1wneFmal7oG) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Nightfall](https://open.spotify.com/album/1NKqdrY5COQ2fE54U1Mxbh) | 3:12 | 2023-04-13 |  |
@@ -725,7 +727,7 @@
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-08-10 | 2023-02-24 |
 | [Stardust](https://open.spotify.com/track/1BBwIeicvH1pRRyWZRz2cG) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Stardust](https://open.spotify.com/album/3x56DyddKPzuzkj8SmFkdr) | 3:46 | 2022-08-10 |  |
 | [Stardust](https://open.spotify.com/track/2E7fP0L9x0NXELu1deubuU) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Stardust](https://open.spotify.com/album/3FHlWWDzIZGfVccle8crBJ) | 3:24 | 2024-04-10 |  |
-| [Stargrass](https://open.spotify.com/track/5xjLWTPSwxlAvG6FxeFAl6) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Stargrass](https://open.spotify.com/album/3t9Peh81bY07N6hbHG1RXo) | 3:12 | 2024-06-11 |  |
+| [Stargrass](https://open.spotify.com/track/5xjLWTPSwxlAvG6FxeFAl6) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Stargrass](https://open.spotify.com/album/3t9Peh81bY07N6hbHG1RXo) | 3:12 | 2024-06-11 | 2025-04-16 |
 | [Starry Skies and Saxophones](https://open.spotify.com/track/3GvTDh5qbXRvpjcVE5r34w) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Starry Skies and Saxophones](https://open.spotify.com/album/5rkoaMS3FOnul78sYUGdB8) | 3:43 | 2023-12-08 | 2024-09-04 |
 | [Stars Above](https://open.spotify.com/track/2iMQAwqqjCEeLlnPppBOYW) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Stars Above](https://open.spotify.com/album/0jbSSFBfcHSJl7UVaCk1S9) | 2:58 | 2023-12-22 | 2024-07-23 |
 | [Stars Fell On Alabama](https://open.spotify.com/track/6V9XxCoJ9Ujckla3A0aUYL) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Stars Fell On Alabama](https://open.spotify.com/album/1jJKCnldeVDpCo5p7DFXJp) | 4:04 | 2022-08-10 |  |
@@ -803,6 +805,7 @@
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
 | [The Way We Looked Then](https://open.spotify.com/track/7f1c51MW06vPI4049aQRqg) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [The Way We Looked Then](https://open.spotify.com/album/3CQsGjyqE8bwqzDmsxNFPz) | 3:34 | 2024-12-09 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/623jWCHHgkHJ09bAPqvx8Y) | [Deer Groves](https://open.spotify.com/artist/0UAwkBmAPuCYxBPtf6g9K6) | [The Way You Look Tonight](https://open.spotify.com/album/3shpzzZyznWqGeWrIxPD11) | 3:54 | 2024-11-18 |  |
+| [The Wilder I Used To Be](https://open.spotify.com/track/1fmrEgNDGFzWgsEUP0xEyg) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [The Wilder I Used To Be](https://open.spotify.com/album/7mkjkHwszOA4SLSE8Ezcxo) | 2:31 | 2025-04-15 |  |
 | [The Workers](https://open.spotify.com/track/1oXb2a7joQ4cre3t2W24hu) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [The Workers](https://open.spotify.com/album/3yW4cbRuICHZRsPCfHRSr0) | 3:26 | 2022-10-27 |  |
 | [The yellow note](https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [The yellow note](https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD) | 3:49 | 2023-09-29 | 2024-10-15 |
 | [Theme for Ruth](https://open.spotify.com/track/3Lufuxi6y1fGw3bPHhlx66) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Theme for Ruth](https://open.spotify.com/album/4ZzZNkzoKThNkQXL1ZeFdC) | 3:01 | 2022-04-11 | 2024-11-12 |

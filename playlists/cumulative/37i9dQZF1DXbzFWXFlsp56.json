@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Joaquina.",
+  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Ysa C.",
   "name": "RADAR Andinos",
   "tracks": [
     {
@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "Despedirme",
+        "url": "https://open.spotify.com/album/3aBl8sDdLEkr2o1stvoFys"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Despedirme",
+      "url": "https://open.spotify.com/track/3cumZj3UXGZwgILBu7FFID"
+    },
+    {
+      "album": {
         "name": "devut",
         "url": "https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC"
       },
@@ -822,7 +840,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 156852,
       "name": "devut",
       "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 228533,
       "name": "escapar de m\u00ed",
       "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 219133,
       "name": "no llames lo m\u00edo nuestro",
       "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
@@ -2402,6 +2420,24 @@
       "duration_ms": 214738,
       "name": "Yo-Po-No-Po, Versi\u00f3n 1 - Prieto Riddiman Remix",
       "url": "https://open.spotify.com/track/1T4rUon9lBzvZWGzhlKP6t"
+    },
+    {
+      "album": {
+        "name": "devut",
+        "url": "https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159256,
+      "name": "\u00bfEl 14 qu\u00e9 har\u00e1s?",
+      "url": "https://open.spotify.com/track/2JV6LNI0rX9KcUEDCT9wQ8"
     },
     {
       "album": {

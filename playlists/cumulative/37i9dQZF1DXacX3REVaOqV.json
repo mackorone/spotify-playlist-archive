@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 204671,
       "name": "Can't Get Enough! - Prunk Remix",
       "url": "https://open.spotify.com/track/12xjD2R6jU2kI5tmTidn8k"
@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 262079,
       "name": "Finally (feat. Julie McKnight) - Mochakk, Jay Mariani & Cesar Nardini Remix",
       "url": "https://open.spotify.com/track/3U5J8mevZ8mRvx8JAI0491"
@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 169722,
       "name": "For The Weekend",
       "url": "https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF"
@@ -5125,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Circus EP",
+        "url": "https://open.spotify.com/album/4ZlcX8nEMYUursOBLVzwXF"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/63OoQKHkjySz2cHz8S7OqS"
+    },
+    {
+      "album": {
         "name": "Pure Moons Vol. 2",
         "url": "https://open.spotify.com/album/1rZVQxrdRpW4KYrGfUl2x8"
       },
@@ -5140,6 +5158,28 @@
       "duration_ms": 286476,
       "name": "I Can Boogie",
       "url": "https://open.spotify.com/track/2ozkaxd6uFj0dKhHJUxurx"
+    },
+    {
+      "album": {
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Esra Nuray",
+          "url": "https://open.spotify.com/artist/6OcDeuYpbb3U1QSTeQPuA7"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215602,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe"
     },
     {
       "album": {
@@ -10128,6 +10168,24 @@
       "duration_ms": 350443,
       "name": "Strobe Queen - Eric Kupper Remix",
       "url": "https://open.spotify.com/track/2S5MuGkMZl3KmBa1PCqFqP"
+    },
+    {
+      "album": {
+        "name": "Struggle No More",
+        "url": "https://open.spotify.com/album/155Tt5XN6dR8tSptIFzda8"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159135,
+      "name": "Struggle No More",
+      "url": "https://open.spotify.com/track/6o5AbWo8RbLG9eMcB12cqz"
     },
     {
       "album": {

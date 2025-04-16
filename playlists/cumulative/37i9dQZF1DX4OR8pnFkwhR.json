@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: CLAN QUEEN",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u4e43\u7d2b",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -13851,6 +13851,24 @@
     },
     {
       "album": {
+        "name": "PINK PUNCH",
+        "url": "https://open.spotify.com/album/6vgybAHVnds7q6FgoDkeFq"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127116,
+      "name": "PINK PUNCH",
+      "url": "https://open.spotify.com/track/1hRT4tRsLgOkejN2KGqukf"
+    },
+    {
+      "album": {
         "name": "PIP",
         "url": "https://open.spotify.com/album/43YJER5iJtpSQNrpDvJZBQ"
       },
@@ -16226,7 +16244,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 197905,
       "name": "Snipe the Heart",
       "url": "https://open.spotify.com/track/3AkkSI6l7UWyiGxhxkiAjB"
@@ -19590,7 +19608,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 203333,
       "name": "white noise",
       "url": "https://open.spotify.com/track/5vYlfoaJnOiBZ5SILO9cUQ"
@@ -21684,6 +21702,24 @@
       "duration_ms": 267440,
       "name": "\u305d\u306e\u4ed6\u5927\u52e2",
       "url": "https://open.spotify.com/track/3SQS6pC1NGFBqLKnwVfvGT"
+    },
+    {
+      "album": {
+        "name": "Adrift in Time",
+        "url": "https://open.spotify.com/album/0OiWixcir4dJ28OZ3W7CJi"
+      },
+      "artists": [
+        {
+          "name": "Veg",
+          "url": "https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202654,
+      "name": "\u305d\u306e\u65e5",
+      "url": "https://open.spotify.com/track/2zBzHYumBgFh2sm6dE4ckh"
     },
     {
       "album": {
@@ -24309,6 +24345,24 @@
     },
     {
       "album": {
+        "name": "\u30bb\u30f3\u30ab",
+        "url": "https://open.spotify.com/album/3GA6972NEE4NRGtCFye6eg"
+      },
+      "artists": [
+        {
+          "name": "HALVES",
+          "url": "https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239454,
+      "name": "\u30bb\u30f3\u30ab",
+      "url": "https://open.spotify.com/track/3TIy0kAq4wJpPJkLsZsb6m"
+    },
+    {
+      "album": {
         "name": "\u30bf\u30a4\u30e0\u30b9\u30ea\u30c3\u30d7\u3067\u304d\u306a\u3044",
         "url": "https://open.spotify.com/album/3YKxhyBvBneyNLtDKdUWdK"
       },
@@ -26425,6 +26479,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/3qN33IzFxzolRHaxhNltw2"
+      },
+      "artists": [
+        {
+          "name": "\u3067\u304b\u304f\u3066\u307e\u308b\u3044\u3002",
+          "url": "https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325270,
+      "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1C0FeicvqookSh1qXpJlvi"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30d6\u30ea\u30fc",
         "url": "https://open.spotify.com/album/1bqWRNEezTMkh25svE3JDx"
       },
@@ -26458,6 +26530,24 @@
       "duration_ms": 224800,
       "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
       "url": "https://open.spotify.com/track/7c7rjEaoqcCsDSVJ6KfBd3"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I"
+      },
+      "artists": [
+        {
+          "name": "BILLY BOO",
+          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221470,
+      "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR"
     },
     {
       "album": {
@@ -27528,7 +27618,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 207733,
       "name": "\u51a5\u51a5",
       "url": "https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe"
@@ -28512,7 +28602,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 267334,
       "name": "\u591c\u306b\u3064\u3044\u3066",
       "url": "https://open.spotify.com/track/6oNZI1mwVseG1ivP3FEAos"
@@ -29392,6 +29482,24 @@
       "duration_ms": 217568,
       "name": "\u5f85\u3061\u9060\u3057\u3044\u306e!",
       "url": "https://open.spotify.com/track/3F9ZhEcFH1AQbsa6EAUbAY"
+    },
+    {
+      "album": {
+        "name": "\u5f98\u5f8a",
+        "url": "https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191075,
+      "name": "\u5f98\u5f8a",
+      "url": "https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb"
     },
     {
       "album": {
@@ -32242,7 +32350,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 152871,
       "name": "\u7206\u901f\u8ad6\u7406ness",
       "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
@@ -33543,6 +33651,24 @@
     },
     {
       "album": {
+        "name": "\u88f8\u3001\u9053\u3059\u304c\u3089",
+        "url": "https://open.spotify.com/album/6uJ6dHiRA9eBWM7S6rKK0m"
+      },
+      "artists": [
+        {
+          "name": "Khaki",
+          "url": "https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174007,
+      "name": "\u88f8\u3001\u9053\u3059\u304c\u3089",
+      "url": "https://open.spotify.com/track/1jqKoXdfmRs2kI3OsLDmKI"
+    },
+    {
+      "album": {
         "name": "\u897f\u65e5\u66ae\u91cc\u306e\u7dd1",
         "url": "https://open.spotify.com/album/3F7PUM6MDPsT1OsOcAlnVm"
       },
@@ -33716,7 +33842,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 253729,
       "name": "\u8ab0\u3082\u304c\u6b7b\u306b\u305f\u304c\u308b\u591c\u306b",
       "url": "https://open.spotify.com/track/3xgZ4xrHhC3BgbdWQWxsl8"
@@ -33950,7 +34076,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 200472,
       "name": "\u9006\u5149",
       "url": "https://open.spotify.com/track/1Y02kNPlR4ZTfpTCKQLFvV"

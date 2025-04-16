@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: FIFTY FIFTY
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ME:I
 
-1,432 songs - 3 day 4 hr 22 min
+1,435 songs - 3 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-06-15 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-10 | 2023-10-07 |
 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv) | 2:53 | 2023-09-21 | 2023-11-10 |
-| [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 | 2025-03-06 |  |
+| [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 | 2025-03-06 | 2025-04-16 |
 | [Daisy](https://open.spotify.com/track/6jql35WDVQEgTRHvUTPOrd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 2:56 | 2022-09-06 | 2022-12-16 |
 | [DALLA DALLA \- Japanese ver.](https://open.spotify.com/track/0OvHs9ccBYfv0447jwWTxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 3:19 | 2021-12-23 | 2022-03-11 |
 | [DAMDADI \- Japanese ver.](https://open.spotify.com/track/2dBWej5HwZDdwO7zCcfJ2P) | [Lucky PangPang \(KIM DAHYUN X SUMIDA AIKO\)](https://open.spotify.com/artist/10CX98gsJA8V2azJFseO3k) | [DAMDADI \- Japanese ver.](https://open.spotify.com/album/7l4cIcPA97TF3fagxX8zbc) | 3:15 | 2024-08-20 | 2024-09-20 |
@@ -440,6 +440,7 @@
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-19 | 2024-06-01 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-17 | 2023-06-28 |
 | [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 | 2024-12-24 |  |
+| [From a seed called ‘Hey, what’s up?’](https://open.spotify.com/track/6178sEhq3xNsMFD6JcFXxy) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-04-15 |  |
 | [From here](https://open.spotify.com/track/7AlohrhCwefYKYKZSlUl3b) | [WOOYOUNG](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [Off the record](https://open.spotify.com/album/643Nk6PgeQs2Tzp9YgxzVm) | 3:12 | 2023-06-06 | 2023-06-21 |
 | [Future \(Lollapalooza ver.\)](https://open.spotify.com/track/4Q6S4uWD8dwpWiI3VkdBuV) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box \(HOPE Edition\)](https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6) | 4:18 | 2023-08-18 | 2023-09-22 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 | 2022-09-09 |
@@ -526,6 +527,7 @@
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-04 | 2023-01-18 |
 | [HELLO \- JP Ver.](https://open.spotify.com/track/4QiD4Qkiq1Gw2v2FkKIgqe) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:01 | 2022-11-24 | 2023-03-15 |
 | [Hello Goodbye](https://open.spotify.com/track/443V3JlVW2MJOO5yY92qAN) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [Hello Goodbye](https://open.spotify.com/album/3rvLFZpuE1xZWJNLxoCh6C) | 3:15 | 2023-03-14 | 2023-05-10 |
+| [Hello Stranger](https://open.spotify.com/track/2rY9jItQLvMWImHZygEV3d) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Hello Stranger](https://open.spotify.com/album/4fy8OpuY3eepNbp6V0p6Og) | 3:01 | 2025-04-15 |  |
 | [HER](https://open.spotify.com/track/0b4xSLnMV2w0RXugY4w9Dg) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/5o5Qyfl84QAAnWNUHuuiCV) | 2:39 | 2025-01-21 |  |
 | [Here](https://open.spotify.com/track/7yZv08uDBYKCw7poSL3Btb) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 7\. \[Here\]](https://open.spotify.com/album/5YwAPoIC2QjO4pApIsZ6OH) | 2:53 | 2024-10-24 | 2024-12-25 |
 | [Here I am](https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu) | 2:50 | 2024-07-17 | 2024-09-04 |
@@ -1071,7 +1073,7 @@
 | [Smoothie \- Arkins Remix](https://open.spotify.com/track/41i0luwYM6xe8u0TaD3JKU) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [iScreaM Vol.31 : Smoothie Remix](https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp) | 3:07 | 2024-04-12 | 2024-05-11 |
 | [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 | 2022-07-29 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-28 | 2022-11-18 |
-| [Snowfall \(Feat\. Coogie\)](https://open.spotify.com/track/18ewGSc5gtXW9WbARDalca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Snowfall](https://open.spotify.com/album/1WkK7CXeGV60KEncYYDjf8) | 2:29 | 2025-01-09 |  |
+| [Snowfall \(Feat\. Coogie\)](https://open.spotify.com/track/18ewGSc5gtXW9WbARDalca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Snowfall](https://open.spotify.com/album/1WkK7CXeGV60KEncYYDjf8) | 2:29 | 2025-01-09 | 2025-04-16 |
 | [SO GOOD](https://open.spotify.com/track/0fasNMnIi1u8tNMV9r5IEh) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SO GOOD](https://open.spotify.com/album/09lXzBFEEydz06FInbZ6ub) | 3:27 | 2022-04-21 | 2022-07-07 |
 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-14 | 2023-10-18 |
 | [So Right \(feat\. Yuna\)](https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [So Right \(feat\. Yuna\)](https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk) | 3:08 | 2022-02-24 | 2022-04-22 |
@@ -1117,7 +1119,7 @@
 | [Straight Line](https://open.spotify.com/track/1HBYsYVdX49Gi1lrmqmk63) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Straight Line](https://open.spotify.com/album/58nZRpRVzO9INTkg5Ystph) | 2:45 | 2024-04-23 | 2024-07-24 |
 | [STRANGER](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 2:46 | 2023-10-17 | 2023-12-22 |
 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 | 2024-01-25 | 2024-03-06 |
-| [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 |  |
+| [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 | 2025-04-16 |
 | [Street Carol… \(With John Park\)](https://open.spotify.com/track/3cgcHzpYPQnk9ieAFdaDpY) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [Street Carol… \(With John Park\)](https://open.spotify.com/album/0k0QFIeshkGCFRM2ZqdSN8) | 3:18 | 2024-12-13 | 2025-02-19 |
 | [STRESS](https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Alivio](https://open.spotify.com/album/5NzrdLdqF0ZuAt51eSIORo) | 3:24 | 2025-02-11 |  |
 | [Stupid Cupid](https://open.spotify.com/track/28A3n0uK5LvBTLq5aX0oCO) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Moonlight](https://open.spotify.com/album/4Yn7eVRGi34P0oksBwfMSq) | 3:25 | 2024-06-05 | 2024-08-21 |
@@ -1168,6 +1170,7 @@
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-08 | 2023-08-17 |
 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-27 | 2024-01-25 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-25 | 2023-01-21 |
+| [Talk that Talk \- Japanese ver.](https://open.spotify.com/track/47crMubP1Z1dvjUjkrHulp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Talk that Talk \(Japanese ver.\)](https://open.spotify.com/album/6N4brtEUhu2zhwbV1GkMwi) | 2:57 | 2025-04-15 |  |
 | [Tamed\-Dashed \- Japanese Ver.](https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:15 | 2022-05-10 | 2022-07-07 |
 | [TAP](https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [TAP \- The 2nd Mini Album](https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0) | 2:37 | 2024-02-26 | 2024-04-24 |
 | [Tap Tap](https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.LOVE](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) | 3:06 | 2022-11-14 | 2023-01-10 |

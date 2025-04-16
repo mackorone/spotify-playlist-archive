@@ -4,7 +4,7 @@
 
 > Våren er her!☀️
 
-192 songs - 10 hr 0 min
+193 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 | 2024-06-27 |  |
 | [Keeps Me Going](https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Keeps Me Going](https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2) | 3:19 | 2024-06-27 | 2025-04-13 |
 | [Klisje](https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Celine Madelen](https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE) | [Klisje](https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA) | 2:18 | 2024-06-27 | 2025-03-02 |
-| [Kor e du?](https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Kor e du?](https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf) | 3:20 | 2024-06-27 |  |
+| [Kor e du?](https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Kor e du?](https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf) | 3:20 | 2024-06-27 | 2025-04-16 |
 | [la meg ligge](https://open.spotify.com/track/1a6G7x79kvHEhOkeJBLXJj) | [Michelle Ullestad](https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI) | [la meg ligge](https://open.spotify.com/album/3YiyfDnirvlF06ibKAa6cI) | 3:30 | 2024-06-27 | 2024-10-28 |
 | [Langt av sted](https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Langt av sted](https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i) | 2:40 | 2024-06-27 | 2024-10-25 |
 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-22 | 2025-03-01 |
@@ -198,6 +198,7 @@
 | [vinner](https://open.spotify.com/track/5hKZmsVhSmC56KXGpftOCu) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [TORRES TIVOLI](https://open.spotify.com/album/1W3jGggBsdahWy19uKxYMj) | 2:31 | 2024-09-26 | 2025-03-28 |
 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 | 2024-06-27 |  |
 | [Vårsøg](https://open.spotify.com/track/19fg74cR8JsB4As2iaJil2) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Henning Sommerro](https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu) | [Vårsøg](https://open.spotify.com/album/0xNCvZnoASYU3VjS8Tl9OV) | 3:08 | 2025-04-10 |  |
+| [Vær så snill](https://open.spotify.com/track/1E1pF8K5l8K4gRWR7w3OFc) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Hei på deg](https://open.spotify.com/album/78sIK6QQYQ3wVnAngrG5dy) | 2:12 | 2025-04-10 |  |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-19 |  |
 | [wildflower](https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [wildflower](https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw) | 2:54 | 2024-09-26 | 2025-02-19 |
 

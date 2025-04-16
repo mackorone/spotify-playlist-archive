@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-293 songs - 16 hr 11 min
+294 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 | 2021-11-25 | 2023-02-15 |
 | [Dancing on My Own](https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 9](https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo) | 3:45 | 2021-11-25 | 2024-04-19 |
 | [Dancing Queen \(arr\. piano\)](https://open.spotify.com/track/61HC09wMMxwHkjgktA94tP) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [ABBA](https://open.spotify.com/album/79mSoTbnuSzUFVIz2h89D0) | 3:31 | 2022-01-14 | 2023-06-24 |
-| [Dancing Queen \- Cover](https://open.spotify.com/track/5plSMEmctEOF81uHnGpqTI) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Dancing Queen \(Cover\)](https://open.spotify.com/album/4UYY6fgMEF1l3ktttIJHn5) | 3:04 | 2025-03-07 |  |
+| [Dancing Queen \- Cover](https://open.spotify.com/track/5plSMEmctEOF81uHnGpqTI) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Dancing Queen \(Cover\)](https://open.spotify.com/album/4UYY6fgMEF1l3ktttIJHn5) | 3:04 | 2025-03-07 | 2025-04-16 |
 | [Daydreaming](https://open.spotify.com/track/7eyofqtirJUi7bae1HaX7E) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Rock Hits of 2016](https://open.spotify.com/album/5lNn9yKy0QHZpJOM9eYiLN) | 6:06 | 2022-11-18 | 2022-11-26 |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/3ecktnbNRZujmDisEq9C7O) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020](https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN) | 2:43 | 2022-11-18 | 2022-11-26 |
 | [Defying Gravity](https://open.spotify.com/track/28cY40buH89cMkAMxdMznk) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:52 | 2021-11-25 | 2025-03-29 |
@@ -249,6 +249,7 @@
 | [Sweater Weather](https://open.spotify.com/track/5ipHEp72ur3hB8WVM0hzOX) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 1](https://open.spotify.com/album/4x6udqqWCNOeLqsw6aUnAo) | 4:05 | 2022-11-18 | 2022-11-26 |
 | [Tattoo](https://open.spotify.com/track/4oJ0J34QTkknq9ciWkb3O8) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Tattoo](https://open.spotify.com/album/4mSPv9m5vsDzPjzxocDbDt) | 3:09 | 2023-07-24 |  |
 | [Tears in Heaven](https://open.spotify.com/track/1diA0qxa31zuUw6e14P15n) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Tears in Heaven](https://open.spotify.com/album/6VfC5Ha40EKxopc0SJtsJy) | 3:13 | 2024-08-13 |  |
+| [That’s So True](https://open.spotify.com/track/71bMHnASbs51XgcvYZc2eW) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [That’s So True](https://open.spotify.com/album/5laSIm0D87Jy7SLzQSMUrB) | 2:22 | 2025-04-15 |  |
 | [The Rose](https://open.spotify.com/track/1BlvRT7JUtpNQUZHrVUPwJ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Rose](https://open.spotify.com/album/3S58P2blfAWXqcRtxzkHm7) | 2:38 | 2024-03-04 |  |
 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 | 2021-11-25 |  |
 | [The Sound of Silence](https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [The Sound of Silence](https://open.spotify.com/album/763Ve9vd4kwmEAj0zGhuCC) | 3:10 | 2021-11-25 | 2022-01-06 |
@@ -261,7 +262,7 @@
 | [Three Times a Lady](https://open.spotify.com/track/043ZNvHtGmYF1uR5q6gD1r) | [Myleene Klass](https://open.spotify.com/artist/63L6NSMY7isrNaziNX2YXX) | [My Lullabies: Motown](https://open.spotify.com/album/6Zx72Eq6focHvSZxljFcyR) | 3:00 | 2022-05-13 |  |
 | [Thunderclouds](https://open.spotify.com/track/4XmcsuS2UKmE0mGexrUXBo) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2018, Vol\. 2](https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u) | 3:09 | 2022-11-18 | 2022-11-26 |
 | [Time After Time](https://open.spotify.com/track/0SjRJvsh0ZccINwUQKsSxj) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Time After Time](https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU) | 4:20 | 2021-11-25 | 2023-05-04 |
-| [Time After Time](https://open.spotify.com/track/0Jbj3CkvGt7XYS5H3Whir6) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Time After Time](https://open.spotify.com/album/409PSgOS2E4OurHGNSQq4h) | 3:28 | 2025-03-21 |  |
+| [Time After Time](https://open.spotify.com/track/0Jbj3CkvGt7XYS5H3Whir6) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Time After Time](https://open.spotify.com/album/409PSgOS2E4OurHGNSQq4h) | 3:28 | 2025-03-21 | 2025-04-16 |
 | [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-01-30 |  |
 | [Transatlanticism](https://open.spotify.com/track/50tq3zkWA7yLEmdKE0kmt5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Death Cab for Cutie: Ghost](https://open.spotify.com/album/4xz9AD7qZEyVoE2Q99551Z) | 3:58 | 2022-11-18 | 2022-11-26 |
 | [True Colors](https://open.spotify.com/track/73YuOIBK1d1P994s0dwUhV) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [True Colors](https://open.spotify.com/album/6p1fpmrr3HCFCpyEwyknNs) | 4:10 | 2024-04-17 |  |

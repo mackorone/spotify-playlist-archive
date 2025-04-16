@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,065 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,064 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 | 49 | [Baille](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Baille](https://open.spotify.com/album/3070nvzG2FbwF1H3oYmMFs) | 2:33 |
 | 50 | [Shake That](https://open.spotify.com/track/5apZDOlAisJMHz3joMQMXC) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Shake That](https://open.spotify.com/album/6RH6jN1ofBtyo0bPCkqYrD) | 2:00 |
 
-Snapshot ID: `L5B8eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L5HLoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Q
 
-567 songs - 1 day 6 hr 37 min
+568 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-16 | 2023-06-30 |
 | [4 Letter Word](https://open.spotify.com/track/1us5FXqtcrJUAaIINwMOhs) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 4:04 | 2023-09-07 | 2023-11-25 |
 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 | 2023-11-09 | 2024-01-05 |
+| [6:35](https://open.spotify.com/track/0YSP6Fkh8wWEhvZYGEUqId) | [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Tobolayefa + 6: 35](https://open.spotify.com/album/3pEzOFG1M7X9lOStge0xQr) | 2:55 | 2025-04-10 |  |
 | [9 to 5](https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [9 to 5](https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg) | 2:48 | 2024-09-26 | 2024-12-13 |
 | [About You](https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [About You](https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o) | 2:56 | 2023-01-12 | 2023-03-03 |
 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-02-29 | 2024-09-27 |

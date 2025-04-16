@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-531 songs - 1 day 6 hr 21 min
+536 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Hands Of Man](https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Hands Of Man](https://open.spotify.com/album/3LzI2gXTQQ96VtaC2NYXF2) | 5:05 | 2024-01-30 | 2024-03-10 |
 | [Happy](https://open.spotify.com/track/1JGdQ6bAbTShATQV7iZuoB) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Happy](https://open.spotify.com/album/1cu2Otwcl1p9FnnPffqwhA) | 2:19 | 2024-10-08 | 2024-11-14 |
 | [Happy](https://open.spotify.com/track/3WGiMyK486Aat4b9ZxuHic) | [The Wrens](https://open.spotify.com/artist/04cetTUz2JTzXBqFKO5YB5) | [The Meadowlands](https://open.spotify.com/album/4Olz2cm8ncBqhnRcDwqVFK) | 5:33 | 2025-04-10 |  |
+| [Harmless](https://open.spotify.com/track/4OYmd02op9NYxIdOfjYo4C) | [Mad About The Boy](https://open.spotify.com/artist/0ux8iLN3qDkhoXLwbTA1M0) | [Top Earner](https://open.spotify.com/album/2adLrKoyb1QYHuSqlSu6Bi) | 4:48 | 2025-04-15 |  |
 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky / obvious](https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz) | 3:53 | 2024-10-18 | 2024-11-14 |
 | [Haunted Disco](https://open.spotify.com/track/6qeEKqQXu4ekJT0tjO3ARS) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [PAST FUTUR.e](https://open.spotify.com/album/7C3ISPfAyp060oOmvm0MPb) | 1:56 | 2024-05-30 | 2024-07-12 |
 | [Haverford Impromptu \#1](https://open.spotify.com/track/2lHvKGSQZzm2PlP4N5KpRy) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Haverford College, Jan\. 25th, 1980 \(Solo Rhodes Piano\)](https://open.spotify.com/album/0jVth1ufo1rI9gD7yCIQQQ) | 3:21 | 2025-04-02 |  |
@@ -278,6 +279,7 @@
 | [La voix psychédélique](https://open.spotify.com/track/6OGybl75EBNMNalQ8cg5RD) | [Emmanuel Brun](https://open.spotify.com/artist/02yigcgaTkoA3sajC1FKEE) | [Magie de la scie musicale \(Musical Saw\)](https://open.spotify.com/album/3KrbT3JMLafZbSWUAuvmb7) | 1:50 | 2024-05-20 | 2024-07-12 |
 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 | 2024-08-08 | 2024-09-08 |
 | [Late November](https://open.spotify.com/track/16Y0Ubjxap4dcD5elBeFVJ) | [Sandy Denny](https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ) | [The North Star Grassman And The Ravens \(Remastered\)](https://open.spotify.com/album/6svGCFgSQDt8ooH5x0BrD7) | 4:29 | 2025-02-26 | 2025-03-02 |
+| [Laugh Now \- Re\-Issue](https://open.spotify.com/track/7x2ZsDLoIWvCulm9pJqdtN) | [Little Wings](https://open.spotify.com/artist/0Z6hyoqGpchajBS8Gt3c0l) | [Magic Wand](https://open.spotify.com/album/2L5aLYeqqcdmPpF6es6XhP) | 4:51 | 2025-04-15 |  |
 | [Laugh, Laugh](https://open.spotify.com/track/66V3speCvzVe6lUnIezZ0J) | [The Beau Brummels](https://open.spotify.com/artist/4DQj1q0unpi9KF8jO1Wqks) | [Introducing The Beau Brummels](https://open.spotify.com/album/3qWJ6R8Wg3PPCAOToluwPJ) | 2:56 | 2024-10-18 | 2024-11-14 |
 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 | 2024-12-12 | 2025-01-12 |
 | [Le Rêve De CJ](https://open.spotify.com/track/3zZTkc18kbBW8hthawXrl5) | [Absent Music](https://open.spotify.com/artist/5g4vYpxRlQ0PAglBI3XW12) | [Lost And Latest](https://open.spotify.com/album/1YTMrikZDprUv2cjFlIoOh) | 2:31 | 2024-04-01 | 2024-05-16 |
@@ -434,6 +436,7 @@
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 | 2024-05-16 |
 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 | 2024-03-13 | 2024-05-16 |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 | 2024-03-10 |
+| [Song of the Highest Tower](https://open.spotify.com/track/4QgvvCRrK6ilJp2xaDLlJx) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Alien Sunset](https://open.spotify.com/album/1aycNgUsDVj8pmuJ2x1Y8G) | 6:53 | 2025-04-15 |  |
 | [Space : Unadorned](https://open.spotify.com/track/0UqPxh5QwZza8CDU4vmrES) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:01 | 2024-07-12 | 2024-09-08 |
 | [Space and Time](https://open.spotify.com/track/7IZXUoILTWAX5LRRkogRG2) | [Emma Russack](https://open.spotify.com/artist/1Uk2WvbKqPrA19SbAO9miy) | [Space and Time](https://open.spotify.com/album/1Ygk2W8N1jbTdkcSy8UDgP) | 2:36 | 2024-06-17 | 2024-07-12 |
 | [Spangled](https://open.spotify.com/track/0XM5F4U2CfjYn9iv0Qra7Q) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Mountain Language](https://open.spotify.com/album/7511ZMwlaJlDZspKq6latL) | 4:43 | 2025-03-02 |  |
@@ -457,6 +460,7 @@
 | [Tattler](https://open.spotify.com/track/0Z8PnlfoTklzYEvFEsWlEc) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paradise and Lunch](https://open.spotify.com/album/0i7EzDfNC1tfBRpbKkYbrt) | 4:19 | 2024-07-12 | 2024-09-08 |
 | [Tbtf](https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Spirit If...](https://open.spotify.com/album/0MtuWHjHXAEwWimsMuEtZf) | 3:51 | 2024-06-17 | 2024-07-12 |
 | [Tea Or Coffee](https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 2:11 | 2024-05-29 | 2024-06-06 |
+| [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-15 |  |
 | [The "Sweetest Girl"](https://open.spotify.com/track/2vHXzgaYSP0LNIOZTFx2FA) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 5:07 | 2025-01-14 | 2025-03-02 |
 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 | 2024-03-25 | 2024-04-25 |
 | [The Beauty of the Duty](https://open.spotify.com/track/0G7ee8kSG4zjvxLF0BF6eU) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Un\-American Activities](https://open.spotify.com/album/6BWJZfps9TMudDT2CL0UhI) | 2:40 | 2024-07-27 | 2024-09-08 |
@@ -514,6 +518,7 @@
 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 | 2025-02-16 | 2025-03-02 |
 | [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 | 2024-06-03 | 2024-07-12 |
 | [What About Me](https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk) | [The Exceptional Three](https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ) | [Eccentric Soul: The Way Out Label](https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj) | 3:00 | 2024-09-18 | 2024-11-14 |
+| [What We Had](https://open.spotify.com/track/77bNzHFSySgW4GgkYaJs8x) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Woodland](https://open.spotify.com/album/7zZI8ki72x4CYVJ1H2JgUA) | 3:58 | 2025-04-15 |  |
 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 | 2024-07-26 | 2024-09-08 |
 | [Where's Bill Grundy Now?](https://open.spotify.com/track/5BuwHy2cxsCEZWrqogTuFr) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [Yes Darling, But Is It Art](https://open.spotify.com/album/4Eoo1HxRn7hPV6BDSNoA9e) | 2:16 | 2024-01-22 | 2024-03-10 |
 | [Whirlweek](https://open.spotify.com/track/6O7wJ5qyIeiBwCzbepuYnK) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [The Spectrum Between](https://open.spotify.com/album/5WhrK9nlsdcle9fGCLvE3I) | 4:35 | 2024-08-10 | 2024-09-08 |

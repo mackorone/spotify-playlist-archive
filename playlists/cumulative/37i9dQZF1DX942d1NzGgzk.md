@@ -4,7 +4,7 @@
 
 > The latest of R&B in the UK\. Cover: Leah Music
 
-383 songs - 20 hr 0 min
+384 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 | 2025-04-04 |  |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-18 | 2024-08-02 |
 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 | 2022-07-17 | 2023-05-15 |
-| [PRETEND](https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu) | [Luke Champion](https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ), [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [PRETEND](https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN) | 3:12 | 2025-03-11 |  |
+| [PRETEND](https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu) | [Luke Champion](https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ), [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [PRETEND](https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN) | 3:12 | 2025-03-11 | 2025-04-16 |
 | [Problem with Authority](https://open.spotify.com/track/34ZpDDbEdAuBCg73CuUswf) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Problem with Authority](https://open.spotify.com/album/595Hx46iAuEmoA95uPPgee) | 2:30 | 2024-11-08 | 2024-12-06 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2023-07-21 | 2024-09-13 |
 | [PROUD OF YOU](https://open.spotify.com/track/7n3CKABtbleV5KiTOh0QXN) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [PROUD OF YOU](https://open.spotify.com/album/78syZOIQs6EZ1fvjpfnhV0) | 3:35 | 2023-09-14 | 2023-09-23 |
@@ -373,6 +373,7 @@
 | [Wet](https://open.spotify.com/track/4n81q2eze3OCygCd1Cg2io) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [RED EP](https://open.spotify.com/album/4Bp0q40RSxvjTfg8rkxl8J) | 2:46 | 2023-11-03 | 2023-11-18 |
 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 | 2024-01-26 | 2024-02-17 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-07-17 | 2023-03-20 |
+| [When In Rome](https://open.spotify.com/track/6gMQzn0SHgN2TKDwkJWShl) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [When In Rome](https://open.spotify.com/album/7MRkwU9BQrDoHYCLmbckKh) | 3:08 | 2025-04-04 |  |
 | [When the Rain Comes](https://open.spotify.com/track/0mw1bEX0GYt1txWBjwGmRJ) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [When the Rain Comes](https://open.spotify.com/album/2mPSmGrWTnWuND6i6CwgWE) | 3:19 | 2023-09-14 | 2023-11-18 |
 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 | 2022-07-17 | 2023-05-15 |
 | [Where Have You Been All My Life?](https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Where Have You Been All My Life?](https://open.spotify.com/album/5MaD8ctpy7eAo56up2zF20) | 3:03 | 2024-10-03 | 2025-04-12 |

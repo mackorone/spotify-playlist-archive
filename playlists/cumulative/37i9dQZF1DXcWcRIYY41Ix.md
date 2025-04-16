@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: GUADA.
 
-801 songs - 1 day 23 hr 42 min
+802 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,7 @@
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 | 2024-08-03 |
 | [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 |  |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 | 2023-12-23 |
-| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 |  |
+| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 | 2025-04-16 |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |
@@ -657,6 +657,7 @@
 | [Si llega el fin](https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Si llega el fin](https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck) | 2:18 | 2024-01-05 | 2024-01-27 |
 | [Si me atreviera](https://open.spotify.com/track/4dhwyB7sgHgzGin75SnKgV) | [Delgado](https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK), [Mäbu](https://open.spotify.com/artist/0HtE1nxmFwJqqE6o3dA591) | [Si me atreviera](https://open.spotify.com/album/42SAr1aoBj4eUlqNaANVYK) | 3:35 | 2024-10-04 | 2024-10-26 |
 | [Si te vas](https://open.spotify.com/track/7z2lbDCKutqY3TT5Oof84E) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Si te vas](https://open.spotify.com/album/6208RozH4lBLu94n6ih083) | 3:03 | 2024-01-12 | 2024-01-20 |
+| [Si yo soy Chavela, tú eres Frida \(En Vivo\)](https://open.spotify.com/track/1A0HKpa6H3n2fRDWIghSUe) | [Xerach](https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW), [La Mare](https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja), [Roba Estesa](https://open.spotify.com/artist/3VzGOFrX7MDtLe2Wfndgjt), [Violeta Veinte](https://open.spotify.com/artist/4qBn3IdXMr2cQDIYD5lgMi), [Javi Rubio](https://open.spotify.com/artist/2kNnCJ74SN4ZncePrOR7WU), [Juanmi Martínez](https://open.spotify.com/artist/5h7NvrDzovbDrq07p1GnFq) | [Si yo soy Chavela, tú eres Frida \(En Vivo\)](https://open.spotify.com/album/79eB5mKq2qnyotNHaVqj6v) | 3:54 | 2025-04-10 |  |
 | [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 | 2025-03-13 |
 | [Siempre sale el sol en Barcelona \- Live Session Chez Xefo Art Gallery](https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8) | [Luisa y el Mar](https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC) | [Siempre sale el sol en Barcelona \(Live Session Chez Xefo Art Gallery\)](https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm) | 2:55 | 2023-06-23 |  |
 | [Silencio](https://open.spotify.com/track/2gjB9GgSZFlj0YwItEACpQ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:27 | 2021-12-24 | 2022-05-13 |

@@ -2408,6 +2408,28 @@
     {
       "album": {
         "name": "Echoes",
+        "url": "https://open.spotify.com/album/1nm30Bq5LbhXGUiTDoGSj8"
+      },
+      "artists": [
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229345,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/5iQf9pkvWsCr04zimLkusr"
+    },
+    {
+      "album": {
+        "name": "Echoes",
         "url": "https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt"
       },
       "artists": [
@@ -4863,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520677,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH"
+    },
+    {
+      "album": {
         "name": "8 Hours, Still No Rain EP",
         "url": "https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0"
       },
@@ -6426,7 +6466,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 523278,
       "name": "Nations",
       "url": "https://open.spotify.com/track/2kXI85SNOUCRgF1jhivhWg"
@@ -8744,7 +8784,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 342328,
       "name": "SF to C\u00f3rdoba",
       "url": "https://open.spotify.com/track/4WCm0HBa2LO3hO7ycV7WeI"

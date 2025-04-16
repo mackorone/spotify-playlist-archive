@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,069 likes - 74 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,133 likes - 74 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 51 | [Eat Sleep Work Die!!! Repeat](https://open.spotify.com/track/7BLA7P29Zwv9mZndG6KcAg) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [How Much a Heart Can Take Before It Breaks](https://open.spotify.com/album/47i2T4XU4iyXiEQHEUhbg7) | 3:07 |
 | 52 | [MOLDY MEMORIES \(peer pressure turned me into a diamond\)](https://open.spotify.com/track/3Yt28EcfVWwACe63eZNM5a) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [MOLDY MEMORIES \(peer pressure turned me into a diamond\)](https://open.spotify.com/album/3OXerCYn6PmV9YABuhzcHh) | 2:30 |
 | 53 | [Miracle Cure](https://open.spotify.com/track/4HOLiNS1zFkQwpD2yOedva) | [Eskimo Joe](https://open.spotify.com/artist/3yW6jTzGjHUUkLvLkjLOVn) | [Miracle Cure](https://open.spotify.com/album/5RwMhK86S8IDvIwWKX7y8y) | 3:00 |
-| 54 | [Worth My Time](https://open.spotify.com/track/0JAuDzXHjs0hn960PRWBv2) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [Worth My Time](https://open.spotify.com/album/5J3JGZWgGqMAtz561EGrdh) | 3:01 |
+| 54 | [Worth My Time](https://open.spotify.com/track/0JAuDzXHjs0hn960PRWBv2) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [Worth My Time](https://open.spotify.com/album/5J3JGZWgGqMAtz561EGrdh) | 3:07 |
 | 55 | [Push and Take](https://open.spotify.com/track/2BUMBRqGewndA3ppitmkZV) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Porch Light](https://open.spotify.com/album/1HR3RFn4uDPa40gmI4rKJP) | 3:19 |
 | 56 | [Go Blind](https://open.spotify.com/track/0MYvwj9WNCwcrHJnV9BMbh) | [Motherfolk](https://open.spotify.com/artist/70fUpxdAr6t0LJw3xJmMhm) | [Go Blind](https://open.spotify.com/album/5Q5AcEFjopJ1zRCe2olm0I) | 3:05 |
 | 57 | [Total Reset](https://open.spotify.com/track/2z6yUmLiQ287cbX2A2PkBY) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Total Reset](https://open.spotify.com/album/4uXetMXFfadXpV0Okl3yqo) | 4:38 |

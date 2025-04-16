@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 562961,
+  "num_followers": 563009,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAAX8RH6XC+CJerQAgBol1P7",
+  "snapshot_id": "Z/xQAAAAAAASRdzEj+yXYleRhgnZrG2T",
   "tracks": [
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vicio y la Fama",
-        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 229610,
-      "name": "El Catr\u00edn (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liga Malandra 2",
         "url": "https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 240000,
       "name": "Liga Malandra 2",
       "url": "https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vicio y la Fama",
+        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 229610,
+      "name": "El Catr\u00edn (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
     },
     {
       "added_at": null,
@@ -1147,6 +1147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Bandera",
+        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 160006,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvivientes",
         "url": "https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 180062,
       "name": "Silencio En El Callejon",
       "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infiel",
-        "url": "https://open.spotify.com/album/5Mcv3YAgglaokdbwvC1PsS"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/6Xe4tOzSRB49ZRqQBOANpY"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

@@ -4,12 +4,13 @@
 
 > Pop'un sevilen isimleri\. Kapak: M Lisa
 
-248 songs - 12 hr 23 min
+249 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2017](https://open.spotify.com/track/4QccVW3CYYLzvTY0yCwcrZ) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [2017](https://open.spotify.com/album/7bHm4NBxAUgM3XpfXmB7fv) | 2:07 | 2024-07-18 | 2025-03-30 |
 | [ABART](https://open.spotify.com/track/1aA9W1c1Qg0lSOyqtZ1x9T) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [ABART](https://open.spotify.com/album/2SpENtaNk0UcS2MGrENQYP) | 2:38 | 2024-08-22 | 2024-09-06 |
+| [Acelesi Yok](https://open.spotify.com/track/5MvyyXreTNkvTOviS3i2Ab) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Acelesi Yok](https://open.spotify.com/album/1iEjaFIF9CBZHxP7kvAjS3) | 2:46 | 2025-04-10 |  |
 | [Acının Seyir Defteri](https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y) | [Aşkın Nur Yengi](https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k) | [Acının Seyir Defteri](https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc) | 2:51 | 2024-11-21 | 2024-11-28 |
 | [Acıyla Kucaklaştım](https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX) | 3:19 | 2024-06-27 | 2025-01-26 |
 | [Adını Yazdım](https://open.spotify.com/track/3U2n2bDXv2X4eIxQ0Rqsbw) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Adını Yazdım](https://open.spotify.com/album/6A4vsUDLXGiDtqplTzSPon) | 2:29 | 2024-06-27 | 2024-10-02 |
@@ -178,7 +179,7 @@
 | [pişman...](https://open.spotify.com/track/1vHyuIpmhC2TWrQHWPNxBA) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [pişman...](https://open.spotify.com/album/1D8mP2XsFgTuFDsgXsyz0G) | 1:50 | 2025-03-06 | 2025-03-14 |
 | [Rakıya Meze Olalım](https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Rakıya Meze Olalım](https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K) | 2:09 | 2024-10-03 | 2025-01-16 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-27 | 2024-08-02 |
-| [Sahipsiz](https://open.spotify.com/track/0kxbEY08FagNJ6XSh1XHGo) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Sahipsiz](https://open.spotify.com/album/1NVLQP0ioRk7TnvZeYtp5p) | 2:59 | 2025-01-16 |  |
+| [Sahipsiz](https://open.spotify.com/track/0kxbEY08FagNJ6XSh1XHGo) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Sahipsiz](https://open.spotify.com/album/1NVLQP0ioRk7TnvZeYtp5p) | 2:59 | 2025-01-16 | 2025-04-16 |
 | [Sahte Sonbahar](https://open.spotify.com/track/1ACI7zmoUY34xcrKrYeypb) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:55 | 2024-08-08 |  |
 | [Salla](https://open.spotify.com/track/62Hh7prEpSyMMd8wNxsOQO) | [Kerimcan Durmaz](https://open.spotify.com/artist/6SuvCvIgTchPW2bcuXSKzM) | [Salla](https://open.spotify.com/album/3iKLt0m03n8zSm9Dkw3eY5) | 2:36 | 2024-06-27 | 2024-08-07 |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-06-27 |  |

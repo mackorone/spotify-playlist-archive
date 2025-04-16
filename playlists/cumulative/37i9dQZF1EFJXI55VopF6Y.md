@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-42 songs - 1 hr 50 min
+43 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Versions of Me](https://open.spotify.com/track/6SOCvo8NKJm5tfXqfBG0Uq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Versions of Me](https://open.spotify.com/album/701oucP6kZjma5iqb7cdX8) | 2:12 | 2025-02-02 |  |
 | [Waterfall](https://open.spotify.com/track/2aInc7CdIKt4AWlArGipGM) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Therapy](https://open.spotify.com/album/4Kst3KEL3qb5loPXVBQzqA) | 2:55 | 2025-03-02 |  |
 | [Waterfall](https://open.spotify.com/track/5XsNOHjFwJ3d0AYWLX69nr) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Waterfall](https://open.spotify.com/album/62QpeoF9Go7z0aG334JjcA) | 2:55 | 2024-03-22 | 2025-03-03 |
+| [Whatever](https://open.spotify.com/track/1tgFUm1rKdUFzqelAe3NE3) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:05 | 2025-04-15 |  |
 | [Your Move](https://open.spotify.com/track/6HNTfx84zrNwNWcxgLFfnn) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Your Move](https://open.spotify.com/album/2hWRXUEJ7Fj3K3Dj4BOSoS) | 3:07 | 2024-03-22 |  |
 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ZÉRO PAR MOIS](https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z) | 2:21 | 2024-12-11 | 2024-12-16 |
 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2vD8xEcrat0PirO5gAN5kZ) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:21 | 2024-12-15 |  |

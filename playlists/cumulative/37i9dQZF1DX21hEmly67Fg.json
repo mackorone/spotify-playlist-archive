@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 184885,
       "name": "Dancing Queen - Cover",
       "url": "https://open.spotify.com/track/5plSMEmctEOF81uHnGpqTI"
@@ -4427,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "That\u2019s So True",
+        "url": "https://open.spotify.com/album/5laSIm0D87Jy7SLzQSMUrB"
+      },
+      "artists": [
+        {
+          "name": "Ned Regan",
+          "url": "https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142951,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/71bMHnASbs51XgcvYZc2eW"
+    },
+    {
+      "album": {
         "name": "The Rose",
         "url": "https://open.spotify.com/album/3S58P2blfAWXqcRtxzkHm7"
       },
@@ -4654,7 +4672,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 208668,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0Jbj3CkvGt7XYS5H3Whir6"

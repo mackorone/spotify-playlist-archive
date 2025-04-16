@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-608 songs - 1 day 5 hr 35 min
+609 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Devolve \- Ao Vivo](https://open.spotify.com/track/3s6MVfcrhWGNOzatY2SkBM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Paraíso Particular Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4y4bh5j6I004Zly5yNV1ii) | 2:42 | 2024-03-26 | 2024-04-24 |
 | [Devolve \- Ao Vivo](https://open.spotify.com/track/7lqWSWBgfMmg8TWG4Mm9Qo) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Paraíso Particular \(Ao Vivo\)](https://open.spotify.com/album/2LweFzHQTdOl0LSqwOS5uM) | 2:42 | 2024-04-23 |  |
 | [Devolve Meu Love \- Ao Vivo No Rio De Janeiro / 2019](https://open.spotify.com/track/6958nWHJrz74MZEGEjPMpR) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [Devolve Meu Love \(Ao Vivo No Rio De Janeiro / 2019\)](https://open.spotify.com/album/24DAshBWB5vV61I3B4kidr) | 3:16 | 2023-12-30 |  |
-| [Dez pras Seis \- Ao Vivo](https://open.spotify.com/track/4IKGqb0XEN0ifjrUzfytQm) | [Estação Fandangueira](https://open.spotify.com/artist/2iz8WnrjWssFfOcXejDGxB) | [A Nossa História \(Ao Vivo\)](https://open.spotify.com/album/63gLNsz1IAk7PekH7swiO0) | 3:38 | 2023-12-30 |  |
+| [Dez pras Seis \- Ao Vivo](https://open.spotify.com/track/4IKGqb0XEN0ifjrUzfytQm) | [Estação Fandangueira](https://open.spotify.com/artist/2iz8WnrjWssFfOcXejDGxB) | [A Nossa História \(Ao Vivo\)](https://open.spotify.com/album/63gLNsz1IAk7PekH7swiO0) | 3:38 | 2023-12-30 | 2025-04-16 |
+| [Dez pras Seis \- Ao Vivo](https://open.spotify.com/track/4nUag8gjUau2SqrFnhi96J) | [Estação Fandangueira](https://open.spotify.com/artist/2iz8WnrjWssFfOcXejDGxB) | [A Nossa História \(Ao Vivo\)](https://open.spotify.com/album/2c8KPO22YNZMVABxiqCYxt) | 3:38 | 2025-04-15 |  |
 | [Diferentona](https://open.spotify.com/track/7gDIspmr2n9W5k95BFItAU) | [Hugo Matta](https://open.spotify.com/artist/6Olch7A7o6ihZVv5BgGJGj) | [Trenzão](https://open.spotify.com/album/0nsEcXARPqLOHNYFY3oyx7) | 2:29 | 2023-12-30 |  |
 | [Din Terin Bebin](https://open.spotify.com/track/3N9U5X4JTbw2MYTr4YsFv3) | [Christian & Cristiano](https://open.spotify.com/artist/5nt1VlQnyebXS9vSYClBPb) | [100 Outonos](https://open.spotify.com/album/3C9oAfAlRWzHpNsRB2TJeA) | 2:39 | 2023-12-30 |  |
 | [Dispiroca](https://open.spotify.com/track/0Qf5snDLtiigbiEkjnJa5L) | [Luana Marques](https://open.spotify.com/artist/386JRU9BMh5rhCvr9BbgtX), [Juliano](https://open.spotify.com/artist/61NXK69iKkrZrGJKrJycB5) | [Na Estrada](https://open.spotify.com/album/7BLvZfehX4ROZKgrK56wS6) | 2:55 | 2023-12-30 |  |

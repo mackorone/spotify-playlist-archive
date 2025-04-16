@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Litku Klemetti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,573 likes - 92 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,576 likes - 92 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lippissukupolven joutsenlaulu](https://open.spotify.com/track/6dGNBHryvWMOh8B9ElZdkD) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Lippissukupolven joutsenlaulu](https://open.spotify.com/album/1eUKEKs1dn1OE5kYbZPLrM) | 4:27 |
-| 2 | [Aaveita](https://open.spotify.com/track/1cRfhK4CXqFCqbjSYs6lIE) | [niiles](https://open.spotify.com/artist/7K95f5w10whY0tAjKZjuiz) | [Aaveita](https://open.spotify.com/album/5D11gATpE4PgPRDq4AGRSN) | 3:34 |
-| 3 | [Kevätjuhla](https://open.spotify.com/track/4WIdjjqpJV09zBLu8mmfvR) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Kevätjuhla](https://open.spotify.com/album/2t69MAz2OvViQYBvP8NbNR) | 3:10 |
-| 4 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
-| 5 | [Ei noi muut](https://open.spotify.com/track/17FyLAcIYRhqY4doPeABpO) | [Vimma](https://open.spotify.com/artist/26vvDMY0SNr27F2CiWTxLa) | [Ei noi muut](https://open.spotify.com/album/65whftA1Vu7YLxiwYkDgWc) | 3:09 |
-| 6 | [Dress to Kill](https://open.spotify.com/track/5pIVgpPHmPgERktrcUlg9O) | [The Moontwins](https://open.spotify.com/artist/5MGAGvXzmpPKmLXqliwi6s), [PK Keränen](https://open.spotify.com/artist/2bC9jxae44eoG0o0WoFcl5), [Leija Lautamaja](https://open.spotify.com/artist/36dcqkWwVi2Qm901dedz8V) | [Night Times](https://open.spotify.com/album/15Kojr1mGuTYMcQX9dSJZI) | 3:35 |
-| 7 | [Aika on pysähtynyt tähän](https://open.spotify.com/track/1S7JeCvO6He9FL0fxMJEKa) | [Satu Lii](https://open.spotify.com/artist/7bKUfDCmNQgrjtmC9z0yRy) | [Pelastetaan toisemme](https://open.spotify.com/album/7sw3A13e35Q86qTMGxlqsn) | 4:11 |
-| 8 | [Tuolileikki](https://open.spotify.com/track/6qWZGPbYtmjAabpIUyQFpW) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Tuolileikki](https://open.spotify.com/album/5TwY7Bs9WqD0LgNFOKJnOj) | 3:17 |
-| 9 | [Pitäis ja pitäis](https://open.spotify.com/track/1O3yExEGiAPd9HbHh57pY0) | [Nössö Nova](https://open.spotify.com/artist/1GYWQRP9SkDjt9a3CMRbsc) | [Pitäis ja pitäis](https://open.spotify.com/album/0ucgaIg0oipByUyiQRfBPI) | 3:39 |
-| 10 | [Yksipuolista](https://open.spotify.com/track/7JfG60Khxnj8rXm2BC3Tkh) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Lopulta](https://open.spotify.com/album/5rTOKC2bJOlIwpsWxu5mmV) | 3:04 |
-| 11 | [The Call](https://open.spotify.com/track/5143CewK5u1C3pdlF8vBLb) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Lifestyles](https://open.spotify.com/album/0El65s7m33i3Z35eQF4OmM) | 4:20 |
-| 12 | [Annatko pusun](https://open.spotify.com/track/3vpbJ7A9CVMPWRrivcly0o) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Annatko pusun](https://open.spotify.com/album/0q3JtPqdVrG8iLmoTK4QW4) | 2:46 |
-| 13 | [Four Seasons](https://open.spotify.com/track/3iUCt4xatiVuBMOpkS5oR2) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [After Dark Hour](https://open.spotify.com/album/3no7lJncgCwPqPO4fdwUvb) | 3:54 |
-| 14 | [Raudasta tehty](https://open.spotify.com/track/2I03l9iatZYdc9UK1sEGbj) | [Runo](https://open.spotify.com/artist/23MrcUEMEaLznNXpyc9EGz) | [Raudasta tehty](https://open.spotify.com/album/5BK9zU3AtVsRnreWj4JOj7) | 2:47 |
-| 15 | [Puu](https://open.spotify.com/track/5NEVJq1g0uX688eGdI3Q6j) | [Nohanna](https://open.spotify.com/artist/7ETcq70dPNljIpPubYX85X) | [Puu](https://open.spotify.com/album/0bfiO5uzfvgmHHds0q9tUB) | 2:45 |
+| 2 | [Kevätjuhla](https://open.spotify.com/track/4WIdjjqpJV09zBLu8mmfvR) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Kevätjuhla](https://open.spotify.com/album/2t69MAz2OvViQYBvP8NbNR) | 3:10 |
+| 3 | [Puu](https://open.spotify.com/track/5NEVJq1g0uX688eGdI3Q6j) | [Nohanna](https://open.spotify.com/artist/7ETcq70dPNljIpPubYX85X) | [Puu](https://open.spotify.com/album/0bfiO5uzfvgmHHds0q9tUB) | 2:45 |
+| 4 | [Aaveita](https://open.spotify.com/track/1cRfhK4CXqFCqbjSYs6lIE) | [niiles](https://open.spotify.com/artist/7K95f5w10whY0tAjKZjuiz) | [Aaveita](https://open.spotify.com/album/5D11gATpE4PgPRDq4AGRSN) | 3:34 |
+| 5 | [Tuolileikki](https://open.spotify.com/track/6qWZGPbYtmjAabpIUyQFpW) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Tuolileikki](https://open.spotify.com/album/5TwY7Bs9WqD0LgNFOKJnOj) | 3:17 |
+| 6 | [Four Seasons](https://open.spotify.com/track/3iUCt4xatiVuBMOpkS5oR2) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [After Dark Hour](https://open.spotify.com/album/3no7lJncgCwPqPO4fdwUvb) | 3:54 |
+| 7 | [Pitäis ja pitäis](https://open.spotify.com/track/1O3yExEGiAPd9HbHh57pY0) | [Nössö Nova](https://open.spotify.com/artist/1GYWQRP9SkDjt9a3CMRbsc) | [Pitäis ja pitäis](https://open.spotify.com/album/0ucgaIg0oipByUyiQRfBPI) | 3:39 |
+| 8 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
+| 9 | [Ei noi muut](https://open.spotify.com/track/17FyLAcIYRhqY4doPeABpO) | [Vimma](https://open.spotify.com/artist/26vvDMY0SNr27F2CiWTxLa) | [Ei noi muut](https://open.spotify.com/album/65whftA1Vu7YLxiwYkDgWc) | 3:09 |
+| 10 | [Dress to Kill](https://open.spotify.com/track/5pIVgpPHmPgERktrcUlg9O) | [The Moontwins](https://open.spotify.com/artist/5MGAGvXzmpPKmLXqliwi6s), [PK Keränen](https://open.spotify.com/artist/2bC9jxae44eoG0o0WoFcl5), [Leija Lautamaja](https://open.spotify.com/artist/36dcqkWwVi2Qm901dedz8V) | [Night Times](https://open.spotify.com/album/15Kojr1mGuTYMcQX9dSJZI) | 3:35 |
+| 11 | [Aika on pysähtynyt tähän](https://open.spotify.com/track/1S7JeCvO6He9FL0fxMJEKa) | [Satu Lii](https://open.spotify.com/artist/7bKUfDCmNQgrjtmC9z0yRy) | [Pelastetaan toisemme](https://open.spotify.com/album/7sw3A13e35Q86qTMGxlqsn) | 4:11 |
+| 12 | [Yksipuolista](https://open.spotify.com/track/7JfG60Khxnj8rXm2BC3Tkh) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Lopulta](https://open.spotify.com/album/5rTOKC2bJOlIwpsWxu5mmV) | 3:04 |
+| 13 | [The Call](https://open.spotify.com/track/5143CewK5u1C3pdlF8vBLb) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Lifestyles](https://open.spotify.com/album/0El65s7m33i3Z35eQF4OmM) | 4:20 |
+| 14 | [Annatko pusun](https://open.spotify.com/track/3vpbJ7A9CVMPWRrivcly0o) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Annatko pusun](https://open.spotify.com/album/0q3JtPqdVrG8iLmoTK4QW4) | 2:46 |
+| 15 | [Raudasta tehty](https://open.spotify.com/track/2I03l9iatZYdc9UK1sEGbj) | [Runo](https://open.spotify.com/artist/23MrcUEMEaLznNXpyc9EGz) | [Raudasta tehty](https://open.spotify.com/album/5BK9zU3AtVsRnreWj4JOj7) | 2:47 |
 | 16 | [En ryyppää enää](https://open.spotify.com/track/3JREusH0wEh2hYy1tBn4G6) | [Joni Ekman & Koira](https://open.spotify.com/artist/1QbvirHCOsrRM5q09l2zOg) | [En ryyppää enää](https://open.spotify.com/album/0Jq9CdzD3qERc8ydRelOIH) | 4:06 |
 | 17 | [Regnar igen](https://open.spotify.com/track/67pT3pIw9vwbIrXO7jsWm1) | [Månskensbonden](https://open.spotify.com/artist/6Ro0ka28xsN0M4qBrTr6Ac) | [Svindel & lågtryck](https://open.spotify.com/album/2ub4tqSEd31a84rsAWLaJb) | 4:18 |
 | 18 | [This Body](https://open.spotify.com/track/5JXKoDEz4VhPob9mU8DE9q) | [Cecil Opia](https://open.spotify.com/artist/6gDK3tImweSZYhav1QdaYn) | [This Body](https://open.spotify.com/album/0bkGGKVFEuxXur3DPKIpeF) | 3:29 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 91 | [100 %](https://open.spotify.com/track/7erSQRUb0SnOp6l0FY4uhn) | [Saga Mast](https://open.spotify.com/artist/7J1Hi9qyqxFOxokehI8jx1) | [100%](https://open.spotify.com/album/49FBb9pefcZS8hz1HLumU6) | 2:56 |
 | 92 | [Post\-it\-lappuja](https://open.spotify.com/track/3anTfZ4h525zOB2gmfwrjV) | [Veera Vento](https://open.spotify.com/artist/7bEa8DfZHDOFGi9KeL09y5) | [Post\-it\-lappuja](https://open.spotify.com/album/7BJbW6EytWaNZVW1SM7E1i) | 3:15 |
 
-Snapshot ID: `Z/gxkAAAAABrmEbfcKahpnd31fBg2h2x`
+Snapshot ID: `Z/5BFAAAAADrZw6xSXMRjX3+AJBGgHn8`

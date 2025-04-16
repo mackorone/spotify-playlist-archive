@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 23788,
+  "num_followers": 23790,
   "original_name": "THE IDOLM@STER SideM",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 16",
+        "url": "https://open.spotify.com/album/7DfG2yYrf0EFW3sNkuNzpr"
+      },
+      "artists": [
+        {
+          "name": "W",
+          "url": "https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Watchword",
+      "url": "https://open.spotify.com/track/4xVq3DAmhrwyPHVMXLVta4"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 01",
         "url": "https://open.spotify.com/album/5nG3eMCVdGwe9jd8UzGW4v"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 278920,
       "name": "PERMAFROST",
       "url": "https://open.spotify.com/track/66FhJlwAJbbXr9E31F76kP"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 16",
-        "url": "https://open.spotify.com/album/7DfG2yYrf0EFW3sNkuNzpr"
-      },
-      "artists": [
-        {
-          "name": "W",
-          "url": "https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Watchword",
-      "url": "https://open.spotify.com/track/4xVq3DAmhrwyPHVMXLVta4"
     },
     {
       "added_at": "2025-01-14 15:56:57",

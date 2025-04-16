@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Happy-fi Compilaci\u00f3n Vol. 3",
+        "url": "https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es"
+      },
+      "artists": [
+        {
+          "name": "Quiero Club",
+          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173840,
+      "name": "No Coke",
+      "url": "https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU"
+    },
+    {
+      "album": {
         "name": "No Conf\u00edes en M\u00ed",
         "url": "https://open.spotify.com/album/5gGuyWPDktZv2xu9R0vGIS"
       },
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 345199,
       "name": "Palapa",
       "url": "https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW"

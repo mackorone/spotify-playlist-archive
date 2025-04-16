@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 35 | [You \(feat\. Travis Barker\)](https://open.spotify.com/track/6r8yEkmfxS4dJEmkCB2eMn) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:51 |
 | 36 | [Remember Who I Was](https://open.spotify.com/track/0N5iX9O78Wsg0bzaU9qHIL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 2:57 |
 | 37 | [Is This Love?](https://open.spotify.com/track/7oJljyEdQzyTDzSM7b7cyG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:07 |
-| 38 | [Safe Inside \- Acoustic](https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Safe Inside \(Acoustic\)](https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0) | 3:52 |
-| 39 | [Blindside](https://open.spotify.com/track/423Lsgm49lKroRCCYcOsG5) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:32 |
+| 38 | [Blindside](https://open.spotify.com/track/423Lsgm49lKroRCCYcOsG5) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:32 |
+| 39 | [Safe Inside \- Acoustic](https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Safe Inside \(Acoustic\)](https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0) | 3:52 |
 | 40 | [Sober](https://open.spotify.com/track/6UzmmekCrcYrumwAjztVBK) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:06 |
 | 41 | [Get Down](https://open.spotify.com/track/0XhJFBF31y90BAVf05XzqI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:46 |
 | 42 | [Maybe](https://open.spotify.com/track/3bMEc0K6zJNhTQeoyxox8j) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:39 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 96 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
 | 97 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `AbuyVAAAAADLiL9ojgH8Q2O/qVGTd31H`
+Snapshot ID: `Abu39AAAAAC1hU8Er0yxnurbuwPUcN/o`

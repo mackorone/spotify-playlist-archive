@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 225994,
       "name": "Alto Troyanaje",
       "url": "https://open.spotify.com/track/50qm2o9IDiRpn62f3NMzw8"
@@ -5746,7 +5746,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 172059,
       "name": "El Mayor De Los Ranas",
       "url": "https://open.spotify.com/track/6v5qt5KPQHJt5ckWuhDGtM"
@@ -15437,6 +15437,24 @@
     },
     {
       "album": {
+        "name": "Por Un Nuevo Ecuador",
+        "url": "https://open.spotify.com/album/3yj4QhjRACHy37NWVrKVbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Noboa Azin",
+          "url": "https://open.spotify.com/artist/5l9tDfbO33if9Rl2Ln3spD"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68057,
+      "name": "Por Un Nuevo Ecuador",
+      "url": "https://open.spotify.com/track/0Mg993DekmLkmimGdQ5b6B"
+    },
+    {
+      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -19602,7 +19620,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"

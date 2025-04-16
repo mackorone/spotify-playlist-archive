@@ -4,7 +4,7 @@
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-118 songs - 5 hr 42 min
+119 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Anoche Me Enamore](https://open.spotify.com/track/43e0OdJ7OCtdhmMKU6ERM4) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:42 | 2022-06-01 |  |
 | [Bailala Baila](https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:20 | 2022-06-01 |  |
 | [Bonito y Sabroso](https://open.spotify.com/track/7z4JT7Xxo7jZ4LRCHZptGV) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:53 | 2022-06-27 | 2022-08-25 |
+| [Busca Tu Hueco](https://open.spotify.com/track/7LS20bI2PZMUiuJlj5LZSp) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:56 | 2025-04-16 |  |
 | [Cabaretera](https://open.spotify.com/track/1R4lzOCmdGNt33prdKwZof) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:36 | 2024-10-28 | 2024-10-30 |
 | [Camino De Aguascalientes](https://open.spotify.com/track/1308SaRnXe3eiYEXClt7TL) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Camino De Aguascalientes](https://open.spotify.com/album/6UikJN7iJDdPecf74oGwEP) | 3:01 | 2025-02-17 | 2025-04-10 |
 | [Camino de Guanajuato Ay Jalisco](https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:27 | 2022-06-01 |  |
@@ -66,7 +67,7 @@
 | [La Lección](https://open.spotify.com/track/1dpnYgl9aEzpaGL4uqm41B) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 3:00 | 2024-04-08 |  |
 | [La Mafafa](https://open.spotify.com/track/3Kisqq9Mr4DzHmffQsiY4Q) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:31 | 2022-06-01 | 2024-04-07 |
 | [La Mafafa](https://open.spotify.com/track/4hR7rAesIXv5yv1XJVkija) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 2:31 | 2024-04-07 |  |
-| [La Misma](https://open.spotify.com/track/0Mvx3TJjdU40Y0h08kwfKB) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:56 | 2024-01-06 |  |
+| [La Misma](https://open.spotify.com/track/0Mvx3TJjdU40Y0h08kwfKB) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:56 | 2024-01-06 | 2025-04-16 |
 | [La Morenita Corrido a Zacatecas](https://open.spotify.com/track/18YWFM0IEaaKNQY9r7LGIh) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Morenita Corrido a Zacatecas](https://open.spotify.com/album/52ZYbF5pWUFFISLm0OQOE6) | 3:54 | 2025-01-09 | 2025-02-17 |
 | [La Muerta](https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:35 | 2022-06-01 |  |
 | [La Noche Que Chicago Se Murió](https://open.spotify.com/track/2EqtWXQ6kX9VsjB91Sf944) | [Los Estrafalarios](https://open.spotify.com/artist/59h5QRZ8x3gk5oF8dr2UJf), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Chicago Se Murió](https://open.spotify.com/album/01Mr1tBBemO3LOKu8BJOHK) | 2:42 | 2023-05-02 | 2023-05-04 |

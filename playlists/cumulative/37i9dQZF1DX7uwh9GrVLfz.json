@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. Cover: ANORAK!",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. Cover: \u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 164313,
       "name": "HAPPY BIRTHDAY",
       "url": "https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth"
@@ -5700,7 +5700,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 222093,
       "name": "MUZIC",
       "url": "https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS"
@@ -5758,6 +5758,24 @@
       "duration_ms": 191866,
       "name": "MY FIRST KISS",
       "url": "https://open.spotify.com/track/5KwK5Ojq91gC2gBEWuopOS"
+    },
+    {
+      "album": {
+        "name": "My girlfriend is PIZZA OF DEATH",
+        "url": "https://open.spotify.com/album/158mQFq64E1JBkbiU1tTyp"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71325,
+      "name": "My girlfriend is PIZZA OF DEATH",
+      "url": "https://open.spotify.com/track/0odBL83MoM37MynrPRbSgS"
     },
     {
       "album": {
@@ -12076,7 +12094,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 236839,
       "name": "\u30bf\u30a4\u30e0\u30bb\u30fc\u30eb\u9003\u3057\u3066\u304f\u308c - 2024 ver.",
       "url": "https://open.spotify.com/track/4LN4Rw0oulmSrl8F62mtcU"

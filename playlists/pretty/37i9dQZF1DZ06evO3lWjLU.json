@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 279430,
+  "num_followers": 279622,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAAHcx/CAgRwEtqD31W3hT9v",
+  "snapshot_id": "Z/xQAAAAAAB/RAoFrsk1blb1MIWQCt1T",
   "tracks": [
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "4:22",
-      "url": "https://open.spotify.com/track/1TRnIxwWeJoE6MVimzjw2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fino",
         "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "4:22",
+      "url": "https://open.spotify.com/track/1TRnIxwWeJoE6MVimzjw2w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "venequia.",
         "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
       },
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 164889,
-      "name": "por siempre y para siempre",
-      "url": "https://open.spotify.com/track/4uCe7xCGCyOCHH0zeIK2Gy"
+      "duration_ms": 140930,
+      "name": "una ni\u00f1a de Venezuela",
+      "url": "https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 140930,
-      "name": "una ni\u00f1a de Venezuela",
-      "url": "https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX"
+      "duration_ms": 164889,
+      "name": "por siempre y para siempre",
+      "url": "https://open.spotify.com/track/4uCe7xCGCyOCHH0zeIK2Gy"
     },
     {
       "added_at": null,

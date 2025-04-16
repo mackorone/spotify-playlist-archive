@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain](/playlists/plain/2vpAyuy9HOTPjygPl63QuH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2vpAyuy9HOTPjygPl63QuH)
 
-### [SUBSHIFT SELECTS ](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
+### [Music In Motion](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 48 | [Keep Me Hangin' On](https://open.spotify.com/track/5gjwVIZt8P11NESUD1coEP) | [Sides of the Sun](https://open.spotify.com/artist/2DKXVfUseu9jhQ66Rt7Rb4) | [Keep Me Hangin' On](https://open.spotify.com/album/0jiom1UhgcZDZLb3QJrR2g) | 3:02 |
 | 49 | [Got The Funk](https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Capri](https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z) | [Got The Funk](https://open.spotify.com/album/7suz7uIzl0sWYEaGjU5g8R) | 3:04 |
 
-Snapshot ID: `AAAlTgKGGNK01q4XgNiqo3x6P0voUL05`
+Snapshot ID: `AAAlT2cJ6pHlMYm2vwxzFEHiCYBFCKdU`

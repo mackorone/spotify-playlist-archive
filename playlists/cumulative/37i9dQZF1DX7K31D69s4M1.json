@@ -13975,6 +13975,24 @@
     },
     {
       "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/7aaq74QOHzDUCpBwF4qW4g"
+      },
+      "artists": [
+        {
+          "name": "Thiago Hernan",
+          "url": "https://open.spotify.com/artist/2HbMVXQwDL2R3QfZIIMXfv"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143558,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/3v5zY0bFBSuulq3VP7Hc27"
+    },
+    {
+      "album": {
         "name": "Lavandula",
         "url": "https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB"
       },

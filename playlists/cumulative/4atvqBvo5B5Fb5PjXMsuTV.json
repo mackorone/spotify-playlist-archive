@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Apr 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Apr 22:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -9589,6 +9589,32 @@
     },
     {
       "album": {
+        "name": "BLOMSTERTID",
+        "url": "https://open.spotify.com/album/4BFBfSKMI1YkndFQFjiN48"
+      },
+      "artists": [
+        {
+          "name": "Dj Billybool",
+          "url": "https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155685,
+      "name": "BLOMSTERTID",
+      "url": "https://open.spotify.com/track/4zjT2VKgsYLd3sv1mIJzpI"
+    },
+    {
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/2oZGXpvqtUJKc3wA3VbDZW"
       },
@@ -12928,7 +12954,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 290110,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
@@ -18864,6 +18890,24 @@
       "duration_ms": 154482,
       "name": "Deadpool X Wolverine",
       "url": "https://open.spotify.com/track/7H716i2hNsNiSjNAHufMLn"
+    },
+    {
+      "album": {
+        "name": "Deadstick",
+        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213575,
+      "name": "Deadstick",
+      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
     },
     {
       "album": {
@@ -28186,7 +28230,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 119285,
       "name": "Free Mr. Banks",
       "url": "https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR"
@@ -34862,10 +34906,28 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 147450,
       "name": "Hoochie Coochie",
       "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
+    },
+    {
+      "album": {
+        "name": "Hood Asasin",
+        "url": "https://open.spotify.com/album/4Bmkad5MKt6AuRtLW0bvaC"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116062,
+      "name": "Hood Asasin",
+      "url": "https://open.spotify.com/track/1VJdahhl5EOjDFd5yWD9cV"
     },
     {
       "album": {

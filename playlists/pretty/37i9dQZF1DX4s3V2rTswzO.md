@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,861 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,910 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 35 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc), [Keigo Mukawa](https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF) | [Two Pianos 2](https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N) | 2:38 |
 | 36 | [Consolations, S\. 172: No\. 3, Lento placido](https://open.spotify.com/track/4ExtqIKNZLLmatRTVzlzFu) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth](https://open.spotify.com/album/5YuoyZkNZRLYISzFh7cS7e) | 5:12 |
 | 37 | [Nocturne II \- After Dawn](https://open.spotify.com/track/525ryQdhkG7si9Eyky3PGM) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Nocturne II \- After Dawn](https://open.spotify.com/album/5lYT3LFBYCqSpB2YqYyUoY) | 3:22 |
-| 38 | [Sonata for Cello and Piano No\. 4 in C Major, Op\. 102 No\. 1: I\. Andante](https://open.spotify.com/track/0EKPj41uhOc0r0UjkKbjsm) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Beethoven: Cello Sonatas Op.69 & 102; Variations](https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA) | 2:59 |
+| 38 | [Cello Sonata No\. 4 in C Major, Op\. 102 No\. 1: I\. Andante –](https://open.spotify.com/track/0EKPj41uhOc0r0UjkKbjsm) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Beethoven: Cello Sonatas Op.69 & 102; Variations](https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA) | 2:59 |
 | 39 | [Tutto è bellissimo](https://open.spotify.com/track/3digfKHbG7mDJjFmV0llNk) | [Alberto Giurioli](https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU) | [Tutto è bellissimo](https://open.spotify.com/album/1bh5nDJafBQavOeHBQM0GT) | 4:34 |
 | 40 | [Dvořák: 4 Romantic Pieces, Op\. 75, B\. 150: No\. 1, Allegro moderato](https://open.spotify.com/track/1A6YUwRiZoVY5lDGZ6JvK4) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Franck, Grieg, Dvorak: Sonatas for violin & piano](https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB) | 3:17 |
 | 41 | [The Lily \- Piano Version](https://open.spotify.com/track/7rcUjAbjRTbatpdYH5rEmx) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Deluxe\)](https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za) | 1:56 |

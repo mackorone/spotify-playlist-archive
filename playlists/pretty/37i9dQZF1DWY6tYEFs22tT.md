@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Drake, NAV, Jack Harlow,  Quavo and Doechii.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,112 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,154 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 32 | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 |
 | 33 | [Spinnin \(feat\. Nemzzz\) \- Segway Remix](https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Segway](https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak) | [SPINNIN \(Segway Remix\)](https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu) | 2:42 |
 | 34 | [Blanco](https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Blanco](https://open.spotify.com/album/7gO4N7Lhppp9QHwjnUA6Mb) | 3:10 |
-| 35 | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yé](https://open.spotify.com/artist/6kE7ZdPoVgmtcwcIgm9QFr) | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
+| 35 | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yé](https://open.spotify.com/artist/3BZbaVVOuBOsvV4eMLSEDN) | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
 | 36 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
 | 37 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 |
 | 38 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |

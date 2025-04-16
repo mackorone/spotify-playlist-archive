@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Cassia
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,023 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,048 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 23 | [Vanity](https://open.spotify.com/track/7MOF3cZ0q9xENXFEy3A1Qd) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Vanity](https://open.spotify.com/album/4FG39CzKjHjziNmhpBD2Hc) | 2:33 |
 | 24 | [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 |
 | 25 | [Sensible](https://open.spotify.com/track/4keeCzVyVRwOIUH1ZTQYeM) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Sensible](https://open.spotify.com/album/6TkUtCTrVEP61uXTKaoX4x) | 3:19 |
-| 26 | [Would I Be A Woman](https://open.spotify.com/track/7uwmt2YPuyFOcTAGDNEOo1) | [Marlena Käthe](https://open.spotify.com/artist/40sGCC2yxtOagLD7aewQJc), [Fama M'boup](https://open.spotify.com/artist/4E5q4mpzVM8AiPxJx0w2hX) | [Would I Be A Woman](https://open.spotify.com/album/5dUOevsymHIPMV2snFTNun) | 3:21 |
+| 26 | [Would I Be A Woman](https://open.spotify.com/track/7uwmt2YPuyFOcTAGDNEOo1) | [Marlena Käthe](https://open.spotify.com/artist/40sGCC2yxtOagLD7aewQJc), [Fama M'Boup](https://open.spotify.com/artist/4evTQ9PcRlZvvlK4TtW4HF) | [Would I Be A Woman](https://open.spotify.com/album/5dUOevsymHIPMV2snFTNun) | 3:21 |
 | 27 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 |
 | 28 | [the place i use to hide](https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my) | [Yum Yuck](https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE), [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod) | [the place i use to hide](https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z) | 3:20 |
 | 29 | [Heartbreak](https://open.spotify.com/track/3vSmp9ofxhYBS0CgHWMtg3) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Heartbreak](https://open.spotify.com/album/7oFy92JeQxGcDSDv26c5TF) | 3:29 |

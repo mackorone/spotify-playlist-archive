@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-81 songs - 2 hr 37 min
+82 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [broken dream](https://open.spotify.com/track/14qLjGDICy21a5xY9ED6bp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:27 | 2025-02-13 | 2025-02-27 |
 | [butterfly in paradise !!](https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [butterfly in paradise !!](https://open.spotify.com/album/5VBkb4aMbtz0duhjNhzLM6) | 1:44 | 2024-12-14 | 2025-04-04 |
 | [byte girlfriend](https://open.spotify.com/track/0Gsv7r7jP9nhMhnrgGqFF8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 1:12 | 2025-04-14 |  |
+| [celebrity](https://open.spotify.com/track/55PRekiHsbKlOZjtbJ3dek) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [celebrity](https://open.spotify.com/album/0MlRjWZIFdeWRTFoGkMWjU) | 1:20 | 2025-04-16 |  |
 | [chasing the stars, living the dream](https://open.spotify.com/track/0iOCZvQTXz2riKgUfDjUw8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:39 | 2025-02-02 | 2025-03-23 |
 | [COPE](https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [COPE](https://open.spotify.com/album/4LXcS5EqD83HVx62DUDiSY) | 1:49 | 2024-12-14 |  |
 | [crying in the club](https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crying in the club](https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS) | 2:03 | 2024-12-14 |  |
@@ -31,7 +32,7 @@
 | [deteriorating \- Remastered](https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [deteriorating \(Remastered\)](https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5) | 1:45 | 2024-12-14 |  |
 | [dissociated fantasy](https://open.spotify.com/track/3kUnMYg05ughCG68fgMDH1) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [dissociated fantasy](https://open.spotify.com/album/5C8AIOpAhAloLoxBfB0w2Y) | 1:52 | 2024-12-14 |  |
 | [double hue](https://open.spotify.com/track/2NwZEiDaTW90Eh4mlsUvPR) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:23 | 2025-01-31 | 2025-03-26 |
-| [escape room](https://open.spotify.com/track/0XuoqKqcGQF5jedK0bU9f9) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [escape room](https://open.spotify.com/album/1hZbJFXazCTM2503xoNkgM) | 1:48 | 2025-01-27 |  |
+| [escape room](https://open.spotify.com/track/0XuoqKqcGQF5jedK0bU9f9) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [escape room](https://open.spotify.com/album/1hZbJFXazCTM2503xoNkgM) | 1:48 | 2025-01-27 | 2025-04-16 |
 | [falling into place \(the cat's out!\)](https://open.spotify.com/track/74XYX1aXsDJYbbVXed7CWO) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [falling into place \(the cat's out!\)](https://open.spotify.com/album/7c1VHKmc6CjVsXeklEcow9) | 3:06 | 2024-12-14 |  |
 | [feel like a folder](https://open.spotify.com/track/15jlJhtJB2vrgy2zUOobN0) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:27 | 2024-12-14 |  |
 | [floating!](https://open.spotify.com/track/2aNSeFTOT0g94FsTYFhZpn) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [floating!](https://open.spotify.com/album/25bETwAaO6uWv6RtDiLxD9) | 1:04 | 2024-12-14 |  |

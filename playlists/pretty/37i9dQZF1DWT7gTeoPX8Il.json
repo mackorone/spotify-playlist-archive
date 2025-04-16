@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 145325,
+  "num_followers": 145422,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-04-03 15:17:31",
       "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Pelangi",
+      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
+    },
+    {
+      "added_at": "2025-04-03 15:17:31",
+      "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
-    },
-    {
-      "added_at": "2025-04-03 15:17:31",
-      "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Pelangi",
-      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
     },
     {
       "added_at": "2025-04-03 15:17:31",
@@ -835,18 +835,22 @@
     {
       "added_at": "2025-04-03 15:17:31",
       "album": {
-        "name": "Terpatah Terluka",
-        "url": "https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB"
+        "name": "Teruntuk Jantung",
+        "url": "https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr"
       },
       "artists": [
         {
-          "name": "Nabila Taqiyyah",
-          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+          "name": "NAKI",
+          "url": "https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb"
+        },
+        {
+          "name": "Fahimi",
+          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
         }
       ],
-      "duration_ms": 214395,
-      "name": "Terpatah Terluka",
-      "url": "https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B"
+      "duration_ms": 169707,
+      "name": "Masa",
+      "url": "https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO"
     }
   ],
   "unique_name": "galau rabak",

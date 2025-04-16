@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jBIc56hjiz.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stephenasmith/">Stephen A\. Smith</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Best Friend](https://open.spotify.com/track/7jdzEA44GdSp4laVCF3Ztw) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack](https://open.spotify.com/album/5D2CHiTlb8MXWJsZWXjkZf) | 4:11 |
-| 2 | [Lean Back](https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [True Story](https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F) | 4:07 |
+| 2 | [Lean Back](https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [remy](https://open.spotify.com/artist/4JMR34sJ8DghoiLOuIllCZ) | [True Story](https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F) | 4:07 |
 | 3 | [Put Your Hands Where My Eyes Could See \(feat\. Jamal\)](https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:14 |
 | 4 | [Pass The Courvoisier Part II \(feat\. P\. Diddy & Pharrell\) \- Remix](https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:58 |
 | 5 | [Loungin \(Who Do Ya Luv\)](https://open.spotify.com/track/0fKolf0hpjCwjTSLszadI8) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 3:46 |

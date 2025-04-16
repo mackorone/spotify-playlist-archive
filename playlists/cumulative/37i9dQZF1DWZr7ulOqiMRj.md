@@ -2,7 +2,7 @@
 
 ### [Dom Dolla's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWZr7ulOqiMRj)
 
-> <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
+> <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla</a>'s favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
 170 songs - 13 hr 24 min
 

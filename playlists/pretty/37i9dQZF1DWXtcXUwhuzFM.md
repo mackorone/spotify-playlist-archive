@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Behmiltä, Lauri Haavilta ja williamilta & Ettalta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,911 likes - 107 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,928 likes - 107 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del trap latino con Eladio Carrion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,561 likes - 103 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,637 likes - 103 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [EL TRAP LO MERECE](https://open.spotify.com/track/5leLPDRVm1lG6yDDXUSkFe) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [EL TRAP LO MERECE](https://open.spotify.com/album/1EkBelutAGR7YVuyY0fk8g) | 2:50 |
 | 2 | [HAMBRE](https://open.spotify.com/track/4vjOvlbbmbkWbvObX4ALhd) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [HAMBRE](https://open.spotify.com/album/5dfgMlH7xMhCGZYJ8MMVCY) | 2:38 |
-| 3 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
+| 3 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
 | 4 | [Vetements](https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:20 |
 | 5 | [Amber \(with Omar Courtz\)](https://open.spotify.com/track/3XoLRrcg9ga7Op6Y6NIdpn) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LOS FLAVORZ](https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk) | 3:06 |
 | 6 | [Romeo y Julieta](https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:26 |

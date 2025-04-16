@@ -4,7 +4,7 @@
 
 > layan je
 
-284 songs - 18 hr 44 min
+285 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Lumrah Cinta](https://open.spotify.com/track/73s6H3dbBU9cAYdLhiDXD3) | [PUTERI KHAREEZA](https://open.spotify.com/artist/17Cl089Yw28vjfKElTVFp7) | [Lumrah Cinta](https://open.spotify.com/album/0roclBSIpwkNP1WAGSOCu0) | 3:44 | 2025-03-13 | 2025-04-04 |
 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-24 | 2024-06-07 |
 | [Makna Cintamu](https://open.spotify.com/track/6F1IbZ1FLEvcB6SgwsjXEE) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [Makna Cintamu](https://open.spotify.com/album/4brON09cjQSouC6PUfRcFW) | 2:49 | 2024-06-07 | 2024-06-21 |
+| [Masa](https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Teruntuk Jantung](https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr) | 2:49 | 2025-04-03 |  |
 | [Masa Lalu](https://open.spotify.com/track/3VgPPdCVUKW1Sf67qeHxaC) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Masa Lalu](https://open.spotify.com/album/1M7qOVd97il4l6vpmBnJAm) | 3:23 | 2024-06-07 | 2024-06-21 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-02-22 |  |
 | [Masih Ku Sayang](https://open.spotify.com/track/5G9afAQLqId5heLtc3Ra6I) | [Hoondoo](https://open.spotify.com/artist/3FRJ1DX6ZUdVquwKsjs0D6) | [Masih Ku Sayang](https://open.spotify.com/album/7poIkWOHtsKXf2uXimQmXO) | 3:20 | 2024-05-16 | 2024-05-24 |
@@ -276,7 +277,7 @@
 | [Teman](https://open.spotify.com/track/6OdUXJOghuCjdN8WNK9DBa) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Teman](https://open.spotify.com/album/0HsFWCBUOfZdiIJC5xrbfL) | 3:57 | 2024-02-29 | 2024-03-08 |
 | [Terbang](https://open.spotify.com/track/6qKVuJFds2uONur7ijgJ6H) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Terbang](https://open.spotify.com/album/56rpGrle11kagKmui260fu) | 3:45 | 2024-12-12 | 2025-01-17 |
 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 | 2024-07-25 |  |
-| [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 | 2024-10-17 |  |
+| [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 | 2024-10-17 | 2025-04-16 |
 | [Tertawan Hati](https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo) | 3:57 | 2024-01-18 | 2024-04-19 |
 | [Tetap Di Sini](https://open.spotify.com/track/2VC3pcCC1nMBRq2y1JbDHy) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Janji](https://open.spotify.com/album/57YvxSlmYaHXgmYKIWvIEq) | 5:41 | 2024-12-12 | 2025-01-17 |
 | [Tetap Ku Cinta](https://open.spotify.com/track/7CyIlxl56oUCWtjfnH4S6Q) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L), [Jovita Pearl](https://open.spotify.com/artist/3HLbQCbpfIofxRwCieidX5) | [Tetap Ku Cinta](https://open.spotify.com/album/0nj0CwcVuXt7iJJAwqdouH) | 4:49 | 2024-06-07 | 2024-06-21 |

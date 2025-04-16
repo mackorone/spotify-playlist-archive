@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 15880,
+  "num_followers": 15890,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAACppruY6sk4YdIyXLLinQb6",
+  "snapshot_id": "Z/xQAAAAAACfg2twlO+pJ/e9FoRES7iS",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ordinary World",
-        "url": "https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl"
+        "name": "Endless Tree",
+        "url": "https://open.spotify.com/album/23S0SEsKCv5mnzcnHGWnWg"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 280640,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ"
+      "duration_ms": 233573,
+      "name": "Endless Tree",
+      "url": "https://open.spotify.com/track/5ZCaI8uGsCYcac84KB45Yn"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Tree",
-        "url": "https://open.spotify.com/album/23S0SEsKCv5mnzcnHGWnWg"
+        "name": "Ordinary World",
+        "url": "https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 233573,
-      "name": "Endless Tree",
-      "url": "https://open.spotify.com/track/5ZCaI8uGsCYcac84KB45Yn"
+      "duration_ms": 280640,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ"
     },
     {
       "added_at": null,
@@ -403,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+        "name": "Armageddon In A Summer Dress",
+        "url": "https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV"
       },
       "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+      "duration_ms": 194000,
+      "name": "Cry Baby - feat. Valerie June",
+      "url": "https://open.spotify.com/track/10TS4rn0t7GRGEB3gGLjUv"
     },
     {
       "added_at": null,
@@ -435,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
       "artists": [
         {
@@ -444,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": null,
@@ -467,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Baby (feat. Valerie June)",
-        "url": "https://open.spotify.com/album/0RpG3rO8iuFXcS4OqaNdjX"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/751gK3jve65bGX4LtckYMF"
+      "duration_ms": 212573,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -599,6 +599,26 @@
       "duration_ms": 205506,
       "name": "Why The Bright Stars Glow",
       "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Note [Feat. Stax Music Academy]",
+        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "High Note [Feat. Stax Music Academy]",
+      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,
@@ -655,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Note [Feat. Stax Music Academy]",
-        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
-        }
-      ],
-      "duration_ms": 182099,
-      "name": "High Note [Feat. Stax Music Academy]",
-      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -707,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up and Rolling (feat. Son Little and Valerie June)",
+        "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 201921,
+      "name": "Up and Rolling (feat. Son Little and Valerie June)",
+      "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
         "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
       },
@@ -727,22 +751,6 @@
       "duration_ms": 219961,
       "name": "Friendship [Feat. Carla Thomas, Stax Music Academy]",
       "url": "https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red Hot: A Memphis Celebration of Sun Records",
-        "url": "https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "Sure to Fall",
-      "url": "https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo"
     },
     {
       "added_at": null,
@@ -779,26 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up and Rolling (feat. Son Little and Valerie June)",
-        "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
+        "name": "Red Hot: A Memphis Celebration of Sun Records",
+        "url": "https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c"
       },
       "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 201921,
-      "name": "Up and Rolling (feat. Son Little and Valerie June)",
-      "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
+      "duration_ms": 171693,
+      "name": "Sure to Fall",
+      "url": "https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
       "duration_ms": 184106,
       "name": "Tonight I\u2019ll Be Staying Here With You",
       "url": "https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweetheart 2014",
+        "url": "https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 111853,
+      "name": "Happy Or Lonesome",
+      "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
       "duration_ms": 242840,
       "name": "Within You - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweetheart 2014",
-        "url": "https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 111853,
-      "name": "Happy Or Lonesome",
-      "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
     },
     {
       "added_at": null,

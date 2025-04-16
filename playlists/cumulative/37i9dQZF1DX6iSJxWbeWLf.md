@@ -2,7 +2,7 @@
 
 ### [Hyper Focus Noise](https://open.spotify.com/playlist/37i9dQZF1DX6iSJxWbeWLf)
 
-> Get your brain waves aligned and productive with white noise
+> White noise for studying and concentration
 
 100 songs - 5 hr 12 min
 

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🎥 Kannessa OLGA.
 
-648 songs - 1 day 8 hr 24 min
+649 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [ricochet](https://open.spotify.com/track/76xzDSAEc0bnRykhiOaekb) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [ricochet](https://open.spotify.com/album/1OTf7RvlqRhUqLHnzeFBEV) | 3:07 | 2025-04-03 |  |
 | [RIDIN \(with Lil Wayne\)](https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [RIDIN](https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5) | 3:24 | 2024-08-22 | 2024-09-13 |
 | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/track/4IM8WcV6lgjQeBbOA4JaDl) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/album/5BwWhNeYf1w9Kol1PbnDeL) | 3:33 | 2024-10-03 | 2024-11-15 |
+| [Rikki mutta riittävä](https://open.spotify.com/track/3QT7f1k2dDjmSbOC3kc8CA) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Rikki mutta riittävä](https://open.spotify.com/album/1bK8gzhKWIfhVHXzUHAR8e) | 3:01 | 2025-04-15 |  |
 | [Rock n Roll](https://open.spotify.com/track/1T2zLWVcr4nXMrMnzyHUVl) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Rock n Roll](https://open.spotify.com/album/1Jey66mOXbJOwGtVKwdUWb) | 2:38 | 2024-10-24 | 2025-01-10 |
 | [Rockstar](https://open.spotify.com/track/1o07xfumEmwE01GeYCFz1w) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Rockstar](https://open.spotify.com/album/4qh0oqh6tSVZmgK5fEtoGM) | 3:00 | 2025-02-06 | 2025-03-07 |
 | [Roomaan](https://open.spotify.com/track/6zoZ6JjYbCNw3wHOfzVm1o) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Muutos](https://open.spotify.com/album/5z8rl6fJNKZXl01B4BI7Fq) | 2:49 | 2024-11-07 | 2025-01-10 |

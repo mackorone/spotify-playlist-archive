@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,819 songs - 3 day 22 hr 26 min
+1,820 songs - 3 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [44](https://open.spotify.com/track/3EgGUHciOMVlUZAjH6VfDC) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [44](https://open.spotify.com/album/5U0g3N6dXf5AmedbMuRT3e) | 3:08 | 2024-01-25 | 2024-03-15 |
 | [5656](https://open.spotify.com/track/15I1otvOIaCUPpE40sik1B) | [Knut€](https://open.spotify.com/artist/7n3qgKSD6IGnbzODQWnGTa) | [5656](https://open.spotify.com/album/5pcRjUDq57OcWVKf52OGyI) | 2:38 | 2025-01-30 | 2025-02-07 |
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-07-28 | 2023-05-21 |
+| [60 L.E.S.](https://open.spotify.com/track/35sbxt8GYiBwwtcB5JZgpR) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Esta Kirabo](https://open.spotify.com/artist/52oDOwHuuZWVrZIGW6ww8v) | [60 L.E.S.](https://open.spotify.com/album/7zIWxOx3yqlCqMCfxbLNOP) | 3:01 | 2025-04-10 |  |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-04 | 2023-10-20 |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
 | [94an](https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [94an](https://open.spotify.com/album/4A44yJWTj9f7ADwJolvoUX) | 2:57 | 2022-04-01 | 2022-09-26 |
@@ -1242,7 +1243,7 @@
 | [Psykbryt](https://open.spotify.com/track/3LvZ9uwjCpCL4Lc7NaCilH) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [Psykbryt](https://open.spotify.com/album/0mFsTJvWn8DpApTw2ANx3K) | 2:48 | 2024-05-02 | 2024-06-01 |
 | [Psykopat](https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Punch Drunk](https://open.spotify.com/track/1mqShE89njPhEE5HzxMOKU) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Atlas](https://open.spotify.com/album/12TTHRtAWiupn7QvztX3Wz) | 3:45 | 2024-04-11 | 2024-05-17 |
-| [push pull](https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [push pull](https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O) | 2:27 | 2025-01-09 |  |
+| [push pull](https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [push pull](https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O) | 2:27 | 2025-01-09 | 2025-04-16 |
 | [Puss & Kram](https://open.spotify.com/track/55Naz76St5cjVtWnmo8SBs) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:35 | 2021-12-16 | 2022-01-11 |
 | [Pusselbitar](https://open.spotify.com/track/6f5uOIe1LBupR5eTeCvOVW) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Pusselbitar](https://open.spotify.com/album/4CbeCXyxs8d39dYlE5M4f0) | 2:54 | 2024-04-25 | 2024-05-24 |
 | [Put Out The Flame](https://open.spotify.com/track/3pcJkyMNxPf6UmqnpOn4xG) | [Falconshield](https://open.spotify.com/artist/1E7ix1oyCsdQgMw6Q3w7xT), [Rena](https://open.spotify.com/artist/5ZU4uV9uJASRDCPaNCLYpd) | [Put Out The Flame](https://open.spotify.com/album/1Q2eX4IomtrZBTnfv0b8Wg) | 4:55 | 2024-03-14 | 2024-04-26 |

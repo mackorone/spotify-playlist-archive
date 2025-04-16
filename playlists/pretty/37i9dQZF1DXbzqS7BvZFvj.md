@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Awich
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,762 likes - 78 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,767 likes - 78 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 34 | [BOUNCE](https://open.spotify.com/track/65DCNwcfHaddqW0pEEx9t7) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [BOUNCE](https://open.spotify.com/album/7yoEytuk7oObj3NETYHDtJ) | 2:35 |
 | 35 | [CUT THE LIGHTS.](https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [CUT THE LIGHTS.](https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn) | 2:44 |
 | 36 | [ON THE LOW](https://open.spotify.com/track/7JJsA3K4QxzK6SU3BRnvMd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ON THE LOW](https://open.spotify.com/album/3Zu1sBpLxNrYzEDAk6mEjN) | 2:16 |
-| 37 | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yé](https://open.spotify.com/artist/6kE7ZdPoVgmtcwcIgm9QFr) | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
+| 37 | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yé](https://open.spotify.com/artist/3BZbaVVOuBOsvV4eMLSEDN) | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
 | 38 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
 | 39 | [Torch](https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [Torch](https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX) | 2:53 |
 | 40 | [Ran Out](https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Ran Out](https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq) | 2:22 |

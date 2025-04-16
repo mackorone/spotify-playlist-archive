@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,048 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,050 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 21 | [Pássaros](https://open.spotify.com/track/09a27piHzkROsmYoFqr15A) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [A Saída Está Dentro](https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8) | 3:51 |
 | 22 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
 | 23 | [Melhor Não](https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Frio e Vento](https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z) | 3:33 |
-| 24 | [Segredos](https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Negrotte](https://open.spotify.com/artist/1iFANtb8wijR3ooWPdYER5) | [Segredos](https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj) | 3:58 |
-| 25 | [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 |
-| 26 | [Plano Perfeito](https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Plano Perfeito](https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux) | 3:11 |
+| 24 | [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 |
+| 25 | [Plano Perfeito](https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Plano Perfeito](https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux) | 3:11 |
+| 26 | [Segredos](https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Negrotte](https://open.spotify.com/artist/1iFANtb8wijR3ooWPdYER5) | [Segredos](https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj) | 3:58 |
 | 27 | [Tira minha paz](https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:00 |
 | 28 | [Avião](https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Avião](https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P) | 4:01 |
 | 29 | [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Poesia Acústica \#9: Melhor Forma \- LOCOS Remix](https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ) | [LOCOS](https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Poesia Acústica \#9: Melhor Forma \(LOCOS Remix\)](https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ) | 1:53 |
 | 50 | [Chore Não](https://open.spotify.com/track/5aC2Avnr6X3HVRJcu4R9ar) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/24S4f5Zoxvtp846vd4DzOd) | 2:56 |
 
-Snapshot ID: `Z/r+gAAAAABCp9dNKXbguqHhyNikr69/`
+Snapshot ID: `Z/xQAAAAAAA14zZnyWV8xmrfkwgG7ckx`

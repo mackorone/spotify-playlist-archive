@@ -4,7 +4,7 @@
 
 > The hottest out the south: Quavo and Lil Baby
 
-1,912 songs - 3 day 17 hr 41 min
+1,913 songs - 3 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,7 +824,7 @@
 | [I Wish](https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:45 | 2022-02-25 | 2022-04-29 |
 | [I Wonder](https://open.spotify.com/track/6zLCCx1nhPUcLZCQJuk7fU) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [I Wonder](https://open.spotify.com/album/1SCRm57zXJBjVGO9IK1RQs) | 2:08 | 2025-01-31 | 2025-02-08 |
 | [I'd Do Anything To Make You Smile](https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:13 | 2022-05-13 | 2022-07-09 |
-| [I'll Be Damned](https://open.spotify.com/track/40j4PID2MvgQJWUvN9ZVL3) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Greenway](https://open.spotify.com/album/4r8KLrZziy0FLxcy9NiALu) | 2:08 | 2025-04-04 |  |
+| [I'll Be Damned](https://open.spotify.com/track/40j4PID2MvgQJWUvN9ZVL3) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Greenway](https://open.spotify.com/album/4r8KLrZziy0FLxcy9NiALu) | 2:08 | 2025-04-04 | 2025-04-16 |
 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 | 2022-04-29 | 2022-06-18 |
 | [I'm Him](https://open.spotify.com/track/6AEAfceyUTwhdvslZWsZpi) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [World On My Head](https://open.spotify.com/album/4HfWTfgdYHX4RBwDhMVl3T) | 2:37 | 2025-03-14 | 2025-03-20 |
 | [I'm Him](https://open.spotify.com/track/3hk1nboPi0xRywfOBwz1CS) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K), [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [I'm Him](https://open.spotify.com/album/0mGrgddV5amK3dC5x0gUAr) | 2:38 | 2022-07-29 | 2022-09-17 |
@@ -1104,7 +1104,7 @@
 | [Murder Bitch](https://open.spotify.com/track/1SfiDsFHqJnQoiN7cLaRz0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder Bitch](https://open.spotify.com/album/4jenlFugsErE0X5wP5ot79) | 4:53 | 2022-07-29 | 2022-09-17 |
 | [Must Be Me](https://open.spotify.com/track/6Cxc9tL1sMdivV1Quh0yjZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR) | 3:30 | 2023-10-20 | 2024-04-06 |
 | [My Body \(feat\. B.O.G\. Vonnie\)](https://open.spotify.com/track/2eJXmksBzY3XlLj1obQJs0) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [B.O.G\. Vonnie](https://open.spotify.com/artist/5ZDrZTQOHAwkOmg0IvQO9U) | [UNLV](https://open.spotify.com/album/2599H2Ny0MB33Zvd1n7WNU) | 2:54 | 2022-10-21 | 2022-11-12 |
-| [My Brother](https://open.spotify.com/track/11U77AJ32CJrifcvVQT18U) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [Adrian Chafer](https://open.spotify.com/artist/16dti6ifSjSyZ8PHWMwGFR), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [My Brother](https://open.spotify.com/album/5BKJJS9rEUH81nzZU7Sgbk) | 2:27 | 2025-04-11 |  |
+| [My Brother](https://open.spotify.com/track/11U77AJ32CJrifcvVQT18U) | [Adrian Chafer](https://open.spotify.com/artist/16dti6ifSjSyZ8PHWMwGFR), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [My Brother](https://open.spotify.com/album/5BKJJS9rEUH81nzZU7Sgbk) | 2:27 | 2025-04-11 |  |
 | [My Image](https://open.spotify.com/track/7KkNO3y61CXpN1g7qBkg8N) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [My Image](https://open.spotify.com/album/1GQVXe1zAxDTOkBe1m2ehw) | 3:10 | 2023-05-26 | 2023-08-05 |
 | [MY NAME BK](https://open.spotify.com/track/0VHX7sBxjnVBOTQKQbgXZV) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [MY NAME BK](https://open.spotify.com/album/5kkjvRJoQTDh2npWLbDfov) | 1:52 | 2025-03-14 | 2025-04-05 |
 | [My Town](https://open.spotify.com/track/0altHSdZBn3X55KdiyGGlW) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [My Town](https://open.spotify.com/album/2sWkuTSaPs51w9AOUxPd8j) | 2:13 | 2024-09-16 | 2024-10-05 |
@@ -1656,6 +1656,7 @@
 | [TESLA](https://open.spotify.com/track/4NQfLaqLd1Fms4UTkkTj7J) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [TESLA](https://open.spotify.com/album/5mLthYPpxVlV9E6QPlVVZt) | 2:44 | 2023-08-25 | 2023-10-21 |
 | [Testimony](https://open.spotify.com/track/6YJzVBCeKH0sarQEi5rSDk) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Testimony](https://open.spotify.com/album/0CNkxTOBTuVNRc3VeO1hl1) | 2:57 | 2023-09-29 | 2023-10-21 |
 | [Texas](https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Texas](https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ) | 2:26 | 2022-11-25 | 2023-02-04 |
+| [Texas](https://open.spotify.com/track/6eKNwVDSwoZlVNYBlqxWiC) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3) | [Texas](https://open.spotify.com/album/4VDg88gvR9aF0sLLK2cZUf) | 2:24 | 2025-04-16 |  |
 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 | 2024-06-21 | 2024-09-21 |
 | [Tha Kitchen](https://open.spotify.com/track/4lPOPlq3BF6I62qt54WheJ) | [Cartel Bo](https://open.spotify.com/artist/2gHDPVwwW2YrL4rLGlAj87), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Tha Kitchen](https://open.spotify.com/album/4g04uTFPO9Qg8FtPz0WH77) | 2:57 | 2025-01-17 | 2025-01-25 |
 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 | 2023-06-23 | 2023-11-18 |

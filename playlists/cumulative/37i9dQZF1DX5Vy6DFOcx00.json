@@ -3785,6 +3785,28 @@
     },
     {
       "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162995,
+      "name": "Bluest Flame",
+      "url": "https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7"
+    },
+    {
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -3916,7 +3938,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 120000,
       "name": "Bout Me",
       "url": "https://open.spotify.com/track/4MAVi6HFkcyqaqVZXZze7W"
@@ -10829,6 +10851,28 @@
     },
     {
       "album": {
+        "name": "diary 001",
+        "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135016,
+      "name": "Hello?",
+      "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
       },
@@ -13760,7 +13804,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 249066,
       "name": "Judas",
       "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
@@ -21976,7 +22020,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
@@ -25290,7 +25334,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 167584,
       "name": "Sunset Blvd",
       "url": "https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO"
@@ -25804,6 +25848,24 @@
       "duration_ms": 255733,
       "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
       "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+    },
+    {
+      "album": {
+        "name": "Witchazel",
+        "url": "https://open.spotify.com/album/4IPJJDq7Ur6Y7JF27ykniO"
+      },
+      "artists": [
+        {
+          "name": "Matt Berry",
+          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190586,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
     },
     {
       "album": {
@@ -29512,7 +29574,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 142538,
       "name": "WHIM WHAMIEE",
       "url": "https://open.spotify.com/track/0j8cFgSjGoSccjqXiN0ahN"
@@ -30360,7 +30422,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 159106,
       "name": "You Love Me",
       "url": "https://open.spotify.com/track/4BqIT4j2xzROrC9dMlgXPT"

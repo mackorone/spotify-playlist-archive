@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Murphy",
+        "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76711,
+      "name": "8 l\u00e5nga \u00e5r",
+      "url": "https://open.spotify.com/track/7xmCFkZj2r5k9ot9NMOwYg"
+    },
+    {
+      "album": {
         "name": "A Little Quiet",
         "url": "https://open.spotify.com/album/38zy7283UPL20D92UaoaBb"
       },
@@ -1972,6 +1990,24 @@
       "duration_ms": 111000,
       "name": "VA?!",
       "url": "https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq"
+    },
+    {
+      "album": {
+        "name": "Murphy",
+        "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136906,
+      "name": "Vem e han?",
+      "url": "https://open.spotify.com/track/6C9TItG1c9g9JSTUMzQTiZ"
     },
     {
       "album": {

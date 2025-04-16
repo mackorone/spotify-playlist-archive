@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 337500,
       "name": "A Cat",
       "url": "https://open.spotify.com/track/2hZxWOOsHVGPrN3OsqAvJV"
@@ -4598,6 +4598,24 @@
       "duration_ms": 281096,
       "name": "Moon",
       "url": "https://open.spotify.com/track/36buqw0d9Vb8LEtCSLOALu"
+    },
+    {
+      "album": {
+        "name": "K2",
+        "url": "https://open.spotify.com/album/7HeE9amV1xHGKfG8YLfUTz"
+      },
+      "artists": [
+        {
+          "name": "Camille Cabbabe",
+          "url": "https://open.spotify.com/artist/0kNsnflNww6brcHP8Dywn6"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128173,
+      "name": "Moon & Domino",
+      "url": "https://open.spotify.com/track/3LDkxHcVV5H7fU3zASnkDU"
     },
     {
       "album": {

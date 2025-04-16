@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2655544,
+  "num_followers": 2655554,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
+        "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
+        "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
+      },
+      "artists": [
+        {
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 192933,
       "name": "Donna Donna",
       "url": "https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
-        "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
-        "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
-      },
-      "artists": [
-        {
-          "name": "Richie Havens",
-          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Here Comes The Sun",
-      "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
+        "name": "James Taylor Live",
+        "url": "https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 301666,
+      "name": "Carolina In My Mind",
+      "url": "https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
         "name": "It's My Way",
         "url": "https://open.spotify.com/album/3xqpKfDsGJYbCdMndvxZmd"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
-        "name": "James Taylor Live",
-        "url": "https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 301666,
-      "name": "Carolina In My Mind",
-      "url": "https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Led Zeppelin IV",
-        "url": "https://open.spotify.com/album/1Ugdi2OTxKopVVqsprp5pb"
+        "name": "Wish You Were Here [2011 - Remaster] (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/1x0uzT3ETlIYjPueTyNfnQ"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Going to California - 1990 Remaster",
-      "url": "https://open.spotify.com/track/55sjCMeQM26VxbNHhMtj2b"
+      "duration_ms": 334743,
+      "name": "Wish You Were Here - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/1wHSxWBfPr3GO31y8KGrWe"
     }
   ],
   "unique_name": "Classic Acoustic",

@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Virlan Garc\u00eda en portada. ",
-  "num_followers": 807479,
+  "num_followers": 807499,
   "original_name": "Sierre\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-03-28 18:20:39",
       "album": {
+        "name": "The Life in Your Eyes",
+        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 175124,
+      "name": "Amor Fugaz",
+      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
+    },
+    {
+      "added_at": "2025-03-28 18:20:39",
+      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
-    },
-    {
-      "added_at": "2025-03-28 18:20:39",
-      "album": {
-        "name": "The Life in Your Eyes",
-        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 175124,
-      "name": "Amor Fugaz",
-      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
     },
     {
       "added_at": "2025-03-28 18:20:39",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-03-28 18:20:39",
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Inventame - En Vivo",
-      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
-    },
-    {
-      "added_at": "2025-03-28 18:20:39",
-      "album": {
         "name": "Cuando La Vida Sea Trago",
         "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 173000,
       "name": "Cuando La Vida Sea Trago",
       "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
+    },
+    {
+      "added_at": "2025-03-28 18:20:39",
+      "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Inventame - En Vivo",
+      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
     },
     {
       "added_at": "2025-03-28 18:20:39",
@@ -1411,26 +1411,18 @@
     {
       "added_at": "2025-03-28 18:20:39",
       "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/1Vnd8By5TxomwDHRPONbzX"
+        "name": "Quiero Presumirte",
+        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
       },
       "artists": [
         {
-          "name": "Said Norzagaray",
-          "url": "https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+          "name": "Picassoo",
+          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
         }
       ],
-      "duration_ms": 163384,
-      "name": "Baccarat",
-      "url": "https://open.spotify.com/track/0xKYzVe655Sd39IWpbIko6"
+      "duration_ms": 242227,
+      "name": "Quiero Presumirte",
+      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
     },
     {
       "added_at": "2025-03-28 18:20:39",
@@ -1451,18 +1443,26 @@
     {
       "added_at": "2025-03-28 18:20:39",
       "album": {
-        "name": "Quiero Presumirte",
-        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1Vnd8By5TxomwDHRPONbzX"
       },
       "artists": [
         {
-          "name": "Picassoo",
-          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
+          "name": "Said Norzagaray",
+          "url": "https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         }
       ],
-      "duration_ms": 242227,
-      "name": "Quiero Presumirte",
-      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
+      "duration_ms": 163384,
+      "name": "Baccarat",
+      "url": "https://open.spotify.com/track/0xKYzVe655Sd39IWpbIko6"
     },
     {
       "added_at": "2025-03-28 18:20:39",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-03-28 18:20:39",
       "album": {
-        "name": "Corridos Metaf\u00edsicos",
-        "url": "https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 171065,
-      "name": "La Vida Es Un Juego",
-      "url": "https://open.spotify.com/track/19f1DwILx7UIS8hVAFXM5q"
-    },
-    {
-      "added_at": "2025-03-28 18:20:39",
-      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 274172,
       "name": "Ahora Estoy Mejor",
       "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
+    },
+    {
+      "added_at": "2025-03-28 18:20:39",
+      "album": {
+        "name": "Corridos Metaf\u00edsicos",
+        "url": "https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 171065,
+      "name": "La Vida Es Un Juego",
+      "url": "https://open.spotify.com/track/19f1DwILx7UIS8hVAFXM5q"
     },
     {
       "added_at": "2025-03-28 18:20:39",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-03-28 18:20:39",
       "album": {
-        "name": "Unas M\u00edas y Otras Prestadas",
-        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
-    },
-    {
-      "added_at": "2025-03-28 18:20:39",
-      "album": {
         "name": "Uno Mas Uno Igual A Zero",
         "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 159683,
       "name": "Uno mas Uno Igual a Zero",
       "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
+    },
+    {
+      "added_at": "2025-03-28 18:20:39",
+      "album": {
+        "name": "Unas M\u00edas y Otras Prestadas",
+        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
     },
     {
       "added_at": "2025-03-28 18:20:39",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-03-28 18:20:39",
       "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
-    },
-    {
-      "added_at": "2025-03-28 18:20:39",
-      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 163073,
       "name": "Las 745",
       "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+    },
+    {
+      "added_at": "2025-03-28 18:20:39",
+      "album": {
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2025-03-28 18:20:39",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2025-03-28 18:20:39",
       "album": {
-        "name": "Enamorarte",
-        "url": "https://open.spotify.com/album/0IqwNqNpCxvY4ctfiNPSQj"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "Enamorarte",
-      "url": "https://open.spotify.com/track/2yokG8XuX62r9kNYIcvRYs"
-    },
-    {
-      "added_at": "2025-03-28 18:20:39",
-      "album": {
         "name": "Sal De Mi Mente",
         "url": "https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 175096,
       "name": "Sal De Mi Mente",
       "url": "https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk"
+    },
+    {
+      "added_at": "2025-03-28 18:20:39",
+      "album": {
+        "name": "Enamorarte",
+        "url": "https://open.spotify.com/album/0IqwNqNpCxvY4ctfiNPSQj"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 148333,
+      "name": "Enamorarte",
+      "url": "https://open.spotify.com/track/2yokG8XuX62r9kNYIcvRYs"
     },
     {
       "added_at": "2025-03-28 18:20:39",

@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. ERRE en portada. ",
-  "num_followers": 1127,
+  "num_followers": 1126,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2025-01-24 13:50:50",
       "album": {
-        "name": "SOLTERA",
-        "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 178312,
-      "name": "SOLTERA",
-      "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
-    },
-    {
-      "added_at": "2025-01-24 13:50:50",
-      "album": {
         "name": "cuida",
         "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 166866,
       "name": "cuida",
       "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
+    },
+    {
+      "added_at": "2025-01-24 13:50:50",
+      "album": {
+        "name": "SOLTERA",
+        "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 178312,
+      "name": "SOLTERA",
+      "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
     },
     {
       "added_at": "2025-01-24 13:50:50",

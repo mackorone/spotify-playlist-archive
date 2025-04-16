@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 38522,
+  "num_followers": 38531,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAB2D2MoklPiTg9y7xqT5WPr",
+  "snapshot_id": "Z/xQAAAAAAByt8ExAM7zYGzI/AwPlTyc",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "Sangue de Free - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "300",
         "url": "https://open.spotify.com/album/49aodr19IxR7j392H2CIJm"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 420674,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "Sangue de Free - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Spacey Jane
 
-236 songs - 13 hr 13 min
+237 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-05-31 | 2024-11-22 |
 | [Close Proximity](https://open.spotify.com/track/34nCjUuPCn57m76m7QYVYe) | [Chitra](https://open.spotify.com/artist/1zjwHxjhMPXp4nrWwL9hwM) | [Close Proximity](https://open.spotify.com/album/25Ka8Q4ZBwMLCBnRM4Enrp) | 3:26 | 2025-04-03 | 2025-04-09 |
 | [Clothes Off](https://open.spotify.com/track/338b5ZgLjuLr5S9Qk5bKrZ) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Clothes Off](https://open.spotify.com/album/5aN07Khrurpekp7Ur0Akma) | 3:08 | 2025-03-04 |  |
-| [Coast Is Clear](https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Like Love](https://open.spotify.com/album/5sZBCDhQ1XkWmR8OxT4aFL) | 4:04 | 2025-04-03 | 2025-04-11 |
+| [Coast Is Clear](https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Like Love](https://open.spotify.com/album/5sZBCDhQ1XkWmR8OxT4aFL) | 4:04 | 2025-04-03 |  |
 | [Cold Treatment](https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Cold Treatment](https://open.spotify.com/album/4hXJKq0BF3Du9akLvNCptZ) | 3:47 | 2024-06-06 | 2024-08-23 |
 | [cool](https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [cool](https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv) | 2:43 | 2025-04-03 |  |
 | [Craters](https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr) | 3:15 | 2024-09-05 | 2025-01-10 |
@@ -70,6 +70,7 @@
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2024-05-31 | 2025-04-04 |
 | [Don't Know](https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Don't Know](https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26) | 2:12 | 2024-05-31 | 2025-03-21 |
 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 | 2024-08-30 | 2025-01-31 |
+| [Don’t Happy, Be Worry](https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Don’t Happy, Be Worry](https://open.spotify.com/album/0oINbUTZmShChwgDUZRJdd) | 3:09 | 2025-04-10 |  |
 | [Down To The Sea](https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn) | 3:19 | 2024-05-31 | 2024-09-03 |
 | [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 | 2025-01-30 | 2025-02-07 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2024-05-31 | 2025-04-04 |
@@ -113,7 +114,7 @@
 | [It Don't Matter](https://open.spotify.com/track/1BbD5gnHzob2VsddH8zoSM) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [It Don't Matter](https://open.spotify.com/album/53T5VUowP9rrmcnOJQLHNP) | 3:25 | 2024-11-28 | 2024-12-06 |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 | 2025-02-19 |
 | [Jump](https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [Jump](https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor) | 2:33 | 2025-04-08 | 2025-04-11 |
-| [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-25 |  |
+| [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-25 | 2025-04-16 |
 | [Know You Love Me](https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Know You Love Me](https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw) | 2:59 | 2025-02-20 | 2025-04-09 |
 | [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 | 2024-05-31 | 2025-02-14 |
 | [Lead You On](https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD), [Jvyden](https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o) | [Lead You On](https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4) | 4:13 | 2025-01-09 | 2025-01-17 |
@@ -164,7 +165,7 @@
 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 | 2024-05-31 | 2024-08-07 |
 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 | 2025-02-20 |  |
 | [Physical Medicine](https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Physical Medicine](https://open.spotify.com/album/7vhgCsaORnzwuw1c4neLoO) | 3:35 | 2024-07-04 | 2024-08-24 |
-| [Please Don't Move To Melbourne](https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Please Don't Move To Melbourne](https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz) | 4:51 | 2025-02-06 |  |
+| [Please Don't Move To Melbourne](https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Please Don't Move To Melbourne](https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz) | 4:51 | 2025-02-06 | 2025-04-16 |
 | [Powertrippn'](https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:10 | 2024-07-18 | 2024-08-27 |
 | [Raw](https://open.spotify.com/track/4fhp9DF01CubZ3PapDjxX1) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Mentalized](https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a) | 4:37 | 2025-02-06 | 2025-02-14 |
 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 | 2024-08-08 | 2024-09-13 |

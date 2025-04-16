@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Wet
 
-693 songs - 1 day 19 hr 31 min
+694 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Girl of My Dreams](https://open.spotify.com/track/5RdTT9trEnmVML9PlBqNKr) | [Guti](https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O) | [Late Nights and Heartbreak](https://open.spotify.com/album/2QKh9vmbvNmBwsAzptNHfF) | 3:42 | 2022-04-22 | 2022-06-01 |
 | [Girls just wanna have fun](https://open.spotify.com/track/2BbY1U7zipIeqwd9m2WyC0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Girls just wanna have fun](https://open.spotify.com/album/0Q1LTnqlF8Dfx4B3VPd2q5) | 3:14 | 2024-10-25 | 2024-11-22 |
 | [Give it Back](https://open.spotify.com/track/7y7GePCjc1mqoLAvbjmAvK) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Give it Back](https://open.spotify.com/album/3qkkYie1eINh4qk4XJUzEW) | 6:41 | 2024-10-25 | 2024-11-16 |
+| [Give Up The Ghost](https://open.spotify.com/track/05NZMYuLR71Z3qrZOUiUm2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:50 | 2025-03-21 |  |
 | [Glass](https://open.spotify.com/track/0QMaNirJT0S10i9MXJFWbQ) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/0cafqSXPiqB0jf1hiTAOI0) | 2:55 | 2021-06-03 | 2022-06-01 |
 | [Glider \- from "Sable" Original Video Game Soundtrack](https://open.spotify.com/track/3LEvqWwkTAZD29xXRNjWSk) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Glider \(from "Sable" Original Video Game Soundtrack\)](https://open.spotify.com/album/70zXnYjeRgIzhiC7gYJZpO) | 2:51 | 2021-09-10 | 2022-07-29 |
 | [Glitter and Tears \- Myra Molloy Remix](https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [Myra Molloy](https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96) | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY) | 3:24 | 2022-11-11 | 2023-01-26 |
@@ -493,7 +494,7 @@
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-11-12 | 2022-06-24 |
 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 | 2021-11-12 | 2022-08-13 |
 | [Psychic](https://open.spotify.com/track/7ggGuwgNEWXZWpNKafbQHi) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Apparition EP](https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8) | 3:17 | 2021-06-03 | 2022-04-21 |
-| [Punish](https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Punish](https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm) | 6:47 | 2024-11-01 |  |
+| [Punish](https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Punish](https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm) | 6:47 | 2024-11-01 | 2025-04-16 |
 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 | 2021-06-03 | 2022-06-28 |
 | [Pyramid Song](https://open.spotify.com/track/55q3Ro66yXWi9rsEddeEN4) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:48 | 2025-03-21 |  |
 | [Pájaros en Verano](https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaros en Verano](https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS) | 3:16 | 2022-08-12 | 2022-09-10 |

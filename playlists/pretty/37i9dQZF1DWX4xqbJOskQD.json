@@ -195,22 +195,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Bachelors - The Decca Years",
-        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
-      },
-      "artists": [
-        {
-          "name": "The Bachelors",
-          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Merry Macs Sing Mairzy Doats",
         "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 164600,
       "name": "Mairzy Doats",
       "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Bachelors - The Decca Years",
+        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
+      },
+      "artists": [
+        {
+          "name": "The Bachelors",
+          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -667,22 +667,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Manhattan Transfer",
-        "url": "https://open.spotify.com/album/27PX6QHcZXHdepfrNqbPh8"
-      },
-      "artists": [
-        {
-          "name": "The Manhattan Transfer",
-          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Tuxedo Junction",
-      "url": "https://open.spotify.com/track/2gE1UVwRrEW7Q09ht0SpHJ"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "\"They're Riding High\" Says Archie",
         "url": "https://open.spotify.com/album/2fBVKQwJG7e5NvOizP3jCm"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 143133,
       "name": "Mr. Sandman - 1954 #1 Billboard chart hit",
       "url": "https://open.spotify.com/track/3zopUGxKy1Uz4cKtDGjZry"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Manhattan Transfer",
+        "url": "https://open.spotify.com/album/27PX6QHcZXHdepfrNqbPh8"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Tuxedo Junction",
+      "url": "https://open.spotify.com/track/2gE1UVwRrEW7Q09ht0SpHJ"
     },
     {
       "added_at": "2020-08-17 22:49:59",

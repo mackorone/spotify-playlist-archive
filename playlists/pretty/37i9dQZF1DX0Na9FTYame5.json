@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Florentina, FOURTY",
-  "num_followers": 584587,
+  "num_followers": 584565,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -320,25 +320,9 @@
           "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 140235,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
-    },
-    {
-      "added_at": "2025-04-10 22:00:23",
-      "album": {
-        "name": "Ungebrochen",
-        "url": "https://open.spotify.com/album/3HAxEBZaaJojs1kELX9vqa"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Ungebrochen",
-      "url": "https://open.spotify.com/track/2WmYtjrOsvlBr7am7k0bAS"
+      "duration_ms": 149752,
+      "name": "Leben",
+      "url": "https://open.spotify.com/track/4vPdRUiMn1LpVGfpoa6TiH"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -359,6 +343,22 @@
       "duration_ms": 122241,
       "name": "Keine Homies",
       "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+    },
+    {
+      "added_at": "2025-04-10 22:00:23",
+      "album": {
+        "name": "Ungebrochen",
+        "url": "https://open.spotify.com/album/3HAxEBZaaJojs1kELX9vqa"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Ungebrochen",
+      "url": "https://open.spotify.com/track/2WmYtjrOsvlBr7am7k0bAS"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 149752,
-      "name": "Leben",
-      "url": "https://open.spotify.com/track/4vPdRUiMn1LpVGfpoa6TiH"
+      "duration_ms": 140235,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "Erinnerung",
-        "url": "https://open.spotify.com/album/12HdgFBc0Ij4mvk9MefIk2"
-      },
-      "artists": [
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Erinnerung",
-      "url": "https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i"
-    },
-    {
-      "added_at": "2025-04-10 22:00:23",
-      "album": {
         "name": "Himmel Leer",
         "url": "https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK"
       },
@@ -819,6 +799,42 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
+        "name": "Du bist das Beste",
+        "url": "https://open.spotify.com/album/01qisonHMpguE3K1JddI4a"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 147123,
+      "name": "Du bist das Beste",
+      "url": "https://open.spotify.com/track/0z6072QweZ2Id62A4CcMb8"
+    },
+    {
+      "added_at": "2025-04-10 22:00:23",
+      "album": {
+        "name": "Erinnerung",
+        "url": "https://open.spotify.com/album/12HdgFBc0Ij4mvk9MefIk2"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "Erinnerung",
+      "url": "https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i"
+    },
+    {
+      "added_at": "2025-04-10 22:00:23",
+      "album": {
         "name": "Meine Augen",
         "url": "https://open.spotify.com/album/4aM7Vsa3PIsMm2qarPJ4Is"
       },
@@ -835,18 +851,22 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "Du bist das Beste",
-        "url": "https://open.spotify.com/album/01qisonHMpguE3K1JddI4a"
+        "name": "Wundersch\u00f6n",
+        "url": "https://open.spotify.com/album/6lpa9euCDZVAOwHO8RrHMV"
       },
       "artists": [
         {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        },
+        {
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
         }
       ],
-      "duration_ms": 147123,
-      "name": "Du bist das Beste",
-      "url": "https://open.spotify.com/track/0z6072QweZ2Id62A4CcMb8"
+      "duration_ms": 158786,
+      "name": "Wundersch\u00f6n",
+      "url": "https://open.spotify.com/track/6qtysa6hXjmuWtmuXbOJtj"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -927,6 +947,22 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
+        "name": "gl\u00fccklich ohne dich",
+        "url": "https://open.spotify.com/album/7LvFdCU6m28MfVDgEwy5HQ"
+      },
+      "artists": [
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "duration_ms": 153367,
+      "name": "gl\u00fccklich ohne dich",
+      "url": "https://open.spotify.com/track/64eMg1XPRTKjtoW6ohdN6S"
+    },
+    {
+      "added_at": "2025-04-10 22:00:23",
+      "album": {
         "name": "Dieses eine Lied",
         "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
       },
@@ -959,18 +995,18 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "gl\u00fccklich ohne dich",
-        "url": "https://open.spotify.com/album/7LvFdCU6m28MfVDgEwy5HQ"
+        "name": "Dschungelbuch",
+        "url": "https://open.spotify.com/album/2btc4wUHco7gn7bTIMyfCN"
       },
       "artists": [
         {
-          "name": "Anna Grey",
-          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
         }
       ],
-      "duration_ms": 153367,
-      "name": "gl\u00fccklich ohne dich",
-      "url": "https://open.spotify.com/track/64eMg1XPRTKjtoW6ohdN6S"
+      "duration_ms": 184615,
+      "name": "Dschungelbuch",
+      "url": "https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -1031,26 +1067,6 @@
       "duration_ms": 177208,
       "name": "Weisse Orchideen",
       "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
-    },
-    {
-      "added_at": "2025-04-10 22:00:23",
-      "album": {
-        "name": "Wundersch\u00f6n",
-        "url": "https://open.spotify.com/album/6lpa9euCDZVAOwHO8RrHMV"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        },
-        {
-          "name": "Bozza",
-          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Wundersch\u00f6n",
-      "url": "https://open.spotify.com/track/6qtysa6hXjmuWtmuXbOJtj"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -1131,26 +1147,6 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "Ich Liebe Dich",
-        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 155152,
-      "name": "Ich Liebe Dich",
-      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
-    },
-    {
-      "added_at": "2025-04-10 22:00:23",
-      "album": {
         "name": "LOVEBOMB",
         "url": "https://open.spotify.com/album/2PbtxsIx0WXfhCJYBKDjHE"
       },
@@ -1175,18 +1171,18 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "Dschungelbuch",
-        "url": "https://open.spotify.com/album/2btc4wUHco7gn7bTIMyfCN"
+        "name": "Unsichtbar",
+        "url": "https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi"
       },
       "artists": [
         {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Dschungelbuch",
-      "url": "https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb"
+      "duration_ms": 143725,
+      "name": "Unsichtbar",
+      "url": "https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -1211,18 +1207,38 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "Unsichtbar",
-        "url": "https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi"
+        "name": "Brauch nur dich",
+        "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
       },
       "artists": [
         {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
         }
       ],
-      "duration_ms": 143725,
-      "name": "Unsichtbar",
-      "url": "https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw"
+      "duration_ms": 144926,
+      "name": "Brauch nur dich",
+      "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
+    },
+    {
+      "added_at": "2025-04-10 22:00:23",
+      "album": {
+        "name": "Ich Liebe Dich",
+        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 155152,
+      "name": "Ich Liebe Dich",
+      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -1239,22 +1255,6 @@
       "duration_ms": 133850,
       "name": "French Nails",
       "url": "https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ"
-    },
-    {
-      "added_at": "2025-04-10 22:00:23",
-      "album": {
-        "name": "Brauch nur dich",
-        "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
-      },
-      "artists": [
-        {
-          "name": "LoSin",
-          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
-        }
-      ],
-      "duration_ms": 144926,
-      "name": "Brauch nur dich",
-      "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "Wegen dir",
-        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Wegen dir",
-      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
-    },
-    {
-      "added_at": "2025-04-10 22:00:23",
-      "album": {
         "name": "Verschwendete Zeit",
         "url": "https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
+        "name": "Wegen dir",
+        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Wegen dir",
+      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
+    },
+    {
+      "added_at": "2025-04-10 22:00:23",
+      "album": {
         "name": "Breaking your heart",
         "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
       },
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
+        "name": "Let me love you",
+        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
+      },
+      "artists": [
+        {
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "Let me love you",
+      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
+    },
+    {
+      "added_at": "2025-04-10 22:00:23",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 166748,
       "name": "1995",
       "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
-    },
-    {
-      "added_at": "2025-04-10 22:00:23",
-      "album": {
-        "name": "Leyfi",
-        "url": "https://open.spotify.com/album/1Zb8ozA5TKXIBcwUIOEkC5"
-      },
-      "artists": [
-        {
-          "name": "PA Sports",
-          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Leyfi",
-      "url": "https://open.spotify.com/track/6MH1qbmbOjmM2ZJSzFPnOA"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "Let me love you",
-        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
+        "name": "Leyfi",
+        "url": "https://open.spotify.com/album/1Zb8ozA5TKXIBcwUIOEkC5"
       },
       "artists": [
         {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
         }
       ],
-      "duration_ms": 167889,
-      "name": "Let me love you",
-      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
+      "duration_ms": 177446,
+      "name": "Leyfi",
+      "url": "https://open.spotify.com/track/6MH1qbmbOjmM2ZJSzFPnOA"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "Es tut mir leid",
-        "url": "https://open.spotify.com/album/6roQdjU31kV82xdkNbKHoK"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 150738,
-      "name": "Es tut mir leid",
-      "url": "https://open.spotify.com/track/25iULX1Gp22gr5dS98PRTy"
-    },
-    {
-      "added_at": "2025-04-10 22:00:23",
-      "album": {
         "name": "Wo willst du hin",
         "url": "https://open.spotify.com/album/3iiwJPvHpXKkd7q6zypjH9"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 169360,
       "name": "Wo willst du hin",
       "url": "https://open.spotify.com/track/5LQWQfkGvMS73vYd3JMCP5"
+    },
+    {
+      "added_at": "2025-04-10 22:00:23",
+      "album": {
+        "name": "Es tut mir leid",
+        "url": "https://open.spotify.com/album/6roQdjU31kV82xdkNbKHoK"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 150738,
+      "name": "Es tut mir leid",
+      "url": "https://open.spotify.com/track/25iULX1Gp22gr5dS98PRTy"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
+        "name": "Liebe = Schmerz",
+        "url": "https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK"
+      },
+      "artists": [
+        {
+          "name": "Paves 16",
+          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Liebe = Schmerz",
+      "url": "https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF"
+    },
+    {
+      "added_at": "2025-04-10 22:00:23",
+      "album": {
         "name": "NuR Du :/",
         "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
       },
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2025-04-10 22:00:23",
       "album": {
-        "name": "Liebe = Schmerz",
-        "url": "https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK"
+        "name": "Elbe",
+        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
       },
       "artists": [
         {
-          "name": "Paves 16",
-          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
         }
       ],
-      "duration_ms": 157800,
-      "name": "Liebe = Schmerz",
-      "url": "https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF"
+      "duration_ms": 195653,
+      "name": "Elbe",
+      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
     },
     {
       "added_at": "2025-04-10 22:00:23",
@@ -1607,22 +1623,6 @@
       "duration_ms": 173487,
       "name": "Ende",
       "url": "https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1"
-    },
-    {
-      "added_at": "2025-04-10 22:00:23",
-      "album": {
-        "name": "Elbe",
-        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
-      },
-      "artists": [
-        {
-          "name": "Bozza",
-          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Elbe",
-      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
     },
     {
       "added_at": "2025-04-10 22:00:23",

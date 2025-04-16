@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Eddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,376 likes - 112 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,419 likes - 112 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

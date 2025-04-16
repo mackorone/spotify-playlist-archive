@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 18858,
+  "num_followers": 18859,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAAC7j4G+OdD3x12MgDJU45T",
+  "snapshot_id": "Z/xQAAAAAADCiv0XmRG2PjWzVTZoKMvK",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 451626,
+      "name": "Morning Light Silhouettes 1",
+      "url": "https://open.spotify.com/track/7qhqxUZim8dgGAe7dzhVlR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 556240,
       "name": "Temple of Silence",
       "url": "https://open.spotify.com/track/5RVcMhbIaIfekTjo7zL8ij"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reiki Hands of Love",
-        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 451626,
-      "name": "Morning Light Silhouettes 1",
-      "url": "https://open.spotify.com/track/7qhqxUZim8dgGAe7dzhVlR"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mystery of Light",
-        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 305226,
-      "name": "Celestial Meadows",
-      "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+        "name": "Mystery of Light",
+        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
       },
       "artists": [
         {
@@ -444,25 +428,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 458373,
-      "name": "Tonglen",
-      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sea and Silence",
-        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 807853,
-      "name": "Sea and Silence",
-      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
+      "duration_ms": 305226,
+      "name": "Celestial Meadows",
+      "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
     },
     {
       "added_at": null,
@@ -483,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 458373,
+      "name": "Tonglen",
+      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 522013,
       "name": "Huit",
       "url": "https://open.spotify.com/track/2BfQ8b6lOmOCohyKzhbiyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sea and Silence",
+        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 807853,
+      "name": "Sea and Silence",
+      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garden of the Gods",
-        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Annette Cantor",
-          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
-        }
-      ],
-      "duration_ms": 464360,
-      "name": "Gaia Dreaming Herself Awake",
-      "url": "https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -583,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Love",
-        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "Deeper than the Sky",
-      "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -612,9 +576,25 @@
           "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 625760,
-      "name": "Seashell",
-      "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
+      "duration_ms": 464360,
+      "name": "Gaia Dreaming Herself Awake",
+      "url": "https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 486893,
+      "name": "Still Stones of Silence",
+      "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
     },
     {
       "added_at": null,
@@ -647,6 +627,26 @@
       "duration_ms": 566813,
       "name": "Schein und Widerschein",
       "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "duration_ms": 625760,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
     },
     {
       "added_at": null,

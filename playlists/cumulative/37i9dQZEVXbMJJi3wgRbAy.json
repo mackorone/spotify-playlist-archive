@@ -4078,7 +4078,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "COLOCARTELO",
       "url": "https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn"
@@ -5840,7 +5840,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 144148,
       "name": "DOCTOR",
       "url": "https://open.spotify.com/track/6vkS0jD3LAoQFW8CirpLI4"
@@ -9904,7 +9904,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 141313,
       "name": "La \u00daltima Granada",
       "url": "https://open.spotify.com/track/0aVfypFFEYeJ1px3Bb65Xm"
@@ -15810,6 +15810,24 @@
       "duration_ms": 151187,
       "name": "QUIEREN M\u00c1S",
       "url": "https://open.spotify.com/track/1gNcGBnYHBRU9ImqJZQamn"
+    },
+    {
+      "album": {
+        "name": "Quiero Besarte la Boca",
+        "url": "https://open.spotify.com/album/3eS0EgkXaB28qL0IKSZ328"
+      },
+      "artists": [
+        {
+          "name": "Cutterinyo",
+          "url": "https://open.spotify.com/artist/46UjLUTpevQ0MjmBbjOWtX"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150976,
+      "name": "Quiero Besarte la Boca",
+      "url": "https://open.spotify.com/track/3AiLzbnMyTkOcd0qhJ0pnM"
     },
     {
       "album": {

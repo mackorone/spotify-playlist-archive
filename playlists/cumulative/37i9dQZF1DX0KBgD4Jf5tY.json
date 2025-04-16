@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:60hS0Wt0Px2B3rr9Zzur8E\">Gaia Banfi</a>, in cover, con il suo album d'esordio La Maccaia.",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:0zInhyakN9jMdmXwCLRUyW\">moha111</a>, in cover.",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -932,6 +932,24 @@
       "duration_ms": 199384,
       "name": "A voc ro padron",
       "url": "https://open.spotify.com/track/2qZdZw7wAo6URlj1j0edfJ"
+    },
+    {
+      "album": {
+        "name": "A volte niente",
+        "url": "https://open.spotify.com/album/7KWt5yIfPmNjqOPAE6gmCn"
+      },
+      "artists": [
+        {
+          "name": "Amanda Roberts",
+          "url": "https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219166,
+      "name": "A volte niente",
+      "url": "https://open.spotify.com/track/1kbVTATU4efjYT1hOuCRl5"
     },
     {
       "album": {
@@ -5108,7 +5126,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 206666,
       "name": "Che male c'\u00e8?",
       "url": "https://open.spotify.com/track/7dV5IhoorEN6HzOqIkPyjt"
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 231241,
       "name": "citt\u00e0 invisibili",
       "url": "https://open.spotify.com/track/6EEH2FcKNxgJa25jvtk6mO"
@@ -10473,6 +10491,24 @@
     },
     {
       "album": {
+        "name": "GPT4",
+        "url": "https://open.spotify.com/album/7gbn9rPCUbVlcUKpl7e3EM"
+      },
+      "artists": [
+        {
+          "name": "Polpo Kid",
+          "url": "https://open.spotify.com/artist/0Dent3tgWtRpUwVHRHvv6x"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "GPT4",
+      "url": "https://open.spotify.com/track/6XERWbSYbUywgAFwJ1zzVN"
+    },
+    {
+      "album": {
         "name": "Graffi",
         "url": "https://open.spotify.com/album/21kWptj6rY79sOAlCG5Si8"
       },
@@ -11596,6 +11632,28 @@
       "duration_ms": 125624,
       "name": "Il suono che ho dentro alla testa",
       "url": "https://open.spotify.com/track/6MfiKVSAiknuYP9XUXQYFg"
+    },
+    {
+      "album": {
+        "name": "il tuo corpo parla per noi",
+        "url": "https://open.spotify.com/album/45ENHzP8TesNy5AZkHfBtx"
+      },
+      "artists": [
+        {
+          "name": "Lanyard",
+          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
+        },
+        {
+          "name": "Luke Lecomte",
+          "url": "https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175838,
+      "name": "il tuo corpo parla per noi",
+      "url": "https://open.spotify.com/track/75KDvsdkRCbPpXWWLIsGEI"
     },
     {
       "album": {
@@ -13757,6 +13815,24 @@
     },
     {
       "album": {
+        "name": "NUERA",
+        "url": "https://open.spotify.com/album/1MhslsIpKaWU8Ga2XJT4Uw"
+      },
+      "artists": [
+        {
+          "name": "Le Nora",
+          "url": "https://open.spotify.com/artist/0XhZn5naaUOBbwYMSczxXC"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208162,
+      "name": "LNDN",
+      "url": "https://open.spotify.com/track/2VmTT3exoFWOMUFt7hwCHf"
+    },
+    {
+      "album": {
         "name": "Non ti scordar di me",
         "url": "https://open.spotify.com/album/7tUCuhD58UCoPcOqFTNzqg"
       },
@@ -13856,6 +13932,24 @@
       "duration_ms": 138010,
       "name": "Lontano",
       "url": "https://open.spotify.com/track/1uJmufGsODy6ntsKfVkRh0"
+    },
+    {
+      "album": {
+        "name": "Lontano da qui",
+        "url": "https://open.spotify.com/album/7sBtTwXcBXcLCMULB5rP0p"
+      },
+      "artists": [
+        {
+          "name": "Paola Pizzino",
+          "url": "https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Lontano da qui",
+      "url": "https://open.spotify.com/track/0GF055XwCDyHJ7NevXpCZR"
     },
     {
       "album": {
@@ -17088,7 +17182,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 193933,
       "name": "NIRVANA",
       "url": "https://open.spotify.com/track/66w2dE3KZeM5XsGbzag8uW"
@@ -23085,6 +23179,24 @@
     },
     {
       "album": {
+        "name": "Scacco Matto",
+        "url": "https://open.spotify.com/album/1V5F1YVP3pNUlYO0SP3kY8"
+      },
+      "artists": [
+        {
+          "name": "BRAMA",
+          "url": "https://open.spotify.com/artist/10t1PGVDUksWu9qsT7shPy"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181092,
+      "name": "Scacco Matto",
+      "url": "https://open.spotify.com/track/0tGxgTg4sP33xjCUWbokMZ"
+    },
+    {
+      "album": {
         "name": "TURISTA X SEMPRE",
         "url": "https://open.spotify.com/album/0qdfyaF0UA0ziAC6lWD3wV"
       },
@@ -24032,7 +24144,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 171607,
       "name": "Shasha",
       "url": "https://open.spotify.com/track/12lrlwiXTTX30h6mR3cGRS"
@@ -25132,7 +25244,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 248808,
       "name": "Spring (But With The Snow)",
       "url": "https://open.spotify.com/track/6zW0xZCyPE1sYCi7flJmHM"
@@ -26874,7 +26986,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 172399,
       "name": "TR\u00c8S JOLIE",
       "url": "https://open.spotify.com/track/1JXKz4JVlfgIDM4yQwXICy"

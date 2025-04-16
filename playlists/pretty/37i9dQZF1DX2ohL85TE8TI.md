@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: When Life Gives You Tangerines\(폭싹 속았수다\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: Resident Playbook\(언젠가는 슬기로울 전공의생활\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,531,277 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,531,252 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 |
 | 100 | [All Day](https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [All Day \(Better Days X Kim Seungmin, Layone\)](https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV) | 3:19 |
 
-Snapshot ID: `Z/y//QAAAABIS3fhjZO2s0vaYOGJQZ60`
+Snapshot ID: `Z/38FQAAAAB2cZqkQJ7WLvx18wDmoNfs`

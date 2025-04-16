@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 274712,
+  "num_followers": 274865,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAACSaLQFomiqj0jyn2qwa9eg",
+  "snapshot_id": "Z/xQAAAAAAA/7Um17rmoCDpzBa4BRSdS",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 404375,
-      "name": "Celoso Enfermo",
-      "url": "https://open.spotify.com/track/4MSRj7FoiCamxvqdRJh2Zt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 190066,
       "name": "Mirada Triste",
       "url": "https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 404375,
+      "name": "Celoso Enfermo",
+      "url": "https://open.spotify.com/track/4MSRj7FoiCamxvqdRJh2Zt"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 530280,
-      "name": "A Su Vato Enga\u00f1a",
-      "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 210076,
       "name": "Cumbia Morena",
       "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 530280,
+      "name": "A Su Vato Enga\u00f1a",
+      "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Fumando",
-        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 330500,
-      "name": "A Ti Mi Dama",
-      "url": "https://open.spotify.com/track/6eOLT7ugIriFbbFYZVzh8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 139075,
       "name": "Como la Espuma",
       "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguimos Fumando",
+        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 330500,
+      "name": "A Ti Mi Dama",
+      "url": "https://open.spotify.com/track/6eOLT7ugIriFbbFYZVzh8V"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No S\u00e9 Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "No S\u00e9 Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Chidas Pal Cuarto",
         "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 294504,
       "name": "Primero Lo Que Deja",
       "url": "https://open.spotify.com/track/3xupp1fab05rKDBUIIloS3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No S\u00e9 Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "No S\u00e9 Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
     },
     {
       "added_at": null,

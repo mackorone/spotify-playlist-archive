@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Los Rumberos en portada.",
-  "num_followers": 90621,
+  "num_followers": 90622,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-04-11 06:00:10",
       "album": {
-        "name": "N.I.T.",
-        "url": "https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr"
-      },
-      "artists": [
-        {
-          "name": "Mikel Izal",
-          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 209220,
-      "name": "N.I.T.",
-      "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
-    },
-    {
-      "added_at": "2025-04-11 06:00:10",
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
+    },
+    {
+      "added_at": "2025-04-11 06:00:10",
+      "album": {
+        "name": "N.I.T.",
+        "url": "https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr"
+      },
+      "artists": [
+        {
+          "name": "Mikel Izal",
+          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 209220,
+      "name": "N.I.T.",
+      "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
     },
     {
       "added_at": "2025-04-11 06:00:10",

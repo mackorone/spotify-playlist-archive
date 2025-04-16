@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 36696,
+  "num_followers": 36739,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAAleCJL3Y1MqaQ8zj3DU9Jc",
+  "snapshot_id": "Z/xQAAAAAAC4+rIGM+877DDxBTOfemd0",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANEXO",
-        "url": "https://open.spotify.com/album/0vwYY2uOeR2Y0KZfhbPUgp"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 155325,
-      "name": "ANEXO",
-      "url": "https://open.spotify.com/track/5mCaf24VMbBH62lCCoqIDH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mercedes Cuadradita (En Vivo)",
         "url": "https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq"
       },
@@ -907,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ANEXO",
+        "url": "https://open.spotify.com/album/0vwYY2uOeR2Y0KZfhbPUgp"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 155325,
+      "name": "ANEXO",
+      "url": "https://open.spotify.com/track/5mCaf24VMbBH62lCCoqIDH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El \u00c1guila Real",
         "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 175840,
       "name": "El Jabali - Huapango Version",
       "url": "https://open.spotify.com/track/3HztqhFkIjy8Jf48FOKDJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9 Pena Contigo",
-        "url": "https://open.spotify.com/album/1BDpZXHvQuuZxsk3iGUgoh"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 156858,
-      "name": "Qu\u00e9 Pena Contigo",
-      "url": "https://open.spotify.com/track/5LkX1CktvInZ3kRotKu37f"
     },
     {
       "added_at": null,
@@ -959,6 +939,26 @@
       "duration_ms": 185840,
       "name": "Se Te Parte El Alma",
       "url": "https://open.spotify.com/track/6FX1hxjdmuLR4xYalLhZkZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Pena Contigo",
+        "url": "https://open.spotify.com/album/1BDpZXHvQuuZxsk3iGUgoh"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 156858,
+      "name": "Qu\u00e9 Pena Contigo",
+      "url": "https://open.spotify.com/track/5LkX1CktvInZ3kRotKu37f"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-409 songs - 21 hr 34 min
+410 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Echoes](https://open.spotify.com/track/6gSjsxT1iv3Rof2iQNYv5m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Echoes](https://open.spotify.com/album/4NPyGmVSGAqow9SoaQssXF) | 2:24 | 2023-01-11 | 2023-01-25 |
 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-04-28 |  |
 | [Esta Vida \- Jess Bays Remix](https://open.spotify.com/track/3DJpjKvU8vccxudxq0RO6f) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [Esta Vida \(Jess Bays Remix\)](https://open.spotify.com/album/4jdGfY92pBza5dbVWOnskR) | 3:52 | 2023-07-13 | 2023-08-17 |
+| [Ethnica \(Pasilda\)](https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4), [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Ethnica \(Pasilda\)](https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q) | 2:50 | 2025-04-11 |  |
 | [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-04-28 | 2024-10-06 |
 | [Ever After](https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Confessions](https://open.spotify.com/album/5vvby3mFBAzt10wi3YvFyQ) | 3:47 | 2021-10-29 | 2022-01-17 |
 | [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 | 2023-12-22 | 2024-07-27 |
@@ -112,7 +113,7 @@
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-30 | 2023-01-02 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-03-15 | 2024-05-21 |
 | [Far Away From Home \(feat\. Leony\)](https://open.spotify.com/track/0Y9qJSwdV2LvPnFmAbNIc8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Far Away From Home \(feat\. Leony\)](https://open.spotify.com/album/5DCRPiPF8kxpfVK4emac4Z) | 2:43 | 2021-10-29 | 2022-03-26 |
-| [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-06-07 |  |
+| [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-06-07 | 2025-04-16 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-09-29 | 2024-03-16 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-13 | 2023-08-21 |
 | [Feel My Needs](https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feel My Needs](https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn) | 2:30 | 2024-09-27 | 2025-01-13 |

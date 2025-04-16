@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > Ouve os hits do verão de 2024! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,161 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,150 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 81 | [Maria Joana](https://open.spotify.com/track/4yY22pTpZ7qqOEGUtbE6D4) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN) | [Maria Joana](https://open.spotify.com/album/0jmto7Z5M3Tcd1Kb3MZmpz) | 3:47 |
 | 82 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 |
 | 83 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 |
-| 84 | [Nota 100](https://open.spotify.com/track/3XqGBLVhC04xNCxRXB2pvF) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 2:48 |
-| 85 | [Amar De Cor](https://open.spotify.com/track/0ZEQ6vnAHTARAgpxFF8NLS) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:45 |
-| 86 | [Planeta](https://open.spotify.com/track/0r1WiGIHk8ys95AvbqCbwW) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Planeta](https://open.spotify.com/album/68WbQweOEDySKYhftpKfcE) | 2:47 |
+| 84 | [Habibi](https://open.spotify.com/track/31w82iq7jsYmPAsM8YChIy) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 3:24 |
+| 85 | [Planeta](https://open.spotify.com/track/0r1WiGIHk8ys95AvbqCbwW) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Planeta](https://open.spotify.com/album/68WbQweOEDySKYhftpKfcE) | 2:47 |
+| 86 | [Amar De Cor](https://open.spotify.com/track/0ZEQ6vnAHTARAgpxFF8NLS) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:45 |
 | 87 | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv) | 2:24 |
 | 88 | [Vacilão](https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Vacilão](https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv) | 2:10 |
 | 89 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
 | 90 | [Até ao Fim](https://open.spotify.com/track/0KVuFaXvgC5v4xRlSIiitI) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Até ao Fim](https://open.spotify.com/album/46YktMeTszHGnImZEd4AT0) | 3:24 |
 | 91 | [Dis\-Le Moi](https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis\-Le Moi](https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp) | 3:20 |
-| 92 | [Habibi](https://open.spotify.com/track/31w82iq7jsYmPAsM8YChIy) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 3:24 |
+| 92 | [Nota 100](https://open.spotify.com/track/3XqGBLVhC04xNCxRXB2pvF) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 2:48 |
 | 93 | [CASA](https://open.spotify.com/track/3hUk7wHp5Ruas0FLLVW69c) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [CASA](https://open.spotify.com/album/0MiBg6aI8QwreRNhrHOtGb) | 3:28 |
 | 94 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 |
 | 95 | [ACORDA PEDRINHO](https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Acorda, Pedrinho](https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj) | 2:53 |

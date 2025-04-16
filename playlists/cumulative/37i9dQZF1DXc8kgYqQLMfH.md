@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,211 songs - 1 day 22 hr 10 min
+1,212 songs - 1 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Flora](https://open.spotify.com/track/0sOSilCF5RocChd0YCh5cm) | [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Flora](https://open.spotify.com/album/0pkrcCSzWQjKDklQxZeb2y) | 2:35 | 2021-11-10 | 2022-11-12 |
 | [florida keys](https://open.spotify.com/track/4cGB1bYpm6kvBMUERmaFHl) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [florida keys](https://open.spotify.com/album/27EBx07LQxBo1M690AWHzo) | 2:04 | 2021-11-10 | 2023-03-02 |
 | [Floweret](https://open.spotify.com/track/7wBChE1IqPBNbEEq3SGtnW) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Floweret](https://open.spotify.com/album/6M0HnkBdsWTPcszQcNdDNS) | 2:21 | 2021-11-10 | 2023-05-20 |
-| [Flowers](https://open.spotify.com/track/6SYl55XQDXAllbN8ZWIFXQ) | [Alf Bringström](https://open.spotify.com/artist/5pJjeqNUp7OHlqH3ocOO0K) | [Flowers](https://open.spotify.com/album/36H3hDtR0cR6F46zrJIWZ8) | 2:13 | 2023-03-16 |  |
+| [Flowers](https://open.spotify.com/track/6SYl55XQDXAllbN8ZWIFXQ) | [Alf Bringström](https://open.spotify.com/artist/5pJjeqNUp7OHlqH3ocOO0K) | [Flowers](https://open.spotify.com/album/36H3hDtR0cR6F46zrJIWZ8) | 2:13 | 2023-03-16 | 2025-04-16 |
 | [flowing memories](https://open.spotify.com/track/7dcu40UykEJtxymCUHle0t) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [flowing memories](https://open.spotify.com/album/7hVhayjbOW8N0hOyi2QMXb) | 2:34 | 2023-11-17 |  |
 | [Fluff](https://open.spotify.com/track/54LKiXE5UIdFzDgKsbLacL) | [Hanses](https://open.spotify.com/artist/6wwQjgTWrlZBFU4PcloxaR), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fluff](https://open.spotify.com/album/7qnaVlVTffLYXPSaQzLkiB) | 1:53 | 2023-09-01 |  |
 | [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-05-19 | 2025-01-30 |
@@ -612,7 +612,7 @@
 | [Looking Up To The Sky](https://open.spotify.com/track/5AxmNIeY9dwOxmTMD9iZId) | [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Looking Up To The Sky](https://open.spotify.com/album/47tuRfkcxIdKb5lIfW2GoC) | 2:16 | 2022-11-11 |  |
 | [Lori](https://open.spotify.com/track/6CJ5YJVLZmFoA8DTvawxuV) | [Navelpluis](https://open.spotify.com/artist/3axjOJUhll8B2Cpd22sLpa) | [Lori](https://open.spotify.com/album/7AorujSgCPBN9VjwyYCWaP) | 2:04 | 2022-12-23 | 2023-10-23 |
 | [Lost](https://open.spotify.com/track/30sDH0JNvR7SuLCzV1eLnr) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Lost](https://open.spotify.com/album/3S3JJK28AcSL2BpJu9Caym) | 2:27 | 2022-07-01 | 2023-09-22 |
-| [lost and found](https://open.spotify.com/track/1va1PT3H3KAZrcDi26KYFU) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [lost and found](https://open.spotify.com/album/6Ww8jIErMp9GGzp3VrGE9K) | 2:12 | 2023-04-03 | 2024-09-13 |
+| [lost and found](https://open.spotify.com/track/1va1PT3H3KAZrcDi26KYFU) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [lost and found](https://open.spotify.com/album/6Ww8jIErMp9GGzp3VrGE9K) | 2:12 | 2023-04-03 |  |
 | [Lost Around You](https://open.spotify.com/track/6NQliPgMvvohu8icN1QVXS) | [franz.](https://open.spotify.com/artist/2iNqhG5SC3ZAG6KpHM3HIk), [enoch](https://open.spotify.com/artist/6DJQwUpD4sBAYXGQEF9cLi) | [Lost Around You](https://open.spotify.com/album/1sXrwOONuN3hbSxipNsuw7) | 3:04 | 2022-07-22 | 2023-03-18 |
 | [Lost In The Club](https://open.spotify.com/track/5lGVwkBwlIiUCbFNkxff50) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Jazzi Trees](https://open.spotify.com/album/0Ob7VnPaKXxUDTrAP6Dc9k) | 1:58 | 2023-03-01 |  |
 | [Lost in Time](https://open.spotify.com/track/3ZzE94F2aprxYIifQpSGPW) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lost in Time](https://open.spotify.com/album/1gYZeyDHGN5NM1Iqmybuzq) | 1:33 | 2022-11-11 | 2022-12-15 |
@@ -654,7 +654,7 @@
 | [Meanwhile](https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [Meanwhile](https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf) | 2:22 | 2023-02-17 |  |
 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 | 2022-02-18 |  |
 | [Meditation](https://open.spotify.com/track/7MnDyrWn3Dj9qpcDM3QTdO) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Meditation](https://open.spotify.com/album/0NqsqLK6jSuRo8GuhrlwiT) | 1:22 | 2022-12-09 |  |
-| [meet](https://open.spotify.com/track/6SlJOOHQDkUERNJOb2zo1Q) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [meet](https://open.spotify.com/album/2hFyV6uy0qOzuv1nIRqDax) | 2:02 | 2023-02-07 |  |
+| [meet](https://open.spotify.com/track/6SlJOOHQDkUERNJOb2zo1Q) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [meet](https://open.spotify.com/album/2hFyV6uy0qOzuv1nIRqDax) | 2:02 | 2023-02-07 | 2025-04-16 |
 | [Meeting Up At Night](https://open.spotify.com/track/1VSqMBcvU4vsgtcyBBGyag) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Meeting Up At Night](https://open.spotify.com/album/6u5bkANy5hqUH9s2riEFXN) | 2:57 | 2022-07-01 | 2023-09-22 |
 | [Meetings](https://open.spotify.com/track/2gZpKWXtpyUHQf9LZBJCCA) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Meetings](https://open.spotify.com/album/6By26w3NxZYcaWCVk2vyOH) | 2:40 | 2022-10-28 |  |
 | [mellow](https://open.spotify.com/track/6NQifrTw9bIazUX9oGfSsa) | [shogani](https://open.spotify.com/artist/0y76RS7R6xSSztxu7QfvN0) | [mellow](https://open.spotify.com/album/5hrFU6NdaH8oCAOZAy7wP0) | 2:07 | 2021-11-10 | 2022-10-29 |
@@ -1215,6 +1215,7 @@
 | [Yambula](https://open.spotify.com/track/4ecmvloQdEjcx1a85qhHe1) | [Elengi](https://open.spotify.com/artist/3wCEfYsM06yRGxVUgvnuAZ) | [Yambula](https://open.spotify.com/album/3OMuwO9VZvWQ3InylSXOLz) | 1:54 | 2021-11-10 | 2022-09-03 |
 | [Yellow Mornings](https://open.spotify.com/track/2RUqbOHOiHEytATL8ia66F) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [The View From The Tree House](https://open.spotify.com/album/59QF8BGS1UOX1l0NsluIYe) | 2:01 | 2022-09-16 | 2023-10-06 |
 | [Yoga](https://open.spotify.com/track/75UOrI1wOhL7BoDq0IqEMf) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [Rubber Plant](https://open.spotify.com/album/5vdfLPKSeOM4IxT0m5M9ol) | 2:54 | 2021-11-10 | 2022-07-22 |
+| [You](https://open.spotify.com/track/03ykJsoDNnn1jgeaxGn0ns) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [You](https://open.spotify.com/album/0RRcNpITS5zDRUCfr4iHVi) | 1:57 | 2025-03-14 |  |
 | [You Can Have It](https://open.spotify.com/track/1xTo1SwN5FswdeBXyq9Xfa) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [You Can Have It](https://open.spotify.com/album/1aaqe1wHZzy9dO9Altzn3U) | 1:36 | 2023-03-16 |  |
 | [Your Eyes](https://open.spotify.com/track/1kR1zMHBceL0bhbtGnyrkP) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Your Eyes](https://open.spotify.com/album/3koTAiq6tJJg5usPYNiKDf) | 2:06 | 2024-03-22 |  |
 | [yours](https://open.spotify.com/track/40jnfHn8DfFbTY09IWQm9u) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [yours](https://open.spotify.com/album/2FIeWVhDmSt2R4JRPskb7Q) | 2:29 | 2021-11-10 | 2022-07-29 |

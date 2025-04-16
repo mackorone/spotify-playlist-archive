@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 797202,
+  "num_followers": 797269,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "An Ocean Of Strange Islands",
         "url": "https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 276705,
       "name": "Fairy of the Bog",
       "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Dance Till We Sink",
-        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
-      },
-      "artists": [
-        {
-          "name": "A Wildheart's Tale",
-          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
-        }
-      ],
-      "duration_ms": 178999,
-      "name": "Dance Till We Sink",
-      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "The Endless Shore",
         "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 298124,
       "name": "The Endless Shore",
       "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Dance Till We Sink",
+        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
+      },
+      "artists": [
+        {
+          "name": "A Wildheart's Tale",
+          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
+        }
+      ],
+      "duration_ms": 178999,
+      "name": "Dance Till We Sink",
+      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Sorrowbreaker",
-        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
       "artists": [
         {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
         }
       ],
-      "duration_ms": 177640,
-      "name": "Retrospectator",
-      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Love Reign O'er Me",
-        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
+        "name": "Sorrowbreaker",
+        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
       },
       "artists": [
         {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
         }
       ],
-      "duration_ms": 240106,
-      "name": "Love Reign O'er Me",
-      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+      "duration_ms": 177640,
+      "name": "Retrospectator",
+      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Seventh Rum of a Seventh Rum",
+        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 201114,
+      "name": "Seventh Rum of a Seventh Rum",
+      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Seventh Rum of a Seventh Rum",
-        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 201114,
-      "name": "Seventh Rum of a Seventh Rum",
-      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Juokse Sin\u00e4 Humma",
+        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "Juokse Sin\u00e4 Humma",
+      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Total T-Rex Terror",
         "url": "https://open.spotify.com/album/5wTJVlHNImdqwfi4HhzDJG"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 198997,
       "name": "Hear My Voice",
       "url": "https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Juokse Sin\u00e4 Humma",
-        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "Juokse Sin\u00e4 Humma",
-      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "One More River to Cross",
-        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
-      },
-      "artists": [
-        {
-          "name": "The Ferrymen",
-          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
-        }
-      ],
-      "duration_ms": 294105,
-      "name": "Hunt Me to the End of the World",
-      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Keeper of the Celestial Flame of Abernethy",
         "url": "https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 275168,
       "name": "Holy Flaming Hammer of Unholy Cosmic Frost",
       "url": "https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "One More River to Cross",
+        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
+      },
+      "artists": [
+        {
+          "name": "The Ferrymen",
+          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
+        }
+      ],
+      "duration_ms": 294105,
+      "name": "Hunt Me to the End of the World",
+      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
-      },
-      "artists": [
-        {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Ritter Tod und Teufel (Knightfall)",
         "url": "https://open.spotify.com/album/0vim1HOPOljUal09szUN1p"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 258737,
       "name": "Ritter Tod und Teufel (Knightfall)",
       "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+      },
+      "artists": [
+        {
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2024-09-20 04:24:16",

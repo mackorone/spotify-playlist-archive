@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta & Salastkbron.",
-  "num_followers": 1172155,
+  "num_followers": 1172163,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-04-11 03:00:06",
       "album": {
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 131004,
+      "name": "Locuras contigo",
+      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
+    },
+    {
+      "added_at": "2025-04-11 03:00:06",
+      "album": {
         "name": "Todo Comenz\u00f3 Bailando (Remix)",
         "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 163529,
       "name": "Todo Comenz\u00f3 Bailando - Remix",
       "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
-    },
-    {
-      "added_at": "2025-04-11 03:00:06",
-      "album": {
-        "name": "De Fiesta",
-        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "Locuras contigo",
-      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
     },
     {
       "added_at": "2025-04-11 03:00:06",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-04-11 03:00:06",
       "album": {
-        "name": "Cuando Se Pone a Bailar",
-        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 195274,
-      "name": "Cuando Se Pone a Bailar",
-      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
-    },
-    {
-      "added_at": "2025-04-11 03:00:06",
-      "album": {
         "name": "Contrato",
         "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 204391,
       "name": "Contrato",
       "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
+    },
+    {
+      "added_at": "2025-04-11 03:00:06",
+      "album": {
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
     },
     {
       "added_at": "2025-04-11 03:00:06",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-04-11 03:00:06",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 176864,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
-    },
-    {
-      "added_at": "2025-04-11 03:00:06",
-      "album": {
         "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
         "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 153665,
       "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
       "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
+    },
+    {
+      "added_at": "2025-04-11 03:00:06",
+      "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 176864,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
     },
     {
       "added_at": "2025-04-11 03:00:06",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2025-04-11 03:00:06",
       "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2025-04-11 03:00:06",
+      "album": {
         "name": "No Te Vayas (Remix)",
         "url": "https://open.spotify.com/album/78XsJ5qvHNxyvXGUm18FPm"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 172519,
       "name": "No Te Vayas - Remix",
       "url": "https://open.spotify.com/track/1owmQGMgruRHTIQLGFCoEz"
-    },
-    {
-      "added_at": "2025-04-11 03:00:06",
-      "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
     },
     {
       "added_at": "2025-04-11 03:00:06",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-04-11 03:00:06",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
-    },
-    {
-      "added_at": "2025-04-11 03:00:06",
-      "album": {
         "name": "Aunque Te Enamores",
         "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 147960,
       "name": "Chica Brasile\u00f1a",
       "url": "https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo"
+    },
+    {
+      "added_at": "2025-04-11 03:00:06",
+      "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2025-04-11 03:00:06",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-04-11 03:00:06",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2025-04-11 03:00:06",
-      "album": {
         "name": "La M\u00e1s Amada del Pa\u00eds",
         "url": "https://open.spotify.com/album/5INAZepCtHQEin7PlHYZ4S"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 171080,
       "name": "La M\u00e1s Amada del Pa\u00eds",
       "url": "https://open.spotify.com/track/5FkdJAMh2z0ZQfxbUZXhRn"
+    },
+    {
+      "added_at": "2025-04-11 03:00:06",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2025-04-11 03:00:06",
@@ -1899,58 +1899,6 @@
     {
       "added_at": "2025-04-11 03:00:06",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Agust\u00edn Casanova",
-          "url": "https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 154624,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
-    },
-    {
-      "added_at": "2025-04-11 03:00:06",
-      "album": {
-        "name": "Como si no nos am\u00e1ramos",
-        "url": "https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Como si no nos am\u00e1ramos",
-      "url": "https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG"
-    },
-    {
-      "added_at": "2025-04-11 03:00:06",
-      "album": {
         "name": "Promet\u00ed",
         "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
@@ -1975,6 +1923,30 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2025-04-11 03:00:06",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Agust\u00edn Casanova",
+          "url": "https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 154624,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
     },
     {
       "added_at": "2025-04-11 03:00:06",
@@ -2015,6 +1987,34 @@
     {
       "added_at": "2025-04-11 03:00:06",
       "album": {
+        "name": "Como si no nos am\u00e1ramos",
+        "url": "https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Como si no nos am\u00e1ramos",
+      "url": "https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG"
+    },
+    {
+      "added_at": "2025-04-11 03:00:06",
+      "album": {
         "name": "Mil Males",
         "url": "https://open.spotify.com/album/2OFuCFPcPsVUZdiUClRgE2"
       },
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2025-04-11 03:00:06",
       "album": {
-        "name": "Noche de Party",
-        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 152942,
-      "name": "Noche de Party",
-      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
-    },
-    {
-      "added_at": "2025-04-11 03:00:06",
-      "album": {
         "name": "Pechito Partido",
         "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
       },
@@ -2079,6 +2059,26 @@
       "duration_ms": 147109,
       "name": "Pechito Partido",
       "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2025-04-11 03:00:06",
+      "album": {
+        "name": "Olvidarte (Cumbia)",
+        "url": "https://open.spotify.com/album/72bmIBaxvSG1KH9xzf8uel"
+      },
+      "artists": [
+        {
+          "name": "Nico Manriquez",
+          "url": "https://open.spotify.com/artist/2ZPsXaS21IxNDnpe6JoBNh"
+        },
+        {
+          "name": "FEDEDJ'",
+          "url": "https://open.spotify.com/artist/3aSoKs5QU9ACHqMOTe2Tw5"
+        }
+      ],
+      "duration_ms": 111539,
+      "name": "Olvidarte (Cumbia)",
+      "url": "https://open.spotify.com/track/6SvxLADouYzfTrMSeRvutg"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

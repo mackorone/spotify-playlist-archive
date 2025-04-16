@@ -1,12 +1,12 @@
 {
   "description": "Be there and be square. Listen to the music from A Minecraft Movie, now in theaters.",
-  "num_followers": 24226,
+  "num_followers": 26938,
   "original_name": "A Minecraft Movie Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/113wAAAAAJD4c+aYW531X/4wC+6hmT",
+  "snapshot_id": "Z/6T1gAAAACkcIB5up/97HsPRydOrZDT",
   "tracks": [
     {
       "added_at": "2025-03-28 04:00:25",
@@ -23,6 +23,38 @@
       "duration_ms": 246066,
       "name": "I Feel Alive (from \u201cA Minecraft Movie\u201d)",
       "url": "https://open.spotify.com/track/1b0glc1z1S4pDyU9WCKohN"
+    },
+    {
+      "added_at": "2025-03-28 04:00:25",
+      "album": {
+        "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 142680,
+      "name": "Zero to Hero",
+      "url": "https://open.spotify.com/track/2Q2kfXA7lUuBsMAbBUDo4w"
+    },
+    {
+      "added_at": "2025-03-28 04:00:25",
+      "album": {
+        "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "duration_ms": 34400,
+      "name": "Steve's Lava Chicken",
+      "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
     },
     {
       "added_at": "2025-03-28 04:00:25",
@@ -64,22 +96,6 @@
       },
       "artists": [
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 142680,
-      "name": "Zero to Hero",
-      "url": "https://open.spotify.com/track/2Q2kfXA7lUuBsMAbBUDo4w"
-    },
-    {
-      "added_at": "2025-03-28 04:00:25",
-      "album": {
-        "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
-      },
-      "artists": [
-        {
           "name": "Bret McKenzie",
           "url": "https://open.spotify.com/artist/2ThhahxrmhAOQPLB9bP1Qh"
         }
@@ -103,22 +119,6 @@
       "duration_ms": 102133,
       "name": "Just Can't Get Enough (from \"A Minecraft Movie\") - Instrumental Version",
       "url": "https://open.spotify.com/track/06p08ArZKjlgW1T1vwex1e"
-    },
-    {
-      "added_at": "2025-03-28 04:00:25",
-      "album": {
-        "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
-      },
-      "artists": [
-        {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
-        }
-      ],
-      "duration_ms": 34400,
-      "name": "Steve's Lava Chicken",
-      "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
     },
     {
       "added_at": "2025-03-28 04:00:25",

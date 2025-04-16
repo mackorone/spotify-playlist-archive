@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-87 songs - 6 hr 9 min
+93 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,10 @@
 | [Abrázame](https://open.spotify.com/track/6NnLVIgtLf9kyUF782dgiE) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg) | 4:20 | 2025-04-13 |  |
 | [Adios](https://open.spotify.com/track/3jZuOu3Ng3wj1BqdkApYy4) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:51 | 2022-09-16 | 2025-04-12 |
 | [Adios](https://open.spotify.com/track/6EZPuLApfPrdtLtgH7MJjF) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3) | 3:51 | 2025-04-12 |  |
-| [Ahora me toca a mi](https://open.spotify.com/track/7xMIUfFqhpXnXmG1Mv97xd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:56 | 2022-09-16 |  |
-| [Antídoto](https://open.spotify.com/track/1exVXnvmE8IrjR3PEKlixx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 | 2022-09-16 |  |
+| [Ahora Me Toca a Mi](https://open.spotify.com/track/7IKsUBs0cOCWoWnnzpwHCX) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 3:56 | 2025-04-16 |  |
+| [Ahora me toca a mi](https://open.spotify.com/track/7xMIUfFqhpXnXmG1Mv97xd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:56 | 2022-09-16 | 2025-04-16 |
+| [Antídoto](https://open.spotify.com/track/0DT3NABxqWZ4xCHWQE6oej) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:47 | 2025-04-16 |  |
+| [Antídoto](https://open.spotify.com/track/1exVXnvmE8IrjR3PEKlixx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 | 2022-09-16 | 2025-04-16 |
 | [Axfixiar](https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:36 | 2023-12-20 | 2025-04-12 |
 | [Axfixiar](https://open.spotify.com/track/2z1p9XLZXpqIvM198gZNNc) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3) | 3:36 | 2025-04-12 |  |
 | [Besos de Mentira](https://open.spotify.com/track/4Q8tPuSefGBkqA0Di28SHV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/2OzfXW8ByllSXhVx8AFSVe) | 4:18 | 2022-09-16 | 2025-04-13 |
@@ -21,12 +23,15 @@
 | [Brigida](https://open.spotify.com/track/3xlHWb5TsdrN0BTb0h2aM5) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:33 | 2023-09-09 | 2025-04-14 |
 | [Brigida](https://open.spotify.com/track/520Ms8HqOpj5oP0e0vDLOK) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD) | 3:33 | 2025-04-14 |  |
 | [Cabeza de escorpión](https://open.spotify.com/track/3aq5vlsKw8t97iSNXMMr0Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:15 | 2022-09-16 |  |
-| [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 | 2022-09-16 |  |
-| [Delicada violencia](https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:55 | 2022-09-16 |  |
+| [Carne \- En Vivo](https://open.spotify.com/track/2cMFgQRxbqhM4nnFIwfTEL) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/4P1YYSAq0YipbyL7LpfbWs) | 5:59 | 2025-04-16 |  |
+| [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 | 2022-09-16 | 2025-04-16 |
+| [Delicada violencia](https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:55 | 2022-09-16 | 2025-04-16 |
+| [Delicada violencia](https://open.spotify.com/track/1lNlYktmgUnE2jyd1YpamI) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:55 | 2025-04-16 |  |
 | [Domesticame](https://open.spotify.com/track/44ACTU8c8wCeifEbhqC2Ke) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:09 | 2025-04-14 |  |
 | [Domesticame](https://open.spotify.com/track/6eF5HI1s4DU3Z5b5urrVRk) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:09 | 2022-09-16 | 2025-04-14 |
 | [Dos](https://open.spotify.com/track/1TywStTqkJ9XIgPsrOMXmH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 5:04 | 2022-09-16 | 2023-09-10 |
-| [Déjalo](https://open.spotify.com/track/4A197k2VxXIqb4rH3wqw1I) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 3:39 | 2022-09-16 |  |
+| [Déjalo](https://open.spotify.com/track/4A197k2VxXIqb4rH3wqw1I) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 3:39 | 2022-09-16 | 2025-04-16 |
+| [Déjalo](https://open.spotify.com/track/6cuNcYOzNPEHNLM8qg7Jlo) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg) | 3:39 | 2025-04-16 |  |
 | [El Aparecido](https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Inti\-Illimani, Tributo A Su Música \- A La Salud de la Música Chilena](https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo) | 4:10 | 2022-09-16 |  |
 | [El espacio](https://open.spotify.com/track/17oZ17aeENHR2L8FxSNTB0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:38 | 2022-09-16 | 2025-04-14 |
 | [El espacio](https://open.spotify.com/track/7DYIAxAtdvvDQSlrQnlYRN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:38 | 2025-04-14 |  |
@@ -93,7 +98,8 @@
 | [Vibraciones](https://open.spotify.com/track/4Tas7vDWX3Pxeyha9DLXNC) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:11 | 2022-10-05 | 2022-10-13 |
 | [Virtual](https://open.spotify.com/track/1DM5zFVuY9d1mDK042UqOo) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:02 | 2022-09-16 | 2025-04-14 |
 | [Virtual](https://open.spotify.com/track/1afgmeS7U1Afi5Fz3dzFxA) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:02 | 2025-04-14 |  |
-| [Yo lloraré por ti](https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:50 | 2022-09-16 |  |
+| [Yo lloraré por ti](https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:50 | 2022-09-16 | 2025-04-16 |
+| [Yo lloraré por ti](https://open.spotify.com/track/4p6hlGrY5csRPoPq0QZ421) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:50 | 2025-04-16 |  |
 | [Zona de promesas](https://open.spotify.com/track/0lNlxx9ZbsnXqbmgylFALP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Veré Volver \- Tributo Chileno a Cerati \(Disco 2\)](https://open.spotify.com/album/2WO40wVGEPnYKpSYhoM0Z6) | 4:47 | 2022-09-18 | 2023-07-21 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

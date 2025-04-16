@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 15 Apr 03:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 16 Apr 22:04 UTC.
 
-4,546 songs - 10 day 12 hr 22 min
+4,549 songs - 10 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [bloCCeNergy](https://open.spotify.com/track/4lE8KQ4cS4JJCUljfxMdj5) | [Fler](https://open.spotify.com/artist/75ctWsRuGXmxMxnFPkuEwA) | [bloCCeNergy](https://open.spotify.com/album/2LukOFNNXHS71U5rFZGLXw) | 3:12 | 2024-08-16 | 2024-08-21 |
 | [Block](https://open.spotify.com/track/0jk7BG707tRYtrfcQR6R8y) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Block](https://open.spotify.com/album/0hlNXCcWerJq4jektVp4dF) | 2:10 | 2024-06-27 | 2024-06-29 |
 | [Blocked](https://open.spotify.com/track/5ObyX46fmyxGgPRDbEiutC) | [ColBreakz](https://open.spotify.com/artist/5FRbx6DhrJm4IXMN72bVVN) | [Blocked](https://open.spotify.com/album/65fOYmMEmshVZBezwNSduA) | 4:25 | 2024-11-07 | 2024-11-09 |
+| [BLOMSTERTID](https://open.spotify.com/track/4zjT2VKgsYLd3sv1mIJzpI) | [Dj Billybool](https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [BLOMSTERTID](https://open.spotify.com/album/4BFBfSKMI1YkndFQFjiN48) | 2:35 | 2025-04-15 |  |
 | [Blood](https://open.spotify.com/track/2H4HDpPv8K3wroBNtqSTVs) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13) | [Blood](https://open.spotify.com/album/2oZGXpvqtUJKc3wA3VbDZW) | 2:21 | 2024-05-14 | 2024-05-16 |
 | [Blood Bank Affair](https://open.spotify.com/track/4gSuzGKHJ9OafngEcGfGBk) | [Vinnie Paz](https://open.spotify.com/artist/3rExe3A3FzAmYDlQuvW2Wx), [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Blood Bank Affair](https://open.spotify.com/album/4BvazuE0UCnjQostFEB1L5) | 2:58 | 2024-05-20 | 2024-05-23 |
 | [Blood Stain III](https://open.spotify.com/track/7c0ubUKwwvizttVNEV1RMC) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [Blood Stain III](https://open.spotify.com/album/4KGprmtLUCPLdGaAuZnJgY) | 4:52 | 2024-12-06 | 2024-12-08 |
@@ -680,7 +681,7 @@
 | [Cannibals](https://open.spotify.com/track/5txTS9Of0heZutRxZUhOWx) | [Karate](https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0) | [Cannibals](https://open.spotify.com/album/426nVp8Z4KDDTqG6gSmonA) | 2:24 | 2024-09-03 | 2024-09-06 |
 | [cantBREATHE](https://open.spotify.com/track/2E5dEZE6rGEMAZMFBsBGai) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [cantBREATHE](https://open.spotify.com/album/1cXVumNqjlJ96PxeNznvZY) | 4:08 | 2024-12-05 | 2024-12-07 |
 | [Canyons](https://open.spotify.com/track/1PYTCx3uDfAn2qHY5foUjD) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX) | [Canyons](https://open.spotify.com/album/5XdBvDpsLBJj8Oe7OTrVS4) | 4:34 | 2024-05-17 | 2024-05-21 |
-| [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-04 |  |
+| [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-04 | 2025-04-16 |
 | [Carbon Monoxide](https://open.spotify.com/track/1wktoZ7Zk04idqz27Yv7aG) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Carbon Monoxide](https://open.spotify.com/album/3za4WfntQgG8L5f2HQbsD5) | 3:14 | 2025-02-07 | 2025-02-13 |
 | [Carbonated Love](https://open.spotify.com/track/5j4zF9cJiOLTSCk3TvvXWR) | [IRyS](https://open.spotify.com/artist/7y1hO3QeftnOJmWCbzeZav) | [Carbonated Love](https://open.spotify.com/album/53LVbZ6DYOV1ZiaT9eE3Qo) | 4:30 | 2024-07-11 | 2024-07-13 |
 | [Carita Linda](https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Carita Linda](https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD) | 3:23 | 2025-04-11 |  |
@@ -985,6 +986,7 @@
 | [dead2me](https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [dead2me](https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3) | 2:44 | 2024-12-03 | 2024-12-07 |
 | [DEADASS](https://open.spotify.com/track/2v729TfRh0M6ehIymBLADW) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DEADASS](https://open.spotify.com/album/2GYEjZUxauQmT0uk4vzdD3) | 1:54 | 2024-12-17 | 2024-12-21 |
 | [Deadpool X Wolverine](https://open.spotify.com/track/7H716i2hNsNiSjNAHufMLn) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Deadpool X Wolverine](https://open.spotify.com/album/3JaALfvJCUvU559EtyjP1H) | 2:34 | 2024-09-14 | 2024-09-17 |
+| [Deadstick](https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Deadstick](https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT) | 3:33 | 2025-04-15 |  |
 | [Dear Darlin](https://open.spotify.com/track/7yBli6zh4uZ0qXNY5R98qp) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Dear Darlin](https://open.spotify.com/album/0wDHOoa3ZBi5pcMEp2iIdI) | 3:21 | 2025-03-02 | 2025-03-10 |
 | [DEAR IMMIGRATION](https://open.spotify.com/track/3aSWjgvC5d0dC2i9lF0FKl) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEAR IMMIGRATION](https://open.spotify.com/album/7KH2H2NX6J6e41rauBE3y9) | 2:38 | 2024-06-11 | 2024-06-13 |
 | [Dear Kai \- Prison Tapes](https://open.spotify.com/track/4lWxZB1dtZTNTSJXDZneaF) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Dear Kai \(Prison Tapes\)](https://open.spotify.com/album/7MZr5JnRiu5nw5hiOugdGQ) | 3:24 | 2025-04-09 |  |
@@ -1473,7 +1475,7 @@
 | [Free BabyEBG](https://open.spotify.com/track/32VK2tRpHy0go5jLV77O3C) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free BabyEBG](https://open.spotify.com/album/4Eg0JbastAKE5ucRM14VKE) | 2:00 | 2024-09-18 | 2024-09-21 |
 | [Free Bank](https://open.spotify.com/track/5td5AC7QeQWvM3loFtfZQt) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Free Bank](https://open.spotify.com/album/2SaexL6qQjrnP7ErIgAk9u) | 2:37 | 2024-08-27 | 2024-08-30 |
 | [Free Ghost](https://open.spotify.com/track/49DMfWkszWcEiJxsqc9Xjh) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Free Ghost](https://open.spotify.com/album/3OqPUMTSvyvu9b2oYXdm2M) | 1:49 | 2024-09-13 | 2024-09-18 |
-| [Free Mr\. Banks](https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Free Mr\. Banks](https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg) | 1:59 | 2025-04-04 |  |
+| [Free Mr\. Banks](https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Free Mr\. Banks](https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg) | 1:59 | 2025-04-04 | 2025-04-16 |
 | [FREE SMURK, BIG EDDIE & CAM](https://open.spotify.com/track/3Gr7dbIvWFsiqrnyJWaFcC) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [FREE SMURK, BIG EDDIE & CAM](https://open.spotify.com/album/61MjAXWVlxg8NsASSwcKSy) | 3:12 | 2024-11-12 | 2024-11-26 |
 | [Free Youngboy 2 \(Fill Up the Clip\)](https://open.spotify.com/track/7gEd6FrYP6MqE5V1IE21d0) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Free Youngboy 2 \(Fill Up the Clip\)](https://open.spotify.com/album/1J85aI14JUOJclPmDQTF0b) | 3:00 | 2025-02-03 | 2025-02-13 |
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-18 | 2024-10-22 |
@@ -1819,7 +1821,8 @@
 | [Honeycomb](https://open.spotify.com/track/0z8Z0sQiBgww2toWEf5A40) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Honeycomb](https://open.spotify.com/album/1bXymWHWPNubbjT9Pi2HBH) | 3:14 | 2025-02-14 | 2025-02-24 |
 | [Honeymoon \- Edit](https://open.spotify.com/track/2V4Kx83vHZFE43xaT0Grzs) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Honeymoon \(Edit\)](https://open.spotify.com/album/7CdkUTDqvb2Fv0LuGywrb8) | 1:51 | 2024-08-07 | 2024-08-10 |
 | [Honolulu](https://open.spotify.com/track/2pYreBBGE8sWlLH12UMfTt) | [Da$H](https://open.spotify.com/artist/6xFrZbce9KH5APjBe4QVNa) | [DOUBLE A\-SIDE: VOL.8](https://open.spotify.com/album/2LjhXvI32wAJNLCk6YlN8K) | 2:45 | 2024-05-09 | 2024-05-11 |
-| [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 | 2025-04-04 |  |
+| [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 | 2025-04-04 | 2025-04-16 |
+| [Hood Asasin](https://open.spotify.com/track/1VJdahhl5EOjDFd5yWD9cV) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Hood Asasin](https://open.spotify.com/album/4Bmkad5MKt6AuRtLW0bvaC) | 1:56 | 2025-04-15 |  |
 | [hood grammy](https://open.spotify.com/track/0jh4rH6foYD9HIUgWIax5W) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [hood grammy](https://open.spotify.com/album/1yqZxLe6t3ITTm5wwkdN1h) | 2:23 | 2024-11-29 | 2024-12-05 |
 | [HOODRAT](https://open.spotify.com/track/4XQxY73r8Mo65rDZI3htCJ) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [HOODRAT](https://open.spotify.com/album/4XWwHApX8SOxSPv59uAaTm) | 2:28 | 2024-11-08 | 2024-11-13 |
 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 | 2025-01-07 | 2025-01-18 |

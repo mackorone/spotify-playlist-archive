@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Cazzu.
 
-529 songs - 1 day 5 hr 56 min
+530 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Llamadas Extrañas](https://open.spotify.com/track/6bHoFFcQEzEjhOHZ9Dzfhw) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [15 Años](https://open.spotify.com/album/7ednM399J2qf4ZzpQqTq6n) | 3:14 | 2024-12-13 |  |
 | [Llamala](https://open.spotify.com/track/3GziopS69lAXBnCD2qJkeb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Llamala](https://open.spotify.com/album/7m2kxXM0SycHuj5dIP5aRY) | 3:05 | 2024-09-27 | 2024-10-05 |
 | [Lloraras mas de diez veces](https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \- Ahora juega en primera](https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM) | 3:29 | 2022-01-14 |  |
-| [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 | 2022-03-18 |  |
+| [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 | 2022-03-18 | 2025-04-16 |
 | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N) | 4:44 | 2022-04-01 |  |
 | [Lo Que Son las Cosas](https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ), [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Lo Que Son las Cosas](https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK) | 3:55 | 2022-02-25 | 2024-05-10 |
 | [Lo Sabía](https://open.spotify.com/track/7fNgtXTzCpUOcxwTVes1Z4) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Lo Sabía](https://open.spotify.com/album/6pacvUiT5v0mVgMkIfBQgA) | 3:52 | 2024-11-01 |  |
@@ -439,6 +439,7 @@
 | [TE AMO ♡](https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [TE AMO ♡](https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx) | 2:33 | 2024-05-03 |  |
 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 | 2022-07-22 | 2024-04-19 |
 | [Te Arrepentirás](https://open.spotify.com/track/3dNA2MGyfZU4rdUVwoWI3V) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/5lv1LpbFaRmnVfAmOOqFfk) | 3:30 | 2022-03-11 | 2022-07-29 |
+| [Te Arrepentirás](https://open.spotify.com/track/6WUI4vy6NdOXOFwwWeU9R7) | [Toby C](https://open.spotify.com/artist/6W3bF7IkfEhujNwm3odUr6) | [Te Arrepentirás](https://open.spotify.com/album/50xisG6CCsL9tWUgC6LKj3) | 3:08 | 2025-04-15 |  |
 | [Te Digo Adios](https://open.spotify.com/track/3Q3QScOdp6oBTqCN4PkDOp) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Te Digo Adios](https://open.spotify.com/album/4r580obRkuoYxHNi9np9XD) | 3:19 | 2022-10-22 | 2022-10-29 |
 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 | 2022-01-14 |  |
 | [Te Extraño :\(](https://open.spotify.com/track/5Lg7nUobqmANgJAnb8XHWo) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Extraño :\(](https://open.spotify.com/album/7sRJzszfNpe3RjjTgNovwZ) | 2:45 | 2022-04-01 | 2022-05-23 |

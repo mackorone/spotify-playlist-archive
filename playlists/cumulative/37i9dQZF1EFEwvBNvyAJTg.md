@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-233 songs - 12 hr 48 min
+234 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [in the car](https://open.spotify.com/track/5zNJ8sfjLHdmhRlJxNjGfl) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2 \(og version\)](https://open.spotify.com/album/15h14WTWpQpFWjaw81uD0N) | 2:09 | 2024-06-13 |  |
 | [Invisible Girl](https://open.spotify.com/track/3JLsOYOM8yuEuOSzdE7p6k) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [Ten](https://open.spotify.com/album/7mFPFmUxUnFh4HhL97ff0z) | 3:33 | 2025-01-09 | 2025-04-12 |
 | [Joyride](https://open.spotify.com/track/1nWLk91OyxUSJNYNNExTkK) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 | 2024-06-13 |  |
-| [Jungle](https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Jungle](https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS) | 2:40 | 2025-04-02 | 2025-04-12 |
+| [Jungle](https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Jungle](https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS) | 2:40 | 2025-04-02 |  |
 | [Just Got Paid](https://open.spotify.com/track/5CpkVOosLFc83LbwqO6hnI) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:38 | 2024-06-13 |  |
 | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/track/3xmfi7nXVWFFN706CBTAyP) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/album/6Pp51kxuCHKcHMhopNfMNo) | 3:52 | 2024-06-13 |  |
 | [Kite](https://open.spotify.com/track/41FeK6ujXWI509FfrRJ72L) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 2:45 | 2024-10-27 |  |
@@ -153,6 +153,7 @@
 | [Murder](https://open.spotify.com/track/1x2Lwsmw3nHlitV31w3Hwu) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Fable](https://open.spotify.com/album/2KKnbxUK3ycERX2d9qINVP) | 3:09 | 2024-06-13 |  |
 | [MVP](https://open.spotify.com/track/3sypCr4jYSJSfOIwxNRsrD) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:21 | 2024-06-13 |  |
 | [My Shadow](https://open.spotify.com/track/7g2m8xdym2wNCs8vHdXdv3) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:29 | 2024-06-13 |  |
+| [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 | 2025-04-15 |  |
 | [New Bitch](https://open.spotify.com/track/5CRZfDIaFlVMW61WzW2qVu) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:37 | 2025-01-09 | 2025-04-12 |
 | [Next Thing](https://open.spotify.com/track/34afOWsrcjGtz6ALTU0QDn) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Little Red](https://open.spotify.com/album/0gOkzXCV5MLdQP4RjzgX9b) | 3:03 | 2025-01-09 | 2025-04-12 |
 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 | 2024-06-13 |  |

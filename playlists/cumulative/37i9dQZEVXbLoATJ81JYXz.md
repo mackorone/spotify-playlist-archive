@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-2,344 songs - 5 day 1 hr 14 min
+2,345 songs - 5 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Begravningsbål](https://open.spotify.com/track/0Rjr3kZmaMQO75RGBjCFZT) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:09 | 2022-05-28 | 2022-06-03 |
 | [Behöver inte dig idag](https://open.spotify.com/track/61YmcO62hGjw1RlDHZ0XEg) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Behöver inte dig idag](https://open.spotify.com/album/55SFrQkALH1L1oXmkHG4Is) | 3:00 | 2021-03-27\* | 2021-05-25 |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-10-30 |
-| [Believe me](https://open.spotify.com/track/6CshHyQHSzQhwaadpBQhH1) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Believe me](https://open.spotify.com/album/1X0XJXpMfjUXThe9Gm5lot) | 2:59 | 2025-02-16 |  |
+| [Believe me](https://open.spotify.com/track/6CshHyQHSzQhwaadpBQhH1) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Believe me](https://open.spotify.com/album/1X0XJXpMfjUXThe9Gm5lot) | 2:59 | 2025-02-16 | 2025-04-16 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-05 |
 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 | 2021-05-16 | 2021-05-17 |
 | [Bella](https://open.spotify.com/track/0V9li84avqu9U8FiIni7to) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:35 | 2022-04-30 | 2022-05-08 |
@@ -1604,7 +1604,7 @@
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-05 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-02-03 | 2024-03-24 |
 | [PRAPAPA](https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [PRAPAPA](https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9) | 2:04 | 2023-07-08 | 2023-10-01 |
-| [PRATGLAD](https://open.spotify.com/track/7HPPZdfQj2QMbVD2vIIciX) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [PRATGLAD](https://open.spotify.com/album/3F3q3b2vrhTigpbZIlO64G) | 2:05 | 2025-04-12 |  |
+| [PRATGLAD](https://open.spotify.com/track/7HPPZdfQj2QMbVD2vIIciX) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [PRATGLAD](https://open.spotify.com/album/3F3q3b2vrhTigpbZIlO64G) | 2:05 | 2025-04-12 | 2025-04-16 |
 | [Pretender](https://open.spotify.com/track/43S6EtJ38gARKKLvdbQd31) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [Pretender](https://open.spotify.com/album/73vmRNV2enun5nkmVbNEz9) | 2:52 | 2021-03-29 | 2021-03-31 |
 | [PRIMADONNA](https://open.spotify.com/track/47aGU91Mqqjt1ZJ9NgQXqY) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [PRIMADONNA](https://open.spotify.com/album/7iZHtwqroxPl38CB1LRxpv) | 2:15 | 2022-10-09 | 2022-10-16 |
 | [Privjet](https://open.spotify.com/track/7shjytRlKcXpEQ6vLdlHeu) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Privjet](https://open.spotify.com/album/1n1S21npyuvze19FjLdrR4) | 2:22 | 2023-01-31 | 2023-02-02 |
@@ -1954,6 +1954,7 @@
 | [Superstar](https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Superstar](https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5) | 3:10 | 2023-05-19 | 2023-07-09 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-09 | 2023-02-12 |
 | [Svag](https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu) | 3:11 | 2021-03-27\* | 2025-02-17 |
+| [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 | 2025-04-15 |  |
 | [Svalen till grammis](https://open.spotify.com/track/2SxOcZ9qTi8oRgViQFE4gF) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Svalen till grammis](https://open.spotify.com/album/4AqhSm1RxCLe3G6a5r5GHr) | 2:42 | 2024-04-06 | 2024-04-11 |
 | [Svansen](https://open.spotify.com/track/6QjV1SS98rca3Ekkrg6fsT) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Svansen](https://open.spotify.com/album/6xdroRsbP7x8VSY0gQJiOA) | 2:53 | 2023-04-19 | 2023-04-23 |
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-06 | 2024-06-22 |
@@ -2227,7 +2228,7 @@
 | [Vvvalsta](https://open.spotify.com/track/2muh7P8rylTiI0IJIn2d3z) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Vvvalsta](https://open.spotify.com/album/5dLKndnZiYa2YzHKcIoLpH) | 2:37 | 2021-07-28 | 2022-01-08 |
 | [Väck mig när det är över](https://open.spotify.com/track/5AYhM2SSr2fVC7Yh8qt8By) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Jag önskar jag brydde mig mer](https://open.spotify.com/album/5TPuPsRCf4FN29mAYqTToD) | 3:29 | 2024-05-11 | 2024-05-13 |
 | [Välkommen hem](https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD) | [E.M.D.](https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg) | [Välkommen hem](https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe) | 3:28 | 2021-11-28 | 2024-12-29 |
-| [Välkommen in](https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:32 | 2022-03-21 | 2025-04-15 |
+| [Välkommen in](https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:32 | 2022-03-21 |  |
 | [Välkommen ner](https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Välkommen ner](https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN) | 2:38 | 2024-04-11 | 2025-01-28 |
 | [VÄLKOMMEN TILL SÖDRA](https://open.spotify.com/track/4ygFhEjbNInflnSHfCOOxE) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [VÄLKOMMEN TILL SÖDRA](https://open.spotify.com/album/6Ov9IoG4DndKVgilC20UY3) | 3:05 | 2023-01-10 | 2023-01-12 |
 | [Välkommen Åter](https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq), [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Välkommen Åter](https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX) | 2:55 | 2022-05-25 | 2022-09-28 |

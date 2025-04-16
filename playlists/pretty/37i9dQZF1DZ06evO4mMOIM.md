@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,273 likes - 34 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,277 likes - 34 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 33 | [The Choice Is Yours](https://open.spotify.com/track/3RTRfCPMOVnmHUtvnJ1f9s) | [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0), [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf), [Justin Beck](https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq), [Dres](https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg) | [Black Rabbits](https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat) | 3:47 |
 | 34 | [The Number No Good Things Can Come Of](https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:03 |
 
-Snapshot ID: `Z/r+gAAAAAC6uxPwUCvmItFYIdO8uhlP`
+Snapshot ID: `Z/xQAAAAAACW0QAwuk2Y8OUlmpFjvlO/`

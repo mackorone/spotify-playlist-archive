@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,827 likes - 150 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,882 likes - 150 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 6 | [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 |
 | 7 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
 | 8 | [The Path](https://open.spotify.com/track/0VvAvohCa6vbOuhQ9KgYp3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The Path](https://open.spotify.com/album/5FHFBfF1WAw4Q1FESMFMbU) | 2:12 |
-| 9 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 |
-| 10 | [Fading Frames](https://open.spotify.com/track/5Tjm5Du7D0Utfhemy826Xy) | [Rocky Road Heaven](https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9) | [Fading Frames](https://open.spotify.com/album/2rO6S0e7ohHwfCR2zyenn2) | 2:45 |
+| 9 | [Fading Frames](https://open.spotify.com/track/5Tjm5Du7D0Utfhemy826Xy) | [Rocky Road Heaven](https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9) | [Fading Frames](https://open.spotify.com/album/2rO6S0e7ohHwfCR2zyenn2) | 2:45 |
+| 10 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 |
 | 11 | [le voyageur](https://open.spotify.com/track/2P98sgjysEmr03BP9oeAVV) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [le voyageur](https://open.spotify.com/album/4LmxUW2uMCOho2RHATKWvX) | 2:30 |
 | 12 | [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 |
 | 13 | [Spring Roses](https://open.spotify.com/track/62T1anGMtce8jCIdXIQRvL) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Spring Roses](https://open.spotify.com/album/2egZ9KaWhJHiylvZxaUW6F) | 2:41 |
@@ -26,20 +26,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 16 | [first light](https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [first light](https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk) | 2:55 |
 | 17 | [looking glass](https://open.spotify.com/track/6hXQxvv49Ngmu27f2YpAm6) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [looking glass](https://open.spotify.com/album/1y7oXo6qUMP4o3kjR939nR) | 2:45 |
 | 18 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 |
-| 19 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 |
-| 20 | [Reconciled](https://open.spotify.com/track/1WWVPdv9SIkSEoA9504Jbr) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reconciled](https://open.spotify.com/album/6eI8v5R0jKzkf2QxRLmbxD) | 2:20 |
-| 21 | [Dustlight](https://open.spotify.com/track/7lh5pJSumRRSpiK0gqwORR) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Dustlight](https://open.spotify.com/album/2Dn3n3eSJRxPBxWJCuFIRK) | 2:13 |
-| 22 | [Silence](https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Silence](https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5) | 2:21 |
-| 23 | [Ryos](https://open.spotify.com/track/1zTqMY0pncDuHkLsQp9JHr) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Ryos](https://open.spotify.com/album/4biO9FxSiYHRLmplSmmWs0) | 2:09 |
-| 24 | [A Different Story](https://open.spotify.com/track/2kk5IhP7CETo9dlG9yMaa5) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [A Different Story](https://open.spotify.com/album/6cOPkFFcRnazHp6wYRp2R6) | 2:10 |
-| 25 | [Aging](https://open.spotify.com/track/1Z3GPvWMC2jDt73HTHGsjD) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Aging](https://open.spotify.com/album/0TyG2axjCVAsK2UXCHA6xg) | 2:19 |
-| 26 | [A Gentle Embrace](https://open.spotify.com/track/3SMmmZaDKKvUcqz8P2ti4w) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [A Gentle Embrace](https://open.spotify.com/album/5TuzhOtXZaKJeZMzUwfRAY) | 2:29 |
-| 27 | [Far away fields](https://open.spotify.com/track/1oDHRSJcxyZa2yKcxUtNX3) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Far away fields](https://open.spotify.com/album/4DWu8Gy5UQ4OhuPT6eN9oX) | 2:29 |
+| 19 | [Ryos](https://open.spotify.com/track/1zTqMY0pncDuHkLsQp9JHr) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Ryos](https://open.spotify.com/album/4biO9FxSiYHRLmplSmmWs0) | 2:09 |
+| 20 | [Dustlight](https://open.spotify.com/track/7lh5pJSumRRSpiK0gqwORR) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Dustlight](https://open.spotify.com/album/2Dn3n3eSJRxPBxWJCuFIRK) | 2:13 |
+| 21 | [Silence](https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Silence](https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5) | 2:21 |
+| 22 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 |
+| 23 | [A Different Story](https://open.spotify.com/track/2kk5IhP7CETo9dlG9yMaa5) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [A Different Story](https://open.spotify.com/album/6cOPkFFcRnazHp6wYRp2R6) | 2:10 |
+| 24 | [Aging](https://open.spotify.com/track/1Z3GPvWMC2jDt73HTHGsjD) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Aging](https://open.spotify.com/album/0TyG2axjCVAsK2UXCHA6xg) | 2:19 |
+| 25 | [A Gentle Embrace](https://open.spotify.com/track/3SMmmZaDKKvUcqz8P2ti4w) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [A Gentle Embrace](https://open.spotify.com/album/5TuzhOtXZaKJeZMzUwfRAY) | 2:29 |
+| 26 | [Slowness Within](https://open.spotify.com/track/37yMja7S79WxV3EmvEKR5F) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Slowness Within](https://open.spotify.com/album/17sb0A1FVV1alrS66l2vIa) | 2:07 |
+| 27 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
 | 28 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 |
 | 29 | [Fordi jeg vil](https://open.spotify.com/track/1GwBsmxZo3knfuxkIIoSCs) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Fordi jeg vil](https://open.spotify.com/album/6cz5dR8Q4uHCGmqaZDENSo) | 2:43 |
-| 30 | [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 |
-| 31 | [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 |
-| 32 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
+| 30 | [Far away fields](https://open.spotify.com/track/1oDHRSJcxyZa2yKcxUtNX3) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Far away fields](https://open.spotify.com/album/4DWu8Gy5UQ4OhuPT6eN9oX) | 2:29 |
+| 31 | [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 |
+| 32 | [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 |
 | 33 | [voler](https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [voler](https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk) | 2:33 |
 | 34 | [Nayarit](https://open.spotify.com/track/1LPwD2EN0JPd8JcQze7TlP) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Nayarit](https://open.spotify.com/album/2Rf5sGCzqXeeQZMn98orMF) | 2:55 |
 | 35 | [La Montaña Y El Valle](https://open.spotify.com/track/2d62e3sDHNXzd7A3SyMuwZ) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [La Montaña Y El Valle](https://open.spotify.com/album/3viGBYvVCdpU6u44iHGdDM) | 2:21 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 149 | [La lune](https://open.spotify.com/track/4vuX4bbfayOyWpOYswDBGo) | [Remko Kühne](https://open.spotify.com/artist/6LNkjwPSnLW93YeQz777zC) | [La lune](https://open.spotify.com/album/2xLVugO9GUd9UerwgD5ABB) | 4:27 |
 | 150 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
 
-Snapshot ID: `Z/VCewAAAABs6y8NKI5+wjQYP6HdWezb`
+Snapshot ID: `Z/4jogAAAADygnMpLYkSlkwMeLPZUvAU`

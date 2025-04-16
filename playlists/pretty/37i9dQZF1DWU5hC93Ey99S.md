@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,162 likes - 484 songs - 1 day 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,270 likes - 484 songs - 1 day 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

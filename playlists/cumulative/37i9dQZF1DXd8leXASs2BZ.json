@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: FANI",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 11",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1755,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Nobody Knows Me 2",
+        "url": "https://open.spotify.com/album/644lBotN5zpIwgbEJgZuJR"
+      },
+      "artists": [
+        {
+          "name": "Kee Rooz",
+          "url": "https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100699,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/3X8GOksWYe2mdQKpQBGO1J"
+    },
+    {
+      "album": {
         "name": "Before Famous (Remix)",
         "url": "https://open.spotify.com/album/2uwZfeziEqthjCMoBHx3fi"
       },
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 151750,
       "name": "better (feat. Authority & KVGGLV)",
       "url": "https://open.spotify.com/track/1iIEOAADsM5xyaCX77VWOX"
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 242972,
       "name": "Cheetah - Freestyle",
       "url": "https://open.spotify.com/track/0YBzPPtLfs6nMLP5wYZMNo"
@@ -4795,6 +4813,32 @@
     },
     {
       "album": {
+        "name": "ENTERTAINERS",
+        "url": "https://open.spotify.com/album/39D6wZIynpOS80szqs6Zc2"
+      },
+      "artists": [
+        {
+          "name": "11",
+          "url": "https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa"
+        },
+        {
+          "name": "CETLO",
+          "url": "https://open.spotify.com/artist/3YGNbHE4it0XzWGHPKyk5Z"
+        },
+        {
+          "name": "ELEMENTS",
+          "url": "https://open.spotify.com/artist/5vok98kWh7LfVocvRE8JUk"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236609,
+      "name": "ENTERTAINERS",
+      "url": "https://open.spotify.com/track/4QFPzrJkAZOggrZwiEyV5r"
+    },
+    {
+      "album": {
         "name": "ENTP",
         "url": "https://open.spotify.com/album/25abs1n4crwVKrM8SjwP1u"
       },
@@ -4858,7 +4902,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 175453,
       "name": "ENVY",
       "url": "https://open.spotify.com/track/79Za9PkY5j5oWsNyejYaPF"
@@ -5232,6 +5276,28 @@
       "duration_ms": 166101,
       "name": "fake friend",
       "url": "https://open.spotify.com/track/5WlGyNlZpKGCBwsGB4fR3w"
+    },
+    {
+      "album": {
+        "name": "Fall in down (feat. dizzy)",
+        "url": "https://open.spotify.com/album/59tty0PRSBTtUeddUfMsKH"
+      },
+      "artists": [
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        },
+        {
+          "name": "dizzy",
+          "url": "https://open.spotify.com/artist/2yCuuCUyWjRXI47PeKnZwL"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "Fall in down (feat. dizzy)",
+      "url": "https://open.spotify.com/track/4ljonzmKbSI4uVzw6VEfqx"
     },
     {
       "album": {
@@ -7424,7 +7490,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 125142,
       "name": "Hotondo",
       "url": "https://open.spotify.com/track/06wQpAkRrhZHKu0KDZdmFq"
@@ -10165,6 +10231,24 @@
     },
     {
       "album": {
+        "name": "Mitsuboshi",
+        "url": "https://open.spotify.com/album/74YfTK6loZh2eH2tgSbPmJ"
+      },
+      "artists": [
+        {
+          "name": "ARuM",
+          "url": "https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170630,
+      "name": "Mitsuboshi",
+      "url": "https://open.spotify.com/track/2y1wzfVzywd2qI9VyRkKa6"
+    },
+    {
+      "album": {
         "name": "Moncler",
         "url": "https://open.spotify.com/album/1nMcqwqkUEZKGP3U2QEMwj"
       },
@@ -10600,6 +10684,32 @@
       "duration_ms": 165642,
       "name": "NARI-A-GARI",
       "url": "https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY"
+    },
+    {
+      "album": {
+        "name": "NASHI KARA ARI (feat. MIKADO & Fuji Taito)",
+        "url": "https://open.spotify.com/album/3alcWTtfZoMT7HjP08DvaS"
+      },
+      "artists": [
+        {
+          "name": "DJ CHARI",
+          "url": "https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p"
+        },
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "Fuji Taito",
+          "url": "https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157213,
+      "name": "NASHI KARA ARI (feat. MIKADO & Fuji Taito)",
+      "url": "https://open.spotify.com/track/3VO0SRlCHgt17hN2FYXSDr"
     },
     {
       "album": {
@@ -13624,7 +13734,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 166733,
       "name": "Ryuseigun (feat. AIRIE)",
       "url": "https://open.spotify.com/track/0QF5MXRsq7RDbOsD0H7BZZ"
@@ -15949,6 +16059,24 @@
     },
     {
       "album": {
+        "name": "Ai Final",
+        "url": "https://open.spotify.com/album/2LdUuUQ5GixYkkeQ1zj8i2"
+      },
+      "artists": [
+        {
+          "name": "T-STONE",
+          "url": "https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157520,
+      "name": "Tour Life -Ai-",
+      "url": "https://open.spotify.com/track/0Wj5gV2RWHrH9EdUVH34vF"
+    },
+    {
+      "album": {
         "name": "TOYOTA CAROLLA",
         "url": "https://open.spotify.com/album/69hNAvQ8asBkrJMjGDggDD"
       },
@@ -16248,6 +16376,24 @@
       "duration_ms": 110735,
       "name": "Uncover",
       "url": "https://open.spotify.com/track/1Ab04PsirFDU1YwHw5SuKm"
+    },
+    {
+      "album": {
+        "name": "Undeveloped freestyle",
+        "url": "https://open.spotify.com/album/4hIXapCAy93ypoUItkIpIE"
+      },
+      "artists": [
+        {
+          "name": "qwert",
+          "url": "https://open.spotify.com/artist/2eyhSDox09lgbf339UPRUz"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145074,
+      "name": "Undeveloped freestyle",
+      "url": "https://open.spotify.com/track/5Rhca0bZgMLn8d7YFOh3Dl"
     },
     {
       "album": {
@@ -17150,7 +17296,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 126760,
       "name": "XMAS NIGHT",
       "url": "https://open.spotify.com/track/3TsbnJ8QWcd0toSbppoinc"
@@ -17788,7 +17934,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 135000,
       "name": "\u3053\u3063\u304b\u3089",
       "url": "https://open.spotify.com/track/77PKKmH8DqQqNMWzYfXy2A"

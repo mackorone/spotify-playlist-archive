@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcom Todd
 
-2,090 songs - 4 day 14 hr 39 min
+2,091 songs - 4 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -938,7 +938,7 @@
 | [I! Only! Wanna! Live! Forever!](https://open.spotify.com/track/2fHRtDFVqV5KCgl5LnG8Bv) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [I! Only! Wanna! Live! Forever!](https://open.spotify.com/album/2xG3Whos27zHMLCzcgv0Xp) | 3:13 | 2022-02-25 | 2022-04-12 |
 | [I'd Rather Be Alone](https://open.spotify.com/track/3VhBPtQ81n2AHO5jrmGnuC) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [I'd Rather Be Alone](https://open.spotify.com/album/4hXCB2Qgpqj6DP3wjOLpSo) | 3:25 | 2021-05-04 | 2021-05-23 |
 | [I'D RATHER GO TO BED](https://open.spotify.com/track/56UaiLojZ2hD0856fADjIg) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [I'D RATHER GO TO BED](https://open.spotify.com/album/3LsrqLf5EBqkb5NKuc4nmU) | 3:48 | 2020-11-20 | 2021-06-03 |
-| [I'll Be Gone](https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:28 | 2025-03-07 |  |
+| [I'll Be Gone](https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:28 | 2025-03-07 | 2025-04-16 |
 | [I'll Be Here A While](https://open.spotify.com/track/3XKGFDN39V5rTxSqUkgIC2) | [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [SPECTRA](https://open.spotify.com/album/67DQWctOBzNSctLIyGbPmQ) | 3:57 | 2021-02-27 | 2021-02-28 |
 | [I'll Be Home Soon](https://open.spotify.com/track/72xzw4sk7CcgYIyQsj0pxn) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Marathon](https://open.spotify.com/album/4RQN3Cqkj3dHhEa5wa7Ag8) | 2:11 | 2021-03-14 | 2021-05-25 |
 | [I'll Be There](https://open.spotify.com/track/3C9l4bgVhBjEwFergPZIjU) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [I'll Be There](https://open.spotify.com/album/2UMwb26oqZr3HXk8JKz3t3) | 3:27 | 2021-02-28 | 2021-10-16 |
@@ -1219,6 +1219,7 @@
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-29 | 2022-08-06 |
 | [Messing With Fire](https://open.spotify.com/track/2KPwgjIyUySM4vekacUUWE) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Messing With Fire](https://open.spotify.com/album/7jbFtmPmB0cOvIxAnJ8DhU) | 3:06 | 2021-07-19 | 2022-04-14 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-05-31 |  |
+| [Messy Hair](https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 1:56 | 2025-04-04 |  |
 | [Metamorphosis](https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:30 | 2023-11-06 | 2024-05-11 |
 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 | 2022-05-13 | 2022-10-18 |
 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 | 2024-05-10 | 2025-01-01 |

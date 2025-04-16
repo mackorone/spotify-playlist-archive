@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 25631,
+  "num_followers": 25658,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAAX/wdQqeISPyX9e20NpcjW",
+  "snapshot_id": "Z/xQAAAAAADKtVCfJC+ydpqhJrSR8nzr",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "I Might (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Daddy (feat. Sexyy Red) [Vandalized Edit]",
         "url": "https://open.spotify.com/album/2k0tmoYn3bI1hmIjeIbWQl"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 192444,
       "name": "Daddy (feat. Sexyy Red) - Vandalized Edit",
       "url": "https://open.spotify.com/track/2sb27UopO5ME6MdymutVnV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "I Might (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I love freaks (Sexyy\u2019s Version)",
-        "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 163696,
-      "name": "I love freaks (Sexyy\u2019s Version)",
-      "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bow Bow Bow (F My Baby Dad)",
         "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 84768,
       "name": "Bow Bow Bow (F My Baby Dad)",
       "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I love freaks (Sexyy\u2019s Version)",
+        "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 163696,
+      "name": "I love freaks (Sexyy\u2019s Version)",
+      "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
     },
     {
       "added_at": null,

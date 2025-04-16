@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,465 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,536 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 55 | [Ninacamina](https://open.spotify.com/track/5VOYJdMdKHsg9SPKFBcTfc) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [girl EDM \(disc 1\)](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 3:07 |
 | 56 | [lost love](https://open.spotify.com/track/5uXAZfUUgjk0x5a9WoMYnE) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [lost love](https://open.spotify.com/album/63Glu1UhzrFEHa4Y5qTCpE) | 3:22 |
 | 57 | [Industry Corporate Freak](https://open.spotify.com/track/33aigucvBFkOAa2yRHy7g5) | [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL) | [Industry Corporate Freak](https://open.spotify.com/album/30Nk32LOHIeOd9TGxbaW3c) | 4:38 |
-| 58 | [XOXO](https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq) | [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v) | [XOXO](https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ) | 2:55 |
-| 59 | [Mothearth](https://open.spotify.com/track/6v7qPWc49BjNyq1Ei9pY3p) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Mothearth](https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto) | 5:27 |
+| 58 | [Mothearth](https://open.spotify.com/track/6v7qPWc49BjNyq1Ei9pY3p) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Mothearth](https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto) | 5:27 |
+| 59 | [XOXO](https://open.spotify.com/track/1EpjBKTXu8A8REvFnmNSsq) | [Kollár Dea](https://open.spotify.com/artist/2YWXwCwCn4nwVeWQO8eF0v) | [XOXO](https://open.spotify.com/album/2y7IOeo8YTTRFpTjCOyHyJ) | 2:55 |
 | 60 | [STRESS](https://open.spotify.com/track/7I0FfSYkHtYq3M20c0XnwU) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [dj galen](https://open.spotify.com/artist/18ZA3vytlUTwnjKxjohr3g), [spellcasting](https://open.spotify.com/artist/2AqLY2MtalQAJ29dlkdVck) | [STRESS](https://open.spotify.com/album/2W0xdBTCynpdpGZcwdTf00) | 3:27 |
 | 61 | [Som En Sol](https://open.spotify.com/track/4R86lqU8YrlNtwgsqBE2Dl) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Toxe2](https://open.spotify.com/album/2bztnBGwhJiRQBpuqHjYtt) | 2:55 |
 | 62 | [Ambulance](https://open.spotify.com/track/585AnHpC4c13rIhnsoioyg) | [Cece Natalie](https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F) | [Miss Behaves](https://open.spotify.com/album/7EfN2vmlrsZTFkWYLI3f3e) | 2:26 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 66 | [When I Fall](https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [When I Fall](https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq) | 3:25 |
 | 67 | [Contagious](https://open.spotify.com/track/2xsxWhuajHXZuW8aPDtq3z) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Contagious](https://open.spotify.com/album/43ZO099zRzcgZ28axFoOSz) | 2:22 |
 | 68 | [kitty superfly](https://open.spotify.com/track/6cXnr0RGqtLorZfZf99rFj) | [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [biblemami](https://open.spotify.com/album/4RmvkRoFrMsZ6h5ZUitFsD) | 2:20 |
-| 69 | [Ella](https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Ella](https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0) | 3:02 |
-| 70 | [Balverine](https://open.spotify.com/track/3TpYtEqXhqoUVMQTTvPiw5) | [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv), [Neir](https://open.spotify.com/artist/2LghC42VJVmrDCpqYYuaM7) | [Laudanum](https://open.spotify.com/album/5sLTeaPfSXch1w7KB8lWgb) | 3:08 |
+| 69 | [Balverine](https://open.spotify.com/track/3TpYtEqXhqoUVMQTTvPiw5) | [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv), [Neir](https://open.spotify.com/artist/2LghC42VJVmrDCpqYYuaM7) | [Laudanum](https://open.spotify.com/album/5sLTeaPfSXch1w7KB8lWgb) | 3:08 |
+| 70 | [Ella](https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Ella](https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0) | 3:02 |
 | 71 | [Luv drunk](https://open.spotify.com/track/55sHgH7clfEs7bqA4jZ2uF) | [iKeda](https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt) | [Pretty Little Problem](https://open.spotify.com/album/3eENZeLN29UMWJS8vSZ4vW) | 2:41 |
 | 72 | [React](https://open.spotify.com/track/22FvHiuxc8QNxP2KFQOSKQ) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Intercell](https://open.spotify.com/album/25s1L71D3yJCusXCjVt3X8) | 3:10 |
 | 73 | [I Don't Care](https://open.spotify.com/track/7t0O8JgBgWndMIqC1LJNCS) | [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T) | [Penance](https://open.spotify.com/album/2gJCmP2bUQRzzVKM8KI4Li) | 2:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,341 likes - 202 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,353 likes - 202 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 56 | [I Could Use a Boost](https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:07 |
 | 57 | [The Return](https://open.spotify.com/track/1XtqZcOVMbs0PMmXDgLSl2) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Return \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5k9WjeS35446JBmWdawZtm) | 2:40 |
 | 58 | [The Piano Lesson](https://open.spotify.com/track/1CcqtG3Tj4SzDDlTVMVie2) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Piano Lesson \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4wwkB9uplG3M2JKzqeyti4) | 3:53 |
-| 59 | [Dune II Suite: Part 2, A Time of Quiet Between the Storms](https://open.spotify.com/track/5ryKPoh8DrQK3aUgXYXH1B) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Snow Owl](https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua), [Aleksandra Suklar](https://open.spotify.com/artist/7dlXCPxGlyp55rTDEk3ynP), [Odessa Orchestra & Friends](https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [Dune II Suite](https://open.spotify.com/album/2JClso06MGoGSjCBkULGtP) | 4:27 |
+| 59 | [Dune II Suite: Part 2, A Time of Quiet Between the Storms](https://open.spotify.com/track/5ryKPoh8DrQK3aUgXYXH1B) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Snow Owl](https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua), [Aleksandra Suklar](https://open.spotify.com/artist/7dlXCPxGlyp55rTDEk3ynP), [Pedro Eustache](https://open.spotify.com/artist/3BWSxj4tXD0yENwYVwxYO7), [Odessa Orchestra & Friends](https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [Dune II Suite](https://open.spotify.com/album/2JClso06MGoGSjCBkULGtP) | 4:27 |
 | 60 | [Perfect Place](https://open.spotify.com/track/52sZwYRTc2UqWoARa5ejpZ) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Perfect Place](https://open.spotify.com/album/5NqSGgq912xZU4vpfakmqK) | 2:26 |
 | 61 | [but a whimper](https://open.spotify.com/track/3MTs6KYd3l1wfdEY1x0NZX) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [The Gorge \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/6KQhtdfPj8k6czRE2Qyh7u) | 4:11 |
 | 62 | [A Breakthrough](https://open.spotify.com/track/4PxnDEV28lyce1RfesfbTL) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP), [Roahn Hylton](https://open.spotify.com/artist/6XGdnREo5oKfrNf4tcbj31) | [Brave The Dark \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1qRKyijC10onnbxiLtJ96D) | 1:03 |

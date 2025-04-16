@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-108 songs - 7 hr 16 min
+109 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Letting Go](https://open.spotify.com/track/0g6wylEFEz28As6I6iVmhh) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 3:24 | 2023-04-14 | 2024-04-19 |
 | [Letting Go](https://open.spotify.com/track/0hsN9kGuV9J9KLcaB2l6Es) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/1uxQAxembtxvtTk1AoS7KQ) | 3:24 | 2022-02-10 |  |
 | [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 | 2022-04-22 | 2023-05-01 |
+| [Long Pond Lily](https://open.spotify.com/track/6Ra5CZCY5n706HnbJCS2FN) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Long Pond Lily](https://open.spotify.com/album/0DZu4BfkEbSHe2hiAQCymA) | 4:26 | 2025-04-15 |  |
 | [Lord It Over](https://open.spotify.com/track/1ep4SZNTde7rDftHhY9Yq1) | [Dylan Golden Aycock](https://open.spotify.com/artist/5LO5Gtv41xC0058NdQsDmZ) | [Church of Level Track](https://open.spotify.com/album/0naTNqCkQO4hukkSaWk9Md) | 4:38 | 2022-02-10 |  |
 | [Magic On Television](https://open.spotify.com/track/3iGrVu4WWxgVXeDA9DzpvK) | [Rob Noyes](https://open.spotify.com/artist/7fZ7su6bgTRy96bAUZJVaT) | [Arc Minutes](https://open.spotify.com/album/70ueiLONdgQZhlfDEeu377) | 3:05 | 2022-02-10 |  |
 | [Ocean City](https://open.spotify.com/track/6NlmKEFtS7NpWTRtlr0HLy) | [Gunn \- Truscinski Duo](https://open.spotify.com/artist/58PU6MWEroVyXXTXmpzdny) | [Soundkeeper](https://open.spotify.com/album/67YWUjgE252g3HnFOWwzhA) | 5:09 | 2023-04-14 | 2024-04-19 |

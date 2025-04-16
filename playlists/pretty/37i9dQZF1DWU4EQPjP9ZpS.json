@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 325304,
+  "num_followers": 325337,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
-      },
-      "artists": [
-        {
-          "name": "FM Attack",
-          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
-        }
-      ],
-      "duration_ms": 200019,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Things That Fade",
         "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 251779,
       "name": "Hibiscus Pacific",
       "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
+      },
+      "artists": [
+        {
+          "name": "FM Attack",
+          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
+        }
+      ],
+      "duration_ms": 200019,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "so be it",
-        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
-      },
-      "artists": [
-        {
-          "name": "glhf",
-          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
-        }
-      ],
-      "duration_ms": 388732,
-      "name": "so be it",
-      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Left to Our Own Devices",
         "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
       },
@@ -939,34 +923,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dark Bandwidth",
-        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
+        "name": "so be it",
+        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
       },
       "artists": [
         {
-          "name": "Diskette Park",
-          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
+          "name": "glhf",
+          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
         }
       ],
-      "duration_ms": 217698,
-      "name": "Eye",
-      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Into the light",
-        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 83465,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
+      "duration_ms": 388732,
+      "name": "so be it",
+      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -987,6 +955,38 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Into the light",
+        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 83465,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dark Bandwidth",
+        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
+      },
+      "artists": [
+        {
+          "name": "Diskette Park",
+          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
+        }
+      ],
+      "duration_ms": 217698,
+      "name": "Eye",
+      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Illuminations",
         "url": "https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 196363,
       "name": "Veranda",
       "url": "https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Videopolis",
+        "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
+      },
+      "artists": [
+        {
+          "name": "L a z u l i _ y e l l o w",
+          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Soul-Vibration",
+      "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Videopolis",
-        "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
-      },
-      "artists": [
-        {
-          "name": "L a z u l i _ y e l l o w",
-          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
-        }
-      ],
-      "duration_ms": 136093,
-      "name": "Soul-Vibration",
-      "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Marina Forever",
         "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 162024,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
-        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 227462,
-      "name": "\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1091,6 +1075,22 @@
       "duration_ms": 189836,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2YpY3UKrjEh9ZfhxDk9gPN"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
+        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
+      },
+      "artists": [
+        {
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+        }
+      ],
+      "duration_ms": 227462,
+      "name": "\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "One Hundred Mornings (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Aeris",
         "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "One Hundred Mornings (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "made in taiwan",
         "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 182190,
       "name": "made in taiwan",
       "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+      },
+      "artists": [
+        {
+          "name": "NNTYTUU",
+          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
+        }
+      ],
+      "duration_ms": 156230,
+      "name": "Entrust",
+      "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1211,22 +1227,6 @@
       "duration_ms": 196956,
       "name": "On the Promenade (George Clanton Remix)",
       "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
-      },
-      "artists": [
-        {
-          "name": "NNTYTUU",
-          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
-        }
-      ],
-      "duration_ms": 156230,
-      "name": "Entrust",
-      "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Street Smarts",
+        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
+      },
+      "artists": [
+        {
+          "name": "VHS LOGOS",
+          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "Telefunken",
+      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 208000,
       "name": "Presentere Fine Design - Slowed + Reverb",
       "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Street Smarts",
-        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
-      },
-      "artists": [
-        {
-          "name": "VHS LOGOS",
-          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
-        }
-      ],
-      "duration_ms": 86400,
-      "name": "Telefunken",
-      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "The 33rd Split",
+        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
+      },
+      "artists": [
+        {
+          "name": "King Quartz",
+          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
+        },
+        {
+          "name": "VCRheadaches",
+          "url": "https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "Vcrheadaches - Purge",
+      "url": "https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Floppy Disk Prism",
         "url": "https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG"
       },
@@ -1371,22 +1391,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
-      },
-      "artists": [
-        {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "24Hrs.",
         "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
       },
@@ -1403,22 +1407,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "The 33rd Split",
-        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
       "artists": [
         {
-          "name": "King Quartz",
-          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
-        },
-        {
-          "name": "VCRheadaches",
-          "url": "https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI"
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
         }
       ],
-      "duration_ms": 260399,
-      "name": "Vcrheadaches - Purge",
-      "url": "https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT"
+      "duration_ms": 162000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Ultrasound",
-        "url": "https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt"
+        "name": "Glass Prism",
+        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
       },
       "artists": [
         {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 231745,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX"
+      "duration_ms": 210895,
+      "name": "Glass Prism",
+      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Glass Prism",
-        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
         }
       ],
-      "duration_ms": 210895,
-      "name": "Glass Prism",
-      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
+      "duration_ms": 231745,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u9752\u6625\u306e\u4f11\u6687",
-        "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 263592,
-      "name": "\u9752\u6625\u306e\u4f11\u6687",
-      "url": "https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Glass Mind",
         "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 219428,
       "name": "Glass Mind",
       "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\u9752\u6625\u306e\u4f11\u6687",
+        "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
+      },
+      "artists": [
+        {
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+        }
+      ],
+      "duration_ms": 263592,
+      "name": "\u9752\u6625\u306e\u4f11\u6687",
+      "url": "https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC"
     },
     {
       "added_at": "2023-07-18 02:19:19",

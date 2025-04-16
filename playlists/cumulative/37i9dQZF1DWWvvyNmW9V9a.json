@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 186840,
       "name": "Backstabber",
       "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
@@ -3668,7 +3668,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 248280,
       "name": "Bed Rest",
       "url": "https://open.spotify.com/track/6vM64su8jHb3dm5M439Rmg"
@@ -5086,7 +5086,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 120000,
       "name": "Bout Me",
       "url": "https://open.spotify.com/track/4MAVi6HFkcyqaqVZXZze7W"
@@ -7584,7 +7584,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 200321,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8"
@@ -13102,7 +13102,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 177551,
       "name": "Gone Girl",
       "url": "https://open.spotify.com/track/6lU0BuAHpcjJ2DYAZc4anN"
@@ -13268,7 +13268,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 144602,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/7KLdvaoeoiFvAeHID4ZZvZ"
@@ -14200,6 +14200,24 @@
       "duration_ms": 174595,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+    },
+    {
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253213,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1"
     },
     {
       "album": {
@@ -16008,7 +16026,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f"
@@ -19746,7 +19764,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 158571,
       "name": "Lonely In Love",
       "url": "https://open.spotify.com/track/1ObXcuEtF8F9BIcRabX7kM"
@@ -25240,7 +25258,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 296653,
       "name": "party 4 u",
       "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
@@ -27500,7 +27518,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 122042,
       "name": "RUN!",
       "url": "https://open.spotify.com/track/2FmG0YbnHkycMN4Gbm09Kq"
@@ -28375,6 +28393,24 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164398,
+      "name": "Seoul City",
+      "url": "https://open.spotify.com/track/3pY2M4k9BSk7ulLBSV0tcX"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
       },
@@ -29000,7 +29036,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
@@ -30048,6 +30084,24 @@
       "duration_ms": 200031,
       "name": "Someone to Blame",
       "url": "https://open.spotify.com/track/7xCrXGPDHKYHIyPOaDAv8Q"
+    },
+    {
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272360,
+      "name": "Someone To Call My Lover",
+      "url": "https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM"
     },
     {
       "album": {
@@ -37007,6 +37061,24 @@
     },
     {
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+    },
+    {
+      "album": {
         "name": "Alchemical: Volume 1",
         "url": "https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55"
       },
@@ -37346,7 +37418,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 163899,
       "name": "with the IE (way up)",
       "url": "https://open.spotify.com/track/7rzzByujLJIBXpyOCnJhfx"

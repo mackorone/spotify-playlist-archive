@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Ahmet Hatipoğlu ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,995 likes - 86 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,985 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 51 | [Drive](https://open.spotify.com/track/3CMUT3yFtwmdSjv4gOj3yl) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Drive](https://open.spotify.com/album/1eAJcsrNvXzmm3OyKASvzk) | 3:27 |
 | 52 | [Ağlamak Yok Yüreğim](https://open.spotify.com/track/7tuYgFrTGMbxAUucuw0wPQ) | [Onur Bayraktar](https://open.spotify.com/artist/6mkXWBtpiVphWODcVDF4XH) | [Ağlamak Yok Yüreğim](https://open.spotify.com/album/3p9i6WHYRd5XnlWNMEoalk) | 3:06 |
 | 53 | [Kaybedemem](https://open.spotify.com/track/3oPw9ABTmeEe7wP2QqzDZU) | [Anıl Berke](https://open.spotify.com/artist/0l6z8gRVh2xP7jldRj1bq4) | [Kaybedemem](https://open.spotify.com/album/7gsGf4K1Zru1ZCt1Cx50YK) | 2:35 |
-| 54 | [A LE LE](https://open.spotify.com/track/2n3Z8ehWvTTqTO3nxS1vpL) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP), [MERD](https://open.spotify.com/artist/3jByMcXy2n4fSdJIwvIboS) | [A LE LE](https://open.spotify.com/album/6hfhsY5Xt2pXRMMMmBUi9Z) | 3:27 |
+| 54 | [A LE LE](https://open.spotify.com/track/2n3Z8ehWvTTqTO3nxS1vpL) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP), [MERD](https://open.spotify.com/artist/3jByMcXy2n4fSdJIwvIboS) | [A LE LE](https://open.spotify.com/album/6hfhsY5Xt2pXRMMMmBUi9Z) | 2:37 |
 | 55 | [Overthink](https://open.spotify.com/track/0JuRcGO6mi97bGNbsGfXZ8) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC), [Asil Slang](https://open.spotify.com/artist/3e9tJNBWrydJK3VKpkyWyT) | [Overthink](https://open.spotify.com/album/5NdPZ3nXaH17l96iJrVIaH) | 2:50 |
 | 56 | [TINDER](https://open.spotify.com/track/5B59F8azIeUJj85rWvLwuD) | [NAFTA](https://open.spotify.com/artist/3Pz4bsaurkO80gLzZakQwY) | [BURJUVA](https://open.spotify.com/album/3yv21naDnKFXqtqmrcVfWw) | 1:27 |
 | 57 | [şafakta bi cuckolddum](https://open.spotify.com/track/4O32DkGG9zzgaOEubiqWdi) | [Orkundk](https://open.spotify.com/artist/6D4pFxSoZkmJJnFUtSkWum) | [şafakta bi cuckolddum](https://open.spotify.com/album/2qUfo3QUulXjroThxpBhZw) | 2:44 |
@@ -83,16 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 73 | [Yandım Yandım Yandım](https://open.spotify.com/track/4OJau1g1f0ySso4cuXxUwY) | [Bertuğ Cemil](https://open.spotify.com/artist/5tx85QaiGLUloXNLcBS3h5), [Begüm Yiğit](https://open.spotify.com/artist/74jfszyHYEkbgAnlyl9HCa) | [Yandım Yandım Yandım](https://open.spotify.com/album/5WVepmwk0QqEm1ol7dS02r) | 3:40 |
 | 74 | [Bataklık](https://open.spotify.com/track/041PD5t1JdeE0XlU4ndDFG) | [Haylaz](https://open.spotify.com/artist/0Wk8Ihu0ZdVIVqv3Vkg5TM) | [Bataklık](https://open.spotify.com/album/56GmdlHEavQJVtWrNaBod7) | 2:56 |
 | 75 | [Roulette](https://open.spotify.com/track/0A93lVNtI8A7r9aLbjCBeY) | [Roham](https://open.spotify.com/artist/1dNOo2RAcZtW3CTCMKT6Ma) | [Roulette](https://open.spotify.com/album/4R5Heccj4JMtiaVA0tJ9iy) | 2:59 |
-| 76 | [TSUNAMİ](https://open.spotify.com/track/7nEAjE64ZKfj630Czlc5VU) | [Buse Ayla](https://open.spotify.com/artist/59FSDgp7VBJnjaGk4m6Ud4) | [TSUNAMİ](https://open.spotify.com/album/0zmfWfCd0EzEvTNUitLoXG) | 2:52 |
-| 77 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 |
-| 78 | [All I Ever Really Wanted](https://open.spotify.com/track/1zGONdLGdhquiPP5dOYDoO) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [All I Ever Really Wanted](https://open.spotify.com/album/3MJYuUKnMFvbgDk66jIn30) | 3:08 |
-| 79 | [waiting for magic](https://open.spotify.com/track/2ZyBCZcyfGAyLLXbIatANq) | [TIMEA](https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1) | [waiting for magic](https://open.spotify.com/album/2JOcgFVEHwkqP6XQdx0bLQ) | 3:15 |
-| 80 | [Nasıl Bakacaktın?](https://open.spotify.com/track/60UqAFKheZvVMxE5wvpR37) | [Vedat Erkaya](https://open.spotify.com/artist/350ruucx9WirBfIOIJHAXn) | [Nasıl Bakacaktın?](https://open.spotify.com/album/1fLE4UnZgzaS5kfFXq2yKU) | 2:09 |
-| 81 | [Yahu](https://open.spotify.com/track/4wk6yEaEZMtceAanjhUzmQ) | [Kent](https://open.spotify.com/artist/3cziYrb7i66jjX7hZrWxdu) | [Yahu](https://open.spotify.com/album/2AA3UOvSqaJHd0SqDVCoDg) | 3:16 |
-| 82 | [Kirli Gündem](https://open.spotify.com/track/6nESv87XYQUTGVCpfOoKoy) | [$hiro](https://open.spotify.com/artist/50grzYxbB2XSnESRfGI0O7), [SEUL](https://open.spotify.com/artist/4mfXwa4o12HBWJsexfs2H5) | [Kirli Gündem](https://open.spotify.com/album/3wBJXajiDh9F5oNmRaYfyA) | 2:00 |
-| 83 | [Hislerim Yok](https://open.spotify.com/track/3jVdHtwvLYdxJKvJRXzf2G) | [Ender](https://open.spotify.com/artist/3IUOH0oicZnRCb8YLGj6s8) | [Hislerim Yok](https://open.spotify.com/album/5bP0ZoRgs4PFqafXhb0VFf) | 2:49 |
-| 84 | [YAREN](https://open.spotify.com/track/26lxzlqZYgIPiJC5Iwoj9r) | [Uğur Özçelik](https://open.spotify.com/artist/6gG8T6hTYHzbEqUhA8sQvy) | [YAREN](https://open.spotify.com/album/1KPVWi6ouWGl7CUPtat9k7) | 2:42 |
-| 85 | [Nefes](https://open.spotify.com/track/6Oj0oj29osnA2D91cSh4Fg) | [Burak Bedirli](https://open.spotify.com/artist/34rsBlpfz7tf21juSlRdqu) | [Nefes](https://open.spotify.com/album/2JEfGvQw6ejyBZPzvkQn7J) | 3:45 |
-| 86 | [Divan Edebiyatı](https://open.spotify.com/track/3NHgQWIzLoWPHTPsdpPSjy) | [İmpala Edebiyat](https://open.spotify.com/artist/4x7aGZMr1OcgMda53DibAU) | [İslamiyet Etkisinde Gelişen Türk Edebiyatı](https://open.spotify.com/album/2e3aIXRpONvSNwVGgsFC7U) | 3:45 |
+| 76 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 |
+| 77 | [All I Ever Really Wanted](https://open.spotify.com/track/1zGONdLGdhquiPP5dOYDoO) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [All I Ever Really Wanted](https://open.spotify.com/album/3MJYuUKnMFvbgDk66jIn30) | 3:08 |
+| 78 | [waiting for magic](https://open.spotify.com/track/2ZyBCZcyfGAyLLXbIatANq) | [TIMEA](https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1) | [waiting for magic](https://open.spotify.com/album/2JOcgFVEHwkqP6XQdx0bLQ) | 3:15 |
+| 79 | [Nasıl Bakacaktın?](https://open.spotify.com/track/60UqAFKheZvVMxE5wvpR37) | [Vedat Erkaya](https://open.spotify.com/artist/350ruucx9WirBfIOIJHAXn) | [Nasıl Bakacaktın?](https://open.spotify.com/album/1fLE4UnZgzaS5kfFXq2yKU) | 2:09 |
+| 80 | [Yahu](https://open.spotify.com/track/4wk6yEaEZMtceAanjhUzmQ) | [Kent](https://open.spotify.com/artist/3cziYrb7i66jjX7hZrWxdu) | [Yahu](https://open.spotify.com/album/2AA3UOvSqaJHd0SqDVCoDg) | 3:16 |
+| 81 | [Kirli Gündem](https://open.spotify.com/track/6nESv87XYQUTGVCpfOoKoy) | [$hiro](https://open.spotify.com/artist/50grzYxbB2XSnESRfGI0O7), [SEUL](https://open.spotify.com/artist/4mfXwa4o12HBWJsexfs2H5) | [Kirli Gündem](https://open.spotify.com/album/3wBJXajiDh9F5oNmRaYfyA) | 2:00 |
+| 82 | [Hislerim Yok](https://open.spotify.com/track/3jVdHtwvLYdxJKvJRXzf2G) | [Ender](https://open.spotify.com/artist/3IUOH0oicZnRCb8YLGj6s8) | [Hislerim Yok](https://open.spotify.com/album/5bP0ZoRgs4PFqafXhb0VFf) | 2:49 |
+| 83 | [YAREN](https://open.spotify.com/track/26lxzlqZYgIPiJC5Iwoj9r) | [Uğur Özçelik](https://open.spotify.com/artist/6gG8T6hTYHzbEqUhA8sQvy) | [YAREN](https://open.spotify.com/album/1KPVWi6ouWGl7CUPtat9k7) | 2:42 |
+| 84 | [Nefes](https://open.spotify.com/track/6Oj0oj29osnA2D91cSh4Fg) | [Burak Bedirli](https://open.spotify.com/artist/34rsBlpfz7tf21juSlRdqu) | [Nefes](https://open.spotify.com/album/2JEfGvQw6ejyBZPzvkQn7J) | 3:45 |
+| 85 | [Divan Edebiyatı](https://open.spotify.com/track/3NHgQWIzLoWPHTPsdpPSjy) | [İmpala Edebiyat](https://open.spotify.com/artist/4x7aGZMr1OcgMda53DibAU) | [İslamiyet Etkisinde Gelişen Türk Edebiyatı](https://open.spotify.com/album/2e3aIXRpONvSNwVGgsFC7U) | 3:45 |
 
-Snapshot ID: `Z/jN+gAAAACURjXYvKWMPyMeCspw/g9Z`
+Snapshot ID: `Z/5/0QAAAAB0UAAbugstRChD+BuVv6Xl`

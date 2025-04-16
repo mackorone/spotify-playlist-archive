@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22048,
+  "num_followers": 22050,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAABCp9dNKXbguqHhyNikr69/",
+  "snapshot_id": "Z/xQAAAAAAA14zZnyWV8xmrfkwgG7ckx",
   "tracks": [
     {
       "added_at": null,
@@ -743,38 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segredos",
-        "url": "https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Negrotte",
-          "url": "https://open.spotify.com/artist/1iFANtb8wijR3ooWPdYER5"
-        }
-      ],
-      "duration_ms": 238141,
-      "name": "Segredos",
-      "url": "https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5458",
         "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 191129,
       "name": "Plano Perfeito",
       "url": "https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segredos",
+        "url": "https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Negrotte",
+          "url": "https://open.spotify.com/artist/1iFANtb8wijR3ooWPdYER5"
+        }
+      ],
+      "duration_ms": 238141,
+      "name": "Segredos",
+      "url": "https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4"
     },
     {
       "added_at": null,

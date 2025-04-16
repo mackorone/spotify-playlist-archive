@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-615 songs - 1 day 8 hr 32 min
+617 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [From A Wind Shelter](https://open.spotify.com/track/6ck00OxkQodovF01jbqG8V) | [Brown Noise Reverie](https://open.spotify.com/artist/11WpAKp8lM5b35xrylz3FS) | [From A Wind Shelter](https://open.spotify.com/album/7vr4akCBfDpYJImFWh7rkC) | 3:20 | 2022-11-18 | 2023-08-23 |
 | [Full Spectrum Brown Noise](https://open.spotify.com/track/6N5YSUp5wPPQsazAPk01Ua) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Brown Noise](https://open.spotify.com/album/3TZRgfNrwkdPMhgz9CB53G) | 2:45 | 2022-11-18 | 2022-12-21 |
 | [Gentle Fade Brown Noise](https://open.spotify.com/track/52tsiSsIBw7a8sHTEBnO3y) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Brown Noise Hz](https://open.spotify.com/album/5Eh7GZpQT9dfjyMz4NUdvk) | 3:26 | 2022-09-08 | 2024-02-10 |
-| [Gifted Noise](https://open.spotify.com/track/3F3VaOK290JSVVW0m44VlE) | [Gnees Pink Noise](https://open.spotify.com/artist/4iUE0zqhOvNJXGiP4DPEZW) | [Pink Noise Pt.1](https://open.spotify.com/album/1yj4hwvRRDU5BO9LLXmmLy) | 2:23 | 2022-06-03 |  |
+| [Gifted Noise](https://open.spotify.com/track/3F3VaOK290JSVVW0m44VlE) | [Gnees Pink Noise](https://open.spotify.com/artist/4iUE0zqhOvNJXGiP4DPEZW) | [Pink Noise Pt.1](https://open.spotify.com/album/1yj4hwvRRDU5BO9LLXmmLy) | 2:23 | 2022-06-03 | 2025-04-16 |
 | [Good Night Brown Noise](https://open.spotify.com/track/2PyV5iL5LG3tKGTL03PeZ6) | [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Sleep Fast Brown Noise](https://open.spotify.com/album/01BsRQXpRYSb9hmw2zZvQh) | 2:04 | 2023-01-27 |  |
 | [Halcyon Pink](https://open.spotify.com/track/4Tr9gx1fsA9VpilqHZABpc) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Pinksomnia](https://open.spotify.com/album/5ogQBNAiBaVC2zNRgDgdL4) | 3:12 | 2022-08-02 |  |
 | [Harmonious Pink](https://open.spotify.com/track/159e86GK041IHPDGGys1Xo) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Harmonious Pink](https://open.spotify.com/album/0ilDCKbfoslC4xl2eScsGT) | 3:02 | 2022-11-18 |  |
@@ -478,7 +478,7 @@
 | [Pink Perfect](https://open.spotify.com/track/0itto7XEGoA9yj8Wl1AhjL) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Beautiful Pink](https://open.spotify.com/album/21qc62RvN3yK87JJzawGV8) | 3:11 | 2022-11-18 |  |
 | [Pink Pulse](https://open.spotify.com/track/2ftj8ntnOeh01t8fZ9Acwf) | [Soundverb](https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo) | [Pink Pulse](https://open.spotify.com/album/17VvYfibRHRDoPWTBz2Um2) | 3:23 | 2024-02-09 | 2025-03-19 |
 | [Pink Relaxative](https://open.spotify.com/track/0Q2xNXtrUEWKOORsYd0lmh) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [In Noise We Trust](https://open.spotify.com/album/1O6qnez7geSm25PhYvB8md) | 2:52 | 2023-01-27 | 2025-03-19 |
-| [Pink Rest Noise](https://open.spotify.com/track/58k7PfETcMsXj1eYX8dsc7) | [Me & Us](https://open.spotify.com/artist/3uMrYsI7icaVVHV2DxMJqC) | [Focus With Deep Pink Noise](https://open.spotify.com/album/3kivWK63tfnqCy6T5PX7Wm) | 2:53 | 2023-01-27 |  |
+| [Pink Rest Noise](https://open.spotify.com/track/58k7PfETcMsXj1eYX8dsc7) | [Me & Us](https://open.spotify.com/artist/3uMrYsI7icaVVHV2DxMJqC) | [Focus With Deep Pink Noise](https://open.spotify.com/album/3kivWK63tfnqCy6T5PX7Wm) | 2:53 | 2023-01-27 | 2025-04-16 |
 | [Pink Sky](https://open.spotify.com/track/5Fbh018hoA0IQi7SM9CZfs) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Pink Sky](https://open.spotify.com/album/61VcpmFcMq9l2fVOr6zsNu) | 3:38 | 2024-02-09 | 2025-03-19 |
 | [Pink Sky Noise](https://open.spotify.com/track/0AP0T794qaAvwfUnT4j7Mb) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Restful Pink Noise](https://open.spotify.com/album/5Wsu1Xou2OwBeZUuL8c977) | 2:07 | 2022-12-20 |  |
 | [Pink Sonos](https://open.spotify.com/track/1jEhXzSSIMjzrlFjWBYlNV) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Pink Stellar](https://open.spotify.com/album/7BTSIrVrwjP4T9HOFbw2Ym) | 2:52 | 2022-12-20 |  |
@@ -515,6 +515,8 @@
 | [Rolling Deep](https://open.spotify.com/track/4Klt8i8SsmFbHO1I6nJ5eD) | [Drowning Pink Sky](https://open.spotify.com/artist/3DfGrLqN2EopoRAlpIl8qQ) | [Pink Noise Vol\. 2](https://open.spotify.com/album/7HlPb1jzKVAk38USHYvSl2) | 2:27 | 2022-04-29 | 2023-01-28 |
 | [Rolling Deep](https://open.spotify.com/track/74z73AMsEbOWSffQB4IIHl) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:05 | 2021-12-01 |  |
 | [Rolling Waves 200 Hz \- Seamless](https://open.spotify.com/track/0Ta8zQwBRyx7kotVmP0vRF) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [Rolling Waves 200 Hz](https://open.spotify.com/album/2ub84WMaHZP4O3zeJZxoMa) | 2:54 | 2022-07-01 | 2023-01-28 |
+| [Rosé Pink Noise](https://open.spotify.com/track/4VhIIYyfjJp2xaNKxXfj6C) | [Aeoluzzz](https://open.spotify.com/artist/0aWv3c8ziN4LaKzIjHwb9V) | [Rosé Pink Noise](https://open.spotify.com/album/6SgfHRx55rpryzaO0nCI5O) | 3:52 | 2025-04-09 |  |
+| [Rosé Sleep Noise](https://open.spotify.com/track/1LyaQYpdN0P5PN11iiuW3U) | [EXOA](https://open.spotify.com/artist/16fII77WGyUG8E5DTIW4EU) | [Rosé Sleep Noise](https://open.spotify.com/album/69YSFpafyANsqZAJhvdPkJ) | 3:37 | 2025-04-09 |  |
 | [Ruido De Aviones Freq 238 Hz Q 0.5 \- Seamless](https://open.spotify.com/track/7IULbyfSZ5rViyx7qKCrdZ) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido De Aviones](https://open.spotify.com/album/4DA3h0stpjokKVyHVL0Z8y) | 3:05 | 2022-11-18 |  |
 | [Ruido Del Mar \- Seamless](https://open.spotify.com/track/5BCbMLN2bw6sRvWZVI11OF) | [Amantigo](https://open.spotify.com/artist/2egW4Lh3v9aPggJ9e5wAHc) | [Ruido Rosa](https://open.spotify.com/album/6CwpDWdL7PxgH97lvEdx2c) | 2:54 | 2022-11-18 |  |
 | [Ruido Rosa \- Seamless](https://open.spotify.com/track/2XxL38UvgKqGdVlg5k2xth) | [Amantigo](https://open.spotify.com/artist/2egW4Lh3v9aPggJ9e5wAHc) | [Ruido Rosa](https://open.spotify.com/album/6CwpDWdL7PxgH97lvEdx2c) | 3:08 | 2022-11-18 |  |

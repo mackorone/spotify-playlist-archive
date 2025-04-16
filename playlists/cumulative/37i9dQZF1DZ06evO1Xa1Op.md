@@ -4,7 +4,7 @@
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-119 songs - 9 hr 55 min
+120 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Kadi kadi](https://open.spotify.com/track/5tJEyk2wHEkTdcEbuUzLua) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 3:19 | 2022-05-09 | 2022-05-11 |
 | [Kala](https://open.spotify.com/track/0cXMDLtctwEmb7V8usAdPV) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 5:04 | 2021-12-28 | 2022-10-12 |
 | [Kala Djula](https://open.spotify.com/track/2p361jV44d4AtfNevM8GAy) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 3:27 | 2022-01-03 | 2022-10-08 |
+| [Kana Kassy](https://open.spotify.com/track/0s3hLSHmF9JBS7bNrx1jRd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 4:10 | 2025-04-16 |  |
 | [Kana Kassy](https://open.spotify.com/track/7tcbDEhAJ3cAwsPazkQnpW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:10 | 2021-12-28 | 2023-12-14 |
 | [Kenouna](https://open.spotify.com/track/0jzUByh0WRJ9ywHMLIStkJ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 3:23 | 2023-12-13 | 2024-03-28 |
 | [Kenouna](https://open.spotify.com/track/7duw8z4D3A66llLyquL7ra) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 3:23 | 2023-03-12 | 2023-12-14 |
@@ -100,7 +101,7 @@
 | [Safari](https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 5:48 | 2023-12-13 |  |
 | [Safari](https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Safari](https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW) | 5:48 | 2023-01-15 | 2023-02-14 |
 | [Samba Geladio](https://open.spotify.com/track/21FynyuRsfsnWNoLkmPDt9) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 3:17 | 2021-12-29 | 2022-10-11 |
-| [Samba Geladio](https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 3:17 | 2023-12-13 |  |
+| [Samba Geladio](https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 3:17 | 2023-12-13 | 2025-04-16 |
 | [Sambadio \(Acoustic\)](https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 5:12 | 2023-12-13 | 2025-01-05 |
 | [Sambadio \- Acoustic](https://open.spotify.com/track/1JgCWF9ECm5wR5Ws6nIBE6) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 5:12 | 2023-03-12 | 2023-12-14 |
 | [Savane](https://open.spotify.com/track/0Ya5bHuA3kyiePOhIQfQtW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 7:43 | 2021-12-28 | 2024-12-24 |

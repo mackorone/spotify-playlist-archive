@@ -447,6 +447,32 @@
     },
     {
       "album": {
+        "name": "Beethoven: Cello Sonatas Op.69 & 102; Variations",
+        "url": "https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Cello Sonata No. 4 in C Major, Op. 102 No. 1: I. Andante \u2013",
+      "url": "https://open.spotify.com/track/0EKPj41uhOc0r0UjkKbjsm"
+    },
+    {
+      "album": {
         "name": "Chopin Memories of a Sonata (From Cello Sonata, Op. 65, Arr. for Piano by Ketan & Vivan Bhatti)",
         "url": "https://open.spotify.com/album/5foDAiGc3xQD0KfJl4kMER"
       },
@@ -2072,32 +2098,6 @@
       "duration_ms": 141706,
       "name": "Six Pieces, Op. 51, TH 143: VI. Valse sentimentale. Tempo di Valse",
       "url": "https://open.spotify.com/track/1BbQIyPnuhVIlJEqPcY3Ug"
-    },
-    {
-      "album": {
-        "name": "Beethoven: Cello Sonatas Op.69 & 102; Variations",
-        "url": "https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Mischa Maisky",
-          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "date_added": "2024-09-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179133,
-      "name": "Sonata for Cello and Piano No. 4 in C Major, Op. 102 No. 1: I. Andante",
-      "url": "https://open.spotify.com/track/0EKPj41uhOc0r0UjkKbjsm"
     },
     {
       "album": {

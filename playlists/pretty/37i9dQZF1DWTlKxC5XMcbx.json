@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61798,
+  "num_followers": 61802,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-04-14 01:47:38",
       "album": {
+        "name": "My Sweetest You",
+        "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
+        }
+      ],
+      "duration_ms": 187004,
+      "name": "My Sweetest You",
+      "url": "https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy"
+    },
+    {
+      "added_at": "2025-04-14 01:47:38",
+      "album": {
         "name": "The Body & The Soul",
         "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 258040,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
-    },
-    {
-      "added_at": "2025-04-14 01:47:38",
-      "album": {
-        "name": "My Sweetest You",
-        "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Leroy Quartet",
-          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
-        }
-      ],
-      "duration_ms": 187004,
-      "name": "My Sweetest You",
-      "url": "https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy"
     },
     {
       "added_at": "2025-04-14 01:47:38",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-04-14 01:47:38",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
-      },
-      "artists": [
-        {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Good Morning.Goodbye",
-      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
-    },
-    {
-      "added_at": "2025-04-14 01:47:38",
-      "album": {
         "name": "Ben Webster Meets Oscar Peterson",
         "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 236840,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5"
+    },
+    {
+      "added_at": "2025-04-14 01:47:38",
+      "album": {
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+      },
+      "artists": [
+        {
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+        }
+      ],
+      "duration_ms": 336373,
+      "name": "Good Morning.Goodbye",
+      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
     },
     {
       "added_at": "2025-04-14 01:47:38",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-04-14 01:47:38",
       "album": {
-        "name": "Trio 99-00",
-        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Trio",
-          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "Travels",
-      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
-    },
-    {
-      "added_at": "2025-04-14 01:47:38",
-      "album": {
         "name": "Blue Lake",
         "url": "https://open.spotify.com/album/199WEkdDKGEtOdKtheHjY0"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 215000,
       "name": "Blue Lake",
       "url": "https://open.spotify.com/track/0owIJBBWP1Q5FvnyoywK2E"
+    },
+    {
+      "added_at": "2025-04-14 01:47:38",
+      "album": {
+        "name": "Trio 99-00",
+        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Trio",
+          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
+        }
+      ],
+      "duration_ms": 343640,
+      "name": "Travels",
+      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
     },
     {
       "added_at": "2025-04-14 01:47:38",
@@ -859,38 +859,6 @@
     {
       "added_at": "2025-04-14 01:47:38",
       "album": {
-        "name": "Solo Guitar",
-        "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
-      },
-      "artists": [
-        {
-          "name": "Ted Greene",
-          "url": "https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3"
-        }
-      ],
-      "duration_ms": 299880,
-      "name": "Send In The Clowns",
-      "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
-    },
-    {
-      "added_at": "2025-04-14 01:47:38",
-      "album": {
-        "name": "I'll Give You My Heartache",
-        "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
-      },
-      "artists": [
-        {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
-        }
-      ],
-      "duration_ms": 227202,
-      "name": "I'll Give You My Heartache",
-      "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
-    },
-    {
-      "added_at": "2025-04-14 01:47:38",
-      "album": {
         "name": "Phil's Mood",
         "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
       },
@@ -907,6 +875,22 @@
       "duration_ms": 394920,
       "name": "Blue Ballad",
       "url": "https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n"
+    },
+    {
+      "added_at": "2025-04-14 01:47:38",
+      "album": {
+        "name": "Solo Guitar",
+        "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
+      },
+      "artists": [
+        {
+          "name": "Ted Greene",
+          "url": "https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3"
+        }
+      ],
+      "duration_ms": 299880,
+      "name": "Send In The Clowns",
+      "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
     },
     {
       "added_at": "2025-04-14 01:47:38",
@@ -935,6 +919,22 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
+    },
+    {
+      "added_at": "2025-04-14 01:47:38",
+      "album": {
+        "name": "I'll Give You My Heartache",
+        "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 227202,
+      "name": "I'll Give You My Heartache",
+      "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
     },
     {
       "added_at": "2025-04-14 01:47:38",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-04-14 01:47:38",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
-    },
-    {
-      "added_at": "2025-04-14 01:47:38",
-      "album": {
         "name": "Playing The Room",
         "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
       },
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2025-04-14 01:47:38",
       "album": {
-        "name": "A Hundred Dreams from Now",
-        "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
-      },
-      "artists": [
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
-    },
-    {
-      "added_at": "2025-04-14 01:47:38",
-      "album": {
         "name": "Rhapsody in Blue",
         "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
       },
@@ -1067,6 +1035,38 @@
       "duration_ms": 249453,
       "name": "Rhapsody in Blue",
       "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
+    },
+    {
+      "added_at": "2025-04-14 01:47:38",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
+    },
+    {
+      "added_at": "2025-04-14 01:47:38",
+      "album": {
+        "name": "A Hundred Dreams from Now",
+        "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
     },
     {
       "added_at": "2025-04-14 01:47:38",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-04-14 01:47:38",
       "album": {
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Tranquillity - Remastered 1994",
+      "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
+    },
+    {
+      "added_at": "2025-04-14 01:47:38",
+      "album": {
         "name": "Ellis In Wonderland",
         "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 256706,
       "name": "Ernie's Tune",
       "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
-    },
-    {
-      "added_at": "2025-04-14 01:47:38",
-      "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Tranquillity - Remastered 1994",
-      "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
     },
     {
       "added_at": "2025-04-14 01:47:38",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-04-14 01:47:38",
       "album": {
-        "name": "Evans",
-        "url": "https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX"
-      },
-      "artists": [
-        {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
-        }
-      ],
-      "duration_ms": 248165,
-      "name": "Evans",
-      "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
-    },
-    {
-      "added_at": "2025-04-14 01:47:38",
-      "album": {
         "name": "My New Old Friend",
         "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 333346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
+    },
+    {
+      "added_at": "2025-04-14 01:47:38",
+      "album": {
+        "name": "Evans",
+        "url": "https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX"
+      },
+      "artists": [
+        {
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+        }
+      ],
+      "duration_ms": 248165,
+      "name": "Evans",
+      "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
     },
     {
       "added_at": "2025-04-14 01:47:38",

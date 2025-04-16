@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-523 songs - 1 day 5 hr 55 min
+524 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\)](https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH) | 3:01 | 2022-09-08 |  |
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/25ZGdVJ75TcZydOwLYUzgS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Another Friday Night](https://open.spotify.com/album/01cGIsFPOyQo6BqL1sQgq9) | 3:01 | 2023-07-20 | 2023-07-24 |
 | [I'll Be Your Strength](https://open.spotify.com/track/6UWkU4NFEECPDwoGQN4ESx) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:25 | 2025-01-09 | 2025-04-12 |
+| [I'm Just A Girl](https://open.spotify.com/track/7zWQYiWzx7pJDUg4BuOb5A) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:22 | 2025-04-15 |  |
 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 | 2022-09-08 |  |
 | [IDGAF](https://open.spotify.com/track/0xxrzE1V4R2XBk4CfuTss0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [IDGAF](https://open.spotify.com/album/5H3Lk0j2n7NRD6bLwfmE3r) | 3:43 | 2023-12-14 | 2024-01-26 |
 | [If It Ain’t Me](https://open.spotify.com/track/1IdDtg7GhWfHYEWDymq3d2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 3:15 | 2022-09-08 |  |

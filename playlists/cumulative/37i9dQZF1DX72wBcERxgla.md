@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-660 songs - 1 day 9 hr 34 min
+662 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,9 @@
 | [A clear day](https://open.spotify.com/track/0wj4AimnPYzogQIvWNrz34) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A clear day](https://open.spotify.com/album/4scQP4cQKQa1WwJyi4S8e4) | 3:06 | 2024-11-18 |  |
 | [A Dozy Afternoon](https://open.spotify.com/track/6qafoZ7ARao8g3lUQQcXav) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [A Dozy Afternoon](https://open.spotify.com/album/1rE0YWh57id27inaJawLT5) | 3:20 | 2024-04-10 |  |
 | [A Favorite Song](https://open.spotify.com/track/4UWncXK8hLTErhTxKPolo2) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [A Favorite Song](https://open.spotify.com/album/45S8G3m4yS40xNqsXCBJAG) | 2:13 | 2023-06-15 | 2024-06-28 |
+| [A Few Horizons](https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD) | [Harper Avery](https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L) | [A Few Horizons](https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP) | 2:20 | 2025-04-15 |  |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-04-12 | 2025-01-21 |
+| [A Fourth Thought](https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V) | [Alur Mcrose](https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF) | [A Fourth Thought](https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE) | 2:27 | 2025-04-15 |  |
 | [A Future With You](https://open.spotify.com/track/1ndjWsO1Ft9kY6bqOTngmI) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 3:17 | 2022-08-17 | 2025-01-15 |
 | [A Gentle Dance](https://open.spotify.com/track/0XRh40ZrxLXDEONZywjexP) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [A Gentle Dance](https://open.spotify.com/album/1gzd7kZ4kZji630lABbjIQ) | 2:31 | 2023-11-17 | 2024-05-11 |
 | [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 | 2025-03-11 |
@@ -164,7 +166,7 @@
 | [Evening Silence](https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 4:04 | 2022-08-10 | 2024-11-19 |
 | [Evening Stillness](https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [Evening Stillness](https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v) | 3:18 | 2025-04-04 |  |
 | [Eventide](https://open.spotify.com/track/7nO04XqvyNvkTtaUcgoPas) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Eventide](https://open.spotify.com/album/5rGNwZOi7HmnCVQlpes1bp) | 2:35 | 2022-04-12 |  |
-| [Everlasting Road](https://open.spotify.com/track/1dsECyS1CcES7lUyEsb5vm) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Everlasting Road](https://open.spotify.com/album/6tHUGPe4CbFQQMAtEi9Nuy) | 3:37 | 2022-08-10 |  |
+| [Everlasting Road](https://open.spotify.com/track/1dsECyS1CcES7lUyEsb5vm) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Everlasting Road](https://open.spotify.com/album/6tHUGPe4CbFQQMAtEi9Nuy) | 3:37 | 2022-08-10 | 2025-04-16 |
 | [Evermore Street](https://open.spotify.com/track/4D5p92Sg5NATIW22l1msgN) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Evermore Street](https://open.spotify.com/album/1FOjdvtbdxKAAqB3FQ5Jg2) | 3:19 | 2023-02-02 | 2024-07-23 |
 | [Everything Happens To Me](https://open.spotify.com/track/3vIwdAaJmIrETc7k98gaTg) | [Marty Spotnic](https://open.spotify.com/artist/1X0ofBtlKCTBDLTG1h240W) | [Everything Happens To Me](https://open.spotify.com/album/5LsRZN3gpSx7bRk09Ds8MZ) | 3:50 | 2024-03-08 | 2025-02-11 |
 | [Everything Happens To Me](https://open.spotify.com/track/6nDBKDiLUbrRFe2Wyghmrb) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Everything Happens To Me](https://open.spotify.com/album/7tr6GwglHf1iIz81pe1j8p) | 3:46 | 2022-04-12 | 2022-11-25 |
@@ -459,7 +461,7 @@
 | [Rains diamonds](https://open.spotify.com/track/5y4uYShnlTpxgmq9igxXjt) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Rains diamonds](https://open.spotify.com/album/6H8IRrqFArtshNG4oP3oQV) | 2:54 | 2023-08-10 | 2024-11-26 |
 | [Red Roses](https://open.spotify.com/track/4nF6ml6bgg0nomCgQYreI2) | [Joanna Mason](https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT) | [Red Roses](https://open.spotify.com/album/5uvqy4Sd6Hz8JgcUyGJAcx) | 3:20 | 2023-04-13 | 2024-07-23 |
 | [Reflections](https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG) | [Lisa Livalli](https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR) | [Reflections](https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c) | 3:36 | 2022-04-12 | 2024-11-26 |
-| [Reflections in the Rain](https://open.spotify.com/track/5bJ2WTF08YvfA51hFfD9TC) | [Tina Wellbeck](https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe) | [Reflections in the Rain](https://open.spotify.com/album/0VXnHbvR6mMKQ6jCQt7Fjw) | 2:35 | 2023-06-01 |  |
+| [Reflections in the Rain](https://open.spotify.com/track/5bJ2WTF08YvfA51hFfD9TC) | [Tina Wellbeck](https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe) | [Reflections in the Rain](https://open.spotify.com/album/0VXnHbvR6mMKQ6jCQt7Fjw) | 2:35 | 2023-06-01 | 2025-04-16 |
 | [Relief On A Shitty Day](https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [Relief On A Shitty Day](https://open.spotify.com/album/413eCTjZ1lJAjgtH5srUFp) | 3:08 | 2023-01-05 |  |
 | [Rendezvous in Paris](https://open.spotify.com/track/6OIPUVNyFrn1kZ7GLVNweJ) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Rendezvous in Paris](https://open.spotify.com/album/5dcRy1998FNdT6ZVvk6G2D) | 2:40 | 2023-12-15 |  |
 | [Reserved Judgement](https://open.spotify.com/track/3PgyUOs2llfKGv2GCYqpKi) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Reserved Judgement](https://open.spotify.com/album/6NP0tJZoYLoHIgWdZ4FyrV) | 2:56 | 2024-02-02 |  |

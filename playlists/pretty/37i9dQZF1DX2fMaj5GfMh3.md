@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: MAKSIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,936 likes - 106 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,933 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,13 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 96 | [cautious](https://open.spotify.com/track/6arWSraSUt15KNwLrWXeJV) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [cautious](https://open.spotify.com/album/1idt4EiRyhXtzyMiygpXWC) | 3:02 |
 | 97 | [Open Hearts](https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:54 |
 | 98 | [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 |
-| 99 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 |
-| 100 | [Lying Eyes](https://open.spotify.com/track/0BZT22gExfkI3A2oB1Rl9f) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [Lying Eyes](https://open.spotify.com/album/0JL0IqrDnc37gTfP2Zw9lc) | 3:14 |
-| 101 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 |
-| 102 | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/track/0Lql4L7NyAKnZHBUKYVI26) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/album/4a0DSORIOQog6KZZ9i5l3Y) | 2:43 |
-| 103 | [In the shadow](https://open.spotify.com/track/2yU9aAts5f45PUZXLmbl6S) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [In the shadow](https://open.spotify.com/album/4uJavzoYUVg49HPwwYUnnw) | 3:41 |
-| 104 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 |
-| 105 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
-| 106 | [Pray](https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pray](https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL) | 2:58 |
+| 99 | [Lying Eyes](https://open.spotify.com/track/0BZT22gExfkI3A2oB1Rl9f) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [Lying Eyes](https://open.spotify.com/album/0JL0IqrDnc37gTfP2Zw9lc) | 3:14 |
+| 100 | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/track/0Lql4L7NyAKnZHBUKYVI26) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/album/4a0DSORIOQog6KZZ9i5l3Y) | 2:43 |
 
-Snapshot ID: `Z/g/cwAAAACaRsGNXWZlgiIQ1sYgvsqu`
+Snapshot ID: `Z/4sfAAAAADUFdBlXmiDLWmYtb91ZzsM`

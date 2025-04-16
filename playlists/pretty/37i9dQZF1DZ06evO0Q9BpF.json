@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 46764,
+  "num_followers": 46789,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAAuz42aFp7PCcqjLSZf4Gb4",
+  "snapshot_id": "Z/xQAAAAAAAyS2ebH5AnmId59oUAKkhy",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dios Conmigo Est\u00e1s",
+        "url": "https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Dios Conmigo Est\u00e1s",
+      "url": "https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 588837,
       "name": "No Hay Nada Imposible",
       "url": "https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dios Conmigo Est\u00e1s",
-        "url": "https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Dios Conmigo Est\u00e1s",
-      "url": "https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Blanco y Negro",
-      "url": "https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 280893,
       "name": "Eres Todo Para Mi",
       "url": "https://open.spotify.com/track/6aezJWkgWXc8KlVM5dBsf5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Blanco y Negro",
+      "url": "https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H"
     },
     {
       "added_at": null,
@@ -651,26 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 505066,
-      "name": "Venga Tu Reino",
-      "url": "https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz"
+      "duration_ms": 208733,
+      "name": "Mientras Viva",
+      "url": "https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI"
     },
     {
       "added_at": null,
@@ -743,18 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Mientras Viva",
-      "url": "https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI"
+      "duration_ms": 505066,
+      "name": "Venga Tu Reino",
+      "url": "https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz"
     },
     {
       "added_at": null,
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 388853,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
+      "duration_ms": 258640,
+      "name": "Permanecer\u00e9 En T\u00ed",
+      "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
     },
     {
       "added_at": null,
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 258640,
-      "name": "Permanecer\u00e9 En T\u00ed",
-      "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
+      "duration_ms": 388853,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Blake Shelton, Jelly Roll, Shaboozey with Myles Smith and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,431 likes - 66 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,577 likes - 66 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 30 | [No Matter How Hard I Try](https://open.spotify.com/track/1r8GLUw8S7mCheBa0oSmGM) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [No Matter How Hard I Try](https://open.spotify.com/album/0bb06VufiUkQ0bFuNgYFgI) | 2:58 |
 | 31 | [Tomorrows Left](https://open.spotify.com/track/4GAvEtCD0kRDP6qhUIg9zP) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Tomorrows Left](https://open.spotify.com/album/38ZwLDDA9dy91nUYtv1znK) | 2:48 |
 | 32 | [In a Bar](https://open.spotify.com/track/7Fz2SNqd2DCvt60NADjoQX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [In a Bar](https://open.spotify.com/album/2Ig2MbALOCNKc2fl4FdTJx) | 3:14 |
-| 33 | [Culdesack Kids](https://open.spotify.com/track/3K9WGNcYL8Us0N7Wn8BNMx) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Culdesac Kids](https://open.spotify.com/album/6hpcDG2qESY9suyprGedqi) | 2:11 |
+| 33 | [Culdesac Kids](https://open.spotify.com/track/3K9WGNcYL8Us0N7Wn8BNMx) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Culdesac Kids](https://open.spotify.com/album/6hpcDG2qESY9suyprGedqi) | 2:11 |
 | 34 | [On The Narrow](https://open.spotify.com/track/6e2uIXhVQUy7anV4nurI8c) | [Joe Jordan](https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv) | [On The Narrow](https://open.spotify.com/album/4bMvch3WhiJociJwfR0NF1) | 4:09 |
 | 35 | [How To Make A Cowboy Cry](https://open.spotify.com/track/3Ms3RsQ0YrMcKZb5I0Sgja) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [How To Make A Cowboy Cry](https://open.spotify.com/album/3OplqW5bmuDbcPGwqwY2ze) | 3:10 |
 | 36 | [Struck It Rich](https://open.spotify.com/track/6Ncm1m7HhKd6CiIgK2CS1R) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Ruination Line / Struck It Rich](https://open.spotify.com/album/2TIm97C5Fc7tqV1uu8MVi1) | 3:56 |

@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: Kae Tempest
+> Songs from LGBTQIA+ artists\.  Cover: Boko Yout
 
-1,461 songs - 3 day 7 hr 15 min
+1,462 songs - 3 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 | 2025-04-08 |  |
 | [IKONA](https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [IKONA](https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg) | 3:00 | 2024-05-06 | 2024-06-06 |
 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 | 2021-12-17 | 2022-01-29 |
+| [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 | 2025-04-15 |  |
 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-12-04 | 2025-01-29 |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2023-03-31 | 2023-04-14 |
 | [Imposter Syndrome](https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Imposter Syndrome](https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1) | 2:38 | 2023-03-07 | 2023-04-01 |
@@ -1196,7 +1197,7 @@
 | [Still](https://open.spotify.com/track/6KR7buPOfUcd3o2SUpJUHr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 3:04 | 2023-08-08 | 2023-11-14 |
 | [Still Breathing](https://open.spotify.com/track/4PEqiixbz0eTuPusho6AJn) | [POESY](https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL) | [Still Breathing](https://open.spotify.com/album/5b5kRKvYp0DyO3idMNV3jY) | 3:13 | 2022-05-13 | 2022-07-28 |
 | [Straight With Me](https://open.spotify.com/track/0z3WKX1McBTgXbfKBExMGB) | [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW) | [Straight With Me](https://open.spotify.com/album/5klZUAK7pzv8nwrvEu5JCp) | 2:44 | 2024-08-13 | 2024-09-10 |
-| [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 | 2025-02-11 |  |
+| [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 | 2025-02-11 | 2025-04-16 |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2023-03-07 | 2024-01-11 |
 | [stuck in san antonio](https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [stuck in san antonio](https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo) | 2:33 | 2023-06-01 | 2023-07-12 |
 | [stupid games](https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [homecoming!](https://open.spotify.com/album/6oxQZpgS63Ah61H7fjsGHC) | 3:12 | 2022-03-11 | 2022-12-01 |

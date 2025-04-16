@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-485 songs - 20 hr 36 min
+486 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Berceuse](https://open.spotify.com/track/04JrzZqZTMeY5gRY3IH7Pr) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Berceuse](https://open.spotify.com/album/71ey9Q6ZMIjIbkQV76nqIr) | 3:04 | 2022-12-22 | 2025-04-10 |
 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 | 2024-12-13 |  |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-04-04 | 2023-07-19 |
-| [Blessed Summer](https://open.spotify.com/track/0vWT4QBIvtiGoQ0nFenKh6) | [Atlas Orson](https://open.spotify.com/artist/359p54G5Nn0vRDnD2Wrm16) | [Blessed Summer](https://open.spotify.com/album/7lyovuOXuChvT9oAwEx92Y) | 2:43 | 2025-04-04 |  |
+| [Blessed Summer](https://open.spotify.com/track/0vWT4QBIvtiGoQ0nFenKh6) | [Atlas Orson](https://open.spotify.com/artist/359p54G5Nn0vRDnD2Wrm16) | [Blessed Summer](https://open.spotify.com/album/7lyovuOXuChvT9oAwEx92Y) | 2:43 | 2025-04-04 | 2025-04-16 |
 | [Blossom](https://open.spotify.com/track/3DFYPYOE6jFAFESDNNPinu) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Blossom](https://open.spotify.com/album/3ta3NvHbPjI3CL4DmMHFTk) | 2:24 | 2022-04-04 | 2024-03-26 |
 | [Blossom](https://open.spotify.com/track/10pCEITWkgRHhTAuCtvMWK) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [Blossom](https://open.spotify.com/album/46h9YpSwtk2AIq2ICk0Fsb) | 2:16 | 2022-04-04 | 2024-02-15 |
 | [Blue House](https://open.spotify.com/track/6GubNK7uYQmYv1s1mxLiTY) | [Henri Mael](https://open.spotify.com/artist/5olHxtBnXQ3IO0oXnDE0bF) | [Blue House](https://open.spotify.com/album/70dJ2yvfX09aX1wXEqwRhj) | 2:32 | 2024-10-15 |  |
@@ -214,6 +214,7 @@
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2022-04-04 | 2024-04-04 |
 | [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2022-04-04 | 2024-04-04 |
 | [Lately](https://open.spotify.com/track/25mt07e9d0YnLilZWErWwI) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Lately](https://open.spotify.com/album/6B4RhwHWJGl0fefqdjVs7q) | 2:41 | 2024-03-04 | 2025-03-01 |
+| [Laura](https://open.spotify.com/track/3v5zY0bFBSuulq3VP7Hc27) | [Thiago Hernan](https://open.spotify.com/artist/2HbMVXQwDL2R3QfZIIMXfv) | [Laura](https://open.spotify.com/album/7aaq74QOHzDUCpBwF4qW4g) | 2:23 | 2025-04-15 |  |
 | [Le crépuscule](https://open.spotify.com/track/7EFwlg7IwnYdrfNCYCOGDd) | [Pascale Perrot](https://open.spotify.com/artist/11nSedLZI37ACQ8UjQEzx1) | [Le crépuscule](https://open.spotify.com/album/1cAX6wAWRCGmWOez2FkJkK) | 2:10 | 2022-04-04 | 2024-04-10 |
 | [Les belles couleurs des arbres](https://open.spotify.com/track/1M7D11GymZZfC50WwTzrAc) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Les belles couleurs des arbres](https://open.spotify.com/album/5oQLdILYb1Zs8xKnHmZp3I) | 2:25 | 2022-04-04 | 2024-09-03 |
 | [Les Cascades](https://open.spotify.com/track/1KAetxnXN7RQyelFodIlQB) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Les Cascades](https://open.spotify.com/album/7EQwck6JXpN4cDgd8cGz0e) | 3:57 | 2022-04-04 | 2024-10-16 |
@@ -467,7 +468,7 @@
 | [Vitrales](https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Vitrales](https://open.spotify.com/album/6NfvuPPYduPE9MIQviXENF) | 2:40 | 2022-04-04 | 2024-04-04 |
 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 | 2022-04-04 | 2024-04-04 |
 | [Voyage à l'Ouest](https://open.spotify.com/track/4C7ZY0HRPVn9G5bgYAertD) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Voyage à'louest](https://open.spotify.com/album/2AgVCRWI1Qpz3S7u05VHZu) | 2:55 | 2022-04-04 | 2024-09-25 |
-| [Walk by My Side](https://open.spotify.com/track/6rfjpcefVgYadMrX7urUh1) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Walk by My Side](https://open.spotify.com/album/7LY6sfSf1O2onVl6xp6eQC) | 2:19 | 2025-02-28 |  |
+| [Walk by My Side](https://open.spotify.com/track/6rfjpcefVgYadMrX7urUh1) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Walk by My Side](https://open.spotify.com/album/7LY6sfSf1O2onVl6xp6eQC) | 2:19 | 2025-02-28 | 2025-04-16 |
 | [wandering bird](https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [yellow fields & wandering bird](https://open.spotify.com/album/4fBLDgZ2H67fMlnN2evmp2) | 2:35 | 2022-04-04 | 2023-06-21 |
 | [Wandering Life](https://open.spotify.com/track/0oOXM7PiPK9BduPyCTEiYT) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA), [Matías León](https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I) | [Wandering Life](https://open.spotify.com/album/2z6SjaPPbE141LTrDcxS38) | 1:38 | 2022-09-20 | 2022-10-20 |
 | [Wandering Life](https://open.spotify.com/track/765y9b98K1iekDiM1Pol0Q) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA), [Thomas Derry](https://open.spotify.com/artist/03kJMjnglfUqv8ReOql96z) | [Wandering Life](https://open.spotify.com/album/3QBOI6Y9YxIKNQNPzcCz2U) | 1:38 | 2022-09-20 | 2022-10-21 |

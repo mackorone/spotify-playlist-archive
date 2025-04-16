@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-278 songs - 13 hr 25 min
+279 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2024-06-11 |  |
 | [Jumpin on a Jet](https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:17 | 2024-06-11 |  |
 | [Jumpin Out The Jet](https://open.spotify.com/track/7pOxDOwGGn3iur0FKxUc9D) | [Ocho Sneak](https://open.spotify.com/artist/715AbbSRVWZCS89rW7JsS3), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Jumpin Out The Jet](https://open.spotify.com/album/03H4LFDv4OmKyuxqgRUoNu) | 3:00 | 2024-06-11 |  |
+| [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-04-15 |  |
 | [Kidnapped](https://open.spotify.com/track/2ZmCMb8yfAjPIrgK74OnNm) | [Boston George](https://open.spotify.com/artist/7gten3sDCiuil5aBzq9Rej), [Diego](https://open.spotify.com/artist/6JMZQemAU6yRUWVc9e3gHo) | [Boston George & Diego](https://open.spotify.com/album/1bApVxEdfGoql7ExpWtdJW) | 3:28 | 2024-06-11 |  |
 | [Kostas](https://open.spotify.com/track/30hui0n0IE1y699MAEPNGp) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 5:33 | 2024-06-26 |  |
 | [Krazy Krazy](https://open.spotify.com/track/5Pli7y7DiK19rF0JL6Nsqi) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:22 | 2024-06-11 |  |

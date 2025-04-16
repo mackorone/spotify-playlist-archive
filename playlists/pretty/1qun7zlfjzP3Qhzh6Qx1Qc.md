@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,635 likes - 60 songs - 3 hr 21 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,633 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
 | 2 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |
 | 3 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 |
-| 4 | [St\. Helens Alpenglow](https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [St\. Helens Alpenglow](https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik) | 4:06 |
-| 5 | [Slow Go the Days](https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Slow Go the Days](https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg) | 3:21 |
+| 4 | [Slow Go the Days](https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Slow Go the Days](https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg) | 3:21 |
+| 5 | [St\. Helens Alpenglow](https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [St\. Helens Alpenglow](https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik) | 4:06 |
 | 6 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 |
-| 7 | [Me Most Nights](https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Me Most Nights](https://open.spotify.com/album/1GO6f9KNUrqQKufeKGS0qc) | 2:39 |
-| 8 | [Tomorrows Left](https://open.spotify.com/track/4GAvEtCD0kRDP6qhUIg9zP) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Tomorrows Left](https://open.spotify.com/album/38ZwLDDA9dy91nUYtv1znK) | 2:48 |
+| 7 | [Tomorrows Left](https://open.spotify.com/track/4GAvEtCD0kRDP6qhUIg9zP) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Tomorrows Left](https://open.spotify.com/album/38ZwLDDA9dy91nUYtv1znK) | 2:48 |
+| 8 | [Me Most Nights](https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Me Most Nights](https://open.spotify.com/album/1GO6f9KNUrqQKufeKGS0qc) | 2:39 |
 | 9 | [Meant to Be Friends](https://open.spotify.com/track/1WwxUd7O771ekVCBnAUrt3) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [..\. And What Was Left Behind](https://open.spotify.com/album/1hI9VULoMlRbwNSQ2Yhf4z) | 3:03 |
 | 10 | [Same Moon](https://open.spotify.com/track/66FK7N6myc7RJ4WgB5QW70) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Same Moon](https://open.spotify.com/album/3RLCkCsMPZZ8WFDXrnbjNV) | 2:54 |
 | 11 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 59 | [Place Of Peace](https://open.spotify.com/track/1ZNz9Fopnb6Y8MYPgBVTkc) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [From A Man's Perspective](https://open.spotify.com/album/2Q05oCwAlB5dtUyRb2xybj) | 2:45 |
 | 60 | [The Bullfighter](https://open.spotify.com/track/1HgKUjJRScAcZD5WPhlACo) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [The Bullfighter](https://open.spotify.com/album/5OfwLDZVVkjuBFQFBKid9p) | 3:18 |
 
-Snapshot ID: `AAALVZmgwjb5eqaTLfggXvmPEfziFYa+`
+Snapshot ID: `AAALVy2xAExuHjkcoNdVm54dekK0DLNO`

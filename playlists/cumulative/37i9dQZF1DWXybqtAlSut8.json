@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A lush place",
+        "url": "https://open.spotify.com/album/4318e9RZfPOssfbYp2vaFQ"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95805,
+      "name": "A lush place",
+      "url": "https://open.spotify.com/track/4Ez3xJIWYlznOpQhXIqrQd"
+    },
+    {
+      "album": {
         "name": "A Night in Betlehem",
         "url": "https://open.spotify.com/album/5oyhg2Oz9rnTowx9aWblJR"
       },

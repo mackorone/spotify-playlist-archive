@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 110640,
+  "num_followers": 110662,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Kase.O Jazz Magnetism",
+        "url": "https://open.spotify.com/album/0Xtm1ILSm1hdlgQEOJjMx4"
+      },
+      "artists": [
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        }
+      ],
+      "duration_ms": 210813,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/57yJ604s8wEXyjkqPsZdKC"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Cualquier Parecido con La Realidad",
         "url": "https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Kase.O Jazz Magnetism",
-        "url": "https://open.spotify.com/album/0Xtm1ILSm1hdlgQEOJjMx4"
+        "name": "Ahora o Nunca",
+        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
       },
       "artists": [
         {
-          "name": "Kase.O",
-          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
         }
       ],
-      "duration_ms": 210813,
-      "name": "Libertad",
-      "url": "https://open.spotify.com/track/57yJ604s8wEXyjkqPsZdKC"
+      "duration_ms": 373407,
+      "name": "En Defensa Propia",
+      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -459,22 +475,6 @@
       "duration_ms": 213646,
       "name": "Sin Sendero",
       "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Ahora o Nunca",
-        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 373407,
-      "name": "En Defensa Propia",
-      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -527,30 +527,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        },
-        {
-          "name": "Se\u00f1or Marrano",
-          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Afirmativo",
-      "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 149408,
       "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        },
+        {
+          "name": "Se\u00f1or Marrano",
+          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Afirmativo",
+      "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Rap da Rap quita",
-        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 289649,
-      "name": "Rap da Rap quita",
-      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Escaleras y Serpientes",
         "url": "https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Rap da Rap quita",
+        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 289649,
+      "name": "Rap da Rap quita",
+      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Dolor",
         "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 347441,
       "name": "Origen",
       "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "La teor\u00eda de la evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 173062,
-      "name": "La teor\u00eda de la evoluci\u00f3n",
-      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -919,22 +899,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Intraterreno",
-        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 234428,
-      "name": "Intraterreno",
-      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Tiempos Muertos",
         "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
       },
@@ -951,6 +915,42 @@
       "duration_ms": 286673,
       "name": "Esto Es M\u00e9xico",
       "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Intraterreno",
+        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 234428,
+      "name": "Intraterreno",
+      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "La teor\u00eda de la evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 173062,
+      "name": "La teor\u00eda de la evoluci\u00f3n",
+      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Esquirlas",
+        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
+      },
+      "artists": [
+        {
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
+        },
+        {
+          "name": "Montebel",
+          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Esquirlas",
+      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "El eslab\u00f3n perdido",
         "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 213334,
       "name": "El eslab\u00f3n perdido",
       "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Esquirlas",
-        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
-      },
-      "artists": [
-        {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        },
-        {
-          "name": "Montebel",
-          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Esquirlas",
-      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Nosotras Tenemos Otros Datos",
-        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Nosotras Tenemos Otros Datos",
-      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Callejones",
         "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 192000,
       "name": "Callejones",
       "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Nosotras Tenemos Otros Datos",
+        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Nosotras Tenemos Otros Datos",
+      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Huerfano Emocional",
-        "url": "https://open.spotify.com/album/4e3G44I1RB4ziN03Ttn9aX"
-      },
-      "artists": [
-        {
-          "name": "Gayo Valdez",
-          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
-        },
-        {
-          "name": "Abu Barrett",
-          "url": "https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj"
-        }
-      ],
-      "duration_ms": 166261,
-      "name": "Huerfano Emocional",
-      "url": "https://open.spotify.com/track/1eT312VZpgFX98XZJQ44J2"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Tiempos Felices",
         "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 201399,
       "name": "Tiempos Felices",
       "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Huerfano Emocional",
+        "url": "https://open.spotify.com/album/4e3G44I1RB4ziN03Ttn9aX"
+      },
+      "artists": [
+        {
+          "name": "Gayo Valdez",
+          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
+        },
+        {
+          "name": "Abu Barrett",
+          "url": "https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj"
+        }
+      ],
+      "duration_ms": 166261,
+      "name": "Huerfano Emocional",
+      "url": "https://open.spotify.com/track/1eT312VZpgFX98XZJQ44J2"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "104",
+        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "104",
+      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "El Sue\u00f1o",
         "url": "https://open.spotify.com/album/30P4JwoLpAo4ky9rHcgHsZ"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 193021,
       "name": "El Sue\u00f1o",
       "url": "https://open.spotify.com/track/3HTFZZNZfFADiNdlElXXNS"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "104",
-        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "104",
-      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Sigo Aqu\u00ed",
-        "url": "https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3"
-      },
-      "artists": [
-        {
-          "name": "Yhezid",
-          "url": "https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI"
-        }
-      ],
-      "duration_ms": 199833,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Inmunes",
         "url": "https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 194831,
       "name": "Inmunes",
       "url": "https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Sigo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3"
+      },
+      "artists": [
+        {
+          "name": "Yhezid",
+          "url": "https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI"
+        }
+      ],
+      "duration_ms": 199833,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1735,34 +1735,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Rimas Femeninas",
-        "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
-      },
-      "artists": [
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        },
-        {
-          "name": "Joaka",
-          "url": "https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB"
-        },
-        {
-          "name": "Moyenei",
-          "url": "https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB"
-        },
-        {
-          "name": "Yoez",
-          "url": "https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE"
-        }
-      ],
-      "duration_ms": 193952,
-      "name": "Rimas Femeninas",
-      "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "El rap es nuestra arma",
         "url": "https://open.spotify.com/album/0Ec1q2ql5Xi4SdtWO7YKh4"
       },
@@ -1791,6 +1763,34 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Rimas Femeninas",
+        "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Joaka",
+          "url": "https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB"
+        },
+        {
+          "name": "Moyenei",
+          "url": "https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB"
+        },
+        {
+          "name": "Yoez",
+          "url": "https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE"
+        }
+      ],
+      "duration_ms": 193952,
+      "name": "Rimas Femeninas",
+      "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Ser\u00e1 posible?",
         "url": "https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB"
       },
@@ -1807,6 +1807,22 @@
       "duration_ms": 158500,
       "name": "Ser\u00e1 posible?",
       "url": "https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 259578,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1839,22 +1855,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Can + Zoo \u00cdndigo",
-        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 199758,
-      "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
-      "url": "https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 199758,
+      "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
+      "url": "https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Ars Magna / Miradas",
         "url": "https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 284770,
       "name": "Mi Propio Cielo",
       "url": "https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Can + Zoo \u00cdndigo",
-        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 259578,
-      "name": "Cuando Vayas Conmigo",
-      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
     },
     {
       "added_at": "2025-01-31 06:00:22",

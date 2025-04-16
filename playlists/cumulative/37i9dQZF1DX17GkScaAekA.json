@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "Human Universe",
+        "url": "https://open.spotify.com/album/1lQFEZutkw8GBJACT06LM3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "In Paradisum",
+      "url": "https://open.spotify.com/track/4eKmsF29beK8ZTTCE2sAzh"
+    },
+    {
+      "album": {
         "name": "Scarlatti: Keyboard Sonata in D Minor, K. 32",
         "url": "https://open.spotify.com/album/4P5rdOrSpGrgaMlrQj4CE2"
       },
@@ -1534,7 +1556,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 338000,
       "name": "Moments musicaux, Op. 16: No. 6 in C Major, Maestoso",
       "url": "https://open.spotify.com/track/2Cm68BHv3MzgNBez4QPW3t"
@@ -3064,6 +3086,28 @@
       "duration_ms": 159320,
       "name": "Young Birches, Op. 128, No. 2",
       "url": "https://open.spotify.com/track/4VVEfBXep7FdOt524jkfLF"
+    },
+    {
+      "album": {
+        "name": "Human Universe",
+        "url": "https://open.spotify.com/album/1lQFEZutkw8GBJACT06LM3"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Zimmer: Day One (From \"Interstellar\")",
+      "url": "https://open.spotify.com/track/3WDwo4kz04W9EuuctM1kDY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX17GkScaAekA"

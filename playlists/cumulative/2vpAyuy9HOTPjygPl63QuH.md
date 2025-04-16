@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2vpAyuy9HOTPjygPl63QuH.md) - cumulative - [plain](/playlists/plain/2vpAyuy9HOTPjygPl63QuH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2vpAyuy9HOTPjygPl63QuH)
 
-### [SUBSHIFT SELECTS ](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
+### [Music In Motion](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,463 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 37 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
 | 38 | [En Mi Mundo \- From "Violetta" Music from the TV Series](https://open.spotify.com/track/1GJqULuKQWN1ltMEOJuhes) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Violetta](https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS) | 3:32 |
 | 39 | [La Bruja de Nueva York](https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [La Casita de Patylu](https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT) | 3:54 |
-| 40 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
-| 41 | [Feliz En Tu Día](https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 1:38 |
+| 40 | [Feliz En Tu Día](https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 1:38 |
+| 41 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
 | 42 | [Cocinar](https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:37 |
 | 43 | [Los Numeros](https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:59 |
 | 44 | [El Sapo Pepe Y La Rana Juana](https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:09 |

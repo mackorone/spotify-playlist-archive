@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,382 songs - 6 day 22 hr 57 min
+4,383 songs - 6 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [Contemplating](https://open.spotify.com/track/3JBZgAXFaYQw8ByzT85IiS) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Contemplating](https://open.spotify.com/album/1Az2D24Nd2xfUZVTk1qK6k) | 2:44 | 2021-05-29 | 2021-10-22 |
 | [Cookie](https://open.spotify.com/track/3L6FW5yWXjbYIitd5NrCLm) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Cookie](https://open.spotify.com/album/4RXor3i3GRsZNDNQomRjyc) | 1:47 | 2024-11-11 |  |
 | [Cookies](https://open.spotify.com/track/0R5wPCHrW3H2uey9GlUHK7) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Cookies](https://open.spotify.com/album/1nVU09dPBFL30OZ3Jz2mCz) | 2:08 | 2024-08-22 | 2024-10-25 |
+| [Cooking](https://open.spotify.com/track/0myKEMA3Uv9zyhXuMKB2hw) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Cooking](https://open.spotify.com/album/0TVViLbCnnhL9oX7x484y0) | 1:59 | 2025-04-11 |  |
 | [Copa De Mare](https://open.spotify.com/track/2IaHq4eqO6VmlUELqFGmnv) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Copa De Mare](https://open.spotify.com/album/5vJsFUAlPxU9IRD58vRDup) | 2:28 | 2022-06-02 | 2022-07-15 |
 | [Copacabana Sunset](https://open.spotify.com/track/4vwAN6HXq6BGDcikFTUc8R) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [I Dare U](https://open.spotify.com/album/5aHEHCP4LFXDfcA71JkI7g) | 2:23 | 2019-05-28 | 2019-10-11 |
 | [Coral](https://open.spotify.com/track/6s8fIGJQ3U80seQwlqU6PZ) | [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa) | [Coral](https://open.spotify.com/album/1f74eJJy43XWfjrztXODAl) | 1:57 | 2024-12-16 |  |
@@ -1264,7 +1265,7 @@
 | [Floating](https://open.spotify.com/track/5woaOXhsMmu7DLOKApSFeH) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Sichtexotica V](https://open.spotify.com/album/0YidNDMeyKaXJRNhSEDB1m) | 1:19 | 2020-07-03 | 2020-09-05 |
 | [Floating](https://open.spotify.com/track/4KxKu2qHckBUhUWuXPNBNX) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Magic Manfred](https://open.spotify.com/artist/648yx5coGVscob95sgiSF9) | [Floating](https://open.spotify.com/album/0le3GyOXqCCCBOrhboRmhV) | 2:33 | 2022-03-24 | 2022-10-22 |
 | [floating](https://open.spotify.com/track/23JhVTYEOlAMp82uiwqCvY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [floating](https://open.spotify.com/album/31IsKfOz67NUz85jLOvZ9e) | 1:56 | 2024-07-04 |  |
-| [Floating](https://open.spotify.com/track/3iU03u35p553a6UHOkn6JG) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Floating](https://open.spotify.com/album/4cgH00Ahx1nAyVmmnLy6TH) | 2:17 | 2025-03-04 |  |
+| [Floating](https://open.spotify.com/track/3iU03u35p553a6UHOkn6JG) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Floating](https://open.spotify.com/album/4cgH00Ahx1nAyVmmnLy6TH) | 2:17 | 2025-03-04 | 2025-04-16 |
 | [Floating](https://open.spotify.com/track/7JWPqQHFctM4VY1WlFNdF6) | [Slo Five](https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Floating](https://open.spotify.com/album/7mUUpwQOoJmS6i5GfCvEEd) | 2:23 | 2024-01-26 | 2025-01-07 |
 | [Floating](https://open.spotify.com/track/4ORqQyhhdSDMSmGYEFn0XX) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [3pmbeatz](https://open.spotify.com/artist/4a3EaoH3UoVXC5Kt68AeMe) | [Floating](https://open.spotify.com/album/3YLL6W6ZG93BiJ02rbt3lm) | 2:04 | 2020-12-18 | 2021-06-18 |
 | [Floating](https://open.spotify.com/track/3mL1J1z1VjpG3mpPAprusT) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Floating](https://open.spotify.com/album/60dZwv0BeGI1Y4YfEXQf1c) | 2:06 | 2022-06-02 | 2022-06-28 |

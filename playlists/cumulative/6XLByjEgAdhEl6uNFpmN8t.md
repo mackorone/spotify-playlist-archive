@@ -4,7 +4,7 @@
 
 > 
 
-99 songs - 5 hr 5 min
+100 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 | 2025-02-18 |  |
 | [tevagyazalány](https://open.spotify.com/track/4YU0ptDWe7qvqFjNKNPUjG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:18 | 2024-12-11 |  |
 | [Tisztán iszom](https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:00 | 2024-10-17 |  |
+| [Toxic](https://open.spotify.com/track/1WMymP7Mj6GrI2VReJFSJD) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 3:11 | 2025-04-15 |  |
 | [Trónfosztó](https://open.spotify.com/track/1k5srHy6QKbhOCApsBRFYu) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Trónfosztó](https://open.spotify.com/album/4N8b0i798ZKaMDpAXvMhj6) | 2:48 | 2025-02-22 |  |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2025-02-13 |  |
 | [téveszmék](https://open.spotify.com/track/5T7eEaieasnflXh6iPLlrK) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 3:30 | 2024-11-24 |  |

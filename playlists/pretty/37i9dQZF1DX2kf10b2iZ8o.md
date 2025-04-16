@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,788 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,790 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 33 | [Over AGAIN](https://open.spotify.com/track/3g4KIlTJd01aZLSD6gmEuZ) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM ANIMATION PROJECT 05 Over AGAIN](https://open.spotify.com/album/2NPZLYKvehiwx07Y35gslb) | 4:14 |
 | 34 | [Sunset Colors](https://open.spotify.com/track/7ArxB3a8haA7S1TeVVFdaB) | [High×Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ANIMATION PROJECT 06 Sunset Colors](https://open.spotify.com/album/7s4lwo5mLV47Xd2abyT5yK) | 4:05 |
 | 35 | [スリーブレス](https://open.spotify.com/track/7ifJzLxVhVvLMUMQ0ccASA) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM 5th ANNIVERSARY 04](https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS) | 4:37 |
-| 36 | [LET'S GO!!](https://open.spotify.com/track/2V375EIhtUNvPexkqDNNIz) | [315 STARS](https://open.spotify.com/artist/1NYhr1c68AEaL0LIPvnC8e) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 01](https://open.spotify.com/album/5nG3eMCVdGwe9jd8UzGW4v) | 3:59 |
-| 37 | [SASH OF SMILE](https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS) | [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 3:54 |
-| 38 | [PERMAFROST](https://open.spotify.com/track/66FhJlwAJbbXr9E31F76kP) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders](https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE) | 4:38 |
-| 39 | [Watchword](https://open.spotify.com/track/4xVq3DAmhrwyPHVMXLVta4) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM GROWING SIGN@L 16](https://open.spotify.com/album/7DfG2yYrf0EFW3sNkuNzpr) | 4:02 |
+| 36 | [Watchword](https://open.spotify.com/track/4xVq3DAmhrwyPHVMXLVta4) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM GROWING SIGN@L 16](https://open.spotify.com/album/7DfG2yYrf0EFW3sNkuNzpr) | 4:02 |
+| 37 | [LET'S GO!!](https://open.spotify.com/track/2V375EIhtUNvPexkqDNNIz) | [315 STARS](https://open.spotify.com/artist/1NYhr1c68AEaL0LIPvnC8e) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 01](https://open.spotify.com/album/5nG3eMCVdGwe9jd8UzGW4v) | 3:59 |
+| 38 | [SASH OF SMILE](https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS) | [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 3:54 |
+| 39 | [PERMAFROST](https://open.spotify.com/track/66FhJlwAJbbXr9E31F76kP) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders](https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE) | 4:38 |
 | 40 | [Bet your intuition!](https://open.spotify.com/track/781tJ0jAfGXhra8g1yYstz) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0), [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj), [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 5th ANNIVERSARY 04](https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS) | 4:13 |
 | 41 | [RULE～牙ヲ穿テヨ～](https://open.spotify.com/track/5wuI32XPpxSTUrh2CqSDVk) | [牙崎 漣 \(CV.小松昌平\)](https://open.spotify.com/artist/0WDJ6ittFP69OvaKvNX9Dz) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 3:43 |
 | 42 | [永遠なる四銃士](https://open.spotify.com/track/6VlBEK2mjUroFSCwzUHicF) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa), [握野英雄 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L), [紅井朱雀 \(CV.益山武明\)](https://open.spotify.com/artist/4dR8nTAHp1SZQ6l7i7pljW), [葛之葉雨彦 \(CV.笠間 淳\)](https://open.spotify.com/artist/33cngtLDScW5CGypwJrpbN) | [THE IDOLM@STER SideM WORLD TRE@SURE 01](https://open.spotify.com/album/6YWvzl8ZCQ0xCsnlJs3S5n) | 4:14 |

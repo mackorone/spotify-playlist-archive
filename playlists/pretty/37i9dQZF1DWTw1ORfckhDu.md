@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Lauri Haav.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,532 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,551 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
 | 2 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 |
 | 3 | [Liike on lääke](https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Liike on lääke](https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe) | 2:52 |
-| 4 | [Enkeli](https://open.spotify.com/track/24nWnuX84FdKgpDCZgg3tQ) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Enkeli](https://open.spotify.com/album/68BaBbcSTIuakL0CHamIBt) | 2:50 |
-| 5 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 |
+| 4 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 |
+| 5 | [Enkeli](https://open.spotify.com/track/24nWnuX84FdKgpDCZgg3tQ) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Enkeli](https://open.spotify.com/album/68BaBbcSTIuakL0CHamIBt) | 2:50 |
 | 6 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
 | 7 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 |
 | 8 | [DIANA](https://open.spotify.com/track/1tyDlQvwms8mljMK3rO2Bd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [DIANA](https://open.spotify.com/album/4boTBGtkKQZpEqpLTSLrlo) | 2:26 |
 | 9 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
-| 10 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/0HBo9U4SxsaeqrqssGfNf1) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
-| 11 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
-| 12 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
-| 13 | [ROTTA \(feat\. ibe\)](https://open.spotify.com/track/7pj1OcxgO1NqIaBDK3MgyW) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 3:47 |
+| 10 | [ROTTA \(feat\. ibe\)](https://open.spotify.com/track/7pj1OcxgO1NqIaBDK3MgyW) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 3:47 |
+| 11 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/0HBo9U4SxsaeqrqssGfNf1) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
+| 12 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
+| 13 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
 | 14 | [Erityisen hyvä](https://open.spotify.com/track/2tLo3GXozBoluOVweDXQUQ) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Erityisen hyvä](https://open.spotify.com/album/0IQmXpX745a4eFEGtXo9K0) | 2:58 |
 | 15 | [Koodisto \(feat\. Turisti\)](https://open.spotify.com/track/449scioK4oof2kJteHAIyh) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Koodisto \(feat\. Turisti\)](https://open.spotify.com/album/3kILLjHOSPUXxdNEw4Ryfe) | 2:34 |
 | 16 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 48 | [Mitä räppärit tekee](https://open.spotify.com/track/24RUnR68KDa2FUlbD4FUin) | [Lyömättömät](https://open.spotify.com/artist/7rXYSdAET4x4vVajTVp50R), [Solonen & Kosola](https://open.spotify.com/artist/00v0GudX7t980YtPjhbcxw), [Xmies](https://open.spotify.com/artist/7jhtgtSuwKCKFkb9XIUz6j) | [Mitä räppärit tekee](https://open.spotify.com/album/0Pyf9WaGmKhSxMFKFOJT1t) | 2:48 |
 | 49 | [DJ \(feat\. SomBadi\)](https://open.spotify.com/track/2gy7wfMimlYzMUWwWCX1iy) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo), [SomBadi](https://open.spotify.com/artist/1j0UMs2eqsn464CiW1odZk) | [DJ \(feat\. SomBadi\)](https://open.spotify.com/album/3U9UiGjikFNlRFjtkF6MF1) | 2:38 |
 
-Snapshot ID: `Z/rRmAAAAADKKBtYfIWGidk/MoCZuY0S`
+Snapshot ID: `Z/4glgAAAAALBsBN3EOQ0iMwR+VrM5kB`

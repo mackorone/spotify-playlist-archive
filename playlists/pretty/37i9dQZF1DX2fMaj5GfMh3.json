@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste pop songs. Cover: MAKSIM",
-  "num_followers": 97936,
+  "num_followers": 97933,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/g/cwAAAACaRsGNXWZlgiIQ1sYgvsqu",
+  "snapshot_id": "Z/4sfAAAAADUFdBlXmiDLWmYtb91ZzsM",
   "tracks": [
     {
       "added_at": "2025-04-10 22:00:19",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-04-10 22:00:19",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 176424,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
-    },
-    {
-      "added_at": "2025-04-10 22:00:19",
-      "album": {
         "name": "Lying Eyes",
         "url": "https://open.spotify.com/album/0JL0IqrDnc37gTfP2Zw9lc"
       },
@@ -1711,22 +1695,6 @@
       "duration_ms": 194080,
       "name": "Lying Eyes",
       "url": "https://open.spotify.com/track/0BZT22gExfkI3A2oB1Rl9f"
-    },
-    {
-      "added_at": "2025-04-10 22:00:19",
-      "album": {
-        "name": "You'll Get There in The End",
-        "url": "https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 186972,
-      "name": "You'll Get There in The End",
-      "url": "https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo"
     },
     {
       "added_at": "2025-04-10 22:00:19",
@@ -1751,70 +1719,6 @@
       "duration_ms": 163667,
       "name": "By Your Side (In My Mind) Part II",
       "url": "https://open.spotify.com/track/0Lql4L7NyAKnZHBUKYVI26"
-    },
-    {
-      "added_at": "2025-04-10 22:00:19",
-      "album": {
-        "name": "In the shadow",
-        "url": "https://open.spotify.com/album/4uJavzoYUVg49HPwwYUnnw"
-      },
-      "artists": [
-        {
-          "name": "Emmy d\u2019Arc",
-          "url": "https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "In the shadow",
-      "url": "https://open.spotify.com/track/2yU9aAts5f45PUZXLmbl6S"
-    },
-    {
-      "added_at": "2025-04-10 22:00:19",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 203419,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY"
-    },
-    {
-      "added_at": "2025-04-10 22:00:19",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
-    },
-    {
-      "added_at": "2025-04-10 22:00:19",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV"
     }
   ],
   "unique_name": "Fresh Pop",

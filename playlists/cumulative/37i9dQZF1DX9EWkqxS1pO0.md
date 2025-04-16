@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Duru And
 
-223 songs - 11 hr 12 min
+224 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bir Aşk Biter](https://open.spotify.com/track/4NobbDtfMdaJP0sxA72K9j) | [Hasan Kutan](https://open.spotify.com/artist/4JANYRn1io9jc8aPjjVpX8) | [Bir Aşk Biter](https://open.spotify.com/album/2S9l8ynEn2rLG60up8vxAK) | 3:09 | 2024-10-24 | 2024-12-15 |
 | [bir başkasında](https://open.spotify.com/track/3yByd49ZtoiZfGe1aoaDHp) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [bir başkasında](https://open.spotify.com/album/18e869NAqMHXY5NYfBSV13) | 2:22 | 2024-11-21 | 2025-01-10 |
 | [Bir Bir](https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG) | [Hakan Kurtaş](https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt) | [Bir Bir](https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY) | 2:55 | 2024-08-22 | 2025-01-21 |
-| [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/track/6IMWKyAXOk4ZTi5rqUYVDG) | [Sevda Deniz Karali](https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ) | [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/album/1NDPFTLMS13VpfLVaktfPK) | 4:33 | 2025-03-06 |  |
+| [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/track/6IMWKyAXOk4ZTi5rqUYVDG) | [Sevda Deniz Karali](https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ) | [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/album/1NDPFTLMS13VpfLVaktfPK) | 4:33 | 2025-03-06 | 2025-04-16 |
 | [Bitti Hikayemiz](https://open.spotify.com/track/0R6PCc8mr0v2DlRZQCzW35) | [Nazlı Yaşan](https://open.spotify.com/artist/6wEC8NwWVlVXzvKRKETpMp) | [Bitti Hikayemiz](https://open.spotify.com/album/0eaiRgGguSXCQNopYBRYGy) | 2:43 | 2024-10-10 | 2024-12-30 |
 | [bizdenbaşka.](https://open.spotify.com/track/17IjdDXjobLTdHZDjldsO9) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [bizdenbaşka.](https://open.spotify.com/album/30XUUMWhEYXRuVZnvYo01R) | 3:00 | 2024-06-20 |  |
 | [Biçare](https://open.spotify.com/track/6f4Qvq0AoInO0Fd82Hs6Rl) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Biçare](https://open.spotify.com/album/6YhvM21lICI7twMpta4mL0) | 3:16 | 2024-06-20 | 2025-01-17 |
@@ -140,6 +140,7 @@
 | [Sal](https://open.spotify.com/track/44nYGyz9DwMU6dOWVxL2FK) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Sal](https://open.spotify.com/album/0SkOqSQaogpiYuUm5hwhre) | 2:37 | 2024-07-04 | 2024-11-22 |
 | [Sebebi Çok](https://open.spotify.com/track/46azk2efSFMG3obdYuIkxO) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [Sebebi Çok / Umutsuz Bahar](https://open.spotify.com/album/0L1jpIjY1drXYFxRcj1soR) | 4:07 | 2025-01-31 | 2025-03-12 |
 | [Sen Artık Sıradan Biri](https://open.spotify.com/track/0sRt7yIvUGlesGwPjQmGs7) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Sen Artık Sıradan Biri](https://open.spotify.com/album/0knB4RKmuWqmD4ue8HCp9g) | 3:25 | 2024-08-01 | 2024-10-07 |
+| [Sen Bana Gel](https://open.spotify.com/track/3c2XYZJJGNeYgeGHVhXybE) | [Derin Mevzu](https://open.spotify.com/artist/72Q2kgEHumnBXH25PYPY3z) | [Sen Bana Gel](https://open.spotify.com/album/7LW9aMu7Rr5CBdOlVJhbTB) | 2:35 | 2025-04-10 |  |
 | [Sen De Duysan](https://open.spotify.com/track/2AjxQZgvrh0URRqVlDv4SE) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Sen De Duysan](https://open.spotify.com/album/03NTqiplIlk3pWEDAgrQX4) | 3:27 | 2024-06-20 | 2024-09-07 |
 | [sendin izlerim](https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa), [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8) | [mani](https://open.spotify.com/album/39HaoKUrwGZnMpxgiqPvpH) | 2:35 | 2024-06-20 | 2024-09-06 |
 | [Seni Sevmek Kaldı](https://open.spotify.com/track/5BEqptwkS8PnvKY6s5hqJF) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Seni Sevmek Kaldı](https://open.spotify.com/album/4QsAQhdmqreEcmJ7tJ2BDK) | 3:02 | 2024-08-15 | 2024-10-24 |

@@ -1,12 +1,12 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.",
-  "num_followers": 34635,
+  "num_followers": 34633,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAALVZmgwjb5eqaTLfggXvmPEfziFYa+",
+  "snapshot_id": "AAALVy2xAExuHjkcoNdVm54dekK0DLNO",
   "tracks": [
     {
       "added_at": "2025-04-11 12:11:12",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-04-11 12:11:12",
       "album": {
-        "name": "St. Helens Alpenglow",
-        "url": "https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 246882,
-      "name": "St. Helens Alpenglow",
-      "url": "https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ"
-    },
-    {
-      "added_at": "2025-04-11 12:11:12",
-      "album": {
         "name": "Slow Go the Days",
         "url": "https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 201415,
       "name": "Slow Go the Days",
       "url": "https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip"
+    },
+    {
+      "added_at": "2025-04-11 12:11:12",
+      "album": {
+        "name": "St. Helens Alpenglow",
+        "url": "https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 246882,
+      "name": "St. Helens Alpenglow",
+      "url": "https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ"
     },
     {
       "added_at": "2025-04-11 12:11:12",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-04-11 12:11:12",
       "album": {
-        "name": "Me Most Nights",
-        "url": "https://open.spotify.com/album/1GO6f9KNUrqQKufeKGS0qc"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Me Most Nights",
-      "url": "https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh"
-    },
-    {
-      "added_at": "2025-04-11 12:11:12",
-      "album": {
         "name": "Tomorrows Left",
         "url": "https://open.spotify.com/album/38ZwLDDA9dy91nUYtv1znK"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 168319,
       "name": "Tomorrows Left",
       "url": "https://open.spotify.com/track/4GAvEtCD0kRDP6qhUIg9zP"
+    },
+    {
+      "added_at": "2025-04-11 12:11:12",
+      "album": {
+        "name": "Me Most Nights",
+        "url": "https://open.spotify.com/album/1GO6f9KNUrqQKufeKGS0qc"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Me Most Nights",
+      "url": "https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh"
     },
     {
       "added_at": "2025-04-11 12:11:12",

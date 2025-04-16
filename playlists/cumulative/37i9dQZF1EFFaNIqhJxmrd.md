@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-116 songs - 5 hr 50 min
+118 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20\-nånting](https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:19 | 2024-11-18 |  |
+| [8 långa år](https://open.spotify.com/track/7xmCFkZj2r5k9ot9NMOwYg) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 1:16 | 2025-04-15 |  |
 | [A Little Quiet](https://open.spotify.com/track/0P6Pu971F284ie00FvsP08) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [A Little Quiet](https://open.spotify.com/album/38zy7283UPL20D92UaoaBb) | 4:43 | 2024-01-29 |  |
 | [Afterparties](https://open.spotify.com/track/4LpBxHHAGSFh3hFE5cNYWF) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Afterparties](https://open.spotify.com/album/1Ix2PS3yt0KEfbKSzLYSf1) | 3:04 | 2024-01-29 |  |
 | [All I Know](https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [All I Know](https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp) | 2:39 | 2024-12-11 |  |
@@ -113,6 +114,7 @@
 | [This Could Be The End Of It](https://open.spotify.com/track/7nNJNQyU9yShkp5oPeglok) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [This Could Be The End Of It](https://open.spotify.com/album/2TnthnGyzc6mPwr0gypJio) | 3:03 | 2024-01-29 |  |
 | [Turn of the Tide](https://open.spotify.com/track/571rp5YwvdDOs2940lYqLg) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:17 | 2024-01-29 |  |
 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 | 2024-01-29 |  |
+| [Vem e han?](https://open.spotify.com/track/6C9TItG1c9g9JSTUMzQTiZ) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:16 | 2025-04-15 |  |
 | [Våran första sommar](https://open.spotify.com/track/0uHdKs2SAfPhrTKRqIRCJD) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [TAMPA](https://open.spotify.com/album/1RJj36DweXkCPIJQNCwpQh) | 4:34 | 2024-01-29 |  |
 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2024-01-29 |  |
 | [What Are You Scared Of?](https://open.spotify.com/track/12YqybH8qHtBQPAsB8T6Z2) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 1:31 | 2024-01-29 |  |

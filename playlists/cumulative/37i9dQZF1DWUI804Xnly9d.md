@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-517 songs - 1 day 4 hr 59 min
+518 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 | 2023-08-02 | 2023-10-07 |
 | [Jaaney Do](https://open.spotify.com/track/3MFKOURYXuKIFB4ilNApIx) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Subhajit Mukherjee](https://open.spotify.com/artist/6c36WqxKaU3FreTxb3Ryzq), [Azazul Haque](https://open.spotify.com/artist/6ciL4UaOFyMJPFcBUUSkhK) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:51 | 2024-04-15 | 2024-05-14 |
 | [Jaani Pehchani Si](https://open.spotify.com/track/7zjTFjPj5s5n83YLfDfJVB) | [Sanjay Das](https://open.spotify.com/artist/4qexwHVCNoPsxn0LvwWoSE), [Karshni Nair](https://open.spotify.com/artist/3gh2nrv0WJZLZBMtAtF6V1), [Sankalp Kapur](https://open.spotify.com/artist/40qP0qbcQABkLZnOZD5PYq) | [Rainbow Rishta \(Original Series Soundtrack\)](https://open.spotify.com/album/3IXFgyqzSSkwWZAlX03WW1) | 2:02 | 2023-11-15 | 2024-02-07 |
-| [Jaaniya Mil Zara](https://open.spotify.com/track/0q6pNrVLkKuvRb0Ay9FHZg) | [Koushik Kar](https://open.spotify.com/artist/3shasL3X6zz3PqPFivDy0h) | [Jaaniya Mil Zara](https://open.spotify.com/album/4oL94Y2FNcHUZj6JQuK1d9) | 3:30 | 2025-02-21 |  |
+| [Jaaniya Mil Zara](https://open.spotify.com/track/0q6pNrVLkKuvRb0Ay9FHZg) | [Koushik Kar](https://open.spotify.com/artist/3shasL3X6zz3PqPFivDy0h) | [Jaaniya Mil Zara](https://open.spotify.com/album/4oL94Y2FNcHUZj6JQuK1d9) | 3:30 | 2025-02-21 | 2025-04-16 |
 | [Jabse Tu Humko Mila](https://open.spotify.com/track/23eVI4PMTL85SeOx4ploWd) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG) | [Jabse Tu Humko Mila](https://open.spotify.com/album/257189U2uvn9pVrkVL86vN) | 2:45 | 2023-07-14 | 2023-11-18 |
 | [Jahaan](https://open.spotify.com/track/314WYPRxkUBdHhXPr9JRoF) | [Kanwar Aditya](https://open.spotify.com/artist/6qef5YT5ROaGFl93Utk36k), [Ira Mahajan](https://open.spotify.com/artist/3Yzt08KVu1j0Wx4p8Kn52C) | [Jahaan](https://open.spotify.com/album/1Ijev4uDju3xjEA77uKgxY) | 3:57 | 2024-01-19 | 2024-06-01 |
 | [Jana Hai Wahaan](https://open.spotify.com/track/07411IoQ0y3ZFRV5GRUgUQ) | [Indofuzon](https://open.spotify.com/artist/33yokOSkYWfoJ6NUPCRltH) | [Jana Hai Wahaan](https://open.spotify.com/album/5ExO3b4TvRGhYC6p8Ubqv8) | 2:32 | 2023-05-17 | 2023-06-21 |
@@ -370,6 +370,7 @@
 | [Putla](https://open.spotify.com/track/1MctTuryb5Fud6HJeEoZtJ) | [Vardaan Malhotra](https://open.spotify.com/artist/6lRDtA49QAi4epkE8Xw27Q) | [Putla](https://open.spotify.com/album/2Ek73Hp1ifoM6xb7h7SLgb) | 3:54 | 2024-05-09 | 2024-08-11 |
 | [Pyaar](https://open.spotify.com/track/1DvFc1hozo6IhBj8Ae4GfN) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Pyaar](https://open.spotify.com/album/1zJMlunXj3rYzXJ1KYBOWw) | 2:28 | 2024-03-11 | 2024-04-13 |
 | [Pyaar](https://open.spotify.com/track/0EVjhEnj83G6OUojSaBwok) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Pyaar](https://open.spotify.com/album/2gta6d9zUGZ7YU0wowtIOR) | 3:33 | 2024-02-13 | 2024-03-15 |
+| [Pyaar Hai](https://open.spotify.com/track/1M7gC1mxXQ9nTt5VixcuyU) | [Himanshu Hansraj](https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi) | [Pyaar Hai](https://open.spotify.com/album/7DHBw176MEAkift5jUCgRY) | 3:23 | 2025-04-15 |  |
 | [Pyaar Ke Naam](https://open.spotify.com/track/5lHScIaefFRfHPNjChzI0J) | [Amit Grover](https://open.spotify.com/artist/3dHLpB7BTVfP0XVrqnZe64) | [Pyaar Ke Naam](https://open.spotify.com/album/5CSLBoJQ2MLp0iWUIU0Kxz) | 4:00 | 2024-06-13 | 2024-11-06 |
 | [Pyaar Tera](https://open.spotify.com/track/454wwgqDwt9GsAMPQO2SVf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2ZVdtecXaxrPhNTNoRwuzf) | 3:24 | 2023-06-02 | 2023-07-16 |
 | [Qaabil](https://open.spotify.com/track/2PwVCVkts7c7RxTNHL4wLf) | [Mohsin Akhtar](https://open.spotify.com/artist/1fspXrBL0yCyMD69krMnjj) | [Qaabil](https://open.spotify.com/album/63BKQAMGAeR7BUdj7C556A) | 4:39 | 2024-06-07 | 2024-10-05 |

@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-338 songs - 19 hr 0 min
+339 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Moon Angels](https://open.spotify.com/track/720zu8RUP9Cdm2L8fCyA6a) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternity](https://open.spotify.com/album/5OnlwTuOqqJn8Ouciy3oUV) | 3:19 | 2024-07-02 | 2024-11-06 |
 | [Motorbikes in Sapa](https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Motorbikes in Sapa](https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo) | 2:52 | 2024-07-02 |  |
 | [Mountain Onsen](https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Mountain Onsen](https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n) | 2:41 | 2024-07-02 |  |
-| [Mountain Trail](https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Mountain Trail](https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv) | 2:33 | 2024-07-02 |  |
+| [Mountain Trail](https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Mountain Trail](https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv) | 2:33 | 2024-07-02 | 2025-04-16 |
 | [Muramasa](https://open.spotify.com/track/75yKCtGs2x1rcMBiRQAdYX) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Legends of the Past](https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3) | 2:24 | 2024-07-02 |  |
 | [muse](https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [isolation](https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb) | 1:57 | 2024-07-02 |  |
 | [My Friend](https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 3:17 | 2024-07-02 |  |
@@ -201,6 +201,7 @@
 | [NO WAY](https://open.spotify.com/track/4WxeDb9YZABqk3QaH9CCu1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 4:16 | 2022-05-03 | 2022-07-29 |
 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 | 2022-05-03 | 2024-07-03 |
 | [Nocturne](https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Nocturne](https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X) | 2:19 | 2024-07-02 | 2025-04-12 |
+| [Nokori](https://open.spotify.com/track/63I16psnlcMcKpvI6ke646) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO), [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Nokori](https://open.spotify.com/album/2DehLH0c7OrvfdoSZm1At3) | 2:09 | 2024-07-02 |  |
 | [Nosso Samba](https://open.spotify.com/track/67gT8rrjkmHtp8ZyORgnna) | [PRIMAVERA](https://open.spotify.com/artist/2dWal20OMFlgWaEMZ3tH3i) | [Nosso Samba](https://open.spotify.com/album/0nKwnNCcAKx5fEMO3pghor) | 3:31 | 2022-05-03 | 2022-07-04 |
 | [NOW](https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Unlock My Boss, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh) | 3:15 | 2023-01-13 | 2024-07-03 |
 | [One Day](https://open.spotify.com/track/4GyHQOpfrElhvKjIfXSEf3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:13 | 2022-05-03 | 2022-09-09 |

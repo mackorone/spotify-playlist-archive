@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MD Chefe, Gustavo Mioto, Pabllo Vittar com NATHY PELUSO e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,059,421 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,059,507 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 67 | [EX MARIDO](https://open.spotify.com/track/2OjIbetfVaFByTPHvFY0zD) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Marisa Pecadora](https://open.spotify.com/artist/7fp6gTVOcGqMKMmKXYdfpv) | [inHouse \#4: Larinhx Pecadora](https://open.spotify.com/album/6FLKveXSafqwOMPjeCLzPh) | 2:10 |
 | 68 | [Vou Marolar](https://open.spotify.com/track/0HPOn37BG6eo0RlXPOBAcT) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Vou Marolar](https://open.spotify.com/album/66pzL4PKZn9j6wsArQkeRs) | 3:13 |
 | 69 | [Se Essa Boca Não Lucrasse](https://open.spotify.com/track/7cFHhcM0E2b3t4Bmh2QBcT) | [mc pzk](https://open.spotify.com/artist/6czOCU4aNRuhjQ7Ovjdfxz), [Mc Murillinho](https://open.spotify.com/artist/2IAIWaFgw3PUzcqDRqKW7X), [DJ Neeh](https://open.spotify.com/artist/2SDYnXWEAiTFyyKyRDy79I) | [Se Essa Boca Não Lucrasse](https://open.spotify.com/album/0v5KseYYbg1IWXpM4EX3qm) | 2:54 |
-| 70 | [Medusa](https://open.spotify.com/track/0K4kkBLXVzcEGEva68oBd0) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ) | [Medusa](https://open.spotify.com/album/4roWelPjhRsQye4Arc8bW1) | 1:59 |
+| 70 | [Medusa \(Cacau Show\)](https://open.spotify.com/track/0K4kkBLXVzcEGEva68oBd0) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ) | [Medusa \(Cacau Show\)](https://open.spotify.com/album/4roWelPjhRsQye4Arc8bW1) | 1:59 |
 | 71 | [Titã](https://open.spotify.com/track/2ax8UYzBkc8wMtSqFyA8Jl) | [Chaoss](https://open.spotify.com/artist/2MFUAvyTAFm1bNht93uIyF), [Prod.Haku](https://open.spotify.com/artist/211N2liHHSZcZwaaA5RJbq) | [Titã](https://open.spotify.com/album/0KJ43HWg1d06nox19BLn0L) | 2:46 |
 | 72 | [Menino](https://open.spotify.com/track/5rE8YS8TSHjWaSgkyz2g11) | [Bia Nogueira](https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Respira](https://open.spotify.com/album/19j6Vej4H6Hoqv4cnsERb0) | 3:31 |
 | 73 | [8 de Abril](https://open.spotify.com/track/7A5h1RTiTIXEP2EV1Hnpni) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7) | [8 de Abril](https://open.spotify.com/album/42H7qs0DqyfdqorZQDXt4A) | 4:11 |

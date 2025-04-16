@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lana Del Rey \(pictured\), Monet192, Rauw Alejandro and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,737 likes - 101 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,744 likes - 101 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 51 | [Hopeful](https://open.spotify.com/track/2HaSjORIRX9YX77IAabK4x) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Hopeful](https://open.spotify.com/album/1vvDgy9hWy5paXm9KHVrWq) | 2:45 |
 | 52 | [My Moon](https://open.spotify.com/track/59nRksIHoJRV7hQjTfTocj) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [My Moon](https://open.spotify.com/album/3jIzqjoV3mLhrwsJANRnxB) | 3:01 |
 | 53 | [Warum](https://open.spotify.com/track/1bfNkC1ojUfEypkGFtbQsl) | [Arkan](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Warum](https://open.spotify.com/album/7onfetixabgBWIJYVpj867) | 2:48 |
-| 54 | [Madman](https://open.spotify.com/track/262Lj0wKRciavHrLnnISuO) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [Madman](https://open.spotify.com/album/6rruJwuTvROsl6jV6Mj9gI) | 2:47 |
+| 54 | [Madman](https://open.spotify.com/track/262Lj0wKRciavHrLnnISuO) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y), [Ronare](https://open.spotify.com/artist/5dJHwfmDYunx4FM7nuO5bT) | [Madman](https://open.spotify.com/album/6rruJwuTvROsl6jV6Mj9gI) | 2:47 |
 | 55 | [stick](https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [stick](https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq) | 2:19 |
 | 56 | [Water To Me](https://open.spotify.com/track/2aZF6ThVCMMVHGNagM26bg) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Water To Me](https://open.spotify.com/album/5FInkaCDvzqsPabrX6ETBg) | 3:05 |
 | 57 | [YOUNG](https://open.spotify.com/track/28sN6sJx65fImsFujFDv4N) | [Pat Burgener](https://open.spotify.com/artist/7wDjdS9h3CXK18Y1H1hO5I) | [YOUNG](https://open.spotify.com/album/0AxRRPiKCJlIh4zqdJrsfj) | 4:11 |

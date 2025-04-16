@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 96 songs - 4 hr 56 min
+[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 97 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 94 | [Bambi](https://open.spotify.com/track/29snt77VXxUpJqMOMDSUuo) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [M.K](https://open.spotify.com/artist/6s6Ejw3hKQlTCi6yVHPMki), [Igni](https://open.spotify.com/artist/5TZxii3VFeubJqXSWyAhkh), [Varga Norbi](https://open.spotify.com/artist/3LQD7ygHka6JxAyllNLPta) | [Bambi](https://open.spotify.com/album/7GokiCOPcgKDsWaXUkjqli) | 2:48 |
 | 95 | [Jamaica pt\. 1 \(Apartman\)](https://open.spotify.com/track/0rvE94vL7lrFFpsM5UzgYh) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [2023](https://open.spotify.com/album/6TGD1FXUBasDg8idQ9IGP5) | 2:46 |
 | 96 | [Szeretsz\-e](https://open.spotify.com/track/19VmOgLl88ZWU6WXgatfEM) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:54 |
+| 97 | [Toxic](https://open.spotify.com/track/1WMymP7Mj6GrI2VReJFSJD) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 3:11 |
 
-Snapshot ID: `AAAAvc5gpKp2IP92gKHqeTScfaDWShLB`
+Snapshot ID: `AAAAvuKT7HN/uSaUgZ3a/aKINVUIg0Zp`

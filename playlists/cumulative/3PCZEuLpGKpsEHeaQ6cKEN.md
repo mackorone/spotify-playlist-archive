@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin Van Buuren &amp; Rob Swire
 
-1,351 songs - 3 day 0 hr 4 min
+1,352 songs - 3 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [California Dreamin \- LNY TNZ Remix](https://open.spotify.com/track/3RzfYY11XJ4PrZq5j1Fk4k) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [California Dreamin \(LNY TNZ Remix\)](https://open.spotify.com/album/1Eqcbi0tlTDXZgPODT7WDx) | 2:36 | 2023-03-03 | 2023-03-09 |
 | [Can You Feel It \- Martin Ikin Remix](https://open.spotify.com/track/4Uotr9nrVbAYhorPfIbg8o) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Can You Feel It \(Martin Ikin Remix\)](https://open.spotify.com/album/4pvbaFQIkr28Le4HG7bH1t) | 3:10 | 2024-07-18 | 2025-04-04 |
 | [Can't Get Enough](https://open.spotify.com/track/3Hq1sl11H1mFTkrou8c7q2) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Roobinz](https://open.spotify.com/artist/7fa7p6L4mza4Dpk9j6u4Ym), [FABER](https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0) | [Can't Get Enough](https://open.spotify.com/album/5niKwE6AseADHpM7FTpekO) | 2:55 | 2024-01-12 | 2024-01-19 |
+| [Can't Help Falling In Love](https://open.spotify.com/track/2qnPCR6Qh8gDzCjS5LIWeL) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [Can't Help Falling In Love](https://open.spotify.com/album/37oa2gj7UbnLZrtRnYdDXG) | 2:27 | 2025-04-15 |  |
 | [Careless](https://open.spotify.com/track/6m4bdAPUg12BXw71Xbj1Fz) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Careless](https://open.spotify.com/album/4caNry14PWQzUjxfzHckws) | 3:03 | 2022-06-09 | 2022-07-22 |
 | [Carnival](https://open.spotify.com/track/1ptiwpVf7xIEeIe83dbEDt) | [Grimix](https://open.spotify.com/artist/29NIvby6mXbv2rirvtYr6a) | [Sunnery James & Ryan Marciano present: The Tribe Vol\. Six](https://open.spotify.com/album/0imWlOqTlTtYtyrObJZwWM) | 2:40 | 2024-05-23 | 2024-10-19 |
 | [Carry On](https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Carry On](https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5) | 3:49 | 2022-10-06 | 2023-06-06 |

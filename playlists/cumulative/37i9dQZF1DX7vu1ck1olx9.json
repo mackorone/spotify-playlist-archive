@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 137879,
       "name": "Atrial",
       "url": "https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 115182,
       "name": "Colorful Skies",
       "url": "https://open.spotify.com/track/61hUoJIBc5m8a1YHu15ln9"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "dreamers",
       "url": "https://open.spotify.com/track/4bPJW9pNtuvMujHnbxEN1g"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 106727,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/5m0yoVmVM1RbqhDHOmtYFc"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 152509,
       "name": "Evenfall",
       "url": "https://open.spotify.com/track/00OJTs80tu6DWWkcYJSkFg"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "golota",
       "url": "https://open.spotify.com/track/0cgDB0690FbtqSPV7eavS9"
@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 191100,
       "name": "Level 2",
       "url": "https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz"
@@ -3148,7 +3148,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 125522,
       "name": "midday walks",
       "url": "https://open.spotify.com/track/7FQ9mXcFQs6HbgrQO4N0eB"
@@ -3170,7 +3170,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 144022,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 131047,
       "name": "neurons",
       "url": "https://open.spotify.com/track/4L3zseq5LsfZGlewJ8Pqwh"
@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 241111,
       "name": "New Perspectives",
       "url": "https://open.spotify.com/track/2nRGO4Qb7Bb3rpi2Zi3V6N"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 163764,
       "name": "night.owls",
       "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
@@ -3538,7 +3538,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 184615,
       "name": "NightSky",
       "url": "https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV"
@@ -4320,7 +4320,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153233,
       "name": "Sesame",
       "url": "https://open.spotify.com/track/2bS8fi0PnaVWjtPWmGqj5j"
@@ -4750,7 +4750,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 153549,
       "name": "Somewhere Else",
       "url": "https://open.spotify.com/track/5djyaDp1Antker31qnLCiv"
@@ -4864,11 +4864,15 @@
         {
           "name": "Epektase",
           "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
         }
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe"
@@ -4956,7 +4960,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/5NZcq9i9Ni9NXMXYVy3fnK"
@@ -5068,7 +5072,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 80000,
       "name": "Suave",
       "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
@@ -5112,7 +5116,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4"
@@ -5874,7 +5878,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 180062,
       "name": "walk in the park",
       "url": "https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw"

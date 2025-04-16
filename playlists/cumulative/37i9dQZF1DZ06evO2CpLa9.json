@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 222876,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/6Xe4tOzSRB49ZRqQBOANpY"
@@ -726,6 +726,28 @@
       "duration_ms": 227368,
       "name": "K\u00f3digos",
       "url": "https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld"
+    },
+    {
+      "album": {
+        "name": "La Bandera",
+        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160006,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
     },
     {
       "album": {

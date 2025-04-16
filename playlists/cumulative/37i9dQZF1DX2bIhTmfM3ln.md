@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-748 songs - 1 day 12 hr 31 min
+749 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-27 | 2024-04-19 |
 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 | 2024-04-19 | 2024-06-28 |
 | [Done With Talking](https://open.spotify.com/track/4Ml0dbQwZ8DCQFqp7Zir1K) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [Skondtrack](https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ) | [Done With Talking](https://open.spotify.com/album/2YMPntxNoTghXrBpV8Acpi) | 3:00 | 2024-04-26 | 2024-05-03 |
-| [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:06 | 2025-04-11 |  |
+| [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:29 | 2025-04-11 |  |
 | [Double](https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Double](https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e) | 2:48 | 2024-05-31 | 2025-03-08 |
 | [Dreamer](https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H) | [Jeff Akoh](https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Dreamer](https://open.spotify.com/album/65DHfL5McChtYoWOGRBB22) | 2:41 | 2024-12-06 | 2025-01-31 |
 | [Dudu](https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:55 | 2025-03-28 |  |
@@ -425,6 +425,7 @@
 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 | 2024-12-06 | 2025-04-01 |
 | [Make Me Believe \(Nana\)](https://open.spotify.com/track/6tCXMkEeYrlU2fKf1YhNZO) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Make Me Believe \(Nana\)](https://open.spotify.com/album/03MqZoZQMFlQ6XiM2HalZ0) | 3:11 | 2023-06-30 | 2023-08-04 |
 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 | 2022-08-25 | 2024-02-09 |
+| [Maradona](https://open.spotify.com/track/0FSEqwIBzMOI6R5n8E6Cxx) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65) | [Maradona](https://open.spotify.com/album/43l7zSy9bqfrBYBaNWhc9P) | 2:32 | 2025-04-11 |  |
 | [Maria](https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Maria](https://open.spotify.com/album/28jNjVNo0Sw3D9LWtPwiTF) | 2:59 | 2023-08-17 | 2023-09-15 |
 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 | 2024-08-29 | 2025-03-08 |
 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 | 2024-10-18 |  |
@@ -750,7 +751,7 @@
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 | 2023-01-27 |
 | [you](https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:55 | 2023-01-13 | 2023-05-05 |
-| [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:15 | 2024-09-27 |  |
+| [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:15 | 2024-09-27 | 2025-04-16 |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-13 |
 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 | 2023-08-10 | 2023-09-15 |
 | [Your Love \- Mogbe](https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Afro Nation](https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Your Love \(Mogbe\)](https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV) | 2:40 | 2022-02-11 | 2022-08-07 |

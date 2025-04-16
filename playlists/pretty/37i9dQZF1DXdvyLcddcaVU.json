@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 708920,
+  "num_followers": 709396,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/gOqgAAAABxjvdg50bQrI4HH1fr6N+w",
+  "snapshot_id": "Z/4xqgAAAAC8HT/0X7fmAuQKZaXV5G8g",
   "tracks": [
     {
       "added_at": "2025-03-28 11:40:53",
@@ -335,6 +335,22 @@
       "duration_ms": 178319,
       "name": "Pichichi",
       "url": "https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj"
+    },
+    {
+      "added_at": "2025-04-15 10:15:06",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 172259,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc"
     },
     {
       "added_at": "2025-03-07 13:32:12",
@@ -943,22 +959,6 @@
       "duration_ms": 267354,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/2lN9y0KWC0hvKuQY3KYSxh"
-    },
-    {
-      "added_at": "2025-01-03 13:34:44",
-      "album": {
-        "name": "SENTIMENTS BILLETS DE 100",
-        "url": "https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 128437,
-      "name": "SENTIMENTS BILLETS DE 100",
-      "url": "https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4"
     },
     {
       "added_at": "2025-01-24 15:02:43",

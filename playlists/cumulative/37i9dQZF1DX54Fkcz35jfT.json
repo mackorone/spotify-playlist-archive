@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: CVLTE",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: KALA",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 164117,
       "name": "Enchant",
       "url": "https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6"
@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "from me to u (feat. Poppy)",
+        "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204526,
+      "name": "from me to u (feat. Poppy)",
+      "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
+    },
+    {
+      "album": {
         "name": "Nonnegative",
         "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
@@ -1826,7 +1848,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 149839,
       "name": "gg\u71e6\u7136",
       "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
@@ -2573,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "KINGSBLOOD",
+        "url": "https://open.spotify.com/album/6YuF8lQdkkcqQWP3KB2a5L"
+      },
+      "artists": [
+        {
+          "name": "Kala",
+          "url": "https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211879,
+      "name": "KINGSBLOOD",
+      "url": "https://open.spotify.com/track/6uiuwwmzowxSJN34GekhQr"
+    },
+    {
+      "album": {
         "name": "KiSS OF DEATH",
         "url": "https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg"
       },
@@ -2588,6 +2628,24 @@
       "duration_ms": 232359,
       "name": "KiSS OF DEATH",
       "url": "https://open.spotify.com/track/3vv2Mr8J2jGPjFOPiaTwic"
+    },
+    {
+      "album": {
+        "name": "Kiss U Dead Or Alive",
+        "url": "https://open.spotify.com/album/1sVS1TrGB8wpo33AIuDkMv"
+      },
+      "artists": [
+        {
+          "name": "Seikima-II",
+          "url": "https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Kiss U Dead Or Alive",
+      "url": "https://open.spotify.com/track/3MoLK3iAM6l0praSsqqVtZ"
     },
     {
       "album": {
@@ -3236,7 +3294,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 168000,
       "name": "MILK - feat.\u3042\u308a\u307c\u307c from\u30e4\u30d0\u30a4T\u30b7\u30e3\u30c4\u5c4b\u3055\u3093",
       "url": "https://open.spotify.com/track/2EXX1tPpk4NsC3h6EYHsGH"
@@ -3348,6 +3406,24 @@
       "duration_ms": 165506,
       "name": "MUSIC",
       "url": "https://open.spotify.com/track/1nEqHv1JzL3d8f9Kh7IJNE"
+    },
+    {
+      "album": {
+        "name": "My girlfriend is PIZZA OF DEATH",
+        "url": "https://open.spotify.com/album/158mQFq64E1JBkbiU1tTyp"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71325,
+      "name": "My girlfriend is PIZZA OF DEATH",
+      "url": "https://open.spotify.com/track/0odBL83MoM37MynrPRbSgS"
     },
     {
       "album": {
@@ -4146,6 +4222,24 @@
       "duration_ms": 193933,
       "name": "Re-create -AA= ver.- feat. JUBEE",
       "url": "https://open.spotify.com/track/7mLiu6IY8xJB87VQNGa3TP"
+    },
+    {
+      "album": {
+        "name": "Ready to Rock",
+        "url": "https://open.spotify.com/album/70YvxjBBrnc812iiPAzZ05"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206941,
+      "name": "Ready to Rock",
+      "url": "https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt"
     },
     {
       "album": {
@@ -5064,7 +5158,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 260333,
       "name": "Straight Up feat. JESSE",
       "url": "https://open.spotify.com/track/75dPUj5ErNVEQexYGcGq3x"
@@ -7116,7 +7210,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 207301,
       "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
       "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"

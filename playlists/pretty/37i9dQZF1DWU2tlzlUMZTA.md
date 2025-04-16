@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,508 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,552 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 47 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
 | 48 | [Qismat](https://open.spotify.com/track/3EqgnmFJIarfSqSdBWMI8r) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Qismat](https://open.spotify.com/album/4muMYLvaAOE7frJPImJE7J) | 4:03 |
 | 49 | [Dil Tod Ke](https://open.spotify.com/track/71OoohX1NBG4ez6eijgaWE) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Dil Tod Ke](https://open.spotify.com/album/5mWY0yGOJSTeTN8zQmbm9L) | 3:59 |
-| 50 | [Teri Aankhon Mein](https://open.spotify.com/track/3wmI2n0Whs6kg4MT8jFRU1) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Teri Aankhon Mein](https://open.spotify.com/album/77dwEKk1JI2JN9L5tg8d7t) | 4:21 |
+| 50 | [Dil Haareya](https://open.spotify.com/track/4vrpvlcDM3uze5PoOgZpoV) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Vivian Richard](https://open.spotify.com/artist/3sR271VJyaakVXllBttyl6), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Dil Haareya](https://open.spotify.com/album/1H8GL20MLKD7SwymXBFnZG) | 3:59 |
 
 Snapshot ID: `Z/iydQAAAACbh4WagdKLoe4uxKVL1xhu`

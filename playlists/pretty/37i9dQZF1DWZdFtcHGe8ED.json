@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Municipal Waste",
-  "num_followers": 568404,
+  "num_followers": 568539,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Worlds Torn Asunder",
-        "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
-      },
-      "artists": [
-        {
-          "name": "Warbringer",
-          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Living Weapon",
-      "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Slaughter In The Vatican",
         "url": "https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 368840,
       "name": "Desecrator",
       "url": "https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Worlds Torn Asunder",
+        "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
+      },
+      "artists": [
+        {
+          "name": "Warbringer",
+          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Living Weapon",
+      "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Idle Hands",
-        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
-      },
-      "artists": [
-        {
-          "name": "Kerry King",
-          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
-        }
-      ],
-      "duration_ms": 224411,
-      "name": "Idle Hands",
-      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Vicious Cycle",
         "url": "https://open.spotify.com/album/5BIAY8cLV0a2hOrpp8Ss9n"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 370000,
       "name": "Vicious Cycle",
       "url": "https://open.spotify.com/track/0qF4xqpP1jTTmFLqgGPSYX"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Idle Hands",
+        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
+      },
+      "artists": [
+        {
+          "name": "Kerry King",
+          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
+        }
+      ],
+      "duration_ms": 224411,
+      "name": "Idle Hands",
+      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Forbidden Evil",
-        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+        "name": "Empire of the Blind",
+        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
       },
       "artists": [
         {
-          "name": "Forbidden",
-          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+          "name": "Heathen",
+          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
         }
       ],
-      "duration_ms": 384853,
-      "name": "Through Eyes of Glass",
-      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
+      "duration_ms": 351613,
+      "name": "Empire of the Blind",
+      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Empire of the Blind",
-        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
+        "name": "Forbidden Evil",
+        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
       "artists": [
         {
-          "name": "Heathen",
-          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+          "name": "Forbidden",
+          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
         }
       ],
-      "duration_ms": 351613,
-      "name": "Empire of the Blind",
-      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
+      "duration_ms": 384853,
+      "name": "Through Eyes of Glass",
+      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Punishment for Decadence",
-        "url": "https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX"
-      },
-      "artists": [
-        {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
-        }
-      ],
-      "duration_ms": 287600,
-      "name": "Masked Jackal",
-      "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Forbidden Evil",
         "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 272853,
       "name": "Chalice of Blood",
       "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Punishment for Decadence",
+        "url": "https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "duration_ms": 287600,
+      "name": "Masked Jackal",
+      "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "The Last Rager",
-        "url": "https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU"
-      },
-      "artists": [
-        {
-          "name": "Municipal Waste",
-          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "The Last Rager",
-      "url": "https://open.spotify.com/track/4AuccIeDavrN0fxI2VoduG"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Myrsky",
         "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 210691,
       "name": "Ympyr\u00e4 sulkeutuu",
       "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "The Last Rager",
+        "url": "https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "The Last Rager",
+      "url": "https://open.spotify.com/track/4AuccIeDavrN0fxI2VoduG"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Decade of Revival",
-        "url": "https://open.spotify.com/album/7hnmaMO1cyVUtgX9DSbOOJ"
-      },
-      "artists": [
-        {
-          "name": "Traitor",
-          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
-        }
-      ],
-      "duration_ms": 177206,
-      "name": "Space Seed",
-      "url": "https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Ignorance & Surf Nicaragua",
         "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 264506,
       "name": "Death Squad",
       "url": "https://open.spotify.com/track/6HxVWqnbWUiKimNRPz1K8l"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Decade of Revival",
+        "url": "https://open.spotify.com/album/7hnmaMO1cyVUtgX9DSbOOJ"
+      },
+      "artists": [
+        {
+          "name": "Traitor",
+          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Space Seed",
+      "url": "https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Outsider God Creation",
-        "url": "https://open.spotify.com/album/5nOqZJVn2duMUUnKG1VLGQ"
-      },
-      "artists": [
-        {
-          "name": "Tulkas",
-          "url": "https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD"
-        }
-      ],
-      "duration_ms": 223588,
-      "name": "Outsider God Creation (O.G.C)",
-      "url": "https://open.spotify.com/track/2DyYVbTGmphEo0xeqN6xkT"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "A Sign of Things to Come",
         "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 275306,
       "name": "A Sign of Things to Come",
       "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Outsider God Creation",
+        "url": "https://open.spotify.com/album/5nOqZJVn2duMUUnKG1VLGQ"
+      },
+      "artists": [
+        {
+          "name": "Tulkas",
+          "url": "https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD"
+        }
+      ],
+      "duration_ms": 223588,
+      "name": "Outsider God Creation (O.G.C)",
+      "url": "https://open.spotify.com/track/2DyYVbTGmphEo0xeqN6xkT"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Diabolical",
-        "url": "https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx"
-      },
-      "artists": [
-        {
-          "name": "Destruction",
-          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
-        }
-      ],
-      "duration_ms": 249159,
-      "name": "Diabolical",
-      "url": "https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 341804,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Diabolical",
+        "url": "https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx"
+      },
+      "artists": [
+        {
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+        }
+      ],
+      "duration_ms": 249159,
+      "name": "Diabolical",
+      "url": "https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Let the World Burn",
-        "url": "https://open.spotify.com/album/7f08w78qHcpUQQ7cj9jKlH"
-      },
-      "artists": [
-        {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
-        }
-      ],
-      "duration_ms": 310181,
-      "name": "Let the World Burn",
-      "url": "https://open.spotify.com/track/2C2Hi5imLSNAk9wI5itFHx"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Sentence Of Death",
         "url": "https://open.spotify.com/album/7HOTAkNpLiNtBg70E8BhV1"
       },
@@ -2283,6 +2267,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Let the World Burn",
+        "url": "https://open.spotify.com/album/7f08w78qHcpUQQ7cj9jKlH"
+      },
+      "artists": [
+        {
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
+        }
+      ],
+      "duration_ms": 310181,
+      "name": "Let the World Burn",
+      "url": "https://open.spotify.com/track/2C2Hi5imLSNAk9wI5itFHx"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/7DlA2Vm8witrWKt7mZEGyQ"
       },
@@ -2295,6 +2295,22 @@
       "duration_ms": 182084,
       "name": "Insane",
       "url": "https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Miami Supercops",
+        "url": "https://open.spotify.com/album/4Eu7a3XOyHwruAjlW5reZL"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Miami Supercops",
+      "url": "https://open.spotify.com/track/7rrIaFaaKxEEnzb4rWv6cl"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2327,22 +2343,6 @@
       "duration_ms": 204622,
       "name": "Sever The Tongue",
       "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Miami Supercops",
-        "url": "https://open.spotify.com/album/4Eu7a3XOyHwruAjlW5reZL"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Miami Supercops",
-      "url": "https://open.spotify.com/track/7rrIaFaaKxEEnzb4rWv6cl"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2599,22 +2599,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Deep Cuts & Shallow Graves",
-        "url": "https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS"
-      },
-      "artists": [
-        {
-          "name": "Bewitcher",
-          "url": "https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Our Lady of Speed",
-      "url": "https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Shoot for the Sun",
         "url": "https://open.spotify.com/album/5pkqghvbwhbLvDS8jn94Uq"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 167191,
       "name": "A Bitter Pill",
       "url": "https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Deep Cuts & Shallow Graves",
+        "url": "https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS"
+      },
+      "artists": [
+        {
+          "name": "Bewitcher",
+          "url": "https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Our Lady of Speed",
+      "url": "https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2847,8 +2847,8 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Burn the Sky",
-        "url": "https://open.spotify.com/album/6FI3I1yEUAQT2A1qmh3QOx"
+        "name": "Brace for Impact",
+        "url": "https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1"
       },
       "artists": [
         {
@@ -2856,25 +2856,9 @@
           "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
         }
       ],
-      "duration_ms": 266920,
-      "name": "Burn the Sky",
-      "url": "https://open.spotify.com/track/0JMc364YMZ68bMn1OoBm3D"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Lockdown Forever",
-        "url": "https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM"
-      },
-      "artists": [
-        {
-          "name": "Tankard",
-          "url": "https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1"
-        }
-      ],
-      "duration_ms": 246552,
-      "name": "Lockdown Forever",
-      "url": "https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg"
+      "duration_ms": 273746,
+      "name": "Brace for Impact",
+      "url": "https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2891,6 +2875,22 @@
       "duration_ms": 337823,
       "name": "Strike Back",
       "url": "https://open.spotify.com/track/0cXs8TirSU9BYB2ng46IyU"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Lockdown Forever",
+        "url": "https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM"
+      },
+      "artists": [
+        {
+          "name": "Tankard",
+          "url": "https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1"
+        }
+      ],
+      "duration_ms": 246552,
+      "name": "Lockdown Forever",
+      "url": "https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2927,6 +2927,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Snob (feat. Jasta)",
         "url": "https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ"
       },
@@ -2947,18 +2963,18 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Friendly Fire",
-        "url": "https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R"
+        "name": "The Affair of the Poisons",
+        "url": "https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n"
       },
       "artists": [
         {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+          "name": "Hellripper",
+          "url": "https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R"
         }
       ],
-      "duration_ms": 216786,
-      "name": "Friendly Fire",
-      "url": "https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp"
+      "duration_ms": 295507,
+      "name": "The Affair of the Poisons",
+      "url": "https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2979,22 +2995,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "The Affair of the Poisons",
-        "url": "https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n"
-      },
-      "artists": [
-        {
-          "name": "Hellripper",
-          "url": "https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R"
-        }
-      ],
-      "duration_ms": 295507,
-      "name": "The Affair of the Poisons",
-      "url": "https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Sacrilegious Pain",
         "url": "https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u"
       },
@@ -3011,8 +3011,8 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Brace for Impact",
-        "url": "https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1"
+        "name": "Burn the Sky",
+        "url": "https://open.spotify.com/album/6FI3I1yEUAQT2A1qmh3QOx"
       },
       "artists": [
         {
@@ -3020,29 +3020,9 @@
           "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Brace for Impact",
-      "url": "https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Can't Help but Hate",
-        "url": "https://open.spotify.com/album/4YabiXOQ78hhNLxhq8OAmA"
-      },
-      "artists": [
-        {
-          "name": "Terror",
-          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
-        },
-        {
-          "name": "Corpsegrinder",
-          "url": "https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO"
-        }
-      ],
-      "duration_ms": 86109,
-      "name": "Can't Help but Hate",
-      "url": "https://open.spotify.com/track/1fHI0w8RN6LyJJyK73HYdH"
+      "duration_ms": 266920,
+      "name": "Burn the Sky",
+      "url": "https://open.spotify.com/track/0JMc364YMZ68bMn1OoBm3D"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -3095,6 +3075,42 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Can't Help but Hate",
+        "url": "https://open.spotify.com/album/4YabiXOQ78hhNLxhq8OAmA"
+      },
+      "artists": [
+        {
+          "name": "Terror",
+          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
+        },
+        {
+          "name": "Corpsegrinder",
+          "url": "https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO"
+        }
+      ],
+      "duration_ms": 86109,
+      "name": "Can't Help but Hate",
+      "url": "https://open.spotify.com/track/1fHI0w8RN6LyJJyK73HYdH"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Under No Illusions",
+        "url": "https://open.spotify.com/album/7fZzlt7IIm4EHWWOorQ3Im"
+      },
+      "artists": [
+        {
+          "name": "Savage Messiah",
+          "url": "https://open.spotify.com/artist/1kOg7VnU8brFniiq9RnR9X"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Under No Illusions",
+      "url": "https://open.spotify.com/track/1KAOO6KffrhVPo7BI36qK6"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Here Comes The Incubus",
         "url": "https://open.spotify.com/album/3z8zibgis2sJvZM3o7LjxK"
       },
@@ -3123,22 +3139,6 @@
       "duration_ms": 396813,
       "name": "Metal Forces - Remastered 2011",
       "url": "https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Under No Illusions",
-        "url": "https://open.spotify.com/album/7fZzlt7IIm4EHWWOorQ3Im"
-      },
-      "artists": [
-        {
-          "name": "Savage Messiah",
-          "url": "https://open.spotify.com/artist/1kOg7VnU8brFniiq9RnR9X"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Under No Illusions",
-      "url": "https://open.spotify.com/track/1KAOO6KffrhVPo7BI36qK6"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -3239,22 +3239,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Illusion of Existence",
-        "url": "https://open.spotify.com/album/5QJVXAmX39ddZtJNwq3vnq"
-      },
-      "artists": [
-        {
-          "name": "Refore",
-          "url": "https://open.spotify.com/artist/4MmDues4Gop2TTlDJLQNBF"
-        }
-      ],
-      "duration_ms": 233368,
-      "name": "Illusion of Existence",
-      "url": "https://open.spotify.com/track/1T7pML1JBYs1IQ50uE2wwy"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Beerless Fiesta",
         "url": "https://open.spotify.com/album/5NscqVa3F75pwMni2ug2C8"
       },
@@ -3267,6 +3251,22 @@
       "duration_ms": 130000,
       "name": "Beerless Fiesta",
       "url": "https://open.spotify.com/track/3zCqKZo4vUqlddvJVCJgxZ"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Illusion of Existence",
+        "url": "https://open.spotify.com/album/5QJVXAmX39ddZtJNwq3vnq"
+      },
+      "artists": [
+        {
+          "name": "Refore",
+          "url": "https://open.spotify.com/artist/4MmDues4Gop2TTlDJLQNBF"
+        }
+      ],
+      "duration_ms": 233368,
+      "name": "Illusion of Existence",
+      "url": "https://open.spotify.com/track/1T7pML1JBYs1IQ50uE2wwy"
     }
   ],
   "unique_name": "Thrashers",

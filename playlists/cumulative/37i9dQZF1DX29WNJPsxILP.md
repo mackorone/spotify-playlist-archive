@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: UNIYAL
+> Best of Hindi Hip\-Hop! Cover: YUNG SAMMY
 
-234 songs - 12 hr 0 min
+235 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ajnabi](https://open.spotify.com/track/6YjBJcOL9dvUhdzhvW0Z3M) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:00 | 2025-01-17 |  |
 | [Alvida](https://open.spotify.com/track/0MzimbGlnX7GS2lRuD5eTT) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [Alvida](https://open.spotify.com/album/22rvZcQ5cn6DPUYHdbzfgn) | 2:56 | 2025-02-14 |  |
 | [Amitaabh](https://open.spotify.com/track/6wngMmeABsafCzMJbqNP5J) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Retro Blxxd](https://open.spotify.com/artist/6qSzBHYRQzdm981EBGbDHA) | [Amitaabh](https://open.spotify.com/album/3CbveEZuQMGnNFDu4WP1Yj) | 2:39 | 2025-03-21 |  |
-| [Angaar Hai](https://open.spotify.com/track/4KDJlhSQu3jbUrwcc59rip) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Fateh](https://open.spotify.com/album/0Bcho5L7RXjKdOTgasWjYE) | 2:55 | 2025-04-04 |  |
+| [Angaar Hai](https://open.spotify.com/track/4KDJlhSQu3jbUrwcc59rip) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Fateh](https://open.spotify.com/album/0Bcho5L7RXjKdOTgasWjYE) | 2:55 | 2025-04-04 | 2025-04-16 |
 | [Angad](https://open.spotify.com/track/1jsI1eBSguo06e4ocINgVp) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Angad](https://open.spotify.com/album/1sPEgdT59qlNeHtkPkGcm2) | 2:48 | 2023-03-10 | 2023-11-07 |
 | [Arthur Road](https://open.spotify.com/track/2VX9Q3uMmTH5S8dt8PzMmX) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Arthur Road](https://open.spotify.com/album/7xbOLjtp1MXCnBOTc9YbmQ) | 2:55 | 2025-01-06 |  |
 | [Asal G](https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 3:41 | 2023-08-28 |  |
@@ -151,6 +151,7 @@
 | [Mi Casa](https://open.spotify.com/track/0yiXFE9ezKajK4RFQdDpvz) | [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Trapanese](https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu) | 2:21 | 2024-08-20 | 2024-11-30 |
 | [MISFIT](https://open.spotify.com/track/3M4cdCsEdxjnVyGWMBMLOl) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [MISFIT](https://open.spotify.com/album/6rJeuCqFpo3YB8s6j4cHvt) | 2:35 | 2024-06-28 |  |
 | [MOOSA](https://open.spotify.com/track/3FNHdfTPtmxlalX7NtNhoP) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [UZI](https://open.spotify.com/artist/7im09Cyz6yOSGGUWRVJ2uh) | [MOOSA](https://open.spotify.com/album/0HD6W00T91a8Hmm9Wok6wX) | 2:34 | 2023-03-10 | 2023-04-22 |
+| [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 | 2025-04-15 |  |
 | [Mumbai Rap](https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Mumbai Rap](https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT) | 2:38 | 2025-01-06 |  |
 | [Muqaddar Ka Sikandar](https://open.spotify.com/track/4PDPr18EeyfsQyira9klel) | [Harkat Wala Fardin](https://open.spotify.com/artist/78A6Tn77F89utlqYx2CiaF), [MC OM](https://open.spotify.com/artist/2r9y92Rk3mPiBNnmDLBWxo), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar](https://open.spotify.com/album/6UH7crRQNBniy5Yn9MLnLp) | 2:35 | 2025-01-06 | 2025-01-14 |
 | [Nahi Hai Woh](https://open.spotify.com/track/5ABFNlJxjH3fgI41ePqgZd) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Nahi Hai Woh](https://open.spotify.com/album/08ZMnNLFa5lDq08HzUJ4v1) | 4:20 | 2023-03-10 | 2023-10-12 |

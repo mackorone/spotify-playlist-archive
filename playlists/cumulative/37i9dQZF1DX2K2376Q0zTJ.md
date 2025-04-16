@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 青葉市子
 
-1,320 songs - 3 day 5 hr 46 min
+1,322 songs - 3 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [kiss kiss kiss](https://open.spotify.com/track/5YuMfgIUruGMa338rWO1U3) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [kiss kiss kiss](https://open.spotify.com/album/3vRCmWS5UVLAk2icJaWe8l) | 2:35 | 2024-02-06 | 2024-03-06 |
 | [Kiss Me Like It's The Last Time](https://open.spotify.com/track/4ZHM6LoG0NZEQpCVUDQDxg) | [Sarah Hemi](https://open.spotify.com/artist/4BQlN5DBVwm72Q6foAEzly) | [FLOATING](https://open.spotify.com/album/4Z38focsTAlvuWyZ2rSzOR) | 2:49 | 2021-11-30 | 2022-01-05 |
 | [Kitchen](https://open.spotify.com/track/6f7MxljsSIGMMP8CJzaQvf) | [ACO](https://open.spotify.com/artist/1G29J8b3UnUFUilGCbUlXf) | [irony](https://open.spotify.com/album/7aj70c5LgYY9AxAHs7zLxN) | 2:13 | 2023-07-04 | 2023-08-02 |
+| [KITERU](https://open.spotify.com/track/2CassFuANXkFy27iNpRxxK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [KITERU](https://open.spotify.com/album/6bmjYh9k2kpYXDIgSKqE5t) | 1:45 | 2025-04-15 |  |
 | [kokoro no sekai](https://open.spotify.com/track/1Lu6XoAbnngrTMhO4PXLU0) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Kamisori Otome](https://open.spotify.com/album/2GatVW3cnHi3riWYrr6rQh) | 3:02 | 2023-01-03 | 2024-04-19 |
 | [Kono Hibiyo Utani Nare](https://open.spotify.com/track/6gb7puHCoEEvpFyTgnx3kN) | [NON](https://open.spotify.com/artist/4YRx01IyUq6BreGGtNHQQk) | [PURSUE](https://open.spotify.com/album/44cJ4SsGRaW12ot1e4itvL) | 3:08 | 2023-11-07 | 2023-11-30 |
 | [Kono Taikutsu na Hibi o](https://open.spotify.com/track/3GNd0apzgMQkbAMfNLyWlM) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 5:26 | 2024-02-06 | 2024-03-06 |
@@ -1104,9 +1105,10 @@
 | [ハレンチ](https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:18 | 2022-04-05 | 2025-03-05 |
 | [ハレンチ \- From THE FIRST TAKE](https://open.spotify.com/track/0puRn6e8uFDZ0zQ6MsEKcD) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ \(From THE FIRST TAKE\)](https://open.spotify.com/album/2VyZONrDkfcp0xgptRW7cQ) | 3:20 | 2022-05-31 | 2022-07-06 |
 | [バイタルサイン](https://open.spotify.com/track/6aVcOec4Ci6UFSE0X2l6vF) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [てん、\(stereo\) \[リマスター\]](https://open.spotify.com/album/6W6coNHQW9ijtVtoXzoezO) | 4:35 | 2022-01-04 | 2022-02-02 |
+| [バナナボート \(feat\. Elle Teresa\)](https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:42 | 2025-04-15 |  |
 | [パンク蛹化の女 \- 2016 Remaster](https://open.spotify.com/track/1nGs85ttRC2g894ETYUBJB) | [Jun Togawa](https://open.spotify.com/artist/6fI3ZQseiBwzjXLSVuJGEI), [Yapoos](https://open.spotify.com/artist/0ctmtK3BfHN3HnfusoowPd) | [裏玉姫](https://open.spotify.com/album/4I54Cn8iIyS0Ta9nOVV5P6) | 4:11 | 2023-04-04 | 2023-05-03 |
 | [ヒカレイノチ](https://open.spotify.com/track/4uVvqoI2sWncxvqgwRZ1H9) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/60Gf0UmTTxeSSiNH0My9sq) | 5:22 | 2021-11-30 | 2022-01-05 |
-| [ヒート](https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:18 | 2024-09-03 |  |
+| [ヒート](https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:18 | 2024-09-03 | 2025-04-16 |
 | [ピクチャー](https://open.spotify.com/track/302U8EHJsUBooB2vGvkl9y) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ピクチャー](https://open.spotify.com/album/0SS8mbJNuXQRVtU43SegtB) | 2:48 | 2023-01-03 | 2024-06-21 |
 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 | 2023-07-04 | 2023-08-02 |
 | [ファッキンミュージック](https://open.spotify.com/track/1pMnCoEbAKlG8hthOWnhAT) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [ファッキンミュージック](https://open.spotify.com/album/5eByljgYy7SoeFfHHSPGOi) | 5:50 | 2025-01-17 | 2025-02-19 |
@@ -1135,7 +1137,7 @@
 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 | 2022-09-06 | 2022-10-05 |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-02-01 | 2023-03-01 |
 | [ラブ・デラックス](https://open.spotify.com/track/6lkxg4kEkX4REWbZPll1fD) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [ラブ・デラックス](https://open.spotify.com/album/1MhBOqeA2IXMyhIL1UokPr) | 3:04 | 2025-02-25 |  |
-| [ラブ・ミー・モア](https://open.spotify.com/track/6xiP9Mgz8RQZW0U7Jjzi2l) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [ラブ・ミー・モア](https://open.spotify.com/album/4OaFKc0z7zKY6hX6LfXSrG) | 4:35 | 2025-03-25 |  |
+| [ラブ・ミー・モア](https://open.spotify.com/track/6xiP9Mgz8RQZW0U7Jjzi2l) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [ラブ・ミー・モア](https://open.spotify.com/album/4OaFKc0z7zKY6hX6LfXSrG) | 4:35 | 2025-03-25 | 2025-04-16 |
 | [ラプンツェル](https://open.spotify.com/track/4KVLQskGbPredtpKNRFxYz) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [ラプンツェル](https://open.spotify.com/album/4U0iZAEJ0yg0FPE9gtSSmp) | 3:35 | 2023-11-07 | 2023-11-30 |
 | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/track/5Y6QHaJ2RljnPsIhoIcJVX) | [ラム\(CV:上坂すみれ\)](https://open.spotify.com/artist/5vlOkm94N3w3XhsqX4WITI) | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/album/4caUIm3cOfOZrDyFwylEcs) | 1:35 | 2023-04-04 | 2023-05-03 |
 | [ラヴィング](https://open.spotify.com/track/2CilkMMofhv0H1o7U8C0lR) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ラヴィング](https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq) | 3:44 | 2024-01-09 | 2024-02-07 |

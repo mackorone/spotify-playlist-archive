@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Erika Isac, M.G.L
 
-144 songs - 6 hr 56 min
+145 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 | 2024-06-27 |  |
 | [PM AM](https://open.spotify.com/track/1HeonIzy7Pic6n0GjK8leX) | [FRAXU](https://open.spotify.com/artist/2raLNB0A17S6DfYuQfv4jb), [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [PM AM](https://open.spotify.com/album/3e6SEz3zGQjWoj3dVvizE6) | 2:00 | 2024-07-04 | 2024-07-27 |
 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 | 2024-06-27 |  |
+| [POVESTEA NOASTRA](https://open.spotify.com/track/2IuPe40fG60s3MEV7JvpRN) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [POVESTEA NOASTRA](https://open.spotify.com/album/0OyBGc5qeRRXiYJMweI4Kd) | 3:46 | 2025-04-10 |  |
 | [Poze De Album](https://open.spotify.com/track/3YONtB47D1iQRAt7WF9lXS) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Poze De Album](https://open.spotify.com/album/143jn9yB4pplszneiXneKK) | 2:52 | 2024-11-14 | 2025-01-17 |
 | [Prietena ta](https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [8 Culcat](https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss) | 2:48 | 2024-06-27 | 2024-07-19 |
 | [REGELE S\-A ÎNTORS](https://open.spotify.com/track/6xCiEdYc7mOoxO3c9K3Cp1) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol) | [REGELE S\-A ÎNTORS](https://open.spotify.com/album/0qKOiVCm7rKGH3iZPu1Ijm) | 3:15 | 2024-06-27 | 2024-07-05 |
@@ -122,7 +123,7 @@
 | [SHUT DOWN](https://open.spotify.com/track/0rkT3ZuJjaPPGF63zjHguF) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [AOUR](https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB) | [SHUT DOWN](https://open.spotify.com/album/1Lq57bULEry6JVWcqVhY4Z) | 3:12 | 2025-01-30 | 2025-02-19 |
 | [SLIPPERȘI NOI](https://open.spotify.com/track/1yudIFzWBSY4SR3G6jW1Jy) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [SLIPPERȘI NOI](https://open.spotify.com/album/40AzON3oRfcVwzOqrxnY9H) | 2:46 | 2024-08-22 | 2024-10-18 |
 | [Soarele Răsare Din Nou](https://open.spotify.com/track/5Hpgzg7SEEZ7Iki4iMpjNG) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Soarele Răsare Din Nou](https://open.spotify.com/album/1eIojA6R1a9d7z5pJUkBEW) | 2:55 | 2024-08-22 | 2024-11-26 |
-| [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 | 2024-09-19 |  |
+| [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 | 2024-09-19 | 2025-04-16 |
 | [Sper Ca Esti Bine](https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E) | 2:53 | 2024-06-27 |  |
 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-06 |  |
 | [Te văd în trecut](https://open.spotify.com/track/3kl91tdXeshmSSMFUNS6fd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Te văd în trecut](https://open.spotify.com/album/4BJUgkCCs9y1bswEb28zV0) | 3:52 | 2025-02-13 |  |

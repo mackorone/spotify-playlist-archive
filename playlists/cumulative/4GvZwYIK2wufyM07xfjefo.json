@@ -123,7 +123,7 @@
     },
     {
       "album": {
-        "name": "15\u6b73\u306e\u4e3b\u5f35 / 18\u6b73\u306e\u8cac\u4efb",
+        "name": "15\u6b73\u306e\u4e3b\u5f35 \uff0f 18\u6b73\u306e\u8cac\u4efb",
         "url": "https://open.spotify.com/album/0uK6415szwjingTt3oheHg"
       },
       "artists": [
@@ -134,7 +134,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 278095,
       "name": "18\u6b73\u306e\u8cac\u4efb",
       "url": "https://open.spotify.com/track/3aLYb79haYzzNNFEatLLxQ"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 218313,
       "name": "Sepia",
       "url": "https://open.spotify.com/track/4NwxDIhuAAIlkJYalFHE19"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 207079,
       "name": "\u30ab\u30d7\u30c1\u30fc\u30ce (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/6hBOZFTjTuhvbjxfaEG8D7"
@@ -3448,7 +3448,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 181500,
       "name": "\u30e9\u30a4\u30e0\u30bd\u30fc\u30c0",
       "url": "https://open.spotify.com/track/2UJmQVOrPn65E93eJ7HrX8"
@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 198111,
       "name": "\u51e1\u4eba\u672a\u6e80 Luka ver. (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/7xx8kBDJmgydPmDz2J5k01"
@@ -4205,6 +4205,36 @@
     },
     {
       "album": {
+        "name": "\u5de1\u97f3\u30eb\u30ab\u306e\u77e5\u3089\u306a\u3044\u4e16\u754c",
+        "url": "https://open.spotify.com/album/3BjXAnKCyqdHWIu6zc0qkv"
+      },
+      "artists": [
+        {
+          "name": "\u594f\u97f369",
+          "url": "https://open.spotify.com/artist/19KjUUsXbNhkccNOGHPYkI"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277646,
+      "name": "\u5de1\u97f3\u30eb\u30ab\u306e\u77e5\u3089\u306a\u3044\u4e16\u754c (feat. \u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO)",
+      "url": "https://open.spotify.com/track/4W9q9yjsr86jC6q6C1FokH"
+    },
+    {
+      "album": {
         "name": "\u5f57\u661f\u30ce\u9280\u6cb3",
         "url": "https://open.spotify.com/album/7BnrFNDpIj9oGuRRXp0xpM"
       },
@@ -4406,6 +4436,24 @@
       "duration_ms": 274736,
       "name": "\u6642\u9593\u65c5\u884c (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5aVO3Wlir8n8te8oV65aQw"
+    },
+    {
+      "album": {
+        "name": "A HUNDRED MILLION LIGHTS",
+        "url": "https://open.spotify.com/album/2cT52txe2ricqSiiDznneU"
+      },
+      "artists": [
+        {
+          "name": "HarryP",
+          "url": "https://open.spotify.com/artist/4dXpZ1dOV2dyad3ev3Cnm5"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301111,
+      "name": "\u6674\u5929\u524d\u591c",
+      "url": "https://open.spotify.com/track/6M6mKv1E9EpFvvSV4cgNyA"
     },
     {
       "album": {
@@ -4644,7 +4692,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 272461,
       "name": "\u6df1\u7d05\u306e\u8594\u8587\u306b\u304f\u3061\u3065\u3051\u3092",
       "url": "https://open.spotify.com/track/0xCzfoaI1OZCNPAYYtZaNv"
@@ -4975,6 +5023,28 @@
     },
     {
       "album": {
+        "name": "\u82b1\u306e\u4fbf\u308a",
+        "url": "https://open.spotify.com/album/5agW7ieecxLXlycntDa4nh"
+      },
+      "artists": [
+        {
+          "name": "doriko",
+          "url": "https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271363,
+      "name": "\u82b1\u306e\u4fbf\u308a (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1huHcEp3L4eWJUqyhbQTBF"
+    },
+    {
+      "album": {
         "name": "\u3053\u306e\u590f\u306e\u3059\u3079\u3066L.P.",
         "url": "https://open.spotify.com/album/7dmwPrvwulvUFBVHclnY52"
       },
@@ -5008,6 +5078,28 @@
       "duration_ms": 261939,
       "name": "\u82b1\u7269\u8a9e",
       "url": "https://open.spotify.com/track/4eakW25kb1w6klr6ANNEux"
+    },
+    {
+      "album": {
+        "name": "\u8584\u7d05\u8272\u306e\u63fa\u308a\u7c60",
+        "url": "https://open.spotify.com/album/7LDhYrFNMxzVUEzlNjfibS"
+      },
+      "artists": [
+        {
+          "name": "As'257G",
+          "url": "https://open.spotify.com/artist/4K1RDdFMeSKKF13bOgAIGm"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214977,
+      "name": "\u8584\u7d05\u8272\u306e\u63fa\u308a\u7c60 (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/3Af9CgjMoiFBRF91kMetMO"
     },
     {
       "album": {

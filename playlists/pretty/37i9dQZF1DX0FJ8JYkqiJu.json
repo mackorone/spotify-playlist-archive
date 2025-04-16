@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 403977,
+  "num_followers": 404065,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,18 @@
     {
       "added_at": "2025-04-07 14:01:29",
       "album": {
-        "name": "Childish",
-        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
         }
       ],
-      "duration_ms": 331935,
-      "name": "The Deep",
-      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+      "duration_ms": 173644,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
     },
     {
       "added_at": "2025-04-07 14:01:29",
@@ -367,18 +363,22 @@
     {
       "added_at": "2025-04-07 14:01:29",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
+        "name": "Childish",
+        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
       "artists": [
         {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
         }
       ],
-      "duration_ms": 173644,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
+      "duration_ms": 331935,
+      "name": "The Deep",
+      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
     },
     {
       "added_at": "2025-04-07 14:01:29",
@@ -479,26 +479,6 @@
     {
       "added_at": "2025-04-07 14:01:29",
       "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97"
-      },
-      "artists": [
-        {
-          "name": "Gavin Moss",
-          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
-        },
-        {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
-        }
-      ],
-      "duration_ms": 151025,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH"
-    },
-    {
-      "added_at": "2025-04-07 14:01:29",
-      "album": {
         "name": "State Of Mind",
         "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 279120,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
+    },
+    {
+      "added_at": "2025-04-07 14:01:29",
+      "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97"
+      },
+      "artists": [
+        {
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+        },
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "duration_ms": 151025,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH"
     },
     {
       "added_at": "2025-04-07 14:01:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-04-07 14:01:29",
       "album": {
-        "name": "Buschtaxi",
-        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 516815,
-      "name": "Buschtaxi",
-      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
-    },
-    {
-      "added_at": "2025-04-07 14:01:29",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV"
       },
@@ -783,22 +767,18 @@
     {
       "added_at": "2025-04-07 14:01:29",
       "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+        "name": "Buschtaxi",
+        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
         }
       ],
-      "duration_ms": 188739,
-      "name": "Shout It Out",
-      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
     },
     {
       "added_at": "2025-04-07 14:01:29",
@@ -827,6 +807,26 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
+    },
+    {
+      "added_at": "2025-04-07 14:01:29",
+      "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 188739,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
     },
     {
       "added_at": "2025-04-07 14:01:29",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-04-07 14:01:29",
       "album": {
-        "name": "Groove On",
-        "url": "https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ"
-      },
-      "artists": [
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        },
-        {
-          "name": "Avangart Tabldot",
-          "url": "https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Groove On",
-      "url": "https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH"
-    },
-    {
-      "added_at": "2025-04-07 14:01:29",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "added_at": "2025-04-07 14:01:29",
+      "album": {
+        "name": "Groove On",
+        "url": "https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Avangart Tabldot",
+          "url": "https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Groove On",
+      "url": "https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH"
     },
     {
       "added_at": "2025-04-07 14:01:29",
@@ -1135,22 +1135,22 @@
     {
       "added_at": "2025-04-07 14:01:29",
       "album": {
-        "name": "Wishing Well / Cimmerian",
-        "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
+        "name": "Raye",
+        "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 216198,
-      "name": "Cimmerian",
-      "url": "https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK"
+      "duration_ms": 290409,
+      "name": "Raye",
+      "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
     },
     {
       "added_at": "2025-04-07 14:01:29",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2025-04-07 14:01:29",
       "album": {
-        "name": "Raye",
-        "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
+        "name": "Wishing Well / Cimmerian",
+        "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
         }
       ],
-      "duration_ms": 290409,
-      "name": "Raye",
-      "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
+      "duration_ms": 216198,
+      "name": "Cimmerian",
+      "url": "https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK"
     },
     {
       "added_at": "2025-04-07 14:01:29",

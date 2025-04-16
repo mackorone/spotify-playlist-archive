@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 796380,
+  "num_followers": 796493,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2025-02-14 05:00:37",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
       "artists": [
         {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 204333,
-      "name": "Two Dozen Roses",
-      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2025-02-14 05:00:37",
@@ -347,18 +347,18 @@
     {
       "added_at": "2025-02-14 05:00:37",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
         }
       ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+      "duration_ms": 204333,
+      "name": "Two Dozen Roses",
+      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
     },
     {
       "added_at": "2025-02-14 05:00:37",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-02-14 05:00:37",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
-      },
-      "artists": [
-        {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Dust On The Bottle",
-      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
-    },
-    {
-      "added_at": "2025-02-14 05:00:37",
-      "album": {
         "name": "Time Marches On",
         "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 185360,
       "name": "Time Marches On",
       "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
+    },
+    {
+      "added_at": "2025-02-14 05:00:37",
+      "album": {
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+      },
+      "artists": [
+        {
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Dust On The Bottle",
+      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
     },
     {
       "added_at": "2025-02-14 05:00:37",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-02-14 05:00:37",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
-      },
-      "artists": [
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Suds in the Bucket",
-      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
-    },
-    {
-      "added_at": "2025-02-14 05:00:37",
-      "album": {
         "name": "Blake Shelton",
         "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 221266,
       "name": "Ol' Red",
       "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
+    },
+    {
+      "added_at": "2025-02-14 05:00:37",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Suds in the Bucket",
+      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
     },
     {
       "added_at": "2025-02-14 05:00:37",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-02-14 05:00:37",
       "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
         }
       ],
-      "duration_ms": 257266,
-      "name": "The Night The Lights Went Out In Georgia",
-      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
+      "duration_ms": 202786,
+      "name": "Fishin' in the Dark",
+      "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
     },
     {
       "added_at": "2025-02-14 05:00:37",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-02-14 05:00:37",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs"
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
       "artists": [
         {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 202786,
-      "name": "Fishin' in the Dark",
-      "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
+      "duration_ms": 257266,
+      "name": "The Night The Lights Went Out In Georgia",
+      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
     },
     {
       "added_at": "2025-02-14 05:00:37",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-02-14 05:00:37",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+        "name": "Same Truck",
+        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
       },
       "artists": [
         {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
         }
       ],
-      "duration_ms": 191200,
-      "name": "One More Last Chance",
-      "url": "https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL"
+      "duration_ms": 230226,
+      "name": "Damn Strait",
+      "url": "https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6"
     },
     {
       "added_at": "2025-02-14 05:00:37",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-02-14 05:00:37",
       "album": {
-        "name": "Same Truck",
-        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
       },
       "artists": [
         {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 230226,
-      "name": "Damn Strait",
-      "url": "https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6"
+      "duration_ms": 191200,
+      "name": "One More Last Chance",
+      "url": "https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL"
     },
     {
       "added_at": "2025-02-14 05:00:37",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-02-14 05:00:37",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
-    },
-    {
-      "added_at": "2025-02-14 05:00:37",
-      "album": {
         "name": "Put Yourself In My Place",
         "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 239173,
       "name": "Maybe It Was Memphis",
       "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
+    },
+    {
+      "added_at": "2025-02-14 05:00:37",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2025-02-14 05:00:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,570 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,571 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 35 | [I'm Your…](https://open.spotify.com/track/1eSn0YdWHnZ5EMrzjvt8Pi) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [I'm Your…](https://open.spotify.com/album/6rSllpWQ2yo871H83pdOTn) | 2:12 |
 | 36 | [Kare Wa 3.0](https://open.spotify.com/track/1mUtOoCbeit3MkMCUWIPSe) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [Kare Wa 3.0](https://open.spotify.com/album/3GskQdudpnahBmVyTcnjxw) | 4:33 |
 | 37 | [Can you hear me](https://open.spotify.com/track/6pRBTT4tQ7jt6tauyBfJIG) | [Redhair Rosy](https://open.spotify.com/artist/1pVPvwB8EJnIDue4y5Oukc) | [Can you hear me](https://open.spotify.com/album/0Aiof5SJwhV4dZdvoiFLIt) | 2:46 |
-| 38 | [Y.O.L.O.](https://open.spotify.com/track/3ccFHM7h04RCGQTNGB9Mvy) | [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Y.O.L.O.](https://open.spotify.com/album/353cuZSlMXkZ5BNBadgvn7) | 3:00 |
+| 38 | [Y.O.L.O.](https://open.spotify.com/track/3ccFHM7h04RCGQTNGB9Mvy) | [JESSE](https://open.spotify.com/artist/21SXSbiDrpvDjCTWkwd1Hb), [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Y.O.L.O.](https://open.spotify.com/album/353cuZSlMXkZ5BNBadgvn7) | 3:00 |
 | 39 | [To B \(feat\. Kingo\)](https://open.spotify.com/track/28sMWXwSpw2x2308c47fm7) | [DUCK HOUSE](https://open.spotify.com/artist/0ELl1ezauBmVn8nA3GdDJT), [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP) | [To B \(feat\. Kingo\)](https://open.spotify.com/album/51ZwIztptK9pz9rGqcZWCU) | 3:47 |
 | 40 | [So Special](https://open.spotify.com/track/7FIAfFZ1ooB2V8pXXDOjgf) | [Mitch](https://open.spotify.com/artist/2LJ5X3CcKA2ErgnxbNgNUM), [OHSE](https://open.spotify.com/artist/6Ma3yEVpL6lQUFa0TzvLFo), [QN](https://open.spotify.com/artist/1kzKTFgS57UdgIKsIDuzj5) | [So Special](https://open.spotify.com/album/7vK2FNDx7GyvF9Pt1VMUnz) | 3:30 |
 | 41 | [Flashback \(feat\. KOTA\)](https://open.spotify.com/track/2YgyS6iGpmHhdoDGxeP32x) | [microM](https://open.spotify.com/artist/5ueB0CVSf1FYLCRCQeycLY), [KOTA](https://open.spotify.com/artist/5Bm7sz3NA9hyyOp2iGGl7B) | [Flashback \(feat\. KOTA\)](https://open.spotify.com/album/1L84lympfXKVIi8vZHcqFd) | 4:56 |

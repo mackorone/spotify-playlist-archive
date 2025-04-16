@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-715 songs - 1 day 10 hr 53 min
+716 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Beyond the Silence](https://open.spotify.com/track/77h8U4nGrKuREPKF9krrYC) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Beyond the Silence](https://open.spotify.com/album/6Ma31neVFv5LDMNeg6nc40) | 2:53 | 2025-04-09 |  |
 | [Beyond the Valley](https://open.spotify.com/track/5nAw7zxtQKsWNXcaliIewg) | [Broadleaf Radio](https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON) | [Beyond the Valley](https://open.spotify.com/album/2FnqXYSMOOu9KV5R5MGviq) | 3:21 | 2025-01-22 |  |
 | [Bhavana](https://open.spotify.com/track/6RuQwill4ZBhfcM51hPO49) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Bhavana](https://open.spotify.com/album/48p430kUzvKzA1jW0ZaPJU) | 2:30 | 2025-01-08 | 2025-02-26 |
+| [Blanket](https://open.spotify.com/track/7xJebntmrp0BbrI3WHMgyS) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Blanket](https://open.spotify.com/album/3AUkBHAVbpPFqWX7scwSVv) | 3:14 | 2025-04-09 |  |
 | [Blind Tune](https://open.spotify.com/track/5SPTC386a3gUGz333b4S8X) | [Relax Pod](https://open.spotify.com/artist/6jCMK9NdirCmIkjZRRfsJg) | [Blind Tune](https://open.spotify.com/album/0uiDhffUcPAkdIczseRhv8) | 3:21 | 2024-04-05 | 2025-02-21 |
 | [Blissful Breeze](https://open.spotify.com/track/5mEstebX16SCW56WWnEluW) | [Aurora Novara](https://open.spotify.com/artist/01Yy0uR2H9jYuImGLmMi70) | [Blissful Breeze](https://open.spotify.com/album/2BVKx1soGE44pXFTj2EXkn) | 2:45 | 2024-04-05 |  |
 | [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2023-03-23 | 2024-05-05 |
@@ -337,7 +338,7 @@
 | [Include](https://open.spotify.com/track/0v4OsqxNQmqxaz10teJsWO) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Include](https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5) | 2:57 | 2024-05-20 |  |
 | [Inevitability](https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a) | [Fannie Shelton](https://open.spotify.com/artist/3IgG6CQo3mfhUsT1AgNWum) | [Inevitability](https://open.spotify.com/album/6nRr1olpoiH9pky8VQ1eZW) | 3:31 | 2023-03-23 | 2024-03-21 |
 | [Infinitya](https://open.spotify.com/track/3u5XjYs1nfWW53voU5mxpx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Infinitya](https://open.spotify.com/album/0LiNszwKSivaoA3eTQibKn) | 2:31 | 2024-05-04 | 2025-03-02 |
-| [Initially](https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Initially](https://open.spotify.com/album/6Wesmg2ZiQ944z84Gqdm3S) | 3:05 | 2024-12-03 |  |
+| [Initially](https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Initially](https://open.spotify.com/album/6Wesmg2ZiQ944z84Gqdm3S) | 3:05 | 2024-12-03 | 2025-04-16 |
 | [Ink](https://open.spotify.com/track/1n7faxE0AzrxoLz0OmQl6Q) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Ink](https://open.spotify.com/album/4HV2Fmobr0NiMNuQfLtJFk) | 3:01 | 2024-05-04 | 2025-03-03 |
 | [Inner Guidance](https://open.spotify.com/track/7fhxsFzVhoznTnK7UlbnLv) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Inner Guidance](https://open.spotify.com/album/5dYYm6NNZ5aM8Nxf5Djy29) | 4:01 | 2024-01-17 | 2024-03-21 |
 | [Inner Realm](https://open.spotify.com/track/28k1LumefEFmrUKTRaakIO) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Inner Realm](https://open.spotify.com/album/6D0Gk54OLdjSPcJucPYJ0s) | 3:23 | 2025-02-04 |  |

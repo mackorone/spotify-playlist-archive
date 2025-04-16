@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1uuASu7T9L.md) - [plain]
 
 > Be there and be square\. Listen to the music from A Minecraft Movie, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,226 likes - 31 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,938 likes - 31 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Feel Alive \(from “A Minecraft Movie”\)](https://open.spotify.com/track/1b0glc1z1S4pDyU9WCKohN) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I Feel Alive \(from "A Minecraft Movie"\)](https://open.spotify.com/album/06GP0d361nDvlMMr8FDSM1) | 4:06 |
-| 2 | [When I'm Gone \("A Minecraft Movie" Version\)](https://open.spotify.com/track/5PdyyjEcH5Wns15mViuwP8) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:23 |
-| 3 | [Change Song](https://open.spotify.com/track/0YmQYlKWDeqFAbJSg3oyh4) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:27 |
-| 4 | [Zero to Hero](https://open.spotify.com/track/2Q2kfXA7lUuBsMAbBUDo4w) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 2:22 |
-| 5 | [Could This Be Love?](https://open.spotify.com/track/2jNAJpN81SL7PWPpqzZZdM) | [Bret McKenzie](https://open.spotify.com/artist/2ThhahxrmhAOQPLB9bP1Qh) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 4:52 |
-| 6 | [Just Can't Get Enough \(from "A Minecraft Movie"\) \- Instrumental Version](https://open.spotify.com/track/06p08ArZKjlgW1T1vwex1e) | [Jamieson Shaw](https://open.spotify.com/artist/1lqJXtQ5gmLJN3gJEYj7e5) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 1:42 |
-| 7 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
+| 2 | [Zero to Hero](https://open.spotify.com/track/2Q2kfXA7lUuBsMAbBUDo4w) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 2:22 |
+| 3 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
+| 4 | [When I'm Gone \("A Minecraft Movie" Version\)](https://open.spotify.com/track/5PdyyjEcH5Wns15mViuwP8) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:23 |
+| 5 | [Change Song](https://open.spotify.com/track/0YmQYlKWDeqFAbJSg3oyh4) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:27 |
+| 6 | [Could This Be Love?](https://open.spotify.com/track/2jNAJpN81SL7PWPpqzZZdM) | [Bret McKenzie](https://open.spotify.com/artist/2ThhahxrmhAOQPLB9bP1Qh) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 4:52 |
+| 7 | [Just Can't Get Enough \(from "A Minecraft Movie"\) \- Instrumental Version](https://open.spotify.com/track/06p08ArZKjlgW1T1vwex1e) | [Jamieson Shaw](https://open.spotify.com/artist/1lqJXtQ5gmLJN3gJEYj7e5) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 1:42 |
 | 8 | [Birthday Rap](https://open.spotify.com/track/3p9NYdIKJ9A9a5Cimlbdgp) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T), [Jason Momoa](https://open.spotify.com/artist/1lmCTCDCIJzczakwpriIjq) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:40 |
 | 9 | [Ode to Dennis](https://open.spotify.com/track/2t4zSJ4tStir6MS6ltWgWY) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:44 |
 | 10 | [I Remember You \(2016 Remaster\)](https://open.spotify.com/track/6jRYecSRPigKdYb2y2M3JP) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/31xbf9QAE2fwSAA8C4sLFu) | 5:14 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1uuASu7T9L.md) - [plain]
 | 30 | [Run from the Great Hog](https://open.spotify.com/track/3IMLlUSBk0W2s1ghWP6FX7) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:46 |
 | 31 | [Back in The Nether](https://open.spotify.com/track/77BfDoyInQUHK7USNT65T2) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:41 |
 
-Snapshot ID: `Z/113wAAAAAJD4c+aYW531X/4wC+6hmT`
+Snapshot ID: `Z/6T1gAAAACkcIB5up/97HsPRydOrZDT`

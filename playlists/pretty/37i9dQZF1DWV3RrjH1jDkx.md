@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Ramón, HILLARI, Myra, Smerz, Makosir, og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,919 likes - 104 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,921 likes - 104 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

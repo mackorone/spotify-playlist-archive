@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 with Matroda
 
-1,007 songs - 2 day 3 hr 38 min
+1,008 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -865,6 +865,7 @@
 | [TALK MY SH\*T \(feat\. Dean Mitchell\)](https://open.spotify.com/track/4VqqbHPyCQ5LNZRs7gfIRW) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Dean Mitchell](https://open.spotify.com/artist/4f1eEtlpI6Sjtj1obWK1zz) | [TALK MY SH\*T \(feat\. Dean Mitchell\)](https://open.spotify.com/album/3BfdRtaM8PmbX0wsAedZF3) | 3:09 | 2025-02-07 | 2025-03-08 |
 | [Talk To Me](https://open.spotify.com/track/6uABa7vKOgFqXnwvk8NBr5) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Talk To Me](https://open.spotify.com/album/7wqh8TtbHufeZmxvsXURsn) | 3:23 | 2021-10-29 | 2022-05-28 |
 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 | 2024-11-22 | 2025-02-22 |
+| [Teaser](https://open.spotify.com/track/16Mm6LWsaARg2MnhqWJhUS) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Teaser](https://open.spotify.com/album/6pUlx6jz0BChTHeNqXvPYB) | 2:25 | 2025-04-11 |  |
 | [TEC\-9](https://open.spotify.com/track/44prQa5cc4wj0gnS5y5tt1) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [TEC\-9](https://open.spotify.com/album/36agK8BrIfyOpjrP0sMxsK) | 2:22 | 2022-11-11 | 2023-12-09 |
 | [Tech Phonk](https://open.spotify.com/track/2EyE6jwl6HC7yhkaPJbH8R) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Pure Cold](https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI) | [Tech Phonk](https://open.spotify.com/album/77WEJ0P9dlOSZNhco4LxRV) | 2:02 | 2024-06-14 |  |
 | [Techno](https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7) | [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Techno](https://open.spotify.com/album/78pp5cZjGZ3HsONFmbn7bE) | 3:42 | 2022-06-24 | 2023-11-03 |
@@ -925,7 +926,7 @@
 | [To The Sound](https://open.spotify.com/track/4jpAJt9SJXFGkHq7Y3lpUR) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [To The Sound](https://open.spotify.com/album/6LRSybgzZv1lvfrE5UoqMt) | 3:22 | 2021-10-29 | 2022-01-21 |
 | [TOMA](https://open.spotify.com/track/3w4J1nUfWaGvm0iaufOJvS) | [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ), [RezaDead](https://open.spotify.com/artist/0x9bzpifUdZFBQw7R1UWPT) | [TOMA](https://open.spotify.com/album/6RAbJU4oUfmLU443nj5w3Z) | 1:58 | 2025-03-14 |  |
 | [Too Good](https://open.spotify.com/track/2sMabi053PJu921UdGhqTO) | [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Too Good](https://open.spotify.com/album/2UV3Z1R9RSMYS6IJ4Nnt74) | 2:51 | 2022-05-27 | 2023-04-25 |
-| [Top Spot \(feat\. Lachi\)](https://open.spotify.com/track/7cnvu8ARUzIIOBZ0ROOJMe) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Top Spot \(feat\. Lachi\)](https://open.spotify.com/album/04yxcHkQUreJmrJjnUifSr) | 2:21 | 2025-01-31 |  |
+| [Top Spot \(feat\. Lachi\)](https://open.spotify.com/track/7cnvu8ARUzIIOBZ0ROOJMe) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Top Spot \(feat\. Lachi\)](https://open.spotify.com/album/04yxcHkQUreJmrJjnUifSr) | 2:21 | 2025-01-31 | 2025-04-16 |
 | [Toxic](https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Toxic](https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP) | 3:00 | 2023-03-17 | 2023-05-27 |
 | [Transcendence](https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [East Meets West](https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX) | 4:07 | 2023-12-01 | 2024-03-23 |
 | [Trinity](https://open.spotify.com/track/2aYs0Kg0Mt9XbmzPml3pND) | [NXNJAS](https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Trinity](https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd) | 3:42 | 2022-07-15 | 2023-08-21 |

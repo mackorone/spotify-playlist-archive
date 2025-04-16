@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-124 songs - 5 hr 37 min
+125 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Pitter Patter](https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Pitter Patter](https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE) | 2:42 | 2023-03-13 |  |
 | [portraits \(rain\)](https://open.spotify.com/track/2ITDiZJX8N5tDpPteiqsvW) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [portraits \(rain\)](https://open.spotify.com/album/2e2RKbGI55KjdR3VbZiagA) | 2:18 | 2025-02-25 |  |
 | [Princess Tree](https://open.spotify.com/track/73DDIXHsJa18Z4u1WaFcuT) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 2:40 | 2023-03-13 | 2023-10-20 |
-| [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-13 |  |
+| [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-13 | 2025-04-16 |
 | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/track/3zfT07rguWfRXdaRFKYsgs) | [Enid Fergus](https://open.spotify.com/artist/7KxS3qdagNb674qAsV0vsA) | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/album/4ZmHYU7lAJr1ygK5KXk7Dp) | 2:37 | 2024-04-17 |  |
 | [Rainy Day Alone](https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:15 | 2023-03-13 |  |
 | [Rainy Sunday at the Cottage](https://open.spotify.com/track/1nyzEH2nN9UfL3PNVsxQZz) | [Miss Brooke's Cottage](https://open.spotify.com/artist/6wYWLz4TZvuTTtSI2HCcsj) | [Rainy Sunday at the Cottage](https://open.spotify.com/album/75xGNJ1qnFvoJdx8JtS3WI) | 3:45 | 2023-03-13 |  |
@@ -101,6 +101,7 @@
 | [Sparkling Raindrops](https://open.spotify.com/track/6wa9UyYtc4fzGudPw0l361) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Feel the Rain](https://open.spotify.com/album/630CuaflRgHBARUoVuUJQ7) | 2:07 | 2023-03-13 |  |
 | [stellar \(rain\)](https://open.spotify.com/track/49U681ES06dlwb2MXQt2Qc) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [stellar \(rain\)](https://open.spotify.com/album/3j2cqluNuM3ud5ZWljjiBq) | 2:14 | 2025-02-19 | 2025-04-03 |
 | [Stillness](https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:13 | 2023-03-13 |  |
+| [stillness \(in the Rain\)](https://open.spotify.com/track/1PDrcG9Fkm5ewpYA0LVEFy) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [stillness \(in the Rain\)](https://open.spotify.com/album/5y5Pj33bjaEtRuuZ2FbN9G) | 2:45 | 2025-04-15 |  |
 | [Stillness of Nature](https://open.spotify.com/track/0zsKqVV4G6GasPqJ3uk4os) | [Joren Wilde](https://open.spotify.com/artist/5CzFN3onXTVhYoAqQPvkgU) | [Stillness of Nature](https://open.spotify.com/album/0b8UoYN5gIhnQoUUolfeqf) | 3:05 | 2025-02-25 |  |
 | [Summer Rain With Piano](https://open.spotify.com/track/407llJbsp5jZ9krtjlqE0O) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Rain & Piano](https://open.spotify.com/album/4Hxom43QXe8rjoiw1uxyFB) | 3:32 | 2023-03-13 |  |
 | [Summer Rainbow](https://open.spotify.com/track/3ZoWGe3xD7pQDuEoix445S) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [Summer Rainbow](https://open.spotify.com/album/0s0XzqCY2BbI2bizi1rM3z) | 2:58 | 2023-04-24 |  |

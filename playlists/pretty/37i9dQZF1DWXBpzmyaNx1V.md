@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos el 2 de Noviembre en el bosque para la séptima edición del Hipnosis! 👁️🌳🏕️ Compra tus boletos <a href="https://www.hipnosismx.com/"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,426 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,424 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 3 | [Musica](https://open.spotify.com/track/3dVJb81RGXQmCP076vsB6a) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Chorus](https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS) | 5:49 |
 | 4 | [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 |
 | 5 | [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 |
-| 6 | [Cometh The Storm](https://open.spotify.com/track/6W0VHHL8OPOFWUFDCZ7kJI) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Cometh The Storm](https://open.spotify.com/album/6p9Ia4q3Vrep9dFshfWFTU) | 6:11 |
-| 7 | [Empire](https://open.spotify.com/track/2dWFqWIBk09lft3bxh0YuD) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Data Doom](https://open.spotify.com/album/2vGRBjJ30vbHMNdGYV4VUV) | 7:28 |
+| 6 | [Empire](https://open.spotify.com/track/2dWFqWIBk09lft3bxh0YuD) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Data Doom](https://open.spotify.com/album/2vGRBjJ30vbHMNdGYV4VUV) | 7:28 |
+| 7 | [Cometh The Storm](https://open.spotify.com/track/6W0VHHL8OPOFWUFDCZ7kJI) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Cometh The Storm](https://open.spotify.com/album/6p9Ia4q3Vrep9dFshfWFTU) | 6:11 |
 | 8 | [Ce matin\-là](https://open.spotify.com/track/7yieArGOFIdoGJv1V8hDr2) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:39 |
 | 9 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
 | 10 | [Café Collonge](https://open.spotify.com/track/7bUn1hQq8BbJk9RE4S5Sf5) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/4rUTEX2s54Ls9Co09BMbCv) | 2:05 |

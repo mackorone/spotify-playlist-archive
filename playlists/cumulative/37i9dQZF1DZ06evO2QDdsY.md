@@ -4,7 +4,7 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 56 min
+90 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Colors](https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:19 | 2022-09-16 |  |
 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 | 2022-09-16 |  |
 | [Crawdad Hole](https://open.spotify.com/track/3XTSE5DUrVtfZFdS31GEif) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x) | 2:45 | 2023-11-10 | 2023-12-25 |
-| [Cry Baby](https://open.spotify.com/track/751gK3jve65bGX4LtckYMF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cry Baby \(feat\. Valerie June\)](https://open.spotify.com/album/0RpG3rO8iuFXcS4OqaNdjX) | 3:14 | 2025-01-18 |  |
+| [Cry Baby](https://open.spotify.com/track/751gK3jve65bGX4LtckYMF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cry Baby \(feat\. Valerie June\)](https://open.spotify.com/album/0RpG3rO8iuFXcS4OqaNdjX) | 3:14 | 2025-01-18 | 2025-04-16 |
+| [Cry Baby \- feat\. Valerie June](https://open.spotify.com/track/10TS4rn0t7GRGEB3gGLjUv) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Armageddon In A Summer Dress](https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV) | 3:14 | 2025-04-16 |  |
 | [Don't Start \(feat\. Valerie June\)](https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 3:03 | 2024-03-23 |  |
 | [Don’t It Make You Want To Go Home](https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:39 | 2022-09-16 | 2025-04-13 |
 | [Endless Tree](https://open.spotify.com/track/5ZCaI8uGsCYcac84KB45Yn) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Endless Tree](https://open.spotify.com/album/23S0SEsKCv5mnzcnHGWnWg) | 3:53 | 2025-04-10 |  |

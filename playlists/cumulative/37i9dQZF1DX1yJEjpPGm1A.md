@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-53 songs - 3 hr 29 min
+56 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2024-12-19 |  |
 | [Flower Road](https://open.spotify.com/track/7A9tpogI4hJOYFY9NLzw7z) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [WITH](https://open.spotify.com/album/78uIPc5c1GZKGJZNpc89sI) | 3:50 | 2024-12-19 |  |
 | [For Love](https://open.spotify.com/track/7FVkGnEexHtiavZSDL4wZT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Our Blues, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2bWjPAcoUxP7t3FWChijzl) | 3:33 | 2024-12-19 |  |
+| [From the beginning You and I](https://open.spotify.com/track/2t1WqERs4wHZ1NfEfetbSr) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [The Emperor: Owner of the Mask \(MBC Drama\) OST Part.2](https://open.spotify.com/album/2fG57s6vQIw6PkGsOahggY) | 3:24 | 2025-04-15 |  |
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2024-12-19 |  |
 | [HONEYMOON](https://open.spotify.com/track/5iGdQsgIGDSlxJKlsCv62L) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [HONEYMOON](https://open.spotify.com/album/3Ms7sWhlT637M6uDqxLbTF) | 3:32 | 2024-12-19 |  |
 | [I Knew I Love](https://open.spotify.com/track/6heT4iobgbs6RSYnen31L6) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/7BZMREZrMu97xEWX45kMPf) | 4:21 | 2024-12-19 |  |
@@ -45,10 +46,12 @@
 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 | 2024-12-19 |  |
 | [Together](https://open.spotify.com/track/3TDGIHf1Mdxat9VftcIVZ0) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Together](https://open.spotify.com/album/4OHIhLk0uyYAdmoBD8IjMI) | 3:26 | 2024-12-19 |  |
 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 | 2024-12-19 |  |
+| [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 | 2025-04-15 |  |
 | [Wedding day](https://open.spotify.com/track/3jdOfGISSsleBymbijTW8n) | [Lee Jun Ho](https://open.spotify.com/artist/6MHVkCZuNc7JpMExfxOE8Z) | [Destiny](https://open.spotify.com/album/2Dh0t1z6hTA5Ym96GxfQWt) | 4:01 | 2024-12-19 |  |
 | [Wedding Song \(feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/3V04nXHMTLytI0hV1Rjwps) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Wedding\_Song](https://open.spotify.com/album/5911ACOYBruDs2gOVp0Tvi) | 3:52 | 2024-12-19 |  |
 | [Will You Marry Me](https://open.spotify.com/track/20XkFteMFP8g32KhsZpug7) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [My First](https://open.spotify.com/album/7toPg2DmQRsGqPTlzdt99A) | 3:48 | 2024-12-19 |  |
 | [Will you marry me?](https://open.spotify.com/track/2ZgMY8ifuvksRSE7mkK2WV) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Lee Seung Gi \`The Best\`](https://open.spotify.com/album/5vkF1JlshXF1ofmvQONqIN) | 3:48 | 2024-12-19 |  |
+| [Would you marry me? \(Feat.Lee Joon,Yoon Du Jun of Highlight,Kwang Hee\)](https://open.spotify.com/track/62mRUa5ZdsbxBp9SNYFpYP) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q), [Lee Joon](https://open.spotify.com/artist/122DvZ07Rzf2ZNyCA6hCQM), [YOON DU JUN](https://open.spotify.com/artist/0bjyZMw6TzPhXSp2PoKXx7), [Kwang Hee](https://open.spotify.com/artist/4AhCk75N1AH6siWvLT5XF4) | [REPLY PROJECT Vol.1](https://open.spotify.com/album/07HuEKIT6Oh9r5V5Sf4piw) | 3:44 | 2025-04-15 |  |
 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 | 2024-12-19 |  |
 | [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 3:50 | 2024-12-19 |  |
 | [결혼](https://open.spotify.com/track/7olgzHJEJJX071QkCAqyno) | [이태후](https://open.spotify.com/artist/0qNzsXaVQZcpXoln9z5G7n) | [결혼](https://open.spotify.com/album/5ZJM04sy0ueL6fkRJ3kD9J) | 4:17 | 2024-12-19 |  |

@@ -16444,7 +16444,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 128776,
       "name": "I'll Be Damned",
       "url": "https://open.spotify.com/track/40j4PID2MvgQJWUvN9ZVL3"
@@ -22046,16 +22046,16 @@
       },
       "artists": [
         {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        },
-        {
           "name": "Adrian Chafer",
           "url": "https://open.spotify.com/artist/16dti6ifSjSyZ8PHWMwGFR"
         },
         {
           "name": "24hrs",
           "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
         }
       ],
       "date_added": "2025-04-11",
@@ -33450,6 +33450,24 @@
       "duration_ms": 146133,
       "name": "Texas",
       "url": "https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK"
+    },
+    {
+      "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/4VDg88gvR9aF0sLLK2cZUf"
+      },
+      "artists": [
+        {
+          "name": "RNB.FOEMOB",
+          "url": "https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144052,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/6eKNwVDSwoZlVNYBlqxWiC"
     },
     {
       "album": {

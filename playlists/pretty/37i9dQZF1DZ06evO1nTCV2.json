@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 44478,
+  "num_followers": 44480,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAABzibFTsuN5oAdFGDplrc6P",
+  "snapshot_id": "Z/xQAAAAAAAdCFyOgWLXks+WDpIkFpSf",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 232150,
-      "name": "I'm Sorry and I Love You",
-      "url": "https://open.spotify.com/track/1LXWFJKNC5Cfbji9cHNX65"
+      "duration_ms": 239546,
+      "name": "Do You Still Love Me?",
+      "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Do You Still Love Me?",
-      "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
+      "duration_ms": 232150,
+      "name": "I'm Sorry and I Love You",
+      "url": "https://open.spotify.com/track/1LXWFJKNC5Cfbji9cHNX65"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
       "duration_ms": 234426,
       "name": "I See Monsters",
       "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 218138,
-      "name": "Poison & Pain",
-      "url": "https://open.spotify.com/track/4dqwEh4lhm3kndmNgLJjQM"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 218138,
+      "name": "Poison & Pain",
+      "url": "https://open.spotify.com/track/4dqwEh4lhm3kndmNgLJjQM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sword & Stone",
         "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 169573,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 332196,
-      "name": "Wednesdays",
-      "url": "https://open.spotify.com/track/209YFSsZnQTFmk78zpqJv8"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 332196,
+      "name": "Wednesdays",
+      "url": "https://open.spotify.com/track/209YFSsZnQTFmk78zpqJv8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 271270,
-      "name": "Mamma",
-      "url": "https://open.spotify.com/track/0RpgOO8taMgvmDKUbTuOFj"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 294708,
+      "name": "Walk In The Dark",
+      "url": "https://open.spotify.com/track/4DGhZZw22xxlbqnMUq7oL9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 294708,
-      "name": "Walk In The Dark",
-      "url": "https://open.spotify.com/track/4DGhZZw22xxlbqnMUq7oL9"
+      "duration_ms": 218400,
+      "name": "The Rescue Blues",
+      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 218400,
-      "name": "The Rescue Blues",
-      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
+      "duration_ms": 271270,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/0RpgOO8taMgvmDKUbTuOFj"
     },
     {
       "added_at": null,

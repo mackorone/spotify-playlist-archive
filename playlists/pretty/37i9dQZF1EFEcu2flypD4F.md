@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,179 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,183 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 137 | [Welcome to the Wonderful World of \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2mMQFumTaHcwMZsiNE57Um) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 1:56 |
 | 138 | [Freeze You Out](https://open.spotify.com/track/36FL3mxfAupY7iA8b6K9BS) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 4:07 |
 | 139 | [Kill And Run](https://open.spotify.com/track/3o1plg7nwWCgZK5b9sNIDr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music From Baz Luhrmann's Film The Great Gatsby](https://open.spotify.com/album/6JCgdZOAX8K6SgBw3Oanwd) | 3:35 |
-| 140 | [Running To The Edge Of The World](https://open.spotify.com/track/4ap6nHIEnGcl6tkYku3fRx) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The High End of Low \(International Version\)](https://open.spotify.com/album/2Ko8Fi9kR8iiuzygvqDXER) | 6:25 |
-| 141 | [I Forgive You](https://open.spotify.com/track/735axlkSRsqMIYwci9pQ9Y) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 4:19 |
+| 140 | [I Forgive You](https://open.spotify.com/track/735axlkSRsqMIYwci9pQ9Y) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 4:19 |
+| 141 | [Running To The Edge Of The World](https://open.spotify.com/track/4ap6nHIEnGcl6tkYku3fRx) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The High End of Low \(International Version\)](https://open.spotify.com/album/2Ko8Fi9kR8iiuzygvqDXER) | 6:25 |
 | 142 | [MTG \- ELASTIC HEART](https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG \- ELASTIC HEART](https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd) | 1:20 |
 | 143 | [Voodoo](https://open.spotify.com/track/135SEcW19xWXM3WghwdUBa) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:10 |
 | 144 | [Battlefield](https://open.spotify.com/track/1zV93NN3k0QWSi4EmvDmAa) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 4:18 |
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 168 | [Throw It All Away](https://open.spotify.com/track/10CGRCXMndixdJO3VRRmUz) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 5:25 |
 | 169 | [Little Black Sandals](https://open.spotify.com/track/5bcjREGkqwlYD272fyhwc6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:14 |
 | 170 | [The Fight](https://open.spotify.com/track/1Vxs6RcPBrbQfZMElzIzto) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 3:38 |
-| 171 | [Limitless from the Movie "Second Act"](https://open.spotify.com/track/46Sqq6dVzY5uFtd93R7I0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Limitless from the Movie "Second Act"](https://open.spotify.com/album/1pTNDIIxBIpjJ99eEYu0Ss) | 4:07 |
-| 172 | [Sunday](https://open.spotify.com/track/6dGSSTjv68P9YzYRRPAZf6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:14 |
+| 171 | [Sunday](https://open.spotify.com/track/6dGSSTjv68P9YzYRRPAZf6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:14 |
+| 172 | [Limitless from the Movie "Second Act"](https://open.spotify.com/track/46Sqq6dVzY5uFtd93R7I0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Limitless from the Movie "Second Act"](https://open.spotify.com/album/1pTNDIIxBIpjJ99eEYu0Ss) | 4:07 |
 | 173 | [You Have Been Loved](https://open.spotify.com/track/4tr2T0FIHxaWYkIUcaFMfG) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:23 |
 | 174 | [Hurting Me Now](https://open.spotify.com/track/5RJhYnzGZlOfmD4QmWnU8o) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 3:26 |
 | 175 | [Lentil](https://open.spotify.com/track/0aSdH48aHnE8KdSf39vWFF) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:26 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AbuyVAAAAABM8zMuoSNGCLOgKW5PXB0x`
+Snapshot ID: `Abu39AAAAADy0Hy/oLSvOfEmD1CESCls`

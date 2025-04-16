@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,691 likes - 489 songs - 1 day 2 hr 14 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,690 likes - 489 songs - 1 day 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,7 +327,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 317 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 |
 | 318 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
 | 319 | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/track/2jY1ttXBDyw1NRZgkU3yQ8) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/album/63XYvVcgT1ZcO0NtXBZfFI) | 3:27 |
-| 320 | [Chances Are](https://open.spotify.com/track/73vlVDlp4rSd8SaiccnbtN) | [Forenzics](https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3), [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL), [Tim Finn](https://open.spotify.com/artist/6OIoPLnbAe0U4k1NFjqIyN) | [Chances Are](https://open.spotify.com/album/6YegMkVMKI8lJIOk7ynY6h) | 3:19 |
+| 320 | [Chances Are](https://open.spotify.com/track/73vlVDlp4rSd8SaiccnbtN) | [Forenzics](https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3) | [Chances Are](https://open.spotify.com/album/6YegMkVMKI8lJIOk7ynY6h) | 3:19 |
 | 321 | [Pray](https://open.spotify.com/track/1QvwRDNlk5q7FHI3EJDf5a) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Pray](https://open.spotify.com/album/04r2SEXW3ikdKuHfnjKABw) | 3:53 |
 | 322 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 |
 | 323 | [vodka orange juice](https://open.spotify.com/track/2yx7j2SdTCDYcDGPRFdSBz) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [vodka orange juice](https://open.spotify.com/album/1WyIXN8s7H1sE4aZDOAhU9) | 3:59 |

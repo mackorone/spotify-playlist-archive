@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 319637,
+  "num_followers": 319640,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "At Night EP",
+        "url": "https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA"
+      },
+      "artists": [
+        {
+          "name": "Upper90",
+          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
+        },
+        {
+          "name": "Baron Von Trax",
+          "url": "https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT"
+        }
+      ],
+      "duration_ms": 238367,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "At Night EP",
-        "url": "https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA"
-      },
-      "artists": [
-        {
-          "name": "Upper90",
-          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
-        },
-        {
-          "name": "Baron Von Trax",
-          "url": "https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT"
-        }
-      ],
-      "duration_ms": 238367,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 150987,
-      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "IBIZA",
         "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 182000,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 150987,
+      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
     },
     {
       "added_at": "2024-09-19 23:00:00",

@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-155 songs - 10 hr 20 min
+156 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [クラクラ](https://open.spotify.com/track/0dvM0qG13mbrZGBSHJVkBu) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:11 | 2024-07-09 |  |
 | [コールボーイ](https://open.spotify.com/track/6vdtMuSOG9chmNbGvmkmjz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado/PARED/まひる/ゆっけ presents PALETTE4](https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt) | 3:29 | 2022-10-09 |  |
 | [シカバネーゼ \(feat\. Ado\)](https://open.spotify.com/track/4IKfLkS79Gx1UOFVLrnbXS) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [シカバネーゼ \(feat\. Ado\)](https://open.spotify.com/album/0EpX66Ao5fk96hnXAFvPFv) | 4:16 | 2024-02-22 |  |
+| [シャルル](https://open.spotify.com/track/7FOrQDYmTBskAtuRxGNEwZ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [シャルル](https://open.spotify.com/album/1W1hTzAlhblqUpKQ6AY0EZ) | 3:44 | 2025-04-15 |  |
 | [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 | 2024-07-10 |
 | [ショコラカタブラ](https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:03 | 2024-01-30 | 2024-04-19 |
 | [ショコラカタブラ](https://open.spotify.com/track/1Wb6DopPNAuP20EIM9dIEO) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:04 | 2024-07-09 |  |

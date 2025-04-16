@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,009 songs - 2 day 10 hr 26 min
+1,010 songs - 2 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Baoul Aady](https://open.spotify.com/track/1NkW18VV3QVOCuoVQsBC84) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Baoul Aady](https://open.spotify.com/album/0bhJo37hJelIC0qkLcUVZU) | 5:31 | 2021-03-27\* | 2024-02-15 |
 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 | 2022-03-02 | 2023-02-09 |
 | [Basha E3temed](https://open.spotify.com/track/4QrQgRLngf3cKoEdu3s6RH) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Basha E3temed](https://open.spotify.com/album/3XZcmo0YruIYwkRbz0X3NW) | 2:37 | 2021-08-25 | 2021-12-17 |
-| [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2022-09-24 |  |
+| [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2022-09-24 | 2025-04-16 |
 | [BBLŞH](https://open.spotify.com/track/4XJVwELcAQ6UxYSexeGsiW) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [PRJKTBLUBEAM](https://open.spotify.com/album/0rJxCuUYsfbFQZomCBLWtc) | 2:12 | 2024-08-16 | 2024-08-20 |
 | [Beeny we Beenek](https://open.spotify.com/track/0B4dVqagONgYQ4L7Gme6rN) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 2:40 | 2022-02-17 | 2022-02-24 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-18 | 2021-11-06 |
@@ -229,7 +229,7 @@
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-13 |
 | [Esmek Eh](https://open.spotify.com/track/2wEino4lZrzgdKQr9Kuqpw) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Roxi](https://open.spotify.com/album/381pico3dKrtKOi7Dh59at) | 3:10 | 2024-08-01 | 2024-09-20 |
 | [Esmek Eh](https://open.spotify.com/track/3bG2kL6F0M71u4j9Du8lSC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Esmek Eh](https://open.spotify.com/album/5BeEQxslkgF497LOzD8fBU) | 3:10 | 2024-07-18 | 2024-08-02 |
-| [Etabelna](https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etabelna](https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR) | 3:06 | 2024-05-28 |  |
+| [Etabelna](https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etabelna](https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR) | 3:06 | 2024-05-28 | 2025-04-16 |
 | [Etghayart](https://open.spotify.com/track/7mfn9jHr5sUyRCMHdHy3x4) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 2:45 | 2025-01-29 |  |
 | [Etklm Kol Youm Youmin](https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Etklm Kol Youm Youmin](https://open.spotify.com/album/5NOv6doSj36FT1NhOQkjD3) | 3:20 | 2025-03-08 | 2025-03-11 |
 | [Etnaset](https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etnaset](https://open.spotify.com/album/5nE6ovXOMjYZ1UG695iIkU) | 3:15 | 2021-10-27 | 2024-03-09 |
@@ -807,11 +807,12 @@
 | [بانوراما](https://open.spotify.com/track/2PCSAQsUfYMnmWZ4Tmkqme) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Enzo](https://open.spotify.com/artist/4U1hl9bY2xazNNeiU42obk), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 5:45 | 2022-07-14 | 2022-07-17 |
 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 | 2025-04-09 |  |
 | [بحكي عليكي](https://open.spotify.com/track/1kYgUIoRdPI36J74bzGs7y) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [النهايات اخلاق](https://open.spotify.com/album/2rNjGXX2kPVeONjCGhrgp2) | 4:04 | 2024-11-19 |  |
+| [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 | 2025-04-15 |  |
 | [براحة يا شيخة](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [براحة يا شيخة](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-02-03 | 2024-03-07 |
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2021-10-22 | 2021-12-01 |
 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-06-27 | 2023-03-20 |
 | [بعبع دايرتى](https://open.spotify.com/track/10xPGi2k2sVqeUEH10iNso) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [بعبع دايرتى](https://open.spotify.com/album/67fejejPtGJzNO2i8LKYpI) | 3:20 | 2025-02-27 |  |
-| [بعتالي في الشات](https://open.spotify.com/track/5GSvSiDTXWGPYaLI6nipdG) | [OTSHA](https://open.spotify.com/artist/0WB5JbRil3mMLI8nLwFhTY) | [بعتالي في الشات](https://open.spotify.com/album/33iJiB1TEyc2qKHKv7jxHJ) | 3:15 | 2025-02-15 | 2025-04-15 |
+| [بعتالي في الشات](https://open.spotify.com/track/5GSvSiDTXWGPYaLI6nipdG) | [OTSHA](https://open.spotify.com/artist/0WB5JbRil3mMLI8nLwFhTY) | [بعتالي في الشات](https://open.spotify.com/album/33iJiB1TEyc2qKHKv7jxHJ) | 3:15 | 2025-02-15 |  |
 | [بعودة يا بلادى](https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى](https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8) | 3:11 | 2022-03-22 | 2022-04-07 |
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 | 2022-04-06 | 2023-01-29 |
 | [بقيت وحيد](https://open.spotify.com/track/1bXmR0B5BOfCudp3zQmKmH) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV) | 2:37 | 2024-08-31 | 2025-01-06 |

@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 1929350,
+  "num_followers": 1929508,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-03-18 22:21:44",
       "album": {
+        "name": "Der Kommissar",
+        "url": "https://open.spotify.com/album/5NwOlJYtCc5iK8WKba5rHu"
+      },
+      "artists": [
+        {
+          "name": "After The Fire",
+          "url": "https://open.spotify.com/artist/194g4SFwSSzyPtgkH7v3Cx"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Der Kommissar - 7\" Version",
+      "url": "https://open.spotify.com/track/2wjCYgpCMywSDkds2c8Rq6"
+    },
+    {
+      "added_at": "2024-03-18 22:21:44",
+      "album": {
         "name": "Steve McQueen",
         "url": "https://open.spotify.com/album/07CZepJZT17AllXPFRvogL"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 245906,
       "name": "When Love Breaks Down - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW"
-    },
-    {
-      "added_at": "2024-03-18 22:21:44",
-      "album": {
-        "name": "Der Kommissar",
-        "url": "https://open.spotify.com/album/5NwOlJYtCc5iK8WKba5rHu"
-      },
-      "artists": [
-        {
-          "name": "After The Fire",
-          "url": "https://open.spotify.com/artist/194g4SFwSSzyPtgkH7v3Cx"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Der Kommissar - 7\" Version",
-      "url": "https://open.spotify.com/track/2wjCYgpCMywSDkds2c8Rq6"
     },
     {
       "added_at": "2024-03-18 22:21:44",

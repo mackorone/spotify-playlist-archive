@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain]
 
 > The best Hip\-Hop and R&amp;B from the 2000s! Includes Eminem, Dr\. Dre, Jay\-Z, Lil Wayne, Snoop, Mary J Blige, and more! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_2000HipHopRB\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 75,580 likes - 99 songs - 7 hr 1 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 75,572 likes - 99 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain]
 | 27 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 |
 | 28 | [Lost](https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:54 |
 | 29 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 |
-| 30 | [Lean Back](https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [True Story](https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F) | 4:07 |
+| 30 | [Lean Back](https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [remy](https://open.spotify.com/artist/4JMR34sJ8DghoiLOuIllCZ) | [True Story](https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F) | 4:07 |
 | 31 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 |
 | 32 | [Let It Go](https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:58 |
 | 33 | [Moment 4 Life](https://open.spotify.com/track/0ConttVd0Ebk3dLNquOmh0) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday \(Deluxe\)](https://open.spotify.com/album/51HDsvvActcDmYy7NQl6oL) | 4:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Jamila
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,515 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,516 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 24 | [Mama](https://open.spotify.com/track/7Jyr8w0a8EDwObVh8vD3Hs) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Mama](https://open.spotify.com/album/55BiC7ZMCPQYh3Z1OFAaVr) | 2:52 |
 | 25 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 |
 | 26 | [wir heben ab](https://open.spotify.com/track/0rDPHtQHu7a0s3Z6yyb6vL) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [wir heben ab](https://open.spotify.com/album/11L7TEwaDg7VFA4kr6xCx0) | 2:33 |
-| 27 | [Doppel Ass](https://open.spotify.com/track/2gz0YGXO9o4Vb8L6MP1Jz2) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Doppel Ass](https://open.spotify.com/album/7LOKxfmHlMPknM4Nsz4V4v) | 2:40 |
-| 28 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
+| 27 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
+| 28 | [Doppel Ass](https://open.spotify.com/track/2gz0YGXO9o4Vb8L6MP1Jz2) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Doppel Ass](https://open.spotify.com/album/7LOKxfmHlMPknM4Nsz4V4v) | 2:40 |
 | 29 | [Begging](https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Begging](https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC) | 3:02 |
 | 30 | [Fiction](https://open.spotify.com/track/2mcO2qndSRpwGiWxr9UjIG) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [Fiction](https://open.spotify.com/album/7asrT6SKGiRH84z6UvoI9A) | 3:09 |
 | 31 | [Celestial Gate](https://open.spotify.com/track/7IdpL6RHfk2T7JAIlPKcdB) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Celestial Gate](https://open.spotify.com/album/4ZnhP4eksMKjjtSSTyR1mY) | 3:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [echte männer](https://open.spotify.com/track/7GQXbqNI7eNMO92qPs8JyN) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [echte männer](https://open.spotify.com/album/5ZyNpg0rC1qDrne5aw2e2W) | 1:40 |
 | 38 | [Funken](https://open.spotify.com/track/3UK14tJPljA8ZQKICKe7cz) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Funken](https://open.spotify.com/album/6wugW8D1hFDRDOqxrTud60) | 3:11 |
 | 39 | [Hot Match](https://open.spotify.com/track/1QBwezIfN3BP7CF1vN7wCk) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Hot Match](https://open.spotify.com/album/49X49MHkrFvSnaeRH9Yq5j) | 2:50 |
-| 40 | [ego](https://open.spotify.com/track/3P6OM3banpZj231sFOt9JF) | [EMELIA](https://open.spotify.com/artist/0uYu9QLcueuZeyLsDsXXMn) | [ego](https://open.spotify.com/album/1bda3fchsX1HQXQNTZDrta) | 2:25 |
-| 41 | [A Waste Of Time](https://open.spotify.com/track/3TG8Rl5GmwdmfUUi9dtZ79) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [A Waste Of Time](https://open.spotify.com/album/1APjRfyuRNo5XMewpw1ndB) | 3:44 |
+| 40 | [A Waste Of Time](https://open.spotify.com/track/3TG8Rl5GmwdmfUUi9dtZ79) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [A Waste Of Time](https://open.spotify.com/album/1APjRfyuRNo5XMewpw1ndB) | 3:44 |
+| 41 | [ego](https://open.spotify.com/track/3P6OM3banpZj231sFOt9JF) | [EMELIA](https://open.spotify.com/artist/0uYu9QLcueuZeyLsDsXXMn) | [ego](https://open.spotify.com/album/1bda3fchsX1HQXQNTZDrta) | 2:25 |
 | 42 | [Tristessa West\-Berlin](https://open.spotify.com/track/7I6HCuuqHFuJz5F5o6YSVA) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Tristessa West\-Berlin](https://open.spotify.com/album/1W4q301wMOLXM7cFHhfgao) | 2:48 |
 | 43 | [Irgendwie Kalt](https://open.spotify.com/track/4xd7CpiEwp5j809LYUBGoB) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Irgendwie Kalt](https://open.spotify.com/album/73ZJtCAaWxuvBUYWBqAGlM) | 2:04 |
 | 44 | [Birds in da House](https://open.spotify.com/track/2hq6QIAizio0Tf8eLM4YAH) | [Klaudia Gawlas](https://open.spotify.com/artist/2xiTOSr9ymuHpWFAgSw6sR) | [Birds in da House](https://open.spotify.com/album/0SkJGbFSnTlrlGOkjHlnnO) | 3:02 |

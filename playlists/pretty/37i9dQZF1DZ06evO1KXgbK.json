@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 252118,
+  "num_followers": 252133,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAB1cqGMAfXVWZsxz9EIrjJO",
+  "snapshot_id": "Z/xQAAAAAAD6MjUGmczXwoWrjtRGPdyP",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friends!",
-        "url": "https://open.spotify.com/album/71brFMV2wvwbfIoWvSMDzG"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
       "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 149209,
-      "name": "Friends!",
-      "url": "https://open.spotify.com/track/7ede53DnquX0WWavwWE7QH"
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -763,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+        "name": "Friends!",
+        "url": "https://open.spotify.com/album/71brFMV2wvwbfIoWvSMDzG"
       },
       "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+      "duration_ms": 149209,
+      "name": "Friends!",
+      "url": "https://open.spotify.com/track/7ede53DnquX0WWavwWE7QH"
     },
     {
       "added_at": null,

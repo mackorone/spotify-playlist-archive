@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 314982,
+  "num_followers": 315107,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/6szJjY0eocfiH3VeyFrSn9"
+      },
+      "artists": [
+        {
+          "name": "Moodymanc",
+          "url": "https://open.spotify.com/artist/4aUxzq0r7O2RhqrHMc56BW"
+        }
+      ],
+      "duration_ms": 556906,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2uMdRrbYYxOk2Hcqt1ZBL7"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Canoa",
         "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 546791,
       "name": "Canoa",
       "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/6szJjY0eocfiH3VeyFrSn9"
-      },
-      "artists": [
-        {
-          "name": "Moodymanc",
-          "url": "https://open.spotify.com/artist/4aUxzq0r7O2RhqrHMc56BW"
-        }
-      ],
-      "duration_ms": 556906,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/2uMdRrbYYxOk2Hcqt1ZBL7"
     },
     {
       "added_at": "2024-03-22 15:59:52",

@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Sophie Straat",
-  "num_followers": 10207,
+  "num_followers": 10208,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-04-11 11:11:26",
       "album": {
+        "name": "Eclips",
+        "url": "https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 206154,
+      "name": "Soms Regen Ik Ook",
+      "url": "https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp"
+    },
+    {
+      "added_at": "2025-04-11 11:11:26",
+      "album": {
         "name": "ER IS HOOP*",
         "url": "https://open.spotify.com/album/3P4VJVsYKu6gzuZbEc9iJe"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 118666,
       "name": "Privilege",
       "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
-    },
-    {
-      "added_at": "2025-04-11 11:11:26",
-      "album": {
-        "name": "Eclips",
-        "url": "https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l"
-      },
-      "artists": [
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 206154,
-      "name": "Soms Regen Ik Ook",
-      "url": "https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp"
     },
     {
       "added_at": "2025-04-11 11:11:26",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-04-11 11:11:26",
       "album": {
-        "name": "Ballenbak",
-        "url": "https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ"
-      },
-      "artists": [
-        {
-          "name": "Maartje",
-          "url": "https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA"
-        }
-      ],
-      "duration_ms": 157253,
-      "name": "Ballenbak",
-      "url": "https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn"
-    },
-    {
-      "added_at": "2025-04-11 11:11:26",
-      "album": {
         "name": "Iemand Anders",
         "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 230599,
       "name": "Iemand Anders",
       "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
+    },
+    {
+      "added_at": "2025-04-11 11:11:26",
+      "album": {
+        "name": "Ballenbak",
+        "url": "https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ"
+      },
+      "artists": [
+        {
+          "name": "Maartje",
+          "url": "https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA"
+        }
+      ],
+      "duration_ms": 157253,
+      "name": "Ballenbak",
+      "url": "https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn"
     },
     {
       "added_at": "2025-04-11 11:11:26",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-04-11 11:11:26",
       "album": {
-        "name": "Als Je Nog Wil",
-        "url": "https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d"
-      },
-      "artists": [
-        {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
-        }
-      ],
-      "duration_ms": 203264,
-      "name": "Als Je Nog Wil",
-      "url": "https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT"
-    },
-    {
-      "added_at": "2025-04-11 11:11:26",
-      "album": {
         "name": "Het Hart Bestaat Niet En De Rest Ook Niet",
         "url": "https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 209532,
       "name": "De Grens Tussen Ons",
       "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
+    },
+    {
+      "added_at": "2025-04-11 11:11:26",
+      "album": {
+        "name": "Als Je Nog Wil",
+        "url": "https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "duration_ms": 203264,
+      "name": "Als Je Nog Wil",
+      "url": "https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT"
     },
     {
       "added_at": "2025-04-11 11:11:26",

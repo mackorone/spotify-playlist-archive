@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM?si=H0B0bky3RYao168o52qu7g>Samuel Folabi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,396 likes - 102 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,404 likes - 102 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

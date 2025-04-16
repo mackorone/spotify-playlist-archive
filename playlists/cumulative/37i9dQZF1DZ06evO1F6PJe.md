@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-179 songs - 15 hr 51 min
+180 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,10 +102,11 @@
 | [Living On The Moon](https://open.spotify.com/track/6Im052EnAuJJHDTKYcxciQ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 3:21 | 2024-10-14 | 2025-01-18 |
 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 | 2022-08-23 |  |
 | [Lookout Man!](https://open.spotify.com/track/3xyzXPlwWyniV1pBRCRNBE) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 5:31 | 2022-10-10 | 2022-10-12 |
-| [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 | 2022-08-05 |  |
+| [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 | 2022-08-05 | 2025-04-16 |
 | [Love Ain't A Love Song](https://open.spotify.com/track/6AsY2YeYT9WJF85QROfoj8) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 3:48 | 2024-10-15 | 2024-11-09 |
 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 | 2022-08-06 | 2022-11-24 |
 | [Man of Many Words](https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 4:10 | 2024-02-02 | 2024-10-15 |
+| [Masterpiece](https://open.spotify.com/track/05KXxvxEtPd6qEXmjKlBlB) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back For Me](https://open.spotify.com/album/4EaxZFFEXsbuKGl407QuDH) | 3:36 | 2025-04-16 |  |
 | [Mean Town Blues](https://open.spotify.com/track/3CCmfKQwQicHhHwvlZbeAm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 5:04 | 2023-02-03 | 2023-08-07 |
 | [Merry Christmas, Baby \(Alternate Take\)](https://open.spotify.com/track/2HfZpF3MoqcmC1czlkXeek) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Merry Christmas, Baby](https://open.spotify.com/album/6uTLAJqdtmTblzMvLNwEub) | 5:13 | 2023-12-13 | 2024-01-07 |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Jenni Vartiainen ja Turisti.
 
-516 songs - 1 day 1 hr 52 min
+517 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [HAAVERI](https://open.spotify.com/track/43abPnVxTyDK7rg5EDXWKc) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [SEPPO MIXTAPE](https://open.spotify.com/album/6k0CnWRzKZDKb7BG4j6A1g) | 2:37 | 2025-01-23 | 2025-03-07 |
 | [Hajonneet](https://open.spotify.com/track/6NIVHos43HS850pmsXWzHy) | [Aksel Kankaanranta](https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2) | [Hajonneet](https://open.spotify.com/album/3OxmINoGWVzYpG4uqck89U) | 3:05 | 2024-09-26 | 2024-10-11 |
 | [Haloo](https://open.spotify.com/track/1iBB1eaWLm2B70LqUCdMZi) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Haloo](https://open.spotify.com/album/6yUjFKMT9jwzsq59fMfwcZ) | 2:43 | 2024-12-12 | 2025-03-07 |
+| [Haluamanilainen, mietin sua pahalla \- Emma Gaala 2025 Live](https://open.spotify.com/track/6GdsfRTm1mjLgyCP5Qd653) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Haluamanilainen, mietin sua pahalla \(Emma Gaala 2025 Live\)](https://open.spotify.com/album/2QXiRw2Y032iqIuXDyaFOo) | 5:22 | 2025-04-15 |  |
 | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/album/0wA6SBN8dorzEaXvqB3lgl) | 2:21 | 2024-08-22 | 2024-09-13 |
 | [Harmaan sävyjä \(Vain elämää kausi 15\)](https://open.spotify.com/track/3AbxR1gWW26UQ6N1n1wfcC) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Harmaan sävyjä \(Vain elämää kausi 15\)](https://open.spotify.com/album/7mhymr1eVxMCiRTkL0SgeI) | 2:50 | 2024-10-17 | 2024-10-25 |
 | [Hautaa mut](https://open.spotify.com/track/51G3X9QoWDBZlo8xXlSz6R) | [Mariska](https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut) | [10](https://open.spotify.com/album/0J33R8PPa79fcIGvtZ0fgS) | 3:46 | 2025-03-27 | 2025-04-11 |

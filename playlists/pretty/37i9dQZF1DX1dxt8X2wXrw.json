@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 68577,
+  "num_followers": 68592,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -159,8 +159,8 @@
     {
       "added_at": "2025-02-13 13:00:27",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
+      "duration_ms": 182306,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
     },
     {
       "added_at": "2025-02-13 13:00:27",
@@ -189,22 +189,6 @@
       "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
     },
     {
-      "added_at": "2025-02-13 13:00:27",
-      "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
-    },
-    {
       "added_at": "2024-12-20 20:54:00",
       "album": {
         "name": "MUTT",
@@ -219,6 +203,22 @@
       "duration_ms": 193333,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2025-02-13 13:00:27",
+      "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2025-02-13 13:00:27",
@@ -271,8 +271,8 @@
     {
       "added_at": "2025-02-13 13:00:27",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 182306,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2025-01-23 13:00:36",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
     },
     {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 140637,
-      "name": "Chill Baby",
-      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
-    },
-    {
       "added_at": "2025-02-13 13:00:27",
       "album": {
         "name": "99.9%",
@@ -427,6 +411,22 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 140637,
+      "name": "Chill Baby",
+      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
     },
     {
-      "added_at": "2025-02-13 13:00:27",
-      "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "On the Level",
-      "url": "https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd"
-    },
-    {
       "added_at": "2024-12-20 20:54:00",
       "album": {
         "name": "TYLA",
@@ -495,6 +479,22 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2025-02-13 13:00:27",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "On the Level",
+      "url": "https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -873,24 +873,20 @@
       "url": "https://open.spotify.com/track/7tbNKCzFhCZANduSwaRYwf"
     },
     {
-      "added_at": "2024-12-20 20:54:00",
+      "added_at": "2025-01-23 13:00:36",
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+        "name": "Unplanned",
+        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
         }
       ],
-      "duration_ms": 223443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+      "duration_ms": 170500,
+      "name": "Unplanned",
+      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -917,20 +913,24 @@
       "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
     },
     {
-      "added_at": "2025-01-23 13:00:36",
+      "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Unplanned",
-        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
       "artists": [
         {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
         }
       ],
-      "duration_ms": 170500,
-      "name": "Unplanned",
-      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF"
     },
     {
-      "added_at": "2025-02-13 13:00:27",
-      "album": {
-        "name": "Blue Desert",
-        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
-      },
-      "artists": [
-        {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
-        }
-      ],
-      "duration_ms": 173825,
-      "name": "Falling Down a Well",
-      "url": "https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf"
-    },
-    {
       "added_at": "2025-01-23 13:00:36",
       "album": {
         "name": "Care For You",
@@ -1267,6 +1251,22 @@
       "duration_ms": 218678,
       "name": "Care For You",
       "url": "https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO"
+    },
+    {
+      "added_at": "2025-02-13 13:00:27",
+      "album": {
+        "name": "Blue Desert",
+        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "duration_ms": 173825,
+      "name": "Falling Down a Well",
+      "url": "https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf"
     },
     {
       "added_at": "2024-12-20 20:54:00",

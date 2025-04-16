@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,564 songs - 5 day 18 hr 53 min
+2,567 songs - 5 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1169,6 +1169,7 @@
 | [ITS YOU](https://open.spotify.com/track/3DVps8FDEzerZesxZnOHVs) | [jarradcleofé](https://open.spotify.com/artist/3KSx8jFUIL2SzMp4uLeSJQ) | [LOVE HARD](https://open.spotify.com/album/1OlHk6CpatbFwiWnlHcmtX) | 4:15 | 2024-05-29 | 2024-06-08 |
 | [IYWML](https://open.spotify.com/track/6JLLai8GXvv1ITRNnCYFlm) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [IYWML](https://open.spotify.com/album/5S3vbpyJnOPbtGHoTnRYzd) | 2:17 | 2025-04-11 |  |
 | [Izulu Lami](https://open.spotify.com/track/4xezrsnf0dQ61TtUN52iDq) | [Mshado](https://open.spotify.com/artist/132R6TYyhnugigIY9k65BX) | [Gqomzart](https://open.spotify.com/album/6viV6fozmPsSmjBSrH9kZ0) | 3:33 | 2025-03-10 | 2025-03-15 |
+| [Jade Protocol](https://open.spotify.com/track/2ip8I0mcW2G3HARt8lKFjF) | [FluxCap](https://open.spotify.com/artist/3fCaZH5ooDMIrAyt2doyOu) | [Jade Protocol](https://open.spotify.com/album/6WMJ2h6SV4oXoROQh3XcNP) | 2:08 | 2025-04-15 |  |
 | [Jawbreaker](https://open.spotify.com/track/6uZrX5DBIU0zWIqh5Sy7fE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Careless Castle](https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC) | [Jawbreaker](https://open.spotify.com/album/1zafQ1iegSrnhHMwloCCST) | 3:02 | 2025-04-11 |  |
 | [Je Veux](https://open.spotify.com/track/201ygMoqNMFGhxIE2TK9yM) | [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y) | [Je Veux](https://open.spotify.com/album/2J0pKe0kOSrlr5EW2JXDli) | 2:52 | 2025-01-03 | 2025-01-11 |
 | [Jet Setter](https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Yeah Boy](https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au) | [Jet Setter](https://open.spotify.com/album/59CWlHTdKkVuLT9LcDdO8U) | 2:54 | 2024-09-26 | 2024-10-05 |
@@ -1812,6 +1813,7 @@
 | [Rabbit Hole](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Rabbit Hole](https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2) | 4:11 | 2024-09-26 | 2024-10-05 |
 | [Ragada](https://open.spotify.com/track/6XsDaUfvv1c2xNxJJU6geT) | [Darren Shelton](https://open.spotify.com/artist/295ok76bJBGnVogj0sqWfB) | [Ragada](https://open.spotify.com/album/7guCptieuZYbuW8TNs8Zxo) | 3:11 | 2024-07-12 | 2024-07-19 |
 | [Rage Circuit](https://open.spotify.com/track/7LQobPBlwnvAoYzeXCHrSh) | [ECLYP](https://open.spotify.com/artist/4HChIBz1tnhUbJoYswBIn7) | [Rage Circuit](https://open.spotify.com/album/443WFF9y42y4aXVnMVzB2W) | 2:28 | 2025-04-01 | 2025-04-11 |
+| [Rage UNLEASHED](https://open.spotify.com/track/7jQbjrjPRKef6dffnlYjyF) | [ECLYP](https://open.spotify.com/artist/4HChIBz1tnhUbJoYswBIn7) | [Rage UNLEASHED](https://open.spotify.com/album/0XXrRsPAJmDcnFcNdWKGgv) | 2:44 | 2025-04-15 |  |
 | [Rain](https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Rain](https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX) | 3:06 | 2024-11-15 | 2024-11-23 |
 | [Ram Pam \(feat\. Mystic Marley & Flowdan\)](https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Ram Pam \(feat\. Mystic Marley & Flowdan\)](https://open.spotify.com/album/5gKmNjiXT4IFO5ZLYXJB75) | 2:51 | 2024-09-12 | 2024-09-21 |
 | [Rattlesnake](https://open.spotify.com/track/1M9VKp4ztBpgT0H2asoY6b) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Rattlesnake](https://open.spotify.com/album/3fziyDAl65gYPtuQVS5r2X) | 2:56 | 2024-09-20 | 2024-09-27 |
@@ -2284,6 +2286,7 @@
 | [This Love](https://open.spotify.com/track/1oN0baex7YsYnLrv1WE2Pi) | [Mark Vox](https://open.spotify.com/artist/5MeDekmzOYzHmRJS1159YL) | [This Love](https://open.spotify.com/album/2ezHxmPObJK1ZJAf2yJ6zK) | 2:49 | 2024-11-21 | 2024-12-06 |
 | [This Pain](https://open.spotify.com/track/22axRxZqMClirktRxYWLkf) | [Peetu S](https://open.spotify.com/artist/2G4Uvipvoj1FK1Fuetayle) | [This Pain](https://open.spotify.com/album/6EWPKLQKPlUHLa0R3YvOqc) | 3:59 | 2024-07-12 | 2024-07-19 |
 | [This Time](https://open.spotify.com/track/6MTvO2JpANHrxwEQe8xnNW) | [Vito V](https://open.spotify.com/artist/0xcfx1bbm3GNYmGBHT2hRg) | [This Time](https://open.spotify.com/album/4o3r3qELq1RX5Tz3g1FFoy) | 2:53 | 2024-08-16 | 2024-08-24 |
+| [This Too Shall Pass](https://open.spotify.com/track/64tjrDZ0xgaAFK7U2ia7pd) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [This Too Shall Pass](https://open.spotify.com/album/31De1EbpxSff3Pd3r6J8Id) | 2:47 | 2025-04-15 |  |
 | [Thousand Sides](https://open.spotify.com/track/7DsJI3bDw7kkOGGdJuCVfp) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Thousand Sides](https://open.spotify.com/album/4rK2goOC4f0FkcbzeW7sD8) | 3:11 | 2024-06-07 | 2024-06-17 |
 | [Through The Dark](https://open.spotify.com/track/18Jx8opkANNFcaXROTO3py) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Through The Dark](https://open.spotify.com/album/0p4ESVzv2teGSzcVFApYd8) | 2:47 | 2025-02-21 | 2025-03-01 |
 | [Through the Night](https://open.spotify.com/track/1c4Np5YSKDMp0feU8unOyr) | [Joey McCrilley](https://open.spotify.com/artist/4ew3WXgHuVN5LOVn0KfiNI), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Through the Night](https://open.spotify.com/album/7ED0vJ10TrJXLAdfnX14Is) | 2:55 | 2024-08-02 | 2024-08-09 |

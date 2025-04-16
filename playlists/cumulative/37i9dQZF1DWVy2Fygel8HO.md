@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-173 songs - 7 hr 11 min
+174 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [vierde moment](https://open.spotify.com/track/2odkdy9ZmZPuH3U1q3BPXD) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0ybD0BRRdBivIT6Db8iu7P) | 3:21 | 2024-04-03 | 2024-08-13 |
 | [Walking Slowly](https://open.spotify.com/track/04HAuNsJ33EMeoNhiOQLcQ) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Walking Slowly](https://open.spotify.com/album/4wjmBndNtG1iaQbsOEyBF0) | 3:18 | 2023-05-09 | 2025-03-05 |
 | [Wavering in the wind](https://open.spotify.com/track/65R91R603eXiAOa0K4bar0) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Wavering in the wind](https://open.spotify.com/album/189614dABOnS6fQzug1EGC) | 2:28 | 2023-05-09 |  |
+| [What Time Reveals](https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [What Time Reveals](https://open.spotify.com/album/1yTPbfXRRusyFpv8vfuqde) | 2:50 | 2025-04-15 |  |
 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 | 2023-05-09 |  |
 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 | 2023-08-15 |  |
 | [When She Smiles](https://open.spotify.com/track/6MvHCW8J9cOp5Ojjz74yyT) | [Daniel Paterok](https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF) | [When She Smiles](https://open.spotify.com/album/6WnYc9OyWVxu9Dli61RhWe) | 2:41 | 2023-05-09 | 2025-01-07 |

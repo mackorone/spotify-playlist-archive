@@ -1671,6 +1671,28 @@
     },
     {
       "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191204,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/1WMymP7Mj6GrI2VReJFSJD"
+    },
+    {
+      "album": {
         "name": "Tr\u00f3nfoszt\u00f3",
         "url": "https://open.spotify.com/album/4N8b0i798ZKaMDpAXvMhj6"
       },

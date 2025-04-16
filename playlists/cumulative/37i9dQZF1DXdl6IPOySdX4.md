@@ -4,7 +4,7 @@
 
 > you up?
 
-498 songs - 1 day 3 hr 47 min
+499 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Coke & Henny Pt\. 2](https://open.spotify.com/track/6tlan2FHMyIKBRR62zxusZ) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2 EP](https://open.spotify.com/album/6G7fYS2aqolLZG6B1XJxmf) | 2:37 | 2022-03-25 | 2022-04-20 |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2022-03-28 | 2022-04-20 |
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2022-12-01 |  |
-| [Come and Get It](https://open.spotify.com/track/64ffjpf5y7Q2kjZAsVYM3U) | [Austin Giorgio](https://open.spotify.com/artist/2NhXno18MV9YbhVmr5QX11) | [Chronicles of the Darkest Hour](https://open.spotify.com/album/7it5PQQaFc71tHG88rVUNK) | 3:10 | 2025-02-14 |  |
+| [Come and Get It](https://open.spotify.com/track/64ffjpf5y7Q2kjZAsVYM3U) | [Austin Giorgio](https://open.spotify.com/artist/2NhXno18MV9YbhVmr5QX11) | [Chronicles of the Darkest Hour](https://open.spotify.com/album/7it5PQQaFc71tHG88rVUNK) | 3:10 | 2025-02-14 | 2025-04-16 |
 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/1wZqJM5FGDEl3FjHDxDyQd) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI) | 3:55 | 2022-03-25 | 2023-01-01 |
 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:55 | 2023-01-20 | 2024-04-19 |
 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 | 2025-03-31 |  |
@@ -287,6 +287,7 @@
 | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/track/2iv9L7pBxfuGIRbJx7ip1D) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Deadbeat Girl](https://open.spotify.com/artist/6V267iCF72e4eP1L3ZkKQt) | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/album/2DiEV6hfnGqeCud4kf5gyK) | 3:30 | 2023-08-04 | 2023-08-19 |
 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 | 2025-03-21 |  |
 | [Make Me Stay](https://open.spotify.com/track/3REQkt60mafExNVnJehMdL) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 2:52 | 2022-10-24 | 2022-11-19 |
+| [makes me want you](https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [makes me want you](https://open.spotify.com/album/1D8iT4RFF0y4eF2nc6Nssx) | 2:40 | 2025-04-15 |  |
 | [MAMACITA](https://open.spotify.com/track/4cQAhjxynTUlhVUJN5yhUb) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [MAMACITA](https://open.spotify.com/album/1FQHtQVQvXPA7oFsf3cPCI) | 3:22 | 2023-09-27 | 2023-11-11 |
 | [Maria I'm Drunk \(feat\. Justin Bieber & Young Thug\)](https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rodeo \(Expanded Edition\)](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:49 | 2022-03-28 | 2022-04-19 |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2022-10-27 | 2025-03-26 |

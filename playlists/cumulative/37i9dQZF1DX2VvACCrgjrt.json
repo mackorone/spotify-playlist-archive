@@ -17735,6 +17735,24 @@
     },
     {
       "album": {
+        "name": "Teaser",
+        "url": "https://open.spotify.com/album/6pUlx6jz0BChTHeNqXvPYB"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Teaser",
+      "url": "https://open.spotify.com/track/16Mm6LWsaARg2MnhqWJhUS"
+    },
+    {
+      "album": {
         "name": "TEC-9",
         "url": "https://open.spotify.com/album/36agK8BrIfyOpjrP0sMxsK"
       },
@@ -18994,7 +19012,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 141328,
       "name": "Top Spot (feat. Lachi)",
       "url": "https://open.spotify.com/track/7cnvu8ARUzIIOBZ0ROOJMe"

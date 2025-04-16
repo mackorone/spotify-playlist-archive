@@ -7995,6 +7995,24 @@
     },
     {
       "album": {
+        "name": "KITERU",
+        "url": "https://open.spotify.com/album/6bmjYh9k2kpYXDIgSKqE5t"
+      },
+      "artists": [
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105658,
+      "name": "KITERU",
+      "url": "https://open.spotify.com/track/2CassFuANXkFy27iNpRxxK"
+    },
+    {
+      "album": {
         "name": "Kamisori Otome",
         "url": "https://open.spotify.com/album/2GatVW3cnHi3riWYrr6rQh"
       },
@@ -21025,6 +21043,28 @@
     },
     {
       "album": {
+        "name": "\u6fc0\u30a2\u30c4",
+        "url": "https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl"
+      },
+      "artists": [
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162025,
+      "name": "\u30d0\u30ca\u30ca\u30dc\u30fc\u30c8 (feat. Elle Teresa)",
+      "url": "https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD"
+    },
+    {
+      "album": {
         "name": "\u88cf\u7389\u59eb",
         "url": "https://open.spotify.com/album/4I54Cn8iIyS0Ta9nOVV5P6"
       },
@@ -21076,7 +21116,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 138719,
       "name": "\u30d2\u30fc\u30c8",
       "url": "https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC"
@@ -21606,7 +21646,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 275586,
       "name": "\u30e9\u30d6\u30fb\u30df\u30fc\u30fb\u30e2\u30a2",
       "url": "https://open.spotify.com/track/6xiP9Mgz8RQZW0U7Jjzi2l"

@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-841 songs - 1 day 12 hr 8 min
+842 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Endlich](https://open.spotify.com/track/0QzBw7xBO5q6plc8hX5z7B) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Endlich](https://open.spotify.com/album/6EYlet7J4aCY3zTqqhl8eB) | 2:10 | 2024-04-03 |  |
 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 | 2022-05-26 | 2024-01-03 |
 | [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-01-29 |  |
-| [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 |  |
+| [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 | 2025-04-16 |
 | [Et løfte](https://open.spotify.com/track/4KB0FsNnaynCa0Zx8V6h9C) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Et løfte](https://open.spotify.com/album/6zZJcLrm7pvfBWlIEmffH9) | 2:14 | 2023-04-24 |  |
 | [Etereo](https://open.spotify.com/track/1tFwl5ZvWeiI2QjPV6tQhJ) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Etereo](https://open.spotify.com/album/3WgkQ0yOKa38yJ5Gk8aiTi) | 2:38 | 2025-02-28 |  |
 | [Eternal Bloom](https://open.spotify.com/track/0OYDV3vHPSXFQkKmVdodFn) | [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [Eternal Bloom](https://open.spotify.com/album/72ckrZrv9xw3vabgq5cLM1) | 3:11 | 2021-12-13 | 2022-03-18 |
@@ -603,6 +603,7 @@
 | [Romance no 1 "Nordica"](https://open.spotify.com/track/5yWWqRGYKTfSoFTYKAnDlo) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Romance no 1 "Nordica"](https://open.spotify.com/album/4ax1MdqYOUcrhrYPlgPfA5) | 2:52 | 2022-04-06 | 2023-02-07 |
 | [Romanzo](https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Romanzo](https://open.spotify.com/album/3hV54JZiq0la65AY4KXB4J) | 2:03 | 2023-08-29 |  |
 | [Rondel](https://open.spotify.com/track/5ltbjrXShDx3IxIDc0V9pR) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Rondel](https://open.spotify.com/album/608WW98ZRHAeC8duELOME1) | 2:03 | 2022-09-12 | 2024-01-03 |
+| [Roots 根](https://open.spotify.com/track/3ngWP0Oqn7ohTDArbaWdIW) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Roots 根](https://open.spotify.com/album/49ms3ysWcHbTAnRYvoZfMW) | 2:28 | 2025-04-15 |  |
 | [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 | 2025-03-13 |  |
 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2021-12-13 | 2024-01-03 |
 | [Rêverie Lilas](https://open.spotify.com/track/5ZzpqPQsDM5MaVhEGFzTtD) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Moonlight Improvisations](https://open.spotify.com/album/3pRrgNnbS3bXYjS4R6kfMe) | 1:16 | 2021-12-13 | 2023-05-04 |

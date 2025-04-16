@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 99 | [Like A Fool](https://open.spotify.com/track/0iSVVvnXgiAcdS8tZPjZeR) | [Joana Kesenci](https://open.spotify.com/artist/4ZaUXNaebEQrSWFq4att4m) | [Like A Fool](https://open.spotify.com/album/4cIl8a2elDYzGIN8Xeje50) | 3:32 |
 | 100 | [Ich liebe meine Ex noch \- LUZIs Megamix](https://open.spotify.com/track/2rc5e7rZFSEJ000oVMNGVp) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [LUZIs Megamix](https://open.spotify.com/album/2EN8ufsACQcGR77mCdL9IZ) | 2:51 |
 | 101 | [Immer Juli](https://open.spotify.com/track/6cnTg5INasYZIP3yXridcS) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Immer Juli](https://open.spotify.com/album/2YebsTq2mKaDhJxvGW9Son) | 2:47 |
-| 102 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 |
-| 103 | [Berlin City Girl](https://open.spotify.com/track/214zEjNd21eUMoXxr3VqWj) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:11 |
+| 102 | [Berlin City Girl](https://open.spotify.com/track/214zEjNd21eUMoXxr3VqWj) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:11 |
+| 103 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 |
 | 104 | [Intro](https://open.spotify.com/track/6hldgiGWnYgDHBc1HDPJQ2) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/1vhbrbKabLC7JggnGXxM5K) | 2:12 |
 | 105 | [Ciao Bella](https://open.spotify.com/track/7GB7TgXcdE1hsm67udwrX9) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:08 |
 | 106 | [Paper Thin](https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Technicolor](https://open.spotify.com/album/0i8MMjp4O2ycsJpSLlZSTb) | 3:36 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 140 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 141 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbuycgAAAACTieLIZbsBROvN0gBCL4vK`
+Snapshot ID: `Abu39AAAAAD9HfQ2wwfcFXCLni89tXHC`

@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-716 songs - 1 day 6 hr 23 min
+717 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Sleepy Meadows](https://open.spotify.com/track/6ZolaAx9dpXGBDlD83TGAT) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Promise / Sleepy Meadows](https://open.spotify.com/album/6MdzdWtD1WUDDE25TV05w3) | 3:29 | 2022-06-07 | 2022-08-02 |
 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 | 2022-06-07 | 2024-10-16 |
 | [Slowly 慢慢地](https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Slowly 慢慢地](https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx) | 2:09 | 2024-05-29 |  |
+| [Slowness Within](https://open.spotify.com/track/37yMja7S79WxV3EmvEKR5F) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Slowness Within](https://open.spotify.com/album/17sb0A1FVV1alrS66l2vIa) | 2:07 | 2025-04-15 |  |
 | [Small and Alone](https://open.spotify.com/track/4aTzC2cv9CFqtEiY3shp3d) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:30 | 2022-06-07 | 2023-02-11 |
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2022-06-07 | 2022-09-15 |
 | [Snart min ven](https://open.spotify.com/track/2gvOWwy8B1tnObU0ldDycn) | [Nansen Christoffersen](https://open.spotify.com/artist/4EG2PN3O2mm649IWzUex7B) | [Snart min ven](https://open.spotify.com/album/5B9M3NK5ciz9bTH1aLCMVr) | 2:07 | 2022-06-07 | 2022-09-24 |

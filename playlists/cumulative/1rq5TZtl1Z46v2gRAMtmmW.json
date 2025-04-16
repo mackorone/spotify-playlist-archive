@@ -1379,6 +1379,32 @@
     },
     {
       "album": {
+        "name": "CHROMA 009",
+        "url": "https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx"
+      },
+      "artists": [
+        {
+          "name": "DOVE",
+          "url": "https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF"
+        },
+        {
+          "name": "Kehina",
+          "url": "https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288701,
+      "name": "CHROMA 009 KR36",
+      "url": "https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n"
+    },
+    {
+      "album": {
         "name": "Circle Back Around",
         "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
       },

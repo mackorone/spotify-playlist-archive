@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 24214,
+  "num_followers": 24216,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAARw8sqcUdUqvkqmhDuOH86",
+  "snapshot_id": "Z/xQAAAAAABwZTJwUsrvYNXt0EB2cmZ7",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soyokaze",
+        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 216417,
+      "name": "Soyokaze",
+      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FRIENDS!!!",
         "url": "https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 197904,
       "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
       "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soyokaze",
-        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 216417,
-      "name": "Soyokaze",
-      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
     },
     {
       "added_at": null,

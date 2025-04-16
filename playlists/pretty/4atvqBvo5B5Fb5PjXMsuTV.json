@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Apr 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Apr 22:04 UTC.",
   "num_followers": 91,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAARIIBhGL0HGngQUJChWvIgXhds+tn/",
+  "snapshot_id": "AAARJrdJsy1eck6EYZwRCRyDZwWmwnmP",
   "tracks": [
+    {
+      "added_at": "2025-04-15 13:03:56",
+      "album": {
+        "name": "Deadstick",
+        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "Deadstick",
+      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
+    },
     {
       "added_at": "2025-04-15 03:03:45",
       "album": {
@@ -39,6 +55,46 @@
       "duration_ms": 111483,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/0HiaBnwgzpidl19WHWzQQx"
+    },
+    {
+      "added_at": "2025-04-15 08:03:54",
+      "album": {
+        "name": "BLOMSTERTID",
+        "url": "https://open.spotify.com/album/4BFBfSKMI1YkndFQFjiN48"
+      },
+      "artists": [
+        {
+          "name": "Dj Billybool",
+          "url": "https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "duration_ms": 155685,
+      "name": "BLOMSTERTID",
+      "url": "https://open.spotify.com/track/4zjT2VKgsYLd3sv1mIJzpI"
+    },
+    {
+      "added_at": "2025-04-15 22:04:03",
+      "album": {
+        "name": "Hood Asasin",
+        "url": "https://open.spotify.com/album/4Bmkad5MKt6AuRtLW0bvaC"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "duration_ms": 116062,
+      "name": "Hood Asasin",
+      "url": "https://open.spotify.com/track/1VJdahhl5EOjDFd5yWD9cV"
     },
     {
       "added_at": "2025-04-12 18:03:59",
@@ -771,54 +827,6 @@
       "duration_ms": 214800,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
-    },
-    {
-      "added_at": "2025-04-04 08:03:22",
-      "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 290110,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
-    },
-    {
-      "added_at": "2025-04-04 08:03:22",
-      "album": {
-        "name": "Hoochie Coochie",
-        "url": "https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 147450,
-      "name": "Hoochie Coochie",
-      "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
-    },
-    {
-      "added_at": "2025-04-04 08:03:22",
-      "album": {
-        "name": "Free Mr. Banks",
-        "url": "https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 119285,
-      "name": "Free Mr. Banks",
-      "url": "https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR"
     }
   ],
   "unique_name": "New Singles Now",

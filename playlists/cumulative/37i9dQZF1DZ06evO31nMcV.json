@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76923,
+      "name": "Midnight Reverie",
+      "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
+    },
+    {
+      "album": {
         "name": "Reverie (Solo Piano Version) & Midnight Reverie",
         "url": "https://open.spotify.com/album/1pmlr7X61B3YItvw6bTVEC"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 76923,
       "name": "Midnight Reverie",
       "url": "https://open.spotify.com/track/7jJXXxrBFWJx7X5wEXPYsC"
@@ -958,7 +976,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 218130,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "Together Without You",
       "url": "https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF"

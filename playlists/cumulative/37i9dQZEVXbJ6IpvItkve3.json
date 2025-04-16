@@ -7299,6 +7299,24 @@
     },
     {
       "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -12674,7 +12692,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 172757,
       "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05d3\u05d1\u05e8",
       "url": "https://open.spotify.com/track/354YT2zYO1GpAmf10xXiZf"
@@ -13648,7 +13666,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-14",
+      "date_removed": null,
       "duration_ms": 162905,
       "name": "\u05d2\u05df \u05e2\u05d3\u05df \u05e9\u05dc \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3pvBB4oPXTaHV403msHYF0"
@@ -13720,7 +13738,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 169322,
       "name": "\u05d3\u05d0\u05de",
       "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
@@ -15834,7 +15852,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 196480,
       "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
@@ -21538,7 +21556,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 158740,
       "name": "\u05e9\u05d0\u05e0\u05dc \u05d0\u05d6\u05d5\u05dc\u05d0\u05d9",
       "url": "https://open.spotify.com/track/1I2O2LqFIUSndJW0NSUdfq"

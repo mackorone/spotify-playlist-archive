@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Rema, Lojay, Reekado Banks and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,533 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,643 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 7 | [Tattoo](https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Tattoo](https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW) | 3:15 |
 | 8 | [Bend](https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Out of the Blue](https://open.spotify.com/album/6C2f1XaNPB75cqr1eR7lbb) | 3:12 |
 | 9 | [Halelu \(feat\. Niniola & DJ Rosco\)](https://open.spotify.com/track/4hFxfeTWAKx6u1YQk33uxv) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [DJ Rosco](https://open.spotify.com/artist/2rggJGUHFnNPiNQPIUaFK5) | [Nobody Like Zaza](https://open.spotify.com/album/1GZzCbpn9eoIOP39O5dqbh) | 3:09 |
-| 10 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:06 |
+| 10 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:29 |
 | 11 | [Cheat On You](https://open.spotify.com/track/5eEujB7GCM34vovJBGCU50) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Cheat On You](https://open.spotify.com/album/38bYEvgGHZ4su9AKt3Dudz) | 3:21 |
 | 12 | [SAY WETIN](https://open.spotify.com/track/62zDBe4PUN7JZM3OczBPAo) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [SAY WETIN](https://open.spotify.com/album/0wfgAjSgqP8CNtDbTKWcdb) | 2:03 |
 | 13 | [FATÚMATA](https://open.spotify.com/track/1qbmBZepH02Lyfc1hdo3hz) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [DIYILEM & BAZARHOFF : GENIUS](https://open.spotify.com/album/0svMu91wf0T13Of4I0YU9v) | 2:54 |

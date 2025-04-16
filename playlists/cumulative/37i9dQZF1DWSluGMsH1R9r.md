@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-737 songs - 1 day 7 hr 34 min
+738 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 | 2021-12-07 | 2024-11-06 |
 | [slow waltz](https://open.spotify.com/track/1BKUdbyhGPpzazD1H5L6iB) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [slow waltz](https://open.spotify.com/album/1FaJk07lRQS1bKuYA1W4q8) | 3:54 | 2022-02-15 | 2023-01-27 |
 | [Slowly 慢慢地](https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Slowly 慢慢地](https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx) | 2:09 | 2024-05-29 |  |
+| [Slowness Within](https://open.spotify.com/track/37yMja7S79WxV3EmvEKR5F) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Slowness Within](https://open.spotify.com/album/17sb0A1FVV1alrS66l2vIa) | 2:07 | 2025-04-15 |  |
 | [Snow\-covered gardens](https://open.spotify.com/track/3DlgODi91SEXoYmgpVSc2U) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Snow\-covered gardens](https://open.spotify.com/album/5Xlzu7o4j2rTV3H2F4aLfF) | 2:26 | 2024-07-16 |  |
 | [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-09 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 |  |

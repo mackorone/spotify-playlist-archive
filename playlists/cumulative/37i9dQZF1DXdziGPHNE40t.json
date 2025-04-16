@@ -4716,7 +4716,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 234794,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/2UPYanBCFUE1XeJUxFrMFP"
@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 216636,
       "name": "Late Afternoon",
       "url": "https://open.spotify.com/track/4ySYI3lRedo9iXbrraPsQN"
@@ -7002,7 +7002,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 192750,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0"
@@ -8000,7 +8000,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 287479,
       "name": "Pensativa",
       "url": "https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i"
@@ -8771,6 +8771,24 @@
     },
     {
       "album": {
+        "name": "Silver Starlings",
+        "url": "https://open.spotify.com/album/2sr8HDkPjAISDDnKhktJ39"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168787,
+      "name": "Silver Starlings",
+      "url": "https://open.spotify.com/track/2QOpxExUTmVrAXYB4rpzrS"
+    },
+    {
+      "album": {
         "name": "Simple Pleasures",
         "url": "https://open.spotify.com/album/7y61HScW0XVioiqKAIakYy"
       },
@@ -9522,7 +9540,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 278587,
       "name": "Stairway to the Stars",
       "url": "https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA"
@@ -10876,6 +10894,24 @@
       "duration_ms": 200000,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
+    },
+    {
+      "album": {
+        "name": "Time Forgotten",
+        "url": "https://open.spotify.com/album/5wCsFVmtBnTKWGUHoOnVUd"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185354,
+      "name": "Time Forgotten",
+      "url": "https://open.spotify.com/track/6aAVup2sW3A7o7UpPmyjyr"
     },
     {
       "album": {

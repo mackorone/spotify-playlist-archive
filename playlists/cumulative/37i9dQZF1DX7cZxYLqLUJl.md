@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-154 songs - 6 hr 43 min
+155 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-04-05 |  |
 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 | 2021-04-21 | 2024-11-19 |
 | [Here](https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Here](https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce) | 2:26 | 2021-04-21 | 2024-09-25 |
+| [Hiding](https://open.spotify.com/track/3a5rAo9zeU1lntg1cMdnBd) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Hiding](https://open.spotify.com/album/5v2z0CgPRZgztMiJrX2wTo) | 2:29 | 2025-04-15 |  |
 | [Homeland](https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Homeland](https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos) | 2:22 | 2021-04-21 |  |
 | [Hopes and Dreams](https://open.spotify.com/track/3Le8dA7PwImsZxRgEnwnt6) | [Emmanuelle Rimbaud](https://open.spotify.com/artist/25eoowiv7avebKZvqc7knq) | [Hopes and Dreams](https://open.spotify.com/album/2DCnFIiUvZtHmswOzjH7zh) | 2:44 | 2021-04-21 | 2024-09-03 |
 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 | 2021-04-21 |  |

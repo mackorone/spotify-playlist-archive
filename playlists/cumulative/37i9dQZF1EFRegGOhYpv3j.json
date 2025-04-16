@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Finish This Drink",
+        "url": "https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "Finish This Drink",
+      "url": "https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O"
+    },
+    {
+      "album": {
         "name": "PATTERNS Commentary Album",
         "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
       },

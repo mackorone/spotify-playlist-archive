@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 208561,
+  "num_followers": 208597,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAACXJ46APtYAXDbam1YMBvl9",
+  "snapshot_id": "Z/xQAAAAAAAtqxR2Egjt4CJcWE3hylPX",
   "tracks": [
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 226568,
-      "name": "NO VOY A ODIARTE",
-      "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 239420,
       "name": "Me Decepcionaste",
       "url": "https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 226568,
+      "name": "NO VOY A ODIARTE",
+      "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
     },
     {
       "added_at": null,

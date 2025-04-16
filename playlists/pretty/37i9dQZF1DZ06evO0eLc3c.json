@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 51103,
+  "num_followers": 51116,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAABYJdkKZDpzG/mS5zBvVcgu",
+  "snapshot_id": "Z/xQAAAAAAB9F0oVx7zO6W4PXE2EpwWV",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 244031,
-      "name": "Wild Leaves",
-      "url": "https://open.spotify.com/track/057qO32zoehoIz6lKdvP3t"
+      "duration_ms": 290543,
+      "name": "Up There Down There",
+      "url": "https://open.spotify.com/track/3G1qf3HSMxuTpOrTfh3TPt"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 290543,
-      "name": "Up There Down There",
-      "url": "https://open.spotify.com/track/3G1qf3HSMxuTpOrTfh3TPt"
+      "duration_ms": 244031,
+      "name": "Wild Leaves",
+      "url": "https://open.spotify.com/track/057qO32zoehoIz6lKdvP3t"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 331103,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x"
+      "duration_ms": 468863,
+      "name": "Where Duty Calls",
+      "url": "https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 468863,
-      "name": "Where Duty Calls",
-      "url": "https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI"
+      "duration_ms": 331103,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 227213,
       "name": "April Fool",
       "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Space Monkey",
-      "url": "https://open.spotify.com/track/6rH42cutB9ZnEmTwgFY6tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 304840,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Space Monkey",
+      "url": "https://open.spotify.com/track/6rH42cutB9ZnEmTwgFY6tq"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Joe / Piss Factory",
-        "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Piss Factory",
-      "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 72226,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Joe / Piss Factory",
+        "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Piss Factory",
+      "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
     },
     {
       "added_at": null,
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 396360,
-      "name": "Ain't It Strange",
-      "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
+      "duration_ms": 201800,
+      "name": "Pumping",
+      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 312440,
       "name": "Citizen Ship",
       "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Pumping",
-      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
+      "duration_ms": 396360,
+      "name": "Ain't It Strange",
+      "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
     },
     {
       "added_at": null,

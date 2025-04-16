@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume, co\-curated by cover artist Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,657 likes - 64 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,756 likes - 64 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 27 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
 | 28 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 |
 | 29 | [Mi KAMA](https://open.spotify.com/track/1SVTas8nbWcLvz0D8uHvBk) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Mi KAMA](https://open.spotify.com/album/08NlLGUI4aV6yOYfBAk75W) | 3:08 |
-| 30 | [if looks could kill](https://open.spotify.com/track/2w9lI8JcFAL3lCb0bFMRY8) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird: no rain, no flowers \(deluxe\)](https://open.spotify.com/album/4COdErCzwv0rQAFH594bol) | 3:13 |
-| 31 | [Can't Get Enough](https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Can't Get Enough](https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9) | 3:19 |
+| 30 | [Can't Get Enough](https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Can't Get Enough](https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9) | 3:19 |
+| 31 | [if looks could kill](https://open.spotify.com/track/2w9lI8JcFAL3lCb0bFMRY8) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird: no rain, no flowers \(deluxe\)](https://open.spotify.com/album/4COdErCzwv0rQAFH594bol) | 3:13 |
 | 32 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 |
 | 33 | [Savannah](https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Savannah](https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz) | 3:24 |
 | 34 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 |
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 38 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
 | 39 | [Galt](https://open.spotify.com/track/7j5hpfBlM5TqY3DkXTpGq6) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Galt](https://open.spotify.com/album/23rvvEZD5sNeIV3yvZR2b7) | 3:05 |
 | 40 | [Ancient Light](https://open.spotify.com/track/42Xt27QoxLh1XxxG8ILEMI) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Ancient Light](https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl) | 3:34 |
-| 41 | [Love Will Find Me](https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist \(Gold Edition\)](https://open.spotify.com/album/2hPaUJ88PvHKtaz8HtaLKu) | 3:50 |
-| 42 | [Impossible](https://open.spotify.com/track/7E9EalF830tMPcu3JGzgMM) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Impossible](https://open.spotify.com/album/7gJifmJDQTPqMbByCsFZ55) | 3:14 |
+| 41 | [Impossible](https://open.spotify.com/track/7E9EalF830tMPcu3JGzgMM) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Impossible](https://open.spotify.com/album/7gJifmJDQTPqMbByCsFZ55) | 3:14 |
+| 42 | [Love Will Find Me](https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist \(Gold Edition\)](https://open.spotify.com/album/2hPaUJ88PvHKtaz8HtaLKu) | 3:50 |
 | 43 | [So What?](https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:38 |
 | 44 | [Footprints](https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Footprints](https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx) | 4:01 |
 | 45 | [Nichel](https://open.spotify.com/track/6USIYSkp1Fu2URHE1ptEuf) | [Alahsin](https://open.spotify.com/artist/1WIZEUGvpwPabtLcGTVFrF) | [Nichel](https://open.spotify.com/album/7GdtvwkG1Zd42hsS9FM03f) | 3:56 |
 | 46 | [God Shows Up](https://open.spotify.com/track/61YmoYlzwA2qR8uaMYsr77) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [God Shows Up](https://open.spotify.com/album/6gDaH2oBvUsvcl3hTtrRjz) | 3:05 |
-| 47 | [Simple Phrase](https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Simple Phrase](https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0) | 3:28 |
-| 48 | [I Don't Wanna Know](https://open.spotify.com/track/6nMkOqB2XpHVF09Ogxn7DI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Everything I Didn't Say](https://open.spotify.com/album/2KYarSTNNGsGXaq9vE1pjN) | 3:07 |
+| 47 | [I Don't Wanna Know](https://open.spotify.com/track/6nMkOqB2XpHVF09Ogxn7DI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Everything I Didn't Say](https://open.spotify.com/album/2KYarSTNNGsGXaq9vE1pjN) | 3:07 |
+| 48 | [Simple Phrase](https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Simple Phrase](https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0) | 3:28 |
 | 49 | [Superpowers](https://open.spotify.com/track/3ZNHrPveoYFrzPK2VYjbqn) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [Superpowers](https://open.spotify.com/album/1WeWNF52veaOmfcAagyUr7) | 3:37 |
 | 50 | [logout de riíto con la gata](https://open.spotify.com/track/5TJjnb0e3yc6T32Ziy5tpF) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [CAPICÚ](https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8) | 2:23 |
 | 51 | [Come Jesus Come](https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ) | 5:01 |

@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/1vyoUffD7rCKnTYe2zpr9y"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196142,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/2bpcS4vhQ0ngBKkHXGb2i8"
+    },
+    {
+      "album": {
         "name": "The Architects, Vol. 2: Alchemy",
         "url": "https://open.spotify.com/album/3y5y4TcD0jxfGIdBCQA8D3"
       },
@@ -746,7 +764,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 169000,
       "name": "Hologram",
       "url": "https://open.spotify.com/track/2m8Y05fk091Pb86hebmOCd"

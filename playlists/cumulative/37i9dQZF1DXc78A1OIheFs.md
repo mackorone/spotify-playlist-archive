@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-254 songs - 14 hr 34 min
+255 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Post High Slide](https://open.spotify.com/track/0Oy5bmDDnMpqCv8eYpPqTM) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Post High Slide](https://open.spotify.com/album/4yIdXuxYCX87HG4l2PnYCg) | 3:36 | 2025-03-20 | 2025-03-28 |
 | [POSTAL](https://open.spotify.com/track/7aK38P1i3t9OuvQelbDffo) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [POSTAL](https://open.spotify.com/album/4vcokRs3TMvHwLUWo1OXsG) | 2:35 | 2024-05-20 | 2024-08-16 |
 | [Poster Child](https://open.spotify.com/track/4sDjLipNP96jVxQHUcHUdy) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Poster Child](https://open.spotify.com/album/5IFuUoLgYyVAWR9BJp7Ytn) | 3:22 | 2024-09-19 | 2024-11-08 |
-| [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 | 2024-08-15 |  |
+| [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 | 2024-08-15 | 2025-04-16 |
 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 | 2024-05-20 |  |
 | [Problem](https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [AP](https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm) | [Problem](https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97) | 3:12 | 2024-10-24 | 2025-01-14 |
 | [Problem](https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Problem](https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD) | 3:58 | 2025-01-30 |  |
@@ -231,6 +231,7 @@
 | [Telling Lies](https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Dime](https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd) | 2:11 | 2025-03-27 |  |
 | [Thank You](https://open.spotify.com/track/2E9n355lbsJgJg6RuZXL3a) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Thank You](https://open.spotify.com/album/3ZRB4IHu9GAChXsVio9bDP) | 3:10 | 2024-05-20 | 2024-11-08 |
 | [That's Life, Baby!](https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [That's Life, Baby!](https://open.spotify.com/album/08Ideg6by3nkyndCpHeuhq) | 2:52 | 2025-02-27 |  |
+| [The Eyes](https://open.spotify.com/track/4MpAtRHh8dckqOar0vlLBp) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [The Eyes](https://open.spotify.com/album/5vs2sQgZRYm2QPWO7NWs27) | 3:17 | 2025-04-10 |  |
 | [The Moment](https://open.spotify.com/track/2SoLQFVozStiRRyptGbkmW) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [The Moment](https://open.spotify.com/album/41FS6HFv3K8xX66nuv3269) | 4:03 | 2024-09-12 | 2024-11-08 |
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-20 |  |
 | [The War On Art](https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [The War On Art](https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe) | 3:04 | 2024-05-20 | 2025-01-24 |

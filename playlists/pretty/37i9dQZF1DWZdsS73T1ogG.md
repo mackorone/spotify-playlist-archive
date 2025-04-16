@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,313 likes - 143 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,368 likes - 143 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 15 | [Amber \(with Omar Courtz\)](https://open.spotify.com/track/3XoLRrcg9ga7Op6Y6NIdpn) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LOS FLAVORZ](https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk) | 3:06 |
 | 16 | [TE CANTO BAJITO](https://open.spotify.com/track/3I1jcOmPwnzUR5yduDK3yb) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [TE CANTO BAJITO](https://open.spotify.com/album/7BATLek9MLvWQmb6BWGzJh) | 2:58 |
 | 17 | [Los Rockstar No Van Al Cielo](https://open.spotify.com/track/5bh8LBXTKPJ8nl9yWuonqo) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Los Rockstar No Van Al Cielo](https://open.spotify.com/album/0KOrCMi72n2oZDsorvS3vn) | 3:50 |
-| 18 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
+| 18 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
 | 19 | [Tipz & Trickz](https://open.spotify.com/track/0JP27lPyI1QZDO80cZ6SRq) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:41 |
 | 20 | [SHORTY](https://open.spotify.com/track/6yo7twmT3qR67UBiW9n7j6) | [dreyx](https://open.spotify.com/artist/6KYyEAqF4NYp7i4YrgjHh4), [Menor Bronx](https://open.spotify.com/artist/27vVGBA5f8N22Jmdf8Gs09) | [SHORTY](https://open.spotify.com/album/5MbdcZXwGrs1JybR8LnH0P) | 1:52 |
 | 21 | [H.I.M.](https://open.spotify.com/track/1raPPxkstNnTmg6EmFCX0j) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [H.I.M.](https://open.spotify.com/album/6ZQICkkwdOzHuS8OHYIGxF) | 2:10 |

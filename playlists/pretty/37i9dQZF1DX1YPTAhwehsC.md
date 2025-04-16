@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Wiz Khalifa
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,360 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,373 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 12 | [UKRAINE](https://open.spotify.com/track/1ZAUJfeyXVwmcqu5qX7A0e) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [UKRAINE](https://open.spotify.com/album/4EzS3KcSeRTnbBJqcTakh6) | 2:10 |
 | 13 | [Twerkin Wit Ya Friends](https://open.spotify.com/track/1SMzMtlnawoUV6ssFd7rZ7) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Twerkin Wit Ya Friends](https://open.spotify.com/album/1pXzPq1OwY2mIw1pvDvIt0) | 2:40 |
 | 14 | [Chill Guy \(with Kyle Richh\)](https://open.spotify.com/track/5koLyxl6fWprtuT1TKlZ35) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Chill Guy](https://open.spotify.com/album/36iq2WKqQKVStO1sfAAlv4) | 3:20 |
-| 15 | [Speed It Up](https://open.spotify.com/track/2sIcNAbHwM6NybKhIF3frR) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ) | [Speed It Up](https://open.spotify.com/album/38EnkkjO51PwsqyVl239yS) | 1:52 |
+| 15 | [Speed It Up \- feat\. Ohthatsmizz](https://open.spotify.com/track/2sIcNAbHwM6NybKhIF3frR) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs) | [Speed It Up](https://open.spotify.com/album/38EnkkjO51PwsqyVl239yS) | 1:52 |
 | 16 | [Did Me Wrong](https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:57 |
 | 17 | [Disgusted](https://open.spotify.com/track/1izgz7mqWzI5QR3E8y7nQI) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Disgusted](https://open.spotify.com/album/329JqKc4yslwBZ4EVI0spK) | 2:16 |
 | 18 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 |

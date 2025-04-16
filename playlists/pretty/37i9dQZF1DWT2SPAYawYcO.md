@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: ONEFOUR, Lana Del Rey, Dean Lewis, Spacey Jane, Shaboozey, Myles Smith, Bon Iver + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,032 likes - 95 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,046 likes - 95 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 16 | [2 Go](https://open.spotify.com/track/6bEreC7Z1UdHbMC7JDhcwm) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [2 Go](https://open.spotify.com/album/6ZRtBlfIqF1NOySOUrjz2p) | 4:06 |
 | 17 | [Dreams Don’t Die](https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dreams Don’t Die](https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z) | 3:01 |
 | 18 | [The Eyes](https://open.spotify.com/track/4MpAtRHh8dckqOar0vlLBp) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [The Eyes](https://open.spotify.com/album/5vs2sQgZRYm2QPWO7NWs27) | 3:17 |
-| 19 | [Worth My Time](https://open.spotify.com/track/0JAuDzXHjs0hn960PRWBv2) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [Worth My Time](https://open.spotify.com/album/5J3JGZWgGqMAtz561EGrdh) | 3:01 |
+| 19 | [Worth My Time](https://open.spotify.com/track/0JAuDzXHjs0hn960PRWBv2) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [Worth My Time](https://open.spotify.com/album/5J3JGZWgGqMAtz561EGrdh) | 3:07 |
 | 20 | [waltz](https://open.spotify.com/track/0WxQXx1MwC6LpIzEGZiQSE) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [waltz](https://open.spotify.com/album/48Ry2sdfkU5r4SHmaP9olC) | 2:43 |
 | 21 | [Don’t Happy, Be Worry](https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Don’t Happy, Be Worry](https://open.spotify.com/album/0oINbUTZmShChwgDUZRJdd) | 3:09 |
 | 22 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |

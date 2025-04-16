@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Georgie Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,567 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,591 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 42 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
 | 43 | [Loud Enuff](https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Loud Enuff](https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR) | 2:57 |
 | 44 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
-| 45 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
-| 46 | [Robocop](https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [B Live 247](https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Robocop](https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT) | 3:01 |
+| 45 | [Robocop](https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [B Live 247](https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Robocop](https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT) | 3:01 |
+| 46 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
 | 47 | [I See You](https://open.spotify.com/track/1h9CeTtiXEJ6aPf3CwTb0s) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [I See You](https://open.spotify.com/album/2iGupYncg0V5MfQYVzcGI8) | 3:20 |
 | 48 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 |
 | 49 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |

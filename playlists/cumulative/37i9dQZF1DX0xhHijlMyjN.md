@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-250 songs - 15 hr 54 min
+251 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 | 2023-06-09 |  |
 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 | 2023-06-09 |  |
 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 | 2023-06-09 |  |
-| [Salsa Con Reggaetón](https://open.spotify.com/track/7KnfMJhMvciKC9TKEWVXi8) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR) | [Hombres Con Pañales](https://open.spotify.com/album/0hS0znsJelROTBJXG6l8sT) | 3:25 | 2024-06-18 |  |
+| [Salsa Con Reggaetón](https://open.spotify.com/track/7KnfMJhMvciKC9TKEWVXi8) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR) | [Hombres Con Pañales](https://open.spotify.com/album/0hS0znsJelROTBJXG6l8sT) | 3:25 | 2024-06-18 | 2025-04-16 |
 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 | 2023-06-09 |  |
 | [Samba de Janeiro](https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB) | [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba de Janeiro](https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR) | 2:48 | 2023-06-09 |  |
 | [Sarandonga](https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Lola Lolita Lola](https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY) | 4:00 | 2023-06-09 |  |
@@ -257,6 +257,7 @@
 | [Y Viva España](https://open.spotify.com/track/4Q2vhlUXoWWzZQeKn7OreC) | [Manolo Escobar](https://open.spotify.com/artist/0Zt1X6eSDuttQS3JHIyCvZ) | [La Copla, Vol.4](https://open.spotify.com/album/4pCNgOQ0N1D9HyVJ4J2RzS) | 3:36 | 2023-06-09 |  |
 | [Y Yo Sigo Aqui \- Spanglish](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 | 2023-06-09 |  |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:35 | 2023-06-09 |  |
+| [Yo No Te Pido La Luna](https://open.spotify.com/track/64pKMpdxBO5xJrrIksqeod) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Il Meglio Di Fiordaliso: Grandi Successi](https://open.spotify.com/album/3jQ3TS6VjzytFuOoCdqE8x) | 4:43 | 2024-06-18 |  |
 | [Yo Quiero Bailar](https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd) | [Sonia Y Selena](https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8) | [Yo Quiero Bailar](https://open.spotify.com/album/1Z3oRjE6kaIhj9GS0IFwxF) | 3:33 | 2023-06-09 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

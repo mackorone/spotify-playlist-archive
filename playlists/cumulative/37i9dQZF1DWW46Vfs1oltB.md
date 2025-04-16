@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> C JAMM\(씨잼\)\)
 
-1,502 songs - 3 day 9 hr 22 min
+1,503 songs - 3 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1265,6 +1265,7 @@
 | [Tea Bagging](https://open.spotify.com/track/5B89xXCe4vrfN6i1XyJ2zQ) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [RAP:PUBLIC Episode.2](https://open.spotify.com/album/2EnJRg31hBB44HTbl7MpA4) | 3:45 | 2024-12-04 | 2025-04-09 |
 | [TEAM NY In The House \(Feat\. PUFF DAEHEE\)](https://open.spotify.com/track/54h9zrzO1pw5EdOwKV4dCO) | [TEAM NY](https://open.spotify.com/artist/6l1aV2YBZdFqWnNlsobpl7), [PUFF DAEHEE](https://open.spotify.com/artist/3JZuQV3uJJtoDkkWDNt1oJ) | [TEAM NY In The House](https://open.spotify.com/album/2UmGWWFcYHCzPijx7zKEgu) | 4:09 | 2022-08-12 | 2022-12-10 |
 | [Tear drops](https://open.spotify.com/track/6oSMbec9p39YW31XfFULOG) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [2 Kids On The Block \- Part.2](https://open.spotify.com/album/57xErJJ3FrLxw2o6j37F9B) | 3:29 | 2023-08-28 | 2024-03-09 |
+| [Tear The House Down](https://open.spotify.com/track/1ptGLWjNKQZjhRDT8XrIL1) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Like Water](https://open.spotify.com/album/1gEATf2Pk6xvPthhtWX3fS) | 2:32 | 2025-04-15 |  |
 | [Tech Fleece Freestyle \(feat\. KHAN & hangzoo\)](https://open.spotify.com/track/4mGxovGDAKhPTE8Fns9vDK) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ) | [Beauty Of The Pain](https://open.spotify.com/album/23rllHSTPitNWwQKd4VJZ2) | 3:15 | 2022-12-27 | 2023-01-04 |
 | [TESTIFY \(Feat\. Lil Cherry\)](https://open.spotify.com/track/3Hzei2nJPSCdCtTlzWjwhM) | [CROWN J](https://open.spotify.com/artist/0MRiOTUJTYnn2DFzdKwRPH), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [TESTIFY \(Feat\. Lil Cherry\)](https://open.spotify.com/album/4rm7tT2f3JQVSIymqeassg) | 2:46 | 2024-03-26 | 2024-06-05 |
 | [Thank you](https://open.spotify.com/track/7n8txCop7N6Cqdw5hhXvBQ) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Thank you](https://open.spotify.com/album/13hzcWq5bzDBiB0997zK00) | 2:16 | 2022-03-03 | 2022-06-14 |

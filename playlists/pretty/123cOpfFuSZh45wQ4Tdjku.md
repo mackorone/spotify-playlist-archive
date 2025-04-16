@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 970 likes - 321 songs - 16 hr 18 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 973 likes - 322 songs - 16 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -329,5 +329,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 319 | [Fursuit Friday](https://open.spotify.com/track/1X1EVr6b5g2YUv0uiOEi71) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:26 |
 | 320 | [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 |
 | 321 | [Hyperactive](https://open.spotify.com/track/31JEUb4xIhZi5ZO3WVh6hE) | [The Lazy Tails](https://open.spotify.com/artist/7GmTFT9mv4s0VHTti5GRGi) | [Hyperactive](https://open.spotify.com/album/6hf1roiQQyKiTVdp5jVPXG) | 2:34 |
+| 322 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 |
 
-Snapshot ID: `AAABc69ruhINu+P0wye4fKPN9inWBZ/S`
+Snapshot ID: `AAABdIcdL5ARD8fqY6LGoHxPlY9zYTAt`

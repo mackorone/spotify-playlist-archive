@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que ta subiendo\. Foto: Chimbala
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,415 likes - 85 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,454 likes - 85 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 22 | [PA' QUE BAILES](https://open.spotify.com/track/2t6MAiKwBnsXV6os21BBet) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [NEW AIR'S](https://open.spotify.com/album/3HUCThS7hjZsAsWhDdhGeU) | 1:48 |
 | 23 | [Banana](https://open.spotify.com/track/2U7dwtUr03JZpaFacfGGRp) | [Karina y Marina](https://open.spotify.com/artist/4B6Hy10aNxuD1TebKDgzAe), [Hugo23](https://open.spotify.com/artist/7AYmFR2ZafMeVqMc0Rf2KZ), [Osquitar](https://open.spotify.com/artist/5smLedhD7CXY0jD44PIbuD) | [Banana](https://open.spotify.com/album/0VM4T3xjIWycuL6ruDRltx) | 3:09 |
 | 24 | [Todas Mienten](https://open.spotify.com/track/20Vc6KmPFJixmDq9ZkJdcZ) | [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Todas Mienten](https://open.spotify.com/album/5mgPda10MxzNBE6Q0pUlHb) | 2:56 |
-| 25 | [Pa Chocala](https://open.spotify.com/track/4EJo0WJ9ZlISjfBnUVRj9D) | [El Sicokario](https://open.spotify.com/artist/2R2Qev4Igr0JpO9G8kbJc6), [El Peluche 42](https://open.spotify.com/artist/7x6aLKfE82ZunWSBtjLK94) | [Pa Chocala](https://open.spotify.com/album/73fx47ffrcyfDO2jUqpMXN) | 2:40 |
+| 25 | [Pa Chocala](https://open.spotify.com/track/4EJo0WJ9ZlISjfBnUVRj9D) | [El Sicokario](https://open.spotify.com/artist/0Iyto0WtZfIQeSHF5k1hun), [El Peluche 42](https://open.spotify.com/artist/7x6aLKfE82ZunWSBtjLK94) | [Pa Chocala](https://open.spotify.com/album/73fx47ffrcyfDO2jUqpMXN) | 2:40 |
 | 26 | [MODO SPORT](https://open.spotify.com/track/37vbeqIw7vdx8ucXce9i8w) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [MODO SPORT](https://open.spotify.com/album/7McuirnzBYlqwJWY7jbRAH) | 1:57 |
 | 27 | [Tu Ta To \- Remix](https://open.spotify.com/track/7lCYdPPjA0aX0ciaPrJSa2) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [El Mello 06](https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz), [Marino El Abusador](https://open.spotify.com/artist/1lInNxZswHjnOdwSXpugrw) | [Tu Ta To \(Remix\)](https://open.spotify.com/album/3eOAntTYGbUucgFvmiuO1V) | 2:23 |
 | 28 | [Atencion \- Remix](https://open.spotify.com/track/46VWSg0ZyMgrHNdCsGOECx) | [Bluemoney](https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Atencion \(Remix\)](https://open.spotify.com/album/20mxOzmnEsbP7CqDsWhML1) | 2:24 |

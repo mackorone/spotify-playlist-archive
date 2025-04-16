@@ -4,7 +4,7 @@
 
 > Schöne Ostern mit Osterhase, Ostereiern und der ganzen Familie.
 
-457 songs - 21 hr 26 min
+458 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Die Biene Maja](https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 2:38 | 2024-04-02 |  |
 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 | 2023-08-31 | 2024-04-19 |
 | [Die Herbstzeit ist da](https://open.spotify.com/track/2cjgPruvFDY3a29FgU8T4E) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Herbst ist da \- Die 25 schönsten Herbstlieder](https://open.spotify.com/album/3dOuVkISzkQo4jy2qNsBbg) | 3:29 | 2023-08-31 | 2024-10-21 |
-| [Die Jahresuhr](https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederkalender / Die Jahresuhr](https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW) | 3:52 | 2023-06-28 |  |
+| [Die Jahresuhr](https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederkalender / Die Jahresuhr](https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW) | 3:52 | 2023-06-28 | 2025-04-16 |
 | [Die Karawane zieht weiter](https://open.spotify.com/track/0l9edyzp7U2zFdvIHT0dEa) | [Karneval!](https://open.spotify.com/artist/4jPCWOIjl0rhs8XWhlq1pt) | [Karneval Megaparty 2011](https://open.spotify.com/album/0NMiaHTe8FYgxnge7H8F0n) | 3:17 | 2024-02-06 | 2025-03-06 |
 | [Die krassesten Schlitten](https://open.spotify.com/track/0hK6Ouhs3AKP1O7ma26ECE) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Das Weihnachtsalbum](https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4) | 2:59 | 2023-11-14 | 2025-02-27 |
 | [Die Laterne hat heut ihren großen Tag](https://open.spotify.com/track/7BC42JI3FLtA8hhuTl7TyY) | [Jürgen Fastje](https://open.spotify.com/artist/1fBCzTI3C3lLiBqyJU81PB) | [Kinderlieder, Teil 3](https://open.spotify.com/album/7oxfGQyy1dp8LAieSPZRP6) | 3:33 | 2023-11-07 | 2024-11-15 |
@@ -221,6 +221,7 @@
 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 | 2023-06-28 | 2024-09-10 |
 | [In der Disko an der Geisterbahn](https://open.spotify.com/track/0tLb0uP2Q4qtz67OrgP5uj) | [Burgfräulein Bö](https://open.spotify.com/artist/5q3QcfVaQH2pgpLXYkLK5a) | [Burgfräulein Bös Partyhits](https://open.spotify.com/album/4VpErYa4p7dHxH0GVW1ljU) | 2:52 | 2024-10-21 | 2024-11-05 |
 | [In der Disko an der Geisterbahn](https://open.spotify.com/track/0Cf54rLmoPvCl3qL4DNP5n) | [Patricia](https://open.spotify.com/artist/5uhEKaUlEsILfNbjIiyZKo) | [Tanz doch mit!](https://open.spotify.com/album/444GkGF5I3iqs8YTAJSWzz) | 2:58 | 2023-10-16 | 2023-11-06 |
+| [In der Osterhasenmalerwerkstatt](https://open.spotify.com/track/0AXxth46WNemndNzN5OSA4) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Hasengeschichte](https://open.spotify.com/album/3nYNwdW3Bf6W1CC8P7bA8c) | 2:08 | 2025-04-14 |  |
 | [In der Schlumpfenbäckerei](https://open.spotify.com/track/2sUEgIEUXVFTOvi74Ov916) | [Die Schlümpfe](https://open.spotify.com/artist/0ONNMDruuhqjpTB9uRhbYs) | [Oh Du Schlumpfige!](https://open.spotify.com/album/7GvN6zyNhoiM5u5UfOWRh5) | 2:57 | 2024-12-09 | 2024-12-31 |
 | [In Der Weihnachtsbäckerei](https://open.spotify.com/track/7HIu4LaRnvYb9RKRo24Ibu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Weihnachten mit KIDZ BOP](https://open.spotify.com/album/2WH3rGNtsmTn3dk0y4kB1c) | 2:54 | 2023-11-14 | 2023-11-18 |
 | [Jahreszeiten](https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Jahreszeiten](https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm) | 3:22 | 2024-04-26 | 2025-04-15 |

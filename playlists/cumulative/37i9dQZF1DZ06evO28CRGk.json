@@ -6,6 +6,32 @@
     {
       "album": {
         "name": "A Solas",
+        "url": "https://open.spotify.com/album/35mzELZsxoeAxsxaIrXCDa"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Dj Dacel",
+          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147301,
+      "name": "A Solas",
+      "url": "https://open.spotify.com/track/24w4Wpv4RYmvoHtYxNWQ8I"
+    },
+    {
+      "album": {
+        "name": "A Solas",
         "url": "https://open.spotify.com/album/3ZZnHpqJ7DA3GYMJDIxiDY"
       },
       "artists": [
@@ -24,7 +50,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 147301,
       "name": "A Solas",
       "url": "https://open.spotify.com/track/4a9cPsCXOQ4xH05P2b2NBS"
@@ -508,7 +534,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 180506,
       "name": "Danger",
       "url": "https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48"
@@ -2292,6 +2318,28 @@
       "duration_ms": 177126,
       "name": "Swarm",
       "url": "https://open.spotify.com/track/1HJVvCidVjVdcv0epjRsq0"
+    },
+    {
+      "album": {
+        "name": "The Stupendous Adventures of Marco Polo",
+        "url": "https://open.spotify.com/album/5r5uYvL1suWVjWoHZFDRrQ"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "PROMISE",
+          "url": "https://open.spotify.com/artist/2LTPd2Sj8WO9QyOUz6VK0u"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188293,
+      "name": "The Bridge",
+      "url": "https://open.spotify.com/track/6nWkQUk7tuu2Dg2oUg0lII"
     },
     {
       "album": {

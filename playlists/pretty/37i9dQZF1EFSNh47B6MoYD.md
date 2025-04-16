@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 67 | [Conectando \(Conectando\)](https://open.spotify.com/track/2ikhylgjcAPjpHyVGgm56W) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:35 |
 | 68 | [Primero Muerta](https://open.spotify.com/track/6meWroBtBSUwcTfDFZ98ym) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:16 |
 | 69 | [Mi Mujer Es un Policia](https://open.spotify.com/track/0W9DlZs84KztEtex3eHg99) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Tranquilo y Tropical](https://open.spotify.com/album/1gYTKWdnL1Cb5AAoJUL1NY) | 4:34 |
-| 70 | [Hechicera](https://open.spotify.com/track/0PaAM2fi2zOHrJN7QR34AY) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/1ZVF58hLH31xOaBAwFsej6) | 3:38 |
-| 71 | [El Lugar Que Me Vio Nacer](https://open.spotify.com/track/3YBfSs056lKJKGMPgCjjDF) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:39 |
+| 70 | [El Lugar Que Me Vio Nacer](https://open.spotify.com/track/3YBfSs056lKJKGMPgCjjDF) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:39 |
+| 71 | [Hechicera](https://open.spotify.com/track/0PaAM2fi2zOHrJN7QR34AY) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/1ZVF58hLH31xOaBAwFsej6) | 3:38 |
 | 72 | [Si Estas Paredes Hablaran](https://open.spotify.com/track/3OrFxB3qMlN1pUQdZegMOa) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [Perfecto](https://open.spotify.com/album/3Pe7We0e6yWS59uuL3aJH4) | 3:46 |
 | 73 | [Mi Mejor Mitad](https://open.spotify.com/track/5TDPTAgxdp3i3tWr3v50Xu) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:23 |
 | 74 | [Caída Libre](https://open.spotify.com/track/3tQo4LCoLO0XRvIYKdFTg7) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Desnuda](https://open.spotify.com/album/0x1njlKQdxOQD1HtcQsOd3) | 3:06 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 141 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 142 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbuyVAAAAAARWfanTENn3iQq/7o4V4EZ`
+Snapshot ID: `Abu39AAAAAAKMXSZyIx7qZBv4NU1UM/B`

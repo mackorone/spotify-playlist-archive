@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: G Perico
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,137 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,220 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 29 | [Tweaker \(feat\. Lil Wayne\) \- Remix](https://open.spotify.com/track/16m5nuykE5WbvIjSAFvK6E) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tweaker \(Remix\)](https://open.spotify.com/album/6bBfMv4a8sG6Qj8N1naxuX) | 3:38 |
 | 30 | [4 Shots Of Your Body](https://open.spotify.com/track/76dnKp2xRcXlW2LFbKlqes) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [4 shots of your body](https://open.spotify.com/album/7wB1tq2QocDBUK03Rk5AfG) | 2:44 |
 | 31 | [She Said \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Chilli Season](https://open.spotify.com/album/5H4WujKtDwCEdP1dsvxpwh) | 1:50 |
-| 32 | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yé](https://open.spotify.com/artist/6kE7ZdPoVgmtcwcIgm9QFr) | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
+| 32 | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yé](https://open.spotify.com/artist/3BZbaVVOuBOsvV4eMLSEDN) | [Wheels Fall Off \(feat\. Ye\)](https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb) | 2:01 |
 | 33 | [Back 2 Back](https://open.spotify.com/track/0ElGHlbkkccOWhMWOYmFiQ) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Back In Bidness](https://open.spotify.com/album/4HSp7P3k3jmgx4jsycE7of) | 2:24 |
 | 34 | [DOLLAR menu](https://open.spotify.com/track/4uSaaHuvtIo1qIdWgsX4AH) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [DOLLAR menu](https://open.spotify.com/album/2uA1w90cupy2tS1FsUM2rB) | 4:24 |
 | 35 | [Ricky's](https://open.spotify.com/track/2sWQ6NVSI3QdDuIUeUbBOK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Ricky's](https://open.spotify.com/album/4uAkLHnJYQoEsgdmP0fNFR) | 2:38 |

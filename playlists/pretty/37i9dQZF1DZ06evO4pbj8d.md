@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,979 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,983 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 49 | [Memphis](https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Memphis](https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s) | 4:06 |
 | 50 | [this little lighter of mine \(joy version\)](https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [this little lighter of mine \(joy version\)](https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4) | 3:49 |
 
-Snapshot ID: `Z/r+gAAAAABEPz3ndt9h0hhE/YbxAPNd`
+Snapshot ID: `Z/xQAAAAAACtsnqoHZd6JOeNreuZsxj1`

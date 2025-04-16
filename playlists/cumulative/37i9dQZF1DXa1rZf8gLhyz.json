@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "A Phonecall Away",
+        "url": "https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD"
+      },
+      "artists": [
+        {
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152733,
+      "name": "A Phonecall Away",
+      "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
+    },
+    {
+      "album": {
         "name": "A Restless Night",
         "url": "https://open.spotify.com/album/2qJanXpxnuQ7AWLVucwXO3"
       },
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 197751,
       "name": "Flowers on the Table",
       "url": "https://open.spotify.com/track/6vf2tR31jh8qeQw0UwrllP"
@@ -6665,6 +6683,24 @@
     },
     {
       "album": {
+        "name": "Minding Omni",
+        "url": "https://open.spotify.com/album/58AhL1pQIPmfQc5xSbJWwm"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cole",
+          "url": "https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137816,
+      "name": "Minding Omni",
+      "url": "https://open.spotify.com/track/1KKairxiB06JDRBDtLtfOB"
+    },
+    {
+      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ"
       },
@@ -7396,10 +7432,28 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 172082,
       "name": "Not Tonight",
       "url": "https://open.spotify.com/track/7LAsmwVpgaNGin3DwX9YmF"
+    },
+    {
+      "album": {
+        "name": "Nothing Like Home",
+        "url": "https://open.spotify.com/album/2EfUCSCnXzADrYxMfT1oy6"
+      },
+      "artists": [
+        {
+          "name": "Degli Scalzi",
+          "url": "https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Nothing Like Home",
+      "url": "https://open.spotify.com/track/3sDNFPDQ90gLKk9cRuPPjb"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Lucky Brown & Rei.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,139 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,124 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
+| 1 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
 | 2 | [Luna Llena](https://open.spotify.com/track/553i3XMYW7vbJzRzQa8Yqo) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Luna Llena](https://open.spotify.com/album/3SyZgRsKV4bqH8Zdg3yStY) | 3:30 |
 | 3 | [Escarlata \- Remix](https://open.spotify.com/track/3A6idnsMX8VwWWzD7GTnBr) | [eleven1.1](https://open.spotify.com/artist/1yh29osKJYH6l9JlPFgpLY), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Escarlata \(Remix\)](https://open.spotify.com/album/47HEW3fj6xOEa3fuox0zS0) | 4:43 |
 | 4 | [Instinto](https://open.spotify.com/track/7jE7CQhkmGW8ENmPRpVHXb) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [Instinto](https://open.spotify.com/album/4Pvnapg8SdNVRvA6Xv75xo) | 2:14 |

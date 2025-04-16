@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Sech, Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,046 likes - 58 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,045 likes - 58 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 30 | [La Bandera](https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [La Bandera](https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit) | 2:40 |
 | 31 | [Una boda en Las Vegas](https://open.spotify.com/track/58UqX83GYOHQFbDsmpayXc) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Una boda en Las Vegas](https://open.spotify.com/album/7GPoKpYUloKF1rXiwx60km) | 3:14 |
 | 32 | [Fiesta](https://open.spotify.com/track/1atYmd4arC3jqNuKyYWQ0t) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta](https://open.spotify.com/album/3kZvskU8KnmX8ZMJnSKJj4) | 3:54 |
-| 33 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
+| 33 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
 | 34 | [Jacobo Grinberg](https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Jacobo Grinberg](https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t) | 4:41 |
 | 35 | [Tipz & Trickz](https://open.spotify.com/track/0JP27lPyI1QZDO80cZ6SRq) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:41 |
 | 36 | [LA ISLA](https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [LA ISLA](https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71) | 2:15 |

@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 40831,
+  "num_followers": 40851,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "Hoy y Ayer",
+        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Cuban Nightmare",
+      "url": "https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "Pl\u00e1cido Domingo - Be My Love",
         "url": "https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 217133,
       "name": "\"Siboney\"",
       "url": "https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Hoy y Ayer",
-        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Cuban Nightmare",
-      "url": "https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV"
     },
     {
       "added_at": "2024-04-24 22:38:01",

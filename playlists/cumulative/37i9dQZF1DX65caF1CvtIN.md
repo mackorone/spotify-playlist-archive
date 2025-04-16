@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-241 songs - 10 hr 42 min
+242 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 | 2025-02-25 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2022-08-03 | 2025-01-22 |
 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2022-08-26 | 2025-04-09 |
-| [Reconciled](https://open.spotify.com/track/1WWVPdv9SIkSEoA9504Jbr) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reconciled](https://open.spotify.com/album/6eI8v5R0jKzkf2QxRLmbxD) | 2:20 | 2025-03-07 |  |
+| [Reconciled](https://open.spotify.com/track/1WWVPdv9SIkSEoA9504Jbr) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reconciled](https://open.spotify.com/album/6eI8v5R0jKzkf2QxRLmbxD) | 2:20 | 2025-03-07 | 2025-04-16 |
 | [Red Moon](https://open.spotify.com/track/5pjBpeey8Pu3bmagRRoYYT) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Red Moon](https://open.spotify.com/album/09HHQfCYHpREMeigIqEQzk) | 3:12 | 2022-12-06 |  |
 | [Remembering](https://open.spotify.com/track/1W8N95zUTtQNllHu8Ki0sP) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Remembering](https://open.spotify.com/album/3JMZ7hTq1NBXWp9C9OZUMa) | 2:19 | 2022-08-03 | 2025-01-22 |
 | [Renaissance](https://open.spotify.com/track/5O0GM5NdPDLIhkxbQKlxFL) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Renaissance](https://open.spotify.com/album/5s31Hfu0bB2BiTuU9AbUKy) | 2:37 | 2022-08-26 |  |
@@ -198,6 +198,7 @@
 | [Silent Bath](https://open.spotify.com/track/1uEwaa90CsV4V2VsKQFZr6) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Silent Bath](https://open.spotify.com/album/2zhEoTaHrSYV8LIoivO4Bv) | 2:35 | 2022-10-14 |  |
 | [Silhouette](https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Silhouette](https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9) | 2:49 | 2022-08-03 | 2022-12-07 |
 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 | 2022-08-03 |  |
+| [Slowness Within](https://open.spotify.com/track/37yMja7S79WxV3EmvEKR5F) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Slowness Within](https://open.spotify.com/album/17sb0A1FVV1alrS66l2vIa) | 2:07 | 2025-04-15 |  |
 | [soft life](https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [soft life](https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8) | 2:15 | 2024-09-02 |  |
 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 | 2022-08-03 |  |
 | [Solemnity](https://open.spotify.com/track/5SFneEGsmuyDQ7icV9q7QS) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Solemnity](https://open.spotify.com/album/1Rut9Kb0vybVZUie7TNH7N) | 2:44 | 2022-08-03 | 2024-09-03 |

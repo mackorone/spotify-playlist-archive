@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,086 likes - 51 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,197 likes - 51 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 228000,
       "name": "Mochilero",
       "url": "https://open.spotify.com/track/1Uy0O9RgWFTbfzKD8xi6lI"
@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-16",
       "duration_ms": 123088,
       "name": "Peaceful Summer Night",
       "url": "https://open.spotify.com/track/73gwlneFEXRiaa8g2BAklM"
@@ -3927,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "Sozen",
+        "url": "https://open.spotify.com/album/2u1ImMWpBFbhAetLB2quSj"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220078,
+      "name": "Sozen",
+      "url": "https://open.spotify.com/track/296ebHdMXBcmBmkpY3lI8B"
+    },
+    {
+      "album": {
         "name": "Sparkling Aura",
         "url": "https://open.spotify.com/album/4YRy7ZlmTTxOYGGdMFNJ3e"
       },
@@ -4442,7 +4460,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Waking Dream 432 Hz",
       "url": "https://open.spotify.com/track/7oM7Spv22nZNVQksf4iriT"

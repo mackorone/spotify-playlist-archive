@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Repion.",
-  "num_followers": 26013,
+  "num_followers": 26023,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-04-10 22:00:09",
       "album": {
-        "name": "Te vi en el concierto",
-        "url": "https://open.spotify.com/album/2Aagt3zBoR5sNhY8Tysml5"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        },
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Te vi en el concierto",
-      "url": "https://open.spotify.com/track/4hKLszgJbdLdIKvWq6kCFM"
-    },
-    {
-      "added_at": "2025-04-10 22:00:09",
-      "album": {
         "name": "La matanza de Texas",
         "url": "https://open.spotify.com/album/1HOwpCbsknfSwH6ZBFM6WR"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 180386,
       "name": "La matanza de Texas",
       "url": "https://open.spotify.com/track/4SgXWK4j9rKd1gVk1Ul0WY"
+    },
+    {
+      "added_at": "2025-04-10 22:00:09",
+      "album": {
+        "name": "Te vi en el concierto",
+        "url": "https://open.spotify.com/album/2Aagt3zBoR5sNhY8Tysml5"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        },
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Te vi en el concierto",
+      "url": "https://open.spotify.com/track/4hKLszgJbdLdIKvWq6kCFM"
     },
     {
       "added_at": "2025-04-10 22:00:09",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-04-10 22:00:09",
       "album": {
+        "name": "Al Dente",
+        "url": "https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm"
+      },
+      "artists": [
+        {
+          "name": "Supercremalleras",
+          "url": "https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Al Dente",
+      "url": "https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh"
+    },
+    {
+      "added_at": "2025-04-10 22:00:09",
+      "album": {
         "name": "Ni\u00f1os Perdidos",
         "url": "https://open.spotify.com/album/6N9efWQI7dL4z2uMAkPGV8"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 207124,
       "name": "4 Impulsos M\u00e1s",
       "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
-    },
-    {
-      "added_at": "2025-04-10 22:00:09",
-      "album": {
-        "name": "Al Dente",
-        "url": "https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm"
-      },
-      "artists": [
-        {
-          "name": "Supercremalleras",
-          "url": "https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Al Dente",
-      "url": "https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh"
     },
     {
       "added_at": "2025-04-10 22:00:09",

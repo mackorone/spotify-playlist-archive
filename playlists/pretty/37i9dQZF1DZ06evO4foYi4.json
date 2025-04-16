@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 53377,
+  "num_followers": 53382,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAADRsex2VYSbGoiYi+X4UmAa",
+  "snapshot_id": "Z/xQAAAAAADf6DohRycsyxfuoiyj/2GG",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Marrow",
-      "url": "https://open.spotify.com/track/4N0pXHQWDG2Q7SRqZb7ZVd"
+      "duration_ms": 245040,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 245040,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
+      "duration_ms": 204106,
+      "name": "Marrow",
+      "url": "https://open.spotify.com/track/4N0pXHQWDG2Q7SRqZb7ZVd"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Hombre Roto",
-      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
+      "duration_ms": 178722,
+      "name": "El Mero Cero",
+      "url": "https://open.spotify.com/track/7065b9GPhjgGMol6fLZdBZ"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 178722,
-      "name": "El Mero Cero",
-      "url": "https://open.spotify.com/track/7065b9GPhjgGMol6fLZdBZ"
+      "duration_ms": 201533,
+      "name": "Hombre Roto",
+      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 70520,
+      "name": "We Put a Pearl in the Ground",
+      "url": "https://open.spotify.com/track/07MmQh3ypVM1SrIISzm8fd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 208880,
       "name": "Champagne Year",
       "url": "https://open.spotify.com/track/402AC8ujDRzIsJWWdfGKhR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Nacen Gritando",
-        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 226578,
-      "name": "Pulga",
-      "url": "https://open.spotify.com/track/3k9mtrogWx3tCrz8OmdTu3"
     },
     {
       "added_at": null,

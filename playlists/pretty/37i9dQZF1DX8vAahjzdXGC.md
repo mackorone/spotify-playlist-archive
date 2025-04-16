@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Stephanie Poetri, DAESUNG, hingga Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,531 likes - 89 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,543 likes - 89 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 32 | [Hourglass Reverie](https://open.spotify.com/track/3jPKfIQXRWeADuTMdG0Itr) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Hourglass Reverie](https://open.spotify.com/album/3g9PzlwyA8Hz8BMOxlJLHo) | 3:27 |
 | 33 | [Berjanji untuk tak berjanji](https://open.spotify.com/track/45jvGiaEQFGk4OaAdJhMDK) | [L.Y.O.N](https://open.spotify.com/artist/011lDaj7WzDKxGzz3pFGHA) | [Berjanji untuk tak berjanji](https://open.spotify.com/album/5eVc6wH6G5o71uu9saJwWg) | 3:53 |
 | 34 | [Seakan Ku Tak Ada](https://open.spotify.com/track/6wkWh72bSNRnuDhTM27AMs) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [dear aa](https://open.spotify.com/album/2oy6Vw4KefIUaLDwxchV2s) | 4:38 |
-| 35 | [Can we rewind the time?](https://open.spotify.com/track/4rXWgg1TubNNQpReXOAypN) | [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Can we rewind the time?](https://open.spotify.com/album/1714ufe5qFtyepmse6lqZk) | 5:36 |
+| 35 | [Can we rewind the time?](https://open.spotify.com/track/4rXWgg1TubNNQpReXOAypN) | [WILD](https://open.spotify.com/artist/5wiNMYMncIaYexr00AbVh8) | [Can we rewind the time?](https://open.spotify.com/album/1714ufe5qFtyepmse6lqZk) | 5:36 |
 | 36 | [Sleep Talking](https://open.spotify.com/track/4JXozKyH40976h93brh4IG) | [The Toxhards](https://open.spotify.com/artist/6LOm4xDQLq8kmcRaZIzB2s) | [Sleep Talking](https://open.spotify.com/album/45Trk9FHzwjoqCFu0tMVhk) | 4:29 |
 | 37 | [Evangelic Girl is a Gun](https://open.spotify.com/track/426pPi8cBCE38QO4h6YC6V) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/3grkRzNvSjVrwCLg6fSlLR) | 3:03 |
 | 38 | [愛不宜遲 Not Too Late](https://open.spotify.com/track/6XuUa1kXTmQ68DBCi8j9OB) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [楚門 Dream Sober](https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo) | 3:16 |

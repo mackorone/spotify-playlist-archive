@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Tripov
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,271 likes - 96 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,299 likes - 96 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 12 | [Dari Kemarin](https://open.spotify.com/track/63V1GgVJ5RzwQ9V5V6Psr4) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Dari Kemarin](https://open.spotify.com/album/5nuOKWKTbrozwIxUMdEWD3) | 4:14 |
 | 13 | [Make It Right](https://open.spotify.com/track/13FEGzhM5qfcVijnLl50K7) | [Peraukertas](https://open.spotify.com/artist/1N0zNlPZswGRoDKMX9HPZH) | [Make It Right](https://open.spotify.com/album/6FbYAhUX8rlvH4j3uPFQMA) | 4:08 |
 | 14 | [CERITA LAUT PASANG](https://open.spotify.com/track/2T6jZ6LuR7oler0a2OP0Oe) | [Figura Renata](https://open.spotify.com/artist/4l7rQ4b0SprtkOMgfMRDN5) | [CERITA LAUT PASANG](https://open.spotify.com/album/0gd32w9MErgSBPJDhelIcZ) | 4:38 |
-| 15 | [Menangkapnya](https://open.spotify.com/track/4mDUemYFleBBui4BRn6zMH) | [Anggun Priambodo](https://open.spotify.com/artist/77kyYpqO5DJuFfo08h4pDr) | [Menangkapnya \(2025\)](https://open.spotify.com/album/3282OAEwwjOuivGd86Ib57) | 1:33 |
+| 15 | [Menangkapnya](https://open.spotify.com/track/4mDUemYFleBBui4BRn6zMH) | [Anggun Priambodo](https://open.spotify.com/artist/77kyYpqO5DJuFfo08h4pDr) | [Menangkapnya](https://open.spotify.com/album/3282OAEwwjOuivGd86Ib57) | 1:33 |
 | 16 | [Beralih](https://open.spotify.com/track/2idjIFh2881kQFEMNOvKSo) | [Terbit Dari Selatan](https://open.spotify.com/artist/2nydh1CUw2nxO9LYt7y3J0) | [Beralih](https://open.spotify.com/album/0geNK6W1wTH44xPKxTDw0c) | 4:12 |
 | 17 | [Gumam](https://open.spotify.com/track/7kGQoEXrUR7aBIkgJCwEnZ) | [Iksan Skuter](https://open.spotify.com/artist/2M0JEUzgcRX62pMAVlhpxy) | [VIS A VIS](https://open.spotify.com/album/0dC1ZaxZ1BCEM3C5Au8yeX) | 4:32 |
 | 18 | [Selam Hati Sulam Diri](https://open.spotify.com/track/0VbhMLHUG4saLpC0Hx279n) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg), [Endah Widiastuti](https://open.spotify.com/artist/6mXxK8byLbjChJ8efKIDkt) | [Pekik Hening di Lantang Angan](https://open.spotify.com/album/3SnwMRRIpgLYYqRJ2Oebxi) | 4:29 |

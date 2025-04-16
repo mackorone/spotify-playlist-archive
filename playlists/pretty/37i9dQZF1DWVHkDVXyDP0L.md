@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Ruby Fields
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,928 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,932 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 8 | [Roundabout](https://open.spotify.com/track/4t2JCPEeCHZeRfsyVBNEZd) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Roundabout](https://open.spotify.com/album/20qSwY5Of1dCr5cjx9zYzp) | 3:45 |
 | 9 | [Coast Is Clear](https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Like Love](https://open.spotify.com/album/5sZBCDhQ1XkWmR8OxT4aFL) | 4:04 |
 | 10 | [Tattoos](https://open.spotify.com/track/0vaSjojLaOl2kFLeVccmyl) | [LILY B](https://open.spotify.com/artist/4DBqgdhqseFfJ9ArHkhzAv) | [Tattoos](https://open.spotify.com/album/5SzZ1cmzROTOGS8sVJyKq4) | 3:22 |
-| 11 | [Worth My Time](https://open.spotify.com/track/0JAuDzXHjs0hn960PRWBv2) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [Worth My Time](https://open.spotify.com/album/5J3JGZWgGqMAtz561EGrdh) | 3:01 |
+| 11 | [Worth My Time](https://open.spotify.com/track/0JAuDzXHjs0hn960PRWBv2) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [Worth My Time](https://open.spotify.com/album/5J3JGZWgGqMAtz561EGrdh) | 3:07 |
 | 12 | [On Fire](https://open.spotify.com/track/1u13t9rjkFTxG61LuYu1Wf) | [Fever Pitch](https://open.spotify.com/artist/4CjdIrW7d1MTVC1RVbupwR) | [On Fire](https://open.spotify.com/album/0n2LnojnnbQ06NeimsREym) | 3:30 |
 | 13 | [I Am Everything](https://open.spotify.com/track/3KtC8awsPhk1WPQLzbPeGU) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [I Am Everything](https://open.spotify.com/album/4wHOmqPIqa5shEdrpcQQ1D) | 2:52 |
 | 14 | [Moving To Melbourne](https://open.spotify.com/track/283KweTFyrXthYs4V8KxEH) | [DARTZ](https://open.spotify.com/artist/0ekrcj2YAoYh52dJzcvKJi) | [Moving To Melbourne](https://open.spotify.com/album/51ICcrXmuHuYOHO1SO0Bnf) | 3:25 |

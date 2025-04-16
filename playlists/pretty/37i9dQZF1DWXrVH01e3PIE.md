@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Neo Pistea en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,473 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,431 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 14 | [HAMBRE](https://open.spotify.com/track/4vjOvlbbmbkWbvObX4ALhd) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [HAMBRE](https://open.spotify.com/album/5dfgMlH7xMhCGZYJ8MMVCY) | 2:38 |
 | 15 | [HORA CERO](https://open.spotify.com/track/5elf7rWt5uFffJvluUfwon) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [HORA CERO](https://open.spotify.com/album/2TmuI8IEYfaR7UFcI6YBnf) | 3:51 |
 | 16 | [Bando](https://open.spotify.com/track/0CyJuu1z03pJtWI7loX9va) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Jowa](https://open.spotify.com/artist/5ljLrsS46u9DD1e2rWvcc5) | [Bando](https://open.spotify.com/album/61SFJyZpNmvtOb32mtROrD) | 2:15 |
-| 17 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
+| 17 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
 | 18 | [WE LOVE THAT SHIT](https://open.spotify.com/track/65fiS81RLXX2Fs4v4fqigW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAIKI](https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic) | 2:50 |
 | 19 | [DUELE](https://open.spotify.com/track/6CzozhzNVBfxmUthlZiYm4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Emirsito](https://open.spotify.com/artist/7h4m4bjcwfXV0zPRRNUaiB) | [TRAMPA AL TIEMPO](https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77) | 2:25 |
 | 20 | [EL TRAP LO MERECE](https://open.spotify.com/track/5leLPDRVm1lG6yDDXUSkFe) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [EL TRAP LO MERECE](https://open.spotify.com/album/1EkBelutAGR7YVuyY0fk8g) | 2:50 |

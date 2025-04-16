@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,181 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,182 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 21 | [Seattle](https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:33 |
 | 22 | [GRoCERIES](https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [GRoCERIES](https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu) | 3:46 |
 | 23 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 |
-| 24 | [123](https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:50 |
+| 24 | [420 in London](https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [420 in London](https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh) | 3:39 |
 | 25 | [LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 4:15 |
-| 26 | [420 in London](https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [420 in London](https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh) | 3:39 |
+| 26 | [123](https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:50 |
 | 27 | [Beef](https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU) | [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Beef](https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3) | 3:01 |
 | 28 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 |
 | 29 | [Touchdown \(feat\. Peezy & Murda Beatz\)](https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:52 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 36 | [McQueen](https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl) | [TrifeDrew](https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [McQueen](https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an) | 2:36 |
 | 37 | [Pray \(feat\. A$AP Ferg\)](https://open.spotify.com/track/00oeyRVsQcrVHHUR3wjgOw) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:36 |
 
-Snapshot ID: `Z/r+gAAAAABA4gthSlmO66Q4YBSYZEQ/`
+Snapshot ID: `Z/xQAAAAAAClul38VdMibadyRDKYp6ji`

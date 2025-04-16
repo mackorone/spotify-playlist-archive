@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31204,
+  "num_followers": 31206,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAQJE9uWV0Ezi8cpc2+cyOwjg06/NTa",
+  "snapshot_id": "AAAQKIDuboOx3xhvu0qf3PmfklmOf6yL",
   "tracks": [
     {
       "added_at": "2025-03-28 11:16:16",
@@ -43,6 +43,30 @@
       "duration_ms": 387495,
       "name": "For the Cold Country",
       "url": "https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7"
+    },
+    {
+      "added_at": "2025-04-15 17:12:47",
+      "album": {
+        "name": "CHROMA 009",
+        "url": "https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx"
+      },
+      "artists": [
+        {
+          "name": "DOVE",
+          "url": "https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF"
+        },
+        {
+          "name": "Kehina",
+          "url": "https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 288701,
+      "name": "CHROMA 009 KR36",
+      "url": "https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n"
     },
     {
       "added_at": "2025-04-09 09:19:19",

@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 8863,
+  "num_followers": 8864,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/r+gAAAAAAUrjJu5Bteh4u2zAKPVR74",
+  "snapshot_id": "Z/xQAAAAAABI87AoWMCngpIVz90o2wNc",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Naja",
+        "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
+      },
+      "artists": [
+        {
+          "name": "Pawas",
+          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 542837,
+      "name": "Naja",
+      "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resonant Bodies (Live)",
         "url": "https://open.spotify.com/album/4xZgFllOjdl5xPInHpiUXD"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 826911,
       "name": "En Route to Unfriending (Live)",
       "url": "https://open.spotify.com/track/5h12CCqstNZAeUJqYeTfCx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Naja",
-        "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
-      },
-      "artists": [
-        {
-          "name": "Pawas",
-          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 542837,
-      "name": "Naja",
-      "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
     },
     {
       "added_at": null,

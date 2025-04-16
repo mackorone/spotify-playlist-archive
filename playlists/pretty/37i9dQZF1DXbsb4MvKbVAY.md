@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa ELLIMEI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,062 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,067 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
 | 2 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
 | 3 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
-| 4 | [GUM](https://open.spotify.com/track/4fo0OT2CUmYuh1N6jpz1S2) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [GUM](https://open.spotify.com/album/1FowAd6rpHLlsbTYWAopjO) | 2:59 |
+| 4 | [Haluamanilainen, mietin sua pahalla \- Emma Gaala 2025 Live](https://open.spotify.com/track/6GdsfRTm1mjLgyCP5Qd653) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Haluamanilainen, mietin sua pahalla \(Emma Gaala 2025 Live\)](https://open.spotify.com/album/2QXiRw2Y032iqIuXDyaFOo) | 5:22 |
 | 5 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 |
 | 6 | [Paperihaavoja](https://open.spotify.com/track/7GdqPP7jriHMeDlXIMpZ7l) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Paperihaavoja](https://open.spotify.com/album/4VmHhco0tZOG1aAbrNOkZd) | 3:15 |
 | 7 | [Kirsikat](https://open.spotify.com/track/0RrtayzwGZd7rCvLgrDmMU) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kirsikat](https://open.spotify.com/album/7dWEiZ4iqA45KlrjXosIHQ) | 3:26 |
 | 8 | [Psykologiajalla](https://open.spotify.com/track/7IUfNT1mkuiL8l8vaLDZEh) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Psykologiajalla](https://open.spotify.com/album/1GOdDm9JcIgIlG8n2n73bt) | 2:53 |
-| 9 | [Haluamanilainen, mietin sua pahalla \- Emma Gaala 2025 Live](https://open.spotify.com/track/6GdsfRTm1mjLgyCP5Qd653) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Haluamanilainen, mietin sua pahalla \(Emma Gaala 2025 Live\)](https://open.spotify.com/album/2QXiRw2Y032iqIuXDyaFOo) | 5:22 |
+| 9 | [GUM](https://open.spotify.com/track/4fo0OT2CUmYuh1N6jpz1S2) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [GUM](https://open.spotify.com/album/1FowAd6rpHLlsbTYWAopjO) | 2:59 |
 | 10 | [Rich](https://open.spotify.com/track/4vhRYAg2gsHzcgb9mHxjN7) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Rich](https://open.spotify.com/album/6lwxh0r3dmw2mQ5LBH4UOG) | 2:31 |
 | 11 | [sydän täynnä kipuu](https://open.spotify.com/track/22wxrhjfetoi7Vp6Hwryhu) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim) | [sydän täynnä kipuu](https://open.spotify.com/album/0Olnej5OS9zqouctJWOeA0) | 2:18 |
 | 12 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 93 | [Diana](https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Diana](https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX) | 2:58 |
 | 94 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
 | 95 | [Rehellisesti](https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rehellisesti](https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI) | 3:10 |
-| 96 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
-| 97 | [T\-paita \(feat\. Bizi\)](https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:34 |
+| 96 | [T\-paita \(feat\. Bizi\)](https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:34 |
+| 97 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
 | 98 | [San Francisco Boy](https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [San Francisco Boy](https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb) | 2:34 |
 | 99 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
-| 100 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
+| 100 | [Ma Meilleure Ennemie ft\. Coldplay \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2FGPKZ6c4b0isCFyxLGiqv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/60vxf9FQqoBm0jafAK1oy5) | 3:21 |
 
-Snapshot ID: `Z/gxkAAAAAADuL2Ms/ccn2svLHoeuPTH`
+Snapshot ID: `Z/39EgAAAAD0QIFvhXnK4dpjxfVR6BYs`

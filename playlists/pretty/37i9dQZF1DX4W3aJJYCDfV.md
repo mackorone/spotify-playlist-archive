@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Bon Iver, Lana Del Rey, Loyle Carner and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,778 likes - 119 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,797 likes - 119 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

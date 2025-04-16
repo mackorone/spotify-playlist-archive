@@ -4,14 +4,14 @@
 
 > Brand new music from Monstercat, all in one place.
 
-959 songs - 2 day 6 hr 11 min
+960 songs - 2 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Ready For It?](https://open.spotify.com/track/7dMHikM2EFipQdSyDZbnsE) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [...Ready For It?](https://open.spotify.com/album/4DXlmR7JJ4epvcYOqL6jet) | 3:50 | 2023-05-25 | 2023-08-20 |
 | [1 Man Army](https://open.spotify.com/track/5PVplB3e8qidkOZrdHrbKg) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [1 MAN ARMY](https://open.spotify.com/album/0JiUH7A9KRrmt1P7sUB0ta) | 3:18 | 2025-02-28 |  |
 | [1975](https://open.spotify.com/track/5bQqkBDFptj1oNKoVDVsGI) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Paranoid Optimist](https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl) | 2:11 | 2022-05-06 | 2022-07-19 |
-| [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 | 2025-01-22 |  |
+| [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 | 2025-01-22 | 2025-04-16 |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-07 | 2022-08-20 |
 | [2hard2letgo \- Acoustic](https://open.spotify.com/track/6b7AC4lKNIuCMSVzDHOS18) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo \(Acoustic\)](https://open.spotify.com/album/65jfBY2rxFAiB26CmNGiMA) | 4:36 | 2022-12-06 | 2023-03-04 |
 | [2NITE](https://open.spotify.com/track/4DPQLiWUDwnQp9NJ57CgoW) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [2NITE](https://open.spotify.com/album/3utDd56IEEsiwsFweMkqfB) | 3:19 | 2023-01-05 | 2023-03-18 |
@@ -75,6 +75,7 @@
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |
 | [AUTOMATIC](https://open.spotify.com/track/4xYMDPAohsKkfsO2lHltOQ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [AUTOMATIC](https://open.spotify.com/album/3M7GhG2yRtLncbiLtDBm6D) | 2:50 | 2023-08-03 | 2023-12-14 |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-02-01 | 2022-04-13 |
+| [Avalon](https://open.spotify.com/track/2c02JeGzAP0p3CvCGcL9hN) | [DUALIS](https://open.spotify.com/artist/3mbXSrD5JfE4rJ5LO0qi2S), [Barzek](https://open.spotify.com/artist/7h1pW3dxGdsnX6sOKkRWkT), [Jethimself](https://open.spotify.com/artist/7LWHzPREhFBD9p6Wnigkli) | [Silk Selections 03](https://open.spotify.com/album/4qJ0fAlYJ9blLbhdkthxdA) | 2:56 | 2025-04-15 |  |
 | [Awakening](https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Tarjei Bjermeland](https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx) | [Awakening](https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I) | 3:52 | 2023-02-01 | 2023-04-20 |
 | [Añoranza](https://open.spotify.com/track/202AaEVsc9I8iZnv9Q8Hu0) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Alex Hentze](https://open.spotify.com/artist/5ItWUx5u41dOWwFl0W41aJ) | [Añoranza](https://open.spotify.com/album/6uu4bSK5v71AhM63AKunpG) | 3:00 | 2024-12-03 | 2025-03-12 |
 | [B.T.W\. \(The Whistle\)](https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Slaughter House](https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek) | 4:00 | 2023-04-13 | 2023-07-09 |

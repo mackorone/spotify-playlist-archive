@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  Bella Shmurda
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,607 likes - 79 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,640 likes - 79 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 3 | [Halelu \(feat\. Niniola & DJ Rosco\)](https://open.spotify.com/track/4hFxfeTWAKx6u1YQk33uxv) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [DJ Rosco](https://open.spotify.com/artist/2rggJGUHFnNPiNQPIUaFK5) | [Nobody Like Zaza](https://open.spotify.com/album/1GZzCbpn9eoIOP39O5dqbh) | 3:09 |
 | 4 | [Tattoo](https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Tattoo](https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW) | 3:15 |
 | 5 | [Advice Me](https://open.spotify.com/track/445ySymTQJEJ27mCnQXiqh) | [BIGKHALID](https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB) | [Advice Me](https://open.spotify.com/album/2OKYoEoVYZ3Mvbfn07yMQa) | 2:34 |
-| 6 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:06 |
+| 6 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:29 |
 | 7 | [FATÚMATA](https://open.spotify.com/track/1qbmBZepH02Lyfc1hdo3hz) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [DIYILEM & BAZARHOFF : GENIUS](https://open.spotify.com/album/0svMu91wf0T13Of4I0YU9v) | 2:54 |
 | 8 | [SAY WETIN](https://open.spotify.com/track/62zDBe4PUN7JZM3OczBPAo) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [SAY WETIN](https://open.spotify.com/album/0wfgAjSgqP8CNtDbTKWcdb) | 2:03 |
 | 9 | [Adeem](https://open.spotify.com/track/1tdsA7q55NsE9PYdL5i6Xj) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Al\-Awwal](https://open.spotify.com/album/1s7omgLrTRtctnrMt8q5jL) | 2:36 |
