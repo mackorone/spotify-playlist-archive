@@ -1365,6 +1365,28 @@
     },
     {
       "album": {
+        "name": "Ghutt Ghutt",
+        "url": "https://open.spotify.com/album/2fniIfHjJ8WjJ29Wr1D0lM"
+      },
+      "artists": [
+        {
+          "name": "SARRB",
+          "url": "https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214874,
+      "name": "Ghutt Ghutt",
+      "url": "https://open.spotify.com/track/6Pli0rn0Z3Z11mQo6FIHGW"
+    },
+    {
+      "album": {
         "name": "Give Up",
         "url": "https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t"
       },
@@ -3888,7 +3910,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 288152,
       "name": "Wafa Na Raas Aayee",
       "url": "https://open.spotify.com/track/7rjFYm6THGNETjg3vb1Tof"

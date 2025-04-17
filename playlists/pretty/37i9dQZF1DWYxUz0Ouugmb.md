@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,429 likes - 30 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,956 likes - 30 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 29 | [Denah Rumahmu](https://open.spotify.com/track/2pAIsy87PtMr6d7hoLSS8A) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Denah Rumahmu](https://open.spotify.com/album/5JAL8mW3bGLe5yu40In446) | 3:55 |
 | 30 | [Tanpa Batas Waktu](https://open.spotify.com/track/1UY33OSDxSwBHmPfYmCUfh) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Tanpa Batas Waktu](https://open.spotify.com/album/4fxoL7dYH5vNu15gH0UJkb) | 4:27 |
 
-Snapshot ID: `Z/6RLAAAAADhOCYuVlBuE9ttxZb28GuN`
+Snapshot ID: `Z/9jjQAAAADK0grErbf6nLw4/kFkFzaA`

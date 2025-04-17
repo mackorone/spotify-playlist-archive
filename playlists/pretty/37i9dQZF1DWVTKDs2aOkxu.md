@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,997 likes - 81 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,969 likes - 81 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

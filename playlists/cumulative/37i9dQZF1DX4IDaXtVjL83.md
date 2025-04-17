@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Etham x 청하\)
 
-222 songs - 11 hr 49 min
+223 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Galipette \- BIBI Remix](https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Galipette \(BIBI Remix\)](https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus) | 2:02 | 2021-12-20 | 2022-04-20 |
 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-06-28 |  |
 | [Give Me a Kiss \- SHAUN Remix](https://open.spotify.com/track/2kivpDuRbWrULiJtEaCfve) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Give Me a Kiss \(SHAUN Remix\)](https://open.spotify.com/album/3wiexsrFfVlq3gFq7OKfe7) | 3:20 | 2023-04-21 | 2024-11-09 |
+| [Glow Up](https://open.spotify.com/track/0f7U6oD6uWOxgFNy1xgHru) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [Jike Junyi](https://open.spotify.com/artist/2dIGGnfI63aDJNR6eL50AZ) | [Glow Up \( 'Hearts' Series Vol\. 1\)](https://open.spotify.com/album/0nHBnj2UJfxkQoG19Ok5cU) | 3:19 | 2025-04-17 |  |
 | [GOOD VIBES](https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg) | [Chad Future](https://open.spotify.com/artist/7FOqtptgmy8wtpNrzXcYOT), [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [GOOD VIBES](https://open.spotify.com/album/75YhMYc4lGw8BN4AWcHoSj) | 2:59 | 2023-01-25 | 2024-08-14 |
 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 | 2022-05-26 | 2024-08-14 |
 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 | 2024-08-13 |  |
@@ -137,7 +138,7 @@
 | [NEON](https://open.spotify.com/track/2l0qBjI2zsbdcFoiRLugDA) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) | [NEON](https://open.spotify.com/album/4fqYkhN96NZ2zvcf5HRMIs) | 3:08 | 2023-06-08 | 2024-05-18 |
 | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb) | 2:37 | 2024-09-06 |  |
 | [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 | 2023-05-15 |  |
-| [NIGHT DANCER \- Korean Ver.](https://open.spotify.com/track/19V8IRXP5XdFs1SVL58ZSA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:29 | 2023-05-15 |  |
+| [NIGHT DANCER \- Korean Ver.](https://open.spotify.com/track/19V8IRXP5XdFs1SVL58ZSA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:29 | 2023-05-15 | 2025-04-17 |
 | [No More X \- English Version](https://open.spotify.com/track/3tj0PEdTWeq5u1TwH19gMA) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2021-12-20 | 2022-05-14 |
 | [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-20 | 2022-05-13 |
 | [Only One](https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Only One](https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ) | 2:56 | 2024-03-15 |  |

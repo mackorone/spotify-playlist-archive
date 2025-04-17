@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3718,
+  "num_followers": 3720,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/xQAAAAAACcu+C6aHNH77WxBOTZmFoh",
+  "snapshot_id": "Z/2hgAAAAACTNfQS5bxPFECehltDHKW6",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPACE BLANK - TECH HOUSE",
-        "url": "https://open.spotify.com/album/6L1ujqIRbwUUf4QqdN1utg"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        },
-        {
-          "name": "Mad Math",
-          "url": "https://open.spotify.com/artist/2IYBNTl8U2V0LeqyXRuP9m"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Crazy Heat - Original Mix",
-      "url": "https://open.spotify.com/track/74V44B1LQhkkiS4pFysDdH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Me Higher",
         "url": "https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u"
       },
@@ -475,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/31sPRBlkwIXf4wGo3HnA6T"
+        "name": "SPACE BLANK - TECH HOUSE",
+        "url": "https://open.spotify.com/album/6L1ujqIRbwUUf4QqdN1utg"
       },
       "artists": [
         {
           "name": "Rodrigo Gonzalez",
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        },
+        {
+          "name": "Mad Math",
+          "url": "https://open.spotify.com/artist/2IYBNTl8U2V0LeqyXRuP9m"
         }
       ],
-      "duration_ms": 456000,
-      "name": "Make Me Feel - Original Mix",
-      "url": "https://open.spotify.com/track/77LQaMRRaciUEzl0NgQN2v"
+      "duration_ms": 372000,
+      "name": "Crazy Heat - Original Mix",
+      "url": "https://open.spotify.com/track/74V44B1LQhkkiS4pFysDdH"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

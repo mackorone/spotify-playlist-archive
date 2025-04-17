@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 181990,
+  "num_followers": 182018,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/7hL5azg6n7pSKu5sumueBL"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 418146,
+      "name": "Kingfisher",
+      "url": "https://open.spotify.com/track/6Phj3iOnTi0haVX6dPnzoQ"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "The Atlantic Ocean",
         "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 169160,
       "name": "Real You",
       "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Movie Of The Week",
-        "url": "https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 273395,
-      "name": "Century City",
-      "url": "https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs"
     }
   ],
   "unique_name": "Psych & Groove",

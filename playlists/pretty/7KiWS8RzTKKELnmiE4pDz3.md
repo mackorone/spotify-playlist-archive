@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 252 songs - 13 hr 9 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 260 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -260,5 +260,13 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 250 | [Golden Lady](https://open.spotify.com/track/1bpaA5Pn4jlo1cRAOBNQnh) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:58 |
 | 251 | [Black Cow](https://open.spotify.com/track/1he20mKw1eq2OVp1BKBlpt) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 5:10 |
 | 252 | [Remind Me \- Remastered](https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 5:19 |
+| 253 | [Top in the Trash \(feat\. Chief Keef\)](https://open.spotify.com/track/3zr5WjafiY88tAJCT8RIvG) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Trap House 4](https://open.spotify.com/album/11OqutaYyMiZ7rBRPH2ha4) | 3:50 |
+| 254 | [Obama](https://open.spotify.com/track/0KSM92wdfZ6HqwsFxV3DXn) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:32 |
+| 255 | [So Tree](https://open.spotify.com/track/16cWdBsonPRmD1tPsU8h3p) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Two Zero One Seven \(Deluxe Edition\)](https://open.spotify.com/album/7iPZZ73Tfj85tg6bWAbFVl) | 3:36 |
+| 256 | [Blowin' Minds \(Skateboard\) \(feat\. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti\)](https://open.spotify.com/track/3FUP0gYxsivCHzWzu8uUGw) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1), [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Cozy Tapes Vol\. 2: Too Cozy](https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb) | 3:27 |
+| 257 | [Get Your Mind Right](https://open.spotify.com/track/12Thqf0zERYjFHNlWbb6rc) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:31 |
+| 258 | [Zero to 250](https://open.spotify.com/track/3uiG40OLahrpwMK1a7CuWa) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek \(Vol\. 7\)](https://open.spotify.com/album/2r8xWIxgtcUjqGlxpDOQX6) | 3:27 |
+| 259 | [Every Painting Has a Price \(feat\. BJ The Chicago Kid and Eryn Allen Kane\)](https://open.spotify.com/track/3q6QW9k7uqeQJOSvhNwrUQ) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 3:33 |
+| 260 | [Crash \(feat\. Raphael Saadiq and Kelly Rowland\)](https://open.spotify.com/track/4BWd7seTOURluar6C8RqYG) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 3:28 |
 
-Snapshot ID: `AAAeHa0hYnw8A4IGgFrzfqdxch4o8GMB`
+Snapshot ID: `AAAeJTiiiIo7s63Ax+vBbFW5JyhlwsDX`

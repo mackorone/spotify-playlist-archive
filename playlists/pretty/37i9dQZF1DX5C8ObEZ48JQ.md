@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC?si=eiLbDgIyQ7WaXuDmFFax0w">Jubed</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe?si=ThSD8NowS1C72Qa\-z3zXnw">LAGOS IN PARIS</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,033 likes - 58 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,044 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ruwa](https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Ruwa](https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA) | 2:46 |
-| 2 | [Afro G Western](https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Afro G Western](https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ) | 3:43 |
-| 3 | [Stick With You \(feat\. Nana Atta & Rhea Blek\)](https://open.spotify.com/track/2U3qc1MebhRjkXu2mmaAFF) | [Jazzy June](https://open.spotify.com/artist/0gqConrlPUKRpk6C6BuTtI), [TeabagCC](https://open.spotify.com/artist/6sW4QFrM1ffIRAQRHC4wZy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Rhea Blek](https://open.spotify.com/artist/58yGlR6nBYMqbJUypZD5E4) | [Starting V](https://open.spotify.com/album/6mrRJOqPqptakFX2UOICAs) | 3:15 |
-| 4 | [Sheleni](https://open.spotify.com/track/6K12OWZuNTJukzYjqvkSvD) | [Grixxly](https://open.spotify.com/artist/0xiB1aRWUlJi2H2ZPRxur4), [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Lyrikal Busta](https://open.spotify.com/artist/3o4H51gfvSTJPmhJzewhEw) | [Bear With Me](https://open.spotify.com/album/4aUeJt0ZuMswU54lOJYvGp) | 3:08 |
+| 1 | [Afro G Western](https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Afro G Western](https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ) | 3:43 |
+| 2 | [Stick With You \(feat\. Nana Atta & Rhea Blek\)](https://open.spotify.com/track/2U3qc1MebhRjkXu2mmaAFF) | [Jazzy June](https://open.spotify.com/artist/0gqConrlPUKRpk6C6BuTtI), [TeabagCC](https://open.spotify.com/artist/6sW4QFrM1ffIRAQRHC4wZy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Rhea Blek](https://open.spotify.com/artist/58yGlR6nBYMqbJUypZD5E4) | [Starting V](https://open.spotify.com/album/6mrRJOqPqptakFX2UOICAs) | 3:15 |
+| 3 | [Sheleni](https://open.spotify.com/track/6K12OWZuNTJukzYjqvkSvD) | [Grixxly](https://open.spotify.com/artist/0xiB1aRWUlJi2H2ZPRxur4), [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Lyrikal Busta](https://open.spotify.com/artist/3o4H51gfvSTJPmhJzewhEw) | [Bear With Me](https://open.spotify.com/album/4aUeJt0ZuMswU54lOJYvGp) | 3:08 |
+| 4 | [Ruwa](https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Ruwa](https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA) | 2:46 |
 | 5 | [Nobody Loves You \(N.L.Y\)](https://open.spotify.com/track/0GhlkvU1Ohpwg3IiiuFLXB) | [Luwanni](https://open.spotify.com/artist/2QfgJtreVVmE0UNqeTE2pX) | [Intro to Logic](https://open.spotify.com/album/01aO90B0qdV9n4ipl0ugZj) | 1:43 |
 | 6 | [Conversations](https://open.spotify.com/track/7d918PzAZdGEIlaENCH9SE) | [Garvicii](https://open.spotify.com/artist/4WluWeHM8nC1XSzwsd111V) | [Conversations](https://open.spotify.com/album/5mxKCceapm5IHrfJ6v0P4u) | 2:15 |
 | 7 | [Do You Know?](https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Do You Know?](https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0) | 2:25 |
@@ -66,5 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 56 | [Ona](https://open.spotify.com/track/1xiSqiGJvuBzGcFKN3iqDM) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Another Planet](https://open.spotify.com/album/7Ies9bE65WatAtuT0MAi3y) | 4:49 |
 | 57 | [Energy](https://open.spotify.com/track/7i7bfuHHETRZdC5meP1G9H) | [Aimé\. M.](https://open.spotify.com/artist/1fm0ZvqiFGSU6RLI5rnqCp) | [Energy](https://open.spotify.com/album/6T4d6PVD6FSFnkG7oNr8al) | 3:02 |
 | 58 | [Lost in You](https://open.spotify.com/track/3QpO4jfMeOBVPbZdnoV1xl) | [Lixine Vela](https://open.spotify.com/artist/1RdD1lvTBf7jrGQgGZ2tEV) | [Lost in You](https://open.spotify.com/album/74F7R3AQ0bTq0hVxLvhXKf) | 3:15 |
+| 59 | [SANTI'S APARTMENT](https://open.spotify.com/track/51aFMn0QVwiLKR0WOKWZo0) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [SANTI'S APARTMENT](https://open.spotify.com/album/7BIrpmQHhceuOXy4p3qgYN) | 2:36 |
 
-Snapshot ID: `Z/e+JAAAAAB8jdSe6knEkEUTIHipdr6c`
+Snapshot ID: `Z/9q/QAAAADd/71VjQ6osCmzzvSi79xA`

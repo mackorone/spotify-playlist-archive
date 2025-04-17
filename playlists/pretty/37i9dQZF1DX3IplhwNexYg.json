@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Ain't",
-  "num_followers": 114275,
+  "num_followers": 114276,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,26 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
+        "name": "lucre",
+        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "duration_ms": 120500,
+      "name": "5",
+      "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
         "name": "Nack Nostalgia",
         "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 146504,
       "name": "Sword",
       "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
-        "name": "lucre",
-        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
-      },
-      "artists": [
-        {
-          "name": "Dean Blunt",
-          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
-        },
-        {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
-        }
-      ],
-      "duration_ms": 120500,
-      "name": "5",
-      "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "If Our Love Is Dead",
+      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
       },
@@ -399,38 +415,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Best Guess",
-        "url": "https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 240364,
-      "name": "Best Guess",
-      "url": "https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
-        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
-        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "If Our Love Is Dead",
-      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 219020,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0sM6V5ruZJWKdRGaB7jiXI"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
+        "name": "Best Guess",
+        "url": "https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Love Me Please",
         "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 158667,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "T&A",
-        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 225280,
-      "name": "T&A",
-      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
+      "duration_ms": 208298,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
     },
     {
       "added_at": "2025-04-11 14:49:44",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 208298,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
+        "name": "Total euphoria",
+        "url": "https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        }
+      ],
+      "duration_ms": 270205,
+      "name": "Total euphoria",
+      "url": "https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
         "name": "Another Boy",
         "url": "https://open.spotify.com/album/6mUBGBSDQ9Re1XaLlVBBqH"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
-        "name": "Total euphoria",
-        "url": "https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        }
-      ],
-      "duration_ms": 270205,
-      "name": "Total euphoria",
-      "url": "https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
+        "name": "Phonetics On and On",
+        "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 172542,
+      "name": "Frontrunner",
+      "url": "https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Phonetics On and On",
-        "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
+        "name": "I Used To",
+        "url": "https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR"
       },
       "artists": [
         {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+          "name": "Cdubz",
+          "url": "https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH"
         }
       ],
-      "duration_ms": 172542,
-      "name": "Frontrunner",
-      "url": "https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe"
+      "duration_ms": 186841,
+      "name": "I Used To",
+      "url": "https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -947,22 +963,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "I Used To",
-        "url": "https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR"
-      },
-      "artists": [
-        {
-          "name": "Cdubz",
-          "url": "https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH"
-        }
-      ],
-      "duration_ms": 186841,
-      "name": "I Used To",
-      "url": "https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Open Wide",
         "url": "https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 133003,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Everybody Needs a Hero",
         "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 175680,
       "name": "Backseat Driver",
       "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 133003,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 248215,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
+      "duration_ms": 182240,
+      "name": "Call It Love - Edit",
+      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 182240,
-      "name": "Call It Love - Edit",
-      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
+      "duration_ms": 248215,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Heart Attack Police",
-        "url": "https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD"
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
       },
       "artists": [
         {
-          "name": "Callinsick",
-          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 176340,
-      "name": "Heart Attack Police",
-      "url": "https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o"
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
+        "name": "Heart Attack Police",
+        "url": "https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD"
+      },
+      "artists": [
+        {
+          "name": "Callinsick",
+          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
+        }
+      ],
+      "duration_ms": 176340,
+      "name": "Heart Attack Police",
+      "url": "https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
         "name": "this is my california",
         "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "BAD GUY",
-        "url": "https://open.spotify.com/album/3hCHdkTOHV5i3Wg7PRHkbM"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 216125,
-      "name": "BAD GUY",
-      "url": "https://open.spotify.com/track/5s3FTdUcbj4tgDorkwHQBy"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Just A Western",
-        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+        "name": "BAD GUY",
+        "url": "https://open.spotify.com/album/3hCHdkTOHV5i3Wg7PRHkbM"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
         }
       ],
-      "duration_ms": 269473,
-      "name": "Just A Western",
-      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
+      "duration_ms": 216125,
+      "name": "BAD GUY",
+      "url": "https://open.spotify.com/track/5s3FTdUcbj4tgDorkwHQBy"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Switch Over",
-        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "Switch Over",
-      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Tonight, Tonight",
         "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Neverwannago",
-        "url": "https://open.spotify.com/album/7MLcNxTR9If4ssF2b9CF6L"
+        "name": "Switch Over",
+        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
       },
       "artists": [
         {
-          "name": "Shamir",
-          "url": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
         }
       ],
-      "duration_ms": 176943,
-      "name": "Neverwannago",
-      "url": "https://open.spotify.com/track/0AUimdRq6b1BItNvPLzs7q"
+      "duration_ms": 185915,
+      "name": "Switch Over",
+      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1471,6 +1455,22 @@
       "duration_ms": 231885,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
+        "name": "Neverwannago",
+        "url": "https://open.spotify.com/album/7MLcNxTR9If4ssF2b9CF6L"
+      },
+      "artists": [
+        {
+          "name": "Shamir",
+          "url": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
+        }
+      ],
+      "duration_ms": 176943,
+      "name": "Neverwannago",
+      "url": "https://open.spotify.com/track/0AUimdRq6b1BItNvPLzs7q"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Building 650",
-        "url": "https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK"
+        "name": "Crispy Skin",
+        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 231677,
-      "name": "Building 650",
-      "url": "https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr"
+      "duration_ms": 379400,
+      "name": "Crispy Skin",
+      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
     },
     {
       "added_at": "2025-03-27 21:54:08",

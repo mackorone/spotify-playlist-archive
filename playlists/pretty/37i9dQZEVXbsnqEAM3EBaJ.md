@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 42 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 35 | [Loss](https://open.spotify.com/track/7B6ddTSICdNYKAlNTIhZSb) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [The Place After This One](https://open.spotify.com/album/5qEOO4BX3s3amNgFashUs0) | 3:01 |
 | 36 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
 | 37 | [Private Dancer \- Sterling Version](https://open.spotify.com/track/2zCpxRVfOBkwWoDt2lpbfj) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(40th Anniversary Edition\)](https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B) | 4:03 |
-| 38 | [PISANDO FUERTE](https://open.spotify.com/track/63tLllllAkKrC5gHGQKkZU) | [MC TRN](https://open.spotify.com/artist/30xOpK8rDXJyKtZLtJYRtm), [Mandacerio](https://open.spotify.com/artist/5kCGiXHySW5MV2sJkqJk5W), [Bascur](https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N), [DJ Vilaz](https://open.spotify.com/artist/69dgyUAwb7V1mHfZl2poYd) | [PISANDO FUERTE](https://open.spotify.com/album/7Dty2jjx3zMCikYGcVdIf5) | 3:42 |
-| 39 | [Superlover \(Feat\. Annie Lennox\)](https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Superlover \(Feat\. Annie Lennox\)](https://open.spotify.com/album/4bl5DXRhQnvujIUBKJ9WIA) | 5:12 |
-| 40 | [FAR OUT \- Orbital Remix](https://open.spotify.com/track/4wabSgfA7UH0eTe1S0BDAu) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [FAR OUT \(Orbital Remix\)](https://open.spotify.com/album/03bpuQhtmTbdyP9MmOH8dY) | 5:06 |
+| 38 | [The Naked And The Dub](https://open.spotify.com/track/3AN6YY7K8f3FeZeLfHj73c) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Radiccio \(2025\)](https://open.spotify.com/album/4LqPDFXWMczdBqzW46ja5N) | 11:51 |
+| 39 | [PISANDO FUERTE](https://open.spotify.com/track/63tLllllAkKrC5gHGQKkZU) | [MC TRN](https://open.spotify.com/artist/30xOpK8rDXJyKtZLtJYRtm), [Mandacerio](https://open.spotify.com/artist/5kCGiXHySW5MV2sJkqJk5W), [Bascur](https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N), [DJ Vilaz](https://open.spotify.com/artist/69dgyUAwb7V1mHfZl2poYd) | [PISANDO FUERTE](https://open.spotify.com/album/7Dty2jjx3zMCikYGcVdIf5) | 3:42 |
+| 40 | [Superlover \(Feat\. Annie Lennox\)](https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Superlover \(Feat\. Annie Lennox\)](https://open.spotify.com/album/4bl5DXRhQnvujIUBKJ9WIA) | 5:12 |
 | 41 | [Now Or Never \(Muzik Junkies & AROCK Remix\)](https://open.spotify.com/track/75TTdx97yvwuxHnk96BqQD) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [AROCK](https://open.spotify.com/artist/47pIWqTVLta4q0qlPELe3o) | [Now or Never \(Muzik Junkies & AROCK Remix\)](https://open.spotify.com/album/7wI8TpkCWRTwmnzZNjUDTj) | 2:09 |
 | 42 | [Shock Dem](https://open.spotify.com/track/2xGlVRFxbrGPrpplSfEfgY) | [Rhodecy](https://open.spotify.com/artist/3dPUaskObXRULN4wlqDMaW), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Shock Dem](https://open.spotify.com/album/0kQdiul7Ppc5yvG6HfTutx) | 3:04 |
 
-Snapshot ID: `AAAAAAAAAADgZ8OwtWVXZfcRXeYtlGZe`
+Snapshot ID: `AAAAAAAAAADm5duIHfx4XNQWXfnKvdjE`

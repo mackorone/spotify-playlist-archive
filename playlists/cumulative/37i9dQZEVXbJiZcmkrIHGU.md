@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-3,294 songs - 6 day 16 hr 26 min
+3,295 songs - 6 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2576,6 +2576,7 @@
 | [SEVILLA \(feat\. Nimo & Summer Cem\) \- Remix](https://open.spotify.com/track/1Iit6nngiymUoQ7M2Ru9mM) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [SEVILLA \(feat\. Nimo & Summer Cem\) \[Remix\]](https://open.spotify.com/album/6qMGMekxHWzNvafQWYFBwO) | 2:18 | 2022-12-10 | 2022-12-12 |
 | [Shake](https://open.spotify.com/track/0PXpGpK6Csz6nRx6BGaTc2) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [GALGEN](https://open.spotify.com/album/5OZYS1Zu1pCY9TweBqMcuq) | 2:26 | 2023-06-17 | 2023-06-19 |
 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:39 | 2023-10-28 | 2023-10-30 |
+| [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-04-16 |  |
 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 | 2023-12-18 | 2024-12-29 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-15 | 2023-02-12 |
 | [Shank On Me](https://open.spotify.com/track/2jJYSVkH1z0bm4eHQ6GeLM) | [Django](https://open.spotify.com/artist/5ndnSAl24noqq0hv40Fw8L), [Biggie68](https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1) | [Shank on Me](https://open.spotify.com/album/4hxa4wTpOtkTMxoS0f1kyY) | 2:50 | 2022-05-07 | 2022-05-20 |
@@ -3239,7 +3240,7 @@
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-04-27 | 2024-08-18 |
 | [Wunder](https://open.spotify.com/track/4b3W0IbHDwHCvjSs708Tr4) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [In Liebe](https://open.spotify.com/album/3cB6tCOD8fqXuYwbpcrcdV) | 2:56 | 2024-08-17 |  |
 | [wunderschön](https://open.spotify.com/track/2Bi7IhhjS7ZgzSe7FMaHs1) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [wunderschön](https://open.spotify.com/album/4S6wMQKfcUq1hCj1wt7FVV) | 2:44 | 2025-03-15 | 2025-04-06 |
-| [wunderschön](https://open.spotify.com/track/5Wa9GnIUnyk8H56ZqPwG1J) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [schönhauser EP](https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq) | 2:44 | 2025-04-05 |  |
+| [wunderschön](https://open.spotify.com/track/5Wa9GnIUnyk8H56ZqPwG1J) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [schönhauser EP](https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq) | 2:44 | 2025-04-05 | 2025-04-17 |
 | [X](https://open.spotify.com/track/44uztQHKr4q9Qnd3hKdjkO) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [SOTT](https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI) | [X](https://open.spotify.com/album/6vFNeBtzBg0c5bknMv6RTe) | 1:55 | 2024-07-06 | 2024-07-08 |
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2021-04-13 | 2021-04-14 |
 | [XABAT](https://open.spotify.com/track/1V6qGsDqgKZwrX5dy5PPuA) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [XABAT](https://open.spotify.com/album/78H77uSiwob4k2vSRPvsNN) | 3:45 | 2024-04-20 | 2024-04-23 |

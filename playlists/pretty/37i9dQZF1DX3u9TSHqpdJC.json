@@ -1,13 +1,317 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Magdalene. Artwork by Paola Saliby",
-  "num_followers": 226140,
+  "description": "The best new pop music from new, independent artists.  Cover: Jake Marsh. Artwork by Paola Saliby",
+  "num_followers": 226201,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/Z8RgAAAADCn1WFHrE93pazcXAzer68",
+  "snapshot_id": "Z/814AAAAAA2B0bvFFfIKYB5t6Raz9tl",
   "tracks": [
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "5 minutes",
+        "url": "https://open.spotify.com/album/48v51WWZszETVDFA9prBvM"
+      },
+      "artists": [
+        {
+          "name": "Jake Marsh",
+          "url": "https://open.spotify.com/artist/5K6IfB5Ntc1cPrLY1WE9Ao"
+        }
+      ],
+      "duration_ms": 144615,
+      "name": "5 minutes",
+      "url": "https://open.spotify.com/track/7ljqWSW9e48cM85pQCYIU4"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "Dear Elizabeth,",
+        "url": "https://open.spotify.com/album/1xlAMd57AlCYXuZ6UrkTNK"
+      },
+      "artists": [
+        {
+          "name": "Bellzzz",
+          "url": "https://open.spotify.com/artist/4qxIpRSvXWpN4f1Y5QQ2gg"
+        }
+      ],
+      "duration_ms": 152231,
+      "name": "Conquests",
+      "url": "https://open.spotify.com/track/2bftvpU1GIxsy2mEtM1RJ1"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "All I Ever Really Wanted",
+        "url": "https://open.spotify.com/album/3MJYuUKnMFvbgDk66jIn30"
+      },
+      "artists": [
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        }
+      ],
+      "duration_ms": 188668,
+      "name": "All I Ever Really Wanted",
+      "url": "https://open.spotify.com/track/1zGONdLGdhquiPP5dOYDoO"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "rot",
+        "url": "https://open.spotify.com/album/4qo3HZwwwQKyCk7i4BMoOX"
+      },
+      "artists": [
+        {
+          "name": "gottsy",
+          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
+        }
+      ],
+      "duration_ms": 189448,
+      "name": "rot",
+      "url": "https://open.spotify.com/track/1XUw58yi6oe0QlSpyLZwQC"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/2H5w6jTvq5OCUI4w4Xt49a"
+      },
+      "artists": [
+        {
+          "name": "Adriana",
+          "url": "https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq"
+        }
+      ],
+      "duration_ms": 187631,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/2sab89Tv3lCK0sR23SAHUC"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "viva venus",
+        "url": "https://open.spotify.com/album/1iJlcjIoqL9GFY5Gmsf1TE"
+      },
+      "artists": [
+        {
+          "name": "LALA HAYDEN",
+          "url": "https://open.spotify.com/artist/54K6X7R6KvbCryoGE5Dufn"
+        }
+      ],
+      "duration_ms": 247530,
+      "name": "beast",
+      "url": "https://open.spotify.com/track/1OSeiaTnrxOyb5zFsCiEIw"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "Demos 26-30",
+        "url": "https://open.spotify.com/album/3aRS4aKF7lh8gpb0N8dM9a"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Picking Petals",
+      "url": "https://open.spotify.com/track/5zP2Sxr2jDIhnX25yCjZq6"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "Power Cuts",
+        "url": "https://open.spotify.com/album/2Scii7Kogj2Vm28BpV96eA"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "Power Cuts",
+      "url": "https://open.spotify.com/track/5jQdfNCKpEoIvkTcRq1fY7"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "Like No One's Watching",
+        "url": "https://open.spotify.com/album/0GzzTN57dj5dJj2RTJ2Em3"
+      },
+      "artists": [
+        {
+          "name": "FLAVIA",
+          "url": "https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA"
+        }
+      ],
+      "duration_ms": 196060,
+      "name": "Like No One's Watching",
+      "url": "https://open.spotify.com/track/1ijN5LBIyxoC2iIEaI618m"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "DELUSIONALSHIP",
+        "url": "https://open.spotify.com/album/5xcOM6jJwtiBSTZdpX3rfe"
+      },
+      "artists": [
+        {
+          "name": "RARIA",
+          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "DELUSIONALSHIP",
+      "url": "https://open.spotify.com/track/7MidWO8hQ1orZJqUHgK5wq"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "AMERICAN DREAMERS, Vol. 2",
+        "url": "https://open.spotify.com/album/12a16yqWGANg0GSrNleOqm"
+      },
+      "artists": [
+        {
+          "name": "Carver Jones",
+          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
+        }
+      ],
+      "duration_ms": 148732,
+      "name": "GOOD MEASURE",
+      "url": "https://open.spotify.com/track/6P8L4RZSh7NoguKjUFmO1i"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "Pray For Us",
+        "url": "https://open.spotify.com/album/2oiy1FLMoKTHoPw8wDZTf5"
+      },
+      "artists": [
+        {
+          "name": "Rachel Tauwnaar",
+          "url": "https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Pray For Us",
+      "url": "https://open.spotify.com/track/31Duh9kh3vAe7zejXzuAM2"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "hot and talking",
+        "url": "https://open.spotify.com/album/06Wt4oQiVFEWTbR2G65Qie"
+      },
+      "artists": [
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/5rxsXE7ZCWfW3ft7Dc5eyu"
+        }
+      ],
+      "duration_ms": 208054,
+      "name": "hot and talking",
+      "url": "https://open.spotify.com/track/72vZQDoPeWNmo9cbuAfFvY"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "Inevitable, Obviously",
+        "url": "https://open.spotify.com/album/4yWn5W2f9UtHOSxz4eYAY3"
+      },
+      "artists": [
+        {
+          "name": "Sophia Gripari",
+          "url": "https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "People, Too",
+      "url": "https://open.spotify.com/track/2XSqQvJO9SUiNTxXDuujhi"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "Breathin'",
+        "url": "https://open.spotify.com/album/4KCMbjDnHWtvFFsXwYsgbQ"
+      },
+      "artists": [
+        {
+          "name": "Morral",
+          "url": "https://open.spotify.com/artist/6JmxaiXBONFjuTqQOygedM"
+        }
+      ],
+      "duration_ms": 169887,
+      "name": "Breathin'",
+      "url": "https://open.spotify.com/track/6J3fp56VO8JtquIKsVSSMr"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "kissing for practice",
+        "url": "https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Thompson",
+          "url": "https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j"
+        }
+      ],
+      "duration_ms": 209506,
+      "name": "kissing for practice",
+      "url": "https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "how'd you end up here tonight?",
+        "url": "https://open.spotify.com/album/1P3gk441WmsEfijAGynd9y"
+      },
+      "artists": [
+        {
+          "name": "iggy",
+          "url": "https://open.spotify.com/artist/0FQgaV4hZPHVwrVFHzZfcN"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "how'd you end up here tonight?",
+      "url": "https://open.spotify.com/track/3QhQG4xIxiUov9SMEl2h8G"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "31st of June",
+        "url": "https://open.spotify.com/album/6FvGZxzGpkeyQSJwu6rjRW"
+      },
+      "artists": [
+        {
+          "name": "Daisy Pring",
+          "url": "https://open.spotify.com/artist/6IYItfgpcJAxibiKQNgnbI"
+        }
+      ],
+      "duration_ms": 178858,
+      "name": "31st of June",
+      "url": "https://open.spotify.com/track/2gOfwSufmYd0UFKLH4TZI7"
+    },
+    {
+      "added_at": "2025-04-16 04:00:26",
+      "album": {
+        "name": "Warming Up",
+        "url": "https://open.spotify.com/album/1B3sJ3osKYlG5cE895YUmf"
+      },
+      "artists": [
+        {
+          "name": "Hanna Mel",
+          "url": "https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8"
+        }
+      ],
+      "duration_ms": 156300,
+      "name": "Warming Up",
+      "url": "https://open.spotify.com/track/6zV7rIXx9HVXHd43luY5Uy"
+    },
     {
       "added_at": "2025-04-09 13:37:42",
       "album": {
@@ -1539,22 +1843,6 @@
       "duration_ms": 189000,
       "name": "Hold On (Psycho)",
       "url": "https://open.spotify.com/track/05qjxUIMAlfOJC3YhLXbuO"
-    },
-    {
-      "added_at": "2025-02-12 05:00:11",
-      "album": {
-        "name": "Arrivederci, Baby",
-        "url": "https://open.spotify.com/album/3qxowiXBWwN8HQCWTdnFKM"
-      },
-      "artists": [
-        {
-          "name": "Rosemary",
-          "url": "https://open.spotify.com/artist/59nB82NKhoKIXU7ZN3Qdnt"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "Arrivederci, Baby",
-      "url": "https://open.spotify.com/track/5vXLJ2ZWJO7q7jLWhDaMQB"
     },
     {
       "added_at": "2025-02-05 05:00:13",

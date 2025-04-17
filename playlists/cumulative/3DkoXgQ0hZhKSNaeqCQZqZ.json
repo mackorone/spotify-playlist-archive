@@ -2687,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "I WANNA BE ALIVE",
+        "url": "https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ"
+      },
+      "artists": [
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213013,
+      "name": "I WANNA BE ALIVE",
+      "url": "https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo"
+    },
+    {
+      "album": {
         "name": "I Wish I Loved You",
         "url": "https://open.spotify.com/album/0uwMsB1SuYN2DElUEU8rMJ"
       },

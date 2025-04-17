@@ -2,7 +2,7 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/37i9dQZF1DX4YhSbTs17ha)
 
-> Las canciones de pop más exitosas en México\.  Cazzu en portada.
+> Las canciones de pop más exitosas en México\.  Lasso en portada.
 
 683 songs - 1 day 12 hr 41 min
 

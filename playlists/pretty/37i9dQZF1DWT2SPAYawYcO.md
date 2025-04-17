@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: ONEFOUR, Lana Del Rey, Dean Lewis, Spacey Jane, Shaboozey, Myles Smith, Bon Iver + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,046 likes - 95 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,060 likes - 95 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 28 | [Tell Her](https://open.spotify.com/track/7crkvEA8jfveTCVwNYznlD) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [Henny x Masse](https://open.spotify.com/artist/1UqtKEYKwqFGkMneLsA9gD) | [Tell Her](https://open.spotify.com/album/15HXsXBzM9X15cHdyRLYI2) | 3:40 |
 | 29 | [I Can't Forget You](https://open.spotify.com/track/4fxjNTmcKzS83xYigEC8cp) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [I Can't Forget You](https://open.spotify.com/album/22isBBRfzRQ2QuHDn00D8k) | 4:23 |
 | 30 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
-| 31 | [BUB](https://open.spotify.com/track/2sdHPNi7pvGz3yAwzlscvz) | [BADASSMUTHA](https://open.spotify.com/artist/4sIOO1xmOIT9hqn0Jhw9bo) | [Bub](https://open.spotify.com/album/2YqyOB6sgDYN5CXMfQ4g0R) | 3:59 |
+| 31 | [BUB](https://open.spotify.com/track/2sdHPNi7pvGz3yAwzlscvz) | [BADASSMUTHA](https://open.spotify.com/artist/4sIOO1xmOIT9hqn0Jhw9bo) | [BUB](https://open.spotify.com/album/2YqyOB6sgDYN5CXMfQ4g0R) | 3:59 |
 | 32 | [die for someone \(w/ adore\)](https://open.spotify.com/track/4Cte1OaMGSphx60kamdFI8) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [die for someone \(w/ adore\)](https://open.spotify.com/album/1KgdN9WqUP9yctxR9E7ai0) | 2:13 |
 | 33 | [Warriors Two, Cooley High](https://open.spotify.com/track/3meUWngyJwuYjJxQ334vXd) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Warriors Two, Cooley High](https://open.spotify.com/album/4CNHsxJwhc68OJ3bO1ObAo) | 3:12 |
 | 34 | [Gettin' Gone \(feat\. Snoop Dogg\)](https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gettin' Gone](https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h) | 3:43 |

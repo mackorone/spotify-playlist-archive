@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Erika Isac, M.G.L",
-  "num_followers": 20579,
+  "num_followers": 20586,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,26 @@
     {
       "added_at": "2025-04-10 21:11:28",
       "album": {
+        "name": "POVESTEA NOASTRA",
+        "url": "https://open.spotify.com/album/0OyBGc5qeRRXiYJMweI4Kd"
+      },
+      "artists": [
+        {
+          "name": "RENVT\u00d8",
+          "url": "https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR"
+        },
+        {
+          "name": "Calinacho",
+          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "POVESTEA NOASTRA",
+      "url": "https://open.spotify.com/track/2IuPe40fG60s3MEV7JvpRN"
+    },
+    {
+      "added_at": "2025-04-10 21:11:28",
+      "album": {
         "name": "ABRACADABRA",
         "url": "https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 161904,
       "name": "ABRACADABRA",
       "url": "https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn"
-    },
-    {
-      "added_at": "2025-04-10 21:11:28",
-      "album": {
-        "name": "Scandal",
-        "url": "https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q"
-      },
-      "artists": [
-        {
-          "name": "Sapte",
-          "url": "https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG"
-        },
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Scandal",
-      "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
     },
     {
       "added_at": "2025-04-10 21:11:28",
@@ -983,22 +983,22 @@
     {
       "added_at": "2025-04-10 21:11:28",
       "album": {
-        "name": "POVESTEA NOASTRA",
-        "url": "https://open.spotify.com/album/0OyBGc5qeRRXiYJMweI4Kd"
+        "name": "Scandal",
+        "url": "https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q"
       },
       "artists": [
         {
-          "name": "RENVT\u00d8",
-          "url": "https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR"
+          "name": "Sapte",
+          "url": "https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG"
         },
         {
-          "name": "Calinacho",
-          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 226813,
-      "name": "POVESTEA NOASTRA",
-      "url": "https://open.spotify.com/track/2IuPe40fG60s3MEV7JvpRN"
+      "duration_ms": 196250,
+      "name": "Scandal",
+      "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
     }
   ],
   "unique_name": "Suflet + Sunet",

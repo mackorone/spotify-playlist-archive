@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Love is the Message",
+        "url": "https://open.spotify.com/album/2NsotSuPYSPjhEOqPofobT"
+      },
+      "artists": [
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229630,
+      "name": "Shall Not Be Moved",
+      "url": "https://open.spotify.com/track/622yds0g4cL2ls2Dk8hwLQ"
+    },
+    {
+      "album": {
         "name": "Party Of One",
         "url": "https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118"
       },

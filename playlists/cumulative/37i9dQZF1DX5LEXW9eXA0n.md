@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 경서\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 신용재\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,440 songs - 3 day 21 hr 12 min
+1,441 songs - 3 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -895,7 +895,7 @@
 | [Only One](https://open.spotify.com/track/52iQCQplC1FhiYTLcRm5YH) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [MARRY YOU \(Original Soundtrack\), Pt.4](https://open.spotify.com/album/1AgSop4Yvl6mW34VaszYP0) | 3:19 | 2024-12-09 | 2025-03-27 |
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 | 2023-11-03 |
 | [Only Tears](https://open.spotify.com/track/3PPaHowjfMPcsImH4yK8cw) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Only Tears](https://open.spotify.com/album/0HiwK44A6FNxVFpCy7yGBZ) | 4:46 | 2023-11-02 | 2024-03-06 |
-| [Only You](https://open.spotify.com/track/6plU8hBXEl5dpaxW3bYqnh) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Only You](https://open.spotify.com/album/4RXBbP8IWWszn57oSTcP24) | 4:31 | 2024-11-05 |  |
+| [Only You](https://open.spotify.com/track/6plU8hBXEl5dpaxW3bYqnh) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Only You](https://open.spotify.com/album/4RXBbP8IWWszn57oSTcP24) | 4:31 | 2024-11-05 | 2025-04-17 |
 | [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2021-12-23 | 2022-07-01 |
 | [Only You](https://open.spotify.com/track/3MODKrKhGJHI8pRP9Ih5k0) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Only You](https://open.spotify.com/album/0HZOGEkR6cFL6qXnlC4Vun) | 3:45 | 2023-10-04 | 2023-12-30 |
 | [Only You](https://open.spotify.com/track/1PrTalIGiaPcUGTRNe5eNB) | [Lee Hyun](https://open.spotify.com/artist/6MLmtxHkGVuPhYIcMUm1AQ) | [Eve, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4RFyDkwHHZKpxXYleEs2U8) | 4:10 | 2022-08-01 | 2022-11-23 |
@@ -1020,6 +1020,7 @@
 | [Snow Flower](https://open.spotify.com/track/2qflAmVMghM3O9YpridUng) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [I'm Sorry, I Love You 2024 \(Original Television Soundtrack\) \- Wavve New Classic Project](https://open.spotify.com/album/2Ymac6gT4xh0tM7waxKeiu) | 5:52 | 2024-11-27 |  |
 | [Snow Flower](https://open.spotify.com/track/0t3lRe5onWuDCm5533MRZ1) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Snow Flower](https://open.spotify.com/album/3GeRwFsu0S9PKpbzerXDt5) | 5:43 | 2023-01-20 | 2023-02-25 |
 | [snow light](https://open.spotify.com/track/0EyCQNMWu43sU6Iz6b1K9W) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [snow light](https://open.spotify.com/album/795rDvVKt9nAga7CBw6NLi) | 3:57 | 2023-02-06 | 2023-03-28 |
+| [Snow Of April \(feat\. Huh Gak\)](https://open.spotify.com/track/1gew8nB5cdat82ZnVoyXtx) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR), [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [H.Y.B\. Project \- Your Song, My Voice \#3 ‘Snow Of April’](https://open.spotify.com/album/08cpnkhr3LxH8c5Puju0vj) | 3:55 | 2025-04-16 |  |
 | [Snow on Christmas](https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf) | [Baek Juyeon](https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr) | [Snow on Christmas](https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH) | 4:01 | 2022-12-26 | 2023-02-09 |
 | [Snowman](https://open.spotify.com/track/7IYV48LQQiUxHzydk0hZIM) | [Lee Byeong Chan](https://open.spotify.com/artist/1DY7HbMeZuWTNB43RrdPUS) | [Firsthand, Pt.1](https://open.spotify.com/album/25WmjgBgUktJi8DRpsscTV) | 4:07 | 2023-02-24 | 2023-06-23 |
 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 | 2023-02-08 | 2023-04-27 |

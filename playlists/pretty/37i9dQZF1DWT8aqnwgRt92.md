@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,016 likes - 85 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,048 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,16 +82,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 72 | [創](https://open.spotify.com/track/3oG2BZ50i5Vbfb6xtLrrAR) | [SANTA](https://open.spotify.com/artist/54ES2agmCmnYkkC7Lv55L2) | [創](https://open.spotify.com/album/2ag40RtTXlL12F44AMRDSs) | 3:57 |
 | 73 | [bookmarks](https://open.spotify.com/track/3BQ68l0R7GKSCbcZlgv0qh) | [Sizuk](https://open.spotify.com/artist/5UNvWvt9sIB2DmhHzpkwBM), [Harutya](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs) | [bookmarks](https://open.spotify.com/album/0Qa650NsfPpr56bG5V36cj) | 4:55 |
 | 74 | [真昼の月](https://open.spotify.com/track/5Ke9p9V0159qyBaDei0TiX) | [seiza](https://open.spotify.com/artist/4NRSYB2qS3BZCcaddIzylY) | [真昼の月](https://open.spotify.com/album/4JRpz7l9I9p8CqC1LtDbMT) | 3:38 |
-| 75 | [Somehow](https://open.spotify.com/track/1mgUIZDkxR0vnxdc9qECmL) | [藤咲凪](https://open.spotify.com/artist/7GnXpIaxaxEhhw0Wy308Cj) | [Somehow](https://open.spotify.com/album/64OV5Kd13DblHah4aoy4tH) | 3:25 |
-| 76 | [ダラシナイEveryday](https://open.spotify.com/track/3d0J5qOdPZCQxite06vB4F) | [出浦白津莉\(CV.矢野妃菜喜\)](https://open.spotify.com/artist/5i85sfeNh9ePZ4fWa2X1lY), [百地彩夢\(CV.ファイルーズあい\)](https://open.spotify.com/artist/2qbw87RmyT8M54DxrVCgii), [和泉緋那\(CV.会沢紗弥\)](https://open.spotify.com/artist/1T5bR7IjKthNStG1cLL669), [夏見叶愛\(CV.木野日菜\)](https://open.spotify.com/artist/6v2D2aVeU6dAHfqdhVBzSZ) | [ダラシナイEveryday](https://open.spotify.com/album/4paaxOCvQTFA7Fg0yWxvwF) | 3:03 |
-| 77 | [BEYOND★CLASSIC](https://open.spotify.com/track/1d8CDCjTTjo4cqXQXjWhef) | [Gran★MyStar](https://open.spotify.com/artist/3Y79J0AaOjCQmf040QNknU) | [BEYOND★CLASSIC](https://open.spotify.com/album/1hDre0iaVSJ6mvjdKWLWRc) | 3:33 |
-| 78 | [Light Maker](https://open.spotify.com/track/5K81RTZRNdVjTB06gn9ftm) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Light Maker](https://open.spotify.com/album/6iqAiNPAAZsROJfCaGz7ti) | 3:13 |
-| 79 | [いつでも、いつまでも](https://open.spotify.com/track/1PAoyDTPSKDAK8sFdDImy8) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [いつでも、いつまでも](https://open.spotify.com/album/4TcdV223zFv3NmTe8tm0yI) | 4:27 |
-| 80 | [LIKE YOU o\(>< = ><\)o LOVE YOU?](https://open.spotify.com/track/6pyeicTfEeKob6aaRvsneu) | [紫雲寺家の子供たち](https://open.spotify.com/artist/3iLHqlb12x7cqJyFtIZWsV) | [LIKE YOU o\(>< = ><\)o LOVE YOU?](https://open.spotify.com/album/3S9FFALqrIt3eqpC2ZgMx3) | 3:52 |
-| 81 | [イルミネイト](https://open.spotify.com/track/5dVMqpeSDyNJczw40sBM5p) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [イルミネイト](https://open.spotify.com/album/6m4bSupxD18k5Jswp9ySPc) | 4:21 |
+| 75 | [スピード \- Speed](https://open.spotify.com/track/2D3jMiMkKMmvchLMLXLG4T) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [スピード \- Speed](https://open.spotify.com/album/1b468g18LpNbntgka81SCM) | 3:38 |
+| 76 | [Somehow](https://open.spotify.com/track/1mgUIZDkxR0vnxdc9qECmL) | [藤咲凪](https://open.spotify.com/artist/7GnXpIaxaxEhhw0Wy308Cj) | [Somehow](https://open.spotify.com/album/64OV5Kd13DblHah4aoy4tH) | 3:25 |
+| 77 | [ダラシナイEveryday](https://open.spotify.com/track/3d0J5qOdPZCQxite06vB4F) | [出浦白津莉\(CV.矢野妃菜喜\)](https://open.spotify.com/artist/5i85sfeNh9ePZ4fWa2X1lY), [百地彩夢\(CV.ファイルーズあい\)](https://open.spotify.com/artist/2qbw87RmyT8M54DxrVCgii), [和泉緋那\(CV.会沢紗弥\)](https://open.spotify.com/artist/1T5bR7IjKthNStG1cLL669), [夏見叶愛\(CV.木野日菜\)](https://open.spotify.com/artist/6v2D2aVeU6dAHfqdhVBzSZ) | [ダラシナイEveryday](https://open.spotify.com/album/4paaxOCvQTFA7Fg0yWxvwF) | 3:03 |
+| 78 | [BEYOND★CLASSIC](https://open.spotify.com/track/1d8CDCjTTjo4cqXQXjWhef) | [Gran★MyStar](https://open.spotify.com/artist/3Y79J0AaOjCQmf040QNknU) | [BEYOND★CLASSIC](https://open.spotify.com/album/1hDre0iaVSJ6mvjdKWLWRc) | 3:33 |
+| 79 | [Light Maker](https://open.spotify.com/track/5K81RTZRNdVjTB06gn9ftm) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Light Maker](https://open.spotify.com/album/6iqAiNPAAZsROJfCaGz7ti) | 3:13 |
+| 80 | [いつでも、いつまでも](https://open.spotify.com/track/1PAoyDTPSKDAK8sFdDImy8) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [いつでも、いつまでも](https://open.spotify.com/album/4TcdV223zFv3NmTe8tm0yI) | 4:27 |
+| 81 | [LIKE YOU o\(>< = ><\)o LOVE YOU?](https://open.spotify.com/track/6pyeicTfEeKob6aaRvsneu) | [紫雲寺家の子供たち](https://open.spotify.com/artist/3iLHqlb12x7cqJyFtIZWsV) | [LIKE YOU o\(>< = ><\)o LOVE YOU?](https://open.spotify.com/album/3S9FFALqrIt3eqpC2ZgMx3) | 3:52 |
 | 82 | [シースー・ゲーム](https://open.spotify.com/track/5hqDnUCaxGvPPYI58fS5hr) | [KAmiYU](https://open.spotify.com/artist/2Fs0n51kzU2NdTbSLt3YXl) | [Mellow×Mellow](https://open.spotify.com/album/6QjfM1rCGxL8U85lnUaotv) | 4:05 |
 | 83 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 |
 | 84 | [それぞれのドア](https://open.spotify.com/track/3WAYmtnfpu9kuL2a0cChnu) | [前橋ウィッチーズ](https://open.spotify.com/artist/5tQLD8Ak85HJXxXy6Pp5D9) | [それぞれのドア](https://open.spotify.com/album/6vbXZiGiGB0z7cmY5OYGEj) | 5:06 |
 | 85 | [Kissとナハトムジーク](https://open.spotify.com/track/1770XjppIpVoEc5I9mDssG) | [モーツァルト\(CV.伊東健人\)](https://open.spotify.com/artist/0DZwkOehdf5iud03X1fyeA) | [Kissとナハトムジーク](https://open.spotify.com/album/4WN2Th4uVU8YbboIYLfQU4) | 4:57 |
 
-Snapshot ID: `Z/50iwAAAADJwBziDkQzL7iMW6VWSXee`
+Snapshot ID: `Z/8bZQAAAADcVK8fW3SfgKqJnTH8ZHNM`

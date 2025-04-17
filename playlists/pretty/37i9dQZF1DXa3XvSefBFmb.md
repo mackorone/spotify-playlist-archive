@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Ana Bacalhau e explora as músicas escolhidas pelos nossos editores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,881 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,879 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 21 | [Samba](https://open.spotify.com/track/4ldkCoZvBs8WJ6sUyC2Jju) | [Të](https://open.spotify.com/artist/7pvjBRkTOblKwOod1fMuoA) | [Midnight Samba](https://open.spotify.com/album/3cgmlw9AlZu0nlxTtwnnQ4) | 2:55 |
 | 22 | [Parle D’Amour](https://open.spotify.com/track/5ZrhNmKYbVkJE99YaRc6MP) | [MISS DRAYA](https://open.spotify.com/artist/3dTsFgnRrMG6e7Qoea6g7Y), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Parle D’Amour](https://open.spotify.com/album/44Nl1x0XdTbstM0sO2W0sN) | 2:39 |
 | 23 | [Ginger](https://open.spotify.com/track/1GgmXBlYBhXMrJ1yryrVp4) | [Chong Kwong](https://open.spotify.com/artist/0ckd5xl3yooOAZKClYktdr) | [Ginger](https://open.spotify.com/album/2EETGMk4hvBtQLReumWVxt) | 2:47 |
-| 24 | [Atira\-te A Mim](https://open.spotify.com/track/3HvRTosSAALgKNtiPaDnau) | [MAR](https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY) | [Atira\-te A Mim](https://open.spotify.com/album/0MPFCmaG0oGYZKJ5YWRTJF) | 2:23 |
+| 24 | [ATIRA\-TE A MIM](https://open.spotify.com/track/3HvRTosSAALgKNtiPaDnau) | [MAR](https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY) | [ATIRA\-TE A MIM](https://open.spotify.com/album/0MPFCmaG0oGYZKJ5YWRTJF) | 2:23 |
 | 25 | [IF I GAVE U MY DREAM](https://open.spotify.com/track/4UWFmfXacUXEITMeu1wKPE) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [IF I GAVE U MY DREAM](https://open.spotify.com/album/64Tr9k5I08BhGd42SkRHlq) | 2:54 |
 | 26 | [Dançamos](https://open.spotify.com/track/4K6Bk3H55Lsl0vY5Jy5Qpw) | [Micaela](https://open.spotify.com/artist/2tZVlkHDHprEOJcIOxiJSK) | [Dançamos](https://open.spotify.com/album/4CZzwEMeZc4gXFZ3QnOOHV) | 3:36 |
 | 27 | [s.pedro](https://open.spotify.com/track/6i4Onzzgc70j2NOkxVSJHP) | [MALLINA](https://open.spotify.com/artist/3qfvMAysyTRLCRPa8l5NbT) | [s.pedro](https://open.spotify.com/album/4qWY85p6xuhSSR7QhdCOB6) | 2:51 |

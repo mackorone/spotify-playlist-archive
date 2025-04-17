@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
-  "num_followers": 148065,
+  "num_followers": 148045,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
+      },
+      "artists": [
+        {
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "C9 Single Album '2022 C9 Christmas'",
         "url": "https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 207880,
       "name": "Merry Merry Christmas",
       "url": "https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "Christmas Love",
-        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
-      },
-      "artists": [
-        {
-          "name": "A.C.E",
-          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "the collective soul and unconscious: snowy night",
-        "url": "https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 213042,
-      "name": "snowy night",
-      "url": "https://open.spotify.com/track/7ajApbhtm75giJ9Sj6qRnO"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Christmas Again",
         "url": "https://open.spotify.com/album/6OMA4TLlpQnbfCpx4s6Cmc"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 226493,
       "name": "Christmas Again",
       "url": "https://open.spotify.com/track/1CNmcZ0bv30xYUTPiftBtS"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "the collective soul and unconscious: snowy night",
+        "url": "https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 213042,
+      "name": "snowy night",
+      "url": "https://open.spotify.com/track/7ajApbhtm75giJ9Sj6qRnO"
     },
     {
       "added_at": "2025-01-18 02:25:33",

@@ -583,22 +583,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Euronites",
-        "url": "https://open.spotify.com/album/2X2wLhDxQF1HGunasIEdjr"
-      },
-      "artists": [
-        {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Dance All Night",
-      "url": "https://open.spotify.com/track/4g9HX5pBd1CHk4oq7vM9B0"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "Strawberry Dream",
         "url": "https://open.spotify.com/album/7CQX6aejSNeztkuDRmkRhV"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 191940,
       "name": "Strawberry Dream",
       "url": "https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Euronites",
+        "url": "https://open.spotify.com/album/2X2wLhDxQF1HGunasIEdjr"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/4g9HX5pBd1CHk4oq7vM9B0"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
       "artists": [
         {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 228065,
-      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
-      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Jars",
-        "url": "https://open.spotify.com/album/6ZHr5O5D4q7xfvLUIbASA5"
+        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
       },
       "artists": [
         {
-          "name": "Joselin",
-          "url": "https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt"
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
         }
       ],
-      "duration_ms": 139264,
-      "name": "Jars",
-      "url": "https://open.spotify.com/track/590ecw84DmjMvGcK8rw5jb"
+      "duration_ms": 228065,
+      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
+      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
+        "name": "Jars",
+        "url": "https://open.spotify.com/album/6ZHr5O5D4q7xfvLUIbASA5"
+      },
+      "artists": [
+        {
+          "name": "Joselin",
+          "url": "https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "Jars",
+      "url": "https://open.spotify.com/track/590ecw84DmjMvGcK8rw5jb"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
         "name": "Lazy",
         "url": "https://open.spotify.com/album/2xjF3kxMxZtgPYGc3amcQu"
       },
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm"
+      },
+      "artists": [
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Nothing's Really Over, Not With Anyone",
+      "url": "https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 172198,
       "name": "911",
       "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
-        "name": "top G",
-        "url": "https://open.spotify.com/album/1JVcFthjmAi4KByDMFd1O5"
-      },
-      "artists": [
-        {
-          "name": "LUJAIN",
-          "url": "https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G"
-        }
-      ],
-      "duration_ms": 135227,
-      "name": "top G",
-      "url": "https://open.spotify.com/track/6ZJ02ejciOqe5AP6mkkK3b"
     }
   ],
   "unique_name": "GRL PWR",

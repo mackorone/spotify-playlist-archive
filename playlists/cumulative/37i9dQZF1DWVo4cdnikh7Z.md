@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Good Bad Ugly
 
-1,751 songs - 4 day 9 hr 57 min
+1,752 songs - 4 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,6 +1073,7 @@
 | [Oru Idayathil](https://open.spotify.com/track/5PWm5OJqcnC1STQhmfhFmX) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [S\. P\. Hosimin](https://open.spotify.com/artist/08Mj8WKPJSZxPzy8GU0QkP) | [Vithai Virumbu](https://open.spotify.com/album/4OsedZSh5gmJ354r7NJWoI) | 3:07 | 2023-09-21 | 2023-10-05 |
 | [Oru Kanni](https://open.spotify.com/track/2ZkH0eW7GjePJ5y4g8uOPi) | [Vedshanker](https://open.spotify.com/artist/1rKhRapoEycxy0l83x4o0F), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj) | [Paper Rocket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lwB5hBZ2xVKPPxeDC3kVT) | 3:35 | 2022-07-19 | 2022-08-05 |
 | [Oru Kozhi Mutta \- From "Kalvan"](https://open.spotify.com/track/0MCX0jTQoR4xSnJgEFrf2T) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Santosh Hariharan](https://open.spotify.com/artist/2bgedszFVmHCgoqkAUXrBf), [Ekadesi](https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c) | [Oru Kozhi Mutta \(From "Kalvan"\)](https://open.spotify.com/album/060SXl1UEg5E2e1Wj4vipd) | 2:34 | 2024-03-19 | 2024-06-13 |
+| [Oru Manaiviyaai \(From "Peranbum Perungobamum"\)](https://open.spotify.com/track/6iFXGoms6JQqQtdSZiQkOa) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Vibhavari Apte Joshi](https://open.spotify.com/artist/439gLoEMixkwyLH4n0ohuw) | [Oru Manaiviyaai \(From "Peranbum Perungobamum"\)](https://open.spotify.com/album/5G4eBRw3WGk9uTpyCCuLJe) | 5:03 | 2025-04-16 |  |
 | [Oru Manam](https://open.spotify.com/track/4mg3xNA3pAWbBirHnp7S6D) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue) | [Surya's Saturday \(Tamil\) \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7HhVPGsi0OACd07d5DXpJL) | 4:52 | 2024-08-29 | 2024-09-24 |
 | [Oru Naal \(From "Raththam"\)](https://open.spotify.com/track/4frV5wZLtJuJJbGSFOTHBD) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Kannan Narayanan](https://open.spotify.com/artist/7r0u1R5mKyuh2rA2ke2c9L) | [Oru Naal \(From "Raththam"\)](https://open.spotify.com/album/0SPIBE6bdYQkosg9yOfpXM) | 4:00 | 2023-09-14 | 2023-09-16 |
 | [Oru Naal \(From "Raththam"\)](https://open.spotify.com/track/6qeznlFy3cybuC30HRYuoS) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Kannan Narayanan](https://open.spotify.com/artist/4AGY446jF0YS1MYuEUgEC0) | [Oru Naal \(From "Raththam"\)](https://open.spotify.com/album/6JuMTpzn8dyPeohXdseHqB) | 4:00 | 2023-09-14 | 2023-10-19 |

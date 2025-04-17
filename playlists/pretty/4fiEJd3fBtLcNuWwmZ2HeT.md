@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 280 songs - 15 hr 55 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 282 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -288,5 +288,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 278 | [Knife of Love](https://open.spotify.com/track/3uA8nw4Jwgdcq6Q8JXTMYx) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [Knife of Love](https://open.spotify.com/album/579EA2TK9INZyfuJ1mH7Y9) | 2:42 |
 | 279 | [aishiteitanoni](https://open.spotify.com/track/16kqUisnDZz1DC789Ks1lE) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [aishiteitanoni](https://open.spotify.com/album/4hDLuHOt6Mo98I2SVufLji) | 3:39 |
 | 280 | [プロポーズ](https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Let me battle](https://open.spotify.com/album/0lrzLq3f2hFBaaTHN0xURv) | 3:54 |
+| 281 | [like a ghost \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1EHjsmdVXK64z9MFmebp46) | [sato noco](https://open.spotify.com/artist/18VhiGitw1aRTgdMPl49EV), [Kaai Yuki](https://open.spotify.com/artist/71LWbhymyyFoWzzy6tuPGn) | [like a ghost](https://open.spotify.com/album/0x6PunvepjfphMDfuydH2h) | 2:54 |
+| 282 | [うそ鳴き](https://open.spotify.com/track/4Hal50XJ5qW9TtsFWvMlJU) | [心世紀](https://open.spotify.com/artist/3D7WfGrhPBUqfKQ4BAlOa6), [少女革命計画](https://open.spotify.com/artist/7gFHp9H8K8h4B9y7HkFC7N), [御莉姫](https://open.spotify.com/artist/0Ur3wB7R1lkydYPdwATVpe), [佳鏡院](https://open.spotify.com/artist/1ydUxA0KMdyroinaACZFsu), [硝子宮](https://open.spotify.com/artist/71B1IRtrf1zRRSUPOsxOLu) | [うそ鳴き](https://open.spotify.com/album/4VHIOjtivBozJgUHrJgxeo) | 3:16 |
 
-Snapshot ID: `AAAI+ssbJfJWn1zfljMpLLT9pdUTCuNR`
+Snapshot ID: `AAAI/D2z8lFVS5ExKUWMpYnydX7sU19y`

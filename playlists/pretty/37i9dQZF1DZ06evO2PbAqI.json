@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 33106,
+  "num_followers": 33121,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/xQAAAAAADLxiVE2cODRC2XRqQi0uP6",
+  "snapshot_id": "Z/2hgAAAAABCWG7+9mcLoFRpFw7SP1p9",
   "tracks": [
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Kill The Light",
-      "url": "https://open.spotify.com/track/3DJbHfY5CMfsEDO935cWd5"
+      "duration_ms": 232466,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/5aDNR9kL3HsG3kUAeuguHl"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 232466,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/5aDNR9kL3HsG3kUAeuguHl"
+      "duration_ms": 214666,
+      "name": "Kill The Light",
+      "url": "https://open.spotify.com/track/3DJbHfY5CMfsEDO935cWd5"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+        "name": "In a Reverie",
+        "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 218906,
-      "name": "Within Me",
-      "url": "https://open.spotify.com/track/23iFER67b8UKCW67hQTJOs"
+      "duration_ms": 307266,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In a Reverie",
-        "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 307266,
-      "name": "Falling Again",
-      "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comalies XX",
         "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
       },
@@ -624,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 201906,
-      "name": "To the Edge",
-      "url": "https://open.spotify.com/track/1ljUMhT0vIaNhMRrf8RYXr"
+      "duration_ms": 218906,
+      "name": "Within Me",
+      "url": "https://open.spotify.com/track/23iFER67b8UKCW67hQTJOs"
     },
     {
       "added_at": null,
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 221093,
-      "name": "What I See",
-      "url": "https://open.spotify.com/track/5MZFXKHRKB59gb7KZPAaBi"
+      "duration_ms": 201906,
+      "name": "To the Edge",
+      "url": "https://open.spotify.com/track/1ljUMhT0vIaNhMRrf8RYXr"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "What I See",
+      "url": "https://open.spotify.com/track/5MZFXKHRKB59gb7KZPAaBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Anima (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 281213,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/3akgtEWS7xfTNhQFtWUqc1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shallow Life",
-        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/1CxtFFOZHWMR6oiG3GbIiq"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 261053,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shallow Life",
+        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/1CxtFFOZHWMR6oiG3GbIiq"
     },
     {
       "added_at": null,

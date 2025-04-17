@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/3Du1Oc0JUqb6lxFFEqGuT4"
+      },
+      "artists": [
+        {
+          "name": "Max Swan",
+          "url": "https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/4bN96tqhMRF1WW6jeiLGPB"
+    },
+    {
+      "album": {
         "name": "A Gentle Invitation",
         "url": "https://open.spotify.com/album/3u9VcEAHRGzXiejoaybCOw"
       },

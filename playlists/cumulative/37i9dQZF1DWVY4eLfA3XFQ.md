@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house 😺 Tech house technicians, featuring Discip
 
-2,058 songs - 4 day 17 hr 48 min
+2,059 songs - 4 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1363,6 +1363,7 @@
 | [Party In Ibiza](https://open.spotify.com/track/4JahWwOoevd7e9PUF4BzTR) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Party In Ibiza](https://open.spotify.com/album/6SD5LGeZKOPmP2pXKzMrgO) | 3:21 | 2024-04-12 | 2024-06-08 |
 | [Party People](https://open.spotify.com/track/5EPso1jbkZ87ztEERhraZS) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Party People](https://open.spotify.com/album/2QnH4p6bRWa0gE276h2Y7o) | 3:19 | 2023-06-16 | 2023-10-28 |
 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 | 2021-11-26 | 2022-04-29 |
+| [Pass Out](https://open.spotify.com/track/5LJA1b09Qk9e6YgJ3EAijr) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Pass Out](https://open.spotify.com/album/4LBT3XX0epHyEulv6yix9L) | 2:49 | 2025-04-16 |  |
 | [Pattak](https://open.spotify.com/track/70BVqXGk3ipo7TOiyrnzud) | [Adapter](https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V) | [Pattak](https://open.spotify.com/album/0l322RENhp8ebBNRMoTDYB) | 3:30 | 2021-11-26 | 2022-04-29 |
 | [Paula Abdul](https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Paula Abdul](https://open.spotify.com/album/2VwwIv7odmc6l7SIFwB0vx) | 3:38 | 2025-01-17 |  |
 | [Pega](https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Pega](https://open.spotify.com/album/167hCxWi15k96f2XJfqGPM) | 2:47 | 2023-08-18 | 2023-12-16 |
@@ -1675,7 +1676,7 @@
 | [State Of Mind \(feat\. Sarah de Warren\) \- Guz Remix](https://open.spotify.com/track/7rcuHUBzcsHNJOlPNvH14q) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [State Of Mind \(feat\. Sarah de Warren\) \[Guz Remix\]](https://open.spotify.com/album/1TiR8DuQwzQaurJqTtY4tY) | 2:52 | 2022-04-08 | 2022-05-07 |
 | [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 | 2025-03-21 |  |
 | [Steel Drum](https://open.spotify.com/track/2b5x072M9YaoZX3d4FNQjK) | [Tony Cortez](https://open.spotify.com/artist/0vJ1pIGHRduH7om9qJG73s) | [Steel Drum](https://open.spotify.com/album/7IfvPYfV65MiwYXQUKfOUk) | 2:53 | 2025-02-21 | 2025-03-01 |
-| [Step By Step](https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Step By Step](https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO) | 2:59 | 2025-02-11 |  |
+| [Step By Step](https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Step By Step](https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO) | 2:59 | 2025-02-11 | 2025-04-17 |
 | [Step Into It \(Golden Ticket\)](https://open.spotify.com/track/6NmcxJuphyJDjZOw43qyk7) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Step Into It \(Golden Ticket\)](https://open.spotify.com/album/3kFZhkT2vlgG2CgNT5ERXN) | 2:44 | 2022-11-28 | 2023-04-01 |
 | [Step To](https://open.spotify.com/track/0HsQvGaux6t1XMptT4XrhU) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Step To](https://open.spotify.com/album/2K3748HtawpGZUmelDKNhx) | 3:42 | 2022-09-23 | 2023-04-22 |
 | [Step\-Grandma](https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Step\-Grandma](https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy) | 2:40 | 2021-11-26 | 2022-01-06 |

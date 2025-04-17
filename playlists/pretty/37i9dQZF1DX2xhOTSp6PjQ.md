@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY?si=\-Lv1tbnmRRyJ9I0g\-fTLow">uMlabalaba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,972 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,099 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

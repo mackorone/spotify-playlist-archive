@@ -19961,6 +19961,24 @@
     },
     {
       "album": {
+        "name": "Morning Star",
+        "url": "https://open.spotify.com/album/06bLLXMpq3yL4rOiKpU2b0"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60451,
+      "name": "Morning Star",
+      "url": "https://open.spotify.com/track/6bDOa4jinu3iAjD88tbwv4"
+    },
+    {
+      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/3p41gPoTXPhDffJ6M5PXTM"
       },
@@ -26012,6 +26030,24 @@
       "duration_ms": 60303,
       "name": "Sanguine",
       "url": "https://open.spotify.com/track/14iPgFaZ1l9JA3MtJOm9zj"
+    },
+    {
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/21uxRdPryxPfSXjrINn2UV"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60240,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/1vxYRi1Sl4oFwIzWEahUGw"
     },
     {
       "album": {

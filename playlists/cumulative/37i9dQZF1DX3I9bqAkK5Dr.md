@@ -2,7 +2,7 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
+> Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
 355 songs - 21 hr 19 min
 

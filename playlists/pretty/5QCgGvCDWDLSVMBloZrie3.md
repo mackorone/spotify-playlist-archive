@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 241 songs - 15 hr 11 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 242 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,5 +249,6 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 239 | [Look Me In The Eye \(feat\. Daisy Jones\) \- Live from Diamond Head Festival – 1975](https://open.spotify.com/track/5cm6SnCOh8en9CakuVQdwB) | [The Dunne Brothers](https://open.spotify.com/artist/79LTsc5cQUOp4j08YIy1eK), [Daisy Jones](https://open.spotify.com/artist/0Ez39SlEHcxFV6TQu8JDdO) | [AURORA \(Deluxe\)](https://open.spotify.com/album/2hDAVBD90HNLufQUQgaKH5) | 3:39 |
 | 240 | [Carlo's Song](https://open.spotify.com/track/7qjCmoM2kKXAt2QIPhLVIg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:54 |
 | 241 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 |
+| 242 | [Call Ya Back](https://open.spotify.com/track/4eHwvC61LSVrl9PYqfRt52) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Something for Everybody](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 2:11 |
 
-Snapshot ID: `AAAGHqu4ZFLdR2CwnWT6ul7XhHKuVsWc`
+Snapshot ID: `AAAGHxMHUO6n1hEnJqi9QruNcKwun11S`

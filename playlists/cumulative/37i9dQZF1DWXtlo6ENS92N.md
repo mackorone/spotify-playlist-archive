@@ -2,7 +2,7 @@
 
 ### [Bollywood Central](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> Bollywood Central, jab baje toh seedha dil ke centre mein lage 🫶🏼 Cover \- TBMAUJ
+> Bollywood Central, jab baje toh seedha dil ke centre mein lage 🫶🏼 Cover \- Bhool Bhulaiyaa 3
 
 178 songs - 11 hr 54 min
 

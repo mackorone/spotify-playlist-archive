@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin Van Buuren &amp; Rob Swire
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,195 likes - 151 songs - 7 hr 49 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,184 likes - 151 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 150 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 |
 | 151 | [Free](https://open.spotify.com/track/7qprvBczTq7d2oOQisUdGy) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Armada Music Year Mix 2024](https://open.spotify.com/album/38ezuNxMBVB0FsiF29Wo3P) | 3:16 |
 
-Snapshot ID: `AADT1GzVHCTELU7KvXT00H5cMbF3uPqP`
+Snapshot ID: `AADT1hwytAy2fQiUj6n2J/i4OZpJX3D+`

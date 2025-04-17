@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: tuki\. \*👉 <a href="https://spice.eplus.jp/articles/336715">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: tuki\. \*👉 <a href="https://spice.eplus.jp/articles/337094">SPICE連動記事</a>をSPICEでチェック!
 
-10,190 songs - 26 day 11 hr 38 min
+10,191 songs - 26 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [2025/3/19 サザンオールスターズがニューアルバムをリリース！Early NoiseアーティストLavtの新曲も！さかいゆう、帝国喫茶、コレサワのニューアルバムもピックアップ！](https://open.spotify.com/episode/7a5ub58z4WoAtjlB1V2Z4r) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:29 | 2025-03-19 | 2025-03-26 |
 | [2025/3/26 m\-floが鈴木真海子を迎えた新曲をリリース！千葉雄喜のニューアルバムも！音田雅則のEPやFirst Love is Never Returnedの新曲もピックアップ！『Spotify Early Noise Night \#17』で行ったアーティストインタビューもあり！](https://open.spotify.com/episode/5EUutpzn0LRofTqti5rRPD) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 43:04 | 2025-03-26 | 2025-04-02 |
 | [2025/3/5 AAAMYYYが鎮座DOPENESSとNeetzを迎えた新曲をリリース！女王蜂のニューアルバムも！君島大空のニューEP、G\-k.i.dのソロ新曲、冨田ラボの新曲もピックアップ！この1週間の音楽ニュースも深堀り！](https://open.spotify.com/episode/0T6FmQgdyXosPxc3EqnOFg) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:11 | 2025-03-05 | 2025-03-12 |
+| [2025/4/16 tuki.が初のドラマ主題歌をリリースしてカバーに！RIP SLYMEの約9年ぶりとなる5人そろっての新曲、Jackson WangとNumber\_iのコラボ作品も！バルーンによる企画アルバム、TK from 凛として時雨のニューアルバムもピックアップ！](https://open.spotify.com/episode/1BukHz0sbkVpvoOghHdYXo) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 18:23 | 2025-04-16 |  |
 | [2025/4/2 LANAがカバー！HANAのメジャーデビューソングも！Young Cocoのニューアルバム、JO1のベスト・アルバム、デビュー45周年を迎えた松田聖子の新曲もリリースに！](https://open.spotify.com/episode/6A2CpC1KzxagbuS5DSzEnp) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:27 | 2025-04-02 | 2025-04-09 |
 | [2025/4/9 Mrs\. GREEN APPLEが新曲をリリースしてカバーに！Adoからメッセージも到着！！友成空、離婚伝説、幾田りらの新曲も！MC TYSONのニューEPもピックアップ！](https://open.spotify.com/episode/1ijtLjWEbFaAEOr8Z7rlog) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 27:17 | 2025-04-09 | 2025-04-16 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |

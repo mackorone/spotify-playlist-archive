@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,142 likes - 55 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,188 likes - 55 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 17 | [Quanno me ne so juto](https://open.spotify.com/track/0Hi6vdLz9l1yBDHg3CPaCL) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Vita bona](https://open.spotify.com/album/0dzCyDqy3dTwfYkNflwTXL) | 4:19 |
 | 18 | [PREGIUDICAT \(feat\. El Chapo Junior\)](https://open.spotify.com/track/5hMNzRMmktrzIeoFoykfo3) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc) | [PREGIUDICAT \(feat\. El Chapo Junior\)](https://open.spotify.com/album/1T9FkoJv3d75YhqxWHVvdx) | 2:17 |
 | 19 | [PER SEMPRE](https://open.spotify.com/track/1tIGa9fXqu3T3AikU5G8Ds) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:59 |
-| 20 | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/track/0NkOlirqIz6SiZlOKDO85C) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [VGL](https://open.spotify.com/artist/5YDMk2Wbx2akPWEqIEb04N) | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/album/1FqrZtX1JRElTqClzhzk2W) | 2:51 |
+| 20 | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/track/0NkOlirqIz6SiZlOKDO85C) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV) | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/album/1FqrZtX1JRElTqClzhzk2W) | 2:51 |
 | 21 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 |
 | 22 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 |
 | 23 | [Favela](https://open.spotify.com/track/0zBuNEWy5YufPBn0xUdCQ9) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [Favela](https://open.spotify.com/album/1Tt1QbxEytKl9ub1ypTlDp) | 1:56 |

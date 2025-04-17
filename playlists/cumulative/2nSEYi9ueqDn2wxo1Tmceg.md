@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-1,297 songs - 3 day 16 hr 39 min
+1,299 songs - 3 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Bang](https://open.spotify.com/track/39Ys9oI5C9zzV4sccQJDSC) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Ahora](https://open.spotify.com/album/6T9eevf9e0eI2S7kM3oj9A) | 5:10 | 2023-11-15 | 2024-01-11 |
 | [Bang](https://open.spotify.com/track/5XmfmJl6z8B5bvVzhk5vUg) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/2ekIzRVrvwVtjRiK7vrhhU) | 5:10 | 2023-06-28 | 2023-08-03 |
 | [Bazo Banga](https://open.spotify.com/track/5yBUgAS3Faka0vvHMjw6bw) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [BUTU](https://open.spotify.com/album/35C8dWXbfHydmhsnD5bzax) | 4:34 | 2024-07-24 | 2024-09-05 |
+| [Be a Man](https://open.spotify.com/track/2CDSRNLnEaDLHr1PFNeTuk) | [Demise Of Love](https://open.spotify.com/artist/1NXsFjzcDPUKz6fuB9Qq6R), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Be a Man](https://open.spotify.com/album/5LFOUzcpGSV45eXcQszJzs) | 3:12 | 2025-04-16 |  |
 | [Be Kind](https://open.spotify.com/track/4vMODrGkcrI0SIHVAMWbX5) | [The Male Gays](https://open.spotify.com/artist/6GaiQHJPnehNkQwBXkKdbd) | [Be Kind](https://open.spotify.com/album/1W5hohzdyfWmDuQWBtAMfT) | 2:42 | 2024-06-12 | 2024-07-25 |
 | [Be My Best](https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [Be My Best](https://open.spotify.com/album/1M5lIx2zlIDbkRYtT2XUNB) | 4:11 | 2024-01-17 | 2024-03-01 |
 | [Be Strong](https://open.spotify.com/track/2wdLugV4zmXr8DOZPVn9mr) | [One True Pairing](https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K) | [Be Strong](https://open.spotify.com/album/2aaywPSyPyNfV4FcD6rHUx) | 3:07 | 2024-06-20 | 2024-08-08 |
@@ -576,6 +577,7 @@
 | [Ignore The Flood](https://open.spotify.com/track/76QDLt0s8R3fYbWAp01rgK) | [Giant Day](https://open.spotify.com/artist/4ci5JPNYFlCjHkDMWQpvU7) | [Ignore The Flood \[single\]](https://open.spotify.com/album/6x2nztcp02EVlkV0xjnvxK) | 3:11 | 2024-07-10 | 2024-08-29 |
 | [Illumina](https://open.spotify.com/track/6ELO54pQV6sxiMcurHkcX1) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Eulo Cramps](https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO) | 3:46 | 2023-10-18 | 2023-11-30 |
 | [Illusion pt\. II](https://open.spotify.com/track/2UkhSOFbhVQEAB5zRJ8wf2) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Dead Meat](https://open.spotify.com/album/1IomqS65kF4LJ7bJX94rSj) | 4:36 | 2023-02-22 | 2023-04-06 |
+| [Image and Style](https://open.spotify.com/track/4BGirMwkClgjnoWe0qbYpb) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [SUKU of Ward 21](https://open.spotify.com/artist/3X3vwCoOyOMUlecMoYqb4P), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl) | [Image and Style](https://open.spotify.com/album/1uhwpHm5AFHdJRsYCsLwgO) | 3:15 | 2025-04-16 |  |
 | [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 | 2022-09-27 | 2022-11-10 |
 | [Impending Doom](https://open.spotify.com/track/15aZFaQOPoLYmyVQ7wLoVV) | [PARENT TEACHER](https://open.spotify.com/artist/1ZF7sZoCluOISW7vSPrfkY) | [Impending Doom](https://open.spotify.com/album/2eP4KYhijiEWPMftSCvnOP) | 3:25 | 2023-02-22 | 2023-04-06 |
 | [Impurities](https://open.spotify.com/track/2jkQ4W13nSGGkUrkRt7ihK) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:49 | 2023-06-07 | 2023-07-13 |

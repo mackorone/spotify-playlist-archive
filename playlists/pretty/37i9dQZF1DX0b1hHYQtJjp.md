@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,524 likes - 64 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,536 likes - 64 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Bon Iver, Lana Del Rey, Loyle Carner and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,797 likes - 119 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,823 likes - 119 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 86 | [The Day The Baron Died](https://open.spotify.com/track/1QcutUyjtk9PSpR7msdfyS) | [Peter Doherty](https://open.spotify.com/artist/0ikiOZC4SDG6OrgHLESydg) | [The Day The Baron Died](https://open.spotify.com/album/7rmo0Z3PCepd4ePlHD43g5) | 3:42 |
 | 87 | [Mirror's Edge](https://open.spotify.com/track/456tPmLLrNb6ZRTeyS2h80) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [POiSON ANNA](https://open.spotify.com/artist/1qC3BErhNjJ0AP7Ddg4YfD) | [Mirror's Edge](https://open.spotify.com/album/7kVHEGvxMaOlnandC0faCR) | 3:57 |
 | 88 | [Nothing Special](https://open.spotify.com/track/3zv2JGnnUxQoNLsox1oGI3) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Anything For You](https://open.spotify.com/album/1U9doeeShDxZxHINVULgZr) | 2:12 |
-| 89 | [RVD](https://open.spotify.com/track/708tctyR0bwIgpNELsGws3) | [Lostboys](https://open.spotify.com/artist/21qSWoy0uZCgaPEEQ2lt8A), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [S5](https://open.spotify.com/artist/1ydrXEREujBSvcKzQt1SNS), [omgronin](https://open.spotify.com/artist/3WgNUMsPuStQpfP8WB9AP4) | [RVD](https://open.spotify.com/album/1O4G0GDvk8L6vW2dqbD5Xh) | 1:46 |
+| 89 | [RVD](https://open.spotify.com/track/708tctyR0bwIgpNELsGws3) | [Lostboys](https://open.spotify.com/artist/21qSWoy0uZCgaPEEQ2lt8A), [S5](https://open.spotify.com/artist/1ydrXEREujBSvcKzQt1SNS), [omgronin](https://open.spotify.com/artist/3WgNUMsPuStQpfP8WB9AP4), [Len](https://open.spotify.com/artist/4vX2D2ok3d10h2Y2oDM9SW) | [RVD](https://open.spotify.com/album/1O4G0GDvk8L6vW2dqbD5Xh) | 1:46 |
 | 90 | [Apocalypse](https://open.spotify.com/track/7JHBVKXqPRcwxPtzfCvNx7) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Max Zotti](https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apocalypse](https://open.spotify.com/album/09SBRIWEtNgYH0U9YzE1K0) | 3:35 |
 | 91 | [Motion](https://open.spotify.com/track/2tYBGdS1nOIq6DQeC4nQir) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Motion](https://open.spotify.com/album/6ppZkpdjclQVhXx81n15pv) | 1:48 |
 | 92 | [Charge of the Light Brigade](https://open.spotify.com/track/4MKQqyhZeayhzlPlplEpud) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Charge of the Light Brigade](https://open.spotify.com/album/4nOvSCja8F1kvZiTgmkE1D) | 3:06 |

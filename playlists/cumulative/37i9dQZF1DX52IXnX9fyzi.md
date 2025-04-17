@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-523 songs - 22 hr 36 min
+524 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Romance No 2 'Normandie'](https://open.spotify.com/track/4zGwlwhObmrKxQSVwaWFMA) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Romance No 2 'Normandie'](https://open.spotify.com/album/6DEdXVTwC9oIO4DVvIqT7s) | 3:14 | 2022-05-04 | 2024-10-02 |
 | [Romantic Theme X](https://open.spotify.com/track/57aqcpd8EXl1k1pWDSZY7n) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Romantic Theme X](https://open.spotify.com/album/5fcLeerhYIat8LZYcyXxU1) | 2:41 | 2023-06-20 | 2025-04-05 |
 | [Rondel](https://open.spotify.com/track/5ltbjrXShDx3IxIDc0V9pR) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Rondel](https://open.spotify.com/album/608WW98ZRHAeC8duELOME1) | 2:03 | 2022-09-13 |  |
+| [Roots 根](https://open.spotify.com/track/3ngWP0Oqn7ohTDArbaWdIW) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Roots 根](https://open.spotify.com/album/49ms3ysWcHbTAnRYvoZfMW) | 2:28 | 2025-04-16 |  |
 | [Rosa Luxemburgo](https://open.spotify.com/track/3DSLUfpT5GcCoNin7XkUK0) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Rosa Luxemburgo](https://open.spotify.com/album/6rGf3FOvvgBG3JOxkNnj4t) | 2:36 | 2022-05-13 | 2025-04-10 |
 | [Sacrifice](https://open.spotify.com/track/1w5hmKj5aKzeYwJDmXWvos) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Sacrifice](https://open.spotify.com/album/6H4OFwDXGIayENuOoNNnZX) | 3:04 | 2023-08-22 |  |
 | [Salamander](https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Salamander](https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn) | 3:05 | 2022-08-03 | 2025-04-05 |

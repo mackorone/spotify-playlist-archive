@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-57 songs - 3 hr 30 min
+58 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Plans We Make](https://open.spotify.com/track/4yrEBkqDex90UlTrpDNWp5) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/2uIok4N2xby1W5x3WhSAba) | 3:32 | 2024-04-27 |  |
 | [Procession](https://open.spotify.com/track/2rrdr7O92fV48GgHDrzJ75) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 2:52 | 2022-05-25 |  |
 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 | 2022-05-25 |  |
+| [Shall Not Be Moved](https://open.spotify.com/track/622yds0g4cL2ls2Dk8hwLQ) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Love is the Message](https://open.spotify.com/album/2NsotSuPYSPjhEOqPofobT) | 3:49 | 2025-04-16 |  |
 | [Someone Like You](https://open.spotify.com/track/1oAtUtXLAHDOag6mwR0wyL) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 4:09 | 2023-12-13 | 2024-04-20 |
 | [Someone Like You](https://open.spotify.com/track/1rfmeLSq9SHLInp1fEsgbg) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 4:09 | 2022-05-25 | 2023-12-14 |
 | [Someone Like You](https://open.spotify.com/track/4K6UMrt38Y8OBhWWQ6gNmu) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/6ES92uhTs5Mudx4XQKH3Z9) | 4:09 | 2024-04-19 |  |

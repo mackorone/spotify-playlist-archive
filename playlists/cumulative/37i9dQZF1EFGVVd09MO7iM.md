@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-918 songs - 2 day 10 hr 30 min
+920 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Ain't No Doubt About It](https://open.spotify.com/track/0wIkzlWdfUvuHGw9FqOQLI) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Goin' All Out](https://open.spotify.com/album/119TqT324LissrAdkAKxf9) | 4:22 | 2024-09-12 |  |
 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 | 2024-09-28 |  |
 | [Aladdin](https://open.spotify.com/track/4JfIVly5bar1EuOVOhDMcD) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [HAPPY 2 BE HERE](https://open.spotify.com/album/1CGxJ2HpqjEqmU56coDJyW) | 2:46 | 2024-06-20 | 2024-06-22 |
-| [All Eyes on Me](https://open.spotify.com/track/6C7kfeD5J8WumcG7Y44yrM) | [OR1O](https://open.spotify.com/artist/0VculuNKhdQme3MzjmTXRL) | [All Eyes on Me](https://open.spotify.com/album/2j8VLoApLXIMKOsFZbc9r6) | 4:02 | 2025-04-14 |  |
+| [All Eyes on Me](https://open.spotify.com/track/4Uy6JSsO0tnwRMKiTMPwVR) | [Bewared](https://open.spotify.com/artist/59af5mdpghaIzOYZHRAZ38) | [All Eyes on Me](https://open.spotify.com/album/5jlgzoP5QfMHFE4bpwhcmg) | 4:02 | 2025-04-16 |  |
+| [All Eyes on Me](https://open.spotify.com/track/6C7kfeD5J8WumcG7Y44yrM) | [OR1O](https://open.spotify.com/artist/0VculuNKhdQme3MzjmTXRL) | [All Eyes on Me](https://open.spotify.com/album/2j8VLoApLXIMKOsFZbc9r6) | 4:02 | 2025-04-14 | 2025-04-17 |
 | [All Eyes on Me](https://open.spotify.com/track/0gg5h5BgdjVlXTti79TUao) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [All Eyes on Me](https://open.spotify.com/album/2kOw2vtpI2FxttuzfP0rfU) | 4:02 | 2024-01-29 | 2025-03-21 |
 | [All Eyes on Me \(feat\. Keri Hilson\)](https://open.spotify.com/track/0aOp92L0KjfLH3zamn8Vdv) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Til The Casket Drops](https://open.spotify.com/album/3fFlGU0k3z7wle0gp4wNrU) | 3:50 | 2024-09-12 | 2024-12-12 |
 | [All I Said \(feat\. Macy Gray\)](https://open.spotify.com/track/1aChz5EiVPmFTm6YETgrvM) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:07 | 2024-09-12 |  |
@@ -336,6 +337,7 @@
 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 | 2024-01-29 |  |
 | [Havana \- Remix](https://open.spotify.com/track/3whrwq4DtvucphBPUogRuJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Havana \(Remix\)](https://open.spotify.com/album/3g56eEg5YgMf3LZPHCMOx2) | 3:19 | 2025-01-09 | 2025-04-12 |
 | [Head Bust](https://open.spotify.com/track/6NfrCH8s8WzcJIK2Ow7oRw) | [Shark City Click](https://open.spotify.com/artist/3DZ1lfmKq3NgX6EOcH9HdZ) | [Fast and Furious](https://open.spotify.com/album/6opjyfv7sf4MeajaD3K8kk) | 3:55 | 2024-01-29 |  |
+| [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 | 2025-04-16 |  |
 | [Heartbeat](https://open.spotify.com/track/2JU8QGhMmM1r8UeuKHiyLh) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 4:03 | 2024-01-29 |  |
 | [Heartbeat](https://open.spotify.com/track/17leTzpwQBLeqJRYzhJKbi) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Scouting For Girls \(Expanded Edition\)](https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV) | 2:55 | 2024-01-29 |  |
 | [Heatstroke \(feat\. Young Thug, Pharrell Williams & Ariana Grande\)](https://open.spotify.com/track/60APt5N2NRaKWf5xzJdzyC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:49 | 2024-01-29 |  |

@@ -1,13 +1,29 @@
 {
   "description": "All songs made for furs, by furs.  Request @ spotify.furrest.net",
-  "num_followers": 553,
+  "num_followers": 556,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADef9eJSHA5yU2I0M/1xRgDHy5xDYh",
+  "snapshot_id": "AAADe2PY14i2zy2tkCPaRLZPGfcWc1h7",
   "tracks": [
+    {
+      "added_at": "2025-04-16 17:21:52",
+      "album": {
+        "name": "I WANNA BE ALIVE",
+        "url": "https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ"
+      },
+      "artists": [
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "I WANNA BE ALIVE",
+      "url": "https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo"
+    },
     {
       "added_at": "2025-04-14 15:57:34",
       "album": {

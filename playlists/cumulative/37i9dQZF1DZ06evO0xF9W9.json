@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/3rGcy1mGPvJi07RXYJBoaY"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167659,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/6m9BrQKlWR8DWg0sxvs9JP"
+    },
+    {
+      "album": {
         "name": "Nota de Pasion",
         "url": "https://open.spotify.com/album/1OmgUO1NEPBKKKMCXmI71d"
       },

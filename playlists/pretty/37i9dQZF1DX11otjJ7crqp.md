@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 ### [All New Pop](https://open.spotify.com/playlist/37i9dQZF1DX11otjJ7crqp)
 
-> Essential new pop tracks\. Cover: Jewel Owusu
+> All this week's best new pop releases\. Cover: Jewel Owusu
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,061 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,760 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Choke](https://open.spotify.com/track/3nYmUHg7YCAJxidL8al9kC) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Choke](https://open.spotify.com/album/559zxYFBos9pAJsoPCAm1b) | 2:43 |
 | 99 | [Reason 2 Japa](https://open.spotify.com/track/25oHQt2nwWQ6ILjkwZRRIy) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Reason 2 Japa](https://open.spotify.com/album/0xoYbMUYlLRuWg5NEYAg8M) | 2:46 |
 
-Snapshot ID: `Z/mDqgAAAABiG8anBVFFZY6IsT6D9TtC`
+Snapshot ID: `Z//J1AAAAADqmS7rlxbGglpZ6GegGTBP`

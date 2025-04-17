@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-221 songs - 11 hr 55 min
+222 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Blame It on Your Love \(feat\. Lizzo\)](https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:11 | 2024-01-01 |  |
 | [Blame It on Your Love \(feat\. Lizzo\)](https://open.spotify.com/track/5fdjum4kQAkokXxO6nDtRQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Blame It on Your Love \(feat\. Lizzo\)](https://open.spotify.com/album/7IoU1kTFhAdLdCNGDcmW6u) | 3:33 | 2023-12-30 | 2024-02-02 |
 | [Blow You Up \(feat\. AlunaGeorge & Less Is Moore\)](https://open.spotify.com/track/0MpuMMLaWGLYHC9MxKc3VH) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Less Is Moore](https://open.spotify.com/artist/4XwwChVejCSy5rQ570UE1c) | [Blow You Up \(feat\. AlunaGeorge & Less Is Moore \)](https://open.spotify.com/album/1H5bBq8PUjshZkvTJy2hUc) | 3:08 | 2023-12-30 |  |
+| [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 | 2025-04-16 |  |
 | [Body of My Own](https://open.spotify.com/track/4EYGBFACKU7TngonyV34Na) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:45 | 2023-12-30 |  |
 | [Boom Clap](https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:49 | 2023-12-30 |  |
 | [Boys & Girls](https://open.spotify.com/track/6FJN9EiWE5Fh20WYrHfB5N) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Boys & Girls](https://open.spotify.com/album/7EQPKYrMQWgZ41xrAwzp6E) | 4:01 | 2023-12-30 |  |

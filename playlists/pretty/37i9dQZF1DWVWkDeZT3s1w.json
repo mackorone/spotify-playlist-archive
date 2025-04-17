@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 110662,
+  "num_followers": 110688,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -335,38 +335,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Striptease",
-        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
-      },
-      "artists": [
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "R\u00ede Cuando Puedas",
-      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 221648,
-      "name": "De Mi Muerte",
-      "url": "https://open.spotify.com/track/14OCjeksnltHj3ttKoiwtz"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Tributos",
         "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
@@ -391,22 +359,34 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Patrullando",
-        "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
       },
       "artists": [
         {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 194285,
-      "name": "Patrullando",
-      "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
+      "duration_ms": 221648,
+      "name": "De Mi Muerte",
+      "url": "https://open.spotify.com/track/14OCjeksnltHj3ttKoiwtz"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Striptease",
+        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "R\u00ede Cuando Puedas",
+      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -423,6 +403,26 @@
       "duration_ms": 210813,
       "name": "Libertad",
       "url": "https://open.spotify.com/track/57yJ604s8wEXyjkqPsZdKC"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Patrullando",
+        "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Patrullando",
+      "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -527,6 +527,30 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        },
+        {
+          "name": "Se\u00f1or Marrano",
+          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Afirmativo",
+      "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 149408,
       "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        },
-        {
-          "name": "Se\u00f1or Marrano",
-          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Afirmativo",
-      "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
+        "name": "Rap da Rap quita",
+        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 289649,
+      "name": "Rap da Rap quita",
+      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
         "name": "Escaleras y Serpientes",
         "url": "https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Rap da Rap quita",
-        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 289649,
-      "name": "Rap da Rap quita",
-      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Dolor",
         "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
       },
@@ -835,6 +835,26 @@
       "duration_ms": 347441,
       "name": "Origen",
       "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "La teor\u00eda de la evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 173062,
+      "name": "La teor\u00eda de la evoluci\u00f3n",
+      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -899,26 +919,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Tiempos Muertos",
-        "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
-      },
-      "artists": [
-        {
-          "name": "Elote el Barbaro",
-          "url": "https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m"
-        },
-        {
-          "name": "Sinful",
-          "url": "https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2"
-        }
-      ],
-      "duration_ms": 286673,
-      "name": "Esto Es M\u00e9xico",
-      "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Intraterreno",
         "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
       },
@@ -935,22 +935,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "La teor\u00eda de la evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
+        "name": "Tiempos Muertos",
+        "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+          "name": "Elote el Barbaro",
+          "url": "https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m"
         },
         {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+          "name": "Sinful",
+          "url": "https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2"
         }
       ],
-      "duration_ms": 173062,
-      "name": "La teor\u00eda de la evoluci\u00f3n",
-      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
+      "duration_ms": 286673,
+      "name": "Esto Es M\u00e9xico",
+      "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Esquirlas",
-        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
-      },
-      "artists": [
-        {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        },
-        {
-          "name": "Montebel",
-          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Esquirlas",
-      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "El eslab\u00f3n perdido",
         "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 213334,
       "name": "El eslab\u00f3n perdido",
       "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Esquirlas",
+        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
+      },
+      "artists": [
+        {
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
+        },
+        {
+          "name": "Montebel",
+          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Esquirlas",
+      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Gangstas",
-        "url": "https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN"
-      },
-      "artists": [
-        {
-          "name": "Lobo Estepario",
-          "url": "https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Gangstas",
-      "url": "https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "No Plastic",
         "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 225238,
       "name": "No Plastic",
       "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Gangstas",
+        "url": "https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN"
+      },
+      "artists": [
+        {
+          "name": "Lobo Estepario",
+          "url": "https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Gangstas",
+      "url": "https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "El Sue\u00f1o",
-        "url": "https://open.spotify.com/album/30P4JwoLpAo4ky9rHcgHsZ"
-      },
-      "artists": [
-        {
-          "name": "Skool 77",
-          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
-        },
-        {
-          "name": "Dina Buend\u00eda",
-          "url": "https://open.spotify.com/artist/7kW5Upycw8RiwrzFLAEgye"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        }
-      ],
-      "duration_ms": 193021,
-      "name": "El Sue\u00f1o",
-      "url": "https://open.spotify.com/track/3HTFZZNZfFADiNdlElXXNS"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Escorpi\u00f3n",
         "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
       },
@@ -1547,6 +1523,30 @@
       "duration_ms": 247350,
       "name": "Pu\u00f1o en alto",
       "url": "https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "El Sue\u00f1o",
+        "url": "https://open.spotify.com/album/30P4JwoLpAo4ky9rHcgHsZ"
+      },
+      "artists": [
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        },
+        {
+          "name": "Dina Buend\u00eda",
+          "url": "https://open.spotify.com/artist/7kW5Upycw8RiwrzFLAEgye"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "duration_ms": 193021,
+      "name": "El Sue\u00f1o",
+      "url": "https://open.spotify.com/track/3HTFZZNZfFADiNdlElXXNS"
     },
     {
       "added_at": "2025-01-31 06:00:22",

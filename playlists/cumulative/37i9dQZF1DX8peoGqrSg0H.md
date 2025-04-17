@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: ATLAS
 
-681 songs - 1 day 16 hr 12 min
+682 songs - 1 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Light it up](https://open.spotify.com/track/5a3ahIUsesEbEpgglAG3Rz) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [Light it up](https://open.spotify.com/album/2QwevYKKWJkQVqJ024I7or) | 2:50 | 2024-04-11 | 2024-04-26 |
 | [LIKELY](https://open.spotify.com/track/1D3jkC5lc9XZHKWUpY9j0d) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [LIKELY](https://open.spotify.com/album/2uEmklXEiChMwe6YK4osXv) | 2:46 | 2024-06-06 | 2024-06-14 |
 | [Long Run](https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H) | [Long Run](https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179) | 3:37 | 2024-04-18 | 2024-05-02 |
-| [LOVEGELS \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/5jCQB8mYMiubVDEx3Lfo0b) | [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w), [NEW CHAYAPAK](https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW), [PIDE](https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP), [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0), [LEON BROCCO](https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW) | [LOVEGELS \(From GELBOYS สถานะกั๊กใจ\)](https://open.spotify.com/album/5FYwC7iJcRbdbmAIY7W3wi) | 2:46 | 2025-03-20 |  |
+| [LOVEGELS \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/5jCQB8mYMiubVDEx3Lfo0b) | [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w), [NEW CHAYAPAK](https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW), [PIDE](https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP), [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0), [LEON BROCCO](https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW) | [LOVEGELS \(From GELBOYS สถานะกั๊กใจ\)](https://open.spotify.com/album/5FYwC7iJcRbdbmAIY7W3wi) | 2:46 | 2025-03-20 | 2025-04-17 |
 | [LUCKY YOU](https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LUCKY YOU](https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B) | 3:14 | 2024-02-15 | 2024-03-08 |
 | [LYKYOU](https://open.spotify.com/track/3ZzsRE6gMHBblLppHi0ADZ) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [LYKYOU \- Single](https://open.spotify.com/album/2xVexDB5E5bk6BJ2ZoFZMg) | 3:34 | 2024-12-05 | 2025-01-30 |
 | [Magic Moment](https://open.spotify.com/track/2otCi4F9Xh6pAVQjnHcjeI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Magic Moment](https://open.spotify.com/album/7nizmQvxMgpxVXnM9JabPf) | 3:58 | 2024-07-26 | 2024-08-09 |
@@ -262,6 +262,7 @@
 | [งอนละ](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2022-11-17 | 2023-09-20 |
 | [ง้อ \(ALRIGHT\)](https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ง้อ \(ALRIGHT\) \- Single](https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w) | 3:05 | 2024-08-22 |  |
 | [จดหมายรัก \(Sincerely Yours\)](https://open.spotify.com/track/7KYtXp4OomVO6N6Wc51kM9) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [จดหมายรัก \(Sincerely Yours\)](https://open.spotify.com/album/3Y2dSVrfr5wC88TibguMqT) | 4:04 | 2024-08-15 | 2024-08-29 |
+| [จนนิรันดร์ \(Forever\)](https://open.spotify.com/track/3Gg2hfk9p4YschDqIVfSG2) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [จนนิรันดร์ \(Forever\)](https://open.spotify.com/album/2FOfsBs5404canZT3Gxr0v) | 3:44 | 2025-04-16 |  |
 | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/track/1iO8Gwn33kImgOeDpFXTD5) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/album/7qbW3ywq8vR5IhhsNMJ09F) | 3:17 | 2022-06-16 | 2022-07-02 |
 | [จะเป็นให้ได้เลย \(I’m Ready!\)](https://open.spotify.com/track/5gfgG5rdsY3Ujs59xGwgo0) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [จะเป็นให้ได้เลย \(I’m Ready!\)](https://open.spotify.com/album/0StrxX14x5iooTqtn8nXOy) | 3:07 | 2024-05-06 | 2024-05-11 |
 | [จังหวะจะเลิก \(Last Whisper\)](https://open.spotify.com/track/3Bo2XpLXDMG0r0k9iWa4dS) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [จังหวะจะเลิก \(Last Whisper\)](https://open.spotify.com/album/5LSVKeEju4yrsbJBTC3Rou) | 3:35 | 2024-11-28 | 2024-12-06 |

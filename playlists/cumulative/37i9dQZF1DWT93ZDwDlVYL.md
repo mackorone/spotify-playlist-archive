@@ -4,7 +4,7 @@
 
 > Podcast che devi avere sul tuo RADAR: BenNaNa Podcast, Casi Umani, EST RADIO, Mitologia Gettata, Pianeta B12
 
-29 songs - 1 day 5 hr 14 min
+29 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [\#22 \| PROGETTO: Abundace ](https://open.spotify.com/episode/5SL2QItg2PAPsfnE3Ee707) | [POV il podcast](https://open.spotify.com/show/0CSgd2VUwaAOAtXvDDADI5) | [POV il podcast](https://open.spotify.com/album/0CSgd2VUwaAOAtXvDDADI5) | 46:23 | 2023-10-04 | 2024-12-06 |
 | [\#56 \- Uguale per tutti?](https://open.spotify.com/episode/12vtO9aRRTRUGQTcqoTDxj) | [Bouquet of Madness](https://open.spotify.com/show/0CigI1FKNvx1i5Dg3wWGD0) | [Bouquet of Madness](https://open.spotify.com/show/0CigI1FKNvx1i5Dg3wWGD0) | 1:12:21 | 2022-06-22 | 2023-01-20 |
 | [\#71 \- Si parte?](https://open.spotify.com/episode/1nrayCiaAppMXK2R1bztBI) | [Bouquet of Madness](https://open.spotify.com/show/0CigI1FKNvx1i5Dg3wWGD0) | [Bouquet of Madness](https://open.spotify.com/show/0CigI1FKNvx1i5Dg3wWGD0) | 1:35:56 | 2022-09-23 | 2023-01-20 |
-| [18 \- Laura Ziliani e l’ex Trio Criminale di Temù](https://open.spotify.com/episode/2iqScqVHPiyuBa9Zo3VsSu) | [Casi Umani](https://open.spotify.com/show/0ISQOhzNPPmlMaiuJrYotp) | [Casi Umani](https://open.spotify.com/album/0ISQOhzNPPmlMaiuJrYotp) | 1:27:12 | 2024-12-05 |  |
+| [18 \- Laura Ziliani e l’ex Trio Criminale di Temù](https://open.spotify.com/episode/2iqScqVHPiyuBa9Zo3VsSu) | [Casi Umani](https://open.spotify.com/show/0ISQOhzNPPmlMaiuJrYotp) | [Casi Umani](https://open.spotify.com/album/0ISQOhzNPPmlMaiuJrYotp) | 1:29:08 | 2024-12-05 |  |
 | [254: Insiderito](https://open.spotify.com/episode/3mABnLoo0uAGcucOpndayg) | [Power Pizza](https://open.spotify.com/show/2sKgwTIfc37F354QmReZzo) | [Power Pizza](https://open.spotify.com/album/2sKgwTIfc37F354QmReZzo) | 50:34 | 2023-10-04 | 2024-12-06 |
 | [255: Il Pozzo dei Soldi](https://open.spotify.com/episode/7BeoELzknSyTVzLxtumdE8) | [Power Pizza](https://open.spotify.com/show/2sKgwTIfc37F354QmReZzo) | [Power Pizza](https://open.spotify.com/album/2sKgwTIfc37F354QmReZzo) | 53:42 | 2023-10-04 | 2024-12-06 |
 | [256: La Zoup](https://open.spotify.com/episode/3AIL56TLUrb1v35CEYh4mT) | [Power Pizza](https://open.spotify.com/show/2sKgwTIfc37F354QmReZzo) | [Power Pizza](https://open.spotify.com/album/2sKgwTIfc37F354QmReZzo) | 53:48 | 2023-10-04 | 2024-12-06 |

@@ -2,7 +2,7 @@
 
 ### [Frühlings Chillout](https://open.spotify.com/playlist/37i9dQZF1DXaIrEwuQ3hyy)
 
-> Wenn die Tage länger werden und die Luft wärmer \- diese Tracks begleiten dich in den Frühling.
+> Für entspannte Ostertage.
 
 239 songs - 13 hr 29 min
 

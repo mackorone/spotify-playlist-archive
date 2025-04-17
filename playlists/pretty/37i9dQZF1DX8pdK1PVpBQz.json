@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Folk Bitch Trio",
-  "num_followers": 26973,
+  "num_followers": 27023,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/5miQAAAAA44sFH7UyWy3WqaJpuqg6X",
+  "snapshot_id": "Z/8qjwAAAABimCh2PDsJqTJZR0lV2qiu",
   "tracks": [
     {
       "added_at": "2025-04-15 14:00:41",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/6OmkkwyPYBdwH4q903KQ8W"
     },
     {
+      "added_at": "2025-04-15 14:00:41",
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL"
+      },
+      "artists": [
+        {
+          "name": "Fool Nelson",
+          "url": "https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp"
+        }
+      ],
+      "duration_ms": 208938,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV"
+    },
+    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "More of You",
@@ -159,7 +175,7 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Bub",
+        "name": "BUB",
         "url": "https://open.spotify.com/album/2YqyOB6sgDYN5CXMfQ4g0R"
       },
       "artists": [
@@ -287,6 +303,22 @@
       "duration_ms": 238071,
       "name": "GURU",
       "url": "https://open.spotify.com/track/01kqbyNg4Grl1rQ87nw2pQ"
+    },
+    {
+      "added_at": "2025-04-16 03:57:03",
+      "album": {
+        "name": "What you really meant",
+        "url": "https://open.spotify.com/album/7M7kVRwwdRhWXYf5NUGcvw"
+      },
+      "artists": [
+        {
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+        }
+      ],
+      "duration_ms": 216231,
+      "name": "What you really meant",
+      "url": "https://open.spotify.com/track/7BAdjoqu3g8oMaxXSvfl7k"
     },
     {
       "added_at": "2025-03-25 13:00:06",
@@ -1615,22 +1647,6 @@
       "duration_ms": 171587,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/4kvk85ITQl56RYAlc2tbkv"
-    },
-    {
-      "added_at": "2025-03-18 18:00:25",
-      "album": {
-        "name": "Swimmers",
-        "url": "https://open.spotify.com/album/5z0VYWhf2a73XGug8maapA"
-      },
-      "artists": [
-        {
-          "name": "Casual Fan",
-          "url": "https://open.spotify.com/artist/1ivH8IH6j1U7lCgkuYxoUa"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Swimmers",
-      "url": "https://open.spotify.com/track/5YloQyJnFt6KgntE3hbHZw"
     }
   ],
   "unique_name": "Fresh Finds AU & NZ",

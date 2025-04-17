@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: GUADA.",
-  "num_followers": 128980,
+  "num_followers": 129001,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Alma Peque\u00f1a",
-        "url": "https://open.spotify.com/album/6hlznNMsSsIpUdz6PiKnaj"
-      },
-      "artists": [
-        {
-          "name": "Flor de Lava",
-          "url": "https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6"
-        }
-      ],
-      "duration_ms": 234675,
-      "name": "Alma Peque\u00f1a",
-      "url": "https://open.spotify.com/track/50DOz8EiOdMIQr2lC5GZYn"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "busco",
         "url": "https://open.spotify.com/album/0fpZeb0EiEydoprxH1llEn"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 181461,
       "name": "busco",
       "url": "https://open.spotify.com/track/7CwXJzNp7VGBxJSTOEvqeK"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Alma Peque\u00f1a",
+        "url": "https://open.spotify.com/album/6hlznNMsSsIpUdz6PiKnaj"
+      },
+      "artists": [
+        {
+          "name": "Flor de Lava",
+          "url": "https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6"
+        }
+      ],
+      "duration_ms": 234675,
+      "name": "Alma Peque\u00f1a",
+      "url": "https://open.spotify.com/track/50DOz8EiOdMIQr2lC5GZYn"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "la alegr\u00eda de vivir",
-        "url": "https://open.spotify.com/album/0L8QQXr3QimOs5ef5oumgQ"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Pau Figueres",
-          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
-        }
-      ],
-      "duration_ms": 167063,
-      "name": "la alegr\u00eda de vivir",
-      "url": "https://open.spotify.com/track/76cBcoU2rc2knv8bofccvs"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 273663,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "la alegr\u00eda de vivir",
+        "url": "https://open.spotify.com/album/0L8QQXr3QimOs5ef5oumgQ"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
+        }
+      ],
+      "duration_ms": 167063,
+      "name": "la alegr\u00eda de vivir",
+      "url": "https://open.spotify.com/track/76cBcoU2rc2knv8bofccvs"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "poquito",
         "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 219681,
       "name": "poquito",
       "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Todo te parece normal",
-        "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 296669,
-      "name": "Todo te parece normal",
-      "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Ventura (Live)",
         "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 295328,
       "name": "Ventura - Live",
       "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Todo te parece normal",
+        "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 296669,
+      "name": "Todo te parece normal",
+      "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Tan delicada",
-        "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
-      },
-      "artists": [
-        {
-          "name": "Nadia Alvarez",
-          "url": "https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku"
-        },
-        {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
-        }
-      ],
-      "duration_ms": 199096,
-      "name": "Tan delicada",
-      "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 275551,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Tan delicada",
+        "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
+      },
+      "artists": [
+        {
+          "name": "Nadia Alvarez",
+          "url": "https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku"
+        },
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "duration_ms": 199096,
+      "name": "Tan delicada",
+      "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Traigo un canto guardado",
         "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 167967,
       "name": "Agua Bendita",
       "url": "https://open.spotify.com/track/6Ss1caRfflUVDIdcFCMCkN"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "A volar (feat. Lido Pimienta)",
-        "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "A volar (feat. Lido Pimienta)",
-      "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Una carta con tu nombre",
         "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
       },
@@ -1363,22 +1343,22 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Continuar",
-        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
+        "name": "A volar (feat. Lido Pimienta)",
+        "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
       "artists": [
         {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         },
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
         }
       ],
-      "duration_ms": 157928,
-      "name": "Continuar",
-      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+      "duration_ms": 217253,
+      "name": "A volar (feat. Lido Pimienta)",
+      "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1423,6 +1403,26 @@
       "duration_ms": 234144,
       "name": "Y YA NADA",
       "url": "https://open.spotify.com/track/3IBYBGzIvrLj8mdJBDXKFr"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Continuar",
+        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Continuar",
+      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Ay Madrid",
-        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 181125,
-      "name": "Ay Madrid",
-      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Ag\u00fcita del equilibrio",
         "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
       },
@@ -1527,22 +1511,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "Quedarme Free",
-        "url": "https://open.spotify.com/album/1ZjJbUvDEvpPIHdIAyGD3G"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vidanauta",
-          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
-        }
-      ],
-      "duration_ms": 232318,
-      "name": "Quedarme Free",
-      "url": "https://open.spotify.com/track/680VEGLsu6YR6Kc1EBPKtS"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
         "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
@@ -1555,6 +1523,38 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Ay Madrid",
+        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 181125,
+      "name": "Ay Madrid",
+      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Quedarme Free",
+        "url": "https://open.spotify.com/album/1ZjJbUvDEvpPIHdIAyGD3G"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "duration_ms": 232318,
+      "name": "Quedarme Free",
+      "url": "https://open.spotify.com/track/680VEGLsu6YR6Kc1EBPKtS"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-04-10 22:00:20",
       "album": {
-        "name": "LOS CINCO ELEMENTOS",
-        "url": "https://open.spotify.com/album/4UuLcOxd0miCPzd315KVpL"
-      },
-      "artists": [
-        {
-          "name": "Carla Delgado",
-          "url": "https://open.spotify.com/artist/0yRYMBKyFwr9rl2ts8XGom"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/6JFbsFLjUP6rEL6tQAbpp9"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -1767,6 +1751,58 @@
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "LOS CINCO ELEMENTOS",
+        "url": "https://open.spotify.com/album/4UuLcOxd0miCPzd315KVpL"
+      },
+      "artists": [
+        {
+          "name": "Carla Delgado",
+          "url": "https://open.spotify.com/artist/0yRYMBKyFwr9rl2ts8XGom"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/6JFbsFLjUP6rEL6tQAbpp9"
+    },
+    {
+      "added_at": "2025-04-10 22:00:20",
+      "album": {
+        "name": "Si yo soy Chavela, t\u00fa eres Frida (En Vivo)",
+        "url": "https://open.spotify.com/album/79eB5mKq2qnyotNHaVqj6v"
+      },
+      "artists": [
+        {
+          "name": "Xerach",
+          "url": "https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW"
+        },
+        {
+          "name": "La Mare",
+          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
+        },
+        {
+          "name": "Roba Estesa",
+          "url": "https://open.spotify.com/artist/3VzGOFrX7MDtLe2Wfndgjt"
+        },
+        {
+          "name": "Violeta Veinte",
+          "url": "https://open.spotify.com/artist/4qBn3IdXMr2cQDIYD5lgMi"
+        },
+        {
+          "name": "Javi Rubio",
+          "url": "https://open.spotify.com/artist/2kNnCJ74SN4ZncePrOR7WU"
+        },
+        {
+          "name": "Juanmi Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/5h7NvrDzovbDrq07p1GnFq"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Si yo soy Chavela, t\u00fa eres Frida (En Vivo)",
+      "url": "https://open.spotify.com/track/1A0HKpa6H3n2fRDWIghSUe"
     },
     {
       "added_at": "2025-04-10 22:00:20",
@@ -1831,42 +1867,6 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
-    },
-    {
-      "added_at": "2025-04-10 22:00:20",
-      "album": {
-        "name": "Si yo soy Chavela, t\u00fa eres Frida (En Vivo)",
-        "url": "https://open.spotify.com/album/79eB5mKq2qnyotNHaVqj6v"
-      },
-      "artists": [
-        {
-          "name": "Xerach",
-          "url": "https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW"
-        },
-        {
-          "name": "La Mare",
-          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
-        },
-        {
-          "name": "Roba Estesa",
-          "url": "https://open.spotify.com/artist/3VzGOFrX7MDtLe2Wfndgjt"
-        },
-        {
-          "name": "Violeta Veinte",
-          "url": "https://open.spotify.com/artist/4qBn3IdXMr2cQDIYD5lgMi"
-        },
-        {
-          "name": "Javi Rubio",
-          "url": "https://open.spotify.com/artist/2kNnCJ74SN4ZncePrOR7WU"
-        },
-        {
-          "name": "Juanmi Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/5h7NvrDzovbDrq07p1GnFq"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Si yo soy Chavela, t\u00fa eres Frida (En Vivo)",
-      "url": "https://open.spotify.com/track/1A0HKpa6H3n2fRDWIghSUe"
     }
   ],
   "unique_name": "Cancionistas",

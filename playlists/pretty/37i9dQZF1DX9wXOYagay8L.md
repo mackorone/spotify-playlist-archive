@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi?si=jcAKaWXYSoWbwSfo6mNHmAQ"> Tony Dayimane</a>, <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=Yr\-Esps9SzGctIgl\-1EB\_Q"> Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,145 likes - 85 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,264 likes - 85 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

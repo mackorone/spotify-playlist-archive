@@ -7181,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "When I am Back",
+        "url": "https://open.spotify.com/album/2HUta0ln0Wy5pbUsUfMhlU"
+      },
+      "artists": [
+        {
+          "name": "Denver Paige",
+          "url": "https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "When I am Back",
+      "url": "https://open.spotify.com/track/29gPSRzw1zOwqFY6g5YSNX"
+    },
+    {
+      "album": {
         "name": "When I'm With You",
         "url": "https://open.spotify.com/album/4jMcDv3EarnmcXRRTmHW3a"
       },

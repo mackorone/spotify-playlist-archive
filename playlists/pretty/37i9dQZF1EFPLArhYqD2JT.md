@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,443 likes - 386 songs - 19 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,444 likes - 386 songs - 19 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 203 | [Someone Else May Be There While I'm Gone](https://open.spotify.com/track/3SVmXhdhywarSkAw3mmRD0) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [Al Jolson \- Fifty Favourites](https://open.spotify.com/album/6X7HFKksqXYzOWiFOVGIa8) | 2:41 |
 | 204 | [He's a Devil in His Own Home Town](https://open.spotify.com/track/30RH4nNxfOLRoksilPwIgM) | [Billy Murray](https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS) | [Foolish Questions](https://open.spotify.com/album/5vTSLK2CMSrr8uzeY9SiS7) | 2:46 |
 | 205 | [Looking at You \(12\)](https://open.spotify.com/track/0EZLRmLkHf6PZvtm6MIGl5) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé at the Crescendo \(Live\) \[2014 \- Remaster\]](https://open.spotify.com/album/5qzSuzOlC6gcPHMgiYfWTu) | 2:50 |
-| 206 | [Together We Two](https://open.spotify.com/track/4eRk7UrZnZDv8NPObszqOB) | [Isham Jones And His Orchestra](https://open.spotify.com/artist/1hAB05TXiiOAD8pzZ3L1j1) | [Song of the Blues](https://open.spotify.com/album/7yIHLKz0J7zlzg9KQfKtAX) | 3:02 |
-| 207 | [Let's Go West Again](https://open.spotify.com/track/4mbFo8etzP7mRYPLhUnU3R) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Annie Get Your Gun \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/6ElY58QbaDUrZju8KQ0UBh) | 3:08 |
+| 206 | [Let's Go West Again](https://open.spotify.com/track/4mbFo8etzP7mRYPLhUnU3R) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Annie Get Your Gun \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/6ElY58QbaDUrZju8KQ0UBh) | 3:08 |
+| 207 | [Together We Two](https://open.spotify.com/track/4eRk7UrZnZDv8NPObszqOB) | [Isham Jones And His Orchestra](https://open.spotify.com/artist/1hAB05TXiiOAD8pzZ3L1j1) | [Song of the Blues](https://open.spotify.com/album/7yIHLKz0J7zlzg9KQfKtAX) | 3:02 |
 | 208 | [Irving Berlin Showstoppers](https://open.spotify.com/track/1WrQlacrVAsVikxfMXVq6F) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Gardemusikken](https://open.spotify.com/artist/7gyEHWG7bLlW2ZCPeIr1fE) | [Royal Spirit](https://open.spotify.com/album/3pfkQJChUYcpahRsE2GlvW) | 5:26 |
 | 209 | [Kind mot kind](https://open.spotify.com/track/6br1PIDkCTaGzRwEJu1C2e) | [M.A\. Numminen och hans nyfolkliga allmogeorkester](https://open.spotify.com/artist/61ehJMGnaBeFBURjz5Qg1x) | [Som en gummiboll kommer jag tillbaks till dej](https://open.spotify.com/album/4xszitZh9pl7fvykR85gT0) | 2:59 |
 | 210 | [They Like Ike \- From "Call Me Madam"](https://open.spotify.com/track/59gVPV9i6QhwewSk7fWFoH) | [Gordon Jenkins & His Orchestra](https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU) | [12 Songs From Call Me Madam \(With Selections From "Panama Hattie"\) \[Original Broadway Cast Recording\]](https://open.spotify.com/album/5Zq9801IjeGoPk3sQAi6o1) | 3:06 |
@@ -395,4 +395,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 385 | [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 |
 | 386 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `Abu39AAAAAC3n+W/UsdFkN3fv/i8xE2T`
+Snapshot ID: `Abu9lAAAAAAQaO+hl6o8PeuwE2rHN63V`

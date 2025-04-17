@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 250660,
+  "num_followers": 250732,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-02-20 14:26:57",
       "album": {
+        "name": "Time Spent Away From U",
+        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "U",
+      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
+    },
+    {
+      "added_at": "2025-02-20 14:26:57",
+      "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/5hjwkXIdFlJmBBJxu1VK74"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 214615,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/5oZdwIevNAVqsuisgyKiRX"
-    },
-    {
-      "added_at": "2025-02-20 14:26:57",
-      "album": {
-        "name": "Time Spent Away From U",
-        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "U",
-      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
     }
   ],
   "unique_name": "Melantronic",

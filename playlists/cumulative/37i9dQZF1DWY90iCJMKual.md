@@ -4,7 +4,7 @@
 
 > PH vibin' cover: jikamarie, Skusta Clee
 
-327 songs - 18 hr 14 min
+329 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [bum 2 me](https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bum 2 me](https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM) | 2:18 | 2023-05-02 | 2023-10-03 |
 | [BURN](https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [BURN](https://open.spotify.com/album/5UinUFeyhjArW24gIKT9PN) | 2:42 | 2023-06-13 | 2023-09-07 |
 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-09-21 | 2024-03-30 |
+| [C ME](https://open.spotify.com/track/3X9J1saYVPtalU43vsKi3k) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw), [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [C ME](https://open.spotify.com/album/7eo3w0YoVNSadKJ9S95Gns) | 3:03 | 2025-04-16 |  |
 | [C2 NA RED!](https://open.spotify.com/track/57hFIk6c7OnW1QS21vIO78) | [zaniel](https://open.spotify.com/artist/3PUcGRqlIhzjm82abj6FSh) | [C2 NA RED!](https://open.spotify.com/album/5W6C9jHi47Xl290fWbTZ3e) | 1:46 | 2025-02-27 |  |
 | [Call Me What You Want](https://open.spotify.com/track/1f4q0lAXGTPqCouPcJnzDM) | [Elise Huang](https://open.spotify.com/artist/7BpTHJjMVI0B2WFeO2UYTi) | [Call Me What You Want](https://open.spotify.com/album/4WpXRpo6b5PkTynEsGWQnG) | 2:40 | 2024-08-30 |  |
 | [Can't Get Enough](https://open.spotify.com/track/3qR1Oq85MWKg3rzeihX4S9) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Can't Get Enough](https://open.spotify.com/album/18mwJUJcczlGwT2tDej41c) | 2:44 | 2022-10-12 | 2023-07-29 |
@@ -69,6 +70,7 @@
 | [Di kita trip](https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Di kita trip](https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa) | 2:54 | 2024-02-28 | 2024-07-13 |
 | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/album/0GuFAo9QHxDMdTCMKpix06) | 3:19 | 2024-05-03 | 2025-03-22 |
 | [Di ko pala kaya](https://open.spotify.com/track/28ORaX44ctuxnlZ8EvMeF8) | [Chy](https://open.spotify.com/artist/2pdQteTtlz2JwxUJnOiBRE) | [Di ko pala kaya](https://open.spotify.com/album/6I2lmp16dw7oYB6bRC6lhY) | 4:12 | 2023-11-10 | 2024-02-29 |
+| [Di Mawari](https://open.spotify.com/track/54duSykVaql1tM1vmp3E4v) | [\_dyco](https://open.spotify.com/artist/4NzPBLN5xfDwrUwz42xpnb) | [Di Mawari](https://open.spotify.com/album/5pg9caS7JVC71WcsSw0ynb) | 2:51 | 2025-04-16 |  |
 | [Di Na Babalik](https://open.spotify.com/track/0Gt84LW4Ec1ptxIQiIJY3N) | [yshy](https://open.spotify.com/artist/5DKxABYbjG07LuQ929VRST), [Limpo](https://open.spotify.com/artist/5pRXGrEPlgwQLEKeO2NQhp) | [Di Na Babalik](https://open.spotify.com/album/5RAmV5jGpAZTz99u1sVIJM) | 3:51 | 2023-09-06 | 2023-11-04 |
 | [Di Ngayon](https://open.spotify.com/track/1rdBXxtvJqH8PcM7v1CpjV) | [Zo zo](https://open.spotify.com/artist/0xyijUZwKlIH8yjj0OuDf6), [Samm](https://open.spotify.com/artist/2JL7BiVkQ5W1rzYCUw3y9a) | [Di Ngayon](https://open.spotify.com/album/3aGNT5eglsVIrZg6LoYPVO) | 3:01 | 2023-11-17 | 2024-06-04 |
 | [Did You Find It?](https://open.spotify.com/track/4PhW0Z9U99NPtPDT8Y8uhC) | [Miguel Abella](https://open.spotify.com/artist/7gStcwSNzziJ8QL0QswaXd) | [Did You Find It?](https://open.spotify.com/album/53drB90hiqveZhAeUsRah5) | 3:25 | 2023-06-13 | 2023-09-26 |

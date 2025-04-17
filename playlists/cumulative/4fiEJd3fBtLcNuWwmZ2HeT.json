@@ -1717,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "like a ghost",
+        "url": "https://open.spotify.com/album/0x6PunvepjfphMDfuydH2h"
+      },
+      "artists": [
+        {
+          "name": "sato noco",
+          "url": "https://open.spotify.com/artist/18VhiGitw1aRTgdMPl49EV"
+        },
+        {
+          "name": "Kaai Yuki",
+          "url": "https://open.spotify.com/artist/71LWbhymyyFoWzzy6tuPGn"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174697,
+      "name": "like a ghost (feat. Kaai Yuki)",
+      "url": "https://open.spotify.com/track/1EHjsmdVXK64z9MFmebp46"
+    },
+    {
+      "album": {
         "name": "Like an idiot",
         "url": "https://open.spotify.com/album/2jEG6sJvdmgYS4UzSDiE7m"
       },
@@ -3300,6 +3322,40 @@
       "duration_ms": 213786,
       "name": "\u3042\u306e\u30d0\u30f3\u30c9",
       "url": "https://open.spotify.com/track/6wvTBMe3zZBv4W3OlpPGbS"
+    },
+    {
+      "album": {
+        "name": "\u3046\u305d\u9cf4\u304d",
+        "url": "https://open.spotify.com/album/4VHIOjtivBozJgUHrJgxeo"
+      },
+      "artists": [
+        {
+          "name": "\u5fc3\u4e16\u7d00",
+          "url": "https://open.spotify.com/artist/3D7WfGrhPBUqfKQ4BAlOa6"
+        },
+        {
+          "name": "\u5c11\u5973\u9769\u547d\u8a08\u753b",
+          "url": "https://open.spotify.com/artist/7gFHp9H8K8h4B9y7HkFC7N"
+        },
+        {
+          "name": "\u5fa1\u8389\u59eb",
+          "url": "https://open.spotify.com/artist/0Ur3wB7R1lkydYPdwATVpe"
+        },
+        {
+          "name": "\u4f73\u93e1\u9662",
+          "url": "https://open.spotify.com/artist/1ydUxA0KMdyroinaACZFsu"
+        },
+        {
+          "name": "\u785d\u5b50\u5bae",
+          "url": "https://open.spotify.com/artist/71B1IRtrf1zRRSUPOsxOLu"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196204,
+      "name": "\u3046\u305d\u9cf4\u304d",
+      "url": "https://open.spotify.com/track/4Hal50XJ5qW9TtsFWvMlJU"
     },
     {
       "album": {

@@ -186,6 +186,24 @@
     {
       "album": {
         "name": "YolanDa's Band Jam",
+        "url": "https://open.spotify.com/album/5DTWvBeKgg8EQyfe8HM81s"
+      },
+      "artists": [
+        {
+          "name": "YolanDa",
+          "url": "https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176297,
+      "name": "Animal Bop",
+      "url": "https://open.spotify.com/track/2rtZtv0vrlhfXIeQ7JSgne"
+    },
+    {
+      "album": {
+        "name": "YolanDa's Band Jam",
         "url": "https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc"
       },
       "artists": [
@@ -204,28 +222,6 @@
       "duration_ms": 176297,
       "name": "Animal Bop",
       "url": "https://open.spotify.com/track/1Y7maeiqIvifJbs5iP0NB2"
-    },
-    {
-      "album": {
-        "name": "YolanDa's Band Jam",
-        "url": "https://open.spotify.com/album/5DTWvBeKgg8EQyfe8HM81s"
-      },
-      "artists": [
-        {
-          "name": "YolanDa",
-          "url": "https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq"
-        },
-        {
-          "name": "YolanDa Brown",
-          "url": "https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0"
-        }
-      ],
-      "date_added": "2022-02-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176297,
-      "name": "Animal Bop",
-      "url": "https://open.spotify.com/track/2rtZtv0vrlhfXIeQ7JSgne"
     },
     {
       "album": {

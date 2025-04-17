@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-421 songs - 1 day 17 hr 12 min
+422 songs - 1 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [O Centro És Tu \- Ao Vivo](https://open.spotify.com/track/3BooiRxnlIRshivXqwuaGU) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [O Centro És Tu \(Ao Vivo\)](https://open.spotify.com/album/7jMiatBufmLEb6cMB97g7c) | 5:45 | 2024-12-13 |  |
 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 | 2022-09-09 | 2023-04-29 |
 | [O Fogo Arderá \- Ao Vivo](https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [O Fogo Arderá \(Ao Vivo\)](https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe) | 10:24 | 2024-12-08 |  |
+| [O Leão e a Igreja](https://open.spotify.com/track/2FPNcYMAk9GmW9SvOpdiwV) | [Você Adora](https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA), [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Inaiá Ramos](https://open.spotify.com/artist/5tob4TLbUSXoEao5ZogNet) | [O Leão e a Igreja](https://open.spotify.com/album/7ctd0skd8dntgqBWzMdBC0) | 4:15 | 2025-04-14 |  |
 | [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 | 2023-06-23 | 2024-09-07 |
 | [O Maior Vilão Sou Eu](https://open.spotify.com/track/0satRlTjJoDmTqOl8mmmy0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Basta Acreditar](https://open.spotify.com/album/35bfGYis7fR7pponjtqlMv) | 4:33 | 2023-03-11 | 2023-10-21 |
 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 | 2022-11-26 |  |
@@ -345,7 +346,7 @@
 | [Se Eu Me Humilhar \- Ao Vivo](https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Palavra, Som e Poder \(Ao Vivo\)](https://open.spotify.com/album/31Dm7loLygWja3nL2KHNaU) | 7:11 | 2023-06-23 | 2024-05-27 |
 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 | 2022-09-09 | 2023-01-14 |
 | [Seja Forte](https://open.spotify.com/track/6ULtPMzIdsayMraZMs2KBV) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Seja Forte](https://open.spotify.com/album/3gaCeWpexrCoT31O4IijbD) | 4:13 | 2023-09-01 | 2024-04-20 |
-| [Seja o Centro \- Ao Vivo](https://open.spotify.com/track/58JGBmbh8BAraMsBxmIBWj) | [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh), [Murilo Schiappadini](https://open.spotify.com/artist/0emTyqLWptzKrtK4s4asX2) | [Seja o Centro \(Ao Vivo\)](https://open.spotify.com/album/0KFZgmEvp8coVby0ZBdpVN) | 8:04 | 2025-04-05 |  |
+| [Seja o Centro \- Ao Vivo](https://open.spotify.com/track/58JGBmbh8BAraMsBxmIBWj) | [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh), [Murilo Schiappadini](https://open.spotify.com/artist/0emTyqLWptzKrtK4s4asX2) | [Seja o Centro \(Ao Vivo\)](https://open.spotify.com/album/0KFZgmEvp8coVby0ZBdpVN) | 8:04 | 2025-04-05 | 2025-04-17 |
 | [SEJA TUDO EM MIM \- Ao Vivo](https://open.spotify.com/track/0ZFCznWaRmehD0hhARsCpq) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Nívea Izabella](https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ) | [Som do Céu Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/2PyqBdE57kLOhjMS8p3I7e) | 8:39 | 2024-08-09 | 2024-08-17 |
 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 | 2022-09-09 | 2023-09-02 |
 | [Sião \- Ao Vivo](https://open.spotify.com/track/720HLKAq33SFgESt6Cdl7O) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Sião \(Ao Vivo\)](https://open.spotify.com/album/3aDbz8cjv0T6wQhtDBDfaA) | 4:56 | 2024-04-19 | 2024-08-17 |

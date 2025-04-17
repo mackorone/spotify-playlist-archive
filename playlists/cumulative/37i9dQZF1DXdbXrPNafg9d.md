@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Bon Iver
 
-8,609 songs - 20 day 22 hr 1 min
+8,610 songs - 20 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg) | 3:36 | 2023-04-14 | 2023-05-27 |
 | [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 | 2022-06-17 | 2022-07-23 |
 | [11](https://open.spotify.com/track/3yfZt97KayxfiXwgKAPtYR) | [Molly McPhaul](https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL) | [11](https://open.spotify.com/album/1H7y9cSdQA1JdztD2bzs7V) | 2:24 | 2023-08-04 | 2023-09-02 |
+| [12 Blown Tires](https://open.spotify.com/track/3wgJjTrurTmyy4UcXnfQaS) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [12 Blown Tires](https://open.spotify.com/album/643ZHjQHHUYJCkDjV8GvaT) | 4:12 | 2025-04-16 |  |
 | [123](https://open.spotify.com/track/6p7ipZgHVyhZZpplPvgW6V) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [123](https://open.spotify.com/album/3I58KIXmWpkeC4f5QW2IKy) | 3:59 | 2022-09-09 | 2022-10-22 |
 | [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:45 | 2023-01-13 | 2023-02-18 |
 | [17suns](https://open.spotify.com/track/0UCZd39helCanZAlsWbrR1) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 2:41 | 2023-05-19 | 2023-06-24 |
@@ -8047,7 +8048,7 @@
 | [Walk Across The Water](https://open.spotify.com/track/5AEyKKiz6YPTLR7EDFLqMS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:55 | 2019-06-28 | 2019-08-16 |
 | [Walk Again](https://open.spotify.com/track/5yekC3pkYWelebEpfD3Fwr) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Walk Again](https://open.spotify.com/album/0KxORTPxPCaZU2NSVlMMFN) | 3:03 | 2025-04-11 |  |
 | [Walk Soft](https://open.spotify.com/track/3N3bVn9wKLiZF5zq2jnYVq) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Walk Soft](https://open.spotify.com/album/089VL6jNeEYPRSKK79I4SH) | 3:58 | 2020-02-21 | 2020-03-06 |
-| [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 | 2025-03-28 |  |
+| [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 | 2025-03-28 | 2025-04-17 |
 | [Walk With Me](https://open.spotify.com/track/7bYhWHFq1bdgF75y0CE9E9) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Walk With Me](https://open.spotify.com/album/07PhwpxrmufeLRlZC0slVg) | 2:52 | 2023-02-17 | 2023-03-25 |
 | [Walker](https://open.spotify.com/track/1iu83btfdAEbMH4K2tRo71) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Walker](https://open.spotify.com/album/4q2AM3cwp8l8UhutZAFA1p) | 3:47 | 2021-12-17 | 2022-02-12 |
 | [Walking at a Downtown Pace](https://open.spotify.com/track/00wZUeDePKjqDjVRFf1qBx) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Walking at a Downtown Pace](https://open.spotify.com/album/6C1Dg9FYjwJxBjHNl4bN3i) | 4:46 | 2021-08-24 | 2021-09-25 |
@@ -8149,7 +8150,7 @@
 | [Weekday/Anything](https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 6:00 | 2023-04-28 | 2023-06-03 |
 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 | 2024-10-04 | 2024-11-09 |
 | [Weekend Run](https://open.spotify.com/track/33NsFLfr80OVXNzFgztYyx) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Weekend Run](https://open.spotify.com/album/4X54xZ3MqDs2qnfa2eNlls) | 4:49 | 2021-06-26 | 2021-08-07 |
-| [Weight Of Desire](https://open.spotify.com/track/1frM1ZmtPdJRgFNnRnwCyR) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Weight Of Desire](https://open.spotify.com/album/3OfDT5SPGGrLO5mw3Wg76F) | 3:40 | 2025-04-04 |  |
+| [Weight Of Desire](https://open.spotify.com/track/1frM1ZmtPdJRgFNnRnwCyR) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Weight Of Desire](https://open.spotify.com/album/3OfDT5SPGGrLO5mw3Wg76F) | 3:40 | 2025-04-04 | 2025-04-17 |
 | [Weightless](https://open.spotify.com/track/70zBPlj9xyHGsMBYQA0fG1) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [Weightless / Set Me Free / All Eyes on You / Cruel World](https://open.spotify.com/album/2Nn9MLwAKEvzyXYmsF5jXQ) | 3:11 | 2020-03-06 | 2020-04-03 |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-20 | 2023-03-04 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-07-24 | 2021-09-18 |

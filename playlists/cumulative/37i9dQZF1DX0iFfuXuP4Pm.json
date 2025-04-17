@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Dalangin",
+        "url": "https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252162,
+      "name": "Dalangin",
+      "url": "https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x"
+    },
+    {
+      "album": {
         "name": "DAM",
         "url": "https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN"
       },
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 199903,
       "name": "Lalim",
       "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
@@ -2608,6 +2626,24 @@
       "duration_ms": 198103,
       "name": "Little Paradise",
       "url": "https://open.spotify.com/track/34l48eopIEbS9l475GAFDy"
+    },
+    {
+      "album": {
+        "name": "Liwanag",
+        "url": "https://open.spotify.com/album/0d75tH0TP8q8kwmJVoGCIP"
+      },
+      "artists": [
+        {
+          "name": "Sponge Cola",
+          "url": "https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235234,
+      "name": "Liwanag",
+      "url": "https://open.spotify.com/track/6BeFj828zVMPqBGpLTXZoy"
     },
     {
       "album": {
@@ -3378,7 +3414,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 174473,
       "name": "Namumula",
       "url": "https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ"
@@ -4715,6 +4751,24 @@
     },
     {
       "album": {
+        "name": "Saranggola",
+        "url": "https://open.spotify.com/album/36gNzsCUsMd3CoD9zGyMUp"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Saranggola",
+      "url": "https://open.spotify.com/track/2V3HVXu25O5xCAjmmptYCo"
+    },
+    {
+      "album": {
         "name": "Sariling Mundo",
         "url": "https://open.spotify.com/album/2rfBUsHWqodvzhMDNDAeJW"
       },
@@ -5206,7 +5260,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 238363,
       "name": "Through The Years - From \u201cLolo and the Kid\"",
       "url": "https://open.spotify.com/track/4CkwBFexkKpSVt76urws7y"

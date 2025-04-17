@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
 
-1,420 songs - 3 day 7 hr 16 min
+1,421 songs - 3 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [Touba \(Intro Of Touba Series\)](https://open.spotify.com/track/2hb9SS3ObGXd6MwwxiKPqr) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [Touba \(Intro Of Touba Series\)](https://open.spotify.com/album/50Bmb0N5qoDWY5H2FWXKiv) | 3:48 | 2022-04-07 | 2022-07-29 |
 | [Tushkar](https://open.spotify.com/track/6tUQtTSX7noC1VFOlaYfsl) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Tushkar](https://open.spotify.com/album/2l22vxxvQdUu9VweOyNdA2) | 2:56 | 2023-06-29 | 2023-07-04 |
 | [Um 44](https://open.spotify.com/track/2MJtV0sadDfLHWHCrWbZGy) | [ابلة فاهيتا](https://open.spotify.com/artist/5m3Ulg93AiFnsEN6dGnp16) | [ام ٤٤](https://open.spotify.com/album/6Gd0TCMk22xKVrncE9mHVe) | 3:06 | 2025-03-04 |  |
+| [Unfollow](https://open.spotify.com/track/59U7FjAR2IKydAQihRZRLz) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Unfollow](https://open.spotify.com/album/0gFGQcdFweNEL92PTek3UN) | 3:03 | 2025-04-16 |  |
 | [VOICENOTE](https://open.spotify.com/track/74ickpJdZxJdTUpU0nehha) | [Sherif Abdelmeged](https://open.spotify.com/artist/6jjt4meb4Y0U7MbzYDjMrQ), [Youcsef](https://open.spotify.com/artist/7FtxI4u0hU8mFURUV0rV5n), [Soulphonic](https://open.spotify.com/artist/3QoLVZNmSNKRsjvrEFWqX9) | [VOICENOTE](https://open.spotify.com/album/2IEFxS5U5gwnvPrP5n6fMT) | 2:48 | 2024-08-29 | 2024-10-18 |
 | [W Ba3deen](https://open.spotify.com/track/6b0AIr9qvPAcQqD8B0g645) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [W Ba3deen](https://open.spotify.com/album/16jZxdWMD778Q68o3ud5Jd) | 2:42 | 2023-02-23 | 2023-05-05 |
 | [W Bahleflak](https://open.spotify.com/track/6dl0rOeMbMYpqsnOjdaFLr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [W Bahleflak](https://open.spotify.com/album/4RG5kVZevsPgZrqhrfVc5Q) | 4:18 | 2021-12-23 | 2022-01-05 |
@@ -890,7 +891,7 @@
 | [Ya Mawlana](https://open.spotify.com/track/1puamrYWE2cSMKqM2x02j0) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Ya Mawlana](https://open.spotify.com/album/1azCb4UB8DYaqMT2zUnnwS) | 3:53 | 2024-03-07 | 2024-04-26 |
 | [Ya Nahla](https://open.spotify.com/track/0er5CBzYS2GlYoNU3V4D9X) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Ya Nahla](https://open.spotify.com/album/4PN02EomiBAsQLVKuivtst) | 3:18 | 2024-05-06 | 2024-07-06 |
 | [Ya Naseeni](https://open.spotify.com/track/22d2S7bEi30u4TIyfBn6UD) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Ya Naseeni](https://open.spotify.com/album/5dUFJ8fT2qtwrRcNenJoGy) | 2:45 | 2024-02-05 | 2024-03-11 |
-| [Ya Nogoum](https://open.spotify.com/track/6u5rJxk1iUEtETfc6e4vi0) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ) | [Ya Nogoum](https://open.spotify.com/album/1tkLpHsACKO2C0wvkCEpAq) | 3:31 | 2025-04-10 |  |
+| [Ya Nogoum](https://open.spotify.com/track/6u5rJxk1iUEtETfc6e4vi0) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ) | [Ya Nogoum](https://open.spotify.com/album/1tkLpHsACKO2C0wvkCEpAq) | 3:31 | 2025-04-10 | 2025-04-17 |
 | [Ya Rab Tkoon Be Khair](https://open.spotify.com/track/7BHkU54RSmqhtd8TNKRKx6) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Rab Tkoon Be Khair](https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV) | 3:05 | 2022-12-20 | 2023-02-15 |
 | [Ya Safeena](https://open.spotify.com/track/4ticYbFy3RxBbw94pMvHWj) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ya Safeena](https://open.spotify.com/album/0l4tnmYwdmygeTEeNnDF5N) | 4:09 | 2023-09-06 | 2023-12-24 |
 | [Ya Tayar](https://open.spotify.com/track/3lxUL4F9yaYupuTu3g9Byg) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Ya Tayar](https://open.spotify.com/album/4TgabhACfeYjXuaefflF5f) | 3:15 | 2023-08-01 | 2023-08-25 |

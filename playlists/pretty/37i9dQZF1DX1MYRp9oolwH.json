@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Jack",
-  "num_followers": 149742,
+  "description": "Bringing out the best of latest love tracks\nCover : Nari Nari Naduma Murari",
+  "num_followers": 149761,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/y0YQAAAABwHi32QyUWWHLRrNqQFOxS",
+  "snapshot_id": "Z/8ohwAAAADusCivXSSj2uEuhS3X5ABj",
   "tracks": [
+    {
+      "added_at": "2025-04-16 03:48:23",
+      "album": {
+        "name": "Darsanamey (From \"Nari Nari Naduma Murari\")",
+        "url": "https://open.spotify.com/album/3Fa85cAkVuB6nc1yWAyAUA"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 241200,
+      "name": "Darsanamey (From \"Nari Nari Naduma Murari\")",
+      "url": "https://open.spotify.com/track/60puehJxKv05JPITtHLvAc"
+    },
     {
       "added_at": "2025-03-21 07:19:42",
       "album": {
@@ -1031,22 +1055,6 @@
       "duration_ms": 295572,
       "name": "Sasi Nuvvai (From \"Mounamelanoyi\")",
       "url": "https://open.spotify.com/track/4b1FJv1R7GeQDDlZLzFkl5"
-    },
-    {
-      "added_at": "2025-01-31 10:08:27",
-      "album": {
-        "name": "Yegire Manasule (From \"Mechanic Rocky\")",
-        "url": "https://open.spotify.com/album/4lkCl4dlT66ulvuMa4ul8W"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        }
-      ],
-      "duration_ms": 90128,
-      "name": "Yegire Manasule (From \"Mechanic Rocky\")",
-      "url": "https://open.spotify.com/track/72YNM7C4o8IUCfX8FAsbW5"
     },
     {
       "added_at": "2025-01-31 10:08:27",

@@ -2,7 +2,7 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall du moment\. Photo : MOLIY
+> Les hits dancehall, shatta & bouyon du moment\. Photo : MOLIY
 
 549 songs - 1 day 0 hr 10 min
 

@@ -2,7 +2,7 @@
 
 ### [All New Pop](https://open.spotify.com/playlist/37i9dQZF1DX11otjJ7crqp)
 
-> Essential new pop tracks\. Cover: Jewel Owusu
+> All this week's best new pop releases\. Cover: Jewel Owusu
 
 7,962 songs - 16 day 13 hr 36 min
 

@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 327391,
+  "num_followers": 327425,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
+        "name": "Fare Thee Well",
+        "url": "https://open.spotify.com/album/5au7oNwns9gXVgpOdIh414"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 261880,
+      "name": "Fare Thee Well",
+      "url": "https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
         "name": "Take On Me (MTV Unplugged / Edit)",
         "url": "https://open.spotify.com/album/2sMYviwwmjpVasUAMRBwDY"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 187970,
       "name": "Basket Case - 4-track demo",
       "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
-        "name": "Fare Thee Well",
-        "url": "https://open.spotify.com/album/5au7oNwns9gXVgpOdIh414"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 261880,
-      "name": "Fare Thee Well",
-      "url": "https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9"
     },
     {
       "added_at": "2025-02-28 17:10:40",

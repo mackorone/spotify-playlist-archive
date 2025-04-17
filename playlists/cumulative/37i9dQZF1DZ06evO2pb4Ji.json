@@ -849,6 +849,32 @@
     },
     {
       "album": {
+        "name": "Here, Tomorrow",
+        "url": "https://open.spotify.com/album/0OGterMTRluPdOfPvCRxWf"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        },
+        {
+          "name": "Kevin Penkin",
+          "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Here, Tomorrow",
+      "url": "https://open.spotify.com/track/56pXPk5rR4pmQVZAarPGpH"
+    },
+    {
+      "album": {
         "name": "Welcome to Noxus (Original Soundtrack from League of Legends)",
         "url": "https://open.spotify.com/album/3XFDKkGZqcQj2MfPeO5K5k"
       },
@@ -968,7 +994,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 198611,
       "name": "I'LL SHOW YOU",
       "url": "https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6"

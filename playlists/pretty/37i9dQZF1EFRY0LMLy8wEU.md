@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 28 | [Nothing You Can't Do](https://open.spotify.com/track/16ibtW4CG0OdbCuI45cc2B) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Let Us Worship \- Kingdom to the Capitol](https://open.spotify.com/album/5PaeB0wIctrq829QPHekdo) | 5:44 |
 | 29 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `Abu39AAAAAC2Eg6TzJvUYlBi6cLY9nni`
+Snapshot ID: `Abu9lAAAAACTJH+N8/gM6shuEH7oFte8`

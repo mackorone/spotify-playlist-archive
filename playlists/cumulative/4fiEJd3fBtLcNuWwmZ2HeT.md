@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-284 songs - 16 hr 12 min
+286 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [L'Étoile D'afrique \- \#18](https://open.spotify.com/track/1xHDxvqZduPRMqOCdiAKNZ) | [VDYCD](https://open.spotify.com/artist/6ZtfvZofStC4xF34rNriyY) | [L'Étoile D'afrique \- \#18](https://open.spotify.com/album/6FTxbDk1yg57rx0hLnAgx0) | 1:45 | 2023-04-01 |  |
 | [L.L.L.](https://open.spotify.com/track/44MCNFwV5AuEpm7iaTLTCA) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:36 | 2023-03-28 |  |
 | [Last Dance](https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 | 2023-01-29 |  |
+| [like a ghost \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1EHjsmdVXK64z9MFmebp46) | [sato noco](https://open.spotify.com/artist/18VhiGitw1aRTgdMPl49EV), [Kaai Yuki](https://open.spotify.com/artist/71LWbhymyyFoWzzy6tuPGn) | [like a ghost](https://open.spotify.com/album/0x6PunvepjfphMDfuydH2h) | 2:54 | 2025-04-16 |  |
 | [Like an idiot](https://open.spotify.com/track/27j5sGsWlhwNtHz5gY5bMB) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Like an idiot](https://open.spotify.com/album/2jEG6sJvdmgYS4UzSDiE7m) | 2:10 | 2024-01-22 |  |
 | [Los! Los! Los!](https://open.spotify.com/track/4M5WCAgpMCbBYwaQerEkMo) | [ターニャ・デグレチャフ\(CV:悠木碧\)](https://open.spotify.com/artist/6swJSqM6NMF0u3kslRDRwu) | [TVアニメ「幼女戦記」エンディングテーマ「Los! Los! Los!」](https://open.spotify.com/album/3zfMMMTn2pp4sd2a7wln92) | 3:37 | 2024-06-10 |  |
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-05-05 |  |
@@ -175,6 +176,7 @@
 | [あいして。](https://open.spotify.com/track/0AnVedOnc3RvcJHvXzLc2o) | [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [あいして。](https://open.spotify.com/album/5kEv9TrX05FKkrrQdkWEdf) | 2:14 | 2024-08-19 |  |
 | [あっかんべ](https://open.spotify.com/track/4H3CbpffoSJ0YvAcysYF9y) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [ぽいずにゃ〜しんどろーむ](https://open.spotify.com/album/5BqRdVGwJWuwV3c6emUoEZ) | 2:46 | 2022-09-06 |  |
 | [あのバンド](https://open.spotify.com/track/6wvTBMe3zZBv4W3OlpPGbS) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [あのバンド](https://open.spotify.com/album/0Q7q1edTAuH2hifLVFjscF) | 3:33 | 2023-05-06 |  |
+| [うそ鳴き](https://open.spotify.com/track/4Hal50XJ5qW9TtsFWvMlJU) | [心世紀](https://open.spotify.com/artist/3D7WfGrhPBUqfKQ4BAlOa6), [少女革命計画](https://open.spotify.com/artist/7gFHp9H8K8h4B9y7HkFC7N), [御莉姫](https://open.spotify.com/artist/0Ur3wB7R1lkydYPdwATVpe), [佳鏡院](https://open.spotify.com/artist/1ydUxA0KMdyroinaACZFsu), [硝子宮](https://open.spotify.com/artist/71B1IRtrf1zRRSUPOsxOLu) | [うそ鳴き](https://open.spotify.com/album/4VHIOjtivBozJgUHrJgxeo) | 3:16 | 2025-04-16 |  |
 | [うらみのワルツ \- 第一幕Mix](https://open.spotify.com/track/16nHgNk16haiFdhEpHZpWw) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第一幕](https://open.spotify.com/album/61LtVJlmKKinmd80gtNOry) | 4:12 | 2025-02-17 |  |
 | [おしゃかしゃま](https://open.spotify.com/track/39oAp7sfaU9PDaraVLD31O) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 3:48 | 2024-03-10 |  |
 | [おともだち](https://open.spotify.com/track/50eZvIHB0xLGufN0V6FGcF) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [おともだち](https://open.spotify.com/album/7zoaKknjImLwzHwzGMcsey) | 3:14 | 2024-07-08 |  |

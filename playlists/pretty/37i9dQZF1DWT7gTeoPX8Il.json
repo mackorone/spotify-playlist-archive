@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 145422,
+  "num_followers": 145510,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-04-03 15:17:31",
       "album": {
-        "name": "Cukup",
-        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
-      },
-      "artists": [
-        {
-          "name": "Ziva Magnolya",
-          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
-        }
-      ],
-      "duration_ms": 220230,
-      "name": "Cukup",
-      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
-    },
-    {
-      "added_at": "2025-04-03 15:17:31",
-      "album": {
         "name": "P.U.S.P.A.",
         "url": "https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 240200,
       "name": "Putri Iklan",
       "url": "https://open.spotify.com/track/0wlZGWWK9M6KRHky1IfBYZ"
+    },
+    {
+      "added_at": "2025-04-03 15:17:31",
+      "album": {
+        "name": "Cukup",
+        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "duration_ms": 220230,
+      "name": "Cukup",
+      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
     },
     {
       "added_at": "2025-04-03 15:17:31",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-04-03 15:17:31",
       "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 235643,
-      "name": "Terlintas",
-      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
-    },
-    {
-      "added_at": "2025-04-03 15:17:31",
-      "album": {
         "name": "Teruntuk Jantung",
         "url": "https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr"
       },
@@ -851,6 +835,26 @@
       "duration_ms": 169707,
       "name": "Masa",
       "url": "https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO"
+    },
+    {
+      "added_at": "2025-04-03 15:17:31",
+      "album": {
+        "name": "Lagu Pernikahan Kita",
+        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        }
+      ],
+      "duration_ms": 261476,
+      "name": "Lagu Pernikahan Kita",
+      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     }
   ],
   "unique_name": "galau rabak",

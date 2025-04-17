@@ -2,9 +2,9 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume from across the world\. Cover: Ninajirachi
+> Listen to women at full volume from across the world\. Cover: Hsien Ching
 
-2,367 songs - 5 day 10 hr 58 min
+2,369 songs - 5 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2154,6 +2154,7 @@
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-03-13 | 2024-05-03 |
 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/4Yip3hds5IHyT7AqoNHfmX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:19 | 2022-01-05 | 2023-01-05 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-08-02 | 2023-09-07 |
+| [Wui229](https://open.spotify.com/track/6ys5ZWv1RTBlwBs1vRFyd1) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 2:59 | 2025-04-16 |  |
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2023-03-01 | 2023-03-18 |
 | [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 | 2023-03-05 | 2023-04-06 |
 | [Wytrzymam](https://open.spotify.com/track/1cbgaTsV1q6qZ3sfhIVHxh) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B) | [Wytrzymam](https://open.spotify.com/album/2NKBpcoWvoqam8c3JlBUYf) | 4:03 | 2023-02-01 | 2023-03-02 |
@@ -2369,6 +2370,7 @@
 | [言不由衷](https://open.spotify.com/track/1K4viDkmDlxabXN2f39VfC) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 4:59 | 2024-02-07 | 2024-03-07 |
 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 | 2023-02-01 | 2023-03-02 |
 | [許的生日願望從來沒實現過](https://open.spotify.com/track/13Jc8X8BAExRzR0iU3LHcN) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [許的生日願望從來沒實現過](https://open.spotify.com/album/445uAERcsA3iD2F0A263uW) | 2:55 | 2024-04-17 | 2024-05-03 |
+| [輕輕 \(Original\)](https://open.spotify.com/track/1G6oFGVf2BoXfmKruxSSRb) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [輕輕 \(Ultimate Collection\)](https://open.spotify.com/album/5FuVQYtZd50abo28wowwNi) | 3:32 | 2025-04-16 |  |
 | [逃生門](https://open.spotify.com/track/39JQPbO75nuTqAq9XXRXkA) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [巴古慕](https://open.spotify.com/album/6ulfIS8o7jvkvzGcrKgJPb) | 4:24 | 2023-09-06 | 2023-10-05 |
 | [這麼多年](https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 4:12 | 2025-03-05 | 2025-04-03 |
 | [過期](https://open.spotify.com/track/4vo5zsdH31KQSYHNYoBpRo) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [過期](https://open.spotify.com/album/3cjJO8KAcUWughFcL0aKlp) | 2:03 | 2025-01-08 | 2025-02-20 |

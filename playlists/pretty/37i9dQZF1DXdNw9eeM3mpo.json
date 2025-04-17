@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Camiseta 22 y Los Miserables en portada.",
-  "num_followers": 478808,
+  "num_followers": 478843,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 240072,
+      "name": "Ojos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 240072,
-      "name": "Ojos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1459,42 +1459,6 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
-      },
-      "artists": [
-        {
-          "name": "Camiseta 22",
-          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 248371,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "Que Se Joda el Amor",
-        "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Que Se Joda el Amor",
-      "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
         "name": "Un Amor Violento",
         "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
@@ -1515,34 +1479,38 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Al Final - The Romaphonic Session",
-        "url": "https://open.spotify.com/album/1EZ1RXJ60yEjI45z4WcaY0"
+        "name": "Que Se Joda el Amor",
+        "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
       },
       "artists": [
         {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
         }
       ],
-      "duration_ms": 221887,
-      "name": "Al Final - The Romaphonic Session",
-      "url": "https://open.spotify.com/track/15b5DnRHBUjq8gHaKvWGd4"
+      "duration_ms": 151500,
+      "name": "Que Se Joda el Amor",
+      "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
     },
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Camiseta 22",
+          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+      "duration_ms": 248371,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1567,6 +1535,38 @@
       "duration_ms": 187600,
       "name": "Enguayabao",
       "url": "https://open.spotify.com/track/6hMq5qdI3ug2qkW6KTcMkI"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "Al Final - The Romaphonic Session",
+        "url": "https://open.spotify.com/album/1EZ1RXJ60yEjI45z4WcaY0"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "duration_ms": 221887,
+      "name": "Al Final - The Romaphonic Session",
+      "url": "https://open.spotify.com/track/15b5DnRHBUjq8gHaKvWGd4"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
+      },
+      "artists": [
+        {
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+        }
+      ],
+      "duration_ms": 186175,
+      "name": "Siente El Movimiento",
+      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Siente El Movimiento",
-        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
-      },
-      "artists": [
-        {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
-        }
-      ],
-      "duration_ms": 186175,
-      "name": "Siente El Movimiento",
-      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
         "name": "Que Empiece Ya!",
         "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 332695,
       "name": "Amor Sin Odio",
       "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "Quiero Bailar Ska!!!",
+        "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
+      },
+      "artists": [
+        {
+          "name": "Boxer",
+          "url": "https://open.spotify.com/artist/2CboRkb4SB7Xhca2WhpLDD"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Quiero Bailar Ska!!!",
+      "url": "https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Quiero Bailar Ska!!!",
-        "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
       "artists": [
         {
-          "name": "Boxer",
-          "url": "https://open.spotify.com/artist/2CboRkb4SB7Xhca2WhpLDD"
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Quiero Bailar Ska!!!",
-      "url": "https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT"
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1719,22 +1735,6 @@
       "duration_ms": 238741,
       "name": "Amores Desechables",
       "url": "https://open.spotify.com/track/2FHt2jFXTnemuV1VEEiTQB"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2025-04-04 06:00:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: loserpop
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,694 likes - 55 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,698 likes - 55 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 3 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 |
 | 4 | [เพียงแค่อยากรู้ \(Why\)](https://open.spotify.com/track/1OjZuGbeXKh7fvJ4uPlNCg) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [เพียงแค่อยากรู้ \(Why\)](https://open.spotify.com/album/6IKE7q1kWDWgWSK3hSolqb) | 3:53 |
 | 5 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
-| 6 | [Songkran SOI COWBOY](https://open.spotify.com/track/3d4LpE2eJCsb1rvG4uq7dv) | [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi), [Younggu](https://open.spotify.com/artist/1FoYKCI4RZTARNndlahQeD), [Twopee Southside](https://open.spotify.com/artist/4ElNwSJyLhUjurznOPLmRn), [BLAQ LYTE](https://open.spotify.com/artist/3PeiaLYythiXQWb5aPBxDX) | [Songkran SOI COWBOY](https://open.spotify.com/album/3thFyDxTBbC9bBVWhjGW9j) | 3:46 |
+| 6 | [Songkran SOI COWBOY](https://open.spotify.com/track/3d4LpE2eJCsb1rvG4uq7dv) | [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi), [Younggu](https://open.spotify.com/artist/1FoYKCI4RZTARNndlahQeD), [Twopee Southside](https://open.spotify.com/artist/4ElNwSJyLhUjurznOPLmRn) | [Songkran SOI COWBOY](https://open.spotify.com/album/3thFyDxTBbC9bBVWhjGW9j) | 3:46 |
 | 7 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
 | 8 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
 | 9 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 |

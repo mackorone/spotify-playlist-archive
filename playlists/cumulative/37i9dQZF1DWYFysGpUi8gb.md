@@ -2,9 +2,9 @@
 
 ### [melomania](https://open.spotify.com/playlist/37i9dQZF1DWYFysGpUi8gb)
 
-> welcome to the underground\. greetings from black country, new road.
+> welcome to the underground\. greetings from caroline\(s\).
 
-284 songs - 17 hr 34 min
+289 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,13 @@
 | [Average Boy](https://open.spotify.com/track/1fmo0pStmPFomccb9oY3Mg) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Average Boy](https://open.spotify.com/album/4BYqY0LvQLdxlacGlpIGob) | 3:44 | 2024-06-14 | 2024-12-06 |
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-06-14 | 2024-12-06 |
 | [Back2bed](https://open.spotify.com/track/1cC6rj10DoUfWPNkYYyB5D) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Back2bed](https://open.spotify.com/album/1w2jKlJbVynIPpHj8w2oBl) | 2:53 | 2024-10-06 | 2025-02-22 |
+| [Bad Boys go to Heaven](https://open.spotify.com/track/2XWntldm9DfQ6lKjAdrSNO) | [Cosmorat](https://open.spotify.com/artist/7N3uZZGaea8CxH6SoFyCpr) | [Bad Boys go to Heaven](https://open.spotify.com/album/0Hzdn57dOsn3fOOEq2XE3N) | 4:55 | 2025-04-16 |  |
 | [Baggage](https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Baggage](https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR) | 4:52 | 2024-06-14 | 2024-09-27 |
 | [bald heads crackin](https://open.spotify.com/track/0EuoI75ePFQi6WySQfi7rL) | [School Fair](https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7) | [bird the kid](https://open.spotify.com/album/1nZ8LRi5osH0S4MUjGXtim) | 3:28 | 2025-03-24 |  |
 | [Bang Bang Bang](https://open.spotify.com/track/6SZiBRJYG3rd3yiU4PDsxZ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Bang Bang Bang](https://open.spotify.com/album/4xxuqs9e7upJFfloA8hX4W) | 3:39 | 2025-01-17 | 2025-04-04 |
 | [barefeet](https://open.spotify.com/track/3qnJMEAZ4FZr0YiHOfHSPa) | [Gal Go](https://open.spotify.com/artist/7n60wrmIBDkDk5MGXyZC0t), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [C los lentos](https://open.spotify.com/album/3rJddPnSqEFGp3ajwYvwoJ) | 2:28 | 2025-04-14 |  |
 | [Battle](https://open.spotify.com/track/3MTuf7SClqUl0UlPsrixPW) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Battle](https://open.spotify.com/album/3IbYC7UpTbAYKDmNRPdrUp) | 2:34 | 2024-06-14 | 2024-10-18 |
+| [Be a Man](https://open.spotify.com/track/2CDSRNLnEaDLHr1PFNeTuk) | [Demise Of Love](https://open.spotify.com/artist/1NXsFjzcDPUKz6fuB9Qq6R), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Be a Man](https://open.spotify.com/album/5LFOUzcpGSV45eXcQszJzs) | 3:12 | 2025-04-16 |  |
 | [Be Laurel](https://open.spotify.com/track/77M9iOcvUtzbV8194xfmy7) | [Search Results](https://open.spotify.com/artist/26WnkHydmkuHAgHS0ZbZjM) | [Be Laurel](https://open.spotify.com/album/4LFwOCEzMz7l8dVzm6U3Vx) | 1:39 | 2025-04-03 |  |
 | [bear walk](https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california / bear walk](https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy) | 3:33 | 2024-12-06 | 2025-01-17 |
 | [Bedwetter](https://open.spotify.com/track/0Pkkje3ykyNs1reEKq2Xih) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Bedwetter](https://open.spotify.com/album/3boYoDjJRkzVCRtruIGDXX) | 5:26 | 2025-01-17 |  |
@@ -212,6 +214,7 @@
 | [Secrets](https://open.spotify.com/track/5NEsbs9HaBMxkw97yGpaMM) | [Laundromat Chicks](https://open.spotify.com/artist/46HzAMITllrFpiZAvvJudl) | [Secrets](https://open.spotify.com/album/76P5e8lX4dT74myU7I60gt) | 3:53 | 2025-01-17 |  |
 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 | 2025-03-12 |  |
 | [Selling Shovels](https://open.spotify.com/track/6OLfxKILVcEUVEUPqikgYc) | [Silverbacks](https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4) | [Selling Shovels](https://open.spotify.com/album/1YPMTEHiTJ4mj3ZB3ItXm9) | 4:22 | 2024-07-12 | 2024-11-23 |
+| [Sequence Of Voices](https://open.spotify.com/track/5MvxKOp6Dm44goQYzGK2gJ) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Sequence Of Voices](https://open.spotify.com/album/36chJr3Y6r5I0Kw1hSwHmy) | 3:33 | 2025-04-16 |  |
 | [Shade in Me](https://open.spotify.com/track/5rjjofnmqtlooLAtWVOnrq) | [Slate](https://open.spotify.com/artist/2qf9rIU7fNJBZvqptGu863) | [Shade in Me](https://open.spotify.com/album/7cw97Zw99jHUtfv20KWz3u) | 3:59 | 2024-06-14 | 2024-11-23 |
 | [Shapeshifting](https://open.spotify.com/track/5jAgSZqT5gyYcx5x0OfODS) | [Human Interest](https://open.spotify.com/artist/7whqwnuFmUxP5ZdBzyFsKc) | [Shapeshifting](https://open.spotify.com/album/2cYDKTReDdf8J8Cautc4kF) | 3:18 | 2024-06-14 | 2024-12-06 |
 | [She Took You To Narnia](https://open.spotify.com/track/74o4kHeG83ZduHZ0jlrqT4) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [She Took You To Narnia](https://open.spotify.com/album/6xyhXu98hMeNrKziYkISsg) | 3:26 | 2024-06-14 | 2024-12-06 |
@@ -231,7 +234,7 @@
 | [So Medieval](https://open.spotify.com/track/1XXyubI3J3GRqpmVQPcBCT) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:54 | 2024-06-14 | 2024-12-06 |
 | [something new](https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [something new](https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF) | 3:51 | 2024-10-06 | 2025-01-17 |
 | [Something New](https://open.spotify.com/track/1KkZL7Iw1Rh0qUBTlnJnWS) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [Something New](https://open.spotify.com/album/6nF0cIZaxWuPxAX1nQq8Ic) | 2:40 | 2025-02-28 |  |
-| [Sour Milk](https://open.spotify.com/track/2RZ7FUkeNqfZmIyjeB9P63) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [New Wave Vaudeville](https://open.spotify.com/album/2uhoS0ciqS2XeadVtyq4i7) | 3:23 | 2025-01-17 |  |
+| [Sour Milk](https://open.spotify.com/track/2RZ7FUkeNqfZmIyjeB9P63) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [New Wave Vaudeville](https://open.spotify.com/album/2uhoS0ciqS2XeadVtyq4i7) | 3:23 | 2025-01-17 | 2025-04-17 |
 | [Space Girl](https://open.spotify.com/track/0Adu5x2aj2vFEnEikNoHH8) | [The Parallels](https://open.spotify.com/artist/03cbAOxjrgTBq2TixSwEVA) | [Space Girl](https://open.spotify.com/album/33Ja63rkuL0bEPRt6UKtjq) | 3:58 | 2024-06-14 | 2024-11-23 |
 | [Sports Day](https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Eazy Peazy](https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV) | 2:30 | 2024-11-22 | 2025-03-25 |
 | [Stand On Yr Star](https://open.spotify.com/track/2lJNYiBECgPXmNcKpuPSaj) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [Stand On Yr Star](https://open.spotify.com/album/71Pp0Mal3JcdvIkKw42IfY) | 3:00 | 2025-02-28 |  |
@@ -248,6 +251,7 @@
 | [task force diane](https://open.spotify.com/track/7dxGnKALMOsrSixdPXlINp) | [marcel](https://open.spotify.com/artist/176oWYh6UJPDOR38W09xmo) | [ô fornaiz](https://open.spotify.com/album/4ujq3Dk6OOWh19FJHhXLja) | 3:39 | 2025-03-24 |  |
 | [Teething](https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Teething](https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl) | 3:40 | 2024-09-26 | 2025-03-25 |
 | [Television](https://open.spotify.com/track/5QpBEigL2NaZH88aumnjnm) | [MAGNOLIA](https://open.spotify.com/artist/2oVIgEE7hIeHfc67pYotvG) | [Television](https://open.spotify.com/album/5iO5RwcFe7WZYLnP0n5wdv) | 5:39 | 2024-06-14 | 2024-11-23 |
+| [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-16 |  |
 | [The Boss](https://open.spotify.com/track/1CcInJMJvGVozu3AaDKTz6) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [The Boss](https://open.spotify.com/album/1OwrqBMQkhVUmHbG9HONpZ) | 2:58 | 2024-10-06 | 2025-03-25 |
 | [The Country](https://open.spotify.com/track/0mrbmxIbDmTu4x997pqWnF) | [Mên An Tol](https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs) | [The Country](https://open.spotify.com/album/0rPbZoh9ARwWuuEjeLHMJC) | 3:50 | 2025-03-24 |  |
 | [The Heart](https://open.spotify.com/track/6lP16B6cMgkRmqXDzZNh0N) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [The Heart](https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi) | 2:35 | 2024-06-14 | 2024-09-27 |
@@ -277,6 +281,7 @@
 | [Unpaid Intern](https://open.spotify.com/track/574VcgcnXEFHdMsmbuHdMw) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Scream If You Wanna Go Faster](https://open.spotify.com/album/4AxGhOQv7Bql3UzBTEOwl3) | 2:44 | 2024-07-26 | 2025-01-17 |
 | [Untitled](https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:33 | 2024-06-14 | 2024-07-13 |
 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 | 2025-03-24 |  |
+| [Victory Path](https://open.spotify.com/track/7BJHQGhMdCKT2Wa9SQXq3L) | [fantasy of a broken heart](https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe) | [Chaos Practitioner](https://open.spotify.com/album/5Duq1QNcBEZvm84waF19mM) | 3:10 | 2025-04-16 |  |
 | [Visual Effect](https://open.spotify.com/track/1Pig2mwdLYtThRhogDW7k5) | [Fuzz Lightyear](https://open.spotify.com/artist/24Eklv4Dvhk1c6iXuCFzoL) | [Visual Effect](https://open.spotify.com/album/1niyfeyNhJR1bOaTJg66wL) | 2:38 | 2025-01-17 |  |
 | [Warplane](https://open.spotify.com/track/0mam1gwPpYCmK9Ns0K05xz) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Warplane](https://open.spotify.com/album/0ePj8KIjP3uTJEozHRIIRb) | 5:31 | 2024-10-17 | 2025-03-25 |
 | [Warsaw](https://open.spotify.com/track/60rYY3UckgJzOjijhGjAaP) | [Martial Arts](https://open.spotify.com/artist/6Io0X7BBqmDmJLaKbEq14E) | [Warsaw](https://open.spotify.com/album/2Sst2B9jLtDMMHm3VaWDEu) | 4:03 | 2024-06-14 | 2024-09-27 |

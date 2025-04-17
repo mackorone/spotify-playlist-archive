@@ -1,12 +1,12 @@
 {
   "description": "my alt/pop could mean anything ~\nhard life on the cover",
-  "num_followers": 48384,
+  "num_followers": 48461,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/07ZgAAAAC/sO5FEwVfIXiJtm8loF6l",
+  "snapshot_id": "Z/955wAAAACiKrA2BviYEINPR0B8MngB",
   "tracks": [
     {
       "added_at": "2025-04-11 09:51:19",
@@ -63,6 +63,22 @@
     {
       "added_at": "2025-04-11 09:51:19",
       "album": {
+        "name": "MDE",
+        "url": "https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm"
+      },
+      "artists": [
+        {
+          "name": "Grace Davies",
+          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
+        }
+      ],
+      "duration_ms": 287837,
+      "name": "MDE",
+      "url": "https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI"
+    },
+    {
+      "added_at": "2025-04-11 09:51:19",
+      "album": {
         "name": "stick",
         "url": "https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq"
       },
@@ -111,18 +127,18 @@
     {
       "added_at": "2025-04-11 09:51:19",
       "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/0k6TvGI67qgblSaY1QWxC6"
+        "name": "POST HEAVEN",
+        "url": "https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV"
       },
       "artists": [
         {
-          "name": "Nii",
-          "url": "https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 247106,
-      "name": "Issues",
-      "url": "https://open.spotify.com/track/72I9mUGnrnuTLQNwBGNiWr"
+      "duration_ms": 264500,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF"
     },
     {
       "added_at": "2025-04-11 09:51:19",
@@ -143,34 +159,18 @@
     {
       "added_at": "2025-04-11 09:51:19",
       "album": {
-        "name": "MDE",
-        "url": "https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm"
+        "name": "Flink Pike",
+        "url": "https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26"
       },
       "artists": [
         {
-          "name": "Grace Davies",
-          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
         }
       ],
-      "duration_ms": 287837,
-      "name": "MDE",
-      "url": "https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI"
-    },
-    {
-      "added_at": "2025-04-11 09:51:19",
-      "album": {
-        "name": "POST HEAVEN",
-        "url": "https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF"
+      "duration_ms": 173140,
+      "name": "Flink Pike",
+      "url": "https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL"
     },
     {
       "added_at": "2025-04-11 09:51:19",
@@ -191,6 +191,42 @@
     {
       "added_at": "2025-04-11 09:51:19",
       "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/0k6TvGI67qgblSaY1QWxC6"
+      },
+      "artists": [
+        {
+          "name": "Nii",
+          "url": "https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV"
+        }
+      ],
+      "duration_ms": 247106,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/72I9mUGnrnuTLQNwBGNiWr"
+    },
+    {
+      "added_at": "2025-04-11 09:51:19",
+      "album": {
+        "name": "corduroy boy",
+        "url": "https://open.spotify.com/album/0Uq9G0phRz0lyl5qUMW8pb"
+      },
+      "artists": [
+        {
+          "name": "Lily Agnes",
+          "url": "https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ"
+        },
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "corduroy boy",
+      "url": "https://open.spotify.com/track/16UwKNCbAlxTHcwRGuBhjH"
+    },
+    {
+      "added_at": "2025-04-11 09:51:19",
+      "album": {
         "name": "How?",
         "url": "https://open.spotify.com/album/6Ej0Fd2aH4lVXRJBicYlSn"
       },
@@ -203,22 +239,6 @@
       "duration_ms": 167893,
       "name": "How?",
       "url": "https://open.spotify.com/track/14zjPpctBiO8up0jD4vSOu"
-    },
-    {
-      "added_at": "2025-04-11 09:51:19",
-      "album": {
-        "name": "Flink Pike",
-        "url": "https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 173140,
-      "name": "Flink Pike",
-      "url": "https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL"
     },
     {
       "added_at": "2025-04-11 09:51:19",
@@ -267,26 +287,6 @@
       "duration_ms": 188514,
       "name": "catch these fists",
       "url": "https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw"
-    },
-    {
-      "added_at": "2025-04-11 09:51:19",
-      "album": {
-        "name": "corduroy boy",
-        "url": "https://open.spotify.com/album/0Uq9G0phRz0lyl5qUMW8pb"
-      },
-      "artists": [
-        {
-          "name": "Lily Agnes",
-          "url": "https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ"
-        },
-        {
-          "name": "Alice Auer",
-          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "corduroy boy",
-      "url": "https://open.spotify.com/track/16UwKNCbAlxTHcwRGuBhjH"
     },
     {
       "added_at": "2025-04-11 09:51:19",

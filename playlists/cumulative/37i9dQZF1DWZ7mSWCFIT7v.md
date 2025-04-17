@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-387 songs - 1 day 7 hr 7 min
+388 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bakehouse 30/6](https://open.spotify.com/track/2RPwNWSHXBBxMoTlTLBnSR) | [Third Space](https://open.spotify.com/artist/4lrrni4g5Ll7Yltviu2JRH), [R\. Rebeiro](https://open.spotify.com/artist/4Ypve6UjlQ7h0mn4RYZu1X) | [Scissor Kick](https://open.spotify.com/album/7likK32KV3yK8grCMicTWQ) | 4:42 | 2022-09-21 | 2025-03-26 |
 | [Be Like Water](https://open.spotify.com/track/2QguXTW3RL8qIsfjwPxAP3) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Be Like Water](https://open.spotify.com/album/4Clt0IUyxEg4Z6rn0W50Ly) | 3:48 | 2021-10-06 | 2022-07-29 |
 | [Be Like Water](https://open.spotify.com/track/7Cf9U4IO5YXjaNbh45sImM) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [MP Productions \- EP 1](https://open.spotify.com/album/0uOT2SqsYa1IV69KqRtKhT) | 3:48 | 2021-10-06 | 2024-04-19 |
-| [Before I Leave](https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Endless Summer](https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF) | 4:08 | 2024-01-02 |  |
+| [Before I Leave](https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Endless Summer](https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF) | 4:08 | 2024-01-02 | 2025-04-17 |
 | [Bergen](https://open.spotify.com/track/6AhRffpaXubqSn4lHMfmyk) | [Ertoz](https://open.spotify.com/artist/4d7FnTdZG753sLDlnOOzOH) | [Bergen](https://open.spotify.com/album/1iDL1GIkT2T7EkXUwcw7Xy) | 5:50 | 2021-10-06 | 2022-07-26 |
 | [Between here and Home](https://open.spotify.com/track/51bxq4EgwFyQdQwfo1foJm) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Linked](https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL) | 5:38 | 2025-04-11 |  |
 | [Blackbox Life Recorder 22 \[Parallax Mix\]](https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:32 | 2023-07-28 |  |
@@ -282,6 +282,7 @@
 | [Röschen \- Edit](https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Röschen](https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv) | 3:19 | 2021-10-06 | 2025-02-23 |
 | [S.O](https://open.spotify.com/track/0kjAX603CzUwM9Ap3Jt7R9) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/3Zx14dyUjtZcEas89nZZfn) | 3:12 | 2021-10-06 | 2022-07-26 |
 | [S.O](https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:12 | 2021-10-06 | 2024-04-19 |
+| [Scanners](https://open.spotify.com/track/5p9JMOuMlYLDtfWtzW23v6) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Scanners](https://open.spotify.com/album/6UoOcnOdy6hnb6p63inGC0) | 5:37 | 2025-04-16 |  |
 | [Seca](https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u) | 2:18 | 2021-10-06 | 2024-04-19 |
 | [Seca](https://open.spotify.com/track/4URZmx8vA3tRRb0FFkbMHJ) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/4geSagGdLzudTyR6SW2mTo) | 2:18 | 2021-10-06 | 2022-07-27 |
 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 | 2022-08-03 | 2025-02-15 |

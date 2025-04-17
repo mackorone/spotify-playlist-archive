@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-638 songs - 1 day 3 hr 39 min
+639 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [Vilma](https://open.spotify.com/track/6M2N8fKC1Ik2rX6ZFW9QOf) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Vilma](https://open.spotify.com/album/7Hnxfd28t4evemd8q6oLKG) | 2:00 | 2022-04-22 | 2023-01-27 |
 | [Viva Valeriana](https://open.spotify.com/track/4k8AC9xUl0o7JG7qlVQBZi) | [Anaëlle Mei](https://open.spotify.com/artist/109jb0FywTHrzudz9XfX4L) | [Viva Valeriana](https://open.spotify.com/album/5c8qEdjduemMVmUxuMKp8n) | 1:52 | 2022-11-14 | 2023-08-15 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-04-22 | 2024-11-07 |
+| [vox mundi](https://open.spotify.com/track/2DrG61dKwMGWSl4LSb1eOW) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [vox mundi](https://open.spotify.com/album/5ceBwV6WzFugP6cpWVr3w9) | 2:33 | 2025-04-16 |  |
 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2022-04-22 | 2023-01-27 |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2022-04-22 | 2024-03-20 |
 | [Waiting](https://open.spotify.com/track/3w4X2NJ2SOm7nj7OpeF0t9) | [Christopher Somnus Brooks](https://open.spotify.com/artist/2IAikbE8ZfcZX1sUZeka5v) | [Waiting](https://open.spotify.com/album/3jqA7xYzhaaSpOWIncGdIi) | 2:12 | 2024-11-06 |  |

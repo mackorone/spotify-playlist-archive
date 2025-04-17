@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-960 songs - 2 day 6 hr 14 min
+961 songs - 2 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,7 @@
 | [The Light \- Flexible Fire Remix](https://open.spotify.com/track/4KMniGiobJ09rCP1rJhyB1) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [The Light \(The Remixes\)](https://open.spotify.com/album/3LJ9fh5loPde5YZJ6J48Sv) | 3:20 | 2022-05-27 | 2022-08-06 |
 | [The Losers Club](https://open.spotify.com/track/0sMRrXb9GyjHtmxVD77mHr) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [The Losers Club](https://open.spotify.com/album/6S1xsAlR55vpgFD21uuPH5) | 3:54 | 2024-07-05 | 2024-09-28 |
 | [The Lost Ancient Charm](https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Arentis](https://open.spotify.com/artist/3eAXDhAvVI3bE9ogPMNdnl) | [The Lost Ancient Charm](https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G) | 3:11 | 2022-10-12 | 2022-12-10 |
-| [The Love We Had](https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [The Love We Had](https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59) | 3:41 | 2025-01-23 |  |
+| [The Love We Had](https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [The Love We Had](https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59) | 3:41 | 2025-01-23 | 2025-04-17 |
 | [The Magic](https://open.spotify.com/track/5x8zNpwb9BYNIf6fcYTDRt) | [Nigel Good](https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2), [Tien Viet Nguyen](https://open.spotify.com/artist/6odxpDVoNhGYuhBzCZTAk6) | [The Magic](https://open.spotify.com/album/6GBf9xoSdsRTa9z3qyeGjs) | 3:35 | 2024-04-16 | 2024-07-06 |
 | [The Moment](https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Martin Graff](https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9) | [The Moment](https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb) | 3:30 | 2022-02-18 | 2022-04-29 |
 | [The One](https://open.spotify.com/track/5IjHyWBWrng9EjsAKZZCp4) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [The One](https://open.spotify.com/album/55hOZrIa3iHwwEMfvWKKMe) | 3:15 | 2024-02-20 | 2024-05-11 |
@@ -922,6 +922,7 @@
 | [Wassup](https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Wassup](https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83) | 3:01 | 2024-11-20 | 2025-02-27 |
 | [Wasted](https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Wasted](https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3) | 3:31 | 2023-09-21 | 2024-01-11 |
 | [Wastin Time](https://open.spotify.com/track/6hpuWbCqRFYWAxCuYDhMev) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Wastin Time](https://open.spotify.com/album/5XcER4wQ8lYFk72OeLHm8q) | 2:30 | 2023-11-30 | 2024-03-14 |
+| [WATCH OUT!](https://open.spotify.com/track/5JZTxaNJMHNVZ6vR41UTkM) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [WATCH OUT!](https://open.spotify.com/album/7giuKvtcg2gzhRwnFi7hbd) | 3:20 | 2025-04-16 |  |
 | [Water Resistant](https://open.spotify.com/track/6LvU1xQJaAXxdVhJXviRJq) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Water Resistant](https://open.spotify.com/album/2WLfJXC56KZzaTl4JQ0odn) | 3:17 | 2021-11-19 | 2022-02-23 |
 | [Waterloo](https://open.spotify.com/track/2m4CoBXFU89fVREZQeq8CW) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Waterloo](https://open.spotify.com/album/2IP4Jtybqn9yhijp7edZik) | 3:51 | 2022-04-15 | 2022-06-25 |
 | [Way Back](https://open.spotify.com/track/0TEiOUYQYGeDsoBqVSZYIQ) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Way Back](https://open.spotify.com/album/7MPJECu20Fx8ZNVpYUBFoJ) | 3:19 | 2022-08-05 | 2022-10-19 |

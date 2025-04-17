@@ -1428,6 +1428,10 @@
       },
       "artists": [
         {
+          "name": "Nico Gomez",
+          "url": "https://open.spotify.com/artist/48YivTBA0WJnVTQpmvTQzF"
+        },
+        {
           "name": "Nico Gomez And His Afro Percussion Inc.",
           "url": "https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys"
         }
@@ -6504,6 +6508,10 @@
         {
           "name": "Nusrat Fateh Ali Khan",
           "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Bally Sagoo",
+          "url": "https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ"
         }
       ],
       "date_added": "2021-12-10",
@@ -7275,7 +7283,7 @@
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 297162,
+      "duration_ms": 296533,
       "name": "Life's Gone Down Low",
       "url": "https://open.spotify.com/track/1YN3aermJfsy53lU90Nssf"
     },

@@ -6885,6 +6885,24 @@
     },
     {
       "album": {
+        "name": "Piave",
+        "url": "https://open.spotify.com/album/4A94Hfby7t1bEQQOQkUrhp"
+      },
+      "artists": [
+        {
+          "name": "Seren Rhys",
+          "url": "https://open.spotify.com/artist/1s5Ua8B6OhCvPYwFqAUe2j"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155658,
+      "name": "Piave",
+      "url": "https://open.spotify.com/track/5DCyPiUqIsQbvEUgcfNcRF"
+    },
+    {
+      "album": {
         "name": "Pirouette",
         "url": "https://open.spotify.com/album/57Z6mfy4khEp7rRaU6t8hU"
       },

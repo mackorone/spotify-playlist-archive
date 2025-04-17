@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything \~<br/>hard life on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,384 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,461 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [othello](https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [othello](https://open.spotify.com/album/7C4tEL9g4Vb2Dsn9Q1H52h) | 3:12 |
 | 2 | [All I Ever Really Wanted](https://open.spotify.com/track/57s0lwZ3aDerYYvXZZfxfg) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [All I Ever Really Wanted](https://open.spotify.com/album/2yXEkzs3cPIQSwGPbb83eq) | 3:08 |
 | 3 | [Made 2 Luv](https://open.spotify.com/track/7en5t6rDhWd40NcifSsZDK) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Made 2 Luv](https://open.spotify.com/album/61FAqGBl3ivf5hqjUSpXxi) | 2:26 |
-| 4 | [stick](https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [stick](https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq) | 2:19 |
-| 5 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 |
-| 6 | [My Everything](https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Two Lives](https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U) | 3:21 |
-| 7 | [Issues](https://open.spotify.com/track/72I9mUGnrnuTLQNwBGNiWr) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Issues](https://open.spotify.com/album/0k6TvGI67qgblSaY1QWxC6) | 4:07 |
-| 8 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
-| 9 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 |
-| 10 | [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 |
+| 4 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 |
+| 5 | [stick](https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [stick](https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq) | 2:19 |
+| 6 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 |
+| 7 | [My Everything](https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Two Lives](https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U) | 3:21 |
+| 8 | [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 |
+| 9 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
+| 10 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 |
 | 11 | [Floods](https://open.spotify.com/track/4GHTJzG3FV8TptOoPJPoo2) | [Paige Bea](https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA) | [Flutters](https://open.spotify.com/album/0yG6w4iiylJyAGcR9TsdzZ) | 3:21 |
-| 12 | [How?](https://open.spotify.com/track/14zjPpctBiO8up0jD4vSOu) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [How?](https://open.spotify.com/album/6Ej0Fd2aH4lVXRJBicYlSn) | 2:47 |
-| 13 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 |
-| 14 | [wild flower](https://open.spotify.com/track/4TchkLQGxjFlrPVnaQAKoK) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [in waves](https://open.spotify.com/album/6y1BndaDRT2FtLEHLg301e) | 4:10 |
-| 15 | [eighteen](https://open.spotify.com/track/4Nbl1AJEFlECs2PhpxU7o9) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [eighteen](https://open.spotify.com/album/5YRU0weFWelGixTTLqqdoR) | 3:34 |
-| 16 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 |
-| 17 | [corduroy boy](https://open.spotify.com/track/16UwKNCbAlxTHcwRGuBhjH) | [Lily Agnes](https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [corduroy boy](https://open.spotify.com/album/0Uq9G0phRz0lyl5qUMW8pb) | 3:06 |
+| 12 | [Issues](https://open.spotify.com/track/72I9mUGnrnuTLQNwBGNiWr) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Issues](https://open.spotify.com/album/0k6TvGI67qgblSaY1QWxC6) | 4:07 |
+| 13 | [corduroy boy](https://open.spotify.com/track/16UwKNCbAlxTHcwRGuBhjH) | [Lily Agnes](https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [corduroy boy](https://open.spotify.com/album/0Uq9G0phRz0lyl5qUMW8pb) | 3:06 |
+| 14 | [How?](https://open.spotify.com/track/14zjPpctBiO8up0jD4vSOu) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [How?](https://open.spotify.com/album/6Ej0Fd2aH4lVXRJBicYlSn) | 2:47 |
+| 15 | [wild flower](https://open.spotify.com/track/4TchkLQGxjFlrPVnaQAKoK) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [in waves](https://open.spotify.com/album/6y1BndaDRT2FtLEHLg301e) | 4:10 |
+| 16 | [eighteen](https://open.spotify.com/track/4Nbl1AJEFlECs2PhpxU7o9) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [eighteen](https://open.spotify.com/album/5YRU0weFWelGixTTLqqdoR) | 3:34 |
+| 17 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 |
 | 18 | [Knock\-Knock](https://open.spotify.com/track/4fqjHJAYQYL1qwqyN9sTTL) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 2:45 |
 | 19 | [God](https://open.spotify.com/track/1OfFSUu19Or3y03hALZs8t) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [God](https://open.spotify.com/album/7rynltkRekeHgWBUANjNpN) | 4:51 |
 | 20 | [And Then There Is You](https://open.spotify.com/track/0w5TiMdjoJm9AgLrQ02Vqo) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Gut Feeling](https://open.spotify.com/album/06xt5wTEW8N2KIl4EVIX5T) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 74 | [front seat honey](https://open.spotify.com/track/5bwErSkWEn7erwob3o00d0) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:07 |
 | 75 | [I Swear](https://open.spotify.com/track/5O83nDEK7B8FlC6hzeU1Vs) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [I Swear](https://open.spotify.com/album/7y07HAqwMMFkJS8kw5gEbf) | 3:23 |
 
-Snapshot ID: `Z/07ZgAAAAC/sO5FEwVfIXiJtm8loF6l`
+Snapshot ID: `Z/955wAAAACiKrA2BviYEINPR0B8MngB`

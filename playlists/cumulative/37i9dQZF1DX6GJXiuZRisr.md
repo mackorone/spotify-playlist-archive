@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-578 songs - 1 day 16 hr 16 min
+579 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Daydream](https://open.spotify.com/track/6EFwCTxuOWiJllWJSZtsBe) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Daydream](https://open.spotify.com/album/4QopFPTULH28wBGUtdk0eb) | 3:23 | 2024-07-26 | 2024-10-21 |
 | [Deep Space](https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Deep Space](https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F) | 3:01 | 2023-05-05 | 2024-05-05 |
 | [Delta](https://open.spotify.com/track/0WbXxAn99TZzB2kdLkh5hu) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Wake Your Mind Sessions 004 Exclusives](https://open.spotify.com/album/5ecWuN5lJXqZeqVU0UUVaW) | 4:05 | 2021-05-07 | 2022-04-16 |
-| [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 | 2023-10-06 |  |
+| [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 | 2023-10-06 | 2025-04-17 |
 | [Desire \(with Sam Smith\) \- Cedric Gervais Festival Mix](https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Desire \(with Sam Smith\) \[Cedric Gervais Remixes\]](https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx) | 4:19 | 2023-09-22 | 2023-11-28 |
 | [Dialogue](https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Radiant](https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI) | 7:32 | 2023-12-01 | 2025-04-07 |
 | [Disco Voyager](https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Disco Voyager](https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7) | 3:10 | 2023-02-17 | 2023-09-23 |
@@ -322,6 +322,7 @@
 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 | 2021-05-07 | 2022-08-14 |
 | [More Than Human](https://open.spotify.com/track/61zB4KTrgORQiXRJ1B3urg) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Music For My Memories Pt\. II](https://open.spotify.com/album/00v10qeXX8AUzg5boCdG83) | 4:13 | 2021-06-11 | 2022-07-29 |
 | [Morning Comes](https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Morning Comes](https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h) | 3:21 | 2023-08-04 | 2025-03-15 |
+| [Morumbi](https://open.spotify.com/track/3Ffgz1prGwJuIeNiEvKO5h) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Tocadisco](https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe) | [Morumbi](https://open.spotify.com/album/5a9vexwClSZXqcMkWIfnZw) | 3:05 | 2025-04-11 |  |
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-05-13 | 2022-07-29 |
 | [Murphy \- Edit](https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Murphy](https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM) | 5:08 | 2022-08-12 | 2022-10-03 |
 | [My Armour](https://open.spotify.com/track/0dcF0b9gjuGV3aCzjq5h6h) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I), [Nathan Red](https://open.spotify.com/artist/3BOwXt7PXPQ0RekeGEDgP2) | [Indigo](https://open.spotify.com/album/4wqRMgQqHrEOJ5dFN5oxvr) | 3:48 | 2022-07-01 | 2023-04-30 |

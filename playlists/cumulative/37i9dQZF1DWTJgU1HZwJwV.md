@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-556 songs - 23 hr 31 min
+557 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Angel](https://open.spotify.com/track/53buLGflmrjon42rFFwcj8) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Angel](https://open.spotify.com/album/4mrl491t5RV2RpqKgt5YuG) | 2:24 | 2024-01-12 |  |
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-04-28 | 2023-06-23 |
 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-04-28 | 2023-06-23 |
+| [Aporia](https://open.spotify.com/track/4XGgC3C5xkUlK7KZvxrvFO) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Aporia](https://open.spotify.com/album/2soT3wxQELu7yXSph3b4J8) | 1:57 | 2025-04-16 |  |
 | [Aquamarine](https://open.spotify.com/track/5lmpup8cpMz2Xik4qwhXwl) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Aquamarine](https://open.spotify.com/album/4dFmwqiionPLdVclCiAJWn) | 2:39 | 2023-10-27 |  |
 | [Arashiyama](https://open.spotify.com/track/1GrZGGozbbpBboXNLv7khL) | [Phillipe Goldman](https://open.spotify.com/artist/2kSOIyf9QXEISbCLOgy7rW) | [Arashiyama](https://open.spotify.com/album/4PnrVJ7jOX8ZAT8sxrh8No) | 2:21 | 2023-04-28 | 2023-06-23 |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-06-17 | 2024-05-10 |
@@ -546,7 +547,7 @@
 | [Weaving Together](https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Weaving Together](https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D) | 3:23 | 2023-08-10 |  |
 | [What If She Was Murdered?](https://open.spotify.com/track/1GWoM1VTurLLlYNal9CH9t) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YA7TB1egD5ApHIskQv4lK) | 3:49 | 2022-07-29 | 2022-08-05 |
 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 | 2023-03-24 | 2023-06-23 |
-| [Whispered words](https://open.spotify.com/track/4V4lgyWWYZlZB8GtqCwhE9) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Whispered words](https://open.spotify.com/album/3ty7RAPKAWVWv9LVweZsFn) | 2:55 | 2025-02-24 |  |
+| [Whispered words](https://open.spotify.com/track/4V4lgyWWYZlZB8GtqCwhE9) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Whispered words](https://open.spotify.com/album/3ty7RAPKAWVWv9LVweZsFn) | 2:55 | 2025-02-24 | 2025-04-17 |
 | [Whispers of Fondne](https://open.spotify.com/track/4IjwqZl1db3DsrO7RtZKJh) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers of Fondne](https://open.spotify.com/album/6lrs71ikfFEAIPB7m4bnoJ) | 2:55 | 2024-02-23 |  |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2023-02-25 |
 | [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 | 2023-05-19 | 2023-10-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,994 likes - 193 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,023 likes - 193 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 | 3 | [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 |
 | 4 | [Fares](https://open.spotify.com/track/3XHRlU43qYbiFhDDL4rOmO) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Fares](https://open.spotify.com/album/5VfCMA0661DODtD9hNtH7T) | 2:06 |
 | 5 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 |
-| 6 | [Hymns of Light](https://open.spotify.com/track/6oVF5IoQy0cGfNWl7wuXaz) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Hymns of Light](https://open.spotify.com/album/0m3KSiP0ndC41yuBv7lch4) | 2:37 |
-| 7 | [Mornings](https://open.spotify.com/track/0fX0L4RnzpvrOyr4vvQtuS) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Mornings](https://open.spotify.com/album/6JlPldHRWwO1MXDMznRzBC) | 2:33 |
-| 8 | [When We Were Two](https://open.spotify.com/track/2mP864ibWF6iscuKFnaFuh) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [When We Were Two](https://open.spotify.com/album/0U1wVK949khCQv3RgjqyL2) | 2:11 |
+| 6 | [When We Were Two](https://open.spotify.com/track/2mP864ibWF6iscuKFnaFuh) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [When We Were Two](https://open.spotify.com/album/0U1wVK949khCQv3RgjqyL2) | 2:11 |
+| 7 | [Hymns of Light](https://open.spotify.com/track/6oVF5IoQy0cGfNWl7wuXaz) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Hymns of Light](https://open.spotify.com/album/0m3KSiP0ndC41yuBv7lch4) | 2:37 |
+| 8 | [Mornings](https://open.spotify.com/track/0fX0L4RnzpvrOyr4vvQtuS) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Mornings](https://open.spotify.com/album/6JlPldHRWwO1MXDMznRzBC) | 2:33 |
 | 9 | [Paragon Sky](https://open.spotify.com/track/3VDYovwr8jMnxXuvVLaVyc) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Paragon Sky](https://open.spotify.com/album/3KqxIkmwtPBAhWOq6s9rme) | 2:16 |
-| 10 | [Irenic](https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Irenic](https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx) | 2:57 |
-| 11 | [The Pond](https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Pond](https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw) | 2:28 |
-| 12 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 |
+| 10 | [Changes](https://open.spotify.com/track/0siCo4tyMFCgKJaa3i7wvK) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Changes](https://open.spotify.com/album/3zdjBv8NJkDQmgRdMtpCYJ) | 2:10 |
+| 11 | [Irenic](https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Irenic](https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx) | 2:57 |
+| 12 | [The Pond](https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Pond](https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw) | 2:28 |
 | 13 | [Domes on the horizon](https://open.spotify.com/track/3oGszxPqZw7HDFBPUKGMhX) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Domes on the horizon](https://open.spotify.com/album/0z90JjgNr0EUPxjyiG1smN) | 2:39 |
 | 14 | [Sanshi Sumei](https://open.spotify.com/track/4HMgsKppAisNBfX8oGmRma) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Sanshi Sumei](https://open.spotify.com/album/2LP2wUI2VMWYmOmhfDBHVu) | 2:05 |
 | 15 | [Lightly](https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Lightly](https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2) | 2:07 |
-| 16 | [Changes](https://open.spotify.com/track/0siCo4tyMFCgKJaa3i7wvK) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Changes](https://open.spotify.com/album/3zdjBv8NJkDQmgRdMtpCYJ) | 2:10 |
+| 16 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 |
 | 17 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 |
 | 18 | [Velora Hearts](https://open.spotify.com/track/20OBs0J1ajLj4FgdjOANbh) | [Klara Ericsson](https://open.spotify.com/artist/0p6O1VFehc49qi21Rb7fXO) | [Velora Hearts](https://open.spotify.com/album/7AxEOdbYtQJHUkhD5idtoI) | 2:31 |
 | 19 | [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 | 192 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
 | 193 | [Lift Me Up](https://open.spotify.com/track/0IBr2Sdv4JbwkEM8hEghn4) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Lift Me Up](https://open.spotify.com/album/08gbtfj8eeJjEXFehorp3m) | 2:12 |
 
-Snapshot ID: `Z/Uj5QAAAAAENHVFMfMoVC8zF/nD/jwW`
+Snapshot ID: `Z/+NWQAAAADfuSNRORrupf8bUhBLLjJE`

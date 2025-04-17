@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC?si=eiLbDgIyQ7WaXuDmFFax0w">Jubed</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe?si=ThSD8NowS1C72Qa\-z3zXnw">LAGOS IN PARIS</a>\. Artwork: Isu Kim.
 
-1,299 songs - 2 day 17 hr 0 min
+1,300 songs - 2 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -993,6 +993,7 @@
 | [Saati Ramoni](https://open.spotify.com/track/6zLC5tfSmJmotGcOKF37Gc) | [MUIS](https://open.spotify.com/artist/5UhxuCNM1djBJLm5VhvuRy) | [Saati Ramoni](https://open.spotify.com/album/0VmgXMeTpKOknX6Vy6dBbV) | 3:09 | 2023-06-27 | 2024-02-07 |
 | [Sama Riddim](https://open.spotify.com/track/6FDCIpdd1aeJqB4bweUz7c) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [Nana Dinero](https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx), [Zel X](https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt) | [Solu, Vol\. 1](https://open.spotify.com/album/11uI3FGpSb4A2UDrEPYzpC) | 2:06 | 2023-03-29 | 2024-02-07 |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-02 | 2022-10-01 |
+| [SANTI'S APARTMENT](https://open.spotify.com/track/51aFMn0QVwiLKR0WOKWZo0) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [SANTI'S APARTMENT](https://open.spotify.com/album/7BIrpmQHhceuOXy4p3qgYN) | 2:36 | 2025-04-16 |  |
 | [Santorini](https://open.spotify.com/track/2UPFRDIBBlBPrcLoEG4D8Y) | [Cool Paul](https://open.spotify.com/artist/5s1Xo4HmiGN7i4Fi2rlvlX), [Spaceray](https://open.spotify.com/artist/0BOIHlez70gvxoqGXmCUQB) | [Santorini](https://open.spotify.com/album/795ErC3i2caERgRMek4BFV) | 2:59 | 2024-10-04 | 2024-11-07 |
 | [Satisfy](https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg) | [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Satisfy](https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr) | 3:04 | 2022-09-02 | 2022-10-01 |
 | [SATORI](https://open.spotify.com/track/1BsKTe1hg1YQlodZSD56I1) | [LANDMARQUE](https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL) | [SATORI](https://open.spotify.com/album/4QmX7d8ympPdcKdmwOr6aY) | 1:57 | 2023-06-05 | 2023-06-28 |

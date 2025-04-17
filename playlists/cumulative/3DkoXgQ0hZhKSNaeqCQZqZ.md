@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request @ spotify.furrest.net
 
-333 songs - 17 hr 37 min
+334 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [I Know, I Hear You](https://open.spotify.com/track/4uBVRH3YUy0eSMnxKFVWwZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:19 | 2024-11-25 |  |
 | [I LOVE BEING NORMAL](https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [I LOVE BEING NORMAL](https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE) | 2:08 | 2025-01-07 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-10-21 |  |
+| [I WANNA BE ALIVE](https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [I WANNA BE ALIVE](https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ) | 3:33 | 2025-04-16 |  |
 | [I Wish I Loved You](https://open.spotify.com/track/4pVOMSYIsddjrvi3LDlqRp) | [a fox named coyote](https://open.spotify.com/artist/2ZLKUQVWLZAVNY0qFGSY69), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [I Wish I Loved You](https://open.spotify.com/album/0uwMsB1SuYN2DElUEU8rMJ) | 4:47 | 2024-07-23 |  |
 | [IDONTKNOW](https://open.spotify.com/track/29Edn2FCyusZAwskKU7CPI) | [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx) | [BIG2K](https://open.spotify.com/album/7it5TdR45ltXQ2b5A4vgl6) | 2:06 | 2024-04-11 |  |
 | [if i could meet you there](https://open.spotify.com/track/7FkKYC8ignbsy899QY0KWL) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [rodeo](https://open.spotify.com/album/6EVIcnK3IAfFqIh1TBIwB7) | 3:08 | 2024-11-18 |  |

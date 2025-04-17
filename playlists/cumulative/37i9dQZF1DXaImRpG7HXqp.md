@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-823 songs - 1 day 11 hr 45 min
+824 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Moments to Unwind](https://open.spotify.com/track/3XWdpO1ugJ0wFHrod2eu8H) | [Timothy Hall](https://open.spotify.com/artist/5WQIOA7Nu5yv3EVY7a6ot2) | [Moments to Unwind](https://open.spotify.com/album/1ShfsVszarFDwGDUHPBx3m) | 2:14 | 2025-02-24 |  |
 | [Mondschein](https://open.spotify.com/track/7n1b2jjQSD5xNyo0Bs5dpM) | [Heinrich Schulmann](https://open.spotify.com/artist/6gOl6CDl4lz2DDYpdH8DJU) | [Mondschein](https://open.spotify.com/album/6MRZynP88zTclx9tOUoGrx) | 3:35 | 2021-12-08 | 2023-04-22 |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
+| [Moon Waltz](https://open.spotify.com/track/4Xezh0FxenrjYsqwEmwRG4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Moon Waltz](https://open.spotify.com/album/66g2EHpUlzfj1Zy6ooDRh9) | 2:24 | 2025-04-16 |  |
 | [More Human](https://open.spotify.com/track/4A0JgmSpjwZbN5plH0JDzg) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [More Human](https://open.spotify.com/album/445YVx7F9QnBhN21h8FNRl) | 3:03 | 2025-02-24 |  |
 | [Morning After](https://open.spotify.com/track/4DfrrlI4CXgm2MxCpHMTYJ) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Alluring Nights](https://open.spotify.com/album/0WvJGkmpVKmaxNE0ymehsf) | 2:34 | 2021-12-08 | 2024-08-14 |
 | [Morning Dew](https://open.spotify.com/track/5MgDL4PZuc0lKdgpQCGjoX) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Morning Dew](https://open.spotify.com/album/3HXo20W8FF3Cmol4ZzeZFM) | 2:52 | 2021-12-08 | 2022-09-09 |
@@ -475,7 +476,7 @@
 | [Morning Light](https://open.spotify.com/track/1PXpZEeDqgKauNuhssSgWs) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Morning Light](https://open.spotify.com/album/08uEmJ2I1N8pgxPgbpZJC4) | 2:18 | 2025-03-11 |  |
 | [Morning sun](https://open.spotify.com/track/2G9SMURRZs6xKqDMqy9fI0) | [Dion Mallow](https://open.spotify.com/artist/5tXQhgmU6CraHI0dbj6BdQ) | [Morning sun](https://open.spotify.com/album/1tYYGZm6XXe9cJS4BX0Zda) | 3:20 | 2022-10-28 | 2023-02-25 |
 | [Motion](https://open.spotify.com/track/0SGiGg1Tu6nQRBESwodZIH) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Motion](https://open.spotify.com/album/73o9bmnlN9QOgH6SOvjnmU) | 2:17 | 2022-11-18 | 2023-03-10 |
-| [Mount Fitz Roy](https://open.spotify.com/track/2OZB6Qnil25CLXLNW5XSHS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Mount Fitz Roy](https://open.spotify.com/album/7H1c6RBe4e0ISRO56jwB6a) | 2:38 | 2025-01-20 |  |
+| [Mount Fitz Roy](https://open.spotify.com/track/2OZB6Qnil25CLXLNW5XSHS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Mount Fitz Roy](https://open.spotify.com/album/7H1c6RBe4e0ISRO56jwB6a) | 2:38 | 2025-01-20 | 2025-04-17 |
 | [Mozzafiato](https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Mozzafiato](https://open.spotify.com/album/3Jp2IlVVqic8H5Gm6U5Q6Q) | 2:08 | 2022-06-24 | 2024-04-19 |
 | [My Favorite Things](https://open.spotify.com/track/0TtBiPsu7GgyZzxXfu0RmL) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [My Favorite Things](https://open.spotify.com/album/082H1AX20pgvG3SKe6psm7) | 1:52 | 2022-02-01 | 2022-07-08 |
 | [My Garden](https://open.spotify.com/track/7uOpfxCTtdbhWcbq6kzjMH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [My Garden](https://open.spotify.com/album/2ljfPFQH7EvfBR8jLnzav8) | 2:57 | 2023-03-24 | 2024-05-04 |
@@ -700,7 +701,7 @@
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2021-12-08 | 2022-09-03 |
 | [The Dunes](https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Dunes](https://open.spotify.com/album/0zHcpVeaC1y6X1hYDKklKL) | 2:47 | 2022-05-13 | 2023-05-13 |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-21 |  |
-| [The Garden](https://open.spotify.com/track/7h4T0DIJj037PyasRaNz1f) | [Patrick Leon](https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO) | [The Garden](https://open.spotify.com/album/1qVQJt1mbYXuxk9R0xpyFe) | 2:23 | 2025-03-11 |  |
+| [The Garden](https://open.spotify.com/track/7h4T0DIJj037PyasRaNz1f) | [Patrick Leon](https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO) | [The Garden](https://open.spotify.com/album/1qVQJt1mbYXuxk9R0xpyFe) | 2:23 | 2025-03-11 | 2025-04-17 |
 | [The Golden Hour](https://open.spotify.com/track/7gz1YABH7YyQdfizV66Te3) | [Karlijn Langendijk](https://open.spotify.com/artist/5f2W3O5gSmbpShR6upVzJb) | [The Golden Hour](https://open.spotify.com/album/02jWyD3cYpzVPCVCEBYRb4) | 4:23 | 2024-02-02 | 2024-06-15 |
 | [The golden laughter](https://open.spotify.com/track/6QJ14M6RgnuVzCUs7Z6t3C) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [The golden laughter](https://open.spotify.com/album/3XDiDlfT67zc8uZZCyaD5x) | 2:21 | 2024-09-25 |  |
 | [The Green isle](https://open.spotify.com/track/1BZoIJDJgTSJJdtIH6sh5t) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Green isle](https://open.spotify.com/album/5qrqkAAhSGc5SFMvBasqyH) | 2:06 | 2024-02-23 | 2024-12-11 |
@@ -719,7 +720,7 @@
 | [The small things in life](https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [The small things in life](https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa) | 2:15 | 2023-11-24 | 2024-06-07 |
 | [The Sparrow](https://open.spotify.com/track/6DCQM8eWsMPqhDbonEUHvu) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [The Sparrow](https://open.spotify.com/album/5xYhfr9t2SaSqXuQB4Ncdp) | 2:14 | 2024-07-29 |  |
 | [The Stillness Within](https://open.spotify.com/track/2zSvZfdq6ZJpxmH2RbpoQ8) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [The Stillness Within](https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ) | 2:59 | 2023-06-08 | 2024-04-05 |
-| [The Story](https://open.spotify.com/track/4vYEsiKuRke7P1vWFVkzRy) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [The Story](https://open.spotify.com/album/6u9AB61ZY30Igi1oC0BRgj) | 2:30 | 2025-03-05 |  |
+| [The Story](https://open.spotify.com/track/4vYEsiKuRke7P1vWFVkzRy) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [The Story](https://open.spotify.com/album/6u9AB61ZY30Igi1oC0BRgj) | 2:30 | 2025-03-05 | 2025-04-17 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-21 | 2023-08-19 |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-24 | 2024-12-11 |
 | [Thousand Years Ago](https://open.spotify.com/track/03ii6bJVPO1xJNNsG9QvIB) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Thousand Years Ago](https://open.spotify.com/album/336D8kHYPubaAtmgCsVMMv) | 2:19 | 2022-05-13 | 2024-05-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP?si=F1Cmbi\_1QVihKuVrTCTy\_Q>I\-fee Sound.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,555 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,573 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 186262,
+  "num_followers": 186303,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Kleiner Finger Schwur",
-        "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "Kleiner Finger Schwur",
-      "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Irgendwie anders",
         "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 193200,
       "name": "Kaum Erwarten",
       "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Kleiner Finger Schwur",
+        "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Kleiner Finger Schwur",
+      "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Das gr\u00f6\u00dfte Kompliment",
-        "url": "https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 148248,
-      "name": "Das gr\u00f6\u00dfte Kompliment",
-      "url": "https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Sommer",
         "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 180146,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Das gr\u00f6\u00dfte Kompliment",
+        "url": "https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 148248,
+      "name": "Das gr\u00f6\u00dfte Kompliment",
+      "url": "https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9"
     },
     {
       "added_at": "2025-03-26 13:54:44",

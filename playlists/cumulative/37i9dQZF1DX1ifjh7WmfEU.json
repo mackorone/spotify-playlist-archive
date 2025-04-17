@@ -4677,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "vox mundi",
+        "url": "https://open.spotify.com/album/5ceBwV6WzFugP6cpWVr3w9"
+      },
+      "artists": [
+        {
+          "name": "Ben Moldau",
+          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153797,
+      "name": "vox mundi",
+      "url": "https://open.spotify.com/track/2DrG61dKwMGWSl4LSb1eOW"
+    },
+    {
+      "album": {
         "name": "Vuggevise",
         "url": "https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH"
       },

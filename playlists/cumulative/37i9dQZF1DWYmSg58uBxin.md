@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-310 songs - 14 hr 8 min
+311 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [bonhomie](https://open.spotify.com/track/3TpeNOYVDlFqn61LCrYFyg) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [peaceful imperfect places](https://open.spotify.com/album/1w5SsfBmi2VNitVBp0PcXe) | 2:30 | 2023-09-08 |  |
 | [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2020-10-20\* | 2022-09-03 |
 | [Boscotrecase](https://open.spotify.com/track/3FuD9bDwD9kCUjxz9GEM2o) | [Ennio Bellucc](https://open.spotify.com/artist/62ZwR3KQ7YIIzgAcLxNsHx) | [Boscotrecase](https://open.spotify.com/album/7xYAJnnKPGyzr3qgo9mFMe) | 2:16 | 2024-05-07 |  |
+| [Breeze](https://open.spotify.com/track/4bN96tqhMRF1WW6jeiLGPB) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Breeze](https://open.spotify.com/album/3Du1Oc0JUqb6lxFFEqGuT4) | 2:37 | 2025-04-16 |  |
 | [Broken and Beautiful](https://open.spotify.com/track/4JBJiBA9gjVrWhHHf8lhgE) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [A Gentle Invitation](https://open.spotify.com/album/3u9VcEAHRGzXiejoaybCOw) | 3:29 | 2020-10-20\* | 2023-09-09 |
 | [Buonanotte e sogni d’oro](https://open.spotify.com/track/6pQlRxPMSILxVr7vz3JmGC) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Buonanotte e sogni d’oro](https://open.spotify.com/album/2mqptjD5PxNAeTPzouxYKT) | 3:44 | 2020-10-20\* | 2021-10-21 |
 | [Buoyant](https://open.spotify.com/track/6Wq0t1A5sxrYNxKtfXuXHB) | [Iremia](https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6) | [Lucid Air](https://open.spotify.com/album/2sAUWgPdApJIaescPesSPq) | 1:30 | 2021-01-30 | 2023-09-09 |

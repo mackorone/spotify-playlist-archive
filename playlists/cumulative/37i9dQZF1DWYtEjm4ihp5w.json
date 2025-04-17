@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "COLD PALMER",
+        "url": "https://open.spotify.com/album/1xnQozBIU83NvwAnboEzGW"
+      },
+      "artists": [
+        {
+          "name": "Mirv48",
+          "url": "https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190165,
+      "name": "COLD PALMER",
+      "url": "https://open.spotify.com/track/5pPMlUR87OAXecDB3s1am7"
+    },
+    {
+      "album": {
         "name": "COLTELLINO (feat. Baby Gang)",
         "url": "https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads"
       },
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 215040,
       "name": "ETAT",
       "url": "https://open.spotify.com/track/6wMXaJAZQMv9PUKyn62cWe"

@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "All About Love",
+        "url": "https://open.spotify.com/album/7ux3Z96bTqouRNhQjhqn2x"
+      },
+      "artists": [
+        {
+          "name": "Different Heaven",
+          "url": "https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205700,
+      "name": "All About Love",
+      "url": "https://open.spotify.com/track/7j13ipXatVfPuqyVaun8vh"
+    },
+    {
+      "album": {
         "name": "Feral",
         "url": "https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN"
       },
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 144000,
       "name": "CHATTER",
       "url": "https://open.spotify.com/track/4Cy9267dN73kuBXlk9Auxb"

@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 53382,
+  "num_followers": 53396,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/xQAAAAAADf6DohRycsyxfuoiyj/2GG",
+  "snapshot_id": "Z/2hgAAAAACFns1w3Id8GDMXsCzPWQ01",
   "tracks": [
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 276640,
-      "name": "Prince Johnny",
-      "url": "https://open.spotify.com/track/201StFQq0nodCrsX5ysC30"
+      "duration_ms": 214653,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 222240,
-      "name": "Down And Out Downtown",
-      "url": "https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk"
+      "duration_ms": 200426,
+      "name": "My Baby Wants A Baby",
+      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
+      "duration_ms": 276640,
+      "name": "Prince Johnny",
+      "url": "https://open.spotify.com/track/201StFQq0nodCrsX5ysC30"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 200426,
-      "name": "My Baby Wants A Baby",
-      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
+      "duration_ms": 222240,
+      "name": "Down And Out Downtown",
+      "url": "https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Nacen Gritando",
-        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 178722,
-      "name": "El Mero Cero",
-      "url": "https://open.spotify.com/track/7065b9GPhjgGMol6fLZdBZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love This Giant",
         "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 188653,
       "name": "I Should Watch TV",
       "url": "https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Nacen Gritando",
+        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Hombre Roto",
+      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 70520,
+      "name": "We Put a Pearl in the Ground",
+      "url": "https://open.spotify.com/track/07MmQh3ypVM1SrIISzm8fd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todos Nacen Gritando",
         "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
       },
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Hombre Roto",
-      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
+      "duration_ms": 178722,
+      "name": "El Mero Cero",
+      "url": "https://open.spotify.com/track/7065b9GPhjgGMol6fLZdBZ"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marry Me",
-        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 70520,
-      "name": "We Put a Pearl in the Ground",
-      "url": "https://open.spotify.com/track/07MmQh3ypVM1SrIISzm8fd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+        "name": "Todos Nacen Gritando",
+        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
       },
       "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 222986,
-      "name": "Dinner for Two",
-      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
+      "duration_ms": 226578,
+      "name": "Pulga",
+      "url": "https://open.spotify.com/track/3k9mtrogWx3tCrz8OmdTu3"
     }
   ],
   "unique_name": "This Is St. Vincent",

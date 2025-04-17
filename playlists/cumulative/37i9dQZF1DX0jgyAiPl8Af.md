@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-858 songs - 1 day 13 hr 1 min
+861 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Dusk](https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Dusk](https://open.spotify.com/album/6alx16iPXm9cGR5w7fuGJj) | 2:34 | 2023-09-29 | 2024-12-11 |
 | [Echo Park](https://open.spotify.com/track/6UweZFJgCY0eMIn6P2rflo) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Echo Park](https://open.spotify.com/album/2RztZ6yJ4Da3Y2JV9xFm5n) | 2:48 | 2022-04-22 | 2024-06-15 |
 | [Echoes](https://open.spotify.com/track/0oaGr0YPQehZOM2tESJRFV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [To The Moon](https://open.spotify.com/album/5LPsflFQLrjq9ymGG4Jpf3) | 2:51 | 2022-12-23 | 2024-06-08 |
+| [Echoes of Us](https://open.spotify.com/track/2apnQEUBTwbHE4axOQzDzf) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Echoes of Us](https://open.spotify.com/album/2UNxbUaCX4qo8R3tNvXMiu) | 2:39 | 2025-04-16 |  |
 | [Eclipse](https://open.spotify.com/track/4jsclhn5Q5oYDdV8uFa1DS) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Eclipse](https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29) | 2:04 | 2024-02-02 |  |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2021-12-08 | 2023-11-24 |
 | [El Sendero Luminoso](https://open.spotify.com/track/1f3itL6t8wRlLiVYkbjm0L) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Nebula](https://open.spotify.com/album/32tovcC1vMst3V7oTACGHU) | 3:17 | 2022-08-19 | 2023-02-11 |
@@ -323,6 +324,7 @@
 | [História De Vida](https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [História De Vida](https://open.spotify.com/album/1sDwjitrRLeu4jTK3Wl5RI) | 2:25 | 2022-09-09 | 2024-06-01 |
 | [Hitchhiking](https://open.spotify.com/track/2P6Opus7hGyXkC6Pd7k1Gk) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Hitchhiking](https://open.spotify.com/album/6QfINtClurYc2Tmkcv0O8G) | 2:58 | 2022-09-16 | 2024-04-05 |
 | [Homage](https://open.spotify.com/track/71tfqdOmLGrICla4lRpBAS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Homage](https://open.spotify.com/album/3hRzOvbFJZEx7zpAq3kHjd) | 1:40 | 2022-11-18 | 2023-05-13 |
+| [Hopefulness](https://open.spotify.com/track/4vjDtmfzeNpfptUHkMIlBq) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [Hopefulness](https://open.spotify.com/album/3RfjkgZ1yEwX7GuLEFIHy1) | 2:23 | 2025-04-16 |  |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-21 | 2023-08-19 |
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2021-12-08 | 2024-06-01 |
 | [Hours](https://open.spotify.com/track/3Eg3XbufTuk9LWhkSobKlX) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Hours](https://open.spotify.com/album/35N058QZy4FlJheUK0QLEh) | 2:07 | 2023-12-15 | 2024-06-01 |
@@ -483,7 +485,7 @@
 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 | 2024-01-12 |  |
 | [Moments](https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Moments](https://open.spotify.com/album/1pN9aYINmhUNUH1KFVDjHJ) | 1:39 | 2023-05-12 | 2023-08-19 |
 | [Moments with you](https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Moments with you](https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi) | 2:29 | 2023-11-24 |  |
-| [Momentum](https://open.spotify.com/track/7mrg5cLVN0NkkIt9GqHYEt) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Momentum](https://open.spotify.com/album/4JKUVM28m3Iu8jN51TXpIz) | 2:35 | 2024-08-20 |  |
+| [Momentum](https://open.spotify.com/track/7mrg5cLVN0NkkIt9GqHYEt) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Momentum](https://open.spotify.com/album/4JKUVM28m3Iu8jN51TXpIz) | 2:35 | 2024-08-20 | 2025-04-17 |
 | [Mond Stille](https://open.spotify.com/track/4R5W9Oq91uYpal40VdTGTl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Mond Stille](https://open.spotify.com/album/3Uil3hqZzTEUHRVZ9aBE9Y) | 2:51 | 2022-08-19 | 2024-07-30 |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
 | [Montesinho](https://open.spotify.com/track/5AzYGfl2BlQS2xDy63NcoL) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [Montesinho](https://open.spotify.com/album/5DNcFeLsvdr047AGIDtdWA) | 2:15 | 2021-12-08 | 2022-05-11 |
@@ -762,10 +764,11 @@
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2022-12-09 | 2024-04-05 |
 | [The Lost And Found](https://open.spotify.com/track/5f8NhwC26zx7WA1eGfmPBU) | [Yasmine Cothran](https://open.spotify.com/artist/1FP3tpIYHIZrF4Dj4x0YNC) | [The Lost And Found](https://open.spotify.com/album/1YKyTpvzOJr2KGzxg7ncaX) | 2:08 | 2022-10-28 | 2023-04-21 |
 | [The Musketeer](https://open.spotify.com/track/4ZRQlbLtinCvmA8IlyI5MN) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [The Musketeer](https://open.spotify.com/album/3KUGSodq68t8EZAGJQ42rM) | 2:20 | 2024-12-17 |  |
-| [The Northwest](https://open.spotify.com/track/3y4oXU6iqCiFPueAtRQ88I) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Northwest](https://open.spotify.com/album/4cL55EmSZz5XuqISawUSTr) | 2:42 | 2024-08-20 |  |
+| [The Northwest](https://open.spotify.com/track/3y4oXU6iqCiFPueAtRQ88I) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Northwest](https://open.spotify.com/album/4cL55EmSZz5XuqISawUSTr) | 2:42 | 2024-08-20 | 2025-04-17 |
 | [The Path Forward](https://open.spotify.com/track/5u2Pz05Zs7xVjtJnLuDmTT) | [Oliver Fowles](https://open.spotify.com/artist/1YSnhg3LTTtSqMNUOyauIP) | [Long Story Short](https://open.spotify.com/album/0bKjRSTlNd1UFhgkMgqR2h) | 3:12 | 2022-08-12 | 2023-02-11 |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-08 | 2022-05-11 |
 | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/track/63s37RyQINHVSf3FGdLsxK) | [Liad Abraham](https://open.spotify.com/artist/2Y8i0N5eDGrqRbk3MJGBni) | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/album/1HzQRuz4CFkAqF0K2UtH9y) | 3:28 | 2022-10-28 | 2023-05-13 |
+| [The secret trail](https://open.spotify.com/track/1c04luQUt67s15rXVOPD4h) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The secret trail](https://open.spotify.com/album/1I8NCIidGKSYOJkPqp9nI6) | 3:09 | 2025-04-16 |  |
 | [The small things in life](https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [The small things in life](https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa) | 2:15 | 2023-11-24 | 2025-03-06 |
 | [The Stillness Within](https://open.spotify.com/track/2zSvZfdq6ZJpxmH2RbpoQ8) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [The Stillness Within](https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ) | 2:59 | 2023-06-08 | 2024-04-05 |
 | [The Story's Not Over](https://open.spotify.com/track/4xezVAKUPJHq7BQarlvLyz) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [The Story's Not Over](https://open.spotify.com/album/2VDKfqYkAocJbbpzdJcHVk) | 3:07 | 2024-05-24 |  |

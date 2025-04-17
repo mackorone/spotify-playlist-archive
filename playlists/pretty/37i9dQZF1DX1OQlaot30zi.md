@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sfera e Shiva, Nitro, Vegas e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,610 likes - 143 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,617 likes - 143 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 35 | [Tutto apposto](https://open.spotify.com/track/1XCygGoeEDbBtjuYPokbLm) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Tutto apposto](https://open.spotify.com/album/2y7e1RLwbdNZ9dXRlGKzOt) | 2:25 |
 | 36 | [NETWORK \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/28polmoNjO1dvYiUfFxN43) | [Amon](https://open.spotify.com/artist/1jiVHVMFuHekLOGrAISQeb), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [NETWORK \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/41H0aPdgys8OVwQK1Bg3gF) | 2:10 |
 | 37 | [MICA IO \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/6OLVqqm88TFiX5TABQspL0) | [Cuta](https://open.spotify.com/artist/3YHgTUKp46PTi8yhIHOUQi), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [MICA IO \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4SF6iBGfvvIIzmfjFYiQ2H) | 2:14 |
-| 38 | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/track/0NkOlirqIz6SiZlOKDO85C) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [VGL](https://open.spotify.com/artist/5YDMk2Wbx2akPWEqIEb04N) | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/album/1FqrZtX1JRElTqClzhzk2W) | 2:51 |
+| 38 | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/track/0NkOlirqIz6SiZlOKDO85C) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV) | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/album/1FqrZtX1JRElTqClzhzk2W) | 2:51 |
 | 39 | [COFFEESHOP](https://open.spotify.com/track/3g8HReZDD24p8S5R4DGzM8) | [Nemesi](https://open.spotify.com/artist/7BgAHTZgNxHUV16qMX9fom), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [COFFEESHOP](https://open.spotify.com/album/7B2ZAsYjaMRkvb7WyBMF38) | 2:40 |
 | 40 | [Veni Vidi Vici \(Freestyle \#17\)](https://open.spotify.com/track/609TWldJD3dvmZjqLChn1p) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Silva](https://open.spotify.com/artist/7ja62ZARrm20k4Sowt0ab8) | [Veni Vidi Vici \(Freestyle \#17\)](https://open.spotify.com/album/440KweHEnhD8Dr37Jk65ji) | 2:07 |
 | 41 | [Maturo mai](https://open.spotify.com/track/48X3609z3xfSdl9Ubc3Tvh) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS) | [Maturo mai](https://open.spotify.com/album/4V3BX3EDRd80SofZ1qlYQg) | 2:43 |

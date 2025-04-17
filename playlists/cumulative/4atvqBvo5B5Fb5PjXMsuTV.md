@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 16 Apr 22:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 16 Apr 18:04 UTC.
 
-4,549 songs - 10 day 12 hr 30 min
+4,550 songs - 10 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [BACK ON](https://open.spotify.com/track/77bCvwZqXZJLfLBG7iGvjE) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [BACK ON](https://open.spotify.com/album/0fF0wqKHPa6G1wYpgsXPyG) | 3:21 | 2024-07-03 | 2024-07-06 |
 | [BACK ROAD SWANGIN](https://open.spotify.com/track/6PY1lAbBPAVotsHEfBgxNf) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BACK ROAD SWANGIN](https://open.spotify.com/album/02C2nrhLxsjf8ams7XNy8U) | 3:09 | 2025-03-25 | 2025-04-04 |
 | [Back There Now](https://open.spotify.com/track/4vsNXG1IRFMU3dg4BZAeui) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Back There Now](https://open.spotify.com/album/6Q7j1Y8e3EZuHhHy7cfmJU) | 2:28 | 2024-08-13 | 2024-08-16 |
-| [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 |  |
+| [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 | 2025-04-17 |
 | [Back To Town](https://open.spotify.com/track/2y9LB5ylOBteGk59naF3lf) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Back To Town](https://open.spotify.com/album/62NPk2Lhiv4eLF2jLGLdjG) | 2:40 | 2024-11-30 | 2024-12-05 |
 | [Back to You](https://open.spotify.com/track/0NCV1LFqZdk2CAAfvb0L2G) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Back to You](https://open.spotify.com/album/0AEyLiiOG8X8gJDlxNjndR) | 3:33 | 2024-06-15 | 2024-06-19 |
 | [BACK TRAPPIN](https://open.spotify.com/track/5D5JagYBztFwIOHoxXnYj7) | [Joey Trap](https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce) | [BACK TRAPPIN](https://open.spotify.com/album/7u85gF2Arz2FFTnV8nonqa) | 1:47 | 2024-09-20 | 2024-09-25 |
@@ -577,7 +577,7 @@
 | [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-19 | 2024-08-23 |
 | [Brain Rot](https://open.spotify.com/track/7qVCeWa4Zea5DLaONw1CfO) | [Midnight Tyrannosaurus](https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ), [SISTO](https://open.spotify.com/artist/2M1fROBYTycpAcvsi2zkPJ) | [Brain Rot](https://open.spotify.com/album/7cggHxGApP6eWIL93Otpmy) | 3:05 | 2024-10-17 | 2024-10-19 |
 | [Brain Waster](https://open.spotify.com/track/6M1mCB5OCSvbPf7VBKP649) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Brain Waster](https://open.spotify.com/album/5irNAp7gomYawJ7hM8ogWj) | 3:41 | 2024-06-28 | 2024-07-03 |
-| [BRAND NEW SQ8](https://open.spotify.com/track/6Sn6v4Q8JrDVySRamxPXeX) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [I MISS YOU ON TOUR](https://open.spotify.com/album/1AlUYkwz3uu2EQ3OfpVqmD) | 2:25 | 2025-04-08 |  |
+| [BRAND NEW SQ8](https://open.spotify.com/track/6Sn6v4Q8JrDVySRamxPXeX) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [I MISS YOU ON TOUR](https://open.spotify.com/album/1AlUYkwz3uu2EQ3OfpVqmD) | 2:25 | 2025-04-08 |  |
 | [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 | 2024-07-30 | 2024-08-02 |
 | [Brave New World](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Brave New World](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 | 2024-05-03 | 2024-05-05 |
 | [Breadcrumbs](https://open.spotify.com/track/00oRb8WESKOzFCDiwaiOmP) | [Hatari](https://open.spotify.com/artist/3yX8kCojnUAJJ1eWGZT38j) | [Breadcrumbs](https://open.spotify.com/album/3mV6tG9257uhmfKtRQz9qy) | 3:50 | 2024-11-30 | 2024-12-04 |
@@ -1691,6 +1691,7 @@
 | [Hanging from the Ceiling](https://open.spotify.com/track/66DDx6xdVC0SqHFCardl5a) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [irichan!](https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6) | [Hanging from the Ceiling](https://open.spotify.com/album/7f8TqbOhjME7h1EZtjxSc9) | 2:22 | 2024-07-29 | 2024-08-01 |
 | [Happier Than Ever](https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Happier Than Ever](https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2) | 4:22 | 2024-09-17 | 2024-09-20 |
 | [Happiness](https://open.spotify.com/track/335hUB7Xnb6bTl9ODlGq9b) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Happiness](https://open.spotify.com/album/5AqOksgvvZTnsVGumH5glK) | 3:37 | 2024-09-09 | 2024-09-12 |
+| [happiness \- live](https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [happiness \(live\)](https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0) | 3:28 | 2025-04-16 |  |
 | [Happy](https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Happy](https://open.spotify.com/album/0hxoOa10f0i3uTgFd8Sp0G) | 4:05 | 2024-12-20 | 2024-12-27 |
 | [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 | 2024-07-26 | 2024-07-29 |
 | [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 | 2025-03-03 | 2025-03-15 |

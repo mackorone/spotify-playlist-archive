@@ -1,4 +1,4 @@
-## Playlists \(8468\)
+## Playlists \(8469\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7936,6 +7936,7 @@
 - [exams 2025](/playlists/pretty/37i9dQZF1DWVceT0UosQME.md)
 - [fall feels](/playlists/pretty/37i9dQZF1DXahsxs9xh0fn.md)
 - [faz a trend](/playlists/pretty/37i9dQZF1DXdNL0ldoQCGi.md)
+- [feat\. NATURE](/playlists/pretty/37i9dQZF1DX7C5zJGrQEji.md)
 - [feedBack](/playlists/pretty/37i9dQZF1DXbmErmrio5En.md)
 - [feels like latin funk](/playlists/pretty/37i9dQZF1DWTTiDL22vZpS.md)
 - [fine jazz](/playlists/pretty/37i9dQZF1DX4Ce7C9uKaHy.md)

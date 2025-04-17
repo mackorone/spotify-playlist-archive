@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Batas Senja
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,283 likes - 96 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,333 likes - 96 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

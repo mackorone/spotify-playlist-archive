@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-473 songs - 22 hr 8 min
+474 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Levitation](https://open.spotify.com/track/317eNmnJ762BJIsfxIT6sO) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Levitation](https://open.spotify.com/album/2P6tjQhG0AMAD3lNm7GjMO) | 2:21 | 2025-01-10 |  |
 | [library](https://open.spotify.com/track/6KadekEsEQX4rvcqP9X84U) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Kofi Anonymous](https://open.spotify.com/artist/2xssjViTF8Zdd97DXXH0lI) | [library](https://open.spotify.com/album/1o4ZIwV0pol0mXbbmpZjBB) | 2:00 | 2024-10-11 |  |
 | [Life Form](https://open.spotify.com/track/3YLFWYh5nsCBxIFUBPiEDa) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Life Form](https://open.spotify.com/album/1ndE30UkZA6eQhzlK7wyfM) | 3:14 | 2024-08-23 |  |
+| [Lily](https://open.spotify.com/track/02z18grgEdVbAb2UmOemyK) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Flora](https://open.spotify.com/album/1bR1iFvILCCblpqr4A6MmN) | 1:44 | 2025-04-11 |  |
 | [Limbo](https://open.spotify.com/track/6W5MXzKRew1avcRnVQ89UY) | [Keymer](https://open.spotify.com/artist/11KbGk05uR2COLPYEqehU3) | [Limbo](https://open.spotify.com/album/1V1A4f4DmJJfrDjWETEU4C) | 2:42 | 2023-10-27 | 2024-12-25 |
 | [limonene](https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY) | [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW) | [limonene](https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ) | 2:56 | 2023-08-22 | 2025-04-12 |
 | [Loaf Mode](https://open.spotify.com/track/0rKzqlcGgZv3vuNM6BKqTb) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP), [Michel Tijdink](https://open.spotify.com/artist/07b7STGUVBw8GNmevEtcgl) | [Loaf Mode](https://open.spotify.com/album/4ovwMfCyMoFgOdnW4gH6KP) | 2:17 | 2024-01-26 |  |
@@ -364,7 +365,7 @@
 | [Snowflake](https://open.spotify.com/track/47CForrmui4MDT15lORFl5) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Snowflake](https://open.spotify.com/album/19tMTHqbWrZpS4UMx2wxam) | 2:04 | 2025-01-24 | 2025-02-04 |
 | [soan](https://open.spotify.com/track/1pxON0fWsbRsmaXnUlSAlA) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [soan](https://open.spotify.com/album/6K49UxbSlK8c2PxGJ0oObp) | 2:06 | 2025-04-11 |  |
 | [Soft Moments](https://open.spotify.com/track/3fkJhN1UvLO1yy6gpoxmC2) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [Soft Moments](https://open.spotify.com/album/1laFeTsAZGskVBQxGrRdIm) | 2:24 | 2024-10-06 |  |
-| [Solace](https://open.spotify.com/track/0WlecSzZ7JAy87FzFEIrSV) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Solace](https://open.spotify.com/album/6iRMKoqSXSdKApjPnbXkmm) | 2:29 | 2025-04-11 |  |
+| [Solace](https://open.spotify.com/track/0WlecSzZ7JAy87FzFEIrSV) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Solace](https://open.spotify.com/album/6iRMKoqSXSdKApjPnbXkmm) | 2:29 | 2025-04-11 | 2025-04-17 |
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |
 | [Sometimes](https://open.spotify.com/track/4GxjXLt3QmNK86kZH3YX84) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Sometimes](https://open.spotify.com/album/50DOyzaTfAWF0eFJSgZden) | 1:52 | 2024-09-27 | 2024-11-18 |
 | [Sonder](https://open.spotify.com/track/7wFyWSyBfLpg9l39JftoKZ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Sonder](https://open.spotify.com/album/6Z6OX5DULjWFKq8lZj76EX) | 2:01 | 2025-01-24 | 2025-04-15 |

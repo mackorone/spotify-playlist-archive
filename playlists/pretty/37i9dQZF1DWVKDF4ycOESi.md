@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Sfera e Shiva, Pinguini Tattici Nucleari e Max Pezzali, I Cani, Cesare Cremonini ed Elisa, Lana Del Rey e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,707 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,729 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 66 | [Dirsi addio amore mio](https://open.spotify.com/track/3JsSVj5oeGHTTvxX2k9XKz) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [Dirsi addio amore mio](https://open.spotify.com/album/6cjsdwxIjO9ulir36Lv5HC) | 2:55 |
 | 67 | [Colpa Tua](https://open.spotify.com/track/6T7aOTVhsG8tVFY7r1hzMM) | [Marrakech Express](https://open.spotify.com/artist/35XLYYGJ8Cf1G6tw5XbiWU), [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Colpa Tua](https://open.spotify.com/album/165tSoQEYBXlw16tj9XPsh) | 3:21 |
 | 68 | [FINIRÀ MALISSIMO \(feat\. Shade\)](https://open.spotify.com/track/1qXn7euCOttESDOvsOMe58) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [FINIRÀ MALISSIMO \(feat\. Shade\)](https://open.spotify.com/album/14yWCFKoXiKoPmAYXN9XEh) | 3:04 |
-| 69 | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/track/0NkOlirqIz6SiZlOKDO85C) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [VGL](https://open.spotify.com/artist/5YDMk2Wbx2akPWEqIEb04N) | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/album/1FqrZtX1JRElTqClzhzk2W) | 2:51 |
+| 69 | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/track/0NkOlirqIz6SiZlOKDO85C) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV) | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/album/1FqrZtX1JRElTqClzhzk2W) | 2:51 |
 | 70 | [MICA IO \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/6OLVqqm88TFiX5TABQspL0) | [Cuta](https://open.spotify.com/artist/3YHgTUKp46PTi8yhIHOUQi), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [MICA IO \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4SF6iBGfvvIIzmfjFYiQ2H) | 2:14 |
 | 71 | [NETWORK \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/28polmoNjO1dvYiUfFxN43) | [Amon](https://open.spotify.com/artist/1jiVHVMFuHekLOGrAISQeb), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [NETWORK \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/41H0aPdgys8OVwQK1Bg3gF) | 2:10 |
 | 72 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 |

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Folk Bitch Trio
 
-3,944 songs - 9 day 0 hr 51 min
+3,946 songs - 9 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Backup Guy](https://open.spotify.com/track/0vER1h3dCZI3fuiyrrGJb9) | [Corduroy.](https://open.spotify.com/artist/7E12SjMke6Hmpnysv5FhW8) | [Backup Guy](https://open.spotify.com/album/2LQfS2HHCRQkGEr0pSPw0B) | 3:46 | 2022-10-12 | 2022-12-01 |
 | [Bad](https://open.spotify.com/track/4ZcmJRlse0rcpwQVL1zyDB) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx) | [Bad](https://open.spotify.com/album/7tdbayvpczszwkrczSSXVA) | 2:41 | 2023-04-26 | 2023-05-24 |
 | [BAD DISCO](https://open.spotify.com/track/5bYouwYpoKHOaEGPMXupQO) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [BAD DISCO](https://open.spotify.com/album/2WxIzjogt9s2eDUJTRMOjO) | 2:01 | 2023-07-12 | 2023-07-27 |
+| [Bad Dreams](https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL) | 3:28 | 2025-04-15 |  |
 | [Bad Dreams](https://open.spotify.com/track/42sDZD6uycG6hKEdX7pAdQ) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv) | [Bad Dreams](https://open.spotify.com/album/7bOLcHDwRNQ5eR4T4TdOxa) | 2:55 | 2021-12-28 | 2022-01-13 |
 | [Bad Enough](https://open.spotify.com/track/0HknrCKzOklL4jI4HTAju0) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Bad Enough](https://open.spotify.com/album/4QEHsgncoMoJMJxOE3bJA1) | 3:23 | 2024-08-06 | 2024-10-09 |
 | [BAD GUY GOOD GIRL](https://open.spotify.com/track/3uZu8bMGD7lThN6FpB6fH2) | [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Lil Nafy](https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS) | [BAD GUY GOOD GIRL](https://open.spotify.com/album/4hov1aXBqImv8EavfjQ4ys) | 2:30 | 2022-10-04 | 2022-11-17 |
@@ -486,7 +487,7 @@
 | [Bruce Lee](https://open.spotify.com/track/1bAhttDyv6MQMDS0dxk6jA) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [Bruce Lee](https://open.spotify.com/album/6RaLGY4nxnlU49S8QRA3Pi) | 2:55 | 2022-10-04 | 2022-11-17 |
 | [bruises](https://open.spotify.com/track/745SaNuRNhPTF0Uq1e3HIE) | [Guard](https://open.spotify.com/artist/5T9M6oY1Nf9z6tPSV9XLGl) | [IT WAS ALL A MEME...](https://open.spotify.com/album/5iDHl1gXnyBVrHMQguJ8Vs) | 1:47 | 2023-10-26 | 2023-11-23 |
 | [BS](https://open.spotify.com/track/007XISVHAUkAUJcXpKKREU) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [BS](https://open.spotify.com/album/5RGNobr45KhSN55kHHFchm) | 3:54 | 2021-12-28 | 2022-01-13 |
-| [BUB](https://open.spotify.com/track/2sdHPNi7pvGz3yAwzlscvz) | [BADASSMUTHA](https://open.spotify.com/artist/4sIOO1xmOIT9hqn0Jhw9bo) | [Bub](https://open.spotify.com/album/2YqyOB6sgDYN5CXMfQ4g0R) | 3:59 | 2025-04-08 |  |
+| [BUB](https://open.spotify.com/track/2sdHPNi7pvGz3yAwzlscvz) | [BADASSMUTHA](https://open.spotify.com/artist/4sIOO1xmOIT9hqn0Jhw9bo) | [BUB](https://open.spotify.com/album/2YqyOB6sgDYN5CXMfQ4g0R) | 3:59 | 2025-04-08 |  |
 | [Bubble](https://open.spotify.com/track/3W7nn9zENWQdL0N4Fd02UR) | [edith](https://open.spotify.com/artist/6l9Hv70cP4vLDZIMl9KfKQ) | [Bubble](https://open.spotify.com/album/5hC7ElH3jFcwRbc4XXeyp6) | 3:25 | 2023-07-06 | 2023-07-27 |
 | [Bubblegum](https://open.spotify.com/track/67fd4GdcSoy90IIMykUmQY) | [June Jones](https://open.spotify.com/artist/68MzdZEcqsklRZH1tttYk8) | [Bubblegum](https://open.spotify.com/album/0nwn1d6iGbSzqdF6r4YMyw) | 2:53 | 2023-11-08 | 2023-11-30 |
 | [Buck Wild](https://open.spotify.com/track/4kZ0zcKMCvwBFL5cpMkRzT) | [KVKA](https://open.spotify.com/artist/3I3u66kAsoZs18i3CYAc98), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Buck Wild](https://open.spotify.com/album/4n9r0f71xKL7drOKPOZMEW) | 2:22 | 2023-05-17 | 2023-06-08 |
@@ -3323,7 +3324,7 @@
 | [Sweeter For Me](https://open.spotify.com/track/13qbpRql9hkUOFsiXJNTJf) | [Ruby Jackson](https://open.spotify.com/artist/4NYJSTgWtPpU2aJ4ejXSiL) | [Sweeter For Me](https://open.spotify.com/album/0agQ2QPEYnZeDfmLDYQLjH) | 3:01 | 2023-11-08 | 2023-11-30 |
 | [Sweets Always Win The Crowd](https://open.spotify.com/track/34r3VLLdANQwMkKDE4Jeex) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Sweets Always Win The Crowd](https://open.spotify.com/album/0MP6IEdNFmxNnbihrKRzS6) | 3:14 | 2023-08-09 | 2024-01-25 |
 | [Swim](https://open.spotify.com/track/6M2jS6nZ7Z7dFlRhW8M9iI) | [Sammi Constantine](https://open.spotify.com/artist/0YffB1XSvRrtNRYj4998W6) | [Swim](https://open.spotify.com/album/4AIBEC28F2NWavPZEK1Fbn) | 3:12 | 2023-08-09 | 2023-08-31 |
-| [Swimmers](https://open.spotify.com/track/5YloQyJnFt6KgntE3hbHZw) | [Casual Fan](https://open.spotify.com/artist/1ivH8IH6j1U7lCgkuYxoUa) | [Swimmers](https://open.spotify.com/album/5z0VYWhf2a73XGug8maapA) | 3:12 | 2025-03-11 |  |
+| [Swimmers](https://open.spotify.com/track/5YloQyJnFt6KgntE3hbHZw) | [Casual Fan](https://open.spotify.com/artist/1ivH8IH6j1U7lCgkuYxoUa) | [Swimmers](https://open.spotify.com/album/5z0VYWhf2a73XGug8maapA) | 3:12 | 2025-03-11 | 2025-04-17 |
 | [Swimming](https://open.spotify.com/track/77BZXJLexVeavP2jvumCEm) | [Double Talk](https://open.spotify.com/artist/096xZXholjETCjDpZ2wcah) | [Swimming](https://open.spotify.com/album/4sZcgLJ2jgU0c7L8OkVAVC) | 3:09 | 2024-04-30 | 2024-07-03 |
 | [Swipe Right](https://open.spotify.com/track/0AZmi8TnJ3w4d0JDWL5EUZ) | [Clarissa Mei](https://open.spotify.com/artist/2YA0LPI33C5CVT3e3xLOiL) | [Swipe Right](https://open.spotify.com/album/4pONGAyOtqm7sOThvCFwW5) | 3:48 | 2022-08-31 | 2022-09-15 |
 | [Switch Focus](https://open.spotify.com/track/42jGwuu55rttX2Jmycd4G9) | [ALLIRA](https://open.spotify.com/artist/0y5WV9MDPetU5V9yaXiH9k) | [DON'T LOOK AHEAD](https://open.spotify.com/album/3B2vZ7lhUtvwlqaLfseL1Y) | 3:57 | 2022-08-16 | 2022-09-01 |
@@ -3793,6 +3794,7 @@
 | [What They Say](https://open.spotify.com/track/378QOKpGBbvh8nhFWfQ5pS) | [Ian Buller](https://open.spotify.com/artist/5mV5RdUE0DQw0z9pJcrKBS) | [What They Say](https://open.spotify.com/album/7q5DmM8ohWhr2Vy0XAk92S) | 2:38 | 2022-07-19 | 2022-08-25 |
 | [What U Do](https://open.spotify.com/track/7HbVJ7YXeHHGl3Ketpl86z) | [Haz' Beats](https://open.spotify.com/artist/2PMFm0z412L9xRCPRfMmkN), [Miloux](https://open.spotify.com/artist/0wxqHrY3M43hkutOC6qDHW), [Diggy Dupé](https://open.spotify.com/artist/4H3PAXVo7CJWQj30ndGKSn) | [What U Do](https://open.spotify.com/album/4HS7vExeFMNa787nkOH8eY) | 3:10 | 2023-02-15 | 2023-03-02 |
 | [What You Do When You're Alone](https://open.spotify.com/track/1sQYuiQ4eyj9azn3PzDjSR) | [youproblem](https://open.spotify.com/artist/13Y8tKdDhnfdB8g5a9ZBs5) | [What You Do When You're Alone](https://open.spotify.com/album/5N7AtTdiKPcZKDEeGN5jOC) | 3:41 | 2023-08-23 | 2024-01-25 |
+| [What you really meant](https://open.spotify.com/track/7BAdjoqu3g8oMaxXSvfl7k) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [What you really meant](https://open.spotify.com/album/7M7kVRwwdRhWXYf5NUGcvw) | 3:36 | 2025-04-16 |  |
 | [what's stopping u?](https://open.spotify.com/track/6ybAbKJ7Kl69A1dXqyGvXq) | [yung taj](https://open.spotify.com/artist/6OArouH9VE03TBrqTVCDBL) | [what's stopping u?](https://open.spotify.com/album/0OLzSRY5LlZ6ZLCAgKNpHL) | 2:20 | 2022-06-29 | 2022-07-20 |
 | [WHAT'S THE MOTIVE?](https://open.spotify.com/track/3bagnBRI0wPOC0NNZVYVOj) | [Name UL](https://open.spotify.com/artist/4FJ0TYqGMHOXE9nIcZLAHv) | [LOOK ON THE B SIDE](https://open.spotify.com/album/1bCSEkf2XiJAncbWusV2GU) | 2:41 | 2022-10-04 | 2022-11-24 |
 | [What?!](https://open.spotify.com/track/2mkeHdmVM71FiLSoCewTPV) | [Lemaire](https://open.spotify.com/artist/2WpjuACPRA7LOz3CD4NjPg), [L33ze](https://open.spotify.com/artist/4X0u0PQb6shc0udD5aDNy0) | [What Did You Expect?](https://open.spotify.com/album/0sDG4VwVSPVI5mKHUZdnKT) | 3:09 | 2022-05-11 | 2022-06-09 |

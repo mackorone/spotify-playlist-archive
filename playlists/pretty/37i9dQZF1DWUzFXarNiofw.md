@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,057 likes - 208 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081,146 likes - 208 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 10 | [Lost in Time](https://open.spotify.com/track/4eTmFyhD0KfoxFhM4jKwK0) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Lost in Time](https://open.spotify.com/album/1S3jE6j2BXZH0iqvjQaXHQ) | 2:37 |
 | 11 | [Issue](https://open.spotify.com/track/0AaML3i74oEyGLKI3sLWcc) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Issue](https://open.spotify.com/album/1WJh6EJZLk745osF6R4crh) | 2:52 |
 | 12 | [Worst Of Me](https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Worst Of Me](https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb) | 3:27 |
-| 13 | [Again \- '24 \(Extended\)](https://open.spotify.com/track/6oVbSKStbiR0cV0WJsq2ru) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Again \- '24 \(Extended\)](https://open.spotify.com/album/7c3mYHsIH0WKBlNVY0r9qy) | 2:10 |
+| 13 | [Again \(‘24\) Extended](https://open.spotify.com/track/6oVbSKStbiR0cV0WJsq2ru) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Again \(‘24\) Extended](https://open.spotify.com/album/7c3mYHsIH0WKBlNVY0r9qy) | 2:10 |
 | 14 | [To Love and Be Loved](https://open.spotify.com/track/4DEncqt92BBPGCSFL4cOrX) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [To Love and Be Loved](https://open.spotify.com/album/1VDzMucdouuCtS8MqU0SET) | 3:10 |
 | 15 | [Who](https://open.spotify.com/track/2BEQjs0f7Sf2Qqia8nKUYQ) | [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b) | [ANNiversary](https://open.spotify.com/album/7wNq4CgZFabdMR36VpKNS2) | 3:08 |
 | 16 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 |

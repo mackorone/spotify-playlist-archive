@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Rohit Maan, DONNI£ & Nyn Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,881 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,897 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kiso Toyo](https://open.spotify.com/track/66PMnbtXRgMwx2WvlsYfIW) | [DONNI£](https://open.spotify.com/artist/4pT4uhS01avUmbvVTJzybq), [Rohit Maan](https://open.spotify.com/artist/28cRZnFfkvJUFyWRAGexrB), [Nyn Music](https://open.spotify.com/artist/1mdpuEMzGFix1xdvjOma0t) | [Kiso Toyo](https://open.spotify.com/album/2yYHukHv5fcTIKeKFNfG0O) | 3:44 |
+| 1 | [Kiso Toyo](https://open.spotify.com/track/66PMnbtXRgMwx2WvlsYfIW) | [DONNI£](https://open.spotify.com/artist/4pT4uhS01avUmbvVTJzybq), [Rohit Maan](https://open.spotify.com/artist/4LOzNO0TMGuwQDEs3tc83n), [Nyn Music](https://open.spotify.com/artist/1mdpuEMzGFix1xdvjOma0t) | [Kiso Toyo](https://open.spotify.com/album/2yYHukHv5fcTIKeKFNfG0O) | 3:44 |
 | 2 | [Jeelo Jeelo](https://open.spotify.com/track/1ESGLmUnjmCQm17B6meNcr) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Jeelo Jeelo](https://open.spotify.com/album/2VyHMIzG8NH8sCszrfgqoR) | 3:21 |
 | 3 | [Dade Vala Asla](https://open.spotify.com/track/1oFx8lAByrtR2XlVzR8yqQ) | [R Cruze](https://open.spotify.com/artist/3KvTpIp5PcyoMTKRmi2H4s), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Dade Vala Asla](https://open.spotify.com/album/7cjc8T4N3hBJGqLDvFKUsq) | 3:46 |
 | 4 | [Kala Ghoda](https://open.spotify.com/track/5HhwQvrjZh3JSps6bDQE7X) | [A B Vikash](https://open.spotify.com/artist/5cGSgW8W9ZEzvJBepmRi0t), [Tushar Music](https://open.spotify.com/artist/0kUuXJAtqjoHJtKECMTLaO), [Mehra Brothers](https://open.spotify.com/artist/0vHQ5VEcocHeCvUR9YmMA5) | [Kala Ghoda](https://open.spotify.com/album/6qHLlyLuOFcOZnnqxPZTlJ) | 3:45 |

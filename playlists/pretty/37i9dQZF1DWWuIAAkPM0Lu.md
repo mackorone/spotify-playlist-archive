@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:4DZ5VR6bUEFtiXoi6IsfcD">Berg</a>, <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>, <a href="<a href=">Omar</a> og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,255 likes - 107 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,259 likes - 107 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

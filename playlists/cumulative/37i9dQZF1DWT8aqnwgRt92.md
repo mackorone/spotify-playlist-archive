@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,924 songs - 4 day 23 hr 50 min
+1,925 songs - 4 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1246,7 +1246,7 @@
 | [イト](https://open.spotify.com/track/25oVCWzEIqPmHVbEaVSrAH) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [イト／承認欲求](https://open.spotify.com/album/0CQViNKRHgJwrNBF34Ece3) | 3:15 | 2024-10-11 | 2025-01-08 |
 | [イニミニマニモ](https://open.spotify.com/track/4QEqt8frZQ9Agb9bCBGA7w) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [イニミニマニモ](https://open.spotify.com/album/6SCp8Aheuy4UMkbDBuztHa) | 4:00 | 2025-04-05 | 2025-04-16 |
 | [イビツナコトバ](https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [イビツナコトバ](https://open.spotify.com/album/2Q7Vw6B0q0ZSLdFhBx94o8) | 3:31 | 2023-01-12 | 2023-04-09 |
-| [イルミネイト](https://open.spotify.com/track/5dVMqpeSDyNJczw40sBM5p) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [イルミネイト](https://open.spotify.com/album/6m4bSupxD18k5Jswp9ySPc) | 4:21 | 2025-04-08 |  |
+| [イルミネイト](https://open.spotify.com/track/5dVMqpeSDyNJczw40sBM5p) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [イルミネイト](https://open.spotify.com/album/6m4bSupxD18k5Jswp9ySPc) | 4:21 | 2025-04-08 | 2025-04-17 |
 | [イロドリ](https://open.spotify.com/track/4OqUFJkoUZA7RNtEyvilS1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [イロドリ](https://open.spotify.com/album/2DJBLrJSA045LLJGhtFqgP) | 3:15 | 2024-04-23 | 2024-06-26 |
 | [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2022-11-08 | 2022-11-10 |
 | [インフィニット](https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [インフィニット](https://open.spotify.com/album/32PkEDbpR6T1uLpt5r43r7) | 4:12 | 2022-06-30 | 2022-07-29 |
@@ -1350,6 +1350,7 @@
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-05-28 | 2022-07-06 |
 | [スピカ](https://open.spotify.com/track/5rbMpWcf6xIlvWR57XpuK2) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [スピカ](https://open.spotify.com/album/7hFD7KnnT6EhV0XifRYT6N) | 5:23 | 2024-04-23 | 2024-06-26 |
 | [スピラ](https://open.spotify.com/track/2ktgX4jvR2u35XHPiIQXJP) | [sekai](https://open.spotify.com/artist/7fnGQtfTGswQS3T0tMZ0xZ) | [スピラ](https://open.spotify.com/album/3Tl1aOfLjepiqOlS5C6ycF) | 2:58 | 2024-10-25 | 2025-01-08 |
+| [スピード \- Speed](https://open.spotify.com/track/2D3jMiMkKMmvchLMLXLG4T) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [スピード \- Speed](https://open.spotify.com/album/1b468g18LpNbntgka81SCM) | 3:38 | 2025-04-16 |  |
 | [スーパーウルトラ I LOVE YOU](https://open.spotify.com/track/1rMbW3ri5rFPwIaWXjeOi6) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [スーパーウルトラ I LOVE YOU](https://open.spotify.com/album/659ErKMuWO7zJkEkjbjxkW) | 3:16 | 2024-01-23 | 2024-04-11 |
 | [スーパースター!!](https://open.spotify.com/track/5advyz09kWU8YaumAT5QV8) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [スーパースター!!](https://open.spotify.com/album/6eX46XN7ENPio7gIiQCFjo) | 3:51 | 2024-12-24 | 2025-01-17 |
 | [セナカアワセ](https://open.spotify.com/track/4I2TRJwkLkxotgmKJWNzPe) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [セナカアワセ](https://open.spotify.com/album/5RSmyqHHJJReS5tVHv0B7f) | 3:16 | 2024-07-12 | 2024-10-09 |

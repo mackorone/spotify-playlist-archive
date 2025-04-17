@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Rachel Bobbitt
 
-1,622 songs - 4 day 0 hr 41 min
+1,628 songs - 4 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Before The Flowers Bloom](https://open.spotify.com/track/0Y7dY53mgilO5S4ELa6lzD) | [Sean Thompson's Weird Ears](https://open.spotify.com/artist/6NWoTJEipAFa5ZYDQNut5c) | [Before The Flowers Bloom](https://open.spotify.com/album/6yOE83I3FJ6dt791tCTPU1) | 4:23 | 2022-05-25 | 2022-08-25 |
 | [Bells](https://open.spotify.com/track/2kzM7UmYRNDOrZnnwIHOvn) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Bells](https://open.spotify.com/album/0DBqjwSgBd1YyTnyH60RX0) | 3:11 | 2024-02-14 | 2024-04-24 |
 | [Bellyful](https://open.spotify.com/track/3YpyknW4X52wtKCctSUVBt) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Bellyful](https://open.spotify.com/album/0U5xkWeqVYXT20zsLFJHWX) | 4:23 | 2023-08-23 | 2023-11-11 |
+| [Benadryl](https://open.spotify.com/track/3c5cLf25f9lFSQtOoluLGt) | [Adult Mom](https://open.spotify.com/artist/7tuwjSE2q4zeBdNObeO7LB) | [Benadryl](https://open.spotify.com/album/5EgQ3jwD4BeDmqX5IeLN1e) | 3:03 | 2025-04-16 |  |
 | [Bend Down](https://open.spotify.com/track/7ddXxsXyCHB3oy5WeTXC8s) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [Bend Down](https://open.spotify.com/album/2oAV2TLLnetLST56yVqhxr) | 2:17 | 2024-10-09 | 2024-12-05 |
 | [Benjamin](https://open.spotify.com/track/0VQCXgULavafiHDRyrKFu2) | [Daphne Gale](https://open.spotify.com/artist/1qrMrXpw6r7mQzlqPdHUg8), [dora.](https://open.spotify.com/artist/0Ym566deMKtIcLclCs6AqB) | [Benjamin](https://open.spotify.com/album/4fotbMUZ7Y1WQMAXRmwipv) | 3:02 | 2024-08-07 | 2024-10-10 |
 | [Better Days](https://open.spotify.com/track/0BORrH9NNUvHOLH4jA9M4r) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Better Days](https://open.spotify.com/album/6C4hVepdGIUFsygmFE6aCi) | 3:10 | 2023-05-10 | 2023-06-15 |
@@ -195,6 +196,7 @@
 | [Blow Wind Blow](https://open.spotify.com/track/5AtZtXNA2loJEzAIJb39fX) | [Jordan Lehning](https://open.spotify.com/artist/4TJq86PFfl12FBpxk5FS7O) | [Blow Wind Blow](https://open.spotify.com/album/6MiDRCah5wxJOOsCBp8sE2) | 3:18 | 2025-01-22 |  |
 | [Blue Thread](https://open.spotify.com/track/5B3mFQrx9uH2ThAbBzoSe7) | [Ben Garnett](https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Blue Thread](https://open.spotify.com/album/4b58AwOV1YJneW4fydnWHQ) | 3:57 | 2023-02-15 | 2023-03-30 |
 | [Blueberry Roan](https://open.spotify.com/track/129PyNIvFZTnvE6CMvdvEA) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Blueberry Roan](https://open.spotify.com/album/6GtAJ9jVdoGYMKbPCU5IWj) | 4:09 | 2024-01-17 | 2024-03-07 |
+| [Blur on By](https://open.spotify.com/track/4ombiGmB9Vx5TxGFmBXLYZ) | [ChaiChester](https://open.spotify.com/artist/2Pd6KDm45ZRvK1o8UQ9xbA) | [Blur on By](https://open.spotify.com/album/5ovPZ9JUjUD4W7VfL4XaSU) | 3:51 | 2025-04-16 |  |
 | [Blurring Time](https://open.spotify.com/track/1P8E9GntMtRnKQttcy0vTp) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/5V8CQQ5ZioyFbHId6xijCk) | 2:26 | 2025-03-12 |  |
 | [Bobcaygeon](https://open.spotify.com/track/31feq1aRhqlapMfQm9kJaS) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV), [T\. Buckley](https://open.spotify.com/artist/3uMfRdAAdTRyi0Kg2qCxmo) | [Bobcaygeon](https://open.spotify.com/album/412zp56YbUqDxziYXAAVRX) | 4:37 | 2023-01-11 | 2023-02-16 |
 | [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 | 2023-10-18 | 2023-12-11 |
@@ -388,6 +390,7 @@
 | [dinner alone](https://open.spotify.com/track/0XqtPB3sTWzv9p2cDzzfyD) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [dinner alone](https://open.spotify.com/album/1eOHu4opGK1YazfyZuR49M) | 2:55 | 2023-09-27 | 2023-12-11 |
 | [Dinner Party](https://open.spotify.com/track/69te7FqNKGo7wP8vpC90T8) | [Lydia Kaseta](https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl) | [Dinner Party](https://open.spotify.com/album/1po6GsGZmdDJEZxtoBGuVs) | 3:20 | 2024-05-29 | 2024-08-08 |
 | [Dirty Fire](https://open.spotify.com/track/7Ktux01az60Et2QeCYu357) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Prequel](https://open.spotify.com/album/3EkjlTMu4IDVHz759li7FO) | 2:48 | 2023-10-18 | 2023-12-11 |
+| [do i belong here?](https://open.spotify.com/track/5NyJRMHMLw8pkte5ISDEAe) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [do i belong here?](https://open.spotify.com/album/0S5bSxmN7gH4fd23NP49DC) | 2:16 | 2025-04-16 |  |
 | [Do You Feel Free Now?](https://open.spotify.com/track/1G5Q59cV1UNU0AOiWtODGS) | [Sam Tudor](https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk) | [Do You Feel Free Now?](https://open.spotify.com/album/52ih5KkcgK2DUjvb2E5Q2k) | 3:19 | 2024-01-31 | 2025-01-16 |
 | [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 | 2024-05-24 | 2024-08-08 |
 | [dog](https://open.spotify.com/track/2jNI4mu7xhKGXpCmXzufEg) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [dog](https://open.spotify.com/album/4GoNNtWHaiJHoaRK6kl08u) | 3:02 | 2022-11-30 | 2023-01-12 |
@@ -1257,6 +1260,7 @@
 | [Sick of Myself](https://open.spotify.com/track/1dlKXi0vyIStC1g5M8L5nE) | [Trace Mountains](https://open.spotify.com/artist/7sLtFQOS2kTEnMPTFLFU1t) | [Sick of Myself](https://open.spotify.com/album/0w5NhosID0EK5kiBKHhABM) | 4:07 | 2024-06-26 | 2024-08-22 |
 | [Sidelines](https://open.spotify.com/track/2sxWTcS4AhbOSfXzc4FvdR) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Sidelines](https://open.spotify.com/album/5pi3oHEnvi38KFdgDqr2Ie) | 2:50 | 2023-11-08 | 2023-12-11 |
 | [Sides](https://open.spotify.com/track/3BM9tquYU4X8N6glk5OCF5) | [Gracie Gray](https://open.spotify.com/artist/2KgkkXOzFBuE67knhA4ebG) | [Sides](https://open.spotify.com/album/4tQmOiIEKT7rWRKiwVzAVn) | 4:08 | 2024-07-24 | 2024-10-10 |
+| [Silk And Velvet](https://open.spotify.com/track/5uMlfVjrj8Jr5tTxaNati8) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Silk and Velvet](https://open.spotify.com/album/6hOSMLuIWwf6nkTJjP4ZnR) | 2:32 | 2025-04-16 |  |
 | [Silver](https://open.spotify.com/track/2SyHbnQlrFyIdDGFeyPEQe) | [Nathaniel Russell](https://open.spotify.com/artist/1e0cgBOcw5bPx0ScuTTns2) | [Silver](https://open.spotify.com/album/694zQ5EqZdgzqmzxsjPN0l) | 2:20 | 2024-04-10 | 2024-06-20 |
 | [Silver Wings](https://open.spotify.com/track/70YGCrjXwxX0nvSHJVZ16f) | [Harp](https://open.spotify.com/artist/3y80fftQVDjecHmMRfwgOU) | [Albion](https://open.spotify.com/album/3WiW1suHzsswq7fLWoN5z4) | 3:45 | 2024-01-10 | 2024-02-15 |
 | [silvertongue](https://open.spotify.com/track/3T0ovS5CTFSucJ2FwN0xa0) | [Nyan Feder](https://open.spotify.com/artist/2lhhq00oFg61qWaeSbrJTy) | [silvertongue](https://open.spotify.com/album/7mKC2l5VFL8pXZWJgHFZHn) | 2:24 | 2025-02-26 |  |
@@ -1391,6 +1395,7 @@
 | [That So](https://open.spotify.com/track/39CGQf63kR3hgVbzPAyhRo) | [Oh Papa](https://open.spotify.com/artist/0Mfgu7MOEz6iAaSnQWerjJ) | [That So](https://open.spotify.com/album/2Gf44Na8LBbMwJMLK5gRU1) | 3:07 | 2022-05-25 | 2022-06-30 |
 | [That's Everything](https://open.spotify.com/track/76XOc4fQTSQwLxNsE2OUZz) | [Miki Fiki](https://open.spotify.com/artist/1O1r2qVtIFqlTJoB4jsJKd) | [That's Everything](https://open.spotify.com/album/6O0nCCwSprQhsE5VJ2elVF) | 3:45 | 2023-08-23 | 2023-11-11 |
 | [That's Ok, That's Alright](https://open.spotify.com/track/6LA05amjgAprGansoc6V6A) | [Sleepy Jean](https://open.spotify.com/artist/3UgVXsc0DrK1yOouslYqKP) | [Shoot Me in a Dream](https://open.spotify.com/album/048BeNX0toVObxMUjsWBOR) | 3:23 | 2023-07-26 | 2023-09-28 |
+| [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 | 2025-04-16 |  |
 | [The Bell Jar](https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [The Bell Jar](https://open.spotify.com/album/4ZbxxQPdwBFmFHsq3JAjLK) | 2:19 | 2024-02-28 | 2024-05-02 |
 | [The Bite](https://open.spotify.com/track/0JJXAho9s6XgwhItVV6kV5) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [The Bite](https://open.spotify.com/album/1WKBH7Kast9jnPiQmestUl) | 2:24 | 2024-08-14 | 2024-12-05 |
 | [the cards](https://open.spotify.com/track/1T1xEv50uNtLsBb7qtKtB7) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [the cards](https://open.spotify.com/album/4l73qnloX4HsFd42X5aDwv) | 2:04 | 2024-05-01 | 2024-07-11 |
@@ -1493,6 +1498,7 @@
 | [Turning 24](https://open.spotify.com/track/49XlmWANTT7MbbE2HTXiMn) | [Bella Porter](https://open.spotify.com/artist/4jby3degVGgbEuzneg4iU3) | [Turning 24](https://open.spotify.com/album/6VpJJdOSofUiQfNLzF2tAF) | 3:16 | 2023-06-14 | 2023-08-17 |
 | [turning blue](https://open.spotify.com/track/61mVqkXlFqQe7xocjBaiTT) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [turning blue](https://open.spotify.com/album/2qvGjMIQdMLyQ1McV34u7m) | 2:25 | 2022-05-25 | 2022-07-21 |
 | [Twilight Of Youth](https://open.spotify.com/track/1L3Qo7G6xGeVbdAQFLS3FN) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Twilight Of Youth](https://open.spotify.com/album/32vLDudGS95nySNZnuVgRS) | 2:30 | 2023-01-11 | 2023-03-02 |
+| [Twin](https://open.spotify.com/track/50kYF58uIez9P2imI10BVI) | [My Mercury](https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U) | [Twin](https://open.spotify.com/album/06SIYHNDdQ3FC6aMYSbj3h) | 3:46 | 2025-04-16 |  |
 | [Twin Flame](https://open.spotify.com/track/2BQR4wX9e6kZXnIqPXUtUK) | [Georgia Parker](https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf) | [Twin Flame](https://open.spotify.com/album/7oisAmmg9BaaTHsdzvO3oq) | 3:50 | 2024-03-20 | 2024-05-23 |
 | [Two Circles](https://open.spotify.com/track/6bcRI74NJ8tlRMUWTo9uYn) | [Byland](https://open.spotify.com/artist/5zSPR2YNjfLn5rNQPZiJgC) | [Two Circles](https://open.spotify.com/album/041hzrgkFdh4qw2Sp9eR2l) | 2:59 | 2024-02-21 | 2024-05-09 |
 | [Two Heads, Grey Mare](https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/3JbWIzI320YwRDOY3EoRSG) | 4:41 | 2023-07-12 | 2023-12-24 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: MAKSIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,933 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,927 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 |
-| 2 | [Rich](https://open.spotify.com/track/4vhRYAg2gsHzcgb9mHxjN7) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Rich](https://open.spotify.com/album/6lwxh0r3dmw2mQ5LBH4UOG) | 2:31 |
-| 3 | [Strange Addiction](https://open.spotify.com/track/3g7itlmijAtYZrC4yK988U) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Strange Addiction](https://open.spotify.com/album/77JO5bxVTYrbBXMnBHT33D) | 2:54 |
-| 4 | [Weeds](https://open.spotify.com/track/2rtsTSyvBThX27N89GRpaj) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Weeds](https://open.spotify.com/album/0tSvBu6CpwDWietypDNYPR) | 3:05 |
-| 5 | [Who Am I](https://open.spotify.com/track/3Zn286FicQH2CpTkCvPnjP) | [Daniel Nolet](https://open.spotify.com/artist/33SYIABzuD0eDKr1jaQGfR) | [Who Am I](https://open.spotify.com/album/4Lez5LaAhzAYuWdAXklGZf) | 3:22 |
-| 6 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 |
+| 2 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 |
+| 3 | [Rich](https://open.spotify.com/track/4vhRYAg2gsHzcgb9mHxjN7) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Rich](https://open.spotify.com/album/6lwxh0r3dmw2mQ5LBH4UOG) | 2:31 |
+| 4 | [Strange Addiction](https://open.spotify.com/track/3g7itlmijAtYZrC4yK988U) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Strange Addiction](https://open.spotify.com/album/77JO5bxVTYrbBXMnBHT33D) | 2:54 |
+| 5 | [Weeds](https://open.spotify.com/track/2rtsTSyvBThX27N89GRpaj) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Weeds](https://open.spotify.com/album/0tSvBu6CpwDWietypDNYPR) | 3:05 |
+| 6 | [Who Am I](https://open.spotify.com/track/3Zn286FicQH2CpTkCvPnjP) | [Daniel Nolet](https://open.spotify.com/artist/33SYIABzuD0eDKr1jaQGfR) | [Who Am I](https://open.spotify.com/album/4Lez5LaAhzAYuWdAXklGZf) | 3:22 |
 | 7 | [I Lie And I Cheat \- Uit Liefde Voor Muziek](https://open.spotify.com/track/4aZApUwxDSZ0HXcLFtChd0) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [I Lie And I Cheat \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/553Hbuqp1xBj5yw6BaNelj) | 2:21 |
 | 8 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
 | 9 | [Hopeful](https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Hopeful](https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Lying Eyes](https://open.spotify.com/track/0BZT22gExfkI3A2oB1Rl9f) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [Lying Eyes](https://open.spotify.com/album/0JL0IqrDnc37gTfP2Zw9lc) | 3:14 |
 | 100 | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/track/0Lql4L7NyAKnZHBUKYVI26) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/album/4a0DSORIOQog6KZZ9i5l3Y) | 2:43 |
 
-Snapshot ID: `Z/4sfAAAAADUFdBlXmiDLWmYtb91ZzsM`
+Snapshot ID: `Z/95KwAAAADMLrB8IMQ9AaL93Ly5ziws`

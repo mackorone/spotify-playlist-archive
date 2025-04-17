@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-493 songs - 1 day 3 hr 30 min
+494 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Ninnindale](https://open.spotify.com/track/3mL8ySikFxmXJeoh5epDAF) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Shashank shetty](https://open.spotify.com/artist/022NSbvjt2BPMhkVffP9CA) | [Ninnindale](https://open.spotify.com/album/0d6Tg4unwqjwxFKP4RkXw8) | 3:45 | 2024-11-08 | 2025-02-19 |
 | [Ninnindale Hosajeevana](https://open.spotify.com/track/1PGsxq3RHVXLYh76ao9C0k) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem), [Bharat Jain](https://open.spotify.com/artist/2Axgtr4RXPBmnJW3vd6l0d), [Manisha](https://open.spotify.com/artist/2oo26cmMQVQSaLk9wT8It8) | [Ninnindale Hosajeevana](https://open.spotify.com/album/2kGtmUHrGtGjug93I5CmVJ) | 4:11 | 2024-12-19 | 2025-03-18 |
 | [Ninnindha shuru](https://open.spotify.com/track/6gTFqOudf70o2LhdhtesT2) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Siddu R Wadeyar](https://open.spotify.com/artist/4vtqdT9JcejRLMiju5YTBu) | [Ninnindha shuru](https://open.spotify.com/album/004SIcTnIEekzQ4rozlWtD) | 4:17 | 2024-03-05 | 2024-08-08 |
+| [Ninnindha Shuru](https://open.spotify.com/track/63Z5msVzQTDREqGmFbFXok) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Siddu R Wadeyar](https://open.spotify.com/artist/4vtqdT9JcejRLMiju5YTBu), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Ninnindha Shuru](https://open.spotify.com/album/71bZWpJ2pF7HBuNRwSjMMQ) | 4:17 | 2025-04-16 |  |
 | [Ninnolava Kaanuninalli](https://open.spotify.com/track/5W57cmj8AzPqZpOvzO1kBZ) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnolava Kaanuninalli](https://open.spotify.com/album/6JWKtJQqms2ZFW8qhFaiR5) | 5:05 | 2023-01-05 | 2023-06-08 |
 | [Ninnolavina Aasare](https://open.spotify.com/track/5D1X2g1faG74urU0MI5HFg) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Aasare](https://open.spotify.com/album/1G5Pnfrg6iQfxe28J74nN7) | 1:36 | 2023-05-25 | 2023-06-08 |
 | [Ninnolavina Aasare](https://open.spotify.com/track/3x3Esiey1grIJ0edTcpxAh) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Ninnolavina Aasare](https://open.spotify.com/album/4ADpZeIj6CBNRZ3jVYLVkd) | 1:36 | 2023-05-25 | 2023-06-01 |
@@ -407,7 +408,7 @@
 | [Preethiso Hudugane](https://open.spotify.com/track/3esWWiqywedcWEYdEP2vaI) | [Dharini KS](https://open.spotify.com/artist/0x4mGzwdNn1xtc0nRYBI7k), [Sabik puttur](https://open.spotify.com/artist/7ENmeMjGxTxoXMrM4JTyrc), [Mohan P Nayar](https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3) | [Preethiso Hudugane](https://open.spotify.com/album/6DHNy6yTHjHAIBSQQPjjVZ) | 4:07 | 2025-02-17 |  |
 | [Preethiso Hudugane](https://open.spotify.com/track/7fhd7foEcDvmBR0TmRJJNM) | [Savishri](https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ), [Mohan P Nayar](https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3), [Sabik puttur](https://open.spotify.com/artist/7ENmeMjGxTxoXMrM4JTyrc) | [Preethiso Hudugane](https://open.spotify.com/album/6ZRvBbqTKGTkV5iQOOwY4v) | 4:06 | 2024-11-29 |  |
 | [Preethisuve](https://open.spotify.com/track/5tqRDj8RbVRtLGOCyGi1rS) | [Jaskarn Singh](https://open.spotify.com/artist/5cML4rvN4WdUUGgJhtkFPq) | [Preethisuve](https://open.spotify.com/album/5hVQiP0i2xbZi37QLeTEem) | 4:02 | 2025-03-19 |  |
-| [Preethiya Geleyane](https://open.spotify.com/track/0yU8PWvIvn7jo01WpyzB7x) | [Savishri](https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ) | [Preethiya Geleyane](https://open.spotify.com/album/6476ZX7SPEpEG7cIOFQCRi) | 3:57 | 2024-11-20 |  |
+| [Preethiya Geleyane](https://open.spotify.com/track/0yU8PWvIvn7jo01WpyzB7x) | [Savishri](https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ) | [Preethiya Geleyane](https://open.spotify.com/album/6476ZX7SPEpEG7cIOFQCRi) | 3:57 | 2024-11-20 | 2025-04-17 |
 | [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 | 2023-08-23 | 2024-04-04 |
 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 | 2023-05-25 | 2023-06-08 |
 | [Psych Boy](https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF) | [X Paapi Psycho](https://open.spotify.com/artist/2xVVYDPi4Kb3pMrV47nrww), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Psych Boy](https://open.spotify.com/album/1KjvaQIdZq8YfChkgCGDx7) | 2:10 | 2023-05-26 | 2024-01-23 |

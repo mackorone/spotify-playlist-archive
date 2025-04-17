@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Oki
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,737 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,818 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BRAND NEW SQ8](https://open.spotify.com/track/6Sn6v4Q8JrDVySRamxPXeX) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [I MISS YOU ON TOUR](https://open.spotify.com/album/1AlUYkwz3uu2EQ3OfpVqmD) | 2:25 |
+| 1 | [BRAND NEW SQ8](https://open.spotify.com/track/6Sn6v4Q8JrDVySRamxPXeX) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [I MISS YOU ON TOUR](https://open.spotify.com/album/1AlUYkwz3uu2EQ3OfpVqmD) | 2:25 |
 | 2 | [Sentymenty](https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Sentymenty](https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL) | 2:34 |
 | 3 | [BALASANA](https://open.spotify.com/track/0HeQTIBjGNbNHxuq6fQWWw) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [BALASANA](https://open.spotify.com/album/6gjiu9XTdJmV3o053XSGgR) | 2:32 |
 | 4 | [Różowe Diamenty](https://open.spotify.com/track/3IXuxsI9ltJw3WpRzVtSPL) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [Różowe Diamenty](https://open.spotify.com/album/5FRwgkqHl0NWdawXB8m6q4) | 2:33 |
-| 5 | [DAY ONE](https://open.spotify.com/track/1OooCG5KS1VAtzdj4KENLW) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ) | [I MISS YOU ON TOUR](https://open.spotify.com/album/1AlUYkwz3uu2EQ3OfpVqmD) | 3:22 |
+| 5 | [DAY ONE](https://open.spotify.com/track/1OooCG5KS1VAtzdj4KENLW) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [I MISS YOU ON TOUR](https://open.spotify.com/album/1AlUYkwz3uu2EQ3OfpVqmD) | 3:22 |
 | 6 | [WOW](https://open.spotify.com/track/2EiWaXhjxMPa1gSXAMj65S) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [WOW](https://open.spotify.com/album/5LiO4Hev3x9InVzDKi0H80) | 2:24 |
 | 7 | [COWABONGA](https://open.spotify.com/track/5gdYiLyMA2Q4sD4S8gCmVk) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [HOLLYWOOD SMILE](https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx) | 3:03 |
 | 8 | [COMING OUT](https://open.spotify.com/track/6cT0trVw7dxoghOi1WHpPf) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [Kosior](https://open.spotify.com/artist/4kIRYVMcgUBEBaqdA0nLWX), [Chłopiec](https://open.spotify.com/artist/3iYugVzCGtd5H1DafWWqwE), [Bary](https://open.spotify.com/artist/4JBmVZET2xstezrgS5PsXw), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [COMING OUT](https://open.spotify.com/album/2Hpdg5wk2bH2qazgYGK6EA) | 2:40 |

@@ -4,11 +4,12 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-77 songs - 4 hr 7 min
+81 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Because we\) Fall in Love](https://open.spotify.com/track/4Pohk9QnUp8243LofTr9Cn) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Polar](https://open.spotify.com/album/7ksHT5o2iwBZr0kDYL4LSa) | 3:06 | 2023-11-09 |  |
+| [0%](https://open.spotify.com/track/0icOs4M7c2T5bcXJhkugww) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Observe](https://open.spotify.com/album/07IjUwHMGJZvlWafbHg6Sm) | 3:16 | 2025-04-16 |  |
 | [30](https://open.spotify.com/track/63PTI4RY0rVOA6qbNs1PPe) | [Kisum](https://open.spotify.com/artist/1CArfopvfCxakFJHup55FW) | [30](https://open.spotify.com/album/19Z7Yg0RdX5Z4YnJKL4yvd) | 2:50 | 2024-04-17 |  |
 | [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 | 2023-11-09 |  |
 | [Backstage Story](https://open.spotify.com/track/3bLybaAVj2CSDUWMiHykEa) | [오상아](https://open.spotify.com/artist/1J00c4vzJdwmgNAIIjcYQH) | [Backstage Story\(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6tWaMl4sj53AGpqTwYnA1u) | 3:18 | 2023-11-09 |  |
@@ -45,6 +46,7 @@
 | [Idle Idle](https://open.spotify.com/track/1UQwsPOADoGFZJG4niN2dt) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/7qXsLvOkV8q01jNSINeGrb) | 3:38 | 2025-04-08 |  |
 | [It Doesn't Matter](https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [It Doesn't Matter](https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d) | 3:34 | 2023-11-09 |  |
 | [It is what it is...](https://open.spotify.com/track/3H2RJlhKLW5vWY37zJ5MF2) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Charming Jo](https://open.spotify.com/artist/2WD3kpF4RQRNucwkuHhKZo) | [It is what it is...](https://open.spotify.com/album/5BcEPVheofscMIjxJ5ZKMO) | 2:18 | 2024-09-18 |  |
+| [i’m so tired.\. \(Feat\. THAMA\)](https://open.spotify.com/track/71lXdK0I8qxaeFxsFSDiwc) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 3:05 | 2025-04-16 |  |
 | [Like I'm saying](https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:28 | 2024-04-17 |  |
 | [Like I′m saying](https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:28 | 2023-11-09 | 2024-04-19 |
 | [Live My Life](https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:39 | 2024-07-02 |  |
@@ -74,6 +76,7 @@
 | [things happen](https://open.spotify.com/track/601WGVoiTsZLB9qcc4Ae0F) | [gyomunapchick](https://open.spotify.com/artist/4vqiBnhsibr88FzJEGhlEg) | [mindset](https://open.spotify.com/album/2OlnR72oOhgAvPmZRj8BAW) | 3:12 | 2023-11-09 |  |
 | [Thursday Taco Man](https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Thursday Taco Man](https://open.spotify.com/album/5jMXKuGYikxGM8wpFARRL2) | 3:02 | 2024-10-08 |  |
 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 | 2023-11-09 |  |
+| [Too lazy](https://open.spotify.com/track/3mVnIJd0G6QXCUd7qjknS0) | [Kwon Han Kyung](https://open.spotify.com/artist/7v8HgyivGw13h8wCviw5wl) | [Too lazy](https://open.spotify.com/album/3f7bSVkQCCuOouO5ZsewEy) | 3:48 | 2025-04-16 |  |
 | [Weightless](https://open.spotify.com/track/7g4X7EwMbW8LiCMGmHXW1I) | [SoNakByul](https://open.spotify.com/artist/2DvzRlivZ3gnMF2Z8xhflM) | [Weightless](https://open.spotify.com/album/0LXwyJ38ryNCzkdEcUbLeS) | 2:16 | 2024-08-10 |  |
 | [WHAT](https://open.spotify.com/track/3CPtRIybgrYhldTswmLdtq) | [Plum](https://open.spotify.com/artist/4srsioGBsXTm1SM18U5TeZ) | [WHAT](https://open.spotify.com/album/0UxmZV8hLl69za8DZ4dfVH) | 3:31 | 2023-11-09 |  |
 | [When do I get that chicken?](https://open.spotify.com/track/2qeNam9eMMKZ5TuFjbDMkF) | [OFF THE TOWN](https://open.spotify.com/artist/51BaBbyJMybOQKMUSYhi0z) | [When do I get that chicken?](https://open.spotify.com/album/3gio8FNEYMEB9CwKyzOtjI) | 3:16 | 2024-10-08 |  |
@@ -85,5 +88,6 @@
 | [내가 들었는데](https://open.spotify.com/track/5aZ1058WKY8rvEK9Bcrftg) | [TIKITIK](https://open.spotify.com/artist/4I5VHsJIkTdNbQNC2xkSEO) | [내가 들었는데](https://open.spotify.com/album/0OSQOFnrNebz3m98FQtQxD) | 1:18 | 2024-03-08 |  |
 | [놀래!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 | 2025-04-08 |  |
 | [원래 이래](https://open.spotify.com/track/01B3FayTL6QIffJ2dK5fHf) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [The Way I Am](https://open.spotify.com/album/6E1Qw5tiLmmIErOTfOfGiG) | 2:37 | 2025-04-08 |  |
+| [집에 가자](https://open.spotify.com/track/3X9sF773dNepwR2E08HWzJ) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Stairs](https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k) | 3:53 | 2025-04-16 |  |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

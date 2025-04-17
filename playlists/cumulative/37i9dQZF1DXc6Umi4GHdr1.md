@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-423 songs - 18 hr 46 min
+424 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Sans Toi](https://open.spotify.com/track/0gYgdEiS0wNp4OFllLrpr3) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi \- Guitar](https://open.spotify.com/album/38NCkRjEp9lwz3GmRQOyeq) | 2:18 | 2023-01-20 | 2024-06-07 |
 | [Santorini](https://open.spotify.com/track/0rx4tPhXaiVrpglMzVLVbj) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Santorini](https://open.spotify.com/album/0Ipg8tK3kvzke2pNfPVFSz) | 2:09 | 2023-10-13 |  |
 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 | 2021-12-10 | 2023-03-10 |
+| [Savona](https://open.spotify.com/track/6CQtNJq9JP1LXugsFE75hD) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Savona](https://open.spotify.com/album/0PvzIxKRZOHBQ9rk7jey13) | 2:40 | 2025-04-16 |  |
 | [Sawdust Floors](https://open.spotify.com/track/22CshhpyS2gjbii88Rizzm) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Sawdust Floors](https://open.spotify.com/album/2cgfREGDztUfqSQoVib1Er) | 1:51 | 2023-04-28 | 2023-08-26 |
 | [Seasons Change](https://open.spotify.com/track/4bFcRseaUHL04lIvGQy9Ss) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Seasons Change](https://open.spotify.com/album/3MXVce2S5FrDoKTIZ7UoWD) | 2:45 | 2024-02-23 |  |
 | [Secret Hero](https://open.spotify.com/track/6kjaY41h1nj7fViaDFd7TV) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Secret Hero](https://open.spotify.com/album/3qYFXeLR7KMLCQVmpLkjIs) | 2:54 | 2024-06-14 |  |

@@ -2,7 +2,7 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> The most exciting new music on our radar, featuring Moody Joody
+> The most exciting new music on our radar, featuring Gigi Perez
 
 1,014 songs - 2 day 4 hr 50 min
 

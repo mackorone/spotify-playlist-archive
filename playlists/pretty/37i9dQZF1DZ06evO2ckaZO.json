@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 73045,
+  "num_followers": 73060,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/xQAAAAAADLT26tfGm7j2ogXjBI4RPO",
+  "snapshot_id": "Z/2hgAAAAAC+m8GRWRVcmgRDLOLhlplo",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129293,
+      "name": "Phat Butt",
+      "url": "https://open.spotify.com/track/3wKdqWNzGnxapDIaoocxR1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Clarity",
         "url": "https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 106666,
       "name": "Name of Love",
       "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129293,
-      "name": "Phat Butt",
-      "url": "https://open.spotify.com/track/3wKdqWNzGnxapDIaoocxR1"
     },
     {
       "added_at": null,

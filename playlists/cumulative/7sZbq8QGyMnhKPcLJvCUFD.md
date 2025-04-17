@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-693 songs - 1 day 11 hr 7 min
+694 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Royalty \- Wiguez & Alltair Remix](https://open.spotify.com/track/6kl3BgBeYYAUtuxDi5aKQX) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Royalty \(Wiguez & Alltair Remix\)](https://open.spotify.com/album/6JmrofiP260WXR2BhVOfLK) | 3:32 | 2023-08-08 | 2024-01-12 |
 | [RPM](https://open.spotify.com/track/3JmYbk1udLndnD6Q3AbeU4) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [RPM](https://open.spotify.com/album/5KEbT5Sa0y4KwErRykgbqW) | 2:20 | 2023-12-13 | 2024-05-15 |
 | [RUINS](https://open.spotify.com/track/7dqPEz5vP4Ehs597W8Qr7l) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [RUINS](https://open.spotify.com/album/2VCQ9VOhjvUqJdXKcHKxLx) | 2:42 | 2024-12-08 |  |
+| [Runaway](https://open.spotify.com/track/4WxfXOGAFvxWHadw9IIPhd) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Runaway](https://open.spotify.com/album/6NeIhmkOSB13wNRmiRSuyP) | 3:39 | 2025-04-16 |  |
 | [Runaway](https://open.spotify.com/track/6L9VKnJQwixkWyBFoKbdBV) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Runaway](https://open.spotify.com/album/5DgXvV0eBeNebgmKckcK8s) | 3:26 | 2022-05-13 | 2023-04-28 |
 | [Runaway](https://open.spotify.com/track/3DzOMCStLUpXvooH03HF1C) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Runaway](https://open.spotify.com/album/0uBqvxbWAPEBvJ9FZnI780) | 4:20 | 2022-10-27 | 2023-04-28 |
 | [Running Away](https://open.spotify.com/track/7HJSanooTjRCfNpSY4J7lj) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3) | [Running Away](https://open.spotify.com/album/4luyrFOvpeHNC8qpy6Ab0O) | 2:31 | 2022-04-07 | 2023-04-28 |

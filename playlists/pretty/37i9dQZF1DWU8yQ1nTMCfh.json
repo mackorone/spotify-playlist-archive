@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: shego",
-  "num_followers": 298281,
+  "num_followers": 298294,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-03-14 04:00:15",
       "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 216184,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+    },
+    {
+      "added_at": "2025-03-14 04:00:15",
+      "album": {
         "name": "Su\u00e9ltate el pelo",
         "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2025-03-14 04:00:15",
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 216184,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
-    },
-    {
-      "added_at": "2025-03-14 04:00:15",
-      "album": {
         "name": "Ni Siquiera De Ti",
         "url": "https://open.spotify.com/album/1Z3vgN2BrKb4GEXnXgqYar"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-03-14 04:00:15",
       "album": {
-        "name": "Apocalipsis",
-        "url": "https://open.spotify.com/album/5yaVhs2WE3wny6eGCfiDvY"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Apocalipsis",
-      "url": "https://open.spotify.com/track/2iu30VOiuJk3T40v6k9WVO"
-    },
-    {
-      "added_at": "2025-03-14 04:00:15",
-      "album": {
         "name": "Invulnerables",
         "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 242600,
       "name": "Invulnerables",
       "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
+    },
+    {
+      "added_at": "2025-03-14 04:00:15",
+      "album": {
+        "name": "Apocalipsis",
+        "url": "https://open.spotify.com/album/5yaVhs2WE3wny6eGCfiDvY"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Apocalipsis",
+      "url": "https://open.spotify.com/track/2iu30VOiuJk3T40v6k9WVO"
     },
     {
       "added_at": "2025-03-14 04:00:15",

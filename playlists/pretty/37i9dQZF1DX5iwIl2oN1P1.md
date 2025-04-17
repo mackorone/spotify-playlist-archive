@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Adia
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,814 likes - 55 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,865 likes - 55 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

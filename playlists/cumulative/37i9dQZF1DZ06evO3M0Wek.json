@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Ronnie James Dio - This Is Your Life",
+        "url": "https://open.spotify.com/album/76DxuvfdC3lmCDLFf6rSWw"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238013,
+      "name": "Straight Through the Heart",
+      "url": "https://open.spotify.com/track/13sFHP8az3xl5fIchnLr03"
+    },
+    {
+      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },

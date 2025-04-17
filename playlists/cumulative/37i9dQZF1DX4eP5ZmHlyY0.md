@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: TOMORROW X TOGETHER
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: MAZZEL
 
-530 songs - 1 day 5 hr 48 min
+531 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 | 2024-03-17 | 2025-03-07 |
 | [Beat Loud](https://open.spotify.com/track/0WRnKTDzekbS2w3gSNEmBo) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Beat Loud](https://open.spotify.com/album/4sbCLv9RdWQjdEVoRltRZD) | 2:52 | 2024-05-07 | 2024-05-22 |
 | [Beautiful Life](https://open.spotify.com/track/5qUSdQKKRxmfcEgLQsQINj) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Beautiful Mind](https://open.spotify.com/album/3kj5RMMwVvIvP0D9juqm8j) | 4:25 | 2025-03-24 |  |
+| [Because of You, I Shine \- Japanese Version](https://open.spotify.com/track/13syne8ZMO7QJbnJ7PIzyv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine \(Japanese Version\)](https://open.spotify.com/album/0Wp46PJlRjEfZyGmyNiwyN) | 3:46 | 2025-04-17 |  |
 | [Believe in You](https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Believe in You](https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH) | 4:16 | 2024-07-09 | 2024-11-15 |
 | [Best Friend](https://open.spotify.com/track/6LiTEXFsVO0hbSnplg5HNO) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Best Friend](https://open.spotify.com/album/6AD5IWv6dxm5JGo6D4lulH) | 3:17 | 2025-03-06 | 2025-03-18 |
 | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/track/1beUALLSloBEvYre65QiW6) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9) | 3:54 | 2025-03-06 | 2025-04-09 |

@@ -5605,6 +5605,24 @@
     },
     {
       "album": {
+        "name": "How Much a Heart Can Take Before It Breaks",
+        "url": "https://open.spotify.com/album/47i2T4XU4iyXiEQHEUhbg7"
+      },
+      "artists": [
+        {
+          "name": "Halflives",
+          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187263,
+      "name": "Eat Sleep Work Die!!! Repeat",
+      "url": "https://open.spotify.com/track/7BLA7P29Zwv9mZndG6KcAg"
+    },
+    {
+      "album": {
         "name": "Echolocate Your Love",
         "url": "https://open.spotify.com/album/6mLQgWO8DFzqT9H8pYVIOu"
       },
@@ -10890,7 +10908,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 233160,
       "name": "LEECH",
       "url": "https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo"

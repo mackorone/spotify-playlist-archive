@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: The Red Flags, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Julia Effekt, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -792,6 +792,24 @@
       "duration_ms": 227082,
       "name": "Alle wollen Liebe",
       "url": "https://open.spotify.com/track/0GjDl76nzwVMxbCgsI52Ib"
+    },
+    {
+      "album": {
+        "name": "ALLEIN",
+        "url": "https://open.spotify.com/album/4U6kXEcO6NN9qO4AGNyVVF"
+      },
+      "artists": [
+        {
+          "name": "Julia Effekt",
+          "url": "https://open.spotify.com/artist/4NwsLVx4kYLChCjhUWaRdZ"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195463,
+      "name": "ALLEIN",
+      "url": "https://open.spotify.com/track/2UXuGHPXfcZLpz22qi73x2"
     },
     {
       "album": {
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 164347,
       "name": "Bei dir sein",
       "url": "https://open.spotify.com/track/43VHFznEBH15WqU9kHGeG6"
@@ -11508,7 +11526,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 180950,
       "name": "Irgendwann mal wir",
       "url": "https://open.spotify.com/track/3zyRYUBtZhIlGiZq1P2DbZ"
@@ -13984,7 +14002,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 126233,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD"
@@ -17127,6 +17145,24 @@
     },
     {
       "album": {
+        "name": "Pray For Us",
+        "url": "https://open.spotify.com/album/2oiy1FLMoKTHoPw8wDZTf5"
+      },
+      "artists": [
+        {
+          "name": "Rachel Tauwnaar",
+          "url": "https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238386,
+      "name": "Pray For Us",
+      "url": "https://open.spotify.com/track/31Duh9kh3vAe7zejXzuAM2"
+    },
+    {
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/4etUDQRuWlkbZpGUvGayPe"
       },
@@ -17592,7 +17628,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 142225,
       "name": "Raus aus dem Grau",
       "url": "https://open.spotify.com/track/4MQ2SCsheIoSzVUioxx26D"
@@ -21517,6 +21553,24 @@
     },
     {
       "album": {
+        "name": "The Devil",
+        "url": "https://open.spotify.com/album/6EeZTXI0z16j1s8Px9MRnt"
+      },
+      "artists": [
+        {
+          "name": "sarah",
+          "url": "https://open.spotify.com/artist/0u5Q6BFZvbwKUkdccH92BH"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210117,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/27UuniFDNBCKb7Zpn0wbtR"
+    },
+    {
+      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/20yMqSwOxvKb3H6yYRfEey"
       },
@@ -23274,6 +23328,24 @@
       "duration_ms": 180233,
       "name": "Vielleicht",
       "url": "https://open.spotify.com/track/1mXgYDAvaff7gmhauPYxGc"
+    },
+    {
+      "album": {
+        "name": "Vielleicht",
+        "url": "https://open.spotify.com/album/5LWxpwuW28jQ7pPc3j0vwE"
+      },
+      "artists": [
+        {
+          "name": "Puck und Paul",
+          "url": "https://open.spotify.com/artist/2JKL5gKKh716XEUH6Jpuo1"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154698,
+      "name": "Vielleicht",
+      "url": "https://open.spotify.com/track/6xB959BhCDoK7snonail3U"
     },
     {
       "album": {

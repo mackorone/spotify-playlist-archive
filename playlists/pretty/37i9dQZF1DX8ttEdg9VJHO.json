@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 359416,
+  "num_followers": 359483,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-02-27 17:11:51",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 218577,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
-    },
-    {
-      "added_at": "2025-02-27 17:11:51",
-      "album": {
         "name": "AWE",
         "url": "https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 155080,
       "name": "IS THIS LOVE",
       "url": "https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar"
+    },
+    {
+      "added_at": "2025-02-27 17:11:51",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
     },
     {
       "added_at": "2025-02-27 17:11:51",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-02-27 17:11:51",
       "album": {
-        "name": "Wer wenn nicht wir",
-        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
-      },
-      "artists": [
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Wer wenn nicht wir",
-      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
-    },
-    {
-      "added_at": "2025-02-27 17:11:51",
-      "album": {
         "name": "Kuss.",
         "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 198218,
       "name": "Sch\u00f6n genug",
       "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
+    },
+    {
+      "added_at": "2025-02-27 17:11:51",
+      "album": {
+        "name": "Wer wenn nicht wir",
+        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Wer wenn nicht wir",
+      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
     },
     {
       "added_at": "2025-02-27 17:11:51",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-02-27 17:11:51",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
       },
       "artists": [
         {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 146769,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
     },
     {
       "added_at": "2025-02-27 17:11:51",
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-02-27 17:11:51",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
       },
       "artists": [
         {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
         }
       ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
+      "duration_ms": 146769,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
     },
     {
       "added_at": "2025-02-27 17:11:51",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-02-27 17:11:51",
       "album": {
-        "name": "Sie",
-        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Steht Mir",
-      "url": "https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e"
-    },
-    {
-      "added_at": "2025-02-27 17:11:51",
-      "album": {
         "name": "Thanks For Nothing, See You Never",
         "url": "https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 166991,
       "name": "Small Steps",
       "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
+    },
+    {
+      "added_at": "2025-02-27 17:11:51",
+      "album": {
+        "name": "Sie",
+        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Steht Mir",
+      "url": "https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e"
     },
     {
       "added_at": "2025-02-27 17:11:51",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2025-02-27 17:11:51",
       "album": {
-        "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
-        "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
+        "name": "Leap Of Faith",
+        "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
       },
       "artists": [
         {
-          "name": "August Moon",
-          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
         }
       ],
-      "duration_ms": 157658,
-      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
-      "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
+      "duration_ms": 217713,
+      "name": "Leap Of Faith",
+      "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
     }
   ],
   "unique_name": "Feelgood Pop",

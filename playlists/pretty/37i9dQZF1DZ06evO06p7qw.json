@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 174015,
+  "num_followers": 174059,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/xQAAAAAACgNLs03tdWzOwpX+0WPjqK",
+  "snapshot_id": "Z/2hgAAAAAB8t8aekBNUHH1bLyFutLPd",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No S\u00e9 Si Salga El Sol (Remix)",
-        "url": "https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 188753,
-      "name": "No S\u00e9 Si Salga El Sol - Remix",
-      "url": "https://open.spotify.com/track/0gw6orix5diJLOahicJhj6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
         "url": "https://open.spotify.com/album/78LoJthaoIuMaRNZGduMdh"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 244262,
       "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No S\u00e9 Si Salga El Sol (Remix)",
+        "url": "https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 188753,
+      "name": "No S\u00e9 Si Salga El Sol - Remix",
+      "url": "https://open.spotify.com/track/0gw6orix5diJLOahicJhj6"
     },
     {
       "added_at": null,
@@ -571,58 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresa",
-        "url": "https://open.spotify.com/album/06fSWRuFLkZcJfa63TCcAW"
-      },
-      "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 173096,
-      "name": "Fresa",
-      "url": "https://open.spotify.com/track/2s83AGDtBG4xdWxrB5tPi8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 141626,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Aut\u00e9ntica",
-      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 MANOS 1 MUNDO",
         "url": "https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA"
       },
@@ -643,6 +591,58 @@
       "duration_ms": 188000,
       "name": "SOL",
       "url": "https://open.spotify.com/track/087LHAM3Qh50ClhMjvtF0y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 141626,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresa",
+        "url": "https://open.spotify.com/album/06fSWRuFLkZcJfa63TCcAW"
+      },
+      "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 173096,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/2s83AGDtBG4xdWxrB5tPi8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Aut\u00e9ntica",
+      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
     },
     {
       "added_at": null,

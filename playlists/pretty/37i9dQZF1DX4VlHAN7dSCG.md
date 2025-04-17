@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 芒果醬 \(Mango Jump\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,056 likes - 65 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,058 likes - 65 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

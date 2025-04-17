@@ -8321,6 +8321,24 @@
     },
     {
       "album": {
+        "name": "Moon Waltz",
+        "url": "https://open.spotify.com/album/66g2EHpUlzfj1Zy6ooDRh9"
+      },
+      "artists": [
+        {
+          "name": "Sam\u2019s Creek",
+          "url": "https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144841,
+      "name": "Moon Waltz",
+      "url": "https://open.spotify.com/track/4Xezh0FxenrjYsqwEmwRG4"
+    },
+    {
+      "album": {
         "name": "More Human",
         "url": "https://open.spotify.com/album/445YVx7F9QnBhN21h8FNRl"
       },
@@ -8458,7 +8476,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 158124,
       "name": "Mount Fitz Roy",
       "url": "https://open.spotify.com/track/2OZB6Qnil25CLXLNW5XSHS"
@@ -12508,7 +12526,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 143750,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/7h4T0DIJj037PyasRaNz1f"
@@ -12850,7 +12868,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 150420,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4vYEsiKuRke7P1vWFVkzRy"

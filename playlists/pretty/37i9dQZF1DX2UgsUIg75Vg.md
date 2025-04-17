@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: WESLEYFRANKLIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,386,943 likes - 178 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,387,144 likes - 178 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 35 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 36 | [Hands](https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Hands](https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R) | 2:52 |
 | 37 | [Mine](https://open.spotify.com/track/1vZjhrIgcBUD0HlSxaUbRb) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Mine](https://open.spotify.com/album/7EFyTSLVeJJxf765Z2fkfX) | 2:51 |
-| 38 | [Again \- '24 \(Extended\)](https://open.spotify.com/track/6oVbSKStbiR0cV0WJsq2ru) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Again \- '24 \(Extended\)](https://open.spotify.com/album/7c3mYHsIH0WKBlNVY0r9qy) | 2:10 |
+| 38 | [Again \(‘24\) Extended](https://open.spotify.com/track/6oVbSKStbiR0cV0WJsq2ru) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Again \(‘24\) Extended](https://open.spotify.com/album/7c3mYHsIH0WKBlNVY0r9qy) | 2:10 |
 | 39 | [Crossfaded](https://open.spotify.com/track/6IZ9zRj9hKmQQGaYkRxioA) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [Crossfaded](https://open.spotify.com/album/3oTgCAHMTZs9Nu298dAj8S) | 2:08 |
 | 40 | [Put You On](https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 2:46 |
 | 41 | [IN YOUR EYES](https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 |

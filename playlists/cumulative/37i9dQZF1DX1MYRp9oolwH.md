@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Jack
+> Bringing out the best of latest love tracks<br/>Cover : Nari Nari Naduma Murari
 
-285 songs - 18 hr 28 min
+286 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Daachekodhi Prema \(From "Laggam Time"\)](https://open.spotify.com/track/0UZH69cnEeyi2VXjw5utbp) | [Pavan](https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Mahesh Poloju](https://open.spotify.com/artist/37Q1srovPmgWP9DvfYpe5i) | [Daachekodhi Prema \(From "Laggam Time"\)](https://open.spotify.com/album/4rbXPlK0fUfTVUPA51sBQz) | 3:56 | 2025-02-27 |  |
 | [Danger Pilla](https://open.spotify.com/track/4kouboIMeUzyGc1jXbUxet) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Extra \- Ordinary Man](https://open.spotify.com/album/6cjnJoGXjx3ITSuqug5xbo) | 4:26 | 2023-08-02 | 2025-02-01 |
 | [Dappukotti Cheppukona](https://open.spotify.com/track/7mPOS5KRp734Mc9LxB3TfZ) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Bhoothaddam Bhaskar Narayana](https://open.spotify.com/album/5Xb3QbKLMWwDxmx9fpQgbI) | 4:42 | 2023-03-01 | 2023-06-20 |
+| [Darsanamey \(From "Nari Nari Naduma Murari"\)](https://open.spotify.com/track/60puehJxKv05JPITtHLvAc) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Darsanamey \(From "Nari Nari Naduma Murari"\)](https://open.spotify.com/album/3Fa85cAkVuB6nc1yWAyAUA) | 4:01 | 2025-04-16 |  |
 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 | 2023-01-30 | 2023-11-07 |
 | [Dhada Dhada](https://open.spotify.com/track/2AvlqNNJdRrfRhS9GoaL48) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [The Warriorr](https://open.spotify.com/album/5YHLMRNyLqmIMF6z0FUdsQ) | 4:06 | 2022-06-04 | 2023-02-21 |
 | [Dheemthanana](https://open.spotify.com/track/3dPHu4WuOSn3zw4udpBBNv) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1CYUy4WQ2yXvt7OV0ANIbs) | 3:39 | 2022-10-10 | 2023-04-25 |
@@ -291,7 +292,7 @@
 | [Yedo Yedo Maaya \(From "Bhimaa"\)](https://open.spotify.com/track/2LVsSLBBcf75ORYtRcYIO9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO) | [Yedo Yedo Maaya \(From "Bhimaa"\)](https://open.spotify.com/album/4J1h8xIARJ6El2OREJ8hnI) | 3:21 | 2024-02-09 | 2024-04-19 |
 | [Yedo Yedo Maaya \(From "Bhimaa"\)](https://open.spotify.com/track/1QBTZy7E6aLKQFuyimNn0m) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Yedo Yedo Maaya \(From "Bhimaa"\)](https://open.spotify.com/album/3O58tTvMyhvd9LYjNDansR) | 3:21 | 2024-02-09 | 2025-02-20 |
 | [Yedurangula Vaana](https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [18 Pages](https://open.spotify.com/album/6DYN9cn9dlRY1wvhPJsHHI) | 4:12 | 2022-12-12 | 2023-10-12 |
-| [Yegire Manasule \(From "Mechanic Rocky"\)](https://open.spotify.com/track/72YNM7C4o8IUCfX8FAsbW5) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Yegire Manasule \(From "Mechanic Rocky"\)](https://open.spotify.com/album/4lkCl4dlT66ulvuMa4ul8W) | 1:30 | 2025-01-31 |  |
+| [Yegire Manasule \(From "Mechanic Rocky"\)](https://open.spotify.com/track/72YNM7C4o8IUCfX8FAsbW5) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Yegire Manasule \(From "Mechanic Rocky"\)](https://open.spotify.com/album/4lkCl4dlT66ulvuMa4ul8W) | 1:30 | 2025-01-31 | 2025-04-17 |
 | [Yemaiundacho](https://open.spotify.com/track/3S7IadsjeS0DXkAaHSREkM) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Yemaiundacho](https://open.spotify.com/album/2QfB98RhYr6Y3YqwK5tbFx) | 5:25 | 2022-03-11 | 2023-02-21 |
 
 \*This playlist was first scraped on 2023-02-14. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-387 songs - 17 hr 28 min
+388 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Something Thoughtful](https://open.spotify.com/track/1P3yN1JmCx1115So4ZjakD) | [Steve Harris](https://open.spotify.com/artist/6O4Mp6UzqdDpXSVA3tUHTK) | [Something Thoughtful](https://open.spotify.com/album/43VTsihYgVaioDWqlpPEjo) | 2:39 | 2024-12-10 |  |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-09-16 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-05-13 |  |
+| [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 | 2025-04-16 |  |
 | [South Side](https://open.spotify.com/track/0SajjB6LU6j4sLCFc4dGgP) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [South Side](https://open.spotify.com/album/0WOlYMDfxVZrV4tnjnwCIb) | 2:51 | 2024-11-20 |  |
 | [Square One](https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:16 | 2022-05-13 | 2024-04-06 |
 | [Starting Over](https://open.spotify.com/track/5Nd54oYpiYxUh3bQcT9PtE) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Starting Over](https://open.spotify.com/album/6h8H91TDC4VG1G10ci3zlq) | 1:52 | 2022-05-13 | 2022-06-10 |

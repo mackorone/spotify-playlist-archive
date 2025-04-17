@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ JIVEBOMB.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,826 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,867 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 97 | [Kingdom](https://open.spotify.com/track/548QJ0CSvCYHUfHmx7L9VN) | [AWOL](https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U) | [Kingdom](https://open.spotify.com/album/74YG8EwAj4KnJtLmkwYKuZ) | 3:02 |
 | 98 | [Be Here Now](https://open.spotify.com/track/1RNjFGObQrH5jkA3AhHtSd) | [You Should Be With Us](https://open.spotify.com/artist/2XIR40pw8RaCYA8nGukSPK) | [In Plain Sight](https://open.spotify.com/album/29Opx7ISsEQyOfXBzgr6T4) | 2:13 |
 | 99 | [Positions of Power](https://open.spotify.com/track/1xT9m6qJL4FbuoiNMB3Au5) | [Skullpresser](https://open.spotify.com/artist/074HajIHsqL6ax3y72BtN9) | [Positions of Power](https://open.spotify.com/album/4IbPhWqkRy3E5fCr1saj1H) | 1:40 |
-| 100 | [Useless](https://open.spotify.com/track/4GMoHZN5FNKvkGTu6Zj2Vn) | [The Chain](https://open.spotify.com/artist/4OlOugebwSAuVRo8Pl6stq) | [Useless](https://open.spotify.com/album/0kr8smucpCjp8zrZXsqV37) | 1:46 |
+| 100 | [Useless](https://open.spotify.com/track/4GMoHZN5FNKvkGTu6Zj2Vn) | [The Chain](https://open.spotify.com/artist/6SsQ6BE9yimzChcbNxY29U) | [Useless](https://open.spotify.com/album/0kr8smucpCjp8zrZXsqV37) | 1:46 |
 
 Snapshot ID: `Z+9ZZAAAAAAVm/JhrLURUrCwsON7eInp`

@@ -1,13 +1,37 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 237946,
+  "num_followers": 237956,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/e6gAAAAABHFkr+mkhbJk1zNmBMkLUy",
+  "snapshot_id": "Z/+M1wAAAAAeHENR8NMjImX+8/R0+3xc",
   "tracks": [
+    {
+      "added_at": "2025-04-16 10:56:23",
+      "album": {
+        "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
+        "url": "https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
+        }
+      ],
+      "duration_ms": 322492,
+      "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
+      "url": "https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP"
+    },
     {
       "added_at": "2025-04-10 12:33:04",
       "album": {

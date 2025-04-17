@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 579,
+  "num_followers": 580,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/xQAAAAAAAf4drkp7fSaeQHeyJW4yXL",
+  "snapshot_id": "Z/2hgAAAAADJljOCnW6cbHXxRUEbYTG9",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 209655,
-      "name": "Murderous Tendencies",
-      "url": "https://open.spotify.com/track/7e2dyHP03pkwPpHF9EEaTJ"
+      "duration_ms": 194430,
+      "name": "No Pun Intended",
+      "url": "https://open.spotify.com/track/260SAzinvufrYooPB7z5ZI"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 194430,
-      "name": "No Pun Intended",
-      "url": "https://open.spotify.com/track/260SAzinvufrYooPB7z5ZI"
+      "duration_ms": 209655,
+      "name": "Murderous Tendencies",
+      "url": "https://open.spotify.com/track/7e2dyHP03pkwPpHF9EEaTJ"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 185027,
-      "name": "Jack Frost",
-      "url": "https://open.spotify.com/track/0dhBMRNxWrBZ6hmZXSC2lT"
+      "duration_ms": 185806,
+      "name": "Formal Invite",
+      "url": "https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Formal Invite",
-      "url": "https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0"
+      "duration_ms": 185027,
+      "name": "Jack Frost",
+      "url": "https://open.spotify.com/track/0dhBMRNxWrBZ6hmZXSC2lT"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 194355,
-      "name": "You Ain't No Menace",
-      "url": "https://open.spotify.com/track/1CzgJLPQmVCnCxtprKmKgA"
+      "duration_ms": 204497,
+      "name": "Scrabble",
+      "url": "https://open.spotify.com/track/63oUxKSMNovNJiLxgrSmWU"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Craven N 2",
+        "url": "https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Lapriy\u00e8",
+      "url": "https://open.spotify.com/track/5603DVqfPRpYisiVrU7crR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conway Remixes 1 & 2",
         "url": "https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 170286,
       "name": "212",
       "url": "https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dump Gawd: Shot Clock King,Vol. 2",
-        "url": "https://open.spotify.com/album/7Egv49aLCPCVJfjQvYL85x"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Shot Clock Legend",
-      "url": "https://open.spotify.com/track/40X7YBIt6WB8N00fAgnbeL"
     },
     {
       "added_at": null,
@@ -903,22 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 2",
-        "url": "https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI"
+        "name": "Dump Gawd: Shot Clock King,Vol. 2",
+        "url": "https://open.spotify.com/album/7Egv49aLCPCVJfjQvYL85x"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
         },
         {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 183053,
-      "name": "Lapriy\u00e8",
-      "url": "https://open.spotify.com/track/5603DVqfPRpYisiVrU7crR"
+      "duration_ms": 137142,
+      "name": "Shot Clock Legend",
+      "url": "https://open.spotify.com/track/40X7YBIt6WB8N00fAgnbeL"
     },
     {
       "added_at": null,

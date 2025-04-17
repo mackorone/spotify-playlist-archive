@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ian Lucas & Q\u00b4 Lokura.",
-  "num_followers": 753505,
+  "num_followers": 753541,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
+        "name": "Se Me Olvida",
+        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 167285,
+      "name": "Se Me Olvida",
+      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
         "name": "ME DUELE TU TRAICI\u00d3N",
         "url": "https://open.spotify.com/album/30DgBlS7pFZFRnkbum26E8"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 212027,
       "name": "ME DUELE TU TRAICI\u00d3N",
       "url": "https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
-        "name": "Se Me Olvida",
-        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 167285,
-      "name": "Se Me Olvida",
-      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -395,42 +395,6 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "La Muela - LBC",
-        "url": "https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Como Lo Hizo? - En Vivo",
-      "url": "https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
-        "name": "Cuarteto Caracter\u00edstico (A2000)",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 251280,
-      "name": "Que Ironia",
-      "url": "https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b"
       },
@@ -451,6 +415,42 @@
       "duration_ms": 170580,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/1F4r99Fjx0gh3TlJPte2M3"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 251280,
+      "name": "Que Ironia",
+      "url": "https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
+        "name": "La Muela - LBC",
+        "url": "https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Como Lo Hizo? - En Vivo",
+      "url": "https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/6gEwNqWEiYAWO5ownctwQv"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 155990,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/6GCDZ6Y0sk1D4pZBxQyfLf"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
         "name": "No Podr\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/7nGV5495dOzVLdpHGmWlla"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 272733,
       "name": "No Podr\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/3k66XGVOQPKdwlQo8EtZFF"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
-        "name": "Tal Para Cual",
-        "url": "https://open.spotify.com/album/6gEwNqWEiYAWO5ownctwQv"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 155990,
-      "name": "Tal Para Cual",
-      "url": "https://open.spotify.com/track/6GCDZ6Y0sk1D4pZBxQyfLf"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 185844,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
         "name": "Olvidarte de Mi Jamas Podras",
         "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "Te Suena?",
-        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Mi Cama No Habla",
-      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
         "name": "El No Va A Venir (En Vivo)",
         "url": "https://open.spotify.com/album/3YN2Q3RG3maFaoCkYwgl5U"
       },
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3"
+        "name": "Te Suena?",
+        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
       },
       "artists": [
         {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
         }
       ],
-      "duration_ms": 185844,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ"
+      "duration_ms": 209453,
+      "name": "Mi Cama No Habla",
+      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "La \u00daltima Granada (DQV Premium)",
-        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "La \u00daltima Granada (DQV Premium)",
-      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
         "name": "Fiesta Inolvidable Con La Barra",
         "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 245000,
       "name": "La Cita (La Carta)",
       "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
+        "name": "La \u00daltima Granada (DQV Premium)",
+        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "La \u00daltima Granada (DQV Premium)",
+      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "Libertad Provisoria",
-        "url": "https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Libertad Provisoria",
-      "url": "https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
         "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
         "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
+        "name": "Te extra\u00f1o",
+        "url": "https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 183502,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
         "name": "Trilog\u00eda: 1er acto",
         "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "Te extra\u00f1o",
-        "url": "https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b"
+        "name": "A Toda Fiesta",
+        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 183502,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4"
+      "duration_ms": 208906,
+      "name": "Amor Infiel",
+      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -1195,34 +1195,18 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "A Toda Fiesta",
-        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
+        "name": "Libertad Provisoria",
+        "url": "https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Amor Infiel",
-      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
-        "name": "Dos Amantes",
-        "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
-      },
-      "artists": [
-        {
-          "name": "Tyago Griffo",
-          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
-        }
-      ],
-      "duration_ms": 174140,
-      "name": "Respetemos el duelo",
-      "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
+      "duration_ms": 177250,
+      "name": "Libertad Provisoria",
+      "url": "https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -1243,6 +1227,22 @@
       "duration_ms": 150764,
       "name": "Que Te Vuelva Amor",
       "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
+        "name": "No me restes (En Vivo)",
+        "url": "https://open.spotify.com/album/72JhIBL4vCHIPJTyJq0mFW"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "No me restes - En Vivo",
+      "url": "https://open.spotify.com/track/2IahAkegVhDZOc2agK8cGj"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "Potra Salvaje (En Vivo)",
-        "url": "https://open.spotify.com/album/40E1VjYtqDikeIF3xeKCSx"
+        "name": "Dos Amantes",
+        "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
         }
       ],
-      "duration_ms": 234754,
-      "name": "Potra Salvaje - En Vivo",
-      "url": "https://open.spotify.com/track/24tH8rauLX2iFWaG7LmtfK"
+      "duration_ms": 174140,
+      "name": "Respetemos el duelo",
+      "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -1331,42 +1327,22 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "Princesa (En Vivo)",
-        "url": "https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm"
+        "name": "Potra Salvaje (En Vivo)",
+        "url": "https://open.spotify.com/album/40E1VjYtqDikeIF3xeKCSx"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         },
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 170062,
-      "name": "Princesa - En Vivo",
-      "url": "https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
-        "name": "No me restes (En Vivo)",
-        "url": "https://open.spotify.com/album/72JhIBL4vCHIPJTyJq0mFW"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "No me restes - En Vivo",
-      "url": "https://open.spotify.com/track/2IahAkegVhDZOc2agK8cGj"
+      "duration_ms": 234754,
+      "name": "Potra Salvaje - En Vivo",
+      "url": "https://open.spotify.com/track/24tH8rauLX2iFWaG7LmtfK"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -1407,6 +1383,30 @@
       "duration_ms": 187022,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/5Gr7v3mNpqN0ruxUpRstst"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
+        "name": "Princesa (En Vivo)",
+        "url": "https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 170062,
+      "name": "Princesa - En Vivo",
+      "url": "https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "No Se Vivir Si No Es Contigo",
-        "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 202149,
-      "name": "No Se Vivir Si No Es Contigo",
-      "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
         "name": "Claro Que Lo Hice (En vivo)",
         "url": "https://open.spotify.com/album/6ZnNCbnDFX72KUG89gZl9G"
       },
@@ -1507,6 +1487,26 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
+        "name": "No Se Vivir Si No Es Contigo",
+        "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 202149,
+      "name": "No Se Vivir Si No Es Contigo",
+      "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
         "name": "\u00bfQui\u00e9n te dijo?",
         "url": "https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 165546,
       "name": "\u00bfQui\u00e9n te dijo?",
       "url": "https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
+        "name": "Una Foto",
+        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 143544,
+      "name": "Una Foto",
+      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "Una Foto",
-        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 143544,
-      "name": "Una Foto",
-      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
         "name": "Ya No Llora (En Vivo)",
         "url": "https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
-        "name": "Despechada (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 172585,
-      "name": "Despechada (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
       },
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2025-04-11 03:00:05",
       "album": {
+        "name": "Despechada (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 172585,
+      "name": "Despechada (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
         "name": "No Es Lo Que Dices",
         "url": "https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 192103,
       "name": "No Es Lo Que Dices",
       "url": "https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9"
+    },
+    {
+      "added_at": "2025-04-11 03:00:05",
+      "album": {
+        "name": "El Trato",
+        "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 191177,
+      "name": "El Trato",
+      "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
     },
     {
       "added_at": "2025-04-11 03:00:05",
@@ -1699,26 +1719,6 @@
       "duration_ms": 236920,
       "name": "Maldito Coche Negro",
       "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
-    },
-    {
-      "added_at": "2025-04-11 03:00:05",
-      "album": {
-        "name": "El Trato",
-        "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 191177,
-      "name": "El Trato",
-      "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
     },
     {
       "added_at": "2025-04-11 03:00:05",

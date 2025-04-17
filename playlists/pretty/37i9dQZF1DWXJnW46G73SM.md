@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,293 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,328 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [يا قلبي مين](https://open.spotify.com/track/4mcgWfZFzMIy27RJqVjvkH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يا قلبي مين](https://open.spotify.com/album/34YHpsLorhfJDkBPS2bEyk) | 3:02 |
-| 2 | [Fl Blacona](https://open.spotify.com/track/3jkBcbYVToYSqPcnsuxcF8) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Fl Blacona](https://open.spotify.com/album/3bD7mAr7GvAIoBLuucpNVV) | 2:29 |
-| 3 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
+| 1 | [Unfollow](https://open.spotify.com/track/59U7FjAR2IKydAQihRZRLz) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Unfollow](https://open.spotify.com/album/0gFGQcdFweNEL92PTek3UN) | 3:03 |
+| 2 | [يا قلبي مين](https://open.spotify.com/track/4mcgWfZFzMIy27RJqVjvkH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يا قلبي مين](https://open.spotify.com/album/34YHpsLorhfJDkBPS2bEyk) | 3:02 |
+| 3 | [Fl Blacona](https://open.spotify.com/track/3jkBcbYVToYSqPcnsuxcF8) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Fl Blacona](https://open.spotify.com/album/3bD7mAr7GvAIoBLuucpNVV) | 2:29 |
 | 4 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
 | 5 | [بشوفك قصادي](https://open.spotify.com/track/7b564jClFSdlTwPAwcPKjc) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بشوفك قصادي](https://open.spotify.com/album/13TRxBimbaRUC07aLO9shc) | 3:36 |
 | 6 | [هتجيلي](https://open.spotify.com/track/5W5ap2rr1un4A3h67LMS0s) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [هتجيلي](https://open.spotify.com/album/388ZU9M3EcHu2N9nE94pKc) | 2:21 |
-| 7 | [Gowak 3alam \- ⁠جواك عالم](https://open.spotify.com/track/77Bl3uYpu80v7kcyk8AItD) | [National Bank of Egypt](https://open.spotify.com/artist/70BqpVrIq2RVr6HVPQXe4m), [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Gowak 3alam \- جواك عالم](https://open.spotify.com/album/6fiJH4OWo26RKvS03x9s9o) | 3:09 |
-| 8 | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/track/65NbzRrl0uqc9B4a14gqqd) | [e& Egypt](https://open.spotify.com/artist/1WSXhu4UrkuG4NP3jB13YP) | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/album/6TcrDv7jjjQ1YuLV5WFwLg) | 3:13 |
-| 9 | [Ya Nogoum](https://open.spotify.com/track/6u5rJxk1iUEtETfc6e4vi0) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ) | [Ya Nogoum](https://open.spotify.com/album/1tkLpHsACKO2C0wvkCEpAq) | 3:31 |
+| 7 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
+| 8 | [Gowak 3alam \- ⁠جواك عالم](https://open.spotify.com/track/77Bl3uYpu80v7kcyk8AItD) | [National Bank of Egypt](https://open.spotify.com/artist/70BqpVrIq2RVr6HVPQXe4m), [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Gowak 3alam \- جواك عالم](https://open.spotify.com/album/6fiJH4OWo26RKvS03x9s9o) | 3:09 |
+| 9 | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/track/65NbzRrl0uqc9B4a14gqqd) | [e& Egypt](https://open.spotify.com/artist/1WSXhu4UrkuG4NP3jB13YP) | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/album/6TcrDv7jjjQ1YuLV5WFwLg) | 3:13 |
 | 10 | [سوق القلوب](https://open.spotify.com/track/1HhFsLjwzd9faOqV4dlRbN) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [سوق القلوب](https://open.spotify.com/album/4TkJj7W8EouKlgyS1ufx6V) | 4:22 |
 | 11 | [Kalam Mayenfa3sh A2olo](https://open.spotify.com/track/7kuz5o6qwofLKOGfT00iVB) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI), [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [Kalam Mayenfa3sh A2olo](https://open.spotify.com/album/3jB8HZauYEBGXiZ4S5Pxj3) | 4:05 |
 | 12 | [Etklm Kol Youm Youmin](https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Etklm Kol Youm Youmin](https://open.spotify.com/album/5NOv6doSj36FT1NhOQkjD3) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [Kont Neseetak](https://open.spotify.com/track/5ATDSPobTRIJzKr4C1Zud2) | [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau), [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Bewshin: Disc 1](https://open.spotify.com/album/5QbxcpcMw1iENALoYzkiV9) | 2:49 |
 | 75 | [Wahashni Sotek](https://open.spotify.com/track/5HBDSqKkMTzjywYOXJemuv) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Mabaetsh Akhaf Part 2](https://open.spotify.com/album/0UzLOTZMuv6Xri7lzmrQXT) | 3:24 |
 
-Snapshot ID: `Z/goQwAAAAAY6IHVokYS1vhtO6TZe00p`
+Snapshot ID: `Z/+V2AAAAAApOZFi4lJAs08B2iNJ+I8h`

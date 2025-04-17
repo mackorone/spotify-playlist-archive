@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NqKEeHOjzud83Vdktcp6A.md) - [plain]
 
 > An attempted algorithmic introduction to Furry based on math and listening data from the Large Genre Collider\. For even more, check out <a href="spotify:playlist:7o9a21HReswib5OcWqGNFK">The Sound of Furry</a>.
 
-[Particle Detector](https://open.spotify.com/user/particleintroductor) - 24 likes - 50 songs - 2 hr 40 min
+[Particle Detector](https://open.spotify.com/user/particleintroductor) - 23 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

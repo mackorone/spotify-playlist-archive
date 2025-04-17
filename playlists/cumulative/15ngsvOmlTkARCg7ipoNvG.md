@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,964 songs - 1 day 15 hr 51 min
+1,966 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1114,6 +1114,7 @@
 | [Morning Lightness](https://open.spotify.com/track/6Wvbd6YwmIbpMgEkFSWUT7) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Morning Lightness](https://open.spotify.com/album/7eHkXsBm01akRi6XX6qfqi) | 1:00 | 2025-03-08 |  |
 | [Morning Prayer](https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Morning Prayer](https://open.spotify.com/album/3VAb43boYj5U6f4aCty13z) | 3:24 | 2022-01-12 | 2024-02-13 |
 | [Morning Sky](https://open.spotify.com/track/62knhs63ci7hYkDpibz3JJ) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Morning Sky](https://open.spotify.com/album/1F9xNdcF0zVE2ZG3fYma6L) | 1:00 | 2023-10-02 |  |
+| [Morning Star](https://open.spotify.com/track/6bDOa4jinu3iAjD88tbwv4) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Morning Star](https://open.spotify.com/album/06bLLXMpq3yL4rOiKpU2b0) | 1:00 | 2025-04-16 |  |
 | [Morning Sun](https://open.spotify.com/track/4KjQEQRtB5L5QXjVBMmQzd) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Morning Sun](https://open.spotify.com/album/3p41gPoTXPhDffJ6M5PXTM) | 1:00 | 2024-01-25 | 2024-02-13 |
 | [Mountain Dreaming Arr\. For Cello](https://open.spotify.com/track/5ICw6zequAvVp3wiEu1APj) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Mountain Dreaming](https://open.spotify.com/album/4MHw4NrRyNQVlFIUgN6PKU) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Mountain Dreaming Arr\. For Strings](https://open.spotify.com/track/6JK0Upv7KB8gnb6hab0xc8) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Mountain Dreaming](https://open.spotify.com/album/4MHw4NrRyNQVlFIUgN6PKU) | 1:00 | 2024-02-09 | 2024-02-13 |
@@ -1449,6 +1450,7 @@
 | [Sand Arr\. For Cello And Felt Piano](https://open.spotify.com/track/14ii5C03mrEyYoOFlVsOcL) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sand Arr\. For Cello And Felt Piano](https://open.spotify.com/album/3CVFHbJXPmIXtvQd5BvQCn) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Sand Castles](https://open.spotify.com/track/1zpQvJV1pWZAWgUrGHbxIA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Near](https://open.spotify.com/album/4gEyJJ0yLUrkTz0WAz1TkO) | 1:22 | 2022-01-15 |  |
 | [Sanguine](https://open.spotify.com/track/14iPgFaZ1l9JA3MtJOm9zj) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sanguine](https://open.spotify.com/album/6gc53rn3psv7QAocpK0OQB) | 1:00 | 2024-12-29 |  |
+| [Sapphire](https://open.spotify.com/track/1vxYRi1Sl4oFwIzWEahUGw) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Sapphire](https://open.spotify.com/album/21uxRdPryxPfSXjrINn2UV) | 1:00 | 2025-04-16 |  |
 | [Saturday Night Stars](https://open.spotify.com/track/6bfRhRKJjmuKPQLi7k6Oph) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace](https://open.spotify.com/album/79RFghU00Bo4qMQOfx8ygk) | 1:08 | 2022-01-12 |  |
 | [Saturday Sunrise](https://open.spotify.com/track/2wTuyBCFGZtUn0Wm5rQBrM) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Saturday Sunrise](https://open.spotify.com/album/4V2lNdfrQB9Mu0R6NfIAFj) | 2:01 | 2022-05-20 | 2024-02-13 |
 | [Saturn](https://open.spotify.com/track/2ss7QQYRcRKnbhSWFUWJQT) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:11 | 2022-01-12 |  |

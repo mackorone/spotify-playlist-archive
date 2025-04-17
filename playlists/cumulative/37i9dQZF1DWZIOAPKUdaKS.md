@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-801 songs - 1 day 10 hr 42 min
+802 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [Watching Her Go](https://open.spotify.com/track/0PDORoWxzxbquaPnFGcE8I) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Watching Her Go](https://open.spotify.com/album/2fqyRr9O1bnPeLgoTE8jbu) | 2:47 | 2022-11-24 |  |
 | [We Never Know](https://open.spotify.com/track/4IiRsVQYU8d8RTZuwBIkJR) | [George Eardley\-Wilmot](https://open.spotify.com/artist/1oltNwwT7845RLRc2nB4A6) | [We Never Know](https://open.spotify.com/album/0xZQBNftw82HG8hb7rVujJ) | 2:27 | 2022-11-24 | 2024-11-07 |
 | [We Will Last](https://open.spotify.com/track/37lSjTwceAafdpm011tsGb) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [We Will Last](https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ) | 2:28 | 2022-04-07 | 2025-04-10 |
+| [What Time Reveals](https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [What Time Reveals](https://open.spotify.com/album/1yTPbfXRRusyFpv8vfuqde) | 2:50 | 2025-04-16 |  |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-12-07 | 2024-05-23 |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-08-10 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 | 2022-11-25 |

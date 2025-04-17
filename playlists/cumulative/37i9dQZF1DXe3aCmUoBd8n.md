@@ -4,13 +4,13 @@
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-189 songs - 11 hr 1 min
+190 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3a Touw2it Albi](https://open.spotify.com/track/5NGKQ0PYPb5usc3eu3Meld) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [3a Touw2it Albi](https://open.spotify.com/album/6scimqQB3srAxGoFH5iKF6) | 3:30 | 2024-12-21 |  |
 | [3al Helwe Wel Murra](https://open.spotify.com/track/5RVYZDWbdfdg4Pw9ZOSPLh) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [3al Helwe Wel Murra](https://open.spotify.com/album/1X1WKzOAOjLunu3MwoVHAl) | 3:34 | 2022-05-04 | 2022-07-17 |
-| [Aal Morra](https://open.spotify.com/track/6DbC4WjeVh5SHo2l86eyis) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [Aal Morra](https://open.spotify.com/album/2hfjuBJXE3NJgiHBKdXYiz) | 3:05 | 2023-06-13 |  |
+| [Aal Morra](https://open.spotify.com/track/6DbC4WjeVh5SHo2l86eyis) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [Aal Morra](https://open.spotify.com/album/2hfjuBJXE3NJgiHBKdXYiz) | 3:05 | 2023-06-13 | 2025-04-17 |
 | [Aal Sarii](https://open.spotify.com/track/5zzxjuMJkqSFlBCAeIEE6Y) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aal Sarii](https://open.spotify.com/album/60TwM5Q2pT4ZQTn4SXrM1a) | 3:10 | 2022-05-04 | 2023-03-14 |
 | [Aam Faker Fiya](https://open.spotify.com/track/03QwVOvP2mrb870634I6yi) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Aam Faker Fiya](https://open.spotify.com/album/4F3ad3v2zB6nNri9P0rpke) | 2:48 | 2023-05-19 | 2024-11-05 |
 | [Aam Ontofi](https://open.spotify.com/track/3p2PyYFJ84nakiP2ZjnATM) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Aam Ontofi](https://open.spotify.com/album/52f8giij6iu8vMFnhMaZWZ) | 2:59 | 2023-01-05 | 2024-10-13 |
@@ -188,6 +188,7 @@
 | [كلو وهم](https://open.spotify.com/track/3XSlbOYVONZWgHUYsyv1kn) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [كلو وهم](https://open.spotify.com/album/0zVuys4kG4cSCH5TXPuv5H) | 3:22 | 2024-02-09 | 2024-04-19 |
 | [لسا معاكي](https://open.spotify.com/track/41QZQmkjJdoeDs1tXvHkTe) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [لسا معاكي](https://open.spotify.com/album/4YjpY7ewK48QYGBUMHoAoF) | 3:24 | 2022-05-04 | 2022-06-21 |
 | [لما طل](https://open.spotify.com/track/1XYVKPZq2gDkwBbi3iX8Dj) | [Mohanad Zaiter](https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq) | [لما طل](https://open.spotify.com/album/6bL3EXjucLTJ1pmcCyy6dP) | 3:04 | 2024-10-08 |  |
+| [ما تيجي نركن الزعل](https://open.spotify.com/track/6SV1CubigxqGfvoSU6uCEV) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [ما تيجي نركن الزعل](https://open.spotify.com/album/032M5b75DmWMAnquK16IGN) | 3:08 | 2025-04-16 |  |
 | [منّي وفي](https://open.spotify.com/track/4eTNDn35N9I9SX7B1eNg0M) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [شايفه فيك](https://open.spotify.com/album/6ylllDswM090TsaEqRXsci) | 3:00 | 2023-01-05 | 2024-04-19 |
 | [مُهرة \- MOHRA](https://open.spotify.com/track/4V5CPi2Z1amClPyxT24fgE) | [Ismaeil Tamr](https://open.spotify.com/artist/5DzUF6vIJJsWlTX6HgPD6v) | [مُهرة \- MOHRA](https://open.spotify.com/album/07tBDn21opfLJwRBn0O7Sm) | 3:19 | 2024-10-08 |  |
 | [هو انت مين](https://open.spotify.com/track/1qGEGcxFCJ0LhBCBSeZmqO) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 4:41 | 2024-10-30 |  |

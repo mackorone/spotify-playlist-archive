@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: CHOR 鍾楚翹 & dai'zy, Poey Fung,  murmurcup
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,136 likes - 117 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,137 likes - 117 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,13 +4,14 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-462 songs - 1 day 23 hr 40 min
+463 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 | 2019-08-02\* | 2021-05-28 |
 | [5 Dollar Shake](https://open.spotify.com/track/7sOQGEBjsGKjlocniTTWR4) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [Hesselberg](https://open.spotify.com/artist/3hXJ0PkWmY7h6uwTMzzaGM) | [Yoh Ah Ah](https://open.spotify.com/album/3hfY5TLGfZ13qqzvo6VViK) | 7:49 | 2021-10-30 | 2022-07-28 |
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-01-15 |  |
+| [A Paga](https://open.spotify.com/track/5FfwpPTAd99WdgJ22NxMio) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt) | [A Paga](https://open.spotify.com/album/1aMcDRyZrFLG9ZbZfXY7w3) | 2:38 | 2025-03-28 |  |
 | [Abbebe \(Sainte Vie Remix\)](https://open.spotify.com/track/3WhxTFzkvHvrhwVRxy1mIW) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [BLD Remixes A](https://open.spotify.com/album/7xxYP777kjMkGKUDzcfnCt) | 7:16 | 2019-08-02\* | 2019-09-20 |
 | [African Vibes](https://open.spotify.com/track/5c3zezVyblXLdvMWPUR8rI) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [African Vibes](https://open.spotify.com/album/2GlcbsPeEAsEBsUo57Duje) | 5:46 | 2019-08-02\* | 2020-01-04 |
 | [Afro Sambroso \- Rampa Version](https://open.spotify.com/track/23IBJoNkMZNL286OoJobc9) | [Lokkhi Terra](https://open.spotify.com/artist/4zKtfAo8kdCOsOn7uVrh2u), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc), [Francesco Chiocci](https://open.spotify.com/artist/35k3bqKmhJDhThkCQZH6Ft), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Version](https://open.spotify.com/album/5PpbFirZsHSSonZhxWx500) | 5:29 | 2023-09-01 | 2023-11-16 |
@@ -392,7 +393,7 @@
 | [Submarine](https://open.spotify.com/track/1ZBMsUK8eMVFIN9EVP31Sb) | [Zoe Reijue](https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF) | [Submarine](https://open.spotify.com/album/4qdvWEdwojNFOGnTkcQ086) | 6:22 | 2023-11-14 | 2023-12-27 |
 | [Sumeru](https://open.spotify.com/track/2gL3yeSrVcdgYUgebT6TKN) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Kaybola \(Deluxe Version\)](https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm) | 4:57 | 2022-06-14 | 2024-04-19 |
 | [Sumeru](https://open.spotify.com/track/4xFCGg8grxbA3pGYrX1Mcp) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Kaybola](https://open.spotify.com/album/6PNkN7oTTfp0tHN7ZFBCZK) | 4:57 | 2020-02-25 | 2022-07-29 |
-| [Sunrise Generation](https://open.spotify.com/track/4m98UJ9M2jC3S3qUhJKy3z) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Sunrise Generation](https://open.spotify.com/album/2CEXDHvO85mc6SFRz8o43g) | 3:38 | 2024-11-15 |  |
+| [Sunrise Generation](https://open.spotify.com/track/4m98UJ9M2jC3S3qUhJKy3z) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Sunrise Generation](https://open.spotify.com/album/2CEXDHvO85mc6SFRz8o43g) | 3:38 | 2024-11-15 | 2025-04-17 |
 | [Sísamo](https://open.spotify.com/track/5scy2sjWAZWgTyPRvPUCRg) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Antía Ameixeiras](https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh) | [Barullo](https://open.spotify.com/album/0DX3e9I4Y5xz0HwGEawcLF) | 3:26 | 2024-10-04 | 2025-03-21 |
 | [Sísamo](https://open.spotify.com/track/0KqAhASPqyxtENdx5cjcZ9) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Antía Ameixeiras](https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh) | [Sísamo](https://open.spotify.com/album/78o146Ry6KcgCDMGRyAHA3) | 3:26 | 2024-08-22 | 2024-10-05 |
 | [Take Me Back](https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk) | [Take Me Back](https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y) | 4:46 | 2020-09-26 | 2023-05-09 |

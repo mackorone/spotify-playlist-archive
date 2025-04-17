@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 5 hr 53 min
+120 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Dum i huvet](https://open.spotify.com/track/39nFgriTt9iockfxEFn9cY) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Dum i huvet](https://open.spotify.com/album/38jCy2g30Nr3x8yksQDXKb) | 2:48 | 2024-01-29 |  |
 | [dö för mig](https://open.spotify.com/track/5nazg0445VGj83DneXAGNC) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:03 | 2024-01-29 |  |
 | [Efterlyst](https://open.spotify.com/track/1yZi2RWtrDm96A26aPslyY) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Efterlyst](https://open.spotify.com/album/2txxacCQhJATjFK4Un6iTu) | 3:16 | 2024-01-29 |  |
-| [Emptied Out](https://open.spotify.com/track/2h4siYnPJwZHN8BksTmaE1) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm) | 2:59 | 2024-01-29 |  |
+| [Emptied Out](https://open.spotify.com/track/2h4siYnPJwZHN8BksTmaE1) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm) | 2:59 | 2024-01-29 | 2025-04-17 |
+| [Emptied Out](https://open.spotify.com/track/6yY9BHa8Z2BnGR6uyf6FWf) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/0eaxKGQqzlhnyB1jAX2vOS) | 2:59 | 2025-04-16 |  |
 | [end of the world](https://open.spotify.com/track/1ZoCqQEuhoOEW4PQhVDovL) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [the wind is picking up](https://open.spotify.com/album/0zo7swJcqnoxLTWvBAtl19) | 3:09 | 2025-01-28 |  |
 | [Ensam](https://open.spotify.com/track/3g9Bd3dzWumpEYS381Veiz) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ensam](https://open.spotify.com/album/4XswCp5Y7hqGCLeyAVCa8n) | 2:29 | 2024-01-29 |  |
 | [Ett steg fram](https://open.spotify.com/track/1ClnzQ78hPICTZuzBNm9VY) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [4april till 3juni](https://open.spotify.com/album/39MYpfkSuziHM3XsUPbzZh) | 2:52 | 2024-01-29 |  |
@@ -58,7 +59,8 @@
 | [Good Goodbye \(feat\. Arina Luisa\)](https://open.spotify.com/track/6OsM43kmt6IwyxyZ1990Bv) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Arina Luisa](https://open.spotify.com/artist/2ifpJqINxr10dL5D4THsCd) | [Good Goodbye \(feat\. Arina Luisa\)](https://open.spotify.com/album/3Zkz5gI9neiB8si7zXxfmN) | 2:26 | 2024-01-29 |  |
 | [grow old together](https://open.spotify.com/track/7nnVCVsEqxmctsnLdTCLZw) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:13 | 2024-01-29 |  |
 | [Gråter tillsammans över varandra](https://open.spotify.com/track/3w3Rp5tXDvr7VIEn7F5lOy) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:27 | 2024-01-29 |  |
-| [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/track/5zMt60A1g611s8v2kLSMHh) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Atlas](https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm) | 3:46 | 2024-01-29 |  |
+| [Hate This Kind of Love](https://open.spotify.com/track/4Ewxw5EgXclMxYnIPUJcXH) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Atlas](https://open.spotify.com/album/0eaxKGQqzlhnyB1jAX2vOS) | 3:46 | 2025-04-16 |  |
+| [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/track/5zMt60A1g611s8v2kLSMHh) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Atlas](https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm) | 3:46 | 2024-01-29 | 2025-04-17 |
 | [Henne](https://open.spotify.com/track/0CZaB672nWHHlTiLT4DfRV) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:37 | 2024-01-29 |  |
 | [Higher Ground](https://open.spotify.com/track/6uASqrLgGRauoqzlGsq6Hj) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:08 | 2024-01-29 |  |
 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 | 2024-01-29 |  |

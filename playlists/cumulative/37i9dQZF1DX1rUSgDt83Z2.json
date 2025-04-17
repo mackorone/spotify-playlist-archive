@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Dit Is Zo'n Dag",
+        "url": "https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207905,
+      "name": "Dit Is Zo'n Dag",
+      "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
+    },
+    {
+      "album": {
         "name": "Door En Door",
         "url": "https://open.spotify.com/album/4MM2s2BHa319dYoeSD4e9h"
       },
@@ -856,6 +874,24 @@
       "duration_ms": 161160,
       "name": "Het Midden",
       "url": "https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL"
+    },
+    {
+      "album": {
+        "name": "Tempo Giusto",
+        "url": "https://open.spotify.com/album/51hBNht7uljss0tqH7btFk"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201194,
+      "name": "Het Zou Maar Eenzaam Zijn",
+      "url": "https://open.spotify.com/track/3cL3CM89GEtdm4JsnMVkJH"
     },
     {
       "album": {
@@ -1470,7 +1506,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 158560,
       "name": "Lijn",
       "url": "https://open.spotify.com/track/0HOrDesxpndcI38kujDxei"
@@ -2848,7 +2884,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-17",
       "duration_ms": 188217,
       "name": "Zie Ik Jou Weer Morgen?",
       "url": "https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ"

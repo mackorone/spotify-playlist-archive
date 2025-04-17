@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 91955,
+  "num_followers": 91977,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "El Bestial Sonido de",
-        "url": "https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f"
-      },
-      "artists": [
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 323400,
-      "name": "Guaguanc\u00f3 Triste",
-      "url": "https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Ag\u00fazate",
         "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 381240,
       "name": "Guaguanc\u00f3 Raro",
       "url": "https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "El Bestial Sonido de",
+        "url": "https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f"
+      },
+      "artists": [
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "Guaguanc\u00f3 Triste",
+      "url": "https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "The Queen Does Her Own Thing",
-        "url": "https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Jala Jala y Boogaloo",
         "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 246453,
       "name": "Columbia's Boogaloo",
       "url": "https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "The Queen Does Her Own Thing",
+        "url": "https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 145933,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw"
     },
     {
       "added_at": "2024-07-18 20:57:58",

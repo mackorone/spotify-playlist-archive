@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ?si=KTaJSCTNR22ZbiYj7pw7IQ">Kususa</a>, <a href="https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM?si=iapJVwpGQyWqLUnU8dpMhA">Citizen Deep</a>, <a href="https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH?si=oEZwBP2ZSBCgQKbogx4qNw">Kaylow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,058 likes - 70 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,076 likes - 70 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

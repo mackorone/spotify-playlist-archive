@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-637 songs - 1 day 11 hr 21 min
+639 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,13 +226,14 @@
 | [I Shot The Sheriff](https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:39 | 2021-03-02 | 2024-04-19 |
 | [I Shot The Sheriff](https://open.spotify.com/track/71zvW0WZ0bap9gphp7Jhgp) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 4:40 | 2022-09-22 | 2023-05-14 |
 | [I Shot The Sheriff](https://open.spotify.com/track/1EB7UuUZ1KYKjRR4ZWFR2u) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Reggae Soul](https://open.spotify.com/album/7xBN2ecwiP56Dn3utfkdWn) | 4:41 | 2022-09-22 | 2022-11-13 |
-| [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 | 2021-03-02 |  |
+| [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 | 2021-03-02 | 2025-04-17 |
 | [I Was Born A Winner](https://open.spotify.com/track/5TUC42c5rsbU3ElTri4IBD) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:37 | 2022-08-18 | 2022-09-23 |
 | [I Wish You Were Here](https://open.spotify.com/track/7aHoGCuYnAcNar5i1PPQCP) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/58CUGMmOhc3zKGkSTzsnUS) | 4:27 | 2022-09-22 | 2023-09-14 |
 | [I Wish You Were Here](https://open.spotify.com/track/5eCx5098mGhOXc3xY1fbWc) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/01cPxSu0Lr5qocwgwt579N) | 4:27 | 2022-09-22 | 2024-04-19 |
 | [I Wish You Were Here](https://open.spotify.com/track/7HXcSZsNnjm5HV49Rlk7n4) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/64RwJVf6cfgzFPM9mesf9T) | 4:27 | 2021-03-02 | 2023-09-04 |
 | [I'm In the Mood for Love](https://open.spotify.com/track/4A4ZnYm48DkalkEs6FzeYq) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:32 | 2022-09-22 | 2023-11-11 |
 | [I'm in the Mood for Love \(I'm in the Mood for Ska\)](https://open.spotify.com/track/1CLMWz26XcYpwQOYXePnxX) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Festival Jump Up \(Expanded Version\)](https://open.spotify.com/album/00Or6t6oMpc51EjuYOqmtB) | 2:31 | 2022-09-22 | 2024-01-30 |
+| [I'm Still in Love](https://open.spotify.com/track/0fg0dCPd2fCYoNPoZ40h7z) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Sons of Jamaica](https://open.spotify.com/album/3SBDliOGQJ4XotoMsbEW1Z) | 3:45 | 2024-01-29 |  |
 | [I'm Still in Love](https://open.spotify.com/track/3bOVMf0QlfxX736BbANe8W) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Max: Alton Ellis](https://open.spotify.com/album/0lbF0m9uhPmc73QZLlSz9h) | 3:45 | 2022-09-22 | 2023-05-24 |
 | [I'm Still in Love](https://open.spotify.com/track/7d2h9rCEOYTWQN3zQz9LpX) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Legends: Alton Ellis](https://open.spotify.com/album/4J5PDz0V1msazHQwt7GHFV) | 3:45 | 2022-09-22 | 2024-04-19 |
 | [I'm Still In Love](https://open.spotify.com/track/28deK9e0MfxxquFOEuggvZ) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Legend](https://open.spotify.com/album/3Hwl529bRs0HTkEbweYklV) | 4:28 | 2022-08-18 | 2022-09-23 |
@@ -269,7 +270,7 @@
 | [Jamming](https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:31 | 2024-01-29 | 2024-04-19 |
 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2021-03-02 | 2024-02-10 |
 | [Jamming](https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 3:32 | 2022-09-22 | 2022-11-13 |
-| [Jamming](https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz) | 3:34 | 2021-03-02 |  |
+| [Jamming](https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz) | 3:34 | 2021-03-02 | 2025-04-17 |
 | [Java](https://open.spotify.com/track/4nCz1YGWAfKJgBiNTED0D8) | [Augustus Pablo](https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI) | [This Is Augustus Pablo](https://open.spotify.com/album/5ejEJe4Oa1crudGTbCttV9) | 2:44 | 2022-08-18 | 2022-09-23 |
 | [Johnny B\. Goode \- 2002 Remaster](https://open.spotify.com/track/5uPYEStMW3KsXnnLV7iCTw) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN), [John Benitez](https://open.spotify.com/artist/04tkc4IcAn3q0zy1C6oWBI) | [Mama Africa](https://open.spotify.com/album/6iFMsJMHQ9zqty9vnRmycq) | 4:04 | 2021-03-02 |  |
 | [Jordan River](https://open.spotify.com/track/4eg6prn32ykei9DUEitY1I) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv) | [The Max Romeo Catalog Chapter 1 \- Verse 1\-16](https://open.spotify.com/album/5yZLQSpETcUIp0v3LlGIyF) | 3:15 | 2022-09-22 | 2022-11-11 |
@@ -590,6 +591,7 @@
 | [Under Me Sleng Teng](https://open.spotify.com/track/1W5ZSRXk0gRgSxYHCNzD66) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Dread Meets Greensleeves \- A Westside Revolution](https://open.spotify.com/album/1pcux6viOp2e9Hu5GpmfYQ) | 4:07 | 2022-09-22 | 2022-11-13 |
 | [Under Me Sleng Teng](https://open.spotify.com/track/1YjBJlLZh4wwnfYZCr3jrE) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Under Me Sleng Teng](https://open.spotify.com/album/43bIT6PuC4DKlvC4iKTWHA) | 4:07 | 2022-09-22 | 2024-04-19 |
 | [Untold Stories](https://open.spotify.com/track/57m9RMS9WpcWZFkMiP3yPV) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | ['Til Shiloh \(25th Anniversary Edition\)](https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu) | 4:33 | 2022-09-22 | 2023-09-15 |
+| [Untold Stories](https://open.spotify.com/track/6Z0YMxE0W5mujDxXBNlGUN) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | ['Til Shiloh](https://open.spotify.com/album/79eaSPL2oNUgWfEW4pfX70) | 4:33 | 2024-01-29 |  |
 | [Untold Stories](https://open.spotify.com/track/7uaShxEq2kNT4wawnr7D5e) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Reggae Just Relax](https://open.spotify.com/album/3OpnY5UmPk9jKagCdIvYF5) | 4:35 | 2022-09-22 | 2022-11-13 |
 | [Untold Strories](https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [5 Decades of Jamaica's Musical Heritage](https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT) | 4:32 | 2022-09-22 | 2024-04-19 |
 | [Uptown Top Ranking](https://open.spotify.com/track/41Fv4mSDEORB66xoqUhkCm) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Total Reggae: Summer Vibes](https://open.spotify.com/album/34gjCoWruAoiinrY2llS5q) | 3:53 | 2022-08-18 | 2022-09-23 |

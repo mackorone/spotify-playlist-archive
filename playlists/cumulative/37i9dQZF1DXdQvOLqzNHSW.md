@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-778 songs - 1 day 22 hr 54 min
+779 songs - 1 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,8 +670,9 @@
 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 | 2020-12-21 | 2022-07-13 |
 | [Supermodel](https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:01 | 2020-12-21 | 2022-07-09 |
 | [Sutphin Boulevard](https://open.spotify.com/track/2NtqI3Ylig7bB36esIwYuE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 3:34 | 2023-05-25 | 2023-10-24 |
-| [swan hug \(feat\. jjared\)](https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [jjared](https://open.spotify.com/artist/2lCi1gAqy8tw0g4zEZtUxp) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 4:32 | 2023-05-25 |  |
+| [swan hug \(feat\. jjared\)](https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [jjared](https://open.spotify.com/artist/2lCi1gAqy8tw0g4zEZtUxp) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 4:32 | 2023-05-25 | 2025-04-17 |
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-07-01 | 2022-05-21 |
+| [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-02-07 |  |
 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 | 2024-05-08 |  |
 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 | 2020-12-21 | 2022-04-20 |
 | [Take the Blame so I Don't Have To](https://open.spotify.com/track/7GaQ0XyNfVEzFaGTGTNrCU) | [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2) | [Leaving](https://open.spotify.com/album/34jUAKMBHMCl3hjzb9rsut) | 3:21 | 2023-05-25 | 2023-11-18 |

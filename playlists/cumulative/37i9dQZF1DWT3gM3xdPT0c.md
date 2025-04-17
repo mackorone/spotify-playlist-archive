@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-416 songs - 17 hr 53 min
+417 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 | 2023-08-26 |
 | [Welcome Another Morning](https://open.spotify.com/track/5sGlEWMqEvNwKQZWUbsGDc) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Welcome Another Morning](https://open.spotify.com/album/60wQBZH2QIzedGgphfwBTj) | 3:04 | 2023-06-08 |  |
 | [Wetterstein](https://open.spotify.com/track/6WfdfnyXB4XRHPtdYUtMZw) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Wetterstein](https://open.spotify.com/album/0u5TdFB5G2JI6BR5bQQIs5) | 4:08 | 2023-11-24 |  |
+| [When I am Back](https://open.spotify.com/track/29gPSRzw1zOwqFY6g5YSNX) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [When I am Back](https://open.spotify.com/album/2HUta0ln0Wy5pbUsUfMhlU) | 2:39 | 2025-04-16 |  |
 | [When I'm With You](https://open.spotify.com/track/2owyKJv6AXPVSnHIPmOLsp) | [Benjamin Waverly](https://open.spotify.com/artist/4IXlJyOpO3xS2Sl7GZMUu7) | [When I'm With You](https://open.spotify.com/album/4jMcDv3EarnmcXRRTmHW3a) | 2:41 | 2022-03-04 | 2022-07-22 |
 | [When Stars Align](https://open.spotify.com/track/2NaxJZJgtEHwJvr5Dz036s) | [Elías Flores](https://open.spotify.com/artist/7HWUEipeFBHvnz4GITai8Z) | [When Stars Align](https://open.spotify.com/album/6ACxnFZNkPPYVQsaBpSQtK) | 3:05 | 2025-01-07 |  |
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-03-24 |  |

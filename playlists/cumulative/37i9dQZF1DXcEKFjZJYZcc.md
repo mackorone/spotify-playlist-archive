@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-335 songs - 13 hr 44 min
+336 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Boite à Musique](https://open.spotify.com/track/3XZDnfcnrOokM3dDgQ6oYX) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Boite à Musique](https://open.spotify.com/album/58jpKetqYQHsoVcwOLj4Ef) | 2:19 | 2023-10-10 | 2024-04-19 |
 | [Boscotrecase](https://open.spotify.com/track/3FuD9bDwD9kCUjxz9GEM2o) | [Ennio Bellucc](https://open.spotify.com/artist/62ZwR3KQ7YIIzgAcLxNsHx) | [Boscotrecase](https://open.spotify.com/album/7xYAJnnKPGyzr3qgo9mFMe) | 2:16 | 2024-04-22 |  |
 | [Breathe Easy](https://open.spotify.com/track/4MrXgsJEqbAZMG6BJtBNZM) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Breathe Easy](https://open.spotify.com/album/4hqipiTBHlbM2q9eC5Zd1E) | 2:26 | 2024-10-15 |  |
+| [Breeze](https://open.spotify.com/track/4bN96tqhMRF1WW6jeiLGPB) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Breeze](https://open.spotify.com/album/3Du1Oc0JUqb6lxFFEqGuT4) | 2:37 | 2025-04-16 |  |
 | [Brighter Days](https://open.spotify.com/track/00QS3WvHXKf0BwZRcKtruO) | [Andrew Lodge](https://open.spotify.com/artist/34k08Wh9fmLzg8Hg3wPS2y) | [Brighter Days](https://open.spotify.com/album/2yo3evs2rNkuRBTDDwW4bw) | 3:25 | 2023-01-09 |  |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2021-12-14 | 2022-07-21 |
 | [Brothers](https://open.spotify.com/track/3bnbVhW9oTICGh0l8cwSqj) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Brothers](https://open.spotify.com/album/0nSGSxftcsyML7gy5shGgs) | 2:42 | 2023-06-27 |  |

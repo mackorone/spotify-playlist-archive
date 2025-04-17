@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Lotusx.
 
-1,957 songs - 4 day 9 hr 46 min
+1,958 songs - 4 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1279,7 +1279,7 @@
 | [Pretendientes](https://open.spotify.com/track/5vvug4pdPnLO0d0pxpy8dT) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [B.Y.E.](https://open.spotify.com/album/6hJJxkEe36NL2jmE15K9C2) | 2:44 | 2022-03-24 | 2022-04-20 |
 | [Price On Fun](https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb) | 3:20 | 2024-05-24 | 2024-09-07 |
 | [Princess Treatment](https://open.spotify.com/track/16QzeM0c7wf4TgyXSVFlji) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Princess Treatment](https://open.spotify.com/album/0mF21ARJoYWYQ1mQ62viCC) | 2:15 | 2024-10-04 | 2025-04-05 |
-| [Princesse chaos](https://open.spotify.com/track/5uwKGwzgA0yZRLFb4sW4iJ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Princesse chaos](https://open.spotify.com/album/5kL7S9rRSDnTMl8UJA8PvK) | 3:25 | 2025-01-31 |  |
+| [Princesse chaos](https://open.spotify.com/track/5uwKGwzgA0yZRLFb4sW4iJ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Princesse chaos](https://open.spotify.com/album/5kL7S9rRSDnTMl8UJA8PvK) | 3:25 | 2025-01-31 | 2025-04-17 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-12-07 | 2024-03-23 |
 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 | 2024-09-23 | 2025-02-01 |
 | [procrastinating](https://open.spotify.com/track/15iHiRaaYkXvpN5b8iGqDE) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [homebody](https://open.spotify.com/album/5iUZfXOCka0QcPl5KEwdKp) | 2:20 | 2023-10-27 | 2024-04-06 |
@@ -1881,6 +1881,7 @@
 | [巴比诺 \(feat\. Bunga\)](https://open.spotify.com/track/6kGAENtjEDiELGDuqF98W6) | [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [巴比诺 \(feat\. Bunga\)](https://open.spotify.com/album/228qLCnDift8hgHFMdpKNZ) | 3:43 | 2022-02-03 | 2022-12-15 |
 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 | 2022-02-03 | 2022-03-18 |
 | [幸福藏在哪裡 \- 天堂的微笑片頭曲](https://open.spotify.com/track/2BVe8mICFBg4OMJyBSgdq9) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 5:02 | 2022-02-10 | 2022-03-18 |
+| [心中那位住客](https://open.spotify.com/track/6hgwn1nNPk8E8tEeoa6nwU) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [心中那位住客](https://open.spotify.com/album/0DveyseX1wZXbWiWKWqLJm) | 4:12 | 2025-04-11 |  |
 | [怪獣](https://open.spotify.com/track/5ECLAcvtGoWJBojHEscwop) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 3:02 | 2022-02-10 | 2022-08-02 |
 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 | 2025-03-07 |  |
 | [想了妳6次](https://open.spotify.com/track/0z81zrkn4dqmRLJpRePjYc) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [想了妳6次](https://open.spotify.com/album/4n3QnqVIEmJe0B2aZAlrk8) | 3:43 | 2022-03-21 | 2023-04-18 |

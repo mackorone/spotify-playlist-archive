@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 730093,
+  "num_followers": 730477,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/xQAAAAAADih6Kl2Pf84AKwAUO4KGWY",
+  "snapshot_id": "Z/2hgAAAAAAsW8KzBxBP0+IHrXCwMMdn",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 240746,
-      "name": "Pr\u00e9ndele Fuego",
-      "url": "https://open.spotify.com/track/6aVoAutMSg9BZv0jkwPKN1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paisaje Japon\u00e9s",
         "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 204733,
       "name": "Paisaje Japon\u00e9s",
       "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "Pr\u00e9ndele Fuego",
+      "url": "https://open.spotify.com/track/6aVoAutMSg9BZv0jkwPKN1"
     },
     {
       "added_at": null,

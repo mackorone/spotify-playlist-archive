@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 537749,
+  "num_followers": 537843,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "As Bright as a Thousand Suns",
-        "url": "https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx"
-      },
-      "artists": [
-        {
-          "name": "Arcana",
-          "url": "https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le"
-        }
-      ],
-      "duration_ms": 389386,
-      "name": "Inceptus",
-      "url": "https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Spine",
         "url": "https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK"
       },
@@ -507,22 +491,6 @@
       "duration_ms": 243645,
       "name": "Spine",
       "url": "https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "The Great Feast Underground",
-        "url": "https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS"
-      },
-      "artists": [
-        {
-          "name": "Wind Rose",
-          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
-        }
-      ],
-      "duration_ms": 284018,
-      "name": "The Great Feast Underground",
-      "url": "https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -543,6 +511,38 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
+        "name": "The Great Feast Underground",
+        "url": "https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS"
+      },
+      "artists": [
+        {
+          "name": "Wind Rose",
+          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+        }
+      ],
+      "duration_ms": 284018,
+      "name": "The Great Feast Underground",
+      "url": "https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "As Bright as a Thousand Suns",
+        "url": "https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx"
+      },
+      "artists": [
+        {
+          "name": "Arcana",
+          "url": "https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le"
+        }
+      ],
+      "duration_ms": 389386,
+      "name": "Inceptus",
+      "url": "https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/1mznHNl2GKfIdiZYZThVsM"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 279147,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2WBybEifpPpXx38HUUegV5"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Tales from the North",
-        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
-      },
-      "artists": [
-        {
-          "name": "Tokt",
-          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
-        }
-      ],
-      "duration_ms": 212479,
-      "name": "Saga of the North",
-      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -599,6 +583,22 @@
       "duration_ms": 576250,
       "name": "Unnr | MINDBEACH",
       "url": "https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Tales from the North",
+        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
+      },
+      "artists": [
+        {
+          "name": "Tokt",
+          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
+        }
+      ],
+      "duration_ms": 212479,
+      "name": "Saga of the North",
+      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Set the Sails",
-        "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
+        "name": "The Loom",
+        "url": "https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj"
       },
       "artists": [
         {
-          "name": "Storm Seeker",
-          "url": "https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c"
+          "name": "Anilah",
+          "url": "https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW"
         }
       ],
-      "duration_ms": 196066,
-      "name": "Set the Sails",
-      "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
+      "duration_ms": 433858,
+      "name": "The Loom",
+      "url": "https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -667,18 +667,54 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "The Loom",
-        "url": "https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj"
+        "name": "Set the Sails",
+        "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
       },
       "artists": [
         {
-          "name": "Anilah",
-          "url": "https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW"
+          "name": "Storm Seeker",
+          "url": "https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c"
         }
       ],
-      "duration_ms": 433858,
-      "name": "The Loom",
-      "url": "https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA"
+      "duration_ms": 196066,
+      "name": "Set the Sails",
+      "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "S\u00c1LA",
+        "url": "https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53"
+      },
+      "artists": [
+        {
+          "name": "Kati Ran",
+          "url": "https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ"
+        },
+        {
+          "name": "Karl Seglem",
+          "url": "https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS"
+        },
+        {
+          "name": "Gaahls WYRD",
+          "url": "https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn"
+        },
+        {
+          "name": "Geald\u00fdr",
+          "url": "https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM"
+        },
+        {
+          "name": "Umbra",
+          "url": "https://open.spotify.com/artist/5A8VWvvbZf5S9M7vZJWf3S"
+        },
+        {
+          "name": "Emilie Lorentzen",
+          "url": "https://open.spotify.com/artist/2rDUs552em1yNX7FQEFzyd"
+        }
+      ],
+      "duration_ms": 407293,
+      "name": "S\u00c1LA",
+      "url": "https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -727,42 +763,6 @@
       "duration_ms": 145826,
       "name": "Hersir",
       "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "S\u00c1LA",
-        "url": "https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53"
-      },
-      "artists": [
-        {
-          "name": "Kati Ran",
-          "url": "https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ"
-        },
-        {
-          "name": "Karl Seglem",
-          "url": "https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS"
-        },
-        {
-          "name": "Gaahls WYRD",
-          "url": "https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn"
-        },
-        {
-          "name": "Geald\u00fdr",
-          "url": "https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM"
-        },
-        {
-          "name": "Umbra",
-          "url": "https://open.spotify.com/artist/5A8VWvvbZf5S9M7vZJWf3S"
-        },
-        {
-          "name": "Emilie Lorentzen",
-          "url": "https://open.spotify.com/artist/2rDUs552em1yNX7FQEFzyd"
-        }
-      ],
-      "duration_ms": 407293,
-      "name": "S\u00c1LA",
-      "url": "https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Tr\u00e4",
-        "url": "https://open.spotify.com/album/6Z6a2CiJqcvq3WXfLgjqfJ"
-      },
-      "artists": [
-        {
-          "name": "Hedningarna",
-          "url": "https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu"
-        }
-      ],
-      "duration_ms": 292773,
-      "name": "R\u00e4ven",
-      "url": "https://open.spotify.com/track/6RWqj44MynFix4pFyhI9t9"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Runaljod \u2013 Yggdrasil",
         "url": "https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 431866,
       "name": "Helvegen",
       "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Tr\u00e4",
+        "url": "https://open.spotify.com/album/6Z6a2CiJqcvq3WXfLgjqfJ"
+      },
+      "artists": [
+        {
+          "name": "Hedningarna",
+          "url": "https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu"
+        }
+      ],
+      "duration_ms": 292773,
+      "name": "R\u00e4ven",
+      "url": "https://open.spotify.com/track/6RWqj44MynFix4pFyhI9t9"
     },
     {
       "added_at": "2024-12-06 05:06:56",
