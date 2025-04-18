@@ -964,7 +964,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 227266,
       "name": "COUNT 'EM",
       "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 396320,
       "name": "Ebenezer (feat. Yanga Sobetwa)",
       "url": "https://open.spotify.com/track/7IOiIVkaEVSHK03Dy8vzXe"
@@ -4625,6 +4625,24 @@
     },
     {
       "album": {
+        "name": "Praise Medley 2.0",
+        "url": "https://open.spotify.com/album/57HwaO1HGu40UtFLTUHqs6"
+      },
+      "artists": [
+        {
+          "name": "Eternal Glory Worship",
+          "url": "https://open.spotify.com/artist/6voEVpE79uGDjCM1j7qLJg"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473771,
+      "name": "Praise Medley 2.0",
+      "url": "https://open.spotify.com/track/1OCyrtQVxOCRHSGTxPAo27"
+    },
+    {
+      "album": {
         "name": "Praises",
         "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
       },
@@ -4768,6 +4786,28 @@
       "duration_ms": 240574,
       "name": "Provider",
       "url": "https://open.spotify.com/track/0A5qMUHOf4XVGO5wWrp6cl"
+    },
+    {
+      "album": {
+        "name": "Testify (Live at 012 Central, Pretoria 2024)",
+        "url": "https://open.spotify.com/album/5ZOKJWzsqwjYYq3IAseHFF"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        },
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492120,
+      "name": "Psalms 23 (uMusa Wakho) (feat. Oncemore Six)",
+      "url": "https://open.spotify.com/track/1djXbEcTIH17Bc8qS7PxJ2"
     },
     {
       "album": {
@@ -5282,7 +5322,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
@@ -6942,6 +6982,24 @@
       "duration_ms": 288099,
       "name": "You're The Worthy One",
       "url": "https://open.spotify.com/track/66CzJlOG9NhQbwSX3ImhWp"
+    },
+    {
+      "album": {
+        "name": "YOUR WAY'S BETTER",
+        "url": "https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198082,
+      "name": "YOUR WAY'S BETTER",
+      "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
     },
     {
       "album": {

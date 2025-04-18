@@ -4,7 +4,7 @@
 
 > ¡Qué antojo de alberquita, sol y una chelita con Rauw Alejandro! ✨
 
-8,301 songs - 18 day 17 hr 47 min
+8,302 songs - 18 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8166,6 +8166,7 @@
 | [Yo No Fui](https://open.spotify.com/track/0e50i7uScPMfqZWBfYE3Vs) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Yo No Fui](https://open.spotify.com/album/3a9L76jK0d4jVlEooWCbuU) | 3:12 | 2024-08-09 | 2024-08-17 |
 | [Yo No Fumo](https://open.spotify.com/track/79U0Bz4XoHMyjmwK2AlX2B) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo No Fumo](https://open.spotify.com/album/6iElKHUTsv8TQck59XGWsW) | 2:59 | 2023-03-31 | 2023-04-09 |
 | [Yo No Me Olvido](https://open.spotify.com/track/6jDxhMUF1F8Yc93lk8eNUc) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [Yo No Me Olvido](https://open.spotify.com/album/2cRuBDcKC5tfcImj7OTONH) | 4:02 | 2022-04-15 | 2022-04-23 |
+| [Yo No Tengo Ex](https://open.spotify.com/track/3WDhe3EqrhPpbGQa3jm7SJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Yo No Tengo Ex](https://open.spotify.com/album/5QIhmDkhNCfLavoHIgTb7o) | 2:37 | 2025-04-11 |  |
 | [Yo Nunca Nunca \- Remix](https://open.spotify.com/track/0ymnyWEeF7n7iXJ0l8RSBF) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Yo Nunca Nunca \(Remix\)](https://open.spotify.com/album/0T0C5uQX5MPzJxlCZ8P34t) | 2:50 | 2023-10-20 | 2023-10-28 |
 | [Yo Nunca Te Mentí](https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [COMO ARRUINARTE LA VIDA \(con una herida prohibida\)](https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc) | 3:16 | 2024-06-28 | 2024-07-06 |
 | [Yo Podría](https://open.spotify.com/track/2x88POkRzkiLhFyZs7NVbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Juan Pablo Alcalá](https://open.spotify.com/artist/2gbV4mSUB4g53MVC81tMfe), [Ivan Castro](https://open.spotify.com/artist/1mNf3vjUTre5HuQi7X6ELG), [A Manera De Cafe](https://open.spotify.com/artist/2cTT9butd47bMofSWI8UgN) | [Yo Podría](https://open.spotify.com/album/1fyRU6IgADylzifcUPASWr) | 4:24 | 2022-09-30 | 2022-10-08 |

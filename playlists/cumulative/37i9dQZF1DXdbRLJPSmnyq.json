@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: HANA",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: RADWIMPS",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 263360,
       "name": "DiNA",
       "url": "https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 228197,
       "name": "DNA",
       "url": "https://open.spotify.com/track/4oym4UJGVd6l70PXHeMcha"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 298875,
       "name": "HERE",
       "url": "https://open.spotify.com/track/60KQDUR0c1YQJ0KFphbQG4"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 165433,
       "name": "MONSTER",
       "url": "https://open.spotify.com/track/5r2CNCH0VDnd1qsq9IcTrl"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 176256,
       "name": "Party Goes On",
       "url": "https://open.spotify.com/track/7DtIdfMyHkleorjPK3mSni"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 189904,
       "name": "Summer Time Ghost",
       "url": "https://open.spotify.com/track/4TqfpfTY5R9U8tKHmE6haY"
@@ -2016,6 +2016,24 @@
       "duration_ms": 226026,
       "name": "TAIDADA",
       "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
+    },
+    {
+      "album": {
+        "name": "Tamamono",
+        "url": "https://open.spotify.com/album/4KxdU52S7CLwdVtDDgh0Gf"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288323,
+      "name": "Tamamono",
+      "url": "https://open.spotify.com/track/7pHUHQp71hIaeq5KjCEZ87"
     },
     {
       "album": {
@@ -2092,6 +2110,24 @@
       "duration_ms": 221500,
       "name": "Traffic Jam",
       "url": "https://open.spotify.com/track/5nwb3UKxWWDTYgvbnLCCgU"
+    },
+    {
+      "album": {
+        "name": "TWILIGHT!!!",
+        "url": "https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "TWILIGHT!!!",
+      "url": "https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc"
     },
     {
       "album": {
@@ -3389,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
+        "url": "https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254842,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
+      "url": "https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB"
+    },
+    {
+      "album": {
         "name": "\u5730\u7344\u604b\u6587 - Inferno Love Letter",
         "url": "https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs"
       },
@@ -3520,6 +3574,24 @@
       "duration_ms": 276918,
       "name": "\u5e7e\u5104\u5149\u5e74",
       "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
+    },
+    {
+      "album": {
+        "name": "\u5f98\u5f8a",
+        "url": "https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191075,
+      "name": "\u5f98\u5f8a",
+      "url": "https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb"
     },
     {
       "album": {
@@ -4262,6 +4334,24 @@
       "duration_ms": 255226,
       "name": "\u9999\u6c34",
       "url": "https://open.spotify.com/track/786dSB84yrSaICJwCT7VxP"
+    },
+    {
+      "album": {
+        "name": "\u9a19\u30b7\u611b - Damashiai",
+        "url": "https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "\u9a19\u30b7\u611b - Damashiai",
+      "url": "https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR"
     },
     {
       "album": {

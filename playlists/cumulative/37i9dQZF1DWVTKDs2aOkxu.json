@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Bon Iver",
+  "description": "The best indie music of the moment. Cover: Fontaines D.C.",
   "name": "The Indie List",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 155000,
       "name": "9-5",
       "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 211289,
       "name": "Backseat Banton",
       "url": "https://open.spotify.com/track/7DQq9q2C6Vba0OYYGtdKo0"
@@ -928,6 +928,24 @@
       "duration_ms": 213773,
       "name": "bear walk",
       "url": "https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe"
+    },
+    {
+      "album": {
+        "name": "Romance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236245,
+      "name": "Before You I Just Forget",
+      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
       "album": {
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 215258,
       "name": "body to you",
       "url": "https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe"
@@ -3458,7 +3476,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 250409,
       "name": "Idiot Box",
       "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
@@ -5103,6 +5121,24 @@
     },
     {
       "album": {
+        "name": "Now What?",
+        "url": "https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193443,
+      "name": "Now What?",
+      "url": "https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1"
+    },
+    {
+      "album": {
         "name": "Old Me",
         "url": "https://open.spotify.com/album/2mnRi7vQNy6BpPoQZTKQC1"
       },
@@ -5456,7 +5492,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 156536,
       "name": "pitpony",
       "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
@@ -6819,6 +6855,28 @@
     },
     {
       "album": {
+        "name": "Tell me I never knew that",
+        "url": "https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279051,
+      "name": "Tell me I never knew that",
+      "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
+    },
+    {
+      "album": {
         "name": "Novium",
         "url": "https://open.spotify.com/album/75lQ42UAIOZSNNhrXbdiqh"
       },
@@ -6852,6 +6910,24 @@
       "duration_ms": 200061,
       "name": "Thank Goodness",
       "url": "https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh"
+    },
+    {
+      "album": {
+        "name": "The Actor",
+        "url": "https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170256,
+      "name": "The Actor",
+      "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
     },
     {
       "album": {

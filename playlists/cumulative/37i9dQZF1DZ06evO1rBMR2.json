@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Grandes Corridos De Pelicula",
+        "url": "https://open.spotify.com/album/3gRfS9JkW0Gfw1vqGvnSjr"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "La Clave Del Acordeon",
+      "url": "https://open.spotify.com/track/22Pu9bu6NqlFImnCCgW9AT"
+    },
+    {
+      "album": {
         "name": "10 Corridos Pesados",
         "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
       },
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 188915,
       "name": "Si No Me Querias",
       "url": "https://open.spotify.com/track/5Dx2ORKcNLEHvZyCOPTkAv"

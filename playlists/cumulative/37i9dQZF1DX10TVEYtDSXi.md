@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-155 songs - 8 hr 9 min
+157 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,9 @@
 | [Hvað með þig?](https://open.spotify.com/track/34sUp0Qv7GQzjTiufBMbJz) | [NUSSUN](https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx), [HÚGÓ](https://open.spotify.com/artist/7cCl5Y8YSCS9WQPD6kVTpI), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [Hvað með þig?](https://open.spotify.com/album/2NWyXlP1pmVQW5HMmJsrPL) | 2:28 | 2024-06-21 | 2024-08-09 |
 | [Hver Er Sá Besti](https://open.spotify.com/track/2oZDf893nA2eQx8QvHT0qN) | [FM95BLÖ](https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh), [DJ Muscleboy](https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f), [Steindi Jr.](https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE), [Fjallabræður](https://open.spotify.com/artist/4fIFqYMcJ9vc5mlRrvdRYj) | [Hver Er Sá Besti](https://open.spotify.com/album/5I8rBgIiVKiIYwdiinuEvk) | 2:43 | 2025-02-28 |  |
 | [Hvert ertu að fara?](https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ) | [Háski](https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE), [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [Hvert ertu að fara?](https://open.spotify.com/album/7M7X7jtPfIlgbgWx72hvOZ) | 2:37 | 2024-06-21 | 2024-08-16 |
-| [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-21 |  |
+| [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-18 |  |
+| [I Don't Wanna Talk](https://open.spotify.com/track/3iwU0ayGmLRR4tndbBAAWL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [I Don't Wanna Talk](https://open.spotify.com/album/5lQljp3QFWHdAeAZHwFOvK) | 2:55 | 2025-04-18 |  |
+| [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-21 | 2025-04-18 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-06-21 | 2024-10-04 |
 | [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 | 2025-03-21 |  |
 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-06-21 | 2024-09-06 |
@@ -161,7 +163,7 @@
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-06-21 | 2024-08-16 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2024-11-22 |
 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-06-21 | 2024-08-02 |
-| [Íslenski draumurinn](https://open.spotify.com/track/1bsaJvHRfM8xxgLGa2PUVQ) | [Unnsteinn](https://open.spotify.com/artist/2OsysEFABxUiubXfbfmrWF), [Logi Pedro](https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H), [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Íslenski draumurinn](https://open.spotify.com/album/4yrNXXxVHzJ5wSpXVSLFhg) | 3:23 | 2025-01-31 |  |
+| [Íslenski draumurinn](https://open.spotify.com/track/1bsaJvHRfM8xxgLGa2PUVQ) | [Unnsteinn](https://open.spotify.com/artist/2OsysEFABxUiubXfbfmrWF), [Logi Pedro](https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H), [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Íslenski draumurinn](https://open.spotify.com/album/4yrNXXxVHzJ5wSpXVSLFhg) | 3:23 | 2025-01-31 | 2025-04-18 |
 | [Ómótstæðileg](https://open.spotify.com/track/6Ms1VXrDvwYbJzgX0siMkX) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Legend í Leiknum](https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3) | 3:08 | 2024-08-16 | 2024-08-23 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

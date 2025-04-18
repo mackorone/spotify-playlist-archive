@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 322126,
+  "num_followers": 322230,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/4sYpTER2iT2Y7Kf4VsfUne"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/0ZAhJvqW67Epg4IsLIaSTR"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
         "name": "The Wild Hunt",
         "url": "https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 254826,
       "name": "Love Is All",
       "url": "https://open.spotify.com/track/2VASvSAnhsxXv6V2o97D6x"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/7cHcIOBRdq5M2ZYqpupOV0"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/4sYpTER2iT2Y7Kf4VsfUne"
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 288720,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/0ZAhJvqW67Epg4IsLIaSTR"
+      "duration_ms": 205213,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/7cHcIOBRdq5M2ZYqpupOV0"
     },
     {
       "added_at": "2025-03-14 11:46:42",

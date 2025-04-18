@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3-KJ75hjpI0_Q\">21 Promo & Pengii</a> ",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa_9WSXQAGcMj9SpxUMJQ\">Ziggy4x</a> ",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 220943,
       "name": "Afshow",
       "url": "https://open.spotify.com/track/3jSnGNt8JzF0YsSanwH3z0"
@@ -631,6 +631,40 @@
     },
     {
       "album": {
+        "name": "Church (Remix 2)",
+        "url": "https://open.spotify.com/album/7yS6mzvns1dz3qz7Qp2ltp"
+      },
+      "artists": [
+        {
+          "name": "Keagan Holland",
+          "url": "https://open.spotify.com/artist/7iaaMzkhZTB1iT08AZaHRj"
+        },
+        {
+          "name": "Zee The Master",
+          "url": "https://open.spotify.com/artist/6VJPjg5BjoDlcZxhguF7wD"
+        },
+        {
+          "name": "Roma Steve",
+          "url": "https://open.spotify.com/artist/21zGqkshRbzS8rT1V6O9BV"
+        },
+        {
+          "name": "LC Sonique",
+          "url": "https://open.spotify.com/artist/02KapZuNWYH0yZrb7BuqRN"
+        },
+        {
+          "name": "KOOLKIDJENIUS",
+          "url": "https://open.spotify.com/artist/6B7wVp9KzVEt31j76hAeva"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160993,
+      "name": "Church - Remix 2",
+      "url": "https://open.spotify.com/track/1TKP6I3rAAprUJwHMiokCw"
+    },
+    {
+      "album": {
         "name": "The Republic Of Ghamstad",
         "url": "https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i"
       },
@@ -874,7 +908,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 165172,
       "name": "Die dog",
       "url": "https://open.spotify.com/track/3joOWQZLziJIIv1ZnFUncm"
@@ -2498,7 +2532,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 107676,
       "name": "My Jaar",
       "url": "https://open.spotify.com/track/6NMEUIy8OcuHZwMGkk4NPd"
@@ -3189,6 +3223,32 @@
     },
     {
       "album": {
+        "name": "Rook Loop",
+        "url": "https://open.spotify.com/album/0n6eAZjvpipPJju5qVOiVM"
+      },
+      "artists": [
+        {
+          "name": "Chessiwessi",
+          "url": "https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT"
+        },
+        {
+          "name": "6xseed",
+          "url": "https://open.spotify.com/artist/16Vickfg5b9IoRIsW1xxBG"
+        },
+        {
+          "name": "Op Die Plaas",
+          "url": "https://open.spotify.com/artist/7BRNJ64qLpEYgLnczJ0Hhu"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153646,
+      "name": "ROOK LOOP",
+      "url": "https://open.spotify.com/track/59RnQ6hZ10gr42X50PXjzG"
+    },
+    {
+      "album": {
         "name": "Sal Alright is",
         "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
       },
@@ -3536,6 +3596,32 @@
       "duration_ms": 190327,
       "name": "Stap Soldaat",
       "url": "https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ"
+    },
+    {
+      "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/5KmSW8dMnFIcb8oWaAf3qK"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Kulture Gang",
+          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au"
     },
     {
       "album": {

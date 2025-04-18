@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 
 > ¡Brillando baldosa! Foto: Mike Bahía
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,733 likes - 65 songs - 4 hr 53 min
+[](https://open.spotify.com/user/null) - 163,806 likes - 65 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

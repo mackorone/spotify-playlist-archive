@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-125 songs - 7 hr 2 min
+126 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Divine Intervention \- Acoustic](https://open.spotify.com/track/0ROiUmUgUIuTRjS6VBdwHU) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Divine Intervention \(Acoustic\)](https://open.spotify.com/album/2i1wqhJanmXnoTDiIpDCQo) | 3:03 | 2024-05-30 | 2024-11-22 |
 | [Dream Awake](https://open.spotify.com/track/7M5R2ZlSmpqDsCJfulhN6Z) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Sun & Moon](https://open.spotify.com/album/6f22BsAjuWxAKdEbJCuQ6X) | 4:28 | 2023-06-30 | 2024-04-19 |
 | [Dream Awake \- Pop](https://open.spotify.com/track/2MPZ4bskYV3v7MfOGfPjwe) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Sun & Moon](https://open.spotify.com/album/5F4bIQW01SVG9xdFF3G1fq) | 4:28 | 2024-04-12 | 2025-04-04 |
-| [Enemy](https://open.spotify.com/track/6F5eJTix3ms5lvH71omyS3) | [TornPockets](https://open.spotify.com/artist/6pUEc7BVEFA6b6hUw4RMxA), [ach13ng'](https://open.spotify.com/artist/7nXNiHraAkhLlIMCFaBGc0) | [Enemy](https://open.spotify.com/album/2RgIw1IxjLtEn4U9YGoSNF) | 3:31 | 2023-06-30 |  |
+| [Enemy](https://open.spotify.com/track/6F5eJTix3ms5lvH71omyS3) | [TornPockets](https://open.spotify.com/artist/6pUEc7BVEFA6b6hUw4RMxA), [ach13ng'](https://open.spotify.com/artist/7nXNiHraAkhLlIMCFaBGc0) | [Enemy](https://open.spotify.com/album/2RgIw1IxjLtEn4U9YGoSNF) | 3:31 | 2023-06-30 | 2025-04-18 |
 | [Eyes Kubwa](https://open.spotify.com/track/28zuGbSlhWOAqnh6NQYCsE) | [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV), [Sumgii](https://open.spotify.com/artist/2Qvj1it0OQswQ4zu836oWw) | [Eyes Kubwa](https://open.spotify.com/album/0OzxUgftqnlSp7RmWDj0cC) | 4:11 | 2024-02-08 |  |
 | [Faith](https://open.spotify.com/track/5XyjPieJxZ3nkaAYotAQ2r) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/1TsOQ7nu8nuEPYTZ3Xx6qK) | 3:33 | 2023-12-15 | 2024-04-19 |
 | [Faith](https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp) | 3:33 | 2023-11-10 |  |
@@ -109,6 +109,7 @@
 | [Sunny Everyday](https://open.spotify.com/track/7r8z2NTBdx2euV2pSJkhOW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [mphilo](https://open.spotify.com/artist/5CJTRMHq8aukAtFyoleRIF) | [Whispers of the Soul](https://open.spotify.com/album/4XZaOuCDoQ5igRDBnxqD71) | 1:39 | 2024-02-22 | 2024-10-18 |
 | [Superhuman](https://open.spotify.com/track/5IjmDEuIPnGuZlAjJVnsPV) | [Olivia Ambani](https://open.spotify.com/artist/2ZvuDMMGloNFnH6Bhm67jG) | [The Awakening](https://open.spotify.com/album/6WnV2kPJou5mPZpmnSLvx0) | 3:03 | 2023-06-30 | 2023-10-24 |
 | [Surrender](https://open.spotify.com/track/0D3SNWVC7KAzCy8jnBwqln) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Surrender](https://open.spotify.com/album/4UU3AuDsnhCk6QDwNZci6p) | 3:43 | 2024-11-21 |  |
+| [Table](https://open.spotify.com/track/7xz2qqAFgzUSRtz6ZtasVl) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Table](https://open.spotify.com/album/5xtIIsCORyIBXvI3X2LJt5) | 3:29 | 2025-04-17 |  |
 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 | 2024-07-15 |  |
 | [TESLA](https://open.spotify.com/track/3r5RMIwKMHVLI9lm7YmDds) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [TESLA](https://open.spotify.com/album/527vCzOGMQd4AN3K5VpS6S) | 2:00 | 2024-10-03 |  |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-06-30 | 2024-12-06 |

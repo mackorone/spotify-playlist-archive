@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request @ spotify.furrest.net
 
-334 songs - 17 hr 41 min
+336 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Fetch.](https://open.spotify.com/track/7bOUBE0BeEXUpuztG62y0X) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [Fetch.](https://open.spotify.com/album/35Ap3et5kzcEUwHmd8b8sg) | 2:30 | 2024-07-22 |  |
 | [Fetish](https://open.spotify.com/track/2ld8OXTfS16XTEkv2fu3sH) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [delcarmen](https://open.spotify.com/album/3RkyZBjxQae3qOD90QTB1c) | 2:45 | 2024-08-15 |  |
 | [Fight For You](https://open.spotify.com/track/112hvUfQjrjaYxZo1cUCct) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Fight For You](https://open.spotify.com/album/2WtVCMJcru3ZMipJjOrmWi) | 2:05 | 2025-01-18 |  |
+| [FLOWERS](https://open.spotify.com/track/6TExJ61OqpJYFsJ7Rdc0dV) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [TRANQUIL](https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC) | 2:55 | 2025-04-17 |  |
 | [Fly Away \- 2024 Remaster](https://open.spotify.com/track/5hyr4avaVh2OZLG7DPGhGk) | [OSVLD](https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Fly Away \(2024 Remaster\)](https://open.spotify.com/album/7y2pnziJyQTHkr10J2zy8G) | 3:51 | 2024-02-09 |  |
 | [FOOL FOR YOU](https://open.spotify.com/track/4NEkuzx5DgSNL7buwNsvCi) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:05 | 2025-02-03 |  |
 | [Fox Boy](https://open.spotify.com/track/6Znko1vwkXU7ebLmQ0Nl4E) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Fox Boy](https://open.spotify.com/album/68m9JFPkoH54ntMsCh2niB) | 4:00 | 2023-06-14 |  |
@@ -183,6 +184,7 @@
 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 | 2024-09-24 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/18w8b0tvqJyUGRb3O2Vice) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ), [Kazumi](https://open.spotify.com/artist/4mkTeXc0HFXcXFItgDMXak), [Hayden](https://open.spotify.com/artist/2JYPMgBbY6Or8BI27GV1YN) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:54 | 2024-07-22 |  |
 | [Make It Last](https://open.spotify.com/track/21a21D9bfQNXs6H8nvrrbH) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/3v4XbrHe4CJh3TOiEoFZkV) | 3:13 | 2024-11-18 |  |
+| [MEDICINE](https://open.spotify.com/track/6O6DxmtNsR2c52oJkqyfOo) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [TRANQUIL](https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC) | 2:58 | 2025-04-17 |  |
 | [memories i can't replace](https://open.spotify.com/track/30Rb5WwyJESVTg0GwA7FQ0) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [memories i can't replace](https://open.spotify.com/album/7yQiKXTTXJyVIgfTfIr1QY) | 2:26 | 2024-08-15 |  |
 | [Memory Merge](https://open.spotify.com/track/5usdxPXJmVeqwheEYreUoo) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Memory Merge](https://open.spotify.com/album/10TkVdtVrvg5Pcm4jsnRPg) | 4:32 | 2024-05-20 |  |
 | [Minimal Spaces](https://open.spotify.com/track/5JYguXWKAtNXM1OnmsAFs4) | [Zunkz](https://open.spotify.com/artist/0UOXglBL2dBoKtIH5Uk1KB) | [Minimal Spaces](https://open.spotify.com/album/0Sd8oItMgiNIn83XEWn9Vi) | 2:08 | 2024-05-08 |  |

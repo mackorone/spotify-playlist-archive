@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : שקל וגלעד כהנא
 
-221 songs - 13 hr 1 min
+222 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Guess I'm Doing Fine](https://open.spotify.com/track/7c6Ax8PdoZfAVDqSQZ0zdw) | [Adi\-Keshet Cohen](https://open.spotify.com/artist/2fHgvt4m6w179ZxCGFJz5f) | [Guess I'm Doing Fine](https://open.spotify.com/album/4DFbuAOp5fD1LGbmH0QgOh) | 4:19 | 2025-02-20 | 2025-03-07 |
 | [Ha'chayim Ha'ele](https://open.spotify.com/track/0j6h27PRdWp5reQDD3IV4V) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [Ha'chayim Ha'ele](https://open.spotify.com/album/55KdrAbQ29QClGDay6Wony) | 3:15 | 2024-07-11 | 2024-08-02 |
 | [Hate You Instead](https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Hate You Instead](https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1) | 3:01 | 2024-11-21 |  |
+| [Hide](https://open.spotify.com/track/3FYIt7h7Pa7QK7anzrQfHN) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [KUPA](https://open.spotify.com/artist/6aTpmtMOHVX6hxCaHV4erM) | [Hide](https://open.spotify.com/album/5YW6Bo5MJnq693AFC9wQwK) | 3:29 | 2025-04-17 |  |
 | [HIGHER](https://open.spotify.com/track/2XsJUYovLDX5sCtrpO0HUQ) | [GADEE](https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0) | [HIGHER](https://open.spotify.com/album/5XR8SwQtlGafU9QVIOFeNJ) | 2:14 | 2024-11-28 | 2024-12-13 |
 | [I Never Land](https://open.spotify.com/track/4AyZu1oGMkctesnFZIPgL1) | [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [I Never Land](https://open.spotify.com/album/0jYlxuuRcYQydLzceR0ZLu) | 3:12 | 2024-07-18 | 2024-08-16 |
 | [If Whiskey Was A Friend](https://open.spotify.com/track/3DFfLQlJlPDeGrNbktAmy9) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [If Whiskey Was A Friend](https://open.spotify.com/album/6MUOd5Aud7D5CfsD3DK9BQ) | 3:33 | 2024-07-18 | 2024-08-16 |
@@ -167,7 +168,7 @@
 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 | 2024-06-27 | 2025-02-11 |
 | [לפני שהכל נרדם](https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P) | 3:16 | 2025-02-13 |  |
 | [מגדל המים](https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [מגדל המים](https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU) | 3:47 | 2024-06-27 | 2025-03-21 |
-| [מה אמיתי](https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy), [ליעם חכמון](https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh) | [מה אמיתי](https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx) | 3:03 | 2025-02-06 |  |
+| [מה אמיתי](https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy), [ליעם חכמון](https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh) | [מה אמיתי](https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx) | 3:03 | 2025-02-06 | 2025-04-18 |
 | [מה לעשות עם הזאב](https://open.spotify.com/track/6ClLC1FYoL8orfOrcknQkk) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [איך האהבה הזאת חומקת בין האצבעות](https://open.spotify.com/album/7kO2WXy0zLHtKF49A4DwOP) | 2:49 | 2024-06-27 | 2025-03-21 |
 | [מה קורה](https://open.spotify.com/track/5znDBBWwpKxdtg2aK8vxPZ) | [Assaf Amdursky](https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B) | [שירים שלא נכנסו לאלבום הראשון](https://open.spotify.com/album/0bPqS7b3y1MCdBXFEBSvxs) | 5:06 | 2024-06-27 | 2024-07-19 |
 | [מה שלא יהיה](https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6) | [Zizi Trippo](https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [31](https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7) | 3:17 | 2024-11-21 | 2025-02-14 |

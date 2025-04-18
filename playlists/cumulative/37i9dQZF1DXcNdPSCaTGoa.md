@@ -2,9 +2,9 @@
 
 ### [SA Gold](https://open.spotify.com/playlist/37i9dQZF1DXcNdPSCaTGoa)
 
-> South African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO?si=xNsTekhYSbq9QpHhQwG4zA">Riky Rick</a>
+> South African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH?si=\_jgJwQqzT3Wj5C1Mwehmtg">Yvonne Chaka Chaka</a>
 
-194 songs - 16 hr 23 min
+196 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Doc Shebeleza](https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Tsholofelo \(Platinum Edition\)](https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc) | 3:51 | 2019-02-03 |  |
 | [Don't Cry \- Remastered 2024](https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Thembisile](https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML) | [Bhambatha \(Remastered 2024\)](https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE) | 3:37 | 2024-06-16 |  |
 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 | 2018-09-23 |  |
+| [Every Woman Needs A Man](https://open.spotify.com/track/7nwzQHZquNkoUAVVvbj1Ae) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [I'm Burning Up](https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3) | 6:15 | 2025-04-18 |  |
 | [Fallen](https://open.spotify.com/track/0UmUpMqXmtvRGehh7vFlDV) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Es'khaleni Zone 3](https://open.spotify.com/album/5gDJL11BwbwwDDvK4wBXkI) | 5:34 | 2018-09-23 | 2022-07-29 |
 | [Fallen](https://open.spotify.com/track/5Qbsr2yaejz1ymILqtIhIh) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Es'khaleni Zone 3](https://open.spotify.com/album/0WbSDgJgcRwDTtEtudhjI4) | 5:34 | 2023-01-23 | 2023-08-18 |
 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 | 2018-09-23 |  |
@@ -57,7 +58,7 @@
 | [Heavenly Sent](https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:27 | 2019-02-03 | 2024-04-19 |
 | [Hey Kop](https://open.spotify.com/track/1VQsFRvJde95Wtkp3rk4yf) | [M'du](https://open.spotify.com/artist/0AfJczz6uFcaUSSSCVv6qT) | [The Best Of Da Best](https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C) | 5:29 | 2019-02-03 | 2022-11-14 |
 | [Hey Kop](https://open.spotify.com/track/4eSwGleUIHfVrVWxYsokdh) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Hey Kop](https://open.spotify.com/album/0Lv870EFecsFjyGbH9oHKd) | 5:32 | 2019-02-03 | 2022-07-29 |
-| [Hey, Hey, Hey](https://open.spotify.com/track/3kxNpZmC8x1fFcBjz1Pv7Z) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:41 | 2024-11-12 |  |
+| [Hey, Hey, Hey](https://open.spotify.com/track/3kxNpZmC8x1fFcBjz1Pv7Z) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:41 | 2024-11-12 | 2025-04-18 |
 | [Homeless \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 3:48 | 2019-03-07 |  |
 | [Hossanna](https://open.spotify.com/track/2a1jKvDS7F0TRhgVjUYhXJ) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [A New Myth](https://open.spotify.com/album/2jkYzhyw4uSLhaeUKwrFGT) | 5:59 | 2019-02-12 | 2022-07-29 |
 | [How Do You Feel](https://open.spotify.com/track/4IEEIfr41nV2GGY6m1CwaB) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/4VarFac5zKWXGBQ8c75BSE) | 5:06 | 2018-09-23 | 2022-07-29 |
@@ -71,6 +72,7 @@
 | [Is Vokol Is Niks](https://open.spotify.com/track/4DrKHhSnbT9k9Efpmw4B8W) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Hey Kop](https://open.spotify.com/album/0Lv870EFecsFjyGbH9oHKd) | 5:20 | 2019-02-03 | 2022-07-29 |
 | [It's About Time](https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's About Time](https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl) | 5:39 | 2023-01-23 | 2024-04-19 |
 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 | 2018-09-23 | 2023-08-10 |
+| [I’m Burning Up](https://open.spotify.com/track/5MtRQ4ICD8SqeJqDwSi3yB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [I'm Burning Up](https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3) | 5:10 | 2025-04-18 |  |
 | [Jabba \(feat\. Nkanyiso\)](https://open.spotify.com/track/5eFwMqX8eZo3ND8O2JmxqN) | [HHP](https://open.spotify.com/artist/1rbWoWCmXxeyTq98W9wh4R) | [African Kings](https://open.spotify.com/album/6RmFaKdE4uuX8NyrhmWRtK) | 5:19 | 2018-09-23 | 2022-07-27 |
 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 | 2024-06-28 |  |
 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 | 2019-02-03 |  |
@@ -102,7 +104,7 @@
 | [Matofotofo](https://open.spotify.com/track/1mJzCGXZm1kRtzWY5VxovQ) | [Pitch Black Afro](https://open.spotify.com/artist/40hpSUVJeh3CRFkG0ANx5G) | [Tsotsi](https://open.spotify.com/album/3sxJlbcLIDvXZLbGSNnyq9) | 4:50 | 2019-02-12 | 2022-07-26 |
 | [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 | 2019-02-03 |  |
 | [Mhlobo Wami](https://open.spotify.com/track/41iaiTayLoUcyUD6DGr4dm) | [Teargas](https://open.spotify.com/artist/6ffbZWFEp3uVx8w46WlNvD) | [Dark or Blue](https://open.spotify.com/album/7fyiKhxCy9RPxEIpme9QYo) | 3:45 | 2019-02-03 | 2024-11-13 |
-| [Nafukwa \(Fok Julle Naaiers\)](https://open.spotify.com/track/43nqAOOjecTtyOVmAI27RX) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:08 | 2025-04-03 |  |
+| [Nafukwa \(Fok Julle Naaiers\)](https://open.spotify.com/track/43nqAOOjecTtyOVmAI27RX) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:08 | 2025-04-03 | 2025-04-18 |
 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 | 2019-02-03 |  |
 | [Ndihamba Nawe](https://open.spotify.com/track/07lXD6nPERzJiv2Pzhs4iv) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kalawa Jazmee 2012 Pre\-Release](https://open.spotify.com/album/1d2LRuYBx8Ne97H6lJqiLJ) | 5:50 | 2018-09-23 | 2022-07-29 |
 | [Ndihamba Nawe](https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:51 | 2018-09-23 | 2023-04-05 |

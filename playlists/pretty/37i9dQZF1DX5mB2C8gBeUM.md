@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: ERNEST and Snoop Dogg
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,000 likes - 150 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,007 likes - 150 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

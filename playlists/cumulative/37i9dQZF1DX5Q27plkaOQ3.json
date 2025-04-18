@@ -4243,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Dead Instinct",
+        "url": "https://open.spotify.com/album/0sk9NTN6xfpbTgCI1H1kLp"
+      },
+      "artists": [
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Dead Instinct",
+      "url": "https://open.spotify.com/track/4bXKOhUobeIkHq6vu4dnYm"
+    },
+    {
+      "album": {
         "name": "Dead Man Walking Pt. 1",
         "url": "https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD"
       },
@@ -8688,7 +8706,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 199480,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/0OOHr8GuVQlpYFJGseeXZi"

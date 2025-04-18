@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68795,
+  "num_followers": 68801,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/2hgAAAAACB/9x8O8A/pY7mAA6ycuQ0",
+  "snapshot_id": "Z/7zAAAAAACJ+uZsIQPh0mQ+6Oxec+kL",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ll\u00e9gale",
-        "url": "https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Ll\u00e9gale",
-      "url": "https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luz Apaga",
         "url": "https://open.spotify.com/album/4Xk6SrGHC6vSevAkyTZiLh"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 245000,
       "name": "Luz Apaga",
       "url": "https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ll\u00e9gale",
+        "url": "https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Ll\u00e9gale",
+      "url": "https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT"
     },
     {
       "added_at": null,

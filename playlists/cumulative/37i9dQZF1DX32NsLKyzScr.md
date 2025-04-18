@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,235 songs - 2 day 18 hr 56 min
+1,236 songs - 2 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,7 @@
 | [Hurts Like This](https://open.spotify.com/track/0jitsmziKMI9MpzENnB0Tc) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fallen Embers \(Deluxe Version\)](https://open.spotify.com/album/0KgcBsDY5uFt4EaG3roI3x) | 3:58 | 2021-10-23 | 2022-03-12 |
 | [Hype](https://open.spotify.com/track/41J7KPc6Xb8NH29jjgfVFo) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [Hype](https://open.spotify.com/album/2ZsAAof5KmuZwiSmPcdyjy) | 2:53 | 2020-09-21\* | 2021-01-05 |
 | [Hype](https://open.spotify.com/track/3ONrCVkHj8jYuRKcVSQIxH) | [Sunstars](https://open.spotify.com/artist/37obY6KAyQrGu95SqzKJlu) | [Hype](https://open.spotify.com/album/2w0K0l81Z453HhiF66Z0yC) | 1:54 | 2020-09-21\* | 2021-01-05 |
-| [Hypnotising](https://open.spotify.com/track/3dMeC0ZvUkklhOHIEzQcfH) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Hypnotising](https://open.spotify.com/album/1Tr0AxBFOfcfvYTFAn9vHC) | 2:42 | 2025-03-07 |  |
+| [Hypnotising](https://open.spotify.com/track/3dMeC0ZvUkklhOHIEzQcfH) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Hypnotising](https://open.spotify.com/album/1Tr0AxBFOfcfvYTFAn9vHC) | 2:42 | 2025-03-07 | 2025-04-18 |
 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-01-10 |  |
 | [I Adore You \- ARTBAT Remix](https://open.spotify.com/track/1Zg16X9sBXpfQbs6fgVJzH) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(ARTBAT Remix\)](https://open.spotify.com/album/5kRla1xPI51kTotmC4nW6j) | 4:30 | 2025-01-31 |  |
 | [I Can Feel Alive \(feat\. A R I Z O N A\)](https://open.spotify.com/track/3ms9tJvFtCRqWMagyOnUAt) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [I Can Feel Alive \(feat\. A R I Z O N A\)](https://open.spotify.com/album/6DgXfjoXr8mRfADx0XYIq7) | 2:47 | 2020-10-10 | 2021-03-26 |
@@ -897,6 +897,7 @@
 | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5) | 3:11 | 2020-12-18 | 2021-07-24 |
 | [Safari](https://open.spotify.com/track/473Oq1pusAtbuBgV7AvcaH) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2) | [Safari](https://open.spotify.com/album/37JVGiKbSAWFwi0x4gGXlU) | 2:35 | 2020-09-21\* | 2021-01-23 |
 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 | 2024-10-04 | 2025-03-29 |
+| [Sanctuary](https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Sanctuary](https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr) | 3:36 | 2025-04-11 |  |
 | [Sao Paulo](https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [The Lost Shepherds](https://open.spotify.com/artist/0n5RLOUDVIpQopAEUbY0zU), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Sao Paulo](https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK) | 3:10 | 2022-04-08 | 2022-07-19 |
 | [Satisfaction](https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Satisfaction](https://open.spotify.com/album/3ocRwxucX3212g29vOg7je) | 3:33 | 2024-05-24 | 2025-01-12 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-04-29 | 2023-03-18 |

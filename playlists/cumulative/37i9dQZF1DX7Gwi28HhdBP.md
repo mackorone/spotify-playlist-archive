@@ -2,9 +2,9 @@
 
 ### [شعبي مصري](https://open.spotify.com/playlist/37i9dQZF1DX7Gwi28HhdBP)
 
-> أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt?si=r\_g1xn5CQQqWlLHPTMc72Q">  حكيم </a>
+> أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6?si=gD4aiSLdQxONDTYraTL03A">  محمود الليثي </a>
 
-286 songs - 20 hr 45 min
+287 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [احزان](https://open.spotify.com/track/4TM9BFIoAizYGhwxhpqJlD) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/7HmAVQ3sV461mow0iEmVlM) | 23:46 | 2022-07-14 | 2023-05-12 |
 | [احزان](https://open.spotify.com/track/78Qm9FSk3A6MOc3o7RtzIq) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/6vxFPL1a81sNUrcYHaCsvM) | 23:46 | 2021-12-16 | 2022-07-29 |
 | [اسف يا نفسي](https://open.spotify.com/track/0a5RhyjwXaSOsv5KyNzISr) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [اسف يا نفسي](https://open.spotify.com/album/2kIBZ9uvmCaxjCGNT9kVyH) | 4:36 | 2024-02-05 |  |
+| [البابا](https://open.spotify.com/track/12zBlMjcj31RM148PDefNl) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [البابا](https://open.spotify.com/album/4li8HqWJs1LRbpcGbtFgHo) | 4:13 | 2025-04-17 |  |
 | [الباشا](https://open.spotify.com/track/2KkuXDZWQlwFa8QKeATHH2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [الباشا](https://open.spotify.com/album/31MkClRO6l5z3eSdoxX4nR) | 3:08 | 2024-09-05 | 2024-12-27 |
 | [البطه البطه](https://open.spotify.com/track/4w7ZbySCNWOehHZjiT8Uws) | [حمزة الصغير](https://open.spotify.com/artist/20y1jfVrZPTR65Lw8i9MMN) | [الله عليك](https://open.spotify.com/album/6vUCRUmQ7jTzvqDB0KXc0A) | 4:19 | 2021-12-16 | 2023-05-12 |
 | [الثبات الثبات](https://open.spotify.com/track/0RKfjPG1r7ZlPsAJ8MPuVI) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [الثبات الثبات](https://open.spotify.com/album/0S4LwZEuXNAu7e2Sacp6Nv) | 3:30 | 2024-08-08 | 2025-01-17 |
@@ -226,7 +227,7 @@
 | [حلوة حياتي](https://open.spotify.com/track/3h2BcmkwL4pCyiqGWvlbEy) | [Mostafa Kamel](https://open.spotify.com/artist/7IVaCSHkbx4xPS2vZ2LSCl) | [حلوة حياتي](https://open.spotify.com/album/0GR6XaAqFNV4QlKjEBNnTR) | 4:50 | 2021-12-16 | 2022-07-28 |
 | [حلوة حياتي](https://open.spotify.com/track/2sXjblDKAkus5oH28IGZub) | [مصطفى كامل](https://open.spotify.com/artist/6a4ixu0wC1PyCetU59JX9a) | [وجع قلبي](https://open.spotify.com/album/6yTX8vigfFn9QokeIg3wM3) | 4:50 | 2022-07-14 | 2023-05-12 |
 | [خدت من جدعنتى ايه](https://open.spotify.com/track/1vwtzU10kbdsIySHu7fnhI) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [خدت من جدعنتى ايه](https://open.spotify.com/album/2s2IYEGpc0DjpHV2ifCHcm) | 6:20 | 2022-07-14 | 2024-04-19 |
-| [خدت من جدعنتى ايه](https://open.spotify.com/track/534vrlGPt8HIvwLI4NtFFS) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [خدت من جدعنتى ايه](https://open.spotify.com/album/5aeinXTBjK1OBDOwSZ5gbm) | 6:20 | 2021-12-16 |  |
+| [خدت من جدعنتى ايه](https://open.spotify.com/track/534vrlGPt8HIvwLI4NtFFS) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [خدت من جدعنتى ايه](https://open.spotify.com/album/5aeinXTBjK1OBDOwSZ5gbm) | 6:20 | 2021-12-16 | 2025-04-18 |
 | [خليك علي عومي](https://open.spotify.com/track/3P3nUCBz4AQPwmapGkWLPX) | [Faten Farid](https://open.spotify.com/artist/2MIpxKcT5RbV18YPsgQnhw) | [خليك علي عومي](https://open.spotify.com/album/1oyIuyB1gila3RG6UF17Kt) | 10:07 | 2021-12-16 | 2023-04-05 |
 | [دوارة](https://open.spotify.com/track/5OXhTWBpG2CKbPjORQXmCf) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [دوارة](https://open.spotify.com/album/0Gnt7VNxg6SGCpeGlbPSvP) | 3:17 | 2024-03-29 |  |
 | [دوكه](https://open.spotify.com/track/3O01ChQwIuqwZSHSv1aFWQ) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Houda Bodok](https://open.spotify.com/artist/1siovIHkUbtQoPKWw9uWSd) | [دوكه](https://open.spotify.com/album/4l8WltW1mSqTOmby0ASWwx) | 2:27 | 2023-06-25 | 2023-08-25 |

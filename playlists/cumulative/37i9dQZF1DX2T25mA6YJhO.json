@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Repion.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Raya Diplom\u00e1tica.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 178214,
       "name": "Charcos!",
       "url": "https://open.spotify.com/track/375loMv2gMBtRXB01AKqeo"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 186791,
       "name": "Equivocarme",
       "url": "https://open.spotify.com/track/1BlM5CsCdB9v6KSwe660uM"
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 163267,
       "name": "Hay un hueco bajo tu cama y est\u00e1 lleno de mierda",
       "url": "https://open.spotify.com/track/5eTkrLxHf8W24yGPo5gEG2"
@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 91166,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/63hJ5OMeqpblD7dhWpxaUA"
@@ -5527,6 +5527,24 @@
     },
     {
       "album": {
+        "name": "TODO ROSA",
+        "url": "https://open.spotify.com/album/32MYXfjjL1FOCbBRgUU4nQ"
+      },
+      "artists": [
+        {
+          "name": "Raya Diplom\u00e1tica",
+          "url": "https://open.spotify.com/artist/3yUu1qLWJhq7XYxd7g8NfU"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179294,
+      "name": "TODO ROSA",
+      "url": "https://open.spotify.com/track/2w4G9KIg5tfLF87lv38rBx"
+    },
+    {
+      "album": {
         "name": "Todos menos t\u00fa",
         "url": "https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S"
       },
@@ -5771,6 +5789,24 @@
     },
     {
       "album": {
+        "name": "Uma Thurman",
+        "url": "https://open.spotify.com/album/02PWBo7h3VbVn3MpgVCwxz"
+      },
+      "artists": [
+        {
+          "name": "Sobrezero",
+          "url": "https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178629,
+      "name": "Uma Thurman",
+      "url": "https://open.spotify.com/track/2kdvuLboXtcrWjk3ZVqauw"
+    },
+    {
+      "album": {
         "name": "Un beso y una flor",
         "url": "https://open.spotify.com/album/4Qu1tWIqp9wzL18E5xfiRx"
       },
@@ -5800,7 +5836,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 195826,
       "name": "Un d\u00eda genial",
       "url": "https://open.spotify.com/track/0QiSx6ahUCXVJxV2lsHKOO"
@@ -6204,7 +6240,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 187816,
       "name": "WTF",
       "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
@@ -6316,7 +6352,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 153740,
       "name": "Yo Invito",
       "url": "https://open.spotify.com/track/6fKpUun4XHWQtsF6lV7pen"
@@ -6472,6 +6508,24 @@
       "duration_ms": 173250,
       "name": "\u00bfc\u00f3mo est\u00e1s?",
       "url": "https://open.spotify.com/track/1NHO4eH5L9fkUaHb68y1t1"
+    },
+    {
+      "album": {
+        "name": "\u00bfpor qu\u00e9 preguntas?",
+        "url": "https://open.spotify.com/album/1SXZir9X1kF2Fpk6xAyh4Q"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u00bfpor qu\u00e9 preguntas?",
+      "url": "https://open.spotify.com/track/4g1rIaBb3cgneAwDQbBQ8d"
     },
     {
       "album": {

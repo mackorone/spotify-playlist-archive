@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 36099,
+  "num_followers": 36151,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/2hgAAAAADMCiUuUvp5Q0uTon+9gbiY",
+  "snapshot_id": "Z/7zAAAAAACwKoI4Mz0zbkEY2YqWSCx/",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Woods 2",
-        "url": "https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic"
-      },
-      "artists": [
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Hell Woods 2",
-      "url": "https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
         "url": "https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 179795,
       "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
       "url": "https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Woods 2",
+        "url": "https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Hell Woods 2",
+      "url": "https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc"
     },
     {
       "added_at": null,

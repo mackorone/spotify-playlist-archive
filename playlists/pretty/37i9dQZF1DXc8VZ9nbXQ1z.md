@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,828 likes - 75 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,942 likes - 85 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 73 | [Sonder](https://open.spotify.com/track/2gVy654eoz1UEah0YP9EdV) | [Munyasya](https://open.spotify.com/artist/4TvHKIqggNweDs4pqn6j6Z) | [Sonder](https://open.spotify.com/album/1qLQYpWgWtO7DLAaqFnCY7) | 7:08 |
 | 74 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
 | 75 | [Mirror Dance](https://open.spotify.com/track/1zweY3yCgExHMgTpPhNYEU) | [Afefe Iku](https://open.spotify.com/artist/1wyvNzqxNicz6tQP1JzOhu) | [Artifacts of Pottery Vessels](https://open.spotify.com/album/1bXH3znFE4PoY0qD1w290D) | 8:33 |
+| 76 | [Smile \- Manoo Vocal Remix](https://open.spotify.com/track/75CjlxWSnDNwl8xQtlhEct) | [Shota](https://open.spotify.com/artist/0gqfKjw4dN6XhiAIJ16Iyn), [Manoo](https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz) | [Smile](https://open.spotify.com/album/5Yl50Dtx3It1YSpdnuid59) | 8:36 |
+| 77 | [Alligned](https://open.spotify.com/track/1GHbvaQCldfPDyQQ8HTwYC) | [AfroTura](https://open.spotify.com/artist/3vvjmN7sqoO42Wsusz4wBS) | [Alligned](https://open.spotify.com/album/6FYTd3OcGRJfVJVC1NoJpI) | 7:02 |
+| 78 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 |
+| 79 | [Deciragia \- Radio Edit](https://open.spotify.com/track/1yjqosr8iCQeEzws60P8Gb) | [Urmet K](https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb) | [Deciragia](https://open.spotify.com/album/3OZcadf22wyWWoRebC00oH) | 4:06 |
+| 80 | [Tele \- Raul Bryan s Dub](https://open.spotify.com/track/12DengrteZVIA7EbzLxBbp) | [Westvil](https://open.spotify.com/artist/71tOlZmU7OlakviixCguhG), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Raul Bryan](https://open.spotify.com/artist/1Td8QMtRLZdQDXFJ5nQHpT) | [Tele Remix by Raul Bryan](https://open.spotify.com/album/4VTDZS0RwN7ie0bKPuhqJG) | 7:01 |
+| 81 | [Fine Sounds](https://open.spotify.com/track/7rXttJ4Je57iyCJNLqX9XE) | [Nebulae Waves](https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2), [Moryla](https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0) | [Fine Sounds](https://open.spotify.com/album/64CNni4B6wP2anuhxrGjQ3) | 3:36 |
+| 82 | [Siebel](https://open.spotify.com/track/4xdx2B81xoPeBxjRdTHOqH) | [Sebra Cruz](https://open.spotify.com/artist/2OaoLYNZqzNVMM4H7KL5ye) | [Siebel](https://open.spotify.com/album/7D0vg7DUkNqm3fxCLe1iis) | 4:33 |
+| 83 | [Avenue of Dreams](https://open.spotify.com/track/4ZbPM08OEwJpxFxwSnFDii) | [Sai & Ribatone](https://open.spotify.com/artist/6xcQ2E3WMy2u3zikgMfixo), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Avenue of Dreams \(Remixes\)](https://open.spotify.com/album/1P1TKnP2QT4P32PMM4pBpw) | 6:27 |
+| 84 | [Missing Empathy](https://open.spotify.com/track/4tzvYxpVEKB0HRhzSJfUHc) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Fields Without Fences](https://open.spotify.com/album/2hx7lDv2lnJlzcnBduRRi7) | 6:26 |
+| 85 | [Fields Without Fences](https://open.spotify.com/track/6tFFbHcIEQRShOmyY1w4Fq) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Fields Without Fences](https://open.spotify.com/album/2hx7lDv2lnJlzcnBduRRi7) | 6:40 |
 
-Snapshot ID: `Z/hNdwAAAACzDjyFp+GBYL9HiMQF1Itb`
+Snapshot ID: `aAExRAAAAABzxYX7b3GCMWgZMZ890R/3`

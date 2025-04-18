@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Lauri Haav. ",
+  "description": "100 Suomi \ud83d\udcaf Kannessa KERZA. ",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 174719,
       "name": "Aina",
       "url": "https://open.spotify.com/track/2FIRyQLaMWaatb3ASfldXC"
@@ -1648,6 +1648,28 @@
       "duration_ms": 137999,
       "name": "CHAKRAT SEKASIN",
       "url": "https://open.spotify.com/track/2Wb80vbgLfUaVhEn1klrUb"
+    },
+    {
+      "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/6t9mx1Zbk4ohWJphkaRRRl"
+      },
+      "artists": [
+        {
+          "name": "Lytt\u00e4",
+          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
+        },
+        {
+          "name": "Tohtori Getto",
+          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210980,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/0qLOfTNHwfMOzNdLDkE4cv"
     },
     {
       "album": {
@@ -3231,6 +3253,32 @@
     },
     {
       "album": {
+        "name": "15G",
+        "url": "https://open.spotify.com/album/4F8pVZvwiu4VsjiKQETfNT"
+      },
+      "artists": [
+        {
+          "name": "VITUN ISO ROTSI",
+          "url": "https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv"
+        },
+        {
+          "name": "Sairas T",
+          "url": "https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK"
+        },
+        {
+          "name": "K\u00e4sipuoli",
+          "url": "https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "Fiktaan / Hittaan",
+      "url": "https://open.spotify.com/track/6bSNHaKRKlbO0HSTZ8fYrS"
+    },
+    {
+      "album": {
         "name": "Finanssiveli (feat. Finanssiveli)",
         "url": "https://open.spotify.com/album/7G6ZryN0DX8o4Ua8cdjpKJ"
       },
@@ -3860,7 +3908,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 154813,
       "name": "Hellcat",
       "url": "https://open.spotify.com/track/1h5PLDRhFtTo1RqEj1nx3w"
@@ -4593,6 +4641,24 @@
     },
     {
       "album": {
+        "name": "Ikuisuuteen",
+        "url": "https://open.spotify.com/album/75nGiUV5o6XnNkQ9rxOISk"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183921,
+      "name": "Ikuisuuteen",
+      "url": "https://open.spotify.com/track/0iDngbVf0f913F88x6oWCe"
+    },
+    {
+      "album": {
         "name": "Ik\u00e4v\u00e4",
         "url": "https://open.spotify.com/album/5LKSFR1AK6HUxxRfe2J01C"
       },
@@ -4780,6 +4846,24 @@
       "duration_ms": 182104,
       "name": "Itke sit",
       "url": "https://open.spotify.com/track/5HlCvsft3oLyM6vjNYHW5h"
+    },
+    {
+      "album": {
+        "name": "Itket\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/6gcgjrAWG8rp4fVyYvus1q"
+      },
+      "artists": [
+        {
+          "name": "Young Mike",
+          "url": "https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Itket\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/7BUjnAO5M5fXpmTVNMinb8"
     },
     {
       "album": {
@@ -6695,6 +6779,56 @@
     },
     {
       "album": {
+        "name": "Kr\u00e4kkii skidi",
+        "url": "https://open.spotify.com/album/5KR2LUEO4XJCUs3l3zn6vN"
+      },
+      "artists": [
+        {
+          "name": "Konala Cartelli",
+          "url": "https://open.spotify.com/artist/4ExWI3B0i6haXi4yjAfrmG"
+        },
+        {
+          "name": "Narcotic",
+          "url": "https://open.spotify.com/artist/1D0iaVJFmyTSP5N6zrzk3S"
+        },
+        {
+          "name": "Avaintekij\u00e4t",
+          "url": "https://open.spotify.com/artist/3YtI1VK6M1PLTtuqVZzPhM"
+        },
+        {
+          "name": "Kosola",
+          "url": "https://open.spotify.com/artist/1wAj0WngHoU4WYsD6u3wOx"
+        },
+        {
+          "name": "Hahmo",
+          "url": "https://open.spotify.com/artist/5i7220Nj4NnJpK3GtcWvsa"
+        },
+        {
+          "name": "HEINONE",
+          "url": "https://open.spotify.com/artist/5Snb6MtBwEslMcOW2WYFyG"
+        },
+        {
+          "name": "Tembe",
+          "url": "https://open.spotify.com/artist/274WkVlrJC0WgD7lVAUUHn"
+        },
+        {
+          "name": "Dj Rullbiza",
+          "url": "https://open.spotify.com/artist/2A4uG1Rv5zM7KDpstszzL3"
+        },
+        {
+          "name": "DJ Hoikkapoika",
+          "url": "https://open.spotify.com/artist/2vwMWEG0fRRiOfyA07Afrf"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279652,
+      "name": "Kr\u00e4kkii skidi",
+      "url": "https://open.spotify.com/track/5pXac4fkDJEu2As4US8Tio"
+    },
+    {
+      "album": {
         "name": "Laatikko EP",
         "url": "https://open.spotify.com/album/4Sfu4sUyIaJhvrToINwZkH"
       },
@@ -6794,6 +6928,28 @@
       "duration_ms": 157863,
       "name": "Kuka Siin Netis On",
       "url": "https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw"
+    },
+    {
+      "album": {
+        "name": "Kukkulan kunkku (feat. Turisti)",
+        "url": "https://open.spotify.com/album/1cKEoXSMC1ospYr75r7QGE"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166211,
+      "name": "Kukkulan kunkku (feat. Turisti)",
+      "url": "https://open.spotify.com/track/2kvDmllGIEDtWdNx6QucGx"
     },
     {
       "album": {
@@ -8057,6 +8213,24 @@
     },
     {
       "album": {
+        "name": "Luotui",
+        "url": "https://open.spotify.com/album/7I3MvufdcG1sI82L7HY3sU"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177636,
+      "name": "Luotui",
+      "url": "https://open.spotify.com/track/4yS9DtA071UWfANL19iSwR"
+    },
+    {
+      "album": {
         "name": "Lupaan",
         "url": "https://open.spotify.com/album/0JAx9O0OwHRT9umeLnXxvm"
       },
@@ -8348,6 +8522,28 @@
       "duration_ms": 195994,
       "name": "Malaga (feat. KERZA)",
       "url": "https://open.spotify.com/track/2J7gffGlCl0P3KpdoLkFlU"
+    },
+    {
+      "album": {
+        "name": "Malm\u00d6",
+        "url": "https://open.spotify.com/album/5kbvYqnYAVx7Vd5TKBVGfv"
+      },
+      "artists": [
+        {
+          "name": "Hot Heros",
+          "url": "https://open.spotify.com/artist/4Qwj56r88a95geCz7UF6KA"
+        },
+        {
+          "name": "Asa",
+          "url": "https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240928,
+      "name": "Malm\u00d6",
+      "url": "https://open.spotify.com/track/4nzWSc4QJLzCmnWudtroQT"
     },
     {
       "album": {
@@ -9138,7 +9334,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 165708,
       "name": "Miljoonii (feat. TUULI)",
       "url": "https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674"
@@ -9364,6 +9560,32 @@
       "duration_ms": 205000,
       "name": "Mit vit sit?",
       "url": "https://open.spotify.com/track/1HOmwRS2Ew0BVwp91R2Aef"
+    },
+    {
+      "album": {
+        "name": "Mit\u00e4 jos?",
+        "url": "https://open.spotify.com/album/4aZhGEemQewECZbqQrFAkw"
+      },
+      "artists": [
+        {
+          "name": "remynotagain",
+          "url": "https://open.spotify.com/artist/0EJmMsog45db72sHJI4Ga4"
+        },
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190191,
+      "name": "Mit\u00e4 jos?",
+      "url": "https://open.spotify.com/track/2c8jKORMUzoB2Gy5Zoc8BF"
     },
     {
       "album": {
@@ -10226,7 +10448,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 161142,
       "name": "Nirvanaan",
       "url": "https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2"
@@ -10288,7 +10510,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 166031,
       "name": "Nostetaan malja",
       "url": "https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v"
@@ -10860,7 +11082,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 144093,
       "name": "Paha \u00c4ij\u00e4",
       "url": "https://open.spotify.com/track/0VyEtWYB677PHsvPBaLxYS"
@@ -12506,7 +12728,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 180101,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/1o07xfumEmwE01GeYCFz1w"
@@ -12862,7 +13084,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 145053,
       "name": "Sata shottii",
       "url": "https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO"
@@ -13904,7 +14126,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 174016,
       "name": "Sun luokse",
       "url": "https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz"
@@ -15474,6 +15696,28 @@
       "duration_ms": 175000,
       "name": "TURVAT KII",
       "url": "https://open.spotify.com/track/4SgZSrBAplEFnqIW9btpVM"
+    },
+    {
+      "album": {
+        "name": "Tuu hakee sun mies (feat. Senya)",
+        "url": "https://open.spotify.com/album/6DzW026bWi2rrGLDryPsIP"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        },
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "Tuu hakee sun mies (feat. Senya)",
+      "url": "https://open.spotify.com/track/7Hmw2A09c7o9g9SbtRT5ca"
     },
     {
       "album": {

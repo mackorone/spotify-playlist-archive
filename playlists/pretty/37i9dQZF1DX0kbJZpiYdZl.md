@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 
 > The hottest tracks in the United States\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,547,303 likes - 50 songs - 2 hr 55 min
+[](https://open.spotify.com/user/null) - 1,547,329 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

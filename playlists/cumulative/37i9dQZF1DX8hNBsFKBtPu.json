@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det bedste nye pop \ud83c\udf6d ASTA NORR",
+  "description": "Det bedste nye pop \u2600\ufe0f Lukas Graham",
   "name": "Ny Pop (2)",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 159543,
       "name": "4. sal",
       "url": "https://open.spotify.com/track/0c4Wvo36qvLm1G2GzIhWY3"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 187537,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 157614,
       "name": "Another Lovesong",
       "url": "https://open.spotify.com/track/7ElcwcWng7HG0mM4S0CKfV"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 206135,
       "name": "Breaking Hearts",
       "url": "https://open.spotify.com/track/0bd28vKHk7HDgdOF0gYowj"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 314708,
       "name": "Cursing and Lying!",
       "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 235621,
       "name": "Du og jeg",
       "url": "https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20"
@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/2NW96KndFggFYbRxqCfzzb"
+      },
+      "artists": [
+        {
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182725,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/02Hjgk7NbS2BtkMpK5pe1j"
+    },
+    {
+      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
       },
@@ -2620,7 +2638,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 176489,
       "name": "Gav Det Et Skud",
       "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 142196,
       "name": "GIRLS!",
       "url": "https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH"
@@ -3025,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
+    },
+    {
+      "album": {
         "name": "Heaven II",
         "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
       },
@@ -3268,7 +3304,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 199433,
       "name": "Home",
       "url": "https://open.spotify.com/track/0qwyIfFh15V40SrPqiYcgW"
@@ -3555,6 +3591,28 @@
     },
     {
       "album": {
+        "name": "I Ain't Comin' Back",
+        "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175271,
+      "name": "I Ain't Comin' Back (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
+    },
+    {
+      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI"
       },
@@ -3817,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "Invincible (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155495,
+      "name": "Invincible - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
+    },
+    {
+      "album": {
         "name": "It Could Have Been Us (feat. Griff)",
         "url": "https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu"
       },
@@ -3894,6 +3970,24 @@
       "duration_ms": 220253,
       "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
+    },
+    {
+      "album": {
+        "name": "Jeg h\u00e5ber du er tr\u00e6t",
+        "url": "https://open.spotify.com/album/7F1Oob5IkKadRfsSVESxXG"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e5ende Mig",
+          "url": "https://open.spotify.com/artist/7bPVeep0ZjTQUyWx9m1xup"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171562,
+      "name": "Jeg h\u00e5ber du er tr\u00e6t",
+      "url": "https://open.spotify.com/track/4M7fc1XGQ52TYBOuQyVsyR"
     },
     {
       "album": {
@@ -4016,7 +4110,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 188955,
       "name": "Knappen\u00e5l",
       "url": "https://open.spotify.com/track/2IkoAk3xTcdQARiz9nx5GG"
@@ -4114,7 +4208,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 150108,
       "name": "Kr\u00f8ller",
       "url": "https://open.spotify.com/track/1sjABYpiOeIFuoRV7eWvCc"
@@ -4168,7 +4262,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 200232,
       "name": "K\u00e6rlighed & Krig",
       "url": "https://open.spotify.com/track/10vmR378Hz5V8Gz9gci6Wh"
@@ -4324,7 +4418,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 175470,
       "name": "Lige Nu (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/7u6jj9bsecmZhI6bnATgoc"
@@ -4552,7 +4646,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 192946,
       "name": "LOVE LOOKS PRETTY ON YOU",
       "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
@@ -4794,7 +4888,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 180664,
       "name": "Marianne og Henrik",
       "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
@@ -4932,7 +5026,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 162877,
       "name": "midnatsbarn",
       "url": "https://open.spotify.com/track/5rgBuOJqDuwi1uGJF8lDEh"
@@ -5044,7 +5138,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
@@ -5102,7 +5196,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 144240,
       "name": "nattev\u00e5gen",
       "url": "https://open.spotify.com/track/6sBgIDjNfWnRZyETMGLNW9"
@@ -5380,7 +5474,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 177317,
       "name": "N\u00f8gen",
       "url": "https://open.spotify.com/track/5gK8xceSADPn3qbdrYGlIM"
@@ -5452,7 +5546,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 179714,
       "name": "Omvendt",
       "url": "https://open.spotify.com/track/0cG5XLcf2iOSs5umvP50up"
@@ -5712,7 +5806,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -5730,7 +5824,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 208163,
       "name": "Raketter",
       "url": "https://open.spotify.com/track/18aEfFyZAkkyCJ4PqIOFCR"
@@ -6114,7 +6208,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 145622,
       "name": "Scissors",
       "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
@@ -6262,6 +6356,24 @@
       "duration_ms": 224127,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
+    },
+    {
+      "album": {
+        "name": "KRYD",
+        "url": "https://open.spotify.com/album/4kmwEDHTTFUB9Zdt1VW3Mi"
+      },
+      "artists": [
+        {
+          "name": "KRYD",
+          "url": "https://open.spotify.com/artist/3goYa2gnDqTLI7JESwEmHb"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157681,
+      "name": "Snack",
+      "url": "https://open.spotify.com/track/0dpPVWoap7V5KehLuh9J4t"
     },
     {
       "album": {
@@ -6490,7 +6602,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 162686,
       "name": "Spiderman (feat. USSEL)",
       "url": "https://open.spotify.com/track/1ZUQoHxFpneJtz515ixKAH"
@@ -6544,7 +6656,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 189941,
       "name": "Spring Birds",
       "url": "https://open.spotify.com/track/1ZQRHaAm7uI9bBeeC511vb"
@@ -6794,7 +6906,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 172282,
       "name": "Sweet Delusion",
       "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
@@ -6870,7 +6982,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 168024,
       "name": "S\u00e5dan Det Er",
       "url": "https://open.spotify.com/track/5t1Jflrz9QAeKYSbRcmO2n"
@@ -6950,7 +7062,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -7076,7 +7188,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 175466,
       "name": "The Karate Kid",
       "url": "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F"
@@ -7166,7 +7278,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 171874,
       "name": "They Turn into Ghosts",
       "url": "https://open.spotify.com/track/78hXC9muYVwK95xFiWcLfw"
@@ -7210,7 +7322,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 187679,
       "name": "This Isn't Cool",
       "url": "https://open.spotify.com/track/55SZGuMJ3rvpIdgAMUAfX7"
@@ -7710,7 +7822,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 201533,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
@@ -8088,6 +8200,24 @@
       "duration_ms": 185727,
       "name": "You Only Say You Love Me When You're Drunk",
       "url": "https://open.spotify.com/track/4lJaSZx6Pg4FmEPK4b6tx2"
+    },
+    {
+      "album": {
+        "name": "You You You",
+        "url": "https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162113,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"
     },
     {
       "album": {

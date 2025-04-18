@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-425 songs - 1 day 2 hr 41 min
+426 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 | 2020-11-06 |  |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-11 |  |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2021-12-22 |  |
-| [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 | 2024-08-29 |  |
+| [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 | 2024-08-29 | 2025-04-18 |
 | [Between Your Teeth](https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Between Your Teeth](https://open.spotify.com/album/7mwqbpDbLgAWr85eW1Vp3E) | 2:53 | 2020-08-09 | 2020-12-22 |
 | [Birch Tree](https://open.spotify.com/track/6R7qvSSuG7Hy7C15ESlHIv) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Taking My Time to Be](https://open.spotify.com/album/7BY4eDWiXAkc8sMu1asVw9) | 4:40 | 2020-08-09 | 2020-12-22 |
 | [Birthday](https://open.spotify.com/track/3MlA3b8KVJuratU2qdW4Yb) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/65Ov3Cl0apFHIj2wHY6f2L) | 4:30 | 2020-09-19 | 2020-12-22 |
@@ -269,6 +269,7 @@
 | [Ocho Domingos](https://open.spotify.com/track/4Z3kYIFtzf69vXdRDGTLfP) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [não não](https://open.spotify.com/album/1YGOwQRrbTILIXICx0KiGz) | 2:34 | 2021-04-30 | 2022-04-18 |
 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 | 2020-11-06 |  |
 | [Old Canvas](https://open.spotify.com/track/5JREM5ZdkL20Yeiv71nssh) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Old Canvas](https://open.spotify.com/album/6ITW1wLstKHkOUMin1G3ew) | 4:30 | 2021-07-19 | 2022-07-29 |
+| [Omni Eyes](https://open.spotify.com/track/57USDaPut6hn13OEIn8EWE) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD) | [Omni Eyes](https://open.spotify.com/album/3QwzdfTAbO3bPrW0bVI1fg) | 4:10 | 2025-04-11 |  |
 | [On My Skin](https://open.spotify.com/track/7b1aBkrngrTz8RXlkdQCay) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [On My Skin](https://open.spotify.com/album/2qWpaeNEMJOQiDX560IF2b) | 3:25 | 2019-11-19\* | 2020-12-22 |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-07-06 | 2024-04-19 |
 | [Once Twice Melody](https://open.spotify.com/track/6CKsbTf8sdbVrouTPRmecU) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4TXjlsgAAdeiIZl63oMpW4) | 4:44 | 2021-12-22 | 2022-07-29 |

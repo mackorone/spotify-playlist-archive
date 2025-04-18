@@ -1,10 +1,10 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 142923,
+  "num_followers": 142940,
   "original_name": "Sunday Sessions",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "Z/WYOgAAAABK3+r+Xdrt1Ty2P7ExKXKa",
   "tracks": [
@@ -735,42 +735,6 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
         "name": "Drift / Long Story Short",
         "url": "https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx"
       },
@@ -791,6 +755,42 @@
       "duration_ms": 246956,
       "name": "Drift",
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/5MOpSlXFGJwXQ9ytEFE7wT"
+      },
+      "artists": [
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/0ZLIXXvBXfEMV4VFSqNSVu"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/4qROVm5bhCJAhkM4AW7pNt"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
-        "name": "Come To Me",
-        "url": "https://open.spotify.com/album/5MOpSlXFGJwXQ9ytEFE7wT"
-      },
-      "artists": [
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Come To Me",
-      "url": "https://open.spotify.com/track/0ZLIXXvBXfEMV4VFSqNSVu"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Burn It (Reworked)",
-        "url": "https://open.spotify.com/album/5DR2QPx2Kyg0VJD3iweeJu"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 264984,
-      "name": "Burn It - RONA. Ware Rework",
-      "url": "https://open.spotify.com/track/3neOJy2yv6175WoUgK1clY"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
         "name": "Pink Wax",
         "url": "https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 245264,
       "name": "Flipper",
       "url": "https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
+        "name": "Burn It (Reworked)",
+        "url": "https://open.spotify.com/album/5DR2QPx2Kyg0VJD3iweeJu"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "duration_ms": 264984,
+      "name": "Burn It - RONA. Ware Rework",
+      "url": "https://open.spotify.com/track/3neOJy2yv6175WoUgK1clY"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/4N721gRUUOQBwfAaPoJlt7"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 236434,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/72ikMuRcLGZZxzNOJTRNha"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
         "name": "Mirror Mountain",
         "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Blue Light",
-        "url": "https://open.spotify.com/album/4N721gRUUOQBwfAaPoJlt7"
-      },
-      "artists": [
-        {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 236434,
-      "name": "Blue Light",
-      "url": "https://open.spotify.com/track/72ikMuRcLGZZxzNOJTRNha"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
         "name": "Since I Don't Have You (Dual Remix)",
         "url": "https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE"
       },
@@ -1483,26 +1483,6 @@
       "duration_ms": 200813,
       "name": "Feel It - Claptone Remix",
       "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
-    },
-    {
-      "added_at": "2025-04-08 21:42:18",
-      "album": {
-        "name": "Someone For Me",
-        "url": "https://open.spotify.com/album/1b5E2J5Uh6Trif3ZvPMu5o"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Someone For Me",
-      "url": "https://open.spotify.com/track/2LtoZ6EThyjG4QscR6MuZC"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1559,6 +1539,26 @@
       "duration_ms": 216838,
       "name": "Frauds (Mall Grab Remix)",
       "url": "https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL"
+    },
+    {
+      "added_at": "2025-04-08 21:42:18",
+      "album": {
+        "name": "Someone For Me",
+        "url": "https://open.spotify.com/album/1b5E2J5Uh6Trif3ZvPMu5o"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 139333,
+      "name": "Someone For Me",
+      "url": "https://open.spotify.com/track/2LtoZ6EThyjG4QscR6MuZC"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1807,22 +1807,22 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "The Remixes",
-        "url": "https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig"
+        "name": "Bang My Line (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
       },
       "artists": [
         {
-          "name": "Anakelly",
-          "url": "https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
         },
         {
-          "name": "Leo Portela",
-          "url": "https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk"
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 173793,
-      "name": "Under The Milky Way - Leo Portela Remix",
-      "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
+      "duration_ms": 153500,
+      "name": "Bang My Line (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
     },
     {
       "added_at": "2025-04-08 21:42:18",
@@ -1847,22 +1847,22 @@
     {
       "added_at": "2025-04-08 21:42:18",
       "album": {
-        "name": "Bang My Line (feat. Tkay Maidza)",
-        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
+        "name": "make it right",
+        "url": "https://open.spotify.com/album/7M0WcdxpnFqMU2KNyEp5SB"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "upsidedownhead",
+          "url": "https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB"
         },
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "Elmar",
+          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
         }
       ],
-      "duration_ms": 153500,
-      "name": "Bang My Line (feat. Tkay Maidza)",
-      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
+      "duration_ms": 227328,
+      "name": "make it right",
+      "url": "https://open.spotify.com/track/5YU7vzxKLzH2YVcDRNkfkH"
     }
   ],
   "unique_name": "Sunday Sessions",

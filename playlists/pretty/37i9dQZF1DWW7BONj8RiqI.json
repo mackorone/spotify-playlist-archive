@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 226449,
+  "num_followers": 226504,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Hooked on Soca",
-        "url": "https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd"
-      },
-      "artists": [
-        {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
-        }
-      ],
-      "duration_ms": 183992,
-      "name": "Hookin' Meh",
-      "url": "https://open.spotify.com/track/5ZAKzjJeCTHnK3cGw1PzXa"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Wotless Carnival Album",
         "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 218228,
       "name": "Wotless",
       "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Hooked on Soca",
+        "url": "https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd"
+      },
+      "artists": [
+        {
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+        }
+      ],
+      "duration_ms": 183992,
+      "name": "Hookin' Meh",
+      "url": "https://open.spotify.com/track/5ZAKzjJeCTHnK3cGw1PzXa"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -611,6 +611,38 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Studio B Presents Crop Over Hits 2014",
+        "url": "https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt"
+      },
+      "artists": [
+        {
+          "name": "Fadda Fox",
+          "url": "https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK"
+        }
+      ],
+      "duration_ms": 233563,
+      "name": "Ducking",
+      "url": "https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Workout (feat. Nailah Blackman)",
         "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
       },
@@ -631,22 +663,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "How She Like It",
         "url": "https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 181567,
       "name": "How She Like It",
       "url": "https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Studio B Presents Crop Over Hits 2014",
-        "url": "https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt"
-      },
-      "artists": [
-        {
-          "name": "Fadda Fox",
-          "url": "https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK"
-        }
-      ],
-      "duration_ms": 233563,
-      "name": "Ducking",
-      "url": "https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -747,42 +747,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Shake The Place",
-        "url": "https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 227642,
-      "name": "Shake The Place",
-      "url": "https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -807,6 +771,26 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Shake The Place",
+        "url": "https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 227642,
+      "name": "Shake The Place",
+      "url": "https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Born Wit It (Bumpa Riddim)",
         "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 202448,
       "name": "Born Wit It (Bumpa Riddim)",
       "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Faluma",
-      "url": "https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Faluma",
+      "url": "https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Face Beat",
         "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Give It to Ya",
-        "url": "https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc"
-      },
-      "artists": [
-        {
-          "name": "Marzville",
-          "url": "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P"
-        }
-      ],
-      "duration_ms": 172253,
-      "name": "Give It to Ya",
-      "url": "https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "The Queen of Bacchanal",
         "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 234242,
       "name": "Just a Little Bit",
       "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Give It to Ya",
+        "url": "https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc"
+      },
+      "artists": [
+        {
+          "name": "Marzville",
+          "url": "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Give It to Ya",
+      "url": "https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Retro Fete Riddim",
-        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Party Nice",
-      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "The Carnival Jumbies Experiment",
         "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 158917,
       "name": "Carnival Jumbie",
       "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Retro Fete Riddim",
+        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Forever Vol.1",
         "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 365240,
       "name": "Sugar Bum Bum",
       "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2025-02-06 10:19:43",

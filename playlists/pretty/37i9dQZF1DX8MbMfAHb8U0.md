@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,163 likes - 99 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,389 likes - 99 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 29 | [With You](https://open.spotify.com/track/7p3zXqc0IxJy2Q6gijQ1JN) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Late Nights & Early Mornings](https://open.spotify.com/album/3l9KeT7TXfQKg8RhzoC6DI) | 5:09 |
 | 30 | [The Lady Suite \- Live from MTV Unplugged, Brooklyn, NY \- May 1997](https://open.spotify.com/track/1wygFl6hCok4naRPSrDdWL) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [MTV Unplugged](https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs) | 4:20 |
 | 31 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/69m2f2jbcsxvwbA0RlspCU) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/1ecv8bJajqX9E0EOX2g3eI) | 7:10 |
-| 32 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
+| 32 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq](https://open.spotify.com/artist/6ICcerqdQdHl3dApxiQF23) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
 | 33 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
 | 34 | [What Am I Gonna Do](https://open.spotify.com/track/6IOQR0cX0I8TW3GemSy5bG) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [2000 Watts](https://open.spotify.com/album/3iqLf7BrFWw215CTshTq1J) | 4:40 |
 | 35 | [Unanswered Question](https://open.spotify.com/track/507JG4hPjRrTAJ82Zq1f5G) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Morning](https://open.spotify.com/album/13Yxiwc6ETb76A6U9VUiZ4) | 3:34 |

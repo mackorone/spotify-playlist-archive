@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Jay Melody
+> What is your love language? Say it in Swahili\.  Cover: Nandy
 
-287 songs - 16 hr 12 min
+290 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 | 2022-10-28 |
 | [All I Need](https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [All I Need](https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp) | 3:07 | 2023-10-26 | 2024-02-23 |
 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 | 2023-12-22 | 2024-04-19 |
-| [Am Not Single](https://open.spotify.com/track/537Si4kckMP9Y24UqHodsM) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq) | [Am Not Single](https://open.spotify.com/album/2KE2TJXYuUI2GA2AkudXmZ) | 3:34 | 2025-02-20 |  |
+| [Am Not Single](https://open.spotify.com/track/537Si4kckMP9Y24UqHodsM) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq) | [Am Not Single](https://open.spotify.com/album/2KE2TJXYuUI2GA2AkudXmZ) | 3:34 | 2025-02-20 | 2025-04-18 |
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-22 | 2024-07-27 |
 | [Amepotea](https://open.spotify.com/track/1KfN3qcfWz6pgs4Zt5pobn) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Amepotea](https://open.spotify.com/album/1eXFjINMwEDj9gRUJcKThw) | 2:59 | 2024-03-14 | 2024-03-22 |
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-23 | 2024-06-07 |
@@ -83,7 +83,7 @@
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 | 2025-01-10 |
 | [I Belong To You](https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [I Belong To You](https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1) | 2:52 | 2023-11-10 | 2024-02-23 |
 | [I Do](https://open.spotify.com/track/0xKkw3VN1fEFWK8BGsyEBM) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 3:01 | 2024-07-04 | 2024-07-06 |
-| [I Do](https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [I Do](https://open.spotify.com/album/2J0frKTCXVcOUb9piqkVwo) | 3:19 | 2024-09-26 |  |
+| [I Do](https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [I Do](https://open.spotify.com/album/2J0frKTCXVcOUb9piqkVwo) | 3:19 | 2024-09-26 | 2025-04-18 |
 | [I Love You](https://open.spotify.com/track/2Mt3Sq3zpBmZj6pkkttzQs) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Love You](https://open.spotify.com/album/3beOuf8HSVjiWzl47doPX6) | 3:10 | 2024-11-22 | 2025-04-04 |
 | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD) | 4:08 | 2022-05-26 | 2024-02-02 |
 | [I Need You](https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Need You](https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm) | 3:05 | 2023-08-31 | 2024-02-16 |
@@ -94,7 +94,7 @@
 | [Inamana](https://open.spotify.com/track/6Ok2y1aYRb3CMwxVXKI6K3) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Inamana](https://open.spotify.com/album/1aDCSJhVHkQmbWbSQzRYiq) | 3:16 | 2025-02-06 |  |
 | [Inauma](https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Inauma](https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD) | 3:23 | 2023-01-26 | 2024-11-08 |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-08-04 | 2024-11-08 |
-| [Itakuwaje](https://open.spotify.com/track/6KaOabG3gQtpXkcjIrZpFO) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Itakuwaje](https://open.spotify.com/album/2iRNMnHtUMbySqQWCpGbov) | 3:43 | 2024-10-24 |  |
+| [Itakuwaje](https://open.spotify.com/track/6KaOabG3gQtpXkcjIrZpFO) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Itakuwaje](https://open.spotify.com/album/2iRNMnHtUMbySqQWCpGbov) | 3:43 | 2024-10-24 | 2025-04-18 |
 | [Itakuwaje \(feat\. Alikiba\)](https://open.spotify.com/track/2M0ARj6GrBRj7JM6iD774D) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Sama](https://open.spotify.com/album/4X5BPDkG9mXJCqD19ZokTv) | 3:19 | 2024-11-07 |  |
 | [I’m in Love](https://open.spotify.com/track/0S8sYk7nIChReBozy6jj4v) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Flamingo](https://open.spotify.com/album/75S808mAq3BhRWEFBnYnCk) | 3:24 | 2025-03-07 |  |
 | [Je T Aime](https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Je T Aime](https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj) | 4:16 | 2024-05-09 | 2024-10-04 |
@@ -204,6 +204,7 @@
 | [Nitaubeba](https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Nitaubeba](https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI) | 4:10 | 2022-10-27 | 2024-10-18 |
 | [Niteke](https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Niteke](https://open.spotify.com/album/0DJ6lEzgMYxW5om8AUwmpP) | 2:37 | 2022-05-26 | 2023-04-21 |
 | [No Body \(feat\. Bien\)](https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [No Body \(feat\. Bien\)](https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d) | 3:23 | 2023-03-30 |  |
+| [No Stress](https://open.spotify.com/track/1qwAufkn1HNoDTLNAxItdv) | [Nandy](https://open.spotify.com/artist/4BAqXsmyKo72kZuG4tkv4m) | [No Stress](https://open.spotify.com/album/4Jx3PlbkvB1Rs25h36gELZ) | 2:36 | 2025-04-18 |  |
 | [Number one](https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Number one](https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5) | 3:47 | 2024-02-22 | 2024-11-22 |
 | [Number One \(feat\. Zuchu\)](https://open.spotify.com/track/3E3aGiIEpAtuVD0wPjDSsi) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One \(feat\. Zuchu\)](https://open.spotify.com/album/3uSWtkSEGvuCeafCDL47eu) | 3:33 | 2024-03-14 | 2024-03-22 |
 | [Okay](https://open.spotify.com/track/5wY9TuRcJ5G9gz7SpqMzSW) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Okay](https://open.spotify.com/album/7wt6uu5it7TniGsatpOgKb) | 2:52 | 2024-12-05 |  |
@@ -211,6 +212,7 @@
 | [Only You](https://open.spotify.com/track/4n1FawMqnngqLyF9KslSPh) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Only You](https://open.spotify.com/album/18tAdLw8uME5BDHtEtipBd) | 3:21 | 2024-07-25 | 2024-12-20 |
 | [Ova](https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ova](https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J) | 3:28 | 2024-10-04 |  |
 | [Pambe Tu](https://open.spotify.com/track/5LQbgAhs2SLyZwzSZhGjYs) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Pambe Tu](https://open.spotify.com/album/3By27Rll9J132bK0qKxObI) | 4:00 | 2024-03-14 | 2024-11-29 |
+| [Pamela](https://open.spotify.com/track/7jSPRtC4yAPeuV9DBQjqCk) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [The Music Station](https://open.spotify.com/album/3uVHxFHLQ1WeJchiIff5jJ) | 2:57 | 2025-04-18 |  |
 | [Peddi](https://open.spotify.com/track/3aHrxlOER0GudlLbdejqyq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 3:47 | 2022-05-26 | 2023-06-16 |
 | [Peke Yangu](https://open.spotify.com/track/6eJGx1fIVOrbz1l9C4udP2) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Peke Yangu Club Version](https://open.spotify.com/album/79UMH1TfPJ3chYKToIhpM7) | 2:53 | 2024-05-16 | 2024-06-28 |
 | [Pillow Talk](https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Pillow Talk](https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j) | 2:47 | 2023-04-06 | 2023-12-01 |
@@ -275,6 +277,7 @@
 | [Utaniua](https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Utaniua](https://open.spotify.com/album/59Ir2NbfuFJomiA8xJmrTo) | 3:34 | 2024-10-04 | 2025-02-07 |
 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-09 |  |
 | [Utaweza](https://open.spotify.com/track/3opPyNy1QuRSfvsYGR0sLp) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Utaweza](https://open.spotify.com/album/4O3VGX7GKH2urhcmGf29Gh) | 2:41 | 2025-03-21 |  |
+| [Uwii](https://open.spotify.com/track/1kW4pZ6Wo5Ez2FxAwjgofz) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW) | [Uwii](https://open.spotify.com/album/3EbO59N8rgoV5PUyDh6MPJ) | 3:06 | 2025-04-18 |  |
 | [Vuta](https://open.spotify.com/track/1AsTe59j8x2GaExAht12Fk) | [TLVSN](https://open.spotify.com/artist/6PWktnw07ge9NXQCBYxP74) | [Vuta](https://open.spotify.com/album/4gQLnVEgg1Ki1uiK2uQbth) | 4:06 | 2023-09-21 | 2023-12-01 |
 | [Wa Sasa](https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wa Sasa](https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m) | 3:14 | 2023-09-07 | 2024-06-14 |
 | [Waambie](https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Waambie](https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3) | 2:37 | 2023-09-21 | 2024-02-23 |

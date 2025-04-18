@@ -2,9 +2,9 @@
 
 ### [פופ ישראלי חדש](https://open.spotify.com/playlist/37i9dQZF1DX9sLipKPkV9T)
 
-> כל הפופ היפה והמרגש של ישראל\. קאבר: ענבל ביבי
+> כל הפופ היפה והמרגש של ישראל\. קאבר:  לירן דנינו
 
-325 songs - 17 hr 17 min
+326 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-06-27 | 2024-09-13 |
 | [Iron Lion Zion](https://open.spotify.com/track/0ZwJlSQ41Pys44mY6F5MVD) | [Lion in Zion](https://open.spotify.com/artist/0m8yx6cyjVL0U9dS8XxKkd), [Montana Tucker](https://open.spotify.com/artist/1JoFybEqNl2AqFWbhSy5gQ), [Sarai Givaty](https://open.spotify.com/artist/5U11HpBwUI2obAmeIVkOr0), [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd), [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr), [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g), [Moshe Reuven](https://open.spotify.com/artist/1qJlHo34rHLy2B4xfNo3Qn) | [Iron Lion Zion](https://open.spotify.com/album/4CdjTaYdvWsAgkvo7ixPu4) | 2:24 | 2024-08-01 | 2024-09-13 |
 | [It's So Hard](https://open.spotify.com/track/0g8AjHiTKGUrJbcfpsAnkO) | [Red Band](https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs), [Moran Aharoni](https://open.spotify.com/artist/4gGJEwNPz197Aa5KjB6JIA), [הכוכב הבא](https://open.spotify.com/artist/5vzETUgvElb2xfKJ1e0VHN) | [It's So Hard](https://open.spotify.com/album/3Nk6oEVn6jQl29Eb5DVT9i) | 3:42 | 2025-01-09 | 2025-03-21 |
-| [Leave Me](https://open.spotify.com/track/4v61IPd59ilTDCEjvWFWJj) | [Hadar Sopher](https://open.spotify.com/artist/4ept0xjPF374lsJA76Y4rU) | [Leave Me](https://open.spotify.com/album/6rhJZ6qI0oMAXUDC9PlOSC) | 2:34 | 2025-02-27 |  |
+| [Leave Me](https://open.spotify.com/track/4v61IPd59ilTDCEjvWFWJj) | [Hadar Sopher](https://open.spotify.com/artist/4ept0xjPF374lsJA76Y4rU) | [Leave Me](https://open.spotify.com/album/6rhJZ6qI0oMAXUDC9PlOSC) | 2:34 | 2025-02-27 | 2025-04-18 |
 | [Like What U See](https://open.spotify.com/track/1KILi2wUvgaHEBN935D2so) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Like What U See](https://open.spotify.com/album/6QlJOaK2GXm0yKhiWM6yxu) | 2:29 | 2025-02-13 |  |
 | [Mon Amour \(Cover\)](https://open.spotify.com/track/7qyqxiTKs9GbFYT1nJhunJ) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [Mon Amour \(Cover\)](https://open.spotify.com/album/111m5PY3IQd6FJb91WVkQ0) | 3:13 | 2024-07-18 | 2024-08-23 |
 | [New Day Will Rise](https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8) | [יובל רפאל](https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [New Day Will Rise](https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ) | 2:59 | 2025-03-13 |  |
@@ -270,6 +270,7 @@
 | [סורי](https://open.spotify.com/track/2zlmnlpI2DKSvKAV9tITaA) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [סורי](https://open.spotify.com/album/3V8jNlMHrAFvWCoByUfM1b) | 2:41 | 2025-03-06 |  |
 | [סיבה להמשיך](https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [סיבה להמשיך](https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR) | 2:59 | 2025-01-30 | 2025-02-28 |
 | [סימנים מלמעלה](https://open.spotify.com/track/09pchIRVARhn5CncJ0ovH1) | [Amit Ben David](https://open.spotify.com/artist/63Xvb8GwHgWBzX2f8rSQab) | [סימנים מלמעלה](https://open.spotify.com/album/1LQM5QiA2jDUmOb8MoCLAo) | 2:18 | 2024-10-24 | 2025-01-10 |
+| [סליחה](https://open.spotify.com/track/3bNMJufCrUTvulgd5XhUKs) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [סליחה](https://open.spotify.com/album/7fDRe1qM9w0Dq7UyDgu4C8) | 3:45 | 2025-04-17 |  |
 | [עוד אחד](https://open.spotify.com/track/7jevGyHj54ThsFRu5wL4zB) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [עוד אחד](https://open.spotify.com/album/5YLdnAImxgjXXAzccrP7kf) | 2:15 | 2024-07-04 | 2024-09-27 |
 | [עוד יום](https://open.spotify.com/track/6loXNi6N8aaX1cWgM4ujjE) | [צאן ברזל מוזיקה](https://open.spotify.com/artist/0ZpFHH7i9H9iHh6X0j73iv), [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [מעפר פורחת שושנה \- פרויקט מחווה לרחל שפירא](https://open.spotify.com/album/1f38jWZazqXBjJDNtxd4iY) | 4:08 | 2025-02-06 | 2025-02-21 |
 | [עושה אליך דרך](https://open.spotify.com/track/2uB1iBf7jJS8juQCsCepfu) | [Mika Moshe](https://open.spotify.com/artist/2TbLxamjJeEArYTdwdpvC6) | [עושה אליך דרך](https://open.spotify.com/album/7diEQeaMv9e4y1CZbL6qvy) | 3:24 | 2024-06-27 | 2024-08-09 |

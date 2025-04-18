@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 30524,
+  "num_followers": 30533,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "Bafaker Kteer",
+        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
+      },
+      "artists": [
+        {
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+        }
+      ],
+      "duration_ms": 200337,
+      "name": "Bafaker Kteer",
+      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "Xvibe",
         "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 167499,
       "name": "7ai",
       "url": "https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "Bafaker Kteer",
-        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
-      },
-      "artists": [
-        {
-          "name": "Reina Khoury",
-          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
-        }
-      ],
-      "duration_ms": 200337,
-      "name": "Bafaker Kteer",
-      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Ammal Tehlaw",
-        "url": "https://open.spotify.com/album/1GOZ3S72ib2ZU1MjpeRy42"
-      },
-      "artists": [
-        {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
-        }
-      ],
-      "duration_ms": 189870,
-      "name": "Ammal Tehlaw",
-      "url": "https://open.spotify.com/track/1hUZU0lCce1QzcaqWjwWiE"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Ma Bdi Heb",
         "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 254394,
       "name": "Ma Bdi Heb",
       "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Ammal Tehlaw",
+        "url": "https://open.spotify.com/album/1GOZ3S72ib2ZU1MjpeRy42"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 189870,
+      "name": "Ammal Tehlaw",
+      "url": "https://open.spotify.com/track/1hUZU0lCce1QzcaqWjwWiE"
     },
     {
       "added_at": "2024-12-21 19:38:19",

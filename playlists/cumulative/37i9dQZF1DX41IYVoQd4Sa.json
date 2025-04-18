@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "Hide",
+        "url": "https://open.spotify.com/album/5YW6Bo5MJnq693AFC9wQwK"
+      },
+      "artists": [
+        {
+          "name": "flatmate sessions",
+          "url": "https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW"
+        },
+        {
+          "name": "KUPA",
+          "url": "https://open.spotify.com/artist/6aTpmtMOHVX6hxCaHV4erM"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/3FYIt7h7Pa7QK7anzrQfHN"
+    },
+    {
+      "album": {
         "name": "HIGHER",
         "url": "https://open.spotify.com/album/5XR8SwQtlGafU9QVIOFeNJ"
       },
@@ -3174,7 +3196,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 183750,
       "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
       "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"

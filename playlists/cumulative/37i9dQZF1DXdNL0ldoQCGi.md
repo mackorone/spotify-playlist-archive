@@ -4,7 +4,7 @@
 
 > aquela lá que tá viral no seu feed sabe
 
-587 songs - 1 day 6 hr 6 min
+588 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Chapadinha na Gaveta](https://open.spotify.com/track/6n7CZFET4ezOR6F5T7J3oC) | [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Vanessa Lopes](https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Chapadinha na Gaveta](https://open.spotify.com/album/5CXtG2sHFTd7odjkLI7ezF) | 1:55 | 2022-11-17 | 2023-01-10 |
 | [Cheio de Vontade de Vencer](https://open.spotify.com/track/6bIJrA42pDDWlnmDcEBVsx) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Cheio de Vontade de Vencer](https://open.spotify.com/album/1llO0usFMPuqCDATxeRZHi) | 2:19 | 2023-01-10 | 2023-03-08 |
 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 | 2022-11-01 | 2025-02-26 |
+| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 | 2025-04-17 |  |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-08 | 2023-10-24 |
 | [Cigarettes out the Window](https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:18 | 2022-10-07 | 2022-11-08 |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6) | [intomusic brazil](https://open.spotify.com/artist/7a65BfOit4jjLQiH1jLz9N) | [Coisas Que Eu Sei](https://open.spotify.com/album/6L0TgC0N85KnF2cCL7t0es) | 3:05 | 2023-03-14 | 2023-04-12 |
@@ -175,7 +176,7 @@
 | [Duas Dose, Bebida Rosa](https://open.spotify.com/track/2aNDlOZefOVDkS7x1XVCAW) | [LUMEMOB](https://open.spotify.com/artist/1pysWsHZi97sFEo1xbfbdf), [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Duas Dose, Bebida Rosa](https://open.spotify.com/album/262rkrYXrrJ3e14xXrdSQR) | 1:38 | 2023-06-28 | 2023-07-14 |
 | [Déjame Revisarte el Celular 2](https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk) | [Ingrid Laien](https://open.spotify.com/artist/0pqi4oqmXe9hRZvPluv6Rg), [Los del fino](https://open.spotify.com/artist/0rLO1GPW2WuqkcSJrP6FSw) | [Déjame Revisarte el Celular 2](https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5) | 2:38 | 2022-08-22 | 2022-10-22 |
 | [E Se Eu Falasse o Que Sinto?](https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:36 | 2022-07-28 | 2022-10-18 |
-| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-25 |  |
+| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-25 | 2025-04-18 |
 | [Ei Amor](https://open.spotify.com/track/6iO7nBM2StwcPvuyblR0P4) | [Mvk](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Ei Amor](https://open.spotify.com/album/3T0cIVploIZ82Qve1FtXBx) | 2:23 | 2022-09-05 | 2022-10-18 |
 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 | 2023-03-23 | 2023-12-14 |
 | [Ela Sabe Que É o Henry Né?](https://open.spotify.com/track/3Er8so9d9DSxhgOF5Bcgc3) | [Hits Show](https://open.spotify.com/artist/3B8NbwiC5bv1dQqaow8D4m) | [Ela Sabe Que É o Henry Né?](https://open.spotify.com/album/2CxxK082gGgQdIVaYjsJV1) | 1:23 | 2023-06-28 | 2023-09-28 |

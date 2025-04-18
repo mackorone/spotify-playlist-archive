@@ -2,9 +2,9 @@
 
 ### [Naija Worship](https://open.spotify.com/playlist/37i9dQZF1DX1PgTwYgvl4t)
 
-> Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=oRTyS4OKTBCTyzA6uPpEIg>Moses Bliss</a>
+> Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>
 
-185 songs - 21 hr 59 min
+186 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2024-05-09 |  |
 | [I Love You Lord](https://open.spotify.com/track/6vppF3PlYeIh2eWxee7Z18) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I Love You Lord](https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7) | 9:15 | 2024-08-02 |  |
 | [I Overcame](https://open.spotify.com/track/4W3PcOJiacBGCQAhDMLRPP) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O) | 5:22 | 2024-05-09 |  |
+| [I Pray](https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 1:43 | 2025-04-18 |  |
 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 | 2024-11-15 |  |
 | [I will never bow](https://open.spotify.com/track/0RicsAMU6yVoDzGtOHsByv) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [I will never bow](https://open.spotify.com/album/5bc5Ac5sF64Pj8wXj8vISe) | 9:52 | 2025-04-04 |  |
 | [I Worship](https://open.spotify.com/track/2LLUDLGzrX9366WZOHiTNc) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX), [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Worship](https://open.spotify.com/album/5GRITao3nx7gyaAEn0tgYa) | 3:51 | 2024-06-07 | 2024-12-20 |
@@ -164,7 +165,7 @@
 | [The Invitation \- Grace's Version](https://open.spotify.com/track/7cu8qfP88qhpBxQ2ZvMB8f) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [The Invitation](https://open.spotify.com/album/46dd3h3Fl0DBqXKtLsCARC) | 8:46 | 2025-03-14 |  |
 | [The Kadosh \(Live\)](https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Kadosh \(Live\)](https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr) | 9:05 | 2024-05-09 |  |
 | [The King](https://open.spotify.com/track/7IDktFFGl9xPLLdx1Kxtbo) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Ndubuisi Anagha](https://open.spotify.com/artist/57Fj4UwjZcw6DhavaVFTyT) | [The King](https://open.spotify.com/album/3uoMh4YBCHbw8rQfdgEbMz) | 7:48 | 2025-03-07 | 2025-04-11 |
-| [The King Is Coming](https://open.spotify.com/track/40inC92JTKVWMCoYbJwX64) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [The King Is Coming](https://open.spotify.com/album/5jTtR6g2fHUl8VkOn3EDOb) | 5:06 | 2025-01-31 |  |
+| [The King Is Coming](https://open.spotify.com/track/40inC92JTKVWMCoYbJwX64) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [The King Is Coming](https://open.spotify.com/album/5jTtR6g2fHUl8VkOn3EDOb) | 5:06 | 2025-01-31 | 2025-04-18 |
 | [The Way You Love Me](https://open.spotify.com/track/5TJ1pjgljJR6urR6QtsMWC) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Victoria Olorunsola](https://open.spotify.com/artist/4rvdKOmMiYS5nHMMRLgHp8) | [The Way You Love Me](https://open.spotify.com/album/2DJEtcqkVBBdNK8FRoYObJ) | 6:05 | 2025-02-14 | 2025-03-28 |
 | [There For Me](https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [There For Me](https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t) | 5:00 | 2024-05-09 | 2024-06-14 |
 | [There For Me](https://open.spotify.com/track/6MOLlzdQfGPR1xLVSEHG8T) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [There For Me](https://open.spotify.com/album/0mc0EvdbLGj8rOsNp3S1CJ) | 8:47 | 2024-12-13 | 2025-01-10 |

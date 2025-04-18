@@ -4,13 +4,15 @@
 
 > 
 
-153 songs - 5 hr 59 min
+155 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#BrooklynBloodPop!](https://open.spotify.com/track/5tDbyeaCvxjNCBcupQucGo) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/4Z6Z57AaQS5JJ7lf6tZsUs) | 2:25 | 2025-01-05 |  |
 | [\#PACK!](https://open.spotify.com/track/33DxFfqzFfmib0TDBJieOk) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [\#PACK!](https://open.spotify.com/album/44FSESFewT2ukQRlD2txjC) | 0:59 | 2025-04-11 |  |
 | [\#Zombie!](https://open.spotify.com/track/1OB66nbcYyblILcAaUM2Ke) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [reaptokyo](https://open.spotify.com/artist/62ghDL8bmpEuoBLrxMKwUH) | [\#Zombie!](https://open.spotify.com/album/7Ed9j7HWEEX4NVDukLly6s) | 1:14 | 2025-04-11 |  |
+| [04:00](https://open.spotify.com/track/41Mmsc8xrT6MX30lEBwm0A) | [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [04:00](https://open.spotify.com/album/26IKkSYC1DYrS0wJ8krXHX) | 1:17 | 2025-04-17 |  |
+| [04:03](https://open.spotify.com/track/7Cf1svuoRdJeBE31TGnQdg) | [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [04:03](https://open.spotify.com/album/5excPWx4CCg5XvOiqmEK6w) | 2:19 | 2025-04-17 |  |
 | [24\-7!](https://open.spotify.com/track/7MceGNdwAbMbpqibENFlwB) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [24\-7!](https://open.spotify.com/album/6xprDMhS4ZCy2yNcmKE2yn) | 1:57 | 2024-12-08 |  |
 | [2RAD!](https://open.spotify.com/track/0ISfL8bvPAlioAsmmQOxQ2) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:29 | 2024-12-08 |  |
 | [5’11!](https://open.spotify.com/track/2b6MTivv1hIBqctL6xUXDs) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [5’11!](https://open.spotify.com/album/2iaDkvIoAlLz6pHVPcseeZ) | 1:55 | 2025-03-24 | 2025-04-10 |

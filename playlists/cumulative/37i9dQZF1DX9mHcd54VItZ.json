@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/track/164h7iFIdZOec4AO1CvhGh?si=f2d4df92b0744287\">Vreemd</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn?si=whX2RYzUTQWHW7EtPaxNXQ\">Glaskas</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 163571,
       "name": "1959",
       "url": "https://open.spotify.com/track/4aJkAL9bzx96YiY2GRUAeB"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 296988,
       "name": "All This Doing Is Your Own!",
       "url": "https://open.spotify.com/track/440w0VCLUzPBhFRVx5znhh"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 195583,
       "name": "Bietjie Luck",
       "url": "https://open.spotify.com/track/7gw6nTvJtjRZ2bgz9yXSds"
@@ -4128,7 +4128,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 157520,
       "name": "Ghost Rider",
       "url": "https://open.spotify.com/track/7yY19ftTx7KgHBnAvpWBXx"
@@ -4423,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/5h8I7Z6T0CpBKwKQKfJ4SO"
+      },
+      "artists": [
+        {
+          "name": "Lach\u00e9",
+          "url": "https://open.spotify.com/artist/4p7Rs31vPDoJYkOnhSRfXK"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/2HNd7n5LuWnnP73FZ5HurC"
+    },
+    {
+      "album": {
         "name": "H.F.A.Y. (How Fake Are You)",
         "url": "https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK"
       },
@@ -4626,6 +4644,32 @@
       "duration_ms": 193986,
       "name": "Hey Mister",
       "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
+    },
+    {
+      "album": {
+        "name": "Hoe Nou?",
+        "url": "https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        },
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        },
+        {
+          "name": "Johan Viljoen",
+          "url": "https://open.spotify.com/artist/40uxME7eqIDtDr7Q9Z07P3"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179002,
+      "name": "Hoe Nou?",
+      "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
     },
     {
       "album": {
@@ -8591,6 +8635,24 @@
     },
     {
       "album": {
+        "name": "Rosie Rosie",
+        "url": "https://open.spotify.com/album/1xLtJfGTK4toDuN6fShmKo"
+      },
+      "artists": [
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222669,
+      "name": "Rosie Rosie",
+      "url": "https://open.spotify.com/track/1BTvmatjWw74TnOUwqSMwM"
+    },
+    {
+      "album": {
         "name": "Rocktober (The Best South African Rock Hits of All Time)",
         "url": "https://open.spotify.com/album/4BO2l8sACrAbp1OCtSWK8Q"
       },
@@ -10494,7 +10556,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 205640,
       "name": "The Playboy Anthem",
       "url": "https://open.spotify.com/track/3shrGd2Z7uiEExm4RlRtz4"
@@ -11225,6 +11287,24 @@
     },
     {
       "album": {
+        "name": "Vernietig My",
+        "url": "https://open.spotify.com/album/4v5tirAycQo0MtS3TS2YLe"
+      },
+      "artists": [
+        {
+          "name": "Noa Milan",
+          "url": "https://open.spotify.com/artist/7zoWau3lHuure77mrr5jyH"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224444,
+      "name": "Vernietig My",
+      "url": "https://open.spotify.com/track/1aoTQA9IyI4uwfBqxTdY6e"
+    },
+    {
+      "album": {
         "name": "Versmoor",
         "url": "https://open.spotify.com/album/5gfwTqz9mMIWuW4tvhsnop"
       },
@@ -11366,6 +11446,24 @@
       "duration_ms": 171823,
       "name": "Voel Jy Dit?",
       "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
+    },
+    {
+      "album": {
+        "name": "Voete Weg",
+        "url": "https://open.spotify.com/album/4dyVL33H3LvReKAnJL5EWE"
+      },
+      "artists": [
+        {
+          "name": "Geraldene Van Dyk",
+          "url": "https://open.spotify.com/artist/1WsiPiWW8QNaErdVh97aX4"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191061,
+      "name": "Voete Weg",
+      "url": "https://open.spotify.com/track/37mTdVoPDI49MhAQ7dfD9L"
     },
     {
       "album": {

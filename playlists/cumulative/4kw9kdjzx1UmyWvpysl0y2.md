@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-961 songs - 2 day 6 hr 18 min
+962 songs - 2 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-04 | 2025-03-13 |
 | [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-19 | 2024-11-09 |
 | [Break It Down](https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Break It Down](https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO) | 2:41 | 2023-06-28 | 2023-09-26 |
+| [BREAK THROUGH](https://open.spotify.com/track/5dWiTTEHrm1JKuU6Ae0ytl) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [BREAK THROUGH / RADIATE](https://open.spotify.com/album/0UmwhMlIhRLcKk6UGTSMlV) | 3:15 | 2025-04-17 |  |
 | [Breathe](https://open.spotify.com/track/691BUkDzJN4qpyfz5PX2n2) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Breathe](https://open.spotify.com/album/3k0I7evLrcIRNdV1HbNfvW) | 2:29 | 2025-02-27 |  |
 | [Breathe Me Back To Life](https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Breathe Me Back To Life](https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3) | 2:26 | 2023-01-06 | 2023-03-22 |
 | [Breathe Underwater](https://open.spotify.com/track/6dezSbSW7iJF6f6IJLznU6) | [Psy Trance Mafia](https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Breathe Underwater](https://open.spotify.com/album/4E9AWmsV9POjfg28Mz393X) | 4:30 | 2024-10-21 | 2025-01-29 |

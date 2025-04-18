@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,146 likes - 208 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,317 likes - 208 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

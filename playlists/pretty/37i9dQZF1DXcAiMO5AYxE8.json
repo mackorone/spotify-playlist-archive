@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 531136,
+  "num_followers": 531216,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo"
     },
     {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "More Monty",
+        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
+      },
+      "artists": [
+        {
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Turn the Beat Around",
+      "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
+    },
+    {
       "added_at": "2021-07-04 17:34:32",
       "album": {
         "name": "Time Is Slipping Away",
@@ -511,22 +527,6 @@
       "duration_ms": 274226,
       "name": "I'll Never Forget (My Favorite Disco)",
       "url": "https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "More Monty",
-        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
-      },
-      "artists": [
-        {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Turn the Beat Around",
-      "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "Take Good Care of Yourself",
-      "url": "https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Disco 100",
         "url": "https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 223093,
       "name": "Relight My Fire - Single Version",
       "url": "https://open.spotify.com/track/1PheCxmNb4A4d0LhW3ZtQp"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Take Good Care of Yourself",
+      "url": "https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0"
     },
     {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "Bridget Jones\u2019s Baby (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Ain't No Stoppin' Us Now - Single Version",
-      "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
-    },
-    {
       "added_at": "2020-04-14 18:41:41",
       "album": {
         "name": "The Ultimate Bee Gees",
@@ -883,6 +867,22 @@
       "duration_ms": 256453,
       "name": "You Should Be Dancing - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o"
+    },
+    {
+      "added_at": "2021-07-04 17:34:32",
+      "album": {
+        "name": "Bridget Jones\u2019s Baby (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Ain't No Stoppin' Us Now - Single Version",
+      "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
     },
     {
       "added_at": "2020-04-14 18:41:41",

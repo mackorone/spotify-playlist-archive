@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Apr 18:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Apr 18:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 182099,
       "name": "(Re)-Extract",
       "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
+    },
+    {
+      "album": {
+        "name": "+ ? regnet, the ? +",
+        "url": "https://open.spotify.com/album/4aYKUfdRcdTc9bLylE1Dx9"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210082,
+      "name": "+ ? regnet, the ? +",
+      "url": "https://open.spotify.com/track/7pcKTH6SOyiFwzyfygMb6p"
     },
     {
       "album": {
@@ -7836,6 +7854,24 @@
       "duration_ms": 222413,
       "name": "Beetlebugs",
       "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
+    },
+    {
+      "album": {
+        "name": "Before It's Too Late",
+        "url": "https://open.spotify.com/album/5kdwRsVhgbmWsxDBx74U4o"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Before It's Too Late",
+      "url": "https://open.spotify.com/track/3KZyt06EPdbV8mv5hAbGJj"
     },
     {
       "album": {
@@ -22924,7 +22960,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 239216,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/6gP8rtbgAweJelfHeGDCzC"
@@ -27664,6 +27700,24 @@
       "duration_ms": 387495,
       "name": "For the Cold Country",
       "url": "https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "album": {
@@ -47314,7 +47368,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 145560,
       "name": "Malibu Pier",
       "url": "https://open.spotify.com/track/59qF30HryfbWBev52wcl44"
@@ -74506,7 +74560,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 269720,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm"

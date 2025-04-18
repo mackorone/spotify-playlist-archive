@@ -1735,6 +1735,32 @@
     },
     {
       "album": {
+        "name": "Streetly By Invitation",
+        "url": "https://open.spotify.com/album/7eTK57nXPjosB7j3MNYdkr"
+      },
+      "artists": [
+        {
+          "name": "SuperWozzy",
+          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
+        },
+        {
+          "name": "DaBlixx Oshaa",
+          "url": "https://open.spotify.com/artist/15pZfSOwudAmhkx3iPsfVq"
+        },
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196510,
+      "name": "Billion Dollar Dreams",
+      "url": "https://open.spotify.com/track/0q94evjb39SIzbgWsh9HHv"
+    },
+    {
+      "album": {
         "name": "Billionaire",
         "url": "https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH"
       },
@@ -3698,6 +3724,28 @@
       "duration_ms": 177000,
       "name": "Ebube (Odeshi)",
       "url": "https://open.spotify.com/track/1sTChGG6y7qro0NOpnUAWA"
+    },
+    {
+      "album": {
+        "name": "EGBAMI",
+        "url": "https://open.spotify.com/album/1evrYcNjwbTlrNCbmfPgpW"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "EGBAMI",
+      "url": "https://open.spotify.com/track/3mq3HujlffiS5jDqmHec5N"
     },
     {
       "album": {
@@ -8342,7 +8390,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 177720,
       "name": "mo de ma [by any minz]",
       "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
@@ -8532,6 +8580,24 @@
       "duration_ms": 134300,
       "name": "Money Talks",
       "url": "https://open.spotify.com/track/7An5oH1uyF3NQzTl5qj2vq"
+    },
+    {
+      "album": {
+        "name": "MORE MONEY NO PROBLEM (ASE)",
+        "url": "https://open.spotify.com/album/7k5DAMHj2Vx0t6k0NVJ6PT"
+      },
+      "artists": [
+        {
+          "name": "Dammy Krane",
+          "url": "https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131564,
+      "name": "MORE MONEY NO PROBLEM (ASE)",
+      "url": "https://open.spotify.com/track/2vnglz6rHOemjbDHg8PHyR"
     },
     {
       "album": {
@@ -11628,7 +11694,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 179272,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"

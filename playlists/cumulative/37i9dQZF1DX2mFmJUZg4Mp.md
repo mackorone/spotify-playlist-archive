@@ -4,7 +4,7 @@
 
 > Soothing sounds of gentle rain.
 
-329 songs - 15 hr 12 min
+330 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Cadaria \(Rain\)](https://open.spotify.com/track/5PhiuzclYBgvYsHUR2oQ97) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Serene Rain Soundscapes](https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS) | 3:00 | 2023-02-13 |  |
 | [Calm Evening Rain](https://open.spotify.com/track/26d4W0pwjf1hLxkVOzvA9v) | [Light Camera Rain](https://open.spotify.com/artist/64M0VF8ZKRHOlrjUXCv0VA) | [Calm Bedtime Rain](https://open.spotify.com/album/1MvLHAL8JIC9d7S5mOnrja) | 2:32 | 2021-11-10 |  |
 | [Calm Garden \(Rain\)](https://open.spotify.com/track/0QtoO7wi3Y78vMf8gHBGso) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Calm Sounds of Nature](https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE) | 3:00 | 2022-11-21 |  |
-| [Calm Pour](https://open.spotify.com/track/4RRfrzCiOHZ8lT9DGvQewc) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:03 | 2022-11-21 |  |
+| [Calm Pour](https://open.spotify.com/track/4RRfrzCiOHZ8lT9DGvQewc) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:03 | 2022-11-21 | 2025-04-18 |
 | [Calm Trickle \- Rain](https://open.spotify.com/track/55ioDcErmBxGxKiOyklNlX) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Skyfall Oasis \(Rain\)](https://open.spotify.com/album/2Rf8vEVuzcRHAMk6tPEUZC) | 2:16 | 2022-11-21 |  |
 | [Calming Memory \(Rain\)](https://open.spotify.com/track/5JtM2LkkQXwp8TmzVVUQBJ) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 | 2025-04-15 |
 | [Calming Rain Sounds](https://open.spotify.com/track/0etdbMJmGbANfSdrcJ2fNE) | [Capital Rain Sounds](https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA) | [Capital Rain Sounds](https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V) | 2:02 | 2021-11-10 |  |
@@ -331,6 +331,7 @@
 | [Warm Summer Rain](https://open.spotify.com/track/4PYcFKKiVUp92libw3naT1) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [Warm Summer Rain](https://open.spotify.com/album/6yZFQrqbtGNymHCzkczaux) | 3:02 | 2024-03-22 |  |
 | [Washington Rain Reverie](https://open.spotify.com/track/1AfbsmFhOpX9GZHFd8Cb9l) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Nature's Rainfall Melodies](https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c) | 3:12 | 2024-03-22 |  |
 | [White Noise Rain Sound](https://open.spotify.com/track/7KDDKunLTkqnGp5nmo8QSZ) | [Samples QHD](https://open.spotify.com/artist/4yPaJjWtrGMogTzwi0JWVx) | [Relaxing Spring Rain](https://open.spotify.com/album/5T4eAq7CQUROmOIXJE8jCg) | 1:49 | 2021-11-10 | 2023-10-12 |
+| [White Pine Rain](https://open.spotify.com/track/6Js4qnrUgVqgq7Jr6XgiDe) | [Désiré Renaud](https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be) | [White Pine Rain](https://open.spotify.com/album/7mCFmEXBNEjAiN76HCAHN0) | 3:04 | 2025-04-14 |  |
 | [Windy Showers](https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij) | [Parapluie](https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4) | [Storm Rains](https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ) | 3:04 | 2021-11-10 |  |
 | [Wonderful Rain](https://open.spotify.com/track/4KCIoTO0Wyesf9Ia4VwGgn) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Stratus](https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX) | 2:31 | 2022-11-21 |  |
 | [Woodnear Forest \(Rain\)](https://open.spotify.com/track/4Ia3PfPXOmDJ5cYPyt6VIi) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 | 2022-11-21 |  |

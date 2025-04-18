@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Billkin
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: GALCHANIE
 
 156 songs - 10 hr 10 min
 

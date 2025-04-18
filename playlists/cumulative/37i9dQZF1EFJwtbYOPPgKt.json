@@ -1364,6 +1364,36 @@
     {
       "album": {
         "name": "Wide Eyes",
+        "url": "https://open.spotify.com/album/7n5Q3Hrnsql1ENWOfKjqFH"
+      },
+      "artists": [
+        {
+          "name": "Coopex",
+          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
+        },
+        {
+          "name": "Marc Vedo",
+          "url": "https://open.spotify.com/artist/5o6l0TdcG1YWhuhJpjXVVh"
+        },
+        {
+          "name": "BELLA X",
+          "url": "https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV"
+        },
+        {
+          "name": "Afterfab",
+          "url": "https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147273,
+      "name": "Wide Eyes",
+      "url": "https://open.spotify.com/track/3YkAurEIwuFQPAoABRDgzG"
+    },
+    {
+      "album": {
+        "name": "Wide Eyes",
         "url": "https://open.spotify.com/album/4ZOIceLdITz44uj5K0sTMM"
       },
       "artists": [
@@ -1386,7 +1416,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 147273,
       "name": "Wide Eyes",
       "url": "https://open.spotify.com/track/5QyZ1N7SDER4dxQR8UePKU"
@@ -1460,10 +1490,36 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 129677,
       "name": "You Can't Make Me Come",
       "url": "https://open.spotify.com/track/2lcDK4KtZk20mZCk9SwUHY"
+    },
+    {
+      "album": {
+        "name": "You Can't Make Me Come",
+        "url": "https://open.spotify.com/album/2V5JjJziEkjvx9sI4Dap14"
+      },
+      "artists": [
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        },
+        {
+          "name": "LODATO",
+          "url": "https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv"
+        },
+        {
+          "name": "Quando",
+          "url": "https://open.spotify.com/artist/4SIdCNJFkoG5YlECqTNvfk"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129677,
+      "name": "You Can't Make Me Come",
+      "url": "https://open.spotify.com/track/4QR11MDBftOk4aCcgNtFYN"
     },
     {
       "album": {

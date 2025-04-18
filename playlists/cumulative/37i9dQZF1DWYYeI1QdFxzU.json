@@ -2577,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "RITUAL (nothing is lost)",
+        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195044,
+      "name": "RITUAL (nothing is lost)",
+      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
+    },
+    {
+      "album": {
         "name": "Graal (Prologue)",
         "url": "https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8"
       },
@@ -2940,7 +2958,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 184502,
       "name": "Sunrise Song - Luttrell Revisit",
       "url": "https://open.spotify.com/track/4ut30hNj4ye8hwkHcqbwXj"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "The best new electronic indie music. Cover: Dam Swindle",
+  "description": "The best new electronic indie music. Cover: Real Lies",
   "name": "Indie Electronic ",
   "tracks": [
     {
@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "We Will Annihilate Our Enemies",
+        "url": "https://open.spotify.com/album/3lkEkMGrB1JpIvf45r4HIg"
+      },
+      "artists": [
+        {
+          "name": "Real Lies",
+          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224782,
+      "name": "Down And Out (Where E-Girls Dare)",
+      "url": "https://open.spotify.com/track/4VVtRw0YWUQ72iA8R5VGU4"
+    },
+    {
+      "album": {
         "name": "Each Night (Boys\u2019 Shorts Remix)",
         "url": "https://open.spotify.com/album/02kabmkVaejBXqVISYt6SK"
       },
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 182372,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 340230,
       "name": "Finding Money",
       "url": "https://open.spotify.com/track/0bpA5JIBVexaQFIVPq0kgm"
@@ -3235,6 +3253,28 @@
     },
     {
       "album": {
+        "name": "Lying In The Sand",
+        "url": "https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A"
+      },
+      "artists": [
+        {
+          "name": "Bubble Love",
+          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
+        },
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199968,
+      "name": "Lying In The Sand",
+      "url": "https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo"
+    },
+    {
+      "album": {
         "name": "Make It Easy",
         "url": "https://open.spotify.com/album/2VPqWnQAHvxUYRrDvCHpC0"
       },
@@ -3932,7 +3972,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 170471,
       "name": "Pleasure Chasers",
       "url": "https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP"
@@ -4510,6 +4550,28 @@
       "duration_ms": 202893,
       "name": "Shallow Water",
       "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+    },
+    {
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/2RUbKHZHSV3ehikTjFBYD5"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "KAM-BU",
+          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290250,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/0sYHnDAAx6sM5PBvNL1bKB"
     },
     {
       "album": {
@@ -5244,7 +5306,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66"
@@ -5266,7 +5328,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"

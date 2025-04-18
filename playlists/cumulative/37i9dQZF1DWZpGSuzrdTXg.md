@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-229 songs - 13 hr 4 min
+230 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Soaking Skin](https://open.spotify.com/track/4NA7AmM3ZzekeRdAcVy3B7) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Troubled Waters](https://open.spotify.com/album/26PBL1D0ltBX7cXWm3luIm) | 3:04 | 2024-11-14 |  |
 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 | 2022-12-22 | 2023-10-21 |
 | [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 | 2022-12-22 | 2024-11-15 |
+| [Something Beautiful and Bright](https://open.spotify.com/track/2P0eHr0CHrsoLXXjB2OEsO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Something Beautiful and Bright](https://open.spotify.com/album/6p4quKnFqZ5NkhjBHRJdRF) | 3:25 | 2025-04-17 |  |
 | [Standing On The Edge \- Acoustic](https://open.spotify.com/track/3jgdUDYQC7JrENjQ5lWzdB) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Standing On The Edge \(Acoustic\)](https://open.spotify.com/album/4H0brVQx6svIimL2T368KW) | 4:07 | 2023-10-20 |  |
 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2024-02-14 |  |
 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 | 2023-03-16 |  |
@@ -232,7 +233,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-05-04 |  |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-04 | 2024-04-19 |
 | [Woman](https://open.spotify.com/track/1wYBt2URytGTqxoscQV9Py) | [TEUN](https://open.spotify.com/artist/2HYKtKJ5ZbUaz3BoDpRSYv) | [Woman](https://open.spotify.com/album/3ZMy2swhlW6rVRfdiqxGjx) | 4:36 | 2025-02-27 |  |
-| [Worth It](https://open.spotify.com/track/1j6fqlqbmYyEOWj839SEHg) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Worth It](https://open.spotify.com/album/6L9Q8C3EGLKZPJAabDC4fr) | 2:40 | 2022-12-22 |  |
+| [Worth It](https://open.spotify.com/track/1j6fqlqbmYyEOWj839SEHg) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Worth It](https://open.spotify.com/album/6L9Q8C3EGLKZPJAabDC4fr) | 2:40 | 2022-12-22 | 2025-04-18 |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2022-12-22 | 2023-04-14 |
 | [You Are Not Alone](https://open.spotify.com/track/0LLc1wJdpQMpgMKCF8y2TF) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are Not Alone](https://open.spotify.com/album/6dRPKSUv4bXPTthz9aB47E) | 3:28 | 2022-12-22 | 2024-04-05 |
 | [You Don't Even Know Me](https://open.spotify.com/track/25ySqlmqGYbg7EH687XaVR) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [You Don't Even Know Me](https://open.spotify.com/album/0KyjORfPI4rvjc4vnFq5O5) | 3:27 | 2022-12-22 | 2024-05-03 |

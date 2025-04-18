@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,444 likes - 386 songs - 19 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,443 likes - 386 songs - 19 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 112 | [I'll See You in C\-U\-B\-A](https://open.spotify.com/track/5DuLXthSYkYfd7y7h5kSg4) | [Billy Murray](https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS) | [Foolish Questions](https://open.spotify.com/album/5vTSLK2CMSrr8uzeY9SiS7) | 2:58 |
 | 113 | [Tell Me Little Gypsy](https://open.spotify.com/track/4A8iE9lHnr7FGPdDJqAJz0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Sings The Irving Berlin Songbook](https://open.spotify.com/album/2gFe0K8uKPllO0uxVc8dwD) | 1:42 |
 | 114 | [Gots To Get Her \(Inspired by "Puttin' On The Ritz"\)](https://open.spotify.com/track/2ZV1vGAm4lPa2drytVAYui) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE) | [Audio Day Dream](https://open.spotify.com/album/2DNbIvMrY2HPcgBkJtiY6W) | 3:09 |
-| 115 | [I'd Rather Lead a Band](https://open.spotify.com/track/4em1rM1Mbid6bo8OYYLEcv) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/3BRsqvWiZJlE1og7MdwFEh) | 2:30 |
-| 116 | [No Me Dejes \- Remastered 2021](https://open.spotify.com/track/3hDxjVfmW3BIldWobKIQ5g) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Todo Pasará \(Remastered 2021\)](https://open.spotify.com/album/0teD0KMeRNvAjmuiXNiR99) | 3:07 |
+| 115 | [No Me Dejes \- Remastered 2021](https://open.spotify.com/track/3hDxjVfmW3BIldWobKIQ5g) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Todo Pasará \(Remastered 2021\)](https://open.spotify.com/album/0teD0KMeRNvAjmuiXNiR99) | 3:07 |
+| 116 | [I'd Rather Lead a Band](https://open.spotify.com/track/4em1rM1Mbid6bo8OYYLEcv) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/3BRsqvWiZJlE1og7MdwFEh) | 2:30 |
 | 117 | [Lady Of The Evening](https://open.spotify.com/track/3qsBO247MbeFcGO9IiNX1E) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Love Embers And Flame](https://open.spotify.com/album/2DRUbDQLOak0U35TGI7qin) | 2:56 |
 | 118 | [I Want to Go Back to Michigan \(Down on the Farm\) \[from "Easter Parade"\] \- 2022 Remaster](https://open.spotify.com/track/5y4YzZyXMTV6LUdv4JZUv7) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 2:35 |
 | 119 | [The Yam](https://open.spotify.com/track/425mbumyQaP6C1dNequdUe) | [Ginger Rogers](https://open.spotify.com/artist/2X9cM6kUDFCfEKcNEjlew2) | [The Early Years at RKO](https://open.spotify.com/album/3BRsqvWiZJlE1og7MdwFEh) | 2:21 |
@@ -261,8 +261,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 251 | [Where Is the Song of Songs for Me](https://open.spotify.com/track/6vt4SPesfCCQywLGbelFWK) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Lupé Velez](https://open.spotify.com/artist/1xwrF7P4vEez0D7IPyNCrZ), [Artist Unknown](https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG) | [Vintage Hollywood Classics, Vol\. 13: The Glamour & Glitter Days \(Recorded 1929–1946\)](https://open.spotify.com/album/7wpfNBLv3c3o9M0Z3yUwVJ) | 2:39 |
 | 252 | [Without You](https://open.spotify.com/track/4P9vdSLtmwU5Mhv7hN3OeM) | [Dave Liebman Quartet](https://open.spotify.com/artist/5wCiOSvPpzAsL7s6uqWD88) | [Setting The Standard](https://open.spotify.com/album/35Um3sARfxG480aarXpDh1) | 7:12 |
 | 253 | [My British Buddy](https://open.spotify.com/track/1zGDd5kIazw3D16Id19lhD) | [Original "This is the Army" All\-Soldier Chorus](https://open.spotify.com/artist/5d53G6LEYvgUXA9anRLsD1) | [This is the Army / Call Me Mister](https://open.spotify.com/album/1CZ2958ROaPwzANznHoYii) | 2:50 |
-| 254 | [Dance With Me \(Tonight At The Mardi Gras\)](https://open.spotify.com/track/3tUG4uvQYs6wpvXpjDv8kc) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Louisiana Purchase \- Music & Lyrics By Irving Berlin](https://open.spotify.com/album/2mCC7Kn6xHReDCxeurS6bt) | 2:48 |
-| 255 | [Kiss Your Sailor Boy Goodbye](https://open.spotify.com/track/7ef8riPThroxegU9Mzl7CC) | [Jon Peterson](https://open.spotify.com/artist/1O60tT6Tmfwu4Cs34I1O3J) | [Chip Deffaa's Gay Love](https://open.spotify.com/album/0JewOhdXw7FGuDoOX0CLt6) | 2:21 |
+| 254 | [Kiss Your Sailor Boy Goodbye](https://open.spotify.com/track/7ef8riPThroxegU9Mzl7CC) | [Jon Peterson](https://open.spotify.com/artist/1O60tT6Tmfwu4Cs34I1O3J) | [Chip Deffaa's Gay Love](https://open.spotify.com/album/0JewOhdXw7FGuDoOX0CLt6) | 2:21 |
+| 255 | [Dance With Me \(Tonight At The Mardi Gras\)](https://open.spotify.com/track/3tUG4uvQYs6wpvXpjDv8kc) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Louisiana Purchase \- Music & Lyrics By Irving Berlin](https://open.spotify.com/album/2mCC7Kn6xHReDCxeurS6bt) | 2:48 |
 | 256 | [In My Harem](https://open.spotify.com/track/1AvLsWXeijih0QIUS3qtlf) | [Adam Swanson](https://open.spotify.com/artist/0ndX9U2SpkmvQeJmwKJn2b), [Johnny Maddox](https://open.spotify.com/artist/2To4jNx23pDgZJbZx9ynyJ) | [Jazzin' the Blues Away](https://open.spotify.com/album/0zkRsJXt9mD8bk2tqT5YwZ) | 1:52 |
 | 257 | [Little Butterfly](https://open.spotify.com/track/6koO1vTm5uF1CpsK4R5Y1i) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 24](https://open.spotify.com/album/3upICqtOrL95hLnsrmFnmn) | 2:42 |
 | 258 | [Learn to Do the Strut](https://open.spotify.com/track/5vm8zaiJd0Vs6xRtnb1loz) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [Hot Lips](https://open.spotify.com/album/7FGeuqpeCt7dRZUuR73bJL) | 3:13 |
@@ -395,4 +395,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 385 | [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 |
 | 386 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `Abu9lAAAAAAQaO+hl6o8PeuwE2rHN63V`
+Snapshot ID: `AbvDNAAAAAAqPExfepznNL5w+pWF0F14`

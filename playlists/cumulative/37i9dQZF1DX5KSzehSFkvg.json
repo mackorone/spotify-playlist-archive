@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "Les meilleurs hits de la pop maghr\u00e9bine. Cover: Mounim Slimani",
+  "description": "Les meilleurs hits de la pop maghr\u00e9bine. Cover: Lazaro",
   "name": "Top Maghreb Pop",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 259591,
       "name": "Allo - \u0627\u0644\u0648",
       "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
+    },
+    {
+      "album": {
+        "name": "Allo Doctor",
+        "url": "https://open.spotify.com/album/7LXkPXjAdBby2vyfA4wySk"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161118,
+      "name": "Allo Doctor",
+      "url": "https://open.spotify.com/track/1njTOLN0cJSTGPTH3mNElO"
     },
     {
       "album": {
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 194285,
       "name": "Flouka",
       "url": "https://open.spotify.com/track/6qJsZS6HgNROEQ8CMYzaeV"

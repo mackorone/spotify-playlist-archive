@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,470 likes - 114 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,474 likes - 114 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -368,7 +368,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 218293,
       "name": "Bimbang",
       "url": "https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 294445,
       "name": "Keras Kepala (Live Acoustic Session)",
       "url": "https://open.spotify.com/track/6evbK9qapNnQowvw1A4bB5"
@@ -1390,6 +1390,24 @@
       "duration_ms": 249097,
       "name": "Lebih Dari Egoku",
       "url": "https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh"
+    },
+    {
+      "album": {
+        "name": "Lesung Pipi (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3DZ5noaJRsZztDCB82LnfU"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238153,
+      "name": "Lesung Pipi - Acoustic Version",
+      "url": "https://open.spotify.com/track/2FomcdoaNsKvXl4bJ5Abqj"
     },
     {
       "album": {
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Rayuan Perempuan Gila",
       "url": "https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 323571,
       "name": "Rumpang",
       "url": "https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H"
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 222506,
       "name": "terjebak imajinasi - acoustic version",
       "url": "https://open.spotify.com/track/2mKCo6yFO77yt0XN5G7vIy"

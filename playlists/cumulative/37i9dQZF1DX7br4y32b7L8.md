@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-694 songs - 1 day 11 hr 16 min
+695 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [Seks](https://open.spotify.com/track/2640GpoXtZt6czG9WbZkXL) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Sociale Zaken](https://open.spotify.com/album/5LpJ2fRNAoRocRx3rwp3PR) | 3:23 | 2024-02-22 | 2024-07-30 |
 | [SEMTEX](https://open.spotify.com/track/7gExwsfoDnfVyMOzOg94L1) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [SEMTEX](https://open.spotify.com/album/0aJIAXveZj9P6KqCIYpW8N) | 2:44 | 2024-05-15 | 2024-09-12 |
 | [Set Fire to the Rain](https://open.spotify.com/track/3di5hcvxxciiqwMH1jarhY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9) | 4:02 | 2024-09-17 | 2025-03-06 |
+| [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-04-17 |  |
 | [She Know What She Wanted \- Jersey Club Remix Slowed](https://open.spotify.com/track/17j94KZ4XMNM599wComGDG) | [Godard](https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [She Know What She Wanted \(Jersey Club Remix Slowed\)](https://open.spotify.com/album/5q3J1gqVyTvChtFf8EJKQk) | 2:13 | 2024-04-04 | 2024-04-11 |
 | [She Know What She Wanted \- Jersey Club Remix Slowed](https://open.spotify.com/track/4ZTYSM6nsWjVAqf9BOY7qU) | [Godard](https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [She Know What She Wanted \(Jersey Club Remix Slowed\)](https://open.spotify.com/album/3ZdBBKZ7ExFWy1SsXTybEb) | 2:13 | 2024-03-18 | 2024-04-06 |
 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0ceuoClMDzpyl6I6OkGgtg) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner](https://open.spotify.com/album/6FhFyGMPDbGjXXxXukKcnq) | 4:56 | 2024-10-03 | 2024-12-04 |

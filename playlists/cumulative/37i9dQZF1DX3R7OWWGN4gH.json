@@ -4157,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Falco 3",
+        "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh"
+      },
+      "artists": [
+        {
+          "name": "Falco",
+          "url": "https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202236,
+      "name": "Rock Me Amadeus",
+      "url": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"
+    },
+    {
+      "album": {
         "name": "Descendants (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
       },
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"

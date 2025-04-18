@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover \- YUNG DSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,184 likes - 50 songs - 2 hr 34 min
+[](https://open.spotify.com/user/null) - 402,558 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

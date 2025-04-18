@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Danny Byrd, Sigma, Basslayerz",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Grafix",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -3092,7 +3092,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 139457,
       "name": "CHARGIE",
       "url": "https://open.spotify.com/track/3pd6N5QcmjBenZA5BiU9Se"
@@ -7767,6 +7767,24 @@
     },
     {
       "album": {
+        "name": "Hit The Brakes",
+        "url": "https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Hit The Brakes",
+      "url": "https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX"
+    },
+    {
+      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/7nOzovRMTPZDzmWncvM0L7"
       },
@@ -8358,7 +8376,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 183448,
       "name": "In The Echo",
       "url": "https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw"
@@ -11294,7 +11312,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 200789,
       "name": "Never Miss",
       "url": "https://open.spotify.com/track/6AA2nJJJvOQ54BYPZUlNgs"
@@ -13066,6 +13084,32 @@
       "duration_ms": 233500,
       "name": "Pusha",
       "url": "https://open.spotify.com/track/3ThJqMjbMEcdB2Jq456HaM"
+    },
+    {
+      "album": {
+        "name": "R U SLEEPING",
+        "url": "https://open.spotify.com/album/65MihS9c9KbTOauMfxvqKY"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144623,
+      "name": "R U SLEEPING",
+      "url": "https://open.spotify.com/track/7h0ZpsxLvNNOZ3ZMQWhJ2L"
     },
     {
       "album": {
@@ -17428,6 +17472,24 @@
       "duration_ms": 270697,
       "name": "Truth Bomb",
       "url": "https://open.spotify.com/track/31c8vdaJh1RZ3HVCF7Q0tZ"
+    },
+    {
+      "album": {
+        "name": "Moments In Everglow",
+        "url": "https://open.spotify.com/album/1VpvvVrZ7EzVL2o0cDvW1l"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264137,
+      "name": "Turning Point",
+      "url": "https://open.spotify.com/track/4Yu2BqFkpx9WCUZFeXkM7e"
     },
     {
       "album": {

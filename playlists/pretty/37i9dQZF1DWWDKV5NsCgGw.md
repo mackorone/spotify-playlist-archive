@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,235 likes - 128 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,361 likes - 128 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 21 | [Riddles of Romance](https://open.spotify.com/track/2f9DkHNm8tI0rbBwYhDCUf) | [Al Kerbey](https://open.spotify.com/artist/2Iw18KZz0rG9ybH3EzG59v) | [Here Comes the Love](https://open.spotify.com/album/3wWDQyCPuOi7Tx8D7Ih9uj) | 3:33 |
 | 22 | [Phom Rak Khoon Tching Thing \(I Really Do Love You\)](https://open.spotify.com/track/65ZRuojZDx04DnEbdEItVa) | [The Viking Band](https://open.spotify.com/artist/0fOA6Sisj7Fie71ZiIi3EK) | [Thai Beat A Go\-Go Vol\. 1](https://open.spotify.com/album/68rQx2qy2UpgwAknBwnb46) | 3:07 |
 | 23 | [Hey Abanibee](https://open.spotify.com/track/2WdO08aTt9dqQD6QejLtX1) | [Hong Thong Dao Udon](https://open.spotify.com/artist/6QHj58r0m38DPBnQsX9Ovm) | [Hey Abanibee](https://open.spotify.com/album/44Z9Kk6b4zCWJet4Pzmifm) | 6:05 |
-| 24 | [Love Passion](https://open.spotify.com/track/1JvdfxO8S0zOuc0tO1X2Io) | [Viparat Piengsuwan](https://open.spotify.com/artist/4EpvK0eqJqVmYY3IYgVDGn) | [Love Passion](https://open.spotify.com/album/2W5mz70JNhatvWxClDwkTa) | 2:32 |
+| 24 | [Love Passion \- Remastered](https://open.spotify.com/track/1JvdfxO8S0zOuc0tO1X2Io) | [Viparat Piengsuwan](https://open.spotify.com/artist/4EpvK0eqJqVmYY3IYgVDGn) | [Love Passion](https://open.spotify.com/album/2W5mz70JNhatvWxClDwkTa) | 2:32 |
 | 25 | [Ride](https://open.spotify.com/track/3nXJi2vx38kqIEXP6g7N1L) | [shy niko](https://open.spotify.com/artist/1P43aPJUVcI2XzVJ9QtK2j), [puppyhiccups](https://open.spotify.com/artist/4ZecN1dryTdBzdUJI3HnAS) | [Ride](https://open.spotify.com/album/77h17H3HeA1Hwkvsq1afrd) | 2:32 |
 | 26 | [Rak Tong Rorn \(Love Passion\)](https://open.spotify.com/track/37McaJ64hTmge0iyaDSkNl) | [Viparat Piengsuwan](https://open.spotify.com/artist/4EpvK0eqJqVmYY3IYgVDGn) | [Thai Beat A Go\-Go Vol\. 2](https://open.spotify.com/album/5PazeGC4KtnB5Evwzm934p) | 2:35 |
 | 27 | [ラム・キアオ\(ターン・ニャーオ\)](https://open.spotify.com/track/6v6Dl3YSMK5suVPcllEYGB) | [Chawiwan Damnoen](https://open.spotify.com/artist/7gC3jgnNKJdzJkt0eW58gh) | [THE WORLD ROOTS MUSIC LIBRARY: タイ/イサーンの音楽～モーラムとポーンラーン](https://open.spotify.com/album/1QdIKIVu6WJckuRjtm7J8M) | 3:45 |

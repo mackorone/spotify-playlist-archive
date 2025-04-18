@@ -4,7 +4,7 @@
 
 > Listen to the future.
 
-173 songs - 9 hr 27 min
+175 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 | 2025-04-15 |  |
 | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/track/16dEsck7g3sl9GBgjNi9lj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx), [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/album/2FohZt2GfxsBBJwkHsrXps) | 2:29 | 2024-06-27 | 2025-04-16 |
 | [Angau](https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Angau](https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL) | 2:40 | 2025-04-15 |  |
+| [Apocalypse!!!](https://open.spotify.com/track/01eeBhcadGcWdKT6pPvsRQ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Apocalypse!!!](https://open.spotify.com/album/1Q3SaKJkTur2f8gNYieufg) | 2:45 | 2025-04-17 |  |
 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 | 2024-06-27 | 2025-04-16 |
 | [bagaimana jika aku tiada \(dunia akan terus berputar\)](https://open.spotify.com/track/08HOY8QUhN1xvVJfywDmAO) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [bagaimana jika aku tiada \(dunia akan terus berputar\)](https://open.spotify.com/album/4aYD28N6iyvIdjWH2f8tic) | 3:20 | 2025-04-15 |  |
 | [Bangau](https://open.spotify.com/track/5dcKftVBvvmMnudHDvV8qm) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Bangau](https://open.spotify.com/album/284SbvuKUwHnWLBigpPSkM) | 3:26 | 2025-04-15 |  |
@@ -48,6 +49,7 @@
 | [Delulu](https://open.spotify.com/track/0MT52aAGzFijBZYnPM28QM) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Salam](https://open.spotify.com/album/1DyCwG7jeFjHtCxqB2SD7c) | 2:44 | 2025-02-06 | 2025-04-16 |
 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 | 2025-01-16 | 2025-04-16 |
 | [Dengar Lagu Ini](https://open.spotify.com/track/1Z5jsrIvjR5vGaKmeBMxdU) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:56 | 2024-08-08 | 2024-12-05 |
+| [Destinasi](https://open.spotify.com/track/1dVZp1nXK61PFsTSlgsk8p) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Destinasi](https://open.spotify.com/album/2V7KL0bSN13EPSkgiRtUAq) | 3:04 | 2025-04-17 |  |
 | [DINOSAUR](https://open.spotify.com/track/00N1iwLqSbnDPEtgQkEbKt) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [DINOSAUR](https://open.spotify.com/album/5jsQBUbpsOZ0gYJZWthE8g) | 2:50 | 2025-04-15 |  |
 | [discord](https://open.spotify.com/track/6CoWj9Ord9aAKzRQfEtiNq) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [discord](https://open.spotify.com/album/35a8Ha0jY3G6M5Gjncm7Jr) | 2:29 | 2024-06-27 | 2024-12-05 |
 | [discord](https://open.spotify.com/track/6QaL8AhjeisXZktC3hZBB4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:29 | 2024-12-04 | 2025-04-16 |

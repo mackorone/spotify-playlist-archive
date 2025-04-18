@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 305206,
+  "num_followers": 305278,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/2hgAAAAAB983E/967/h0mtxw+idupI",
+  "snapshot_id": "Z/7zAAAAAADYc9u8hsFf2J0zVDhePcgd",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maliciosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
         "url": "https://open.spotify.com/album/39IY5gyzMAY6N8ufNZKP93"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 167256,
       "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
       "url": "https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maliciosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
     },
     {
       "added_at": null,

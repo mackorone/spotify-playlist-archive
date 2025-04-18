@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-10",
-  "description": "Strictly Nigerian worship songs. Cover: \"<a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=oRTyS4OKTBCTyzA6uPpEIg>Moses Bliss</a>",
+  "description": "Strictly Nigerian worship songs. Cover: \"<a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>",
   "name": "Naija Worship",
   "tracks": [
     {
@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103882,
+      "name": "I Pray",
+      "url": "https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK"
+    },
+    {
+      "album": {
         "name": "I PREVAIL (Live)",
         "url": "https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL"
       },
@@ -3160,7 +3178,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 306720,
       "name": "The King Is Coming",
       "url": "https://open.spotify.com/track/40inC92JTKVWMCoYbJwX64"

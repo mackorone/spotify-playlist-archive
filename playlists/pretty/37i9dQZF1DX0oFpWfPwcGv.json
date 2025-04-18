@@ -1,10 +1,10 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 68470,
+  "num_followers": 68477,
   "original_name": "Disco Decadence",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "Ztx5GQAAAADkfoFavO1NaMXS3bUFfeD3",
   "tracks": [
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
+        "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 346600,
+      "name": "It's a Better Than Good Time",
+      "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 389332,
       "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
-        "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        }
-      ],
-      "duration_ms": 346600,
-      "name": "It's a Better Than Good Time",
-      "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
     },
     {
       "added_at": "2024-09-07 16:02:33",

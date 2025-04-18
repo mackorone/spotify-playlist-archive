@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: The 046
+> Your shortcut to the best new Hip Hop\. Cover: ONEFOUR
 
-545 songs - 1 day 2 hr 39 min
+549 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [CARIBBEAN](https://open.spotify.com/track/6zyOSOPIBuPLFPO8h1C13l) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [CARIBBEAN](https://open.spotify.com/album/3BgbTu3wBa6cy3w74vydRV) | 1:53 | 2025-03-27 |  |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-15 | 2024-02-17 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-16 | 2024-06-22 |
+| [Cashed Out \- feat\. Larry June](https://open.spotify.com/track/1qUyn3s2q7ltOZ5HntTT8K) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Kush + Orange Juice 2](https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ) | 3:43 | 2025-04-17 |  |
 | [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2024-07-11 | 2024-07-19 |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-02-06 |  |
 | [Cautionary Tales](https://open.spotify.com/track/5sx0Pp7jnHnQhejHvaho5J) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Can't Decide 3P](https://open.spotify.com/album/5fodg3Betf8H5oQv85k6a9) | 2:40 | 2024-12-12 |  |
@@ -181,6 +182,7 @@
 | [FIND THAT OUT](https://open.spotify.com/track/4sJeq1ugqcvV37y8Jr7v02) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [FIND THAT OUT](https://open.spotify.com/album/5JDlQqaZI47GNU3S0fVTQX) | 2:11 | 2024-06-21 | 2024-08-02 |
 | [Finding My Way](https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7) | [PROPH3T](https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [Finding My Way](https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6) | 2:42 | 2023-10-19 | 2023-12-22 |
 | [Fine Art](https://open.spotify.com/track/3RFpr9aR7pBAFJ1XQnuThq) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Fine Art](https://open.spotify.com/album/6Wt3uI8G0yhXSvC0jAl9Cg) | 2:19 | 2025-03-17 |  |
+| [FINGERTIPS](https://open.spotify.com/track/7bXsZsdN7cMvjnJiyUHk56) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [FINGERTIPS](https://open.spotify.com/album/46gWaeqUSADSwWwv9tQVeF) | 2:29 | 2025-04-17 |  |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-10-09 | 2024-05-03 |
 | [Flip The Switch x Songer](https://open.spotify.com/track/50b6wWNZ9QqemALLtaMPEd) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Take Flight](https://open.spotify.com/artist/6qBVj3gXPWbEl45U8wyliG) | [Flip The Switch x Songer](https://open.spotify.com/album/3gPIe4coVzscTdurYNNz2R) | 3:16 | 2025-03-13 |  |
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-03-27 |  |
@@ -310,6 +312,7 @@
 | [Maybach Wallet](https://open.spotify.com/track/086OIQVqSMKZRIE28P7ds9) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Maybach Wallet](https://open.spotify.com/album/1ERLcIsPGfZpS3v4zOFFJ3) | 2:33 | 2024-09-05 | 2024-11-29 |
 | [MEDUSA PACKS](https://open.spotify.com/track/3ixPGDV9rbEBKrUhGAFCY4) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [THE WARLOCK AND THE GORILLA](https://open.spotify.com/album/73tUZvr1SKfltx3RgZxXVf) | 3:07 | 2024-09-26 | 2024-12-13 |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-09 | 2024-06-22 |
+| [MICHIGAN](https://open.spotify.com/track/6k1cc8PaQCA0HUVImhYBcn) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MICHIGAN](https://open.spotify.com/album/1Tju3BMSIKB61FBSZWM5n7) | 2:57 | 2025-04-17 |  |
 | [MIKE BREEN](https://open.spotify.com/track/1EfD15tpTke0QDEdpTYNDx) | [RAAJ](https://open.spotify.com/artist/7dUyhRfyEsUTS7gySitrDc) | [MIKE BREEN](https://open.spotify.com/album/1UzIEhmn5k6cda4MVZHLfZ) | 1:25 | 2024-06-27 | 2024-08-16 |
 | [Million Dreams](https://open.spotify.com/track/1vBJfOXGFx63YZcrYwq7ZR) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Million Dreams](https://open.spotify.com/album/7mycWlNkhRUY4MXZXQpBmD) | 2:14 | 2024-10-10 | 2025-04-04 |
 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 | 2024-06-27 | 2024-11-22 |
@@ -391,6 +394,7 @@
 | [PROTECT THE CROSS](https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [PROTECT THE CROSS](https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm) | 2:49 | 2025-02-13 | 2025-02-28 |
 | [PROVE 'EM WRONG](https://open.spotify.com/track/4Xu0UEjeBxVYPAlauEriqb) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [PROVE 'EM WRONG](https://open.spotify.com/album/2h4IV2lLPgLkcoSnXfWoKW) | 4:08 | 2024-07-18 | 2024-12-13 |
 | [PTSD](https://open.spotify.com/track/50NJA7Ds65risvAXLspiWK) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PTSD](https://open.spotify.com/album/6VUAEJ53jti8LKTEKGydaS) | 2:09 | 2024-02-22 | 2024-06-28 |
+| [Puff Puff Pass](https://open.spotify.com/track/1dKMG3VxNq0rxwJ5SBX7A5) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Puff Puff Pass](https://open.spotify.com/album/4AIaLl9hndCQ5rqhz8h6t1) | 3:03 | 2025-04-17 |  |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-20 | 2024-06-22 |
 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 | 2023-12-21 | 2024-01-26 |
 | [QUIET](https://open.spotify.com/track/1j8ObJlfbKQhXV1RXzNF5S) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [blendwise](https://open.spotify.com/artist/5UXVHfbYhVQy9TtRAEJo5W), [ENO](https://open.spotify.com/artist/43WRcxnLsTBgl73jDYDKuP) | [QUIET/NO HONEY](https://open.spotify.com/album/6ls8stXjfcl47ehVJHSzrj) | 3:40 | 2024-06-21 | 2024-08-02 |

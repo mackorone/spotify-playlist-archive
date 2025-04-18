@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Donald Lawrence
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,735 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,757 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 22 | [One Hallelujah](https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Hallelujah](https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn) | 5:45 |
 | 23 | [Constant \- Live](https://open.spotify.com/track/0iNHti6FqdUvPEBvto6WsZ) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Anthony Gargiula](https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI) | [Live at Maverick City](https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt) | 4:55 |
 | 24 | [Hallelujah](https://open.spotify.com/track/5bLtJYqBFKtYoPI4R7f04d) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Hallelujah](https://open.spotify.com/album/21OFDAS2b2LTQtEkBI0bvT) | 2:50 |
-| 25 | [Ways](https://open.spotify.com/track/06PdBblXoDirhxiXXMnZAv) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Xavier Omar](https://open.spotify.com/artist/1Xn5uRpPDfBgBHRLFhFfh9) | [Ways](https://open.spotify.com/album/4ynqPMUYF8FGVvgN7kU0Sj) | 3:21 |
+| 25 | [Ways](https://open.spotify.com/track/06PdBblXoDirhxiXXMnZAv) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Ways](https://open.spotify.com/album/4ynqPMUYF8FGVvgN7kU0Sj) | 3:21 |
 | 26 | [That's My King](https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 4:11 |
 | 27 | [Redeemer \- Live](https://open.spotify.com/track/6w28OVArdZUvPqwmzrNZOq) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Rose Meregini](https://open.spotify.com/artist/4Jl4Ek6XpMDBGkZHb2idl6) | [Redeemer \(Live\)](https://open.spotify.com/album/7msY76l3ziqjT1poQScvy8) | 7:15 |
 | 28 | [Proverbs 3 \- Live](https://open.spotify.com/track/7fnF0NlZkkPPFJANfOk45V) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Proverbs 3 \(Live\)](https://open.spotify.com/album/3PIsoOqMBxnpppTKRnEXZ0) | 7:36 |

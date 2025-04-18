@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,421 songs - 3 day 10 hr 0 min
+1,422 songs - 3 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Feel It All Around](https://open.spotify.com/track/6IE47jpPeatF2Iay7GZtEc) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life Of Leisure](https://open.spotify.com/album/3MwrwbxsAhFCNWfjYN3YKN) | 3:12 | 2019-08-09\* | 2019-08-27 |
 | [Feel Like I Do](https://open.spotify.com/track/5eQmYs2nwNrmKW0aJXMfBF) | [Vin Diesel](https://open.spotify.com/artist/3dtkct6MUrKfxCUWLgnGAD) | [Feel Like I Do](https://open.spotify.com/album/3cwKrvtH0vXimPwcHMmW51) | 3:05 | 2020-12-12 | 2021-05-08 |
 | [Feel Love](https://open.spotify.com/track/0Szx8eb4f6dcD1ymSkhUVi) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Rosie Doonan](https://open.spotify.com/artist/65xwjVX0Ynr5KhBqcgY6o3) | [Feel Love](https://open.spotify.com/album/1rfFgANicmcDQj55QNwGQ0) | 5:36 | 2019-08-09\* | 2019-09-14 |
+| [Feel My Heartbeat](https://open.spotify.com/track/4IjgGOVMLfsVF2F2Bk3Fbg) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Feel My Heartbeat](https://open.spotify.com/album/2HPAutEpwjX1zPQol97xeA) | 4:18 | 2025-04-11 |  |
 | [Feel Something More](https://open.spotify.com/track/6hCQWLaxgpfkkz2eDcNY9P) | [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [Breikthru](https://open.spotify.com/artist/6G0ewQfjGBDK82VmK0nVy6), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Feel Something More](https://open.spotify.com/album/2nZVaFUOEKUeNc8Hz6IoKZ) | 2:55 | 2021-10-30 | 2022-05-14 |
 | [Feel The Same](https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Feel The Same \(feat\. RuthAnne\)](https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB) | 2:50 | 2023-04-07 |  |
 | [Feel Your Love](https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love](https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp) | 3:12 | 2021-07-31 | 2021-10-09 |
@@ -784,7 +785,7 @@
 | [Love To Give \(with Culture Shock & Billy Lockett\)](https://open.spotify.com/track/0Rww3ql3uRmzTvLOVBFlpn) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE), [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Love To Give \(with Culture Shock & Billy Lockett\)](https://open.spotify.com/album/0UTEQDl8kWLzdAJr8WTzQq) | 3:22 | 2020-05-15 | 2021-09-11 |
 | [Love With You](https://open.spotify.com/track/6j5KqspWky4FruOBCowDRe) | [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [Love With You](https://open.spotify.com/album/3cRBILOUA2Ag4X6Dn2DjZs) | 3:04 | 2021-06-26 | 2022-05-14 |
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2022-04-29 | 2024-04-10 |
-| [Love You Loud](https://open.spotify.com/track/74LbmJtLRgeRubfKthJpeT) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Leon Stanford](https://open.spotify.com/artist/0zeqAycqbAyNpNARDkLtZX) | [Love You Loud](https://open.spotify.com/album/7jmrf6IQfmchm8rb9PeoBV) | 3:29 | 2023-06-16 |  |
+| [Love You Loud](https://open.spotify.com/track/74LbmJtLRgeRubfKthJpeT) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Leon Stanford](https://open.spotify.com/artist/0zeqAycqbAyNpNARDkLtZX) | [Love You Loud](https://open.spotify.com/album/7jmrf6IQfmchm8rb9PeoBV) | 3:29 | 2023-06-16 | 2025-04-18 |
 | [Love You More \- Radio Edit](https://open.spotify.com/track/5CvNAD2G98tv2zIvQUscPA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Love You More](https://open.spotify.com/album/7ndUmsJ2yd4OSJkPjfjvTj) | 3:30 | 2019-08-09\* | 2019-08-27 |
 | [Loved By U](https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm) | 3:27 | 2024-01-19 | 2024-04-19 |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-15 | 2025-01-11 |

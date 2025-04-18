@@ -1933,6 +1933,28 @@
     },
     {
       "album": {
+        "name": "Controla",
+        "url": "https://open.spotify.com/album/0zlQ4trEx94PCK5gDTwnkZ"
+      },
+      "artists": [
+        {
+          "name": "CESF",
+          "url": "https://open.spotify.com/artist/2vuYAHr48feo9PXfmvpNsW"
+        },
+        {
+          "name": "Elji Beatzkilla",
+          "url": "https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "Controla",
+      "url": "https://open.spotify.com/track/5HklSSXf2c6m3yT0RM2mc0"
+    },
+    {
+      "album": {
         "name": "Esperado",
         "url": "https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr"
       },
@@ -2378,6 +2400,24 @@
       "duration_ms": 279024,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
+    },
+    {
+      "album": {
+        "name": "Devagar",
+        "url": "https://open.spotify.com/album/2te7SshaqAOqUj43jcXpGA"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181585,
+      "name": "Devagar",
+      "url": "https://open.spotify.com/track/2b8bFD9ApXvC6Bsx48Cdfq"
     },
     {
       "album": {
@@ -3550,7 +3590,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 224347,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/4h2efiSX3jLkhYbDKSnNJF"
@@ -4906,7 +4946,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 209041,
       "name": "Mano Mingo",
       "url": "https://open.spotify.com/track/71UG3Xb9UH78ujxLzcwrvn"
@@ -9374,7 +9414,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 228956,
       "name": "T\u00e3o Bom",
       "url": "https://open.spotify.com/track/1mGzn65gVOyvpdulI2UZKu"
@@ -9764,6 +9804,56 @@
       "duration_ms": 476029,
       "name": "Versos & Poesias #5: Sintonia",
       "url": "https://open.spotify.com/track/27Zd9qIZIQg7lmJDVL2J4L"
+    },
+    {
+      "album": {
+        "name": "Versos & Poesias #7: Onda Passageira",
+        "url": "https://open.spotify.com/album/1c5RGsct11j9rxqi6BBlxA"
+      },
+      "artists": [
+        {
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "SK5naVOZ",
+          "url": "https://open.spotify.com/artist/556Gnybrg7gvvRSw8Ulgk0"
+        },
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        },
+        {
+          "name": "Karen Serena",
+          "url": "https://open.spotify.com/artist/2SjERTHmEHVCmjpFue0VBB"
+        },
+        {
+          "name": "Cari",
+          "url": "https://open.spotify.com/artist/5W3WfKsYcIFReQZ7Rm4cZV"
+        },
+        {
+          "name": "KVN LOPES",
+          "url": "https://open.spotify.com/artist/1Hox4aVVAzu5JMgeYA0eNL"
+        },
+        {
+          "name": "Beatriz Abrunhosa",
+          "url": "https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF"
+        },
+        {
+          "name": "kaako",
+          "url": "https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx"
+        },
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424716,
+      "name": "Versos & Poesias #7: Onda Passageira",
+      "url": "https://open.spotify.com/track/4KAn1ENtf2U6bqyF5Mpoaj"
     },
     {
       "album": {

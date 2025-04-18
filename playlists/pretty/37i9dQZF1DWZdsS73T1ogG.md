@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,411 likes - 143 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,472 likes - 143 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

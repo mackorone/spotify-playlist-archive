@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Sıla Şahin x Samet Kardeşler
+> viral, trend ve yükselenler\. Kapak: manifest
 
 143 songs - 7 hr 30 min
 

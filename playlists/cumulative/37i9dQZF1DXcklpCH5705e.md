@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus
+> Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: Yoga Lin
 
-175 songs - 11 hr 41 min
+180 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Presence I](https://open.spotify.com/track/1LFDJayKmDC8eGnDHWbLjv) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [3exes](https://open.spotify.com/artist/2VNaqz6PRTduwGnaaWgwE5) | [Presence I](https://open.spotify.com/album/2PI31y49DC07XpmFxvQCZ8) | 4:10 | 2022-03-10 | 2023-02-03 |
 | [Presence II](https://open.spotify.com/track/0cIVCiubtjItV9lIFbYvHt) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [岡田将生](https://open.spotify.com/artist/1lm280ho6zMHGBQ1uyLIhI), [3exes](https://open.spotify.com/artist/2VNaqz6PRTduwGnaaWgwE5) | [Presence II](https://open.spotify.com/album/766YbuXKLF2DLnh5DPbteQ) | 4:10 | 2022-03-10 | 2023-02-03 |
 | [Romantic Sunday](https://open.spotify.com/track/16YZbdkJtyvsjV8UKOwQBB) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Hometown Cha\-Cha\-Cha, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MExn54Ei7BViZPI3A8Qun) | 3:50 | 2022-03-10 | 2023-02-03 |
+| [Stupid Pop Song](https://open.spotify.com/track/5cxGXltbclrFIq2Lz0FCSZ) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [STUPID POP SONGS](https://open.spotify.com/album/1fAgIlU3bhxZgqnvCN14kb) | 5:16 | 2025-04-17 |  |
 | [Such a Day](https://open.spotify.com/track/0IX1i3ZyWm3d3zaTPYlW4O) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Monthly magazine home \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/1GE9tBZJcWrKd48HJpC8uS) | 4:26 | 2022-03-10 | 2022-07-29 |
 | [Such a Day](https://open.spotify.com/track/1DbJOwTIMlllzjNBv2Sp5X) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Monthly magazine home, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1FH1quQUVZy4rH3vX9kMWW) | 4:26 | 2022-03-10 | 2023-02-03 |
 | [Such a Day](https://open.spotify.com/track/2mddTylcRqpzmxbZ0s4Rvt) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Monthly magazine home Special \(Original Television Soundtrack\)](https://open.spotify.com/album/4xECN0ODsXyb2c7bVQjXrC) | 4:26 | 2022-03-10 | 2022-11-13 |
@@ -92,6 +93,7 @@
 | [情深說話未曾講 \- Live](https://open.spotify.com/track/3X3MlR0hbNJLY1zlS3L8UU) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U), [何秉舜](https://open.spotify.com/artist/0LkhfZsXSBqDc0y0CwppkY) | [十八種香港 Reimagine HK 2015 \(LIVE\)](https://open.spotify.com/album/1MU1FyMYaQnjNz6tWK12Ym) | 6:30 | 2024-04-04 | 2024-04-19 |
 | [想悄悄住進你的靈魂 \(電視劇《難哄》插曲\)](https://open.spotify.com/track/23y0POoEllY2LM9EwWJ3ab) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [想悄悄住進你的靈魂](https://open.spotify.com/album/7AceFgFxvjH64hBcGZsB6d) | 4:01 | 2025-04-03 |  |
 | [想知道你在想什麼 \- 《我吃了那男孩一整年的早餐》電影主題曲](https://open.spotify.com/track/6whxKQ0Ocn1FmzpDc7lTHq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想知道你在想什麼 \(《我吃了那男孩一整年的早餐》電影主題曲\)](https://open.spotify.com/album/0bk4Iwkx4kZ66ldOfJGQFn) | 4:54 | 2022-03-10 | 2023-02-03 |
+| [想过不止一百遍](https://open.spotify.com/track/0Xld54ZC4WYqTahn8lWn6J) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [想过不止一百遍](https://open.spotify.com/album/5phB3l1NbFTgPGeYYpLEwW) | 3:15 | 2025-04-17 |  |
 | [愚人節快樂](https://open.spotify.com/track/2FQE7XVMDtuHjkjY0D1uwj) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愚人節快樂](https://open.spotify.com/album/7lFcdqW9C9MGbgD8H6a2Ex) | 4:16 | 2025-04-03 |  |
 | [愛不作聲\(電視劇超感應學園片尾曲\)](https://open.spotify.com/track/61zLw4ZOLDYl4HHKhMnEZy) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D), [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [愛不作聲\(電視劇超感應學園片尾曲\)](https://open.spotify.com/album/76HdwNEugTmwDGmwszMHW1) | 3:34 | 2022-03-10 | 2023-02-03 |
 | [愛人錯過](https://open.spotify.com/track/27FOde2nUw0pFuj7hlPbaS) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 4:52 | 2025-04-03 |  |
@@ -111,6 +113,8 @@
 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 | 2025-04-03 |  |
 | [我爱你但是我要回家](https://open.spotify.com/track/1zLpybgzhdG6KzgG9sRAwE) | [ET](https://open.spotify.com/artist/6L8uYIuAWEDljh6LxP5jMm), [Happer](https://open.spotify.com/artist/6Ljp6ps4Nt9w0WJA8jSTdc), [无面小生](https://open.spotify.com/artist/2Yftm8We3xQFKhndUtuXUr), [口古口古](https://open.spotify.com/artist/6XRGKV1jyYJ5wTJ5S7hxeh) | [我爱你但是我要回家](https://open.spotify.com/album/6MqJXDfjN3dpfS2hH5FeKF) | 3:14 | 2025-04-03 |  |
 | [手望\(守望版\) \- Chill Club Version](https://open.spotify.com/track/72xWqUAWRuYhP0BZhroJjF) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1), [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [手望\(守望版\) \[Chill Club Version\]](https://open.spotify.com/album/55YNpYQPgwvhxCXte6OtN7) | 3:58 | 2023-02-02 | 2025-04-04 |
+| [打空氣的拳擊手](https://open.spotify.com/track/20DgB0tAU39wAfHNhyI0lZ) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [打空氣的拳擊手](https://open.spotify.com/album/3ZtFJbTJc9ENZ1sg3xGxSU) | 3:48 | 2025-04-17 |  |
+| [把你給的愛全部還給你](https://open.spotify.com/track/3iXJ94UA0usAvkMF8Em4v1) | [王泰翔2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [把你給的愛全部還給你](https://open.spotify.com/album/3MR2paemv2NSAqggLR0mJm) | 4:20 | 2025-04-17 |  |
 | [損友 \(音樂永續作品\)](https://open.spotify.com/track/58NLb3BrpY5ulbRRaFH8bU) | [SoulJase](https://open.spotify.com/artist/0DxUeiPWLakywVP1UocKim) | [損友 \(音樂永續作品\)](https://open.spotify.com/album/23Bihif9rjkXe3oSL7qmTU) | 4:24 | 2023-02-02 | 2025-04-04 |
 | [改造人 \- Live Version](https://open.spotify.com/track/6cdnqfrCjMg2z8IKan7h4S) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [幸福 \(華星40系列\)](https://open.spotify.com/album/1i1ISMhespmATpxL9x7yOR) | 4:26 | 2024-04-04 | 2025-04-04 |
 | [旋轉咖啡杯](https://open.spotify.com/track/4fqQlOGeCpyNhyaPDJU2A3) | [Yohee又熙](https://open.spotify.com/artist/3vF1H9QKCNIXvIDnRDiCke) | [旋轉咖啡杯](https://open.spotify.com/album/5ItjMVolyfUjV4jnKX783j) | 2:52 | 2025-04-03 |  |
@@ -175,6 +179,7 @@
 | [陀飛輪](https://open.spotify.com/track/4Tsh6vIHx44NpJYwAnGPjj) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [無臉人音樂會@台北大河岸](https://open.spotify.com/album/2kutcuDK3bdEmFd7tHuHWg) | 4:52 | 2023-02-02 | 2025-04-04 |
 | [除了你之外我没喜欢过别人（电视剧《难哄》想念曲）](https://open.spotify.com/track/1n3TGemzyikCxFwQMXqCUp) | [赵磊](https://open.spotify.com/artist/3PEOjX8IbuEfiR0FXlQgcm), [Fine乐团](https://open.spotify.com/artist/6YGDoSYih2URd3BvH11CTC) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 3:45 | 2025-04-03 |  |
 | [陪著你走 \- 劇集 "不懂撒嬌的女人" 插曲](https://open.spotify.com/track/6ZowYBoRWQaS7bPmmDuWpS) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Lonely](https://open.spotify.com/album/7jtCtoHovPWMOmzpTNNvVO) | 3:32 | 2023-02-02 | 2025-04-04 |
+| [陽光彩虹小白馬](https://open.spotify.com/track/4VYv4gIbr6XPWKTddnGBlh) | [Wowkie Da](https://open.spotify.com/artist/3RIgMUtdfRx98Lm5bXM3GD) | [人間精品](https://open.spotify.com/album/0NUqmEiC6AtqFTGV9KlaGo) | 3:46 | 2025-04-17 |  |
 | [隐形人（电视剧《难哄》等待曲）](https://open.spotify.com/track/11Vu9Zo7P4JXdrDRWVyrem) | [白敬亭](https://open.spotify.com/artist/7wAeyk4fSkYVf7BPiLPkda) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 4:45 | 2025-04-03 |  |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2022-03-10 | 2023-02-03 |
 | [難道喜歡處女座 \- J1M3 Remix](https://open.spotify.com/track/0ZWpQpsBL0aPRvSpxCPpnH) | [梁釗峰](https://open.spotify.com/artist/28ZDaobarpiyxFtfg11sS8), [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v) | [難道喜歡處女座 \(J1M3 Remix\)](https://open.spotify.com/album/1BI2KlhZY5Ba9hG68Syuj4) | 2:22 | 2023-02-02 | 2025-04-04 |

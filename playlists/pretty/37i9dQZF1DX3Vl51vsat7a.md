@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,760 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,766 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [schönhauser \(feat\. Gustav\)](https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [schönhauser EP](https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq) | 2:00 |
-| 2 | [Ehhwww](https://open.spotify.com/track/5vVOsEGvnwpvlsbW5YHOWN) | [Lelosa](https://open.spotify.com/artist/0RHTQm9f0cO7uay999YTiW) | [Ehhwww](https://open.spotify.com/album/1ImUlnx9kKhVsSfHcwyeVs) | 1:56 |
+| 1 | [Ausbluten](https://open.spotify.com/track/6MJfPq4ty6Td0wZ2ILDvoA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Ausbluten](https://open.spotify.com/album/2aITDUNoTwMzprmFY03qdg) | 3:05 |
+| 2 | [schönhauser \(feat\. Gustav\)](https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [schönhauser EP](https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq) | 2:00 |
 | 3 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 |
-| 4 | [Pretty Words](https://open.spotify.com/track/2CzPV6BQsDX3UXoi4w7hyj) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Pretty Words](https://open.spotify.com/album/6qEbR3N1Gvf9TGTUnUBqST) | 3:02 |
-| 5 | [Therapiebericht](https://open.spotify.com/track/0WXHTZFTxVnXJvw2EsurNB) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [Therapiebericht](https://open.spotify.com/album/6UoOOrRPsJopQO8PKf7KbW) | 2:21 |
-| 6 | [Bite me](https://open.spotify.com/track/1ZJ4HJwoWvruY8QQDeWx6i) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Bite me](https://open.spotify.com/album/1t4dt2sernqUnKEJTb2I6K) | 3:08 |
-| 7 | [ELLA](https://open.spotify.com/track/07B2CmYPHTjI6Cv5z4dazl) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [ELLA](https://open.spotify.com/album/6i9CQKkqBHumFjUaW5XHF9) | 2:10 |
-| 8 | [was hab ich falsch gemacht](https://open.spotify.com/track/5pjVNYkJx7wWTpKv9JVYNk) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [was hab ich falsch gemacht](https://open.spotify.com/album/7jYeAh27MEP3IJHXOQVPA7) | 3:19 |
-| 9 | [alle märchen sind gelogen](https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [alle märchen sind gelogen](https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD) | 2:45 |
-| 10 | [Letzte Chance](https://open.spotify.com/track/4geKoPP3hO9nuc24u7kaaY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Letzte Chance](https://open.spotify.com/album/15EMKL37yl94Zw3s8LWxsK) | 2:40 |
+| 4 | [Ehhwww](https://open.spotify.com/track/5vVOsEGvnwpvlsbW5YHOWN) | [Lelosa](https://open.spotify.com/artist/0RHTQm9f0cO7uay999YTiW) | [Ehhwww](https://open.spotify.com/album/1ImUlnx9kKhVsSfHcwyeVs) | 1:56 |
+| 5 | [Pretty Words](https://open.spotify.com/track/2CzPV6BQsDX3UXoi4w7hyj) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Pretty Words](https://open.spotify.com/album/6qEbR3N1Gvf9TGTUnUBqST) | 3:02 |
+| 6 | [Therapiebericht](https://open.spotify.com/track/0WXHTZFTxVnXJvw2EsurNB) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [Therapiebericht](https://open.spotify.com/album/6UoOOrRPsJopQO8PKf7KbW) | 2:21 |
+| 7 | [Bite me](https://open.spotify.com/track/1ZJ4HJwoWvruY8QQDeWx6i) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Bite me](https://open.spotify.com/album/1t4dt2sernqUnKEJTb2I6K) | 3:08 |
+| 8 | [ELLA](https://open.spotify.com/track/07B2CmYPHTjI6Cv5z4dazl) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [ELLA](https://open.spotify.com/album/6i9CQKkqBHumFjUaW5XHF9) | 2:10 |
+| 9 | [was hab ich falsch gemacht](https://open.spotify.com/track/5pjVNYkJx7wWTpKv9JVYNk) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [was hab ich falsch gemacht](https://open.spotify.com/album/7jYeAh27MEP3IJHXOQVPA7) | 3:19 |
+| 10 | [alle märchen sind gelogen](https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [alle märchen sind gelogen](https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD) | 2:45 |
 | 11 | [Linger](https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 4:04 |
 | 12 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 |
 | 13 | [Salz](https://open.spotify.com/track/7GQ5d2bSKkVSEyvw9LOBP3) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [vorgestern](https://open.spotify.com/album/5daSP3RsdrEdH2IdTUdRD1) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 74 | [Immer wenn du weinst](https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Immer wenn du weinst](https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB) | 2:30 |
 | 75 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 |
 
-Snapshot ID: `Z/hNeAAAAABDQQR6oM0gJYjYxapFs0M8`
+Snapshot ID: `aAGIEwAAAADXI+2fKabRIYKIIrQngqNw`

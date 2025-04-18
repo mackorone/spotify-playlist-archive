@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 143674,
+  "num_followers": 143713,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/2hgAAAAAAKoK3oaoZGkRkXiejW9y6N",
+  "snapshot_id": "Z/7zAAAAAABCJA+dGJtjNo92HQdq9D0s",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
       "duration_ms": 302266,
       "name": "That Somebody Was You (with Toni Braxton)",
       "url": "https://open.spotify.com/track/3xLKkJUafOtel0oe25XABQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ultimate Kenny G",
-        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 315293,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/3k9Yi9FsAUrpOVTgyQOIDa"
     }
   ],
   "unique_name": "This Is Kenny G",

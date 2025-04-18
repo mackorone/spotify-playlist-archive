@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva",
-  "num_followers": 348182,
+  "num_followers": 348310,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2025-04-14 17:17:46",
       "album": {
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/1RgF5MTXDQaKDLkfJHiMfZ"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 288384,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/4xBOvhQnJXr9pLmkX9Otp5"
+    },
+    {
+      "added_at": "2025-04-14 17:17:46",
+      "album": {
         "name": "General\u00edssima (Ao Vivo)",
         "url": "https://open.spotify.com/album/0SJ4FOVzLDG4xbIyXLvtXN"
       },
@@ -295,26 +315,6 @@
     {
       "added_at": "2025-04-14 17:17:46",
       "album": {
-        "name": "Esposa das Esposas",
-        "url": "https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP"
-      },
-      "artists": [
-        {
-          "name": "Bruna Marques",
-          "url": "https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP"
-        },
-        {
-          "name": "Gabriel Kzam",
-          "url": "https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k"
-        }
-      ],
-      "duration_ms": 239597,
-      "name": "Esposa das Esposas",
-      "url": "https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc"
-    },
-    {
-      "added_at": "2025-04-14 17:17:46",
-      "album": {
         "name": "Me Leva",
         "url": "https://open.spotify.com/album/1L69Pt5Yg6FpXFbK1AaI2r"
       },
@@ -331,22 +331,22 @@
     {
       "added_at": "2025-04-14 17:17:46",
       "album": {
-        "name": "You Raise Me Up",
-        "url": "https://open.spotify.com/album/1RgF5MTXDQaKDLkfJHiMfZ"
+        "name": "Esposa das Esposas",
+        "url": "https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP"
       },
       "artists": [
         {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+          "name": "Bruna Marques",
+          "url": "https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP"
         },
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Gabriel Kzam",
+          "url": "https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k"
         }
       ],
-      "duration_ms": 288384,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/4xBOvhQnJXr9pLmkX9Otp5"
+      "duration_ms": 239597,
+      "name": "Esposa das Esposas",
+      "url": "https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc"
     },
     {
       "added_at": "2025-04-14 17:17:46",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-04-14 17:17:46",
       "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
-    },
-    {
-      "added_at": "2025-04-14 17:17:46",
-      "album": {
         "name": "Seguir Viagem",
         "url": "https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 218599,
       "name": "Seguir Viagem",
       "url": "https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg"
+    },
+    {
+      "added_at": "2025-04-14 17:17:46",
+      "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2025-04-14 17:17:46",

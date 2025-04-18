@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 202426,
       "name": "Embracing",
       "url": "https://open.spotify.com/track/5Waqzt9QtbAh7MzuZOC01q"
@@ -2933,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "Key",
+        "url": "https://open.spotify.com/album/2yt2Xk0ySai7UGWIXmDtfJ"
+      },
+      "artists": [
+        {
+          "name": "MIYAO",
+          "url": "https://open.spotify.com/artist/3b9hFfDY5qpvvBDKinaJss"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209705,
+      "name": "Key",
+      "url": "https://open.spotify.com/track/6WXk1j2C4bmFcPUCJi6yUp"
+    },
+    {
+      "album": {
         "name": "Kona (feat. Jennifer Choi)",
         "url": "https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7"
       },
@@ -3352,7 +3370,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 206240,
       "name": "LOVE SEEKER",
       "url": "https://open.spotify.com/track/35lDSBBNjB8chnTjMrmzYQ"
@@ -3740,6 +3758,28 @@
       "duration_ms": 234456,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/1tqUzxik2ooGA5HI0gIUPd"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256493,
+      "name": "Missing Call (Feat. SURAN)",
+      "url": "https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf"
     },
     {
       "album": {
@@ -4626,7 +4666,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 211149,
       "name": "Scent",
       "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
@@ -4944,7 +4984,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 215693,
       "name": "SOUL LADY",
       "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"

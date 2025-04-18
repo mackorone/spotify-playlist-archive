@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-608 songs - 2 day 11 hr 7 min
+609 songs - 2 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Yes and Amen \(Hallelujah\)](https://open.spotify.com/track/1GwTkgtlPo92ZD2phuM7aS) | [ZOE Worship](https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo) | [Yes and Amen \(Hallelujah\)](https://open.spotify.com/album/6J4IzMLYaV7CMYbMKQv0W2) | 5:16 | 2024-12-06 | 2025-03-21 |
 | [Yeshua \- Live](https://open.spotify.com/track/4lu2i1XcWo1zze2vealWlB) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [JESUS \(Live\)](https://open.spotify.com/album/6rbdumL4FK82VrbBPj1jyg) | 11:57 | 2024-03-05 | 2024-09-10 |
 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 | 2022-06-24 | 2023-06-24 |
+| [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 | 2025-04-17 |  |
 | [You Bless Me \(Thank You\) \- Live](https://open.spotify.com/track/6JUBp5QivvZ19QJfQfrWH4) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [You Bless Me \(Thank You\) \[Live\]](https://open.spotify.com/album/7EcN4uCCMoVjgto2inDX3t) | 7:07 | 2025-03-20 |  |
 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 | 2022-04-05 | 2023-04-15 |
 | [You Remain \- Live](https://open.spotify.com/track/1RjvoksFFtAsqYo2uSHAOy) | [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [The Turning](https://open.spotify.com/album/6E9CCZc8nUZqridnjbTAgR) | 6:08 | 2022-08-29 | 2023-04-01 |

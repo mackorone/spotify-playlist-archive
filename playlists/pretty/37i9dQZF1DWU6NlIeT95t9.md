@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future\.  Cover: Natasha Noorani
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,664 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,666 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 67 | [mouqa](https://open.spotify.com/track/5uy6jIeJcCAlkl4QwRFnGI) | [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK), [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [mouqa](https://open.spotify.com/album/744Dw76R031Qy100gOTnMe) | 4:08 |
 | 68 | [Preacher](https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:17 |
 | 69 | [OUIJA](https://open.spotify.com/track/6cXGq3VUhLg0CQArHnzV1K) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [OUIJA](https://open.spotify.com/album/4nQCfJKGANKKHOIbUEMZLB) | 2:13 |
-| 70 | [Thandi](https://open.spotify.com/track/7tEzOjkyhaY9LSWCsV455b) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [RONAQ](https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr) | 2:40 |
+| 70 | [Thandi](https://open.spotify.com/track/7tEzOjkyhaY9LSWCsV455b) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/3pSxUhtCRY31ETLq2seRVQ) | [RONAQ](https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr) | 2:40 |
 | 71 | [Saazish](https://open.spotify.com/track/17251D1EDAoyd0pQFMG7y5) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc) | 3:34 |
 | 72 | [Shola](https://open.spotify.com/track/2wMF8mtqMtQbROrsyCca7p) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Shola](https://open.spotify.com/album/4UA8orPLg78snykTx9Sn1N) | 2:33 |
 | 73 | [Midnight](https://open.spotify.com/track/60zoHgHcJhStSg8qUbndjl) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Midnight](https://open.spotify.com/album/24wsaxD6FbhBqDGxQmptC5) | 3:07 |

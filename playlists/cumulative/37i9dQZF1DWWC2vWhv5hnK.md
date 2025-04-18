@@ -4,7 +4,7 @@
 
 > Enjoy music from "Kaiju No\. 8"! ©防衛隊第３部隊 ©松本直也／集英社
 
-108 songs - 11 hr 29 min
+109 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Fireworks: Concerto for Piano and Orchestra, Scene 5: Burst, Pt\. 2](https://open.spotify.com/track/4gA1D6Y9RAAdNBPXfOy9Fw) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [永野英樹](https://open.spotify.com/artist/1ch0mHyJqS0LlvGEKiZQ2m), [New Japan Philharmonic Orchestra](https://open.spotify.com/artist/0GlOFpRepnabV9byKzixRx), [杉山洋一](https://open.spotify.com/artist/1BT7qDWv85CB8qDosNfQ7x) | [Fireworks](https://open.spotify.com/album/4v7iaPhOECnymz5tp5huCP) | 5:37 | 2024-03-13 | 2024-04-19 |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2024-03-13 | 2024-04-29 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2024-03-13 | 2024-04-29 |
+| [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 |  |
 | [Kafka Works](https://open.spotify.com/track/4HGhdnjEBrMAzKPmbEBA9d) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Gensuke Kanki](https://open.spotify.com/artist/6wKIQpK2Xmxfoto8ezWfZC), [Keita Ogawa](https://open.spotify.com/artist/4JCRE56zJVJMC4vPuSAXdg) | [「怪獣8号」オリジナル・サウンドトラック](https://open.spotify.com/album/4r7MuwiXbYJpPJT61bB5Pc) | 1:34 | 2024-06-25 |  |
 | [Kaiju Attack!!!](https://open.spotify.com/track/0DeKG3GoRSqjMVl5XnL6WI) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [「怪獣8号」オリジナル・サウンドトラック](https://open.spotify.com/album/4r7MuwiXbYJpPJT61bB5Pc) | 1:42 | 2024-06-25 |  |
 | [Kaiju Beats 1](https://open.spotify.com/track/5lUiOPtqtuO73eN2aNRfnn) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [KIKORU 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/3VvCs79ckbnk0n0XyctHVG) | 1:55 | 2024-04-20 |  |

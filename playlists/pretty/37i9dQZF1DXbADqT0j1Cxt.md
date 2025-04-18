@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 
 > Lull your little ones to sleep with piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,368 likes - 224 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,373 likes - 224 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

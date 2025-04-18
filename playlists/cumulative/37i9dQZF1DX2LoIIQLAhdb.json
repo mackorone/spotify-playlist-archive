@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1854,6 +1854,24 @@
       "duration_ms": 150824,
       "name": "Danger",
       "url": "https://open.spotify.com/track/4Dh4g0Q7JN1fpvUnLltGRd"
+    },
+    {
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2n6p53MoLL1s9TEOVUxxrS"
+      },
+      "artists": [
+        {
+          "name": "T2R",
+          "url": "https://open.spotify.com/artist/6aH4CaxRV988XUNLVSi1dZ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200071,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/6IZpLClwwfBwe1OJhTlUTZ"
     },
     {
       "album": {
@@ -5022,7 +5040,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 161684,
       "name": "MAYA JAMA (feat. Green Montana)",
       "url": "https://open.spotify.com/track/7EKurcbXGq3vhsBAalwVWb"
@@ -6103,6 +6121,24 @@
     },
     {
       "album": {
+        "name": "Pas d'accord",
+        "url": "https://open.spotify.com/album/5ETFy3y8bcBlYdTVmypJfu"
+      },
+      "artists": [
+        {
+          "name": "Fleetzy",
+          "url": "https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Pas d'accord",
+      "url": "https://open.spotify.com/track/5iZttD5lbZ1kJ7hTMKFvk6"
+    },
+    {
+      "album": {
         "name": "Pas deux fois",
         "url": "https://open.spotify.com/album/4v04mvu8sazAy4w0bbtHWi"
       },
@@ -6668,7 +6704,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 177537,
       "name": "Que dalle",
       "url": "https://open.spotify.com/track/4gCoc6I3V4kEBhYp9r84gt"
@@ -6896,7 +6932,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 148800,
       "name": "RendezVOUS",
       "url": "https://open.spotify.com/track/0ZRjsqlzK08NTuIAJPBC4w"
@@ -7274,7 +7310,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 187723,
       "name": "Sc\u00e9nario",
       "url": "https://open.spotify.com/track/0dDak7CneLpm8WeywAt9mT"
@@ -8071,6 +8107,28 @@
     },
     {
       "album": {
+        "name": "Titulaire",
+        "url": "https://open.spotify.com/album/1NuU0IRn8DO8SDE699JTaS"
+      },
+      "artists": [
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        },
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186210,
+      "name": "Titulaire",
+      "url": "https://open.spotify.com/track/2jshKJivTkiIOF4T7AumgA"
+    },
+    {
+      "album": {
         "name": "Toi",
         "url": "https://open.spotify.com/album/4Hw0mZfcfRUJ1Pz3k0V3CO"
       },
@@ -8734,6 +8792,24 @@
       "duration_ms": 136471,
       "name": "Zina",
       "url": "https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0"
+    },
+    {
+      "album": {
+        "name": "\u00c0 Deux",
+        "url": "https://open.spotify.com/album/1DMDYEPsE4C2cIviqG7PES"
+      },
+      "artists": [
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "\u00c0 Deux",
+      "url": "https://open.spotify.com/track/4nLzsm83c3LkNJpr7jF7uW"
     },
     {
       "album": {

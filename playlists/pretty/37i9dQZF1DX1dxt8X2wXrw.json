@@ -1,10 +1,10 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 68600,
+  "num_followers": 68598,
   "original_name": "crush",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "Z8Bh3gAAAAAb2dqEQ7S28AswrD1J0NZX",
   "tracks": [
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu"
     },
     {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "For You / Si Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Si Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
-    },
-    {
       "added_at": "2025-02-27 13:00:14",
       "album": {
         "name": "Sick (feat. 4batz)",
@@ -1129,20 +1113,20 @@
       "url": "https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih"
     },
     {
-      "added_at": "2025-02-13 13:00:27",
+      "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+        "name": "For You / Si Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
         }
       ],
-      "duration_ms": 162353,
-      "name": "FIND YOUR WAY BACK",
-      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
+      "duration_ms": 176040,
+      "name": "Si Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+    },
+    {
+      "added_at": "2025-02-13 13:00:27",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "FIND YOUR WAY BACK",
+      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
     },
     {
       "added_at": "2024-12-20 20:54:00",

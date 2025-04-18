@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Yeyo en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,125 likes - 100 songs - 5 hr 58 min
+[](https://open.spotify.com/user/null) - 171,130 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO?si=xNsTekhYSbq9QpHhQwG4zA\">Riky Rick</a> ",
+  "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH?si=_jgJwQqzT3Wj5C1Mwehmtg\">Yvonne Chaka Chaka</a> ",
   "name": "SA Gold",
   "tracks": [
     {
@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "I'm Burning Up",
+        "url": "https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Chaka Chaka",
+          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375733,
+      "name": "Every Woman Needs A Man",
+      "url": "https://open.spotify.com/track/7nwzQHZquNkoUAVVvbj1Ae"
+    },
+    {
+      "album": {
         "name": "Es'khaleni Zone 3",
         "url": "https://open.spotify.com/album/5gDJL11BwbwwDDvK4wBXkI"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 281066,
       "name": "Hey, Hey, Hey",
       "url": "https://open.spotify.com/track/3kxNpZmC8x1fFcBjz1Pv7Z"
@@ -1180,6 +1198,24 @@
       "duration_ms": 339000,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
+    },
+    {
+      "album": {
+        "name": "I'm Burning Up",
+        "url": "https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Chaka Chaka",
+          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310106,
+      "name": "I\u2019m Burning Up",
+      "url": "https://open.spotify.com/track/5MtRQ4ICD8SqeJqDwSi3yB"
     },
     {
       "album": {
@@ -1772,7 +1808,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 248146,
       "name": "Nafukwa (Fok Julle Naaiers)",
       "url": "https://open.spotify.com/track/43nqAOOjecTtyOVmAI27RX"

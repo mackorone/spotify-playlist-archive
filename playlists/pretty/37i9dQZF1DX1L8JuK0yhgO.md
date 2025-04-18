@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,574 likes - 70 songs - 3 hr 44 min
+[](https://open.spotify.com/user/null) - 25,573 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 6 | [lovin \(feat\. Charlu & JAY'ED\)](https://open.spotify.com/track/6UYUaWKaRWvJKmfVQvZs2W) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77), [JAY'ED](https://open.spotify.com/artist/3vlAUneucinIokaOUeYbrv) | [lovin \(feat\. Charlu & JAY'ED\)](https://open.spotify.com/album/2TWborgVj9rlk1anBCa7mF) | 3:29 |
 | 7 | [This Door \(feat\. TWIGY\)](https://open.spotify.com/track/5skDu6FEjyMU63huQNmZML) | [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3), [TWIGY](https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v) | [BIS4](https://open.spotify.com/album/26te5SeU0Jq4lA8s7vMYwW) | 3:50 |
 | 8 | [Stop Idling \(feat\. C.O.S.A\. & MIYACHI\)](https://open.spotify.com/track/55rzG2Ysq7vZqOWX3JotEQ) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [THE MESSAGE 6.5](https://open.spotify.com/album/1LWgMc06hV0btW41E1ZrXv) | 3:02 |
-| 9 | [ヴァージル ・ アブロー](https://open.spotify.com/track/7C3BAfwjk4fh4cjTD0jGDo) | [8810](https://open.spotify.com/artist/13JBygOqUwRGtqmyhFFaWi) | [ヴァージル ・ アブロー](https://open.spotify.com/album/1WrHvHPFFDFHlVKwa4MNR0) | 2:22 |
+| 9 | [ヴァージル ・ アブロー](https://open.spotify.com/track/7C3BAfwjk4fh4cjTD0jGDo) | [8810](https://open.spotify.com/artist/6kvhMD4SVUFtIg9NbS3tKn) | [ヴァージル ・ アブロー](https://open.spotify.com/album/1WrHvHPFFDFHlVKwa4MNR0) | 2:22 |
 | 10 | [KIMOCHI](https://open.spotify.com/track/4gNpHN6BrmpeyMd4ogAGqe) | [Yamiboi To$](https://open.spotify.com/artist/27MxRYUqOp5h0sY4T9u5es) | [KIMOCHI](https://open.spotify.com/album/2wsQ3EpscTEsDIvj411uOa) | 2:41 |
 | 11 | [轟く雷鳴](https://open.spotify.com/track/7iPR8TSqA4SPIpiUeio7l3) | [関谷拳四郎](https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL) | [Love.zip](https://open.spotify.com/album/08xDr6R0vGy22UAGxnVUYt) | 3:31 |
 | 12 | [Ask me](https://open.spotify.com/track/0kCQj8jzGmDhZVZoHISdN4) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7) | [Ask me](https://open.spotify.com/album/4SX5V17XiRoN1UiU9qnULf) | 2:32 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JASP.ER. Artwork: Isu Kim",
+  "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KRYPTONYTE. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -6380,7 +6380,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 226000,
       "name": "Songkran SOI COWBOY",
       "url": "https://open.spotify.com/track/3d4LpE2eJCsb1rvG4uq7dv"
@@ -10168,7 +10168,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 213000,
       "name": "\u0e04\u0e19\u0e1b\u0e23\u0e30\u0e2b\u0e25\u0e32\u0e14 (Toxic)",
       "url": "https://open.spotify.com/track/4WgNv15TPKSvSOXZUOhw1V"
@@ -20067,6 +20067,24 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e44\u0e21\u0e48\u0e43\u0e2a\u0e48\u0e44\u0e02\u0e48 (\u0e41\u0e04\u0e48\u0e18\u0e23\u0e23\u0e14\u0e32..\u0e43\u0e2a\u0e48\u0e43\u0e08\u0e01\u0e47\u0e1e\u0e2d)",
+        "url": "https://open.spotify.com/album/6Jw8DNC8ifqlq2S0DlBPLz"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e01\u0e35\u0e49\u0e22 \u0e13\u0e18\u0e01\u0e24\u0e15",
+          "url": "https://open.spotify.com/artist/3OvHP6bZE4JIGE6OI7RSka"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e44\u0e21\u0e48\u0e43\u0e2a\u0e48\u0e44\u0e02\u0e48 (\u0e41\u0e04\u0e48\u0e18\u0e23\u0e23\u0e14\u0e32..\u0e43\u0e2a\u0e48\u0e43\u0e08\u0e01\u0e47\u0e1e\u0e2d)",
+      "url": "https://open.spotify.com/track/1D3O4yU5zvRsZJFVmQAnOf"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e35\u0e48\u0e04\u0e23\u0e31\u0e1a? (So Curious)",
         "url": "https://open.spotify.com/album/00YAElfWsStwZZs57KWzYH"
       },
@@ -23341,6 +23359,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e15\u0e47\u0e21",
+        "url": "https://open.spotify.com/album/7ic0xLl7kCFfggoMiQ11va"
+      },
+      "artists": [
+        {
+          "name": "Natherine Dusita",
+          "url": "https://open.spotify.com/artist/0WIyuN8tC1t82KD4wPP6z8"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194842,
+      "name": "\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e15\u0e47\u0e21",
+      "url": "https://open.spotify.com/track/2RWcyG6xwNBk0DTpgzXROh"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e49\u0e32\u0e22\u0e01\u0e47\u0e44\u0e14\u0e49 (Don't Mind) - Single",
         "url": "https://open.spotify.com/album/4soh1kZrD4soADmcghnh4l"
       },
@@ -26608,7 +26644,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 210000,
       "name": "\u0e2b\u0e4a\u0e30! (Huh!)",
       "url": "https://open.spotify.com/track/7ijSTwXKu4SoVJS7BPxPSt"
@@ -28074,7 +28110,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 254296,
       "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30",
       "url": "https://open.spotify.com/track/19KNykIjnDVBEEhwu7XTgf"
@@ -33681,6 +33717,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07 (out of orbit)",
+        "url": "https://open.spotify.com/album/0zsuhlUmvGweBDWWhkkAcW"
+      },
+      "artists": [
+        {
+          "name": "KRYPTONYTE",
+          "url": "https://open.spotify.com/artist/64zvyVejR7HyMDdqDPqccF"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281997,
+      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07 (out of orbit)",
+      "url": "https://open.spotify.com/track/5Q6TMfJUtqoLjCf2KPSzWU"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e04\u0e48\u0e2d\u0e35\u0e01\u0e04\u0e37\u0e19",
         "url": "https://open.spotify.com/album/6EYw2NFpNQnvWfi8FjHm7s"
       },
@@ -38004,6 +38058,24 @@
       "duration_ms": 218382,
       "name": "\u0e44\u0e2d\u0e49\u0e40\u0e08\u0e49\u0e32\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (Cruel)",
       "url": "https://open.spotify.com/track/0WT5GzUeUI1XVH2YU7wg53"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e2d\u0e49\u0e40\u0e14\u0e47\u0e01\u0e04\u0e19\u0e19\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/2W34J18f1zbmrvFWgBdElu"
+      },
+      "artists": [
+        {
+          "name": "NICK KIT",
+          "url": "https://open.spotify.com/artist/3EPioBpgckYC7aJqg5vdaX"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242513,
+      "name": "\u0e44\u0e2d\u0e49\u0e40\u0e14\u0e47\u0e01\u0e04\u0e19\u0e19\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/0JUCnFF3PI5hTHruEy5h0G"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS"

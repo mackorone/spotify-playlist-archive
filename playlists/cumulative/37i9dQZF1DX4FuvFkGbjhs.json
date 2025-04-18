@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Loyle Carner",
+  "description": "Beyond titles, beyond genre. Cover: Jadu Heart",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -56,6 +56,28 @@
       "duration_ms": 188164,
       "name": "30 Degrees",
       "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
+    },
+    {
+      "album": {
+        "name": "490 Bells",
+        "url": "https://open.spotify.com/album/2vnRIJ4l1MzXTCuAcU6kuu"
+      },
+      "artists": [
+        {
+          "name": "phonewifey",
+          "url": "https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8"
+        },
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246138,
+      "name": "490 Bells",
+      "url": "https://open.spotify.com/track/01iqWLV1Wrlioo5gAUb39m"
     },
     {
       "album": {
@@ -4286,7 +4308,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 145663,
       "name": "Keep Me Satisfied",
       "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
@@ -5393,6 +5415,28 @@
     },
     {
       "album": {
+        "name": "negotiate",
+        "url": "https://open.spotify.com/album/2Zt49RShX3Gr4aouDdqeEj"
+      },
+      "artists": [
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "negotiate",
+      "url": "https://open.spotify.com/track/5dvS2lWBnnvG1t4FE2PTFD"
+    },
+    {
+      "album": {
         "name": "NEIGHBOURS",
         "url": "https://open.spotify.com/album/5k1htUtASv8WIFomZCnb7a"
       },
@@ -5746,7 +5790,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 170322,
       "name": "Ocean Steppin'",
       "url": "https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7"
@@ -6006,7 +6050,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 185940,
       "name": "Pavement",
       "url": "https://open.spotify.com/track/3SLpYifPLNbact2miciz7A"

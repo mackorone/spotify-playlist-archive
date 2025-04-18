@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125441,
+  "num_followers": 125436,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT8hsutuHPIWZb+/HvKEzximX97nZo",
+  "snapshot_id": "AAAT9IdCOT+EPNeqLcMCCGb27kOJ4u71",
   "tracks": [
+    {
+      "added_at": "2025-04-17 16:23:21",
+      "album": {
+        "name": "BREAK THROUGH / RADIATE",
+        "url": "https://open.spotify.com/album/0UmwhMlIhRLcKk6UGTSMlV"
+      },
+      "artists": [
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "BREAK THROUGH",
+      "url": "https://open.spotify.com/track/5dWiTTEHrm1JKuU6Ae0ytl"
+    },
     {
       "added_at": "2025-04-16 12:11:52",
       "album": {

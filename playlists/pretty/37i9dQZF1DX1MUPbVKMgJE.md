@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites\. Cover: Sylvester
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,608,523 likes - 75 songs - 6 hr 10 min
+[](https://open.spotify.com/user/null) - 1,608,610 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

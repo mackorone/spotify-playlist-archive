@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,027 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,061 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 62 | [Next Thing You Know \- Live From The O2 London](https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know \(Live From The O2 London\)](https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU) | 3:01 |
 | 63 | [Human \- Live](https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human \(Live\)](https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg) | 3:34 |
 | 64 | [Forget About It \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 3:18 |
-| 65 | [It's 5 O'Clock Somewhere \- Live](https://open.spotify.com/track/2rDJ3cYYaLu5MkwkfN4YQj) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Live At Texas Stadium](https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK) | 3:56 |
-| 66 | [Good Hearted Woman \- Live in Texas \- September 1974](https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 3:04 |
+| 65 | [Good Hearted Woman \- Live in Texas \- September 1974](https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 3:04 |
+| 66 | [It's 5 O'Clock Somewhere \- Live](https://open.spotify.com/track/2rDJ3cYYaLu5MkwkfN4YQj) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Live At Texas Stadium](https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK) | 3:56 |
 | 67 | [Back Where I Come From \- Live](https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 4:45 |
 | 68 | [Nobody But You \(Duet with Gwen Stefani\) \- Live](https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Nobody But You \(Duet with Gwen Stefani\) \[Live\]](https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp) | 3:30 |
 | 69 | [Brand New Man \(with Luke Combs\) \- Live from CMT Crossroads](https://open.spotify.com/track/2u2TK3JmzoBXlMQJ1s7Skq) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Brooks & Dunn and Friends \- Live from CMT Crossroads](https://open.spotify.com/album/7kgTfRyCCwAIMFpGRktONm) | 4:14 |

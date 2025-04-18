@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-130 songs - 8 hr 51 min
+131 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Bado Hujasema](https://open.spotify.com/track/3mAReE4IMN0uYohwvxEtwk) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Bado Hujasema](https://open.spotify.com/album/0EXOj7hO5yeL7dce4OhYoL) | 2:33 | 2024-01-26 | 2024-02-17 |
 | [BELIEVE](https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [BELIEVE](https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB) | 1:41 | 2025-02-06 |  |
 | [Bisha](https://open.spotify.com/track/2FFqqwEPOVwuNDYseRAifc) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Bisha](https://open.spotify.com/album/58lH640RcXfAADflBWuQXv) | 3:22 | 2025-03-28 |  |
-| [Boss](https://open.spotify.com/track/30v3qWfnXMmoJlXSq03ZQw) | [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm) | [Boss](https://open.spotify.com/album/5dHJkC7n9FdTsA1pRFn3FV) | 5:01 | 2024-04-05 |  |
+| [Boss](https://open.spotify.com/track/30v3qWfnXMmoJlXSq03ZQw) | [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm) | [Boss](https://open.spotify.com/album/5dHJkC7n9FdTsA1pRFn3FV) | 5:01 | 2024-04-05 | 2025-04-18 |
 | [Boss Kalewa](https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Boss Kalewa](https://open.spotify.com/album/3hObipsh4XFmmdFvFKO52w) | 5:23 | 2022-08-05 | 2025-02-21 |
 | [Chawa](https://open.spotify.com/track/5pLhsPqqPdySGA0nOxkHmO) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Chawa](https://open.spotify.com/album/3Lh0ZnfFmi3uaGZ4mVjeo7) | 4:14 | 2022-08-05 | 2024-04-19 |
 | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR) | 4:39 | 2022-08-05 |  |
@@ -77,6 +77,7 @@
 | [Nampakia Mkongo](https://open.spotify.com/track/4JMUGR4012eENHnulffTeN) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Elisha](https://open.spotify.com/artist/0vD3qMkifEYNEcUx85ahdA) | [Nampakia Mkongo](https://open.spotify.com/album/3A347rTOQ2qQBTyXjwrtmX) | 3:19 | 2024-10-04 |  |
 | [Nampenda](https://open.spotify.com/track/2B3dIhmQQbnBtJol5uMjiY) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Nampenda](https://open.spotify.com/album/0RSCOc5P6Bpt4Pkdg8SoXz) | 5:02 | 2023-02-24 | 2023-03-18 |
 | [Nani](https://open.spotify.com/track/2OVnpe9zs6lWKymL3NhVZm) | [Wamoto](https://open.spotify.com/artist/49cEXrvOxwDlG7HebzedM1), [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm) | [Nani](https://open.spotify.com/album/5VKweEzcW4FEvpo7AmynUl) | 3:51 | 2024-08-23 | 2024-10-04 |
+| [Natafuta Hela](https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [K Pizo](https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV) | [Natafuta Hela](https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp) | 3:44 | 2025-04-17 |  |
 | [Natamani](https://open.spotify.com/track/5PY0K1JkB3IbgldFpHiWuM) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB) | [Natamani](https://open.spotify.com/album/6A8pezWuBNYujOhZhffVmE) | 4:22 | 2022-08-05 | 2024-12-18 |
 | [Naumia](https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Naumia](https://open.spotify.com/album/70hchTWlKZnkowXc624R7v) | 3:44 | 2023-04-14 | 2024-07-25 |
 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 | 2022-08-05 |  |

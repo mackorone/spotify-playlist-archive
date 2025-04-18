@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: <a href=\"https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=dCw4JE67S4qG_7e3d5JNvg\">Lojay</a>",
+  "description": "The best in South African and international R&B. Cover: <a href=\"https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb?si=FjzbrXd-QsaqXhfviIBRJw\">Leon Thomas</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -380,6 +380,36 @@
       "duration_ms": 225226,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/4ijh3sciORErcse7mAkCYT"
+    },
+    {
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/7nyZt4J5A5gGjDMqP6ZLMt"
+      },
+      "artists": [
+        {
+          "name": "Chipego",
+          "url": "https://open.spotify.com/artist/6560RgzahjBUplHfzm454m"
+        },
+        {
+          "name": "uBeyond",
+          "url": "https://open.spotify.com/artist/1fg6FOcNJXJNFg2ejI6ZXc"
+        },
+        {
+          "name": "Elias Njovu",
+          "url": "https://open.spotify.com/artist/42FrdBvYgumCoyWaYlL530"
+        },
+        {
+          "name": "Pilfinger",
+          "url": "https://open.spotify.com/artist/3BSuYGFzMNPZ1VOAWBOCH0"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/1by7gu9nFyVALkPZC84tI8"
     },
     {
       "album": {
@@ -2640,6 +2670,24 @@
       "duration_ms": 221066,
       "name": "Feel Everything",
       "url": "https://open.spotify.com/track/2WnuvdvPMAl8pW5Fb1iiBV"
+    },
+    {
+      "album": {
+        "name": "Feel Love",
+        "url": "https://open.spotify.com/album/5le02tYRlcqPQD8NFXqbWV"
+      },
+      "artists": [
+        {
+          "name": "Mothers Favorite Child",
+          "url": "https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176347,
+      "name": "Feel Love",
+      "url": "https://open.spotify.com/track/6ll7qHgdALQu5P6Q2uBNOG"
     },
     {
       "album": {
@@ -5070,6 +5118,24 @@
       "duration_ms": 225736,
       "name": "Malume",
       "url": "https://open.spotify.com/track/627OzLPgJJrB1pRfQB3nHa"
+    },
+    {
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/7LuXpYGWJ7iV20JyGIOKRM"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199877,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/2xevmit1WYM61Mb7E76F7T"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring Ela Taubert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975,115 likes - 50 songs - 2 hr 37 min
+[](https://open.spotify.com/user/null) - 1,975,139 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

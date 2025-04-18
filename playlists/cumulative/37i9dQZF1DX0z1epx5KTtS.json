@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Dydy Yeman",
+  "description": "African dance party music from the continent to Paris. Photo : Serge Beynaud",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 168447,
       "name": "En Kabato",
       "url": "https://open.spotify.com/track/4xE4sAEZSVa9yfT1cszxQ1"
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 212688,
       "name": "Mon combat",
       "url": "https://open.spotify.com/track/6T6AQIS7A7zUTgl3ByyKq6"
@@ -3829,6 +3829,28 @@
     },
     {
       "album": {
+        "name": "R\u00e9volt\u00e9",
+        "url": "https://open.spotify.com/album/3LudMCBqaRDovkc4gUeONI"
+      },
+      "artists": [
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Grand Homme",
+          "url": "https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156288,
+      "name": "R\u00e9volt\u00e9",
+      "url": "https://open.spotify.com/track/6JXg1zMsPigCQernsCbPnV"
+    },
+    {
+      "album": {
         "name": "S'envolement",
         "url": "https://open.spotify.com/album/43kB8Cbtaz8nI0GFOUivXg"
       },
@@ -4069,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Taper Dedans",
+        "url": "https://open.spotify.com/album/401kSHadSYFgokogNYt1yD"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "Taper Dedans",
+      "url": "https://open.spotify.com/track/0WAFqSYnTHOyOeIGPMK8vI"
+    },
+    {
+      "album": {
         "name": "Tchayeh",
         "url": "https://open.spotify.com/album/15ILd1c6laBM0aiS7s1lHF"
       },
@@ -4226,6 +4266,28 @@
       "duration_ms": 215294,
       "name": "Touche ici",
       "url": "https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU"
+    },
+    {
+      "album": {
+        "name": "TOUJOURS GNAN (Remix)",
+        "url": "https://open.spotify.com/album/7GRtAtq7ou6dhO1cCghrdS"
+      },
+      "artists": [
+        {
+          "name": "Nyerky",
+          "url": "https://open.spotify.com/artist/5U4o1zywerDRWMxteldGoC"
+        },
+        {
+          "name": "Obam's",
+          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "TOUJOURS GNAN - Remix",
+      "url": "https://open.spotify.com/track/0BwKs1SMsguiJiHTGf4fi0"
     },
     {
       "album": {
@@ -4506,7 +4568,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 203225,
       "name": "Zam Kolobo",
       "url": "https://open.spotify.com/track/4IwaX2p7t2hmafr0xMn7IR"

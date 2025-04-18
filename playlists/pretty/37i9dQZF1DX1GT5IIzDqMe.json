@@ -1,10 +1,10 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 97677,
+  "num_followers": 97696,
   "original_name": "Detroit Techno",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "Z5ef8wAAAACynEMk7zxZhaOmZ8zqKKF9",
   "tracks": [
@@ -195,22 +195,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Frisk",
-        "url": "https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb"
+        "name": "Back To Basics (Part 1)",
+        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
       },
       "artists": [
         {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
         }
       ],
-      "duration_ms": 191350,
-      "name": "Frisk",
-      "url": "https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y"
+      "duration_ms": 361400,
+      "name": "Track Ten",
+      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -235,18 +231,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Back To Basics (Part 1)",
-        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
+        "name": "Frisk",
+        "url": "https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb"
       },
       "artists": [
         {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         }
       ],
-      "duration_ms": 361400,
-      "name": "Track Ten",
-      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
+      "duration_ms": 191350,
+      "name": "Frisk",
+      "url": "https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y"
     },
     {
       "added_at": "2023-10-26 20:41:14",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/90AgAAAABM25PzZ7i7pMYSHWxtWUMN",
+  "snapshot_id": "aADFKgAAAADBq3u8eo/lX4uMnf/YGlDK",
   "tracks": [
     {
       "added_at": "2025-03-17 09:35:56",
@@ -115,6 +115,22 @@
       "duration_ms": 332307,
       "name": "Aa Gagana Surya",
       "url": "https://open.spotify.com/track/6kVcB3nyCRme2opxgffHFb"
+    },
+    {
+      "added_at": "2025-04-17 09:06:48",
+      "album": {
+        "name": "Mouna",
+        "url": "https://open.spotify.com/album/3e9jEq84RxkgooadKTjQgY"
+      },
+      "artists": [
+        {
+          "name": "VishwxsMUZiK",
+          "url": "https://open.spotify.com/artist/5klwYQTdqW2U8RTVvykN5Y"
+        }
+      ],
+      "duration_ms": 143620,
+      "name": "Mouna",
+      "url": "https://open.spotify.com/track/2xcr3940RdJ14giBjK0BU8"
     },
     {
       "added_at": "2025-04-09 10:15:33",
@@ -1229,22 +1245,6 @@
       "url": "https://open.spotify.com/track/5mgMrUnTtrs3RdHM5aV7EO"
     },
     {
-      "added_at": "2025-01-21 11:34:47",
-      "album": {
-        "name": "Adhvik Hogabeda",
-        "url": "https://open.spotify.com/album/1SHbmeeFoEzZagz8MZNluA"
-      },
-      "artists": [
-        {
-          "name": "Adhvik",
-          "url": "https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV"
-        }
-      ],
-      "duration_ms": 131338,
-      "name": "Adhvik Hogabeda",
-      "url": "https://open.spotify.com/track/3EiHfLG5MndDAWgXtr4tl9"
-    },
-    {
       "added_at": "2025-01-06 04:59:04",
       "album": {
         "name": "Cotton Candy",
@@ -1391,30 +1391,6 @@
       "duration_ms": 203879,
       "name": "Choore Chooru",
       "url": "https://open.spotify.com/track/4xvAtC9MHD06kHgCs9oGDS"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/0GmaAGG2IIdoIhdH2rRTfX"
-      },
-      "artists": [
-        {
-          "name": "Dr Nithin S",
-          "url": "https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD"
-        },
-        {
-          "name": "Nishan S",
-          "url": "https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G"
-        },
-        {
-          "name": "Vaishnavi",
-          "url": "https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/4257sWSwAnFjI725qd4YT4"
     },
     {
       "added_at": "2025-01-06 04:59:04",

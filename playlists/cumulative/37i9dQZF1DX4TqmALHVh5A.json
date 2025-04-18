@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Nina Versyp",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Liv del Estal",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 211866,
       "name": "ami imaginaire",
       "url": "https://open.spotify.com/track/0DuA2KLpfMq2TLgtHJ0g2b"
@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Jurassique Parc",
+        "url": "https://open.spotify.com/album/2KdabhvdyfpvMXPLAAM7p3"
+      },
+      "artists": [
+        {
+          "name": "Schlaasss",
+          "url": "https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237041,
+      "name": "Jurassique Parc",
+      "url": "https://open.spotify.com/track/4ou6wh6gVdvZxdV5zixaMO"
+    },
+    {
+      "album": {
         "name": "just a noise",
         "url": "https://open.spotify.com/album/1dfM8mdmfobemurtB4f6qi"
       },
@@ -4024,7 +4042,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 282400,
       "name": "Rupture",
       "url": "https://open.spotify.com/track/4259dOSNSYPUdCr2xc7Z1I"
@@ -4970,6 +4988,24 @@
       "duration_ms": 171161,
       "name": "Vivre soit 2",
       "url": "https://open.spotify.com/track/3HQUQjYxybimuqzIdebnr9"
+    },
+    {
+      "album": {
+        "name": "Vous !",
+        "url": "https://open.spotify.com/album/1R6fcOqHQGp02MpUY4DSBN"
+      },
+      "artists": [
+        {
+          "name": "Moussa",
+          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136492,
+      "name": "Vous !",
+      "url": "https://open.spotify.com/track/2nHe5UGcgaKpNue5w9ddXa"
     },
     {
       "album": {

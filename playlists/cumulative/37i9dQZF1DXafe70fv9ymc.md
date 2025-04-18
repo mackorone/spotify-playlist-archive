@@ -4,11 +4,12 @@
 
 > sexy afrobeats
 
-127 songs - 6 hr 30 min
+129 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-04-26 |  |
+| [6:35](https://open.spotify.com/track/0YSP6Fkh8wWEhvZYGEUqId) | [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Tobolayefa + 6: 35](https://open.spotify.com/album/3pEzOFG1M7X9lOStge0xQr) | 2:55 | 2025-04-18 |  |
 | [6th Heaven](https://open.spotify.com/track/25iO8OFr0spWQlbEOX4gE6) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [6th Heaven](https://open.spotify.com/album/3x6LyrVuG7DCWHNPab60rm) | 3:59 | 2024-02-09 | 2024-06-21 |
 | [Aabidi](https://open.spotify.com/track/5wpdQnxFPhhSCSO5FyL6NL) | [Teledalase](https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe) | [Aabidi](https://open.spotify.com/album/7s4LoCPOHaqSAIBzMCPQ2F) | 4:33 | 2025-02-14 | 2025-03-22 |
 | [Addict](https://open.spotify.com/track/4QllNTTcfilJCmYGM7bJtw) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Mzwaa](https://open.spotify.com/artist/0mebykC539Ik5ijTNBY1FJ) | [Addict](https://open.spotify.com/album/6VCFjahARQWF0GW9mEUf7I) | 3:36 | 2024-06-28 | 2024-10-13 |
@@ -77,6 +78,7 @@
 | [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 | 2025-04-11 |  |
 | [Nobody Gotta Know](https://open.spotify.com/track/1uqlrp7UizucM2Lk1Ndcn7) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX) | [Nobody Gotta Know](https://open.spotify.com/album/5zFoqU21uLBJlZXq8EAL57) | 2:11 | 2024-02-09 | 2024-05-17 |
 | [NYMPHOMANIA](https://open.spotify.com/track/656bTqbJh4wIVlY0EqvLGu) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:33 | 2024-06-21 | 2024-10-13 |
+| [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 | 2025-04-18 |  |
 | [ON MY BODY](https://open.spotify.com/track/1BJaSV1JfaaUf6SX2VwiaW) | [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Jake Cromwell](https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh), [Vylet Stone](https://open.spotify.com/artist/2w8ShurPxmdxPuxSyG4eJT) | [ON MY BODY](https://open.spotify.com/album/3uDjTASTUv7h3RxhtiGKwQ) | 3:07 | 2024-10-12 |  |
 | [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 | 2025-02-28 |  |
 | [only u](https://open.spotify.com/track/2zmzogiVnesAdiv7FIoEfk) | [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [only u](https://open.spotify.com/album/3PigDoDoicbL7txnqGx0Uz) | 2:04 | 2024-08-02 |  |

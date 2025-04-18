@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,392 songs - 3 day 7 hr 16 min
+1,393 songs - 3 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Caffeine](https://open.spotify.com/track/3xsFZOyd6mfrjZT1Sf4nXR) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [Caffeine](https://open.spotify.com/album/74G9k4IlA4yjydeNlxOE7a) | 3:06 | 2023-05-16 | 2023-10-06 |
 | [can't say](https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [堂村 璃羽](https://open.spotify.com/artist/6E4FILsUkNyAGEImXCN1zz), [301](https://open.spotify.com/artist/2NYKFt0lji6afg6POKWPrr), [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi) | [can't say](https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH) | 3:36 | 2022-06-16 | 2022-07-16 |
 | [CapSule](https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [CapSule](https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ) | 2:54 | 2022-07-28 | 2022-09-09 |
-| [Caramel Pain](https://open.spotify.com/track/2XhNjx6wj3jRHbFWK2XrTl) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [新星目録](https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z) | 2:59 | 2025-01-21 |  |
+| [Caramel Pain](https://open.spotify.com/track/2XhNjx6wj3jRHbFWK2XrTl) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [新星目録](https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z) | 2:59 | 2025-01-21 | 2025-04-18 |
 | [CARNIVAL](https://open.spotify.com/track/4TVk57e2MiaT2Ni3rW0XJA) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [CARNIVAL](https://open.spotify.com/album/49bgoQUh4RgDbFD6PBKjxO) | 3:35 | 2022-06-23 | 2022-06-29 |
 | [Cats are dangerous](https://open.spotify.com/track/7D3dJwn9VlMOHOACNRyqlU) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Cats are dangerous EP](https://open.spotify.com/album/0AMgIiOFF9XD25J6ozTWW7) | 2:27 | 2024-10-08 | 2024-11-06 |
 | [celeste feat\. Haruno](https://open.spotify.com/track/1sqmG9MPr7oBAPPVSku4LQ) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. Haruno](https://open.spotify.com/album/0vZK7EGOEaKHWScSOnKJ5O) | 2:47 | 2022-10-25 | 2022-12-14 |
@@ -580,6 +580,7 @@
 | [なんもない \(feat\. 星街すいせい, sakuma.\)](https://open.spotify.com/track/1YHmGQGyNmFAsVAgPckYxF) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX), [sakuma.](https://open.spotify.com/artist/28dIdhPktpaNDZlLD41cLj) | [なんもない \(feat\. 星街すいせい, sakuma.\)](https://open.spotify.com/album/57Hvt5oeXrOauE7NZgd4lm) | 3:37 | 2024-04-30 | 2024-07-29 |
 | [ねぐせ](https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw), [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [ねぐせ](https://open.spotify.com/album/1tXsfWmwLT0UpUtD1lf09K) | 3:38 | 2022-06-09 | 2022-07-28 |
 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-08-20 | 2025-02-26 |
+| [はじまりの曲](https://open.spotify.com/track/5lHzvAFyE5qwSf28Wg39Y3) | [厚揚げろが。](https://open.spotify.com/artist/67DuQKMdKlsHGNGurHClxK) | [High Five!](https://open.spotify.com/album/5EGIPPf6UAqR9R8u2YjvKO) | 1:41 | 2025-04-17 |  |
 | [はちみつ](https://open.spotify.com/track/2k9Rd6Iym3ymX6T4nFlzco) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [オーバーラップ](https://open.spotify.com/album/4uDK0QrI97c5P7nWxS33Bw) | 3:35 | 2025-02-25 | 2025-03-05 |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-07 | 2024-01-19 |
 | [はんがくシールだいぼうけん](https://open.spotify.com/track/4AIVeVeXaXshtnm8B8Juvb) | [ugumugu](https://open.spotify.com/artist/2Wyc2iARBkPPwFJ8bNpD9n) | [はんがくシールだいぼうけん](https://open.spotify.com/album/1FGNEXjomTEUI9xjllxwAJ) | 1:58 | 2025-03-04 | 2025-03-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u062c\u0645\u062f \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0643\u0644\u0647\u0627 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0648\u0627\u062d\u062f\u0629. \u063a\u0644\u0627\u0641: \u062a\u0627\u0645\u0631 \u062d\u0633\u0646\u064a \u0648 \u0631\u0627\u0645\u064a \u0635\u0628\u0631\u064a  ",
+  "description": "\u0623\u062c\u0645\u062f \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0643\u0644\u0647\u0627 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0648\u0627\u062d\u062f\u0629. \u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u062c\u0645\u0627\u0644  ",
   "name": "\u0628\u0648\u0628 \u0645\u0635\u0631\u064a",
   "tracks": [
     {
@@ -1970,6 +1970,24 @@
       "duration_ms": 193039,
       "name": "Gayya Maak",
       "url": "https://open.spotify.com/track/2PptOf9L9zif2hT0nRq8OJ"
+    },
+    {
+      "album": {
+        "name": "Gowak Halak",
+        "url": "https://open.spotify.com/album/3PJOsXOH50LgFyXBqyj57z"
+      },
+      "artists": [
+        {
+          "name": "Bassma Atta",
+          "url": "https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267916,
+      "name": "Gowak Halak",
+      "url": "https://open.spotify.com/track/02OQ4bSdjDmFO2VITeD7M3"
     },
     {
       "album": {
@@ -5544,7 +5562,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 292860,
       "name": "\u062d\u0627\u0644\u062a\u0647 \u0635\u0639\u0628\u0629",
       "url": "https://open.spotify.com/track/2rz6i8B0kvYVar1GIza4O7"
@@ -5674,7 +5692,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 268223,
       "name": "\u062e\u0644\u0635\u062a\u0646\u064a",
       "url": "https://open.spotify.com/track/1VGlVXbXpM1YeUu5OAkRKk"
@@ -5750,6 +5768,24 @@
       "duration_ms": 178751,
       "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
       "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
+    },
+    {
+      "album": {
+        "name": "\u0631\u0633\u064a\u0646\u0649",
+        "url": "https://open.spotify.com/album/765hT0CXO2Ttfthkxsa7tt"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218571,
+      "name": "\u0631\u0633\u064a\u0646\u0649",
+      "url": "https://open.spotify.com/track/49Lw1thFEsqq1qQuxFplte"
     },
     {
       "album": {
@@ -5844,6 +5880,24 @@
       "duration_ms": 236578,
       "name": "\u0633\u064a\u062f \u0627\u0644\u063a\u0631\u0627\u0645",
       "url": "https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G"
+    },
+    {
+      "album": {
+        "name": "\u0636\u0639\u062a \u0645\u0646\u0643",
+        "url": "https://open.spotify.com/album/4uBlwNfBEpGGj2wdBTsWb5"
+      },
+      "artists": [
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190541,
+      "name": "\u0636\u0639\u062a \u0645\u0646\u0643",
+      "url": "https://open.spotify.com/track/3V9KgBiz5uP7SacDMfy6KZ"
     },
     {
       "album": {
@@ -6136,7 +6190,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 207692,
       "name": "\u0643\u062f\u0627\u0628",
       "url": "https://open.spotify.com/track/1KK6btqSOoG2uW0dldinOx"

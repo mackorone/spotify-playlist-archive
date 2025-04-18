@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-295 songs - 17 hr 22 min
+296 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Dandalunda](https://open.spotify.com/track/6G97Pt3DBfH3LnZM1vknWO) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Afropopbrasileiro](https://open.spotify.com/album/1kY8WlaZFkps420xb3VIqc) | 3:40 | 2022-10-07 | 2024-04-19 |
 | [Dandalunda](https://open.spotify.com/track/6OLnIIu3zwkVfwRUgwUAs0) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Afropopbrasileiro](https://open.spotify.com/album/40Ilr1gaR3gSeXSYzjCnbM) | 3:41 | 2021-10-15 | 2022-07-29 |
 | [Dançando e Beijando](https://open.spotify.com/track/07NOfxIl2JR9qxg8Zpe6iH) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Dançando e Beijando](https://open.spotify.com/album/6KPBm9CwV3uHFFvdflir7l) | 2:46 | 2024-10-22 | 2024-12-10 |
-| [Dançar Com Itamaraty](https://open.spotify.com/track/57d8TX3hNbGV0pWrU6oM3I) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:00 | 2024-12-09 |  |
+| [Dançar Com Itamaraty](https://open.spotify.com/track/57d8TX3hNbGV0pWrU6oM3I) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:00 | 2024-12-09 | 2025-04-18 |
 | [Daqui pra Sempre](https://open.spotify.com/track/5LCegtYPODbcqbTE5CZVv8) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Daqui pra Sempre](https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa) | 3:22 | 2024-10-22 |  |
 | [De Volta Pro Aconchego](https://open.spotify.com/track/6vzEUwK4CbcDMDvmJ09WsY) | [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Fogo Na Mistura](https://open.spotify.com/album/4AChNbwadWZ9nTyRLs1RMf) | 4:37 | 2021-10-15 | 2024-10-23 |
 | [Decote \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/2wBr59j9see3tGF9Haxbo3) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Decote \(feat\. Pabllo Vittar\)](https://open.spotify.com/album/69PDqjhM6qtLSinYmpiXE6) | 2:58 | 2021-10-15 | 2022-07-18 |
@@ -144,6 +144,7 @@
 | [Juntando Os Cacos](https://open.spotify.com/track/2j9Ii2xPwOvyKko1RX31Fn) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Eu Também Sei Fazer](https://open.spotify.com/album/63DpknxYsCnfJY6iMFLbhe) | 3:38 | 2021-10-15 | 2022-07-28 |
 | [Jurema](https://open.spotify.com/track/5AH4URhuNZDXLYDW0ijh6L) | [Renata Rosa](https://open.spotify.com/artist/30qZQIUjlWSlqBK3F0xP2v) | [Encantações](https://open.spotify.com/album/5FYBBY4heFkCPii0s3oIXI) | 3:51 | 2021-10-15 | 2022-07-27 |
 | [Já Foi](https://open.spotify.com/track/4Ue3lmWQbJRl32Dj2H9ZwW) | [Janine Mathias](https://open.spotify.com/artist/0IVFb2BEbIsxxhtKw3Yyus) | [Dendê](https://open.spotify.com/album/2uj1zY8Y4pNcmeZZCGLIvr) | 3:03 | 2021-10-15 | 2022-07-29 |
+| [Já Me Vu](https://open.spotify.com/track/4AKclaAjh7jRK4zweDLwRm) | [AQNO](https://open.spotify.com/artist/5vHBIzRYLWzS2LnOjhV5yk) | [Latino Brega Love](https://open.spotify.com/album/07qxdlIfEezcNmVmHQMVPX) | 4:50 | 2025-04-18 |  |
 | [Linda e Preta](https://open.spotify.com/track/1FHJ6I6TMbc2d2Nxn0LYUS) | [Nara Couto](https://open.spotify.com/artist/0E8Tq0Ix04PzANZuqMcho5) | [Linda e Preta](https://open.spotify.com/album/2TgSMrMYT0hVoHngxPTJs0) | 2:58 | 2021-10-15 | 2022-07-29 |
 | [Lisboa](https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Lisboa](https://open.spotify.com/album/5ZXXSnMtfw98MZDlpZfzzz) | 3:01 | 2021-10-15 | 2024-10-23 |
 | [Louca](https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Louca](https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH) | 2:39 | 2021-10-15 | 2024-10-23 |

@@ -4,7 +4,7 @@
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-119 songs - 5 hr 45 min
+120 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Pachuco Bailarin](https://open.spotify.com/track/51Zz6TacdyEsi5JWiojkqu) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:51 | 2022-06-01 |  |
 | [Para Cuando Regrese](https://open.spotify.com/track/7qU8JSgwO1GOdTmfoT1Jrm) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:51 | 2024-06-21 | 2024-06-22 |
 | [Pirulin Pim Pom](https://open.spotify.com/track/6D7DebsQ7Wmq7f4y50NEXv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:39 | 2022-06-20 | 2022-06-22 |
-| [Polvo y Nada](https://open.spotify.com/track/3aDkC3fgwdwaPVnSc6gKpa) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 3:07 | 2024-08-25 |  |
+| [Polvo y Nada](https://open.spotify.com/track/3aDkC3fgwdwaPVnSc6gKpa) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 3:07 | 2024-08-25 | 2025-04-18 |
 | [Polvo y Olvido \- Estilo Tierra Caliente](https://open.spotify.com/track/1elNKL1K8OrcXYNBpgTweQ) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 2:27 | 2022-06-01 | 2024-11-27 |
 | [Por Fin un Caminito](https://open.spotify.com/track/12KjCCPOKS3jmmLioALM1e) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:08 | 2022-06-01 | 2024-05-13 |
 | [Puno de Tierra \- Con Mariachi](https://open.spotify.com/track/5UOOGYM7Ujlyg5I8Ufmg20) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mis Primeras Canciones](https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs) | 2:51 | 2024-04-04 | 2024-07-11 |
@@ -122,6 +122,7 @@
 | [Serenata \- Estilo Tierra Caliente](https://open.spotify.com/track/4sjbR5EbyRz6MHBeF7zRJR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 1:57 | 2023-12-20 | 2024-05-08 |
 | [Solo Cumbia](https://open.spotify.com/track/5w0XW40pGuSgv7BcTqDr3c) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:12 | 2023-06-24 |  |
 | [Tampico Hermoso San Luis Potosi](https://open.spotify.com/track/32yy8yQftpKs6nI0nlmnfp) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:16 | 2023-11-10 | 2024-08-30 |
+| [Tampoco Fuiste Tu](https://open.spotify.com/track/7s55UVbLT4Oux0Fw9jZZs3) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:32 | 2025-04-18 |  |
 | [Te Quejas Pero Te Dejas \- Con Mariachi](https://open.spotify.com/track/7DJ9i5qw5Lvo2lTFqe5Y5n) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mariachi y Banda](https://open.spotify.com/album/4zUkt7O3RBbFdXGN14konK) | 2:42 | 2024-10-20 | 2024-12-03 |
 | [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 | 2022-06-01 |  |
 | [Tres Dias](https://open.spotify.com/track/5qFQiVm3edDW7mE4FtcPpw) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Tamborazos Zacatecanos , Vol\. 1](https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX) | 2:33 | 2024-01-19 | 2024-01-21 |

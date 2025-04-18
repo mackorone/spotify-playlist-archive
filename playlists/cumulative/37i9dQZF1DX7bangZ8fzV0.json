@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=NLspZbe3StSEAiEDjOglNg\">Dodo Nyoka</a> ",
+  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=qM5YtP52QTCe54I-KN03Cg\">Bobby Van Jaarsveld</a> en <a href=\"https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=l8x5Gi5qQXa3jfHiLe9YqQ\">Irene-Louise Van Wyk</a>",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 226965,
       "name": "Bikini Weer (feat. Early B)",
       "url": "https://open.spotify.com/track/4oDi4bmDwfYBVCxXXnwvAs"
@@ -3212,6 +3212,28 @@
       "duration_ms": 213333,
       "name": "My Volgende Fout",
       "url": "https://open.spotify.com/track/1kHQzqhGImGF9kPlgq7Yzh"
+    },
+    {
+      "album": {
+        "name": "Naweek My Nou (feat. Loufi)",
+        "url": "https://open.spotify.com/album/4D6oXces9lMf86k9ytJahz"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Naweek My Nou (feat. Loufi)",
+      "url": "https://open.spotify.com/track/3tu4zpsCPi3ME24Y1a3T2N"
     },
     {
       "album": {

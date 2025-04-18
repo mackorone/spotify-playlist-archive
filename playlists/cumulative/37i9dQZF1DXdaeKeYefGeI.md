@@ -2,9 +2,9 @@
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Leonie Meijer
+> Wat kan het Nederlands toch mooi zijn\. Cover: Guus Meeuwis
 
-204 songs - 12 hr 29 min
+205 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Barst](https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Barst](https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT) | 4:11 | 2024-03-19 | 2025-02-21 |
 | [Bedankt](https://open.spotify.com/track/7FkzmpfyTGOJjqD0WLFMsY) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Bedankt](https://open.spotify.com/album/7J3xT2IyPpLMxxZcipF98F) | 4:03 | 2023-02-10 | 2024-06-01 |
 | [Bedankt Voor Alles](https://open.spotify.com/track/2uPLhDI0T71NTeG0Q2gQ08) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Bedankt Voor Alles](https://open.spotify.com/album/3T5LM45q5lptm3dz9x6r9h) | 4:30 | 2023-02-10 | 2023-05-12 |
+| [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 | 2025-04-17 |  |
 | [Beter In Herinnering](https://open.spotify.com/track/02vnlVFETKHKazMICFvJWA) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Dan Maar Genieten](https://open.spotify.com/album/0P1ywNbYXVAXt5zca1EIsm) | 3:20 | 2023-02-10 | 2023-11-11 |
 | [Bijna September](https://open.spotify.com/track/0DNXeZj5MhL7LZdQDbznDO) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Bijna September](https://open.spotify.com/album/2ym14U1NP7ppRIUZAyrQoh) | 2:35 | 2023-08-03 | 2023-11-11 |
 | [Bitter](https://open.spotify.com/track/1R6YYVLcMXzYMCLA5asQrr) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW), [Smaakspoken](https://open.spotify.com/artist/5ZC2hO1v7hxu6ptX9wV7CU) | [Bitter](https://open.spotify.com/album/6T8r241pu8DrTznRH4hGAW) | 2:57 | 2024-02-08 | 2025-02-21 |
@@ -92,7 +93,7 @@
 | [Ik Hobbel](https://open.spotify.com/track/6tpeejrVeDYkU8WhLpmWuV) | [Theun met een h](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Ik Hobbel](https://open.spotify.com/album/4Dp6OZeo6qDXlRWm3YRPhK) | 3:02 | 2023-03-23 |  |
 | [Ik Hou Van Mij](https://open.spotify.com/track/7sXPkx4uP9nGazTEe4VpIe) | [Harrie Jekkers](https://open.spotify.com/artist/4QAsKGyhi6ngDLGntc54ql) | [Mijn Ikken](https://open.spotify.com/album/2QwzUQVn18RHdDDCeqd5jd) | 2:35 | 2023-02-10 |  |
 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 | 2025-02-27 |  |
-| [Ik Was Amper 16 Jaar](https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Ik Was Amper 16 Jaar](https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA) | 3:18 | 2024-10-24 |  |
+| [Ik Was Amper 16 Jaar](https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Ik Was Amper 16 Jaar](https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA) | 3:18 | 2024-10-24 | 2025-04-18 |
 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/5Txs0Hcm3Tr2tA5OOaGqDK) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/6h8rFFOtR2m6N8d4FKCYkW) | 3:54 | 2023-02-10 | 2024-01-26 |
 | [IK ZEG HET TE WEINIG](https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [IK ZEG HET TE WEINIG](https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V) | 2:45 | 2024-04-11 | 2025-04-04 |
 | [Ik zou iets willen zeggen](https://open.spotify.com/track/5xnKi7AA2XY0oj1t6aXljJ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Ik zou iets willen zeggen](https://open.spotify.com/album/5QpPrVWPuqnY7EnIboBkQI) | 3:48 | 2023-02-10 | 2023-04-07 |

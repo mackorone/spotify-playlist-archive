@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,116 songs - 4 day 13 hr 49 min
+2,117 songs - 4 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1082,6 +1082,7 @@
 | [Klask 2022 \(Hjemmesnekk\)](https://open.spotify.com/track/0PjGxOaBFjQfesMeT5HbAw) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [Madcum](https://open.spotify.com/artist/08p7qYoAP6VPQPip740klh) | [Klask 2022 \(Hjemmesnekk\)](https://open.spotify.com/album/4lBVdGuHcBl46Ay4Emzu2t) | 3:10 | 2021-11-26 | 2022-01-30 |
 | [Klikk](https://open.spotify.com/track/5OGnojWHysrkcgLzBAj2SA) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:34 | 2023-04-14 | 2024-01-07 |
 | [Klikk](https://open.spotify.com/track/660mpcWbLmQ8lH5Mq59Wfk) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Klikk](https://open.spotify.com/album/4ApqDUOU8zHM5B5WTdK7sr) | 2:34 | 2023-03-11 | 2023-04-15 |
+| [KLIKKE](https://open.spotify.com/track/6uVVp6AZgcBozaRQglnE3O) | [Mikkel Munthe](https://open.spotify.com/artist/0lZ6RjBFq8ro1W0eWO4UUi) | [KLIKKE](https://open.spotify.com/album/6pcqqgzM7qSuQz0eZQOG1f) | 1:59 | 2025-04-17 |  |
 | [Klovn](https://open.spotify.com/track/5LMUzJc43DaksLiWeueJ18) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25), [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [Klovn](https://open.spotify.com/album/4Z9UA2PgWm8mnUPcWGbazC) | 3:06 | 2024-10-12 | 2024-10-14 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-09-12 |
 | [KOKAINA](https://open.spotify.com/track/5ySgnmvgg2Avt9DFWI46pA) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [KOKAINA](https://open.spotify.com/album/29cWkOM9MAdPx46D68OAaV) | 2:16 | 2025-03-22 | 2025-03-24 |
@@ -2070,7 +2071,7 @@
 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-04-20 | 2024-04-27 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-10 | 2024-08-18 |
 | [Wicked Game \- Live](https://open.spotify.com/track/4E14RfwjBilgTsJQXmrmCa) | [Herman Lie](https://open.spotify.com/artist/4sYzNOBWPQi5DUwfKt6Lqp) | [The Voice 2025: Blind Auditions 2 \(Live\)](https://open.spotify.com/album/0Z8QSpVlSxWNRrRo0Yybpq) | 2:17 | 2025-01-12 | 2025-01-17 |
-| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-19 |  |
+| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-19 | 2025-04-18 |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-15 | 2023-05-21 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-20 | 2023-06-04 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq) | 2:55 | 2022-08-20 | 2022-08-28 |

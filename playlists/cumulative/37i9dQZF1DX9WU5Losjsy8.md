@@ -4,12 +4,12 @@
 
 > Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
 
-171 songs - 8 hr 39 min
+172 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/track/7IXJHfvpYAtjXbyxfxMMVz) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/album/5AXr8RJzTQgDbUec1Yf4uv) | 2:17 | 2023-07-28 | 2023-08-11 |
-| [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 | 2023-12-19 |  |
+| [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 | 2023-12-19 | 2025-04-18 |
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
 | [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 | 2025-03-01 |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
@@ -139,6 +139,7 @@
 | [Oben unten \- Party Edit](https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2) | [Räuber](https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Oben unten \(Party Edit\)](https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH) | 3:32 | 2024-09-30 |  |
 | [Oberteil](https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [Oberteil](https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M) | 2:29 | 2024-04-30 |  |
 | [Oh Baby](https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Oh Baby](https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6) | 3:11 | 2024-01-26 | 2024-04-19 |
+| [OHNE DICH](https://open.spotify.com/track/2zB3m7cucvTZQ7IwUtdnxM) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [OHNE DICH](https://open.spotify.com/album/4ojhahjUoeEdcbCaFVygXE) | 3:01 | 2025-04-17 |  |
 | [Olivia](https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I) | [Die Zipfelbuben](https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U), [Der Zipfelbube](https://open.spotify.com/artist/6J8iPd5dkgJWgxqe4Fn2Az), [DJ Cashi](https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo) | [Olivia](https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx) | 3:00 | 2023-07-14 |  |
 | [Ouzo](https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp) | [Vincent Gross](https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy) | [Ouzo](https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K) | 4:34 | 2023-11-14 |  |
 | [Partyanimal](https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF) | [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Partyanimal](https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx) | 2:19 | 2023-07-14 |  |

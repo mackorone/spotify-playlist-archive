@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: Rana Türkyılmaz
 
-91 songs - 4 hr 21 min
+92 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ara Sıcak](https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ara Sıcak](https://open.spotify.com/album/3ymtkW72HtG3DoRJm4rD1c) | 3:36 | 2024-10-23 |  |
 | [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 | 2024-12-19 |  |
 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 | 2024-10-23 | 2025-01-10 |
+| [Astigmat](https://open.spotify.com/track/5gf4J44vNmaqOEupZS9KXJ) | [kerem.](https://open.spotify.com/artist/3Y7BOP46zC3Tbze2TW8CQr), [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Astigmat](https://open.spotify.com/album/2pon3ie4lL3wU78c0BMuWZ) | 2:38 | 2025-04-17 |  |
 | [aşk olsun](https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [aşk olsun](https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk) | 3:00 | 2024-11-28 | 2025-04-11 |
 | [Bağımlıyım Tenine](https://open.spotify.com/track/31kOqM6XzCyKXMxYnhIDF9) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bağımlıyım Tenine](https://open.spotify.com/album/4Muz2oRuw0rh2j0yobqZ6L) | 2:07 | 2024-10-23 |  |
 | [Belki Bi' Gün Anlarsın](https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Belki Bi' Gün Anlarsın](https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg) | 2:25 | 2024-06-20 | 2024-10-24 |
@@ -98,6 +99,6 @@
 | [çaykaram](https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:42 | 2025-02-10 |  |
 | [Çilekeş](https://open.spotify.com/track/14VaOiw20bPu33QIq3L8Ch) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Çilekeş](https://open.spotify.com/album/5Syb0Bg2H2EHUgPPM2UZto) | 2:19 | 2024-10-23 |  |
 | [Öl İçimde](https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Öl İçimde](https://open.spotify.com/album/41SssnSpIajL67pupQYIwk) | 3:13 | 2024-06-20 |  |
-| [Ölme](https://open.spotify.com/track/2Ka3Q9nzUdhBQDLNhjkRAX) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Hermès](https://open.spotify.com/album/3vEyocjiqnhtclO3cwYo4m) | 2:38 | 2025-01-16 |  |
+| [Ölme](https://open.spotify.com/track/2Ka3Q9nzUdhBQDLNhjkRAX) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Hermès](https://open.spotify.com/album/3vEyocjiqnhtclO3cwYo4m) | 2:38 | 2025-01-16 | 2025-04-18 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

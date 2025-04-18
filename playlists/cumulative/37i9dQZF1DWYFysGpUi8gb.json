@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "I hate you, I love you",
+        "url": "https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is"
+      },
+      "artists": [
+        {
+          "name": "Christian Alexander",
+          "url": "https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR"
+        }
+      ],
+      "date_added": "2025-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329501,
+      "name": "I Hate You, I Love You",
+      "url": "https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80"
+    },
+    {
+      "album": {
         "name": "I THINK I LIKE YOU",
         "url": "https://open.spotify.com/album/5vo5eIkJHhroiJ1zk0fQBF"
       },

@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=dCw4JE67S4qG\_7e3d5JNvg">Lojay</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb?si=FjzbrXd\-QsaqXhfviIBRJw">Leon Thomas</a>
 
-479 songs - 1 day 1 hr 42 min
+482 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2023-11-16 | 2024-03-22 |
 | [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 | 2023-10-12 | 2024-02-09 |
 | [All The Way](https://open.spotify.com/track/4ijh3sciORErcse7mAkCYT) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [All The Way / Bizarre](https://open.spotify.com/album/2hhP1KXUIcu5zt6wEDSi9R) | 3:45 | 2024-05-09 | 2024-08-16 |
+| [All Yours](https://open.spotify.com/track/1by7gu9nFyVALkPZC84tI8) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [uBeyond](https://open.spotify.com/artist/1fg6FOcNJXJNFg2ejI6ZXc), [Elias Njovu](https://open.spotify.com/artist/42FrdBvYgumCoyWaYlL530), [Pilfinger](https://open.spotify.com/artist/3BSuYGFzMNPZ1VOAWBOCH0) | [All Yours](https://open.spotify.com/album/7nyZt4J5A5gGjDMqP6ZLMt) | 2:49 | 2025-04-18 |  |
 | [ALL4U](https://open.spotify.com/track/72sdW7Bn1bcSzD1eoBVgBM) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [ALL4U](https://open.spotify.com/album/7xVPcDT7xrPrPPah89KQW6) | 2:37 | 2023-10-26 | 2024-03-22 |
 | [Alright](https://open.spotify.com/track/1OnoR9XSLxwxrLoMO6ECTA) | [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ) | [Hopeless Romantic \(EP\)](https://open.spotify.com/album/4poiSgaW1Bk5VWvmQQ8Ui4) | 2:45 | 2024-04-25 | 2024-07-27 |
 | [Always Time](https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Always Time](https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX) | 3:25 | 2024-11-29 |  |
@@ -143,6 +144,7 @@
 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 | 2024-09-11 | 2024-10-12 |
 | [Fear](https://open.spotify.com/track/5lntfXi9Feo5T1xR6mTnvR) | [Lastee](https://open.spotify.com/artist/02fHk4FBRa87bllGfMAf15) | [Fear](https://open.spotify.com/album/4wLHbwdD3Kc5nt73qOFixR) | 2:24 | 2023-10-12 | 2023-10-27 |
 | [Feel Everything](https://open.spotify.com/track/2WnuvdvPMAl8pW5Fb1iiBV) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Feel Everything](https://open.spotify.com/album/6UiuPmxZFWTWrxFW0TcAXt) | 3:41 | 2024-10-11 | 2024-11-29 |
+| [Feel Love](https://open.spotify.com/track/6ll7qHgdALQu5P6Q2uBNOG) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Feel Love](https://open.spotify.com/album/5le02tYRlcqPQD8NFXqbWV) | 2:56 | 2025-04-18 |  |
 | [feeling lonely](https://open.spotify.com/track/724JoIfyLE80Ctr29UhHvV) | [Obembe](https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl), [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Blicbee](https://open.spotify.com/artist/4js9YFDtEQAB96RAktFmv5) | [feeling lonely](https://open.spotify.com/album/3CsUunOj0HJ45lwS5TfigX) | 2:10 | 2023-12-08 | 2024-03-22 |
 | [Feels](https://open.spotify.com/track/5vzJPhwKhhrU1Ot8ojbRvP) | [Neya](https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg) | [Feels](https://open.spotify.com/album/6fC6B0e3QNTanhxe7FhEyS) | 2:46 | 2024-02-14 | 2024-02-23 |
 | [feels like](https://open.spotify.com/track/2TFkOtXeYj8a83uix6DjvM) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [feels like](https://open.spotify.com/album/568CQpVk56eTiOBI0vebVe) | 3:24 | 2023-10-12 | 2023-10-20 |
@@ -264,6 +266,7 @@
 | [Malachite & Melanin](https://open.spotify.com/track/33xk4xuYcwQMveDF8izXGM) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq) | [Malachite & Melanin](https://open.spotify.com/album/5DlsJvgrLnpND9qwJdbszM) | 3:42 | 2024-09-02 | 2024-09-12 |
 | [Malume](https://open.spotify.com/track/7sUyvpVLVGF1STpvi2rjps) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Sai Hle](https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf) | [Malume](https://open.spotify.com/album/0Bgobw9MU5EHzPsgwwUBhL) | 3:45 | 2024-06-25 | 2024-09-03 |
 | [Malume](https://open.spotify.com/track/627OzLPgJJrB1pRfQB3nHa) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Sai Hle](https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf) | [Now You Know Me](https://open.spotify.com/album/6xZiG6DJDawqJaTfd0aoPt) | 3:45 | 2024-09-11 | 2025-02-07 |
+| [Marigold](https://open.spotify.com/track/2xevmit1WYM61Mb7E76F7T) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Marigold](https://open.spotify.com/album/7LuXpYGWJ7iV20JyGIOKRM) | 3:19 | 2025-04-18 |  |
 | [Mathata \(feat\. Trevor Jackson\)](https://open.spotify.com/track/4wxmke3yPbc0VWMDTtt6fz) | [Majorsteez](https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87), [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Mathata \(feat\. Trevor Jackson\)](https://open.spotify.com/album/5V4fhCMcKQZ0bVpJWyfmig) | 3:42 | 2024-07-11 | 2024-09-03 |
 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 | 2024-11-18 |  |
 | [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 | 2024-05-09 | 2024-11-29 |

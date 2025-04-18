@@ -2,9 +2,9 @@
 
 ### [Free Form](https://open.spotify.com/playlist/37i9dQZF1DX6mMeq1VVekF)
 
-> No tags, no labels \- just free form\. Cover: Oscar Jerome
+> No tags, no labels \- just free form\. Cover: JD Cliffe
 
-482 songs - 1 day 0 hr 49 min
+483 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [19](https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [19](https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK) | 3:25 | 2024-11-22 |  |
 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 | 2022-06-24 | 2022-07-28 |
 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 | 2022-08-22 | 2024-10-04 |
-| [2BADGYALZ](https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [2BADGYALZ](https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC) | 1:41 | 2024-10-03 |  |
+| [2BADGYALZ](https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [2BADGYALZ](https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC) | 1:41 | 2024-10-03 | 2025-04-18 |
 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 | 2022-06-24 | 2023-05-16 |
 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq) | 3:33 | 2024-05-03 | 2025-01-18 |
 | [4x4](https://open.spotify.com/track/6zFxBYARcXEH6K9HhhsWZf) | [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2) | [4x4](https://open.spotify.com/album/0JawpNpZqWLq1WPNfQEllx) | 1:39 | 2023-05-15 | 2023-06-17 |
@@ -218,6 +218,7 @@
 | [Intentionally](https://open.spotify.com/track/4ALqm90dxgYWOnwSxwWSzV) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:41 | 2022-06-24 | 2022-07-21 |
 | [Internet Trolls](https://open.spotify.com/track/3waut2R3lK5wLMo6HzKstv) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Internet Trolls](https://open.spotify.com/album/6cgml95XCwzKGVL0JIEriQ) | 3:59 | 2022-07-17 | 2022-07-26 |
 | [iPray \(feat\. Wretch 32, Miles from Kinshasa & Mrs Chambers\)](https://open.spotify.com/track/0BvEvy4I6Xw8lpBiirYmKp) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Miles from Kinshasa](https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE), [Mrs Chambers](https://open.spotify.com/artist/1PybwpjH8pfIlLZlJXsATb) | [iPray \(feat\. Wretch 32, Miles from Kinshasa & Mrs Chambers\)](https://open.spotify.com/album/2cvj4G3vWD02nDOhwGAUNs) | 3:07 | 2023-05-15 | 2023-06-17 |
+| [IT'S UP](https://open.spotify.com/track/3ZTg8yL0YzvVLB1fyvvZhp) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [misfit.](https://open.spotify.com/album/4DMku5uHZbI91xDhHU4PIG) | 2:15 | 2025-04-17 |  |
 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 | 2024-10-03 |  |
 | [Jah Knows](https://open.spotify.com/track/1vTtw5CdByFBhtP1HkgckM) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Jah Knows](https://open.spotify.com/album/6K3WPHouf1oRAJR8BirnZp) | 3:23 | 2022-07-17 | 2022-08-23 |
 | [Jam Toast](https://open.spotify.com/track/7kE2lk45qdnPKccuIhWkqE) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [Jam Toast](https://open.spotify.com/album/5H0UAwmSaSsgLcpdhkgAqt) | 2:34 | 2024-06-27 | 2024-11-08 |

@@ -1,13 +1,33 @@
 {
   "description": "",
-  "num_followers": 31209,
+  "num_followers": 31212,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAQKIDuboOx3xhvu0qf3PmfklmOf6yL",
+  "snapshot_id": "AAAQKjIuLlGYQsDn/vC/NKeHW0RKvDX9",
   "tracks": [
+    {
+      "added_at": "2025-04-17 11:55:41",
+      "album": {
+        "name": "Kimpton",
+        "url": "https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Kimpton",
+      "url": "https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz"
+    },
     {
       "added_at": "2025-03-28 11:16:16",
       "album": {

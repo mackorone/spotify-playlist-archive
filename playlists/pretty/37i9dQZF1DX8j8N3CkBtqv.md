@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Faheem Abdullah, Kushagra, Akanksha Sethi and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,263 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,370 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 17 | [BETWEEN FLOWERS](https://open.spotify.com/track/1XjapKb8GMXCoO2WuWlX8x) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Manreet Khara](https://open.spotify.com/artist/5IbqlFtFzlcqZW0KlnyVkq) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 3:00 |
 | 18 | [Dil Ki Sada](https://open.spotify.com/track/41iqI5PyUzXt6gpU4C3OKY) | [Prady J](https://open.spotify.com/artist/0Z7xTlsSbRQzaCTISzk8jJ) | [Dil Ki Sada](https://open.spotify.com/album/0JP7dZnlGJuAHWTht7rEof) | 4:07 |
 | 19 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
-| 20 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
-| 21 | [Raazdaariyan](https://open.spotify.com/track/28q4tY4XwtYiOuTBIS7ehw) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [Raazdaariyan](https://open.spotify.com/album/4tvoBFJbpRFlZtm3eMBBe4) | 3:01 |
+| 20 | [Raazdaariyan](https://open.spotify.com/track/28q4tY4XwtYiOuTBIS7ehw) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [Raazdaariyan](https://open.spotify.com/album/4tvoBFJbpRFlZtm3eMBBe4) | 3:01 |
+| 21 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
 | 22 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 |
 | 23 | [Aakhri Saans](https://open.spotify.com/track/07pmWp10yqaphv5YTm1dpN) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aakhri Saans](https://open.spotify.com/album/75pbxDNRvnZhsJ7eXX8QI5) | 3:18 |
 | 24 | [Kaari Kaari](https://open.spotify.com/track/0dpBVrAjfxARkxR0L7vls6) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Kaari Kaari](https://open.spotify.com/album/0nJTuLPIv2lUR4nFer1Y0f) | 1:13 |
 | 25 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 |
 | 26 | [Ishaare](https://open.spotify.com/track/33ZSjdEUt5LmAgF1DRizHF) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [Finding Joy](https://open.spotify.com/album/0eAenznPhLMhCpuKNmcNJW) | 1:53 |
 | 27 | [Naam Kaam](https://open.spotify.com/track/1AeNfDWNRVbgu50j3yacBZ) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Naam Kaam](https://open.spotify.com/album/7ad0igZrnVtlIlTSl3oYS3) | 3:18 |
-| 28 | [Re Manva](https://open.spotify.com/track/5oSRxsQLjlg6tsSg0N7JYO) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Re Manva](https://open.spotify.com/album/7j3Yi0ktAp66X3BjGioCbJ) | 3:27 |
-| 29 | [Simti](https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Simti](https://open.spotify.com/album/7kBUETqxht63KK8ETCZnP3) | 2:45 |
+| 28 | [Simti](https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Simti](https://open.spotify.com/album/7kBUETqxht63KK8ETCZnP3) | 2:45 |
+| 29 | [Re Manva](https://open.spotify.com/track/5oSRxsQLjlg6tsSg0N7JYO) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Re Manva](https://open.spotify.com/album/7j3Yi0ktAp66X3BjGioCbJ) | 3:27 |
 | 30 | [Kab Aur Kaise](https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Kab Aur Kaise](https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU) | 2:34 |
 | 31 | [Dheere Dheere](https://open.spotify.com/track/2UqZKzgUmm7StpSPx050t4) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf) | [Bemisaal](https://open.spotify.com/album/3AtuHjZeRoHty99elMAmn2) | 2:48 |
 | 32 | [Tu Jaise Dariya](https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi) | [Tu Jaise Dariya](https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa) | 3:47 |

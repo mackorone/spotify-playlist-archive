@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our our March newsletter...</a> Cover: Clairo
 
-3,295 songs - 7 day 11 hr 20 min
+3,296 songs - 7 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2840,6 +2840,7 @@
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-02-09 | 2021-04-02 |
 | [Telescope](https://open.spotify.com/track/129j5W9RW7EvQqzUWnQkp1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Telescope](https://open.spotify.com/album/7dt1Q1pu5BNOHJgCnlpzuS) | 2:50 | 2019-09-14 | 2019-10-10 |
 | [television](https://open.spotify.com/track/1NDk9nqc215p1MNWpNOG3g) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [television](https://open.spotify.com/album/0gswRfkbdRuvktQ7aq052g) | 3:31 | 2025-02-14 | 2025-04-05 |
+| [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-17 |  |
 | [tell me what you want](https://open.spotify.com/track/5o8UqnjiKWDo7OzwFz1k1g) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [tell me what you want](https://open.spotify.com/album/7t9jJ7fwYfrflEOdN1cVvW) | 2:34 | 2021-12-10 | 2022-04-09 |
 | [tellmewhatuwant](https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [tellmewhatuwant](https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR) | 3:13 | 2022-01-21 | 2022-04-16 |
 | [TEMPTATIONS](https://open.spotify.com/track/6mO0APDNwS1d2OYRfkZegK) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [COYOTE](https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu) | 3:19 | 2024-09-27 | 2024-10-26 |

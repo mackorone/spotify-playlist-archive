@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Alex Roussiaux",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Marguerite",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 200533,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5SX7TEQCLl2QrwEiWrPGPr"
@@ -279,6 +279,46 @@
     },
     {
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5WZKMq9O6JF7WNjVKZrhSj"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160240,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/5NozBRrGayj3tk6XefEDK0"
+    },
+    {
+      "album": {
+        "name": "Bollywood",
+        "url": "https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172874,
+      "name": "Bollywood",
+      "url": "https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl"
+    },
+    {
+      "album": {
         "name": "+1",
         "url": "https://open.spotify.com/album/1eoAQ3NzpoBJwFsI79LYqO"
       },
@@ -370,6 +410,24 @@
       "duration_ms": 178750,
       "name": "CARDIO",
       "url": "https://open.spotify.com/track/5ByXGWhn9JHkbh3Wpb2xWz"
+    },
+    {
+      "album": {
+        "name": "Cavale",
+        "url": "https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223184,
+      "name": "Cavale",
+      "url": "https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY"
     },
     {
       "album": {
@@ -662,10 +720,28 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 167742,
       "name": "Corine",
       "url": "https://open.spotify.com/track/2UR2tbWSaUs7p1KE9UZfkt"
+    },
+    {
+      "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/29r7xSMi482M5GsggEk5J8"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le & Robin",
+          "url": "https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/00lPmwgjp2MnqVhZaxyLDv"
     },
     {
       "album": {
@@ -680,7 +756,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 180000,
       "name": "Courage - Edit",
       "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
@@ -716,7 +792,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 188271,
       "name": "Dans mes bras",
       "url": "https://open.spotify.com/track/5wvaUSx5FPRzIklTsErxzc"
@@ -1377,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "hais moi",
+        "url": "https://open.spotify.com/album/7EZ5aN2eXA5Hd572iGWdqp"
+      },
+      "artists": [
+        {
+          "name": "Moy\u00e0",
+          "url": "https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173086,
+      "name": "hais moi",
+      "url": "https://open.spotify.com/track/6JXTyX1Elucrz7NZpZODIi"
+    },
+    {
+      "album": {
         "name": "Histoire sans t\u00eate",
         "url": "https://open.spotify.com/album/1iCKXUWg3xEVqiHZKz0AqI"
       },
@@ -1702,7 +1796,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 164663,
       "name": "L'envers du d\u00e9cor",
       "url": "https://open.spotify.com/track/6W8K0UBfWXzWgw8B36XOqS"
@@ -2131,6 +2225,42 @@
     },
     {
       "album": {
+        "name": "Les cit\u00e9s de l'amour",
+        "url": "https://open.spotify.com/album/1WfQIxrP0HTj6hzKOk0CBT"
+      },
+      "artists": [
+        {
+          "name": "Ycare",
+          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Les cit\u00e9s de l'amour",
+      "url": "https://open.spotify.com/track/0QzjHbSKAG3OFYaQrk8kL6"
+    },
+    {
+      "album": {
+        "name": "les filles, les meufs",
+        "url": "https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "les filles, les meufs",
+      "url": "https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1"
+    },
+    {
+      "album": {
         "name": "Les jours qui restent",
         "url": "https://open.spotify.com/album/1cc7KL70u0dacUY7Cog900"
       },
@@ -2298,7 +2428,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 163363,
       "name": "Les \u00e9toiles",
       "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
@@ -2544,7 +2674,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 199146,
       "name": "Meilleurs qu'hier",
       "url": "https://open.spotify.com/track/0g4ObIiyj6t33K6WFDt1sr"
@@ -2670,7 +2800,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 173453,
       "name": "Mute",
       "url": "https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk"
@@ -3270,7 +3400,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 163182,
       "name": "Regarde",
       "url": "https://open.spotify.com/track/2147QVD0QBS9L90jxwvUcc"
@@ -3288,7 +3418,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 153200,
       "name": "Rien qu'\u00e7a",
       "url": "https://open.spotify.com/track/237WM1VgB4TEGTXcUpCqnL"
@@ -3436,7 +3566,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 193832,
       "name": "Seul ici",
       "url": "https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH"
@@ -4212,6 +4342,24 @@
       "duration_ms": 195826,
       "name": "We Are",
       "url": "https://open.spotify.com/track/3ZdyDjxhkbolIPKLkmuJjI"
+    },
+    {
+      "album": {
+        "name": "Weekend (48H Radio Edit)",
+        "url": "https://open.spotify.com/album/6JVqrqC8uCUjcMNeIp6e8l"
+      },
+      "artists": [
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145474,
+      "name": "Weekend - 48H Radio Edit",
+      "url": "https://open.spotify.com/track/2qgkmFTjDk13rrdJY7MIKE"
     },
     {
       "album": {

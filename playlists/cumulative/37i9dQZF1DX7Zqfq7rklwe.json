@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista. Kannessa Ghost.",
+  "description": "Suomen suurin ja paras rock-soittolista. Kannessa Sleep Token.",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 260866,
       "name": "Alkemistit",
       "url": "https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 178929,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/00uprylngMBwUkN4VujpuV"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 296131,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/7wksA9YtIiCcDH80n1ZmNk"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 316160,
       "name": "Gods Of Rock N Roll",
       "url": "https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ"
@@ -1644,6 +1644,24 @@
       "duration_ms": 212635,
       "name": "I Left My License in the Future",
       "url": "https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4"
+    },
+    {
+      "album": {
+        "name": "This is Black Stone Cherry's RSD album. The band really likes it.",
+        "url": "https://open.spotify.com/album/0fzZFJx12IvTn7obhFhgsi"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205254,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/6v14YPTFeAeeg1oGXtnKpu"
     },
     {
       "album": {
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 267680,
       "name": "Lola Montez",
       "url": "https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL"
@@ -2410,6 +2428,28 @@
       "duration_ms": 190733,
       "name": "Overcompensate (edit)",
       "url": "https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc"
+    },
+    {
+      "album": {
+        "name": "Overdose (feat. Blindside)",
+        "url": "https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
+        {
+          "name": "Blindside",
+          "url": "https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187862,
+      "name": "Overdose - feat. Blindside",
+      "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
     },
     {
       "album": {
@@ -3152,7 +3192,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 209835,
       "name": "Static",
       "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
@@ -3224,7 +3264,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 220773,
       "name": "Suomi-Perkele",
       "url": "https://open.spotify.com/track/7BcApd90DJTzX2R7q9ugc1"
@@ -3652,7 +3692,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 292880,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"

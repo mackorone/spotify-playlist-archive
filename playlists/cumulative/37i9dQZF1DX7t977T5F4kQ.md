@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: KiDi & Gyakie
 
-502 songs - 1 day 2 hr 3 min
+503 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Abena](https://open.spotify.com/track/12ZauZJSO1DbNcaFI1qr6c) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [757](https://open.spotify.com/album/0509XspJuKs2kUv31D9ED4) | 2:22 | 2024-05-17 | 2025-03-14 |
 | [Abena](https://open.spotify.com/track/416lJBohBXn07iQe3lf0JI) | [Yaw Dyro](https://open.spotify.com/artist/0KCWVye8eFEyOu2fpwfMHr), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Abena](https://open.spotify.com/album/5KZGcpVTuXFTzedSE0gCe4) | 2:40 | 2023-11-03 | 2023-12-02 |
 | [Abofra](https://open.spotify.com/track/77gnkds6DeIlK8wZ96tyUY) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Abofra](https://open.spotify.com/album/0t7PPoLJESwhAoG48GfrXc) | 2:46 | 2023-04-27 | 2023-05-13 |
-| [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 | 2024-01-19 |  |
+| [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 | 2024-01-19 | 2025-04-18 |
 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 | 2024-02-23 | 2024-04-12 |
 | [Adidede](https://open.spotify.com/track/3Sm296EhmvG9AjlkUCWXdw) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Adidede](https://open.spotify.com/album/6ZK7DECfuQLrw7VryCxQJU) | 2:35 | 2022-11-04 | 2023-02-04 |
 | [Adoley](https://open.spotify.com/track/2IxaCE3hoNMs8k5wtCOK22) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 2:17 | 2023-01-20 | 2024-03-01 |
@@ -124,6 +124,7 @@
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2023-01-13 | 2024-06-14 |
 | [Criminal](https://open.spotify.com/track/7LRvsLwnoMZYJ5ZY0Xupv7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Criminal](https://open.spotify.com/album/7x4SAE0RVgcenFP89fj7Ix) | 2:15 | 2022-11-15 | 2023-01-20 |
 | [Cryptocurrency](https://open.spotify.com/track/4QdeLIxAqo8Dh5vUNpK0Vp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Cryptocurrency](https://open.spotify.com/album/03gi4AddTZUCQwJnsDnexz) | 2:59 | 2023-02-23 | 2024-06-01 |
+| [Daakyi](https://open.spotify.com/track/2txGaErDB8OAKa1Mh7ECk5) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Daakyi](https://open.spotify.com/album/5JEvmfxuLsZujr5Iy5pY6v) | 4:00 | 2025-04-17 |  |
 | [Dancé](https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [M.O.G Beatz](https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Dancé](https://open.spotify.com/album/5wtg6LNVHgxvloQka3IkS1) | 3:17 | 2023-11-17 | 2024-04-19 |
 | [Danger](https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Danger](https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh) | 2:28 | 2024-03-01 |  |
 | [Date Rush](https://open.spotify.com/track/7wmkSBEDuDuvKuefJ6JNoq) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Date Rush](https://open.spotify.com/album/2PkbKApYqcnLJloiZjHyph) | 3:28 | 2024-07-12 | 2025-04-08 |

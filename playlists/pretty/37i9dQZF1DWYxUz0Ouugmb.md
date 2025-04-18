@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,956 likes - 30 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,113 likes - 30 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

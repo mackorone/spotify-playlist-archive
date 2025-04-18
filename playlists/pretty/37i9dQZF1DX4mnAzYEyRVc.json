@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Sondaschule",
-  "num_followers": 59386,
+  "num_followers": 59405,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-04-11 06:00:09",
       "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "She Got Arrested",
+      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+    },
+    {
+      "added_at": "2025-04-11 06:00:09",
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 233253,
       "name": "Ciegos de Amor",
       "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2025-04-11 06:00:09",
-      "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "She Got Arrested",
-      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
     },
     {
       "added_at": "2025-04-11 06:00:09",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-04-11 06:00:09",
       "album": {
-        "name": "Amores Desechables",
-        "url": "https://open.spotify.com/album/2iKOTY9uyBGJ10eBKTTIFa"
-      },
-      "artists": [
-        {
-          "name": "La Inminente Sociedad",
-          "url": "https://open.spotify.com/artist/7n28xyqjxydlNv65OFFwsG"
-        }
-      ],
-      "duration_ms": 238741,
-      "name": "Amores Desechables",
-      "url": "https://open.spotify.com/track/2FHt2jFXTnemuV1VEEiTQB"
-    },
-    {
-      "added_at": "2025-04-11 06:00:09",
-      "album": {
         "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
         "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 161818,
       "name": "Pancho",
       "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
+    },
+    {
+      "added_at": "2025-04-11 06:00:09",
+      "album": {
+        "name": "Amores Desechables",
+        "url": "https://open.spotify.com/album/2iKOTY9uyBGJ10eBKTTIFa"
+      },
+      "artists": [
+        {
+          "name": "La Inminente Sociedad",
+          "url": "https://open.spotify.com/artist/7n28xyqjxydlNv65OFFwsG"
+        }
+      ],
+      "duration_ms": 238741,
+      "name": "Amores Desechables",
+      "url": "https://open.spotify.com/track/2FHt2jFXTnemuV1VEEiTQB"
     },
     {
       "added_at": "2025-04-11 06:00:09",

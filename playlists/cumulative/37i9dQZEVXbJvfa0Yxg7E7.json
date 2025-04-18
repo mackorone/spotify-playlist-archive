@@ -21721,6 +21721,24 @@
     },
     {
       "album": {
+        "name": "KLIKKE",
+        "url": "https://open.spotify.com/album/6pcqqgzM7qSuQz0eZQOG1f"
+      },
+      "artists": [
+        {
+          "name": "Mikkel Munthe",
+          "url": "https://open.spotify.com/artist/0lZ6RjBFq8ro1W0eWO4UUi"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119601,
+      "name": "KLIKKE",
+      "url": "https://open.spotify.com/track/6uVVp6AZgcBozaRQglnE3O"
+    },
+    {
+      "album": {
         "name": "Klovn",
         "url": "https://open.spotify.com/album/4Z9UA2PgWm8mnUPcWGbazC"
       },
@@ -41628,7 +41646,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

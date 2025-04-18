@@ -997,6 +997,32 @@
     },
     {
       "album": {
+        "name": "Western Pleasure",
+        "url": "https://open.spotify.com/album/0OpIBOinRqswFLHCaWoO8C"
+      },
+      "artists": [
+        {
+          "name": "Chaparelle",
+          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
+        },
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        },
+        {
+          "name": "Jesse Woods",
+          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212552,
+      "name": "Dance with Somebody",
+      "url": "https://open.spotify.com/track/3SSZLRPJu5yu5setdmlErb"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U"
       },
@@ -2218,7 +2244,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 199158,
       "name": "Inside the Lines",
       "url": "https://open.spotify.com/track/4vmkUd9DjoIePvvAPMWBJY"

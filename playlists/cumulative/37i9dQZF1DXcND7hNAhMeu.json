@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "Astigmat",
+        "url": "https://open.spotify.com/album/2pon3ie4lL3wU78c0BMuWZ"
+      },
+      "artists": [
+        {
+          "name": "kerem.",
+          "url": "https://open.spotify.com/artist/3Y7BOP46zC3Tbze2TW8CQr"
+        },
+        {
+          "name": "Lotusx",
+          "url": "https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Astigmat",
+      "url": "https://open.spotify.com/track/5gf4J44vNmaqOEupZS9KXJ"
+    },
+    {
+      "album": {
         "name": "a\u015fk olsun",
         "url": "https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk"
       },
@@ -1664,7 +1686,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 158367,
       "name": "\u00d6lme",
       "url": "https://open.spotify.com/track/2Ka3Q9nzUdhBQDLNhjkRAX"

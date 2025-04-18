@@ -863,6 +863,28 @@
     },
     {
       "album": {
+        "name": "Beats & Pieces",
+        "url": "https://open.spotify.com/album/4Gw6m1hSwHNKu08Jj6xpCy"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "The West Green Quartet",
+          "url": "https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129102,
+      "name": "Citrus",
+      "url": "https://open.spotify.com/track/4g10sqEm8v6qbe3LSb8wtK"
+    },
+    {
+      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/0ciXiq1CALpmYJmFpjlXFR"
       },
@@ -918,6 +940,24 @@
       "duration_ms": 323080,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/2iQPembmg5KvkqXU0sd6xo"
+    },
+    {
+      "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX"
+      },
+      "artists": [
+        {
+          "name": "Thief Traveler",
+          "url": "https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY"
     },
     {
       "album": {
@@ -1400,7 +1440,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 254117,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
@@ -2094,7 +2134,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 214615,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/5oZdwIevNAVqsuisgyKiRX"
@@ -4606,7 +4646,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 368000,
       "name": "U",
       "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
@@ -4830,6 +4870,28 @@
       "duration_ms": 259528,
       "name": "When The Sun Bursts",
       "url": "https://open.spotify.com/track/0ymqsjwzrRptmRLsLULXiC"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O"
+      },
+      "artists": [
+        {
+          "name": "Alex Baker",
+          "url": "https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo"
+        },
+        {
+          "name": "Hanging Valleys",
+          "url": "https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz"
     },
     {
       "album": {

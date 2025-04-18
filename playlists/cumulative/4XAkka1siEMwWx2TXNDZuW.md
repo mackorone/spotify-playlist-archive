@@ -4,7 +4,7 @@
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-119 songs - 6 hr 9 min
+121 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A5 \- Slightly bewildered](https://open.spotify.com/track/2tWgpKAjR0dajrrA7gS3f1) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 2:01 | 2024-07-09 |  |
 | [Again](https://open.spotify.com/track/2jThFJZKxkmtNwly0a1RRt) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Again](https://open.spotify.com/album/2zz6j2mGH5JHk0ihNvy6KM) | 4:44 | 2023-11-04 |  |
 | [All you are going to want to do is get back there](https://open.spotify.com/track/04Px9lLiHlKdmxQbE3uTa5) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [An empty bliss beyond this World](https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG) | 3:46 | 2024-07-09 |  |
-| [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 | 2022-09-03 |  |
+| [Amphitryon 38 \- Remastered](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 | 2022-09-03 |  |
 | [Andro](https://open.spotify.com/track/7sUoR0Yg7FsD7BpJatAtid) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4Wq9kfnBR0npGfsuQl8kDW) | 3:54 | 2023-03-03 |  |
 | [Au clair de la lune](https://open.spotify.com/track/3kxB8Uj9Clffn5ZsY5agzf) | [Édouard\-Léon Scott de Martinville](https://open.spotify.com/artist/4QIqrGf063HoLbGRsCMXoB) | [An Anthology of Noise & Electronic Music, Vol\. 7](https://open.spotify.com/album/68jd2YgjZUO3ZXT8jXCuQp) | 0:16 | 2022-11-06 |  |
 | [BAATH \(EQUIPMENT THIEF\)](https://open.spotify.com/track/2UawH6aDtcIkiW62qGFSOR) | [Yabujin](https://open.spotify.com/artist/3xMSStWH6Wz2KAJqkZwXLu) | [BAATH \(EQUIPMENT THIEF\)](https://open.spotify.com/album/1SwiYoLc1GcF55OXmaLlpG) | 6:24 | 2022-11-06 |  |
@@ -96,6 +96,7 @@
 | [Rotolock \(2021 Remastered\)](https://open.spotify.com/track/1J2jVIwLc2cWR2S8Hx65AQ) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol\. 2 \(2021 Remastered\)](https://open.spotify.com/album/73mcyffe8PcMszHkQO7ZbU) | 1:31 | 2022-01-31 |  |
 | [Rotten Candy](https://open.spotify.com/track/2lndG0PZZWdi7E6rnIQ1aQ) | [MXXN](https://open.spotify.com/artist/7DgqyV931IoTtcQVZ97fuq) | [Samhain \(Original Puppet Combo Soundtrack\)](https://open.spotify.com/album/3K1sRUtQBtOqSXSiYaDsBz) | 3:56 | 2022-12-09 |  |
 | [Sansevieria](https://open.spotify.com/track/28V06ats2bx8OCdh9DBBOR) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 4:24 | 2020-08-03 |  |
+| [Scotland, I Wish You Had Stayed](https://open.spotify.com/track/7joZfFcUBofZaovZdYe0to) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [Scotland, I Wish You Had Stayed.](https://open.spotify.com/album/7yryHYhtqvwPWSAOpcQ08v) | 1:14 | 2025-04-17 |  |
 | [Seeing Dead Cats in Dreams](https://open.spotify.com/track/0MF1jdBamf0Ds8oAGgPpoi) | [Ricky Eat Acid](https://open.spotify.com/artist/4BO8wK4OAaFsi6PSzs366S) | [Seeing Little Ghosts Everywhere](https://open.spotify.com/album/5m5Erw8LGk4VocF4LLgi8Q) | 1:34 | 2022-03-15 |  |
 | [Seraph I](https://open.spotify.com/track/7ooqvIdR5UcpyzYbtwksWH) | [How to Disappear Completely](https://open.spotify.com/artist/58PAYlZ9swIJ50dcMNSMaT) | [Seraphim](https://open.spotify.com/album/3vIZNnaV7973vNme1hPXbS) | 8:15 | 2021-07-14 |  |
 | [Soft Hearted](https://open.spotify.com/track/6WaiPbEUlkC2xMKUSXIqZH) | [Anders Baldwin](https://open.spotify.com/artist/5VRIfKvNP5rgX2vb5uXGXe), [Brady Hoffman](https://open.spotify.com/artist/2FbSnPL525GoLfscTwd4GQ), [Alice Shelton](https://open.spotify.com/artist/7CwozzmMZ6Nrc0smJwFuAs), [Luke Barker](https://open.spotify.com/artist/2ArmFEXk32hFJ2ptPjfg3v), [Ruby Terry](https://open.spotify.com/artist/6i2U651eF8lRxELDcMYM7V) | [Calming \- Commercial Background Music](https://open.spotify.com/album/22tdyfxLz5XinDjZzRBZiw) | 1:53 | 2024-08-20 |  |
@@ -124,6 +125,7 @@
 | [Watching](https://open.spotify.com/track/4X3hDcFUAwgUdlXKhDJBsV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Decay](https://open.spotify.com/album/5NxlUs4dMl4995ItF6Ct6V) | 1:03 | 2020-09-26 |  |
 | [Watery Grave](https://open.spotify.com/track/3rKWiEhvEs8aRT9BZO32Nv) | [Cris Velasco](https://open.spotify.com/artist/13bb43GIQWR0f6rYeQcrUV) | [Carrion \(Original Game Soundtrack\)](https://open.spotify.com/album/1RLLD6srXDVDHkRKd8HfaM) | 1:55 | 2023-08-01 |  |
 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 （Original Soundtrack）](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 | 2020-09-26 |  |
+| [You Know How to Make a Boy Feel Warm](https://open.spotify.com/track/1oU1k57RerTGjZ1yTodvyl) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [Sleep](https://open.spotify.com/album/0iY5sFEZzBfUUp61IwqNzo) | 4:39 | 2025-04-17 |  |
 | [その箱の中に入る。](https://open.spotify.com/track/0Y2WmMaAkQ4FAnVUOoAGoH) | [Rory in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N) | [Denki no iryoku](https://open.spotify.com/album/4NGkqoq7P80FUOg32zUeuU) | 1:40 | 2023-01-30 |  |
 | [恢复](https://open.spotify.com/track/2dFUtZtpWydAU4QMmUOK47) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [新しい日の誕生](https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N) | 5:51 | 2019-09-05 |  |
 | [捕夢網](https://open.spotify.com/track/3o46aaWi7jktJZJnRjsYJs) | [輕描淡寫](https://open.spotify.com/artist/77OLqjNEXxLAGkCjhyt1o6) | [小圈子](https://open.spotify.com/album/6Obf8MKmo6a0WcswmPTptl) | 6:02 | 2022-07-02 |  |

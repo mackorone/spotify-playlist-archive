@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: The Hives",
+  "description": "Nieuwe alternative & rock releases. Cover: TAPE TOY",
   "name": "New Alternative",
   "tracks": [
     {
@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Back of the Bus",
+        "url": "https://open.spotify.com/album/70Mz5Kxdu9EjQQ46VRkN7m"
+      },
+      "artists": [
+        {
+          "name": "Waltzburg",
+          "url": "https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Back of the Bus",
+      "url": "https://open.spotify.com/track/7Gwyr1Ri1gV5WpgIdmrp2o"
+    },
+    {
+      "album": {
         "name": "BADMAN",
         "url": "https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt"
       },
@@ -622,6 +640,24 @@
       "duration_ms": 168030,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/1pCyTcaqP56AiGqMSwdN12"
+    },
+    {
+      "album": {
+        "name": "Bashville on the Sugar",
+        "url": "https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Bashville on the Sugar",
+      "url": "https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1"
     },
     {
       "album": {
@@ -658,6 +694,24 @@
       "duration_ms": 296885,
       "name": "Before It Might Be Gone",
       "url": "https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92"
+    },
+    {
+      "album": {
+        "name": "Romance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236245,
+      "name": "Before You I Just Forget",
+      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
       "album": {
@@ -780,7 +834,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 245251,
       "name": "Billy (Yeah Yeah Yeah)",
       "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
@@ -834,7 +888,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 215258,
       "name": "body to you",
       "url": "https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe"
@@ -1188,7 +1242,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 284137,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
@@ -1210,6 +1264,24 @@
       "duration_ms": 286994,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/4TPeK1K6tgwrnI3HjPSdUX"
+    },
+    {
+      "album": {
+        "name": "How To Be Cool At Parties/Circe",
+        "url": "https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe"
+      },
+      "artists": [
+        {
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "Circe",
+      "url": "https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW"
     },
     {
       "album": {
@@ -1304,6 +1376,24 @@
       "duration_ms": 212968,
       "name": "Comic Trip",
       "url": "https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g"
+    },
+    {
+      "album": {
+        "name": "Compass Will Fracture",
+        "url": "https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Compass Will Fracture",
+      "url": "https://open.spotify.com/track/63IqeRT97jGa1zIORhXCM2"
     },
     {
       "album": {
@@ -1466,6 +1556,24 @@
       "duration_ms": 185613,
       "name": "Deadlines",
       "url": "https://open.spotify.com/track/77TznXvHi8vX42uBZMNhyH"
+    },
+    {
+      "album": {
+        "name": "Deadstick",
+        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213575,
+      "name": "Deadstick",
+      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
     },
     {
       "album": {
@@ -1930,7 +2038,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 206354,
       "name": "Feel Sexy",
       "url": "https://open.spotify.com/track/3KStyOGA94pAUAU21SlMkv"
@@ -2265,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Get Fucked (Record Store Day)",
+        "url": "https://open.spotify.com/album/6QE2y2f9czfqY5KU9dji2q"
+      },
+      "artists": [
+        {
+          "name": "Bongloard",
+          "url": "https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Get Fucked",
+      "url": "https://open.spotify.com/track/0QAb9CnKWI6zrkJyESFqrW"
+    },
+    {
+      "album": {
         "name": "Gethsemane",
         "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
       },
@@ -2384,7 +2510,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 219906,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3d4XW4O3YbOvVM1w3sgH5e"
@@ -3187,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/2TgHybvyKD8dBDKq1jxQap"
+      },
+      "artists": [
+        {
+          "name": "TAPE TOY",
+          "url": "https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152056,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/2atXVc2bsOZiQDp8fQcuop"
+    },
+    {
+      "album": {
         "name": "Killing For Fun",
         "url": "https://open.spotify.com/album/2qcREVAnFhP7lxMCbz1UsX"
       },
@@ -3234,7 +3378,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 242789,
       "name": "L.O.V.E.",
       "url": "https://open.spotify.com/track/36vaGZOM3HBsxTYYqDneLO"
@@ -3346,6 +3490,24 @@
       "duration_ms": 187058,
       "name": "let it go",
       "url": "https://open.spotify.com/track/7jAlLZpJcrxdgy1qFG3E76"
+    },
+    {
+      "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/6lZE2y3A9UxhWIrlNd0pkX"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194387,
+      "name": "Lights Fall",
+      "url": "https://open.spotify.com/track/1W8cWE4mphc5mmCqaRhACZ"
     },
     {
       "album": {
@@ -3890,7 +4052,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 223146,
       "name": "Mr. Tap n' Go",
       "url": "https://open.spotify.com/track/78bbsnvyylLQGwz53vXtRg"
@@ -4477,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "Higher Places",
+        "url": "https://open.spotify.com/album/2OysUuV8Y20yUjyAaXLD0O"
+      },
+      "artists": [
+        {
+          "name": "Afterpartees",
+          "url": "https://open.spotify.com/artist/5FtnkdycRhdTikTa8XaM02"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "Partees2die4",
+      "url": "https://open.spotify.com/track/1SXcLdcu7e52xvst9NL0NX"
+    },
+    {
+      "album": {
         "name": "Pause at You",
         "url": "https://open.spotify.com/album/3zvoBOQkGhAWQZ4WURFNge"
       },
@@ -4784,7 +4964,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 240626,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3qY4xPnoUPGItokmphtPKg"
@@ -5112,7 +5292,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 190153,
       "name": "Shaking Shoulder",
       "url": "https://open.spotify.com/track/1zOpsnW07jNmNAOu0qDRoQ"
@@ -5634,7 +5814,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 158667,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
@@ -5800,6 +5980,28 @@
       "duration_ms": 216666,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/3XL7a5qPELslzR9SV3iWMV"
+    },
+    {
+      "album": {
+        "name": "Tell me I never knew that",
+        "url": "https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279051,
+      "name": "Tell me I never knew that",
+      "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
     },
     {
       "album": {
@@ -5994,7 +6196,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 154612,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"

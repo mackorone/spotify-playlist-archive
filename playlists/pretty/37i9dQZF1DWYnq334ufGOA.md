@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,795 likes - 46 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,827 likes - 46 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 | 41 | [Tiger Balm](https://open.spotify.com/track/4Dfhqu30u5rsdivtzNbuBf) | [Annea Lockwood](https://open.spotify.com/artist/6LWpBbjuWN8Wjiz7sEnlLQ), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Source: Music of the Avant Garde](https://open.spotify.com/album/7i9X3oUY5wRYTThF69fZEA) | 10:26 |
 | 42 | [World Rhythms](https://open.spotify.com/track/04BwsxCIL95miDzGPtFyOR) | [Annea Lockwood](https://open.spotify.com/artist/6LWpBbjuWN8Wjiz7sEnlLQ) | [New Music for Electronic and Recorded Media: Women In Electronic Music \- 1977](https://open.spotify.com/album/45IBJV76uqLXXsm9SMAFzO) | 8:30 |
 | 43 | [Love Without Sound](https://open.spotify.com/track/4McWloMJ0F9ODgqieCH4mM) | [White Noise](https://open.spotify.com/artist/4t0c0aHoabuLfz1b4nT1If) | [An Electric Storm](https://open.spotify.com/album/2u7TUEcNy4QmCELeh3DoTO) | 3:06 |
-| 44 | [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
+| 44 | [Amphitryon 38 \- Remastered](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
 | 45 | [The Transformation Of Ani](https://open.spotify.com/track/7phdkG6fxDpjY4h874I2j1) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Pioneers Of Electronic Music](https://open.spotify.com/album/63ee2BYCQVmebj0ZgxhxL0) | 9:04 |
 | 46 | [Theme from Tron \- From "TRON"/Score](https://open.spotify.com/track/6h7kp0vSYQobYlsv30RpqH) | [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB) | [Tron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7wIvILO6pAlr0jl46GLXLf) | 1:37 |
 

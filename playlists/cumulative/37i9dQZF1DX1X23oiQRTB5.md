@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Werenoi, Damso & Ninho au top de la première playlist de rap français.
+> Werenoi au top de la première playlist de rap français.
 
-319 songs - 16 hr 24 min
+320 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bonjour](https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bonjour](https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7) | 2:16 | 2023-08-24 | 2024-02-09 |
 | [Bonsoir Paris \(Mama No Cry\)](https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Bonsoir Paris \(Mama No Cry\)](https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn) | 3:38 | 2023-11-09 | 2024-02-23 |
 | [BOOM BOOM](https://open.spotify.com/track/70T34qUA8otqXwxraVSbry) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [Memory \(Extended Version\)](https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY) | 1:54 | 2024-04-18 | 2024-12-20 |
+| [BOSS](https://open.spotify.com/track/1kaxixqEIs3Z5KEWw6AA0a) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [DJ Milane](https://open.spotify.com/artist/51VUv5NmNQEO5TMGEaUXAJ) | [BOSS](https://open.spotify.com/album/6bnHdFXwKSykY0MczbRrWL) | 3:15 | 2025-04-17 |  |
 | [Branché](https://open.spotify.com/track/0aG6nPOgAKnbWOWrAlFLjO) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Momsii](https://open.spotify.com/artist/4mPGN3f7bykivnQM0FBVbF) | [Branché](https://open.spotify.com/album/6TV5K3x5cYFMBdowpZYkZ1) | 4:58 | 2022-11-17 | 2023-02-24 |
 | [Bruce Wayne](https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:07 | 2022-01-06 | 2022-06-03 |
 | [Brûle](https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:31 | 2022-03-24 | 2022-07-08 |
@@ -162,7 +163,7 @@
 | [La 15 \(GSXR\)](https://open.spotify.com/track/5KANzscJcnk2n4CvtTOiZU) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 15 \(GSXR\)](https://open.spotify.com/album/41LI7y7bznXzeAZj6Wup5n) | 2:50 | 2022-06-02 | 2022-07-22 |
 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-02-08 | 2024-07-19 |
 | [La faille](https://open.spotify.com/track/4F1fVi7f1h1fN4FrwoyWMa) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [La faille](https://open.spotify.com/album/1jBSMXrJSzDX6GQnmqj5qL) | 4:51 | 2023-05-25 | 2024-02-23 |
-| [La famine](https://open.spotify.com/track/5l6wXzGQXn8TemEVlCraLR) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La famine](https://open.spotify.com/album/3fa90kfI5lBTVqqc26i91e) | 3:09 | 2024-10-24 |  |
+| [La famine](https://open.spotify.com/track/5l6wXzGQXn8TemEVlCraLR) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La famine](https://open.spotify.com/album/3fa90kfI5lBTVqqc26i91e) | 3:09 | 2024-10-24 | 2025-04-18 |
 | [La Force Tranquille](https://open.spotify.com/track/7i7lGrzY9BHFclTeQSeopG) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [La Force Tranquille](https://open.spotify.com/album/0gfcNJ7BVV5u7JCWYeHHw9) | 4:04 | 2023-02-23 | 2023-05-12 |
 | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/album/662O3guwgkETCs4FcQ9dCi) | 1:49 | 2024-11-28 |  |
 | [La Pluie](https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [La Pluie](https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ) | 3:55 | 2025-03-20 |  |

@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 291750,
       "name": "Bu\u1ed3n Hay Vui (feat. RPT MCK, Obito, Ronboogz & Boyzed)",
       "url": "https://open.spotify.com/track/4OXAneZHFJyQV1RuzCzmH3"
@@ -20053,6 +20053,24 @@
     },
     {
       "album": {
+        "name": "thap trap tu do (remix)",
+        "url": "https://open.spotify.com/album/4ptD1JJgSXmsTtiRlv4JQu"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149543,
+      "name": "thap trap tu do - remix",
+      "url": "https://open.spotify.com/track/4IjFRncpS1t5cXKDzs68Iy"
+    },
+    {
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
       },
@@ -20495,6 +20513,28 @@
     },
     {
       "album": {
+        "name": "Th\u00e1p Drill T\u1ef1 Do",
+        "url": "https://open.spotify.com/album/5NjK5oGwjLodOKHhN42hbu"
+      },
+      "artists": [
+        {
+          "name": "Koon",
+          "url": "https://open.spotify.com/artist/2Ta6zLy9cyPXXKsUMnVMaK"
+        },
+        {
+          "name": "MCK x Prod Gaz",
+          "url": "https://open.spotify.com/artist/25UApaTxnzSUPKWn4Lws6D"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110294,
+      "name": "Th\u00e1p Drill T\u1ef1 Do",
+      "url": "https://open.spotify.com/track/4RdWOIciJCKnVBRgo1BMMa"
+    },
+    {
+      "album": {
         "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
         "url": "https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg"
       },
@@ -20772,7 +20812,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 279605,
       "name": "Tim Anh Ghen",
       "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
@@ -24028,7 +24068,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 250722,
       "name": "\u00d4m Em Th\u1eadt L\u00e2u",
       "url": "https://open.spotify.com/track/0oLdpAqSgmSyqzXJo4XHig"

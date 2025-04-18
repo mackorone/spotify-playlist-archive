@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,700 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,735 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [El Doctorado](https://open.spotify.com/track/1yg1tWFaYajN4b7vsKtYRE) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 7](https://open.spotify.com/album/5Em5bjM50jYSWN8omi5Fkl) | 2:13 |
 | 50 | [OLIMPO](https://open.spotify.com/track/6tt6JnKerLnOL0oez9QPqS) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166 \(DELUXE\) retirada](https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm) | 2:49 |
 
-Snapshot ID: `L5MdIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L5RuoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

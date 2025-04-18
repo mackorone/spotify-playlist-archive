@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Aurinkosoturi",
+        "url": "https://open.spotify.com/album/48HQQYusPDm7KDIiujwrUP"
+      },
+      "artists": [
+        {
+          "name": "Mikko Herranen",
+          "url": "https://open.spotify.com/artist/6AQrndwcFAGXfoiAdgCxXb"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272842,
+      "name": "Aurinkosoturi",
+      "url": "https://open.spotify.com/track/77rSWvdFocd7OebxQKzTwZ"
+    },
+    {
+      "album": {
         "name": "Autoritarismi",
         "url": "https://open.spotify.com/album/304dmMMzkOtQMyTbBLsfSP"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 236026,
       "name": "Ei ihme ettet vastaa",
       "url": "https://open.spotify.com/track/3g6DItCf1OYZuxSRuiERCg"
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 267761,
       "name": "Hermokiit\u00e4j\u00e4",
       "url": "https://open.spotify.com/track/0K9tNSX0cEZvi8z5k9xTUo"
@@ -2146,7 +2164,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 211458,
       "name": "Katoava kes\u00e4",
       "url": "https://open.spotify.com/track/5J6A0U1hEQ4qT6WZL9Elvn"
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 149474,
       "name": "Miten voin tiet\u00e4\u00e4 mit\u00e4 el\u00e4m\u00e4lt\u00e4 haluan, jos en edes tied\u00e4 mit\u00e4 haluan aamupalaksi",
       "url": "https://open.spotify.com/track/2zxR8Zy8Mb8sxwM8vk4wv0"
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 189000,
       "name": "Nukkuvaa ja Puolikuollutta",
       "url": "https://open.spotify.com/track/00I6lKWxdx00lRd6598ITM"
@@ -3966,7 +3984,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 178359,
       "name": "nvururvitv",
       "url": "https://open.spotify.com/track/3gV3HLm9fnlmznByWjVxnS"
@@ -4262,7 +4280,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 135529,
       "name": "Panadolei",
       "url": "https://open.spotify.com/track/7v0h9Zlxzk4Uh1Athl449U"
@@ -5034,6 +5052,28 @@
       "duration_ms": 147760,
       "name": "Sadaskuudestoista",
       "url": "https://open.spotify.com/track/2Wja6XFz1hxUhHtJf5iY7j"
+    },
+    {
+      "album": {
+        "name": "Sade tulee (feat. Jaakko Kulta)",
+        "url": "https://open.spotify.com/album/05aQBMQ5M5pTo0y4nldDzz"
+      },
+      "artists": [
+        {
+          "name": "Aaro630",
+          "url": "https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV"
+        },
+        {
+          "name": "Jaakko Kulta",
+          "url": "https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178836,
+      "name": "Sade tulee (feat. Jaakko Kulta)",
+      "url": "https://open.spotify.com/track/1EriZcKZaXYskF6NRJ3YnI"
     },
     {
       "album": {
@@ -5906,7 +5946,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 180720,
       "name": "Takotsubo",
       "url": "https://open.spotify.com/track/6QFMn5Eoe95JxRPbwfnG0D"

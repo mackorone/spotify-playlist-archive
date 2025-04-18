@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-[paige](https://open.spotify.com/user/paigebethanyy) - 36,612 likes - 119 songs - 6 hr 9 min
+[paige](https://open.spotify.com/user/paigebethanyy) - 36,610 likes - 121 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 | 66 | [jupiter](https://open.spotify.com/track/0O6WkFI2zU1dKoNwQCUyDk) | [rees111](https://open.spotify.com/artist/4DQAGENt8yDnztCIWkS7hT) | [one](https://open.spotify.com/album/0jJFc7AJvHm6qYyYelYT0Q) | 1:53 |
 | 67 | [spaghettification](https://open.spotify.com/track/2mfy0lcx1gCVYSlqhyCbkB) | [nowt](https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI) | [absorbed by an absolute void](https://open.spotify.com/album/4UWkmWiTanSmJvBLggDF9b) | 3:36 |
 | 68 | [return trip](https://open.spotify.com/track/6R7LCiocE6XsF4bmD6cnkz) | [aeroxone](https://open.spotify.com/artist/1RfT7VjWufW7BOVCG3MLOa) | [unknown destination](https://open.spotify.com/album/4TntYRd05wSHWg1q2MnCgB) | 1:22 |
-| 69 | [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
+| 69 | [Amphitryon 38 \- Remastered](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
 | 70 | [Laika](https://open.spotify.com/track/1sED31WqXFaofNm7H11Wko) | [Frank LoCrasto](https://open.spotify.com/artist/0jDd0XW6WCERDtwSwMMZ0P) | [El Dorado](https://open.spotify.com/album/1Q5MO5zi2SYPGJytYeYJuA) | 0:53 |
 | 71 | [Suspended in Darkness](https://open.spotify.com/track/3JGaUzHENI1Be0u5jobrGR) | [Jeff Greinke](https://open.spotify.com/artist/3g94tTUOoqf4IweFjbAA30) | [Places of Motility](https://open.spotify.com/album/0Jbr76l5XK9J1wIqOTD7qH) | 3:49 |
 | 72 | [Death Music?](https://open.spotify.com/track/6RvDmpY1Vv8iNs5EZ4IFg6) | [Nikita Kryukov](https://open.spotify.com/artist/19a2FvKFulincEUD9TpFeK) | [Milk Outside a Bag of Milk Outside a Bag of Milk \(Original Game Soundtrack\)](https://open.spotify.com/album/2YBs94INDcFjQZ3GtJt23e) | 2:11 |
@@ -126,6 +126,8 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 | 116 | [A3 \- Late afternoon drifting](https://open.spotify.com/track/5sD6oTCae0LI9lztYBJA0W) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:35 |
 | 117 | [A5 \- Slightly bewildered](https://open.spotify.com/track/2tWgpKAjR0dajrrA7gS3f1) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 2:01 |
 | 118 | [Soft Hearted](https://open.spotify.com/track/6WaiPbEUlkC2xMKUSXIqZH) | [Anders Baldwin](https://open.spotify.com/artist/5VRIfKvNP5rgX2vb5uXGXe), [Brady Hoffman](https://open.spotify.com/artist/2FbSnPL525GoLfscTwd4GQ), [Alice Shelton](https://open.spotify.com/artist/7CwozzmMZ6Nrc0smJwFuAs), [Luke Barker](https://open.spotify.com/artist/2ArmFEXk32hFJ2ptPjfg3v), [Ruby Terry](https://open.spotify.com/artist/6i2U651eF8lRxELDcMYM7V) | [Calming \- Commercial Background Music](https://open.spotify.com/album/22tdyfxLz5XinDjZzRBZiw) | 1:53 |
-| 119 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
+| 119 | [Scotland, I Wish You Had Stayed](https://open.spotify.com/track/7joZfFcUBofZaovZdYe0to) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [Scotland, I Wish You Had Stayed.](https://open.spotify.com/album/7yryHYhtqvwPWSAOpcQ08v) | 1:14 |
+| 120 | [You Know How to Make a Boy Feel Warm](https://open.spotify.com/track/1oU1k57RerTGjZ1yTodvyl) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [Sleep](https://open.spotify.com/album/0iY5sFEZzBfUUp61IwqNzo) | 4:39 |
+| 121 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
 
-Snapshot ID: `AAADP2jUdaWnjSXAyvWt57JPTmMj67Kf`
+Snapshot ID: `AAADQWQkTGtwsILJi3lOv0mUoUyrlyIw`

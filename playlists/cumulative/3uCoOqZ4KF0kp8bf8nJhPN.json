@@ -63,6 +63,42 @@
     },
     {
       "album": {
+        "name": "04:00",
+        "url": "https://open.spotify.com/album/26IKkSYC1DYrS0wJ8krXHX"
+      },
+      "artists": [
+        {
+          "name": "m3wk4",
+          "url": "https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77767,
+      "name": "04:00",
+      "url": "https://open.spotify.com/track/41Mmsc8xrT6MX30lEBwm0A"
+    },
+    {
+      "album": {
+        "name": "04:03",
+        "url": "https://open.spotify.com/album/5excPWx4CCg5XvOiqmEK6w"
+      },
+      "artists": [
+        {
+          "name": "m3wk4",
+          "url": "https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139026,
+      "name": "04:03",
+      "url": "https://open.spotify.com/track/7Cf1svuoRdJeBE31TGnQdg"
+    },
+    {
+      "album": {
         "name": "24-7!",
         "url": "https://open.spotify.com/album/6xprDMhS4ZCy2yNcmKE2yn"
       },

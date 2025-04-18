@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 804971,
+  "num_followers": 805040,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-04-11 19:58:09",
       "album": {
-        "name": "Algo Parecido",
-        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Algo Parecido",
-      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
-    },
-    {
-      "added_at": "2025-04-11 19:58:09",
-      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 212320,
       "name": "N\u00e3o Olha Assim Pra Mim",
       "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
+    },
+    {
+      "added_at": "2025-04-11 19:58:09",
+      "album": {
+        "name": "Algo Parecido",
+        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Algo Parecido",
+      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2025-04-11 19:58:09",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-04-11 19:58:09",
       "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 207530,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE"
+    },
+    {
+      "added_at": "2025-04-11 19:58:09",
+      "album": {
         "name": "Disritmia / Ex-Amor",
         "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
-    },
-    {
-      "added_at": "2025-04-11 19:58:09",
-      "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 207530,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE"
     },
     {
       "added_at": "2025-04-11 19:58:09",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-04-11 19:58:09",
       "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Mexeu comigo",
+      "url": "https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL"
+    },
+    {
+      "added_at": "2025-04-11 19:58:09",
+      "album": {
         "name": "Dr\u00e3o (Remasterizado)",
         "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 205000,
       "name": "Vento Ventania",
       "url": "https://open.spotify.com/track/1qXIWVsx63zw4ACCZxNAfi"
-    },
-    {
-      "added_at": "2025-04-11 19:58:09",
-      "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "Mexeu comigo",
-      "url": "https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL"
     }
   ],
   "unique_name": "Cafezinho",

@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Erika Isac, M.G.L
 
-145 songs - 7 hr 0 min
+147 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Chiar acum](https://open.spotify.com/track/1SuivczL8L4e0e2yS8UNqA) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Macanache](https://open.spotify.com/artist/4tr1nXsLLAQj86Hs5VyU2w) | [Chiar acum](https://open.spotify.com/album/5kpiuzVOp1VGQ3sI5HR4Lq) | 2:17 | 2024-08-22 | 2024-09-20 |
 | [CLEOPATRA](https://open.spotify.com/track/05zxU4ZY8mMfJJsiVH1Sjg) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Cleopatra](https://open.spotify.com/album/5EdywpzXePN2J6F5ZsECOH) | 3:08 | 2024-06-27 | 2024-08-16 |
 | [Confidence](https://open.spotify.com/track/0ryh9jR932Kf6PSF5bHDQn) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk), [Phunk B](https://open.spotify.com/artist/2uY1K2tEdWUdDiK6tzBwwo) | [Confidence](https://open.spotify.com/album/58PniXMLmDG3qFusL2LMIl) | 3:54 | 2024-11-14 | 2024-11-22 |
-| [Confuzii](https://open.spotify.com/track/3MftzuWVEInvhxb8TJrBES) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Confuzii](https://open.spotify.com/album/6p4NJYxFTeGcRe5uZW7a82) | 2:37 | 2025-04-10 |  |
+| [Confuzii](https://open.spotify.com/track/3MftzuWVEInvhxb8TJrBES) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Confuzii](https://open.spotify.com/album/6p4NJYxFTeGcRe5uZW7a82) | 2:37 | 2025-04-10 | 2025-04-18 |
 | [CONTACT FATAL \- Enchou Remix](https://open.spotify.com/track/6LjoS951OHpoJQmCUMtxCw) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Enchou](https://open.spotify.com/artist/1M7yv1V7YR9HFwgvCJhhUW) | [CONTACT FATAL \(Enchou Remix\)](https://open.spotify.com/album/1mqDjVA7jJr8xdf0vEtwCW) | 2:41 | 2024-10-31 | 2024-11-08 |
 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 | 2024-08-01 | 2024-11-01 |
 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 | 2024-11-28 |  |
@@ -116,8 +116,9 @@
 | [ROLLIE](https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ROLLIE](https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn) | 3:25 | 2024-10-17 | 2024-11-30 |
 | [Românească](https://open.spotify.com/track/6IvsHJJMAbf6lUBpFaSii4) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Românească](https://open.spotify.com/album/1U498gIRXMiyOtf9DI4glf) | 2:33 | 2025-01-23 | 2025-03-07 |
 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 | 2024-09-19 |  |
-| [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 | 2024-06-27 |  |
+| [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 | 2024-06-27 | 2025-04-18 |
 | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/track/3okomQtoPOKU2MZARYyPiS) | [Serotone](https://open.spotify.com/artist/7nN2m7VvqkvB9bbFVgzBYn), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/album/2DIGNFof9SDrDuzf1PZpyd) | 2:40 | 2024-08-01 | 2024-08-23 |
+| [Sentimente din stilou](https://open.spotify.com/track/319trXVPgd1p8bXRC7wcFd) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Sentimente din stilou](https://open.spotify.com/album/1uM5JZSpMpiWG0GEGhfMZw) | 3:53 | 2025-04-17 |  |
 | [Seria 5](https://open.spotify.com/track/41oOSj88trRGw0i16Rh9u1) | [Kepa](https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Seria 5](https://open.spotify.com/album/3oCFqA2d4sGzfbY2Gx6c4I) | 2:32 | 2024-07-26 | 2024-09-20 |
 | [Shot](https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [BAZOOKA](https://open.spotify.com/artist/5VF7pRN0tgUIRWjsVmnpY1), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Shot](https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE) | 3:48 | 2024-09-26 |  |
 | [SHUT DOWN](https://open.spotify.com/track/0rkT3ZuJjaPPGF63zjHguF) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [AOUR](https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB) | [SHUT DOWN](https://open.spotify.com/album/1Lq57bULEry6JVWcqVhY4Z) | 3:12 | 2025-01-30 | 2025-02-19 |
@@ -149,6 +150,7 @@
 | [ZERO](https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [ZERO](https://open.spotify.com/album/6I5JKDtiXS8HvlLznCRfcY) | 2:40 | 2024-06-27 |  |
 | [ÎN MINTEA MEA](https://open.spotify.com/track/2UGbgXQqLG4oF4mg7SMLh0) | [Katarina](https://open.spotify.com/artist/4Ju3I6CoOGlMgRrTNFrBis), [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ÎN MINTEA MEA](https://open.spotify.com/album/1pMCSGYEvPVvrelAPHvVNV) | 3:17 | 2025-02-20 | 2025-03-15 |
 | [ÎNCASEZ](https://open.spotify.com/track/6eNbonlVmj3JnRHjqfHE62) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9) | [ÎNCASEZ](https://open.spotify.com/album/5KeGYMhZv6tk2W1x7nM7Tk) | 2:29 | 2024-10-17 | 2025-04-11 |
+| [ÎNCĂ ÎN VIAȚĂ](https://open.spotify.com/track/75Ds4kLHnZo50h3RE5BGjZ) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Angeles](https://open.spotify.com/artist/3tdg8XqJcJxUs0wpeKywzs) | [ÎNCĂ ÎN VIAȚĂ](https://open.spotify.com/album/4TFgO0KRB7ZlrMvz8JTCeU) | 3:44 | 2025-04-17 |  |
 | [ÎNPAI](https://open.spotify.com/track/2Ltwedxz1aSahjXER3LIEA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ÎNPAI](https://open.spotify.com/album/0hdybSBVj1H0CAlP02cKRa) | 2:49 | 2024-12-05 | 2025-01-10 |
 | [Îți mai aduci aminte?](https://open.spotify.com/track/2WPAOakhyTWkBBoXf8T700) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Îți mai aduci aminte?](https://open.spotify.com/album/4eldcutCk47V7I88N7XBqC) | 3:11 | 2025-01-30 | 2025-02-07 |
 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 | 2025-02-20 |  |

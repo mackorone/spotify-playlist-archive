@@ -4,7 +4,7 @@
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-281 songs - 18 hr 38 min
+282 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Cold Wave](https://open.spotify.com/track/4HVdVA4dUhUgPBa9hj8JZY) | [Dear Criminals](https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg) | [Another Picture](https://open.spotify.com/album/5tsP7DKJAWQCjKbrp00Wzx) | 4:28 | 2018-11-26 | 2023-06-14 |
 | [Come and See](https://open.spotify.com/track/30dcEOSx5y5KNInniobGoc) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [Lean Year](https://open.spotify.com/album/0hamxL9J3GEDVn9ePVsQeo) | 3:39 | 2018-11-26 |  |
 | [Come and See](https://open.spotify.com/track/5xAiZ21W3yXME0kJqu6eOw) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [Lean Year](https://open.spotify.com/album/4GBG1Gq0qREhpY6VSJRTrO) | 3:39 | 2018-11-26 | 2022-07-13 |
+| [Come Back Home](https://open.spotify.com/track/5cukW66110Uz0a7mAwfYgq) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 4:41 | 2023-09-29 |  |
 | [Comply](https://open.spotify.com/track/5wJVRxZ0PozaBePGEEYylP) | [Llynks](https://open.spotify.com/artist/6hZmTXUiBvYnUAEKtWUom8) | [Comply](https://open.spotify.com/album/0VcMzAIpzRzAbWeEMwQB8I) | 3:26 | 2018-11-26 | 2023-06-14 |
 | [Comply](https://open.spotify.com/track/7CD9nNvUKrDITWSKQ7B5ZU) | [Sara Kendall](https://open.spotify.com/artist/2Gavfj8uclbMYNMgloysS9) | [Comply](https://open.spotify.com/album/4kjijQKjmGREw8gycRAoBr) | 3:26 | 2018-11-26 | 2022-07-29 |
 | [Crown of Sparrows](https://open.spotify.com/track/2iun2sZQLxJ5eezBZXNQ1E) | [Monk Parker](https://open.spotify.com/artist/1x6KYtMbWIEE9ZBGoHAS0C) | [Crown of Sparrows](https://open.spotify.com/album/3TF0xLYM54RHzuLL02RBjo) | 6:05 | 2018-11-26 | 2022-07-29 |
@@ -171,7 +172,7 @@
 | [Neverending Fountain \- Alt\. Version](https://open.spotify.com/track/77qe3JNMJjOr3HFGR3JJP0) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Neverending Fountain \(Alt\. Version\)](https://open.spotify.com/album/5am9AY6vfhvXyZ4QNqYmtX) | 4:34 | 2018-11-26 | 2022-07-27 |
 | [new forever](https://open.spotify.com/track/1nBrPEFJ72RxsFqDo5kh0C) | [trayer tryon](https://open.spotify.com/artist/2gD51qPCP8XNnk0D2ugS4R) | [new forever](https://open.spotify.com/album/3mM2ficqgN8yway90ENDCC) | 2:55 | 2020-10-15 | 2022-10-28 |
 | [new forever](https://open.spotify.com/track/7Bep0HEgNNeoygVMpXq5Gl) | [trayer tryon](https://open.spotify.com/artist/2gD51qPCP8XNnk0D2ugS4R) | [new forever](https://open.spotify.com/album/1QGB1cjB3c26YNJZmJfiqt) | 2:55 | 2020-10-15 | 2023-06-14 |
-| [News About Heaven](https://open.spotify.com/track/0GTopopHvqgaIbV8VSx9wM) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Lost Futures](https://open.spotify.com/album/1ccFrrZoLFGfDM2LaB8bc6) | 3:56 | 2023-09-29 |  |
+| [News About Heaven](https://open.spotify.com/track/0GTopopHvqgaIbV8VSx9wM) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Lost Futures](https://open.spotify.com/album/1ccFrrZoLFGfDM2LaB8bc6) | 3:56 | 2023-09-29 | 2025-04-18 |
 | [Noise](https://open.spotify.com/track/1nWhdD40KXZgvoh8KpnjSJ) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4kOLBB19jvRtoVfnMEN5Cg) | 4:00 | 2019-09-16 | 2022-10-13 |
 | [Noise](https://open.spotify.com/track/22W6gfcddD3TeZbykBt4eR) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4d5ozUYjkVhiVCYxGTk5rO) | 4:00 | 2019-09-16 | 2023-06-14 |
 | [Obrecht](https://open.spotify.com/track/2fgEVpafPGM0IDRRf3Q32K) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/7aahYegJjCZ1QLnIBxsTwb) | 3:36 | 2018-11-26 | 2023-03-01 |

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Rachel Bobbitt
 
-1,628 songs - 4 day 0 hr 59 min
+1,629 songs - 4 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [dinner alone](https://open.spotify.com/track/0XqtPB3sTWzv9p2cDzzfyD) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [dinner alone](https://open.spotify.com/album/1eOHu4opGK1YazfyZuR49M) | 2:55 | 2023-09-27 | 2023-12-11 |
 | [Dinner Party](https://open.spotify.com/track/69te7FqNKGo7wP8vpC90T8) | [Lydia Kaseta](https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl) | [Dinner Party](https://open.spotify.com/album/1po6GsGZmdDJEZxtoBGuVs) | 3:20 | 2024-05-29 | 2024-08-08 |
 | [Dirty Fire](https://open.spotify.com/track/7Ktux01az60Et2QeCYu357) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Prequel](https://open.spotify.com/album/3EkjlTMu4IDVHz759li7FO) | 2:48 | 2023-10-18 | 2023-12-11 |
+| [DNA Guarantee](https://open.spotify.com/track/7EimwDV1rXzsiXYGXVUEkC) | [Kodi Rhianne](https://open.spotify.com/artist/0SxMiauNf6nzyx8nicQ4ow) | [DNA Guarantee](https://open.spotify.com/album/1zbnbjtdrmlJnpEfvvubad) | 3:45 | 2025-04-17 |  |
 | [do i belong here?](https://open.spotify.com/track/5NyJRMHMLw8pkte5ISDEAe) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [do i belong here?](https://open.spotify.com/album/0S5bSxmN7gH4fd23NP49DC) | 2:16 | 2025-04-16 |  |
 | [Do You Feel Free Now?](https://open.spotify.com/track/1G5Q59cV1UNU0AOiWtODGS) | [Sam Tudor](https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk) | [Do You Feel Free Now?](https://open.spotify.com/album/52ih5KkcgK2DUjvb2E5Q2k) | 3:19 | 2024-01-31 | 2025-01-16 |
 | [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 | 2024-05-24 | 2024-08-08 |

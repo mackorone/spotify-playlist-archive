@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Ana Bacalhau",
+  "description": "Uma playlist de pura alma pop! Foto: Margarida Vasconcelos",
   "name": "Pop PT",
   "tracks": [
     {
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 204917,
       "name": "Deixa em Paz",
       "url": "https://open.spotify.com/track/3ZLAdr4In5bZt9c1WcPM4y"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 123200,
       "name": "JO\u00c3O PESTANA",
       "url": "https://open.spotify.com/track/351rUJ9lQS0qs5lb8ZqEaG"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 208514,
       "name": "mil\u00e9simo de segundo",
       "url": "https://open.spotify.com/track/4ylpwnweqo0b8J8CThRp0g"
@@ -2828,6 +2828,42 @@
       "duration_ms": 187924,
       "name": "Mudar A Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7mqB9kLgxTuG3ACCOyNJtI"
+    },
+    {
+      "album": {
+        "name": "Mudaste a Minha Vida",
+        "url": "https://open.spotify.com/album/3muBiyn9oG7WgS5PLgqH5u"
+      },
+      "artists": [
+        {
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172782,
+      "name": "Mudaste a Minha Vida",
+      "url": "https://open.spotify.com/track/3qlbMBzLg3YlQiX5jTttwJ"
+    },
+    {
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/3HiWFaA0Rr3pp4PKDjfGzD"
+      },
+      "artists": [
+        {
+          "name": "Lena d\u2019\u00c1gua",
+          "url": "https://open.spotify.com/artist/6236JGmsEzqSEobDtH75lS"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150187,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/43yXbcpBsYN9GzeDHA4QN8"
     },
     {
       "album": {

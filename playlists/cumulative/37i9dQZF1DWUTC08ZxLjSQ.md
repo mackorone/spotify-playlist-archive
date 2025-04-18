@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-406 songs - 21 hr 44 min
+408 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Carlos](https://open.spotify.com/track/6FLCfjtaMnrPEekgs8gXvo) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Ameen](https://open.spotify.com/album/2OUcKfMj7bfT835aMtnfRX) | 2:33 | 2025-01-22 |  |
 | [Catch Your Drift](https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [Catch Your Drift](https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3) | 3:00 | 2023-05-17 | 2024-01-17 |
 | [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 | 2023-03-29 | 2023-07-19 |
+| [Chokran](https://open.spotify.com/track/4wq6DeA6G2u9XVgq7NZX9B) | [ASSIF](https://open.spotify.com/artist/4hSCKyUEoKKlPHA3mtTYl7) | [Chokran](https://open.spotify.com/album/77LACOwGZJOiBR3raiQNsB) | 1:58 | 2025-04-17 |  |
 | [Closer Than Close](https://open.spotify.com/track/5nvlMbwOQxMs2lTzXBqZpF) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 4:35 | 2022-12-13 | 2023-02-15 |
 | [Cocaina \(feat\. 7efny\)](https://open.spotify.com/track/4CPeRhikwIVUw2x8BxPZGd) | [Dimo](https://open.spotify.com/artist/3YtdhLBgZgy0ju52grM4p5), [7efny](https://open.spotify.com/artist/0XPt68gMnDEUp1GcSE8AGs) | [Cocaina \[feat\. 7efny\]](https://open.spotify.com/album/4zOwajCezk826Juc1NED4I) | 3:49 | 2024-07-09 | 2024-10-31 |
 | [Coconut](https://open.spotify.com/track/3ucPO98aE91zqyQVL7LL3U) | [Salwa](https://open.spotify.com/artist/1ydHumv64RGQyZouGFLKp5) | [Late at Night](https://open.spotify.com/album/7idOjiu9Ue6uZCvvC517g4) | 3:29 | 2023-03-07 | 2023-05-24 |
@@ -110,6 +111,7 @@
 | [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 | 2022-11-09 | 2023-05-10 |
 | [FARÄGH](https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [FARÄGH](https://open.spotify.com/album/4xkFC5AuXCYO9ihuUwySbJ) | 1:53 | 2023-06-20 | 2023-09-07 |
 | [Fe Dema3'y](https://open.spotify.com/track/5tTxYBbanUa4vsDtCw8Nbt) | [Fritz فريتز](https://open.spotify.com/artist/2aJZyMlC7mHkvflE6X0m13) | [Fe Dema3'y](https://open.spotify.com/album/6GhzGk9JZS6QGncolM3HGC) | 2:59 | 2024-02-20 | 2024-07-10 |
+| [fhmti](https://open.spotify.com/track/5tGkQG54tughWZpKTOU0fh) | [Jbiina](https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR) | [fhmti](https://open.spotify.com/album/2HUH1qjyn5qwuhITw0Bwfs) | 2:51 | 2025-04-17 |  |
 | [Fi Bayti](https://open.spotify.com/track/71tAo8aDJqWCvqpW54GyIm) | [Ome](https://open.spotify.com/artist/5c7ckpDdeGpifu0mYbJg96) | [Fi Bayti](https://open.spotify.com/album/6fDCv9AC4GmJT7vhcXgXit) | 3:58 | 2024-10-01 | 2025-02-13 |
 | [Flight of Time](https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2) | [Juno](https://open.spotify.com/artist/65cCRej79ekIxVA81UtCJD) | [Flight of Time](https://open.spotify.com/album/1RRhXcBViJOhNHSDeFKmhB) | 4:00 | 2022-11-08 | 2023-04-05 |
 | [Fo2 Ya 3bit](https://open.spotify.com/track/4IWoZNeHfnfG0ebqoxCRiu) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Fo2 Ya 3bit](https://open.spotify.com/album/6WJ6VxCzDUMbI2tWxoBA4C) | 2:39 | 2023-05-17 | 2023-07-13 |
@@ -172,7 +174,7 @@
 | [Khatwa L’Wara](https://open.spotify.com/track/0K4MwuLFgOKuKKyQ1M545t) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [Khatwa L’Wara](https://open.spotify.com/album/4EM54jqs5a7MBPvPDuOBE4) | 2:35 | 2024-07-09 | 2024-10-31 |
 | [Khayal](https://open.spotify.com/track/60LnIv9hAQulxVCSbPFQ6b) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Khayal](https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO) | 5:13 | 2022-10-25 | 2023-04-05 |
 | [Khayal](https://open.spotify.com/track/7JujukqNH3ouQYr2JM9TIq) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Khayal](https://open.spotify.com/album/3JM7yXIZdI6CH5gNIezXtZ) | 3:52 | 2023-01-17 | 2023-03-02 |
-| [Khyoot](https://open.spotify.com/track/5Ew7C2IAFELiBga5hWPSHe) | [Jawhar](https://open.spotify.com/artist/37ASPH0bOi7XSVBTq8U9Zd) | [Khyoot](https://open.spotify.com/album/42iQZR7bpK5XilonNVD3Lg) | 3:58 | 2024-10-30 |  |
+| [Khyoot](https://open.spotify.com/track/5Ew7C2IAFELiBga5hWPSHe) | [Jawhar](https://open.spotify.com/artist/37ASPH0bOi7XSVBTq8U9Zd) | [Khyoot](https://open.spotify.com/album/42iQZR7bpK5XilonNVD3Lg) | 3:58 | 2024-10-30 | 2025-04-18 |
 | [Kindir Suprise](https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Kindir Surprise](https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM) | 4:48 | 2023-06-20 | 2024-02-01 |
 | [Kitchen](https://open.spotify.com/track/5nRtylSD6JbhoC3DoFkinD) | [Beast](https://open.spotify.com/artist/5DJLMjyosyNTiQZsdY44ED) | [Kitchen](https://open.spotify.com/album/5jTJVLDVNF5vBr1RL4txfl) | 3:15 | 2023-07-18 | 2024-02-21 |
 | [KOL LEILA](https://open.spotify.com/track/1u22mL4rk5a4Y6NG9IenBy) | [KHALED ROSSIA](https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9) | [KOL LEILA](https://open.spotify.com/album/2H5hFjBof7mlfiQbbjZiS7) | 2:15 | 2024-07-09 | 2024-11-07 |
@@ -381,7 +383,7 @@
 | [Ymken \- يمكن](https://open.spotify.com/track/7cJWrdCmfitWzVEl5HB0hK) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [Ymken \(يمكن\)](https://open.spotify.com/album/1Sw8k7gRf9cN88dcYcZSmy) | 2:59 | 2024-11-06 |  |
 | [You](https://open.spotify.com/track/33BnkEFiFqfuPB4hwx6zuW) | [ANDY VAN DEE](https://open.spotify.com/artist/7dqsOmTmyVPn4osfk1Z4Ob) | [You](https://open.spotify.com/album/6PSbkCJ13g775K0eTDBmjp) | 3:34 | 2023-02-14 | 2023-03-02 |
 | [you know](https://open.spotify.com/track/5R6AgUJDrWay0cuO8enMez) | [Kabier](https://open.spotify.com/artist/7LebW9fZHLUhdAKdw7Xr21) | [you know](https://open.spotify.com/album/57StiABs37UCH0w0a6yxyp) | 2:31 | 2023-08-23 | 2023-10-05 |
-| [You Know It](https://open.spotify.com/track/4Zqxfvgswt0P6sjrxYVrKY) | [Lack](https://open.spotify.com/artist/4n3tFe4utDZymEVjfr1oic), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [You Know It](https://open.spotify.com/album/5GUGmhirZv3cAEqdT1CkfV) | 3:07 | 2024-10-02 |  |
+| [You Know It](https://open.spotify.com/track/4Zqxfvgswt0P6sjrxYVrKY) | [Lack](https://open.spotify.com/artist/4n3tFe4utDZymEVjfr1oic), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [You Know It](https://open.spotify.com/album/5GUGmhirZv3cAEqdT1CkfV) | 3:07 | 2024-10-02 | 2025-04-18 |
 | [Zahma](https://open.spotify.com/track/56gIBbVdJGpKTzU9clIGfZ) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Zahma](https://open.spotify.com/album/6w7utjblhnH3POCa7XuGEz) | 2:36 | 2022-09-27 | 2022-10-12 |
 | [Zanqa](https://open.spotify.com/track/2szYtXOwdOsSodY3wefybT) | [Dali Chebil](https://open.spotify.com/artist/03BgaCpEKpepM1iykl4C5l) | [DENYA](https://open.spotify.com/album/3ai4sZXguA2esRD3rQ0MKx) | 4:25 | 2023-03-01 | 2023-05-24 |
 | [ZAWIA](https://open.spotify.com/track/22lAfAno0RJ1nYCdV2jeS9) | [Haris Hamza](https://open.spotify.com/artist/2CepAx2BXQje58hok8K7Tu) | [ZAWIA](https://open.spotify.com/album/4LKrtQBfgDW6fu6UEYttgb) | 2:23 | 2022-09-20 | 2022-10-26 |

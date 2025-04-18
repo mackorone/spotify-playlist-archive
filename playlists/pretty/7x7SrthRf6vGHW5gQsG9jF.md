@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 851 songs - 2 day 6 hr 30 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 850 songs - 2 day 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -858,6 +858,5 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 848 | [Before I Rise](https://open.spotify.com/track/0SjWk4Beah9g6cBNTYLyR9) | [Jun Maeda](https://open.spotify.com/artist/1x2p2cfLYxgG9RtBt7VFUx), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Love Song from the Water](https://open.spotify.com/album/0zbJEjFr8Ak6HvhIsxG4us) | 5:19 |
 | 849 | [エターナル](https://open.spotify.com/track/7EgoCOjSAYms7FMjRIIjCb) | [UNLIMITS](https://open.spotify.com/artist/79J1fd1c3x60MVdSkBMGoX) | [And Your Birds Can Sing](https://open.spotify.com/album/3bM2fHvKI8k4vT4GcrBdCM) | 3:15 |
 | 850 | [Melt 10th ANNIVERSARY MIX](https://open.spotify.com/track/38VPKnanXWhNiv0NueMyh9) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Melt 10th ANNIVERSARY MIX](https://open.spotify.com/album/6S6EpxUbkTbwSiqGeWIb2y) | 5:05 |
-| 851 | [PONPONPON](https://open.spotify.com/track/4bQrS8lhD0GKkWxcycbBzA) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KPP BEST](https://open.spotify.com/album/5kyCkj26Vh8y8jne35hNR1) | 4:02 |
 
-Snapshot ID: `AAAE8TpQOMmmLgfTtX6KF0H6b+aVBiWn`
+Snapshot ID: `AAAE8tpDNvZwOn4auh7rIzR6zKjAvjSn`

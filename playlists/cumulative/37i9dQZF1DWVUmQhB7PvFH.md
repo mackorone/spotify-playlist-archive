@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 方大同 \(Khalil Fong\)
 
-266 songs - 19 hr 20 min
+267 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [彩虹](https://open.spotify.com/track/5IkhoLaasyG1yk43K5rePD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [就是紅光輝全記錄](https://open.spotify.com/album/00XSR2fcZe7vzyYHLIsWAB) | 4:39 | 2024-07-22 | 2024-08-19 |
 | [後來](https://open.spotify.com/track/2wzXhxWPX0aODraKNXoJYY) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [我等你](https://open.spotify.com/album/2P6sQ9RlHZQv0FOK0X3P3B) | 5:41 | 2024-02-05 |  |
 | [心牆](https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [在樹上唱歌](https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih) | 3:46 | 2024-06-24 |  |
+| [心跳](https://open.spotify.com/track/740KtWw1r4f5Gd6UXzhYNp) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心跳](https://open.spotify.com/album/4q3Dp4JkTVThfMe2OiZfUx) | 4:23 | 2025-04-16 |  |
 | [心願便利貼](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [命中注定我愛你 \(電視原聲帶\)](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 | 2024-02-19 | 2024-03-19 |
 | [快樂崇拜](https://open.spotify.com/track/1Z7y14vSg1Vv772geRfiAN) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0), [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [Wu Ha](https://open.spotify.com/album/4iTeGtAOrglcpzYxhmO9Le) | 3:25 | 2024-02-05 | 2024-09-02 |
 | [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 | 2025-02-17 |  |
@@ -198,7 +199,7 @@
 | [為你而活](https://open.spotify.com/track/01YiGManZxwjc0JGrFIvxT) | [Y2j](https://open.spotify.com/artist/0DWWSyvxMZsIyOTdcwHCPY) | [為你而活](https://open.spotify.com/album/52NKlyFhQ59CC8FCrxq5YN) | 4:40 | 2024-08-05 | 2024-09-02 |
 | [為妳寫的歌](https://open.spotify.com/track/5qmtIGToI36Z9sNE7bvghH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:17 | 2025-03-03 |  |
 | [為我好](https://open.spotify.com/track/0dBYIJnLEIzeFo0u1MZmDj) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [美麗人生](https://open.spotify.com/album/1CDlnixRz3ZVqlH4fY6VnK) | 3:52 | 2024-10-14 | 2025-02-04 |
-| [無底洞](https://open.spotify.com/track/6vJ97QouNlvgs74MMhxdvw) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 4:02 | 2024-04-15 |  |
+| [無底洞](https://open.spotify.com/track/6vJ97QouNlvgs74MMhxdvw) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 4:02 | 2024-04-15 | 2025-04-18 |
 | [無與倫比的美麗](https://open.spotify.com/track/2UwbKIkGPgTPdp7CVx1Dok) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [無與倫比的美麗](https://open.spotify.com/album/6qNB0HMe9AoVBxsLn7CZPa) | 5:06 | 2024-10-27 | 2025-02-17 |
 | [熱帶雨林](https://open.spotify.com/track/1xSNwEmRvIxRcTADNjQCBZ) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [青春株式會社](https://open.spotify.com/album/1cUShl9eZufmNjPXHxW5vK) | 4:41 | 2024-09-02 | 2024-11-26 |
 | [牽牽牽手](https://open.spotify.com/track/6XgiRictNEA0RnGtKGXdrU) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [為你寫詩](https://open.spotify.com/album/26mIoCQNMjIIAO6WEesBlL) | 3:46 | 2024-07-08 | 2024-08-06 |

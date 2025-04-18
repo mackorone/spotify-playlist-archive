@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > Celebration of IWD with East Africa queens\. Cover: Nadia Mukami
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,223 likes - 60 songs - 3 hr 16 min
+[](https://open.spotify.com/user/null) - 7,231 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

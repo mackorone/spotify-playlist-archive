@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-384 songs - 19 hr 56 min
+385 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Augen Leuchten](https://open.spotify.com/track/0MPG4SFATpPCVC1C4rrgEH) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Beatgees](https://open.spotify.com/artist/6TmHCol5w2iwL18tI45zo7) | [Augen Leuchten](https://open.spotify.com/album/1fLEwHM4MO4hvEfNAPFSTY) | 3:15 | 2024-08-22 |  |
 | [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2023-03-02 | 2023-04-21 |
 | [Aus dem Nichts](https://open.spotify.com/track/233zgukbOI7quzjK124SfJ) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [aus dem nichts tape](https://open.spotify.com/album/3SFvDIitK7fZMgzSbKpPi6) | 2:42 | 2024-12-12 |  |
+| [Ausbluten](https://open.spotify.com/track/6MJfPq4ty6Td0wZ2ILDvoA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Ausbluten](https://open.spotify.com/album/2aITDUNoTwMzprmFY03qdg) | 3:05 | 2025-04-17 |  |
 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 | 2024-11-14 |  |
 | [Babyglock](https://open.spotify.com/track/46XTtnjy05ludrJ8Iqt8fI) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Babyglock](https://open.spotify.com/album/5zZ4f6pblQi5vbIE1R10gD) | 2:17 | 2025-02-27 |  |
 | [Back To Bed](https://open.spotify.com/track/1gdbZIhFYNmQz8aXA7puqH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Back To Bed](https://open.spotify.com/album/4VlR9meFrdYgY2zyy7cumy) | 2:59 | 2024-09-12 |  |
@@ -197,7 +198,7 @@
 | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:16 | 2025-02-20 |  |
 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 | 2021-12-16 | 2022-04-01 |
 | [Lemonade](https://open.spotify.com/track/1dH4rjcOt0AZ948RDnEFoc) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Lemonade](https://open.spotify.com/album/2Me4REF5L047CVTl7KrjuI) | 3:39 | 2023-05-04 | 2023-06-30 |
-| [Letzte Chance](https://open.spotify.com/track/4geKoPP3hO9nuc24u7kaaY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Letzte Chance](https://open.spotify.com/album/15EMKL37yl94Zw3s8LWxsK) | 2:40 | 2025-02-27 |  |
+| [Letzte Chance](https://open.spotify.com/track/4geKoPP3hO9nuc24u7kaaY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Letzte Chance](https://open.spotify.com/album/15EMKL37yl94Zw3s8LWxsK) | 2:40 | 2025-02-27 | 2025-04-18 |
 | [Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Liebe verloren](https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF) | 3:13 | 2022-02-03 | 2022-04-22 |
 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 | 2021-12-16 | 2022-04-01 |
 | [Like This](https://open.spotify.com/track/2bcmJLy2ulWs3jkfQBTwhl) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Like This](https://open.spotify.com/album/22t6nu9vCexm0YmvteIGp7) | 2:52 | 2024-03-21 | 2024-11-29 |

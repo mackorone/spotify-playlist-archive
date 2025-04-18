@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,569 songs - 2 day 10 hr 59 min
+1,570 songs - 2 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Coral Sea](https://open.spotify.com/track/2H2bIL9FXy9uWAP5xsrbtY) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Coral Sea](https://open.spotify.com/album/1GLXiFRUUL39B3YDH50sza) | 1:41 | 2022-10-28 | 2023-06-06 |
 | [Coral Sea](https://open.spotify.com/track/2oFYTpXSwprSjZUflMnOZn) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Coral Sea](https://open.spotify.com/album/3PIyYWe2rAaqEVruPOCewu) | 1:41 | 2022-09-09 | 2022-11-06 |
 | [Corazon](https://open.spotify.com/track/0BkzlSXlxzwzTxQavTToIh) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [SUPPER TRANKKI](https://open.spotify.com/artist/2LDeDIeSKH7tJZ8LLQEm07) | [Corazon](https://open.spotify.com/album/3mtVBJH7Zx4HWByGVTObsJ) | 2:02 | 2022-08-05 | 2022-12-17 |
-| [Cortado](https://open.spotify.com/track/2IC07xMcGWjB24kqdE4zKv) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Cortado](https://open.spotify.com/album/3srIiBTKqMYAjA0bL9dtu4) | 1:39 | 2022-11-25 |  |
+| [Cortado](https://open.spotify.com/track/2IC07xMcGWjB24kqdE4zKv) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Cortado](https://open.spotify.com/album/3srIiBTKqMYAjA0bL9dtu4) | 1:39 | 2022-11-25 | 2025-04-18 |
 | [cotton candy sky](https://open.spotify.com/track/3sHUzXGVj6FaKXbNm5m6OV) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [cotton candy sky](https://open.spotify.com/album/0VqBTRlBnLv1eDJIjACto2) | 1:48 | 2023-04-11 | 2023-09-29 |
 | [Cozy Jazz](https://open.spotify.com/track/03NvFoQqVypUOifssBl0JC) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Cozy Jazz](https://open.spotify.com/album/3CF3bR4wY1w9tktFA2Fj73) | 1:36 | 2023-03-16 | 2023-10-20 |
 | [Crab Cake](https://open.spotify.com/track/0AoHfH1gDhbpqVaVRQnnu4) | [Moon Boi Beats](https://open.spotify.com/artist/7kZ195AkdNG4enyC5QQ5E1) | [Sunrise](https://open.spotify.com/album/7IegiQLGEaX6v1ICmYtZGg) | 1:57 | 2022-04-22 | 2022-11-26 |
@@ -530,6 +530,7 @@
 | [Good Morning](https://open.spotify.com/track/4tN5jfueFkQ7I52tNTp925) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Good Morning](https://open.spotify.com/album/4QhcEzNzmGzYWuhtT2MI1n) | 2:13 | 2023-01-13 | 2023-09-29 |
 | [Good Old Days](https://open.spotify.com/track/5Aj08BEnLbCQicG25UV734) | [Astro Loud](https://open.spotify.com/artist/1zGuGkz7fYY1h4KBYTLuaz), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Good Old Days](https://open.spotify.com/album/00Z4tyZYe7BSw1gjQ6SOup) | 2:27 | 2023-09-22 | 2025-03-18 |
 | [Good things to come](https://open.spotify.com/track/4ZI2TmKcXEKgPV1t2Ol797) | [Alma Animo](https://open.spotify.com/artist/01DSnqT4D8CHCbIkYQhVoP), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Good things to come](https://open.spotify.com/album/2GPF6zbsLahtXOFn8TgoSs) | 2:29 | 2022-07-08 | 2022-12-10 |
+| [Good Time](https://open.spotify.com/track/0BUB30A4FbwtvN3OVZplQZ) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Good Time](https://open.spotify.com/album/66A1R5Sl9FTSptE5IMTcWx) | 2:24 | 2025-04-11 |  |
 | [good times](https://open.spotify.com/track/32gMxI1qGmOK0Rfaxqrufn) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [good times](https://open.spotify.com/album/2NXPvtH4gusbeXOPpORfrN) | 2:24 | 2022-07-22 |  |
 | [Good vs Easy](https://open.spotify.com/track/4Ma40kMN4c3mXWFvTMRuHx) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Beyond Memory](https://open.spotify.com/album/1SlthAO37B8iyB3awgf9sl) | 1:56 | 2022-08-19 | 2024-09-17 |
 | [goodbye](https://open.spotify.com/track/61QjLbt7ZdeGguZNjKL9ty) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [goodbye](https://open.spotify.com/album/02bYztomWxqVUnEZi1Cphu) | 1:36 | 2022-11-25 | 2023-09-29 |

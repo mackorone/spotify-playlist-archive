@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,632 likes - 60 songs - 3 hr 21 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,630 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 29 | [Call Me If You Miss Me](https://open.spotify.com/track/3LWYsVIye7sFfYTL3s9ksO) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Call Me If You Miss Me](https://open.spotify.com/album/1XTodZ2bafoeNTgWnm4RNg) | 3:13 |
 | 30 | [Hot Chicken](https://open.spotify.com/track/4cRQ9XcJIrRR3kzyd33alh) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Hot Chicken](https://open.spotify.com/album/4vlGuqMeB1rjrpqp4wuhx0) | 2:27 |
 | 31 | [West Tx](https://open.spotify.com/track/0Ujas1d8g0vp7yQJWDXM7C) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [West Tx](https://open.spotify.com/album/46nrmNwoqpdimWMs21tpXk) | 2:52 |
-| 32 | [This Ol Way](https://open.spotify.com/track/5FsnLRPoRGzGzRjRdmRP6q) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [This Ol Way](https://open.spotify.com/album/77eopQjIGR0gBCQxX0DmaE) | 4:54 |
+| 32 | [This Ol' Way](https://open.spotify.com/track/5FsnLRPoRGzGzRjRdmRP6q) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [This Ol' Way](https://open.spotify.com/album/77eopQjIGR0gBCQxX0DmaE) | 4:54 |
 | 33 | [Nobody Likes Your Girlfriend](https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Nobody Likes Your Girlfriend](https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f) | 3:01 |
 | 34 | [Doin' What She Does](https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Doin' What She Does](https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG) | 2:56 |
 | 35 | [Three Scenes \- Band Version](https://open.spotify.com/track/0I8VunKEN1Bhhj1madEe6Z) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Finding Eden](https://open.spotify.com/album/5vEQOxUrKqSL4J736m4cww) | 3:41 |

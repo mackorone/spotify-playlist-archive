@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-561 songs - 23 hr 13 min
+562 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Feel Good](https://open.spotify.com/track/7cDWVctzKIKwTXRiunybhJ) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/021u2XHlDKLWklYUTTJLZH) | 3:22 | 2023-08-31 | 2023-09-02 |
 | [Feel the Blast](https://open.spotify.com/track/5zSAxoEErEWzQwwBi7z5sb) | [Herring Franky](https://open.spotify.com/artist/27jcQeXU6S0eCLVpnNZjy0) | [Dippin' in the Lab](https://open.spotify.com/album/6rZaUidBL0s3O7jotodjlt) | 1:23 | 2019-05-26\* | 2020-01-14 |
 | [Flor de Terciopelo](https://open.spotify.com/track/4Rl3L5PjoT813YQQW6w4J1) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Flor de Terciopelo](https://open.spotify.com/album/5MhACAv7eEF8vSZurky3t6) | 2:15 | 2021-10-31 | 2024-04-26 |
+| [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 | 2025-04-04 |  |
 | [Flowers](https://open.spotify.com/track/4f7J3uf3NbMluibhVHy1vR) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Flowers](https://open.spotify.com/album/4DCZnmEKuQveUtUYSKmuSw) | 3:28 | 2022-06-23 | 2022-07-29 |
 | [Fly](https://open.spotify.com/track/3er5KNqecEwHMz5PPLIT6r) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Fly](https://open.spotify.com/album/4W5dc5jMDJGO5SbaZ8oXew) | 2:34 | 2020-06-29 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/0yqBPILqRFi1yE7ci9o3vV) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/6LtosFxYlXKsLfN3PSWUd3) | 2:38 | 2022-02-10 | 2022-07-29 |
@@ -214,7 +215,7 @@
 | [Heavy Rain](https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c) | 1:38 | 2023-05-11 | 2023-05-13 |
 | [Heavy Rain](https://open.spotify.com/track/2qzsEDG9WkXgb16vUib2Of) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/56PaK0swCLUi1vzcxBzgGp) | 1:38 | 2023-05-11 | 2023-10-26 |
 | [Hello](https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Hello](https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b) | 2:04 | 2020-06-29 | 2025-03-16 |
-| [Hip Shop](https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Hip Shop](https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC) | 2:03 | 2021-10-29 |  |
+| [Hip Shop](https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Hip Shop](https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC) | 2:03 | 2021-10-29 | 2025-04-18 |
 | [Homecoming](https://open.spotify.com/track/1zUOLEMjeD1AWRxjSy0HRF) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Homecoming](https://open.spotify.com/album/4kl3f8qxGW2VZhJumGpIvF) | 3:07 | 2021-06-12 | 2022-07-27 |
 | [Honey](https://open.spotify.com/track/3QAyC3lilsgZ2ZyzMHibYN) | [Snaer.](https://open.spotify.com/artist/04piGA2IDgIevAiRL90Gt6) | [Honey](https://open.spotify.com/album/0skX6Q07XnamApCH3oWuAh) | 2:39 | 2019-05-26\* | 2021-10-10 |
 | [Hunting](https://open.spotify.com/track/365qBzJ0KNAcNC4oT9ryyO) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Hunting](https://open.spotify.com/album/3f2IMALxrczPuKkFOolkMS) | 2:23 | 2020-07-18 | 2022-06-01 |

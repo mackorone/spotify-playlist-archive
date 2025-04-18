@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,574 likes - 63 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,595 likes - 63 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 6 | [Kontakte \(version for electronic sounds, piano and percussion\), Work No\. 12 1/2](https://open.spotify.com/track/0lb6qGqN4rxxzWMUYrvupD) | [Karlheinz Stockhausen](https://open.spotify.com/artist/5PkKmEWhfJ9jHVHXbZl0Ks), [Fredrik Ullén](https://open.spotify.com/artist/3cJiLDufYYXzZl0jG8SeZr), [Jonny Axelsson](https://open.spotify.com/artist/0YN1xSDwcythlmwpuD81CI) | [Stockhausen: Zyklus \- Klavierstucke V and IX \- Kontakte](https://open.spotify.com/album/5kAqD9mjQLWV2zX2TqBd1Z) | 34:50 |
 | 7 | [Sfaira](https://open.spotify.com/track/1NbYTv2CmPmu1ecmlHjUd3) | [Tilman Ehrhorn](https://open.spotify.com/artist/2Xryn0qneP0nHP67bvb5Fm), [An Moku](https://open.spotify.com/artist/0N1t5LXpAaEakJ3f2zdGA4) | [Sfaira](https://open.spotify.com/album/58culJGdA7C6pCnHg7dL2t) | 6:38 |
 | 8 | [Poème Electronique](https://open.spotify.com/track/6gdOMWMd4WKHU03vfmxkIp) | [Edgard Varèse](https://open.spotify.com/artist/0enRaCZSvIUa2nVC7I4roi) | [Varèse: The Complete Works](https://open.spotify.com/album/1GVXkLXndn3JMWi9bftSZF) | 8:02 |
-| 9 | [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
+| 9 | [Amphitryon 38 \- Remastered](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
 | 10 | [Hibiki hana ma](https://open.spotify.com/track/6CzSiRrQFrEGP1oltfQk3A) | [Iannis Xenakis](https://open.spotify.com/artist/399s62PfwKlLnrLvBjWFYB) | [Xenakis: Electronic Works, Vol\. 2](https://open.spotify.com/album/4twORFL7FYSalUhS05kU4s) | 17:44 |
 | 11 | [Piece \#1](https://open.spotify.com/track/01fu0lEF6cNRFRwoum0uTK) | [Tod Dockstader](https://open.spotify.com/artist/3I573obp4ckH9yt4EYEA6e) | [Eight Electronic Pieces](https://open.spotify.com/album/5cEeSuLl2QxwCqWZBX2bHq) | 2:00 |
 | 12 | [EQ](https://open.spotify.com/track/0MuCPSolhO7K4RNngQ4KQP) | [Jonty Harrison](https://open.spotify.com/artist/3oEX9dPJ8tyc1Cmfh8GDeh), [Stephen Cottrell](https://open.spotify.com/artist/4hMwcOG25Gn2GqbUAnz0X7) | [The Electric Saxophone](https://open.spotify.com/album/5f6q3YjTAwF6ZnP8xXAYX2) | 14:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Stevie Rizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,893 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,969 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 3 | [GIVER](https://open.spotify.com/track/7c4uc8olvz5S0yucOrM6pn) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [GIVER](https://open.spotify.com/album/4NJLvIp4vtBQP0uqqt1Ag1) | 3:08 |
 | 4 | [REVEAL YOUR FACE](https://open.spotify.com/track/4SYqgw1iWirwwYRXEWOd46) | [Kodoku](https://open.spotify.com/artist/2mDygmvuNzsZhLvMfEUfmu) | [REVEAL YOUR FACE](https://open.spotify.com/album/5KFuruoUiBgVA5VUBJwYw8) | 2:36 |
 | 5 | [Speak](https://open.spotify.com/track/1v8O3mM0jWxMFjmRLAlWfw) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Speak](https://open.spotify.com/album/7iYoUb3wTE112IX12irwR0) | 3:35 |
-| 6 | [Ways](https://open.spotify.com/track/06PdBblXoDirhxiXXMnZAv) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Xavier Omar](https://open.spotify.com/artist/1Xn5uRpPDfBgBHRLFhFfh9) | [Ways](https://open.spotify.com/album/4ynqPMUYF8FGVvgN7kU0Sj) | 3:21 |
+| 6 | [Ways](https://open.spotify.com/track/06PdBblXoDirhxiXXMnZAv) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Ways](https://open.spotify.com/album/4ynqPMUYF8FGVvgN7kU0Sj) | 3:21 |
 | 7 | [Take It All](https://open.spotify.com/track/1d4avBzBMiyJA5LoFqBjj0) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Take It All](https://open.spotify.com/album/7BNk0GrYoFYuLOiGDO1nf6) | 2:13 |
 | 8 | [Hold Me Up](https://open.spotify.com/track/2OjQHB8BoADlEToXt2HeDb) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Give It More Time](https://open.spotify.com/album/11EHl3HcQlvBlTniWjt6Ld) | 3:24 |
 | 9 | [HOLY GHOST](https://open.spotify.com/track/66VssiAfLQjB7HEZG2Zhaj) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Eben](https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1) | [HOLY GHOST](https://open.spotify.com/album/0DOYsEQjN6bbjfq34qnPFu) | 2:30 |

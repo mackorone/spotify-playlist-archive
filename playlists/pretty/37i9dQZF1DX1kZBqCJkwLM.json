@@ -1,10 +1,10 @@
 {
   "description": "Dope, Asian, and Femme. Cover: ROS\u00c9",
-  "num_followers": 88514,
+  "num_followers": 88515,
   "original_name": "Dope AF",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "Z67N8AAAAADJ/E3vwX4em4DZ/tugZMyE",
   "tracks": [
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Raspberry Tongue",
-        "url": "https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG"
-      },
-      "artists": [
-        {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Raspberry Tongue",
-      "url": "https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "PRIMAL",
         "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 160357,
       "name": "PRIMAL",
       "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Raspberry Tongue",
+        "url": "https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Raspberry Tongue",
+      "url": "https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "NOT RN!",
-        "url": "https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3"
-      },
-      "artists": [
-        {
-          "name": "Lara Andallo",
-          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "NOT RN!",
-      "url": "https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "Rowdy",
         "url": "https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 156522,
       "name": "Rowdy",
       "url": "https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "NOT RN!",
+        "url": "https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3"
+      },
+      "artists": [
+        {
+          "name": "Lara Andallo",
+          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "NOT RN!",
+      "url": "https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT"
     },
     {
       "added_at": "2025-02-14 05:00:32",

@@ -763,6 +763,22 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
+        "name": "A Fuego",
+        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "A Fuego",
+      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
         "name": "Igual de gris",
         "url": "https://open.spotify.com/album/01ue76B6p752PENdJ6eurO"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 196395,
       "name": "Igual de gris",
       "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
-        "name": "A Fuego",
-        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "A Fuego",
-      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "Dolce Vita",
-        "url": "https://open.spotify.com/album/6CJgsLHVF1mSQojduBrX9A"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/5zyxGztIuOp27VhkVf1hMZ"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
         "name": "Que Somos (Remix)",
         "url": "https://open.spotify.com/album/6VOLzbfFo0ZvTtywKLRqDZ"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 185678,
       "name": "Que Somos - Remix",
       "url": "https://open.spotify.com/track/57gyk5Nu81GRzC55glFN95"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
+        "name": "Dolce Vita",
+        "url": "https://open.spotify.com/album/6CJgsLHVF1mSQojduBrX9A"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/5zyxGztIuOp27VhkVf1hMZ"
     },
     {
       "added_at": "2025-04-14 21:41:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-04-14 21:41:50",
       "album": {
-        "name": "al romper la burbuja",
-        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 217091,
-      "name": "carta (a m\u00ed)",
-      "url": "https://open.spotify.com/track/148wN6BPI1KtmuqQqatet6"
-    },
-    {
-      "added_at": "2025-04-14 21:41:50",
-      "album": {
         "name": "Biling\u00fces",
         "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 174360,
       "name": "Biling\u00fces",
       "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
+    },
+    {
+      "added_at": "2025-04-14 21:41:50",
+      "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 217091,
+      "name": "carta (a m\u00ed)",
+      "url": "https://open.spotify.com/track/148wN6BPI1KtmuqQqatet6"
     },
     {
       "added_at": "2025-04-14 21:41:50",

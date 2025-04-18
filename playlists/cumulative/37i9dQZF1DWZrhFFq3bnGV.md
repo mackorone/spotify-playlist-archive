@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Nathania Jualim, Desmond Amos
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Societeit de Harmonie, Natasya Elvira
 
-229 songs - 16 hr 0 min
+231 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,12 +51,13 @@
 | [Chroma](https://open.spotify.com/track/4zdmipUN8H3sTvS304HGLP) | [Andre Dinuth](https://open.spotify.com/artist/3n0drwInUQS6Heg7kGKIXP) | [Chroma](https://open.spotify.com/album/0CMeBic02tygImc4JupoEl) | 4:21 | 2024-11-07 |  |
 | [Cinta Dalam Diam](https://open.spotify.com/track/76npF4CedfcIz0p6YN8UAY) | [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd), [Nadine Emmanuella](https://open.spotify.com/artist/02nmmf0lZ42hJgaZpNo6oW) | [Cinta Dalam Diam](https://open.spotify.com/album/6JfU4yHFF4vl4L8JymLvOp) | 5:25 | 2022-09-02 |  |
 | [Cocoa Butter](https://open.spotify.com/track/4guIRGkMQBGNBWFA3SjDah) | [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW), [Greybox](https://open.spotify.com/artist/7dQtKW1F0fbXa3q5cPXF3f) | [Cocoa Butter](https://open.spotify.com/album/06BgAdvlGyBptrJeigmZMS) | 3:31 | 2023-03-03 | 2023-08-25 |
-| [Confide](https://open.spotify.com/track/0pXgCM5ieW2462A3MGkbJc) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [Confide](https://open.spotify.com/album/4TOZM8lyt2QcpetbyTk0QF) | 2:39 | 2024-11-15 |  |
+| [Confide](https://open.spotify.com/track/0pXgCM5ieW2462A3MGkbJc) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [Confide](https://open.spotify.com/album/4TOZM8lyt2QcpetbyTk0QF) | 2:38 | 2024-11-15 |  |
 | [Cruisin n' groovin](https://open.spotify.com/track/5ZBEkuN7XOOnQIPlFsEIpo) | [Devian Zikri](https://open.spotify.com/artist/0BBhYg5ZPpxxz3DC2zLCvM) | [Now & Forever](https://open.spotify.com/album/5G5r3l1yvNUUDrtuakapdQ) | 4:36 | 2023-06-15 | 2024-02-23 |
 | [Cukup](https://open.spotify.com/track/01iNsEL4mvh7L6Dn2NbUrs) | [Naufalbahir](https://open.spotify.com/artist/0AWgaUdmTXrTcBiMjsqVDH) | [Kindergarten](https://open.spotify.com/album/6TE6PVaMcvIWFPM97wQxIS) | 2:03 | 2023-03-03 | 2025-02-07 |
 | [Daffy](https://open.spotify.com/track/3JNKp9XdviZsOadURpU88i) | [Chaseiro](https://open.spotify.com/artist/3cWhTURNoVUEdmNFzmfgms) | [Chaseiro Vol\. 3](https://open.spotify.com/album/5iPgWA8tAYp9VnF46FLGsd) | 4:14 | 2023-03-03 | 2025-02-07 |
 | [Dahaga](https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE) | [Erwin Gutawa](https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN) | [Dahaga](https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD) | 4:49 | 2022-09-02 | 2024-09-07 |
 | [Dal Segno](https://open.spotify.com/track/2OLMfKVxUNwjyY0ChedxaW) | [Mahesa Santoso](https://open.spotify.com/artist/4kuMeakqKQQlso0M0Tsz6R), [Rafi Daeng](https://open.spotify.com/artist/2D20G0Ku2Leq6sT0Ym8IKd), [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Dal Segno](https://open.spotify.com/album/5qlgzvCiHmbM5yacfUidrn) | 4:13 | 2023-03-03 |  |
+| [Dansaria](https://open.spotify.com/track/7u3w4ViJh7wE07OVILiGUd) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Dansaria](https://open.spotify.com/album/5lHg9W5C0nLvIEZjkazzrq) | 3:31 | 2025-04-17 |  |
 | [Delight](https://open.spotify.com/track/2hvoAVE9wbP59i5Nx2kx33) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF) | [Delight](https://open.spotify.com/album/0ycL9xdTgiH41DC3Ux2whh) | 4:19 | 2022-09-02 | 2023-06-09 |
 | [Destination Moon](https://open.spotify.com/track/6ZcfZ8dyYySA6xXdykEItF) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Hansen Arief](https://open.spotify.com/artist/7446uGOrQeWwCLpw4L6DHA), [Joshua Alexander](https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr), [Audrey Wijaya](https://open.spotify.com/artist/3cFklqULuJyxg1gu8u2XlW) | [Some Of My Best Friends Are Jazz Cats!](https://open.spotify.com/album/5BB5CTtsdEqsPTIZE3b1zu) | 4:57 | 2023-06-29 |  |
 | [Destiny](https://open.spotify.com/track/7yQILsI0Spo3GJjMcgO4Zk) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF) | [Destiny](https://open.spotify.com/album/2HjCEHPpi6PGxEqbh0w4Mx) | 3:50 | 2022-09-02 | 2023-08-18 |
@@ -163,6 +164,7 @@
 | [My Galaxies](https://open.spotify.com/track/7qaFl9TwwpcPufnczWkVLN) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Sondang Silalahi](https://open.spotify.com/artist/1L6fNXi1tYovfQYvyyi9sz) | [My Galaxies](https://open.spotify.com/album/4txkolAYBuc2ZvQS6wZz81) | 2:31 | 2022-09-02 | 2023-06-09 |
 | [Mystical Glow](https://open.spotify.com/track/3CDDzWzcyY84fh0UE3NeKH) | [Indra Lesmana](https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7) | [Surya Sewana](https://open.spotify.com/album/72cSOyJTh3pImtWv6DRqc3) | 8:16 | 2023-03-03 | 2024-12-07 |
 | [Never Asked For](https://open.spotify.com/track/09VyrDoKfZPyihWVobpqIh) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Never Asked For](https://open.spotify.com/album/1lGZZyKRXVTqQN6P4oEhnH) | 4:42 | 2023-03-03 |  |
+| [Nganggur](https://open.spotify.com/track/3xWHUBJoiNLbcJ3oQia64e) | [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9), [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Nganggur](https://open.spotify.com/album/2rJJSQ3EYTtdyvIvgpLWkl) | 4:48 | 2025-04-17 |  |
 | [Noodle](https://open.spotify.com/track/0skPOaR1KzICWLqhzTJoOA) | [Cresensia Naibaho](https://open.spotify.com/artist/2F0SWxOlxawQl2DiguXpCm) | [Cherish in Samba](https://open.spotify.com/album/4NsGUUs73KDI5ugeFyppzQ) | 3:03 | 2024-05-30 |  |
 | [Nurlela](https://open.spotify.com/track/2FyIuOusvjzE5cAXH2iMPW) | [Andre Taulany](https://open.spotify.com/artist/0k51o3WzFXBLeVadcP8uNw), [Ayu Ting Ting](https://open.spotify.com/artist/3TKrakVauUGuCb4rqTvLSG) | [Nurlela](https://open.spotify.com/album/2jLlsqaelMbzSv63NHMkDe) | 3:26 | 2024-11-29 |  |
 | [Nurlela](https://open.spotify.com/track/2yP9OkF1w53ZyiuFIQavxo) | [Trio Lestari](https://open.spotify.com/artist/6S2gfM9z90Wo5LtHIrEhJD) | [Wangi](https://open.spotify.com/album/3ttimZXZQMkxufn0YWUeet) | 3:26 | 2022-09-02 | 2023-03-23 |
@@ -224,7 +226,7 @@
 | [Tasty](https://open.spotify.com/track/4OssZd7mNskFiUZ40ukFkx) | [Rafi Muhammad](https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF) | [Laughter Master](https://open.spotify.com/album/2PV9HDLaFPcepNYU6iJDY8) | 5:29 | 2022-11-17 | 2023-08-25 |
 | [Terjebak Rasa](https://open.spotify.com/track/1mCbEnBemrfcJlOVBzDKbm) | [Dony Koeswinarno](https://open.spotify.com/artist/2Hayo3Hkb9m2qOcyRKkzFG), [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Terjebak Rasa](https://open.spotify.com/album/1JZnaNG5spkRUh7eV8y99e) | 3:41 | 2022-09-02 | 2023-08-25 |
 | [The Moment With You](https://open.spotify.com/track/3cG6irfHaVbQfEZEShv9V2) | [Alsa](https://open.spotify.com/artist/6dL42hXSnnoaGCn77eumjF) | [The Moment with You](https://open.spotify.com/album/3CJbn7rPgzZo0MljADYFPL) | 4:58 | 2024-11-15 |  |
-| [The Thought of Loving You](https://open.spotify.com/track/00MMUtIfZ5B5tXMLVNpdxs) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [The Thought of Loving You](https://open.spotify.com/album/2rMeBN1SnUjK3G9vv9aZtf) | 3:17 | 2024-09-06 |  |
+| [The Thought of Loving You](https://open.spotify.com/track/00MMUtIfZ5B5tXMLVNpdxs) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [The Thought of Loving You](https://open.spotify.com/album/2rMeBN1SnUjK3G9vv9aZtf) | 3:15 | 2024-09-06 |  |
 | [The Way You Make Me Feel](https://open.spotify.com/track/7sncCClNIeE5i54JrkirGI) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG) | [The Way You Make Me Feel](https://open.spotify.com/album/3RjLQCopcBOikdCe19NVtH) | 3:40 | 2022-09-16 | 2023-11-04 |
 | [Time](https://open.spotify.com/track/2uNW6w5uHdgUktt8vFz0Pq) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Jessie Tanoko](https://open.spotify.com/artist/2QHCr14mVb7OaFLCu6bDnI) | [Time](https://open.spotify.com/album/43UmfySArofutUhY1bKzkb) | 2:59 | 2022-09-02 | 2023-06-30 |
 | [True Love](https://open.spotify.com/track/4UyUg4GESbNUhjKlZerwRN) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [True Love](https://open.spotify.com/album/0jQmL0BclbfbxCXJLvRsBg) | 3:46 | 2022-12-22 | 2023-03-04 |

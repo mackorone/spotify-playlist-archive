@@ -4,7 +4,7 @@
 
 > Tag your location, we shall pass by as we go around Africa
 
-91 songs - 5 hr 56 min
+92 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [BENIN BOYS](https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:49 | 2024-07-12 |  |
 | [Botswana](https://open.spotify.com/track/1CzcV8k8LoILPQMCGb7Zis) | [Carto](https://open.spotify.com/artist/5PJi5oUz6E3iA2t9IHtXVE), [Midday](https://open.spotify.com/artist/7eKm0PKhNlA36ybLq3fGs0) | [Cartostrophe](https://open.spotify.com/album/2fh9U70k4ZphuTnL5iufgw) | 2:58 | 2023-09-08 |  |
 | [Cairo](https://open.spotify.com/track/7dPGqNBb89NlmYyc1zkQ8a) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Cairo](https://open.spotify.com/album/0eZghBruhOmhbF5Uy9nqJR) | 3:16 | 2023-09-08 | 2025-04-12 |
+| [Casablanca \(feat\. Ayo Maff\)](https://open.spotify.com/track/6ovxhOjCU6SzPLtfNnzVQk) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca \(feat\. Ayo Maff\)](https://open.spotify.com/album/23neUYDSWEpEPAmQwVxoKk) | 2:43 | 2025-04-17 |  |
 | [Congo](https://open.spotify.com/track/4S1FXtwJkdsw4JxNOmFaod) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6JF0zNJ7n8aCE8K9Zmgmw7) | 3:44 | 2024-03-15 |  |
 | [Congo](https://open.spotify.com/track/50ZTcX3axxFDTd0UIOhPDy) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/1LxfAAwpMpXYzCOlDQAUEZ) | 3:44 | 2023-12-15 | 2024-04-19 |
 | [Congo](https://open.spotify.com/track/5hdc76uABRjaZ7rZrE8mTb) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:44 | 2023-09-08 | 2024-01-12 |

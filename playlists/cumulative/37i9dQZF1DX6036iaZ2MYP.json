@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Rema",
+  "description": "Tracks popping off in the Afro scene. Cover:  Ruger",
   "name": "Afro Station",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 146973,
       "name": "Aime comme \u00e7a (la cit\u00e9) (feat. kulturr)",
       "url": "https://open.spotify.com/track/0MH3MfF49TMB4KDFgtmK6f"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 171764,
       "name": "All Men Are The Same",
       "url": "https://open.spotify.com/track/1EGMaPI70COWWfGKQJyO6n"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 162500,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/53YuOf7HDvRZvHEenrQR8V"
@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Bin\u00f4me",
+        "url": "https://open.spotify.com/album/5KqEPDseEJZ1eZ5EqiunL0"
+      },
+      "artists": [
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152715,
+      "name": "Bin\u00f4me",
+      "url": "https://open.spotify.com/track/3TJ032zQjkCcUBEsYknfCo"
+    },
+    {
+      "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/2r9w3yxhahmCyRIVzXkeLC"
       },
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 163481,
       "name": "Bout U",
       "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 113571,
       "name": "Cocoa Butter",
       "url": "https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez"
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 185400,
       "name": "Different Type of Love (feat. Masicka)",
       "url": "https://open.spotify.com/track/03jGFqmsLt2BLWcbA4Vx5E"
@@ -3715,6 +3733,24 @@
     },
     {
       "album": {
+        "name": "Disisti",
+        "url": "https://open.spotify.com/album/5J9CH1XKw50aYHj5Z2g2Fw"
+      },
+      "artists": [
+        {
+          "name": "Rislene",
+          "url": "https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176708,
+      "name": "Disisti",
+      "url": "https://open.spotify.com/track/6z7TwtbPiTUmzoAMIghoG2"
+    },
+    {
+      "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
       },
@@ -3738,6 +3774,24 @@
       "duration_ms": 167573,
       "name": "Djo",
       "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
+    },
+    {
+      "album": {
+        "name": "Djodo",
+        "url": "https://open.spotify.com/album/3rsLUMJWT8UENvPisqiXsG"
+      },
+      "artists": [
+        {
+          "name": "Kurtys",
+          "url": "https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173592,
+      "name": "Djodo",
+      "url": "https://open.spotify.com/track/6m7TzAmrTYe1D7s7NrEcuf"
     },
     {
       "album": {
@@ -7138,7 +7192,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 202004,
       "name": "Kilimanjaro (feat. Oxlade)",
       "url": "https://open.spotify.com/track/4nCECWieTv9JvVINUprF9U"
@@ -9871,6 +9925,32 @@
     },
     {
       "album": {
+        "name": "No More Luv (feat. Elams) [French Remix]",
+        "url": "https://open.spotify.com/album/0jhrySu9rbfBPbbw1IP0uT"
+      },
+      "artists": [
+        {
+          "name": "SO7ACE",
+          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
+        },
+        {
+          "name": "Elams",
+          "url": "https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN"
+        },
+        {
+          "name": "PISHON",
+          "url": "https://open.spotify.com/artist/5UwnnlEa1IDJQ0IJK1ZAJe"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194431,
+      "name": "No More Luv (feat. Elams) - French Remix",
+      "url": "https://open.spotify.com/track/19HMODE10IZ5I6tx4zx9ro"
+    },
+    {
+      "album": {
         "name": "NO PLASTIC",
         "url": "https://open.spotify.com/album/0N9BQ259WqvW6ZX0aEY9q3"
       },
@@ -10010,6 +10090,24 @@
       "duration_ms": 243744,
       "name": "NUMBER ONE (feat. Minz)",
       "url": "https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb"
+    },
+    {
+      "album": {
+        "name": "Num\u00e9ro",
+        "url": "https://open.spotify.com/album/7D9kfm5IdIkcs0Jp0J4hXi"
+      },
+      "artists": [
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "Num\u00e9ro",
+      "url": "https://open.spotify.com/track/4Cjw87Y6SgBy1avnn1ahAa"
     },
     {
       "album": {
@@ -10348,6 +10446,24 @@
       "duration_ms": 132000,
       "name": "On Avance",
       "url": "https://open.spotify.com/track/6PUTDNUarE3Y2ek8BvlYGG"
+    },
+    {
+      "album": {
+        "name": "On fait comment",
+        "url": "https://open.spotify.com/album/5Myu3kgXoH6ZhTOMhvPDbe"
+      },
+      "artists": [
+        {
+          "name": "Singuila",
+          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136411,
+      "name": "On fait comment",
+      "url": "https://open.spotify.com/track/3vlbhli0NWUFbCeuZhmLqf"
     },
     {
       "album": {
@@ -13453,6 +13569,28 @@
     },
     {
       "album": {
+        "name": "Titulaire",
+        "url": "https://open.spotify.com/album/1NuU0IRn8DO8SDE699JTaS"
+      },
+      "artists": [
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        },
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186210,
+      "name": "Titulaire",
+      "url": "https://open.spotify.com/track/2jshKJivTkiIOF4T7AumgA"
+    },
+    {
+      "album": {
         "name": "TMINIK (In the House Pt.3)",
         "url": "https://open.spotify.com/album/6YcmwxtEhpM9j7rmgIArNB"
       },
@@ -13512,6 +13650,24 @@
       "duration_ms": 147790,
       "name": "Today",
       "url": "https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D"
+    },
+    {
+      "album": {
+        "name": "Toi",
+        "url": "https://open.spotify.com/album/3R8erE8bCvfMQVY4OmWZHx"
+      },
+      "artists": [
+        {
+          "name": "IZAYA",
+          "url": "https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149415,
+      "name": "Toi",
+      "url": "https://open.spotify.com/track/3BxebRl6H62nxUYEQFkz7M"
     },
     {
       "album": {
@@ -14716,6 +14872,28 @@
       "duration_ms": 171089,
       "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
+    },
+    {
+      "album": {
+        "name": "YA BABA",
+        "url": "https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168894,
+      "name": "YA BABA",
+      "url": "https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y"
     },
     {
       "album": {

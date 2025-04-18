@@ -2,7 +2,7 @@
 
 ### [Deep House Session](https://open.spotify.com/playlist/37i9dQZF1DWXRzAsbxGrBZ)
 
-> Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
+> Get revived with some of the best Deep House South Africa has to offer.
 
 260 songs - 1 day 6 hr 4 min
 

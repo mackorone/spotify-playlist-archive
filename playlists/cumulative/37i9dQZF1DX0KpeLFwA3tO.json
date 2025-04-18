@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Teen Mortgage",
+  "description": "The best new music from the wide world of punk. Cover: Balance And Composure",
   "name": "All New Punk",
   "tracks": [
     {
@@ -1700,6 +1700,24 @@
       "duration_ms": 197660,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
+    },
+    {
+      "album": {
+        "name": "Alive & Well",
+        "url": "https://open.spotify.com/album/1tsnyH9PnolLVWB8MgsAD7"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212491,
+      "name": "Alive & Well",
+      "url": "https://open.spotify.com/track/2W5MV8gAzYhvcWV7lywxP1"
     },
     {
       "album": {
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 223756,
       "name": "Because I Am My Own Dog",
       "url": "https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR"
@@ -6835,6 +6853,24 @@
     },
     {
       "album": {
+        "name": "Cat Guy",
+        "url": "https://open.spotify.com/album/0L0DIAjgEFhy08JmNgXMeL"
+      },
+      "artists": [
+        {
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261341,
+      "name": "Cat Guy",
+      "url": "https://open.spotify.com/track/1ZG6oGxZ6DrXhJCBbWno5T"
+    },
+    {
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -8994,7 +9030,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 303097,
       "name": "Crypto",
       "url": "https://open.spotify.com/track/14QfDfgWFrPZHO1XPY10Vu"
@@ -9662,7 +9698,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 91810,
       "name": "Dead",
       "url": "https://open.spotify.com/track/005YfZFDXjyRdCH01qMqPi"
@@ -11000,7 +11036,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 131657,
       "name": "DM:AM",
       "url": "https://open.spotify.com/track/7sJQG7BjDIj3DWLUdqsNKH"
@@ -11022,6 +11058,24 @@
       "duration_ms": 137333,
       "name": "DMFE",
       "url": "https://open.spotify.com/track/16NcyaTVaHx1jtXQ1DwL08"
+    },
+    {
+      "album": {
+        "name": "DnD",
+        "url": "https://open.spotify.com/album/6AcRp4y0OgpPqKR66y0YUR"
+      },
+      "artists": [
+        {
+          "name": "MORDIERON AL PERRO",
+          "url": "https://open.spotify.com/artist/0LL216CeMBXA2Arfmh6z6f"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116350,
+      "name": "DnD",
+      "url": "https://open.spotify.com/track/2YFYAYgPbo74J6wTfoFvQ2"
     },
     {
       "album": {
@@ -12200,6 +12254,24 @@
       "duration_ms": 300817,
       "name": "Eggshells",
       "url": "https://open.spotify.com/track/026pZsIEpc9obyW5RwrgxW"
+    },
+    {
+      "album": {
+        "name": "Eisb\u00e4r",
+        "url": "https://open.spotify.com/album/6AdfyeC26s3PeI06CEMbeh"
+      },
+      "artists": [
+        {
+          "name": "Skinner",
+          "url": "https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202868,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/50QhIikzPrywUhlyeTOLwo"
     },
     {
       "album": {
@@ -15186,7 +15258,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 168994,
       "name": "Get Worse",
       "url": "https://open.spotify.com/track/3zfVs709VTMpkwJWSK40d3"
@@ -17255,6 +17327,24 @@
     },
     {
       "album": {
+        "name": "HEAVIER JELLY",
+        "url": "https://open.spotify.com/album/3Rz31xgqFQGTlkABzhv7Qo"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156050,
+      "name": "Heavy Jelly",
+      "url": "https://open.spotify.com/track/0WWJZU5HrQHxshzma0h9LC"
+    },
+    {
+      "album": {
         "name": "Heavy Steps",
         "url": "https://open.spotify.com/album/0fsLogewsZXku52SwVJF0I"
       },
@@ -17826,7 +17916,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 154000,
       "name": "Home Appliance",
       "url": "https://open.spotify.com/track/6ks4d0iyf2KJvVxwgE4U7M"
@@ -18151,6 +18241,24 @@
     },
     {
       "album": {
+        "name": "How to Be a Confidante",
+        "url": "https://open.spotify.com/album/34DzqcsR96nPyPE4Sx30Fp"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278066,
+      "name": "How to Be a Confidante",
+      "url": "https://open.spotify.com/track/370rggVpDGsmLMSjtriTNM"
+    },
+    {
+      "album": {
         "name": "How to Do Nothing",
         "url": "https://open.spotify.com/album/4jyGcBSc5rrTUJCJ5xmWWb"
       },
@@ -18396,7 +18504,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 199250,
       "name": "I Am One Thousand",
       "url": "https://open.spotify.com/track/5FM56oTnWDBoHNkj6qZpcP"
@@ -18548,7 +18656,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 187591,
       "name": "I Don't Wanna Party",
       "url": "https://open.spotify.com/track/66N8dfePf8SWPOvzRU6UTd"
@@ -18923,6 +19031,24 @@
     },
     {
       "album": {
+        "name": "I Miss My Dog",
+        "url": "https://open.spotify.com/album/07H8DxoIOlUJscWVcNVW2A"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150757,
+      "name": "I Miss My Dog",
+      "url": "https://open.spotify.com/track/0PYtYYmCDNBUFbHDuQpitR"
+    },
+    {
+      "album": {
         "name": "Real Life Super Weirdos",
         "url": "https://open.spotify.com/album/5fTtma4fsZnrzlGH98KDZ3"
       },
@@ -19078,7 +19204,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 185280,
       "name": "I THINK I LIKE YOU",
       "url": "https://open.spotify.com/track/3GTydboUO6maQvndeR0oF2"
@@ -19154,6 +19280,24 @@
       "duration_ms": 183000,
       "name": "I Think It's Time",
       "url": "https://open.spotify.com/track/2CkFgrKRdVym1Y1UZPawqq"
+    },
+    {
+      "album": {
+        "name": "I Think They Know",
+        "url": "https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186924,
+      "name": "I Think They Know",
+      "url": "https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS"
     },
     {
       "album": {
@@ -21840,7 +21984,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 175856,
       "name": "LAST NIGHT",
       "url": "https://open.spotify.com/track/6gE5vJmIMaZZ2dS8G6w8WK"
@@ -22522,6 +22666,24 @@
       "duration_ms": 212000,
       "name": "LIES",
       "url": "https://open.spotify.com/track/2QrUWzndXheW05HL6boFny"
+    },
+    {
+      "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/3YHsW4ebRqndMN5RazaIlm"
+      },
+      "artists": [
+        {
+          "name": "Heavy Lungs",
+          "url": "https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127406,
+      "name": "Life's A Buffet",
+      "url": "https://open.spotify.com/track/4RQIvl8VDGbCgZaBAPIKBf"
     },
     {
       "album": {
@@ -24378,7 +24540,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 162733,
       "name": "Mascot",
       "url": "https://open.spotify.com/track/2cxkTaDpJz0F2WRHVa8Ti1"
@@ -28902,7 +29064,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 122962,
       "name": "Party",
       "url": "https://open.spotify.com/track/4RdTqvvSv8Lvkq49v2qN5E"
@@ -29934,6 +30096,32 @@
       "duration_ms": 174091,
       "name": "Premium Offer",
       "url": "https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i"
+    },
+    {
+      "album": {
+        "name": "Pressure Cooker (Remix) [Feat Mannequin Pussy]",
+        "url": "https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP"
+      },
+      "artists": [
+        {
+          "name": "Dazy",
+          "url": "https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6"
+        },
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        },
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195753,
+      "name": "Pressure Cooker [Feat. Mannequin Pussy] - Remix",
+      "url": "https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP"
     },
     {
       "album": {
@@ -32260,6 +32448,28 @@
       "duration_ms": 139428,
       "name": "Sad Dumb Game",
       "url": "https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD"
+    },
+    {
+      "album": {
+        "name": "Sad Old Woman",
+        "url": "https://open.spotify.com/album/40HNOavVLs33xz1MWuV9UT"
+      },
+      "artists": [
+        {
+          "name": "Problem Patterns",
+          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
+        },
+        {
+          "name": "Matt Korvette",
+          "url": "https://open.spotify.com/artist/0RWwHZOLIThmS9CtGp2yEA"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Sad Old Woman",
+      "url": "https://open.spotify.com/track/5oyhtr7X0qRhKinSYv53Fr"
     },
     {
       "album": {
@@ -34938,7 +35148,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 125081,
       "name": "Something Might Get Killed",
       "url": "https://open.spotify.com/track/76lry4AmNj7B7oXWu9BuL1"
@@ -35256,6 +35466,28 @@
       "duration_ms": 104232,
       "name": "Spaced Out",
       "url": "https://open.spotify.com/track/3Cr6TCUv4alHv0JJQKEKbF"
+    },
+    {
+      "album": {
+        "name": "Never Happy, Ever After X",
+        "url": "https://open.spotify.com/album/1T2bppHh1P3QHf6mfoolZ4"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212885,
+      "name": "Speak Soft X (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/3eFkvCrR14Q4AFs3pNWsqb"
     },
     {
       "album": {
@@ -37238,7 +37470,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 184477,
       "name": "Talk",
       "url": "https://open.spotify.com/track/41Xb3pnU2AiIcWKwdsDOIt"
@@ -38400,7 +38632,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 172628,
       "name": "The Enemy",
       "url": "https://open.spotify.com/track/1Y8tuAcslW4lFu0IdZqxyu"
@@ -39304,6 +39536,24 @@
       "duration_ms": 253376,
       "name": "These Times Have Got Me Drinking / Tripping Up The Stairs",
       "url": "https://open.spotify.com/track/47AK0542IdPkD4pMbynDxg"
+    },
+    {
+      "album": {
+        "name": "Summer Nights Secrets",
+        "url": "https://open.spotify.com/album/3wJ9zymkSJwcPLoFLx67Iu"
+      },
+      "artists": [
+        {
+          "name": "Packers",
+          "url": "https://open.spotify.com/artist/6qLVcqEgz0XnB2tKhIkGJh"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170650,
+      "name": "These waves are lava",
+      "url": "https://open.spotify.com/track/331np5jAf8H3zgXCuZhStX"
     },
     {
       "album": {
@@ -43097,6 +43347,28 @@
     },
     {
       "album": {
+        "name": "Who's Laughing Now",
+        "url": "https://open.spotify.com/album/5SWP3r7Lw6ENV9EHsP4EBi"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        },
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198457,
+      "name": "Who's Laughing Now",
+      "url": "https://open.spotify.com/track/0ZpLyeA0NJeQ0mVsbje1Bm"
+    },
+    {
+      "album": {
         "name": "Flesh & Weapon",
         "url": "https://open.spotify.com/album/3t2V5dbC3Rf2ygIeHZF1sC"
       },
@@ -43672,6 +43944,28 @@
       "duration_ms": 152885,
       "name": "Wrangel",
       "url": "https://open.spotify.com/track/4xAfgUgxNOTBqKe04Z0jqP"
+    },
+    {
+      "album": {
+        "name": "Wreck My Life (feat. PUP)",
+        "url": "https://open.spotify.com/album/7D634spauV9sF64ndg5NgF"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        },
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118786,
+      "name": "Wreck My Life (feat. PUP)",
+      "url": "https://open.spotify.com/track/5PLmlMi5vvoL9pvR8E8UOo"
     },
     {
       "album": {

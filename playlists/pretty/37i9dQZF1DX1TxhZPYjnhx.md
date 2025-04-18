@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: shazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,565 likes - 115 songs - 5 hr 57 min
+[](https://open.spotify.com/user/null) - 13,563 likes - 115 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

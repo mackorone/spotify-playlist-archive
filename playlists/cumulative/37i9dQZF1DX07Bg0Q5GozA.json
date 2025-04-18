@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: DJ Koze, Sophia Kennedy",
+  "description": "New music off the beaten track. Cover: Purple Disco Machine, Alison Goldfrapp",
   "name": "OFF POP",
   "tracks": [
     {
@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 311767,
       "name": "Cirkl",
       "url": "https://open.spotify.com/track/19CzBcfCO9KLZ7RIiSeLnO"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 337915,
       "name": "Doves (Marcel Dettmann Remix)",
       "url": "https://open.spotify.com/track/7fe2ToiteBaV37CU5S52Co"
@@ -4996,6 +4996,28 @@
       "duration_ms": 363853,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3ayXGYPPbKtMhzNlMTjjD2"
+    },
+    {
+      "album": {
+        "name": "Paradise (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5SWlTGKudlEfbI4hfja9NJ"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Dream Machine",
+      "url": "https://open.spotify.com/track/4qmZWX639GLcrQijRgBk9W"
     },
     {
       "album": {
@@ -5230,7 +5252,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 212825,
       "name": "ease",
       "url": "https://open.spotify.com/track/16vZpSijlvxZlbbRlCkEv1"
@@ -9332,7 +9354,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 264000,
       "name": "I Will Not Forget You - COMA Remix",
       "url": "https://open.spotify.com/track/4pXLPwWvH6t1cWqicuYTYV"
@@ -11036,7 +11058,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 218455,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/7dcNsaYCgtycbQYYPj5bao"
@@ -16939,6 +16961,28 @@
     },
     {
       "album": {
+        "name": "Shine a Light",
+        "url": "https://open.spotify.com/album/0J3vMnW6cDhihkSmASC0iw"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Zayden",
+          "url": "https://open.spotify.com/artist/2qnLoq981D2rjdJiHltYb8"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Shine a Light",
+      "url": "https://open.spotify.com/track/2Y61neJqFlIhIlToV1HVZK"
+    },
+    {
+      "album": {
         "name": "Shinigami",
         "url": "https://open.spotify.com/album/3aQkPbrHdemWQVJSQbPOge"
       },
@@ -18352,6 +18396,28 @@
       "duration_ms": 209060,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1"
+    },
+    {
+      "album": {
+        "name": "Sunshine After Rain",
+        "url": "https://open.spotify.com/album/5hIgHXGkIP3DKqUoL2i9YF"
+      },
+      "artists": [
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        },
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147497,
+      "name": "Sunshine After Rain",
+      "url": "https://open.spotify.com/track/7Cz7380pHAT02HQGSeeibY"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 293752,
+  "num_followers": 294059,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -891,30 +891,6 @@
     {
       "added_at": "2025-02-28 14:49:58",
       "album": {
-        "name": "Emanuela (Giu Le Mani) [Protopapa Remix]",
-        "url": "https://open.spotify.com/album/3HQn5Q1RsHAWtJ7pzp91sn"
-      },
-      "artists": [
-        {
-          "name": "Crucchi Gang",
-          "url": "https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig"
-        },
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        },
-        {
-          "name": "Protopapa",
-          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
-        }
-      ],
-      "duration_ms": 284779,
-      "name": "Emanuela (Giu Le Mani) - Protopapa Remix",
-      "url": "https://open.spotify.com/track/7CrM3VsvrSPTqUzXfZRban"
-    },
-    {
-      "added_at": "2025-02-28 14:49:58",
-      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+    },
+    {
+      "added_at": "2025-02-28 14:49:58",
+      "album": {
+        "name": "Emanuela (Giu Le Mani) [Protopapa Remix]",
+        "url": "https://open.spotify.com/album/3HQn5Q1RsHAWtJ7pzp91sn"
+      },
+      "artists": [
+        {
+          "name": "Crucchi Gang",
+          "url": "https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig"
+        },
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        },
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        }
+      ],
+      "duration_ms": 284779,
+      "name": "Emanuela (Giu Le Mani) - Protopapa Remix",
+      "url": "https://open.spotify.com/track/7CrM3VsvrSPTqUzXfZRban"
     },
     {
       "added_at": "2025-02-28 14:49:58",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-02-28 14:49:58",
       "album": {
+        "name": "Starlight Delight",
+        "url": "https://open.spotify.com/album/0SNFL0dNsmhBdzaWn1ftlp"
+      },
+      "artists": [
+        {
+          "name": "NOCUI",
+          "url": "https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV"
+        }
+      ],
+      "duration_ms": 327926,
+      "name": "Starlight Delight",
+      "url": "https://open.spotify.com/track/5pYAjHgii18QfT9IOOCkIR"
+    },
+    {
+      "added_at": "2025-02-28 14:49:58",
+      "album": {
         "name": "Italian Dance",
         "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 190698,
       "name": "Sciura Milanese",
       "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
-    },
-    {
-      "added_at": "2025-02-28 14:49:58",
-      "album": {
-        "name": "Starlight Delight",
-        "url": "https://open.spotify.com/album/0SNFL0dNsmhBdzaWn1ftlp"
-      },
-      "artists": [
-        {
-          "name": "NOCUI",
-          "url": "https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV"
-        }
-      ],
-      "duration_ms": 327926,
-      "name": "Starlight Delight",
-      "url": "https://open.spotify.com/track/5pYAjHgii18QfT9IOOCkIR"
     },
     {
       "added_at": "2025-02-28 14:49:58",

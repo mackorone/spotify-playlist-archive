@@ -6583,6 +6583,28 @@
     },
     {
       "album": {
+        "name": "LUV U",
+        "url": "https://open.spotify.com/album/7eQ7lfwB8uHZMs1KpOKsWx"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "LUV U",
+      "url": "https://open.spotify.com/track/5RLKu8UORU150aRLREflOK"
+    },
+    {
+      "album": {
         "name": "Madam De Madam",
         "url": "https://open.spotify.com/album/3bMvPUkqDhLz4rJ39ysnHr"
       },
@@ -8024,7 +8046,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 172352,
       "name": "ON DISPLAY",
       "url": "https://open.spotify.com/track/5rms2y2xqSB78qahVFuNYE"
@@ -10785,6 +10807,32 @@
     },
     {
       "album": {
+        "name": "The Matter",
+        "url": "https://open.spotify.com/album/167kMuV6WEgDCGvKZNJqTF"
+      },
+      "artists": [
+        {
+          "name": "BIGBIRD",
+          "url": "https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153714,
+      "name": "The Matter",
+      "url": "https://open.spotify.com/track/5aa9lpv9FjrNBgbomqCH82"
+    },
+    {
+      "album": {
         "name": "G.O.A.T",
         "url": "https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF"
       },
@@ -11612,7 +11660,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 164827,
       "name": "Warning!",
       "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sound from Asia. Cover: temp. (Thailand)",
+  "description": "Hottest indie sound from Asia. Cover: \u5fc3\u982d\u8089MindBodySoul  (Taiwan)",
   "name": ".ORG",
   "tracks": [
     {
@@ -10486,7 +10486,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 160603,
       "name": "Funny",
       "url": "https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA"
@@ -11888,7 +11888,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 174000,
       "name": "Heavy Hearts & Smiles",
       "url": "https://open.spotify.com/track/4TmzhpjbNL9Fw8LvLT9umH"
@@ -14552,7 +14552,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 150094,
       "name": "Ironic",
       "url": "https://open.spotify.com/track/0CpJtbDzgqFjfcckyJvyc5"
@@ -16493,6 +16493,24 @@
     },
     {
       "album": {
+        "name": "little sunny baby",
+        "url": "https://open.spotify.com/album/5j9LCrE1Pfu23acGv9nXR4"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "little sunny baby",
+      "url": "https://open.spotify.com/track/2DLIiAWaKquMARkg1k6RpG"
+    },
+    {
+      "album": {
         "name": "Lonestar",
         "url": "https://open.spotify.com/album/0NWEZ50wiCMLP2SiFXyMEv"
       },
@@ -17248,6 +17266,28 @@
       "duration_ms": 211000,
       "name": "Main blanche",
       "url": "https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG"
+    },
+    {
+      "album": {
+        "name": "make a move (feat. CHANKA)",
+        "url": "https://open.spotify.com/album/3ayaPhJLmTMPsmbgnAhqlS"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "make a move (feat. CHANKA)",
+      "url": "https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh"
     },
     {
       "album": {
@@ -18768,6 +18808,24 @@
       "duration_ms": 237692,
       "name": "Multo",
       "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
+    },
+    {
+      "album": {
+        "name": "Silakbo",
+        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237692,
+      "name": "Multo",
+      "url": "https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX"
     },
     {
       "album": {
@@ -20672,7 +20730,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 191960,
       "name": "One Sweet Day in Paris",
       "url": "https://open.spotify.com/track/5Zh8a4hCjwKXnezSyRE04J"
@@ -23166,7 +23224,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 233902,
       "name": "Roses",
       "url": "https://open.spotify.com/track/2bGJXK6HtDwJ5bZWicqblH"
@@ -23710,6 +23768,40 @@
       "duration_ms": 234000,
       "name": "Saturday Night With You",
       "url": "https://open.spotify.com/track/513fs6lUDs49bRnzHfNf7G"
+    },
+    {
+      "album": {
+        "name": "Saturdays Vibrations",
+        "url": "https://open.spotify.com/album/1TRyaC0oi1SI6qnSlLbzT5"
+      },
+      "artists": [
+        {
+          "name": "FNCY",
+          "url": "https://open.spotify.com/artist/1ii9VZ3CKfTvlEZSoCFVvL"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        },
+        {
+          "name": "Chinza Dopeness",
+          "url": "https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho"
+        },
+        {
+          "name": "ZEN-LA-ROCK",
+          "url": "https://open.spotify.com/artist/3VYznekAAwwqZpiYwuE34v"
+        },
+        {
+          "name": "G.RINA",
+          "url": "https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258358,
+      "name": "SATURDAYS VIBRATIONS",
+      "url": "https://open.spotify.com/track/41NuvXlcbzOK98Zu6Bv3wy"
     },
     {
       "album": {
@@ -29478,6 +29570,24 @@
       "duration_ms": 174453,
       "name": "Unwell",
       "url": "https://open.spotify.com/track/18w9yxEycSSclOznmhrfoU"
+    },
+    {
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/7jcvXAOAbiqgvchAVmY7n8"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215467,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/0qO8ScKD4sbZrv3CMSIO0g"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,858 likes - 88 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,962 likes - 88 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 | 41 | [WWE: Voyager \(Kairi Sane\)](https://open.spotify.com/track/7wfvCAqi951gkLHVvMD2tz) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Voyager \(Kairi Sane\)](https://open.spotify.com/album/3y6h6p58qlkUrCldBNCsNN) | 2:45 |
 | 42 | [WWE: Demon In Your Dreams \(Rhea Ripley\) \[feat\. Motionless In White\]](https://open.spotify.com/track/5pngP9Zq5dv0jrdvDk08ou) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [WWE: Demon In Your Dreams \(Rhea Ripley\) \[feat\. Motionless In White\]](https://open.spotify.com/album/67BlsBWnjfl4oJbY6kL7Yo) | 2:21 |
 | 43 | [WWE: Triumph \(Lyra Valkyria\)](https://open.spotify.com/track/4Nld0oepDujgKRg3wd0D0Z) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Triumph \(Lyra Valkyria\)](https://open.spotify.com/album/712Y90r1kA9DiekWgjHmom) | 2:50 |
-| 44 | [WWE: We Want Smoke \(The Street Profits\)](https://open.spotify.com/track/5jfRVmqByNplDG7D4k8bZj) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [Stevie Stone](https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN) | [WWE: We Want Smoke \(The Street Profits\)](https://open.spotify.com/album/1wWZHGtu4HU2ldzCjYZVSm) | 2:17 |
+| 44 | [WWE: We Want Smoke \(The Street Profits\)](https://open.spotify.com/track/5jfRVmqByNplDG7D4k8bZj) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [Stevie Stone](https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN) | [WWE: We Want Smoke \(The Street Profits\)](https://open.spotify.com/album/1wWZHGtu4HU2ldzCjYZVSm) | 2:45 |
 | 45 | [What's up? \(R\-Truth\)](https://open.spotify.com/track/22pw4ufqnQcc4tHjMToq20) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [R Truth](https://open.spotify.com/artist/1cnlVim2CFNHUuWiaSuga5) | [Voices: WWE the Music Vol\. 9](https://open.spotify.com/album/0S1zsQcqBgw3KoeClVgHtr) | 3:15 |
 | 46 | [WWE: Party All The Time \(Katana Chance & Kayden Carter\)](https://open.spotify.com/track/3LwydWvsjuDrMd6Y6g96E9) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Party All The Time \(Katana Chance & Kayden Carter\)](https://open.spotify.com/album/2xuncJKET0vjmh7aNjRW5G) | 3:00 |
 | 47 | [WWE: King \(Lexis King\)](https://open.spotify.com/track/0TouW5qgvlkPLFTCerEK9O) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: King \(Lexis King\)](https://open.spotify.com/album/7xsBlusofNBM6xJrPZDCFj) | 2:30 |

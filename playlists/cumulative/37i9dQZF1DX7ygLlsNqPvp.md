@@ -4,13 +4,14 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-244 songs - 12 hr 18 min
+245 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 By 2](https://open.spotify.com/track/3YiAKOhUJSplRyROIAOxMs) | [Komla MC](https://open.spotify.com/artist/1YzRdveJSpKhAPbVoMr8J2) | [2 By 2](https://open.spotify.com/album/2OQTBLs49TBA9Aqeetopnu) | 2:47 | 2023-03-10 | 2023-03-30 |
 | [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 | 2023-09-14 | 2023-11-10 |
 | [32](https://open.spotify.com/track/2PiJXFSfjwBxX6AgLwdQvm) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [I'm Back](https://open.spotify.com/album/4kffUglXMYplYAIgeDpkfW) | 4:17 | 2023-11-17 | 2024-05-17 |
+| [6 To 6](https://open.spotify.com/track/4hFEmLwPcr1BAKM2HD9koF) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc) | [6 To 6](https://open.spotify.com/album/6HEB88w0Mfu2fbzMYzf3d5) | 2:26 | 2025-04-18 |  |
 | [Abasakom](https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc) | [NS Tino](https://open.spotify.com/artist/5LWf1fvuHtGShL9KQ2YuaI), [Mickey Lux](https://open.spotify.com/artist/0hJNmRtD9lt2OjvkfYsauD), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Abasakom](https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r) | 2:59 | 2024-03-15 | 2024-06-21 |
 | [Abasakoom](https://open.spotify.com/track/2puqWsQHO7Ld5gutZNajtA) | [O'kenneth,reggie](https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu) | [Abasakoom](https://open.spotify.com/album/6recifnSNcbsFOKrc6d2ck) | 3:23 | 2022-06-09 | 2023-12-22 |
 | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/track/51uFHphBfV17Bw6v1D0X20) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/album/6JtzGphkHwXPTV9GnGp4g1) | 3:54 | 2024-06-21 |  |
@@ -225,7 +226,7 @@
 | [Tesco \(Feat\. Medikal\)](https://open.spotify.com/track/446yWd379q3bDzKbXyZ7UO) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:41 | 2025-02-28 |  |
 | [The One that Got Away](https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [The One that Got Away](https://open.spotify.com/album/5keaD9M9G1AOoQgGn2FgYe) | 2:56 | 2024-04-19 | 2024-04-26 |
 | [Thoughts](https://open.spotify.com/track/6hpOjxBodjemG28YyRELEt) | [Kwayku](https://open.spotify.com/artist/7eyWJ5wi2uNgtEcdb6Imbg), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Genesis](https://open.spotify.com/album/6pgDWVNsYoDv3rUa4G3nO8) | 3:22 | 2024-05-03 | 2024-06-07 |
-| [Till We Die](https://open.spotify.com/track/6cRQPMi6eZTtP7VvKmc4Rw) | [Phaize](https://open.spotify.com/artist/4S0ZEMWDccpMd5ybPA6A9n), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Till We Die](https://open.spotify.com/album/7fLZKILabFwc8BJ3GIYYcU) | 3:57 | 2025-04-04 |  |
+| [Till We Die](https://open.spotify.com/track/6cRQPMi6eZTtP7VvKmc4Rw) | [Phaize](https://open.spotify.com/artist/4S0ZEMWDccpMd5ybPA6A9n), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Till We Die](https://open.spotify.com/album/7fLZKILabFwc8BJ3GIYYcU) | 3:57 | 2025-04-04 | 2025-04-18 |
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2023-02-11 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |

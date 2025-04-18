@@ -4,7 +4,7 @@
 
 > 2021
 
-121 songs - 8 hr 3 min
+122 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2022-06-27 |  |
 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 | 2023-08-17 |  |
 | [take it away](https://open.spotify.com/track/2A4HxXDATkfT6GJYF2nNaF) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [Below The Waste](https://open.spotify.com/album/1Jyr6ZID2DRvvj4FLQ7Sxa) | 2:30 | 2024-12-29 |  |
+| [Take My Hand](https://open.spotify.com/track/1PFnGxajsG0dsdgXNx22gy) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto) | [Take My Hand](https://open.spotify.com/album/5gM9JiqnQENfy2B47kySFS) | 2:51 | 2025-04-18 |  |
 | [The A Team](https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:18 | 2023-05-13 |  |
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:25 | 2022-10-25 |  |
 | [Those Eyes](https://open.spotify.com/track/1EstYSjIaL8l203EfVvY9T) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Those Eyes](https://open.spotify.com/album/5mvPjMGElKVYz6NtL4O8e5) | 3:38 | 2023-12-18 |  |

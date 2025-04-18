@@ -1,15 +1,83 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "num_followers": 4113250,
+  "num_followers": 4113815,
   "original_name": "This Is Coldplay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv+m2QAAAAD3vJrYBJpHLHV/Wp4/ffHK",
+  "snapshot_id": "aAEuLgAAAAAh3J6w/8tF55zeEj9j/QF8",
   "tracks": [
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
+      "album": {
+        "name": "WE PRAY (TWICE Version)",
+        "url": "https://open.spotify.com/album/0QOAUAUR20fpa2SK1J0yGy"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 247523,
+      "name": "WE PRAY - TWICE Version",
+      "url": "https://open.spotify.com/track/3wLvOITQt7cbK4KzQ3dufu"
+    },
+    {
+      "added_at": "2025-04-17 16:37:02",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2025-04-17 16:37:02",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
@@ -25,7 +93,111 @@
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2025-04-17 16:37:02",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2025-04-17 16:37:02",
+      "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Hymn for the Weekend",
+      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
+    },
+    {
+      "added_at": "2025-04-17 16:37:02",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 307879,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+    },
+    {
+      "added_at": "2025-04-17 16:37:02",
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2025-04-17 16:37:02",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 217380,
+      "name": "GOOD FEELiNGS",
+      "url": "https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO"
+    },
+    {
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
@@ -57,143 +229,7 @@
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
-      "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
-    },
-    {
-      "added_at": "2024-10-04 08:27:05",
-      "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2024-10-04 08:27:05",
-      "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
-    },
-    {
-      "added_at": "2024-10-04 08:27:05",
-      "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
-    },
-    {
-      "added_at": "2024-10-04 08:27:05",
-      "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Hymn for the Weekend",
-      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
-    },
-    {
-      "added_at": "2024-10-04 08:27:05",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 307879,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
-    },
-    {
-      "added_at": "2024-10-04 08:27:05",
-      "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2024-10-04 08:27:05",
-      "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 217380,
-      "name": "GOOD FEELiNGS",
-      "url": "https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO"
-    },
-    {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
@@ -209,7 +245,7 @@
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
@@ -225,7 +261,7 @@
       "url": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
@@ -241,7 +277,7 @@
       "url": "https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
@@ -257,7 +293,7 @@
       "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
@@ -273,7 +309,7 @@
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
@@ -289,7 +325,7 @@
       "url": "https://open.spotify.com/track/03T4ttRCiLXST6MZjeMwmR"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
@@ -309,7 +345,7 @@
       "url": "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
@@ -325,7 +361,7 @@
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
@@ -341,7 +377,7 @@
       "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
@@ -357,7 +393,7 @@
       "url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Biutyful",
         "url": "https://open.spotify.com/album/574iaZA34RiT9rM1F2s2IM"
@@ -373,7 +409,7 @@
       "url": "https://open.spotify.com/track/4TcCbhzD4caTdkkvkS45oa"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
@@ -389,7 +425,7 @@
       "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Live from Spotify London",
         "url": "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c"
@@ -405,7 +441,7 @@
       "url": "https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
@@ -421,7 +457,7 @@
       "url": "https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
@@ -441,7 +477,7 @@
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
@@ -477,7 +513,7 @@
       "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
@@ -493,7 +529,7 @@
       "url": "https://open.spotify.com/track/6f49kbOuQSOsStBpyGvQfA"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
@@ -509,7 +545,7 @@
       "url": "https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
@@ -525,7 +561,7 @@
       "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
@@ -541,7 +577,7 @@
       "url": "https://open.spotify.com/track/0FMjqbY3aWo1QDbo3GwXib"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
@@ -557,7 +593,7 @@
       "url": "https://open.spotify.com/track/0u35Dpz37TY2M2j20RUdMf"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Flags",
         "url": "https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/2RZ8SjEJYJHZ8YCUzls77w"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Live from Spotify London",
         "url": "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c"
@@ -589,7 +625,7 @@
       "url": "https://open.spotify.com/track/6U8VHaQxzECez4TSt0nmiP"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
@@ -605,7 +641,7 @@
       "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/2w3eXFL86RgxGtDr8bzwgK"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/0qksx8mV28lztYIZ1om8ml"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Live from Spotify London",
         "url": "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c"
@@ -653,7 +689,7 @@
       "url": "https://open.spotify.com/track/2XiSB3m4WSkxD3xIUrYHfV"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
@@ -669,7 +705,7 @@
       "url": "https://open.spotify.com/track/4GKk1uNzpxIptBuaY97Dkj"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Coloratura",
         "url": "https://open.spotify.com/album/0G0WNcM706ASd6n7UxXuKu"
@@ -685,7 +721,7 @@
       "url": "https://open.spotify.com/track/6P2Y4KnF2x8uwZV2cZWA8t"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Kaleidoscope EP",
         "url": "https://open.spotify.com/album/0CE9VXSH70pz4BQzMPm9gO"
@@ -705,7 +741,7 @@
       "url": "https://open.spotify.com/track/6uJwPeBGb3swi85TSr9iIz"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
@@ -721,7 +757,7 @@
       "url": "https://open.spotify.com/track/3HWDWyIqWuLsTHECx9DvXF"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/0ZlVUhjO8c0bOx1D2Btznf"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Live from Spotify London",
         "url": "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c"
@@ -753,7 +789,7 @@
       "url": "https://open.spotify.com/track/33koOQs551ijjVmLbmrcDc"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "The Blue Room",
         "url": "https://open.spotify.com/album/3MVb2CWB36x7VwYo5sZmf2"
@@ -769,7 +805,7 @@
       "url": "https://open.spotify.com/track/1uKzAldJYlwje9HstlwTie"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
@@ -785,7 +821,7 @@
       "url": "https://open.spotify.com/track/2DHgvPQD1jApRnT1DBZdrS"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
@@ -801,7 +837,7 @@
       "url": "https://open.spotify.com/track/3pcPPhPAiurm2Ior11SHrz"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Kaleidoscope EP",
         "url": "https://open.spotify.com/album/0CE9VXSH70pz4BQzMPm9gO"
@@ -817,7 +853,7 @@
       "url": "https://open.spotify.com/track/6V6goat94tTJOWXXKZstNX"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
@@ -833,7 +869,7 @@
       "url": "https://open.spotify.com/track/3E3zYgQul8EaJioNvD2tv9"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Live in Buenos Aires",
         "url": "https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2"
@@ -849,7 +885,7 @@
       "url": "https://open.spotify.com/track/7mGJlNOAOmJ5ptkmujg1Gv"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Kaleidoscope EP",
         "url": "https://open.spotify.com/album/0CE9VXSH70pz4BQzMPm9gO"
@@ -865,7 +901,7 @@
       "url": "https://open.spotify.com/track/7HBnZdg7fIQwqMhQhci0VV"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
@@ -881,7 +917,7 @@
       "url": "https://open.spotify.com/track/6Tb7Zfo4PcSiS4TqQ4NnTh"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
@@ -897,7 +933,7 @@
       "url": "https://open.spotify.com/track/7KolrFGhfDi1JTSgQBT5sI"
     },
     {
-      "added_at": "2024-10-04 08:27:05",
+      "added_at": "2025-04-17 16:37:02",
       "album": {
         "name": "Live in Buenos Aires",
         "url": "https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2"

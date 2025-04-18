@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 11853,
+  "num_followers": 11862,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/2hgAAAAAC+kX/1nClv0BRcdeCil0Nz",
+  "snapshot_id": "Z/7zAAAAAAA756LW1ZLpkRiVWrmcrG+B",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "day dream",
-        "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "day dream",
-      "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like me don't cry (deluxe)",
         "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 176123,
       "name": "mood ring",
       "url": "https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "day dream",
+        "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "day dream",
+      "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting on You",
-        "url": "https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 167088,
-      "name": "Waiting on You",
-      "url": "https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like me don't cry (deluxe)",
         "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 169143,
       "name": "butterflies (feat. Rexx Life Raj)",
       "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting on You",
+        "url": "https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167088,
+      "name": "Waiting on You",
+      "url": "https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p"
     },
     {
       "added_at": null,

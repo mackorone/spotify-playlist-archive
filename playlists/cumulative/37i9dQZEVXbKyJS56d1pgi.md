@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,638 songs - 3 day 18 hr 38 min
+1,639 songs - 3 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [19/01](https://open.spotify.com/track/2l3fPI8SqdgbT8XSS3JMfh) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:06 | 2022-04-02 | 2022-04-04 |
 | [1993](https://open.spotify.com/track/6QsHhB0W9GtLF3cI7mUVkQ) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 2:07 | 2024-09-11 | 2024-09-29 |
 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-08-23 | 2022-10-19 |
-| [2025](https://open.spotify.com/track/0UGGLKM970ymsBBN5TKjsD) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI) | [2025](https://open.spotify.com/album/5Ta3QXRvo45oLDWUozwncl) | 2:52 | 2025-01-03 |  |
+| [2025](https://open.spotify.com/track/0UGGLKM970ymsBBN5TKjsD) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI) | [2025](https://open.spotify.com/album/5Ta3QXRvo45oLDWUozwncl) | 2:52 | 2025-01-03 | 2025-04-18 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-09-17 | 2021-10-13 |
 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 | 2022-01-17 | 2022-06-29 |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-02 |
@@ -1181,6 +1181,7 @@
 | [Pyramide](https://open.spotify.com/track/5Y9xTg76DkBpjzYu2aCUYi) | [Bezza](https://open.spotify.com/artist/0MfPlLNDak7ZuAIbxzbzde) | [Pyramide](https://open.spotify.com/album/0EN8aHwD7Xt1X1EgqrddqV) | 2:44 | 2023-03-04 | 2023-03-06 |
 | [Pé no Mar](https://open.spotify.com/track/4hL6Jr0nOm5erNhCv7FpCT) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 3:49 | 2024-02-17 | 2024-02-29 |
 | [PÉ NOVO](https://open.spotify.com/track/7432vfk7lMjvBKYWwcu2Uh) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 2:59 | 2023-01-21 | 2023-01-23 |
+| [Pôr do Sol](https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pôr do Sol](https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA) | 2:40 | 2025-04-17 |  |
 | [Qual é seu desejo?](https://open.spotify.com/track/5RTMpECEVHy3H9jtn7HKi5) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 2:33 | 2024-06-28 | 2024-07-09 |
 | [Qual é seu desejo?](https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Qual é seu desejo?](https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs) | 2:33 | 2024-03-01 | 2024-06-29 |
 | [Qualquer\-Feira](https://open.spotify.com/track/29QDgz4rRKiT2oB0hMgq8E) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Zeca](https://open.spotify.com/artist/50Kk1MTTj6O5p0CihE1Lhq), [Tiwi](https://open.spotify.com/artist/0XQ4RowSt9nDM7SXpTCqNU) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 2:06 | 2024-02-17 | 2024-03-03 |

@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Janice衛蘭
+> 感受女聲力量。Cover: 陳明憙 Jocelyn Chan
 
-477 songs - 1 day 4 hr 26 min
+482 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Believe Us](https://open.spotify.com/track/7lEgSFthZUIwyW7Ji8plOj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Believe Us](https://open.spotify.com/album/2j8IcIKnuS9rNXioMlcy1N) | 3:44 | 2024-06-27 |  |
 | [Beyond \- From "Moana 2"/Cantonese Soundtrack Version](https://open.spotify.com/track/2lwWYSBJ0PKZ7dAygqmGQc) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27), [Yuk Yee Lin](https://open.spotify.com/artist/2SvIuUJ9DNfixAuJH4XrZD) | [Beyond \(From "Moana 2"/Cantonese Soundtrack Version\)](https://open.spotify.com/album/7n4EcNj64Q7CBzXM20RyP6) | 3:50 | 2024-11-28 |  |
 | [BIG BANG](https://open.spotify.com/track/5K6uqu5pqE8pccHiXhPujr) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [BIG BANG](https://open.spotify.com/album/7vfJa7Ud2Uaf2LCVaFY6hs) | 3:12 | 2024-06-27 |  |
+| [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 | 2025-04-17 |  |
 | [Burn and Shine](https://open.spotify.com/track/2ntAwOgGPVA1dJ3o82PR0x) | [Scarlett鍾熙彤](https://open.spotify.com/artist/4SLDZBVUKsfd3sLhPtG0zj) | [Burn and Shine](https://open.spotify.com/album/7afSby7pkqN1TmRBCaZBtl) | 3:26 | 2025-01-23 |  |
 | [California Baby](https://open.spotify.com/track/12HrBbbFqwESyRd7sejSTv) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [California Baby](https://open.spotify.com/album/0TXWRO41sPLwdOFSgFDhJY) | 3:28 | 2024-08-29 |  |
 | [CALL BACK IN 20](https://open.spotify.com/track/08H8Orz2BCwGi9u8yhHy5D) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [CALL BACK IN 20](https://open.spotify.com/album/5vUrCnv88RAr2k3eBhJifU) | 3:05 | 2024-10-31 |  |
@@ -107,6 +108,7 @@
 | [Look into my eyes](https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Look into my eyes](https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD) | 2:58 | 2024-06-27 |  |
 | [Lost in Between](https://open.spotify.com/track/407HZCSxQUhks2BW0MyRzv) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Anniina](https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT) | [Lost in Between](https://open.spotify.com/album/6f6a0nmZpwbKJrPeCNvv7N) | 2:43 | 2024-08-22 |  |
 | [Mad](https://open.spotify.com/track/1coCAB4dyoJQBapGAvS3Co) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Mad](https://open.spotify.com/album/5TkvoT5zEYhBoQA7bnK7g5) | 4:11 | 2024-06-27 |  |
+| [make a move \(feat\. CHANKA\)](https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [make a move \(feat\. CHANKA\)](https://open.spotify.com/album/3ayaPhJLmTMPsmbgnAhqlS) | 3:27 | 2025-04-17 |  |
 | [Make my day](https://open.spotify.com/track/6rtVaAz5fMtcTAhwmi6tl5) | [Liza Wang](https://open.spotify.com/artist/1ev4Cp6tdX1PImrinbyLIl) | [Make my day](https://open.spotify.com/album/3UOL7IIB14UFldtK57R7nN) | 3:00 | 2024-09-12 |  |
 | [Matter of a Second](https://open.spotify.com/track/7nLgGo8UT0Nd8SFi2FiDLB) | [STRAYZ](https://open.spotify.com/artist/7buoV5WKCKE71FjDvBm7l3) | [Matter of a Second](https://open.spotify.com/album/4oT2r2qDnL4wua356GdBHh) | 3:03 | 2024-06-27 |  |
 | [Maybe I Have Something Just Like You?](https://open.spotify.com/track/0bSDdr8gb2MblYtr4JLPfV) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [Maybe I Have Something Just Like You?](https://open.spotify.com/album/6e5cIPCAS7ndpUQxdRUIj1) | 4:00 | 2024-09-12 |  |
@@ -166,11 +168,13 @@
 | [What You Get](https://open.spotify.com/track/44PGzR19q2lueHkZGar6mm) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [What You Get](https://open.spotify.com/album/2VRaFTFydFnj6K1MPFezFd) | 4:08 | 2024-06-27 |  |
 | [Why You](https://open.spotify.com/track/6I5pK5EWlBChGfU3irrc0O) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Agatha](https://open.spotify.com/album/1rUusu6WHVtnCIY7w7vV8D) | 3:35 | 2024-06-27 |  |
 | [Will You Be My Lover](https://open.spotify.com/track/4gjGoQv6xXbD3Y2XYulM4J) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [Will You Be My Lover](https://open.spotify.com/album/0sdVSqhWZT0CNimcnPfIT3) | 3:36 | 2024-10-17 |  |
+| [Wonderful Life in Motion](https://open.spotify.com/track/406V1AFAmQLlsZIbohsxgr) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Wonderful Life in Motion](https://open.spotify.com/album/6Qjk7d4ChjchL4scqBRIxv) | 3:11 | 2025-04-17 |  |
 | [XOXO](https://open.spotify.com/track/0lPDGagRD1jCoRDVElX002) | [鍾舒祺](https://open.spotify.com/artist/7D3ifs7oGF0VJ3o8axspUu) | [XOXO](https://open.spotify.com/album/2aMutS8BUTZDJoUcI858DX) | 3:34 | 2024-06-27 |  |
 | [You are so cool](https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [You are so cool](https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P) | 2:33 | 2024-09-19 |  |
 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2024-06-27 |  |
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2024-06-27 |  |
 | [㪐㩿（電影《寄了一整個春天》主題曲）](https://open.spotify.com/track/3f4XfQbyaNY3DfNIMixANQ) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [㪐㩿（電影《寄了一整個春天》主題曲）](https://open.spotify.com/album/6bAd8xJX1Q9hDmnumoQ55Y) | 4:15 | 2024-11-07 |  |
+| [一二三](https://open.spotify.com/track/7oYw4SLP6EFU05zPRRlzFa) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [一二三](https://open.spotify.com/album/2mbgcQG0D14An1Ibu5ykgO) | 3:55 | 2025-04-17 |  |
 | [一人之下](https://open.spotify.com/track/5lLE94LzoxV3jhu5FIeLsx) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [一人之下](https://open.spotify.com/album/1JdM7k7tnI7zHsQTcO2FrF) | 4:34 | 2024-08-01 |  |
 | [一個人行街](https://open.spotify.com/track/2KzcB6TDErJlVTrVnqSBb6) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [自游生物](https://open.spotify.com/album/3KaebcGpZuDfN7WGVqXGFy) | 3:17 | 2024-08-29 |  |
 | [一個人走走（電影《1人婚禮》原創主題曲）](https://open.spotify.com/track/5BwzJ7QTFD6z0i91ORbdsR) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [一個人走走（電影《1人婚禮》原創主題曲）](https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG) | 3:30 | 2024-06-27 |  |
@@ -374,6 +378,7 @@
 | [榮譽博士](https://open.spotify.com/track/31WsjJrHaGCkYisP8QEaKc) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [榮譽博士](https://open.spotify.com/album/23qCFYffCFM2XwtSVqsVfE) | 2:57 | 2025-02-20 |  |
 | [樂園見](https://open.spotify.com/track/3SwJlk5W8rGPnjfgZLVqUu) | [姜穎芝 Gigi](https://open.spotify.com/artist/7xbRsyQgjHiM8EYHuMEK0p) | [樂園見](https://open.spotify.com/album/7Du8z4U9PeWF70Z45XgkCC) | 3:30 | 2024-06-27 |  |
 | [樹之呼吸](https://open.spotify.com/track/5LCP5DaNaMgVgXnoMgMSpz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹之呼吸](https://open.spotify.com/album/4B6k5KRYNNQLRMf8KldXJm) | 2:35 | 2024-06-27 |  |
+| [櫻梅桃李](https://open.spotify.com/track/1LsVoRZU6ZUYncBSELF1PN) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [櫻梅桃李](https://open.spotify.com/album/3sCVhC5CAz3StebrpJ3DXX) | 4:07 | 2025-04-17 |  |
 | [次次](https://open.spotify.com/track/4y2DzgkdgNw45QMzYU78Dl) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [次次](https://open.spotify.com/album/0EtJphjLYsw5xPcnWSHrnz) | 2:44 | 2024-11-07 |  |
 | [步兵記](https://open.spotify.com/track/2mqi3gtlTn6VVMobVDIPYd) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [步兵記](https://open.spotify.com/album/3KXRhsQM5aOlp8J96qGgXw) | 3:40 | 2025-03-20 |  |
 | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/track/0jQMHHTTxlSZfIYV1mu5ak) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/album/2HpQFxLxiZw6GRRAylLyDh) | 3:30 | 2024-06-27 |  |

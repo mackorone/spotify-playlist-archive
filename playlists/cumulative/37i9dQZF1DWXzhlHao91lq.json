@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
+      },
+      "artists": [
+        {
+          "name": "Taylor Manns",
+          "url": "https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193779,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
+    },
+    {
+      "album": {
         "name": "amelia",
         "url": "https://open.spotify.com/album/2SiZfkgOTfYc8RoSG0OQZa"
       },
@@ -5036,7 +5054,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 182442,
       "name": "You Belong",
       "url": "https://open.spotify.com/track/7l0tDNF2csr9nNfwhiwPnp"

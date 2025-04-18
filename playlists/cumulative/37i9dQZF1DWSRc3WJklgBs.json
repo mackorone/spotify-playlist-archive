@@ -8227,6 +8227,24 @@
     },
     {
       "album": {
+        "name": "Feel My Heartbeat",
+        "url": "https://open.spotify.com/album/2HPAutEpwjX1zPQol97xeA"
+      },
+      "artists": [
+        {
+          "name": "Rich Vom Dorf",
+          "url": "https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258099,
+      "name": "Feel My Heartbeat",
+      "url": "https://open.spotify.com/track/4IjgGOVMLfsVF2F2Bk3Fbg"
+    },
+    {
+      "album": {
         "name": "Feel Something More",
         "url": "https://open.spotify.com/album/2nZVaFUOEKUeNc8Hz6IoKZ"
       },
@@ -16796,7 +16814,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 209763,
       "name": "Love You Loud",
       "url": "https://open.spotify.com/track/74LbmJtLRgeRubfKthJpeT"

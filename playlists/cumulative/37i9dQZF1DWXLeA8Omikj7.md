@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,056 songs - 3 day 4 hr 1 min
+1,057 songs - 3 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [20211130](https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 5:22 | 2023-04-14 | 2024-10-08 |
 | [2089](https://open.spotify.com/track/1GRCByxCunaOyOVJhvaZZ6) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [2089](https://open.spotify.com/album/5tPSYbr95QufQfHA28E2gF) | 2:34 | 2020-08-26 | 2020-10-22 |
 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2021-11-12 | 2022-07-29 |
-| [222](https://open.spotify.com/track/5lISsyJA9NvFiLLxybX41C) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [222](https://open.spotify.com/album/7aPp4vsVjxDOjMzGR1gizf) | 2:22 | 2024-08-23 |  |
+| [222](https://open.spotify.com/track/5lISsyJA9NvFiLLxybX41C) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [222](https://open.spotify.com/album/7aPp4vsVjxDOjMzGR1gizf) | 2:22 | 2024-08-23 | 2025-04-18 |
 | [2:16](https://open.spotify.com/track/3OCqCbQUhcol3nYAbVhAfV) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [2:16](https://open.spotify.com/album/1xwLDnmx4ABFLT9tv2LucN) | 7:54 | 2022-01-14 | 2024-05-10 |
 | [3.15](https://open.spotify.com/track/2LeFDM4wihSc81SgkwwIdQ) | [Yushh](https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew) | [Shouts 2021](https://open.spotify.com/album/2diCd6qJq3O0u29AWfPeJW) | 5:07 | 2021-10-01 | 2022-04-19 |
 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 | 2024-03-15 | 2024-04-19 |
@@ -168,6 +168,7 @@
 | [Coda](https://open.spotify.com/track/4N8Iwg073FXfJgSdpe5xU4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Coda](https://open.spotify.com/album/1A89ympAPtjdBevW6RbCim) | 3:36 | 2023-06-09 | 2023-12-07 |
 | [COLD](https://open.spotify.com/track/5nNgbJyYK0sBjvIW97FWUu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 3:56 | 2024-04-19 |  |
 | [COMBAT](https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [COMBAT](https://open.spotify.com/album/42jsGc1o1OVyaLqg0eIr0o) | 4:16 | 2024-06-07 |  |
+| [Come Prima](https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 7:19 | 2025-04-15 |  |
 | [Common Ground](https://open.spotify.com/track/2QsMIusYv7LSVnFVPbe7Bd) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:52 | 2019-07-25 | 2020-10-21 |
 | [Common Land](https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Common Land](https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr) | 5:21 | 2023-02-17 | 2023-09-14 |
 | [Complet](https://open.spotify.com/track/5dO9Q7Nc6yl9RhQg4QbfpZ) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW) | [Vazio](https://open.spotify.com/album/1WTZwgYpE1rk96LphsMLiw) | 2:17 | 2019-06-19\* | 2022-04-20 |

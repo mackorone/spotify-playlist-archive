@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,731 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,734 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 26 | [Iron Wood](https://open.spotify.com/track/3VxngfqlyODulPhX80UuzG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:43 |
 | 27 | [Tek Time](https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 7:00 |
 | 28 | [Afro\-Soul](https://open.spotify.com/track/3gwtxoxNMMfeo48G42kkHB) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:44 |
-| 29 | [Big Blow](https://open.spotify.com/track/7McyuC2aBOHuISZDaV5vNK) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 5:45 |
-| 30 | [Out of Score](https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:47 |
-| 31 | [Ami Oh! \(feat\. Angélique Kidjo & Papa Wemba\)](https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:38 |
+| 29 | [Ami Oh! \(feat\. Angélique Kidjo & Papa Wemba\)](https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:38 |
+| 30 | [Wilderness](https://open.spotify.com/track/3h5mkWhcVV9jVv7XxFfTlE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:08 |
+| 31 | [Big Blow](https://open.spotify.com/track/7McyuC2aBOHuISZDaV5vNK) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 5:45 |
 | 32 | [Moving Waves](https://open.spotify.com/track/1UCP7iid4Ur5bb8QlMRnPw) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 4:03 |
 | 33 | [Salvamm' o munno \- 2024 Remaster](https://open.spotify.com/track/07nEudDeniMFVGWSmjTx8X) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Bottari](https://open.spotify.com/artist/5REMQdXJQ6H1R3Od8I5dtF), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Salvamm 'o munno \(20th Anniversary\)](https://open.spotify.com/album/6tLQig0rGAwnlSm0u72eKF) | 3:52 |
-| 34 | [Tropical Garden](https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Home Made](https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6) | 8:22 |
-| 35 | [Wouri](https://open.spotify.com/track/69WLiFnG9CHtdh2ngmzNpE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 3:16 |
+| 34 | [Wouri](https://open.spotify.com/track/69WLiFnG9CHtdh2ngmzNpE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 3:16 |
+| 35 | [Tropical Garden](https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Home Made](https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6) | 8:22 |
 | 36 | [Musica](https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 4:34 |
 | 37 | [Cielito Lindo](https://open.spotify.com/track/2FYV3YZ6ikL7NTFBnBXRqX) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 3:14 |
 | 38 | [Ami Xintadu](https://open.spotify.com/track/3PXt08foKsvC84vcTc34Oo) | [Mário Lúcio](https://open.spotify.com/artist/0l0E5CN1nDzWU8hwwareoI), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Independance](https://open.spotify.com/album/35E7iZTJC9CBJ4tG4Rg5kT) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 49 | [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 |
 | 50 | [Dikalo \- Remix 97](https://open.spotify.com/track/7pynF3ZjAJZfUQhmS4bpk2) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:07 |
 
-Snapshot ID: `Z/2hgAAAAADh7Lr12LCHQ3uS7esO3meJ`
+Snapshot ID: `Z/7zAAAAAADrTdl/UpAu2ayUhZ3hA0nb`

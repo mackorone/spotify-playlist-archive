@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-742 songs - 2 day 21 hr 27 min
+745 songs - 2 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,9 @@
 | [\#71 “リスアニ！LIVE 2025”感想戦 Part1 今だから話せるあれやこれやを全部盛り!!!](https://open.spotify.com/episode/1Z1Kz6EkRLWrykSpudmYmX) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 1:03:20 | 2025-03-12 |  |
 | [\#72 “リスアニ！LIVE 2025”感想戦 Part2 「楽しすぎて涙」の祝祭、「15年続けてきた意味」を総括！](https://open.spotify.com/episode/2FXhOEplKOSbWUU31D633h) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 50:35 | 2025-03-12 |  |
 | [\#73 祝!!『ぼっち・ざ・ろっく！』アニメ2期決定／“リスアニ！LIVE 2025”振り返り・延長戦！](https://open.spotify.com/episode/1RA4tA9syWuAT8UQqKVius) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 44:23 | 2025-03-12 |  |
+| [\#74 ネタバレ注意！『機動戦士Gundam GQuuuuuuX』と米津玄師と『フリクリ』と…／おじさんたちのグミ論争](https://open.spotify.com/episode/44523yVpwXnRBSz20SIhV3) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 40:00 | 2025-04-17 |  |
+| [\#75 念願の！「ハチパレ」豊田穂乃花さん、スタジオ初登場／超楽しかった!!“リスパレ！LIVE vol.2”](https://open.spotify.com/episode/5MmTj4peoiO8F0HhzNO8sv) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 56:03 | 2025-04-17 |  |
+| [\#76 『Angel Beats!』と「週間ボカロランキング」の時代／“リスアニ！LIVE 2025”MCチーム裏話](https://open.spotify.com/episode/0wtLekod4q7GmsypmnW1rL) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 51:21 | 2025-04-17 |  |
 | [10% roll, 10% romance](https://open.spotify.com/track/55gmxJ59Y44Ev4WX4ztDQR) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [SUB MACHINE, BEST MACHINE \(Best Selected Edition\)](https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J) | 4:36 | 2024-08-14 | 2025-01-27 |
 | [13 no Fuyu](https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 5:29 | 2023-11-28 | 2024-01-24 |
 | [50cm](https://open.spotify.com/track/5pUYhYtfoGsRUHXMADllsw) | [Urushi Yaotome\(CV:Kanna Nakamura\)](https://open.spotify.com/artist/0COSKadhSJgaptXjnspEjL) | [50cm](https://open.spotify.com/album/1xK1KOiGzo7raQvcp1jmUy) | 4:06 | 2022-08-16 | 2023-01-12 |

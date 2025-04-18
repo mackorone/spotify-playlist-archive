@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,677 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,684 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 13 | [Rally Around](https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Rally Around](https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0) | 2:39 |
 | 14 | [Cowboys Were Kings](https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Cowboys Were Kings](https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep) | 3:15 |
 | 15 | [The Bullfighter](https://open.spotify.com/track/1HgKUjJRScAcZD5WPhlACo) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [The Bullfighter](https://open.spotify.com/album/5OfwLDZVVkjuBFQFBKid9p) | 3:18 |
-| 16 | [This Ol Way](https://open.spotify.com/track/5FsnLRPoRGzGzRjRdmRP6q) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [This Ol Way](https://open.spotify.com/album/77eopQjIGR0gBCQxX0DmaE) | 4:54 |
+| 16 | [This Ol' Way](https://open.spotify.com/track/5FsnLRPoRGzGzRjRdmRP6q) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [This Ol' Way](https://open.spotify.com/album/77eopQjIGR0gBCQxX0DmaE) | 4:54 |
 | 17 | [Caught Me At A Good Time](https://open.spotify.com/track/2fRP7yg4VYwyIHKDXLRj9W) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Caught Me At A Good Time](https://open.spotify.com/album/12Kz7CkGnf5zKNI7VtNFAj) | 2:42 |
 | 18 | [One Headlight](https://open.spotify.com/track/6CCtwKO9crJAAZkOM0wnit) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [One Headlight](https://open.spotify.com/album/103eblTnUASz74xoe9R7Vu) | 3:25 |
 | 19 | [Doin' What She Does](https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Doin' What She Does](https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG) | 2:56 |

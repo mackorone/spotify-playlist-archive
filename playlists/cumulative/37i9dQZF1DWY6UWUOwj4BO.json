@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "maman (acoustique)",
+        "url": "https://open.spotify.com/album/081z71DA1Zxex0sPR2QBTY"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184122,
+      "name": "maman - acoustique",
+      "url": "https://open.spotify.com/track/4XelDEmRacldzskbbclmQY"
+    },
+    {
+      "album": {
         "name": "miss me (when you're gone) [remixes]",
         "url": "https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t"
       },
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 190344,
       "name": "We Can\u2019t Be Friends",
       "url": "https://open.spotify.com/track/057OYWy4YPKYh5xp9sA81I"

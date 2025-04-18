@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: PhaseOne \\m/",
-  "num_followers": 339910,
+  "num_followers": 339938,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Core (That's Who We Are)",
-        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Core (That's Who We Are)",
-      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1663,26 +1643,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "The Catastrophists EP",
-        "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
+        "name": "Core (That's Who We Are)",
+        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
       },
       "artists": [
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 251707,
-      "name": "Lightning Over Mexico",
-      "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+      "duration_ms": 178909,
+      "name": "Core (That's Who We Are)",
+      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -1703,6 +1679,30 @@
       "duration_ms": 195211,
       "name": "Till I Met You",
       "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "The Catastrophists EP",
+        "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 251707,
+      "name": "Lightning Over Mexico",
+      "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Light Up The Sky (feat. Scott Stapp)",
-        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Scott Stapp",
-          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
-        }
-      ],
-      "duration_ms": 284425,
-      "name": "Light Up The Sky (feat. Scott Stapp)",
-      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Time Is Eating",
         "url": "https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3"
       },
@@ -1851,6 +1827,26 @@
       "duration_ms": 184840,
       "name": "Time Is Eating",
       "url": "https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Broken String",
+        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -1879,22 +1875,26 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Broken String",
-        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+        "name": "Light Up The Sky (feat. Scott Stapp)",
+        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
       "artists": [
         {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         },
         {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Scott Stapp",
+          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+      "duration_ms": 284425,
+      "name": "Light Up The Sky (feat. Scott Stapp)",
+      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Enemy Brain Entertainment Suite",
-        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
-      },
-      "artists": [
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-        }
-      ],
-      "duration_ms": 251511,
-      "name": "Enemy Brain",
-      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 206666,
       "name": "Silence",
       "url": "https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Enemy Brain Entertainment Suite",
+        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Hold My Breath (Mazare Remix)",
         "url": "https://open.spotify.com/album/1L6AMJSGbd7dmYMk51Lj2B"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 174797,
       "name": "Hold My Breath (Mazare Remix)",
       "url": "https://open.spotify.com/track/3P4ScFhRIuGduFKADkZHwE"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "The Kill",
+        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
+      },
+      "artists": [
+        {
+          "name": "HOWL",
+          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
+        }
+      ],
+      "duration_ms": 221543,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 176516,
       "name": "Only the Good Die Young",
       "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "The Kill",
-        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
-      },
-      "artists": [
-        {
-          "name": "HOWL",
-          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
-        }
-      ],
-      "duration_ms": 221543,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
     },
     {
       "added_at": "2025-04-11 04:00:36",

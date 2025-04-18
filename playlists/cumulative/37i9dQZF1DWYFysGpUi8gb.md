@@ -4,7 +4,7 @@
 
 > welcome to the underground\. greetings from caroline\(s\).
 
-289 songs - 17 hr 54 min
+290 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Homie Don’t Shake](https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Homie Don’t Shake](https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w) | 2:56 | 2024-07-12 | 2025-01-17 |
 | [HOT MESS](https://open.spotify.com/track/1dKlvNXx9uIOcb4GW8kGE8) | [Johnny Hunter](https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo) | [HOT MESS](https://open.spotify.com/album/6nT5hqcDpuYXssUPI5WXx9) | 2:26 | 2024-08-16 | 2025-03-25 |
 | [Hottest Man Alive 1995](https://open.spotify.com/track/0LodhNOnEi9nnvYvWgq8M6) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Now Leaving West Feldwood](https://open.spotify.com/album/7m10seswHmxu6oSrXNvths) | 3:29 | 2024-06-14 | 2024-12-06 |
+| [I Hate You, I Love You](https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I hate you, I love you](https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is) | 5:29 | 2025-04-16 |  |
 | [I THINK I LIKE YOU](https://open.spotify.com/track/3GTydboUO6maQvndeR0oF2) | [GANS](https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK) | [I THINK I LIKE YOU](https://open.spotify.com/album/5vo5eIkJHhroiJ1zk0fQBF) | 3:05 | 2025-03-24 |  |
 | [I Wake Up Slowly](https://open.spotify.com/track/22CUrCtZeg4jR7d7BO34oa) | [Oslo Twins](https://open.spotify.com/artist/2rpkPoe2Qc5unwCOmWpN5y) | [I Wake Up Slowly](https://open.spotify.com/album/7349Bk9PpVxJSUwMDSzk5X) | 2:42 | 2025-02-21 |  |
 | [I Wanna Live With You](https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [I Wanna Live With You](https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L) | 2:54 | 2024-06-14 | 2024-12-06 |

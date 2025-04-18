@@ -4,7 +4,7 @@
 
 > Enjoy music from "Detective Conan"! ©2024 青山剛昌／名探偵コナン製作委員会
 
-139 songs - 11 hr 20 min
+140 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Tomorrow is the last Time](https://open.spotify.com/track/7GXRfMmuEB2GKmXZEE9FwQ) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 3:56 | 2022-10-01 | 2023-03-22 |
 | [TRUTH\~A Great Detective of Love\~](https://open.spotify.com/track/5Z2Choh1h6ZjSbhoYAfW3d) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [TRUTH\~A Great Detective of Love\~](https://open.spotify.com/album/1jKnYTlEulvUO4ziPHrxGc) | 5:36 | 2022-10-01 | 2023-03-22 |
 | [TRY AGAIN](https://open.spotify.com/track/39zBrFCii5pYhfIM4jMDol) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:25 | 2022-10-01 | 2023-03-22 |
+| [TWILIGHT!!!](https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [TWILIGHT!!!](https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6) | 3:37 | 2025-04-17 |  |
 | [WE GO](https://open.spotify.com/track/6LKoCj8UL8tCB9TOv5bNvV) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [BREAKERZ×名探偵コナン COLLABORATION BEST](https://open.spotify.com/album/04Ym0xEthdAQepiCKzrYrw) | 3:50 | 2022-10-01 | 2023-03-22 |
 | [Winter Bells](https://open.spotify.com/track/2TFL8feRqEcd2Wf8Xp8caV) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:36 | 2022-10-01 | 2023-03-22 |
 | [YESTERDAY LOVE](https://open.spotify.com/track/2wl8m7P0SvCZ7v5YR3O89q) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:54 | 2022-10-01 | 2023-03-22 |

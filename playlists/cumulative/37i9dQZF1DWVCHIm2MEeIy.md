@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-525 songs - 1 day 20 hr 31 min
+526 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Der Mond \- 1980 Version](https://open.spotify.com/track/0mTq8qD7jCebFoN5HP7NqY) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Classic Gold Remixed \(Pt.2\)](https://open.spotify.com/album/6CcQYWYQnnG9oYutc0EP2y) | 5:24 | 2022-04-15 | 2023-11-16 |
 | [Designer Love \- Stephan Zovsky Remix \- Short Version](https://open.spotify.com/track/4RIkLRvV3WbU7NGufj8LdH) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ), [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [Designer Love](https://open.spotify.com/album/31VrZTiS4vJ6iv1IZiYnVT) | 4:25 | 2022-04-15 | 2022-05-21 |
 | [Devon \- Oliver Huntemann Remix](https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Devon \(Oliver Huntemann Remix\)](https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU) | 6:38 | 2022-04-15 | 2023-02-18 |
+| [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2025-04-17 |  |
 | [Different \- Radio Edit](https://open.spotify.com/track/7bkLpeboqS9lmZhnelIDeQ) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Different](https://open.spotify.com/album/5xHkztdsM3wevIdT5V5ex2) | 4:25 | 2022-04-15 | 2022-04-29 |
 | [Dimension](https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dimension](https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg) | 8:01 | 2023-12-22 | 2024-09-30 |
 | [Dimension](https://open.spotify.com/track/01s6BIvYPGZ7wHP2EvI2xA) | [Matrefakt](https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI) | [Dimension](https://open.spotify.com/album/2T8MR3ZHFuvV6OTxiM6Mjq) | 5:17 | 2023-11-14 | 2023-11-28 |
@@ -426,7 +427,7 @@
 | [Silence & Secrets \- Adriatique Remix](https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Silence & Secrets \(Adriatique Remix\)](https://open.spotify.com/album/0Y0xhBcScceez0FfDnap8p) | 7:21 | 2022-04-15 | 2024-01-06 |
 | [Silence of Love \- Reznik Remix](https://open.spotify.com/track/5PhLhmZG1r1R1YAAUbl2hx) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Silence of Love \(Reznik Remix\)](https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3) | 7:05 | 2024-10-10 | 2024-11-16 |
 | [Silius \- Alfa Romero Remix](https://open.spotify.com/track/0wj0giVxSGWzlnWhdC8EUh) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Silius EP](https://open.spotify.com/album/1kvDBa5nOhlshFg5rwaItu) | 6:35 | 2022-11-26 | 2022-12-13 |
-| [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 | 2024-02-22 |  |
+| [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 | 2024-02-22 | 2025-04-18 |
 | [Siren \- Original Mix](https://open.spotify.com/track/49iFrXYyyHFvWC1gKnfZcR) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Siren](https://open.spotify.com/album/7m68B9yIJCdhW9nL6sVCeS) | 6:51 | 2022-04-15 | 2022-11-26 |
 | [Sirius](https://open.spotify.com/track/6i1KuFzLkMNKmGrWU0GVDL) | [Oësha](https://open.spotify.com/artist/0dGuG2AkKMD5paqtUPKVTF) | [The Journey](https://open.spotify.com/album/4Xadd8XQbQ3B8G5ouOoMg7) | 6:53 | 2022-11-15 | 2022-11-26 |
 | [Skywalker](https://open.spotify.com/track/4sxkaAZO7V1dQUHocFgJBL) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Skywalker](https://open.spotify.com/album/0IXJ3NO7MWJOGMSV8PWS0i) | 6:46 | 2022-06-17 | 2022-07-27 |

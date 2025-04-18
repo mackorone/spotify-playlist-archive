@@ -2,9 +2,9 @@
 
 ### [Alt\. Ghana](https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9)
 
-> From the alternative scene in Ghana\. Cover: Mellissa
+> From the alternative scene in Ghana\. Cover: Cozypols
 
-187 songs - 9 hr 17 min
+189 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 | 2024-08-16 | 2025-02-22 |
 | [My Way](https://open.spotify.com/track/46o3CbNVM2vIAMDSpP22os) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [My Way](https://open.spotify.com/album/7wMILMc50Vv0OQ1JktsEfx) | 2:33 | 2024-10-12 | 2024-11-29 |
 | [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 | 2024-08-02 |  |
-| [Necessary](https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Necessary](https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1) | 2:07 | 2024-08-25 |  |
+| [Necessary](https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Necessary](https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1) | 2:07 | 2024-08-25 | 2025-04-18 |
 | [Never Fold](https://open.spotify.com/track/2T8lk96YoVP2FY7aqkDOdU) | [SagetheRager](https://open.spotify.com/artist/09sWrYn8drtJePXByNNv7j) | [Never Fold](https://open.spotify.com/album/4AAQcNjPR29cFRduUBLG6T) | 2:18 | 2024-07-26 | 2024-09-13 |
 | [No Love](https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [NO LOVE](https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY) | 2:44 | 2024-05-17 | 2024-07-19 |
 | [No one](https://open.spotify.com/track/60ZtT8GN6syN0finKuAjjS) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [No one](https://open.spotify.com/album/1OD738IlxByWfrDvOdLTex) | 2:45 | 2025-02-21 | 2025-02-28 |
@@ -181,17 +181,19 @@
 | [Too Friendly](https://open.spotify.com/track/4BQr3DTMqO8rpC4NtLPQTm) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Something About A Rose](https://open.spotify.com/album/0zt1UU6Dk47u4lDpoHp9XV) | 2:24 | 2024-11-08 |  |
 | [Tori](https://open.spotify.com/track/47fXJB2c9hfyZ1svQxEntJ) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Never Too Late](https://open.spotify.com/album/7iuyoC6Q8PY7dnX7tzYzXg) | 3:22 | 2025-03-21 | 2025-03-29 |
 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 | 2024-09-27 |  |
-| [Twisted](https://open.spotify.com/track/0BRNOUVztfv0WiETMN2aHc) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Twisted](https://open.spotify.com/album/13hCnazUNsw83rLEYxsvJH) | 3:10 | 2024-10-12 |  |
+| [Twisted](https://open.spotify.com/track/0BRNOUVztfv0WiETMN2aHc) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Twisted](https://open.spotify.com/album/13hCnazUNsw83rLEYxsvJH) | 3:10 | 2024-10-12 | 2025-04-18 |
 | [UNDER THE SUN](https://open.spotify.com/track/3TDzJLTVGhfoLp6iNrrFCo) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [LIMINAL SPACES](https://open.spotify.com/album/5VeEgnUM7NaFDK8RsJpFmS) | 2:44 | 2024-11-29 |  |
 | [UNO](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 | 2024-06-21 |  |
 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 | 2024-05-10 |  |
 | [What Do They Know](https://open.spotify.com/track/1gaAyp2j9ymWjnNnSc9hJ2) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Dilemma](https://open.spotify.com/album/0rUMdn1M67eLJ11sQHt3iR) | 2:57 | 2024-05-10 |  |
+| [What I Need](https://open.spotify.com/track/5b1lVbGspiud4hIIiSCgGG) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Vynyl Sky](https://open.spotify.com/artist/1MSBh2UA3aK4YHajopxdLZ) | [With Love, Cozï](https://open.spotify.com/album/6Zh5AjQosM2aRzdIldGxKP) | 2:35 | 2025-04-17 |  |
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2024-05-10 | 2025-04-12 |
 | [Wildin' Time](https://open.spotify.com/track/1WCM6yyXX5BjGqxbbyUtNX) | [Fonye](https://open.spotify.com/artist/0wtEd1BCIE0Kj5BOOLb3AE), [The Souly Bird](https://open.spotify.com/artist/74wCSmFTu9ySg4TB4n80ld) | [Wildin' Time](https://open.spotify.com/album/4xSmYHTEfp42nw6NebOkk9) | 2:28 | 2024-09-27 | 2024-11-08 |
 | [Wine](https://open.spotify.com/track/2jpy0Amc4lz9rJodkYCUBW) | [Clive](https://open.spotify.com/artist/0LJrjizc2pgyDOy9FRgLsI) | [Wine](https://open.spotify.com/album/7eQpq5QztpKzA25D3EKgEt) | 3:36 | 2024-05-10 | 2024-07-27 |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2024-05-10 | 2024-08-17 |
 | [Work](https://open.spotify.com/track/3c0apNttNexOLb7QIliIdq) | [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Work](https://open.spotify.com/album/1nWVhBEmIBJiNN5vyuDmow) | 2:45 | 2024-05-10 | 2025-03-29 |
 | [Yawa Go Dey](https://open.spotify.com/track/79ZzuGUmWNmsVEvuLBuX2N) | [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1), [Omenka](https://open.spotify.com/artist/0zvOyfZ2vw7OAXK0bEYDs6) | [Yawa Go Dey](https://open.spotify.com/album/6CY5NFYRFy1tk91tqlkhb5) | 2:42 | 2024-10-04 | 2024-12-07 |
+| [Yes Joss](https://open.spotify.com/track/3ucrFHlaKOKgJ3mNVh3bD9) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Yes Joss](https://open.spotify.com/album/0HnQWp8OcCbS5HgFzzBcZu) | 2:07 | 2025-04-17 |  |
 | [Your Place](https://open.spotify.com/track/4rHU2rwt29kZ4jrIWl4vPa) | [Stella Sena](https://open.spotify.com/artist/06DWd2np5gdOvR08UaaiA6) | [Your Place](https://open.spotify.com/album/0moOoMHv8K1A4qY4e95Jt7) | 2:28 | 2024-07-12 | 2025-03-29 |
 | [YSL](https://open.spotify.com/track/3DklWVkyKx5gRW1d3Khq6R) | [Odartei](https://open.spotify.com/artist/2IBRGdRZQJzvoeQMTdRoxN) | [cool.](https://open.spotify.com/album/4IbKmVyXzY4bTDkkBcA6KG) | 3:05 | 2024-05-10 | 2025-03-29 |
 | [Yɛn Ware](https://open.spotify.com/track/0DiP6aKnShQjIvO908LMvs) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Yɛn Ware](https://open.spotify.com/album/6gqhJQWZ5DaqVBoP9JDLAb) | 2:17 | 2025-02-14 |  |

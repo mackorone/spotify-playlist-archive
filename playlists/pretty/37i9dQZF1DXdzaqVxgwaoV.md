@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,337 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,332 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 57 | [Cumbia del Caribe](https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ) | [Edmundo Arias](https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP), [Benetia](https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb) | [La Mejor Música de Diciembre \(Vol\. 3\)](https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg) | 3:14 |
 | 58 | [Ojitos Hechiceros](https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 3:40 |
 | 59 | [El Pescador de Barú](https://open.spotify.com/track/74ZKfd2J1nPl5KyAVQ5uyy) | [Los Warahuaco](https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ), [Hernán Rojas](https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7) | [Éxitos los Warahuaco & Hernán Rojas](https://open.spotify.com/album/1TtaDXi6YdjxUJo4ri7aTJ) | 2:50 |
-| 60 | [Baión de Madrid](https://open.spotify.com/track/2DOuK2pYUrJF00VZuZV591) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 2:55 |
+| 60 | [El Ausente](https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:26 |
 | 61 | [Micaela](https://open.spotify.com/track/1S76g6wBx7YGlO6XEFTG8L) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold](https://open.spotify.com/artist/4R5fxip31MUAZnwwSgdlmI) | [Salsa Pa Bacanes](https://open.spotify.com/album/7K6HRnSQFKGbFTtct2wFFu) | 4:53 |
 | 62 | [Dame Tu Mujer José](https://open.spotify.com/track/4bi8JuAAkq2raTQb8yJIOd) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:51 |
 | 63 | [La Dueña de Mi Suerte](https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco) | [Ramiro Y Joche](https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1) | [Premio Platino para los Vallenatos Nueva Generación](https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI) | 5:05 |

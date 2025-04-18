@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 316066,
+  "num_followers": 316123,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Silence & Secrets",
+        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 268434,
+      "name": "Silence & Secrets",
+      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Need To Feel Loved (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Silence & Secrets",
-        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
       },
       "artists": [
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         }
       ],
-      "duration_ms": 268434,
-      "name": "Silence & Secrets",
-      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
+      "duration_ms": 238095,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1251,22 +1267,6 @@
       "duration_ms": 458360,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
-      },
-      "artists": [
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 238095,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
     },
     {
       "added_at": "2024-08-09 18:28:29",

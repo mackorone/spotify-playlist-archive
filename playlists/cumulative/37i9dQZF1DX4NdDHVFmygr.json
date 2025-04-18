@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Allo Doctor",
+        "url": "https://open.spotify.com/album/7LXkPXjAdBby2vyfA4wySk"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161118,
+      "name": "Allo Doctor",
+      "url": "https://open.spotify.com/track/1njTOLN0cJSTGPTH3mNElO"
+    },
+    {
+      "album": {
         "name": "AMANA",
         "url": "https://open.spotify.com/album/7c2J6uQQaokBaxAEPQP8mK"
       },

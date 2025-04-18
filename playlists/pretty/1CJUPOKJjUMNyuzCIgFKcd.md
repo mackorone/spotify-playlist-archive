@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,774 likes - 68 songs - 3 hr 4 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,773 likes - 68 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 19 | [Screen Share](https://open.spotify.com/track/6xmKZWq3cxYWUfHTx49ENX) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Screen Share](https://open.spotify.com/album/5uPwJVRb1npGbNvZhKBfNq) | 2:54 |
 | 20 | [d!e slow](https://open.spotify.com/track/4ibBRYeY2OiyYbQSjD1H1E) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [d!e slow](https://open.spotify.com/album/4Jt5IcF2gDQlsGACmk1luN) | 2:15 |
 | 21 | [Heavens Above \(My Angel\)](https://open.spotify.com/track/2N4hIFZ7md1kP5Ekts4RIG) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Heavens Above \(My Angel\)](https://open.spotify.com/album/2IosEc26m00LIquMx6GdtH) | 3:18 |
-| 22 | [LA Takeover](https://open.spotify.com/track/3wMSKHBO2KC1MlQK5FbLLK) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [LA Takeover](https://open.spotify.com/album/0xLXXEp3MNVElpzOU8SbDp) | 2:16 |
+| 22 | [LA Takeover](https://open.spotify.com/track/3wMSKHBO2KC1MlQK5FbLLK) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [LA Takeover](https://open.spotify.com/album/0xLXXEp3MNVElpzOU8SbDp) | 2:18 |
 | 23 | [Ain't My Fault](https://open.spotify.com/track/453O275lHzJI4y321q2dk7) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb) | [Ain't My Fault](https://open.spotify.com/album/1mD0rR1VKGaJHd0cpfPZBG) | 2:15 |
 | 24 | [Twin](https://open.spotify.com/track/7LzZ9FgkCDuagnGnOSSHng) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Twin](https://open.spotify.com/album/2tKbD7TNQXv5ZNCzRAec5Q) | 2:22 |
 | 25 | [UNDER OATH](https://open.spotify.com/track/1iGiANByWXW8cw430IX3a8) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [UNDER OATH](https://open.spotify.com/album/3EAEDpMOytxYZFHQ2r0jzW) | 2:50 |

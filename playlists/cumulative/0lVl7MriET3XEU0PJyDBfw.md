@@ -4,7 +4,7 @@
 
 > Only the best Tech House \| Find the mix series on SoundCloud: Bassline Therapy Radio
 
-626 songs - 1 day 8 hr 53 min
+627 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Francorum \(frans\)](https://open.spotify.com/track/63rnsRWav7WiskWVuJnQY0) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM) | [Francorum \(frans\)](https://open.spotify.com/album/5q1MieNm8Ay9RGsl0RS4qf) | 2:09 | 2024-01-29 | 2024-06-24 |
 | [Freak](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Freak](https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO) | 3:21 | 2024-12-15 | 2025-03-03 |
 | [Freak](https://open.spotify.com/track/7ntUnPh0mOMe4q6kObFZxc) | [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM), [NEZIEL](https://open.spotify.com/artist/2KAMKVCgamR8Oc59zx7wOY), [Apotheca](https://open.spotify.com/artist/2nVEWj0OU37kBPoXChRRHa) | [Freak](https://open.spotify.com/album/77k6BUHwdwg5Ym3ejxolDv) | 3:30 | 2024-10-27 | 2024-11-05 |
+| [Freak out of You](https://open.spotify.com/track/3xohBxmFtAzG9PZEDRHJR9) | [DJ Stephi K](https://open.spotify.com/artist/1yK0NRVmduOGuFugbUdVJS) | [Freak out of You](https://open.spotify.com/album/2JWOPWb7km9rTUINWeMvBm) | 3:54 | 2025-04-18 |  |
 | [Freaks](https://open.spotify.com/track/1JoVZhP3kteamv5DD2Ihzs) | [Kiro Prime](https://open.spotify.com/artist/21WEErBdntViTGBBNIX1Sr), [PAT RIOT](https://open.spotify.com/artist/5fSvnogVC3ssSW02RVyJk7), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Discothèque Records Vol\. 5](https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI) | 2:47 | 2024-10-12 | 2024-11-19 |
 | [Freaky Feed Me \(feat\. Leven Kali\)](https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Freaky Feed Me \(feat\. Leven Kali\) / Outlaws \(feat\. Audio Bullys & Olly Burden\)](https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW) | 3:35 | 2024-09-27 | 2024-09-29 |
 | [Frequency](https://open.spotify.com/track/48wdg0q6D2h8QoJ0PSAxBT) | [dhuss](https://open.spotify.com/artist/0VCdowS9c0KjYcVJAZCvBd) | [Frequency](https://open.spotify.com/album/5llIxkVy66K7eEyRED1Zk3) | 5:22 | 2024-06-23 | 2024-08-20 |

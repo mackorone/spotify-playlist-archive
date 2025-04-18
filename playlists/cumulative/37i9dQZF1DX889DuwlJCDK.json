@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 249000,
       "name": "Aoku, Haru",
       "url": "https://open.spotify.com/track/7rezfyJqSm1lpocGHKa7I1"
@@ -8946,7 +8946,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 309984,
       "name": "\u3042\u3068\u304c\u304d",
       "url": "https://open.spotify.com/track/4InLG5Cex1EKPJFSWtxvbA"
@@ -12305,6 +12305,24 @@
     },
     {
       "album": {
+        "name": "\u30ca\u30c4\u30e1\u30b0",
+        "url": "https://open.spotify.com/album/1gAxx7JgGph2JOxJ9SvU2s"
+      },
+      "artists": [
+        {
+          "name": "PURPLE BUBBLE",
+          "url": "https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199083,
+      "name": "\u30ca\u30c4\u30e1\u30b0",
+      "url": "https://open.spotify.com/track/5xDCfxc1ze0ECUDuCnzu50"
+    },
+    {
+      "album": {
         "name": "\u30cd\u30c3\u30c8\u30eb\u30fc\u30b6\u30fc",
         "url": "https://open.spotify.com/album/6VnuHv0ekAZIIwuYWVXejC"
       },
@@ -12824,7 +12842,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-17",
+      "date_removed": null,
       "duration_ms": 228281,
       "name": "\u30d3\u30d5\u30a9\u30a2\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba",
       "url": "https://open.spotify.com/track/3tpAOPWAaGXJwK5lKJhKq3"

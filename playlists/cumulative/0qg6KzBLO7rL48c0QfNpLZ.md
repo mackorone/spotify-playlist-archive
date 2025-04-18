@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,021 songs - 1 day 21 hr 13 min
+1,023 songs - 1 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Better Off This Way](https://open.spotify.com/track/1Zk8LlNuoco73MZ4x6Fd4d) | [Melodream](https://open.spotify.com/artist/6RjOnZCDTqQNEkpUir0PEo), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [Better Off This Way](https://open.spotify.com/album/3HLTe7E6fICk3dX0wK85lL) | 3:02 | 2024-09-27 | 2025-02-18 |
 | [Beyond Everything](https://open.spotify.com/track/5W0gnBtoimNtx6t08HS84f) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Beyond Everything](https://open.spotify.com/album/01zmRcj1qfwhJFEpF4NezE) | 3:54 | 2024-06-14 | 2024-07-20 |
 | [Birds of a Feather](https://open.spotify.com/track/7bBYtdCzBvc5ynBmM3Ajie) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Birds of a Feather](https://open.spotify.com/album/4ztk4PYygS7uABC0cnm4AM) | 3:14 | 2024-09-27 | 2024-12-07 |
+| [Birds Of A Feather](https://open.spotify.com/track/61R5uGwqnJOLYlRhkvfE4w) | [HORT3N](https://open.spotify.com/artist/3wNJwsU6r4xpkMMgrHBlqY), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Birds Of A Feather](https://open.spotify.com/album/44n8It4m3DjuQ6A6hn1eCP) | 3:15 | 2025-04-17 |  |
 | [Bitter & Sweet](https://open.spotify.com/track/5BQU5KNCEarS7oQPO19nZy) | [NAAC](https://open.spotify.com/artist/7mljyQJgwCXjkCe27YiIGV) | [Bitter & Sweet](https://open.spotify.com/album/7MnFDMrgsgf78OLx5MGd0H) | 2:48 | 2025-02-21 | 2025-03-22 |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/4SLoRd83v354O4NhnEl7gx) | [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7), [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Bitter Sweet Symphony](https://open.spotify.com/album/5Kebo1DeWAxabnYYKQyZVG) | 2:38 | 2024-07-19 | 2025-03-14 |
 | [Bittersweet Symphony](https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s) | 3:14 | 2023-12-21 | 2024-08-20 |
@@ -931,6 +932,7 @@
 | [Tore Me Up](https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Treyy G](https://open.spotify.com/artist/2vz513fFOvrrkuISQd1CYG), [BUBU](https://open.spotify.com/artist/0xhrjgTOUmwlMjRMZXmMWI) | [Tore Me Up](https://open.spotify.com/album/13QC7gtblaL6HDfPGEejIu) | 2:53 | 2024-11-29 | 2025-01-11 |
 | [Toxic](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Toxic](https://open.spotify.com/album/0R1aq1YgsnJurqpwiaKuMp) | 3:06 | 2024-03-15 | 2024-04-15 |
 | [Tragedy](https://open.spotify.com/track/71hWRaMZm9hFIZQ5eJrsO9) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Tragedy](https://open.spotify.com/album/6qhSibXvlfMh8qLYWIVNtZ) | 2:15 | 2024-07-12 | 2024-08-10 |
+| [True](https://open.spotify.com/track/51SF5c50uwFbjCGo36A5NU) | [Polariz](https://open.spotify.com/artist/5iw2cqb1v4T3RXOfKKslbq) | [True](https://open.spotify.com/album/0EyVExJsO4aTO3VNeoGAdP) | 2:07 | 2025-04-17 |  |
 | [Umbrella](https://open.spotify.com/track/0mR4GnrLuReuWkzfyyT6ee) | [Goodscandal](https://open.spotify.com/artist/3NCorVsEBFRYAMkhF0gwqR) | [Umbrella](https://open.spotify.com/album/0aXr7KaWiyGBrwar04icW6) | 2:39 | 2024-03-15 | 2024-04-15 |
 | [Unconditional](https://open.spotify.com/track/7AJcKrROEIlShwhdX5VnLc) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Unconditional](https://open.spotify.com/album/6NTtc97YHZzHGXRZKDMNCW) | 2:16 | 2023-12-15 | 2024-09-10 |
 | [Unconditional](https://open.spotify.com/track/1vo0pkI9NIbQY0UDvmUOxt) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Unconditional](https://open.spotify.com/album/40kw2Uywn6cDmA20qjQx2j) | 2:01 | 2024-04-05 | 2024-09-10 |

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: After
 
-3,150 songs - 7 day 6 hr 8 min
+3,151 songs - 7 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -727,6 +727,7 @@
 | [Dog](https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Dog](https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg) | 2:51 | 2023-01-18 | 2023-03-02 |
 | [Dog](https://open.spotify.com/track/51YR3S0CaWVCDKpByMrDg0) | [June](https://open.spotify.com/artist/6Bfam34ghS1NfU5VHcfTln) | [Dog](https://open.spotify.com/album/489vkz4pmIB5FM1vvS4LHl) | 2:28 | 2022-06-08 | 2022-06-30 |
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2021-12-01 | 2022-01-13 |
+| [dog\-tired](https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:21 | 2025-04-17 |  |
 | [Dogear](https://open.spotify.com/track/3CR95abHmSMKF1V7SXiXj3) | [J.R.C.G.](https://open.spotify.com/artist/4aNwMw5llWDwwA67i4sO7J) | [Dogear](https://open.spotify.com/album/16BjbpK5u6IOKJPhsR0UOD) | 5:23 | 2024-05-22 | 2024-07-04 |
 | [Dolly Pardon](https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Dolly Pardon](https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j) | 3:17 | 2025-04-16 |  |
 | [Domino](https://open.spotify.com/track/3uJwgU1IjOpU5VT60jJbk7) | [hex gf](https://open.spotify.com/artist/26sgSBpgBCSlyQxB8lf6tf) | [Domino](https://open.spotify.com/album/7I9npFFNLOxJkKPU9KpUhx) | 3:19 | 2022-02-22 | 2022-03-10 |

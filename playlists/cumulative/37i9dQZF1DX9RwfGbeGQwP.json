@@ -5316,7 +5316,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 99035,
       "name": "Cortado",
       "url": "https://open.spotify.com/track/2IC07xMcGWjB24kqdE4zKv"
@@ -9966,6 +9966,24 @@
       "duration_ms": 149859,
       "name": "Good things to come",
       "url": "https://open.spotify.com/track/4ZI2TmKcXEKgPV1t2Ol797"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/66A1R5Sl9FTSptE5IMTcWx"
+      },
+      "artists": [
+        {
+          "name": "RainDear",
+          "url": "https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/0BUB30A4FbwtvN3OVZplQZ"
     },
     {
       "album": {

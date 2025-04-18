@@ -2,9 +2,9 @@
 
 ### [Cena Indie](https://open.spotify.com/playlist/37i9dQZF1DX6HJZtcjGrCn)
 
-> Música independente\. A tua alternativa ao mainstream\. Foto: Bon Iver
+> Música independente\. A tua alternativa ao mainstream\. Foto: Lana Del Rey
 
-257 songs - 14 hr 57 min
+260 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-10 |  |
 | [A Cantiga É](https://open.spotify.com/track/11dMkIHbpNiBHp6aZZSvcF) | [Linda Martini](https://open.spotify.com/artist/4Pv6qAkea25i2DlW1quQ8t) | [Tudo E O Seu Contrário](https://open.spotify.com/album/6qi8DPvnici0jD17JXXlb7) | 4:32 | 2024-09-27 | 2024-10-18 |
 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 | 2025-04-10 |  |
+| [A sensação jamais será a mesma](https://open.spotify.com/track/3UIWzUFOQOACPXTIhCM7dN) | [João Tiago](https://open.spotify.com/artist/6hbVZwkvCZF0iuOVZuV9Ni) | [A sensação jamais será a mesma](https://open.spotify.com/album/6axjAd3u17lzYmGi24i0yB) | 1:32 | 2025-04-17 |  |
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2024-06-20 |  |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2024-06-20 |  |
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-01-10 |  |
@@ -22,7 +23,7 @@
 | [All](https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [All](https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp) | 4:18 | 2024-08-08 | 2024-10-22 |
 | [Amanhã Tou Melhor](https://open.spotify.com/track/3I0w0pdn5s2W44gGmBxsa0) | [Capitão Fausto](https://open.spotify.com/artist/5CoXKGQeOWgWi8koTZh07b) | [Capitão Fausto Têm os Dias Contados](https://open.spotify.com/album/7iXoMNx0O5wa0gQ1iRE6Xp) | 3:26 | 2024-06-20 | 2024-07-19 |
 | [Amor De Ganga](https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz) | [Miguel Luz](https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm) | [Amor De Ganga](https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT) | 3:26 | 2024-10-24 | 2025-02-28 |
-| [Antes Matar do Que Morrer](https://open.spotify.com/track/1ephLNTr28VH9NFkwYoU4l) | [Sérgio Portela](https://open.spotify.com/artist/77ovckiVR7T08dHyJvpDSZ) | [Antes Matar do Que Morrer](https://open.spotify.com/album/5NnqhiDxPj7HbRsD0aFxqW) | 3:23 | 2025-04-03 |  |
+| [Antes Matar do Que Morrer](https://open.spotify.com/track/1ephLNTr28VH9NFkwYoU4l) | [Sérgio Portela](https://open.spotify.com/artist/77ovckiVR7T08dHyJvpDSZ) | [Antes Matar do Que Morrer](https://open.spotify.com/album/5NnqhiDxPj7HbRsD0aFxqW) | 3:23 | 2025-04-03 | 2025-04-18 |
 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF) | 5:09 | 2024-06-20 | 2024-08-09 |
 | [Apago tudo](https://open.spotify.com/track/0PV4jz1JE8gpqP3ZnkIOeG) | [bombazine](https://open.spotify.com/artist/5u1k62yUtsOIqf1U4wIQ8N) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 3:00 | 2025-03-14 | 2025-04-11 |
 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-06-20 |  |
@@ -36,11 +37,13 @@
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-24 |  |
 | [BAZAR PARA CASA](https://open.spotify.com/track/0jxVhnDDxEVujTVPKxNphe) | [Hause Plants](https://open.spotify.com/artist/7ciUlbAc461mRvHx3YmIYk) | [BAZAR PARA CASA](https://open.spotify.com/album/2XsHr8UEGbAu9uzWdVOESS) | 2:48 | 2024-09-05 | 2024-10-04 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2024-12-01 |
+| [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 | 2025-04-17 |  |
 | [Best Friends](https://open.spotify.com/track/1HdkhxFrzifewm5amVrP9D) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Best Friends](https://open.spotify.com/album/1CvQ6ffxe39iuZeaNHbxx7) | 4:01 | 2024-11-22 | 2025-01-17 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2025-01-17 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-20 |  |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2024-06-20 |  |
 | [Blue](https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Blue](https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W) | 2:33 | 2025-04-03 |  |
+| [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-17 |  |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-06-20 | 2024-07-27 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-06-20 | 2024-10-04 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-08 | 2025-02-28 |
@@ -72,7 +75,7 @@
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-20 | 2025-01-12 |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-06-20 | 2024-07-05 |
 | [Dois Dias](https://open.spotify.com/track/63kNuUJlACeCpa05bYt8c4) | [Virgem Suta](https://open.spotify.com/artist/75kEM6sw8FhizUFcg8rKZs) | [Dois Dias](https://open.spotify.com/album/0ctKS2AY7qkiN7ohiyoTri) | 3:34 | 2024-06-20 | 2024-07-27 |
-| [Dominó](https://open.spotify.com/track/5s8m0vw5bgRaYVUzihQhWg) | [Nunca Mates o Mandarim](https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ) | [Dominó](https://open.spotify.com/album/6Ce4x7Ud7dnXOF3ko9AETt) | 4:11 | 2025-03-21 |  |
+| [Dominó](https://open.spotify.com/track/5s8m0vw5bgRaYVUzihQhWg) | [Nunca Mates o Mandarim](https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ) | [Dominó](https://open.spotify.com/album/6Ce4x7Ud7dnXOF3ko9AETt) | 4:11 | 2025-03-21 | 2025-04-18 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-06-20 | 2024-07-27 |
 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 | 2025-02-21 | 2025-03-07 |
 | [dreaming about you](https://open.spotify.com/track/1SAEwa3ebIbgsMiT4zf5Co) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [dreaming about you](https://open.spotify.com/album/7u6HP1Zb7tNvdaocPqYMoo) | 2:36 | 2025-03-28 |  |
@@ -208,7 +211,7 @@
 | [Sei Lá](https://open.spotify.com/track/54mA1qMU0eoBWFfX7Yjuiw) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r) | [Sei Lá](https://open.spotify.com/album/34WZRUrpLbEfGSoOlntHiv) | 3:51 | 2025-01-31 | 2025-02-14 |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-18 | 2024-09-21 |
 | [Sin City](https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:42 | 2024-11-15 | 2025-01-26 |
-| [sinner](https://open.spotify.com/track/41Mc7frMLGljmQyEyLhydE) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [sinner](https://open.spotify.com/album/52B4TGJ48W4ZuJAz1xPkh3) | 3:32 | 2025-04-03 |  |
+| [sinner](https://open.spotify.com/track/41Mc7frMLGljmQyEyLhydE) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [sinner](https://open.spotify.com/album/52B4TGJ48W4ZuJAz1xPkh3) | 3:32 | 2025-04-03 | 2025-04-18 |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2024-06-20 |  |
 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 | 2025-01-24 | 2025-04-04 |
 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-06-20 | 2025-02-21 |

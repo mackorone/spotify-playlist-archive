@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Luch\u00e8 in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Cecchy in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -6485,6 +6485,40 @@
     },
     {
       "album": {
+        "name": "VEDETTA",
+        "url": "https://open.spotify.com/album/3ESL4IrdTQ7rzpUOl40oYe"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "Higashi",
+          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Skugnizz",
+          "url": "https://open.spotify.com/artist/2JdjbtVckoqADquM30hdSc"
+        },
+        {
+          "name": "BADMAN",
+          "url": "https://open.spotify.com/artist/5UylpZwZKc12wY1kBQuC3p"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234299,
+      "name": "Piano A Piano B (feat. Baby Gang, Skugnizz & BADMAN)",
+      "url": "https://open.spotify.com/track/6mKe6Jt0x2sXX2BMh5uECX"
+    },
+    {
+      "album": {
         "name": "Piazza Affari",
         "url": "https://open.spotify.com/album/1ZToE2WrAGtomIllERroNM"
       },
@@ -7473,6 +7507,32 @@
     },
     {
       "album": {
+        "name": "SALI E TABACCHI",
+        "url": "https://open.spotify.com/album/4n2a7cOm9FM0phvcyYlZ27"
+      },
+      "artists": [
+        {
+          "name": "Ricissettbro",
+          "url": "https://open.spotify.com/artist/7CADVOC4ufUtnP1yZe7Wxt"
+        },
+        {
+          "name": "BRNSN",
+          "url": "https://open.spotify.com/artist/4qhoD3HCKeNkTTGNSLFvv7"
+        },
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/7FmF44kE21QmjMtwW6Fn8S"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198391,
+      "name": "SALI E TABACCHI",
+      "url": "https://open.spotify.com/track/2kIKi8A8u3Pie85Yo9Dly8"
+    },
+    {
+      "album": {
         "name": "Sang Not Slime (feat. Frezza, VGL)",
         "url": "https://open.spotify.com/album/1FqrZtX1JRElTqClzhzk2W"
       },
@@ -8360,7 +8420,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 165361,
       "name": "TE NE VAJE",
       "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
@@ -8934,7 +8994,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 131489,
       "name": "TUTT QUANT",
       "url": "https://open.spotify.com/track/60N3n4VFwoNEnUYsRp8lZp"
@@ -8960,6 +9020,24 @@
       "duration_ms": 138231,
       "name": "TUTT' APPOST'",
       "url": "https://open.spotify.com/track/1x4c3uX52ae6HDhRjbLbyK"
+    },
+    {
+      "album": {
+        "name": "TUTTA APPARENZA",
+        "url": "https://open.spotify.com/album/52qE91pnVledi68ZGEuj5T"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150204,
+      "name": "TUTTA APPARENZA",
+      "url": "https://open.spotify.com/track/459UDpJG0gBZnIihUWQWtn"
     },
     {
       "album": {
@@ -9137,6 +9215,24 @@
     },
     {
       "album": {
+        "name": "Val Na Miserij",
+        "url": "https://open.spotify.com/album/3Tn0FR60qjCRHFNt6PKzt4"
+      },
+      "artists": [
+        {
+          "name": "Cciro",
+          "url": "https://open.spotify.com/artist/51kOPkIhcvnBxEtrQG9jNh"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82962,
+      "name": "Val Na Miserij",
+      "url": "https://open.spotify.com/track/3Uz3qWnbqPugLsD3BoHt34"
+    },
+    {
+      "album": {
         "name": "Vecchio stampo & West Coast",
         "url": "https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa"
       },
@@ -9302,7 +9398,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 159374,
       "name": "VIEN'CCA",
       "url": "https://open.spotify.com/track/6ENT7ncTtDKUia5LSf0TUI"
@@ -9378,7 +9474,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 170987,
       "name": "Vita mij (feat. Stefania Lay)",
       "url": "https://open.spotify.com/track/3F81leXAXnat2RBO1mS6sx"

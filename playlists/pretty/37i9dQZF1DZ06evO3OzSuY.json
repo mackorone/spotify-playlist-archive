@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24570,
+  "num_followers": 24576,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/2hgAAAAACmO6oCKLcTbvG/hmeOuWlL",
+  "snapshot_id": "Z/7zAAAAAAClUIvrGl6fXJzbPg+kH4I2",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Undercover (Theme Song From \"K.C. Undercover\")",
-        "url": "https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 156693,
-      "name": "Keep It Undercover - Theme Song From \"K.C. Undercover\"",
-      "url": "https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
         "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 137142,
       "name": "Rue's I'm Tired (with Zendaya)",
       "url": "https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep It Undercover (Theme Song From \"K.C. Undercover\")",
+        "url": "https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 156693,
+      "name": "Keep It Undercover - Theme Song From \"K.C. Undercover\"",
+      "url": "https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9"
     },
     {
       "added_at": null,

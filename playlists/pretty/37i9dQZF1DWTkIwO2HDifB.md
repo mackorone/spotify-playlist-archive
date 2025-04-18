@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Rabetão de Terremoto  e os funks mais 🔑 do Brasil\. Foto: DJ CZ, MC Nito, DJ TS, MC Pogba
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,524,120 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,524,778 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

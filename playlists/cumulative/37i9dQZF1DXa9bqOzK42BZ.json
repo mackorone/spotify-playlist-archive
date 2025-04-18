@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Atafanya",
+        "url": "https://open.spotify.com/album/4d2RvpianFuxJcnxLykgGJ"
+      },
+      "artists": [
+        {
+          "name": "Mathias Walichupa",
+          "url": "https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229347,
+      "name": "Atafanya",
+      "url": "https://open.spotify.com/track/6GVCASJsB3ly7jfatlcuUg"
+    },
+    {
+      "album": {
         "name": "Baba Bless",
         "url": "https://open.spotify.com/album/6ocpsJ53YTnsTt7bHOj8kk"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 183586,
       "name": "Baba Bless",
       "url": "https://open.spotify.com/track/3dhCA09HOqWflLFBETCNlg"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 201599,
       "name": "Bijoux",
       "url": "https://open.spotify.com/track/2F3bnonyhTUUL0kaI92RDb"
@@ -2059,6 +2077,28 @@
     },
     {
       "album": {
+        "name": "Mwenye Uwezo",
+        "url": "https://open.spotify.com/album/1vuXnAygU80Nr9hRTAvgjW"
+      },
+      "artists": [
+        {
+          "name": "Dr Sarah K",
+          "url": "https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm"
+        },
+        {
+          "name": "Shachah Team",
+          "url": "https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519223,
+      "name": "Mwenye Uwezo - Live",
+      "url": "https://open.spotify.com/track/4RcqL9xk4v0PbbuEaCJxVv"
+    },
+    {
+      "album": {
         "name": "Naamini Kwako Bwana",
         "url": "https://open.spotify.com/album/1jExfezqunAy4F3tQP9IZf"
       },
@@ -3611,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "TEMBEA",
+        "url": "https://open.spotify.com/album/59b7qV0UrKkmT6mvLzL5Tw"
+      },
+      "artists": [
+        {
+          "name": "Koppa Gekon",
+          "url": "https://open.spotify.com/artist/7cQJ5T9nc2H2ccc57x9WwH"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "TEMBEA",
+      "url": "https://open.spotify.com/track/0JqowWHMog6xDZ9JnECyGg"
+    },
+    {
+      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6ViivhHL3tS4VQodPp4DQ9"
       },
@@ -3980,7 +4038,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 216000,
       "name": "Usichelewe",
       "url": "https://open.spotify.com/track/5x8QDSx5hM7esdrYctNlmY"

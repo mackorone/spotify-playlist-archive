@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-964 songs - 2 day 1 hr 15 min
+965 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2 Times](https://open.spotify.com/track/2QmHLEbbxW2gxR0iL0vw7I) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [2 Times](https://open.spotify.com/album/7jWUtLC9MYDjWe7v5HnVUh) | 2:57 | 2023-09-25 | 2023-12-14 |
 | [2024 \- ilizo Remix](https://open.spotify.com/track/4owR2KfPn3rXIK0FnUbTHQ) | [chique](https://open.spotify.com/artist/6z0l5ifI5dNo1PHAVpgFEb), [ilizo](https://open.spotify.com/artist/52Yi0rUbNFG61eJnLyUkSq) | [2024 \(ilizo Remix\)](https://open.spotify.com/album/2YFQ1eG7C2tgNHp6dlL4Kg) | 5:10 | 2024-07-08 | 2024-09-26 |
 | [4U \- Buitano Remix](https://open.spotify.com/track/2h8wPu5QdjQ6LYWLJLG2py) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:41 | 2024-12-20 |  |
+| [5 Days In Búzios](https://open.spotify.com/track/32P5p8mzGF3wzWaSico9mM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0) | [5 Days In Búzios](https://open.spotify.com/album/1m6dFh2O0KPxyiVIxXzwQt) | 4:03 | 2025-04-17 |  |
 | [5th Symphony](https://open.spotify.com/track/5pWRMkVuhSjZdDNtup4xIe) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [5th Symphony](https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI) | 2:37 | 2023-04-14 | 2023-12-14 |
 | [A Little Bit More](https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd) | [Gaudini](https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX), [KVKI](https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms) | [A Little Bit More](https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo) | 2:25 | 2023-04-14 | 2023-04-28 |
 | [A Little More \(feat\. Dana Williams\)](https://open.spotify.com/track/5gCoZzvyiiEY5uEuhQL48V) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [A Little More](https://open.spotify.com/album/4e3yi5az6mFH69vAriHViK) | 3:25 | 2024-12-05 | 2025-03-14 |

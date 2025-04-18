@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0´00´´](https://open.spotify.com/track/4bhPNXMW8OqDVknPwVjNgi) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s) | [Electronycs Vol.1, 20th Century Early Electronic, Noise and Experimental Music\. 1920\-1960](https://open.spotify.com/album/5NPndI7zyah4Q9MLvZCwxS) | 2:29 | 2022-01-07 |  |
-| [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 | 2022-01-07 |  |
+| [Amphitryon 38 \- Remastered](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 | 2022-01-07 |  |
 | [Awakening of a City](https://open.spotify.com/track/64tNZbBSOZXEueOBILY1vZ) | [Luigi Russolo](https://open.spotify.com/artist/3UQ7xESfjsa932tpBngbgZ), [Antonio Russolo](https://open.spotify.com/artist/5t2sFKaprL2CwobmRlolTv) | [Awakening of a City](https://open.spotify.com/album/772tGTfSeunEDmA5rCJs4W) | 3:49 | 2022-01-07 |  |
 | [Blanche](https://open.spotify.com/track/17839FXSP5VYjy33XbNlO5) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [Musiques concrètes 1970\-71](https://open.spotify.com/album/4IozR37CeDTkuQL7dbpq8X) | 12:23 | 2022-01-07 |  |
 | [Caravan](https://open.spotify.com/track/4yb85lS6DsGlMfF1EEpcRa) | [Pierre Bastien](https://open.spotify.com/artist/5fnXjhmTrnKmXbPDnvTUkm) | [Les Premières Machines](https://open.spotify.com/album/7l8WiZ0hsfmAfLnGraMDCu) | 2:36 | 2022-01-07 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Ryan Ofei
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,909 likes - 69 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,944 likes - 69 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ways](https://open.spotify.com/track/06PdBblXoDirhxiXXMnZAv) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Xavier Omar](https://open.spotify.com/artist/1Xn5uRpPDfBgBHRLFhFfh9) | [Ways](https://open.spotify.com/album/4ynqPMUYF8FGVvgN7kU0Sj) | 3:21 |
+| 1 | [Ways](https://open.spotify.com/track/06PdBblXoDirhxiXXMnZAv) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Ways](https://open.spotify.com/album/4ynqPMUYF8FGVvgN7kU0Sj) | 3:21 |
 | 2 | [PROOF](https://open.spotify.com/track/2Wf6uUY3wsf2hwCxVl4rRG) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [PROOF](https://open.spotify.com/album/6EpqQXiIfwfuO66kQhROys) | 4:31 |
 | 3 | [Hold Me Up](https://open.spotify.com/track/2OjQHB8BoADlEToXt2HeDb) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Give It More Time](https://open.spotify.com/album/11EHl3HcQlvBlTniWjt6Ld) | 3:24 |
 | 4 | [Proud Of Me](https://open.spotify.com/track/0IKQF4nHCkDZI11mPDOTiQ) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [III](https://open.spotify.com/album/29D7mUl2JogSYnDm5gLnU1) | 3:19 |

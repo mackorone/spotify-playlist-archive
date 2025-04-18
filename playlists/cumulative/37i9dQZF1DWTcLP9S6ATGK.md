@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Elsa Japasal
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Deborah Hanna
 
-423 songs - 1 day 3 hr 46 min
+427 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Esok kan Masih Ada](https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Utha Likumahuwa](https://open.spotify.com/artist/5CqfTDAytUttoCHfln3Wl9) | [Esok kan Masih Ada](https://open.spotify.com/album/3410T0CgNw9YeIB7Y7fvmN) | 3:52 | 2024-07-25 | 2024-09-27 |
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-06-27 | 2024-07-12 |
 | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/track/4XS9LuFJPDVtMhRcusypFa) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J), [Mostafa Atef](https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN) | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/album/0olFjxKrvkZZRdTjxSrlfO) | 3:44 | 2025-02-28 |  |
+| [Gantung](https://open.spotify.com/track/2R1Eks7GwZb8F8JIfyZEBo) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Gantung](https://open.spotify.com/album/45xtIbXUuprdcTEUqvRpCB) | 3:37 | 2025-04-17 |  |
 | [Gantung Aku](https://open.spotify.com/track/3ZiKadU8FnJwKyDgTdb9hX) | [Aurla](https://open.spotify.com/artist/5aqBDf8HH7H0fduSKocH4Y) | [Gantung Aku](https://open.spotify.com/album/1LrW1BsfigrClXjZ1YjLtr) | 3:28 | 2024-07-25 | 2024-09-27 |
 | [Gelap Yang Terang](https://open.spotify.com/track/7fYP9QIs8W9nGIofho4U4D) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Gelap Yang Terang](https://open.spotify.com/album/6mlkjSMKOl1q2F20fmkOPy) | 3:48 | 2025-02-20 |  |
 | [Gelora Api Cinta](https://open.spotify.com/track/0YTZxhWbGXYngtEkkA2INc) | [Dian Piesesha](https://open.spotify.com/artist/1VXrpcuRNWPy5Ev4PZTKlY) | [Cinta dan Waktu](https://open.spotify.com/album/79SBy5CuVNBAYhdA3ELvRP) | 4:30 | 2024-11-22 | 2025-03-07 |
@@ -293,6 +294,7 @@
 | [Ramadhan Penuh Cinta](https://open.spotify.com/track/5X7jHS8U6uutjXrXuvysx3) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Ramadhan Penuh Cinta](https://open.spotify.com/album/3VrRGvLmhAoCVqV9UcalHY) | 3:30 | 2025-03-06 |  |
 | [Rapuh \- From "Kawin Tangan"](https://open.spotify.com/track/4z6f9z75aV6rcFwjlzbgVF) | [Adrian Sant](https://open.spotify.com/artist/7LnKv7Mz67Fnpo9AyKXbyB) | [Rapuh \(From "Kawin Tangan"\)](https://open.spotify.com/album/5HPpfn3f5jf52NSOe6hP0I) | 4:33 | 2024-06-27 | 2024-09-13 |
 | [Rasa Yang Salah](https://open.spotify.com/track/2WvDUnSyzgKBkOyCsWLUWD) | [Ammir Gita](https://open.spotify.com/artist/1Tibn3fgyF89en7LbMX7No), [Pepita](https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa) | [Rasa Yang Salah \(Original Soundtrack Barong Landung\)](https://open.spotify.com/album/10s4TikvgNXLX0oXLtdt6A) | 3:23 | 2024-12-12 | 2025-03-21 |
+| [Rindu](https://open.spotify.com/track/0ZbnfuW3JuWzQjBa5WMwKo) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Koca](https://open.spotify.com/artist/2OJGOa8UrU4F5rjIaAQbvf) | [Rindu](https://open.spotify.com/album/2iA1WaUcpMkaj2WPYUasqz) | 4:05 | 2025-04-17 |  |
 | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/track/2RGrqXoub7squjIihLpWhu) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/album/10zPrC718iV3GiIRVy8cUH) | 4:03 | 2024-06-27 | 2024-09-27 |
 | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/track/62PDVJCNyBicBG8SNjmqIA) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/album/2SO4bvyRmnNgOQbikwP8nl) | 3:26 | 2024-08-29 | 2024-11-22 |
 | [Rindu Muhammadku \- feat\. Ueno Family](https://open.spotify.com/track/3GAimFrBBs2wTzoiir7X12) | [Haddad Alwi](https://open.spotify.com/artist/74ChjUIygYil4jKh4k2HjT), [Ueno Family](https://open.spotify.com/artist/6z1SqwQLPl38UahndALrvr) | [Rindu Muhammadku \(feat\. Ueno Family\)](https://open.spotify.com/album/492WS4PwAQFR8SCCTs9C8F) | 2:42 | 2025-02-27 |  |
@@ -356,6 +358,7 @@
 | [Setengah Mati \- From "Bila Esok Ibu Tiada"](https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Setengah Mati \(From "Bila Esok Ibu Tiada"\)](https://open.spotify.com/album/5xgGkD8AlVjkwa6nxOotUH) | 3:59 | 2024-09-26 | 2025-01-10 |
 | [Sewajarnya](https://open.spotify.com/track/3Z69H2TPlcIQnPS77HQNRP) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Sewajarnya](https://open.spotify.com/album/55VKhwlEM22hG76WIQy7qL) | 4:36 | 2024-11-21 | 2025-02-28 |
 | [Sewaktu Kau disisiku](https://open.spotify.com/track/5rgeLgA9SSVHQy7KT0d8HM) | [Baim](https://open.spotify.com/artist/1xtClintZXLr9RrzKzwBeM) | [Sewaktu Kau disisiku](https://open.spotify.com/album/03FWPzcDpaI93D84O6AVcH) | 3:41 | 2024-09-12 | 2024-11-22 |
+| [Si Paling](https://open.spotify.com/track/7dTFMexbRVTQg54nJZezY0) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Si Paling](https://open.spotify.com/album/6ukh6WIlCAvImEwJZRsLGx) | 3:33 | 2025-04-17 |  |
 | [Sia \- Sia](https://open.spotify.com/track/0Qnnr0h1NKsyUMAf153HSN) | [Ahmad Abdul](https://open.spotify.com/artist/7LISjRSYAaiWJsuqY4wez7) | [Sia \- Sia](https://open.spotify.com/album/7c6512sBpEfpIqxVbl9Y6v) | 5:13 | 2024-10-24 | 2024-11-22 |
 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 | 2024-06-27 | 2024-11-22 |
 | [Silakan](https://open.spotify.com/track/4pzNeQGUwjiS62z253nHWQ) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Silakan](https://open.spotify.com/album/444trBoPD85W5xTE1G82lj) | 3:30 | 2024-06-27 | 2024-10-18 |
@@ -380,6 +383,7 @@
 | [Tak Pernah Cukup](https://open.spotify.com/track/62xkvlY0eeT6Utko8jmtNm) | [Jolene Marie](https://open.spotify.com/artist/6e9LDbLaImTys3UZE9XUkF) | [Tak Pernah Cukup](https://open.spotify.com/album/5COpA8B8noKIQ66PHbsdgn) | 4:23 | 2024-06-27 | 2024-07-05 |
 | [Tak Pernah Satu](https://open.spotify.com/track/7A02VsaJnIC0c2B2BxGT7T) | [Raynaldo Wijaya](https://open.spotify.com/artist/1tA4MwL0SWuQjiwxYYspCZ) | [Tak Pernah Satu](https://open.spotify.com/album/7e5Wdnrj4gM09crcUVgnHI) | 3:06 | 2025-01-09 | 2025-02-28 |
 | [Tak Pernah Sendiri](https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Tak Pernah Sendiri](https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX) | 4:01 | 2024-09-12 | 2024-11-22 |
+| [Tak Sampai Ku Miliki](https://open.spotify.com/track/62t5qZhMn3Ce5W7UTcSbix) | [Dendi Dhamawan](https://open.spotify.com/artist/36zvGVXfcaLlw6L7V5Nam0), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Tak Sampai Ku Miliki](https://open.spotify.com/album/7c2EpJpJzo4evPXD1l4X85) | 4:36 | 2025-04-17 |  |
 | [Tak Satu Arah](https://open.spotify.com/track/4pTOqeUdofRDDn0MhLpYqI) | [Ekhsan](https://open.spotify.com/artist/6nfhbYSRrnkFkdVRZ080Lx) | [Tak Satu Arah](https://open.spotify.com/album/382fS3FMS6gK7nUqZ4JpUd) | 4:04 | 2025-02-13 |  |
 | [Tak Satu Cerita](https://open.spotify.com/track/2Jp7oaFGIyaSV30pFoALV5) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Tak Satu Cerita](https://open.spotify.com/album/3wcIIqXWuSAe0ULRsjpMpv) | 3:46 | 2025-01-30 |  |
 | [Tak Sehebat Dulu](https://open.spotify.com/track/20QZAN1Cc9v8piHeAoGkm8) | [ACYUTA](https://open.spotify.com/artist/3OB0l92TmjSGDLGVyaiY8s) | [Tak Sehebat Dulu](https://open.spotify.com/album/4mBpp8hGA5oj6fkmmdrxtX) | 4:00 | 2024-07-04 | 2024-08-16 |

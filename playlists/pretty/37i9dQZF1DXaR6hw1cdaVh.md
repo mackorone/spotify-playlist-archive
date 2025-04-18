@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,322 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,326 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 14 | [Rossetto e caffè \(con The Kolors\)](https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR), [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [Rossetto e caffè \(con The Kolors\)](https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws) | 3:09 |
 | 15 | [Aspettando Il Sole](https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Giuliano Palma](https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 5:12 |
 | 16 | [Bella stronza](https://open.spotify.com/track/6zaqjLbBdfkdHUWtQzvrK2) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [Il Cielo Della Vergine](https://open.spotify.com/album/60MK9V8B2IP2TuCwDdb1R9) | 5:21 |
-| 17 | [Quando \- 2021 Remaster](https://open.spotify.com/track/2wcfoB1fYTDaLdV4RqA42H) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Sotto 'o sole \(2021 Remaster\)](https://open.spotify.com/album/2lIRhytz2a9UnnVmRrpPCW) | 3:35 |
+| 17 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
 | 18 | [The Sound of Silence \- Electric Version](https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:05 |
 | 19 | [La voglia, la pazzia](https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [La voglia la pazzia l'incoscienza l'allegria](https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH) | 2:53 |
 | 20 | [Tutto il resto e' noia](https://open.spotify.com/track/0RbhVoxOZE8BniSgmDbaXV) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tutto Il Resto E' Noia](https://open.spotify.com/album/1tIlFQtwEMi0icuiu4uf8x) | 4:34 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 22 | [L'Estate Sta Finendo](https://open.spotify.com/track/2ZgIpoW01dJhpHwkOCgV2d) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:47 |
 | 23 | [Folle città](https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [BANDABERTÈ](https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o) | 3:37 |
 | 24 | [Un tempo piccolo \(feat\. Tiromancino & Ditonellapiaga\)](https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Sulla riva del fiume](https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6) | 3:45 |
-| 25 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
+| 25 | [Quando \- 2021 Remaster](https://open.spotify.com/track/2wcfoB1fYTDaLdV4RqA42H) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Sotto 'o sole \(2021 Remaster\)](https://open.spotify.com/album/2lIRhytz2a9UnnVmRrpPCW) | 3:35 |
 | 26 | [Crêuza de mä \- New Mix 2014](https://open.spotify.com/track/4Y3WfBJo7kwWkvzU8jzbno) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Creuza de ma](https://open.spotify.com/album/6UGZ5FUUu2W0MWtEUvEcIJ) | 6:15 |
 | 27 | [Un Tempo piccolo](https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Non Escludo Il Ritorno](https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk) | 4:11 |
 | 28 | [La cura](https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz), [Amara](https://open.spotify.com/artist/0DRQddAJlPIR3pMzRJm5kb) | [Quando sarai piccola](https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm) | 3:45 |

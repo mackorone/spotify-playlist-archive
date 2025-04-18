@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Jos\u00e9 James",
+  "description": "The best jazz new releases. Cover: Laufey",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 137831,
       "name": "Always Late",
       "url": "https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h"
@@ -6347,6 +6347,28 @@
     },
     {
       "album": {
+        "name": "In The Middle Of The Night",
+        "url": "https://open.spotify.com/album/7v8dwOajIobAzC55dSutzp"
+      },
+      "artists": [
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Christelle Raquillet",
+          "url": "https://open.spotify.com/artist/3kXt66QJ68b1be6rhSajTJ"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256040,
+      "name": "In The Middle Of The Night",
+      "url": "https://open.spotify.com/track/4RWnTUSQCrn3lf9Sde306x"
+    },
+    {
+      "album": {
         "name": "In Our Time",
         "url": "https://open.spotify.com/album/6hDNnQWpJ8dlfpNw6XKifQ"
       },
@@ -6762,6 +6784,24 @@
       "duration_ms": 164451,
       "name": "Jeux de chats au jardin",
       "url": "https://open.spotify.com/track/0nQR6gak5pdH9mhOx7lxKR"
+    },
+    {
+      "album": {
+        "name": "Joking",
+        "url": "https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158637,
+      "name": "Joking",
+      "url": "https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq"
     },
     {
       "album": {
@@ -11012,7 +11052,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 253320,
       "name": "Sacred Conversations",
       "url": "https://open.spotify.com/track/50nrTCws5S6Yrg3ehCPYu2"
@@ -11493,6 +11533,24 @@
     },
     {
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"
+    },
+    {
+      "album": {
         "name": "Pasieros",
         "url": "https://open.spotify.com/album/1fIKEGcN78crVvuSWjquHA"
       },
@@ -11838,7 +11896,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 318857,
       "name": "Stairway to the Stars",
       "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"

@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 81569,
+  "num_followers": 81583,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/2hgAAAAAC8WTmU8U4DtjERy+2WQVRB",
+  "snapshot_id": "Z/7zAAAAAABxnU/VEZAU5D5RtqkVVucW",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 137533,
-      "name": "I Didn't Understand",
-      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
+      "duration_ms": 153466,
+      "name": "Oh Well, OK",
+      "url": "https://open.spotify.com/track/7AG284RTvcDG9uHt1NQIbu"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Oh Well, OK",
-      "url": "https://open.spotify.com/track/7AG284RTvcDG9uHt1NQIbu"
+      "duration_ms": 137533,
+      "name": "I Didn't Understand",
+      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+        "name": "Either/Or: Expanded Edition",
+        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
+      "duration_ms": 198973,
+      "name": "2:45 AM",
+      "url": "https://open.spotify.com/track/1CHGb6pmqnHlzQeHX9wHfn"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Either/Or: Expanded Edition",
-        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 198973,
-      "name": "2:45 AM",
-      "url": "https://open.spotify.com/track/1CHGb6pmqnHlzQeHX9wHfn"
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,

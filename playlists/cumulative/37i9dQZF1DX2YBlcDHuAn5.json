@@ -359,6 +359,28 @@
     },
     {
       "album": {
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236022,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri"
+    },
+    {
+      "album": {
         "name": "The Reins",
         "url": "https://open.spotify.com/album/2K9DzxhjXaYVZeVvMaGXhX"
       },
@@ -370,7 +392,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 204398,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/2NCTklsgFuF3A02OZ8HwRe"
@@ -1795,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+    },
+    {
+      "album": {
         "name": "In Between",
         "url": "https://open.spotify.com/album/2Ppz3Hw0YEXsKuC5PCisjT"
       },
@@ -2290,7 +2330,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 195490,
       "name": "Mortality Blues",
       "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
@@ -2800,7 +2840,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-18",
       "duration_ms": 167697,
       "name": "Red White & Blue",
       "url": "https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v"
@@ -4028,6 +4068,24 @@
       "duration_ms": 180669,
       "name": "Wild Roses",
       "url": "https://open.spotify.com/track/18d5dlhKtJRqNBxNrB4gWU"
+    },
+    {
+      "album": {
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
     },
     {
       "album": {
