@@ -2097,6 +2097,32 @@
     },
     {
       "album": {
+        "name": "HC Disnei",
+        "url": "https://open.spotify.com/album/2W2jxvKviaq8lVRbkrJXRC"
+      },
+      "artists": [
+        {
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+        },
+        {
+          "name": "Homog\u00e9nica",
+          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
+        },
+        {
+          "name": "Lagrimitas",
+          "url": "https://open.spotify.com/artist/6ciaCuNXH1oI9zNW0Wrm9a"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "HC Disnei",
+      "url": "https://open.spotify.com/track/7nozKIKtdSH48GSxQ2Kt6P"
+    },
+    {
+      "album": {
         "name": "Hice Todo Mal",
         "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
       },

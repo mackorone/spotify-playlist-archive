@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 364551,
+  "num_followers": 364624,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
-        "name": "Digital girl",
-        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 174225,
-      "name": "Digital girl - funk remix",
-      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
-    },
-    {
-      "added_at": "2025-04-17 15:41:01",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+    },
+    {
+      "added_at": "2025-04-17 15:41:01",
+      "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 174225,
+      "name": "Digital girl - funk remix",
+      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
     },
     {
       "added_at": "2025-04-17 15:41:01",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
-        "name": "Enchant\u00e9 (Remix)",
-        "url": "https://open.spotify.com/album/6ggi98mpjekLC0rad010ND"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        },
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 241961,
-      "name": "Enchant\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/3x7ro52yzcFqlUicJhGFM0"
-    },
-    {
-      "added_at": "2025-04-17 15:41:01",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2025-04-17 15:41:01",
+      "album": {
+        "name": "Enchant\u00e9 (Remix)",
+        "url": "https://open.spotify.com/album/6ggi98mpjekLC0rad010ND"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        },
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 241961,
+      "name": "Enchant\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/3x7ro52yzcFqlUicJhGFM0"
     },
     {
       "added_at": "2025-04-17 15:41:01",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
-    },
-    {
-      "added_at": "2025-04-17 15:41:01",
-      "album": {
         "name": "Deafened (feat. Family Habits)",
         "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 201626,
       "name": "Deafened (feat. Family Habits)",
       "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+    },
+    {
+      "added_at": "2025-04-17 15:41:01",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2025-04-17 15:41:01",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
-        "name": "Change (Edit)",
-        "url": "https://open.spotify.com/album/4LZzcVZ5K0CNbnEypXeWVp"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 211620,
-      "name": "Change - Edit",
-      "url": "https://open.spotify.com/track/3tigqLQ5aJe2Ngl0OqbLVg"
-    },
-    {
-      "added_at": "2025-04-17 15:41:01",
-      "album": {
         "name": "LOVER/LOSER",
         "url": "https://open.spotify.com/album/6eyDpYxgYybNKcClV9pPyy"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 183700,
       "name": "LOVER/LOSER",
       "url": "https://open.spotify.com/track/4uerIOfWoTb2Hxudx3IeYw"
+    },
+    {
+      "added_at": "2025-04-17 15:41:01",
+      "album": {
+        "name": "Change (Edit)",
+        "url": "https://open.spotify.com/album/4LZzcVZ5K0CNbnEypXeWVp"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 211620,
+      "name": "Change - Edit",
+      "url": "https://open.spotify.com/track/3tigqLQ5aJe2Ngl0OqbLVg"
     },
     {
       "added_at": "2025-04-17 15:41:01",
@@ -1219,26 +1219,22 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3dopQWYglFlga1QkKpdDzk"
+        "name": "Backwards (Dirty Danger Remix)",
+        "url": "https://open.spotify.com/album/7gJxO9sYE3Z3P6o2ZU11GP"
       },
       "artists": [
         {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         },
         {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+          "name": "Dirty Danger",
+          "url": "https://open.spotify.com/artist/78lktX7XM4b5604M5Wq1YG"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/4xfJsFmkuEpuzeLuPoxVVq"
+      "duration_ms": 141641,
+      "name": "Backwards - Dirty Danger Remix",
+      "url": "https://open.spotify.com/track/01bm2bOFAqev8ISXyZPcTo"
     },
     {
       "added_at": "2025-04-17 15:41:01",
@@ -1259,22 +1255,26 @@
     {
       "added_at": "2025-04-17 15:41:01",
       "album": {
-        "name": "Backwards (Dirty Danger Remix)",
-        "url": "https://open.spotify.com/album/7gJxO9sYE3Z3P6o2ZU11GP"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3dopQWYglFlga1QkKpdDzk"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
         },
         {
-          "name": "Dirty Danger",
-          "url": "https://open.spotify.com/artist/78lktX7XM4b5604M5Wq1YG"
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
         }
       ],
-      "duration_ms": 141641,
-      "name": "Backwards - Dirty Danger Remix",
-      "url": "https://open.spotify.com/track/01bm2bOFAqev8ISXyZPcTo"
+      "duration_ms": 209032,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4xfJsFmkuEpuzeLuPoxVVq"
     },
     {
       "added_at": "2025-04-17 15:41:01",

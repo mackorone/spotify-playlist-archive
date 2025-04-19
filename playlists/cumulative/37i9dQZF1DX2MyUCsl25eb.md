@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-920 songs - 2 day 5 hr 11 min
+921 songs - 2 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2023-01-28 |
 | [Blood](https://open.spotify.com/track/0Ht4rJqj1RsXPrgbhbcDOa) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Blood](https://open.spotify.com/album/2A3a9WxEKjpG4nLdJrTQcX) | 3:56 | 2023-02-17 | 2023-06-24 |
 | [blue](https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:33 | 2022-07-15 | 2022-07-23 |
+| [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-18 |  |
 | [Blurry](https://open.spotify.com/track/3FdwLv9dcB6tkjpY43jrbW) | [Noelle Johnson](https://open.spotify.com/artist/2V17eU6gWyvIWAMxuDMoUJ) | [Blurry](https://open.spotify.com/album/3EFtNQt6u6dY7AmgIGkuhN) | 3:27 | 2023-03-31 | 2023-07-29 |
 | [Bonafide Living](https://open.spotify.com/track/4yP3jLzVplst0epZO5aI5R) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Bonafide Living](https://open.spotify.com/album/52UZVDxABxGGbIewagY63q) | 4:24 | 2022-05-20 | 2022-05-28 |
 | [Bonnie Wait](https://open.spotify.com/track/11JSE9lPVKyp7pmnpRyB7z) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5) | 2:44 | 2023-05-12 | 2023-05-20 |
@@ -330,7 +331,7 @@
 | [Heaven Help Me](https://open.spotify.com/track/5cRp3t6SJAVvyfUte891Xd) | [Jak Lizard](https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5) | [Heaven Help Me](https://open.spotify.com/album/3xklq4j7GrLcRDvKVA4REb) | 3:15 | 2021-08-04 | 2022-06-13 |
 | [Hell Together](https://open.spotify.com/track/5Kx4qHEP3n62BmDc842W0t) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Hell Together](https://open.spotify.com/album/6A7coJEq3Bh4g0hNjpjIHD) | 2:56 | 2024-03-29 | 2024-07-19 |
 | [Hello Stranger](https://open.spotify.com/track/1JMbkIHlgLrOiaL6ELPsRZ) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Chills & Fever](https://open.spotify.com/album/23zeW7minvQQfP2XifkF17) | 4:22 | 2021-08-05 | 2022-04-20 |
-| [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-11 |  |
+| [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-11 | 2025-04-19 |
 | [Her](https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [Sad Bird](https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT) | 3:00 | 2022-05-13 | 2022-05-20 |
 | [Here We Go](https://open.spotify.com/track/0MkLSgg3dXXfgjf0zLNLkU) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [Secondhand Smoke](https://open.spotify.com/album/70G1nUwFugH5eW2WuKWwvW) | 3:26 | 2021-08-05 | 2022-04-17 |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 | 2022-10-07 |

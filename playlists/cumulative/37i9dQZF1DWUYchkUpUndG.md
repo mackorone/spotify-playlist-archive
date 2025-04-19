@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=aAspDRzFQvqjWUhQsbESKA>Victor Thompson</a>
 
-5,041 songs - 15 day 8 hr 38 min
+5,042 songs - 15 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,7 +896,7 @@
 | [Devotion](https://open.spotify.com/track/6ey6UQnRFCF4Oxmy0FCw9a) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Danielle D](https://open.spotify.com/artist/5cStR0nOui9rkeIJarFE5O) | [Devotion](https://open.spotify.com/album/0fFHIUgHnZqhZcfWhsApky) | 3:02 | 2024-06-01 | 2024-06-21 |
 | [Devotion \[Pt.2\)](https://open.spotify.com/track/21Bm1vbkCxmmkBDGztqRIH) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [Danielle D](https://open.spotify.com/artist/5cStR0nOui9rkeIJarFE5O), [JKP COLLECTIVE](https://open.spotify.com/artist/3w1ntm2mjZQVnJpZfl4O0B) | [Devotion \[Pt.2\)](https://open.spotify.com/album/2C0z2M1RhmuhIqsARGmv3E) | 2:50 | 2024-09-27 | 2024-10-11 |
 | [Diamant](https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo) | [Isaac M](https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26) | [Diamant](https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX) | 2:58 | 2024-03-22 | 2024-04-05 |
-| [Dibe Tsaka](https://open.spotify.com/track/3yoOd0mfYPoqhPlwGdRJ4Y) | [Sechaba](https://open.spotify.com/artist/1Dag9YPYj8w9Q67pn9qDa4) | [Jeso Oa Mamela](https://open.spotify.com/album/0yhYq8O1SAM2DnzYz9jDTn) | 4:55 | 2025-04-18 |  |
+| [Dibe Tsa Ka](https://open.spotify.com/track/3yoOd0mfYPoqhPlwGdRJ4Y) | [Sechaba](https://open.spotify.com/artist/1Dag9YPYj8w9Q67pn9qDa4) | [Jeso Oa Mamela](https://open.spotify.com/album/0yhYq8O1SAM2DnzYz9jDTn) | 4:55 | 2025-04-18 |  |
 | [Die Een Wat Ek Liefhet](https://open.spotify.com/track/4bNu09KaKRYXcOj5Ehd1Nl) | [RICHELLE GRANT](https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H) | [Die Een Wat Ek Liefhet](https://open.spotify.com/album/0TmmdquKZCcoGHAbNFLRjn) | 4:52 | 2023-07-14 | 2023-07-21 |
 | [Die Empty](https://open.spotify.com/track/7reD7fahtXie1nns7myRDj) | [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW), [Suffix](https://open.spotify.com/artist/7vnxU9gFgrVnQ9BBxHw60s) | [Die Empty](https://open.spotify.com/album/3jaiygH3eXbS8YeSXz1Mwo) | 2:59 | 2023-11-24 | 2023-12-01 |
 | [Dieu Fidèle](https://open.spotify.com/track/4x6Qvetl4uziJZATVwL0DD) | [Miracle Yilouss](https://open.spotify.com/artist/5Mm4YYbuCzYTlj7e81YlNH) | [Dieu Fidèle](https://open.spotify.com/album/3uLyIFRHLzPbB3KJLugdy3) | 3:48 | 2023-05-19 | 2023-06-02 |
@@ -4264,6 +4264,7 @@
 | [The King Is Coming](https://open.spotify.com/track/40inC92JTKVWMCoYbJwX64) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [The King Is Coming](https://open.spotify.com/album/5jTtR6g2fHUl8VkOn3EDOb) | 5:06 | 2025-01-31 | 2025-02-07 |
 | [The King Is in the Room](https://open.spotify.com/track/6Tjkc5H1ivrzcPiWIc78wI) | [His Church Music](https://open.spotify.com/artist/1jMeFoQnHRPmCYctBPZqbp), [Pamela Myburgh](https://open.spotify.com/artist/0fmsGte6TDNGk9WwaAAhfJ) | [The King Is in the Room](https://open.spotify.com/album/1snfxWlSJeiyer9UqlIfJe) | 5:20 | 2023-06-30 | 2023-09-08 |
 | [The Kingdom](https://open.spotify.com/track/4yzDjnib4cjptMVd8RcRun) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [The Kingdom](https://open.spotify.com/album/2xMxduGsaY47At52XEeczU) | 1:47 | 2024-01-26 | 2024-02-09 |
+| [The Lamb Is Worthy](https://open.spotify.com/track/42AG7K7eHAjThhQgQ3NRHd) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [The Lamb Is Worthy](https://open.spotify.com/album/7sf8YtBIWIM9UH6GvWSu9e) | 13:21 | 2025-04-18 |  |
 | [THE LAW \(Racing Thoughts\)](https://open.spotify.com/track/2vxXnJfjgqMTeOwoBPcJZA) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [THE LAW \(Racing Thoughts\)](https://open.spotify.com/album/7E9lSpsca67HVXnZHWj4Ii) | 2:45 | 2024-10-18 | 2024-10-25 |
 | [The Life](https://open.spotify.com/track/1Wp8BKu4JsFvUfHhyxaThS) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [The Life](https://open.spotify.com/album/0r83zIYgyDomUxX8zOTqPb) | 2:45 | 2024-07-19 | 2024-08-02 |
 | [The Light](https://open.spotify.com/track/10T7esJJuGZsS7uDS7DRKi) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [The Light](https://open.spotify.com/album/25zgcqtXAJyrSVG6tIUDDN) | 3:45 | 2024-04-26 | 2024-05-10 |

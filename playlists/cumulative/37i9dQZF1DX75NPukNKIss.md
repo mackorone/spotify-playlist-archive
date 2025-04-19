@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Playboi Carti
 
-114 songs - 5 hr 19 min
+116 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [BABY](https://open.spotify.com/track/1hs6NSqRaOSnnsHDTq23D4) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [BABY](https://open.spotify.com/album/1A2scsZ160QX6nuUkCEJ04) | 2:14 | 2024-12-13 | 2024-12-21 |
 | [Baby Girl On The Way](https://open.spotify.com/track/6FHsuGMFpmY4cxT7qL4l1c) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Baby Girl On The Way](https://open.spotify.com/album/10JghYSsQ9P5vXQQpcOoZq) | 2:52 | 2024-10-25 |  |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-17 |  |
+| [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:12 | 2025-04-18 |  |
 | [Bad For Me](https://open.spotify.com/track/46htLemGubh1NvYMbeBGeV) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 3:58 | 2025-02-14 |  |
 | [Be Alone](https://open.spotify.com/track/60mLVgBx8LkBAMWsL9s3bi) | [Tyler Loyal](https://open.spotify.com/artist/7pgbjv3FWqKcMKQckkbd3j) | [Be Alone](https://open.spotify.com/album/6AXdFVJhSzC1sndGfBuFNM) | 1:58 | 2024-12-20 | 2025-01-11 |
 | [Beishu](https://open.spotify.com/track/2ZW0S50cpLNPf0cDANvjrT) | [Stelair](https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J) | [Beishu](https://open.spotify.com/album/4mgGMS9sl45p1nH6WIN2lL) | 2:00 | 2025-02-14 |  |
@@ -68,6 +69,7 @@
 | [Lifted](https://open.spotify.com/track/0zMzOp7GY9yBrTFB8ZKtpK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:50 | 2024-12-26 |  |
 | [Like This \(Remix\) \[feat\. Bay Swag and wolfacejoeyy\]](https://open.spotify.com/track/09VSVEnGU1QDktP3WBRQRF) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [2 Sides of the Story \(Deluxe\)](https://open.spotify.com/album/4448e2jWEMcHjOQJKQk2u9) | 3:10 | 2024-12-13 | 2025-01-18 |
 | [Loopy](https://open.spotify.com/track/1FQ4gFzY4SAsvVtqqzBcOW) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Loopy](https://open.spotify.com/album/6HzhPQQ81iZ8wMLhmDBjGS) | 2:21 | 2024-10-25 |  |
+| [LUV U](https://open.spotify.com/track/5RLKu8UORU150aRLREflOK) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [LUV U](https://open.spotify.com/album/7eQ7lfwB8uHZMs1KpOKsWx) | 2:15 | 2025-04-18 |  |
 | [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 | 2024-10-25 |  |
 | [Make It](https://open.spotify.com/track/5Kruw5nxEp8kP9PSENCs2j) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Make It](https://open.spotify.com/album/2ALakB56cdxPOLT3jByPcn) | 3:00 | 2024-11-22 | 2024-11-30 |
 | [Masterpiece](https://open.spotify.com/track/6tnpw5No4aPQaYvh53AiPJ) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MR\. R2R](https://open.spotify.com/album/3wayBXXQkgzlcK2LDVsJlv) | 2:27 | 2024-10-25 | 2024-12-27 |

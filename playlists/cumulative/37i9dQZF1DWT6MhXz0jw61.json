@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Saba",
+  "description": "Chillout hip-hop vibes. Cover: Wiz Khalifa",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -978,7 +978,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 179037,
       "name": "Airport Industries (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/3LDkIVgSk1qF4gJ9LJBhOh"
@@ -4174,6 +4174,28 @@
       "duration_ms": 241582,
       "name": "Carefree (with Femdot & Mick Jenkins)",
       "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
+    },
+    {
+      "album": {
+        "name": "Kush + Orange Juice 2",
+        "url": "https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223571,
+      "name": "Cashed Out - feat. Larry June",
+      "url": "https://open.spotify.com/track/1qUyn3s2q7ltOZ5HntTT8K"
     },
     {
       "album": {
@@ -12161,6 +12183,32 @@
     },
     {
       "album": {
+        "name": "Kush + Orange Juice 2",
+        "url": "https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228732,
+      "name": "Jet Taylor - feat. Terrace Martin and Curren$y",
+      "url": "https://open.spotify.com/track/7iPvtDaI6p06iusfigUrC7"
+    },
+    {
+      "album": {
         "name": "JET-LAGGED (feat. Dessy Hinds)",
         "url": "https://open.spotify.com/album/200JG0yd1VQruQkuFK7tQV"
       },
@@ -13759,6 +13807,32 @@
     },
     {
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/1nzUTLirQi5b0lC9JtfIIJ"
+      },
+      "artists": [
+        {
+          "name": "The Underachievers",
+          "url": "https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N"
+        },
+        {
+          "name": "Issa Gold",
+          "url": "https://open.spotify.com/artist/4AQPiL37xjPAgBfEEYQrg9"
+        },
+        {
+          "name": "AKTHESAVIOR",
+          "url": "https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Losing Feathers",
+      "url": "https://open.spotify.com/track/68OrstzJ9ZwZr10JVHzb6D"
+    },
+    {
+      "album": {
         "name": "Incrementum",
         "url": "https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR"
       },
@@ -14496,6 +14570,28 @@
       "duration_ms": 193381,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/4GVR6ByANiD9OuirszuC8A"
+    },
+    {
+      "album": {
+        "name": "MICHIGAN",
+        "url": "https://open.spotify.com/album/1Tju3BMSIKB61FBSZWM5n7"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "MICHIGAN",
+      "url": "https://open.spotify.com/track/6k1cc8PaQCA0HUVImhYBcn"
     },
     {
       "album": {
@@ -15686,7 +15782,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 95820,
       "name": "No Respect",
       "url": "https://open.spotify.com/track/3uRWGyCSvn5AVkJrO6q3g5"
@@ -17575,6 +17671,28 @@
     },
     {
       "album": {
+        "name": "Prairie View",
+        "url": "https://open.spotify.com/album/21G9fcYSqk08kpBiFK6SrK"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136466,
+      "name": "Prairie View (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/4SRO28Mlz2386J87Nzwq7D"
+    },
+    {
+      "album": {
         "name": "PEDALS / PETALS (A Mixtape Narrated by Don Cannon)",
         "url": "https://open.spotify.com/album/7MheQdYU2yYaRCN5i9M974"
       },
@@ -18448,7 +18566,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 245268,
       "name": "RiCH MAN DREAMS (i)",
       "url": "https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk"
@@ -19622,7 +19740,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 127896,
       "name": "shoulder",
       "url": "https://open.spotify.com/track/5xRE9C7hcmACuWMUJvBsoi"
@@ -19950,6 +20068,28 @@
       "duration_ms": 97641,
       "name": "SLOW MONEY",
       "url": "https://open.spotify.com/track/4k53NT1TxClQ53PL0S323t"
+    },
+    {
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193883,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
     },
     {
       "album": {
@@ -24294,7 +24434,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 177545,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/7ekZQdTEbFA3GElh4WVv3x"
@@ -24556,7 +24696,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 253500,
       "name": "Who Gon Love You",
       "url": "https://open.spotify.com/track/244cX8u7OwVyiW2z6uaD3C"

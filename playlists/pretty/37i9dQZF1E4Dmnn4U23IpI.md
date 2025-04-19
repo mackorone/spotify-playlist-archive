@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With FM\-84, Ollie Wride, The Bad Dreamers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,917 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,924 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Everything](https://open.spotify.com/track/24hghyOlo1dTQ9sv2wufpk) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:20 |
 | 50 | [Fly for Your Life](https://open.spotify.com/track/2eTHgWvYYunxgqYKqNOuZD) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [GUNSHIP](https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf) | 4:39 |
 
-Snapshot ID: `aAG8kwAAAAASFLcCeRpbxRRqZbaHq95N`
+Snapshot ID: `aAMXagAAAAB9XEv7yNF4THRolgCh8Z+4`

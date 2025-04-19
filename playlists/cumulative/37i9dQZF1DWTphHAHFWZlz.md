@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
 
-288 songs - 16 hr 35 min
+289 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ando Buscando](https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Ando Buscando](https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE) | 3:13 | 2022-06-29 | 2022-07-20 |
 | [Angel de los Perdedores](https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP) | [El Soldado](https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Sergio Dawi](https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs) | [Tren de Fugitivos](https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f) | 5:16 | 2023-05-30 | 2023-06-09 |
 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 | 2023-06-08 |  |
+| [ANTONIO](https://open.spotify.com/track/6SYTtNE9tD95oSFPbKXeFL) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:49 | 2025-04-18 |  |
 | [aPoLLo13](https://open.spotify.com/track/4TwGAkJIDzUJndABBBxOL2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 2:38 | 2024-05-10 |  |
 | [Aquella Tarde](https://open.spotify.com/track/2cKdZVBnUaZn8ljdFvZdpX) | [Gualicho Turbio](https://open.spotify.com/artist/0ZRNpfCY00nx1WDHkVHxt7) | [Aquella Tarde](https://open.spotify.com/album/3i1JAH6tozHGd0QU0sYMgm) | 3:17 | 2022-06-29 | 2022-07-20 |
 | [Armagedón](https://open.spotify.com/track/1YAkwbM8f7yFRyu5OyG2xy) | [Camila López](https://open.spotify.com/artist/6VHcngSiHE3Y9Lzip0Dta2), [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Armagedón](https://open.spotify.com/album/0ubs2oQKjr2uLaSifiIapF) | 3:01 | 2022-07-29 | 2023-05-20 |

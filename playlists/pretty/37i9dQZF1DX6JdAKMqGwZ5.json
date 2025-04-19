@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Amatria.",
-  "num_followers": 199065,
+  "num_followers": 199126,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
+        "name": "Good old days",
+        "url": "https://open.spotify.com/album/2gUA4L2GbZnmYxfmu72NOO"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Good old days",
+      "url": "https://open.spotify.com/track/1BotdzoXMMEqSQJRNKEuL3"
+    },
+    {
+      "added_at": "2025-04-17 22:00:03",
+      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/77I5lp1UwURnhQzOalJrj8"
       },
@@ -683,38 +699,6 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
-        "name": "Good old days",
-        "url": "https://open.spotify.com/album/2gUA4L2GbZnmYxfmu72NOO"
-      },
-      "artists": [
-        {
-          "name": "San Tosielo",
-          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Good old days",
-      "url": "https://open.spotify.com/track/1BotdzoXMMEqSQJRNKEuL3"
-    },
-    {
-      "added_at": "2025-04-17 22:00:03",
-      "album": {
-        "name": "9: 30 PM",
-        "url": "https://open.spotify.com/album/38JDZpTqebOuea0MfVqSxS"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 166336,
-      "name": "19/17",
-      "url": "https://open.spotify.com/track/13WHc7TAtc9M47zu1H3CCc"
-    },
-    {
-      "added_at": "2025-04-17 22:00:03",
-      "album": {
         "name": "Juvenil",
         "url": "https://open.spotify.com/album/3Krto3PEJptwSC7FTA4dZF"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 152130,
       "name": "Juvenil",
       "url": "https://open.spotify.com/track/2wb5yn5LXQAuVot0WJwcBD"
+    },
+    {
+      "added_at": "2025-04-17 22:00:03",
+      "album": {
+        "name": "9: 30 PM",
+        "url": "https://open.spotify.com/album/38JDZpTqebOuea0MfVqSxS"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "19/17",
+      "url": "https://open.spotify.com/track/13WHc7TAtc9M47zu1H3CCc"
     },
     {
       "added_at": "2025-04-17 22:00:03",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
-        "name": "El lago de mi pena",
-        "url": "https://open.spotify.com/album/16Ck8Zv5wTIE8Aealh3oxc"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        },
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 236138,
-      "name": "El lago de mi pena",
-      "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
-    },
-    {
-      "added_at": "2025-04-17 22:00:03",
-      "album": {
         "name": "Catro Cousas",
         "url": "https://open.spotify.com/album/6ids62t89U0VelXnAY1hHY"
       },
@@ -955,18 +935,38 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
-        "name": "Vespa Verde Agua",
-        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
       },
       "artists": [
         {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
         }
       ],
-      "duration_ms": 166134,
-      "name": "Vespa Verde Agua",
-      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
+    },
+    {
+      "added_at": "2025-04-17 22:00:03",
+      "album": {
+        "name": "El lago de mi pena",
+        "url": "https://open.spotify.com/album/16Ck8Zv5wTIE8Aealh3oxc"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        },
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 236138,
+      "name": "El lago de mi pena",
+      "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
     },
     {
       "added_at": "2025-04-17 22:00:03",
@@ -983,6 +983,22 @@
       "duration_ms": 197466,
       "name": "Un Cl\u00e1sico [2022]",
       "url": "https://open.spotify.com/track/4HGwZV5u3gLKuKoSpONUbz"
+    },
+    {
+      "added_at": "2025-04-17 22:00:03",
+      "album": {
+        "name": "Vespa Verde Agua",
+        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
+      },
+      "artists": [
+        {
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        }
+      ],
+      "duration_ms": 166134,
+      "name": "Vespa Verde Agua",
+      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
     },
     {
       "added_at": "2025-04-17 22:00:03",
@@ -1007,38 +1023,18 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
-        "name": "arderse",
-        "url": "https://open.spotify.com/album/77yHGs199QWdFrsoeZzHhp"
+        "name": "Hibernarse",
+        "url": "https://open.spotify.com/album/5mBYiJmNgmFwGEXy0vftSR"
       },
       "artists": [
         {
           "name": "Fillas de Cassandra",
           "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
-        },
-        {
-          "name": "Caama\u00f1o & Ameixeiras",
-          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
         }
       ],
-      "duration_ms": 206046,
-      "name": "arderse",
-      "url": "https://open.spotify.com/track/67OG6Enh7fZUts8bTkxKtr"
-    },
-    {
-      "added_at": "2025-04-17 22:00:03",
-      "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
+      "duration_ms": 58421,
+      "name": "feito a man",
+      "url": "https://open.spotify.com/track/7eU1pF95wQAZLYprQmTzkk"
     },
     {
       "added_at": "2025-04-17 22:00:03",
@@ -1111,22 +1107,6 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
-        "name": "Hibernarse",
-        "url": "https://open.spotify.com/album/5mBYiJmNgmFwGEXy0vftSR"
-      },
-      "artists": [
-        {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
-        }
-      ],
-      "duration_ms": 58421,
-      "name": "feito a man",
-      "url": "https://open.spotify.com/track/7eU1pF95wQAZLYprQmTzkk"
-    },
-    {
-      "added_at": "2025-04-17 22:00:03",
-      "album": {
         "name": "Espera",
         "url": "https://open.spotify.com/album/7HSbL3TYnAZnOSNGHHs4IT"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 198960,
       "name": "Desde El Otro Lado",
       "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
+    },
+    {
+      "added_at": "2025-04-17 22:00:03",
+      "album": {
+        "name": "arderse",
+        "url": "https://open.spotify.com/album/77yHGs199QWdFrsoeZzHhp"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        },
+        {
+          "name": "Caama\u00f1o & Ameixeiras",
+          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
+        }
+      ],
+      "duration_ms": 206046,
+      "name": "arderse",
+      "url": "https://open.spotify.com/track/67OG6Enh7fZUts8bTkxKtr"
     },
     {
       "added_at": "2025-04-17 22:00:03",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
-        "name": "Dar Dos",
-        "url": "https://open.spotify.com/album/31hoqRwucjvltHHDsl9UuN"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Da Silva",
-          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
-        }
-      ],
-      "duration_ms": 213429,
-      "name": "Dar Dos",
-      "url": "https://open.spotify.com/track/2TzV7yrc3A8ejmytkN1z2P"
-    },
-    {
-      "added_at": "2025-04-17 22:00:03",
-      "album": {
         "name": "CIELO1",
         "url": "https://open.spotify.com/album/7MGC4d8d7aBnYudQNq6KQB"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 150508,
       "name": "PROFEC\u00cdA",
       "url": "https://open.spotify.com/track/3UrgV10Vn0AfjhR6zL4Wby"
+    },
+    {
+      "added_at": "2025-04-17 22:00:03",
+      "album": {
+        "name": "Dar Dos",
+        "url": "https://open.spotify.com/album/31hoqRwucjvltHHDsl9UuN"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
+        }
+      ],
+      "duration_ms": 213429,
+      "name": "Dar Dos",
+      "url": "https://open.spotify.com/track/2TzV7yrc3A8ejmytkN1z2P"
     },
     {
       "added_at": "2025-04-17 22:00:03",
@@ -1415,6 +1415,30 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
+        "name": "S\u00ed quiero",
+        "url": "https://open.spotify.com/album/5imykjy0TikI0PLzJmmrBP"
+      },
+      "artists": [
+        {
+          "name": "Gala i Ovidio",
+          "url": "https://open.spotify.com/artist/1WDaT0hseXn1UAQRQwtM1P"
+        },
+        {
+          "name": "Ra\u00fcl Refree",
+          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
+        },
+        {
+          "name": "AIDA",
+          "url": "https://open.spotify.com/artist/7mkLeKjDZrtDQhQ3nRheBb"
+        }
+      ],
+      "duration_ms": 222999,
+      "name": "S\u00ed quiero",
+      "url": "https://open.spotify.com/track/4xJn8krR7GdVAY88BtXjBQ"
+    },
+    {
+      "added_at": "2025-04-17 22:00:03",
+      "album": {
         "name": "Lo Que Me Pasa",
         "url": "https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm"
       },
@@ -1459,30 +1483,6 @@
       "duration_ms": 162000,
       "name": "Se Nota",
       "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
-    },
-    {
-      "added_at": "2025-04-17 22:00:03",
-      "album": {
-        "name": "S\u00ed quiero",
-        "url": "https://open.spotify.com/album/5imykjy0TikI0PLzJmmrBP"
-      },
-      "artists": [
-        {
-          "name": "Gala i Ovidio",
-          "url": "https://open.spotify.com/artist/1WDaT0hseXn1UAQRQwtM1P"
-        },
-        {
-          "name": "Ra\u00fcl Refree",
-          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
-        },
-        {
-          "name": "AIDA",
-          "url": "https://open.spotify.com/artist/7mkLeKjDZrtDQhQ3nRheBb"
-        }
-      ],
-      "duration_ms": 222999,
-      "name": "S\u00ed quiero",
-      "url": "https://open.spotify.com/track/4xJn8krR7GdVAY88BtXjBQ"
     },
     {
       "added_at": "2025-04-17 22:00:03",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
-        "name": "SUSANA",
-        "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
-      },
-      "artists": [
-        {
-          "name": "Confeti de Odio",
-          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
-        }
-      ],
-      "duration_ms": 165280,
-      "name": "SUSANA",
-      "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
-    },
-    {
-      "added_at": "2025-04-17 22:00:03",
-      "album": {
         "name": "VENDAVAL",
         "url": "https://open.spotify.com/album/3UmC1efXALsL18k4KnLtcA"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 209605,
       "name": "VENDAVAL",
       "url": "https://open.spotify.com/track/5Qus7bpzmfchnnUfPBBgfu"
+    },
+    {
+      "added_at": "2025-04-17 22:00:03",
+      "album": {
+        "name": "SUSANA",
+        "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
+      },
+      "artists": [
+        {
+          "name": "Confeti de Odio",
+          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
+        }
+      ],
+      "duration_ms": 165280,
+      "name": "SUSANA",
+      "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
     },
     {
       "added_at": "2025-04-17 22:00:03",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
-        "name": "Elizabeth",
-        "url": "https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/1RZcXkyB8Ex8RAGJWX4K7g"
-    },
-    {
-      "added_at": "2025-04-17 22:00:03",
-      "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 184739,
       "name": "V\u00e9rtigo",
       "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
+    },
+    {
+      "added_at": "2025-04-17 22:00:03",
+      "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/1RZcXkyB8Ex8RAGJWX4K7g"
     },
     {
       "added_at": "2025-04-17 22:00:03",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2025-04-17 22:00:03",
       "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/2gf6opx4lkbSyHstkTCBXO"
       },
       "artists": [
         {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+          "name": "Galician Army",
+          "url": "https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x"
+        },
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
         }
       ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+      "duration_ms": 220444,
+      "name": "MARIA",
+      "url": "https://open.spotify.com/track/1nRvl1ztx7pwPxnQQQv7B1"
     },
     {
       "added_at": "2025-04-17 22:00:03",

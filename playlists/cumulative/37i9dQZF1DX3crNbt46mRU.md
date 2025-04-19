@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Nej \(pictured\),  Milano and Jazeek and more.
 
-17,140 songs - 35 day 13 hr 51 min
+17,143 songs - 35 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6012,6 +6012,7 @@
 | [Gone \(Da da Da\)](https://open.spotify.com/track/4TPn8ZBClUUWlU2ZP7DXa6) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Gone \(Da da Da\)](https://open.spotify.com/album/23ByeCiWrIBymzs7G05gh5) | 2:43 | 2022-10-21 | 2022-10-28 |
 | [Gone Bye Bye](https://open.spotify.com/track/3DQKkGvN6BFI3vjmUoU6aU) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Gone Bye Bye](https://open.spotify.com/album/0XRoISEZAu1xuPjxcdvAji) | 2:53 | 2022-06-09 | 2022-06-17 |
 | [Gone Girl](https://open.spotify.com/track/7DVExWnUrXWfG2BoPSVuIV) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [A Means To An End](https://open.spotify.com/album/4PNJUaEtXtEDNgg7a7YOko) | 2:18 | 2022-11-17 | 2022-11-25 |
+| [Goner](https://open.spotify.com/track/0VsS92QhsoQEMoCfiAKPPv) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Goner](https://open.spotify.com/album/7pRxdqlCm4qiermOdQetwc) | 2:42 | 2025-04-17 |  |
 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 | 2023-06-22 | 2023-06-30 |
 | [Gonna Dance with Somebody](https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj) | [Gonna Dance with Somebody](https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh) | 3:07 | 2024-08-01 | 2024-08-09 |
 | [Good again](https://open.spotify.com/track/0T28pKNpZpPpt85xjtiTkA) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:47 | 2024-05-30 | 2024-06-07 |
@@ -7536,7 +7537,7 @@
 | [Immer du](https://open.spotify.com/track/7e2CmNUn9W9nGf0fX7JYha) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Immer du](https://open.spotify.com/album/3osNs12vn6LZXvA685Hqgc) | 2:32 | 2024-05-09 | 2024-05-17 |
 | [Immer für dich](https://open.spotify.com/track/0RF0xer4k37ITstJbUTRFE) | [Knappe](https://open.spotify.com/artist/02jkPxmytH0Jj7qtp1qooI) | [Immer für dich](https://open.spotify.com/album/6uGNwOYslwh9PWWPtBL5aP) | 2:37 | 2025-04-10 | 2025-04-18 |
 | [Immer Ich](https://open.spotify.com/track/1BRmdxObZqDi0BZsCLRdxy) | [Skip](https://open.spotify.com/artist/1sWe2nEb4VOOvCFBphBjkd) | [Immer Ich](https://open.spotify.com/album/1Y2JEL6w5eCPqNKJAoDjKl) | 3:17 | 2023-12-21 | 2024-01-05 |
-| [Immer im Heart](https://open.spotify.com/track/0sRY564sY90WLgk4auDrb5) | [Sira Faal](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Immer im Heart](https://open.spotify.com/album/4RJADn2BU0xpLQ7uWwGuQb) | 2:34 | 2025-04-17 |  |
+| [Immer im Heart](https://open.spotify.com/track/0sRY564sY90WLgk4auDrb5) | [Sira Faal](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [Immer im Heart](https://open.spotify.com/album/4RJADn2BU0xpLQ7uWwGuQb) | 2:34 | 2025-04-17 |  |
 | [Immer immer wieder tun](https://open.spotify.com/track/7CD4MFq64zgopapvURvKQj) | [Beatrice Egli](https://open.spotify.com/artist/7J8A1bNBCuikXoOOetFCKz) | [Alles in Balance \- Laut & Live](https://open.spotify.com/album/1PO9GWzJaOazq5YZhpNNaO) | 2:33 | 2024-10-10 | 2024-10-18 |
 | [Immer Jemand Wach](https://open.spotify.com/track/6jyg9uo35fUkrS9PWtZkHc) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Immer Jemand Wach](https://open.spotify.com/album/600GYflg5Gb43OkvQprPLi) | 2:57 | 2023-01-26 | 2023-02-03 |
 | [Immer Liebe](https://open.spotify.com/track/3BrYrgD93VP2HDRHGoofR3) | [BUNT!](https://open.spotify.com/artist/3cM4EwIi4jHdMC96sUXJ4Z), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Immer Liebe](https://open.spotify.com/album/2ExpVd5Te4Tc8hAANPGFzd) | 2:31 | 2023-03-02 | 2023-03-10 |
@@ -12323,6 +12324,7 @@
 | [RATCHET](https://open.spotify.com/track/1YLA2jrLroXemGxfiFsvoa) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [RATCHET](https://open.spotify.com/album/3ALbecApKIu8QUPmSsMFGf) | 2:29 | 2022-05-26 | 2022-06-03 |
 | [Ratchets](https://open.spotify.com/track/51scKFIVavfzXbtxexkUgr) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Ratchets](https://open.spotify.com/album/2C321RLGFMQ7aexKEf4q9i) | 3:42 | 2022-05-05 | 2022-05-13 |
 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 | 2022-05-26 | 2022-06-03 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [rauch](https://open.spotify.com/track/3DxLnjueYU6PC7EhgWVNNl) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [rauch](https://open.spotify.com/album/3f1DyygD4bDZn6nshNhuLU) | 1:59 | 2024-07-18 | 2024-07-27 |
 | [Raue Zärtlichkeit](https://open.spotify.com/track/4QYtmLxnMNsX1dfjIg3fTJ) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Raue Zärtlichkeit](https://open.spotify.com/album/3re4AICzx9AEd1XfE9oAZ0) | 2:15 | 2023-08-10 | 2023-08-18 |
 | [Raum 37](https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Raum 37](https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV) | 2:21 | 2023-04-13 | 2023-04-21 |
@@ -14657,6 +14659,7 @@
 | [The Ballad Of](https://open.spotify.com/track/2L9sfKUycKmyBo3ALoUtpJ) | [Peter Doherty](https://open.spotify.com/artist/0ikiOZC4SDG6OrgHLESydg), [Frédéric Lo](https://open.spotify.com/artist/3S3X6lg99IFE3acTZpzoR9) | [The Fantasy Life Of Poetry & Crime](https://open.spotify.com/album/3SgDDsq6WCe4sNm8INdR30) | 3:14 | 2022-03-18 | 2022-03-25 |
 | [The Beat](https://open.spotify.com/track/16iUJ2k7QmZkmWi2ST9mnj) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [The Beat](https://open.spotify.com/album/2idRd7SOnFP6NOcXwwqPJ8) | 2:36 | 2022-05-12 | 2022-05-20 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-30 | 2024-06-07 |
+| [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 | 2025-04-17 |  |
 | [The Best Is Yet To Come](https://open.spotify.com/track/6A5zWnkFR96Z4SJPon9KjD) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Best Is Yet To Come](https://open.spotify.com/album/2zs4alV54L7X8B0lNghrG7) | 3:03 | 2022-05-19 | 2022-05-27 |
 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 | 2022-10-13 | 2022-10-21 |
 | [The Best Part](https://open.spotify.com/track/426Ts4w4vCFNW01udSShf9) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:29 | 2023-03-24 | 2023-03-31 |

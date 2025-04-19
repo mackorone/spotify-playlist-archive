@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 
 > for wandering through nature's playground 🏔️
 
-[](https://open.spotify.com/user/null) - 288,005 likes - 148 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,213 likes - 148 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

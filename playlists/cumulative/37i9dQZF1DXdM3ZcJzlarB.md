@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros.
 
-237 songs - 23 hr 24 min
+238 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Grizzly](https://open.spotify.com/track/0eJAdywm5Us3s0SSnTbpKb) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Josefina Barreix](https://open.spotify.com/artist/5SXlK4xm33IALfIZedwDaG) | [Grizzly EP](https://open.spotify.com/album/5eH9ZsVF5KtFzlgTj9OZLu) | 7:57 | 2020-09-04 | 2023-11-18 |
 | [Grizzly](https://open.spotify.com/track/2q9MxkasX02QRMxIwmOuyh) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Josefina Barreix](https://open.spotify.com/artist/5SXlK4xm33IALfIZedwDaG) | [Grizzly EP](https://open.spotify.com/album/61tID3JlAy9ZeUsG01kI3w) | 7:57 | 2020-09-04 | 2023-11-11 |
 | [HALCÓN \- BATTO90 REMIX](https://open.spotify.com/track/1OfnDC7CzRtE0n36xiASrK) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Joaquin Catriel](https://open.spotify.com/artist/3DcweuVidzAfVGEo8EX8Lz), [BATTO90](https://open.spotify.com/artist/1ZLBobkYHo0sCbXEqQ00yh) | [HALCÓN \- BATTO90 REMIX](https://open.spotify.com/album/2eCWTRfwbbwHqXlN7uu4gf) | 5:21 | 2025-02-28 | 2025-03-20 |
+| [Harvest \- Hernan Cattaneo & Soundexile Remix](https://open.spotify.com/track/3HkRQHDo4yJDuYwK23xv5t) | [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Harvest \(Hernan Cattaneo & Soundexile Remix\)](https://open.spotify.com/album/2jvXXJhQVanpaZJkBDQqsq) | 7:34 | 2025-04-18 |  |
 | [Have a Name](https://open.spotify.com/track/53tCE5hNbLxBlWFCyvlKUz) | [Cruz Vittor](https://open.spotify.com/artist/4y56vMJhfSq2h8zydFq4U3), [Nacho Varela](https://open.spotify.com/artist/2WzYsYG7sMgHwVBFl4Ygbk), [Geri Terella](https://open.spotify.com/artist/531tcRjfpYktr60afxz7fR) | [Summer Sampler 2019](https://open.spotify.com/album/24tndY3JguGFXXiEgmtjWs) | 8:11 | 2020-09-04 | 2023-11-18 |
 | [Have a Name](https://open.spotify.com/track/0yAwmFCrHVUgJt9OBZz7nk) | [Nacho Varela](https://open.spotify.com/artist/2WzYsYG7sMgHwVBFl4Ygbk), [Cruz Vittor](https://open.spotify.com/artist/4y56vMJhfSq2h8zydFq4U3), [Geri Terella](https://open.spotify.com/artist/531tcRjfpYktr60afxz7fR) | [Summer Sampler 2019](https://open.spotify.com/album/3euhzUoPnyiNLlpaw3IV1i) | 8:11 | 2020-09-04 | 2023-11-11 |
 | [Headspace \(feat\. Paula Os\) \[Mixed\]](https://open.spotify.com/track/03H3L3c6gM8IGUYX3b5eCF) | [Mike Griego](https://open.spotify.com/artist/1qRPzNqWxaXA0kLCvK34oM), [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Balance presents Sunsetstrip \(Mixed Version\)](https://open.spotify.com/album/3NntuAMKnUhdtciw8mYw9n) | 7:05 | 2020-09-04 | 2023-11-18 |

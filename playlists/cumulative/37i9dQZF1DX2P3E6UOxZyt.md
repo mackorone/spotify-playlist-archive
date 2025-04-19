@@ -2,7 +2,7 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: 齊翔 \(XIANG \)
+> 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: 齊翔 \(XIANG\)
 
 682 songs - 1 day 15 hr 13 min
 

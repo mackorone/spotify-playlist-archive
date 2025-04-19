@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Chelly Lim Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,360 likes - 106 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,394 likes - 106 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [New Girl](https://open.spotify.com/track/1q9zHpHinxJdVP7KU9TZLe) | [DIANA](https://open.spotify.com/artist/1Bwq1nrtXPhCEDOCwrdfff) | [New Girl](https://open.spotify.com/album/69wHWVG7guevYDNq2VubOH) | 2:20 |
 | 75 | [Sa Mundong Malamig](https://open.spotify.com/track/17sdtENqySqMPgaMbvwXDn) | [JAVES](https://open.spotify.com/artist/7n7LVXQA36C8xXlqce8nx7) | [Sa Mundong Malamig](https://open.spotify.com/album/1gSLVyixIJoJFhonhH7JXh) | 3:34 |
 | 76 | [Prinsesa](https://open.spotify.com/track/39Nqg6Ha976VJ3HPK3ZBBR) | [Dan Gil](https://open.spotify.com/artist/5cxHYcxW4k0Z3NWBB86yNu), [Kat Darling](https://open.spotify.com/artist/1V9v5IZJ4KSUuwaKKkQCD3) | [Prinsesa](https://open.spotify.com/album/5qD1rMKCLdNv8WsAYteVaV) | 4:04 |
-| 77 | [Moon Song](https://open.spotify.com/track/2XkI3bhIlpHRObj67U7LE0) | [Above Velvet Air](https://open.spotify.com/artist/5sgL6TpSBvXPqXnM17CYQT) | [Moon Song](https://open.spotify.com/album/0DNOjiQ1v2IqJt6wGDBK96) | 2:44 |
+| 77 | [Moon Song](https://open.spotify.com/track/2XkI3bhIlpHRObj67U7LE0) | [above velvet air](https://open.spotify.com/artist/5sgL6TpSBvXPqXnM17CYQT) | [Moon Song](https://open.spotify.com/album/0DNOjiQ1v2IqJt6wGDBK96) | 2:44 |
 | 78 | [alright\*](https://open.spotify.com/track/7aZ9cKnN8JyviMrLSjVZ8u) | [LUMI](https://open.spotify.com/artist/0ih2mQrqesmfugYZ2WNLJZ) | [alright\*](https://open.spotify.com/album/6DY0vDErCzpa3BmtVu5ZQb) | 3:41 |
 | 79 | [Kalaban](https://open.spotify.com/track/3ImjcKyIfIGncrvAztaGyy) | [Zynfinity](https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Kalaban](https://open.spotify.com/album/1zF93p6J59ifj4m21OudHS) | 4:09 |
 | 80 | [Psychotic](https://open.spotify.com/track/1Ac0Jp92XOSfd0j205K94E) | [Cartier St.](https://open.spotify.com/artist/5ldmhYBcM87MWRmYWgxETX), [Peter Miranda](https://open.spotify.com/artist/1LdJBVApsCM3MAXqVh6wuF), [Frank Saturday](https://open.spotify.com/artist/7EYbDLfdMh8yyuWpHGdZ6o) | [Psychotic](https://open.spotify.com/album/59PTQgYNeuxRAjct0dACgo) | 2:45 |

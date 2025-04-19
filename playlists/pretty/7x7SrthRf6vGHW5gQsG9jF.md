@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 850 songs - 2 day 6 hr 26 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 853 songs - 2 day 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -858,5 +858,8 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 848 | [Before I Rise](https://open.spotify.com/track/0SjWk4Beah9g6cBNTYLyR9) | [Jun Maeda](https://open.spotify.com/artist/1x2p2cfLYxgG9RtBt7VFUx), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Love Song from the Water](https://open.spotify.com/album/0zbJEjFr8Ak6HvhIsxG4us) | 5:19 |
 | 849 | [エターナル](https://open.spotify.com/track/7EgoCOjSAYms7FMjRIIjCb) | [UNLIMITS](https://open.spotify.com/artist/79J1fd1c3x60MVdSkBMGoX) | [And Your Birds Can Sing](https://open.spotify.com/album/3bM2fHvKI8k4vT4GcrBdCM) | 3:15 |
 | 850 | [Melt 10th ANNIVERSARY MIX](https://open.spotify.com/track/38VPKnanXWhNiv0NueMyh9) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Melt 10th ANNIVERSARY MIX](https://open.spotify.com/album/6S6EpxUbkTbwSiqGeWIb2y) | 5:05 |
+| 851 | [丸ノ内サディスティック](https://open.spotify.com/track/0L0yt7uDjO407QocZHvy5d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [TOKYO \- DRIVING \-](https://open.spotify.com/album/6Hq7fPKTjq7anX1aYIUV1U) | 3:55 |
+| 852 | [ロマンチシズム](https://open.spotify.com/track/0rCVlT27Zpu1vk1gsDrqTF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [TOKYO \- DRIVING \-](https://open.spotify.com/album/6Hq7fPKTjq7anX1aYIUV1U) | 3:33 |
+| 853 | [Story](https://open.spotify.com/track/1hLlPoXzuI5fha0k3sOGcT) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [TOKYO \- DRIVING \-](https://open.spotify.com/album/6Hq7fPKTjq7anX1aYIUV1U) | 4:48 |
 
-Snapshot ID: `AAAE8tpDNvZwOn4auh7rIzR6zKjAvjSn`
+Snapshot ID: `AAAE9Sd66301+QscsY+LjC03TiKJEf0k`

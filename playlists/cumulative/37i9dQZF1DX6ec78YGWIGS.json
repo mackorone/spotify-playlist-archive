@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Tiago PZK & Teddy Swims.",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Miranda! & Nicki Nicole.",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -3164,10 +3164,32 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
+        "name": "Hace Rato",
+        "url": "https://open.spotify.com/album/7rC6N6wuSAjAXfaJ9Vjx8e"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155181,
+      "name": "Hace Rato",
+      "url": "https://open.spotify.com/track/27TNmLkmsU9uCNrJn9ELp3"
     },
     {
       "album": {

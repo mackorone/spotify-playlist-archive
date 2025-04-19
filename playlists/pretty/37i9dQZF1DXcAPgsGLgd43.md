@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,591 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,726 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 99 | [Serena](https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Serena](https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom) | 2:33 |
 | 100 | [Pasto Y Perico](https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Hotel Dieu](https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9), [Jay Vázquez](https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj) | [Pasto Y Perico \(feat Jay Vazquez\)](https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud) | 2:47 |
 
-Snapshot ID: `Z/iT2wAAAAD2HiGG+BP39dF6tlftst/c`
+Snapshot ID: `aAHOdQAAAAD9eMN/08ZEqIntNrHxX1VW`

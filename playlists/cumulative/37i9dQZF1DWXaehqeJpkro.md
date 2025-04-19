@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: ZO ZAZZ\(조째즈\)\)
 
-323 songs - 21 hr 5 min
+324 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [I Don't Love You](https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [STILL](https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU) | 4:14 | 2022-02-17 |  |
 | [I GOT A BOY](https://open.spotify.com/track/6QHScqygQdCvGowZCeGsC0) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The 4th Album 'I GOT A BOY'](https://open.spotify.com/album/3qpbuQ6XTxYfGx4fQZpZcA) | 4:31 | 2021-03-11 | 2022-02-18 |
 | [I LOVE YOU](https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9) | [Position](https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo) | [포지션 스페셜 I LOVE YOU](https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv) | 5:29 | 2023-11-14 |  |
+| [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 | 2025-04-18 |  |
 | [I Still](https://open.spotify.com/track/7gkzWnzYtxsnT7VaAefDVU) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Still](https://open.spotify.com/album/51apaO1KFFjLvJuPkJjFxb) | 3:07 | 2022-02-17 |  |
 | [I Still Love You](https://open.spotify.com/track/44AbcJTKmV3hipk9gKgUbA) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [I Still Love You](https://open.spotify.com/album/58LRkeFZ6NSRqs0WFFZFoY) | 4:25 | 2022-02-17 |  |
 | [I still love you a lot](https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [I still love you a lot](https://open.spotify.com/album/01duGRcYzLUPGOh4NqDHhF) | 3:47 | 2022-02-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Marco Witt & Montesanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,523 likes - 75 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,703 likes - 75 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 2 | [Digno de Adorar](https://open.spotify.com/track/0SJjnHs6rZwXBJgERsbJd4) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Digno de Adorar](https://open.spotify.com/album/02PTqHXwlOhC2783iojG7t) | 11:06 |
 | 3 | [Mesias \- Live](https://open.spotify.com/track/2f76xe9iPZbab7nMXaUaNR) | [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Mesias \(Live\)](https://open.spotify.com/album/3kFnyNSLQn8d4U40kkgNMP) | 12:23 |
 | 4 | [Tu Dulce Voz \(Lázaro\)](https://open.spotify.com/track/708YdWq53xNewS3igtbYCg) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Tu Dulce Voz \(Lázaro\)](https://open.spotify.com/album/2CQTVx1twdKzRtBScaX7QH) | 9:47 |
-| 5 | [Cubierto Con Tu Sangre \- Live](https://open.spotify.com/track/7k1XfdEBacdY6mBoO32o2i) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Daniela Calveti](https://open.spotify.com/artist/5pZVqNscC5Q47N9qHH3UUy) | [Cubierto Con Tu Sangre \(Live\)](https://open.spotify.com/album/5QX2az3oBOmWfKcLgeyKvE) | 5:53 |
+| 5 | [Cubierto Con Tu Sangre \- Live at Gateway Church, Southlake, TX / 2024](https://open.spotify.com/track/7k1XfdEBacdY6mBoO32o2i) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Daniela Calveti](https://open.spotify.com/artist/5pZVqNscC5Q47N9qHH3UUy) | [Cubierto Con Tu Sangre \(Live\)](https://open.spotify.com/album/5QX2az3oBOmWfKcLgeyKvE) | 5:53 |
 | 6 | [Supe Que Me Amabas](https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 4:51 |
 | 7 | [Jesucristo Basta](https://open.spotify.com/track/7vW4y4ZLJQIKO2vJTJveRI) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesucristo Basta](https://open.spotify.com/album/24swZpD4qZSJV3ZDgvJUe9) | 4:55 |
 | 8 | [Creere](https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 5:02 |

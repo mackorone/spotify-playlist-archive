@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Men I Trust
 
-578 songs - 1 day 9 hr 5 min
+580 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [C.A.Y.A.](https://open.spotify.com/track/7wjCwar4rj6o6lV2mkJa1C) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [C.A.Y.A.](https://open.spotify.com/album/6qrqhBw1tIGreA43JGQ3P3) | 3:42 | 2024-04-19 |  |
 | [Canal Évasion](https://open.spotify.com/track/2PXgofu04uKIeCATVydtUQ) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Canal Évasion / Bébé](https://open.spotify.com/album/7jfaUmo5XcQiaf0Wv4ETbX) | 2:46 | 2023-05-19 | 2023-10-21 |
 | [Car Crash](https://open.spotify.com/track/5nCiY7iatnqjRG3EpsNEPc) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Car Crash](https://open.spotify.com/album/5FoPytrHR7RO00bCHEDJEa) | 1:56 | 2022-03-25 | 2022-08-27 |
-| [Cargo](https://open.spotify.com/track/5iPLYlGTu8iCOVaqhmyWYq) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cargo](https://open.spotify.com/album/5KGGBNenfVOJXNkTakd5jN) | 2:40 | 2024-03-15 |  |
+| [Cargo](https://open.spotify.com/track/5iPLYlGTu8iCOVaqhmyWYq) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cargo](https://open.spotify.com/album/5KGGBNenfVOJXNkTakd5jN) | 2:40 | 2024-03-15 | 2025-04-19 |
 | [Carré Saint\-Louis](https://open.spotify.com/track/1YkNLHS0VUiLL9nKOID14Q) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [Les Gradins](https://open.spotify.com/album/4gRjWLWLsBAaIwx2XpfCQL) | 2:33 | 2022-03-25 | 2022-07-16 |
 | [Catastrophe](https://open.spotify.com/track/7IwbWjzcNGy7VIAygSMGda) | [Mada Mada](https://open.spotify.com/artist/71nppOJgBwJ7V2gjyHGtA5), [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Catastrophe](https://open.spotify.com/album/6usNleCrPYLoXJA1K77XrG) | 2:57 | 2024-03-22 | 2024-09-14 |
 | [Cavalier solitaire](https://open.spotify.com/track/6dZoIrZRD5nlpRK7zI4eMA) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [Cavalier solitaire](https://open.spotify.com/album/3QT0rWa8ozRgt8UKxFkBHe) | 3:44 | 2022-09-16 | 2022-10-22 |
@@ -101,6 +101,7 @@
 | [Chaque nuit la mort](https://open.spotify.com/track/2WLiGXeSEwXC0PtykisCnD) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Chaque nuit la mort](https://open.spotify.com/album/3eiHeMkAh3caWE2yFJUm7n) | 5:29 | 2024-08-23 |  |
 | [Charlie](https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Charlie](https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ) | 3:06 | 2023-03-24 | 2023-09-23 |
 | [Choker](https://open.spotify.com/track/2n9JkcdNp7pFviL0qdmmuH) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Choker](https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf) | 3:13 | 2022-05-27 | 2022-10-01 |
+| [Chérie](https://open.spotify.com/track/7jpaoqNDH8X6bLdLPpcXG0) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Vésuve](https://open.spotify.com/album/1qqDZpdmL5miAVBYOWiNds) | 4:40 | 2025-04-18 |  |
 | [Ciel](https://open.spotify.com/track/3NcikFH886J3WbrdG4LNff) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Éther](https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A) | 4:17 | 2024-04-12 |  |
 | [Cinq minutes pile](https://open.spotify.com/track/2YkqLNTAL83ALI3GgLHJvS) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 2:42 | 2024-03-29 | 2025-01-14 |
 | [Cinéma Paradiso](https://open.spotify.com/track/0KcAnoBSjTRcyVI143hoJi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cinéma Paradiso](https://open.spotify.com/album/3AVGGrhhe8A256seUvvhhL) | 4:32 | 2023-07-28 | 2023-09-16 |
@@ -566,6 +567,7 @@
 | [Ville américaine](https://open.spotify.com/track/0YVMPldYkDHfpT4oZdr9kT) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Ville américaine](https://open.spotify.com/album/04ExG9J3eCZkOEi4wB08H5) | 3:11 | 2022-03-25 | 2022-04-16 |
 | [Virer nos vies](https://open.spotify.com/track/3xxhsgtji7JHYpcNNJAiF7) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 4:50 | 2024-06-28 |  |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2022-03-25 | 2022-05-28 |
+| [Waterloo](https://open.spotify.com/track/5kDJT0508bFo7SavgVdrmQ) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Waterloo](https://open.spotify.com/album/2agLSCe0DyK5e6hAuTMai1) | 2:51 | 2025-04-18 |  |
 | [we need to leave LA](https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [we need to leave LA](https://open.spotify.com/album/7d6d8J2yGAUplBFcA8ufe0) | 3:10 | 2024-05-03 | 2024-07-13 |
 | [Wear You Out](https://open.spotify.com/track/0tGi0kOdc5GlsKBg4b0tkQ) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Wear You Out](https://open.spotify.com/album/2hbpz06Bgw4SONqk2MSqJ6) | 3:31 | 2024-03-01 | 2024-04-06 |
 | [What It Is](https://open.spotify.com/track/5j8qS9IDLegyFRSziYAinL) | [Saint Zenon](https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf), [Half White Full Black](https://open.spotify.com/artist/2c8ObefSxH6n2N8n2gNUKG), [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [What It Is](https://open.spotify.com/album/56Dpa4dNBz06Qjnj8K0Eym) | 1:58 | 2023-03-17 | 2023-08-26 |

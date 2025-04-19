@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-449 songs - 1 day 2 hr 29 min
+450 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 | 2022-04-06 | 2023-01-14 |
 | [Blue Moon](https://open.spotify.com/track/2uWwCU5X1TjJiiN6BbUaB8) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/3BBFUxPg8KFmAv96SmY4ok) | 4:02 | 2022-03-25 | 2022-04-15 |
 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 | 2022-10-14 | 2023-10-07 |
+| [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-18 |  |
 | [Bones](https://open.spotify.com/track/4Twrw5ITmINc8akSEe979c) | [Feliz](https://open.spotify.com/artist/3Kgb1mPd8ZiYrCKqLw6Wvh) | [Dreams and Airplanes](https://open.spotify.com/album/6Ad3RaB9WT6U6W81lWM21g) | 3:05 | 2021-12-24 | 2022-06-25 |
 | [Brigadeiro](https://open.spotify.com/track/7gyyV6gDCX2ORt8jCcTlvi) | [Mira](https://open.spotify.com/artist/66c0QYupOFnMOiTXzHQbcH) | [Brigadeiro](https://open.spotify.com/album/4A1hlTcYv5LdjJ13ctr8Gl) | 3:14 | 2021-12-24 | 2022-04-10 |
 | [Budapest](https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Did You Hear the Rain?](https://open.spotify.com/album/17a7gzqcZt6SjXRQVoXN6M) | 3:22 | 2022-03-25 | 2025-02-22 |
@@ -239,7 +240,7 @@
 | [Medo de Amar](https://open.spotify.com/track/3cPclQoSPNYPijnxuMd52l) | [Léo Vieira](https://open.spotify.com/artist/0XxePJXaakWSiVVyITL408) | [Partilha & Solidão](https://open.spotify.com/album/0YNKtgcZTBTLPrCB5vLAog) | 3:22 | 2021-12-24 | 2022-06-03 |
 | [Medo de Avião](https://open.spotify.com/track/6NNHvJiNoWUOB6QthRA7S1) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [Ana Cañas Canta Belchior](https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K) | 4:33 | 2022-02-11 | 2022-07-21 |
 | [Melhor Sem Mim](https://open.spotify.com/track/1hUzkO738a6LoYIBhMCR0r) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Melhor Sem Mim](https://open.spotify.com/album/088K4X8hrYw2RTyxs6q77A) | 3:06 | 2022-01-21 | 2022-04-17 |
-| [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 | 2025-02-22 |  |
+| [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 | 2025-02-22 | 2025-04-19 |
 | [Meu Amor É Seu](https://open.spotify.com/track/4kc7hKuZFE3XYd2xMVvdxS) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Só Conheço o Mar](https://open.spotify.com/album/2C3fZsdvNDv3qYQSdTZTQk) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [Meu Bem](https://open.spotify.com/track/08tHtVcWkD5rcxkguScfUY) | [Felipe Câmara](https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0) | [Meu Bem](https://open.spotify.com/album/6kRSgZALUlqIKnISQC6L7F) | 3:51 | 2021-12-24 | 2022-06-28 |
 | [Meu Bem](https://open.spotify.com/track/0ytvLIAhBCFT504fZU5pUo) | [Guil](https://open.spotify.com/artist/2XHBtzbbgnF9s2QRvmmZi2) | [Guil](https://open.spotify.com/album/4bC19EkmFsVCI0S5Ke1Cro) | 2:51 | 2022-03-25 | 2022-04-20 |

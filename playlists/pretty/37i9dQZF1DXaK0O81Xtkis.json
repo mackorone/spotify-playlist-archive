@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop.  Cover: Calum Hood",
-  "num_followers": 226809,
+  "num_followers": 226843,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/lcpAAAAAAJzdBhMXXXfrfm2kahIpBT",
+  "snapshot_id": "aAHPbAAAAACSl74vp4jsjk4VWZNBO/Kb",
   "tracks": [
     {
       "added_at": "2025-04-11 04:00:17",
@@ -23,6 +23,22 @@
       "duration_ms": 217400,
       "name": "Don't Forget You Love Me",
       "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
+    },
+    {
+      "added_at": "2025-04-18 04:05:00",
+      "album": {
+        "name": "The First and Last of the Perfect Parties",
+        "url": "https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2"
+      },
+      "artists": [
+        {
+          "name": "Ren Martinez",
+          "url": "https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf"
+        }
+      ],
+      "duration_ms": 248562,
+      "name": "The First and Last of the Perfect Parties",
+      "url": "https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs"
     },
     {
       "added_at": "2025-04-04 04:00:31",
@@ -103,6 +119,22 @@
       "duration_ms": 179045,
       "name": "Cr\u00e8me Brul\u00e9e",
       "url": "https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC"
+    },
+    {
+      "added_at": "2025-04-18 04:05:00",
+      "album": {
+        "name": "Concrete Boy",
+        "url": "https://open.spotify.com/album/3iK8JoFrmS2LLgA0pTO7Ci"
+      },
+      "artists": [
+        {
+          "name": "Adrian Lyles",
+          "url": "https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY"
+        }
+      ],
+      "duration_ms": 129483,
+      "name": "Concrete Boy",
+      "url": "https://open.spotify.com/track/3R1cGeXcNA6yIF66vclK1h"
     },
     {
       "added_at": "2025-04-11 18:17:08",

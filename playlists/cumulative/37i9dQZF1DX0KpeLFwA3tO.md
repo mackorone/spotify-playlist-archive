@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Balance And Composure
 
-2,412 songs - 5 day 0 hr 20 min
+2,413 songs - 5 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1633,7 +1633,7 @@
 | [Predator](https://open.spotify.com/track/5LT88wAiBchqnuM9ax4Jyf) | [Chelsea Manor](https://open.spotify.com/artist/6lcIRoW3WY9h7z0iqfghFc) | [Predator](https://open.spotify.com/album/2lCEjOo99WLMsxoGy4WeOv) | 3:13 | 2023-09-01 | 2023-10-20 |
 | [Predatory Loans](https://open.spotify.com/track/0KDuBV8q9V2SIRHuC6pdn7) | [Dead Tired](https://open.spotify.com/artist/1H0jbitIBEtd1dayvgl2bT) | [Predatory Loans](https://open.spotify.com/album/71LRsbZzsAvpPkSjGgLWkd) | 4:07 | 2022-06-02 | 2022-07-15 |
 | [Premium Offer](https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Premium Offer](https://open.spotify.com/album/0779EKnVwh2qEe4qzM2woS) | 2:54 | 2022-02-11 | 2022-03-04 |
-| [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \(Remix\) \[Feat Mannequin Pussy\]](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 | 2025-04-17 |  |
+| [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \(Remix\) \[Feat Mannequin Pussy\]](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 | 2025-04-17 | 2025-04-19 |
 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 | 2024-02-02 | 2024-02-23 |
 | [Pressure Pad](https://open.spotify.com/track/57IFMHwEFTAtHYMfYDLozQ) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Pressure Pad](https://open.spotify.com/album/17nPf4Ob5eTHvi22wumDDo) | 3:28 | 2024-01-12 | 2024-02-08 |
 | [Pretend](https://open.spotify.com/track/17rev5TwrcPMTXNOo267sw) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [Pretend](https://open.spotify.com/album/6yLmA8rJQecpueryDynXH9) | 4:10 | 2023-07-13 | 2023-09-22 |
@@ -2041,6 +2041,7 @@
 | [Talking To Myself](https://open.spotify.com/track/3YVG2OfBF5ov6sl2NE2rkL) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Talking To Myself](https://open.spotify.com/album/6JSEuzJCBvazkD8Ewi7Yxt) | 2:22 | 2022-03-04 | 2022-04-22 |
 | [Talking To Ourselves \- IDLES Inner Monologue Remix](https://open.spotify.com/track/3tCihDQBzsGFRtfIn3KPG6) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Talking To Ourselves \(IDLES Inner Monologue Remix\)](https://open.spotify.com/album/1QXOX0l2HAa7ekuS9QtPpe) | 4:52 | 2022-03-04 | 2022-04-08 |
 | [Talking To Ourselves \- Nowhere Sessions](https://open.spotify.com/track/5xY9w82ln57yAxtwNEU7ha) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Talking To Ourselves \(Nowhere Sessions\)](https://open.spotify.com/album/0cojTDESsFKop7BaFCdL8L) | 3:25 | 2021-12-17 | 2022-01-21 |
+| [Tall People Don't Live Long](https://open.spotify.com/track/3hhVZKJSMnCG1LjZkYSohk) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [Tall People Don't Live Long](https://open.spotify.com/album/4Zv3JlE5l87PPVCOkmnoVe) | 3:06 | 2025-04-18 |  |
 | [Tanners arms](https://open.spotify.com/track/39FBGLNnrbQLjB2sQPBM9j) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Tanners arms](https://open.spotify.com/album/6cH9szQvHQ0w7tFk07xz1z) | 3:04 | 2022-09-01 | 2022-10-14 |
 | [tastes like candlesticks](https://open.spotify.com/track/4il4S9LB3E399dMkJ4CqaI) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [tastes like candlesticks](https://open.spotify.com/album/5m1C1hfFPPhD9XgZFNDZrn) | 2:20 | 2024-12-13 | 2025-02-14 |
 | [Tastes Like Sarah](https://open.spotify.com/track/2lMALY8dtMsGl3vTrhISaz) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [Now When We Talk It's Violence](https://open.spotify.com/album/63T8vRb63TY4Bj1mAPlu9O) | 1:57 | 2024-02-09 | 2024-03-22 |

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-306 songs - 18 hr 55 min
+307 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Let Go \(Miss Toto Remix\)](https://open.spotify.com/track/0Wuv9s1Ijezbkg3K6WhNpw) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [Miss Toto](https://open.spotify.com/artist/16iJMzInNoSyNHgzUZR8nx) | [Let Go \(Miss Toto Remix\)](https://open.spotify.com/album/75fgeIKGvHZilRI3pHF0WH) | 3:00 | 2024-02-16 |  |
 | [Let Your Body Move](https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Let Your Body Move](https://open.spotify.com/album/3lqdJrVDVedT2dfnDWhxTG) | 4:02 | 2021-09-24 | 2022-11-19 |
 | [Let’s Keep On Dancing](https://open.spotify.com/track/2MTES4OZUVqTCmE99Rk7HR) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Let’s Keep On Dancing](https://open.spotify.com/album/1vWSakTvo1YOgWLiShwpdr) | 3:19 | 2023-05-19 |  |
-| [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 | 2022-11-04 |  |
+| [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 | 2022-11-04 | 2025-04-19 |
 | [Light It Up](https://open.spotify.com/track/4NbaHNlUDO4ZUHEA3bPhrG) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Light It Up](https://open.spotify.com/album/6hd0Nf6SxuPSFbXsY9flai) | 3:14 | 2023-03-03 | 2023-10-21 |
 | [Light up on the Weekend](https://open.spotify.com/track/1QMKUF63vVQQxrs2JRADnw) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [Light up on the Weekend](https://open.spotify.com/album/0VII0KsD4bEWDciyFPmY9T) | 3:38 | 2023-03-17 | 2023-06-17 |
 | [Like You Do](https://open.spotify.com/track/63QhzuRjv4CwRiS5S2jbnd) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Like You Do](https://open.spotify.com/album/0C6DTs2pX6d1DOV4OS6a9g) | 5:23 | 2022-11-18 | 2023-04-09 |
@@ -203,6 +203,7 @@
 | [NIKKI](https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO) | [Joseph of Mercury](https://open.spotify.com/artist/7vahFRSKRiVDOejIMEBWvO) | [NIKKI](https://open.spotify.com/album/0oJ4yy7ZeZAT4aAfsd4kFU) | 3:18 | 2022-11-18 | 2024-01-27 |
 | [Not Today](https://open.spotify.com/track/1D7yD0chLEPc1Q73YV1hFt) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa, Vol\. 2: The Cookout Sessions](https://open.spotify.com/album/0ZIp0cXxUtDsc7FBWFqGSV) | 5:04 | 2024-09-06 |  |
 | [Nowhere To Run](https://open.spotify.com/track/7a64PMQuzeuPOlhdIKsCgM) | [Amira Jazeera](https://open.spotify.com/artist/336Q7pyfl5Ht2eaqhfQ6T6), [Papi Beatz](https://open.spotify.com/artist/1gigbUTiibYWCQybsJB5V1) | [Nowhere To Run](https://open.spotify.com/album/3xUlxGYaVSszKGre0kj1Il) | 2:57 | 2022-02-25 | 2023-01-28 |
+| [Old School Love](https://open.spotify.com/track/4IywS1K0mIm1fdGDasE6uu) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Old School Love](https://open.spotify.com/album/5vGI2bJb0Xo9CQogz1R8AH) | 2:50 | 2025-04-18 |  |
 | [On the Move \- feat\. Cannons](https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Adult Contemporary \(Deluxe\)](https://open.spotify.com/album/29j75DpDX2eiFEIK8Jc3Y8) | 2:41 | 2024-10-04 |  |
 | [One Big Family](https://open.spotify.com/track/0OKHeGWzWQR2QFJsGfolum) | [Oke](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [One Big Family](https://open.spotify.com/album/2PchYg2ROw2n04u23q9fe3) | 2:18 | 2024-05-03 |  |
 | [Only Direction](https://open.spotify.com/track/7vfIujNURf69jVWWTfxu3N) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Praa](https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt) | [Ride Away](https://open.spotify.com/album/735E1oxxzqMBQ8mxL2ZGf1) | 3:08 | 2023-03-17 | 2023-04-09 |

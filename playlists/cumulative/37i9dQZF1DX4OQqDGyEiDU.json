@@ -888,7 +888,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 202363,
       "name": "Colorful",
       "url": "https://open.spotify.com/track/3fq3NnEy4kyD3CccQ4CIMO"
@@ -3841,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "Zako",
+        "url": "https://open.spotify.com/album/0emahiH8a7ZgiYRp97S29w"
+      },
+      "artists": [
+        {
+          "name": "\u67ca\u30de\u30b0\u30cd\u30bf\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Zako",
+      "url": "https://open.spotify.com/track/0YJkcI9DUv4lkNJogoitOR"
+    },
+    {
+      "album": {
         "name": "Zero Talking",
         "url": "https://open.spotify.com/album/08EDcCxoefkH6TwGQ8NIpR"
       },
@@ -6332,6 +6350,24 @@
       "duration_ms": 135882,
       "name": "\u30bf\u30fc\u30df\u30ca\u30eb",
       "url": "https://open.spotify.com/track/1eX9qVhcMGAPpmvBVXW9oq"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30a4\u30c0\u30a4\u30c0\u30a4\u30c0\u30a4\u30c0\u30a4\u30ad\u30e9\u30a4",
+        "url": "https://open.spotify.com/album/2OfdrTwI2aGBqRVUqyrWmt"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u826f",
+          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156711,
+      "name": "\u30c0\u30a4\u30c0\u30a4\u30c0\u30a4\u30c0\u30a4\u30c0\u30a4\u30ad\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/1gFVXBVuYlDUIEdwOrN5T8"
     },
     {
       "album": {
@@ -9752,7 +9788,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 308967,
       "name": "\u591c\u660e\u3051\u3068\u86cd",
       "url": "https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng"

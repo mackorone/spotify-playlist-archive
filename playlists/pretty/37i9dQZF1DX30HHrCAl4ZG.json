@@ -1,13 +1,45 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Parcels",
-  "num_followers": 833980,
+  "description": "Explore all things indie rock right now. Featuring music from Arcy Drive",
+  "num_followers": 833955,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/qiwwAAAAB3p7WzVi+8HnNZaAYZvv+x",
+  "snapshot_id": "aAHOcwAAAABiCRFSV3EsqoMFH//hYaDl",
   "tracks": [
+    {
+      "added_at": "2025-04-18 04:00:51",
+      "album": {
+        "name": "Romance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 236245,
+      "name": "Before You I Just Forget",
+      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
+    },
+    {
+      "added_at": "2025-04-18 04:00:51",
+      "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/6lZE2y3A9UxhWIrlNd0pkX"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 194387,
+      "name": "Lights Fall",
+      "url": "https://open.spotify.com/track/1W8cWE4mphc5mmCqaRhACZ"
+    },
     {
       "added_at": "2025-03-14 04:00:17",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 277617,
       "name": "Safeandsound",
       "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
+    },
+    {
+      "added_at": "2025-04-18 04:00:51",
+      "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/5C45wGt4FguLifLANqzTxJ"
+      },
+      "artists": [
+        {
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/1qaHTGjjAYsteotGY6vXue"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -73,6 +121,86 @@
       "url": "https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx"
     },
     {
+      "added_at": "2025-04-18 04:00:51",
+      "album": {
+        "name": "Think I Pass",
+        "url": "https://open.spotify.com/album/7nZeEwyNnGZCBTyUWKWjoj"
+      },
+      "artists": [
+        {
+          "name": "BRONCHO",
+          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
+        }
+      ],
+      "duration_ms": 192537,
+      "name": "Think I Pass",
+      "url": "https://open.spotify.com/track/1M1Jn1lvGAA0n6GEj4hTvQ"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "Forever Howlong",
+        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 257547,
+      "name": "Goodbye (Don\u2019t Tell Me)",
+      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
+    },
+    {
+      "added_at": "2025-04-18 04:00:51",
+      "album": {
+        "name": "I Heard That Noise",
+        "url": "https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 188256,
+      "name": "I Punched Through The Wall",
+      "url": "https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk"
+    },
+    {
+      "added_at": "2025-04-18 04:00:51",
+      "album": {
+        "name": "Get back to me",
+        "url": "https://open.spotify.com/album/6U8hWwjGntHu3thhtm0jGB"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 190441,
+      "name": "Get back to me",
+      "url": "https://open.spotify.com/track/3YxMOcoa7ogJlG4e6zyJwm"
+    },
+    {
+      "added_at": "2025-04-18 04:00:51",
+      "album": {
+        "name": "Dead Beat City",
+        "url": "https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl"
+      },
+      "artists": [
+        {
+          "name": "Kids That Fly",
+          "url": "https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX"
+        }
+      ],
+      "duration_ms": 233496,
+      "name": "Dead Beat City",
+      "url": "https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb"
+    },
+    {
       "added_at": "2025-04-04 04:00:24",
       "album": {
         "name": "Everybody's trying to figure me out",
@@ -105,20 +233,20 @@
       "url": "https://open.spotify.com/track/62R3oYh4gzAkBmEDN3qquI"
     },
     {
-      "added_at": "2025-04-04 04:00:24",
+      "added_at": "2025-04-18 04:00:51",
       "album": {
-        "name": "Forever Howlong",
-        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/7IaqMaOXdasnfxYEAghgFn"
       },
       "artists": [
         {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
         }
       ],
-      "duration_ms": 257547,
-      "name": "Goodbye (Don\u2019t Tell Me)",
-      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
+      "duration_ms": 220826,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/5xaiU9nNP58J5tmFvsRXf2"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -137,20 +265,20 @@
       "url": "https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj"
     },
     {
-      "added_at": "2025-04-12 17:28:35",
+      "added_at": "2025-03-28 04:00:43",
       "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+        "name": "Clean Heart",
+        "url": "https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+      "duration_ms": 232866,
+      "name": "Clean Heart",
+      "url": "https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS"
     },
     {
       "added_at": "2025-04-11 04:00:34",
@@ -185,6 +313,30 @@
       "url": "https://open.spotify.com/track/07fQy50wAHpo8BuSXk7XUz"
     },
     {
+      "added_at": "2025-03-28 04:00:43",
+      "album": {
+        "name": "Listen2me",
+        "url": "https://open.spotify.com/album/4GmCtWI0Qc8rO0dIJktM92"
+      },
+      "artists": [
+        {
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        {
+          "name": "Darryl Kissick",
+          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
+        }
+      ],
+      "duration_ms": 163573,
+      "name": "Listen2me",
+      "url": "https://open.spotify.com/track/1xdms5iZAK3cUGB4pSrU5y"
+    },
+    {
       "added_at": "2025-04-11 04:00:34",
       "album": {
         "name": "Tomatoes/Bullshit",
@@ -217,20 +369,24 @@
       "url": "https://open.spotify.com/track/3BMOWnSBFfWK6iI215a7sl"
     },
     {
-      "added_at": "2025-04-04 04:00:24",
+      "added_at": "2025-03-28 04:00:43",
       "album": {
-        "name": "Rocket Chair",
-        "url": "https://open.spotify.com/album/2gobaSL3mx2Y80jRHiKugs"
+        "name": "Dancing in the Club (MJ Lenderman Version)",
+        "url": "https://open.spotify.com/album/7LdDaBVtgvjsbIajBwmAL5"
       },
       "artists": [
         {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 250404,
-      "name": "Rocket Chair",
-      "url": "https://open.spotify.com/track/4VM9YbaB5OOp2tFryJ4Mw6"
+      "duration_ms": 298080,
+      "name": "Dancing in the Club - MJ Lenderman Version",
+      "url": "https://open.spotify.com/track/3yxJaRI0o8rZTA8qtKHhKi"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -297,30 +453,6 @@
       "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
     },
     {
-      "added_at": "2025-03-28 04:00:43",
-      "album": {
-        "name": "Listen2me",
-        "url": "https://open.spotify.com/album/4GmCtWI0Qc8rO0dIJktM92"
-      },
-      "artists": [
-        {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
-        },
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        },
-        {
-          "name": "Darryl Kissick",
-          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
-        }
-      ],
-      "duration_ms": 163573,
-      "name": "Listen2me",
-      "url": "https://open.spotify.com/track/1xdms5iZAK3cUGB4pSrU5y"
-    },
-    {
       "added_at": "2025-03-21 04:00:52",
       "album": {
         "name": "For Melancholy Brunettes (& sad women)",
@@ -337,22 +469,6 @@
       "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
     },
     {
-      "added_at": "2025-03-28 04:00:43",
-      "album": {
-        "name": "Clean Heart",
-        "url": "https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Clean Heart",
-      "url": "https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS"
-    },
-    {
       "added_at": "2025-04-04 04:00:24",
       "album": {
         "name": "CCF (I'm Gonna Stay With You)",
@@ -367,26 +483,6 @@
       "duration_ms": 491696,
       "name": "CCF (I'm Gonna Stay With You)",
       "url": "https://open.spotify.com/track/4t5by4BVLMjeoNaOhmweOJ"
-    },
-    {
-      "added_at": "2025-03-28 04:00:43",
-      "album": {
-        "name": "Dancing in the Club (MJ Lenderman Version)",
-        "url": "https://open.spotify.com/album/7LdDaBVtgvjsbIajBwmAL5"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 298080,
-      "name": "Dancing in the Club - MJ Lenderman Version",
-      "url": "https://open.spotify.com/track/3yxJaRI0o8rZTA8qtKHhKi"
     },
     {
       "added_at": "2025-03-14 04:00:17",
@@ -631,6 +727,22 @@
     {
       "added_at": "2025-03-14 04:00:17",
       "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 198386,
+      "name": "Love Takes Miles",
+      "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
+    },
+    {
+      "added_at": "2025-03-14 04:00:17",
+      "album": {
         "name": "Another Boy",
         "url": "https://open.spotify.com/album/6mUBGBSDQ9Re1XaLlVBBqH"
       },
@@ -691,22 +803,6 @@
       "duration_ms": 287293,
       "name": "Bonnet Of Pins",
       "url": "https://open.spotify.com/track/0hLFRJetaM0qj09lyyJ9a5"
-    },
-    {
-      "added_at": "2025-03-14 04:00:17",
-      "album": {
-        "name": "Sword",
-        "url": "https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 146504,
-      "name": "Sword",
-      "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
     },
     {
       "added_at": "2025-03-14 04:00:17",
@@ -775,22 +871,6 @@
       "duration_ms": 150000,
       "name": "Sara's Got Big Plans",
       "url": "https://open.spotify.com/track/5HQKMAnDtbbsDq3Vo2ZAVj"
-    },
-    {
-      "added_at": "2025-03-14 04:00:17",
-      "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
-      },
-      "artists": [
-        {
-          "name": "Cameron Winter",
-          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
-        }
-      ],
-      "duration_ms": 198386,
-      "name": "Love Takes Miles",
-      "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
     },
     {
       "added_at": "2025-02-14 05:00:48",
@@ -1475,86 +1555,6 @@
       "duration_ms": 223573,
       "name": "Coinstar",
       "url": "https://open.spotify.com/track/5YzeGgjdR0F8c208WH2FpF"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
-        "name": "In Your Head",
-        "url": "https://open.spotify.com/album/64DKyYtO5tU7MCxJOgJQNv"
-      },
-      "artists": [
-        {
-          "name": "zzzahara",
-          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
-        }
-      ],
-      "duration_ms": 148863,
-      "name": "In Your Head",
-      "url": "https://open.spotify.com/track/1ib6xwfqPhHZnxZlinxiyn"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "NO GO",
-        "url": "https://open.spotify.com/album/583W6GrbSfZuCQL27ZRaGD"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 213865,
-      "name": "NO GO",
-      "url": "https://open.spotify.com/track/4KAwjQ02jyVqBxFi2xuPPE"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD"
-      },
-      "artists": [
-        {
-          "name": "girlpuppy",
-          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "With Only Your Mouth",
-        "url": "https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 183564,
-      "name": "With Only Your Mouth",
-      "url": "https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
     },
     {
       "added_at": "2024-12-06 05:00:00",

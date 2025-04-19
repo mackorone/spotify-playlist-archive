@@ -1977,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "P3T",
+        "url": "https://open.spotify.com/album/7lO82d2FOdRqUNo2aEyWIi"
+      },
+      "artists": [
+        {
+          "name": "femtanyl",
+          "url": "https://open.spotify.com/artist/53e9n1LucuH3guikmtv180"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "P3T",
+      "url": "https://open.spotify.com/track/1w0AFg23E67l57A3RMiXjC"
+    },
+    {
+      "album": {
         "name": "PAPER STACKER!",
         "url": "https://open.spotify.com/album/1CnNCecCRn8dnHfhUVtse8"
       },

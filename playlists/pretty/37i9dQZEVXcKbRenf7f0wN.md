@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Oxytocin](https://open.spotify.com/track/4WJDGPjU9iHEBNeJ2RStKA) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [Modern Mirror](https://open.spotify.com/album/5M68LgZR31aWfO4rWwooQK) | 3:55 |
 | 30 | [Mexican Radio](https://open.spotify.com/track/1BtOAYgTkPnv1KRcLHqyxO) | [Wall Of Voodoo](https://open.spotify.com/artist/6zPcUezmkw9aGjoRlBxYxw) | [Call Of The West](https://open.spotify.com/album/26Gb3ewRSm2zgEpmwowvDj) | 4:08 |
 
-Snapshot ID: `Z/yIQAAAAACsgKqscI+R9mCa1pGAYavk`
+Snapshot ID: `Z/yIQAAAAABgfG5FAu5T/5/zvS14qZMf`

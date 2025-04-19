@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: فريد
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,381 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,442 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [يا قلبي مين](https://open.spotify.com/track/4mcgWfZFzMIy27RJqVjvkH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يا قلبي مين](https://open.spotify.com/album/34YHpsLorhfJDkBPS2bEyk) | 3:02 |
-| 2 | [Unfollow](https://open.spotify.com/track/59U7FjAR2IKydAQihRZRLz) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Unfollow](https://open.spotify.com/album/0gFGQcdFweNEL92PTek3UN) | 3:03 |
-| 3 | [ضعت منك](https://open.spotify.com/track/3V9KgBiz5uP7SacDMfy6KZ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [ضعت منك](https://open.spotify.com/album/4uBlwNfBEpGGj2wdBTsWb5) | 3:10 |
-| 4 | [Fl Blacona](https://open.spotify.com/track/3jkBcbYVToYSqPcnsuxcF8) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Fl Blacona](https://open.spotify.com/album/3bD7mAr7GvAIoBLuucpNVV) | 2:29 |
-| 5 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
-| 6 | [جميلة الدنيا](https://open.spotify.com/track/7c9YY1coQ5NPcY46azrq3F) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [جميلة الدنيا](https://open.spotify.com/album/5EhJ1JyEIA8IfzYOldQYMk) | 3:12 |
-| 7 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 |
-| 8 | [بشوفك قصادي](https://open.spotify.com/track/7b564jClFSdlTwPAwcPKjc) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بشوفك قصادي](https://open.spotify.com/album/13TRxBimbaRUC07aLO9shc) | 3:36 |
+| 1 | [بشوفك قصادي](https://open.spotify.com/track/7b564jClFSdlTwPAwcPKjc) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بشوفك قصادي](https://open.spotify.com/album/13TRxBimbaRUC07aLO9shc) | 3:36 |
+| 2 | [يا قلبي مين](https://open.spotify.com/track/4mcgWfZFzMIy27RJqVjvkH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يا قلبي مين](https://open.spotify.com/album/34YHpsLorhfJDkBPS2bEyk) | 3:02 |
+| 3 | [Unfollow](https://open.spotify.com/track/59U7FjAR2IKydAQihRZRLz) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Unfollow](https://open.spotify.com/album/0gFGQcdFweNEL92PTek3UN) | 3:03 |
+| 4 | [ضعت منك](https://open.spotify.com/track/3V9KgBiz5uP7SacDMfy6KZ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [ضعت منك](https://open.spotify.com/album/4uBlwNfBEpGGj2wdBTsWb5) | 3:10 |
+| 5 | [Fl Blacona](https://open.spotify.com/track/3jkBcbYVToYSqPcnsuxcF8) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Fl Blacona](https://open.spotify.com/album/3bD7mAr7GvAIoBLuucpNVV) | 2:29 |
+| 6 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
+| 7 | [جميلة الدنيا](https://open.spotify.com/track/7c9YY1coQ5NPcY46azrq3F) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [جميلة الدنيا](https://open.spotify.com/album/5EhJ1JyEIA8IfzYOldQYMk) | 3:12 |
+| 8 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 |
 | 9 | [Gowak Halak](https://open.spotify.com/track/02OQ4bSdjDmFO2VITeD7M3) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Gowak Halak](https://open.spotify.com/album/3PJOsXOH50LgFyXBqyj57z) | 4:27 |
 | 10 | [Elly Shafna](https://open.spotify.com/track/4ojihsBzsVIeB4xjAaDNNe) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Elly Shafna](https://open.spotify.com/album/29bnhHS7JrEs7y2KDqakjb) | 3:46 |
 | 11 | [بحب اغيظهم](https://open.spotify.com/track/5jIyJvQzJpPvhI6lQijl30) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [بحب اغيظهم](https://open.spotify.com/album/5KJK6nRRrcGKvL1z4BUivd) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [بتحن ليه](https://open.spotify.com/track/6d8Pz6G9r1UDdQEXvyFBYc) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [بتحن ليه](https://open.spotify.com/album/4vJKc0Kcd2WLEcVCX3PqaT) | 3:25 |
 | 75 | [قول كلام](https://open.spotify.com/track/1EXu89n4nUSvdaTQZoH9pV) | [Nourhan El Morshedy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [قول كلام](https://open.spotify.com/album/5gnhLEdsLRoxKIB7x5zVj9) | 4:27 |
 
-Snapshot ID: `aAFiqQAAAABeC6JdYVfV/NNRKW/HamyD`
+Snapshot ID: `aAIbQQAAAACBrl+C/UaeUYSaXeCz7jum`

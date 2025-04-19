@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Sofía Reyes, Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,818 likes - 92 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,656 likes - 92 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 26 | [La Intuición](https://open.spotify.com/track/4FPcrNWSVIdGcqDXUKbOQk) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b) | [La Intuición](https://open.spotify.com/album/57FEOShxnLZEo29OFNnZWa) | 3:34 |
 | 27 | [Ni Una Sola Palabra \(feat\. IMA\)](https://open.spotify.com/track/4h9tHQkrlXA3N1wvpqDXmR) | [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b), [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [IMA](https://open.spotify.com/artist/3BjYZUW21VH6TohUVC5FhV) | [Ni Una Sola Palabra \(feat\. IMA\)](https://open.spotify.com/album/0bzo8Jsq6kthTs8V8bsqSS) | 4:22 |
 | 28 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 |
-| 29 | [Orion \- Sistek Remix](https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Orion \(Sistek Remix\)](https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA) | 4:41 |
+| 29 | [orióN \- Sistek Remix](https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [orióN \(Sistek Remix\)](https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA) | 4:41 |
 | 30 | [Fiesta En La Ciudad \(feat\. KRZ & Diana Landa\)](https://open.spotify.com/track/1Gu7K4GKdUdfkVewxeKHhl) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Fux Beat](https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1), [KRZ](https://open.spotify.com/artist/4zXYopQxFWB8DCsjm6nOM8), [Diana Landa](https://open.spotify.com/artist/38eUnGsqHpaZ2nXaLjF36s) | [Fiesta En La Ciudad \(feat\. KRZ & Diana Landa\)](https://open.spotify.com/album/4iem4izhogumCHM1HWwhjG) | 3:33 |
 | 31 | [MiDNiGHT](https://open.spotify.com/track/63hryqFlfnTheZeeueei2E) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [MiDNiGHT](https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy) | 3:06 |
 | 32 | [Corridos y Alcohol](https://open.spotify.com/track/0rM42t81JYJ3N6FOmD9gTQ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Corridos y Alcohol](https://open.spotify.com/album/1r88sJglhILi4IUamnCufn) | 2:51 |

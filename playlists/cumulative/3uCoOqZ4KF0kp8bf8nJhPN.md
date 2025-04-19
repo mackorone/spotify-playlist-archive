@@ -4,7 +4,7 @@
 
 > 
 
-155 songs - 6 hr 2 min
+156 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 | 2025-03-07 |  |
 | [OPPER STOPPER!](https://open.spotify.com/track/1TMM3EMVNc5pP6TLrSxpnE) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [OPPER STOPPER!](https://open.spotify.com/album/1XHhZKb7PTtFCM9IGCow3v) | 1:38 | 2025-01-08 |  |
 | [OVERSTIMULATED!](https://open.spotify.com/track/4g6LvjzWCOFWXgBfzhI5RA) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [CALDER](https://open.spotify.com/artist/3rfH5SRk6ekMfiBZ5KVYw9) | [OVERSTIMULATED!](https://open.spotify.com/album/5uAN66FDbbJHggn1hMk1A2) | 2:01 | 2025-01-11 | 2025-04-10 |
+| [P3T](https://open.spotify.com/track/1w0AFg23E67l57A3RMiXjC) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [P3T](https://open.spotify.com/album/7lO82d2FOdRqUNo2aEyWIi) | 1:42 | 2025-04-18 |  |
 | [PAPER STACKER!](https://open.spotify.com/track/5THE5pkJjYkrWQpYPWUUap) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PAPER STACKER!](https://open.spotify.com/album/1CnNCecCRn8dnHfhUVtse8) | 1:42 | 2025-03-02 | 2025-04-10 |
 | [PINK!](https://open.spotify.com/track/4bmlGixi0hvRrgYxU2PdYP) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PINK!](https://open.spotify.com/album/1ZGMooaMB45vQCthgyTOpm) | 1:46 | 2025-03-24 |  |
 | [pity party.](https://open.spotify.com/track/4huNCzAZGc2nmzs3uMU6Qp) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Nurture Nurture](https://open.spotify.com/artist/4HsVsh5FD1FlKpUSbbmvIv) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 2:06 | 2025-01-16 |  |

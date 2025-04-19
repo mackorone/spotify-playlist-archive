@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,640 likes - 20 songs - 1 hr 10 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,643 likes - 20 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 |
-| 2 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 |
-| 3 | [My Way](https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [My Way](https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1) | 3:24 |
-| 4 | [Distracted by The Mona Lisa](https://open.spotify.com/track/4QNnATTpV5KKaT8IROdRAg) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Distracted by the Mona Lisa](https://open.spotify.com/album/5oFMvYCgOpriqdMARPJgfq) | 3:34 |
-| 5 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 |
-| 6 | [Ratbag](https://open.spotify.com/track/3BvjuuVPy8VcfTIFXE5QWE) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Ratbag](https://open.spotify.com/album/341iSjPgXfJvcffAe575bY) | 2:56 |
-| 7 | [I'm Not Okay \(I Promise\) \- Live for BBC Radio 1's "The Lock Up", 2005](https://open.spotify.com/track/0NZA5EV3kEEXq5WPntld7j) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I'm Not Okay \(I Promise\) \[Live for BBC Radio 1's "The Lock Up", 2005\]](https://open.spotify.com/album/6y9Ufm9AntxdCmT4RbZfvi) | 3:19 |
-| 8 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 |
-| 9 | [Doubt \(demo\)](https://open.spotify.com/track/0vsW1vAlNYiy9Y5briGT8Y) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Doubt \(demo\)](https://open.spotify.com/album/5qkGe4UpUa8dsokzuroQ72) | 2:57 |
-| 10 | [Strut](https://open.spotify.com/track/6SftkzXqkL3eCEvCe4UzSU) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Strut](https://open.spotify.com/album/2QjtSyu3thWdKs9uYKXp8R) | 2:03 |
-| 11 | [Night After Night](https://open.spotify.com/track/5zlseWJvr7Lyqj7VCLaj50) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Night After Night](https://open.spotify.com/album/7wl1RjvgKCI7NlkI7D21HT) | 4:15 |
-| 12 | [Dance of the Dead](https://open.spotify.com/track/0rskWKxA2Den0sB1d2VDNe) | [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Dance of the Dead](https://open.spotify.com/album/6hIVUWfP3znRwvK8PkDCvl) | 4:55 |
-| 13 | [Built To Bleed](https://open.spotify.com/track/6FkfMMdCjDdvbpPVg3mWUG) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Built To Bleed](https://open.spotify.com/album/2kCssWJZMQgDWPsaC3j9vM) | 3:01 |
-| 14 | [Lost and Found](https://open.spotify.com/track/7BzfqlcZzFr2bjTbLfxx1a) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Lost and Found](https://open.spotify.com/album/7y2bMzJ7K5qgtnEIJeyat7) | 4:15 |
-| 15 | [HIDE & SICK](https://open.spotify.com/track/3DlZgQdjxFOK2mE2HMi54N) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [ANIMETAL](https://open.spotify.com/album/20dZ4RU0gg3i9d5p0vR9WI) | 3:34 |
-| 16 | [Microwave Dave 2025](https://open.spotify.com/track/4JLWltECqNPbCFCn9gpILI) | [Chub](https://open.spotify.com/artist/4bGpqwO0AyHLatPN4DRDoy) | [Microwave Dave 2025](https://open.spotify.com/album/0iJShpTEVeerlepR9zAGXf) | 3:35 |
-| 17 | [Eat Sleep Work Die!!! Repeat](https://open.spotify.com/track/7BLA7P29Zwv9mZndG6KcAg) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [How Much a Heart Can Take Before It Breaks](https://open.spotify.com/album/47i2T4XU4iyXiEQHEUhbg7) | 3:07 |
-| 18 | [Gatekeeper](https://open.spotify.com/track/2FyLorTJ14A6zslCm1jiRC) | [Kilonova](https://open.spotify.com/artist/5SLDjfXs6t5qMI7WS1mwE0) | [Gatekeeper](https://open.spotify.com/album/7rpCOKD8O8bEKVUf4FuORV) | 3:03 |
-| 19 | [Trace](https://open.spotify.com/track/1INKM9rkFAOKpIXFJaH3Ro) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Crave](https://open.spotify.com/album/0EAcRvvVBgSfvAotmF4awe) | 2:43 |
-| 20 | [Disappear](https://open.spotify.com/track/2VihwGHfl9zRpNRvd9mELR) | [Love Rarely](https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM) | [Disappear](https://open.spotify.com/album/2Zs2UXq5be983BMtlSnd2z) | 3:57 |
+| 1 | [Who's Laughing Now](https://open.spotify.com/track/0ZpLyeA0NJeQ0mVsbje1Bm) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Who's Laughing Now](https://open.spotify.com/album/5SWP3r7Lw6ENV9EHsP4EBi) | 3:18 |
+| 2 | [Tall People Don't Live Long](https://open.spotify.com/track/3hhVZKJSMnCG1LjZkYSohk) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [Tall People Don't Live Long](https://open.spotify.com/album/4Zv3JlE5l87PPVCOkmnoVe) | 3:06 |
+| 3 | [Evil Eye](https://open.spotify.com/track/3q13Ulh78cia6f9KgWpmUK) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Evil Eye](https://open.spotify.com/album/4AJVIdo9afIfoKOU2yDndm) | 2:51 |
+| 4 | [Phantom Limb](https://open.spotify.com/track/0ztCJyjFzDkWUGQogDBioF) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Still Fucking Sucks](https://open.spotify.com/album/65t0i9VT9K6A2NX6LFvRik) | 3:15 |
+| 5 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 |
+| 6 | [Gallop of the Hounds](https://open.spotify.com/track/0RfsNykOPSwrZ0GJyWeFlf) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Gallop of the Hounds](https://open.spotify.com/album/42RoboH8vmsnzD3TNAoBvF) | 3:29 |
+| 7 | [BAD LUCK](https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [BAD LUCK](https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y) | 4:05 |
+| 8 | [For You](https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [For You](https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1) | 2:52 |
+| 9 | [Cat Guy](https://open.spotify.com/track/1ZG6oGxZ6DrXhJCBbWno5T) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Cat Guy](https://open.spotify.com/album/0L0DIAjgEFhy08JmNgXMeL) | 4:21 |
+| 10 | [City 17](https://open.spotify.com/track/14HN7vFkqojQf5EvXVRwFC) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [City 17 / The Night Does Not End](https://open.spotify.com/album/3mcJFU9UuprvOFt97Kvpmx) | 3:50 |
+| 11 | [Live Deliciously](https://open.spotify.com/track/6kxdgQo1YGlZaBHfenm1oA) | [Jools](https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc) | [Live Deliciously](https://open.spotify.com/album/4oWTqOFrluIXLIlw4p3GZr) | 3:42 |
+| 12 | [Dead](https://open.spotify.com/track/1azjlMBgaOen4ctyYzpAQG) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Dead](https://open.spotify.com/album/1ZHbB5s4CyCtjYQ0PnuJUg) | 2:57 |
+| 13 | [In Search of Tomorrow](https://open.spotify.com/track/1sIny89FOnM0kGkXN3cHDj) | [Youth Code](https://open.spotify.com/artist/15VmPRQCJEZWaZWgHEroj0) | [In Search of Tomorrow](https://open.spotify.com/album/2nWxngiXyQKuGZg2Yhkpcq) | 2:33 |
+| 14 | [Lot Lizard](https://open.spotify.com/track/70WEa9Zr8g28Qe2nZRueQ3) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Lot Lizard](https://open.spotify.com/album/1jM2ATJEA1K1LKqMBVfXqH) | 2:24 |
+| 15 | [Dirty Fingers](https://open.spotify.com/track/3KxGKBywFEJqKYK6O1Ebs8) | [Nerves](https://open.spotify.com/artist/4oZHD9a5Wf8vZWHTrPWKdO) | [Dirty Fingers](https://open.spotify.com/album/2f8z2OQYyR9VvpQkfvFn2k) | 2:59 |
+| 16 | [Final Girls](https://open.spotify.com/track/6EHeuOJdrc4zGyUYA7RHci) | [Bratakus](https://open.spotify.com/artist/4r8eSc9hhfeMFQEzYgzLHZ) | [Final Girls](https://open.spotify.com/album/1qxlStDQqzfxnnl0L63Qi1) | 2:37 |
+| 17 | [Transcending the Immortal Gateways](https://open.spotify.com/track/6sEw6BZIxuYfV4GDuhNHay) | [Coltsblood](https://open.spotify.com/artist/2vZuhtNo2CAbb9wBDeECns) | [Transcending the Immortal Gateways](https://open.spotify.com/album/5MAFtWw78dwGoRii8DqtDY) | 10:10 |
+| 18 | [Santosha](https://open.spotify.com/track/64wolIjovifp0BADxhjz9m) | [Thus Spoke Zarathustra](https://open.spotify.com/artist/3TQvQT0PqlTLLENO4L3Tik), [Disfiguring The Goddess](https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv) | [Santosha](https://open.spotify.com/album/4oniP3FK627PRlWEdz96p1) | 2:39 |
+| 19 | [Craterface](https://open.spotify.com/track/17nyRWyeufSEJ0CPV31mI8) | [Death Pill](https://open.spotify.com/artist/3qbHwF3dxYHSbz1BC2UuX5) | [Craterface](https://open.spotify.com/album/0OTMgScSMXdvIw5hUuvFhi) | 2:26 |
+| 20 | [Sweet Honey](https://open.spotify.com/track/7ec35t29Ms5PnvGlD7NBS8) | [Gigi Gold](https://open.spotify.com/artist/31kcxzgKkUU713VCWinc9O) | [Sweet Honey](https://open.spotify.com/album/5In4o9LKhaEXBeZrVXzJLC) | 3:10 |
 
-Snapshot ID: `AAAMzAWXJvH85QzzTYXOXpIleKN6ie+X`
+Snapshot ID: `AAAMz5MOXfZA+nDG92LxzDh8LAX2mXg4`

@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Blushing Pink Blanket",
+        "url": "https://open.spotify.com/album/6xlnk6dAF56cUbCXHlmLKZ"
+      },
+      "artists": [
+        {
+          "name": "Haworth in White",
+          "url": "https://open.spotify.com/artist/6Z8jsYd7S1YwIhn72j9xqK"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231938,
+      "name": "Blushing Pink Blanket",
+      "url": "https://open.spotify.com/track/1cGpUkGaa5fNasbM8lAVpo"
+    },
+    {
+      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/4mFFAzJgZ9886aTrcJC62R"
       },
@@ -5074,7 +5092,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 143716,
       "name": "Gifted Noise",
       "url": "https://open.spotify.com/track/3F3VaOK290JSVVW0m44VlE"

@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/7ceE15iKXgxDCRVVqvYJ4x"
+      },
+      "artists": [
+        {
+          "name": "turrobaby",
+          "url": "https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175862,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/7iRpCPKboAqmzNjWQlbxWr"
+    },
+    {
+      "album": {
         "name": "2021",
         "url": "https://open.spotify.com/album/70lFJqnCUsprGx53iqnAVZ"
       },
@@ -240,7 +258,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 119374,
       "name": "2021",
       "url": "https://open.spotify.com/track/4yAPbMMlSmypwzCpfnNKKG"
@@ -496,7 +514,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 401818,
       "name": "ACEITE DE COCO (feat. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.)",
       "url": "https://open.spotify.com/track/0hzO3OqNIPCwRKxvwBdtjS"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 186791,
       "name": "Amber (with Omar Courtz)",
       "url": "https://open.spotify.com/track/3XoLRrcg9ga7Op6Y6NIdpn"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 195882,
       "name": "AMG",
       "url": "https://open.spotify.com/track/0JLhX4LHGL1DYBgrp8STgs"
@@ -1200,6 +1218,32 @@
       "duration_ms": 169696,
       "name": "Bby",
       "url": "https://open.spotify.com/track/0F2CMN5xEZBd7V1aHTOPjU"
+    },
+    {
+      "album": {
+        "name": "Cordillera",
+        "url": "https://open.spotify.com/album/0iVTLOMATFpGlvMfE4MGxx"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Koki LS",
+          "url": "https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154124,
+      "name": "Bendigo",
+      "url": "https://open.spotify.com/track/2HeIf9b0zkD9IDwx56y91A"
     },
     {
       "album": {
@@ -3107,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "DVS",
+        "url": "https://open.spotify.com/album/56GrHbQKfhubnDdNdL13qf"
+      },
+      "artists": [
+        {
+          "name": "Canals",
+          "url": "https://open.spotify.com/artist/5RxLAt9nYq8Ww3Bg5kmXOn"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143142,
+      "name": "DVS",
+      "url": "https://open.spotify.com/track/5KVWyJyVYgVGYi1VBcaLYp"
+    },
+    {
+      "album": {
         "name": "D\u00eda De Pago",
         "url": "https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe"
       },
@@ -4336,7 +4398,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 130459,
       "name": "H.I.M.",
       "url": "https://open.spotify.com/track/1raPPxkstNnTmg6EmFCX0j"
@@ -4482,7 +4544,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 231200,
       "name": "HORA CERO",
       "url": "https://open.spotify.com/track/5elf7rWt5uFffJvluUfwon"
@@ -4864,7 +4926,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 147692,
       "name": "La Franquicia",
       "url": "https://open.spotify.com/track/7wveZaf1jTbvYJ0bqF3693"
@@ -7976,7 +8038,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 206946,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez"
@@ -8034,7 +8096,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 169565,
       "name": "Ropita Europea",
       "url": "https://open.spotify.com/track/1Mm8wiKEBryswVSnI6bEkb"
@@ -9342,7 +9404,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 264877,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/0xL0nSOiZzaVHnbakk5YUw"
@@ -10194,7 +10256,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 200000,
       "name": "Vetements",
       "url": "https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC"

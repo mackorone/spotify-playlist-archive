@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Khay Be, Kidd
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,154 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,171 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DOLLA DOLLA](https://open.spotify.com/track/1Q4fXnDsfRVN1KTH3TEaN3) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [DOLLA DOLLA](https://open.spotify.com/album/1k7V7iff3inDa6BwZ4uBZ0) | 2:30 |
+| 1 | [DOLLA DOLLA](https://open.spotify.com/track/1Q4fXnDsfRVN1KTH3TEaN3) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [DOLLA DOLLA](https://open.spotify.com/album/1k7V7iff3inDa6BwZ4uBZ0) | 2:30 |
 | 2 | [900 HP](https://open.spotify.com/track/0hPrlXWvNoepVF8eidONY5) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [900 HP](https://open.spotify.com/album/3WZkzyUbrUBrXhNRDenwXA) | 2:46 |
 | 3 | [Tha Ta Katafero](https://open.spotify.com/track/19WDU6ZfYeVNYtm9tL4RkL) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [Ta Lathos Paidia](https://open.spotify.com/album/2MsnFonVS6PjQaPJ0M57BQ) | 4:42 |
 | 4 | [Money Dance](https://open.spotify.com/track/0KW4JDVbQG4FKgUHPfdzse) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Money Dance](https://open.spotify.com/album/4fxc9z6GCwSs6CJC51212J) | 2:13 |

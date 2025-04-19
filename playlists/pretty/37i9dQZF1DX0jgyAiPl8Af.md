@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[](https://open.spotify.com/user/null) - 2,268,538 likes - 200 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,268,668 likes - 200 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

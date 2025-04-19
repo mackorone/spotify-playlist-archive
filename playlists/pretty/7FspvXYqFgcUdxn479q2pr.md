@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover:  KSHMR &amp; Izzy Bu
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Gabry Ponte
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,474 likes - 90 songs - 4 hr 28 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,476 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bailame](https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Bailame](https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw) | 3:05 |
+| 1 | [Frequency \(Go West\)](https://open.spotify.com/track/64jnLLOAwnDscTYCAc6oct) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Frequency \(Go West\)](https://open.spotify.com/album/72YdJwYP5izEXu4itP8u7B) | 2:33 |
 | 2 | [Holding Back The Years](https://open.spotify.com/track/2Yfew5HRXyJ2bCfsGOTDGJ) | [Pawelō](https://open.spotify.com/artist/76xuVwMGa55gY2pQcp8fqH) | [Holding Back The Years](https://open.spotify.com/album/2B15k6ngSfb1FN4AvJ2lQl) | 2:48 |
 | 3 | [Shooting Stars](https://open.spotify.com/track/0Vn1ko7vBs5qGf07s3XrFV) | [MAN](https://open.spotify.com/artist/50wV19gCROFUtMt3zcO4K8), [Guy Katch](https://open.spotify.com/artist/12Nw1wrfrjwSf0KeDoXm72) | [Shooting Stars](https://open.spotify.com/album/5NEiHpZcVucoDCXYDoMu13) | 2:20 |
-| 4 | [Frequency \(Go West\)](https://open.spotify.com/track/64jnLLOAwnDscTYCAc6oct) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Frequency \(Go West\)](https://open.spotify.com/album/72YdJwYP5izEXu4itP8u7B) | 2:33 |
+| 4 | [Bailame](https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Bailame](https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw) | 3:05 |
 | 5 | [5 Days In Búzios](https://open.spotify.com/track/32P5p8mzGF3wzWaSico9mM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0) | [5 Days In Búzios](https://open.spotify.com/album/1m6dFh2O0KPxyiVIxXzwQt) | 4:03 |
 | 6 | [More Life](https://open.spotify.com/track/1XFTkAAL8bO2f3WHFNeXBN) | [Floris van Oranje](https://open.spotify.com/artist/6WrQtpzvML5W3b8ZvqMZ2o) | [More Life](https://open.spotify.com/album/7yCIuNN0dwqhRo3VmnosFX) | 2:20 |
 | 7 | [Mafeesh Mostaheel \(feat\. Abd El Basset Hamouda\)](https://open.spotify.com/track/2eNuVCIqg9GpMhUL1DY2AM) | [SHAF](https://open.spotify.com/artist/3MSIHwtYvvLf0CLu6rUWOy), [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Mafeesh Mostaheel \(feat\. Abd El Basset Hamouda\)](https://open.spotify.com/album/6YgoTt2GxQczjteviRMI55) | 5:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 89 | [Cream](https://open.spotify.com/track/0DQiMuw802BljfUAbU8uxd) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG) | [Cream](https://open.spotify.com/album/7ltPrMbeM3QEMziwOCtBys) | 2:41 |
 | 90 | [Vortex](https://open.spotify.com/track/2yI3ZWbUDoZ2s6eMyPfA1m) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Vortex](https://open.spotify.com/album/3UwllTB2OERiCikVZmb4Hv) | 3:17 |
 
-Snapshot ID: `AAAsOUWYZBh+IvTi4sWjLL3QiaCiW3Or`
+Snapshot ID: `AAAsPJ4dsYQC3XBi7ZtRxCr563Af1U5P`

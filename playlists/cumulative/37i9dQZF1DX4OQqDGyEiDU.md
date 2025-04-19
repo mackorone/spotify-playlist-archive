@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-617 songs - 1 day 10 hr 39 min
+619 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Cider](https://open.spotify.com/track/7G10Us1QGIM4ATFXRUHH1Y) | [Aaanna Japanese Special](https://open.spotify.com/artist/3o4wFYVNIJAVKhZtjGcf27) | [Cider](https://open.spotify.com/album/2VIh1E1r6xg8B10ECYzmtt) | 3:41 | 2022-08-16 | 2022-08-24 |
 | [Cinderella \- Giga First Night Remix](https://open.spotify.com/track/2p8z2rZWj7G7hFkhU77SLz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Cinderella \(Giga First Night Remix\)](https://open.spotify.com/album/6hN2meZRTAyOBCw7zTDIVw) | 2:22 | 2022-06-14 | 2022-07-28 |
 | [City](https://open.spotify.com/track/26aXmMU69wVGqjfVAeAO2P) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [City](https://open.spotify.com/album/2AXLE5uha6JuuyUB8yHwc7) | 3:39 | 2022-08-11 | 2022-10-21 |
-| [Colorful](https://open.spotify.com/track/3fq3NnEy4kyD3CccQ4CIMO) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [Colorful](https://open.spotify.com/album/5S86wlowFmkvrpdPu6P07L) | 3:22 | 2025-03-11 |  |
+| [Colorful](https://open.spotify.com/track/3fq3NnEy4kyD3CccQ4CIMO) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [Colorful](https://open.spotify.com/album/5S86wlowFmkvrpdPu6P07L) | 3:22 | 2025-03-11 | 2025-04-19 |
 | [Corruption](https://open.spotify.com/track/2v4XHce3jhMqouDohhSpxa) | [Paseri Onuma](https://open.spotify.com/artist/5eSWEOCUeNBF0st7okwgG2) | [Chromosome](https://open.spotify.com/album/2Gbl2xafjzYDuWHyiGBAQg) | 3:10 | 2022-07-19 | 2022-07-24 |
 | [CYBERPUNK DEAD BOY](https://open.spotify.com/track/2s99gzEEtTQrkm4XulDNlw) | [MAIKI P](https://open.spotify.com/artist/0SqsnfDQXuEQWVXicMYNlg) | [CYBERPUNK DEAD BOY](https://open.spotify.com/album/2nDzcQa6dvtlD6jTok7XUN) | 3:44 | 2024-02-15 | 2024-04-19 |
 | [Daikokuten](https://open.spotify.com/track/3HDZ3ziwAT19sCVSleTVuj) | [RuLu](https://open.spotify.com/artist/0xFS8oBdlugpwYgW8dxoQm), [Youi](https://open.spotify.com/artist/79lJNIwRztO9qEL6iI5dc0) | [Daikokuten](https://open.spotify.com/album/41AWwBAG57MWfVIH5PuHUh) | 3:20 | 2022-06-30 | 2022-07-03 |
@@ -206,6 +206,7 @@
 | [Young Girl A \- one day After Another Remix](https://open.spotify.com/track/3rzVcHw0hwVgDEq5udhUJS) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Young Girl A \(one day After Another Remix\)](https://open.spotify.com/album/1olPBlVuFykQpy25lUxxOm) | 3:50 | 2023-03-09 | 2023-11-29 |
 | [Yueni](https://open.spotify.com/track/4pmdaKyK4eHEa8aZANEyna) | [Yurry Canon](https://open.spotify.com/artist/1m34pv256vfYU7zY1vozJT) | [Yueni](https://open.spotify.com/album/6rYAK7nGD6gu58uXQD9aWs) | 2:25 | 2022-06-14 | 2022-07-11 |
 | [YY](https://open.spotify.com/track/7MREY03s67e2toH9h84oUO) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [LIME](https://open.spotify.com/album/17dYvFTZVCtDhz8LewtGGa) | 3:11 | 2022-07-05 | 2022-07-12 |
+| [Zako](https://open.spotify.com/track/0YJkcI9DUv4lkNJogoitOR) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [Zako](https://open.spotify.com/album/0emahiH8a7ZgiYRp97S29w) | 3:27 | 2025-04-18 |  |
 | [Zero Talking](https://open.spotify.com/track/7E6Eo4TfaXSgXbGHPNmSSb) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [Zero Talking](https://open.spotify.com/album/08EDcCxoefkH6TwGQ8NIpR) | 3:41 | 2023-11-07 | 2024-01-05 |
 | [Zunda Takoya\-ki](https://open.spotify.com/track/6EweBKjbAYyefCTzKFobZ2) | [namigroove](https://open.spotify.com/artist/2t7wKLcqZ08LwQXmBS2OOL), [Zundamon](https://open.spotify.com/artist/4h7vIVbBIGc5hHeKdha5tc), [Kotonoha Akane&Aoi](https://open.spotify.com/artist/189nnOOUOklQ7FlgB52Gad) | [Zunda Takoya\-ki](https://open.spotify.com/album/3B0OvRWGC1mkEiowGQpYWd) | 3:27 | 2024-02-29 | 2024-04-19 |
 | [『±0』](https://open.spotify.com/track/5L9RRxcfNKVXUEEsbyReSR) | [ぺぽよ](https://open.spotify.com/artist/5rUE6efKX1ZFMAiSDEkzcS) | [『±0』](https://open.spotify.com/album/0TwJtdrGXBbFs8zhKkp8b6) | 4:25 | 2022-06-09 | 2022-07-08 |
@@ -337,6 +338,7 @@
 | [タイムマシン feat.GUMI](https://open.spotify.com/track/2Xi2ObkmQ417jsRIo4rcFJ) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [THIS IS VOCAROCK feat.GUMI](https://open.spotify.com/album/0wijdCgAq3tQMfDxbi0BUJ) | 4:08 | 2022-06-14 | 2022-06-21 |
 | [タクシィ](https://open.spotify.com/track/0kREG8eHSj3TCSck77AMnf) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [タクシィ](https://open.spotify.com/album/6glS3KLPXb2MGedjSSjit4) | 3:03 | 2024-02-20 | 2024-03-01 |
 | [ターミナル](https://open.spotify.com/track/1eX9qVhcMGAPpmvBVXW9oq) | [Kijibato](https://open.spotify.com/artist/0Nu6ol0k7wvv19hjtMK5f5), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [ターミナル](https://open.spotify.com/album/7lDlYfShmNv6ucZYq0lriV) | 2:15 | 2022-06-28 | 2022-07-07 |
+| [ダイダイダイダイダイキライ](https://open.spotify.com/track/1gFVXBVuYlDUIEdwOrN5T8) | [雨良](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [ダイダイダイダイダイキライ](https://open.spotify.com/album/2OfdrTwI2aGBqRVUqyrWmt) | 2:36 | 2025-04-18 |  |
 | [ダウナーウィッチ](https://open.spotify.com/track/2A8iKOvDG8ZCd8rgN6tPmE) | [廉](https://open.spotify.com/artist/7yDJ7xS3dASPaycSUqRy9G) | [ダウナーウィッチ](https://open.spotify.com/album/4suGRNsYYdIruxNhF2yXTP) | 3:33 | 2022-06-09 | 2022-07-28 |
 | [ダメージ!ダメージ!ダメージ!](https://open.spotify.com/track/7lYWkuKy5wbrMX1p6pq6RW) | [雨曇](https://open.spotify.com/artist/040kifXngKOCmBJC2ZRffX) | [ダメージ!ダメージ!ダメージ!](https://open.spotify.com/album/7LGHG815QRONhUpzP06Jyk) | 1:16 | 2023-03-09 | 2023-04-12 |
 | [ダーリンダンス](https://open.spotify.com/track/6MJFNhbXbqXCbHP24yLltO) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [ダーリンシンドローム](https://open.spotify.com/album/7ueq6H27BiLvciTTUytEp7) | 3:26 | 2022-06-09 | 2022-07-29 |
@@ -520,7 +522,7 @@
 | [夜に駆ける \- 初音ミク Ver.](https://open.spotify.com/track/2bMXwZygmS7rYkj7fqwgyK) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [MIKUNOYOASOBI](https://open.spotify.com/album/1fjZkuXmQVvEsgXekSQC74) | 4:19 | 2023-09-21 | 2023-10-18 |
 | [夜もすがら君想ふ](https://open.spotify.com/track/3mH5bQJk2zCuV2aH0V6TPC) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [ぼくの魔法使い](https://open.spotify.com/album/0oEVuplSruIOKKiHRtSqj0) | 4:00 | 2022-06-09 | 2022-07-17 |
 | [夜咄ディセイブ \-TeddyLoid Hopping Remix\-](https://open.spotify.com/track/44VSRtW1INM92JoRRAaUeg) | [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [MUSICAL & LIVE SHOW "ARIA" ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2wSxEZWpc6ha8bFeMrmOJK) | 3:08 | 2022-06-21 | 2022-07-29 |
-| [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 |  |
+| [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 | 2025-04-19 |
 | [大喜](https://open.spotify.com/track/0iBSqeDY6L8CYlluPCAs4h) | [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [大喜](https://open.spotify.com/album/2apBfgycWk8DB9gCZ8CwqY) | 2:43 | 2022-07-14 | 2022-07-20 |
 | [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 | 2024-04-18 | 2025-03-12 |
 | [天使](https://open.spotify.com/track/6jw5E0T0vpB2ydhgSymvnD) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg) | [atelier](https://open.spotify.com/album/7xIVP85Kp3XYjsitCpGyKO) | 2:49 | 2022-07-26 | 2022-07-28 |

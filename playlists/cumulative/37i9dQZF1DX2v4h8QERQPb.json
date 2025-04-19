@@ -3503,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/70QGUkXDclTwinj3d82xq6"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170713,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/5l6dRaGzi21yzNlbl6jBjO"
+    },
+    {
+      "album": {
         "name": "BIEN O MAL",
         "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
@@ -5948,6 +5966,24 @@
       "duration_ms": 141657,
       "name": "RAP & B",
       "url": "https://open.spotify.com/track/2aBX6qVoFTZR0zWdy9mxBM"
+    },
+    {
+      "album": {
+        "name": "RAP EVOLUTIVO",
+        "url": "https://open.spotify.com/album/1bZIJWmVSHxrgaCOMiaKRP"
+      },
+      "artists": [
+        {
+          "name": "J.Mastermix",
+          "url": "https://open.spotify.com/artist/1UvUSpVxlY8KvfNMMNtxSR"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191048,
+      "name": "RAP EVOLUTIVO",
+      "url": "https://open.spotify.com/track/6bgzRCRnToYh20XUJ1vyJJ"
     },
     {
       "album": {

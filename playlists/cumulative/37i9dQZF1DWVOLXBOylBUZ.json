@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Polim\u00e1 Westcoast",
+  "description": "Latinoam\u00e9rica baila al ritmo de Omar Courtz y Bad Gyal",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 190188,
       "name": "AL X MAYOR",
       "url": "https://open.spotify.com/track/5J4EnQf9SpzeWoa3J2WsDR"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 201500,
       "name": "Anormales",
       "url": "https://open.spotify.com/track/7LCDh7VvM08V5jn0tk6LhC"
@@ -5459,6 +5459,28 @@
     },
     {
       "album": {
+        "name": "Comernos",
+        "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Comernos",
+      "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
+    },
+    {
+      "album": {
         "name": "Comerte a Besos (Remix)",
         "url": "https://open.spotify.com/album/46F1esWc3cNxz3aYveumej"
       },
@@ -7130,6 +7152,28 @@
       "duration_ms": 156116,
       "name": "DeMasters Presenta: Tamos Claros",
       "url": "https://open.spotify.com/track/6Y05vVJkCF4QCyza9O5SzV"
+    },
+    {
+      "album": {
+        "name": "Dentro De La Disco",
+        "url": "https://open.spotify.com/album/50WeyzONmjgiV9K7q4CrNk"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Dentro De La Disco",
+      "url": "https://open.spotify.com/track/1fyIGx1bGNlywDMybF6aJD"
     },
     {
       "album": {
@@ -9264,6 +9308,32 @@
       "duration_ms": 174857,
       "name": "Eres Para M\u00ed",
       "url": "https://open.spotify.com/track/7ppEc3lFu3nudWCW5ypQGG"
+    },
+    {
+      "album": {
+        "name": "Eres Tu",
+        "url": "https://open.spotify.com/album/6fX9Zy0dsxD7MWHyXRj4am"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203107,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/7rsU5Ed1RqB0rYkkk6CP0Z"
     },
     {
       "album": {
@@ -20949,6 +21019,28 @@
     },
     {
       "album": {
+        "name": "Respect",
+        "url": "https://open.spotify.com/album/5kvNGNklHY0qztxsx2to3e"
+      },
+      "artists": [
+        {
+          "name": "EnSecreto",
+          "url": "https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju"
+        },
+        {
+          "name": "Kast",
+          "url": "https://open.spotify.com/artist/5p01X9qQ2S4Z2KmX1nbNQL"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164812,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/54AMnonxYFbBBTO6p64kM7"
+    },
+    {
+      "album": {
         "name": "RETUMBA",
         "url": "https://open.spotify.com/album/14kHnlP7Ytj4PceLKfaU7W"
       },
@@ -23912,7 +24004,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 199298,
       "name": "TNT",
       "url": "https://open.spotify.com/track/0VkdIb1s5W0t9c6qXKzVB3"
@@ -25280,7 +25372,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 143595,
       "name": "Una Gata",
       "url": "https://open.spotify.com/track/5W5BtLhse1zGw7tIS1ZIT4"

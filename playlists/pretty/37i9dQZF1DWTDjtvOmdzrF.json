@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 557691,
+  "num_followers": 557710,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-04-17 17:06:09",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 240882,
-      "name": "Resah",
-      "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
-    },
-    {
-      "added_at": "2025-04-17 17:06:09",
-      "album": {
         "name": "Tresno liyane",
         "url": "https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 290000,
       "name": "Tresno liyane",
       "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
+    },
+    {
+      "added_at": "2025-04-17 17:06:09",
+      "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 240882,
+      "name": "Resah",
+      "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
     },
     {
       "added_at": "2025-04-17 17:06:09",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-04-17 17:06:09",
       "album": {
-        "name": "DEKADE",
-        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 218470,
-      "name": "Bukan Cinta Biasa - Dekade Version",
-      "url": "https://open.spotify.com/track/6N4EZhQbBsDjwr2buY3TGk"
-    },
-    {
-      "added_at": "2025-04-17 17:06:09",
-      "album": {
         "name": "Ego & Fungsi Otak",
         "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2025-04-17 17:06:09",
       "album": {
-        "name": "Salahkah Aku Terlalu Mencintaimu",
-        "url": "https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
       "artists": [
         {
-          "name": "Fatin",
-          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 232266,
-      "name": "Salahkah Aku Terlalu Mencintaimu",
-      "url": "https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv"
+      "duration_ms": 218470,
+      "name": "Bukan Cinta Biasa - Dekade Version",
+      "url": "https://open.spotify.com/track/6N4EZhQbBsDjwr2buY3TGk"
     },
     {
       "added_at": "2025-04-17 17:06:09",
@@ -1255,6 +1239,22 @@
       "duration_ms": 218293,
       "name": "Bimbang",
       "url": "https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy"
+    },
+    {
+      "added_at": "2025-04-17 17:06:09",
+      "album": {
+        "name": "Salahkah Aku Terlalu Mencintaimu",
+        "url": "https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "Salahkah Aku Terlalu Mencintaimu",
+      "url": "https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv"
     }
   ],
   "unique_name": "Kopikustik",

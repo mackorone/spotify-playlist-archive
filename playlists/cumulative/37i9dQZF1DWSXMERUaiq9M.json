@@ -3557,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat Destiny",
+        "url": "https://open.spotify.com/album/7jEhDQNVb8afvuJmRHYQG4"
+      },
+      "artists": [
+        {
+          "name": "Mika Heggemann",
+          "url": "https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Heartbeat Destiny",
+      "url": "https://open.spotify.com/track/0slQUisdrwyMLrFJ8Dxaee"
+    },
+    {
+      "album": {
         "name": "Heartbreak Repair System",
         "url": "https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV"
       },
@@ -4776,7 +4794,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 171000,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/7JRwX5i43f5T4T5hVodZ7v"

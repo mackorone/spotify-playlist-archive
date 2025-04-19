@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Skrillex",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Mary Droppinz",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -4431,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "chicken jockey",
+        "url": "https://open.spotify.com/album/13cF0WANYpeaurr183mS8a"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "chicken jockey",
+      "url": "https://open.spotify.com/track/78HzQfpDOvhCLyuAVZTb0g"
+    },
+    {
+      "album": {
         "name": "CHOMP",
         "url": "https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5"
       },
@@ -6795,6 +6813,24 @@
     },
     {
       "album": {
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149793,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP"
+    },
+    {
+      "album": {
         "name": "Drop That",
         "url": "https://open.spotify.com/album/05kt3fVBRHJ7QkcqjJmBuR"
       },
@@ -6946,6 +6982,28 @@
       "duration_ms": 213333,
       "name": "Dustinations",
       "url": "https://open.spotify.com/track/2VQWHVq2ZInZlSl1Qlgxz1"
+    },
+    {
+      "album": {
+        "name": "Dutty",
+        "url": "https://open.spotify.com/album/5dfawAgRpWLQxOkQb1mT8v"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210642,
+      "name": "Dutty",
+      "url": "https://open.spotify.com/track/40QBWI7oVfaKSPsRm4J0uF"
     },
     {
       "album": {
@@ -7318,7 +7376,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 145856,
       "name": "Empty",
       "url": "https://open.spotify.com/track/58D2ovS7dHHgLmql6PiAeQ"
@@ -10197,6 +10255,24 @@
     },
     {
       "album": {
+        "name": "GONE FOR A MINUTE",
+        "url": "https://open.spotify.com/album/0rM4ObUWYKVLzIw9jLA3hS"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "GONE FOR A MINUTE",
+      "url": "https://open.spotify.com/track/63DGoc1OKnj38fMirECPmA"
+    },
+    {
+      "album": {
         "name": "GOOD 4 U",
         "url": "https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR"
       },
@@ -11680,7 +11756,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 195000,
       "name": "Hush",
       "url": "https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks"
@@ -13546,7 +13622,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 193714,
       "name": "leaving (dont tell me)",
       "url": "https://open.spotify.com/track/3mOtdUx4a4T3LAw6CwRc04"
@@ -13806,7 +13882,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 180689,
       "name": "Liftoff",
       "url": "https://open.spotify.com/track/4yI74bdkCfRmhr3BzMTLwU"
@@ -15135,6 +15211,32 @@
     },
     {
       "album": {
+        "name": "Anomaly (Remixes)",
+        "url": "https://open.spotify.com/album/4MV1bkMexP9A4C25Z61hDO"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "Mercy - Jon Casey Remix",
+      "url": "https://open.spotify.com/track/0rNXZeS4pASoPK2VRCargk"
+    },
+    {
+      "album": {
         "name": "Mess",
         "url": "https://open.spotify.com/album/2l00UMlxYNMyRfVouVgUwb"
       },
@@ -16306,6 +16408,32 @@
       "duration_ms": 162450,
       "name": "NGMF",
       "url": "https://open.spotify.com/track/2iOz9TpTJgR3ZBIQ0Pas2g"
+    },
+    {
+      "album": {
+        "name": "Aura Park",
+        "url": "https://open.spotify.com/album/4HqTeQW4BK54pRKvWigmI6"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217613,
+      "name": "Night Bloom",
+      "url": "https://open.spotify.com/track/5d3ho8vn1xMfW1gpvq5unv"
     },
     {
       "album": {
@@ -18056,6 +18184,24 @@
       "duration_ms": 220588,
       "name": "Pay Respect",
       "url": "https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy"
+    },
+    {
+      "album": {
+        "name": "PAYBACK",
+        "url": "https://open.spotify.com/album/1PFMCeY6VJm60Vmtl3mEk0"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219230,
+      "name": "PAYBACK",
+      "url": "https://open.spotify.com/track/4RIqJleQdPOg4KSo6uTmtK"
     },
     {
       "album": {
@@ -21201,6 +21347,24 @@
     },
     {
       "album": {
+        "name": "Show You What You Love",
+        "url": "https://open.spotify.com/album/76BEwLxWKn4hVZ9iRGMRSZ"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187079,
+      "name": "Show You What You Love",
+      "url": "https://open.spotify.com/track/2i3XsjRLpTx2MisKPKsGgI"
+    },
+    {
+      "album": {
         "name": "SHOWOFF",
         "url": "https://open.spotify.com/album/73CeKyAHVdhp5QNJOgwccA"
       },
@@ -23326,7 +23490,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 76800,
       "name": "TEARS LOST DROP",
       "url": "https://open.spotify.com/track/26wNzedjBGoERhSb3mzEdl"
@@ -23476,7 +23640,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 139200,
       "name": "That One Dubstep Song",
       "url": "https://open.spotify.com/track/1nSehdAtoqUouTAHuR8buS"
@@ -26122,7 +26286,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 57599,
       "name": "WHILE YOU WERE SLEEPING VIP",
       "url": "https://open.spotify.com/track/2MX61zLIo9LohKn8cGTqY8"
@@ -26792,7 +26956,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 170454,
       "name": "WYAWYS",
       "url": "https://open.spotify.com/track/2jgOUCCJMqX3p3Fo40KsOC"

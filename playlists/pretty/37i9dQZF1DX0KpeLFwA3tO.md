@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Balance And Composure
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,342 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,521 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alive & Well](https://open.spotify.com/track/2W5MV8gAzYhvcWV7lywxP1) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Alive & Well](https://open.spotify.com/album/1tsnyH9PnolLVWB8MgsAD7) | 3:32 |
 | 2 | [Who's Laughing Now](https://open.spotify.com/track/0ZpLyeA0NJeQ0mVsbje1Bm) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Who's Laughing Now](https://open.spotify.com/album/5SWP3r7Lw6ENV9EHsP4EBi) | 3:18 |
 | 3 | [Wreck My Life \(feat\. PUP\)](https://open.spotify.com/track/5PLmlMi5vvoL9pvR8E8UOo) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Wreck My Life \(feat\. PUP\)](https://open.spotify.com/album/7D634spauV9sF64ndg5NgF) | 1:58 |
-| 4 | [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \(Remix\) \[Feat Mannequin Pussy\]](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 |
+| 4 | [Tall People Don't Live Long](https://open.spotify.com/track/3hhVZKJSMnCG1LjZkYSohk) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [Tall People Don't Live Long](https://open.spotify.com/album/4Zv3JlE5l87PPVCOkmnoVe) | 3:06 |
 | 5 | [I Think They Know](https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [I Think They Know](https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1) | 3:06 |
 | 6 | [Heavy Jelly](https://open.spotify.com/track/0WWJZU5HrQHxshzma0h9LC) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVIER JELLY](https://open.spotify.com/album/3Rz31xgqFQGTlkABzhv7Qo) | 2:36 |
 | 7 | [Cat Guy](https://open.spotify.com/track/1ZG6oGxZ6DrXhJCBbWno5T) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Cat Guy](https://open.spotify.com/album/0L0DIAjgEFhy08JmNgXMeL) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Animal Death Already Breathing](https://open.spotify.com/track/2k2USr0srRydgTSilsEz4r) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Animal Death Already Breathing](https://open.spotify.com/album/2Ts2zLCzEWBnu2wTfcGgpA) | 2:39 |
 | 100 | [Gok Wan](https://open.spotify.com/track/5XdssJ61ZZWpdAsWOn6CqC) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Gok Wan](https://open.spotify.com/album/58FZdwOH5IUri5Fswa2o91) | 2:37 |
 
-Snapshot ID: `aAGIDwAAAACWrFuOZmgJWiGq5RRVTazY`
+Snapshot ID: `aAHSuwAAAADHFBrnbz7cVrAvJFvECL3E`

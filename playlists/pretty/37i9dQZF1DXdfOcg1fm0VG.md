@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,498 likes - 140 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,588 likes - 140 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 40 | [Dearly Beloved \- KINGDOM HEARTS II Version\-](https://open.spotify.com/track/6Tkn4gwyqVcpU0ecgtU3bw) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \-HD 2.5 ReMIX\- \(Original Soundtrack\)](https://open.spotify.com/album/6eVWdfj3yizOc8qtEmF00P) | 4:19 |
 | 41 | [Assassin's Creed Valhalla Main Theme \(feat\. Einar Selvik\)](https://open.spotify.com/track/2hQIeYuMXRrvCASE6kB37E) | [Sarah Schachner](https://open.spotify.com/artist/692KvxElsJHIJQCS6Eoc32), [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH), [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 3:15 |
 | 42 | [Pokémon®](https://open.spotify.com/track/74RXECEEdc945gowRY4ebj) | [Video Games Live](https://open.spotify.com/artist/6dZAVi5PugDwlAnH8KMEGl) | [Level 3](https://open.spotify.com/album/2KHrrZCAkI8HOIJpOqLzET) | 4:14 |
-| 43 | [Ryas' Theme](https://open.spotify.com/track/7Aob4PraD6KWsJX7KB6gkm) | [Alistair Kerley](https://open.spotify.com/artist/34ABTloDcLIblFcNvro2S0) | [Horizon Call of the Mountain \(Official Soundtrack\)](https://open.spotify.com/album/45yWDK1rkyOp7B2l7zgFvt) | 3:32 |
+| 43 | [Ryas' Theme](https://open.spotify.com/track/7Aob4PraD6KWsJX7KB6gkm) | [Boxed Ape](https://open.spotify.com/artist/7xWwhq4SRSv9EJIGByfmc8) | [Horizon Call of the Mountain \(Official Soundtrack\)](https://open.spotify.com/album/45yWDK1rkyOp7B2l7zgFvt) | 3:32 |
 | 44 | [Castlevania](https://open.spotify.com/track/664qR3uQQOlRVIr2bTzJQz) | [Michiru Yamane](https://open.spotify.com/artist/6yHzqH70UbRHmoTOcEBmRz), [Jun Irie](https://open.spotify.com/artist/5JqskDaiPYXK7suG5avAiC), [Play! Orchestra](https://open.spotify.com/artist/0GYcXLXJH56tMNErPW6Wfg) | [Castlevania](https://open.spotify.com/album/4RSVZeOGgBwv3z0l7lHpIT) | 6:50 |
 | 45 | [Metal Gear Saga](https://open.spotify.com/track/3gMRvptppSZGbhYBeIqxV3) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK](https://open.spotify.com/album/1tBv8dV8YXy58L9io2eYbI) | 4:19 |
 | 46 | [\[WITH GREAT POWER\]](https://open.spotify.com/track/1SsqQhUJT1TxlkOXQi9XKh) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Harmony: The Fall of Reverie \(Original Game Soundtrack\)](https://open.spotify.com/album/18jbuRWWfVHnp2g5MEqtRJ) | 2:49 |

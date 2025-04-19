@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Deborah Hanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,187 likes - 111 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,239 likes - 111 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 2 | [Si Paling](https://open.spotify.com/track/7dTFMexbRVTQg54nJZezY0) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Si Paling](https://open.spotify.com/album/6ukh6WIlCAvImEwJZRsLGx) | 3:33 |
 | 3 | [Rindu](https://open.spotify.com/track/0ZbnfuW3JuWzQjBa5WMwKo) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Koca](https://open.spotify.com/artist/2OJGOa8UrU4F5rjIaAQbvf) | [Rindu](https://open.spotify.com/album/2iA1WaUcpMkaj2WPYUasqz) | 4:05 |
 | 4 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 |
-| 5 | [Tak Sampai Ku Miliki](https://open.spotify.com/track/62t5qZhMn3Ce5W7UTcSbix) | [Dendi Dhamawan](https://open.spotify.com/artist/36zvGVXfcaLlw6L7V5Nam0), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Tak Sampai Ku Miliki](https://open.spotify.com/album/7c2EpJpJzo4evPXD1l4X85) | 4:36 |
+| 5 | [Tak Sampai Ku Miliki](https://open.spotify.com/track/62t5qZhMn3Ce5W7UTcSbix) | [Dendi Dharmawan](https://open.spotify.com/artist/0wHe4IXvXYWC1ttDlg2lV3), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Tak Sampai Ku Miliki](https://open.spotify.com/album/7c2EpJpJzo4evPXD1l4X85) | 4:36 |
 | 6 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 |
 | 7 | [UH! \(ghosted\)](https://open.spotify.com/track/3RGfTflTIJQMDY28yUsfKw) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR), [Saykoji](https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ) | [UH! \(ghosted\)](https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF) | 3:14 |
 | 8 | [No No No](https://open.spotify.com/track/5YhykvC5DZYGqxxq9OBdIA) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE), [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor), [Adam Zeins](https://open.spotify.com/artist/5jG35LMoM4xAQLz2RBg4XQ) | [No No No](https://open.spotify.com/album/7J0Mq5b6iiHQQaAzNcpPVx) | 2:58 |

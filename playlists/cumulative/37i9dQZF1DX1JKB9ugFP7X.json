@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "TANYA",
+        "url": "https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169451,
+      "name": "ANTONIO",
+      "url": "https://open.spotify.com/track/6SYTtNE9tD95oSFPbKXeFL"
+    },
+    {
+      "album": {
         "name": "aquiles </3",
         "url": "https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK"
       },
@@ -1839,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Me Quieren Matar",
+        "url": "https://open.spotify.com/album/1P4QJa2eFwuQSZkxj7kiS0"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Me Quieren Matar",
+      "url": "https://open.spotify.com/track/3soKTnPmFPNK3feqeTAI9B"
+    },
+    {
+      "album": {
         "name": "MELONI",
         "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
       },
@@ -3140,6 +3180,24 @@
       "duration_ms": 187250,
       "name": "Una Hora para Verte",
       "url": "https://open.spotify.com/track/5urfs2DgH04EuVXZYN9n8B"
+    },
+    {
+      "album": {
+        "name": "Untitled 1",
+        "url": "https://open.spotify.com/album/2rKxKGXXcHdfFCRvMuWisP"
+      },
+      "artists": [
+        {
+          "name": "Mar Marzo",
+          "url": "https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255052,
+      "name": "Untitled 1",
+      "url": "https://open.spotify.com/track/5DdeZu1qRxh8m4fFKk5cuz"
     },
     {
       "album": {

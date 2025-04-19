@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,978 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,986 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 41 | [Another Chance \- SBF17](https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Another Chance \(SBF17\)](https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9) | 3:03 |
 | 42 | [Get Down Lil Bit \- Street Bangers Factory 16](https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Get Down Lil Bit \(Street Bangers Factory 16\)](https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn) | 4:50 |
 | 43 | [She a Go](https://open.spotify.com/track/3RWDJd7eh6Scfoz94sJbsX) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Spinn](https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:37 |
-| 44 | [Animosty](https://open.spotify.com/track/2uO6V4OOr08LfU5DSQDchL) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 3:28 |
+| 44 | [ICE CREAM](https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:14 |
 | 45 | [Get the Money \- SBF14](https://open.spotify.com/track/5nvE83ieA4Qd74wU6cYtE0) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Get the Money \(SBF14\)](https://open.spotify.com/album/6CjXD6nyCZCEP867ZiqwJg) | 3:13 |
 | 46 | [Stick Em'](https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF) | [Caidance](https://open.spotify.com/artist/3bWNdjdWiWNdv1xPOnFU1r) | [Guaranteed](https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX) | 3:40 |
 | 47 | [Baaaaaa \- Taken from Bass + Funk & Soul](https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Baaaaaa \(Taken from Bass + Funk & Soul\)](https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO) | 2:30 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 49 | [BS6](https://open.spotify.com/track/6TvNg91oTRyHX6zN676dK5) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [BS6](https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF) | 3:45 |
 | 50 | [Afrika Jungle Them](https://open.spotify.com/track/6FHGAzQKr7CnrmlRwWnjZd) | [DSS](https://open.spotify.com/artist/2T4IqxlbDbMsjHF0kljX0f) | [Afrika Jungle Them EP](https://open.spotify.com/album/3ktYpr3qQwRxWmVpKlqkNZ) | 3:12 |
 | 51 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/0x8GxrGOhZLJJWve0qMryZ) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/6nUlE97QCne6C6AYAdFY3F) | 3:56 |
-| 52 | [ICE CREAM](https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:14 |
+| 52 | [Animosty](https://open.spotify.com/track/2uO6V4OOr08LfU5DSQDchL) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 3:28 |
 | 53 | [L](https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi) | [CRZKNY](https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po) | [T3 TRAXX, Vol\. 2](https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH) | 3:06 |
 | 54 | [Slanted \- BSN Posse Remix](https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA) | 3:46 |
 | 55 | [Good Days](https://open.spotify.com/track/6vAMZ2r4RwgoC6L47owv1U) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Perfecto](https://open.spotify.com/album/3SGneAajBWiCia1mHvVs2w) | 2:49 |

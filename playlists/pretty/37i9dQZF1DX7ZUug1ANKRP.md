@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Christian Marchi
+> The biggest Dance hits and the ones to come\. Cover: Cristian Marchi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,854,531 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,854,568 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Rebel Heart](https://open.spotify.com/track/1uSMVWFeZr3sLfCjZPYYOZ) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Rebel Heart](https://open.spotify.com/album/6IXEiaAZLwz49AiaHq01kk) | 2:07 |
 | 50 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 
-Snapshot ID: `aAF57AAAAAD/ailHqBDXQtQt/9Xgrf6d`
+Snapshot ID: `aAIfjwAAAACtDE8YzedgD+fyXWDvfArG`

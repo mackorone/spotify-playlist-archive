@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-254 songs - 18 hr 49 min
+255 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [HEAR THE NOISE](https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [HEAR THE NOISE](https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye) | 2:46 | 2024-04-09 |  |
 | [HEAR THIZ MF](https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [HEAR THIZ MF](https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX) | 2:23 | 2025-01-24 |  |
 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 | 2024-05-31 |  |
-| [HEISS \(Floorkiller Flex\)](https://open.spotify.com/track/4pHPgZOypoLFxt7oRoyjaQ) | [ÅMRTÜM](https://open.spotify.com/artist/3bb7lqTA4RWzdAXpdfR5VK), [Synta](https://open.spotify.com/artist/3xs9xI64jtMn4Z0S2nNiq2) | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/album/1b7NKQ854B78JCooKptg4F) | 4:48 | 2024-04-09 |  |
+| [HEISS \(Floorkiller Flex\)](https://open.spotify.com/track/4pHPgZOypoLFxt7oRoyjaQ) | [ÅMRTÜM](https://open.spotify.com/artist/3bb7lqTA4RWzdAXpdfR5VK), [Synta](https://open.spotify.com/artist/3xs9xI64jtMn4Z0S2nNiq2) | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/album/1b7NKQ854B78JCooKptg4F) | 4:48 | 2024-04-09 | 2025-04-19 |
 | [High On C](https://open.spotify.com/track/48oFEZWfCjhLQuZHkKwAVW) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:18 | 2024-07-18 | 2024-07-22 |
 | [Hit The Club](https://open.spotify.com/track/4AlA1z25JYMU1kgmgCc8St) | [DBF](https://open.spotify.com/artist/3p9cbFUvSrQeLgpm7Go8ky) | [Hit The Club](https://open.spotify.com/album/67vJ3MyRTpkoT8dvN8rueX) | 2:28 | 2024-07-14 | 2024-07-22 |
 | [Hold Ud, Skat!](https://open.spotify.com/track/2V93YUfHy7HdfM050NYjo8) | [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Trifecta](https://open.spotify.com/album/3FFdrjoj7j1nivP0Koz4gL) | 4:56 | 2024-04-09 | 2024-04-19 |
@@ -219,6 +219,7 @@
 | [Swords](https://open.spotify.com/track/3kZTkTa0skVIvp1UCRVEmK) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Swords EP](https://open.spotify.com/album/7DuE1pxDycYqwqQz3kbE9s) | 6:33 | 2024-04-09 | 2024-05-28 |
 | [Synthetic Dreams \- Anetha Remix](https://open.spotify.com/track/5dDOtrnF2JQrr4yrD5SRdV) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Synthetic Dreams \(Anetha Remix\)](https://open.spotify.com/album/5KV09u5f8tmoFLauTBtyx6) | 6:23 | 2024-04-09 | 2024-04-19 |
 | [Tamara](https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tamara](https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD) | 3:26 | 2024-08-13 | 2024-11-29 |
+| [TECHNO DRUG](https://open.spotify.com/track/4eTcsnhvSpCqraE0OQRr5T) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX) | [TECHNO DRUG](https://open.spotify.com/album/1mvWzA7i1nh4wllD9ZKcGB) | 2:54 | 2025-04-18 |  |
 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 | 2024-08-05 |  |
 | [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 | 2024-04-09 |  |
 | [The Banger](https://open.spotify.com/track/3xyBlqKf2LguVQirOd7Fyl) | [Rudaki](https://open.spotify.com/artist/5XYNc9Y6UvVlJdDofYxi8i) | [The Banger](https://open.spotify.com/album/4laSdIMYC4ztEXLIr42k5g) | 5:00 | 2024-07-14 | 2024-07-22 |

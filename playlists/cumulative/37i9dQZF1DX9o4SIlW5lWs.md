@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Cazzu.
 
-530 songs - 1 day 5 hr 59 min
+531 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 | 2022-07-22 | 2024-04-19 |
 | [La Estrategia](https://open.spotify.com/track/7rwBT0s2G44oK66I3cCzf4) | [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [La Estrategia](https://open.spotify.com/album/4RhpW9N4X7ukSSSz0u8keA) | 3:17 | 2022-03-18 | 2022-06-03 |
 | [La Luna y el Sol](https://open.spotify.com/track/5Gij8d5wbk9a4rX5ZkLApQ) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Los 20 Mejores](https://open.spotify.com/album/5AYp75uaXhw0WsRhQj74pr) | 3:13 | 2025-02-28 | 2025-03-21 |
-| [La Luna y Tú](https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Luna y Tú](https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk) | 3:36 | 2024-03-08 |  |
+| [La Luna y Tú](https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Luna y Tú](https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk) | 3:36 | 2024-03-08 | 2025-04-19 |
 | [La Mejor De Todas](https://open.spotify.com/track/1AzjlvmSsC7ULBPHLCmHL7) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [La Mejor de Todas](https://open.spotify.com/album/1zfJFT7uRTwtw1ltjTSfNS) | 2:27 | 2024-11-01 | 2025-03-01 |
 | [La Mitad](https://open.spotify.com/track/1n0TUKFvT1C9u2saSdZlIA) | [Laura Rous](https://open.spotify.com/artist/7wOkY1qB4dkbIs0fsw12Zg), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [La Mitad](https://open.spotify.com/album/7hEQGmeTuNe2493OL3I2ib) | 2:50 | 2023-04-07 | 2023-04-12 |
 | [La Rutina](https://open.spotify.com/track/6C094RYoKyovRnKMBTM3wD) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [La Rutina](https://open.spotify.com/album/4XyfsuL6Qn0afy1fAQmbzQ) | 2:46 | 2022-02-04 | 2022-06-27 |
@@ -391,6 +391,7 @@
 | [Qué Pasará](https://open.spotify.com/track/7EzenviIy5W5aYgufLACx8) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Qué Pasará](https://open.spotify.com/album/4aZxXog7QS5lZulPpgBEdJ) | 3:23 | 2024-10-18 | 2024-10-26 |
 | [Rayando El Sol](https://open.spotify.com/track/2wFWiNyYQZnAo92ARZlcK5) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [70\-30 \(Vol 1\)](https://open.spotify.com/album/2ValAxEHkpIwTby46zuAZ1) | 1:57 | 2024-10-18 | 2024-10-26 |
 | [Recuerdos](https://open.spotify.com/track/1AtZwXCl3sjqdD66j39g9Q) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Recuerdos](https://open.spotify.com/album/5b70gTnDRf5A8J8iodxvyB) | 2:42 | 2022-03-18 | 2022-04-19 |
+| [Rompecabezas de Amor](https://open.spotify.com/track/4kiu4dDlJ5W7bf5avojYAt) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Rompecabezas de Amor](https://open.spotify.com/album/0cx8EIr7EAXZlzf3aOz3g7) | 3:05 | 2025-04-18 |  |
 | [Sabrás](https://open.spotify.com/track/7vZS3nIRZYjKY2KONHBi3A) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [Sabrás](https://open.spotify.com/album/30ttzkpomPtTktP06x89ZE) | 3:08 | 2022-07-22 | 2022-08-13 |
 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 | 2022-01-21 | 2024-09-27 |
 | [Se Fue el Amor](https://open.spotify.com/track/7ihPPfWMMkxzrvmNh1xNZH) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Se Fue el Amor](https://open.spotify.com/album/3ZMnkcFLpocql6V3ipsDdN) | 2:53 | 2022-01-21 | 2022-07-28 |

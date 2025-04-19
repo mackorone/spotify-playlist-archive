@@ -5384,7 +5384,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 142040,
       "name": "Haven",
       "url": "https://open.spotify.com/track/5DhPUg2oGoQkEbIJcQiSmG"
@@ -5960,7 +5960,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-16",
+      "date_removed": null,
       "duration_ms": 185008,
       "name": "Initially",
       "url": "https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b"
@@ -8142,6 +8142,24 @@
       "duration_ms": 172173,
       "name": "Obelisk",
       "url": "https://open.spotify.com/track/1n5VczASXRX9ymi7Rb8PFw"
+    },
+    {
+      "album": {
+        "name": "Objectively",
+        "url": "https://open.spotify.com/album/5p0u1ykj7CJhdDRpHK5GlX"
+      },
+      "artists": [
+        {
+          "name": "Dominum Nominum",
+          "url": "https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Objectively",
+      "url": "https://open.spotify.com/track/0ixbViINyatsqlTbj2bXpL"
     },
     {
       "album": {
@@ -10536,7 +10554,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 152647,
       "name": "Solis Occasum",
       "url": "https://open.spotify.com/track/0ODkj1yVyLoiejNJWA58p3"

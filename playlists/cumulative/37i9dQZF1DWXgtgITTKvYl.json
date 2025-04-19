@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/0PX5KyNurWLarE2Ehm9DGI"
+      },
+      "artists": [
+        {
+          "name": "Odd Palace",
+          "url": "https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV"
+        },
+        {
+          "name": "Afterlove",
+          "url": "https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272151,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4TkblE3su1N2ZLtE7WYUXQ"
+    },
+    {
+      "album": {
         "name": "All of a Sudden, You're Gone",
         "url": "https://open.spotify.com/album/5VbUia8LpeD0U3kayUNBT4"
       },
@@ -496,7 +518,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 282786,
       "name": "Behemoth (Don't Blame Us)",
       "url": "https://open.spotify.com/track/6x2teFITmnZI6iOE5IX4rO"
@@ -1863,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Friend Of A Phantom",
+        "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "Glass Mannequin",
+      "url": "https://open.spotify.com/track/0CDjBgs0c464Z550EpiQp1"
+    },
+    {
+      "album": {
         "name": "Glitching",
         "url": "https://open.spotify.com/album/4kQHFaXA7KTii3Dy4aTmXI"
       },
@@ -1946,7 +1986,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 234607,
       "name": "Harm",
       "url": "https://open.spotify.com/track/2TJ9lCoLHe3X7EuMVgl0YI"
@@ -2058,7 +2098,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 310352,
       "name": "Heathen",
       "url": "https://open.spotify.com/track/3zc7Jwhc1nkgtGmk2qTDjq"
@@ -2080,6 +2120,24 @@
       "duration_ms": 389640,
       "name": "Heavy Pencil",
       "url": "https://open.spotify.com/track/65442wX7TIwgEeCkfLzKwT"
+    },
+    {
+      "album": {
+        "name": "Hic Sunt Dracones",
+        "url": "https://open.spotify.com/album/5M49LX6tVtgvlG47FkuH0W"
+      },
+      "artists": [
+        {
+          "name": "Algal",
+          "url": "https://open.spotify.com/artist/6AU6DQHPVlHvPh175WIXHa"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252161,
+      "name": "Hic Sunt Dracones",
+      "url": "https://open.spotify.com/track/2smxyXP8rB7OLViYP2Zfev"
     },
     {
       "album": {
@@ -2710,7 +2768,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 87813,
       "name": "La tentazione - Live",
       "url": "https://open.spotify.com/track/0IGLtKd0YHN30FtDl6HHLt"
@@ -3060,7 +3118,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 87672,
       "name": "Moetsukiro!! Nessen Ressen Chou Gekisen (part. 4) - From \"Dragon Ball Z\"",
       "url": "https://open.spotify.com/track/7LASlTjTDIE2uXAT8ZeCTh"
@@ -3482,7 +3540,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 267692,
       "name": "One Year Still",
       "url": "https://open.spotify.com/track/5Q2iZpdp82RYHVmGvFFLeU"
@@ -3554,7 +3612,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 267026,
       "name": "Paper Wolf",
       "url": "https://open.spotify.com/track/1IvDaHVYaRncZlNeLAA76g"
@@ -3742,6 +3800,24 @@
       "duration_ms": 184930,
       "name": "Punchin'",
       "url": "https://open.spotify.com/track/1VhH0ZimszA3aPx0JiBAvb"
+    },
+    {
+      "album": {
+        "name": "Puzzle Box (Live in London 2024)",
+        "url": "https://open.spotify.com/album/2rI2kroTYp8a9kJiGXlmoH"
+      },
+      "artists": [
+        {
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512919,
+      "name": "Puzzle Box - Live in London 2024",
+      "url": "https://open.spotify.com/track/6DLIziYvwnLV3t7L3PI26L"
     },
     {
       "album": {
@@ -4435,6 +4511,32 @@
     },
     {
       "album": {
+        "name": "Silver Lady",
+        "url": "https://open.spotify.com/album/60BQHGA9rZYLWydn6pMHnY"
+      },
+      "artists": [
+        {
+          "name": "Tolan",
+          "url": "https://open.spotify.com/artist/4YSua4qFdfh8JgRxOW9EoC"
+        },
+        {
+          "name": "Dreamfield",
+          "url": "https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm"
+        },
+        {
+          "name": "Pryces",
+          "url": "https://open.spotify.com/artist/6e4SoZqhV4nKK3pT2JNrkx"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Silver Lady",
+      "url": "https://open.spotify.com/track/0khfraFGl9TsIjYrNEdIBi"
+    },
+    {
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/115SM9kfY0bkenmPMCpHiO"
       },
@@ -4704,7 +4806,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 216187,
       "name": "Standing in Line",
       "url": "https://open.spotify.com/track/0D5o4zMRiepHDdCwqayx37"
@@ -4846,6 +4948,24 @@
       "duration_ms": 293239,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
+    },
+    {
+      "album": {
+        "name": "Summits",
+        "url": "https://open.spotify.com/album/6eG0uVeam9mRM4chQTjXmM"
+      },
+      "artists": [
+        {
+          "name": "Bernth",
+          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131097,
+      "name": "Summits",
+      "url": "https://open.spotify.com/track/2GmpPv8YHz7tYicMPgkYko"
     },
     {
       "album": {
@@ -5542,6 +5662,42 @@
       "duration_ms": 309873,
       "name": "The Whispers",
       "url": "https://open.spotify.com/track/0ojrI8qsbifM2kttz9DwC5"
+    },
+    {
+      "album": {
+        "name": "The World's Number One Oden Store (From \"One Piece\")",
+        "url": "https://open.spotify.com/album/3OMJWNmNlAmGJJtq6RlR7h"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Motta",
+          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98684,
+      "name": "The World's Number One Oden Store - From \"One Piece\"",
+      "url": "https://open.spotify.com/track/1P4uS1AfpqdaU6zd42esGF"
+    },
+    {
+      "album": {
+        "name": "There Is No Space For Us",
+        "url": "https://open.spotify.com/album/5SehN27m83krzTq07ZiCjL"
+      },
+      "artists": [
+        {
+          "name": "Hawkwind",
+          "url": "https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220386,
+      "name": "There Is No Space For Us",
+      "url": "https://open.spotify.com/track/2V76h80EjxB0Gsn8CnOk8b"
     },
     {
       "album": {

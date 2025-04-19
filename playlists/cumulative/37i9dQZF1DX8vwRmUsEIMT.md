@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Davido
 
-2,868 songs - 6 day 10 hr 39 min
+2,869 songs - 6 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2082,6 +2082,7 @@
 | [rampage](https://open.spotify.com/track/2E5MrNoJuqwBhhxIp5v8F2) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [DJ Ss](https://open.spotify.com/artist/6hCo4lPE8hHJydoluW7luI) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 2:47 | 2023-10-19 | 2023-11-25 |
 | [Rap Game](https://open.spotify.com/track/7MtWFi9UcmQQw4cFw1DEWt) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Rap Game](https://open.spotify.com/album/5WWZSXOImWqiXuIGcNN7lH) | 2:43 | 2024-09-19 | 2024-09-28 |
 | [RATATA](https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [RATATA](https://open.spotify.com/album/1Gjfloocho6vjWqkxhW6L4) | 2:06 | 2023-02-21 | 2023-03-18 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 | 2023-05-18 | 2023-06-16 |
 | [Raving In The Studio](https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Raving In The Studio](https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO) | 3:03 | 2025-01-17 | 2025-02-22 |
 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 | 2023-08-04 | 2023-09-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Neues aus der Welt des Pop. Cover: Anne-Marie",
+  "description": "Neues aus der Welt des Pop. Cover: Addison Rae",
   "name": "Pop Brandneu",
   "tracks": [
     {
@@ -6130,6 +6130,24 @@
       "duration_ms": 181714,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1Ze0eRznafG9ZmBM3AYO6H"
+    },
+    {
+      "album": {
+        "name": "Goner",
+        "url": "https://open.spotify.com/album/7pRxdqlCm4qiermOdQetwc"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Goner",
+      "url": "https://open.spotify.com/track/0VsS92QhsoQEMoCfiAKPPv"
     },
     {
       "album": {

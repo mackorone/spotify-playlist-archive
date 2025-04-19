@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-665 songs - 1 day 13 hr 27 min
+666 songs - 1 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [BLUE LIGHT](https://open.spotify.com/track/2blHAJSeclS036DmrQxOvE) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:42 | 2023-03-03 | 2023-04-01 |
 | [Body](https://open.spotify.com/track/3GijXFqP2IUCJIbhLCxaWe) | [Leena](https://open.spotify.com/artist/2mEHiTKHiOWzrLPReJDoAD), [YAИА](https://open.spotify.com/artist/0u2gXLpd7TzrhHCS9P8hlk), [Gena](https://open.spotify.com/artist/3MqzFFAm4gc6nzAcWE2gjT) | [Body](https://open.spotify.com/album/66bKcYLcXwcWyDx3SS7rNE) | 2:43 | 2022-01-18 | 2022-02-16 |
 | [bones \(sinking like stones\)](https://open.spotify.com/track/1Tzysw6XT9b5hCdM3PS4wI) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [bones \(sinking like stones\)](https://open.spotify.com/album/6k6xY3yJXv4Oahumtpeshj) | 2:21 | 2023-06-08 | 2023-08-18 |
+| [BOUNCE N BREAK](https://open.spotify.com/track/76MPqUq9kPye6JzH7tvzI6) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF), [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [BOUNCE N BREAK](https://open.spotify.com/album/67lf3VYH0ZYj6KG4FNqWkl) | 2:37 | 2025-04-19 |  |
 | [bowl](https://open.spotify.com/track/0h1kfgpFSS2fNLq1OXN2Zq) | [Aisa](https://open.spotify.com/artist/0YBEhX6xbkcMuhH3OD6D9L) | [bowl](https://open.spotify.com/album/73jtXrGlrqd16QDbA6ZgHU) | 5:13 | 2021-12-13 | 2022-01-22 |
 | [bowl \- live](https://open.spotify.com/track/7ulbzUYHu6nJNHVjxY56rK) | [Aisa](https://open.spotify.com/artist/0YBEhX6xbkcMuhH3OD6D9L) | [bowl \(live\)](https://open.spotify.com/album/7ceeIAPMjnn0Uce7XPd01V) | 2:35 | 2022-02-01 | 2022-02-16 |
 | [Breath of Fresh Air](https://open.spotify.com/track/0ikr85ckI4rmk5iEnLjweB) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Breath of Fresh Air](https://open.spotify.com/album/17CEhenABEIxCElZiKiTYp) | 3:31 | 2022-02-11 | 2022-03-10 |

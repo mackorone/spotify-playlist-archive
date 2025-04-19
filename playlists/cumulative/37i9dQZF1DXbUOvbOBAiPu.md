@@ -4,7 +4,7 @@
 
 > New music from: DYSTINCT, Lana Del Rey and Lous and the Yakuza
 
-4,346 songs - 9 day 14 hr 25 min
+4,348 songs - 9 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3086,6 +3086,7 @@
 | [Rainbow Overpass](https://open.spotify.com/track/2GZOsGvLs2b8ssK7YJtW8O) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [Rainbow Overpass](https://open.spotify.com/album/0kTQk0M86lS5bVn8SvCHVA) | 3:01 | 2024-08-08 | 2024-08-17 |
 | [RALENTIS](https://open.spotify.com/track/12OtqAs2bH931uW93vLxrM) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [RALENTIS](https://open.spotify.com/album/1cTXecDjEauuYXXkX498uR) | 2:09 | 2025-03-27 | 2025-04-04 |
 | [Rater une rupture pour les nuls](https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Rater une rupture pour les nuls](https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg) | 4:54 | 2024-10-17 | 2024-10-25 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [Ratrace](https://open.spotify.com/track/14COARZM4ncUbP4C3Evvul) | [Ellroy](https://open.spotify.com/artist/5Rjv4sxdulSKcV7rErz0ne), [Joy Wellboy](https://open.spotify.com/artist/61G7yQtFBGRRbJlohUvlPG) | [Ratrace](https://open.spotify.com/album/6buN52S1I8c7kulQfmnVy6) | 4:23 | 2024-05-31 | 2024-06-07 |
 | [Rave Generator](https://open.spotify.com/track/25Mloe1yvLqjNDIpi7dtfd) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Rave Generator](https://open.spotify.com/album/2GFWUP3aHHxvCAXDKP7cNf) | 1:52 | 2024-06-13 | 2024-06-21 |
 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 | 2024-08-01 | 2024-08-09 |
@@ -3311,6 +3312,7 @@
 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 | 2024-12-12 | 2024-12-20 |
 | [She's Everywhere](https://open.spotify.com/track/6a53l9C76uGPp48rhOVyb4) | [Aghogho](https://open.spotify.com/artist/0CmstXIzdpY7M3pnSWi1Fm) | [She's Everywhere](https://open.spotify.com/album/6MvuPS3YweXTbNGpNHBV0A) | 2:34 | 2024-12-12 | 2024-12-20 |
 | [She's Leaving You](https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [She's Leaving You](https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp) | 4:38 | 2024-06-27 | 2024-07-05 |
+| [She's Like a Sunday](https://open.spotify.com/track/41xpmSrFul8IryvPPjYFnO) | [Tom Helsen](https://open.spotify.com/artist/5MacWqJvtyFaHh61tid4ID) | [She's Like a Sunday](https://open.spotify.com/album/3GweaUCHJkVt1a1XQK3Tfr) | 2:47 | 2025-04-17 |  |
 | [SHEIZE](https://open.spotify.com/track/17TWvzQYJ06qFSGGiDymJ7) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [SHEIZE](https://open.spotify.com/album/4hsv4HmLrmxfAsxex8ruWo) | 2:07 | 2025-02-06 | 2025-02-14 |
 | [Shelf Life](https://open.spotify.com/track/7Blvsx4HrrtmE11kEKOcyR) | [Global Charming](https://open.spotify.com/artist/06rvBGtJ7XW87FytQSiR7t) | [Shelf Life](https://open.spotify.com/album/2WBHjEcLqPX4scJhcdr1zj) | 2:33 | 2025-01-16 | 2025-01-24 |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-05-31 | 2024-06-07 |

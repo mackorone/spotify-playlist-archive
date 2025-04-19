@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Yeyo en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Nicol\u00e1s y Los Fumadores en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -1617,6 +1617,46 @@
     },
     {
       "album": {
+        "name": "Cientos de Bares",
+        "url": "https://open.spotify.com/album/55MXq0bkUzU0iivvTQqNRQ"
+      },
+      "artists": [
+        {
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        },
+        {
+          "name": "LaPeste",
+          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166258,
+      "name": "Cientos de Bares",
+      "url": "https://open.spotify.com/track/0DJn91o6lGVcH9yXAnkWZq"
+    },
+    {
+      "album": {
+        "name": "Cineteca",
+        "url": "https://open.spotify.com/album/6GmxJu5XwF027QTwODthq4"
+      },
+      "artists": [
+        {
+          "name": "O Tortuga",
+          "url": "https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211175,
+      "name": "Cineteca",
+      "url": "https://open.spotify.com/track/4nujvAR7fI0SNpJl5ZK5GD"
+    },
+    {
+      "album": {
         "name": "Circuito Poetas",
         "url": "https://open.spotify.com/album/70lS1nF2L27eQlsIjTmyh2"
       },
@@ -2690,7 +2730,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 202061,
       "name": "Dimensi\u00f3n 3000",
       "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
@@ -3079,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "El Adversario",
+        "url": "https://open.spotify.com/album/4QS6AKlIU8vQ1n0uyGnTgv"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00e1s y los Fumadores",
+          "url": "https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222743,
+      "name": "El Adversario",
+      "url": "https://open.spotify.com/track/4GWlWJXVfaxQJtgN4va9bp"
+    },
+    {
+      "album": {
         "name": "El Aniversario",
         "url": "https://open.spotify.com/album/6EKgmBAE0fpAe61hDAt21i"
       },
@@ -3090,7 +3148,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 125097,
       "name": "El Aniversario",
       "url": "https://open.spotify.com/track/7HDRyTeisdxpumgx0qzq6a"
@@ -6202,7 +6260,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 188845,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/2eg8DL6nVFm2OsH3OnFnEp"
@@ -6260,6 +6318,28 @@
       "duration_ms": 156378,
       "name": "Me la Pelas",
       "url": "https://open.spotify.com/track/3lSqRMbUmnQqxbLbxj0t5x"
+    },
+    {
+      "album": {
+        "name": "Me Quieren Matar",
+        "url": "https://open.spotify.com/album/1P4QJa2eFwuQSZkxj7kiS0"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Me Quieren Matar",
+      "url": "https://open.spotify.com/track/3soKTnPmFPNK3feqeTAI9B"
     },
     {
       "album": {
@@ -7233,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "Nadie Ve",
+        "url": "https://open.spotify.com/album/3ZusSgU6ktZtGXscFtiZ8R"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217636,
+      "name": "Nadie Ve",
+      "url": "https://open.spotify.com/track/77icosPk5z3VRVqLKyWgJL"
+    },
+    {
+      "album": {
         "name": "Naranjita s\u00ed carnal",
         "url": "https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1"
       },
@@ -7998,7 +8096,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 193000,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/5TLHhrm0sGLJNpRGo1kMxU"
@@ -9710,7 +9808,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 201336,
       "name": "Suaves son los D\u00edas",
       "url": "https://open.spotify.com/track/4eXD6eLWhEv87ZAYBXADPW"

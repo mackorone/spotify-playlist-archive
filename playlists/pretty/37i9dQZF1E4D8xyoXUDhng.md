@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [To God Be the Glory \- From "Pose: Season 3"](https://open.spotify.com/track/3t9IjaZT36XaqOcVsTT7QN) | [Pose Cast](https://open.spotify.com/artist/01QlxJDgcC2BQyqdmFuSUf), [B.Slade](https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [To God Be the Glory \(From "Pose: Season 3"/Music from the TV Series\)](https://open.spotify.com/album/3Jv9zqADnmEP9qP6pyMdO2) | 1:59 |
 | 50 | [I Never Lost My Praise \(feat\. Patrick Lundy & The Ministers of Music\) \- Live](https://open.spotify.com/track/1yqYkI2m0cdlPTGYuX1pfn) | [Tremaine Hawkins](https://open.spotify.com/artist/3M1PmcDzfnpqb7HAFqHaL0), [Patrick Lundy & The Ministers of Music](https://open.spotify.com/artist/0HWNNGh4bB0Y49KFzq3QeN) | [I Never Lost My Praise Live](https://open.spotify.com/album/2459lwrnbK7j12NscbU833) | 8:36 |
 
-Snapshot ID: `aAHGdgAAAADLzjl2bxzD44gTDJQpE7Eu`
+Snapshot ID: `aAMXaQAAAAB0yZ7l3AA/XR5TMcsCs1ao`

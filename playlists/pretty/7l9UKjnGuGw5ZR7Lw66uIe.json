@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 176,
+  "num_followers": 177,
   "original_name": "Works by Mert \u00c7odur ",
   "owner": {
     "name": "Mert \u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAAcbvc9b3k+DwGPTMssu8zO+RH/Yjx",
+  "snapshot_id": "AAAAc3HVDmNcX0PxpMP+bwuj7Tjddg1I",
   "tracks": [
+    {
+      "added_at": "2025-04-18 07:48:25",
+      "album": {
+        "name": "Soft \u00d6p\u00fcc\u00fck",
+        "url": "https://open.spotify.com/album/15Z5zDLAWBPP0GjIiVHzlK"
+      },
+      "artists": [
+        {
+          "name": "Diskopolis",
+          "url": "https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Soft \u00d6p\u00fcc\u00fck",
+      "url": "https://open.spotify.com/track/7sJ1cyZrmhqHaFVvD2xBkj"
+    },
     {
       "added_at": "2024-09-13 09:42:13",
       "album": {

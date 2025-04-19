@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Tonton GIMS
+> Du Congo, au monde\. 🌍 Photo: Tonton Jogga
 
-564 songs - 1 day 8 hr 20 min
+566 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [CR7](https://open.spotify.com/track/6WRS0yCNFp8nwFwVRujLA6) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [CR7](https://open.spotify.com/album/1Ugm583SMex1WqKhfb7Xee) | 2:59 | 2024-05-31 | 2024-07-19 |
 | [Crispy](https://open.spotify.com/track/5u16FMHLDsG50xV6ENA7U8) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Crispy](https://open.spotify.com/album/7cq2diUwOOrYVtOzgaWYuM) | 3:09 | 2024-01-12 | 2024-01-20 |
 | [Daddy](https://open.spotify.com/track/5Oy18y0Jg89TE9aBSVcyEH) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Daddy](https://open.spotify.com/album/6OzIbR3hIZ58xavhSu6mG6) | 2:51 | 2024-10-18 | 2024-12-14 |
-| [Danger](https://open.spotify.com/track/581tF1qVe79aRGlCXlVIS8) | [SIMBARAJA](https://open.spotify.com/artist/0wH4VwCNexTzSmuSRExS9M), [KiLLMYPRiDE](https://open.spotify.com/artist/7aeqtxE2XlyOTjoOhFsalK) | [Danger](https://open.spotify.com/album/4IZPWqH21GBqXOAFXdd8ph) | 2:37 | 2025-04-11 |  |
+| [Danger](https://open.spotify.com/track/581tF1qVe79aRGlCXlVIS8) | [SIMBARAJA](https://open.spotify.com/artist/0wH4VwCNexTzSmuSRExS9M), [KiLLMYPRiDE](https://open.spotify.com/artist/7aeqtxE2XlyOTjoOhFsalK) | [Danger](https://open.spotify.com/album/4IZPWqH21GBqXOAFXdd8ph) | 2:37 | 2025-04-11 | 2025-04-19 |
 | [Danger \- RMX](https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Danger \(RMX\)](https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc) | 2:18 | 2023-09-15 | 2023-12-23 |
 | [Dans tes yeux](https://open.spotify.com/track/7f9HrL9JAeIP94Ab5rPq67) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Black Lover](https://open.spotify.com/album/2R3RIQf4fImPAG9QtW2fMi) | 2:57 | 2024-03-08 | 2024-07-27 |
 | [Danse](https://open.spotify.com/track/6QJotPdXRCSuHLdyD3QKZd) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Danse](https://open.spotify.com/album/1im21Oi225yO8IponkdVxi) | 2:48 | 2023-08-18 | 2023-10-21 |
@@ -306,7 +306,7 @@
 | [Ma belleu](https://open.spotify.com/track/48RXBAx41M5dZpRGA7lGQS) | [5 car ecco](https://open.spotify.com/artist/70tsfWFioo72yfJQ4wkk7N), [Cris NG](https://open.spotify.com/artist/2LzADc0SKnGJdz1xfV8iND) | [Ma belleu](https://open.spotify.com/album/3r9NYssLc1CD5a5db9BeM9) | 2:23 | 2024-12-20 | 2024-12-31 |
 | [Ma fièvre](https://open.spotify.com/track/5s3QzCs0j2HUrQNvcS3LP5) | [Coco Mupala](https://open.spotify.com/artist/7js7YVq3i73nssScfgOnT7) | [Ma fièvre](https://open.spotify.com/album/6TxClbWOtVDTosZdzXAE0t) | 3:11 | 2025-03-21 |  |
 | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU) | 3:01 | 2024-05-10 | 2025-03-22 |
-| [MABE](https://open.spotify.com/track/3ZHaO9jWr2RjsvBRxk3aj6) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l), [RDM](https://open.spotify.com/artist/5PiJqkmLD7GrafAsnx6WEq) | [MABE](https://open.spotify.com/album/4I7qHIfhIKCltAXoPiYtYD) | 2:46 | 2025-04-11 |  |
+| [MABE](https://open.spotify.com/track/3ZHaO9jWr2RjsvBRxk3aj6) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l), [RDM](https://open.spotify.com/artist/5PiJqkmLD7GrafAsnx6WEq) | [MABE](https://open.spotify.com/album/4I7qHIfhIKCltAXoPiYtYD) | 2:46 | 2025-04-11 | 2025-04-19 |
 | [Maboko Milayi](https://open.spotify.com/track/3oa2Af68PY4x3tvNaqhptZ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Maboko Milayi](https://open.spotify.com/album/5BwHaXF0mtcqxBjSHyIwvw) | 4:04 | 2023-01-06 | 2023-11-11 |
 | [Made in Congo](https://open.spotify.com/track/7soc4QPUnlZYfMgisPe6Cg) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Made in Congo](https://open.spotify.com/album/4beChSKY6Kus1FUWc5Iazj) | 2:14 | 2023-12-01 | 2024-01-27 |
 | [Mais](https://open.spotify.com/track/4EzTZrPNxui7ovuaCixG3a) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Mais](https://open.spotify.com/album/6SkQeNEaK0TRG2XDclaHUG) | 3:23 | 2022-10-28 | 2023-04-15 |
@@ -396,6 +396,7 @@
 | [Nous Deux](https://open.spotify.com/track/4SKamIlowPlWqUYwc0M31W) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Nous Deux](https://open.spotify.com/album/70kLp4rJ4DEQTcewmFw16p) | 2:14 | 2024-09-13 | 2025-02-01 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-04-07 | 2024-09-28 |
 | [Nous2](https://open.spotify.com/track/2oswXAs7dpgNyJbjqUOZKB) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/4wIVgSLd2xKHdp3Bs6iVsf) | 7:00 | 2023-06-30 | 2024-03-09 |
+| [Numéro](https://open.spotify.com/track/4Cjw87Y6SgBy1avnn1ahAa) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav) | [Numéro](https://open.spotify.com/album/7D9kfm5IdIkcs0Jp0J4hXi) | 3:00 | 2025-04-18 |  |
 | [Nyash](https://open.spotify.com/track/5ODAaPhmmLTzNV6uVMg09X) | [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN), [The Gucci](https://open.spotify.com/artist/3O1lIvIcDzKIooiGxGf565) | [Nyash](https://open.spotify.com/album/0AC6NOg0zsesoxhWnTUhHh) | 3:42 | 2025-03-14 |  |
 | [Nyonga](https://open.spotify.com/track/3NthrOhvKorMzs4Mle09vP) | [DODY OBAMS](https://open.spotify.com/artist/3B7F4YIsNAoFHm605iOcz9) | [Nyonga](https://open.spotify.com/album/147gWZmqapFKm2tc85GVvU) | 3:01 | 2025-01-24 | 2025-02-22 |
 | [Nzinzi](https://open.spotify.com/track/2M7sghd8d1oYp9c2EJx73a) | [Emeneya](https://open.spotify.com/artist/0aXhvt1i5dqdRjRDcpok9F) | [Nzinzi](https://open.spotify.com/album/0iJBsklN13ARWLxZKMYUud) | 8:12 | 2023-01-27 | 2023-03-11 |
@@ -407,6 +408,7 @@
 | [Omoni](https://open.spotify.com/track/1dkJnYWsjro9HQ8zZFKYE5) | [Tshanda](https://open.spotify.com/artist/3ltDHzVpFlYyBofCp0O75K) | [Omoni](https://open.spotify.com/album/3uGBRPEp6gcDfgumjG3aKv) | 2:52 | 2024-12-06 | 2025-01-25 |
 | [On dit quoi](https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Coupé Décalé Zone \(Sushiraw\)](https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ) | 6:01 | 2022-06-30 | 2024-12-14 |
 | [On my Way](https://open.spotify.com/track/55s7Mjxi5K1wKoXZpQIkDl) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [On my Way](https://open.spotify.com/album/3pr75VCJPrN91NvPndyS3g) | 2:58 | 2024-03-22 | 2024-09-07 |
+| [On va](https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [On va](https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW) | 2:24 | 2025-04-18 |  |
 | [One Leg \(Kiki Ewing\)](https://open.spotify.com/track/0UsRg4DH2peJJe01aL7Dza) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [One Leg \(Kiki Ewing\)](https://open.spotify.com/album/35LxfEK4UZIrJgoW12Toro) | 3:08 | 2023-06-09 | 2023-11-18 |
 | [Otéma obé](https://open.spotify.com/track/5C5mKEkNRTSxfUiyq5xg1I) | [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Otéma obé](https://open.spotify.com/album/4RA5Ck6BDqLedaWSAbWBC9) | 4:40 | 2023-12-22 | 2024-05-18 |
 | [Oublier](https://open.spotify.com/track/4Oz5nbenyDDb9AaeNDzZMw) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [En chemin II](https://open.spotify.com/album/3guI5LNHiG7JE59DuAlyiQ) | 3:06 | 2024-10-25 |  |

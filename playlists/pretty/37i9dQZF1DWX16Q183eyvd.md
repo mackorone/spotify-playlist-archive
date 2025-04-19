@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,443 likes - 51 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,560 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hot Cross Buns](https://open.spotify.com/track/5iXtge2WOKEFkZz90Z4sv8) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Hot Cross Buns](https://open.spotify.com/album/1MeEOMlu2f1LznNyIU4QtC) | 2:19 |
-| 2 | [Days of the Week](https://open.spotify.com/track/3K3QA4idrZ70awKYlXPTcN) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Days of the Week](https://open.spotify.com/album/18TXZEP5uT2ju2ZLstA7Io) | 2:16 |
+| 2 | [Clean Hands](https://open.spotify.com/track/1ZuvOiuq9oVin3wwd4GhR2) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Let's Learn](https://open.spotify.com/album/6QQ6JXOnrIfLWdbCVkO1Mk) | 2:09 |
 | 3 | [The Vowel Song](https://open.spotify.com/track/2oE2ftQm75FFiJjCXAtOaB) | [Ambr'e Houston](https://open.spotify.com/artist/7nbZC3O1M3sPxXMpefF7UD) | [Make Learning Fun Again](https://open.spotify.com/album/75UgDmStaBkhl4j4VQWVnM) | 2:33 |
 | 4 | [Nursery Rhyme Rap](https://open.spotify.com/track/0iDfIHCS8JUWqN9UvrZnAx) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Fisher\-Price Record Player \- Hip Hop](https://open.spotify.com/album/4uvBSaRjYIsXXli1vvWZrq) | 1:05 |
 | 5 | [Big Kid Energy](https://open.spotify.com/track/0plhaGeJwkHKIyqWG2uIY2) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Big Kid Energy](https://open.spotify.com/album/3YIkAwtzKdqWVvk1HtMLNG) | 1:57 |
@@ -56,8 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 46 | [Create Your World](https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:41 |
 | 47 | [Hold On To Hope](https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Armand Hutton](https://open.spotify.com/artist/2tTTLk0nX4eKLe7H2o1nAA) | [Hip Hope For Kids!](https://open.spotify.com/album/6EV4fFV1l6P6s43QQSlBCo) | 1:19 |
 | 48 | [ABC You A G](https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Stella Freelon](https://open.spotify.com/artist/07a4pfP7i1yw280o7TWBCk) | [AnceStars](https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc) | 1:53 |
-| 49 | [You’re It](https://open.spotify.com/track/6NJE6RXJrAI6AqThyrNSul) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [The Perfect Quirk](https://open.spotify.com/album/5swOluAxNHMNIyW95TjSTF) | 2:34 |
-| 50 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 |
-| 51 | [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 |
+| 49 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 |
+| 50 | [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 |
 
-Snapshot ID: `Z+9ZVAAAAAAMuAA62vlxCGX81XW1OhSX`
+Snapshot ID: `aAHOZgAAAABwvUTzF7KIkxdwumONcRim`

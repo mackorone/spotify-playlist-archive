@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-388 songs - 1 day 7 hr 13 min
+389 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 | 2022-04-29 | 2023-04-16 |
 | [CHIAROSCURO](https://open.spotify.com/track/7kdc3HHWBRY4aUxFdgFRJD) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD) | 7:56 | 2021-10-06 | 2022-07-27 |
 | [Chopstick!](https://open.spotify.com/track/0xNoo5JDET2lxOqGNApa1N) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Chopstick!](https://open.spotify.com/album/3fMSFJgA8A76UvZ1pVZ0w5) | 6:11 | 2025-04-11 |  |
+| [CHROMA 009 KR36](https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 009](https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx) | 4:48 | 2025-04-18 |  |
 | [Chéri \- Instrumental](https://open.spotify.com/track/29h9FSnDewNpgDhVVGgYb0) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/6IyiPFsPNCbehAh0dFYRJ6) | 3:25 | 2023-04-15 | 2023-04-26 |
 | [Chéri \- Instrumental](https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:25 | 2023-04-15 | 2024-04-19 |
 | [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 | 2023-08-17 | 2025-03-14 |
@@ -108,7 +109,7 @@
 | [Double Fifths](https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 | 2021-10-06 | 2025-03-23 |
 | [Drangsville Drowns](https://open.spotify.com/track/0osIAWdFisbIUvKNvoI46q) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 5:06 | 2022-04-06 | 2022-07-29 |
 | [Dream Walk](https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [These Days Don't Exist](https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr) | 3:45 | 2021-10-06 |  |
-| [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 | 2021-10-06 |  |
+| [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 | 2021-10-06 | 2025-04-19 |
 | [Duo Pulse](https://open.spotify.com/track/02Jy2accvqFUfr8TmFWleS) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Duo Pulse](https://open.spotify.com/album/0PJgxCPlMtCFHg4VCrNOy3) | 4:16 | 2025-04-11 |  |
 | [E \-Daigo Sakuragi Remix\-](https://open.spotify.com/track/5nFUDL7t85GVQ1W8I5nPK1) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [Daigo Sakuragi](https://open.spotify.com/artist/6BF6Gk8IqAmYS9QqefDi6j) | [E](https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA) | 6:10 | 2021-10-06 | 2022-07-28 |
 | [Echoes](https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Echoes](https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN) | 5:31 | 2022-07-06 |  |
@@ -317,7 +318,7 @@
 | [Tar \- Jan Jelinek Remix](https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Tar \(Jan Jelinek Remix\)](https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW) | 5:59 | 2021-10-06 | 2024-04-19 |
 | [Tar \- Jan Jelinek Remix](https://open.spotify.com/track/40p5kLXy8xuJ0UWAy67pb9) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Tar \(Jan Jelinek Remix\)](https://open.spotify.com/album/06GWd4BqT8WFdmwpU4mx9A) | 5:59 | 2021-10-06 | 2022-07-29 |
 | [tdU\_du\_tdu\_tdu](https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [onomatopoeia](https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq) | 4:29 | 2024-02-08 | 2025-03-16 |
-| [Temple](https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 3:30 | 2021-10-06 |  |
+| [Temple](https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 3:30 | 2021-10-06 | 2025-04-19 |
 | [Tension](https://open.spotify.com/track/778hZhIUVg9QVvNBqs6SLT) | [Don Zilla](https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh) | [Tension](https://open.spotify.com/album/3oAtVXftA2Tkwa5QCAXzfZ) | 3:48 | 2021-10-06 | 2022-07-23 |
 | [The biggest cry of my life](https://open.spotify.com/track/1JY9zO2xbhnQATyYHcOnyx) | [Pleading Fern](https://open.spotify.com/artist/504vn9PZIVuHiwCAmP5cMY) | [ENFASIA](https://open.spotify.com/album/53qTBNSzhralqI8Q25HtKJ) | 4:12 | 2025-03-14 |  |
 | [The Clearing Pt\. 2](https://open.spotify.com/track/1QWahKnQpMZpnOX5igsFVe) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7mPnhyfo0PHMmCM8d2nuyA) | 5:54 | 2022-09-21 | 2024-04-19 |
@@ -388,7 +389,7 @@
 | [XPNDR](https://open.spotify.com/track/5WtwS6vUsfOaCcSVztZYnN) | [Michael J\. Blood](https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT) | [Spaces In Between](https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4) | 5:09 | 2025-03-25 |  |
 | [You Take One Dip And Then You End It](https://open.spotify.com/track/6r7fNCQzEn6wlSqJBzHoJH) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [You Take One Dip And Then You End It](https://open.spotify.com/album/6i7MCI4D5YSPfHEnjpZ2lH) | 5:01 | 2022-01-21 | 2022-07-29 |
 | [You took me in](https://open.spotify.com/track/4fDkXhzgQlyxw3ZmHivc3F) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Linked](https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL) | 6:10 | 2025-04-11 |  |
-| [You've Changed](https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 | 2021-10-06 | 2025-04-12 |
+| [You've Changed](https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 | 2021-10-06 |  |
 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 | 2021-10-06 | 2023-02-03 |
 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 | 2021-10-06 | 2024-04-19 |
 | [Zero](https://open.spotify.com/track/3HEy3iRI7Z5yb4G7cJp1Ii) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Zero](https://open.spotify.com/album/7aCYZPFnKoO8R4YNutJl1e) | 4:52 | 2021-10-06 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-333 songs - 19 hr 7 min
+334 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 |  |
 | [Ge En Sol](https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ge En Sol](https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl) | 2:52 | 2024-08-22 | 2025-04-11 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 |  |
-| [Going Home](https://open.spotify.com/track/1cVhitY0LNYiskEEIwSANH) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Going Home](https://open.spotify.com/album/7vftI6sRQGbJrTstCjbr6t) | 3:43 | 2024-10-17 |  |
+| [Going Home](https://open.spotify.com/track/1cVhitY0LNYiskEEIwSANH) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Going Home](https://open.spotify.com/album/7vftI6sRQGbJrTstCjbr6t) | 3:43 | 2024-10-17 | 2025-04-19 |
 | [Good Day \- 2024 Remaster](https://open.spotify.com/track/3evNXplJ4WDJFtypBEluFF) | [Isaac And The Soul Company](https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld) | [Good Day](https://open.spotify.com/album/0JDAgonYkc6HaZB4RHSCIq) | 2:48 | 2024-06-27 | 2024-08-30 |
 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 | 2025-01-16 |  |
 | [Han lever \(Himmelsfärden\)](https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Via Dolorosa, Maria Magdalenas kärlek](https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0) | 4:11 | 2025-04-10 |  |
@@ -294,6 +294,7 @@
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 |  |
 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 | 2024-09-26 |  |
 | [True Romantic](https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [True Romantic](https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM) | 3:28 | 2024-06-27 | 2024-08-09 |
+| [Tänd hela himlen](https://open.spotify.com/track/2LEsVPAC8rD2mh6px5wlRA) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Tänd hela himlen](https://open.spotify.com/album/60e3dAefZyr9y6FosBHqiT) | 3:13 | 2025-04-17 |  |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-06-27 | 2024-08-09 |
 | [Upp med hakan](https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Upp med hakan](https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi) | 2:45 | 2024-06-27 | 2025-04-04 |
 | [Uteblivna vi](https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Uteblivna vi](https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH) | 6:02 | 2025-03-20 |  |

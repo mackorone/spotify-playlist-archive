@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18679,
+  "num_followers": 18682,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-04-16 04:52:55",
       "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Fuxk off",
+      "url": "https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu"
+    },
+    {
+      "added_at": "2025-04-16 04:52:55",
+      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -967,26 +983,6 @@
     {
       "added_at": "2025-04-16 04:52:55",
       "album": {
-        "name": "Street Woman Fighter(SWF) Special",
-        "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
-      },
-      "artists": [
-        {
-          "name": "CocaNButter",
-          "url": "https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q"
-        },
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 147359,
-      "name": "CAVIAR",
-      "url": "https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5"
-    },
-    {
-      "added_at": "2025-04-16 04:52:55",
-      "album": {
         "name": "Fashion Hoarder",
         "url": "https://open.spotify.com/album/54raPqsVO70w92rOVD1plB"
       },
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2025-04-16 04:52:55",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
+        "name": "Street Woman Fighter(SWF) Special",
+        "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
       "artists": [
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "CocaNButter",
+          "url": "https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q"
+        },
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Fuxk off",
-      "url": "https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu"
+      "duration_ms": 147359,
+      "name": "CAVIAR",
+      "url": "https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

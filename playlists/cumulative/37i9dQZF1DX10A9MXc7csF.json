@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Eddy",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Kane Rodriguez & Adrian L Santos",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 215945,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 134164,
       "name": "Amor Lejano",
       "url": "https://open.spotify.com/track/0L5KswcswHCr4ctNhDK6IY"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 141098,
       "name": "BARRIO",
       "url": "https://open.spotify.com/track/0kWM0kCKuwMXvn7GrhHsMK"
@@ -3000,7 +3000,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 202346,
       "name": "Bonnie Y Clyde",
       "url": "https://open.spotify.com/track/1fUlvpJfqqsLtGkZvHcsXy"
@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 221325,
       "name": "Cada Noche",
       "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
@@ -3829,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "Che Vato",
+        "url": "https://open.spotify.com/album/66obkKkZwvxyy3Jq81kOOX"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152083,
+      "name": "Che Vato",
+      "url": "https://open.spotify.com/track/3FqGt2Rxs72TodiIzOMIvP"
+    },
+    {
+      "album": {
         "name": "Chico Problema",
         "url": "https://open.spotify.com/album/4GL20Da5yyyYE5o2PxsWgm"
       },
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 155488,
       "name": "CHULA",
       "url": "https://open.spotify.com/track/19YBQmFj9ZLrxuPJIz7saK"
@@ -6428,7 +6446,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 155645,
       "name": "El Beso",
       "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
@@ -9424,7 +9442,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 207000,
       "name": "Feliz A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/2c7qukqmQVOn4qLcspoUcN"
@@ -10264,7 +10282,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 184420,
       "name": "Gula",
       "url": "https://open.spotify.com/track/4k1oaXf7i7KGHYniA8n4ul"
@@ -12595,6 +12613,24 @@
     },
     {
       "album": {
+        "name": "GAD",
+        "url": "https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154984,
+      "name": "LO BUENO",
+      "url": "https://open.spotify.com/track/19PeyswSzQhH9k97HHAnoq"
+    },
+    {
+      "album": {
         "name": "Lo elegiste a \u00e9l (la renta 2)",
         "url": "https://open.spotify.com/album/5jQT5UY5yJTHqYkkEkpuV3"
       },
@@ -12824,6 +12860,24 @@
       "duration_ms": 174749,
       "name": "Lo Que Te Pasa",
       "url": "https://open.spotify.com/track/4Qwx5RaF7EnOMXsY7eXH51"
+    },
+    {
+      "album": {
+        "name": "Lo Siento ;(",
+        "url": "https://open.spotify.com/album/0cOnmFObWUorsJjrtdnXtD"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172875,
+      "name": "Lo Siento ;(",
+      "url": "https://open.spotify.com/track/1PzAPZMDfXrW42smS71IUI"
     },
     {
       "album": {
@@ -13280,6 +13334,28 @@
       "duration_ms": 159360,
       "name": "LVL",
       "url": "https://open.spotify.com/track/4DrtWtE0ljRCFVB5cMZhBb"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas de Cristal",
+        "url": "https://open.spotify.com/album/5ivJ6AFxmQy1DBcaEVVJpg"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188617,
+      "name": "L\u00e1grimas de Cristal",
+      "url": "https://open.spotify.com/track/50Rt7nxfuhsWMQYetIbOEw"
     },
     {
       "album": {
@@ -14179,6 +14255,24 @@
     },
     {
       "album": {
+        "name": "Mejor Nada",
+        "url": "https://open.spotify.com/album/6fIMvKHSzzJDalmriRyllu"
+      },
+      "artists": [
+        {
+          "name": "Angelina Victoria",
+          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193312,
+      "name": "Mejor Nada",
+      "url": "https://open.spotify.com/track/70URoP0VcnaqVRNn8SU9AC"
+    },
+    {
+      "album": {
         "name": "Mente De Acero",
         "url": "https://open.spotify.com/album/4p8mFtYuVlMXvFUriARMDV"
       },
@@ -14526,7 +14620,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 210392,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/5qT6O3IModMFQGETlDCRR5"
@@ -14602,7 +14696,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 186193,
       "name": "Mi Viaje",
       "url": "https://open.spotify.com/track/53S15456rt1CeCFDBjug6F"
@@ -15030,7 +15124,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 153095,
       "name": "Misma Gente",
       "url": "https://open.spotify.com/track/7BEbwMqPL2E2yNkKcxQn7J"
@@ -16064,7 +16158,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 245029,
       "name": "Ni Todo el <3 Ni Toda la $",
       "url": "https://open.spotify.com/track/74ZyPLoMWSXH4RMPbVbJ2I"
@@ -16452,7 +16546,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 231435,
       "name": "No Me Borres",
       "url": "https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x"
@@ -17557,6 +17651,24 @@
     },
     {
       "album": {
+        "name": "PADRE NUESTRO",
+        "url": "https://open.spotify.com/album/3qKe4iawLVrUWgq30LF7Dy"
+      },
+      "artists": [
+        {
+          "name": "Capotes",
+          "url": "https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186727,
+      "name": "PADRE NUESTRO",
+      "url": "https://open.spotify.com/track/5o0f5uZc3DXthzA3sDstV4"
+    },
+    {
+      "album": {
         "name": "Pal Amor Soy Malo (Remix)",
         "url": "https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF"
       },
@@ -17862,7 +17974,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 177000,
       "name": "Perdiste",
       "url": "https://open.spotify.com/track/0RuEZ845hgOPeO1PUzuBDe"
@@ -18660,7 +18772,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 148000,
       "name": "PRINCESA",
       "url": "https://open.spotify.com/track/5MvPOrI2YGBG0wnvwARTD0"
@@ -19038,7 +19150,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 194062,
       "name": "Que Pedo",
       "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
@@ -19528,7 +19640,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 151562,
       "name": "Rafa el Number One",
       "url": "https://open.spotify.com/track/2nUx2eRrEimtob57eMEjPf"
@@ -21320,7 +21432,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 147543,
       "name": "Smoking",
       "url": "https://open.spotify.com/track/6OXxkXMduFmgRuvBpgjSyH"
@@ -23479,6 +23591,28 @@
     },
     {
       "album": {
+        "name": "Un Pinche Beso",
+        "url": "https://open.spotify.com/album/0EhgMS8ItwTpkWe9JrrkVW"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Un Pinche Beso",
+      "url": "https://open.spotify.com/track/74VqzkAHExc3swzo3KyVpX"
+    },
+    {
+      "album": {
         "name": "Un Rato",
         "url": "https://open.spotify.com/album/1DiTGpSzog7O7bWo6BzrBC"
       },
@@ -24242,6 +24376,24 @@
       "duration_ms": 174087,
       "name": "Viaje A Paris",
       "url": "https://open.spotify.com/track/2EvftGDMUNEGe25wxjXdQl"
+    },
+    {
+      "album": {
+        "name": "Vibrar +",
+        "url": "https://open.spotify.com/album/5JG8dcjPqJTaunDFiyeWw6"
+      },
+      "artists": [
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192389,
+      "name": "Vibrar +",
+      "url": "https://open.spotify.com/track/3ZhAp3NqitEPfKINYmir12"
     },
     {
       "album": {
@@ -25042,7 +25194,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 156807,
       "name": "Yo Vengo De La Nada",
       "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"

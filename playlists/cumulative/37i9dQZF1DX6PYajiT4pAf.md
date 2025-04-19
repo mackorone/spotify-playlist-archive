@@ -4,7 +4,7 @@
 
 > Omar Courtz con Bad Gyal, Judeline, Beéle & Marc Anthony y más novedades de la semana.
 
-1,768 songs - 3 day 17 hr 40 min
+1,769 songs - 3 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Chócame](https://open.spotify.com/track/2PE7TM0lnIovqzeUtolOMb) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Pura Vibra](https://open.spotify.com/album/4lh6XNz2w6WPEzHphaAJHP) | 1:58 | 2024-11-01 | 2024-11-08 |
 | [Ciao Amore](https://open.spotify.com/track/1oWw1Jiq75Zo2BTaCKndfU) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN), [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Ciao Amore](https://open.spotify.com/album/1cty6itPVYtpgSFOopJsQr) | 2:45 | 2025-04-04 | 2025-04-11 |
 | [Cinturita](https://open.spotify.com/track/1AnaQf9mT0GMorT5MoOkM7) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Cinturita](https://open.spotify.com/album/3aLfeOpXylKcaqgOHHEPBR) | 2:44 | 2025-02-13 | 2025-02-21 |
+| [Ciudad Amurallada](https://open.spotify.com/track/5O4wXY57eFdXZzKwpjo38A) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Ciudad Amurallada](https://open.spotify.com/album/35zUzylSXNgPJmllVbw6sS) | 2:49 | 2025-04-18 |  |
 | [Clean](https://open.spotify.com/track/6IornTNsanbB83d53LMbgR) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg), [Oktoba](https://open.spotify.com/artist/7iF9N7YIpnJGJ5aPfeWO7n) | [Clean](https://open.spotify.com/album/6zAGBdRLILrjYUIp6Suy5Z) | 3:03 | 2025-02-28 | 2025-03-07 |
 | [CLICKBAIT](https://open.spotify.com/track/6KxI6NASKcMLfX6Hgr2F7p) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [CLICKBAIT](https://open.spotify.com/album/6E3B8nI1boK9d7aFHUohWP) | 2:40 | 2025-03-27 | 2025-04-04 |
 | [Club classics featuring bb trickz](https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:54 | 2024-10-11 | 2024-10-18 |
@@ -1164,7 +1165,6 @@
 | [Orilla](https://open.spotify.com/track/4zEW9cHkayxZk2eojf6cgA) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA) | [Orilla](https://open.spotify.com/album/660WBhfDrgHNtkXNfyPs6Z) | 3:13 | 2025-03-13 | 2025-03-21 |
 | [Otra cara](https://open.spotify.com/track/32leyUmGACtpxGIXE2pFE4) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3) | [Otra cara](https://open.spotify.com/album/3a5SAZ034CPmJx5bksWpHp) | 2:32 | 2025-03-20 | 2025-03-28 |
 | [Otra Vez](https://open.spotify.com/track/4d2FyPS39JLfsqCNsHQ1ea) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [Otra Vez](https://open.spotify.com/album/5aIzvD5lifAtyfsn2GqJAP) | 1:54 | 2024-10-11 | 2024-10-18 |
-| [Otra Vez](https://open.spotify.com/track/6euNhKYwBrL8BDwlRc5r2A) | [Pablo Cuesta](https://open.spotify.com/artist/2f7T2MGxshcrwJrxGvZAYq), [Alberto Toral](https://open.spotify.com/artist/7ioLIYKoKn2YfhA1i6L47p), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Otra Vez](https://open.spotify.com/album/1ZdaPEmkCkjHBgbIMkzTYE) | 2:56 | 2025-04-18 |  |
 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 | 2024-10-11 | 2024-10-18 |
 | [Otro Chico +](https://open.spotify.com/track/5NRDTyKvOuyELtlyCfTlln) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Otro Chico +](https://open.spotify.com/album/35E2Korz5jlpPNjqUyTLts) | 2:26 | 2025-03-13 | 2025-03-21 |
 | [otro día](https://open.spotify.com/track/1QS1iRcAluULzf3RVTj96U) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg) | [la última página](https://open.spotify.com/album/3MSxN6GOVNWcdxtNEyE9Hh) | 4:06 | 2025-01-31 | 2025-02-07 |
@@ -1738,6 +1738,7 @@
 | [Y Si No Hay Mañana?](https://open.spotify.com/track/6102PrXYPMAGr0uhvKsW0X) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Y Si No Hay Mañana?](https://open.spotify.com/album/0oQXnuN0uoVl6c2iUt6hA2) | 2:30 | 2024-12-06 | 2024-12-13 |
 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 | 2024-11-08 | 2024-11-15 |
 | [Ya Lo Decía la Mama](https://open.spotify.com/track/5jRC8QbhxWHTLQbiPp5d5t) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq) | [Ya Lo Decía la Mama](https://open.spotify.com/album/3i6gfg4j6nUeGcpsU7Qebw) | 3:44 | 2024-11-28 | 2024-12-06 |
+| [Ya Me Enteré 2.0](https://open.spotify.com/track/6euNhKYwBrL8BDwlRc5r2A) | [Pablo Cuesta](https://open.spotify.com/artist/2f7T2MGxshcrwJrxGvZAYq), [Alberto Toral](https://open.spotify.com/artist/7ioLIYKoKn2YfhA1i6L47p), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Ya Me Enteré 2.0](https://open.spotify.com/album/1ZdaPEmkCkjHBgbIMkzTYE) | 2:56 | 2025-04-18 |  |
 | [ya no eres tú](https://open.spotify.com/track/45mZblHw9gfjjacXgRSduY) | [Acereda](https://open.spotify.com/artist/2ctuRUI0qdFvzPAoXVKlVd) | [ya no eres tú](https://open.spotify.com/album/75zQ5kfowzUoDsZ1GWhNxM) | 3:01 | 2025-03-27 | 2025-04-04 |
 | [Ya No Estoy Sufriendo](https://open.spotify.com/track/2Vq4C2BShahIYskAoO9mRN) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O), [Juan de los Banis](https://open.spotify.com/artist/5Jqvrvtn7BdbPeOC8QmXRL) | [Ya No Estoy Sufriendo](https://open.spotify.com/album/0U7Qr90eos9qspuv9CkyLU) | 2:43 | 2024-12-13 | 2024-12-20 |
 | [Ya no me duele mal](https://open.spotify.com/track/6S7XyK2Ao38xtVG21dy3uk) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Ya no me duele mal](https://open.spotify.com/album/2cPrx0zF9cy34OWngW5Mqf) | 3:00 | 2025-02-07 | 2025-02-14 |

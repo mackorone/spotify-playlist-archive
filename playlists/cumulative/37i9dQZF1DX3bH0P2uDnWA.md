@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-406 songs - 22 hr 52 min
+407 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Mr\. January\-King of the Swing](https://open.spotify.com/track/37zrAR3yngfTZeWyqMLR1B) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Mr\. January \- King of the Swing](https://open.spotify.com/album/66JjdbtD1kZuyAwBCXYrp4) | 3:05 | 2024-01-19 |  |
 | [Mr\. Jones \- Balduin Remix](https://open.spotify.com/track/322Zz1jDLcdiGT853C9cJ0) | [Alice Francis](https://open.spotify.com/artist/6RcdUNNARXB9coQqgHyqFA), [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv) | [Mr\. Jones \(Balduin Remix\)](https://open.spotify.com/album/3vmyVhZh4Ln48In8nOxJBS) | 3:02 | 2023-11-24 |  |
 | [Mr\. Perfect](https://open.spotify.com/track/1wk3h5pPRtjQp4mV0ON5pQ) | [Daisy La Fontaine](https://open.spotify.com/artist/7lnUP3Qdlp565wzuzkWqag) | [Mr\. Perfect](https://open.spotify.com/album/5cHVYiR6UCRfPHATwAHnjD) | 3:00 | 2024-06-28 | 2024-08-17 |
+| [Murder Bunny](https://open.spotify.com/track/3UQJ1bFfh7veUyxO7Sc6mf) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Murder Bunny](https://open.spotify.com/album/1e14SOllnIAQiS8ufvyRUj) | 3:29 | 2025-04-18 |  |
 | [Murder in the Moonlight](https://open.spotify.com/track/7103gYEJR2fAKA6W5aUosb) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Sam Berry](https://open.spotify.com/artist/2vXekN8TR5Y2M6WHIjSM5i) | [Prohibition](https://open.spotify.com/album/6zxN2ZwKEIVxzKlp0m4m2V) | 3:47 | 2022-10-12 | 2024-11-05 |
 | [Music Has the Power \- Radio Edit](https://open.spotify.com/track/5NwWGVjLvbxJZrJLhcRqm1) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Music Has the Power \(Radio Edit\)](https://open.spotify.com/album/5RpBtAjrWqTOKPoHbqWC9z) | 3:26 | 2020-10-30 | 2022-07-29 |
 | [My 20s Woman](https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [My 20s Woman](https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A) | 3:06 | 2020-10-30 | 2023-03-11 |
@@ -345,7 +346,7 @@
 | [Take You Right Back](https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Take You Right Back](https://open.spotify.com/album/0EHomYzyqS2xlUCWT1hTvz) | 2:51 | 2022-06-17 |  |
 | [Taking You with Me](https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Taking You with Me](https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj) | 3:19 | 2021-05-28 |  |
 | [Texas Toni Lee](https://open.spotify.com/track/6HkahosgrmPvvVKtZoLBiT) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o) | [Whiskey and a Saddle](https://open.spotify.com/album/16Ry8wgSgQEQqK5C6wBBwE) | 3:10 | 2024-04-19 |  |
-| [That's My Cue](https://open.spotify.com/track/2cRNcC6xTYgys5YCGDiJsi) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [That's My Cue](https://open.spotify.com/album/4cOpg5ahUkkiLIkuOLDDTq) | 2:39 | 2024-02-23 |  |
+| [That's My Cue](https://open.spotify.com/track/2cRNcC6xTYgys5YCGDiJsi) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [That's My Cue](https://open.spotify.com/album/4cOpg5ahUkkiLIkuOLDDTq) | 2:39 | 2024-02-23 | 2025-04-19 |
 | [The Beat Goes On \- Future Swing Mix](https://open.spotify.com/track/2izKXaS7nITbsTWS51X2aD) | [Bbop](https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [The Beat Goes On \(Future Swing Mix\)](https://open.spotify.com/album/6hfS8LlDXKpphG1mgiZ3sM) | 2:08 | 2023-08-04 | 2024-02-24 |
 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/6ptpOr9mCnqingjjObKd12) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh) | [The Cat Came Back](https://open.spotify.com/album/3NMJ7yVpUcwwE5alueef9V) | 2:53 | 2020-10-30 |  |
 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh), [Bdd](https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY) | [The Cat Came Back](https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx) | 2:53 | 2020-10-30 | 2024-04-19 |

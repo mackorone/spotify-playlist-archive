@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > next up: IBZ opening
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,900 likes - 405 songs - 1 day 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,996 likes - 405 songs - 1 day 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,7 +277,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 267 | [Stikk \- Tripolism Remix](https://open.spotify.com/track/7KjIFkqR2pgR7WkMDCw2Df) | [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Stikk](https://open.spotify.com/album/41P5iU0AW7aPQZiohBOwCd) | 7:02 |
 | 268 | [Girl With The Tattoo \[Wakyin Remix\]](https://open.spotify.com/track/0Vo1vtDZgMVD1qras4UPTI) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ) | [Girl With The Tattoo](https://open.spotify.com/album/3cnIbhL4QYRzF9wQf53lkW) | 3:35 |
 | 269 | [Easy To Please \- Yet More Remix](https://open.spotify.com/track/4hgu3BqIkGT7SeVKiCGHJg) | [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C), [D'aria](https://open.spotify.com/artist/1jRvpCmyVWLXnwmDvI89Sp) | [Easy To Please](https://open.spotify.com/album/4ynnuxGgmzOVFgFqYHvsa7) | 7:14 |
-| 270 | [Orion \- Sistek Remix](https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Orion \(Sistek Remix\)](https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA) | 4:41 |
+| 270 | [orióN \- Sistek Remix](https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [orióN \(Sistek Remix\)](https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA) | 4:41 |
 | 271 | [Vem](https://open.spotify.com/track/7Mg5nr4B60ROtiaiVOOBop) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Vem](https://open.spotify.com/album/30sb6ff27adl8x19nQ51Zx) | 2:59 |
 | 272 | [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp) | 3:13 |
 | 273 | [Searching for God](https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [David Satori](https://open.spotify.com/artist/7B0gYSjdSuAYoQB0REnkhF), [GLITTER COWBOY](https://open.spotify.com/artist/1Yy5RYgVvNZRA6ghwpxTuZ) | [Searching for God](https://open.spotify.com/album/10O5gRr7y9K9F9JGB8CH7Y) | 3:12 |

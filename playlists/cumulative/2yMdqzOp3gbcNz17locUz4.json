@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "once mine",
+        "url": "https://open.spotify.com/album/2lh4Eif3mnYC3pUzinWbGT"
+      },
+      "artists": [
+        {
+          "name": "gloomy dog",
+          "url": "https://open.spotify.com/artist/4Mgi94q8Eu8w5PSow0UVam"
+        },
+        {
+          "name": "amethyst pendant",
+          "url": "https://open.spotify.com/artist/1h28RchROSayPLRD8Si1Kd"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194423,
+      "name": "always home",
+      "url": "https://open.spotify.com/track/54udJmTuFqbIIAWiZtOBur"
+    },
+    {
+      "album": {
         "name": "Don't You Think It's Strange?",
         "url": "https://open.spotify.com/album/6p58K4dY6aVIZs49OqiYSj"
       },
@@ -288,7 +310,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 170294,
       "name": "bits&pieces",
       "url": "https://open.spotify.com/track/7uO2WKHjMtqRPu6GbvwQsq"
@@ -1337,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "I CANT FUCKING WAIT",
+        "url": "https://open.spotify.com/album/3XrQfg0ibKzGPS44vYONXO"
+      },
+      "artists": [
+        {
+          "name": "elliestation",
+          "url": "https://open.spotify.com/artist/5bjBGNzmL0Ro8u0xYTnWdH"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232107,
+      "name": "I CANT FUCKING WAIT",
+      "url": "https://open.spotify.com/track/4RATG211NpIf38IicN0abA"
+    },
+    {
+      "album": {
         "name": "I WANT TO LOVE AGAIN",
         "url": "https://open.spotify.com/album/4lyJ6Ixm0roEyweWXuf8ct"
       },
@@ -1410,6 +1450,24 @@
       "duration_ms": 188181,
       "name": "I DONT UNDERSTAND",
       "url": "https://open.spotify.com/track/74KNOo0ILoRMyD7NT5gDgy"
+    },
+    {
+      "album": {
+        "name": "I WANNA BE ALIVE",
+        "url": "https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ"
+      },
+      "artists": [
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213013,
+      "name": "I WANNA BE ALIVE",
+      "url": "https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo"
     },
     {
       "album": {
@@ -1870,7 +1928,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 212557,
       "name": "Loose Lines (featuring KENSOWAVY)",
       "url": "https://open.spotify.com/track/33FtkxD5nTgx7Txz8Ic74W"
@@ -3195,6 +3253,24 @@
     },
     {
       "album": {
+        "name": "throwback",
+        "url": "https://open.spotify.com/album/6mPGMWDewCE93cUfGJe63q"
+      },
+      "artists": [
+        {
+          "name": "polyana",
+          "url": "https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221419,
+      "name": "throwback",
+      "url": "https://open.spotify.com/track/7e9388nNJNPvpgcr7sqeid"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/3v2TvCKleFj0IqpbEayg1N"
       },
@@ -3314,7 +3390,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 126961,
       "name": "warmth",
       "url": "https://open.spotify.com/track/3NzwaM70Ahdd5eRTfYZ6dQ"
@@ -3354,7 +3430,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 276988,
       "name": "windwatcher",
       "url": "https://open.spotify.com/track/6rUcxkEDXfIPMIE9Im0tfi"

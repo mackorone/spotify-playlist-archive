@@ -356,7 +356,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 187088,
       "name": "ALL IN VEIN",
       "url": "https://open.spotify.com/track/3nucWhjnxUPoGAVzXwQ0dm"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 263765,
       "name": "Before I'm Gone",
       "url": "https://open.spotify.com/track/5isZz9H9yWJgOjFxrTeZm6"
@@ -6855,6 +6855,28 @@
     },
     {
       "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Stuff (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N"
+    },
+    {
+      "album": {
         "name": "Style Rare (with Gunna)",
         "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
       },
@@ -8144,6 +8166,24 @@
       "duration_ms": 157898,
       "name": "Win Wit Us",
       "url": "https://open.spotify.com/track/1oIefhM6QIK2eXdbtiAhbg"
+    },
+    {
+      "album": {
+        "name": "WRK",
+        "url": "https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194095,
+      "name": "WRK",
+      "url": "https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY"
     },
     {
       "album": {

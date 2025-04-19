@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Lana Del Rey, 23, Julia Lov och Morgan Wallen med flera\. Happy New Music Friday!
 
-18,649 songs - 40 day 6 hr 40 min
+18,651 songs - 40 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13150,6 +13150,7 @@
 | [RATATA](https://open.spotify.com/track/5SeCuhnCkReuMDppRSOe2F) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [RATATA](https://open.spotify.com/album/2vPjvhXrt8RpgIG6VzFp0G) | 2:58 | 2023-01-19 | 2023-01-27 |
 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-02-16 | 2023-02-24 |
 | [RATATA](https://open.spotify.com/track/4HzAtulFJBpDKRuJ6qGT1H) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [RATATA](https://open.spotify.com/album/251D5KToQ1R7yDB4crZEkN) | 2:40 | 2024-11-28 | 2024-12-06 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [RATTLESNAKE](https://open.spotify.com/track/23iX8tmk5th6Ydrtz6BeCd) | [P!NCH](https://open.spotify.com/artist/1jPCm4Q8uClWX205mz4FKV), [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [RATTLESNAKE](https://open.spotify.com/album/4XpL8x2d5RiJbSwPs2pA0D) | 2:59 | 2023-08-31 | 2023-09-08 |
 | [Rattlesnake](https://open.spotify.com/track/5JwH2QoAbi65odT6GYWJTk) | [Robin Sohlberg](https://open.spotify.com/artist/7kLcBP612zGDJQdRWnqgqA) | [Rattlesnake](https://open.spotify.com/album/1liCkrR5rNny4kHJcF0MAz) | 2:31 | 2025-04-03 | 2025-04-11 |
 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 | 2025-01-30 | 2025-02-07 |
@@ -15947,6 +15948,7 @@
 | [The Basement](https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [The Basement](https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr) | 2:16 | 2024-11-14 | 2024-11-22 |
 | [The Beauty Of Heartbreak](https://open.spotify.com/track/1EdqkDLZFWBf4TgzkyBjh7) | [Filippa Borgman](https://open.spotify.com/artist/2iqHWPgJz1GpoZArY5PI5r) | [The Beauty Of Heartbreak](https://open.spotify.com/album/0lmDlPUFS2UhgHnc1xDUZK) | 4:55 | 2025-03-06 | 2025-03-14 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-30 | 2024-06-07 |
+| [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 | 2025-04-17 |  |
 | [The Bend](https://open.spotify.com/track/63pCUZDXRI4Tu6zhj8O4e2) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [The Bend](https://open.spotify.com/album/6seylik7yeqVmowFt5nCF6) | 3:27 | 2023-03-02 | 2023-03-10 |
 | [The Best](https://open.spotify.com/track/17Oy9798Jj9QL4E5qwk1hp) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [The Best](https://open.spotify.com/album/2xSKdiBjueP4PGIO795EVE) | 2:56 | 2022-11-24 | 2022-12-02 |
 | [The Best](https://open.spotify.com/track/2HxQGJKOcPi87pffJ5UWt6) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [The Best](https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf) | 2:14 | 2023-09-28 | 2023-10-06 |

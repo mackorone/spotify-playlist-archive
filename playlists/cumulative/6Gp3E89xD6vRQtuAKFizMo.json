@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "1000 BPM",
+        "url": "https://open.spotify.com/album/1meGf7IwRXYnL2Ge9IoK4r"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122038,
+      "name": "1000 BPM",
+      "url": "https://open.spotify.com/track/4xk8R3G79Hyz8uLGKUVV1l"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/4PASfE1ZsBkAVVCP0CD9IX"
       },
@@ -5896,6 +5918,24 @@
       "duration_ms": 161012,
       "name": "No Brakes",
       "url": "https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG"
+    },
+    {
+      "album": {
+        "name": "No Crumbs",
+        "url": "https://open.spotify.com/album/0f6obn47vRBYI53s0UumAU"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143448,
+      "name": "No Crumbs",
+      "url": "https://open.spotify.com/track/2zOJ6fmpd0T9oJLfXSpA1I"
     },
     {
       "album": {

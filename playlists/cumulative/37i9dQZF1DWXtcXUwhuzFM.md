@@ -4,7 +4,7 @@
 
 > Uutta musiikkia Ege Zululta & Senyalta, RODEOlta ja Karim B:ltä.
 
-5,514 songs - 12 day 3 hr 51 min
+5,515 songs - 12 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3876,6 +3876,7 @@
 | [Rat Race](https://open.spotify.com/track/2IehkByzIu1b7iaq21L4Qo) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Rat Race](https://open.spotify.com/album/6ZzZBkpGHRxmmPwYXwwH2G) | 3:05 | 2024-09-26 | 2024-10-04 |
 | [Ratapöly](https://open.spotify.com/track/2zlm6FAqDSBrppVWxEZ4nw) | [Peltokurki](https://open.spotify.com/artist/13UWpJc3Zr3WSHP6iIEXEg) | [Kohti ja kauemmaksi](https://open.spotify.com/album/4mcj9QmSfE3KcihPWoP2Rl) | 3:57 | 2025-04-03 | 2025-04-11 |
 | [RATATA](https://open.spotify.com/track/4HzAtulFJBpDKRuJ6qGT1H) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [RATATA](https://open.spotify.com/album/251D5KToQ1R7yDB4crZEkN) | 2:40 | 2024-11-28 | 2024-12-06 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [Ratiriti](https://open.spotify.com/track/4DJ7vFjUxx58Ud2hzvabUN) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k) | [Ratiriti](https://open.spotify.com/album/6tCqsBO5xV0zupQPOFejNn) | 2:36 | 2024-11-28 | 2024-12-06 |
 | [Raudasta tehty](https://open.spotify.com/track/2I03l9iatZYdc9UK1sEGbj) | [Runo](https://open.spotify.com/artist/23MrcUEMEaLznNXpyc9EGz) | [Raudasta tehty](https://open.spotify.com/album/5BK9zU3AtVsRnreWj4JOj7) | 2:47 | 2025-03-27 | 2025-04-04 |
 | [Rauhaa](https://open.spotify.com/track/1LgLXYqd3JYcHXfwHbszaZ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Rauhaa](https://open.spotify.com/album/1tBc5Z4KadITFBbIp6Y9YU) | 2:57 | 2024-07-04 | 2024-07-12 |

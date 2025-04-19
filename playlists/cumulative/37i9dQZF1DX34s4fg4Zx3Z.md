@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Đan Tiên
 
-2,029 songs - 4 day 22 hr 56 min
+2,030 songs - 4 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1372,6 +1372,7 @@
 | [Rõ Ràng Rất Buồn](https://open.spotify.com/track/6hpBGx0NzUah0yWsgvQirG) | [Tuệ Phương](https://open.spotify.com/artist/72RJ0YGU1V1AMr6E3lqeKV) | [Rõ Ràng Rất Buồn](https://open.spotify.com/album/4m6RR5SF2AohVc3EsJ1rx7) | 3:36 | 2023-06-29 | 2023-07-18 |
 | [Rơi](https://open.spotify.com/track/1ehMzJl5KzgTMwah8xpMmt) | [Trick](https://open.spotify.com/artist/21U7JrcsqEYtWC0SYrJnWO) | [Rơi](https://open.spotify.com/album/4XdCEsiY0ne29O1Cw5CUQK) | 2:41 | 2022-05-18 | 2022-05-23 |
 | [Rơi Vào U Sầu](https://open.spotify.com/track/4dSqJH6oG57ov48ZzIgdlq) | [Truc Ban Bun](https://open.spotify.com/artist/1gRltC2Wy0Gi2cxsDDJrh6) | [Rơi Vào U Sầu](https://open.spotify.com/album/05cA6VOQmjhbM6tgPZW9Wd) | 3:26 | 2023-10-05 | 2023-11-17 |
+| [Rạn Nứt](https://open.spotify.com/track/5cKNhiUUBY3YCh1DVuyyVU) | [Lilchuong](https://open.spotify.com/artist/4CDeaSGdiGv3BEDMnfjWfY), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Rạn Nứt](https://open.spotify.com/album/2hakVo7rjyU4Ps4GP0Cy9u) | 3:18 | 2025-04-17 |  |
 | [Rối Bời](https://open.spotify.com/track/7I2YexigfFA46Xy0vnu4in) | [CM1X](https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw), [D'CEE](https://open.spotify.com/artist/0oRmS4Q2x8CZdvwbdLRLuM), [Daeron](https://open.spotify.com/artist/7IbLPidLTZVlxZm1EKTwKC), [Lã Hưng](https://open.spotify.com/artist/6quhS2AqdlK9tL4vcuZKSS) | [Rối Bời](https://open.spotify.com/album/06aNQH2LY0b4Oc1zNcmMeB) | 5:02 | 2022-10-12 | 2023-03-10 |
 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 | 2023-01-25 | 2024-05-15 |
 | [Rồi Ta Sẽ Thật Hạnh Phúc](https://open.spotify.com/track/4FPAP98XzDzAF1po9s8lyv) | [Linh](https://open.spotify.com/artist/713suxZd6j7VN9OwVeBsBv) | [Rồi Ta Sẽ Thật Hạnh Phúc](https://open.spotify.com/album/5Xh9BwBh8EKZUg34wsxosm) | 3:58 | 2024-06-14 | 2024-08-23 |

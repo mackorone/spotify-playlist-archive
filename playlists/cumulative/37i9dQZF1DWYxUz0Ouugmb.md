@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi.
 
-270 songs - 17 hr 33 min
+272 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-04-25 | 2025-04-16 |
 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 | 2021-11-25 | 2022-03-25 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-02 | 2025-04-16 |
+| [Gantung](https://open.spotify.com/track/2R1Eks7GwZb8F8JIfyZEBo) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Gantung](https://open.spotify.com/album/45xtIbXUuprdcTEUqvRpCB) | 3:37 | 2025-04-18 |  |
 | [Gem In I](https://open.spotify.com/track/24CX75uSDkTyLsbxqigA9V) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Mouzect](https://open.spotify.com/artist/4UA5XcAGTnqceTGGWGg9mu) | [Gem In I](https://open.spotify.com/album/7sGZvHUbo1bsAy513vYld3) | 3:08 | 2021-11-25 | 2022-03-25 |
 | [Gerhana Dalam Cinta \- Live Ska Reggae](https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Gerhana Dalam Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB) | 5:38 | 2023-07-13 | 2024-03-29 |
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 | 2023-04-14 |
@@ -217,6 +218,7 @@
 | [Seribu Kali Cinta](https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Seribu Kali Cinta](https://open.spotify.com/album/2D3Hb8Wge3s71MyapmTiNz) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2024-03-29 | 2025-04-16 |
 | [Sewajarnya](https://open.spotify.com/track/3Z69H2TPlcIQnPS77HQNRP) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Sewajarnya](https://open.spotify.com/album/55VKhwlEM22hG76WIQy7qL) | 4:36 | 2024-11-21 | 2025-04-16 |
+| [Si Paling](https://open.spotify.com/track/7dTFMexbRVTQg54nJZezY0) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Si Paling](https://open.spotify.com/album/6ukh6WIlCAvImEwJZRsLGx) | 3:33 | 2025-04-18 |  |
 | [Si Perkasa](https://open.spotify.com/track/0v3PrKg1XQDz5El2dJMpR0) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Si Perkasa](https://open.spotify.com/album/2K61NA2gvT0cdjSJYPQKtI) | 3:38 | 2024-03-29 | 2025-04-16 |
 | [Sia Sia Merindu \- \(Live Ska Reggae\)](https://open.spotify.com/track/1A2f3LAchcQ1ayhAt3yx3z) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Sia Sia Merindu \(Live Ska Reggae\)](https://open.spotify.com/album/0udbI2HzOdI6RLliHbnHhk) | 5:03 | 2023-09-14 | 2024-03-29 |
 | [Soal Kita](https://open.spotify.com/track/14rpraFulfsWytcg4kMtLz) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Soal Kita](https://open.spotify.com/album/6jgYTIvlTMtNH1XBmVu3FA) | 3:51 | 2021-11-25 | 2022-03-25 |

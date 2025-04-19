@@ -4,7 +4,7 @@
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-143 songs - 7 hr 38 min
+144 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Mais Perto](https://open.spotify.com/track/4Z5l9Xdxs5GJZxSd5GEz33) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Mais Perto](https://open.spotify.com/album/6ueqxBAa5wYjO9dvjcxsjP) | 3:09 | 2023-11-24 | 2025-02-08 |
 | [Mais Raro](https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Mais Raro](https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF) | 3:00 | 2025-02-07 |  |
 | [Manhã](https://open.spotify.com/track/4Xi1snyepODSQMlDSkm3DB) | [Ceano](https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi) | [Manhã](https://open.spotify.com/album/7KeOzMbG53zD6klOJ9Ezga) | 3:02 | 2023-10-06 |  |
+| [ME TER](https://open.spotify.com/track/0JNUvoyofX61tZzOiwLzWv) | [Maipê](https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Pedro Schin](https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P), [Dias Bruno](https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk) | [ME TER](https://open.spotify.com/album/5F6qyDnWRJilSkIcb0VYLc) | 2:46 | 2025-04-18 |  |
 | [Menina](https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:17 | 2023-10-20 | 2025-02-08 |
 | [Meu Amor](https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs), [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM) | [Meu Amor](https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ) | 2:26 | 2023-06-23 | 2025-02-22 |
 | [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-22 |  |
@@ -101,7 +102,7 @@
 | [No Mundo](https://open.spotify.com/track/6nz3aJMFQugXnZbWID6pBX) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw) | [No Mundo](https://open.spotify.com/album/5YNgJg4RP2rjVJnaL2YWmI) | 3:08 | 2023-11-24 |  |
 | [Não Sei Lidar](https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48), [Rapha Renó](https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh) | [Não Sei Lidar](https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk) | 2:39 | 2025-02-22 | 2025-04-01 |
 | [Nó de Marinheiro](https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Nó de Marinheiro](https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb) | 3:03 | 2023-07-28 | 2023-10-21 |
-| [Nós Dois](https://open.spotify.com/track/4ulWW2Z1OQU6gDxC1MPIRB) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Nós Dois](https://open.spotify.com/album/26F7DKHpz7cpE998hMWv3d) | 2:26 | 2025-03-28 |  |
+| [Nós Dois](https://open.spotify.com/track/4ulWW2Z1OQU6gDxC1MPIRB) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Nós Dois](https://open.spotify.com/album/26F7DKHpz7cpE998hMWv3d) | 2:26 | 2025-03-28 | 2025-04-19 |
 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 | 2023-06-23 |  |
 | [O Amor Descansa Na Varanda](https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [O Amor Descansa Na Varanda](https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo) | 3:24 | 2023-06-23 |  |
 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 | 2023-06-23 | 2025-04-01 |

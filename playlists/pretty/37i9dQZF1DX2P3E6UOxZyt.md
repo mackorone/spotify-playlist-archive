@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: 齊翔 \(XIANG \)
+> 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: 齊翔 \(XIANG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,092 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,106 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 35 | [雙重人格](https://open.spotify.com/track/6bkxoNG2cg4hjtrniCGVwB) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [雙重人格](https://open.spotify.com/album/3IwiGXP29ZHPHoP4v3ZE4E) | 3:32 |
 | 36 | [我想有妳在的Day&Night](https://open.spotify.com/track/0CcMfLzQfbp2C01P9sbFNw) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [我想有妳在的Day&Night](https://open.spotify.com/album/5SIF7yxq1MeVDM9xygOSqj) | 3:18 |
 
-Snapshot ID: `aAElnwAAAADSRUl2C9mXm1pXGMCgfzGf`
+Snapshot ID: `aALlFgAAAADii63IlWhatg7c/IxMXTRQ`

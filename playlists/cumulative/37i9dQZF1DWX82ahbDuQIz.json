@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Gypsy 2024 Broadway Company",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: Megan Hilty & Jennifer Simard in \"Death Becomes Her\"",
   "name": "Broadway Hits",
   "tracks": [
     {
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 329228,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
@@ -3828,6 +3828,32 @@
       "duration_ms": 204370,
       "name": "Sweet Transvestite",
       "url": "https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6"
+    },
+    {
+      "album": {
+        "name": "Death Becomes Her - Broadway Sneak Preview",
+        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+      },
+      "artists": [
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "Jennifer Simard",
+          "url": "https://open.spotify.com/artist/4t5i1y4ok9zB6kSyw9iBzI"
+        },
+        {
+          "name": "Christopher Sieber",
+          "url": "https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174092,
+      "name": "Tell Me, Ernest",
+      "url": "https://open.spotify.com/track/42l7xHABhAOkUjCKBSX31e"
     },
     {
       "album": {

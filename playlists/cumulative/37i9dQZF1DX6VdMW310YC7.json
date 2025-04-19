@@ -12796,7 +12796,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 230243,
       "name": "Heart Made Of Glass",
       "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
@@ -27388,6 +27388,36 @@
     {
       "album": {
         "name": "Show Me",
+        "url": "https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        },
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "Beob\u00ea",
+          "url": "https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170324,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV"
+    },
+    {
+      "album": {
+        "name": "Show Me",
         "url": "https://open.spotify.com/album/2FgS1KHblcOFOiAhN7nJNH"
       },
       "artists": [
@@ -31394,7 +31424,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
@@ -35252,7 +35282,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 215983,
       "name": "You",
       "url": "https://open.spotify.com/track/4UUA57IJP5b5N2lJEOJD3g"

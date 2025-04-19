@@ -1,81 +1,13 @@
 {
   "description": "\u00c9xitos del trap latino con Eladio Carrion.",
-  "num_followers": 1114769,
+  "num_followers": 1114767,
   "original_name": "TRAPPERZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/iFtwAAAABSVtVyq3kYzOLHtvwr0XV4",
+  "snapshot_id": "aAJKlwAAAAA+WVVbM0rjILjmC6D9pt3O",
   "tracks": [
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "EL TRAP LO MERECE",
-        "url": "https://open.spotify.com/album/1EkBelutAGR7YVuyY0fk8g"
-      },
-      "artists": [
-        {
-          "name": "Sixto Yegros",
-          "url": "https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs"
-        },
-        {
-          "name": "Ramma",
-          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
-        },
-        {
-          "name": "Tobi",
-          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
-        },
-        {
-          "name": "BAXIAN",
-          "url": "https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "EL TRAP LO MERECE",
-      "url": "https://open.spotify.com/track/5leLPDRVm1lG6yDDXUSkFe"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "HAMBRE",
-        "url": "https://open.spotify.com/album/5dfgMlH7xMhCGZYJ8MMVCY"
-      },
-      "artists": [
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 158752,
-      "name": "HAMBRE",
-      "url": "https://open.spotify.com/track/4vjOvlbbmbkWbvObX4ALhd"
-    },
-    {
-      "added_at": "2025-04-11 03:00:07",
-      "album": {
-        "name": "Guerrero",
-        "url": "https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Koki LS",
-          "url": "https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu"
-        }
-      ],
-      "duration_ms": 143478,
-      "name": "Guerrero",
-      "url": "https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE"
-    },
     {
       "added_at": "2025-04-11 03:00:07",
       "album": {
@@ -355,6 +287,74 @@
       "duration_ms": 135015,
       "name": "Bando",
       "url": "https://open.spotify.com/track/0CyJuu1z03pJtWI7loX9va"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
+        "name": "EL TRAP LO MERECE",
+        "url": "https://open.spotify.com/album/1EkBelutAGR7YVuyY0fk8g"
+      },
+      "artists": [
+        {
+          "name": "Sixto Yegros",
+          "url": "https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs"
+        },
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        },
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "BAXIAN",
+          "url": "https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "EL TRAP LO MERECE",
+      "url": "https://open.spotify.com/track/5leLPDRVm1lG6yDDXUSkFe"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
+        "name": "HAMBRE",
+        "url": "https://open.spotify.com/album/5dfgMlH7xMhCGZYJ8MMVCY"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "duration_ms": 158752,
+      "name": "HAMBRE",
+      "url": "https://open.spotify.com/track/4vjOvlbbmbkWbvObX4ALhd"
+    },
+    {
+      "added_at": "2025-04-11 03:00:07",
+      "album": {
+        "name": "Guerrero",
+        "url": "https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Koki LS",
+          "url": "https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu"
+        }
+      ],
+      "duration_ms": 143478,
+      "name": "Guerrero",
+      "url": "https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE"
     },
     {
       "added_at": "2025-04-11 03:00:07",

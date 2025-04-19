@@ -1,13 +1,37 @@
 {
   "description": "The best of modern blues rock. Cover: Samantha Fish",
-  "num_followers": 234084,
+  "num_followers": 234178,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9ZTQAAAAAqLpwZxNPbmJzBeX/3ftP6",
+  "snapshot_id": "aAHOYQAAAAALFNtFM2pX1kYMyrVSC1eJ",
   "tracks": [
+    {
+      "added_at": "2025-04-18 04:00:33",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6gcXWQzLXGPPejTKAJ7G5D"
+      },
+      "artists": [
+        {
+          "name": "Rockababyrock",
+          "url": "https://open.spotify.com/artist/36HOHy9YzgiG2FrGRWf99s"
+        },
+        {
+          "name": "Striking Matches",
+          "url": "https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar"
+        },
+        {
+          "name": "Tyler Banks",
+          "url": "https://open.spotify.com/artist/5OzZ1EneWUCgVKh0V3x93i"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/1YypSwQhC86QYatXNrikAV"
+    },
     {
       "added_at": "2025-04-04 04:00:13",
       "album": {
@@ -23,6 +47,26 @@
       "duration_ms": 174430,
       "name": "Can Ya Handle The Heat?",
       "url": "https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP"
+    },
+    {
+      "added_at": "2025-04-18 04:00:33",
+      "album": {
+        "name": "Money & Power",
+        "url": "https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5gM9h1Ksjiu1iy3wLy42dt"
+        }
+      ],
+      "duration_ms": 227675,
+      "name": "Brown Liquor",
+      "url": "https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn"
     },
     {
       "added_at": "2025-03-14 04:00:06",
@@ -235,22 +279,6 @@
       "duration_ms": 187317,
       "name": "If Not Soon",
       "url": "https://open.spotify.com/track/0V108MMvdjkutZMDt7TGbj"
-    },
-    {
-      "added_at": "2025-03-14 04:00:06",
-      "album": {
-        "name": "Money & Power",
-        "url": "https://open.spotify.com/album/6HhtRhsp1XMCRLC47Apt3g"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Money & Power",
-      "url": "https://open.spotify.com/track/342MY1NGS4rEYyXidPkzMN"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2339,22 +2367,6 @@
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Are You",
-        "url": "https://open.spotify.com/album/4Chn5PYIqtpsD3LD1SjB8s"
-      },
-      "artists": [
-        {
-          "name": "The Delta Saints",
-          "url": "https://open.spotify.com/artist/5vCQg5Rpc7l4cPDRuR7Hdz"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Are You",
-      "url": "https://open.spotify.com/track/32xYsLJbczsr2s4aR0Snft"
     },
     {
       "added_at": "2020-10-16 04:02:00",

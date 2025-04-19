@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "All I Ever Asked (Short n' Sweet Version)",
+        "url": "https://open.spotify.com/album/2vYWdXfPEGRfqjKXlbQIhT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223146,
+      "name": "All I Ever Asked - Short n' Sweet Version",
+      "url": "https://open.spotify.com/track/3tc2UcOjPQvHz1BywgtXzG"
+    },
+    {
+      "album": {
         "name": "A Grey Area (Live Sessions)",
         "url": "https://open.spotify.com/album/4RTgnKqmdtb25iXJd35TBL"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 299666,
       "name": "All of Me - Live",
       "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"

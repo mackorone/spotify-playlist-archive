@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with Subtronics
 
-995 songs - 2 day 6 hr 53 min
+996 songs - 2 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Check This](https://open.spotify.com/track/2DIKCVLxEwCInD7apxfMVH) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Onzeker Kraft Vol\. 1.5](https://open.spotify.com/album/6jU5BRvsHFuEmIt00ePEwV) | 2:59 | 2024-08-09 | 2024-11-09 |
 | [CHECKMATE](https://open.spotify.com/track/0nSAl0W9em1KhLuHbJjFqt) | [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ) | [CHECKMATE](https://open.spotify.com/album/0xkvEKLxHa7F1lnLIl1sCO) | 3:32 | 2024-11-23 |  |
 | [Chef's Kiss \- Samplifire Remix](https://open.spotify.com/track/0LzikqXCJYtNWLTEjJhQ0t) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Chef's Kiss \(Samplifire Remix\)](https://open.spotify.com/album/03mXFpwHn0eHzxvIBtwrzN) | 3:41 | 2024-01-26 | 2024-03-02 |
+| [chicken jockey](https://open.spotify.com/track/78HzQfpDOvhCLyuAVZTb0g) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3) | [chicken jockey](https://open.spotify.com/album/13cF0WANYpeaurr183mS8a) | 2:08 | 2025-04-18 |  |
 | [Clairvoyant](https://open.spotify.com/track/24pAbQIo9igTt9wbJFaXp3) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Clairvoyant](https://open.spotify.com/album/315BguRzOEWRWgyyvDXAfn) | 2:49 | 2021-12-17 | 2022-05-07 |
 | [Claw and Fang](https://open.spotify.com/track/2ajJaUb1OevO13NGdc399b) | [Ann!hilate](https://open.spotify.com/artist/4CQSsq2HQaRa66hoQ37ky9), [Outertone](https://open.spotify.com/artist/76EQ6xxFd24ZJ4GKq8FOEX) | [Claw and Fang](https://open.spotify.com/album/1FAnLw956JpFAEvTRpubrm) | 2:52 | 2024-05-17 | 2024-08-10 |
 | [Clean Up](https://open.spotify.com/track/5bgGbSIz8gUIqAWkMjaZIh) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM), [Stoned Level](https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd) | [DOA EP](https://open.spotify.com/album/5U1oEWeGULp7PAxb1m6ima) | 3:12 | 2023-08-11 | 2023-09-19 |
@@ -249,7 +250,7 @@
 | [DIVERGENCE](https://open.spotify.com/track/6TgsMclmIDmEZyMNfKlTTR) | [UBUR](https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6), [Phiso](https://open.spotify.com/artist/7csjnVvI7V4mm9e7fvqRdC) | [DIVERGENCE](https://open.spotify.com/album/7qdcACEkZbweWyARLBYtE5) | 3:20 | 2023-03-31 | 2023-07-07 |
 | [DIY \- Dubstep Mix](https://open.spotify.com/track/0t8dxQHa6hl2k2vPVaftmF) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 2:38 | 2023-11-24 | 2024-09-07 |
 | [DIZZY SPELL](https://open.spotify.com/track/4MgG06U8F0OdSxaEUInEtK) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [DIZZY SPELL](https://open.spotify.com/album/2K09XunjUmF6fU9cc5OeS6) | 3:12 | 2025-03-07 |  |
-| [DJJJJJJJJJ](https://open.spotify.com/track/5aJnl3PVYb1svAjOzSqQHS) | [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ) | [Glass Orchid](https://open.spotify.com/album/3isMZiyI71ULCUxfif0lnL) | 2:30 | 2025-01-17 |  |
+| [DJJJJJJJJJ](https://open.spotify.com/track/5aJnl3PVYb1svAjOzSqQHS) | [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ) | [Glass Orchid](https://open.spotify.com/album/3isMZiyI71ULCUxfif0lnL) | 2:30 | 2025-01-17 | 2025-04-19 |
 | [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 | 2022-04-15 | 2023-04-01 |
 | [Dome Shot](https://open.spotify.com/track/2Rdk6glwnhBuuB8sphS2EL) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Dome Shot](https://open.spotify.com/album/71USWHRJ4AefVMUzWUxiXs) | 3:16 | 2024-04-26 | 2024-08-31 |
 | [Don't Let Me Let Go \(with ILLENIUM & EVAN GIIA\) – Zomboy Remix](https://open.spotify.com/track/6ZQHhBaGgwX2zourh1J5Ie) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Don't Let Me Let Go \(with ILLENIUM & EVAN GIIA\) – Zomboy Remix](https://open.spotify.com/album/5zLvgObeFVjQZ8Q7Ifqotq) | 4:18 | 2023-02-10 | 2024-08-20 |

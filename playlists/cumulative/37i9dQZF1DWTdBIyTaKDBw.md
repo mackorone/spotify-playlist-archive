@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-339 songs - 19 hr 2 min
+340 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Blood Oath](https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Blood Oath](https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0) | 3:15 | 2024-07-02 |  |
 | [Blooming Today](https://open.spotify.com/track/1dTshccEBE5ABMk5ls1LHA) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Blooming Today](https://open.spotify.com/album/5oi7YShT4pfwoAlKJtqDsk) | 3:09 | 2023-06-13 | 2023-08-11 |
 | [Blooming Today](https://open.spotify.com/track/7bFLEPt1ZpePXATqdRWbZu) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Blooming Today](https://open.spotify.com/album/4TMYHDS6hlg3VtFOu96lNT) | 3:02 | 2023-07-17 | 2024-07-03 |
-| [Blue Dragon](https://open.spotify.com/track/4eJ11PArOQBen4ZYQu7byX) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 3:19 | 2024-07-02 |  |
+| [Blue Dragon](https://open.spotify.com/track/4eJ11PArOQBen4ZYQu7byX) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 3:19 | 2024-07-02 | 2025-04-19 |
 | [Both of Us](https://open.spotify.com/track/1ADffIiBVfqDSRb8LKE3pU) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Both of Us](https://open.spotify.com/album/3zY1NSZAdVDljcs0SeG63K) | 1:55 | 2024-07-02 | 2025-04-15 |
 | [bottom parade](https://open.spotify.com/track/4jTyKruIyG8mAI1c8QlxfD) | [Non Amer](https://open.spotify.com/artist/7f3l59JHKzkCqsjXxPmYJT) | [Loop 1](https://open.spotify.com/album/53t377Jk0Zhgk88sX60udL) | 3:05 | 2022-06-20 | 2022-07-26 |
 | [Breathing Stone](https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Sleeping Soul](https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT) | 3:24 | 2024-07-02 |  |
@@ -59,7 +59,7 @@
 | [Carpet](https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Carpet \- SM STATION](https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH) | 3:42 | 2022-05-03 | 2024-07-03 |
 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 | 2022-06-13 | 2024-07-03 |
 | [Chinese Morning](https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU) | [The Geek x Vrv](https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF) | [Chinese Morning](https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh) | 2:54 | 2024-07-02 |  |
-| [Chōchin](https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [Chōchin](https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn) | 3:05 | 2024-07-02 |  |
+| [Chōchin](https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [Chōchin](https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn) | 3:05 | 2024-07-02 | 2025-04-19 |
 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 | 2022-06-13 | 2024-07-03 |
 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 | 2024-07-02 |  |
 | [Courtship Song 구애가](https://open.spotify.com/track/306XHqoedXSzJWICCAi1ry) | [Sijm 시즘](https://open.spotify.com/artist/1sFAOMHlzpH19uht6wXdqL) | [Courtship Song 구애가](https://open.spotify.com/album/3uvyOUWH52Dni38OOT5XPE) | 3:14 | 2022-05-03 | 2022-07-28 |
@@ -201,7 +201,7 @@
 | [NO WAY](https://open.spotify.com/track/4WxeDb9YZABqk3QaH9CCu1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 4:16 | 2022-05-03 | 2022-07-29 |
 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 | 2022-05-03 | 2024-07-03 |
 | [Nocturne](https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Nocturne](https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X) | 2:19 | 2024-07-02 | 2025-04-12 |
-| [Nokori](https://open.spotify.com/track/63I16psnlcMcKpvI6ke646) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO), [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Nokori](https://open.spotify.com/album/2DehLH0c7OrvfdoSZm1At3) | 2:09 | 2024-07-02 | 2025-04-18 |
+| [Nokori](https://open.spotify.com/track/63I16psnlcMcKpvI6ke646) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO), [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Nokori](https://open.spotify.com/album/2DehLH0c7OrvfdoSZm1At3) | 2:09 | 2024-07-02 |  |
 | [Nosso Samba](https://open.spotify.com/track/67gT8rrjkmHtp8ZyORgnna) | [PRIMAVERA](https://open.spotify.com/artist/2dWal20OMFlgWaEMZ3tH3i) | [Nosso Samba](https://open.spotify.com/album/0nKwnNCcAKx5fEMO3pghor) | 3:31 | 2022-05-03 | 2022-07-04 |
 | [NOW](https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Unlock My Boss, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh) | 3:15 | 2023-01-13 | 2024-07-03 |
 | [One Day](https://open.spotify.com/track/4GyHQOpfrElhvKjIfXSEf3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:13 | 2022-05-03 | 2022-09-09 |
@@ -288,6 +288,7 @@
 | [The man and the woman](https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI), [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:32 | 2022-07-22 | 2022-09-09 |
 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 | 2022-05-03 | 2024-07-03 |
 | [The Secret Road](https://open.spotify.com/track/21X8IL9mP28vq4GyCt1H8A) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Enchantments](https://open.spotify.com/album/2fWQ5iffc0EpE3zMfFhPf9) | 2:42 | 2024-07-02 | 2025-02-07 |
+| [The Shining Kingdom](https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [The Shining Kingdom](https://open.spotify.com/album/0excbd15wol5jubCPOyTrT) | 2:36 | 2025-04-18 |  |
 | [Thermometer \- ON Team Version](https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:17 | 2022-05-03 | 2023-03-28 |
 | [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 | 2022-05-03 | 2024-07-03 |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-06-20 | 2024-07-03 |

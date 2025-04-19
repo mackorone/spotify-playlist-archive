@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-297 songs - 17 hr 48 min
+298 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Mannat](https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:39 | 2023-11-22 |  |
 | [Manzoor Hai](https://open.spotify.com/track/77Mo1my3vQVqu4wRmVIeCa) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Manzoor Hai](https://open.spotify.com/album/16HWh1K1lhTTpMDHUoLxIT) | 3:59 | 2023-11-16 | 2023-12-07 |
 | [Masakali](https://open.spotify.com/track/5iyNH1Dmxif1k4Nl1gMeuh) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 4:48 | 2025-01-30 |  |
+| [Mashhoor](https://open.spotify.com/track/37V3SYxk7Y3dwbGPf5blsQ) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Mashhoor](https://open.spotify.com/album/1QufWN9LAVD4hWy3z8MJJD) | 2:22 | 2025-04-18 |  |
 | [Mashwara](https://open.spotify.com/track/1Yiwkdc1Jv5NjXThjL541E) | [Surya Singh](https://open.spotify.com/artist/39l29T5muGAMa7ARnBGyNQ), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Mashwara](https://open.spotify.com/album/5WcGuU8M3bqnMUrKwM7pzH) | 2:52 | 2024-05-01 | 2024-05-14 |
 | [Maskhari](https://open.spotify.com/track/3AeOPuf7VfwUsxeQNN9Vsv) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 3:15 | 2022-03-09 | 2023-02-21 |
 | [Matak Matak](https://open.spotify.com/track/6OJFI21TFUEsqCtyIRTmVG) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [TimiBOI](https://open.spotify.com/artist/7JOx03sIOirdg2PFnna2U2) | [Matak Matak](https://open.spotify.com/album/7e6zLnFAsvGVF7YHH6Gnqs) | 2:46 | 2024-10-25 | 2024-12-02 |
@@ -304,6 +305,6 @@
 | [Zinda Dili 2.0](https://open.spotify.com/track/5RPa4SX7owbixtbigFPcJZ) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Zinda Dili 2.0](https://open.spotify.com/album/6tGKLoPQFiuTbRS43Kuvd7) | 4:24 | 2023-05-24 | 2023-07-21 |
 | [Zindagi Aa Raha Hoon Main](https://open.spotify.com/track/2I2NQ6nvVLKRHya5iB0rEB) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Zindagi Aa Raha Hoon Main](https://open.spotify.com/album/5MpTGWKK2LOba6aLCXVKrr) | 4:47 | 2022-03-09 | 2023-05-19 |
 | [Zohra Jabeen \- From "Sikandar"](https://open.spotify.com/track/1pVJyIxjpPRNd8fwLjjETD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Danish Sabri](https://open.spotify.com/artist/1d1zBysvyutA5en7DZnvJW), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Zohra Jabeen \(From "Sikandar"\)](https://open.spotify.com/album/5UtOUjIeRX348WaJiwFE9P) | 3:24 | 2025-03-04 |  |
-| [Zoobi Doobi](https://open.spotify.com/track/5Sb1gWmNRelFDAMb6eiriW) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [3 Idiots](https://open.spotify.com/album/5RpLgeHQA69nLrBzxELRxP) | 4:06 | 2025-01-30 |  |
+| [Zoobi Doobi](https://open.spotify.com/track/5Sb1gWmNRelFDAMb6eiriW) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [3 Idiots](https://open.spotify.com/album/5RpLgeHQA69nLrBzxELRxP) | 4:06 | 2025-01-30 | 2025-04-19 |
 
 \*This playlist was first scraped on 2022-04-30. Prior content cannot be recovered.

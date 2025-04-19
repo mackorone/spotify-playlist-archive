@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 186400,
+  "num_followers": 186433,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
+        "name": "Ulaan",
+        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
         "name": "At the Door",
         "url": "https://open.spotify.com/album/1Ll3nI3EXTc2cwjNAP2N3M"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 122762,
       "name": "At the Door",
       "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
-      },
-      "artists": [
-        {
-          "name": "Emahoy Tsege Mariam Gebru",
-          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
-        }
-      ],
-      "duration_ms": 208484,
-      "name": "Ready to Leave",
-      "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "Familiar Flavours",
         "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
+      },
+      "artists": [
+        {
+          "name": "Emahoy Tsege Mariam Gebru",
+          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
+        }
+      ],
+      "duration_ms": 208484,
+      "name": "Ready to Leave",
+      "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "O, Dark Mother",
-        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 331774,
-      "name": "O, Dark Mother",
-      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "Under the Sun",
         "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 477048,
       "name": "Analemma",
       "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "Harmony of Irrelevant Facts",
-        "url": "https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe"
-      },
-      "artists": [
-        {
-          "name": "Fuubutsushi",
-          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Harmony of Irrelevant Facts",
-      "url": "https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "O Bicho Anda Por A\u00ed",
         "url": "https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya"
       },
@@ -639,6 +623,54 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "Harmony of Irrelevant Facts",
+        "url": "https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Harmony of Irrelevant Facts",
+      "url": "https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "punk cake",
+        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "14 Rue d'Abbeville",
+      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
         "name": "Hounds",
         "url": "https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m"
       },
@@ -651,22 +683,6 @@
       "duration_ms": 301445,
       "name": "Hounds",
       "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
-        "name": "Ancient DNA",
-        "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 163097,
-      "name": "Ancient DNA",
-      "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -691,22 +707,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "punk cake",
-        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
-      },
-      "artists": [
-        {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "14 Rue d'Abbeville",
-      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "Zionic Mud",
         "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
@@ -723,18 +723,18 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+        "name": "Ancient DNA",
+        "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
       },
       "artists": [
         {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 277042,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
+      "duration_ms": 163097,
+      "name": "Ancient DNA",
+      "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "Walks",
-        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
-      },
-      "artists": [
-        {
-          "name": "Group Listening",
-          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "New Brighton",
-      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "Boeckner!",
         "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "Walks",
+        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
+      },
+      "artists": [
+        {
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "New Brighton",
+      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        }
+      ],
+      "duration_ms": 203955,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6SfxRLlE2hfTxJjG4Y5vrq"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
         "name": "Old Age",
         "url": "https://open.spotify.com/album/3ebtbu8s9W9a4AUP5T6feh"
       },
@@ -939,38 +955,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
-      },
-      "artists": [
-        {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
-        }
-      ],
-      "duration_ms": 203955,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/6SfxRLlE2hfTxJjG4Y5vrq"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
-        "name": "AMB001-008",
-        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 363353,
-      "name": "AMB001",
-      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "Hailu Remixes",
         "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 334000,
       "name": "Riot on the Hush - K-LONE Remix",
       "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "AMB001-008",
+        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 363353,
+      "name": "AMB001",
+      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "THE QUANTA SERIES",
-        "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 389266,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "Pordeno Me",
         "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 149457,
       "name": "Pordeno Me",
       "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "THE QUANTA SERIES",
+        "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 389266,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "forevermore",
-        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "roots",
-      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 223500,
       "name": "Air in the Dark",
       "url": "https://open.spotify.com/track/6C2RgC32elJb8ktvWvUEIZ"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "forevermore",
+        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "roots",
+      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "y volvieron a transformarse, enfrente de nosotros,",
-        "url": "https://open.spotify.com/album/2GuZgZ4s9CSsXx6fUxLN7P"
-      },
-      "artists": [
-        {
-          "name": "Galgo",
-          "url": "https://open.spotify.com/artist/2sP4mSzvPK5etmf9M6uO5U"
-        }
-      ],
-      "duration_ms": 245762,
-      "name": "y volvieron a transformarse, enfrente de nosotros,",
-      "url": "https://open.spotify.com/track/08SgLXVGR8a8pE5dQXpMRE"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "Berceuses des deux mondes",
         "url": "https://open.spotify.com/album/13ydWl3fzWEv6tehH0fRnH"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
+        "name": "y volvieron a transformarse, enfrente de nosotros,",
+        "url": "https://open.spotify.com/album/2GuZgZ4s9CSsXx6fUxLN7P"
+      },
+      "artists": [
+        {
+          "name": "Galgo",
+          "url": "https://open.spotify.com/artist/2sP4mSzvPK5etmf9M6uO5U"
+        }
+      ],
+      "duration_ms": 245762,
+      "name": "y volvieron a transformarse, enfrente de nosotros,",
+      "url": "https://open.spotify.com/track/08SgLXVGR8a8pE5dQXpMRE"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
         "name": "IN:titolo",
         "url": "https://open.spotify.com/album/1IfDRUJl02s8omCCPnhg0Y"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 319389,
       "name": "Sailor (for fin)",
       "url": "https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/1XrAK2WxsAlogv7MmVypiY"
+      },
+      "artists": [
+        {
+          "name": "Pelp",
+          "url": "https://open.spotify.com/artist/5O6mSkESMMTM6WmQmtlDcK"
+        }
+      ],
+      "duration_ms": 708927,
+      "name": "2033",
+      "url": "https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA"
     },
     {
       "added_at": "2025-04-15 07:48:57",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "2007",
-        "url": "https://open.spotify.com/album/1XrAK2WxsAlogv7MmVypiY"
-      },
-      "artists": [
-        {
-          "name": "Pelp",
-          "url": "https://open.spotify.com/artist/5O6mSkESMMTM6WmQmtlDcK"
-        }
-      ],
-      "duration_ms": 708927,
-      "name": "2033",
-      "url": "https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "the REAL (HAAi Remix)",
         "url": "https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-04-15 07:48:57",
       "album": {
-        "name": "WHYET\uff1f",
-        "url": "https://open.spotify.com/album/41Nf6etzcF599AG6udxp1P"
-      },
-      "artists": [
-        {
-          "name": "ondo",
-          "url": "https://open.spotify.com/artist/31D2x4Ch0Lz1Z9jhXTTLBF"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "WHYET\uff1f",
-      "url": "https://open.spotify.com/track/3qZuhnMglx8sN2ePzhsKSz"
-    },
-    {
-      "added_at": "2025-04-15 07:48:57",
-      "album": {
         "name": "K2",
         "url": "https://open.spotify.com/album/7HeE9amV1xHGKfG8YLfUTz"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 164757,
       "name": "Casamento",
       "url": "https://open.spotify.com/track/3mTRiNSjIdBqLfevXYg4tO"
+    },
+    {
+      "added_at": "2025-04-15 07:48:57",
+      "album": {
+        "name": "WHYET\uff1f",
+        "url": "https://open.spotify.com/album/41Nf6etzcF599AG6udxp1P"
+      },
+      "artists": [
+        {
+          "name": "ondo",
+          "url": "https://open.spotify.com/artist/31D2x4Ch0Lz1Z9jhXTTLBF"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "WHYET\uff1f",
+      "url": "https://open.spotify.com/track/3qZuhnMglx8sN2ePzhsKSz"
     },
     {
       "added_at": "2025-04-15 07:48:57",

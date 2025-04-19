@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-319 songs - 17 hr 54 min
+320 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Cositas](https://open.spotify.com/track/5IqDl7EZ6AHY1ny7b3KOql) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Cositas](https://open.spotify.com/album/0kTRRez9wxcpg7ZVfup8dE) | 2:26 | 2024-07-05 | 2024-08-22 |
 | [Cual Fue? \- Remix](https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Cual Fue? \(Remix\)](https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6) | 3:24 | 2023-05-26 | 2024-10-07 |
 | [Cuando la Vida Sea un Trago](https://open.spotify.com/track/2ZYp7OWqlBGjO2VCDiXMaF) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Cuando la Vida Sea un Trago](https://open.spotify.com/album/3jM3uaw9cu76mfMMPkh1RL) | 2:49 | 2024-05-18 | 2024-05-24 |
+| [Cuarto de Milla](https://open.spotify.com/track/1xNN7mVHOEZUKwXuvVamF9) | [Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d) | [Cuarto de Milla](https://open.spotify.com/album/0bBeo35hqwm4el5Obo2aZI) | 3:00 | 2025-04-18 |  |
 | [Cucumelo](https://open.spotify.com/track/29aYatLGWbMVcC3snkyFVD) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Cucumelo](https://open.spotify.com/album/3MLajrzEOSWDQgkIzluqaf) | 2:59 | 2023-11-01 | 2023-11-18 |
 | [Culito Pa' Tras](https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY) | 2:05 | 2023-11-01 | 2024-03-06 |
 | [Culo Pa 2 Tangas](https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Culo Pa 2 Tangas](https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL) | 3:02 | 2023-05-26 | 2023-09-15 |
@@ -121,7 +122,7 @@
 | [Free L\-Gante](https://open.spotify.com/track/2XJLoUmpWyAhrMry0TIt1o) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Free L\-Gante](https://open.spotify.com/album/1JACVgEJvfWQqGmQZTNj50) | 3:54 | 2023-08-25 | 2023-09-02 |
 | [Frontea 3](https://open.spotify.com/track/7238cpvB913sO1Rh8C6onD) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Brisa La Roca](https://open.spotify.com/artist/7HTxnpCW9GGBBSW4twQPQn) | [Frontea 3](https://open.spotify.com/album/63s10DSJrXwmzS9Lpk4kA7) | 3:02 | 2023-08-18 | 2023-09-02 |
 | [Fua Mi Amor](https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Fua Mi Amor](https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT) | 2:45 | 2023-05-26 | 2024-10-26 |
-| [Fue un Sueño](https://open.spotify.com/track/2WbzsVExw5cBxPFj6gqcKb) | [Junior](https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx) | [En Este Mundo](https://open.spotify.com/album/7hk8g5VKny9ZPYweUUtk0j) | 3:30 | 2024-03-29 |  |
+| [Fue un Sueño](https://open.spotify.com/track/2WbzsVExw5cBxPFj6gqcKb) | [Junior](https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx) | [En Este Mundo](https://open.spotify.com/album/7hk8g5VKny9ZPYweUUtk0j) | 3:30 | 2024-03-29 | 2025-04-19 |
 | [FUMAN TWO](https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [FUMAN TWO](https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy) | 1:54 | 2023-08-25 | 2024-05-24 |
 | [Gancia y Limon](https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o) | [Smk\-2](https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Gancia y Limon](https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa) | 3:53 | 2023-09-22 | 2024-01-24 |
 | [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 | 2024-03-06 |

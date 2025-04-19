@@ -2,7 +2,7 @@
 
 ### [pov: la tua vita è un film](https://open.spotify.com/playlist/37i9dQZF1DX5gGGog0N2Tu)
 
-> sabrina è a milano questa settimana ✨
+> cause she's busy slayin'
 
 308 songs - 16 hr 10 min
 

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover \- Khan Bhaini
+> Catch the hottest Punjabi tracks\. Cover \- Cheema Y
 
 149 songs - 7 hr 37 min
 

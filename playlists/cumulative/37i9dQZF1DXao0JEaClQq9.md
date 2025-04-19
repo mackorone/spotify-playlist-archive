@@ -2,16 +2,16 @@
 
 ### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
 
-> Modern heavenly sounds\. Cover: Wet
+> Modern heavenly sounds\. Cover: caroline x Caroline Polachek
 
-694 songs - 1 day 19 hr 36 min
+695 songs - 1 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$0](https://open.spotify.com/track/21URxpNeMfoW141Qh1Woo3) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [$0](https://open.spotify.com/album/5b00Hg03YFtGfkXWRGeBNq) | 6:43 | 2024-11-22 | 2025-03-15 |
 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 | 2022-01-28 | 2022-04-21 |
 | [\(to me\) your face is love](https://open.spotify.com/track/0rMmfE1Cblk78IC48wxT5i) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [\(to me\) your face is love](https://open.spotify.com/album/3pkXtqn98A5ANVrJSMQunk) | 3:36 | 2021-11-12 | 2022-07-29 |
-| [16/8](https://open.spotify.com/track/2YO20U8ihiMmPpCuzfRPVL) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [16/8](https://open.spotify.com/album/7mYuqQ7eDqRJmnwm59n8xH) | 2:03 | 2025-03-07 |  |
+| [16/8](https://open.spotify.com/track/2YO20U8ihiMmPpCuzfRPVL) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [16/8](https://open.spotify.com/album/7mYuqQ7eDqRJmnwm59n8xH) | 2:03 | 2025-03-07 | 2025-04-19 |
 | [1st Soundscape](https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Wind Down](https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON) | 3:44 | 2022-06-03 | 2022-07-24 |
 | [2021](https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 1:56 | 2021-06-03 | 2022-06-04 |
 | [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 |  |
@@ -614,6 +614,7 @@
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2021-06-03 | 2022-04-21 |
 | [Teenage Dirtbag](https://open.spotify.com/track/484LUX0XVdBqpy3vgCUbSm) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Teenage Dirtbag \[2020\]](https://open.spotify.com/album/44sgfDxieYl7F5gLhWosJk) | 3:15 | 2024-08-16 | 2024-09-06 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-06-03 | 2022-04-21 |
+| [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-18 |  |
 | [That Other Girl](https://open.spotify.com/track/04Mr5jeXzPFnEQUPtPzRVP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Suspended Kid](https://open.spotify.com/album/0TT7gSYro7GSKZwUlPefBf) | 3:02 | 2021-06-03 | 2022-04-17 |
 | [The Chemist](https://open.spotify.com/track/0pE75Wp3Np1f8N5RcNE8wZ) | [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE) | [The Chemist](https://open.spotify.com/album/5CrL4BHFdHLfLaqOmTHVfk) | 3:16 | 2022-05-20 | 2022-07-05 |
 | [The Conclusion](https://open.spotify.com/track/6jPxM1V4M1DdiPgMoe8FBS) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 2:45 | 2021-06-03 | 2022-06-04 |

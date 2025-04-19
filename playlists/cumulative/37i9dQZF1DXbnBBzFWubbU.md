@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-174 songs - 11 hr 12 min
+175 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Chayn](https://open.spotify.com/track/1XdeHskCYmIwqBiotoyUDo) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:47 | 2023-10-03 | 2023-11-02 |
 | [Chidiya](https://open.spotify.com/track/5YBz5gtNazOtbkQjUYWTjY) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Chidiya](https://open.spotify.com/album/7aVh40LYkpShPxOeGqRJis) | 6:08 | 2023-08-18 | 2025-01-14 |
 | [CHOLI](https://open.spotify.com/track/78ur2d8T40bGTeEGCPBi4e) | [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9), [Ben Parag](https://open.spotify.com/artist/62UT2WpXc0Ru255jslrGIe) | [CHOLI](https://open.spotify.com/album/6R2voNJW0jULdEQC9GIOGa) | 3:28 | 2023-10-27 | 2024-01-27 |
+| [Chug Chug](https://open.spotify.com/track/6xKahEaJiuBZJxfCoeXapP) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb), [Indo Warehouse](https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2) | [Chug Chug / Taka Doom](https://open.spotify.com/album/0jisVfCyz4ER1o7ZXscw1x) | 3:21 | 2025-04-18 |  |
 | [Clarify My Soul](https://open.spotify.com/track/483jACYT1HWbgvWSgYxEFq) | [November Rose](https://open.spotify.com/artist/40i8JD0t84iUXFC2Y2bNHO) | [Desi Spice, Vol\. 1](https://open.spotify.com/album/0DofQSWPcVfN5Bua73V3LI) | 3:51 | 2023-08-18 | 2025-01-14 |
 | [Dance on the Moon](https://open.spotify.com/track/7k3h14QsPx3PqxkLXRleQw) | [Haider Uppal](https://open.spotify.com/artist/3J20n2omS4gaBwJXzxZkDk), [Saqib](https://open.spotify.com/artist/7CTBM6iKzwhDMswUHw10n9) | [Dance on the Moon](https://open.spotify.com/album/1VNqe03LcjJbuIYDq3hH9U) | 6:12 | 2024-08-09 |  |
 | [Dara](https://open.spotify.com/track/5jvheMwzQpugperlfFDmad) | [Mughal\-E\-Funk](https://open.spotify.com/artist/0FMFfSdbjQi08hUB2KqUyx), [Aizaz Sohail](https://open.spotify.com/artist/69jbAALzkYxF5CgdADXfVM) | [Dara](https://open.spotify.com/album/2Q4gWVsEnUUl8GucuInL30) | 8:21 | 2024-01-26 |  |

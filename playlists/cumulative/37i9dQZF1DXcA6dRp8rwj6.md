@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Wiz Khalifa\)
 
-2,746 songs - 5 day 18 hr 52 min
+2,747 songs - 5 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2335,6 +2335,7 @@
 | [That's We](https://open.spotify.com/track/0ELxYNhnn8OPywuQT00GEc) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [영독](https://open.spotify.com/artist/4dVGwChUNSKQBsCWuVwkop), [Young Chang](https://open.spotify.com/artist/10Q98X72E0f5yLez0jEbQt), [obiegogle](https://open.spotify.com/artist/7A90OUMBG7u61jxhAuz6to), [achillo](https://open.spotify.com/artist/0r5yZki2ePDv8EZ7ah01RA) | [That's We](https://open.spotify.com/album/1ydKFtQJ6R5zXrt9fCTOAg) | 4:31 | 2022-05-12 | 2022-06-10 |
 | [The Abyss](https://open.spotify.com/track/20PDyFm8UqZwrHvjHVinVp) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [What is life?](https://open.spotify.com/album/7ykz0afInygEfdlOVuDy70) | 3:12 | 2023-08-17 | 2023-09-22 |
 | [The Bachelor](https://open.spotify.com/track/4IGDtD7LR1WCmueuHuy1Wq) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Bachelor](https://open.spotify.com/album/0IefPaHezPDdCsdn9MNbcU) | 1:33 | 2024-12-19 | 2025-02-14 |
+| [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 | 2025-04-17 |  |
 | [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 | 2022-01-20 | 2022-02-11 |
 | [The Best Part of Life](https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [The Best Part of Life](https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq) | 3:16 | 2022-01-20 | 2022-01-28 |
 | [The Black Slim Shady](https://open.spotify.com/track/1K1B8B7DM4pxJmFSLKDvwC) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 10:25 | 2022-08-11 | 2022-08-18 |

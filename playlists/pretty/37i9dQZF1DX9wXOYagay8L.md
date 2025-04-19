@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=47mmQ4g6RjKk\-6zAH12tGQ"> Big Zulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,365 likes - 87 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,533 likes - 87 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

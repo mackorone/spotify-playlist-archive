@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,599 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,572 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The One That I Want \(But I Don’t Know Why\)](https://open.spotify.com/track/6YC1bNlgJMBUtgb1OFANWy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [The One That I Want \(But I Don’t Know Why\)](https://open.spotify.com/album/2tNe4ar3iV6zcHkFLMCyGy) | 2:36 |
-| 2 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
+| 1 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
+| 2 | [The One That I Want \(But I Don’t Know Why\)](https://open.spotify.com/track/6YC1bNlgJMBUtgb1OFANWy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [The One That I Want \(But I Don’t Know Why\)](https://open.spotify.com/album/2tNe4ar3iV6zcHkFLMCyGy) | 2:36 |
 | 3 | [Man Of The House](https://open.spotify.com/track/2zBIyHV5TXk6wzpiGWJCQE) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/3P2S6dILjqropRqOGrMIcB) | 3:38 |
 | 4 | [Been So Long](https://open.spotify.com/track/2VNxBDZwqkEjUhik7ADY1g) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Been So Long](https://open.spotify.com/album/6Qg0fXUJBLbzE2OBcTIXfd) | 3:16 |
 | 5 | [I’d Do Anything](https://open.spotify.com/track/5YszV5GQ7s4iYTQmueVL95) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [I’d Do Anything](https://open.spotify.com/album/6GBlHKYYlAMN8PfFZateaP) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Ain't She](https://open.spotify.com/track/5jSjOdVDA4pL4geykH3riL) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Ain't She](https://open.spotify.com/album/12fYeAlRe8VerekcXcHZvy) | 2:51 |
 | 100 | [Glory](https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Glory](https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr) | 2:45 |
 
-Snapshot ID: `Z/iT1AAAAABM1QasVvOa9BwIEwye+EYV`
+Snapshot ID: `aAHOagAAAABsHso0RsePgTfABw7i8h+b`

@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb?si=FjzbrXd\-QsaqXhfviIBRJw">Leon Thomas</a>
 
-482 songs - 1 day 1 hr 51 min
+484 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 | 2024-09-20 | 2024-12-07 |
 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 | 2023-10-12 | 2024-01-26 |
 | [Focus](https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Focus](https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF) | 3:03 | 2025-01-24 |  |
+| [Fool's Gold](https://open.spotify.com/track/6Y3nFQzEuEZwRvD497QRXn) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [WHEN](https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD) | 3:15 | 2025-04-18 |  |
 | [For Instance](https://open.spotify.com/track/4kjbB3EcNcxeXzf0kRXMrh) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love \(Deluxe\)](https://open.spotify.com/album/3go7rVz7XhXt6jQnJeoQY7) | 3:24 | 2024-02-09 | 2024-02-13 |
 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 | 2024-02-12 |
 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 | 2023-10-25 | 2024-05-24 |
@@ -337,6 +338,7 @@
 | [Put it Down](https://open.spotify.com/track/0HQVlbkWghJ4ZI80cDlLjY) | [Skys a Blu](https://open.spotify.com/artist/3xMYjNtDQl2dviQ5g6EuRc) | [Put it Down](https://open.spotify.com/album/629dAepl2HBb1Y9mALJBRa) | 2:52 | 2024-03-14 | 2024-04-26 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-14 | 2024-07-12 |
 | [Range 95’](https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 2:59 | 2023-10-12 | 2024-01-26 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-18 |  |
 | [REAL LiFE](https://open.spotify.com/track/1DafjUNmLT0gWOW5awRUii) | [ol.floww](https://open.spotify.com/artist/1cz6VVSjAhAghXHArS8zua), [Wtf11even](https://open.spotify.com/artist/2FlYwz7OTJX6QwHa4KV6op), [Lanyo](https://open.spotify.com/artist/0q82RBAFu3Vz5JCmlM1qFg) | [HiMARi](https://open.spotify.com/album/7j0nAfisPyUCKLieNvyyAc) | 3:21 | 2024-08-30 | 2024-09-03 |
 | [Realign](https://open.spotify.com/track/0W7c81V1fyE3dXySeuKZIM) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z) | [Realign](https://open.spotify.com/album/5XrqZDhOi4gx0L0mzeKwWi) | 2:45 | 2023-12-08 | 2024-02-09 |
 | [REASON](https://open.spotify.com/track/0YU3tKmhAAGdRErYXBTw1t) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [REASON](https://open.spotify.com/album/7nOblJNjKtScXRavdUPTkC) | 3:41 | 2024-05-16 | 2024-06-14 |

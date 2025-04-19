@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,890 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,898 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 63 | [Y peut mouiller](https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Suite pour personne](https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV) | 4:36 |
 | 64 | [Amours d'Été \- A COLORS SHOW](https://open.spotify.com/track/71VXltT0nT6itsGMNNwpKv) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Amours d'Été \- A COLORS SHOW](https://open.spotify.com/album/41oaIEobQQ0fodC8e0DK1q) | 2:51 |
 | 65 | [Belly \(feat\. Dinos\)](https://open.spotify.com/track/35uC41Ry5HFEQtel6BKHbj) | [Prince Waly](https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [BO Y Z Vol.2](https://open.spotify.com/album/4tXyRGC1FcO6FXdpFUGfRW) | 2:34 |
-| 66 | [J'aime quand on danse \(tes mains sur mes hanches\)](https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C), [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [J'aime quand on danse \(tes mains sur mes hanches\)](https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV) | 3:34 |
-| 67 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
+| 66 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
+| 67 | [J'aime quand on danse \(tes mains sur mes hanches\)](https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C), [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [J'aime quand on danse \(tes mains sur mes hanches\)](https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV) | 3:34 |
 | 68 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 |
 | 69 | [Écoute](https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 2:31 |
 | 70 | [Last Call](https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:49 |

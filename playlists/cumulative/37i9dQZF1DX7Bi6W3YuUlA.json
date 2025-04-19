@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Inspirational hip-hop. Cover: Will Smith",
+  "description": "Inspirational hip-hop. Cover: nobigdyl.\n",
   "name": "High Lights",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 146094,
       "name": "ALERT",
       "url": "https://open.spotify.com/track/5TEHc0XCXLrD4avIxeUFMy"
@@ -6011,6 +6011,28 @@
     },
     {
       "album": {
+        "name": "My Enemies",
+        "url": "https://open.spotify.com/album/6omnvGQhlFfXHc07X5jbHx"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179696,
+      "name": "My Enemies",
+      "url": "https://open.spotify.com/track/6QUjDyRtxbX4e5X87hDuHh"
+    },
+    {
+      "album": {
         "name": "Hope All is Well",
         "url": "https://open.spotify.com/album/1xG4mJftA5ekb57Ri9oUgG"
       },
@@ -6156,6 +6178,32 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/0Hs9iuac9XwrqCJ2gqPMsr"
+    },
+    {
+      "album": {
+        "name": "NEVER GOING BACK",
+        "url": "https://open.spotify.com/album/2j5Kbe1G5jQUcEMAhmytq9"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Kato On The Track",
+          "url": "https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152014,
+      "name": "NEVER GOING BACK",
+      "url": "https://open.spotify.com/track/7cBufOFCMzMgOJ0YdZRpWz"
     },
     {
       "album": {
@@ -6595,6 +6643,28 @@
     },
     {
       "album": {
+        "name": "On Time",
+        "url": "https://open.spotify.com/album/4G6bQ6HGHU7zY6moL7U6z9"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152921,
+      "name": "On Time",
+      "url": "https://open.spotify.com/track/5Sczd6jCBk6wt2EoC0lL4V"
+    },
+    {
+      "album": {
         "name": "On Top of the World",
         "url": "https://open.spotify.com/album/2K7bNdQlpBVSoFpBaP8Awh"
       },
@@ -6828,6 +6898,36 @@
       "duration_ms": 182487,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
+    },
+    {
+      "album": {
+        "name": "Passion Project",
+        "url": "https://open.spotify.com/album/3zNxNz9uy4g6tdZN2ecpKN"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        },
+        {
+          "name": "Stik Figa",
+          "url": "https://open.spotify.com/artist/2EOYzFWSEZyYkMfWq7K6nj"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Dj Sean P",
+          "url": "https://open.spotify.com/artist/4P08e76i9aRYNoE5c7otBB"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185957,
+      "name": "Passion Project",
+      "url": "https://open.spotify.com/track/4bxzxkxvSmexHS9NpIWcPH"
     },
     {
       "album": {
@@ -8932,6 +9032,32 @@
       "duration_ms": 227413,
       "name": "Thank You Lord (feat. Fridayy)",
       "url": "https://open.spotify.com/track/3SEkpudtZpHg83ulvK5fb4"
+    },
+    {
+      "album": {
+        "name": "LA Gangster: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/1VSStN46LlSz2tBtVc0zva"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Keith Rice",
+          "url": "https://open.spotify.com/artist/3ZR45l2gVP68kMaKxREjmu"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/4B9joMwm9zvIbnS4NCYWPl"
     },
     {
       "album": {

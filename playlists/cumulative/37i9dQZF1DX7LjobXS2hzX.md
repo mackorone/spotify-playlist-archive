@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Alicia Moffet
+> Voici les hits du moment\. Photo: Ed Sheeran
 
 506 songs - 1 day 2 hr 38 min
 

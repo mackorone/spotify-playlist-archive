@@ -4,14 +4,14 @@
 
 > Sad songs 4 sad days.
 
-296 songs - 16 hr 53 min
+297 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+](https://open.spotify.com/track/5Cbo7oz78gqkzV3EAM63VA) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [+](https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9) | 3:39 | 2021-12-06 | 2024-05-17 |
 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 | 2024-04-26 | 2025-02-01 |
 | [5 > 1](https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Baladas Tatuadas Vol\. 1](https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8) | 3:12 | 2024-03-08 | 2025-03-08 |
-| [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 | 2023-03-03 |  |
+| [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 | 2023-03-03 | 2025-04-19 |
 | [A GOLPES DE FE](https://open.spotify.com/track/1OLd6Act8qwA9j1Ng9zpcm) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [A GOLPES DE FE](https://open.spotify.com/album/3FXUfNHh0gn2w7Njdpx3hj) | 3:58 | 2021-12-06 | 2022-05-22 |
 | [Acuérdate de Mí](https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:57 | 2021-12-06 | 2024-05-17 |
 | [Adiós](https://open.spotify.com/track/2FObENc9tvhjFNOeTkNInW) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Adiós](https://open.spotify.com/album/1nEgyPXvBNBbPkqznLr3q7) | 3:07 | 2021-12-06 | 2022-07-29 |
@@ -173,6 +173,7 @@
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-02 |  |
 | [Ni una sola palabra](https://open.spotify.com/track/20smfvl8TDlA3AIlLeK5Hz) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Ni una sola palabra](https://open.spotify.com/album/7JQY6EtLD5Dm1DcsFBQ4II) | 4:23 | 2024-09-13 | 2024-10-25 |
 | [Nina](https://open.spotify.com/track/0jM8GPrMSe8aXQnUpxKPD7) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Nina](https://open.spotify.com/album/7Lx6OYb9ZXHnWXQqFs1iOL) | 3:28 | 2021-12-06 | 2022-02-25 |
+| [No es justo](https://open.spotify.com/track/4C6UKkTUIdgsfF3QxDs7rL) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [No es justo](https://open.spotify.com/album/5V1D9Vk5sIU000H2ZY0Spj) | 2:58 | 2025-04-18 |  |
 | [No Hacemos Nada](https://open.spotify.com/track/5JSQZ7gNcJimOFmdJd6Xk7) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [No Hacemos Nada](https://open.spotify.com/album/0ytyjLYIT72OOBt03CH6l0) | 3:28 | 2021-12-06 | 2022-07-29 |
 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 | 2021-12-06 | 2024-05-17 |
 | [No Le Tengo Miedo a los Kilómetros](https://open.spotify.com/track/2Ek6ebQV1KrxYjM83g2moJ) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [No Le Tengo Miedo a los Kilómetros](https://open.spotify.com/album/6O0pmHuHHOPMtupzzEljuk) | 3:47 | 2021-12-06 | 2022-07-29 |

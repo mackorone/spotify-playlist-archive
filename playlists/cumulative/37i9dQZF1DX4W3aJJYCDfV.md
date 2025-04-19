@@ -2,9 +2,9 @@
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Fontaines D.C., Addison Rae, SAULT and more!
+> Brand new music from Fontaines D.C., Addison Rae and more!
 
-15,771 songs - 35 day 11 hr 46 min
+15,773 songs - 35 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11127,6 +11127,7 @@
 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 | 2024-02-16 | 2024-02-23 |
 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-02-17 | 2023-02-24 |
 | [Ratbag](https://open.spotify.com/track/3BvjuuVPy8VcfTIFXE5QWE) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Ratbag](https://open.spotify.com/album/341iSjPgXfJvcffAe575bY) | 2:56 | 2025-04-10 | 2025-04-18 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [Rave Is The Weapon](https://open.spotify.com/track/7kCGuVumIpjWec9aexfCLU) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Rave Is The Weapon](https://open.spotify.com/album/34sqVY63xSSYwizUAjiLTp) | 3:16 | 2024-03-29 | 2024-04-05 |
 | [Rave Now Die Later](https://open.spotify.com/track/6qWTgDeuDxOt4CtrvueEbd) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Be Lucky](https://open.spotify.com/album/6BSoos2q0ZXPpA5NLRUb3m) | 4:04 | 2025-02-14 | 2025-02-21 |
 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 | 2023-05-18 | 2023-05-26 |
@@ -11606,6 +11607,7 @@
 | [Sade Riddim](https://open.spotify.com/track/7B90I1KP4WqNqMA03A0K0f) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Sade Riddim](https://open.spotify.com/album/58bonqPbK3Bl2rXCKEz2im) | 2:53 | 2023-01-20 | 2023-01-27 |
 | [Sadgirl](https://open.spotify.com/track/4wqpxVWSrEoWfSne7WNklb) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sadgirl](https://open.spotify.com/album/0VhRvAbpUNvWlUTkf4Fkv1) | 2:48 | 2025-01-31 | 2025-02-07 |
 | [Sadie Hawkins Prom](https://open.spotify.com/track/4pcACeh4E6y7UraJbukR5h) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Sadie Hawkins Prom](https://open.spotify.com/album/4wzK5q2gMTURbtmG7mnK0g) | 2:14 | 2023-11-24 | 2023-12-01 |
+| [Safe](https://open.spotify.com/track/28V4gxMRBBWhnpo4SGpihh) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Safe](https://open.spotify.com/album/444HPVe68zxpUXbV06UH5E) | 3:04 | 2025-04-17 |  |
 | [Safe & Sound](https://open.spotify.com/track/1DRYQw4p4ZFWAqeR0zUfqA) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Safe & Sound](https://open.spotify.com/album/2G3XbmCG2vnASKfxfRbvps) | 2:54 | 2024-02-09 | 2024-02-16 |
 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 | 2024-02-23 | 2024-03-01 |
 | [Safe Space](https://open.spotify.com/track/1LDZtDZFPb0Dqk1AUhLB5h) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Safe Space](https://open.spotify.com/album/2ghUYKQCOar69OXHCOIBzi) | 3:21 | 2024-06-27 | 2024-07-05 |

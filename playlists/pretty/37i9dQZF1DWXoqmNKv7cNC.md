@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yeri Mua en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,165 likes - 65 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,389 likes - 65 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 21 | [PUCHI](https://open.spotify.com/track/7dIm7p3VoCQ2DoabBCgny5) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [PUCHI](https://open.spotify.com/album/4OEdq5LxzLkWvTD1NOSdDh) | 2:22 |
 | 22 | [Sicilia](https://open.spotify.com/track/42ojGwws4Xe69HvxanSGYW) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Sicilia](https://open.spotify.com/album/0McGTXdQofTziYO11rZXRJ) | 3:27 |
 | 23 | [Más Libre Que En Casa](https://open.spotify.com/track/1MNeTjwMOALVRqapVrBgFj) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Más Libre Que En Casa](https://open.spotify.com/album/3wICFJzDXLNbHpcaYXSiRf) | 2:41 |
-| 24 | [entre las piernas](https://open.spotify.com/track/3A3cmRnCQXUrCo6CHWdMHx) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 3:31 |
-| 25 | [Quién Me Viera](https://open.spotify.com/track/6pbWgoTEF8P1ZycMXreUjz) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Quién Me Viera](https://open.spotify.com/album/4MW7gQBGDfUH60VjKU5keT) | 3:18 |
+| 24 | [Quién Me Viera](https://open.spotify.com/track/6pbWgoTEF8P1ZycMXreUjz) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Quién Me Viera](https://open.spotify.com/album/4MW7gQBGDfUH60VjKU5keT) | 3:18 |
+| 25 | [entre las piernas](https://open.spotify.com/track/3A3cmRnCQXUrCo6CHWdMHx) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 3:31 |
 | 26 | [BBTRUCOS](https://open.spotify.com/track/2FRMBN0FNaulDesgK1GIOp) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [BBTRUCOS](https://open.spotify.com/album/1S0qI6e4xbqhVSQhzS40x2) | 1:12 |
 | 27 | [Marimba y Acordeón](https://open.spotify.com/track/3ErtRTSe19O3hTGyQUJd1G) | [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Marimba y Acordeón](https://open.spotify.com/album/2W0TKAsiPjDzmqUn9CflX0) | 2:18 |
 | 28 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 34 | [03:00am](https://open.spotify.com/track/1YOJEqRJdHm8LRJX2EjbwC) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xMIEDOSx](https://open.spotify.com/album/4PsZalwcOM0trGVPn3W0YH) | 2:56 |
 | 35 | [Hablar de Más](https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hablar de Más](https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD) | 3:34 |
 | 36 | [No es el final](https://open.spotify.com/track/0qybqPqKipt9jlyeuo4ueq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es el final](https://open.spotify.com/album/1Z2rxyZayQaEMBojqzj53q) | 3:17 |
-| 37 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 |
-| 38 | [Nada me cansa](https://open.spotify.com/track/6oamkOlnMGZfSAvGNOFjaJ) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 2:02 |
-| 39 | [Una Perra](https://open.spotify.com/track/2WRsyFyjDZMGLUWGsB2CLQ) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 2:45 |
-| 40 | [AYQUETONTA](https://open.spotify.com/track/7r0Nhs5qJWti5pRQwFA2F0) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [AYQUETONTA](https://open.spotify.com/album/1ewNp7rtQK0fEO8cjoyURb) | 3:07 |
+| 37 | [Nada me cansa](https://open.spotify.com/track/6oamkOlnMGZfSAvGNOFjaJ) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 2:02 |
+| 38 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 |
+| 39 | [AYQUETONTA](https://open.spotify.com/track/7r0Nhs5qJWti5pRQwFA2F0) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [AYQUETONTA](https://open.spotify.com/album/1ewNp7rtQK0fEO8cjoyURb) | 3:07 |
+| 40 | [Una Perra](https://open.spotify.com/track/2WRsyFyjDZMGLUWGsB2CLQ) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 2:45 |
 | 41 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
-| 42 | [ESA NO SOY YO](https://open.spotify.com/track/6ZLpqPelpfOwGAk45cgJnu) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [ESA NO SOY YO](https://open.spotify.com/album/3SCF4bXbTnnVmkgfMrPUtA) | 2:52 |
-| 43 | [Perder La Cabeza](https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Perder La Cabeza](https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro) | 1:56 |
+| 42 | [Perder La Cabeza](https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Perder La Cabeza](https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro) | 1:56 |
+| 43 | [ESA NO SOY YO](https://open.spotify.com/track/6ZLpqPelpfOwGAk45cgJnu) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [ESA NO SOY YO](https://open.spotify.com/album/3SCF4bXbTnnVmkgfMrPUtA) | 2:52 |
 | 44 | [Más de lo Que Te Imaginas](https://open.spotify.com/track/0boHL6Ep1Cb9IKFgpTqNE3) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW), [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Más de lo Que Te Imaginas](https://open.spotify.com/album/08DLF0UmsLw2Ex85Cm1CNq) | 3:57 |
 | 45 | [sobrenatural](https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [sobrenatural](https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE) | 2:37 |
 | 46 | [KR1MIN4L](https://open.spotify.com/track/6d7soGB2HvAmherylJVWeG) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Armadura](https://open.spotify.com/album/1l2nFthdK9TqyVnniGywn4) | 2:17 |

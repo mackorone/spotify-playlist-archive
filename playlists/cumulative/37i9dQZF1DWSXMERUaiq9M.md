@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-469 songs - 1 day 5 hr 46 min
+470 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 | 2023-03-10 | 2023-05-16 |
 | [Headbanger](https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Headbanger](https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK) | 2:53 | 2025-01-27 | 2025-03-21 |
 | [Heart Sped Up \(BFF\)](https://open.spotify.com/track/1ywCn7d9mHQ8PROIIZdVGL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Heart Sped Up \(BFF\)](https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz) | 1:56 | 2024-05-17 | 2024-10-18 |
+| [Heartbeat Destiny](https://open.spotify.com/track/0slQUisdrwyMLrFJ8Dxaee) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP) | [Heartbeat Destiny](https://open.spotify.com/album/7jEhDQNVb8afvuJmRHYQG4) | 3:00 | 2025-04-18 |  |
 | [Heartbreak Repair System](https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Heartbreak Repair System](https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV) | 2:50 | 2023-09-15 | 2025-01-07 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-03-10 |  |
 | [HEY MR\. DJ](https://open.spotify.com/track/3HxCDAu8PU82fQkRTJkBF3) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [HEY MR\. DJ](https://open.spotify.com/album/5dWe8jrmoZRuYpfdFgamh7) | 2:35 | 2024-10-17 | 2024-10-26 |
@@ -240,7 +241,7 @@
 | [Leave it to the vibe](https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 6:58 | 2023-05-18 | 2023-07-14 |
 | [Left On Read](https://open.spotify.com/track/6KNrgoXljii0isy9i7JaqP) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:10 | 2024-10-10 | 2024-10-18 |
 | [Let UwU Go](https://open.spotify.com/track/3QSBy7qDcKaBCCLxNCvSRe) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt) | [Let UwU Go](https://open.spotify.com/album/0XPTuN0nuRwzgbSGJod0Gg) | 2:55 | 2023-11-23 | 2023-12-01 |
-| [Let You Go](https://open.spotify.com/track/7JRwX5i43f5T4T5hVodZ7v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Let You Go](https://open.spotify.com/album/2vyEDah2v9XhwJpMAc0ulB) | 2:51 | 2025-03-14 |  |
+| [Let You Go](https://open.spotify.com/track/7JRwX5i43f5T4T5hVodZ7v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Let You Go](https://open.spotify.com/album/2vyEDah2v9XhwJpMAc0ulB) | 2:51 | 2025-03-14 | 2025-04-19 |
 | [Let's go](https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 2:26 | 2024-08-12 | 2024-08-23 |
 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 | 2024-12-28 |  |
 | [Lets go](https://open.spotify.com/track/4vmzFOCbjeV9cIvVqS3DKC) | [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n) | [Brilletje](https://open.spotify.com/album/2xmq2AcsQDHmSMRu6YGGsz) | 2:54 | 2023-10-02 | 2024-05-04 |

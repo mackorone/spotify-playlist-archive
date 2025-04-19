@@ -4,7 +4,7 @@
 
 > 📸 Teo LB & L\-Gante.
 
-261 songs - 12 hr 2 min
+262 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Mueve los Cachetes](https://open.spotify.com/track/4up6VDTUFiHNkwYC7MLVj3) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Mueve los Cachetes](https://open.spotify.com/album/0nvSc0w1MQtzvfoTOApU9M) | 3:23 | 2024-04-19 | 2024-07-27 |
 | [Muevelo Mami \- Remix](https://open.spotify.com/track/73itkW7DQhxIvUTYzddQPY) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [QuixSmell](https://open.spotify.com/artist/0MrBxgZbiw0uUO3NUqWFKp) | [Muevelo Mami \(Remix\)](https://open.spotify.com/album/6hmkDW3u5cUYmZWlGY5K9a) | 3:43 | 2024-01-19 | 2024-05-03 |
 | [Mujeres Solteras](https://open.spotify.com/track/4cBH6zRhKisaqlnGQKs8aD) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mujeres Solteras](https://open.spotify.com/album/2PYydyybGTqdno9Mk1apmS) | 1:35 | 2024-07-12 | 2024-10-26 |
+| [Musica Fuerte](https://open.spotify.com/track/29aiCBVeECZCTOPTL2FEVP) | [Montana the Producer](https://open.spotify.com/artist/2mFWbxWrBZ0dTkG5b6NGnZ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Musica Fuerte](https://open.spotify.com/album/3mTIjOOtn9A7eLInMPeIKG) | 2:37 | 2025-04-18 |  |
 | [Mío No Tuyo \(feat\. Julianno Sosa\)](https://open.spotify.com/track/2y7M3BNqkUGY0eJ9oAL55R) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Mío No Tuyo \(feat\. Julianno Sosa\)](https://open.spotify.com/album/3MsigXOlPVWg1Csy7xzPrI) | 3:07 | 2023-12-15 |  |
 | [Nada de Amor](https://open.spotify.com/track/4p8so2vUkBzmtQ4POvBJUs) | [Piku](https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Nada de Amor](https://open.spotify.com/album/4MEuO4hxVdEUICnUDr1fg0) | 2:40 | 2024-09-06 | 2024-09-28 |
 | [NO SE VE NA](https://open.spotify.com/track/4p2Q6Tv4Nvkmczss8QtW3I) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [NO SE VE NA](https://open.spotify.com/album/2bHpbrSulNCo8ZOEV0btLA) | 2:26 | 2024-05-10 |  |

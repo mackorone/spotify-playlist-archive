@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: MAYCE, Artwork: Fanélie Muselier
 
-3,061 songs - 6 day 21 hr 42 min
+3,062 songs - 6 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2861,6 +2861,7 @@
 | [What's It Gonna Take](https://open.spotify.com/track/0tq8EJe11AX3xPsB00N0Ce) | [Jillian Cardarelli](https://open.spotify.com/artist/5VZQk4UsyWsh4lq9tm7fKP) | [Jillian Cardarelli](https://open.spotify.com/album/0Lnd1SCzQyh6ovlfez4aa3) | 3:04 | 2022-04-13 | 2022-05-26 |
 | [What's Stopping Us](https://open.spotify.com/track/0xNbmz9rOGmhs183sH0o2c) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [What's Stopping Us](https://open.spotify.com/album/3C2uzEXUHcRa67QtX4tEn4) | 3:13 | 2022-09-07 | 2022-10-20 |
 | [Wheels on the Truck](https://open.spotify.com/track/4m6o8yG2IdrwRginGYQBvw) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Wheels on the Truck](https://open.spotify.com/album/7kxsF67uyvDP1j7BxBZxg7) | 3:12 | 2022-08-26 | 2022-10-06 |
+| [When I Don't](https://open.spotify.com/track/78E3bJhwyxCHRQjS5zUcoE) | [Jacob Hackworth](https://open.spotify.com/artist/4uXRM5wXBQkzYXPannKV66) | [When I Don't](https://open.spotify.com/album/3UqA1Px0zJokwXgNJMKbRJ) | 2:45 | 2025-04-18 |  |
 | [When I Don't Love You](https://open.spotify.com/track/3MGvINBVUSWv0H5hPB3tcm) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [When I Don't Love You](https://open.spotify.com/album/5G7YhMAHv1rOf2wW9ngLWV) | 3:39 | 2024-02-28 | 2025-01-16 |
 | [When I Look Back](https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [When I Look Back](https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B) | 2:59 | 2022-03-02 | 2023-01-12 |
 | [When I Remember You](https://open.spotify.com/track/2RDNhQ7ayrrDPxejWJQ7mS) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [When I Remember You](https://open.spotify.com/album/51bp7RZ82WIzwDk2f0QKpn) | 3:15 | 2021-12-01 | 2022-01-13 |

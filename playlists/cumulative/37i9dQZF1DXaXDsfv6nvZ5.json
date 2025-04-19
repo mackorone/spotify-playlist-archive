@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Jane Handcock",
+  "description": "The soulful tunes to ease you into your day. Cover: Lizzie Berchie",
   "name": "Soul Coffee",
   "tracks": [
+    {
+      "album": {
+        "name": "#BITMFW (Amber Navran Remix)",
+        "url": "https://open.spotify.com/album/46ADmjxUdjsmaF2EJy6Lgg"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251415,
+      "name": "#BITMFW (Amber Navran Remix)",
+      "url": "https://open.spotify.com/track/5Tv63M4WpGvmer7Hg8qEKo"
+    },
     {
       "album": {
         "name": "'98 Vibes (Do You Right)",
@@ -2090,7 +2112,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 181970,
       "name": "Chasing",
       "url": "https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR"
@@ -2402,7 +2424,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 155813,
       "name": "Colour Blind",
       "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
@@ -2464,6 +2486,24 @@
       "duration_ms": 189700,
       "name": "Comin' Outta The Rain",
       "url": "https://open.spotify.com/track/6ywHoZIp9DheKskjpDEiSa"
+    },
+    {
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219096,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk"
     },
     {
       "album": {
@@ -4174,7 +4214,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 229450,
       "name": "Give",
       "url": "https://open.spotify.com/track/6nIEeQkpfPtijiUVsgiqTI"
@@ -6250,7 +6290,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 190623,
       "name": "JAI'S SONG (FALLING)",
       "url": "https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn"
@@ -8150,7 +8190,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 215418,
       "name": "Mona Lisa Smile",
       "url": "https://open.spotify.com/track/0sjhlV2MhCYGtPlYhuplD6"
@@ -9472,7 +9512,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 178019,
       "name": "Out My Hair",
       "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"
@@ -9988,7 +10028,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 434758,
       "name": "Pray for Me",
       "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
@@ -10458,6 +10498,24 @@
       "duration_ms": 253320,
       "name": "Saturday Night (Need You Now)",
       "url": "https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM"
+    },
+    {
+      "album": {
+        "name": "WE NEED TO TALK: LOVE",
+        "url": "https://open.spotify.com/album/2mX5bnPllHCjS0GdXTUi6W"
+      },
+      "artists": [
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176596,
+      "name": "Say That",
+      "url": "https://open.spotify.com/track/0WMr60ITPZdLH3wrIbs85p"
     },
     {
       "album": {
@@ -12312,6 +12370,24 @@
       "duration_ms": 199732,
       "name": "The Love Is Gone",
       "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/32yofsJDutpcH21hGOLslE"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274951,
+      "name": "The Only Love We Know",
+      "url": "https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z"
     },
     {
       "album": {
@@ -14242,6 +14318,24 @@
       "duration_ms": 268946,
       "name": "You in My Face",
       "url": "https://open.spotify.com/track/7I8tpyYYwPvSdGL3lu1VAv"
+    },
+    {
+      "album": {
+        "name": "You On You",
+        "url": "https://open.spotify.com/album/5rtqtEwRhZbpCXXr0d9IdF"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189167,
+      "name": "You On You",
+      "url": "https://open.spotify.com/track/7fgYxsQVtCLEsvaCi6B25P"
     },
     {
       "album": {

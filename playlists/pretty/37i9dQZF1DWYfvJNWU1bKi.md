@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Lubber Pandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,883 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,115 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 42 | [Vaaya moodi summa iru da](https://open.spotify.com/track/2CQJcnC0XCRFcxKJNgLZmo) | [K\. Krishna Kumar](https://open.spotify.com/artist/6vNr4L8T4zVl43s3LCGrTQ) | [Vaaya moodi summa iru da](https://open.spotify.com/album/5Wfb9OXZfqBTCoBPmPGLBZ) | 4:33 |
 | 43 | [Kalloorum \- From "Veera Dheera Sooran"](https://open.spotify.com/track/1tsvjUpHeho8hX0ynlDwLO) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Kalloorum \(From "Veera Dheera Sooran"\)](https://open.spotify.com/album/0qTFfYaSPhXMZvMTqMGnGn) | 3:32 |
 | 44 | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F) | 3:57 |
-| 45 | [Idhayathai Yedho Ondru](https://open.spotify.com/track/23bpCCVsTUKviTEfoy4tbM) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Yennai Arindhaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38er9gISOMI0uQW90und0K) | 3:55 |
-| 46 | [Mehabooba](https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub) | 3:32 |
+| 45 | [Mehabooba](https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub) | 3:32 |
+| 46 | [Idhayathai Yedho Ondru](https://open.spotify.com/track/23bpCCVsTUKviTEfoy4tbM) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Yennai Arindhaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38er9gISOMI0uQW90und0K) | 3:55 |
 | 47 | [Hi Sonna Pothum \(From "Comali"\)](https://open.spotify.com/track/6b84SSP7e5LwfvNPoDPshX) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kaushik Krish](https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn) | [Hi Sonna Pothum \(From "Comali"\)](https://open.spotify.com/album/7683FSgN7SqEJ99jKLu5v4) | 3:50 |
 | 48 | [Laali Laali \- Tamil](https://open.spotify.com/track/1DVzoi8VvpTDVg4Knd1IQs) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Theeran Adhigaaram Ondru](https://open.spotify.com/album/64OQ2PzSo9idwKf0dCMScA) | 3:51 |
 | 49 | [Water Packet](https://open.spotify.com/track/1l4CYsCwvTRRAW2cmsVZ36) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Gana Kadhar](https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh) | [Raayan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cqYgHZhpSKKb7xUuxJCAr) | 4:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291 likes - 516 songs - 1 day 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 292 likes - 516 songs - 1 day 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,8 +222,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 212 | [Chei das Poses](https://open.spotify.com/track/2ps4eyXbQSkusH7wX5drBT) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm) | [De Volta do Futuro \(Ao Vivo\)](https://open.spotify.com/album/32tTYptSYlvLKayDcxNC0V) | 2:31 |
 | 213 | [Eu Hein](https://open.spotify.com/track/7qbHkxuKbCvlcj4uCCWwqR) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [Pra Guardar No Coração](https://open.spotify.com/album/296ZW7AZ2UizalJHQixX6V) | 2:52 |
 | 214 | [Não Vou Aceitar \- Acústico](https://open.spotify.com/track/5ulgaT9WkUdPOUK2rfPE99) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Moagem Acústico Vol\. 2](https://open.spotify.com/album/5sLsm30yyAs5wLchk20uVM) | 2:29 |
-| 215 | [Vida Bagunçada \- Ao Vivo](https://open.spotify.com/track/7aXMlzyYH0uPBbwDBdCYZh) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 2:29 |
-| 216 | [Eu Te Ganho \- Ao Vivo](https://open.spotify.com/track/2DO5YrqmfCl2rfGtxyWmlg) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Com Amor Kevi Jonny \(Ao Vivo, Em Goiânia\)](https://open.spotify.com/album/2u9oqZGnMJh9wJhIEug4WV) | 3:39 |
+| 215 | [Eu Te Ganho \- Ao Vivo](https://open.spotify.com/track/2DO5YrqmfCl2rfGtxyWmlg) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Com Amor Kevi Jonny \(Ao Vivo, Em Goiânia\)](https://open.spotify.com/album/2u9oqZGnMJh9wJhIEug4WV) | 3:39 |
+| 216 | [Vida Bagunçada \- Ao Vivo](https://open.spotify.com/track/7aXMlzyYH0uPBbwDBdCYZh) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 2:29 |
 | 217 | [Lista de Trouxa \- Ao Vivo](https://open.spotify.com/track/6FoCVEPZEJ5w69Bdh9y5mo) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Lista de Trouxa \(Ao Vivo\)](https://open.spotify.com/album/2AcXMrS6i5LCCJgeLAxISy) | 2:46 |
 | 218 | [Eclipse](https://open.spotify.com/track/3iPojzimwFbZMIFal2rGoF) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Solaris EP](https://open.spotify.com/album/1dHjqHTWHDvr7JZ5eqjA54) | 5:57 |
 | 219 | [Minha Cama, Minhas Regras \- Ao Vivo](https://open.spotify.com/track/6GjfPp5EQ6eSA1X1YJh4BH) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:37 |
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 254 | [Detetive](https://open.spotify.com/track/1yRLtp6j2qostwKFvKwqbW) | [Luana Magalhães](https://open.spotify.com/artist/5ZlBXtC4mFEALRMeUNt9wH) | [Detetive](https://open.spotify.com/album/5ziEPRdez2QjMkxQ30cLBP) | 3:30 |
 | 255 | [Além do Infinito](https://open.spotify.com/track/4KH54qZxMm0H0f23GKLzCy) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Minha Loucura de Amor](https://open.spotify.com/album/4wTpCdqGoBIg8TlvFcZCh5) | 3:37 |
 | 256 | [Se Valoriza](https://open.spotify.com/track/4Ou8CB0ogmD5l98WOdhlmj) | [Priscila Meireles](https://open.spotify.com/artist/1foAresKai17MV5oP6ODbT) | [Se Valoriza](https://open.spotify.com/album/2KpA4409qtqPxCjcWfem1B) | 2:22 |
-| 257 | [Se Cuida Juízo](https://open.spotify.com/track/4KJMh9Ca98UoMywlSdGWZS) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [Se Cuida Juízo](https://open.spotify.com/album/1w5GqK6lq2E8s71iwn9YLv) | 2:20 |
-| 258 | [Zum do Zé Rico](https://open.spotify.com/track/0Cb7ZwPhPFNaonUwfTTBoa) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Minha Loucura de Amor](https://open.spotify.com/album/4wTpCdqGoBIg8TlvFcZCh5) | 3:21 |
+| 257 | [Zum do Zé Rico](https://open.spotify.com/track/0Cb7ZwPhPFNaonUwfTTBoa) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Minha Loucura de Amor](https://open.spotify.com/album/4wTpCdqGoBIg8TlvFcZCh5) | 3:21 |
+| 258 | [Se Cuida Juízo](https://open.spotify.com/track/4KJMh9Ca98UoMywlSdGWZS) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [Se Cuida Juízo](https://open.spotify.com/album/1w5GqK6lq2E8s71iwn9YLv) | 2:20 |
 | 259 | [Deu B.O.](https://open.spotify.com/track/7LAuGTWqclOsd07wW5QR3X) | [Nelson Nascimento](https://open.spotify.com/artist/5vRcXqW9h6ob5tGeMeLj6D) | [Passa o Pano](https://open.spotify.com/album/2aAQs6Iv6bePVhvvH9tI2s) | 3:34 |
 | 260 | [Três Vidas](https://open.spotify.com/track/6i2HdoE2A4K2ENyJ4oRjmY) | [Edy Britto & Samuel](https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U) | [Três Vidas](https://open.spotify.com/album/2cWv59k8rlvmEY4XBNwPTA) | 3:37 |
 | 261 | [Primeira Secada \- Ao Vivo](https://open.spotify.com/track/23JTcwK6hZH3MhEtEmLn4x) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Evolution \(Ao Vivo\)](https://open.spotify.com/album/7i4gFjRrXE5WTKBhJhAapB) | 2:30 |
@@ -414,8 +414,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 404 | [Para pra Pensar](https://open.spotify.com/track/5O02HQF7ET5HO12YFkgU35) | [Maiara Coelho](https://open.spotify.com/artist/01if62G0AkAnXO6czaxQDw) | [Para pra Pensar](https://open.spotify.com/album/0vIGkhI0mWwLB02P0Ngrv4) | 2:53 |
 | 405 | [Se Estraga \- Ao Vivo](https://open.spotify.com/track/5kZUVnh6spPuBwy7jrPs5U) | [Clara Barreto](https://open.spotify.com/artist/1Nap2Dhjit8nRFc6RjkGUc) | [Vai Tomar no Bar \(Ao Vivo\)](https://open.spotify.com/album/3m7UtzPzFVKsDSLpjixcFT) | 3:02 |
 | 406 | [Relacionamento Abusivo](https://open.spotify.com/track/7Cy2lqg9ptu8LESs00bdhv) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Relacionamento Abusivo](https://open.spotify.com/album/1mXO2rRBWqkbPqd9FBm8HJ) | 3:20 |
-| 407 | [Finge Que Me Ama](https://open.spotify.com/track/7pcYCsOg0h3BaeqKcKyrav) | [Pedro Henrique & Matheus](https://open.spotify.com/artist/6PidMi09FFXWEisGl4ctyM) | [Finge Que Me Ama \- Single](https://open.spotify.com/album/7yRpVyekS0CJ4tGfvkKvpW) | 2:47 |
-| 408 | [Casa de Família](https://open.spotify.com/track/1ogWspH8JtisxtdNGnjs0G) | [Alex & Yvan](https://open.spotify.com/artist/4R831D36CaudkBI1YMTbKw) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/7kVvK9jPOeqdhVTp0UVHYd) | 2:23 |
+| 407 | [Casa de Família](https://open.spotify.com/track/1ogWspH8JtisxtdNGnjs0G) | [Alex & Yvan](https://open.spotify.com/artist/4R831D36CaudkBI1YMTbKw) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/7kVvK9jPOeqdhVTp0UVHYd) | 2:23 |
+| 408 | [Finge Que Me Ama](https://open.spotify.com/track/7pcYCsOg0h3BaeqKcKyrav) | [Pedro Henrique & Matheus](https://open.spotify.com/artist/6PidMi09FFXWEisGl4ctyM) | [Finge Que Me Ama \- Single](https://open.spotify.com/album/7yRpVyekS0CJ4tGfvkKvpW) | 2:47 |
 | 409 | [BOCA LIVRE](https://open.spotify.com/track/0l5d3oz9rNjTCyvr4easfX) | [Roberty & Ruan](https://open.spotify.com/artist/7rIMIlRbHbGEEJUGERhqDF) | [Boca Livre](https://open.spotify.com/album/0R4vh4C7TE79ntsq4ffnRM) | 2:55 |
 | 410 | [Minha Biz \- Ao Vivo](https://open.spotify.com/track/7j1N5vFAzeSNnvELQmmKWm) | [Vinni e Rafa](https://open.spotify.com/artist/5VmhOfUTiEuXYB60UNF2vc) | [Nu 12 e Na Dose \(Ao Vivo\)](https://open.spotify.com/album/46MhAM0VVOLnhgIZM9T1Yk) | 2:35 |
 | 411 | [Iludido É Pouco](https://open.spotify.com/track/2EubZsz35hrvslC854WKyh) | [Alê do Baile](https://open.spotify.com/artist/34DsxwLdVSuVk4jIetbdqu), [Paulim e Dodo](https://open.spotify.com/artist/7Js1HWACqj4dPgMD2qUKcL) | [Iludido É Pouco](https://open.spotify.com/album/4qEBm56fHIMdGjmADvkN4y) | 2:53 |
@@ -525,4 +525,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 515 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 516 | [Amorzinho Meia Boca](https://open.spotify.com/track/64qDlct5yxqcZQkfSm7F8Q) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Ao Vivo em Goiânia](https://open.spotify.com/album/0OFyjM0idm1n0AmVRaw9q6) | 2:43 |
 
-Snapshot ID: `AbvDNAAAAAAArcz3ImfN+ApsWICPcEpu`
+Snapshot ID: `AbvI1AAAAABY7vRrpm37f6qQCEPcNB7/`

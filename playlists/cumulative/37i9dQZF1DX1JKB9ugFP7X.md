@@ -4,7 +4,7 @@
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-170 songs - 10 hr 48 min
+173 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alma](https://open.spotify.com/track/5RggnhC0wezlETdsLBFMUE) | [Berni](https://open.spotify.com/artist/4Eim1AfnmiItMvlUeAHrax), [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR) | [Raíz Despierta](https://open.spotify.com/album/38K7u9akDvXYaEtkENoBqH) | 3:36 | 2024-10-18 |  |
 | [Alta Magia \- Reversión 10 años](https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Alta Magia \(Reversión 10 años\)](https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl) | 5:57 | 2023-09-08 |  |
 | [Antifaz](https://open.spotify.com/track/58sfWnDD2m6v9jj3Bfkrfx) | [Mike Amigorena](https://open.spotify.com/artist/5u3Tm9K02qnBGQ5QZjU2LA) | [El increíble cool](https://open.spotify.com/album/711mtlJlzuMoyMjU10JXpf) | 3:12 | 2024-05-31 |  |
+| [ANTONIO](https://open.spotify.com/track/6SYTtNE9tD95oSFPbKXeFL) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:49 | 2025-04-18 |  |
 | [aquiles </3](https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [aquiles </3](https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK) | 3:15 | 2023-09-08 | 2024-10-19 |
 | [Arriba](https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp) | [Un Planeta](https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE) | [Des](https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX) | 3:45 | 2023-09-08 | 2024-10-19 |
 | [Atempera la Distancia \(Club Set\)](https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Atempera la Distancia \(Club Set\)](https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh) | 35:37 | 2024-10-18 |  |
@@ -101,6 +102,7 @@
 | [MAL NECESARIO](https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MAL NECESARIO](https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB) | 2:54 | 2023-09-08 | 2024-10-19 |
 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 | 2023-09-08 |  |
 | [ME QUEDO ACÁ\. \- Lupe Remix](https://open.spotify.com/track/1553JqZizFxv9hyNth0y0N) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Lado V \(Remixes de Postal\)](https://open.spotify.com/album/5qFHdRCzIW7YgxDRyAt52J) | 3:17 | 2023-09-08 | 2023-11-21 |
+| [Me Quieren Matar](https://open.spotify.com/track/3soKTnPmFPNK3feqeTAI9B) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Me Quieren Matar](https://open.spotify.com/album/1P4QJa2eFwuQSZkxj7kiS0) | 3:56 | 2025-04-18 |  |
 | [MELONI](https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MELONI](https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO) | 2:58 | 2023-09-08 | 2024-01-14 |
 | [MOTIVEISHON](https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [MOTIVEISHON](https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD) | 2:38 | 2023-09-08 |  |
 | [Místico Mezcal](https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Atemporal](https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT) | 3:46 | 2023-09-08 | 2024-04-19 |
@@ -163,6 +165,7 @@
 | [Un Dia de Verano](https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Un Dia de Verano](https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy) | 3:35 | 2024-01-12 | 2024-07-20 |
 | [Una Hora para Verte](https://open.spotify.com/track/0mXS6S5ZxUCiUZLZgz6qTO) | [Max Tejera](https://open.spotify.com/artist/58kI4cP6MQccdJq0tU4gXa) | [Una Hora para Verte](https://open.spotify.com/album/38Aye9SVpQxuZXTktavk7q) | 3:07 | 2023-11-17 | 2023-12-10 |
 | [Una Hora para Verte](https://open.spotify.com/track/5urfs2DgH04EuVXZYN9n8B) | [Max Tejera](https://open.spotify.com/artist/58kI4cP6MQccdJq0tU4gXa) | [Una Hora para Verte](https://open.spotify.com/album/7xzELBbYKyGnlO3EgGmfFt) | 3:07 | 2024-10-18 |  |
+| [Untitled 1](https://open.spotify.com/track/5DdeZu1qRxh8m4fFKk5cuz) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Untitled 1](https://open.spotify.com/album/2rKxKGXXcHdfFCRvMuWisP) | 4:15 | 2025-04-18 |  |
 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 | 2023-11-17 | 2024-10-19 |
 | [Vamo a Darle](https://open.spotify.com/track/4rW2KfMNxdyNsLlaOYWXh3) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Vamo a Darle](https://open.spotify.com/album/6c4s8phsGiEogUFEntAZiT) | 4:18 | 2023-09-08 | 2024-11-16 |
 | [Viuda Negra](https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [SAETA](https://open.spotify.com/album/2xqdV2npgZXiowXCAYwd2Y) | 3:18 | 2023-09-08 | 2024-04-19 |

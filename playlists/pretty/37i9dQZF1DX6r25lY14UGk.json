@@ -1,13 +1,117 @@
 {
-  "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 52398,
+  "description": "New releases for the kids. Cover: Sumo's World",
+  "num_followers": 52439,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/iW8wAAAAB8gXMOMf6+oY0ZV3gdkwe6",
+  "snapshot_id": "aAHOaQAAAADjV6U32PbFx9hDzeOxP22Q",
   "tracks": [
+    {
+      "added_at": "2025-04-18 04:00:41",
+      "album": {
+        "name": "Let's Learn",
+        "url": "https://open.spotify.com/album/6QQ6JXOnrIfLWdbCVkO1Mk"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "duration_ms": 129179,
+      "name": "Clean Hands",
+      "url": "https://open.spotify.com/track/1ZuvOiuq9oVin3wwd4GhR2"
+    },
+    {
+      "added_at": "2025-04-18 04:00:41",
+      "album": {
+        "name": "Nautical Nonsense: 25th Anniversary Tribute Album",
+        "url": "https://open.spotify.com/album/1qCIv18byMfXHIAYzb07cj"
+      },
+      "artists": [
+        {
+          "name": "Spongebob Squarepants",
+          "url": "https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj"
+        },
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "CHLLER",
+          "url": "https://open.spotify.com/artist/4DGaYLtSAYdFvMPpOVPse6"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Like A Sponge",
+      "url": "https://open.spotify.com/track/69WlhkemuX4ZE8yJh6w9ta"
+    },
+    {
+      "added_at": "2025-04-18 04:00:41",
+      "album": {
+        "name": "Pinkfong & Hogi Sing-Along",
+        "url": "https://open.spotify.com/album/39pJlWsJz0W3KsO62gLyMg"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 124543,
+      "name": "Five Little Monkeys",
+      "url": "https://open.spotify.com/track/72Lo8CwVosyInkViXWPVrh"
+    },
+    {
+      "added_at": "2025-04-18 04:00:41",
+      "album": {
+        "name": "Fire-Breathing Dragon",
+        "url": "https://open.spotify.com/album/40giLKhHhb0K4Fi8hrRgOh"
+      },
+      "artists": [
+        {
+          "name": "Justin Roberts",
+          "url": "https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Fire-Breathing Dragon",
+      "url": "https://open.spotify.com/track/7wGa3t7Eud55njaCzkM1df"
+    },
+    {
+      "added_at": "2025-04-18 04:00:41",
+      "album": {
+        "name": "Baby Elephant (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5QPOXVhbTgevFvQu5bWg1B"
+      },
+      "artists": [
+        {
+          "name": "The Treebees",
+          "url": "https://open.spotify.com/artist/776zwehFOhgZJr3iwN5OeA"
+        }
+      ],
+      "duration_ms": 138529,
+      "name": "Baby Elephant - Acoustic Version",
+      "url": "https://open.spotify.com/track/64xPADPLOl3PQUFz7gdvqk"
+    },
+    {
+      "added_at": "2025-04-18 04:00:41",
+      "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/4G2QQUIf7krLzBFFA2c5cb"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Around The World Adventure",
+      "url": "https://open.spotify.com/track/2KVp2Tz8nyeT6IiaEJUen2"
+    },
     {
       "added_at": "2025-04-11 04:00:20",
       "album": {

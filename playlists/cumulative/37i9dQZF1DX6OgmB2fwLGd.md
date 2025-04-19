@@ -4,7 +4,7 @@
 
 > born on the internet\. ft\. 2hollis
 
-1,141 songs - 1 day 22 hr 11 min
+1,142 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [first order of business](https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:48 | 2021-11-16 | 2022-02-26 |
 | [First Things First](https://open.spotify.com/track/7DFTrjG8Y4uNSUGj8bfLMR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [First Things First](https://open.spotify.com/album/7vC8AyFxSAN0qPQwE4RxBm) | 1:46 | 2023-07-07 | 2023-11-18 |
 | [Fisherrr](https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr](https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI) | 3:56 | 2024-03-08 | 2025-03-14 |
+| [flash](https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:44 | 2025-04-18 |  |
 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 | 2022-09-09 | 2023-02-10 |
 | [Flex](https://open.spotify.com/track/5cD0SQXZshc0DLmfVFaT8v) | [Piff Marti](https://open.spotify.com/artist/4yJPiziKjwvjKUnsnsOixM) | [Flex](https://open.spotify.com/album/7kyn9TqffJenfvItf0KqUY) | 2:27 | 2022-05-09 | 2022-10-15 |
 | [Flights](https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc) | [BandoPop](https://open.spotify.com/artist/3OMeFBBc6FX5Q55CxKVFjW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Flights](https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd) | 3:26 | 2022-01-28 | 2022-02-23 |
@@ -445,7 +446,7 @@
 | [Head$hot! \(with Trippie Redd\)](https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:16 | 2021-11-12 | 2022-04-09 |
 | [Heart Racing](https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [Heart Racing](https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ) | 2:36 | 2023-05-19 | 2023-09-09 |
 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 | 2023-09-01 | 2024-01-13 |
-| [Heavy On My Heart](https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced, Pt\. 2](https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p) | 2:42 | 2024-05-31 |  |
+| [Heavy On My Heart](https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced, Pt\. 2](https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p) | 2:42 | 2024-05-31 | 2025-04-19 |
 | [HeLiCoPtEr sWaG Pt4.Mp3](https://open.spotify.com/track/1w9aOfHbcSbqEnxv6P3rVb) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Let Me Update My Status](https://open.spotify.com/album/1yQ3aFEBqlKuqjTTaxQ0mk) | 1:42 | 2023-03-24 | 2023-06-03 |
 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 | 2022-10-21 | 2023-04-13 |
 | [hell yeah](https://open.spotify.com/track/7GGE6Ye9dzjx1ANzDDqVNM) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [hell yeah](https://open.spotify.com/album/6NPKOCB3H4TGR6EfUcCxB6) | 1:58 | 2022-08-19 | 2023-02-16 |
@@ -911,7 +912,7 @@
 | [Shut It](https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Homesick](https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l) | 2:21 | 2022-11-18 | 2023-03-30 |
 | [shut the fuck up talking to me](https://open.spotify.com/track/7qGw7mD1l16vJt6MnELYSD) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv) | 2:49 | 2021-10-15 | 2022-02-19 |
 | [Shut Up](https://open.spotify.com/track/7iZGpuboJPQQGH07EprPnR) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:05 | 2025-01-29 |  |
-| [sidekick](https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 1:18 | 2025-04-10 |  |
+| [sidekick](https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 1:18 | 2025-04-10 | 2025-04-19 |
 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 | 2022-10-14 | 2023-05-06 |
 | [SINS](https://open.spotify.com/track/32mXd7wU5DXzI3NwxOjeLT) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:17 | 2023-09-22 | 2024-02-03 |
 | [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 | 2023-10-27 | 2024-05-06 |
@@ -1043,7 +1044,7 @@
 | [TRBO](https://open.spotify.com/track/0lLnzX6WFk3neqxwOcAwRG) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe), [Rizz Capolatti](https://open.spotify.com/artist/78bSQbQwJ5IHNCqDrILTGj) | [Hi\_TEK MZK, VOL\. 1](https://open.spotify.com/album/3x7AHIYqDUbE84OhOuRxrm) | 1:48 | 2024-01-22 | 2024-04-27 |
 | [Trenches](https://open.spotify.com/track/02ZqOQf9o0AmF5NUYK7CQL) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Trenches](https://open.spotify.com/album/1LyCWL9ruknFi9M9ONs68Q) | 1:56 | 2023-09-08 | 2023-10-14 |
 | [triflin'](https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw) | 2:49 | 2022-12-16 | 2023-01-05 |
-| [triple deuce](https://open.spotify.com/track/2SdwzpKWAg02LZ6LSsFBDP) | [Swapa](https://open.spotify.com/artist/37v7VwiEJ4ImKCmCrA2Z6a) | [triple deuce](https://open.spotify.com/album/68VU8hmxa0maNgz6EuAgoo) | 2:13 | 2024-05-21 |  |
+| [triple deuce](https://open.spotify.com/track/2SdwzpKWAg02LZ6LSsFBDP) | [Swapa](https://open.spotify.com/artist/37v7VwiEJ4ImKCmCrA2Z6a) | [triple deuce](https://open.spotify.com/album/68VU8hmxa0maNgz6EuAgoo) | 2:13 | 2024-05-21 | 2025-04-19 |
 | [Tru Tru](https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW) | [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Tru Tru](https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha) | 2:47 | 2023-02-24 | 2023-04-15 |
 | [Turban](https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:35 | 2022-01-21 | 2022-03-08 |
 | [TURN IT UP](https://open.spotify.com/track/0uUljDsi9o1MXjReM6uLzz) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [TURN IT UP](https://open.spotify.com/album/6mdPxVCQqK8BssQRF0zNZh) | 3:22 | 2022-06-10 | 2022-10-08 |

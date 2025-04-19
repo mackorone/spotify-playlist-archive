@@ -2987,6 +2987,28 @@
     },
     {
       "album": {
+        "name": "Musica Fuerte",
+        "url": "https://open.spotify.com/album/3mTIjOOtn9A7eLInMPeIKG"
+      },
+      "artists": [
+        {
+          "name": "Montana the Producer",
+          "url": "https://open.spotify.com/artist/2mFWbxWrBZ0dTkG5b6NGnZ"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157156,
+      "name": "Musica Fuerte",
+      "url": "https://open.spotify.com/track/29aiCBVeECZCTOPTL2FEVP"
+    },
+    {
+      "album": {
         "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
         "url": "https://open.spotify.com/album/3MsigXOlPVWg1Csy7xzPrI"
       },

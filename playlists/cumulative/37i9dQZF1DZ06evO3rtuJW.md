@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-165 songs - 8 hr 12 min
+166 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [History](https://open.spotify.com/track/1NGOnyxsMjFJ2TOttcjMQV) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:46 | 2022-10-28 | 2022-12-05 |
 | [hmm…BD](https://open.spotify.com/track/0BJxFuVQIxaeAezRErWGHr) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [hmm…BD](https://open.spotify.com/album/04sMVbbQ24aeuHtIaplR8z) | 2:59 | 2024-07-08 | 2024-09-11 |
 | [Honestly \(feat\. Juice WRLD\)](https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Swervo](https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE) | 3:34 | 2022-10-28 |  |
-| [Hood Cycle \(Bonus\)](https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:39 | 2022-10-28 |  |
+| [Hood Cycle \(Bonus\)](https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:39 | 2022-10-28 | 2025-04-19 |
 | [Hot Summer \(feat\. G Herbo\)](https://open.spotify.com/track/66F8wUZW98EOg0CfSa6ILI) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:57 | 2022-10-28 | 2022-12-02 |
 | [How To Bip](https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/57xr0iFHq2QFiEjszdBZ8Z) | 2:34 | 2025-03-04 |  |
 | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/track/5ybvTSA7a1w5ARhT2wpP4O) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:22 | 2022-10-28 | 2022-11-11 |
@@ -165,6 +165,7 @@
 | [U Know Dat \(feat\. G Herbo\)](https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [\#FreeMyHoodFuckYoHood: Bounce Out Edition](https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD) | 3:10 | 2024-06-21 |  |
 | [Up Next 3](https://open.spotify.com/track/2uCncSbMLOMF6rlA2ThdGO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summer Songs 2](https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri) | 2:35 | 2022-10-28 | 2023-05-01 |
 | [Vegeta](https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Vegeta](https://open.spotify.com/album/4UWA4i4rWJZgNwNhJpyQNE) | 2:07 | 2024-11-07 | 2024-12-06 |
+| [Wayback](https://open.spotify.com/track/0eEHWuhv5CXJUokBDmehfs) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:45 | 2025-04-19 |  |
 | [We Don't Care](https://open.spotify.com/track/6XwauVfp0v51OnRzZqBzVR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:16 | 2023-05-17 | 2024-04-14 |
 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 | 2025-04-11 |  |
 | [What You Need](https://open.spotify.com/track/2HFXYVDmkTNXTOtAZJvf1r) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:51 | 2023-04-30 | 2023-08-31 |

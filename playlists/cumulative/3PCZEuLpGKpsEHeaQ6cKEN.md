@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin Van Buuren &amp; Rob Swire
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Boys Noize
 
-1,361 songs - 3 day 0 hr 36 min
+1,363 songs - 3 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Discohopping \- Anna Tur Remix](https://open.spotify.com/track/1W0cld7fMBFPttUhZy10NM) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [Armada Music \- 20 Years \(Remixed\)](https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb) | 2:41 | 2023-12-07 | 2024-06-08 |
 | [Discohopping \- Anna Tur Remix](https://open.spotify.com/track/6d6eKUWERn9U2G3NQDPrCt) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [Discohopping \(Anna Tur Remix\)](https://open.spotify.com/album/56oV0JSJ4UJJ4nUToj1bwn) | 2:41 | 2023-09-21 | 2023-12-14 |
 | [DISTO](https://open.spotify.com/track/7lm155uMc4owtsZN11r2Vu) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [DISTO](https://open.spotify.com/album/0mCxfRiYb3FcBUI1d2ml0b) | 2:59 | 2024-12-12 | 2025-04-18 |
+| [Dive](https://open.spotify.com/track/67OCwctI95C8WU6ejoLbt8) | [Benwal](https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl) | [Dive](https://open.spotify.com/album/2An7MFk09i75gWJ1ctzQ8N) | 3:29 | 2025-04-18 |  |
 | [Divine](https://open.spotify.com/track/3HFQRcE25gUw5jiGrJPsRc) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Divine](https://open.spotify.com/album/5XPhK0D2fEjX3oK3GPgalf) | 2:17 | 2024-11-08 | 2025-04-11 |
 | [Do It Again](https://open.spotify.com/track/0isQofkWN5jjRmWVvBPk0d) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Do It Again](https://open.spotify.com/album/28XU2AY0g1yMnVE9Cs7V85) | 3:33 | 2023-12-07 | 2024-04-26 |
 | [Do It Like This](https://open.spotify.com/track/0T7rY2sXT0BJ7XpinOd6xt) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Do It Like This](https://open.spotify.com/album/3DjKXKeMukozWmQPXd9cft) | 3:32 | 2024-10-03 | 2025-04-04 |
@@ -356,6 +357,7 @@
 | [Feel The Love](https://open.spotify.com/track/3t7Q3HzFSytq5se4J5HOU8) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Hoax \(BE\)](https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Feel The Love](https://open.spotify.com/album/52Xq59T9A9lfKXmVmWPmG2) | 3:27 | 2024-09-26 | 2025-04-04 |
 | [Feel The Passion](https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel The Passion](https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA) | 3:00 | 2024-10-17 | 2024-12-21 |
 | [Feel The Passion](https://open.spotify.com/track/4GoJMFJoAVyUb9GS3DTn8P) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Armada Music Year Mix 2024](https://open.spotify.com/album/38ezuNxMBVB0FsiF29Wo3P) | 3:00 | 2024-12-20 |  |
+| [Feel The Same](https://open.spotify.com/track/2IuWL6gGz4Xch9STYdFxm2) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Feel The Same](https://open.spotify.com/album/33PKFeLmCxfXZcRaLPKfs1) | 1:55 | 2025-04-18 |  |
 | [Feel The Way I Do](https://open.spotify.com/track/5Bhj1Piso0TmUsmkyvy6kG) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Feel The Way I Do](https://open.spotify.com/album/4uvV6jwAhBG8asvByRkZ0Y) | 3:11 | 2024-05-16 | 2024-10-19 |
 | [Feelin' Down](https://open.spotify.com/track/3KKGUZlLNR0rvE79Del5Xm) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Feelin' Down](https://open.spotify.com/album/5yIHIbkYRRXLeyFeYLRj1t) | 2:39 | 2023-01-19 | 2023-03-10 |
 | [Feelings](https://open.spotify.com/track/5k6Ic6a2Z9WJ6jfWirrHIT) | [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [Æmes](https://open.spotify.com/artist/4NoraKWvrUYQlP0r6Q7IRt) | [Feelings](https://open.spotify.com/album/1DpKGSEZOSVEUbtr4eTZYK) | 2:17 | 2022-06-09 | 2022-08-12 |

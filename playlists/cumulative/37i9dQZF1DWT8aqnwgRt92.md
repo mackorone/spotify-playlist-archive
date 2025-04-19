@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,932 songs - 5 day 0 hr 18 min
+1,933 songs - 5 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,7 +949,7 @@
 | [Teenage Blue](https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Teenage Blue](https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF) | 3:45 | 2024-10-03 | 2025-01-12 |
 | [TENTO](https://open.spotify.com/track/69Zbz5sTyrvn3v7vIyWYGW) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [OPENING THEME FROM TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV” TENTO](https://open.spotify.com/album/4aMD2s6KojE4jFNKEhfSID) | 3:40 | 2022-08-23 | 2022-10-19 |
 | [Tenuto](https://open.spotify.com/track/5GITkeU06Cn3mrFCz2eQ55) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Tenuto](https://open.spotify.com/album/5zI76VBCBUciGGE2gErCYo) | 2:50 | 2025-04-15 |  |
-| [thaumazein \-theme from "Orb: On the Movements of the Earth"](https://open.spotify.com/track/4bAIeBjw6v2z3uxMS8dwuu) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [TVアニメ「チ。\- 地球の運動について \- 」オリジナル・サウンドトラック](https://open.spotify.com/album/39wfmKWvJDJ71CUcSgeytz) | 3:16 | 2025-04-08 |  |
+| [thaumazein \-theme from "Orb: On the Movements of the Earth"](https://open.spotify.com/track/4bAIeBjw6v2z3uxMS8dwuu) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [アニメ「チ。 ー地球の運動についてー」オリジナル・サウンドトラック](https://open.spotify.com/album/39wfmKWvJDJ71CUcSgeytz) | 3:16 | 2025-04-08 |  |
 | [The Battle](https://open.spotify.com/track/2W1ZHJtr7vsn2AoUDJCNGv) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [The Battle](https://open.spotify.com/album/4WGyVLdOR7K7WynokIzsl1) | 3:07 | 2024-07-05 | 2024-07-31 |
 | [The Beast](https://open.spotify.com/track/1MkW4oHTfqhCUFsPlvK2cQ) | [WagakkiBand](https://open.spotify.com/artist/3PzqP5IkpLhlSdZLh7jwPn) | [The Beast](https://open.spotify.com/album/6aZBb7UTppzChDhjWcXmbh) | 3:12 | 2023-07-13 | 2023-10-04 |
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19LKgWBrXVo5J9bWqJpmGZ) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5yVWYuYdwGNCp4fnzsuGOP) | 3:26 | 2022-10-27 | 2022-11-03 |
@@ -1328,7 +1328,7 @@
 | [シリタイキモチ](https://open.spotify.com/track/3WhM7vBmnFtItH9ig53267) | [紅葉山テル \(CV.下地紫野\)](https://open.spotify.com/artist/7cEIqjoTEVtjUeMN27np8T), [小石川惟子 \(CV.東山奈央\)](https://open.spotify.com/artist/3Jgz7tXFsTIQpGdcvIvZFP) | [シリタイキモチ](https://open.spotify.com/album/3yP0I4StbPCyXq4EuXUnE7) | 3:30 | 2023-10-10 | 2023-10-18 |
 | [シンゲツ](https://open.spotify.com/track/6FMEgWd5F0qMxSif30VRGv) | [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [シンゲツ](https://open.spotify.com/album/2r93qUCHSWRRsVEpj5DTkH) | 4:04 | 2024-04-23 | 2024-06-26 |
 | [シークエル](https://open.spotify.com/track/4HWvUImkNZYL11eBr9e1qX) | [山下大輝](https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB) | [シークエル](https://open.spotify.com/album/6ZV0WtY3z45Kqid1cMp5f0) | 4:15 | 2023-09-26 | 2023-09-28 |
-| [シースー・ゲーム](https://open.spotify.com/track/5hqDnUCaxGvPPYI58fS5hr) | [KAmiYU](https://open.spotify.com/artist/2Fs0n51kzU2NdTbSLt3YXl) | [Mellow×Mellow](https://open.spotify.com/album/6QjfM1rCGxL8U85lnUaotv) | 4:05 | 2025-04-08 |  |
+| [シースー・ゲーム](https://open.spotify.com/track/5hqDnUCaxGvPPYI58fS5hr) | [KAmiYU](https://open.spotify.com/artist/2Fs0n51kzU2NdTbSLt3YXl) | [Mellow×Mellow](https://open.spotify.com/album/6QjfM1rCGxL8U85lnUaotv) | 4:05 | 2025-04-08 | 2025-04-19 |
 | [ジャーニーズ・トランク](https://open.spotify.com/track/5KyeSqbimlZlsy7ofZXw2T) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ジャーニーズ・トランク](https://open.spotify.com/album/6OGSorkbD4Rgm6Haa0rbDe) | 4:20 | 2022-12-20 | 2023-01-06 |
 | [ジャーニーズ・トランク](https://open.spotify.com/track/1sk0w6ug8F6RXKA7iCZJcY) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ジャーニーズ・トランク](https://open.spotify.com/album/6QC9ZNC4o9hzMsGBVs2NAQ) | 4:21 | 2022-12-20 | 2022-12-22 |
 | [ジュブナイル](https://open.spotify.com/track/0EIlSiMlNJDHecJUkmzYer) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [ジュブナイル](https://open.spotify.com/album/0omLVfcLxIrrw4WFZJMzLo) | 4:21 | 2023-01-24 | 2023-04-12 |
@@ -1668,6 +1668,7 @@
 | [強火](https://open.spotify.com/track/0mh1ueH9o75o0mt6bqk4Sp) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [強火](https://open.spotify.com/album/4KrIjV9nRPuWrHuO69xWzw) | 3:28 | 2025-04-04 |  |
 | [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 | 2023-04-18 | 2023-07-12 |
 | [彩られた理想へ](https://open.spotify.com/track/6TQMRuXjVPv6KpNAfqfxvW) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [彩られた理想へ](https://open.spotify.com/album/0IsE5AnEzKYBXsHiSP3wnt) | 4:03 | 2024-08-13 | 2024-10-09 |
+| [微熱魔](https://open.spotify.com/track/7guT1V4QGvfUafWOX8NiYI) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [微熱魔](https://open.spotify.com/album/79tn2ImqRFgvcJtLlOtdl2) | 3:36 | 2025-04-18 |  |
 | [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 | 2022-10-18 | 2023-01-11 |
 | [心音（しんおん）](https://open.spotify.com/track/7knXcKHUVxb9qxo37ZDILh) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [心音（しんおん）](https://open.spotify.com/album/15SCmf8EiD69P4wRGz0gm6) | 5:28 | 2023-09-26 | 2023-09-28 |
 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 | 2024-04-10 | 2024-07-06 |

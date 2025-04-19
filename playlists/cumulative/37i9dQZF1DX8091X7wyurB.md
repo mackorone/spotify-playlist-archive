@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-520 songs - 2 day 2 hr 14 min
+521 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-06-30 | 2023-06-16 |
 | [The Commission \- Live](https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [The Commission \(Live\)](https://open.spotify.com/album/2KUoF56KCelukYtMprpuex) | 6:59 | 2023-12-15 | 2024-02-11 |
 | [The Edge](https://open.spotify.com/track/4cChKOsyTd7YEzKMZd9ia2) | [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS), [Shiv Musiq](https://open.spotify.com/artist/1qzw0kNp2vIeSD93nVQapH) | [The Edge](https://open.spotify.com/album/1ojpDRM33MLwyGSqBAjclK) | 3:56 | 2024-09-20 | 2024-11-08 |
+| [The Lamb Is Worthy](https://open.spotify.com/track/42AG7K7eHAjThhQgQ3NRHd) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [The Lamb Is Worthy](https://open.spotify.com/album/7sf8YtBIWIM9UH6GvWSu9e) | 13:21 | 2025-04-18 |  |
 | [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/6J3fye9IIfEker6Z27Gq1N) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 5:36 | 2025-01-27 | 2025-02-02 |
 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/3ITnYvWUgrQFBeUmYcUlIw) | 3:45 | 2023-06-02 | 2023-12-15 |
 | [The Lord's Prayer \(It's Yours\) \- Acoustic](https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\) \[Acoustic\]](https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6) | 3:44 | 2023-05-05 | 2024-03-09 |

@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Shreez
 
-794 songs - 1 day 16 hr 29 min
+795 songs - 1 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [ADN](https://open.spotify.com/track/5uXJ37ol7W82PLhOkP1ieu) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [ADN](https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe) | 2:55 | 2022-03-18 | 2022-07-16 |
 | [Ailleurs](https://open.spotify.com/track/0w7qXeFzUkFzZfPgE7uOcN) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Ailleurs](https://open.spotify.com/album/1RksQ6fF02hWCUuU1PuhI2) | 2:51 | 2023-10-06 | 2024-05-11 |
 | [Airbag](https://open.spotify.com/track/3y4tm1BSZMlg8YfwIQh8qU) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Airbag](https://open.spotify.com/album/28ceNLJVzA6XsEgJv9RxfU) | 1:55 | 2022-09-23 | 2022-12-17 |
-| [AIRPLANE MODE](https://open.spotify.com/track/1Joc2elHCiPE8MOfXDxdLd) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Wartty](https://open.spotify.com/artist/40nlgzBhZkXa6Ty9mig1Ns) | [AIRPLANE MODE](https://open.spotify.com/album/1zfKztw7sjKoIe1UGFYjQw) | 2:30 | 2024-05-31 |  |
+| [AIRPLANE MODE](https://open.spotify.com/track/1Joc2elHCiPE8MOfXDxdLd) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Wartty](https://open.spotify.com/artist/40nlgzBhZkXa6Ty9mig1Ns) | [AIRPLANE MODE](https://open.spotify.com/album/1zfKztw7sjKoIe1UGFYjQw) | 2:30 | 2024-05-31 | 2025-04-19 |
 | [Allez](https://open.spotify.com/track/6CFUaCvxQ0O0My0Lg2imF5) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Allez](https://open.spotify.com/album/1aUewgj8QzwXqcWukIG9yl) | 2:50 | 2025-01-24 |  |
 | [Allo c’est qui?](https://open.spotify.com/track/7JvS9AEXvNPsouhhVECNeZ) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Allo c’est qui?](https://open.spotify.com/album/4QBGKhrngSOqtwohuYVHgz) | 2:49 | 2022-11-25 | 2023-06-03 |
 | [Allumette](https://open.spotify.com/track/7BJ4JuN9t3TNfb43KFgC41) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Allumette](https://open.spotify.com/album/23b8mvJqyDE82TTWTa5dHA) | 4:39 | 2022-11-25 | 2023-04-01 |
@@ -299,6 +299,7 @@
 | [G.O.A.T.S.](https://open.spotify.com/track/6uaVCeRwAK0esY2xPlKVby) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Couleurs primaires : Rouge](https://open.spotify.com/album/24EI5BeUrPeNpAflDizg4k) | 4:07 | 2022-01-07 | 2022-05-28 |
 | [Gang Way](https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Non coupable](https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu) | 3:24 | 2022-01-07 | 2022-06-18 |
 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 | 2022-01-07 | 2022-07-23 |
+| [Ganja](https://open.spotify.com/track/6dk0xQ7akMeaJlxluz95HR) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT) | [Ganja](https://open.spotify.com/album/76q3PQLVLUNN0Nhbk5m6Kf) | 2:14 | 2025-04-18 |  |
 | [Gars Chill](https://open.spotify.com/track/6BmvUi6tG14h7ISkIJ2WHK) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Gars Chill](https://open.spotify.com/album/2MORRW3akZpJnBSQfhJgA7) | 2:15 | 2025-04-11 |  |
 | [Gayé](https://open.spotify.com/track/3vHnSDs9cgYtWBJg0VjE1z) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Plato Zay](https://open.spotify.com/album/1w538xCqUlw4J692Ychz3o) | 3:48 | 2023-11-03 | 2023-11-13 |
 | [Gaz au fond](https://open.spotify.com/track/3ahYEYoP0voboULlwJH8Fx) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Dixque d'art](https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS) | 4:34 | 2022-04-15 | 2023-01-28 |

@@ -309,6 +309,28 @@
     },
     {
       "album": {
+        "name": "Follow (Acoustic version)",
+        "url": "https://open.spotify.com/album/62Z176mBphN7Eq5gG3OnCS"
+      },
+      "artists": [
+        {
+          "name": "LUVANGA",
+          "url": "https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy"
+        },
+        {
+          "name": "Sekzy",
+          "url": "https://open.spotify.com/artist/3JfKYqGySja1gL67kxe99V"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "Follow - Acoustic Version",
+      "url": "https://open.spotify.com/track/5Nuc5NRoS4GVHO8bj563Vi"
+    },
+    {
+      "album": {
         "name": "Forgiveness (Acoustic)",
         "url": "https://open.spotify.com/album/6cZfUOF3wtwV9gymqCCgAf"
       },

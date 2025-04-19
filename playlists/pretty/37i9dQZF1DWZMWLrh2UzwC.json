@@ -1,12 +1,12 @@
 {
   "description": "New music from Dato' Sri Siti Nurhaliza, OneRepublic, Lana Del Rey, Nadhif Basamalah, and more!",
-  "num_followers": 65534,
+  "num_followers": 65620,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAElowAAAACe4gsd4fw0k8U6grj1RP4D",
+  "snapshot_id": "aAG6fAAAAAA4sVpaTcAIMeY+ksB0bjcU",
   "tracks": [
     {
       "added_at": "2025-04-17 16:00:35",
@@ -55,6 +55,26 @@
       "duration_ms": 242584,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
+    },
+    {
+      "added_at": "2025-04-17 16:00:35",
+      "album": {
+        "name": "RATHER BE ALONE (feat. Halle)",
+        "url": "https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 190690,
+      "name": "RATHER BE ALONE (feat. Halle)",
+      "url": "https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z"
     },
     {
       "added_at": "2025-04-17 16:00:35",
@@ -205,10 +225,10 @@
       "url": "https://open.spotify.com/track/35ycHFidHC9uMvSfcQcUzg"
     },
     {
-      "added_at": "2025-04-17 16:00:35",
+      "added_at": "2025-04-18 02:35:39",
       "album": {
         "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/4DWCqsBcxkgusUELGVytAT"
+        "url": "https://open.spotify.com/album/0triBHsPaKoJJr3YPwzJjv"
       },
       "artists": [
         {
@@ -218,7 +238,7 @@
       ],
       "duration_ms": 214305,
       "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/3XvpJRDF9ZPkoEWIkTDVoy"
+      "url": "https://open.spotify.com/track/4RKWUH5jGlgSMcKLQQo43W"
     },
     {
       "added_at": "2025-04-17 16:00:35",
@@ -1363,6 +1383,22 @@
     {
       "added_at": "2025-04-17 16:00:35",
       "album": {
+        "name": "\u5fae\u71b1\u9b54",
+        "url": "https://open.spotify.com/album/79tn2ImqRFgvcJtLlOtdl2"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 216700,
+      "name": "\u5fae\u71b1\u9b54",
+      "url": "https://open.spotify.com/track/7guT1V4QGvfUafWOX8NiYI"
+    },
+    {
+      "added_at": "2025-04-17 16:00:35",
+      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
         "url": "https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1"
       },
@@ -1615,6 +1651,62 @@
     {
       "added_at": "2025-04-17 16:00:35",
       "album": {
+        "name": "Gold Chain",
+        "url": "https://open.spotify.com/album/0kQdDKNaHImgr4QEyicWll"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 194483,
+      "name": "Gold Chain (feat. YANGHONGWON)",
+      "url": "https://open.spotify.com/track/112YssgzPBToSuq09E5xnC"
+    },
+    {
+      "added_at": "2025-04-17 16:00:35",
+      "album": {
+        "name": "Mirror ball (feat. Moon Sujin)",
+        "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Mirror ball (feat. Moon Sujin)",
+      "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
+    },
+    {
+      "added_at": "2025-04-17 16:00:35",
+      "album": {
+        "name": "i'm too lazy to care.",
+        "url": "https://open.spotify.com/album/2KIAGmcMXPny6GOkuBC4He"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "duration_ms": 170645,
+      "name": "i'm too lazy to care.",
+      "url": "https://open.spotify.com/track/6l5gWtbwxkXkPOD5TVtZnp"
+    },
+    {
+      "added_at": "2025-04-17 16:00:35",
+      "album": {
         "name": "Compass Will Fracture",
         "url": "https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR"
       },
@@ -1711,6 +1803,26 @@
       "duration_ms": 157333,
       "name": "Wish I Never Met You",
       "url": "https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO"
+    },
+    {
+      "added_at": "2025-04-17 16:00:35",
+      "album": {
+        "name": "CLEANING OUT THE FRIDGE",
+        "url": "https://open.spotify.com/album/3XzdkkfXaf1RgPOutjWswX"
+      },
+      "artists": [
+        {
+          "name": "Labit",
+          "url": "https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea"
+        },
+        {
+          "name": "Emily Rowed",
+          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
+        }
+      ],
+      "duration_ms": 189999,
+      "name": "CLEANING OUT THE FRIDGE",
+      "url": "https://open.spotify.com/track/2Ta1KXecG2e9BefVhRBzH3"
     },
     {
       "added_at": "2025-04-17 16:00:35",

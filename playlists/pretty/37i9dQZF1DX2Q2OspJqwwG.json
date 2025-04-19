@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 33115,
+  "num_followers": 33142,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-04-14 15:17:01",
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-04-14 15:17:01",
+      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2025-04-14 15:17:01",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "added_at": "2025-04-14 15:17:01",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2025-04-14 15:17:01",
       "album": {
-        "name": "Anglia",
-        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
+        "name": "Hai sa ne iubim ca nemtii",
+        "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
       },
       "artists": [
         {
@@ -1520,29 +1520,9 @@
           "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
         }
       ],
-      "duration_ms": 131977,
-      "name": "Anglia",
-      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
-    },
-    {
-      "added_at": "2025-04-14 15:17:01",
-      "album": {
-        "name": "Lumea toat\u0103",
-        "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
-      },
-      "artists": [
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        },
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Lumea toat\u0103",
-      "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
+      "duration_ms": 150239,
+      "name": "Hai sa ne iubim ca nemtii",
+      "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
     },
     {
       "added_at": "2025-04-14 15:17:01",
@@ -1567,18 +1547,22 @@
     {
       "added_at": "2025-04-14 15:17:01",
       "album": {
-        "name": "Love Is The Answer",
-        "url": "https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD"
+        "name": "Lumea toat\u0103",
+        "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
       },
       "artists": [
         {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 212076,
-      "name": "Love Is The Answer",
-      "url": "https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6"
+      "duration_ms": 135000,
+      "name": "Lumea toat\u0103",
+      "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
     },
     {
       "added_at": "2025-04-14 15:17:01",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2025-04-14 15:17:01",
       "album": {
+        "name": "Love Is The Answer",
+        "url": "https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 212076,
+      "name": "Love Is The Answer",
+      "url": "https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6"
+    },
+    {
+      "added_at": "2025-04-14 15:17:01",
+      "album": {
         "name": "Alo, mama",
         "url": "https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp"
       },
@@ -1619,22 +1619,6 @@
       "duration_ms": 169014,
       "name": "Alo, mama",
       "url": "https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5"
-    },
-    {
-      "added_at": "2025-04-14 15:17:01",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef"
-      },
-      "artists": [
-        {
-          "name": "MGEE",
-          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
-        }
-      ],
-      "duration_ms": 143811,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg"
     },
     {
       "added_at": "2025-04-14 15:17:01",
@@ -1659,8 +1643,24 @@
     {
       "added_at": "2025-04-14 15:17:01",
       "album": {
-        "name": "Hai sa ne iubim ca nemtii",
-        "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef"
+      },
+      "artists": [
+        {
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+        }
+      ],
+      "duration_ms": 143811,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg"
+    },
+    {
+      "added_at": "2025-04-14 15:17:01",
+      "album": {
+        "name": "Anglia",
+        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
       },
       "artists": [
         {
@@ -1668,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
         }
       ],
-      "duration_ms": 150239,
-      "name": "Hai sa ne iubim ca nemtii",
-      "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
+      "duration_ms": 131977,
+      "name": "Anglia",
+      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
     },
     {
       "added_at": "2025-04-14 15:17:01",
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2025-04-14 15:17:01",
       "album": {
-        "name": "Taramul interzis",
-        "url": "https://open.spotify.com/album/5CqQHsNVSPFpkBGCAwh4Ud"
+        "name": "Eee Aaa | Burj Khalifa",
+        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
       },
       "artists": [
         {
-          "name": "The Urs",
-          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
         }
       ],
-      "duration_ms": 170898,
-      "name": "Taramul interzis",
-      "url": "https://open.spotify.com/track/1wAfxPzDicgCr70eTTY1Lr"
+      "duration_ms": 151099,
+      "name": "Eee Aaa | Burj Khalifa",
+      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Feat: Morgan Wallen, Dom Dolla,  Lana Del Rey, Addison Rae, Beddy Rays + more
 
-8,238 songs - 18 day 14 hr 29 min
+8,240 songs - 18 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5784,6 +5784,7 @@
 | [Rare Blues](https://open.spotify.com/track/5CTVAKCEibl9wOMhqXORCA) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [Rare Blues](https://open.spotify.com/album/6nWThxXQ70b8ihFfGQ4mKP) | 2:30 | 2024-01-11 | 2024-01-19 |
 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 | 2024-02-15 | 2024-02-23 |
 | [RATATAT \[Feat\. Denzel Curry & 03 Greedo\]](https://open.spotify.com/track/0lsRY8Qm36UCeuTflMWf8m) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [VAMPIRES IMPERSONATING PEOPLE](https://open.spotify.com/album/6O0iJ3ktDL2AoO7851m1Hy) | 3:09 | 2024-12-12 | 2024-12-20 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [Rather Be Lonely](https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Rather Be Lonely](https://open.spotify.com/album/4K3LRhzDcshQB1sJHrRIzc) | 3:08 | 2024-03-28 | 2024-04-05 |
 | [RATS](https://open.spotify.com/track/1wkpXRBgsVvIwPtRSbRTC6) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [RATS](https://open.spotify.com/album/3F3QM2kFCeEqUfj7iF2tsO) | 2:18 | 2024-11-21 | 2024-11-29 |
 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-07-27 | 2023-08-04 |
@@ -6074,6 +6075,7 @@
 | [Sadie Hawkins Prom](https://open.spotify.com/track/4pcACeh4E6y7UraJbukR5h) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Sadie Hawkins Prom](https://open.spotify.com/album/4wzK5q2gMTURbtmG7mnK0g) | 2:14 | 2023-11-23 | 2023-12-01 |
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-03-21 | 2024-03-29 |
 | [SAFARI](https://open.spotify.com/track/6z5Sfw01Sevy7rlMXLjWLz) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [SRIRACHI SAFARI](https://open.spotify.com/album/4pIZcdXXxe130ZzrcnS4kw) | 3:13 | 2023-11-02 | 2023-11-10 |
+| [Safe](https://open.spotify.com/track/28V4gxMRBBWhnpo4SGpihh) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Safe](https://open.spotify.com/album/444HPVe68zxpUXbV06UH5E) | 3:04 | 2025-04-17 |  |
 | [Safe \(feat\. ZPLUTO\)](https://open.spotify.com/track/20nRLaUC3hCdKEHREsWA0l) | [Zia Jade](https://open.spotify.com/artist/1dgroeoC0lWhsk6D7vNER1), [ZPLUTO](https://open.spotify.com/artist/3vMjTM3wg0sOZDDoc3FuEN) | [Safe](https://open.spotify.com/album/14MQmjskjQRnYqmCm0ICgY) | 3:20 | 2024-01-11 | 2024-01-19 |
 | [Safe and Warm](https://open.spotify.com/track/70MbAE7OErx7JAIE1jSw1G) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Safe and Warm](https://open.spotify.com/album/1egZuBv32dHu4lipkduCbK) | 2:39 | 2024-05-02 | 2024-05-10 |
 | [Safe Forever](https://open.spotify.com/track/0bJjmBXXf2610nAjRQGHwc) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Safe Forever](https://open.spotify.com/album/2lu3Z6ZZ3gms0kf1IvWYM3) | 4:17 | 2023-09-21 | 2023-09-29 |

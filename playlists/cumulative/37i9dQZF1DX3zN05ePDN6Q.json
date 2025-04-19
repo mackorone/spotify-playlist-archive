@@ -988,7 +988,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 265846,
       "name": "Agora Existem Flores no Meu Bairro",
       "url": "https://open.spotify.com/track/2mGALld0Ec7zn6UB4fkUSe"
@@ -4663,6 +4663,28 @@
     },
     {
       "album": {
+        "name": "El\u00f3quio",
+        "url": "https://open.spotify.com/album/4ROB78bi7rHNgJT5kXTND5"
+      },
+      "artists": [
+        {
+          "name": "URIEL_S",
+          "url": "https://open.spotify.com/artist/7IVRxby3zz6IWrMnkwu5pg"
+        },
+        {
+          "name": "DJPEJOTA",
+          "url": "https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201496,
+      "name": "El\u00f3quio",
+      "url": "https://open.spotify.com/track/06dSlUE4pHZGAoHU7DyDV8"
+    },
+    {
+      "album": {
         "name": "Roverall",
         "url": "https://open.spotify.com/album/06ZAIWfzLfb6wygW6BoNiN"
       },
@@ -5624,7 +5646,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 135400,
       "name": "Franco-Atirador",
       "url": "https://open.spotify.com/track/4tyNo0eKkhAx7jQhJVESmT"
@@ -12424,6 +12446,24 @@
       "duration_ms": 136333,
       "name": "Se o Tempo Fechar",
       "url": "https://open.spotify.com/track/7BO91xJh4tL0oWjGNcfrSO"
+    },
+    {
+      "album": {
+        "name": "Se Vira",
+        "url": "https://open.spotify.com/album/3yskEYwZVTDei4DRIOyuYa"
+      },
+      "artists": [
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160782,
+      "name": "Se Vira",
+      "url": "https://open.spotify.com/track/4GfQ4T4Px6ZCrBCxqi9O0N"
     },
     {
       "album": {

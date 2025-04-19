@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-167 songs - 7 hr 43 min
+168 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Chicken Noodle Soup](https://open.spotify.com/track/749wOMJv0SwOcBcvVUwPdv) | [Kids Rap'n The Hits](https://open.spotify.com/artist/2BrDz1Swv1kqola1AYzjGI) | [Kids Rap'n The Hits Vol\. 3](https://open.spotify.com/album/64WmCTDYlflVG7D1HOpSWx) | 3:02 | 2021-11-19 | 2023-04-09 |
 | [Clap Your Hands](https://open.spotify.com/track/17rsWinx1UqahD9ntGdkyA) | [The Magic Jones](https://open.spotify.com/artist/68k1fAn7fhJnsujFNEscyA) | [Adventures Of The Music Box](https://open.spotify.com/album/1GwhMxPANknpYACqJCQU6C) | 2:19 | 2024-01-30 |  |
 | [Clap Your Hands Everybody \- Groove Remix](https://open.spotify.com/track/0SZ47HNnI88FHhOGzVUC5s) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Nick Jr\. Mix It Up! Vol\. 13: Move To The Groove \(The Remixes\)](https://open.spotify.com/album/2s7pcrZt1MjlDJTvPaFmNW) | 2:19 | 2024-07-26 |  |
+| [Clean Hands](https://open.spotify.com/track/1ZuvOiuq9oVin3wwd4GhR2) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Let's Learn](https://open.spotify.com/album/6QQ6JXOnrIfLWdbCVkO1Mk) | 2:09 | 2025-04-18 |  |
 | [CONFIDENT](https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [CONFIDENT](https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous) | 1:52 | 2023-10-10 | 2024-01-31 |
 | [Contradict \- Hip Hop Remix](https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Darryl "DMC" McDaniels](https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn) | [Nick Jr\. Mix It Up! Vol\. 10: Hip Hop Playground \(The Remixes\)](https://open.spotify.com/album/1o8i8X0PNEAXU3PkGKWTKx) | 2:03 | 2024-04-26 | 2024-07-27 |
 | [Cookie Jar](https://open.spotify.com/track/01rRqiFCeG17apx187OJjo) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Cookie Jar](https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL) | 2:52 | 2024-02-23 |  |
@@ -43,7 +44,7 @@
 | [Dance Party in the House](https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 3:18 | 2021-11-19 | 2024-01-31 |
 | [Dance to the Reggae Rhythm \(feat\. Father Goose\)](https://open.spotify.com/track/0PylWiOSendDTztmimb42y) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys) | [One](https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW) | 3:25 | 2021-11-19 | 2024-01-31 |
 | [Daydream Baby](https://open.spotify.com/track/3vszROWz4cAi5lDYIVaA4W) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Daydream Baby](https://open.spotify.com/album/1wpzMFGu7KpRz6f7PGkxtS) | 3:26 | 2024-01-30 |  |
-| [Days of the Week](https://open.spotify.com/track/3K3QA4idrZ70awKYlXPTcN) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Days of the Week](https://open.spotify.com/album/18TXZEP5uT2ju2ZLstA7Io) | 2:16 | 2025-04-04 |  |
+| [Days of the Week](https://open.spotify.com/track/3K3QA4idrZ70awKYlXPTcN) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Days of the Week](https://open.spotify.com/album/18TXZEP5uT2ju2ZLstA7Io) | 2:16 | 2025-04-04 | 2025-04-19 |
 | [Do My Dance](https://open.spotify.com/track/56LCZNVDZBgVXmsP37ksgy) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:30 | 2021-11-19 | 2023-04-09 |
 | [Ears Hang Low](https://open.spotify.com/track/5sOLB4bKpM3zwehO7QtqL0) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Ears Hang Low](https://open.spotify.com/album/17rNMcXIlGWog0ChFvhFUf) | 2:01 | 2024-05-31 | 2024-06-15 |
 | [Elephant Song](https://open.spotify.com/track/3ojab84Z6hRFFgNYkDpcLi) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Elephant Song](https://open.spotify.com/album/1saNdYBtgdZ7xJJd2Nk8mR) | 2:02 | 2025-01-10 |  |
@@ -174,6 +175,6 @@
 | [You Are Not Alone](https://open.spotify.com/track/2KgDN89wIbocdgIBXrCi0b) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [You Are Not Alone](https://open.spotify.com/album/6gWplVbzEU4t7v1lEEnJRo) | 3:24 | 2024-01-30 | 2024-04-19 |
 | [You Did It](https://open.spotify.com/track/2VXZxXzmjSDCys1rZc0Ri1) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [You Did It](https://open.spotify.com/album/1TRng1CBebIq5Iu8dUNVgp) | 2:26 | 2024-01-30 | 2024-06-01 |
 | [Young Dylan Theme Song \- Season 4](https://open.spotify.com/track/6Tn86pGJaJr5kFn9XooZmw) | [Tyler Perry's Young Dylan](https://open.spotify.com/artist/0kvZqeOHqGNMGKFlFAKTbZ) | [Young Dylan Theme Song \(Season 4\)](https://open.spotify.com/album/1HFUHzZNS8a5xQJ9jTjWF6) | 0:31 | 2024-03-22 |  |
-| [You’re It](https://open.spotify.com/track/6NJE6RXJrAI6AqThyrNSul) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [The Perfect Quirk](https://open.spotify.com/album/5swOluAxNHMNIyW95TjSTF) | 2:34 | 2024-01-30 |  |
+| [You’re It](https://open.spotify.com/track/6NJE6RXJrAI6AqThyrNSul) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [The Perfect Quirk](https://open.spotify.com/album/5swOluAxNHMNIyW95TjSTF) | 2:34 | 2024-01-30 | 2025-04-19 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

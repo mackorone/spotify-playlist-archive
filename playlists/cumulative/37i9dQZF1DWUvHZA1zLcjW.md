@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-220 songs - 15 hr 26 min
+221 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Returning To You](https://open.spotify.com/track/15E1rumgbEdmKG8I0ofU2g) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Returning To You](https://open.spotify.com/album/4JSTPsSSU61ldiJ8Q0N9Wb) | 3:21 | 2024-08-16 |  |
 | [Rinaldo, HWV 7a, Act II, Scene 4: Lascia ch'io pianga \- Arr\. for French Horn](https://open.spotify.com/track/0RPconiPxIzgQy7no9vvil) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Felix Klieser](https://open.spotify.com/artist/6iEsUJcTGn6UC6G4Qce84z), [CHAARTS Chamber Artists](https://open.spotify.com/artist/2YB5i3jJzmimdN0e8BZqkR) | [Baroque Arias for Horn \(Beyond Words\)](https://open.spotify.com/album/3b1JA3zY2ANip2ao3WJEx4) | 5:00 | 2022-01-28 | 2024-04-19 |
 | [Rinaldo, HWV 7a, Act II, Scene 4: Lascia ch'io pianga \- Arr\. for French Horn](https://open.spotify.com/track/6x1vzimd64e5R0j4K3gIXK) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Felix Klieser](https://open.spotify.com/artist/6iEsUJcTGn6UC6G4Qce84z), [CHAARTS Chamber Artists](https://open.spotify.com/artist/2YB5i3jJzmimdN0e8BZqkR) | [Handel: Lascia ch'io pianga](https://open.spotify.com/album/4Gw9alqMK9LYoUoHQz787Q) | 5:00 | 2022-01-28 |  |
+| [Rusalka, Op\. 114, Act I: Song to the Moon](https://open.spotify.com/track/61prTpoXlFCGLf4cwJBnNI) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Swedish Chamber Orchestra](https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no) | [Rusalka, Op\. 114, Act I: Song to the Moon](https://open.spotify.com/album/57x1kJ3KcbP8pD0JuSUDuT) | 5:03 | 2025-04-18 |  |
 | [Rêverie, L\. 68 \(Arr\. by Badzura\)](https://open.spotify.com/track/4VvRlFEuDDJnUaJURcDLE4) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM) | [Debussy: Rêverie, L\. 68 \(Arr\. Badzura\)](https://open.spotify.com/album/0OZ9sIi53bC4eupChcBPUc) | 6:08 | 2022-01-28 | 2022-08-03 |
 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 | 2022-01-28 |  |
 | [Sanctuary](https://open.spotify.com/track/5NILhtaOQF1sny3pE5lriu) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Sanctuary](https://open.spotify.com/album/1Q4Rd4GbBBsmF6BwLxuauI) | 3:55 | 2024-04-12 |  |

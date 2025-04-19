@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: quinn\_ \(쿠인\)\)
+> New & best K\-Electronic music is here\. \(Cover: DPR ARTIC\)
 
-228 songs - 13 hr 0 min
+229 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Between](https://open.spotify.com/track/1pNxr8E0bfkzBPcefgeXXI) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [OHNY](https://open.spotify.com/artist/7bwKtxquAuPod4egd1acwB), [Hoonie](https://open.spotify.com/artist/0CPEc9L3MkZdwT5KdXmQ6t) | [Between](https://open.spotify.com/album/0edYbq4vhwXXIYGu5dW8U9) | 2:42 | 2024-04-05 | 2024-05-27 |
 | [Bi\-elijah](https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C) | [Y2K92](https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9) | [The Songs for the NOT\-YETs](https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX) | 4:47 | 2024-04-05 | 2024-06-29 |
 | [BOOM \- Minit Remix, Bonus Track](https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:17 | 2024-04-05 |  |
-| [BOP BOP! \(Yves V Remix\)](https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bop Bop! \(Yves V Remix\)](https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX) | 3:12 | 2024-06-28 |  |
+| [BOP BOP! \(Yves V Remix\)](https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bop Bop! \(Yves V Remix\)](https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX) | 3:12 | 2024-06-28 | 2025-04-19 |
 | [Breakthrough \- taalthechoi Remix](https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [taalthechoi](https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C) | [Breakthrough](https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W) | 3:22 | 2024-06-28 |  |
 | [Bring Me On](https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc) | [LMNTRX](https://open.spotify.com/artist/3EQhBwReP6TxlTT9z8yIjD), [CIRE](https://open.spotify.com/artist/4cqhNd5e30i06T1YWl2uiJ), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Bring Me On](https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf) | 2:38 | 2024-04-05 | 2024-06-29 |
 | [BT14U](https://open.spotify.com/track/7I9ZGWFLz1AqaLEZqdeqHf) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [BT14U](https://open.spotify.com/album/6gdt5PwXLMsneqABEgilwQ) | 4:56 | 2024-06-28 | 2024-10-08 |
@@ -136,6 +136,7 @@
 | [maybe baby](https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [E](https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw) | 1:52 | 2025-04-02 |  |
 | [Melodie](https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [11111101](https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh) | 5:00 | 2024-04-05 |  |
 | [Melody](https://open.spotify.com/track/3odJfYuQWSOamh85TAIStM) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [ION](https://open.spotify.com/album/0MFykXNF16vdKA92yO4eiI) | 4:13 | 2024-04-05 | 2024-06-09 |
+| [Mirror ball \(feat\. Moon Sujin\)](https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Mirror ball \(feat\. Moon Sujin\)](https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo) | 3:13 | 2025-04-18 |  |
 | [MMORPG](https://open.spotify.com/track/4lCfyZQ9rr5eJGvBtMvTWS) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [MMORPG](https://open.spotify.com/album/05kVHQ4AC5e5GeFaHckWCC) | 4:30 | 2025-04-09 |  |
 | [MOM \(feat\. So!YoON!\)](https://open.spotify.com/track/7kjrjlPMRQCNF93rv2Lz81) | [이수호](https://open.spotify.com/artist/7lBTPuykSETKIYL6JYjSHP), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Monika](https://open.spotify.com/album/5Mv4DGuPIBSBg2V3wLOPKA) | 3:02 | 2024-04-05 | 2024-06-29 |
 | [MONA LISA \(Afro House Remix\)](https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA \(Remix so fine\)](https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp) | 3:05 | 2025-04-02 |  |

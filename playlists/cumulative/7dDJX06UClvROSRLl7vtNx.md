@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-810 songs - 1 day 11 hr 9 min
+811 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Back Together](https://open.spotify.com/track/4keNkIArCVOlbvjd6uwvTm) | [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Back Together](https://open.spotify.com/album/5cNPNZNIGwg3Zm00CcnB8h) | 2:14 | 2025-03-01 |  |
 | [Bad Romance](https://open.spotify.com/track/2jsj5LogoxcqCnsyCb9Ksn) | [SAKKO](https://open.spotify.com/artist/6wgRPcEgacrIVqbDsg5t3o), [Adam Bowl](https://open.spotify.com/artist/5gmiZYhWcaElTDIKTEviT3) | [Bad Romance](https://open.spotify.com/album/3nIj5qPG72xSGoJ5nbNn9z) | 3:03 | 2024-06-09 | 2024-07-05 |
 | [Baddie](https://open.spotify.com/track/4b7akpitIiR9vJOiLbi06c) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Tanaka](https://open.spotify.com/artist/0RPM0FcHKPOu6ToI6bN4PE) | [Baddie](https://open.spotify.com/album/0sYvnqClfvOZPWxQkqiAM7) | 2:30 | 2025-02-03 |  |
+| [Baille](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Baille](https://open.spotify.com/album/3070nvzG2FbwF1H3oYmMFs) | 2:33 | 2025-04-18 |  |
 | [Beautiful Day \(Take Me Back\)](https://open.spotify.com/track/68SdV5sBG4xsj2psJoxaHy) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc) | [Beautiful Day \(Take Me Back\)](https://open.spotify.com/album/6miDC3XTPjHNLRjYqLeGaG) | 2:16 | 2024-08-07 |  |
 | [Beautiful Soul](https://open.spotify.com/track/6KUTm5xIeQFwrvQqelDRAZ) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Beautiful Soul](https://open.spotify.com/album/3ir2mtjdNfbkBpZkl0jHGT) | 2:43 | 2024-08-30 | 2024-11-05 |
 | [Best Days](https://open.spotify.com/track/18ZT8o8lcWCBQcVs3aK5fZ) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Nømad](https://open.spotify.com/artist/1Aq4QRiRBz0ddMjbv7GDy5) | [Best Days](https://open.spotify.com/album/21weltfdc5SmIE2ogzT0FF) | 2:38 | 2024-03-03 | 2024-10-28 |
@@ -491,7 +492,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/6pKlEVAue9oZO1qsNCZton) | [Made Of Marble](https://open.spotify.com/artist/3nkiEsorNbO1gdtibcPUdW), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Never Let Me Go](https://open.spotify.com/album/2gBKmaHMvmW3aqNriAmEmw) | 2:24 | 2025-02-02 | 2025-02-17 |
 | [Never Tell You](https://open.spotify.com/track/6rv3rD9z6ZUtT3Y3ErUJ8w) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [esiole](https://open.spotify.com/artist/20834GegbqTl8KA5p6PQZN) | [Never Tell You](https://open.spotify.com/album/1vkY2zDAMJZloanPD1xNRo) | 2:11 | 2025-04-17 |  |
 | [Neverland](https://open.spotify.com/track/6YlVsp5W6vj81HINKAgneT) | [No Treasure](https://open.spotify.com/artist/66GofoGxQ1OAlCvfPRI90x), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Neverland](https://open.spotify.com/album/3E3SrMSgjWqgKXNafEOqVn) | 2:40 | 2023-09-22 | 2024-07-31 |
-| [New Day](https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [New Day](https://open.spotify.com/album/7Cf9t1081bnynjbVx0xonT) | 2:30 | 2024-12-06 | 2025-01-06 |
+| [New Day](https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [New Day](https://open.spotify.com/album/7Cf9t1081bnynjbVx0xonT) | 2:30 | 2024-12-06 |  |
 | [Next To You](https://open.spotify.com/track/3yOxr8Rx5pvvv8M8KO8xXU) | [Will Knight](https://open.spotify.com/artist/2J3OI67dfjkaijI0FB2Ysr) | [Next To You](https://open.spotify.com/album/1ydKseDSmqmQ2fT5sNwvER) | 2:18 | 2024-04-05 |  |
 | [Nice To Meet You](https://open.spotify.com/track/7aqMJXYWsY7VyrN7VwnDJQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Feeve](https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv) | [Nice To Meet You](https://open.spotify.com/album/7fqnsXle51dKCrmuqFwg14) | 2:18 | 2024-11-24 | 2025-03-31 |
 | [Nice To Meet You](https://open.spotify.com/track/05JEV3o9x1nzp4juozegom) | [YOTCHAKID](https://open.spotify.com/artist/5NpZmQyt3SvdSwPv0lJQaV), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Nice To Meet You](https://open.spotify.com/album/0ApHzaMDVir1kVYMXLw5Ct) | 2:38 | 2025-04-06 |  |

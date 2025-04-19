@@ -4189,6 +4189,28 @@
     },
     {
       "album": {
+        "name": "Hace Rato",
+        "url": "https://open.spotify.com/album/7rC6N6wuSAjAXfaJ9Vjx8e"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155181,
+      "name": "Hace Rato",
+      "url": "https://open.spotify.com/track/27TNmLkmsU9uCNrJn9ELp3"
+    },
+    {
+      "album": {
         "name": "hARAkiRi",
         "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
       },
@@ -5318,7 +5340,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 180477,
       "name": "LO QUE ME CAUSA",
       "url": "https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq"

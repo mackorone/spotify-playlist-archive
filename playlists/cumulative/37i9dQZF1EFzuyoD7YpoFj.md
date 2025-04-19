@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-436 songs - 23 hr 16 min
+437 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [If You Could Love Me \(Featuring Carol Sloane\)](https://open.spotify.com/track/28h6egoNyIIKaZFmhN6tOY) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [We'll Meet Again](https://open.spotify.com/album/3vu9tCv3cuJZAeDth8BVZU) | 2:37 | 2024-07-24 |  |
 | [Iisang Bangka Tayo](https://open.spotify.com/track/2PDSRM3PycPnraENVjEKBZ) | [The Dawn](https://open.spotify.com/artist/2C82tCjOMy2n9Pq4Iz9B6S) | [Abot Kamay](https://open.spotify.com/album/3JZlNGdCxazrlyLQRusMBE) | 4:16 | 2024-07-24 |  |
 | [Is It the Girl or Is It the Gown?](https://open.spotify.com/track/0xidk6W7ZAO8lQSbjWtkYd) | [Stephen Bogardus](https://open.spotify.com/artist/7qGitvYBnbiDSaYGHp7TxR) | [Chip Deffaa's I Must Have That Man](https://open.spotify.com/album/2yG87TVjczED9crWpBb8ay) | 2:46 | 2024-07-24 |  |
+| [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 | 2025-04-18 |  |
 | [It All Belongs to You](https://open.spotify.com/track/5meFvUFgfKFflzzdMEtQvG) | [Deitrick Haddon & Voices of Unity](https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I) | [Together In Worship](https://open.spotify.com/album/40FAVTvcNS0DNsA7Gh9VSf) | 6:32 | 2024-07-24 |  |
 | [It Must Be Fun to Be You](https://open.spotify.com/track/6aS0adcMZ2663YwHLCN97a) | [Justin Hayford](https://open.spotify.com/artist/6bmTsxMRrESELgxn1gG4LB) | [It All Belongs to You](https://open.spotify.com/album/3CxrKKAiiBawMaCFN22uga) | 3:20 | 2024-07-24 |  |
 | [It Was Written In The Stars](https://open.spotify.com/track/2NKRMfi1YgC02dk8c87qsY) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Harold Arlen Song Book](https://open.spotify.com/album/2yprBiSeLBqwoPdDNl5kbI) | 5:10 | 2024-07-24 |  |

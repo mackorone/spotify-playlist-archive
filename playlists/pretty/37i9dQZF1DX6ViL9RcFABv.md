@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Margarida Vasconcelos
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,646 likes - 69 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,655 likes - 69 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

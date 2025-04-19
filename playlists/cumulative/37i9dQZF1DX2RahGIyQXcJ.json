@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of Desi Hip-Hop! Cover:  KR$NA",
+  "description": "Best of Desi Hip-Hop! Cover: Hanumankind",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 166581,
       "name": "Arena (From \"TEST\")",
       "url": "https://open.spotify.com/track/6iezfKAXRLprXcICgFtIkc"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 333765,
       "name": "ASIAN STATE OF MIND",
       "url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 222000,
       "name": "Company",
       "url": "https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el"
@@ -2245,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Devil Crying On The Floor",
+        "url": "https://open.spotify.com/album/3igHkfUtR1tPPtKzDXm3dK"
+      },
+      "artists": [
+        {
+          "name": "Vbreak",
+          "url": "https://open.spotify.com/artist/1Rgi8SgT5uIsPSiP8jLxzr"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Devil Crying On The Floor",
+      "url": "https://open.spotify.com/track/2plE4RCgZco6xcv4pNRoUf"
+    },
+    {
+      "album": {
         "name": "Dhandho",
         "url": "https://open.spotify.com/album/2hxpQXOmHz7G9R4Au6cpZG"
       },
@@ -2374,7 +2392,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 139133,
       "name": "Dior",
       "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 233571,
       "name": "G-Shit (feat. Blockboi Twitch)",
       "url": "https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA"
@@ -3040,6 +3058,24 @@
       "duration_ms": 170919,
       "name": "Gaah",
       "url": "https://open.spotify.com/track/3qcQOGnxrJL8ZJWpduXuao"
+    },
+    {
+      "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/0wqckLBoyrfCkVTeLH3eRV"
+      },
+      "artists": [
+        {
+          "name": "Lil Sidley",
+          "url": "https://open.spotify.com/artist/1OvzehnjsfMRq42VU6eps9"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102452,
+      "name": "Game",
+      "url": "https://open.spotify.com/track/2wZifw6baxFJlKLkmX0dOx"
     },
     {
       "album": {
@@ -4383,6 +4419,28 @@
     },
     {
       "album": {
+        "name": "Kollywood",
+        "url": "https://open.spotify.com/album/6cNkuQhPZ6x8kQfv6MmqNU"
+      },
+      "artists": [
+        {
+          "name": "ST MAN",
+          "url": "https://open.spotify.com/artist/7FkwKgrWfjYJ3sgAFgGr31"
+        },
+        {
+          "name": "SACAR aka Lil Buddha",
+          "url": "https://open.spotify.com/artist/2KDTINgANslhPVBfLpNlz0"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Kollywood",
+      "url": "https://open.spotify.com/track/7JSS97oDOpb1BZzA0TRh1V"
+    },
+    {
+      "album": {
         "name": "KONG",
         "url": "https://open.spotify.com/album/42sutLLosRxxjWdFoAz0C0"
       },
@@ -4560,6 +4618,28 @@
       "duration_ms": 247222,
       "name": "Lajawab 2",
       "url": "https://open.spotify.com/track/4hW05EpAOeARUFI7pLwpRx"
+    },
+    {
+      "album": {
+        "name": "Lam Rawh Le",
+        "url": "https://open.spotify.com/album/6Zn8la70dud5xCkta9Ng5a"
+      },
+      "artists": [
+        {
+          "name": "Jelo",
+          "url": "https://open.spotify.com/artist/1NdW6vSVF3y5Z9o4ZdfEKU"
+        },
+        {
+          "name": "Lil Yella",
+          "url": "https://open.spotify.com/artist/78LSV9s79ZPxRxFxeeXUfo"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203551,
+      "name": "Lam Rawh Le",
+      "url": "https://open.spotify.com/track/522xmzW02YWb08ZEVmCuab"
     },
     {
       "album": {
@@ -6580,7 +6660,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 213600,
       "name": "Ram Ram",
       "url": "https://open.spotify.com/track/06EgOhKj59Jk0AUSzly2Jn"
@@ -7644,7 +7724,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 155999,
       "name": "The Game Don't Stop - Squid Game 2",
       "url": "https://open.spotify.com/track/6F5WCelPHjA9OeYVos4nXj"
@@ -7766,7 +7846,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 199905,
       "name": "TIMES",
       "url": "https://open.spotify.com/track/412SD87HdmZW1EsyAx74ts"

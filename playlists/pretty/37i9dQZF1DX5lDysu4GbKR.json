@@ -1,13 +1,29 @@
 {
-  "description": "Stripped back vibes. Cover: TA Thomas",
-  "num_followers": 610688,
+  "description": "Stripped back vibes. Cover: Pink Sweat$",
+  "num_followers": 610696,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9z6zQAAAADV+H8bHERV8Xw2BQN+zjvK",
+  "snapshot_id": "aAHOeAAAAAApi6I/OY1GggMGCQoLbp1J",
   "tracks": [
+    {
+      "added_at": "2025-04-18 04:00:56",
+      "album": {
+        "name": "Scared In Love",
+        "url": "https://open.spotify.com/album/7nlpcYop3Ce4e6fuKydyzv"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Scared In Love",
+      "url": "https://open.spotify.com/track/6Iyjx3tDmwtaOgiriLLI6A"
+    },
     {
       "added_at": "2025-03-21 05:36:13",
       "album": {

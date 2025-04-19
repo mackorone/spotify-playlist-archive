@@ -3325,40 +3325,6 @@
     },
     {
       "album": {
-        "name": "Handel: 4 Coronation Anthems Including \"Zadok The Priest\"; Dixit Dominus",
-        "url": "https://open.spotify.com/album/37UqGKATaxRKIWMzsVaksq"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Trevor Pinnock",
-          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
-        },
-        {
-          "name": "The English Concert",
-          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
-        },
-        {
-          "name": "Simon Preston",
-          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
-        },
-        {
-          "name": "The Choir Of Westminster Abbey",
-          "url": "https://open.spotify.com/artist/1dDKUFwinr4kwEjiznLwdm"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 315613,
-      "name": "Zadok the Priest (Coronation Anthem No. 1, HWV 258)",
-      "url": "https://open.spotify.com/track/2JoH4WelznXZHJeWxu8ALt"
-    },
-    {
-      "album": {
         "name": "Emotions - Classical Music: Handel",
         "url": "https://open.spotify.com/album/32cGNZRVSWp2Qt5Nf3ONnb"
       },
@@ -3424,6 +3390,40 @@
       "duration_ms": 323426,
       "name": "Zadok the Priest (Coronation Anthem No. 1, HWV 258)",
       "url": "https://open.spotify.com/track/30bQxViotttoZ7x2iUP2L9"
+    },
+    {
+      "album": {
+        "name": "Handel: 4 Coronation Anthems Including \"Zadok The Priest\"; Dixit Dominus",
+        "url": "https://open.spotify.com/album/37UqGKATaxRKIWMzsVaksq"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Trevor Pinnock",
+          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
+        },
+        {
+          "name": "The English Concert",
+          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
+        },
+        {
+          "name": "Simon Preston",
+          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
+        },
+        {
+          "name": "The Choir Of Westminster Abbey",
+          "url": "https://open.spotify.com/artist/1dDKUFwinr4kwEjiznLwdm"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315613,
+      "name": "Zadok the Priest, Coronation Anthem No. 1, HWV 258",
+      "url": "https://open.spotify.com/track/2JoH4WelznXZHJeWxu8ALt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9ZP5oobcNgA"

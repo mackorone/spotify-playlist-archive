@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Acredite",
+        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
+    },
+    {
+      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 304210,
       "name": "Acredite",
       "url": "https://open.spotify.com/track/2FlAWTMqyJcbdxujlebgS8"
@@ -864,9 +882,9 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 289565,
-      "name": "Plano Original",
+      "name": "Plano Original / Cita\u00e7\u00e3o: Sossegai",
       "url": "https://open.spotify.com/track/1zNWH6AFga2dG0L6uiW7Nf"
     },
     {

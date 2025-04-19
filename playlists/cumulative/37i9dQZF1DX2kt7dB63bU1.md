@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-818 songs - 2 day 8 hr 54 min
+819 songs - 2 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [C'est Si Bon](https://open.spotify.com/track/6bFL0ED2Y9i1RchMPLlbx7) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [C'est Si Bon](https://open.spotify.com/album/60vIYRez8yxbGCrIV4VmsH) | 2:52 | 2022-09-16 | 2023-10-21 |
 | [Cafe Gitane](https://open.spotify.com/track/5tABHkUoSrbkckheW29aOy) | [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l), [Tucci Swing](https://open.spotify.com/artist/5f6mTTPsjKOwcfVGa6EBSI) | [Cafe Gitane](https://open.spotify.com/album/5qKo6GQuLHBT4VJRIDv3cP) | 4:19 | 2022-09-02 | 2023-09-16 |
 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 | 2023-08-25 | 2024-04-19 |
-| [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 | 2023-08-25 |  |
+| [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 | 2023-08-25 | 2025-04-19 |
 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 | 2023-06-16 | 2024-10-12 |
 | [Can't Buy Me Love](https://open.spotify.com/track/2PBih8rgdrK1X7PvpunLjD) | [Sylvia Vrethammar](https://open.spotify.com/artist/1wOhrP0NunS8jFFaHMrHg4), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [John Goldsby](https://open.spotify.com/artist/4Ccjwm4VIprHeZWfQBxtJl), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR), [Bruno Müller](https://open.spotify.com/artist/7mTvjt0YGo76IGaMSk7ES2) | [Can't Buy Me Love](https://open.spotify.com/album/3YIqkSNoy8EJAQ7n2LQXQS) | 2:27 | 2022-04-04 | 2022-06-22 |
 | [Can't Get Out Of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out Of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-08-05 | 2023-02-11 |
@@ -700,6 +700,7 @@
 | [The Sports Page](https://open.spotify.com/track/6WdBdrrrg6mDQ7Ya0iQCWT) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [The Sports Page](https://open.spotify.com/album/6AHHGogxm7K0zOgkiQC29A) | 6:21 | 2021-01-15 | 2022-02-15 |
 | [The Supernatural Blues](https://open.spotify.com/track/2glRb3wZMoyXc3v7T1qvT7) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Tot Taylor](https://open.spotify.com/artist/3WNc4lPVVO7pRlkDYG2xAS) | [The Supernatural Blues](https://open.spotify.com/album/6veDEg59X4Kk5E1YGMEXcY) | 3:59 | 2021-03-19 | 2022-02-12 |
 | [The Trouble With Hello Is Goodbye](https://open.spotify.com/track/4iLS8yqoN0XJ7R5B0h9BOU) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [The Trouble With Hello Is Goodbye](https://open.spotify.com/album/6OVXyjmOHzt8Q6WcKqB9Ru) | 4:33 | 2022-10-14 | 2023-07-15 |
+| [The Very Thought of You](https://open.spotify.com/track/3QYaum9dm4oiri5zD1LNle) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Very Thought of You](https://open.spotify.com/album/1uuMIttzbmSQEcklwOKsXy) | 4:09 | 2025-04-18 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/6yxE2pmrPBQGMH0oQg4RcU) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [The Very Thought Of You](https://open.spotify.com/album/02i4H5VSXDnuT14P9d89E1) | 3:40 | 2024-02-23 | 2024-08-31 |
 | [The Way You Look Tonight](https://open.spotify.com/track/08HK8WXdwI5DF6h8DaB1rB) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Way You Look Tonight](https://open.spotify.com/album/5U4Z63epGFkGDARwGyOR1L) | 3:58 | 2023-09-29 | 2024-02-24 |
 | [Them There Eyes](https://open.spotify.com/track/3xE65V7CCWtG368398YXVh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Swing Fever](https://open.spotify.com/album/22tx1I0M6sElj88FEiBP5u) | 2:24 | 2024-02-23 |  |

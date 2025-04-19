@@ -4,7 +4,7 @@
 
 > mostly rock
 
-856 songs - 2 day 6 hr 52 min
+859 songs - 2 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Star overhead](https://open.spotify.com/track/7301pDgEBn4241cBalV4ln) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [FLCL Progressive / Alternative \(Music from the Series\)](https://open.spotify.com/album/6U803HjuYDhefzd8suMyMg) | 3:48 | 2023-07-28 |  |
 | [STARRY STAIRWAY](https://open.spotify.com/track/3LVlff8h1sCE9i9nuP6l11) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [eye cue rew see](https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0) | 2:23 | 2023-09-04 |  |
 | [Start Again](https://open.spotify.com/track/6pN0GoIg1povzkZGHtJJK0) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:30 | 2024-05-18 |  |
+| [Story](https://open.spotify.com/track/1hLlPoXzuI5fha0k3sOGcT) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [TOKYO \- DRIVING \-](https://open.spotify.com/album/6Hq7fPKTjq7anX1aYIUV1U) | 4:48 | 2025-04-19 |  |
 | [sugoi kawaii JYOCHO](https://open.spotify.com/track/2d9N3L54wlBSddaHMX7NLq) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [美しい終末サイクル](https://open.spotify.com/album/7mRW1P9lDdXC47czngKQ2F) | 1:54 | 2023-08-18 |  |
 | [Suicide King](https://open.spotify.com/track/6hhHaK1PMXJpLhnYnIKYb8) | [Veltpunch](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [Suicide King](https://open.spotify.com/album/2GPY2ETVgdTPla5yHePnKu) | 3:53 | 2024-01-18 |  |
 | [Suicide of the 21st century](https://open.spotify.com/track/6lkJKbOu7COoTKAqpC7xyR) | [0.8Syooogeki](https://open.spotify.com/artist/2bQl2eVUqMrlo9oncfmwtF) | [ESUNOFANKYDOFUTOEFUSUKICAMCAMCULB](https://open.spotify.com/album/0Biieu4eDMwmS5K8XmTCaH) | 2:20 | 2024-08-18 |  |
@@ -673,6 +674,7 @@
 | [レイテンシーガール](https://open.spotify.com/track/1SgLBqrhVLZkXFqd5DH5cW) | [フレネシ](https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP) | [ゲンダイ](https://open.spotify.com/album/5zOMiKrqwNSTQMBnmWrzQE) | 4:09 | 2023-12-31 |  |
 | [レーゾンデートル](https://open.spotify.com/track/0Nn9gfz60CyzqnFXiAphMs) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [レーゾンデートル](https://open.spotify.com/album/7sRl7u98siioOxgMhgV8Ne) | 3:42 | 2023-04-06 |  |
 | [ロマンス](https://open.spotify.com/track/1pxZVvEXk1ctxZgow9nq47) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [青春ファンタジア](https://open.spotify.com/album/0xF3KoJujEC3jAfR7nUsgy) | 4:12 | 2023-08-18 |  |
+| [ロマンチシズム](https://open.spotify.com/track/0rCVlT27Zpu1vk1gsDrqTF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [TOKYO \- DRIVING \-](https://open.spotify.com/album/6Hq7fPKTjq7anX1aYIUV1U) | 3:33 | 2025-04-19 |  |
 | [ロンググッドバイ](https://open.spotify.com/track/4xxMvmFyA9f7cKfQiDuIw0) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [ロンググッドバイ](https://open.spotify.com/album/2qqwUNewGqmBiV7jUdqqQd) | 3:09 | 2023-09-06 |  |
 | [ローファイ・タイムズ](https://open.spotify.com/track/5XqF1sxBaXK2klFf0C0PrZ) | [Doctrine Doctrine](https://open.spotify.com/artist/4Oj5eE3XxUZkyXxWA3rQkn) | [Darlington](https://open.spotify.com/album/0GQQ6r5JSABPSFJMaACcsP) | 3:34 | 2023-04-06 |  |
 | [ヴァージン・スーサイド](https://open.spotify.com/track/124yhXmfewTTdLWcT9F0p8) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:40 | 2023-08-18 |  |
@@ -680,6 +682,7 @@
 | [不死鳥](https://open.spotify.com/track/61LaFXwgfNfGZLmqVeeNVI) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ENTERTAINMENT](https://open.spotify.com/album/7J9IuxWGge23Amv8msKGtF) | 5:45 | 2024-08-07 |  |
 | [中庭の少女たち](https://open.spotify.com/track/1YrU8ExqF04ygegVoOOoFU) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 3](https://open.spotify.com/album/0uCP0Uel2GPuxjaV3s67AB) | 5:10 | 2023-07-21 |  |
 | [丸の内サディスティック](https://open.spotify.com/track/6PDL4t1R5m3kYN2qIumKc1) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [Love & Groove Delivery](https://open.spotify.com/album/2ybDbV5RhfXim6vLWH2ymt) | 4:03 | 2023-07-28 |  |
+| [丸ノ内サディスティック](https://open.spotify.com/track/0L0yt7uDjO407QocZHvy5d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [TOKYO \- DRIVING \-](https://open.spotify.com/album/6Hq7fPKTjq7anX1aYIUV1U) | 3:55 | 2025-04-18 |  |
 | [互いの宇宙](https://open.spotify.com/track/2ZAkKj4bPw2NM5bgLPOSVz) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [互いの宇宙 e.p](https://open.spotify.com/album/1nHF90eOOMcK3hN67hdoBR) | 4:46 | 2023-12-02 |  |
 | [人生なんにもわかんねえ！](https://open.spotify.com/track/4XVbnIo9YBSPSs3qnubgxu) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [人生なんにもわかんねえ！](https://open.spotify.com/album/4fJ1GFqBOC0W9QaPDLKaD0) | 3:38 | 2024-10-07 |  |
 | [代替嬉々](https://open.spotify.com/track/4ieJKUj64aZwXGFgeJ7x7P) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [寓話](https://open.spotify.com/album/4dD0hnVXxV4nJ0aZO23Wrb) | 4:21 | 2024-12-27 |  |

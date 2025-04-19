@@ -4,7 +4,7 @@
 
 > Det er fredag! Ny musik fra <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>, <a href="spotify:artist:25u4wHJWxCA9vO0CzxAbK7">Lukas Graham</a>,  <a href="spotify:artist:4gvjmrtzydbMpyJaXUtwvP">Addison Rae</a> og mange flere 👀
 
-5,085 songs - 10 day 23 hr 17 min
+5,087 songs - 10 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1807,6 +1807,7 @@
 | [GOLIATH](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 | 2025-01-30 | 2025-02-07 |
 | [Gone](https://open.spotify.com/track/4C4ude887twoUoTwhGg4qe) | [On the Phone](https://open.spotify.com/artist/2gbRZs8gxnGhTaNw6BSw6L) | [Gone](https://open.spotify.com/album/6eAL3XAhy6bsNh7cHv2QYu) | 3:12 | 2024-09-19 | 2024-09-27 |
 | [Gone Girl](https://open.spotify.com/track/6lU0BuAHpcjJ2DYAZc4anN) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Gone Girl](https://open.spotify.com/album/7jchY4CauGHt4POyhigFBs) | 2:57 | 2025-03-07 | 2025-03-14 |
+| [Goner](https://open.spotify.com/track/0VsS92QhsoQEMoCfiAKPPv) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Goner](https://open.spotify.com/album/7pRxdqlCm4qiermOdQetwc) | 2:42 | 2025-04-17 |  |
 | [Good Books](https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Good Books](https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV) | 4:14 | 2024-06-20 | 2024-06-28 |
 | [Good Boy](https://open.spotify.com/track/1wk1r3rWBdmgJq2i0XOeV3) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/0QKentEOSZDjWl3IABJaCi) | 2:52 | 2024-06-20 | 2024-06-28 |
 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 | 2024-10-24 | 2024-11-01 |
@@ -3691,6 +3692,7 @@
 | [Rapolitics Cypher \#3](https://open.spotify.com/track/6FIACxex0BB8Ug9czWeSIO) | [Rapolitics](https://open.spotify.com/artist/58zDD0R3UDVS549yYDSXH6), [Wafande](https://open.spotify.com/artist/3IzKjlnVRI9kv9MLlEPflC), [Mund de Carlo](https://open.spotify.com/artist/6O1UHqv8OdsltIC8q4ABXI), [Stenfors](https://open.spotify.com/artist/3yzLGKSGhzS0cPxjlGABAQ), [Figi](https://open.spotify.com/artist/43VE5bWGVooLKe8DXKxO99), [Vinnie](https://open.spotify.com/artist/7G19B9tkidVEjMBGyaoWM5) | [Rapolitics Cypher \#3](https://open.spotify.com/album/6FISPfF5AZhcCbQFJAGxjT) | 3:08 | 2024-11-28 | 2024-12-06 |
 | [Rat Race](https://open.spotify.com/track/2IehkByzIu1b7iaq21L4Qo) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Rat Race](https://open.spotify.com/album/6ZzZBkpGHRxmmPwYXwwH2G) | 3:05 | 2024-09-26 | 2024-10-04 |
 | [RATATA](https://open.spotify.com/track/4HzAtulFJBpDKRuJ6qGT1H) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [RATATA](https://open.spotify.com/album/251D5KToQ1R7yDB4crZEkN) | 2:40 | 2024-11-28 | 2024-12-06 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 | 2025-01-30 | 2025-02-07 |
 | [Rave Meditation](https://open.spotify.com/track/0fpioDklxRd1yEW6qtuDzy) | [Bonjour Papa](https://open.spotify.com/artist/2HRN8EOLDKPwS1h9BlKwFe) | [Rave Meditation](https://open.spotify.com/album/47YGLQYiHu2AcrKiLvWeip) | 2:20 | 2024-11-28 | 2024-12-06 |
 | [Ray Of Light](https://open.spotify.com/track/3yFWhxIlIzlyro5r6IMuT4) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ray Of Light](https://open.spotify.com/album/1GBySAbVIvQTKCR0Tg4a4U) | 2:56 | 2024-10-31 | 2024-11-08 |

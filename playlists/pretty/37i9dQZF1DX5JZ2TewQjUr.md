@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Novel Fergus
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,136 likes - 125 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,139 likes - 125 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 3 | [Centuries](https://open.spotify.com/track/4jN3sOY5Ie7N2gJg69eI74) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [Centuries](https://open.spotify.com/album/1CzGE2ha6P0u2l1YE1ng2K) | 2:55 |
 | 4 | [Trophy Wife In Training](https://open.spotify.com/track/54jeGbYpBkovKhxsYykFgE) | [ARI LEE](https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7) | [Trophy Wife In Training](https://open.spotify.com/album/65R2Eh8r1NgQFdUWnyKMbf) | 2:49 |
 | 5 | [紐約到台北 New York To Taipei](https://open.spotify.com/track/7fjtpARK9RroYk1AMb7Ybr) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [紐約到台北 New York To Taipei](https://open.spotify.com/album/4XavoBIykVl8AaJCi4sY1h) | 3:08 |
-| 6 | [在觀濱中出錯](https://open.spotify.com/track/1M2JjyXzqjqmYBR0wXY4qG) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Tr33](https://open.spotify.com/artist/7j7wXgkVJ9SfPqydwu1Umq) | [在觀濱中出錯](https://open.spotify.com/album/1x5iaF3JE0TRqxM72STrzG) | 4:01 |
+| 6 | [在觀濱中出錯](https://open.spotify.com/track/1M2JjyXzqjqmYBR0wXY4qG) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [在觀濱中出錯](https://open.spotify.com/album/1x5iaF3JE0TRqxM72STrzG) | 4:01 |
 | 7 | [NEW BEYOND](https://open.spotify.com/track/4lPpZed4GddZwu4T4XgQEu) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [NEW BEYOND](https://open.spotify.com/album/2YNvNzm6DCtaism4Qr6bJU) | 4:11 |
 | 8 | [Lost Angels](https://open.spotify.com/track/0RQKmgVuFGgdIpDBFpg61y) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [Lost Angels](https://open.spotify.com/album/3N6bd1LRI8Dp0ujrcdm2eP) | 2:43 |
 | 9 | [kuku](https://open.spotify.com/track/1UnYiQ0KPmepUwICDkS8xJ) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51), [dai'zy](https://open.spotify.com/artist/2AwggAldACBkcFHUM0t4kP), [Poey Fung](https://open.spotify.com/artist/1HbDlFVFU5CbUvOZmrRkCZ), [murmurcup](https://open.spotify.com/artist/2aknOFkxz5YCHmbUa1VyDX) | [kuku](https://open.spotify.com/album/3vBhA4fnPoV4yFoUbvHFHc) | 3:44 |

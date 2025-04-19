@@ -2191,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "album": {
         "name": "Lilo & Stitch",
         "url": "https://open.spotify.com/album/4iT09fJbpmC1oa6FWNvW4w"
       },
@@ -2834,7 +2852,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 113500,
       "name": "Novela",
       "url": "https://open.spotify.com/track/37tXaBDUaXH9MXHN0LRzhG"
@@ -4033,6 +4051,28 @@
     },
     {
       "album": {
+        "name": "T\u00da ET MOI",
+        "url": "https://open.spotify.com/album/5xaBP97FJpj4caWwxoxBVF"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "T\u00da ET MOI",
+      "url": "https://open.spotify.com/track/0EsMceg5ksKflUYXt2WMne"
+    },
+    {
+      "album": {
         "name": "Uno De Eses Gatos",
         "url": "https://open.spotify.com/album/2XqFUgoZxHF0rlx8FVafHy"
       },
@@ -4082,7 +4122,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 134769,
       "name": "Vai Sentando",
       "url": "https://open.spotify.com/track/4UlkRoC6xPCDXehTyW21BF"

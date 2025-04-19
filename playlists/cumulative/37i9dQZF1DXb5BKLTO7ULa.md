@@ -4,7 +4,7 @@
 
 > Nieuwe muziek van: DYSTINCT, Emma Heesters, Son Mieux en Naomi Sharon
 
-10,634 songs - 23 day 4 hr 1 min
+10,635 songs - 23 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7446,6 +7446,7 @@
 | [Ratata](https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Ratata](https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU) | 2:28 | 2024-03-28 | 2024-04-05 |
 | [Ratata](https://open.spotify.com/track/3j7FwhQh4y56yYUstmSpHx) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Ratata](https://open.spotify.com/album/3i6JCfYuNR3m3ametncZuV) | 2:30 | 2023-09-14 | 2023-09-22 |
 | [RATATA](https://open.spotify.com/track/45OUuhn47Jm37Q6GzeuA45) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3) | [RATATA](https://open.spotify.com/album/4Lqu9hqxNVytzssJUflLtv) | 3:03 | 2024-10-17 | 2024-10-25 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [Ratje Hans](https://open.spotify.com/track/14uy4a8wR2xOnlzigrT7al) | [Jan Biggel](https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs) | [Alleen Voor Fans](https://open.spotify.com/album/4Vv0b1GWjMGmxVeyJ89DWZ) | 3:27 | 2025-01-30 | 2025-02-07 |
 | [Rattekop](https://open.spotify.com/track/4EfKC0gE7zcFq3N4W5U3DO) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [IK](https://open.spotify.com/album/580WTkWc7tA8t8sRnk9VBr) | 1:45 | 2023-04-27 | 2023-05-05 |
 | [Rattenvangers \(feat\. Narco Polo\)](https://open.spotify.com/track/63Um882mx8VU63sIPSUnaQ) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb), [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW) | [Rattenvangers \(feat\. Narco Polo\)](https://open.spotify.com/album/56Bs2R9n1BtUYsgyD0Up9E) | 2:46 | 2025-04-03 | 2025-04-11 |

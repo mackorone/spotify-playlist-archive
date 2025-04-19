@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-898 songs - 3 day 5 hr 44 min
+899 songs - 3 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Close To You \- Meera \(NO\) Remix](https://open.spotify.com/track/5FMGzGnrdaXUgLmo91orI1) | [Samer Soltan](https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX), [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Close To You \(Meera \(NO\) Remix\)](https://open.spotify.com/album/2JiDYxoDS7uopAESaih6Ov) | 8:25 | 2024-07-05 | 2024-08-12 |
 | [Closer \(feat\. Bantu\)](https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Closer \(feat\. Bantu\)](https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl) | 3:01 | 2024-08-16 |  |
 | [Closing Doors \- Edit](https://open.spotify.com/track/72kB1jI3G6H3zv33Qwmmhe) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [Closing Doors / Burgundy](https://open.spotify.com/album/5covQ2LXbpXw98ICHdjMq9) | 3:48 | 2021-10-01 | 2022-04-21 |
+| [Closure](https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK) | [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Closure](https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1) | 4:19 | 2025-04-11 |  |
 | [Colibria](https://open.spotify.com/track/4mrkRBRhahbgcfimPihZVN) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/7Mz3hUKPxQMZco25qZ6sQF) | 7:59 | 2021-12-13 | 2022-04-21 |
 | [Colibria](https://open.spotify.com/track/39myIVuK9YgrIBR6wZA2st) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 8:02 | 2022-07-01 | 2023-07-01 |
 | [Colorblind \(WhoMadeWho Remix\)](https://open.spotify.com/track/2ylvn4XwmheP3y6zMoah3Y) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Blood Moon \(Remixes\)](https://open.spotify.com/album/6EeOdiTtw5K9b5sME9Xz3p) | 7:15 | 2023-12-01 | 2024-02-03 |
@@ -807,7 +808,7 @@
 | [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/50foag5P06HSWOkVrnZg33) | 3:51 | 2023-09-15 | 2024-04-19 |
 | [Time](https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [Time](https://open.spotify.com/album/11UtFfgwaQZOF9weJbgTyr) | 4:18 | 2023-03-24 | 2023-05-09 |
 | [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-26 | 2025-01-11 |
-| [Titatite \- Radio Edit](https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Titatite](https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ) | 2:41 | 2024-08-30 |  |
+| [Titatite \- Radio Edit](https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Titatite](https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ) | 2:41 | 2024-08-30 | 2025-04-19 |
 | [To The Light \- Fideles Remix](https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [To The Light \(Fideles Remix\)](https://open.spotify.com/album/6jNIuiKaLvkGloJnqq40Cp) | 4:30 | 2022-07-01 | 2022-12-17 |
 | [Toca's Miracle \- Vidojean X Oliver Loenn Edit](https://open.spotify.com/track/5ossegb3v0QlneLi8lg2Js) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Toca's Miracle \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/3iZiVixxOHI3UqRnRSRzGN) | 2:35 | 2024-12-20 | 2025-04-09 |
 | [Together We Stand \- Chambord Remix](https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Together We Stand \(Chambord Remix\)](https://open.spotify.com/album/1XUl9gl3vigwmepOxjTBml) | 6:59 | 2024-04-19 | 2024-07-06 |

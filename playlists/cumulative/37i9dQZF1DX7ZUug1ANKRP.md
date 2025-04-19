@@ -2,7 +2,7 @@
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Christian Marchi
+> The biggest Dance hits and the ones to come\. Cover: Cristian Marchi
 
 771 songs - 1 day 11 hr 18 min
 

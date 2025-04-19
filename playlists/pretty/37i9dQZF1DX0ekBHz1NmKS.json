@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195979,
+  "num_followers": 196010,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,42 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
+        "name": "Bara vi, bara jag, bara du",
+        "url": "https://open.spotify.com/album/21zpZFBvL9oiNdXMSVQEyN"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 145175,
+      "name": "Bara vi, bara jag, bara du",
+      "url": "https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "Svagare \u00e4n jag",
+        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 187076,
+      "name": "Svagare \u00e4n jag",
+      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
         "name": "EDEN",
         "url": "https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA"
       },
@@ -411,22 +447,6 @@
       "duration_ms": 202240,
       "name": "EDEN",
       "url": "https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "I\u2019m Not a Boy",
-        "url": "https://open.spotify.com/album/1SHRLt3g7yrOZT9TG7Ffep"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 152809,
-      "name": "I\u2019m Not a Boy",
-      "url": "https://open.spotify.com/track/1MCqZiyILK5yKITelASw7a"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -451,26 +471,6 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "Bara vi, bara jag, bara du",
-        "url": "https://open.spotify.com/album/21zpZFBvL9oiNdXMSVQEyN"
-      },
-      "artists": [
-        {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        },
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 145175,
-      "name": "Bara vi, bara jag, bara du",
-      "url": "https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
         "name": "Helvete!",
         "url": "https://open.spotify.com/album/46WcOMzRtUPDPt55G0Osjm"
       },
@@ -487,18 +487,34 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "Svagare \u00e4n jag",
-        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
+        "name": "I\u2019m Not a Boy",
+        "url": "https://open.spotify.com/album/1SHRLt3g7yrOZT9TG7Ffep"
       },
       "artists": [
         {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 187076,
-      "name": "Svagare \u00e4n jag",
-      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
+      "duration_ms": 152809,
+      "name": "I\u2019m Not a Boy",
+      "url": "https://open.spotify.com/track/1MCqZiyILK5yKITelASw7a"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "What My Heart Needs",
+      "url": "https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -535,18 +551,18 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "Never Look Down",
-        "url": "https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm"
+        "name": "Br\u00f6llopsvals",
+        "url": "https://open.spotify.com/album/00NWOsJgEvXQNlermmrGEJ"
       },
       "artists": [
         {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
         }
       ],
-      "duration_ms": 173133,
-      "name": "What My Heart Needs",
-      "url": "https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh"
+      "duration_ms": 172000,
+      "name": "Br\u00f6llopsvals",
+      "url": "https://open.spotify.com/track/4rCPsqjiqpUfKWGd6mng7v"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -579,22 +595,6 @@
       "duration_ms": 210066,
       "name": "Cold As Ice",
       "url": "https://open.spotify.com/track/3tW9811KrWQxa0SIxaFWUF"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "Br\u00f6llopsvals",
-        "url": "https://open.spotify.com/album/00NWOsJgEvXQNlermmrGEJ"
-      },
-      "artists": [
-        {
-          "name": "Mares",
-          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Br\u00f6llopsvals",
-      "url": "https://open.spotify.com/track/4rCPsqjiqpUfKWGd6mng7v"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
+        "name": "Innan kronan blir f\u00f6r tung",
+        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "duration_ms": 233726,
+      "name": "Djungeltelegrafen",
+      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
         "name": "Jag \u00c4r",
         "url": "https://open.spotify.com/album/1dWqLkECIKnh0LiL1rV9vq"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "Innan kronan blir f\u00f6r tung",
-        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
+        "name": "AND THEN, FROM THE SHADOWS - EP",
+        "url": "https://open.spotify.com/album/0wZLxZ9Y3IbCvuMiPssrbA"
       },
       "artists": [
         {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+          "name": "Bj\u00f6rn Dixg\u00e5rd",
+          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
         }
       ],
-      "duration_ms": 233726,
-      "name": "Djungeltelegrafen",
-      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
+      "duration_ms": 185219,
+      "name": "SOMEBODY JUST LIKE YOU",
+      "url": "https://open.spotify.com/track/0bWBaRqjmTY0D5r6Ak68t3"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -711,22 +727,6 @@
       "duration_ms": 155512,
       "name": "Peace Reign",
       "url": "https://open.spotify.com/track/37AnElQAdOqGpCwahotyce"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "AND THEN, FROM THE SHADOWS - EP",
-        "url": "https://open.spotify.com/album/0wZLxZ9Y3IbCvuMiPssrbA"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rn Dixg\u00e5rd",
-          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
-        }
-      ],
-      "duration_ms": 185219,
-      "name": "SOMEBODY JUST LIKE YOU",
-      "url": "https://open.spotify.com/track/0bWBaRqjmTY0D5r6Ak68t3"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "han e done",
-        "url": "https://open.spotify.com/album/0otIfMs1Ie7jSBOvqnecDy"
+        "name": "H\u00e5ll k\u00e4ften",
+        "url": "https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD"
       },
       "artists": [
         {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
         }
       ],
-      "duration_ms": 159024,
-      "name": "han e done",
-      "url": "https://open.spotify.com/track/4X7OxzooUwGd8wQTYtLWKk"
+      "duration_ms": 162000,
+      "name": "H\u00e5ll k\u00e4ften",
+      "url": "https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -795,18 +795,38 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "H\u00e5ll k\u00e4ften",
-        "url": "https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD"
+        "name": "han e done",
+        "url": "https://open.spotify.com/album/0otIfMs1Ie7jSBOvqnecDy"
       },
       "artists": [
         {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
         }
       ],
-      "duration_ms": 162000,
-      "name": "H\u00e5ll k\u00e4ften",
-      "url": "https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv"
+      "duration_ms": 159024,
+      "name": "han e done",
+      "url": "https://open.spotify.com/track/4X7OxzooUwGd8wQTYtLWKk"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "Getsnack (feat. Imenella)",
+        "url": "https://open.spotify.com/album/2k2kLJHgTpSVlLdXsGJ7FP"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Imenella",
+          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
+        }
+      ],
+      "duration_ms": 137276,
+      "name": "Getsnack (feat. Imenella)",
+      "url": "https://open.spotify.com/track/2IYrfyfRvvJwFGo1AQW5TO"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -859,42 +879,6 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 196321,
-      "name": "112",
-      "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "Getsnack (feat. Imenella)",
-        "url": "https://open.spotify.com/album/2k2kLJHgTpSVlLdXsGJ7FP"
-      },
-      "artists": [
-        {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        },
-        {
-          "name": "Imenella",
-          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
-        }
-      ],
-      "duration_ms": 137276,
-      "name": "Getsnack (feat. Imenella)",
-      "url": "https://open.spotify.com/track/2IYrfyfRvvJwFGo1AQW5TO"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
         "name": "S\u00e4tter f\u00e4rg p\u00e5 mig",
         "url": "https://open.spotify.com/album/6ZaTXLvA5vdN28xXIbXwv1"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 148266,
       "name": "S\u00e4tter f\u00e4rg p\u00e5 mig",
       "url": "https://open.spotify.com/track/5k2ASJQCLRyzg9J4gFPU6h"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 196321,
+      "name": "112",
+      "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "Sparv\u00f6ga / I skydd av m\u00f6rkret",
-        "url": "https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 200964,
-      "name": "Sparv\u00f6ga",
-      "url": "https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
         "name": "Beautiful Woman",
         "url": "https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 189034,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0nrBYMziJMKR7u3ylc1iSE"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "Sparv\u00f6ga / I skydd av m\u00f6rkret",
+        "url": "https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 200964,
+      "name": "Sparv\u00f6ga",
+      "url": "https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
+        "name": "Vegas Nights",
+        "url": "https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Vegas Nights",
+      "url": "https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
         "name": "Once In A While",
         "url": "https://open.spotify.com/album/7BRJJiHj0QY7tJdUmf5vIn"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 167134,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/2xbmTi62KcY75WLK5AAJOB"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "Vegas Nights",
-        "url": "https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Vegas Nights",
-      "url": "https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1083,24 +1083,8 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "WIND BLOW",
-        "url": "https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rn Dixg\u00e5rd",
-          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
-        }
-      ],
-      "duration_ms": 205804,
-      "name": "WIND BLOW",
-      "url": "https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "Vill bara veta",
-        "url": "https://open.spotify.com/album/1Fx8INrqUB2L1BO0vLek8D"
+        "name": "D\u00e4r natten m\u00f6ter dagen",
+        "url": "https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ"
       },
       "artists": [
         {
@@ -1108,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
         }
       ],
-      "duration_ms": 153293,
-      "name": "Vill bara veta",
-      "url": "https://open.spotify.com/track/2yVwXcq0ia6uhEKteFadrw"
+      "duration_ms": 220560,
+      "name": "Vera",
+      "url": "https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1127,6 +1111,22 @@
       "duration_ms": 205000,
       "name": "Debut",
       "url": "https://open.spotify.com/track/3ESG1e8NjnV1zExvJQRj62"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "WIND BLOW",
+        "url": "https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Dixg\u00e5rd",
+          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
+        }
+      ],
+      "duration_ms": 205804,
+      "name": "WIND BLOW",
+      "url": "https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1163,34 +1163,18 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/3tlRjJl8xGqxXPOSmroGV4"
+        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
       },
       "artists": [
         {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
         }
       ],
-      "duration_ms": 155322,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/107O9gvmL7ClYS5sLx5T0U"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "D\u00e4r natten m\u00f6ter dagen",
-        "url": "https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ"
-      },
-      "artists": [
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Vera",
-      "url": "https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175"
+      "duration_ms": 209610,
+      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
+      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
+        "name": "Vill bara veta",
+        "url": "https://open.spotify.com/album/1Fx8INrqUB2L1BO0vLek8D"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Vill bara veta",
+      "url": "https://open.spotify.com/track/2yVwXcq0ia6uhEKteFadrw"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
         "name": "Alla Tittar P\u00e5 Mig",
         "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 144586,
       "name": "Alla Tittar P\u00e5 Mig",
       "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/3tlRjJl8xGqxXPOSmroGV4"
+      },
+      "artists": [
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 155322,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/107O9gvmL7ClYS5sLx5T0U"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-        "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
+        "name": "EN D\u00d6ENDE PLANET",
+        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
         }
       ],
-      "duration_ms": 209610,
-      "name": "Bl\u00e5jeans och stj\u00e4rnljus",
-      "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
+      "duration_ms": 243529,
+      "name": "EN D\u00d6ENDE PLANET",
+      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1335,22 +1351,6 @@
       "duration_ms": 217160,
       "name": "Aldrig igen (Abandon)",
       "url": "https://open.spotify.com/track/3JxqTgw4qnvWvOj4FfR7XY"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "EN D\u00d6ENDE PLANET",
-        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
-      },
-      "artists": [
-        {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
-        }
-      ],
-      "duration_ms": 243529,
-      "name": "EN D\u00d6ENDE PLANET",
-      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
+        "name": "60 L.E.S.",
+        "url": "https://open.spotify.com/album/7zIWxOx3yqlCqMCfxbLNOP"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        {
+          "name": "Esta Kirabo",
+          "url": "https://open.spotify.com/artist/52oDOwHuuZWVrZIGW6ww8v"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "60 L.E.S.",
+      "url": "https://open.spotify.com/track/35sbxt8GYiBwwtcB5JZgpR"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
         "name": "Delicious Delusional",
         "url": "https://open.spotify.com/album/2qjNiLhOarJTEWpPvXCJiC"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 256706,
       "name": "Verkligheten har jag h\u00e4r f\u00f6r mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/0z7sJEhd7I9EONtW6DnRqI"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "60 L.E.S.",
-        "url": "https://open.spotify.com/album/7zIWxOx3yqlCqMCfxbLNOP"
-      },
-      "artists": [
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        },
-        {
-          "name": "Esta Kirabo",
-          "url": "https://open.spotify.com/artist/52oDOwHuuZWVrZIGW6ww8v"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "60 L.E.S.",
-      "url": "https://open.spotify.com/track/35sbxt8GYiBwwtcB5JZgpR"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1539,22 +1539,18 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "Forever Is Not That Long",
-        "url": "https://open.spotify.com/album/0T1ISornBJUnYNnrYRI4Ju"
+        "name": "Leva mitt liv",
+        "url": "https://open.spotify.com/album/6rOmVnmWwg8LxuqA9NHJVn"
       },
       "artists": [
         {
-          "name": "Jelly Crystal",
-          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
-        },
-        {
-          "name": "Nicole Saboun\u00e9",
-          "url": "https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk"
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
         }
       ],
-      "duration_ms": 258345,
-      "name": "Forever Is Not That Long",
-      "url": "https://open.spotify.com/track/7jNodDaB30i6W03yxzhBgQ"
+      "duration_ms": 153500,
+      "name": "Leva mitt liv",
+      "url": "https://open.spotify.com/track/7C4PvS9o9UrdnmwwZvEgFs"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1575,18 +1571,22 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "Leva mitt liv",
-        "url": "https://open.spotify.com/album/6rOmVnmWwg8LxuqA9NHJVn"
+        "name": "Forever Is Not That Long",
+        "url": "https://open.spotify.com/album/0T1ISornBJUnYNnrYRI4Ju"
       },
       "artists": [
         {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        },
+        {
+          "name": "Nicole Saboun\u00e9",
+          "url": "https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk"
         }
       ],
-      "duration_ms": 153500,
-      "name": "Leva mitt liv",
-      "url": "https://open.spotify.com/track/7C4PvS9o9UrdnmwwZvEgFs"
+      "duration_ms": 258345,
+      "name": "Forever Is Not That Long",
+      "url": "https://open.spotify.com/track/7jNodDaB30i6W03yxzhBgQ"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "push pull",
-        "url": "https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 147949,
-      "name": "push pull",
-      "url": "https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
         "name": "Solens alla \u00e4nglar",
         "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 257359,
       "name": "Solens alla \u00e4nglar",
       "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "push pull",
+        "url": "https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 147949,
+      "name": "push pull",
+      "url": "https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "The Driving Towards The Sunset Tapes",
-        "url": "https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 239859,
-      "name": "volar",
-      "url": "https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
         "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
         "url": "https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx"
       },
@@ -1699,22 +1683,6 @@
       "duration_ms": 147750,
       "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
       "url": "https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9"
-    },
-    {
-      "added_at": "2025-04-17 22:00:05",
-      "album": {
-        "name": "nathalie",
-        "url": "https://open.spotify.com/album/5TFSOfVQXJmnYtXphF4mNs"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 161320,
-      "name": "nathalie",
-      "url": "https://open.spotify.com/track/6AgvVg29MZ6LIw6DiLOZ4H"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1735,18 +1703,34 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "PARASITE",
-        "url": "https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH"
+        "name": "The Driving Towards The Sunset Tapes",
+        "url": "https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL"
       },
       "artists": [
         {
-          "name": "Wilma Vidal",
-          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 220885,
-      "name": "PARASITE",
-      "url": "https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI"
+      "duration_ms": 239859,
+      "name": "volar",
+      "url": "https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "nathalie",
+        "url": "https://open.spotify.com/album/5TFSOfVQXJmnYtXphF4mNs"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "duration_ms": 161320,
+      "name": "nathalie",
+      "url": "https://open.spotify.com/track/6AgvVg29MZ6LIw6DiLOZ4H"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1767,18 +1751,18 @@
     {
       "added_at": "2025-04-17 22:00:05",
       "album": {
-        "name": "B\u00e4st",
-        "url": "https://open.spotify.com/album/4hko5sUAbQqs5jbhtp5oaz"
+        "name": "PARASITE",
+        "url": "https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH"
       },
       "artists": [
         {
-          "name": "Korsv\u00e4gen",
-          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+          "name": "Wilma Vidal",
+          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
         }
       ],
-      "duration_ms": 156379,
-      "name": "B\u00e4st",
-      "url": "https://open.spotify.com/track/5EB1gR2BcPPAyhPNqz0SdM"
+      "duration_ms": 220885,
+      "name": "PARASITE",
+      "url": "https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI"
     },
     {
       "added_at": "2025-04-17 22:00:05",
@@ -1795,6 +1779,22 @@
       "duration_ms": 183748,
       "name": "Devil May Care",
       "url": "https://open.spotify.com/track/5F8rpUjmPinFhheVKrFbON"
+    },
+    {
+      "added_at": "2025-04-17 22:00:05",
+      "album": {
+        "name": "B\u00e4st",
+        "url": "https://open.spotify.com/album/4hko5sUAbQqs5jbhtp5oaz"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "duration_ms": 156379,
+      "name": "B\u00e4st",
+      "url": "https://open.spotify.com/track/5EB1gR2BcPPAyhPNqz0SdM"
     }
   ],
   "unique_name": "Made in Sweden",

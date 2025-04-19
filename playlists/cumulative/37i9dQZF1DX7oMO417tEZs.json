@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "A curated space for the avant-garde. Cover: DoFlame",
+  "description": "A curated space for the avant-garde. Cover: Smerz",
   "name": "Proto-",
   "tracks": [
     {
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 288328,
       "name": "Arm fell asleep",
       "url": "https://open.spotify.com/track/1k8EbQ64geRSgIghSRfR9R"
@@ -4212,7 +4212,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 238113,
       "name": "Camel8strike",
       "url": "https://open.spotify.com/track/23K5wTomiNskKrWqDOwchX"
@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 247741,
       "name": "CRYCRYCRY",
       "url": "https://open.spotify.com/track/12vPWJLmC2MnoJCX7PzkUF"
@@ -6338,7 +6338,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 178693,
       "name": "Curso Avanzado de Perra",
       "url": "https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg"
@@ -6414,7 +6414,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 145836,
       "name": "Damn",
       "url": "https://open.spotify.com/track/7mGWyCWNG6YawxdstjupbQ"
@@ -9242,7 +9242,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 152567,
       "name": "fantom",
       "url": "https://open.spotify.com/track/4nAZkPixAgvlplCv9IUOjK"
@@ -10595,6 +10595,24 @@
     },
     {
       "album": {
+        "name": "Lack of G-LIP",
+        "url": "https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4"
+      },
+      "artists": [
+        {
+          "name": "Camille Keller",
+          "url": "https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "FW2028",
+      "url": "https://open.spotify.com/track/7MY5PRhC8FzhgAIpCTpgTH"
+    },
+    {
+      "album": {
         "name": "For Your Consideration",
         "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
       },
@@ -11807,6 +11825,24 @@
     },
     {
       "album": {
+        "name": "Hazel",
+        "url": "https://open.spotify.com/album/6ZkdrARpDzvDO58GgOsVmw"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229977,
+      "name": "Hazel",
+      "url": "https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5"
+    },
+    {
+      "album": {
         "name": "He Venido al Mar",
         "url": "https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4"
       },
@@ -12660,7 +12696,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 173053,
       "name": "Hopeless Dreams",
       "url": "https://open.spotify.com/track/5FnRhAsZ49bWT959RnXtmJ"
@@ -21225,6 +21261,24 @@
     },
     {
       "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/7yQBl3xgsOQPMSeWfrXVKf"
+      },
+      "artists": [
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "pretty",
+      "url": "https://open.spotify.com/track/154zZbZJdhfdxKMYhnQUvq"
+    },
+    {
+      "album": {
         "name": "Pretty Privilege (feat. Emma Beko)",
         "url": "https://open.spotify.com/album/1yrdOeCzid2nTGKUpnVHos"
       },
@@ -22666,6 +22720,32 @@
       "duration_ms": 297610,
       "name": "Running Back To You",
       "url": "https://open.spotify.com/track/2y7VAoprorhUH8iQdViWUX"
+    },
+    {
+      "album": {
+        "name": "Rush (Missing Out On Me)",
+        "url": "https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Purient",
+          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144802,
+      "name": "Rush (Missing Out On Me)",
+      "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
     },
     {
       "album": {
@@ -24795,6 +24875,28 @@
     },
     {
       "album": {
+        "name": "Spirals On My Tongue",
+        "url": "https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Spirals On My Tongue",
+      "url": "https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV"
+    },
+    {
+      "album": {
         "name": "Spirit 2.0",
         "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
       },
@@ -26888,6 +26990,24 @@
       "duration_ms": 199293,
       "name": "The Thrill Is Gone.",
       "url": "https://open.spotify.com/track/0OY4O9PuW7A5fbI2o90WA8"
+    },
+    {
+      "album": {
+        "name": "The Transmission",
+        "url": "https://open.spotify.com/album/1JiH5DgJhIAvSRevHYMSiJ"
+      },
+      "artists": [
+        {
+          "name": "Introspekt",
+          "url": "https://open.spotify.com/artist/31ykDn30Wy1xVAZJesUwgn"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "The Transmission",
+      "url": "https://open.spotify.com/track/5YFW05THFYWVDv7uFXiIBe"
     },
     {
       "album": {
@@ -29922,6 +30042,24 @@
       "duration_ms": 224808,
       "name": "Woe (I See It From Your Side) - Bj\u00f6rk Remix",
       "url": "https://open.spotify.com/track/4F106vHfqduyI8mZUXGhEl"
+    },
+    {
+      "album": {
+        "name": "Woman Lake",
+        "url": "https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164583,
+      "name": "Woman Lake",
+      "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
     },
     {
       "album": {

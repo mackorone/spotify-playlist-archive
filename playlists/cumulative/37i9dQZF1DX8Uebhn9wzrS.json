@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "ambivalence",
+        "url": "https://open.spotify.com/album/5Y5qwgK5kCbwjxwbtAxjH0"
+      },
+      "artists": [
+        {
+          "name": "softflow",
+          "url": "https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118285,
+      "name": "ambivalence",
+      "url": "https://open.spotify.com/track/2N0VqqJmyoPsBfn4sbSXoG"
+    },
+    {
+      "album": {
         "name": "american midsummer",
         "url": "https://open.spotify.com/album/0hSmrjvgKp6au8r7Cnq0Pd"
       },
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 117202,
       "name": "Atropy",
       "url": "https://open.spotify.com/track/0hgi6qBCrmzn8ZjI5RMpuf"
@@ -15396,6 +15414,24 @@
       "duration_ms": 80526,
       "name": "Good Hit",
       "url": "https://open.spotify.com/track/0Jr2nC7PuXgGoOQsT90DtU"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/66A1R5Sl9FTSptE5IMTcWx"
+      },
+      "artists": [
+        {
+          "name": "RainDear",
+          "url": "https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/0BUB30A4FbwtvN3OVZplQZ"
     },
     {
       "album": {
@@ -33716,7 +33752,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 154250,
       "name": "slow down",
       "url": "https://open.spotify.com/track/4Z3daCsA87yz8r41q04CJr"
@@ -34210,6 +34246,24 @@
       "duration_ms": 172885,
       "name": "snowskiing",
       "url": "https://open.spotify.com/track/6kJCXQEhZdVR5wZ010LWvs"
+    },
+    {
+      "album": {
+        "name": "so far",
+        "url": "https://open.spotify.com/album/7wqJsHWpTXKINSY1C8g4Li"
+      },
+      "artists": [
+        {
+          "name": "Beats on 21st",
+          "url": "https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120125,
+      "name": "so far",
+      "url": "https://open.spotify.com/track/5xTtgyWdEuMFZQcJHXUVXe"
     },
     {
       "album": {
@@ -35342,6 +35396,24 @@
       "duration_ms": 143835,
       "name": "Stairs",
       "url": "https://open.spotify.com/track/4D0cuc4SuRRv5v1tnoiesI"
+    },
+    {
+      "album": {
+        "name": "Star Chart",
+        "url": "https://open.spotify.com/album/4ACSCJ4v4dSrmvidR7Kf5r"
+      },
+      "artists": [
+        {
+          "name": "Red Cedar",
+          "url": "https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124523,
+      "name": "Star Chart",
+      "url": "https://open.spotify.com/track/43Uq3uF9lqMCRSAYSabXeH"
     },
     {
       "album": {
@@ -41672,7 +41744,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 128457,
       "name": "Wavy nights",
       "url": "https://open.spotify.com/track/1CdheHuMbRIVzbQSg1IHmQ"
@@ -43112,7 +43184,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 115051,
       "name": "Yorkshire",
       "url": "https://open.spotify.com/track/3wVhElU6kT7unhanN3TtYF"

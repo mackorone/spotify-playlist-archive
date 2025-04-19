@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
-  "num_followers": 76429,
+  "num_followers": 76445,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aACfzgAAAAAlRsk8mWOv5ioWQNtKIjoJ",
+  "snapshot_id": "aAIF/QAAAABY4FALWI1HUkzKOOgX8tcV",
   "tracks": [
     {
       "added_at": "2025-01-31 14:54:10",
@@ -95,6 +95,26 @@
       "duration_ms": 229399,
       "name": "Nenjin Ezhuth",
       "url": "https://open.spotify.com/track/7Et1EN5V7xAyPjYOk8nSh3"
+    },
+    {
+      "added_at": "2025-04-18 07:57:49",
+      "album": {
+        "name": "Champagini (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/6ku33EXLIvrxSPSet3xTfM"
+      },
+      "artists": [
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "duration_ms": 116296,
+      "name": "Champagini - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/5K2mySnr02sfLS3MMJZICc"
     },
     {
       "added_at": "2025-03-07 04:53:18",
@@ -1515,26 +1535,6 @@
       "duration_ms": 265500,
       "name": "Nilla Mazhaiye",
       "url": "https://open.spotify.com/track/7Hr9ckrf61lR4DzhZVh5qv"
-    },
-    {
-      "added_at": "2023-10-03 06:18:30",
-      "album": {
-        "name": "Naangam Kadal Noaku Saalai",
-        "url": "https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j"
-      },
-      "artists": [
-        {
-          "name": "Marshall Robinson",
-          "url": "https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H"
-        },
-        {
-          "name": "Anand Aravindakshan",
-          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Naangam Kadal Noaku Saalai",
-      "url": "https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x"
     }
   ],
   "unique_name": "Tamil Indie",

@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-67 songs - 3 hr 32 min
+68 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Fine \- Acoustic](https://open.spotify.com/track/5XhnDZdU1oIrbbGR9p5zin) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 4:09 | 2024-02-16 | 2024-10-04 |
 | [Flight Alerts \- Stripped](https://open.spotify.com/track/0KximhGn0QxpaBuDP5qLyR) | [Ukairo](https://open.spotify.com/artist/0GOMjP8OTfdLxxR4W8djOA) | [Flight Alerts](https://open.spotify.com/album/2pPPMJVM2EXGSuFTd4tPNF) | 4:35 | 2024-02-16 | 2025-02-14 |
 | [Fold \(Acoustic\)](https://open.spotify.com/track/6486yIkkiV42CXf9BiEtoM) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:36 | 2024-02-16 |  |
+| [Follow \- Acoustic Version](https://open.spotify.com/track/5Nuc5NRoS4GVHO8bj563Vi) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy), [Sekzy](https://open.spotify.com/artist/3JfKYqGySja1gL67kxe99V) | [Follow \(Acoustic version\)](https://open.spotify.com/album/62Z176mBphN7Eq5gG3OnCS) | 2:41 | 2025-04-18 |  |
 | [Forgiveness \- Acoustic](https://open.spotify.com/track/3YjtREDtfGmGMIhKqLhXR0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness \(Acoustic\)](https://open.spotify.com/album/6cZfUOF3wtwV9gymqCCgAf) | 2:40 | 2025-02-13 |  |
 | [Ghetto Gospel \- Acoustic Version](https://open.spotify.com/track/0hTt48VRKAOZVNoNyvX8co) | [Shun Breezy](https://open.spotify.com/artist/3BBfTY6VjAtcWyN2Ux3wC6) | [Ghetto Gospel \(Acoustic Version\)](https://open.spotify.com/album/4ZUuhzqrl4fQQT6Q7h24Ly) | 3:47 | 2024-02-16 | 2024-07-19 |
 | [GoodSin \- Acoustic](https://open.spotify.com/track/6hKRozJksKQrLTOu5Fo6wX) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [GoodSin \(Acoustic\)](https://open.spotify.com/album/3m61tjwaJsthMob8WkrrZY) | 2:19 | 2024-02-16 |  |

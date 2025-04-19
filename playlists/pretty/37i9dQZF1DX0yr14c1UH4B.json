@@ -1,10 +1,10 @@
 {
   "description": "Golden new releases ft. Tori Kelly and JVKE",
-  "num_followers": 56730,
+  "num_followers": 56737,
   "original_name": "The Gold List",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "aAGWDgAAAACFFywDG2jb3tteqtNFkJfC",
   "tracks": [
@@ -371,6 +371,26 @@
       "duration_ms": 161733,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/4s29lVsKQafjQ43HN7dWxK"
+    },
+    {
+      "added_at": "2025-04-18 00:00:14",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/444HPVe68zxpUXbV06UH5E"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/28V4gxMRBBWhnpo4SGpihh"
     },
     {
       "added_at": "2025-04-18 00:00:14",

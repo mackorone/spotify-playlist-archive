@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: After
 
-3,151 songs - 7 day 6 hr 10 min
+3,152 songs - 7 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2296,6 +2296,7 @@
 | [Sailboat](https://open.spotify.com/track/3A2HGVAzXJ2CTx84ZzKvn6) | [Martin Courtney](https://open.spotify.com/artist/4JuWruv1jBeWne0sJTUH3k) | [Sailboat](https://open.spotify.com/album/4aNcOIkxmGSpuVK01wQgD5) | 3:06 | 2022-06-15 | 2022-06-30 |
 | [Sally! I Met A Boy](https://open.spotify.com/track/0NGmsCKD14mLUhR65PtHXM) | [Maddy Davis](https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ) | [Sally! I Met A Boy](https://open.spotify.com/album/5lisHEfXNRsbFyAp7z5s9a) | 3:01 | 2022-10-24 | 2022-12-01 |
 | [Saltlick](https://open.spotify.com/track/4Pu1l1CF4rcN3xIgWbgni6) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [Saltlick](https://open.spotify.com/album/5YglHC7ULUEyn8hpGhXMal) | 1:35 | 2024-09-11 | 2024-10-10 |
+| [same guy new apartment](https://open.spotify.com/track/5U3atNyJsu3e8EAQ3fJMGS) | [Faith Zapata](https://open.spotify.com/artist/0hJu98X7eKFanMFjJ6eUZF) | [same guy new apartment](https://open.spotify.com/album/6OM7p0zKIqwBFcws29CHY2) | 3:36 | 2025-04-18 |  |
 | [Same Light](https://open.spotify.com/track/2bWkBLuzrH7g1HcB833se9) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Same Light](https://open.spotify.com/album/6yMKeDhZFq76X3NpxSnLqm) | 2:36 | 2022-01-19 | 2022-04-07 |
 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 | 2022-11-30 | 2023-01-12 |
 | [Same Shit](https://open.spotify.com/track/4NeylirypBbd1rHNxxxsZL) | [Kyler Slater](https://open.spotify.com/artist/5CppCKxW4I8UX6TdE3VDov) | [Same Shit](https://open.spotify.com/album/4ZNmkETAxrOLfOWDgY7XlW) | 2:31 | 2024-01-10 | 2024-01-25 |

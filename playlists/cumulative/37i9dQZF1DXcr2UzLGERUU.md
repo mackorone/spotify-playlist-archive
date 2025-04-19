@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-159 songs - 8 hr 35 min
+160 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 | 2022-04-01 | 2024-04-19 |
 | [Upside Down](https://open.spotify.com/track/4JWZTNlLBlNoa5t7qn1M8i) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down \(UK MaxiSingEnhanced\)](https://open.spotify.com/album/0aCRJrY78QHUIJSqxOhwFW) | 3:29 | 2022-04-01 |  |
 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 | 2022-04-01 |  |
+| [Welcome Home](https://open.spotify.com/track/161Qkbev7jDi4prjogC3wg) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Welcome Home](https://open.spotify.com/album/2AknZSGVlpDH0qcg6t02Js) | 2:56 | 2025-04-18 |  |
 | [What a Wonderful World](https://open.spotify.com/track/4JlWuaAEZss5M4nEGkSJXJ) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 3:16 | 2022-04-01 |  |
 | [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 | 2022-04-01 |  |
 | [What Will You Be](https://open.spotify.com/track/6s4JhPW2vesedW9obEBhUO) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Songs for Charlie](https://open.spotify.com/album/1uvvolXhAoaH0OjhL2byva) | 3:22 | 2022-04-01 | 2023-04-09 |

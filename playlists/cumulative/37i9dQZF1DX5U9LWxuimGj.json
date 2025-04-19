@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music with a Latin flair. Cover: Cody Johnson and Carin Leon",
+  "description": "Country music with a Latin flair. Cover: Sammy Arriaga",
   "name": "Country Latino",
   "tracks": [
     {
@@ -2343,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "Moves Like Mexico",
+        "url": "https://open.spotify.com/album/6izPcQeJPv06E1yqnl824M"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192922,
+      "name": "Moves Like Mexico",
+      "url": "https://open.spotify.com/track/7CXsYMRVnn5s1Sak8BFYLX"
+    },
+    {
+      "album": {
         "name": "AYAYAY! (Deluxe)",
         "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
       },
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 214304,
       "name": "Tennessee Whiskey - Spanish",
       "url": "https://open.spotify.com/track/0VvE78qLaoWabpnU7jKo0E"

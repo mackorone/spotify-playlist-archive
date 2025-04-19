@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,422 songs - 3 day 10 hr 5 min
+1,423 songs - 3 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,7 @@
 | [Helium](https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Helium](https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ) | 3:11 | 2023-06-16 | 2025-01-18 |
 | [Help Me Lose My Mind](https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Help Me Lose My Mind](https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa) | 2:52 | 2024-11-29 |  |
 | [Here](https://open.spotify.com/track/1rAlHGfpnHz3kF2WwLGXw6) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Here](https://open.spotify.com/album/4hQ3OP8m5ZIV7IlqfSiwmC) | 3:14 | 2021-09-25 | 2022-05-14 |
-| [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG) | 3:31 | 2024-05-31 |  |
+| [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG) | 3:31 | 2024-05-31 | 2025-04-19 |
 | [Here For You \(feat\. sad alex\)](https://open.spotify.com/track/3PIjrbCjKKNmR84vPf172R) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [For You](https://open.spotify.com/album/7rcgjzm6DOL7GiHws7Gmb3) | 2:47 | 2019-08-09\* | 2020-03-29 |
 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 | 2019-08-20 | 2020-10-30 |
 | [Here With Me \(feat\. Nevve\)](https://open.spotify.com/track/14BmGOdWFMkxiyQ7f4s03L) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Here With Me \(feat\. Nevve\)](https://open.spotify.com/album/4cBVizWVamVwH4v5g6zTto) | 3:25 | 2020-02-21 | 2021-09-25 |
@@ -641,6 +641,7 @@
 | [In My Head](https://open.spotify.com/track/0UJ55vY4Mn8SYj6o6kWaWi) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1) | [In My Head](https://open.spotify.com/album/6iLhUKx2Pgbdj8yJB6hbZ4) | 2:27 | 2023-02-10 | 2023-06-17 |
 | [In My Mind](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Mind](https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo) | 2:00 | 2024-02-26 |  |
 | [In My Mind](https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [In My Mind](https://open.spotify.com/album/3EsFLxuzw23LOKbaG33jAe) | 4:46 | 2024-06-17 |  |
+| [In My Room](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [In My Room](https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g) | 2:39 | 2025-04-18 |  |
 | [In Time](https://open.spotify.com/track/7vVIT1ywbtXgRIY89u5kEH) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [In Time](https://open.spotify.com/album/5epOkHu9dFr3Og9tPC7zXc) | 3:11 | 2019-08-09\* | 2020-03-29 |
 | [IN TOO DEEP](https://open.spotify.com/track/0aSk0QVYN4DjZ33gPP5xnV) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [IN TOO DEEP](https://open.spotify.com/album/1GKef1XAvpb9xnyRUs8GYt) | 3:01 | 2022-09-30 | 2022-11-12 |
 | [In Too Deep](https://open.spotify.com/track/4VEEGfekFjcTjEOxSmUgBF) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Tears In Paradise](https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE) | 3:01 | 2022-10-28 | 2024-04-10 |

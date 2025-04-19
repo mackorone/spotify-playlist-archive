@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Turnstile.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Face Yourself.
 
-963 songs - 2 day 12 hr 22 min
+969 songs - 2 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Axe of Kindness](https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Axe Of Kindness](https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6) | 4:08 | 2022-12-09 | 2023-07-15 |
 | [Babylon](https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Babylon](https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB) | 3:33 | 2024-08-23 | 2025-04-11 |
 | [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 | 2023-01-27 | 2024-02-03 |
+| [BAD LUCK](https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [BAD LUCK](https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y) | 4:05 | 2025-04-18 |  |
 | [Ball and Chain](https://open.spotify.com/track/457LPWq6juhZXzJ6kIgivc) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Ball and Chain](https://open.spotify.com/album/1qikoon0QW3Bug8IVj5uHY) | 3:43 | 2023-11-17 | 2024-02-03 |
 | [Bananarchy Zoo](https://open.spotify.com/track/5jbB924JhR1lKjdZn58OoV) | [Eye Flys](https://open.spotify.com/artist/7GzM51BvYYlZ6Hdef6fM41) | [Bananarchy Zoo](https://open.spotify.com/album/4aR9eUz1g7Nx6RGnhnauwz) | 5:25 | 2024-01-05 | 2025-04-11 |
 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 | 2023-09-08 | 2024-02-03 |
@@ -173,6 +174,7 @@
 | [Crawl Backwards Out of Heaven](https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Crawl Backwards Out of Heaven](https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw) | 3:22 | 2024-03-15 | 2025-04-11 |
 | [Crawl Space](https://open.spotify.com/track/0pV3HjvJ2nKCiRueKe5SId) | [Filth is Eternal](https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0) | [Crawl Space](https://open.spotify.com/album/0Cy99fFT5llj7iYW0jkldr) | 1:31 | 2023-06-23 | 2024-02-03 |
 | [Crazed Killer](https://open.spotify.com/track/0AcEacMQ5DjNKK6Nynh9pl) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Crazed Killer](https://open.spotify.com/album/27PfQknaNIiFDWsKxYM93n) | 1:37 | 2025-02-14 |  |
+| [Cries of Domination](https://open.spotify.com/track/48pcLjb7fjc5v0kCEVs7GT) | [DON’T TRY](https://open.spotify.com/artist/0Tm5nFdsHOR6LFBDK7l5x9) | [Cries of Domination](https://open.spotify.com/album/6qxy0PZufi1mo7cFHzR4zn) | 3:04 | 2025-04-18 |  |
 | [Cross To Bear](https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP) | [Aversed](https://open.spotify.com/artist/0NnC3YeMSgqiGQtfe5KEkF) | [Cross To Bear](https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx) | 4:04 | 2024-10-11 | 2025-04-11 |
 | [Cruel Times](https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Cruel Times](https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT) | 2:58 | 2025-02-21 |  |
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-02-28 |  |
@@ -349,6 +351,7 @@
 | [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-01-20 | 2024-02-03 |
 | [Gravity](https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Gravity](https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw) | 4:03 | 2025-01-10 |  |
 | [Grayscale](https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Grayscale](https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu) | 3:59 | 2022-09-09 | 2023-07-15 |
+| [GREED](https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [GREED](https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u) | 2:50 | 2025-04-18 |  |
 | [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2024-11-29 | 2025-04-11 |
 | [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-06-02 | 2024-02-03 |
 | [Gross Abuse](https://open.spotify.com/track/6fL0AtGIH9hWi8zc6m7XOK) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Manual Manic Procedures](https://open.spotify.com/album/2p4qPInJmmYl8QZ3uhIbDb) | 1:49 | 2024-06-28 | 2025-04-11 |
@@ -408,6 +411,7 @@
 | [Imposter Syndrome](https://open.spotify.com/track/6Gyfnh212BLrBpIwjnXYIh) | [Whores](https://open.spotify.com/artist/1tK28YnQJ6edBujubs7FXo) | [Imposter Syndrome](https://open.spotify.com/album/4l0JAsTXAZyERJR2h7O6z6) | 4:04 | 2022-03-04 | 2023-07-15 |
 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 | 2024-08-16 | 2025-04-11 |
 | [In Place of your Halo](https://open.spotify.com/track/5T0D6nxXifuwTeYSUVpiH3) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [In Place of your Halo](https://open.spotify.com/album/79oAGmxTtCVqbUCLgXnhb3) | 3:43 | 2024-12-06 | 2025-04-11 |
+| [In Search of Tomorrow](https://open.spotify.com/track/1sIny89FOnM0kGkXN3cHDj) | [Youth Code](https://open.spotify.com/artist/15VmPRQCJEZWaZWgHEroj0) | [In Search of Tomorrow](https://open.spotify.com/album/2nWxngiXyQKuGZg2Yhkpcq) | 2:33 | 2025-04-18 |  |
 | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d) | 4:18 | 2025-04-04 |  |
 | [In the Depths of Grief](https://open.spotify.com/track/3F0NsalkHMz49ZAyqpGvsO) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt) | [In the Depths of Grief](https://open.spotify.com/album/6KanVoZHrwJxco58rr0ikH) | 2:26 | 2025-02-14 |  |
 | [In The Grey](https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [In The Grey](https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0) | 3:38 | 2024-12-06 | 2025-04-11 |
@@ -613,6 +617,7 @@
 | [Pressure Cooker](https://open.spotify.com/track/07w72qT4WkRcJ3uTvBRoD2) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Pressure Cooker](https://open.spotify.com/album/02y74a73M3k5WchfJRIi26) | 2:50 | 2022-03-18 | 2023-07-15 |
 | [Pressure Mind](https://open.spotify.com/track/75cc56t2JYXMvIlduXN57b) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Pressure Mind](https://open.spotify.com/album/44vK1l1tAzKLx9PCeIXCKP) | 3:25 | 2022-04-01 | 2023-07-15 |
 | [Prevention of Peace](https://open.spotify.com/track/3IkvK1H8WkOHrrox5XgHjw) | [LICE](https://open.spotify.com/artist/7mIukH2sODEJQnUhty5lkF) | [World of Greed](https://open.spotify.com/album/1IvCS6EqVjHvazVuG4i5IV) | 2:11 | 2024-07-12 | 2025-04-11 |
+| [Primal](https://open.spotify.com/track/3wMkfIe90hyFfDOkw7pYFm) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Martyr](https://open.spotify.com/album/6eYkizhHQml77mtN09vADR) | 1:48 | 2025-04-18 |  |
 | [Primordial](https://open.spotify.com/track/4WXlHPknaqFYknWRW9uZ9h) | [Telekinetic Yeti](https://open.spotify.com/artist/7KwTOgmCktKmZoWfe3vUsF) | [Primordial](https://open.spotify.com/album/5mfiHcp5ZvgXTGN44Wa2oY) | 4:35 | 2022-06-10 | 2023-07-15 |
 | [Prisoner Of You](https://open.spotify.com/track/7APK0mRVzOm3WcV0wMNHyJ) | [Alienist](https://open.spotify.com/artist/3QjDcXIEFoAGHAe6TSBnce) | [Prisoner Of You](https://open.spotify.com/album/09kfy0nthCuYWoYg34uok1) | 3:54 | 2023-12-01 | 2024-02-03 |
 | [Propaganda of the Deed](https://open.spotify.com/track/2nocAasjCoZZRWX4CdRmKu) | [Broken Vow](https://open.spotify.com/artist/7cbddjy4wOdhxzR4Wnypt3) | [Anthropocene](https://open.spotify.com/album/7ezr6GbJRbWA79TS6IM8x8) | 2:18 | 2023-09-29 | 2024-02-03 |
@@ -910,6 +915,7 @@
 | [Waiting on the Reaper](https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Helldorado](https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj) | 4:01 | 2025-03-21 |  |
 | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/64rFzne9SQbMWmsVtSll0H) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/2Vh56LgTE6JXm5lo0GGAHL) | 3:43 | 2022-04-01 | 2023-07-15 |
 | [Walk With Tha Talk](https://open.spotify.com/track/0zVIYGQs3WxBN2xxS1iVRC) | [Street Soldier](https://open.spotify.com/artist/2JTevQpqNi8NB3mPdKwaYa) | [Walk With Tha Talk](https://open.spotify.com/album/63rbPAnhrg4M0SXIhOLh8C) | 4:30 | 2024-09-13 | 2025-04-11 |
+| [Walls](https://open.spotify.com/track/1rMJ6bNrboaJw9cJpGLlwF) | [Heaven's Gate](https://open.spotify.com/artist/7sN8GopqZejq2f2WQqTRyD) | [Tales from a Blistering Paradise](https://open.spotify.com/album/72f6O1tlOWV6ExDH5E2Ovl) | 2:44 | 2025-04-18 |  |
 | [War Not Beef](https://open.spotify.com/track/6kSMJDGU9Lho9HFrw8kukI) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 3:47 | 2022-10-28 | 2023-07-15 |
 | [War Of Being](https://open.spotify.com/track/7Giyxds8jh7TVluP93eC5C) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [War Of Being](https://open.spotify.com/album/32xlRHSOQrN0gaLNRmesGd) | 11:02 | 2023-07-14 | 2024-02-03 |
 | [Warhead](https://open.spotify.com/track/0Mj7xOfaYREbZ8inqW1JNB) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [Warhead](https://open.spotify.com/album/1iKrLSnRkGOSaFmBzNPBtO) | 3:39 | 2025-03-21 |  |

@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Die Piesangskille, Die Heuwels Fantasties, Johan Viljoen, Elandré, Martin Bester en meer!
 
-1,654 songs - 3 day 19 hr 59 min
+1,655 songs - 3 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Dou Voor Dag](https://open.spotify.com/track/0Pi1eh6kewDdQ5DXTGTklJ) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ) | [Dou Voor Dag](https://open.spotify.com/album/4g1pAT1P10jabjv4zXhZRh) | 2:41 | 2024-03-07 | 2024-03-15 |
 | [Drake in my](https://open.spotify.com/track/0zKwNhzbXgsTRi2mLx6LSQ) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Drake in my](https://open.spotify.com/album/70vCbV2EzDtPXuZz551cgq) | 4:08 | 2024-04-11 | 2024-04-19 |
 | [Dream Masjien](https://open.spotify.com/track/532HpXPup6e6sgp0aJpWl3) | [Pretorius](https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G) | [Dream Masjien](https://open.spotify.com/album/58RG8asgRkHxT0peotsXeW) | 2:43 | 2024-05-09 | 2024-08-23 |
-| [DRIEANKERBAAI](https://open.spotify.com/track/6xd01WV2ZZpQ8I2ZY0QYfi) | [Anja Steyn](https://open.spotify.com/artist/0Nu5Pboi9vC4Y7RI9df5gP) | [DRIEANKERBAAI](https://open.spotify.com/album/3kPgpL30uPS6liJxvnFsAY) | 4:21 | 2025-04-17 |  |
+| [DRIEANKERBAAI](https://open.spotify.com/track/6xd01WV2ZZpQ8I2ZY0QYfi) | [Anja Steyn](https://open.spotify.com/artist/4ci9GCoVcKH2oexmlsX2Ng) | [DRIEANKERBAAI](https://open.spotify.com/album/3kPgpL30uPS6liJxvnFsAY) | 4:21 | 2025-04-17 |  |
 | [Drink](https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa) | [Frikkie Braaibroodjie](https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL) | [Drink](https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx) | 3:18 | 2022-11-17 | 2023-03-10 |
 | [Drome \(Amper Daar\)](https://open.spotify.com/track/54sc9Vfr6aWZCv58i46KSa) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Drome \(Amper Daar\)](https://open.spotify.com/album/4QuqGyLHVdFK2OZBAwvHau) | 2:38 | 2024-11-28 | 2024-12-06 |
 | [Drome \(Amper Daar\) \- Afrikaans Wil Dans Remix](https://open.spotify.com/track/5JUSSYANvsPUWmZ9kiyPJd) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Drome Afrikaans Wil Dans Remix](https://open.spotify.com/album/0HJdSMKgI9qMQQkhRnWxu0) | 3:00 | 2025-04-03 |  |
@@ -583,7 +583,7 @@
 | [Hittegolf](https://open.spotify.com/track/5gdFICPZA8O3sClubtTZt8) | [Liam Black](https://open.spotify.com/artist/2tG5CTvquFTVK2ZBnWECxH) | [Hittegolf](https://open.spotify.com/album/587lT0bB5OIiTFYBXS27VR) | 2:54 | 2024-04-18 | 2024-05-10 |
 | [HMFYL](https://open.spotify.com/track/6xQk1YovGUFio85aMtF4IL) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [HMFYL](https://open.spotify.com/album/3VBVP25bfwEvFTRv3tbjEu) | 3:11 | 2024-02-08 | 2024-02-23 |
 | [Hoe Gaan Dit](https://open.spotify.com/track/5qq8fQBV1Fmo54IJE2Aj2Q) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Hoe Gaan Dit](https://open.spotify.com/album/1H9HEX0ZOBNHbwi32H5VXc) | 3:02 | 2024-02-29 | 2024-03-22 |
-| [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/40uxME7eqIDtDr7Q9Z07P3) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 | 2025-04-17 |  |
+| [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 | 2025-04-17 |  |
 | [Hoe val mens so hard vir liefde](https://open.spotify.com/track/7tfYYUrcn5zdcgcGfGpvNN) | [Leandri Martin](https://open.spotify.com/artist/23vhLfPvdSy4JeT9YqAN1m) | [Hoe val mens so hard vir liefde](https://open.spotify.com/album/0sH2eVGV1dxih25alvkDac) | 3:45 | 2023-05-11 | 2023-05-26 |
 | [HOEVEEL PROFETE](https://open.spotify.com/track/3qhYfoEBO8sBj0gxbNG2P6) | [Francis Na Die Maan](https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL) | [HOEVEEL PROFETE](https://open.spotify.com/album/7sIiSA4MvPGzfGGDXlvPxc) | 2:35 | 2025-01-16 | 2025-01-24 |
 | [Hoezit Haai](https://open.spotify.com/track/6L0YX9v1O7TvlxCdhOe5sW) | [Dis Net Frederick](https://open.spotify.com/artist/7K8dXmsaU5eAldwKd9ljRM) | [Hoezit Haai](https://open.spotify.com/album/39ozF4M7B2Ngw0yO8Urj5q) | 3:03 | 2024-11-07 | 2025-01-17 |
@@ -1478,6 +1478,7 @@
 | [Vanoggend In My Kop](https://open.spotify.com/track/3w8X44AryrZlXsiPAPIUjS) | [Kabaal Klankbaan](https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb), [Nina Kajee](https://open.spotify.com/artist/6OCYCOfGKRhmAxZmHqFH3Y) | [Vanoggend In My Kop](https://open.spotify.com/album/3V7IJJeHSVydXQVYaETyao) | 4:07 | 2023-10-19 | 2023-11-03 |
 | [Vape en Suip](https://open.spotify.com/track/4tq0ExdlIbZT00HR69mTe6) | [Armand Barnard](https://open.spotify.com/artist/50UEudz9B1sg3tYVRD5OTe) | [Vape en Suip](https://open.spotify.com/album/040V08JxKckxzVAtREYrcN) | 2:32 | 2024-06-27 | 2024-08-02 |
 | [Vas En Los](https://open.spotify.com/track/6fAGOIsKpc7yFpGMwgSRTP) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Net Liefde](https://open.spotify.com/album/0jGYdco9OrPMuQWRAsS2vp) | 3:13 | 2023-08-10 | 2023-10-20 |
+| [Vas Hou](https://open.spotify.com/track/6BEQ8syfRMRE5kf3eY7ogz) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Vas Hou](https://open.spotify.com/album/0rMbU1Ok9Y47TG5Fh1zcMg) | 3:32 | 2025-04-17 |  |
 | [Vasdanslyf](https://open.spotify.com/track/1TpnEc2036G3qVKdL2tAte) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Twintig20](https://open.spotify.com/album/1VaZ5Nabq9W2X5OKPAfXop) | 3:34 | 2022-12-27 | 2023-01-02 |
 | [Vat 5](https://open.spotify.com/track/1tERAe58iLcA5fkoOicFaR) | [Riaan Grobler](https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u) | [Vat 5](https://open.spotify.com/album/1hyfXs1kxA2JOhxwmZaCYY) | 3:33 | 2023-04-20 | 2023-05-05 |
 | [Vat Die Cruiser](https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jacques Du Plessis](https://open.spotify.com/artist/1JACnZftdau4Kpt0I8kvTA) | [Vat Die Cruiser](https://open.spotify.com/album/1kfAKry5OJsrxRQsKBX5s1) | 3:00 | 2022-12-08 | 2023-05-19 |

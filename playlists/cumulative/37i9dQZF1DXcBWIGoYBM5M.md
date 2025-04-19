@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Lola Young
+> The hottest 50\. Cover: Lady Gaga
 
 1,223 songs - 2 day 17 hr 36 min
 

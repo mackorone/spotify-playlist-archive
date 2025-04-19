@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-617 songs - 1 day 8 hr 39 min
+618 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Blissful Pink Noise](https://open.spotify.com/track/0L9AolJCmHUsmzN19OpY0J) | [Arcticos](https://open.spotify.com/artist/3cMJyeklWJOqZ46VjZYFJT) | [Blissful Pink Noise](https://open.spotify.com/album/2z96Vow6A7rOeP8uKkonDI) | 3:13 | 2022-11-18 |  |
 | [Blissful Pink Noise](https://open.spotify.com/track/6TSkktejhT9O9qTDTQf7tn) | [Laboratory Pink Noise](https://open.spotify.com/artist/5xdlDNkWf66gnF9HtSVoQs) | [In The Lab 6am](https://open.spotify.com/album/4OlCUrlz1zABOys2KCoJSg) | 2:27 | 2022-04-29 | 2022-12-21 |
 | [Blush Of Dawn](https://open.spotify.com/track/2P7snIJy0U2axKeKSCcxzQ) | [San Sebastiano](https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4) | [Peaceful Pastel Pinks](https://open.spotify.com/album/1PT95c33y6YbZyK2HWNfqe) | 2:35 | 2024-02-09 |  |
+| [Blushing Pink Blanket](https://open.spotify.com/track/1cGpUkGaa5fNasbM8lAVpo) | [Haworth in White](https://open.spotify.com/artist/6Z8jsYd7S1YwIhn72j9xqK) | [Blushing Pink Blanket](https://open.spotify.com/album/6xlnk6dAF56cUbCXHlmLKZ) | 3:51 | 2025-04-09 |  |
 | [Brain X 1000](https://open.spotify.com/track/2PXTRyViXMQnezQOs6vDHa) | [Noise Makers](https://open.spotify.com/artist/0nrbcHAQjeZ8Acj8wXmJhB) | [White Noise](https://open.spotify.com/album/4mFFAzJgZ9886aTrcJC62R) | 2:46 | 2021-12-01 | 2022-08-03 |
 | [Breezy Evening Noise \- Loopable with No Fade](https://open.spotify.com/track/4RCjkZdSQ6DusyJbKyZSKu) | [Pink Noise Babies](https://open.spotify.com/artist/3IbU77P0FS0SrnmP45ssrx) | [Pink Noise Baby Sleep](https://open.spotify.com/album/5jeTMRAZzpsQqrgYaISKiR) | 3:15 | 2021-12-01 | 2022-11-19 |
 | [Brown & Beautiful](https://open.spotify.com/track/6XGoB0EKMCvm63YV61ndRf) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Brown Heavenly Noise](https://open.spotify.com/album/0iBBk21u80JLwr4TO0tRGk) | 2:54 | 2022-11-18 | 2025-03-19 |
@@ -289,7 +290,7 @@
 | [From A Wind Shelter](https://open.spotify.com/track/6ck00OxkQodovF01jbqG8V) | [Brown Noise Reverie](https://open.spotify.com/artist/11WpAKp8lM5b35xrylz3FS) | [From A Wind Shelter](https://open.spotify.com/album/7vr4akCBfDpYJImFWh7rkC) | 3:20 | 2022-11-18 | 2023-08-23 |
 | [Full Spectrum Brown Noise](https://open.spotify.com/track/6N5YSUp5wPPQsazAPk01Ua) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Brown Noise](https://open.spotify.com/album/3TZRgfNrwkdPMhgz9CB53G) | 2:45 | 2022-11-18 | 2022-12-21 |
 | [Gentle Fade Brown Noise](https://open.spotify.com/track/52tsiSsIBw7a8sHTEBnO3y) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Brown Noise Hz](https://open.spotify.com/album/5Eh7GZpQT9dfjyMz4NUdvk) | 3:26 | 2022-09-08 | 2024-02-10 |
-| [Gifted Noise](https://open.spotify.com/track/3F3VaOK290JSVVW0m44VlE) | [Gnees Pink Noise](https://open.spotify.com/artist/4iUE0zqhOvNJXGiP4DPEZW) | [Pink Noise Pt.1](https://open.spotify.com/album/1yj4hwvRRDU5BO9LLXmmLy) | 2:23 | 2022-06-03 |  |
+| [Gifted Noise](https://open.spotify.com/track/3F3VaOK290JSVVW0m44VlE) | [Gnees Pink Noise](https://open.spotify.com/artist/4iUE0zqhOvNJXGiP4DPEZW) | [Pink Noise Pt.1](https://open.spotify.com/album/1yj4hwvRRDU5BO9LLXmmLy) | 2:23 | 2022-06-03 | 2025-04-19 |
 | [Good Night Brown Noise](https://open.spotify.com/track/2PyV5iL5LG3tKGTL03PeZ6) | [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Sleep Fast Brown Noise](https://open.spotify.com/album/01BsRQXpRYSb9hmw2zZvQh) | 2:04 | 2023-01-27 |  |
 | [Halcyon Pink](https://open.spotify.com/track/4Tr9gx1fsA9VpilqHZABpc) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Pinksomnia](https://open.spotify.com/album/5ogQBNAiBaVC2zNRgDgdL4) | 3:12 | 2022-08-02 |  |
 | [Harmonious Pink](https://open.spotify.com/track/159e86GK041IHPDGGys1Xo) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Harmonious Pink](https://open.spotify.com/album/0ilDCKbfoslC4xl2eScsGT) | 3:02 | 2022-11-18 |  |

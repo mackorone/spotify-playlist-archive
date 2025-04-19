@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  \(Cover: Commemorate\)
+> Noise distortion amongst the hazy clouds ☁️  \(Cover: killmilky \)
 
-200 songs - 13 hr 54 min
+202 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Edges](https://open.spotify.com/track/1VKEi2gCOilCg9pM8dPo1j) | [meeve](https://open.spotify.com/artist/5WP6R7bAjeetDf7rZJQiMp) | [Edges](https://open.spotify.com/album/4GgGiHSIATT5mTsZ8nIn33) | 3:43 | 2024-06-27 | 2024-11-22 |
 | [Endless Emotions](https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Forever](https://open.spotify.com/album/5jTFdGObfWZEideEm391F2) | 5:19 | 2024-06-27 |  |
 | [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 | 2024-12-05 |
+| [Eyes](https://open.spotify.com/track/2TxuvmICxloBzsmDx3oMDf) | [Unruly Posers](https://open.spotify.com/artist/7kObB4tWUnB01KWqXEMewM) | [Eyes](https://open.spotify.com/album/7qm0yUkMURYUzfcbdqMwlD) | 4:00 | 2025-04-18 |  |
 | [Fading](https://open.spotify.com/track/3EUbcTDN7japhhDGsDvlZP) | [Thread Needle](https://open.spotify.com/artist/3czEitwqO6z78ZUNlHlp77) | [Fading](https://open.spotify.com/album/3hzIziLoqcCrFwg1oBnfrV) | 4:33 | 2024-06-27 | 2024-12-05 |
 | [Fading](https://open.spotify.com/track/1Vl7oJHZWzyQYROZAwqo29) | [Withered Whispers](https://open.spotify.com/artist/3uG0BjYEeeRvTRm75rWJD7) | [Fading](https://open.spotify.com/album/4Squ5XKPXdotAv4zTCzYse) | 3:31 | 2025-03-21 |  |
 | [Faith](https://open.spotify.com/track/1PI1AYbn0QXlFSrfxHMoyK) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs of The Hazy Memories](https://open.spotify.com/album/4mlgz1lwErzQAyjgPa57t1) | 3:04 | 2025-01-23 |  |
@@ -197,6 +198,7 @@
 | [⁠“THE\_MORE,the\_less” \(Enola ver.\)](https://open.spotify.com/track/79C6clV5dEqCgDVjVxuPxV) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Enola](https://open.spotify.com/artist/0RQlp5k4SaE2zbx7mGlU7r) | [so:LOUD+MORE,less](https://open.spotify.com/album/1EvTyK5ZbKakkCdCPdXKnE) | 12:04 | 2025-02-20 |  |
 | [あまり風](https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [あまり風](https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz) | 4:00 | 2025-01-16 | 2025-02-08 |
 | [さざめく麦わら](https://open.spotify.com/track/3qB4dEN0GF2GspAAjWsdn2) | [Happy Ever After](https://open.spotify.com/artist/1zbiJz0qV0zYZCXvNRECga) | [Total Feedback 2024](https://open.spotify.com/album/2Dgvi6e7y44CSRXwiURRg2) | 2:33 | 2024-06-27 | 2024-10-11 |
+| [なにもかも月に似ている](https://open.spotify.com/track/7sRBWP5BNss5HYqn1Pt2Ww) | [killmilky](https://open.spotify.com/artist/3IrSICIfRh3XOLZl2PNOUU) | [なにもかも月に似ている](https://open.spotify.com/album/1I2HnAwlAZYlDFqPSrVygf) | 4:33 | 2025-04-18 |  |
 | [ひらいて](https://open.spotify.com/track/3X4U5HF411RAU1MOteMbG8) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [yura](https://open.spotify.com/album/6DCKEaArrhu5mdwr5e8vgY) | 4:09 | 2025-02-07 |  |
 | [やさしい雷](https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [やさしい雷](https://open.spotify.com/album/3WlR1EZCXCZBsGQlDAVKDH) | 4:04 | 2024-06-27 |  |
 | [傍晚去太子灣嗎](https://open.spotify.com/track/1qG2U4IDgPI37CixBQZ4PQ) | [Schoolgirl Byebye](https://open.spotify.com/artist/6kfcndVsu8F9Y5gL5xc717) | [傍晚去太子灣嗎](https://open.spotify.com/album/5Htgs7LGnn3EzjDIpjMi28) | 4:55 | 2024-06-27 |  |

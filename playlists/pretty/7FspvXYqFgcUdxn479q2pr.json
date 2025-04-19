@@ -1,28 +1,32 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover:  KSHMR &amp; Izzy Bu",
-  "num_followers": 32474,
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Gabry Ponte",
+  "num_followers": 32476,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAsOUWYZBh+IvTi4sWjLL3QiaCiW3Or",
+  "snapshot_id": "AAAsPJ4dsYQC3XBi7ZtRxCr563Af1U5P",
   "tracks": [
     {
-      "added_at": "2025-04-10 12:23:47",
+      "added_at": "2025-04-17 10:29:28",
       "album": {
-        "name": "Bailame",
-        "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
+        "name": "Frequency (Go West)",
+        "url": "https://open.spotify.com/album/72YdJwYP5izEXu4itP8u7B"
       },
       "artists": [
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 185650,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
+      "duration_ms": 153857,
+      "name": "Frequency (Go West)",
+      "url": "https://open.spotify.com/track/64jnLLOAwnDscTYCAc6oct"
     },
     {
       "added_at": "2025-04-17 10:29:28",
@@ -61,24 +65,20 @@
       "url": "https://open.spotify.com/track/0Vn1ko7vBs5qGf07s3XrFV"
     },
     {
-      "added_at": "2025-04-17 10:29:28",
+      "added_at": "2025-04-10 12:23:47",
       "album": {
-        "name": "Frequency (Go West)",
-        "url": "https://open.spotify.com/album/72YdJwYP5izEXu4itP8u7B"
+        "name": "Bailame",
+        "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
         }
       ],
-      "duration_ms": 153857,
-      "name": "Frequency (Go West)",
-      "url": "https://open.spotify.com/track/64jnLLOAwnDscTYCAc6oct"
+      "duration_ms": 185650,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
     },
     {
       "added_at": "2025-04-17 10:29:28",

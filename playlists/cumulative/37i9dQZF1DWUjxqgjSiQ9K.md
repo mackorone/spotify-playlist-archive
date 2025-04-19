@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Samuel ASH, Tommy Royale, & Secretto
 
-740 songs - 2 day 10 hr 17 min
+741 songs - 2 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 | 2022-04-22 | 2023-02-18 |
 | [Bebo de Ti](https://open.spotify.com/track/5Uf2MoFiWWhPjdYWpGbbck) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Bebo de Ti](https://open.spotify.com/album/50vHdmNx3VtxOHGIuuWVD4) | 3:44 | 2023-04-28 | 2023-06-24 |
 | [Bello Jesús](https://open.spotify.com/track/6dj56LrLWhITcqkffJxI9s) | [Alisha Quinonez](https://open.spotify.com/artist/6QrruJcuTbmHWCZNxvnJR8) | [Bello Jesús](https://open.spotify.com/album/4BWWJQWNs265qa4NaED1gB) | 4:41 | 2022-12-02 | 2023-12-09 |
-| [Bendice Alma Mía](https://open.spotify.com/track/11NxjpwM9llBmbo3XAYDwW) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Bendice Alma Mía](https://open.spotify.com/album/0sMclJaxwKDWAozmU1ENAe) | 4:44 | 2025-02-28 |  |
+| [Bendice Alma Mía](https://open.spotify.com/track/11NxjpwM9llBmbo3XAYDwW) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Bendice Alma Mía](https://open.spotify.com/album/0sMclJaxwKDWAozmU1ENAe) | 4:44 | 2025-02-28 | 2025-04-19 |
 | [Bendita Esperanza \- Live](https://open.spotify.com/track/1zadQBdLuwX58zNfMTqCjW) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [Bendita Esperanza \(Live\)](https://open.spotify.com/album/3HfqQdQJPKHIsikpX2xWac) | 7:03 | 2022-02-25 | 2022-03-26 |
 | [Bendita Sangre \- Live](https://open.spotify.com/track/2q2vvdkpytWG2CUIGxzoGZ) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb) | [Bendita Sangre](https://open.spotify.com/album/4k0CH9XLmJfb0HjUYffymR) | 15:33 | 2024-11-15 |  |
 | [Bendito Amor](https://open.spotify.com/track/5bLt725KjALgMBuemRHcTD) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Bendito Amor](https://open.spotify.com/album/3S4HJFAAD0u1It10vwFS92) | 3:47 | 2024-01-26 | 2024-06-22 |
@@ -183,6 +183,7 @@
 | [De Camino](https://open.spotify.com/track/5xvTaOialdtRQYlQNE31W1) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [De Camino](https://open.spotify.com/album/5JfAm47YKNf05ICA20n4iD) | 3:04 | 2023-08-04 | 2024-03-02 |
 | [De Vuelta al Primer Amor](https://open.spotify.com/track/4KdyaTyB7PyC02zdfnfAVj) | [Eric Phillips](https://open.spotify.com/artist/6ERgDCzMTgsRuQ6nJzVeOY), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [De Vuelta al Primer Amor](https://open.spotify.com/album/14skBuKMgi5MOfEISFnDhE) | 4:48 | 2022-05-13 | 2023-04-29 |
 | [Desciende](https://open.spotify.com/track/7y3AXem43My0T7xFxryBPL) | [JUDÁ](https://open.spotify.com/artist/0t9uXP0VN80kiUHiwzUmok), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Desciende](https://open.spotify.com/album/7yrJSOgQlbkZOA2HE0Jfnb) | 10:08 | 2022-08-05 | 2023-07-29 |
+| [Desde mi Interior](https://open.spotify.com/track/5NYWdRi7RQ3VwhAVyvbQSU) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Desde mi Interior](https://open.spotify.com/album/3Xcx2kZHvkS3ze3bghVlmc) | 6:01 | 2025-04-18 |  |
 | [Desirable](https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Desirable](https://open.spotify.com/album/0BCyuqmhvDllxm2UJ8Hjhb) | 12:11 | 2024-08-09 | 2024-11-02 |
 | [Despierta](https://open.spotify.com/track/3u4jkJRTMTWvXBAPmUB9Zc) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Despierta](https://open.spotify.com/album/0NUlU1FN532IWWOiYKiEOG) | 3:32 | 2022-07-08 | 2022-09-03 |
 | [Detras De Mi](https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Buzón de Voz](https://open.spotify.com/album/5RyQDplYD8TDxYJPP6oVOl) | 3:30 | 2023-09-22 | 2024-07-13 |

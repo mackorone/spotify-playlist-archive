@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10961,
+  "num_followers": 10971,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-04-15 03:17:38",
       "album": {
-        "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
-        "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
-      "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
-    },
-    {
-      "added_at": "2025-04-15 03:17:38",
-      "album": {
         "name": "Sweet (A Business Proposal OST Part.1)",
         "url": "https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 216520,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"
+    },
+    {
+      "added_at": "2025-04-15 03:17:38",
+      "album": {
+        "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+        "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+      "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
     },
     {
       "added_at": "2025-04-15 03:17:38",
@@ -443,26 +443,6 @@
     {
       "added_at": "2025-04-15 03:17:38",
       "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/7hX2fO4JjrObIF3u33pKM6"
-      },
-      "artists": [
-        {
-          "name": "OuiOui",
-          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
-        },
-        {
-          "name": "Wilcox",
-          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Thinkin' bout you",
-      "url": "https://open.spotify.com/track/21DduanRJyq1KNV4h1DyWH"
-    },
-    {
-      "added_at": "2025-04-15 03:17:38",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2025-04-15 03:17:38",
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/7hX2fO4JjrObIF3u33pKM6"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        },
+        {
+          "name": "Wilcox",
+          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Thinkin' bout you",
+      "url": "https://open.spotify.com/track/21DduanRJyq1KNV4h1DyWH"
     },
     {
       "added_at": "2025-04-15 03:17:38",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-04-15 03:17:38",
       "album": {
-        "name": "Winter Dance",
-        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
-      },
-      "artists": [
-        {
-          "name": "Wynn",
-          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
-        }
-      ],
-      "duration_ms": 165504,
-      "name": "Winter Dance",
-      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
-    },
-    {
-      "added_at": "2025-04-15 03:17:38",
-      "album": {
         "name": "Before the Petals Fall",
         "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 229346,
       "name": "Before the Petals Fall",
       "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
+    },
+    {
+      "added_at": "2025-04-15 03:17:38",
+      "album": {
+        "name": "Winter Dance",
+        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
+      },
+      "artists": [
+        {
+          "name": "Wynn",
+          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
+        }
+      ],
+      "duration_ms": 165504,
+      "name": "Winter Dance",
+      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
     },
     {
       "added_at": "2025-04-15 03:17:38",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-04-15 03:17:38",
       "album": {
-        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
+        "name": "First Album",
+        "url": "https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb"
       },
       "artists": [
         {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+          "name": "One More Chance",
+          "url": "https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY"
         }
       ],
-      "duration_ms": 257666,
-      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
+      "duration_ms": 248293,
+      "name": "\ub110 \uc0dd\uac01\ud574",
+      "url": "https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb"
     },
     {
       "added_at": "2025-04-15 03:17:38",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-04-15 03:17:38",
       "album": {
-        "name": "First Album",
-        "url": "https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb"
+        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
       "artists": [
         {
-          "name": "One More Chance",
-          "url": "https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY"
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
         }
       ],
-      "duration_ms": 248293,
-      "name": "\ub110 \uc0dd\uac01\ud574",
-      "url": "https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb"
+      "duration_ms": 257666,
+      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
     }
   ],
   "unique_name": "\uc378 !",

@@ -1,12 +1,12 @@
 {
-  "description": "Brand new music from Fontaines D.C., Addison Rae, SAULT and more!",
-  "num_followers": 891931,
+  "description": "Brand new music from Fontaines D.C., Addison Rae and more!",
+  "num_followers": 892983,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGIEwAAAAApLTErI4bq5gD4CbjGV47G",
+  "snapshot_id": "aAIc6gAAAACuka1m4VugyZoTxge3mmqX",
   "tracks": [
     {
       "added_at": "2025-04-17 23:00:35",
@@ -95,6 +95,26 @@
       "duration_ms": 162644,
       "name": "Closer To The Floor",
       "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "RATHER BE ALONE (feat. Halle)",
+        "url": "https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 190690,
+      "name": "RATHER BE ALONE (feat. Halle)",
+      "url": "https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -735,6 +755,26 @@
       "duration_ms": 194623,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/444HPVe68zxpUXbV06UH5E"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/28V4gxMRBBWhnpo4SGpihh"
     },
     {
       "added_at": "2025-04-17 23:00:35",

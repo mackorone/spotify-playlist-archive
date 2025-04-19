@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Operation Mincemeat",
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Maybe Happy Endings",
   "name": "Broadway Rising",
   "tracks": [
     {
@@ -98,7 +98,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 250399,
       "name": "Alive Forever",
       "url": "https://open.spotify.com/track/7hfs1FKNwuxQ1hkyWHCmpb"
@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "Death Becomes Her (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5nUimQrGD2Ay1FgVUGJDnm"
+      },
+      "artists": [
+        {
+          "name": "Michelle Williams",
+          "url": "https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui"
+        },
+        {
+          "name": "'Death Becomes Her' Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183300,
+      "name": "Don\u2019t Say I Didn\u2019t (Warn You)",
+      "url": "https://open.spotify.com/track/5m49YE9s4PwgiQeOWuJx7w"
+    },
+    {
+      "album": {
         "name": "Figaro: An Original Musical (World Premiere Cast Recording)",
         "url": "https://open.spotify.com/album/755sxiW1Krgodlevh4rGed"
       },
@@ -930,6 +952,28 @@
       "duration_ms": 171160,
       "name": "Go",
       "url": "https://open.spotify.com/track/1qCTRPS71kuks85AAEBhrH"
+    },
+    {
+      "album": {
+        "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
+      },
+      "artists": [
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        },
+        {
+          "name": "Helen J Shen",
+          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137245,
+      "name": "Goodbye, My Room",
+      "url": "https://open.spotify.com/track/5up1bRxoRSpLSR1OPHPafO"
     },
     {
       "album": {
@@ -1912,7 +1956,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 236234,
       "name": "Leave The Light On",
       "url": "https://open.spotify.com/track/6Xw7FT1gMY1lVyYPsCHkwI"

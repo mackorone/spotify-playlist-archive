@@ -4,11 +4,12 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-426 songs - 20 hr 29 min
+428 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-05-06 | 2022-10-08 |
+| [1000 BPM](https://open.spotify.com/track/4xk8R3G79Hyz8uLGKUVV1l) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [1000 BPM](https://open.spotify.com/album/1meGf7IwRXYnL2Ge9IoK4r) | 2:02 | 2025-04-18 |  |
 | [3AM](https://open.spotify.com/track/2zlKYF8UQ8udETMavzIN8I) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6) | [3AM](https://open.spotify.com/album/4PASfE1ZsBkAVVCP0CD9IX) | 3:48 | 2024-10-18 |  |
 | [4321](https://open.spotify.com/track/6vWnGPaLwC7dZEZta594fs) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [4321](https://open.spotify.com/album/3sMHqf5dmjRL3MaENIrp7z) | 2:22 | 2024-01-19 |  |
 | [64 Impala](https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [64 Impala](https://open.spotify.com/album/1nIIfKcs5sJzuCoOu2zacs) | 2:11 | 2024-07-26 |  |
@@ -283,6 +284,7 @@
 | [No Beef \- R3HAB Remix](https://open.spotify.com/track/7JlyO7PxFXc1rV4NJQceHa) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [No Beef \(REMIXES pt\. 2\)](https://open.spotify.com/album/34vw1mPnsLj6ref9RueohR) | 2:48 | 2022-05-06 | 2022-08-03 |
 | [No Beef \- Steve Aoki's 11 Years Later Remix](https://open.spotify.com/track/03PNqjZycgvVlRqSXEhM57) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef \(REMIXES pt\. 1\)](https://open.spotify.com/album/2uOdq6lHvgGZWcKxUmn5ya) | 3:23 | 2022-05-06 | 2022-09-20 |
 | [No Brakes](https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Brakes](https://open.spotify.com/album/7o60ves6sdc3vr5LuUpK3Y) | 2:41 | 2022-05-06 | 2022-10-28 |
+| [No Crumbs](https://open.spotify.com/track/2zOJ6fmpd0T9oJLfXSpA1I) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [No Crumbs](https://open.spotify.com/album/0f6obn47vRBYI53s0UumAU) | 2:23 | 2025-04-18 |  |
 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 | 2023-03-24 |  |
 | [Nothing On You](https://open.spotify.com/track/7xoot19ryXi8maMYeu08FD) | [Sangarang](https://open.spotify.com/artist/1lpYFtlybuldYAw2IyXjyI), [Chris Pree](https://open.spotify.com/artist/7EccQTucmvRW7s6DUy6pQb) | [Nothing On You](https://open.spotify.com/album/6V6eGyclS8zPqEEzLsHsOB) | 3:07 | 2023-12-07 |  |
 | [Obsession](https://open.spotify.com/track/6pzwST348GM51L1zoZ65Or) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Obsession](https://open.spotify.com/album/2G8oQgv9JwmFvjJL20OK38) | 2:26 | 2024-06-07 |  |

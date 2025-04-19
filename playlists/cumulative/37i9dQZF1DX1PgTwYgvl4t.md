@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>
 
-186 songs - 22 hr 0 min
+187 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [The Kadosh \(Live\)](https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Kadosh \(Live\)](https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr) | 9:05 | 2024-05-09 |  |
 | [The King](https://open.spotify.com/track/7IDktFFGl9xPLLdx1Kxtbo) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Ndubuisi Anagha](https://open.spotify.com/artist/57Fj4UwjZcw6DhavaVFTyT) | [The King](https://open.spotify.com/album/3uoMh4YBCHbw8rQfdgEbMz) | 7:48 | 2025-03-07 | 2025-04-11 |
 | [The King Is Coming](https://open.spotify.com/track/40inC92JTKVWMCoYbJwX64) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [The King Is Coming](https://open.spotify.com/album/5jTtR6g2fHUl8VkOn3EDOb) | 5:06 | 2025-01-31 | 2025-04-18 |
+| [The Lamb Is Worthy](https://open.spotify.com/track/42AG7K7eHAjThhQgQ3NRHd) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [The Lamb Is Worthy](https://open.spotify.com/album/7sf8YtBIWIM9UH6GvWSu9e) | 13:21 | 2025-04-18 |  |
 | [The Way You Love Me](https://open.spotify.com/track/5TJ1pjgljJR6urR6QtsMWC) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Victoria Olorunsola](https://open.spotify.com/artist/4rvdKOmMiYS5nHMMRLgHp8) | [The Way You Love Me](https://open.spotify.com/album/2DJEtcqkVBBdNK8FRoYObJ) | 6:05 | 2025-02-14 | 2025-03-28 |
 | [There For Me](https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [There For Me](https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t) | 5:00 | 2024-05-09 | 2024-06-14 |
 | [There For Me](https://open.spotify.com/track/6MOLlzdQfGPR1xLVSEHG8T) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [There For Me](https://open.spotify.com/album/0mc0EvdbLGj8rOsNp3S1CJ) | 8:47 | 2024-12-13 | 2025-01-10 |

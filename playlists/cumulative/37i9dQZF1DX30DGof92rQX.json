@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Annural Khalid",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Hasan Raheem, Annural Khalid",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 292500,
       "name": "Ali Wala",
       "url": "https://open.spotify.com/track/73cImIIgirQESvLqmeZ17I"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 164590,
       "name": "Cha Jaa",
       "url": "https://open.spotify.com/track/4XFgcYYXxHYAfCwCDexZa3"
@@ -782,6 +782,28 @@
       "duration_ms": 168664,
       "name": "Chori Chupke",
       "url": "https://open.spotify.com/track/14tLcFvQ8A3csXvR3OLNBH"
+    },
+    {
+      "album": {
+        "name": "cm",
+        "url": "https://open.spotify.com/album/46ijx52m90OoSlDmEox85X"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "MALIK.",
+          "url": "https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "cm",
+      "url": "https://open.spotify.com/track/5TnCRObz7zCIH9S1OrPyu0"
     },
     {
       "album": {
@@ -946,6 +968,32 @@
       "duration_ms": 218863,
       "name": "Dil Leke",
       "url": "https://open.spotify.com/track/3vFwuZnjH9h1o0WTQqZlLy"
+    },
+    {
+      "album": {
+        "name": "Dil Ruba",
+        "url": "https://open.spotify.com/album/0KD9Ddk52NSmYdzW8QcgFY"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        },
+        {
+          "name": "Velo Sound Station",
+          "url": "https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260374,
+      "name": "Dil Ruba",
+      "url": "https://open.spotify.com/track/1VVCIQHFamc5Q7uDsqDkfN"
     },
     {
       "album": {
@@ -1114,7 +1162,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 233059,
       "name": "Fitrat",
       "url": "https://open.spotify.com/track/3NOOAUNeSRs2LRFheuLxW6"
@@ -1704,6 +1752,24 @@
       "duration_ms": 153000,
       "name": "Kehte Raho",
       "url": "https://open.spotify.com/track/5gwwfepdfUXI6D1PQzxB5W"
+    },
+    {
+      "album": {
+        "name": "Khilnay Ko - To Bloom",
+        "url": "https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT"
+      },
+      "artists": [
+        {
+          "name": "Meesha Shafi",
+          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269500,
+      "name": "Khilnay Ko",
+      "url": "https://open.spotify.com/track/3afvJxGQgUDWUG3mEAdPQr"
     },
     {
       "album": {
@@ -3058,7 +3124,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 142411,
       "name": "ROOP",
       "url": "https://open.spotify.com/track/77vCk9lni7MVjwCGSW7MmO"
@@ -3080,7 +3146,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 169051,
       "name": "Roz",
       "url": "https://open.spotify.com/track/2u6CO455CjJz3sGpNitkTY"
@@ -3285,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "Khilnay Ko - To Bloom",
+        "url": "https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT"
+      },
+      "artists": [
+        {
+          "name": "Meesha Shafi",
+          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "Sar-e-Aam",
+      "url": "https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY"
+    },
+    {
+      "album": {
         "name": "SHEESHA TOOT GAYA",
         "url": "https://open.spotify.com/album/62nTUXkjqDSJX3qQ28xeHx"
       },
@@ -3336,7 +3420,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 339500,
       "name": "Shikwa",
       "url": "https://open.spotify.com/track/0LnvqnJoGJVX2nqpbQ6lzj"
@@ -3964,7 +4048,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 207628,
       "name": "Wareya",
       "url": "https://open.spotify.com/track/0VbahfN4qUJf1gwPJnrnjq"

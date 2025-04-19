@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Brand new music from homegrown talent ft\. Kai Bosch
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,008 likes - 58 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,018 likes - 58 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

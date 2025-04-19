@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sarah Farias, Kailane Frauches",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Elaine Martins",
   "name": "Louvores Pentecostais",
   "tracks": [
     {
@@ -402,6 +402,32 @@
       "duration_ms": 302751,
       "name": "Ainda N\u00e3o Acabou",
       "url": "https://open.spotify.com/track/2nDLeRds1GJ35wpff8Co9U"
+    },
+    {
+      "album": {
+        "name": "Apocalipse (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
+        "url": "https://open.spotify.com/album/2LDrK6Gh3zQuy02aYkcTuw"
+      },
+      "artists": [
+        {
+          "name": "Mara Souza",
+          "url": "https://open.spotify.com/artist/4bw52hHES9kCJ1T0ILDxPw"
+        },
+        {
+          "name": "Vanessa Cavalcante",
+          "url": "https://open.spotify.com/artist/3b9sDZuaG4AYqiLSK1H6Kc"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376832,
+      "name": "Apocalipse - Ao Vivo",
+      "url": "https://open.spotify.com/track/7LPHrgdhNhECxxvHYI4y11"
     },
     {
       "album": {
@@ -2385,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "Jesus Voltar\u00e1",
+        "url": "https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "Jesus Voltar\u00e1",
+      "url": "https://open.spotify.com/track/7DnX7ZMlvAuWOUDwGrmt98"
+    },
+    {
+      "album": {
         "name": "Josu\u00e9 - Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6iKSabr7xNMOehMy9VWZg6"
       },
@@ -2678,7 +2722,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 421992,
       "name": "Minha Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l"
@@ -2924,7 +2968,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 275132,
       "name": "N\u00e3o Vai Se Repetir",
       "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"

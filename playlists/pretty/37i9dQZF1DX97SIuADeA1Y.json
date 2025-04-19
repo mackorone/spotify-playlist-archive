@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342254,
+  "num_followers": 342260,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
+      },
+      "artists": [
+        {
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj"
+        }
+      ],
+      "duration_ms": 160873,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "L'amour Toujours",
         "url": "https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 141549,
       "name": "L'amour Toujours",
       "url": "https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
-      },
-      "artists": [
-        {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj"
-        }
-      ],
-      "duration_ms": 160873,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
     },
     {
       "added_at": "2025-02-14 16:04:15",

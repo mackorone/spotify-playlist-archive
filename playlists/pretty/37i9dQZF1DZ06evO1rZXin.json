@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/7zAAAAAADdxMIPu0W8wFCboZXK5Tyi",
+  "snapshot_id": "aABEgAAAAAATM+0FhfMr15xJjGVKIHxl",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meneaito",
         "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 217234,
       "name": "Meneaito",
       "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+        "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 184900,
+      "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+      "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
       },
@@ -679,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
-        "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
         {
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 184900,
-      "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
-      "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
+      "duration_ms": 137000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
     },
     {
       "added_at": null,

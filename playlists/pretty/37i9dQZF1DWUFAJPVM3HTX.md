@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB?si=\_OxBvkS2QN\-tYpDvQVTwvQ"> EJ Ross</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,348 likes - 320 songs - 16 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,375 likes - 320 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 143 | [Stereo](https://open.spotify.com/track/62yTEkEYIom21z5tDrZFz0) | [Jabriel](https://open.spotify.com/artist/3ospfNqVeXbcUbttYxpHLa) | [Feed the Sheets](https://open.spotify.com/album/1NR350MRsoNmU4Sx66rPV8) | 2:24 |
 | 144 | [Losing Myself](https://open.spotify.com/track/0cgdzysg3tT1AAaFXMd1OJ) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Karmic Debt](https://open.spotify.com/album/7tDBtEvX1vNWixDoZ8V7CB) | 2:28 |
 | 145 | [No Losing With You](https://open.spotify.com/track/0YmeqaS6R81qN1pFp0usJv) | [Will Wildfire](https://open.spotify.com/artist/0LqtV5qjVDWVWqLnPpk7T6) | [No Losing With You](https://open.spotify.com/album/31Zq8zSBvKKANbbPxCQdaj) | 3:21 |
-| 146 | [Rich Baby](https://open.spotify.com/track/1ooTjveXjQaK4oQedfG9Ke) | [N!c](https://open.spotify.com/artist/14lrqNRCXXeJUyIUG3wVXC) | [TEXT ME WHEN YOU GET HOME](https://open.spotify.com/album/0V7X7qtw3AES5IvGMZpdwk) | 2:58 |
+| 146 | [Rich Baby](https://open.spotify.com/track/1ooTjveXjQaK4oQedfG9Ke) | [Nic Johnson](https://open.spotify.com/artist/14lrqNRCXXeJUyIUG3wVXC) | [TEXT ME WHEN YOU GET HOME](https://open.spotify.com/album/0V7X7qtw3AES5IvGMZpdwk) | 2:58 |
 | 147 | [Show Me Sum](https://open.spotify.com/track/5e70BD4XCIFcJxGNfUHtUS) | [Kyla Imani](https://open.spotify.com/artist/6FKeUu8U16w2fzH1vLxPkg) | [Show Me Sum](https://open.spotify.com/album/29bcnfDjkk2uPqoAJwIyZS) | 2:45 |
 | 148 | [Victim](https://open.spotify.com/track/1fHYHrhEqWd0VehcQAbGqO) | [Akira Ræ](https://open.spotify.com/artist/5NFVnZpuhjaFnBHKtLnDds) | [Victim](https://open.spotify.com/album/2snErpsxbl77EBR4kVAlZh) | 2:29 |
 | 149 | [Looking For Peace](https://open.spotify.com/track/5uv8yaVTQajwUXhsTSfdYF) | [Diedrick](https://open.spotify.com/artist/1nC0rPpaZeJc0M6KkTzuDV) | [Looking For Peace](https://open.spotify.com/album/5YneHywB0RqeXLmq5PxLp3) | 2:30 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 
 > Enjoy the soundtrack of My Liberation Notes! \(드라마 나의 해방일지의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,435 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,436 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 |
-| 2 | [To be together](https://open.spotify.com/track/4xS2lHe3YAOgYO0XDicVMr) | [Jun Hyung Lee](https://open.spotify.com/artist/2e16jYQp62uFmY1W2Uror6) | [My Liberation Notes OST Part 2](https://open.spotify.com/album/4awtf4spRfq4reEe5CDn3r) | 3:53 |
+| 2 | [To be together](https://open.spotify.com/track/4xS2lHe3YAOgYO0XDicVMr) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [My Liberation Notes OST Part 2](https://open.spotify.com/album/4awtf4spRfq4reEe5CDn3r) | 3:53 |
 | 3 | [Laggard](https://open.spotify.com/track/5aJ9DSaUu4Y5VEcgGTebO9) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [My Liberation Notes OST Part 3](https://open.spotify.com/album/4owVl5lSW1wYKDwVAxR4hh) | 3:28 |
 | 4 | [That Day](https://open.spotify.com/track/2PRAXIx89uLrMOqHObS4tb) | [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [My Liberation Notes OST Part 4](https://open.spotify.com/album/6sPu6tsH64Dj3RMsUJJ8rZ) | 3:02 |
 | 5 | [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 | 11 | [I Think I Know](https://open.spotify.com/track/4pL5tzAF9bgXIBjXVG5MjE) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [My Liberation Notes OST Part 10](https://open.spotify.com/album/294GsETEHK2D4pm8O9KcnP) | 3:24 |
 | 12 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
 | 13 | [Deeply \(Inst.\)](https://open.spotify.com/track/74Fvz84C8kP3qFxrOWUk1j) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 |
-| 14 | [To be together \(Inst.\)](https://open.spotify.com/track/6jgLkgZaZsqI4x1PD4zskq) | [Jun Hyung Lee](https://open.spotify.com/artist/2e16jYQp62uFmY1W2Uror6) | [My Liberation Notes OST Part 2](https://open.spotify.com/album/4awtf4spRfq4reEe5CDn3r) | 3:53 |
+| 14 | [To be together \(Inst.\)](https://open.spotify.com/track/6jgLkgZaZsqI4x1PD4zskq) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [My Liberation Notes OST Part 2](https://open.spotify.com/album/4awtf4spRfq4reEe5CDn3r) | 3:53 |
 | 15 | [Laggard \(Inst.\)](https://open.spotify.com/track/0Qf4L4k49yjhqUPwhwGpsE) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [My Liberation Notes OST Part 3](https://open.spotify.com/album/4owVl5lSW1wYKDwVAxR4hh) | 3:28 |
 | 16 | [That Day \(Inst.\)](https://open.spotify.com/track/04hk0UIuZRaD4UdK9Llmnj) | [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [My Liberation Notes OST Part 4](https://open.spotify.com/album/6sPu6tsH64Dj3RMsUJJ8rZ) | 3:02 |
 | 17 | [Be My Birthday \(Inst.\)](https://open.spotify.com/track/7Mkt2BILldW6AM23BpH0ld) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 |

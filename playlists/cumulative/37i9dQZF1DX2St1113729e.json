@@ -3559,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Free Gum",
+        "url": "https://open.spotify.com/album/0u291NhCSCLJJALr40Ey2L"
+      },
+      "artists": [
+        {
+          "name": "Catnapp",
+          "url": "https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184130,
+      "name": "Free Gum",
+      "url": "https://open.spotify.com/track/65XD4QneBdyQwAvzVm6kJV"
+    },
+    {
+      "album": {
         "name": "Fuera de CTRL",
         "url": "https://open.spotify.com/album/5JgmjLXuyWeW1r4BarnIAt"
       },
@@ -9848,7 +9866,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 102910,
       "name": "sto es amor",
       "url": "https://open.spotify.com/track/2utpvbZ26buzfx5NRHz7EC"

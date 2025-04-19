@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Akapellah & ACRU.
 
-353 songs - 17 hr 47 min
+355 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 | 2022-04-11 | 2023-12-16 |
 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/3VCo2tJEa1a8GDCvSIqwP0) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/6m6qmfyl9LCn1801SzmpGO) | 3:01 | 2021-11-26 |  |
 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/4HFzNSCfkNssUid9hoy2Ls) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/2hKEYwv7oSNI0xc4nsIFcs) | 3:01 | 2022-09-22 | 2024-04-19 |
+| [HONEY](https://open.spotify.com/track/5l6dRaGzi21yzNlbl6jBjO) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [HONEY](https://open.spotify.com/album/70QGUkXDclTwinj3d82xq6) | 2:50 | 2025-04-18 |  |
 | [HOOP HOOP](https://open.spotify.com/track/3dD1H5ick5Txfngx7hje7X) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 | 2022-05-12 | 2023-10-21 |
 | [HORAS EXTRAS](https://open.spotify.com/track/527EqWFnLQBSFozXNF9aPF) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [HORAS EXTRAS](https://open.spotify.com/album/4ZSdLAEwyl3psz69BYK0gN) | 4:15 | 2022-11-11 | 2024-06-22 |
 | [Humilde Pero Cotizado \(feat\. Fili Wey & Dimelo Ismael\)](https://open.spotify.com/track/0UWWGuJfxceRlIeiMZyk8S) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Nattanael](https://open.spotify.com/artist/2lXbybPKnWM62D10ckOdco), [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [Dimelo Ismael](https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor) | [Humilde Pero Cotizado \(feat\. Fili Wey & Dimelo Ismael\)](https://open.spotify.com/album/1jdFkyLyFLiLaaDIsfkKia) | 3:50 | 2025-02-28 | 2025-03-26 |
@@ -285,6 +286,7 @@
 | [R.A.P](https://open.spotify.com/track/62KKmZ6QKLHuXhunvEdBEC) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/4EEFZ6ZDLp5pQKSNagC7yo) | 2:27 | 2022-11-18 | 2023-10-08 |
 | [R.A.P](https://open.spotify.com/track/5ueFyFfJ6mDmN9LfWMONn2) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/3OXVCPPJKjQVsFqoY8Zamc) | 2:27 | 2023-10-06 | 2024-04-19 |
 | [RAP & B](https://open.spotify.com/track/2aBX6qVoFTZR0zWdy9mxBM) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [CONCEPTO ZER0](https://open.spotify.com/album/6aISTCdvz9L9lSXu1X0zJd) | 2:21 | 2024-11-08 |  |
+| [RAP EVOLUTIVO](https://open.spotify.com/track/6bgzRCRnToYh20XUJ1vyJJ) | [J.Mastermix](https://open.spotify.com/artist/1UvUSpVxlY8KvfNMMNtxSR) | [RAP EVOLUTIVO](https://open.spotify.com/album/1bZIJWmVSHxrgaCOMiaKRP) | 3:11 | 2025-04-18 |  |
 | [Rap Shit](https://open.spotify.com/track/5SylEfJbstr5dBo0BnDOj5) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Rap Shit](https://open.spotify.com/album/195XFHc04zeLG8HuZOtFey) | 3:20 | 2021-11-26 | 2022-05-13 |
 | [Razones](https://open.spotify.com/track/5cFBbRrkI1kmTV76RKtTe8) | [Juli Martorell](https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Razones](https://open.spotify.com/album/5R7hsEkWE8zHzruJByOLdN) | 3:22 | 2024-05-03 | 2025-03-26 |
 | [Ready for Woo](https://open.spotify.com/track/1wLyibfcrsPwcJuh4WIuef) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Haze](https://open.spotify.com/artist/4OYcQT9EHQHCYJVfbyGNzr) | [Ready for Woo](https://open.spotify.com/album/6qmJCYeyBHGguKX1lQuYXg) | 2:54 | 2021-11-26 | 2022-05-13 |

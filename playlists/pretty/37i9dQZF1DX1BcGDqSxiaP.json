@@ -1,10 +1,10 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 26803,
+  "num_followers": 26822,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZIsXfgAAAACNMDUwd+iDb6+bYbV6dlnG",
   "tracks": [
@@ -608,13 +608,13 @@
       },
       "artists": [
         {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
         }
       ],
-      "duration_ms": 279600,
-      "name": "Cotton Picking Blues",
-      "url": "https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF"
+      "duration_ms": 254080,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -676,13 +676,13 @@
       },
       "artists": [
         {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Common Ground",
-      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
+      "duration_ms": 279600,
+      "name": "Cotton Picking Blues",
+      "url": "https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF"
     },
     {
       "added_at": "2023-05-17 15:52:13",

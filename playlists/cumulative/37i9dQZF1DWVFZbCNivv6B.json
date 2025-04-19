@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/562xqHc9SiYJsJDO1r4oVR"
+      },
+      "artists": [
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "SALVAMENTO",
+          "url": "https://open.spotify.com/artist/6abCu4AWrdT5kHm3u5RDqn"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "666",
+      "url": "https://open.spotify.com/track/7s6uUg9tw3p4Fl3Vm3khPr"
+    },
+    {
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/5tIrZYi4mSCvhrEEi7zU2A"
       },
@@ -4050,7 +4072,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 165000,
       "name": "El 3",
       "url": "https://open.spotify.com/track/33AIdiKIDEjHB9lG3EtTOD"
@@ -5817,6 +5839,28 @@
     },
     {
       "album": {
+        "name": "GNGSTA SDNSS",
+        "url": "https://open.spotify.com/album/2MR3KVqCIwb1oc8hnqJbtj"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "GNGSTA SDNSS",
+      "url": "https://open.spotify.com/track/2wmqNOAIWgxcEzMoaf0tGl"
+    },
+    {
+      "album": {
         "name": "GOET",
         "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
       },
@@ -7234,7 +7278,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 206117,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo"
@@ -10956,7 +11000,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 232000,
       "name": "Por Un Beso",
       "url": "https://open.spotify.com/track/390hl8efmjrNQKiCgP2sU0"
@@ -15124,6 +15168,28 @@
       "duration_ms": 148466,
       "name": "Zona de Confort - C'est la mort",
       "url": "https://open.spotify.com/track/500dEk4B8u8zcftKqUQIVu"
+    },
+    {
+      "album": {
+        "name": "\u00bfQue Dirian?",
+        "url": "https://open.spotify.com/album/1XxEDwFOFPfoy4g3zMDMI4"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Sucia elegancia",
+          "url": "https://open.spotify.com/artist/7JgowUBmgLV9RMiICQrS7m"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243224,
+      "name": "\u00bfQue Dirian?",
+      "url": "https://open.spotify.com/track/3LxmJFq5jhidWJsSQVXCjE"
     },
     {
       "album": {

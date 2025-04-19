@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47468,
+  "num_followers": 47471,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/7zAAAAAADonjtdWOobgmmNyEyS5ga8",
+  "snapshot_id": "aABEgAAAAABjQXo6gXLRaP89bz7ivwPh",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Fall In Love Too Easily",
-        "url": "https://open.spotify.com/album/38gVZkDr1DST7i9niZPMyt"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody Loves Me",
         "url": "https://open.spotify.com/album/1ahGUWtnA8tqb4zaKGzCTi"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 215247,
       "name": "Nobody Loves Me",
       "url": "https://open.spotify.com/track/1SYqnlqZyI7dVYDEvdkBau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Fall In Love Too Easily",
+        "url": "https://open.spotify.com/album/38gVZkDr1DST7i9niZPMyt"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 218656,
-      "name": "i hate texas",
-      "url": "https://open.spotify.com/track/1Pa4QfXjEI6L4Iro7kQjkj"
+      "duration_ms": 224082,
+      "name": "just a little",
+      "url": "https://open.spotify.com/track/79nTjYPEirzCDbSrMF6Qk7"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 224082,
-      "name": "just a little",
-      "url": "https://open.spotify.com/track/79nTjYPEirzCDbSrMF6Qk7"
+      "duration_ms": 218656,
+      "name": "i hate texas",
+      "url": "https://open.spotify.com/track/1Pa4QfXjEI6L4Iro7kQjkj"
     },
     {
       "added_at": null,

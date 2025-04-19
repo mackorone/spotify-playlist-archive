@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-654 songs - 1 day 14 hr 30 min
+655 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Buddy](https://open.spotify.com/track/4K5O3kx6c8jt81PrhCIHcy) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Buddy](https://open.spotify.com/album/6O43i10RhyxbF7GysYbb0E) | 4:28 | 2025-02-14 |  |
 | [Bullet Vizhigalal \- Speed Up](https://open.spotify.com/track/67xBnmxtiYz53Wc0CqoOJU) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq) | [Bullet Vizhigalal](https://open.spotify.com/album/24XucL2zXmAMPPkvUMLoj5) | 2:58 | 2024-06-14 | 2024-07-27 |
 | [Bye Bye Bhaiya](https://open.spotify.com/track/5DeFoUexJicerrgXRXDLUi) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Bye Bye Bhaiya](https://open.spotify.com/album/1CDsn3do1lxwOTsgcYt8BZ) | 3:18 | 2025-02-20 |  |
+| [Champagini \- From "Think Indie"](https://open.spotify.com/track/5K2mySnr02sfLS3MMJZICc) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Champagini \(From "Think Indie"\)](https://open.spotify.com/album/6ku33EXLIvrxSPSet3xTfM) | 1:56 | 2025-04-18 |  |
 | [Chechi](https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj) | [Marshall](https://open.spotify.com/artist/2zzq4pWs2DhacmzdKeY0eD) | [Chechi](https://open.spotify.com/album/6e4ZAz8A7XIA9PBTM6bgP4) | 3:12 | 2025-01-30 |  |
 | [Chickana](https://open.spotify.com/track/6NXhU9FTUN8j8W6Qj86uER) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Chickana](https://open.spotify.com/album/4F9B7w1XZeINGaly1GhJ70) | 2:50 | 2023-09-26 | 2024-10-15 |
 | [Chillamma](https://open.spotify.com/track/6mlbSetAfxt50bqQyX7hMY) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3) | [Chillamma](https://open.spotify.com/album/2Nj1UHK73NCPQH3JDr7Dqw) | 1:04 | 2022-12-19 | 2023-03-07 |
@@ -359,7 +360,7 @@
 | [Naan Kudikka Poren](https://open.spotify.com/track/7dz92P4LmPOl81fNcHjEUV) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [Naan Kudikka Poren](https://open.spotify.com/album/2CXDwEEnfbSuMEQXTejOkw) | 4:17 | 2021-12-01 | 2023-02-07 |
 | [Naan Nee](https://open.spotify.com/track/6msJ2Ah5DqRPYB1JIGj0lP) | [Chandralekha Annupamaa](https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv) | [Naan Nee](https://open.spotify.com/album/00YIh8f3pn2aKTykmqCjyd) | 4:21 | 2023-09-04 | 2023-11-07 |
 | [Naan Vaanil Parappen](https://open.spotify.com/track/1U4gHb6IjpHCZKZPfS0F6i) | [S\. J\. Jananiy](https://open.spotify.com/artist/0Rw5ubEtFD4cNhQUJUTXmI) | [Naan Vaanil Parappen](https://open.spotify.com/album/6v237G5WQAvvZ04NOcH7u7) | 3:46 | 2025-01-30 |  |
-| [Naangam Kadal Noaku Saalai](https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Naangam Kadal Noaku Saalai](https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j) | 4:11 | 2023-03-09 |  |
+| [Naangam Kadal Noaku Saalai](https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Naangam Kadal Noaku Saalai](https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j) | 4:11 | 2023-03-09 | 2025-04-19 |
 | [Naanum Rowdy Dhan](https://open.spotify.com/track/4mW6qUbgy5gZOOWgsOMrHf) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 3:05 | 2022-07-27 | 2022-08-12 |
 | [Nagaraathey](https://open.spotify.com/track/2mIMdEqNmZJdoa4MmZMMzz) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Swagatha S\. Krishnan](https://open.spotify.com/artist/7KICJe6VYOCvc44P4XmymX), [Ashwin Raj](https://open.spotify.com/artist/6YhvlmqtSQdFHB2Pjtdsaz) | [Nagaraathey](https://open.spotify.com/album/2MlL9FlrbvDqQwr0Uu7cZc) | 4:08 | 2022-06-24 | 2022-07-16 |
 | [Nalir Mani](https://open.spotify.com/track/4mBYbPhGtA4XG1o2SwpUFm) | [Girishh G](https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB), [Bindhumalini](https://open.spotify.com/artist/0PSChrfgkjas0HCm3Fnmpr) | [Nalir Mani](https://open.spotify.com/album/6VVsXVNOUoy7ikBDN9ZPZt) | 3:24 | 2024-01-29 | 2024-04-30 |

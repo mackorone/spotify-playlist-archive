@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 157959,
       "name": "Crocodildo",
       "url": "https://open.spotify.com/track/3kabGPx1GhUwqXrNNiUJZK"
@@ -3638,7 +3638,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 182560,
       "name": "Diskovery",
       "url": "https://open.spotify.com/track/0glgTkbSgskHVjGj2Hdy8A"
@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 191493,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi"
@@ -4114,6 +4114,28 @@
       "duration_ms": 205714,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/1h0vtVWW5INmO7WWJmW3OB"
+    },
+    {
+      "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/1a75a2Vtumz1oyeN13hDJh"
+      },
+      "artists": [
+        {
+          "name": "TGC",
+          "url": "https://open.spotify.com/artist/0TKIN6ssV2jhUlRm3r7U4z"
+        },
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "Dreamers - Embody Remix",
+      "url": "https://open.spotify.com/track/5vfYmoD0Of4mxxg23HBb9Z"
     },
     {
       "album": {
@@ -8640,7 +8662,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -8890,6 +8912,24 @@
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
+    },
+    {
+      "album": {
+        "name": "LOST ASTRONAUT",
+        "url": "https://open.spotify.com/album/1W0nkPVXuAngBzn48Kpoxz"
+      },
+      "artists": [
+        {
+          "name": "PINKY SMASH",
+          "url": "https://open.spotify.com/artist/2H2vMsKqPSufFZnWZN6C85"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183433,
+      "name": "LOST ASTRONAUT - SLOWED",
+      "url": "https://open.spotify.com/track/5FusIdlTLOs7YlaUKutNtC"
     },
     {
       "album": {
@@ -15490,7 +15530,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 227720,
       "name": "Tom Tom",
       "url": "https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL"
@@ -20724,7 +20764,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 264437,
       "name": "\u0417\u0430\u043f\u0443\u0442\u0430\u043d\u043d\u044b\u0435 \u0432\u043e\u043b\u043e\u0441\u044b",
       "url": "https://open.spotify.com/track/54pH8zsOl2DIxqpaTzBWGf"

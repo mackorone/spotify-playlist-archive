@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-762 songs - 2 day 3 hr 0 min
+764 songs - 2 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,12 +185,13 @@
 | [Distant Light](https://open.spotify.com/track/0dpN2BrkuBkpayGK55o70X) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Universal](https://open.spotify.com/album/2u24rPh4PG59tEqJy2qEaH) | 4:13 | 2022-02-17 | 2022-10-29 |
 | [Disturbed](https://open.spotify.com/track/5JexpLUHY3HriFPMzbO0aQ) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Disturbed](https://open.spotify.com/album/0dhYot6jIkDIPw5nMJIHWl) | 4:41 | 2022-02-17 | 2023-05-05 |
 | [DIY \- Old Skool Mix](https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 3:09 | 2023-11-24 | 2024-08-17 |
-| [DOPE](https://open.spotify.com/track/29NIoEBcZo3lNe8dl4JpiL) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [DOPE](https://open.spotify.com/album/5jbQ1rCloXQra9u0G0U0AA) | 3:18 | 2024-10-11 |  |
+| [DOPE](https://open.spotify.com/track/29NIoEBcZo3lNe8dl4JpiL) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [DOPE](https://open.spotify.com/album/5jbQ1rCloXQra9u0G0U0AA) | 3:18 | 2024-10-11 | 2025-04-19 |
 | [Down Town Dub](https://open.spotify.com/track/4bC6kRiriuqVWM4D2UgIUW) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Down Town Dub / Tumble](https://open.spotify.com/album/42jIA73ix0bgwNw8slzbOx) | 5:36 | 2022-02-17 | 2023-03-10 |
 | [Dread & Buried \- Congi Remix](https://open.spotify.com/track/2AuzAvDq4piWEeSsfkZxqp) | [Origin One](https://open.spotify.com/artist/1EKZ8G8paqscrKD9uZMOor), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Deeply Remixed, Vol\. 2](https://open.spotify.com/album/1rD87trISV6lwx6QJ5TRpp) | 3:54 | 2022-02-17 | 2024-10-26 |
 | [Dreamer](https://open.spotify.com/track/1fuLBcbyY3mYcKAjzb6jLD) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Dreamer](https://open.spotify.com/album/0Zvw2kNrsvYmsPIo8ouBbA) | 4:37 | 2022-02-17 | 2022-10-08 |
 | [Drifter](https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Drifter](https://open.spotify.com/album/3fbDmqCGBsQK3Y2hRxpLft) | 3:21 | 2022-09-23 | 2025-03-22 |
 | [Drip](https://open.spotify.com/track/5CjauCwaAozrIZDP6DRkXC) | [Makak](https://open.spotify.com/artist/1thCvEKG6fmH3GBcTtBRbD) | [Drip EP](https://open.spotify.com/album/10sfM135naBDcbfOLulWyx) | 3:05 | 2022-02-17 | 2022-07-30 |
+| [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 | 2025-04-18 |  |
 | [Drum Beats Go Like](https://open.spotify.com/track/4bW4m8LzKoaqwF8sCI37wn) | [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN) | [Drum Beats Go Like](https://open.spotify.com/album/0Ed341Woml6O3DJJsALmmN) | 3:36 | 2024-05-17 |  |
 | [Drums](https://open.spotify.com/track/3w4OQNlvVEUUDIEC9DA3jF) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [JAÎRU](https://open.spotify.com/artist/763lGmiqTMo6prWDvNXgUr) | [Drums](https://open.spotify.com/album/0kkc2flVcDrQT62SE45q2I) | 3:38 | 2025-01-31 |  |
 | [Drunken Master](https://open.spotify.com/track/0R3icIQILONMdTIEcKzUzv) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Drunken Master / Why Not](https://open.spotify.com/album/4E5Bttzteet92s8K9bCMfH) | 5:05 | 2022-02-17 | 2022-07-28 |
@@ -207,7 +208,7 @@
 | [Elite](https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Elite](https://open.spotify.com/album/3O6ivFNYkhrVLtEY82PRFM) | 3:53 | 2022-09-02 |  |
 | [Elixir](https://open.spotify.com/track/4wfauK3ulmGHEVk9qKscMw) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Vapour / Orbit / Elixir](https://open.spotify.com/album/14eSrhayOSBR9Hu6klUTzs) | 5:28 | 2022-02-17 | 2022-07-28 |
 | [Elixir](https://open.spotify.com/track/7AaEHev2MJB3ElXkXQKjmC) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Vapour / Orbit / Elixir](https://open.spotify.com/album/5sNLZbMhQUhXWxGXxDCE2U) | 5:28 | 2022-07-08 | 2022-07-30 |
-| [Empty](https://open.spotify.com/track/1QYGHQFxjCEU0Y4Il37Yum) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Lelijveld](https://open.spotify.com/artist/6Lw1PpoEkLWn3Sb5dTevT3) | [Woden](https://open.spotify.com/album/0WTvs5HOEx5PrQQQp4uFrr) | 5:36 | 2024-09-13 |  |
+| [Empty](https://open.spotify.com/track/1QYGHQFxjCEU0Y4Il37Yum) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Lelijveld](https://open.spotify.com/artist/6Lw1PpoEkLWn3Sb5dTevT3) | [Woden](https://open.spotify.com/album/0WTvs5HOEx5PrQQQp4uFrr) | 5:36 | 2024-09-13 | 2025-04-19 |
 | [Encanto](https://open.spotify.com/track/0v15xYsmEWe8aiHTJoV5qk) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Viagem / Encanto](https://open.spotify.com/album/0wxs4pvjCD7BjwJBPZcCs9) | 4:36 | 2022-02-17 | 2022-07-27 |
 | [Encanto](https://open.spotify.com/track/5e0vCGVLCZnK3qSjJmCfN5) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Viagem / Encanto](https://open.spotify.com/album/4YpBu4TxO2JMveeFGe4DYS) | 4:36 | 2022-07-08 | 2022-07-30 |
 | [Enclave](https://open.spotify.com/track/2Y5yQ2iQMUfX7QNZV5JrNI) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Enclave](https://open.spotify.com/album/1cfqQahioFkRtitz6Et7qx) | 3:51 | 2024-02-09 | 2024-09-21 |
@@ -435,6 +436,7 @@
 | [Monomyth](https://open.spotify.com/track/3eohbDWubHzKPcrXs4bHOE) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Monomyth LP](https://open.spotify.com/album/5qGz0eFyGi5sTklBY0Syhc) | 2:24 | 2023-12-15 | 2024-04-26 |
 | [MOVE](https://open.spotify.com/track/1VtcKcNnU9ho4dl2UPV8kt) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [MOVE](https://open.spotify.com/album/3zD6xkBwEYLPf4deiW9piV) | 2:00 | 2024-08-30 | 2025-03-26 |
 | [movelikethis](https://open.spotify.com/track/45e1BYbwh9VF93xUDbHiVs) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [movelikethis](https://open.spotify.com/album/6XSfdiAub5nmcAJOpaXyHt) | 3:33 | 2024-04-19 | 2025-01-14 |
+| [Mucus](https://open.spotify.com/track/0ksPpExgHLFnf7pMhlo1v9) | [Torcha](https://open.spotify.com/artist/4T3lVWSpnJHDwHMubsVjAl), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut) | [Mucus](https://open.spotify.com/album/7q1CthQwmxK1NiYjmh7cNy) | 2:49 | 2025-04-18 |  |
 | [Muharib Skank](https://open.spotify.com/track/7fd3zY45oviJizF9BPHOZ3) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Muharib EP](https://open.spotify.com/album/4H9OcSuLNucBfAaWFmbGFh) | 3:29 | 2022-04-08 | 2022-12-08 |
 | [Murda](https://open.spotify.com/track/7pgr1TYP5XzATB8YNJK870) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Murda](https://open.spotify.com/album/5L1deXA6geu7wvCeDVwTmC) | 3:13 | 2022-09-02 | 2024-01-28 |
 | [Murda Dub](https://open.spotify.com/track/1SukyiQzzNkGvmky2hAl5C) | [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal), [CLB](https://open.spotify.com/artist/0qSxGo3EgCGfHWfFDo2zzo) | [Murda Dub](https://open.spotify.com/album/4JE2yVzGaN9wtmUcwraSaY) | 4:31 | 2024-07-12 | 2024-10-26 |

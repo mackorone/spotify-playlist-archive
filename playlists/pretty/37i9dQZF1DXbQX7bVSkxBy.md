@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  Salem King
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,587 likes - 55 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,632 likes - 55 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

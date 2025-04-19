@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,567 likes - 138 songs - 8 hr 0 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,567 likes - 139 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,5 +146,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 136 | [Chemicals](https://open.spotify.com/track/6N3xZEUzHtvkd7S66wSS0D) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Afraid Of The Dark EP](https://open.spotify.com/album/2MvFlPSWTJgl2BQ4vbIpda) | 3:38 |
 | 137 | [YOU & I](https://open.spotify.com/track/6cgOdelOyLpjdcOl811Z9t) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [YOU & I](https://open.spotify.com/album/29MLRMFFGmRPxHJ93JeHhZ) | 3:51 |
 | 138 | [Death By Love](https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Death By Love](https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF) | 2:50 |
+| 139 | [BOUNCE N BREAK](https://open.spotify.com/track/76MPqUq9kPye6JzH7tvzI6) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF), [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [BOUNCE N BREAK](https://open.spotify.com/album/67lf3VYH0ZYj6KG4FNqWkl) | 2:37 |
 
-Snapshot ID: `AAAqTaIeLuVgaz43UH3Svtxgi4jQ69Vd`
+Snapshot ID: `AAAqTodAxc4h/XRTB02c3MsqWcHwwmaw`

@@ -1,13 +1,81 @@
 {
-  "description": "Underground indie rock gems. Cover: Mamalarky",
-  "num_followers": 307861,
+  "description": "Underground indie rock gems. Cover: caroline(s)",
+  "num_followers": 307881,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/iT4wAAAAB8SuVkqIMe2sI+8MV5x5NU",
+  "snapshot_id": "aAHOcgAAAAASl0Z5LQw/VhVACtG24Fba",
   "tracks": [
+    {
+      "added_at": "2025-04-18 04:00:50",
+      "album": {
+        "name": "Tell me I never knew that",
+        "url": "https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 279051,
+      "name": "Tell me I never knew that",
+      "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
+    },
+    {
+      "added_at": "2025-04-18 04:00:50",
+      "album": {
+        "name": "I Heard That Noise",
+        "url": "https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 188256,
+      "name": "I Punched Through The Wall",
+      "url": "https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk"
+    },
+    {
+      "added_at": "2025-04-11 04:00:35",
+      "album": {
+        "name": "Call It Easy",
+        "url": "https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "duration_ms": 264508,
+      "name": "Call It Easy - Edit",
+      "url": "https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5"
+    },
+    {
+      "added_at": "2025-04-18 04:00:50",
+      "album": {
+        "name": "I hate you, I love you",
+        "url": "https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is"
+      },
+      "artists": [
+        {
+          "name": "Christian Alexander",
+          "url": "https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR"
+        }
+      ],
+      "duration_ms": 329501,
+      "name": "I Hate You, I Love You",
+      "url": "https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80"
+    },
     {
       "added_at": "2025-04-11 04:00:35",
       "album": {
@@ -23,6 +91,38 @@
       "duration_ms": 171066,
       "name": "Won't Give Up",
       "url": "https://open.spotify.com/track/7dQ8Zd3AIAVqw2lxrelBlk"
+    },
+    {
+      "added_at": "2025-04-18 04:00:50",
+      "album": {
+        "name": "Sequence Of Voices",
+        "url": "https://open.spotify.com/album/36chJr3Y6r5I0Kw1hSwHmy"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "duration_ms": 213303,
+      "name": "Sequence Of Voices",
+      "url": "https://open.spotify.com/track/5MvxKOp6Dm44goQYzGK2gJ"
+    },
+    {
+      "added_at": "2025-04-04 04:00:22",
+      "album": {
+        "name": "Zarigani",
+        "url": "https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 273535,
+      "name": "Zarigani",
+      "url": "https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ"
     },
     {
       "added_at": "2025-04-11 04:00:35",
@@ -45,20 +145,128 @@
       "url": "https://open.spotify.com/track/3qnJMEAZ4FZr0YiHOfHSPa"
     },
     {
-      "added_at": "2025-04-11 04:00:35",
+      "added_at": "2025-04-18 04:00:50",
       "album": {
-        "name": "Call It Easy",
-        "url": "https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1"
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/0MbPCtAJZVJmqGne38mQdF"
       },
       "artists": [
         {
-          "name": "Racing Mount Pleasant",
-          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Pink Must",
+          "url": "https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9"
         }
       ],
-      "duration_ms": 264508,
-      "name": "Call It Easy - Edit",
-      "url": "https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5"
+      "duration_ms": 173000,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/37oNvv3Qqse1Hpj0MeSiDG"
+    },
+    {
+      "added_at": "2025-04-18 04:00:50",
+      "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/7IaqMaOXdasnfxYEAghgFn"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/5xaiU9nNP58J5tmFvsRXf2"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3FqkUuSJxnCRJ7UWUUsKwM"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6NgAi4wEHs7XzJA5wIUBw1"
+    },
+    {
+      "added_at": "2025-04-18 04:00:50",
+      "album": {
+        "name": "Like Cartoon Vampires",
+        "url": "https://open.spotify.com/album/2A2py4eAMFQCUdvuY22Bum"
+      },
+      "artists": [
+        {
+          "name": "The Convenience",
+          "url": "https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv"
+        }
+      ],
+      "duration_ms": 196371,
+      "name": "Target Offer",
+      "url": "https://open.spotify.com/track/2RAmnQvB7mqv8JQKBeIXYg"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 251562,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh"
+    },
+    {
+      "added_at": "2025-04-18 04:00:50",
+      "album": {
+        "name": "Reckless Abandon",
+        "url": "https://open.spotify.com/album/0het83VxmQeKN3daSX36lo"
+      },
+      "artists": [
+        {
+          "name": "Frex",
+          "url": "https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr"
+        }
+      ],
+      "duration_ms": 138114,
+      "name": "Reckless Abandon",
+      "url": "https://open.spotify.com/track/7E4mcrXhcYhM8ZqBRFug5F"
+    },
+    {
+      "added_at": "2025-04-18 04:00:50",
+      "album": {
+        "name": "Problem Solver (with Medium Build)",
+        "url": "https://open.spotify.com/album/0i9iCZZevm0XGD25aecPLl"
+      },
+      "artists": [
+        {
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 169067,
+      "name": "Problem Solver (with Medium Build)",
+      "url": "https://open.spotify.com/track/3mFcGSQwieNIJirXJ9NmEH"
     },
     {
       "added_at": "2025-04-11 04:00:35",
@@ -93,22 +301,6 @@
       "url": "https://open.spotify.com/track/2355mlkKrUl6pcuGBqCf3s"
     },
     {
-      "added_at": "2025-04-04 04:00:22",
-      "album": {
-        "name": "Zarigani",
-        "url": "https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 273535,
-      "name": "Zarigani",
-      "url": "https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ"
-    },
-    {
       "added_at": "2025-04-11 04:00:35",
       "album": {
         "name": "First it was a movie, then it was a book",
@@ -139,22 +331,6 @@
       "duration_ms": 235973,
       "name": "The Clown",
       "url": "https://open.spotify.com/track/2WTYJpB48MdxKxviYYObMN"
-    },
-    {
-      "added_at": "2025-03-28 04:00:46",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/3FqkUuSJxnCRJ7UWUUsKwM"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6NgAi4wEHs7XzJA5wIUBw1"
     },
     {
       "added_at": "2025-03-21 04:00:52",
@@ -235,22 +411,6 @@
       "duration_ms": 155733,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/5DCSl2flxRehACINNyD9EX"
-    },
-    {
-      "added_at": "2025-03-28 04:00:46",
-      "album": {
-        "name": "Doves",
-        "url": "https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 251562,
-      "name": "Doves",
-      "url": "https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh"
     },
     {
       "added_at": "2025-03-21 04:00:52",
@@ -995,22 +1155,6 @@
       "duration_ms": 160000,
       "name": "HANNAH",
       "url": "https://open.spotify.com/track/7bQHlxL6JDQTNrT2PMO5Lt"
-    },
-    {
-      "added_at": "2025-03-14 04:00:22",
-      "album": {
-        "name": "Ladybug",
-        "url": "https://open.spotify.com/album/2sMqlpJJPsN7mB5ei2HSjp"
-      },
-      "artists": [
-        {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Ladybug",
-      "url": "https://open.spotify.com/track/41FdvZ4dl6CMZsOc5fg9zS"
     },
     {
       "added_at": "2025-03-14 04:00:22",

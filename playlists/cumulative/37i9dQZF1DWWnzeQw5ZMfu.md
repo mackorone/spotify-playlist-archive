@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-251 songs - 19 hr 20 min
+252 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [A Little Respect \(Live in Nashville\)](https://open.spotify.com/track/4a2dbJunlLGd87U7bNrwHh) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/7FKtqGJK8DhnAOUqHSfPqU) | 3:38 | 2023-11-03 | 2024-04-19 |
 | [A Little Respect \- Live in Nashville](https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk) | 3:38 | 2022-04-14 | 2024-10-24 |
 | [Against All Odds \(Take a Look at Me Now\) \- Live from the Serious Tour 1990; 2019 Remaster](https://open.spotify.com/track/61N8sBOfE9iM0uRhInFnKN) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Serious Hits...Live! \(2019 Remaster\)](https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV) | 3:29 | 2022-04-14 | 2023-08-19 |
+| [All I Ever Asked \- Short n' Sweet Version](https://open.spotify.com/track/3tc2UcOjPQvHz1BywgtXzG) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked \(Short n' Sweet Version\)](https://open.spotify.com/album/2vYWdXfPEGRfqjKXlbQIhT) | 3:43 | 2025-04-18 |  |
 | [All My Shit Is In My Car \- Live With Band](https://open.spotify.com/track/3RDwc3dmpXPwdOFSiVW7od) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area \(Live Sessions\)](https://open.spotify.com/album/4RTgnKqmdtb25iXJd35TBL) | 3:01 | 2024-02-09 | 2024-12-08 |
 | [All Night Long \(All Night\) \- Live](https://open.spotify.com/track/26DAOgxkcKLSKdoHvHoAcn) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Hello From Las Vegas \(Deluxe\)](https://open.spotify.com/album/7FIU253gt9jvbTeLfKQbPC) | 6:16 | 2022-04-14 | 2022-07-29 |
-| [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 | 2022-04-14 |  |
+| [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 | 2022-04-14 | 2025-04-19 |
 | [Alone \- Live](https://open.spotify.com/track/3U8x5bb3UcDoYOBj9ksvEN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Fanatic Live from Caesars Colosseum](https://open.spotify.com/album/4N4W7ZlX5DrFMMeQAPZUGC) | 4:22 | 2023-08-18 | 2023-11-21 |
 | [Alone \- Live](https://open.spotify.com/track/4gLEaNDI7wk8SJNqyprEAd) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Fanatic Live from Caesars Colosseum](https://open.spotify.com/album/4mvwgzxcwaa4bfl9A29xRe) | 4:22 | 2022-04-14 | 2025-01-18 |
 | [Always Be My Baby \- Live at the Tokyo Dome](https://open.spotify.com/track/58QgGWqvercpslOCOlxyEr) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 4:38 | 2022-04-29 | 2025-01-18 |

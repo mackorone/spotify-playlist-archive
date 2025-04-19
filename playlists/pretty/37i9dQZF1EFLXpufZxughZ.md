@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,063 likes - 138 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062 likes - 138 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 113 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
 | 114 | [Been Gone](https://open.spotify.com/track/7CWvBBYSGmwkteQ5IGg6V5) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [2U](https://open.spotify.com/album/0pd3q6RmQe1OzAg95pKkmM) | 3:35 |
 | 115 | [Love](https://open.spotify.com/track/0OouDOffh65KDSgmKqsdXl) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:18 |
-| 116 | [Spotlight](https://open.spotify.com/track/3zkFhD7MVekTg7646JJ1dj) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:21 |
-| 117 | [Save Your Breath \(Feat\. Williane 108, Charmie, Taborah Johnson and Tynomi Banks\)](https://open.spotify.com/track/4hyQUq1CtTNrwTYVr36wY9) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Williane 108](https://open.spotify.com/artist/1LDeXah9n8oWU5MvMDzdnR), [Charmie](https://open.spotify.com/artist/1oBTcNjxCkZrIZitgo3Hm1), [Taborah Johnson](https://open.spotify.com/artist/7HlOFGl74ctvgk2MT36xvm), [Tynomi Banks](https://open.spotify.com/artist/1Hol85cTCEXf5iZBQxe4dh) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:59 |
+| 116 | [Save Your Breath \(Feat\. Williane 108, Charmie, Taborah Johnson and Tynomi Banks\)](https://open.spotify.com/track/4hyQUq1CtTNrwTYVr36wY9) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Williane 108](https://open.spotify.com/artist/1LDeXah9n8oWU5MvMDzdnR), [Charmie](https://open.spotify.com/artist/1oBTcNjxCkZrIZitgo3Hm1), [Taborah Johnson](https://open.spotify.com/artist/7HlOFGl74ctvgk2MT36xvm), [Tynomi Banks](https://open.spotify.com/artist/1Hol85cTCEXf5iZBQxe4dh) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:59 |
+| 117 | [Spotlight](https://open.spotify.com/track/3zkFhD7MVekTg7646JJ1dj) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:21 |
 | 118 | [Fortunate](https://open.spotify.com/track/0xQoL9oDujnzD0TgM61H83) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Fortunate](https://open.spotify.com/album/44oH5T2kPyYzPj8s4ctxkz) | 2:15 |
 | 119 | [Sunshine \- In Studio](https://open.spotify.com/track/6tQsHftopPaC1toeH5CV9v) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [BOY \(In Studio\)](https://open.spotify.com/album/7J7UwPas7q9pAy8c1EyBdR) | 3:58 |
 | 120 | [Crown \(Feat\. Blxckie\)](https://open.spotify.com/track/5vUatgbXxBQpDm1UIB6pKo) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:46 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 137 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 138 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `AbvDNAAAAABgYwXgp/uWswKpUOh0hoe8`
+Snapshot ID: `AbvI1AAAAACxAEAL8Dp81lkOCBWaCKnR`

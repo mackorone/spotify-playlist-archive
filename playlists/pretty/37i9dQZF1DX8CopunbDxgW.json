@@ -1,13 +1,81 @@
 {
-  "description": "the best indie dance tracks of the moment \ud83d\ude17 with it's murph",
-  "num_followers": 890133,
+  "description": "the best indie dance tracks of the moment \ud83e\uddda with Gerry Read",
+  "num_followers": 890130,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/0wZgAAAABauzKIFncWqw1eSfR4w5mR",
+  "snapshot_id": "aAKNCAAAAADfnSuda+iy2/Qy1XP39juU",
   "tracks": [
+    {
+      "added_at": "2025-04-18 04:00:55",
+      "album": {
+        "name": "Never Kissed an Angel",
+        "url": "https://open.spotify.com/album/5PMWHZgRvMNlfXn330us4K"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Never Kissed an Angel",
+      "url": "https://open.spotify.com/track/5hPTPgKVnHeX5Fx4BEwJ3f"
+    },
+    {
+      "added_at": "2025-04-11 04:00:28",
+      "album": {
+        "name": "Modern Life",
+        "url": "https://open.spotify.com/album/5sejrpX8MyaFzQCox0cni0"
+      },
+      "artists": [
+        {
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 169464,
+      "name": "Modern Life",
+      "url": "https://open.spotify.com/track/2bicTvHQXudRYQQSQcYRsS"
+    },
+    {
+      "added_at": "2025-04-18 04:00:55",
+      "album": {
+        "name": "Shine a Light",
+        "url": "https://open.spotify.com/album/0J3vMnW6cDhihkSmASC0iw"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Zayden",
+          "url": "https://open.spotify.com/artist/2qnLoq981D2rjdJiHltYb8"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Shine a Light",
+      "url": "https://open.spotify.com/track/2Y61neJqFlIhIlToV1HVZK"
+    },
+    {
+      "added_at": "2025-03-28 04:00:46",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/0nKXBTOEQKcruuAky2rWDu"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 198455,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1jd6IJod2fzfi5aR2A5cEk"
+    },
     {
       "added_at": "2025-04-11 04:00:28",
       "album": {
@@ -35,22 +103,6 @@
     {
       "added_at": "2025-03-28 04:00:46",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/0nKXBTOEQKcruuAky2rWDu"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 198455,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1jd6IJod2fzfi5aR2A5cEk"
-    },
-    {
-      "added_at": "2025-03-28 04:00:46",
-      "album": {
         "name": "22:22",
         "url": "https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo"
       },
@@ -67,6 +119,38 @@
       "duration_ms": 275493,
       "name": "Petite Etoile",
       "url": "https://open.spotify.com/track/0y0k5s6TpzkTmNxx0r5HDP"
+    },
+    {
+      "added_at": "2025-04-18 04:00:55",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/7vuTq4JoDnWNwyKackc9ep"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "duration_ms": 218287,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/5pvPlaDdrJSCGxoH29Vhnf"
+    },
+    {
+      "added_at": "2025-04-11 04:00:28",
+      "album": {
+        "name": "dancing in the rain",
+        "url": "https://open.spotify.com/album/3iJ5aqTPyYQDXS2y8TUvaM"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "duration_ms": 233661,
+      "name": "dancing in the rain",
+      "url": "https://open.spotify.com/track/1UwLgtbxqSOHOEHASA1dZu"
     },
     {
       "added_at": "2025-04-14 15:57:26",
@@ -109,20 +193,28 @@
       "url": "https://open.spotify.com/track/71lj44bELUowizDy5Ppz7l"
     },
     {
-      "added_at": "2025-04-11 04:00:28",
+      "added_at": "2025-04-18 04:00:55",
       "album": {
-        "name": "dancing in the rain",
-        "url": "https://open.spotify.com/album/3iJ5aqTPyYQDXS2y8TUvaM"
+        "name": "Rush (Missing Out On Me)",
+        "url": "https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg"
       },
       "artists": [
         {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Purient",
+          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
         }
       ],
-      "duration_ms": 233661,
-      "name": "dancing in the rain",
-      "url": "https://open.spotify.com/track/1UwLgtbxqSOHOEHASA1dZu"
+      "duration_ms": 144802,
+      "name": "Rush (Missing Out On Me)",
+      "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
     },
     {
       "added_at": "2025-03-28 04:00:46",
@@ -145,6 +237,22 @@
       "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
     },
     {
+      "added_at": "2025-04-18 04:00:55",
+      "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/0n50MmQVlRojX3s8IZfbDe"
+      },
+      "artists": [
+        {
+          "name": "Arpy Brown",
+          "url": "https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V"
+        }
+      ],
+      "duration_ms": 214485,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0raEo5QTDeP4Iwy2P5BRn8"
+    },
+    {
       "added_at": "2025-03-21 04:01:00",
       "album": {
         "name": "Creek",
@@ -159,6 +267,26 @@
       "duration_ms": 195937,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF"
+    },
+    {
+      "added_at": "2025-04-18 04:00:55",
+      "album": {
+        "name": "Dancing (Only Me & You)",
+        "url": "https://open.spotify.com/album/7hmRBcsHusk3EkV5Gs5Hfm"
+      },
+      "artists": [
+        {
+          "name": "Arial Ten",
+          "url": "https://open.spotify.com/artist/4EsI8ZiuYuBFtkjoESzQGf"
+        },
+        {
+          "name": "Giselle Lily",
+          "url": "https://open.spotify.com/artist/3MjsYDxiYQf77u7zWaVZ9l"
+        }
+      ],
+      "duration_ms": 204915,
+      "name": "Dancing (Only Me & You)",
+      "url": "https://open.spotify.com/track/1ZfLabjBrPFVSQ3KvblgUe"
     },
     {
       "added_at": "2025-02-14 05:00:42",
@@ -213,20 +341,24 @@
       "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
     },
     {
-      "added_at": "2025-04-11 04:00:28",
+      "added_at": "2025-04-18 04:00:55",
       "album": {
-        "name": "Modern Life",
-        "url": "https://open.spotify.com/album/5sejrpX8MyaFzQCox0cni0"
+        "name": "Kimpton",
+        "url": "https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21"
       },
       "artists": [
         {
-          "name": "Yes Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
         }
       ],
-      "duration_ms": 169464,
-      "name": "Modern Life",
-      "url": "https://open.spotify.com/track/2bicTvHQXudRYQQSQcYRsS"
+      "duration_ms": 228250,
+      "name": "Kimpton",
+      "url": "https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz"
     },
     {
       "added_at": "2025-03-28 04:00:46",
@@ -245,6 +377,42 @@
       "url": "https://open.spotify.com/track/2kqKsdnfgTraa9v4adnadN"
     },
     {
+      "added_at": "2025-02-07 05:00:44",
+      "album": {
+        "name": "ENTROPIA",
+        "url": "https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 398000,
+      "name": "ENTROPIA",
+      "url": "https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5"
+    },
+    {
+      "added_at": "2025-04-18 17:33:59",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0C7Ua9K63TQHmlGrBTpFZ1"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "duration_ms": 189347,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4TDORCoxhnC3qCz5d6dIUV"
+    },
+    {
       "added_at": "2025-02-21 05:00:44",
       "album": {
         "name": "The Mirror",
@@ -259,6 +427,30 @@
       "duration_ms": 173120,
       "name": "The Mirror",
       "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"
+    },
+    {
+      "added_at": "2025-04-18 04:00:55",
+      "album": {
+        "name": "Synergy Remixes",
+        "url": "https://open.spotify.com/album/2rOD15TWzMWuAulbE1mClG"
+      },
+      "artists": [
+        {
+          "name": "Jungle by Night",
+          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
+        },
+        {
+          "name": "D Stone",
+          "url": "https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9"
+        },
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "duration_ms": 388837,
+      "name": "Oog om Oog (feat. Spinvis) (D Stone Remix)",
+      "url": "https://open.spotify.com/track/2urau0HafmN3pAmVc2r1ed"
     },
     {
       "added_at": "2025-04-04 04:00:29",
@@ -363,22 +555,6 @@
       "duration_ms": 213466,
       "name": "Song for You",
       "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
-    },
-    {
-      "added_at": "2025-03-28 04:00:46",
-      "album": {
-        "name": "Can't Be Me",
-        "url": "https://open.spotify.com/album/6V5v8EKX35dEiJ3pVijqUu"
-      },
-      "artists": [
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        }
-      ],
-      "duration_ms": 157494,
-      "name": "Can't Be Me",
-      "url": "https://open.spotify.com/track/3UfUbzWm9wFWEoxpF4fMTN"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -591,22 +767,6 @@
       "duration_ms": 214269,
       "name": "BUTTER BREAD",
       "url": "https://open.spotify.com/track/2S4pfn4eZbyOLpJwy6T8kA"
-    },
-    {
-      "added_at": "2025-02-07 05:00:44",
-      "album": {
-        "name": "ENTROPIA",
-        "url": "https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 398000,
-      "name": "ENTROPIA",
-      "url": "https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5"
     },
     {
       "added_at": "2025-03-21 04:01:00",
@@ -1213,22 +1373,6 @@
       "url": "https://open.spotify.com/track/2zYqGEin2iVpBxAAZCPzdf"
     },
     {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Different Time",
-        "url": "https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "Different Time",
-      "url": "https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc"
-    },
-    {
       "added_at": "2025-02-21 05:00:44",
       "album": {
         "name": "Don't Be Seen With Me",
@@ -1405,42 +1549,6 @@
       "url": "https://open.spotify.com/track/0a4LK4MxVUF3zFMu9Bj3SZ"
     },
     {
-      "added_at": "2025-01-10 05:00:33",
-      "album": {
-        "name": "Disco Nap",
-        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Disco Nap",
-      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
-    },
-    {
-      "added_at": "2025-02-14 05:00:42",
-      "album": {
-        "name": "Chroma Panorama Deluxe Edition",
-        "url": "https://open.spotify.com/album/5Xk7aqbigWJ7CB52XUbb0p"
-      },
-      "artists": [
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        }
-      ],
-      "duration_ms": 207438,
-      "name": "Tonighter",
-      "url": "https://open.spotify.com/track/4jDii9qkutEJFRg3EC7WE2"
-    },
-    {
       "added_at": "2024-12-23 22:02:12",
       "album": {
         "name": "L\u00f8veskatt",
@@ -1561,22 +1669,6 @@
       "url": "https://open.spotify.com/track/5t0uCMCzg4rXR5n0xiaHBR"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "its all good",
-        "url": "https://open.spotify.com/album/0ysYJqP60Gqgv6tS2V8GUX"
-      },
-      "artists": [
-        {
-          "name": "informal.",
-          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
-        }
-      ],
-      "duration_ms": 140536,
-      "name": "thebaddest",
-      "url": "https://open.spotify.com/track/4CvN2WpixbxFHenJYFIRPo"
-    },
-    {
       "added_at": "2025-01-31 05:00:38",
       "album": {
         "name": "Bon Bon (Andrew VanWyngarden Remix)",
@@ -1601,22 +1693,6 @@
       "url": "https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Let's Go Back",
-        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 169651,
-      "name": "Let's Go Back",
-      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
-    },
-    {
       "added_at": "2024-12-13 05:00:16",
       "album": {
         "name": "all right",
@@ -1631,26 +1707,6 @@
       "duration_ms": 227282,
       "name": "all right",
       "url": "https://open.spotify.com/track/00Wh6uftzgxQ4y29YzV2Yh"
-    },
-    {
-      "added_at": "2025-01-17 05:00:46",
-      "album": {
-        "name": "Paquera",
-        "url": "https://open.spotify.com/album/7KBMZwOYrbogOfjQwGDsJa"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "PPJ",
-          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
-        }
-      ],
-      "duration_ms": 210476,
-      "name": "Paquera",
-      "url": "https://open.spotify.com/track/2vfVvP7IPIBeltQj1fw1zQ"
     },
     {
       "added_at": "2025-01-17 05:00:46",
@@ -1683,22 +1739,6 @@
       "duration_ms": 333977,
       "name": "Everything's Going to be OK",
       "url": "https://open.spotify.com/track/34eWjp2K5hJ7SxuVIvRHzK"
-    },
-    {
-      "added_at": "2025-01-10 05:00:33",
-      "album": {
-        "name": "Let It Grow",
-        "url": "https://open.spotify.com/album/5aA7OMN45iR1fO8cgvkAau"
-      },
-      "artists": [
-        {
-          "name": "Skeleten",
-          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
-        }
-      ],
-      "duration_ms": 284222,
-      "name": "Let It Grow",
-      "url": "https://open.spotify.com/track/7jcGRUfoREyKkpuvIv4Sd9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1743,30 +1783,6 @@
       "duration_ms": 187500,
       "name": "Driving Fast",
       "url": "https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        },
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
     },
     {
       "added_at": "2024-10-25 04:00:00",

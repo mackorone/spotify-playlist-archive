@@ -4,7 +4,7 @@
 
 > Mavi Gri ve haftanın en iyi çıkışları!
 
-833 songs - 1 day 18 hr 19 min
+838 songs - 1 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Kaderim](https://open.spotify.com/track/3nvHETTHKcSGgVUGw0K7TK) | [Beril Raperin](https://open.spotify.com/artist/7LjdSdCRrPRUEUSy5ChO6G) | [Kaderim](https://open.spotify.com/album/6ZHAc66wlb9mly7ST3SZZP) | 3:15 | 2025-04-03 | 2025-04-11 |
 | [Kafalar Yeşil](https://open.spotify.com/track/4O59UPT9rJaggd28ity8Ox) | [Yasak Helva](https://open.spotify.com/artist/5Ku0LlBlvSAliBxZvPUJWw) | [Kafalar Yeşil](https://open.spotify.com/album/0aEMCrGUU0kEzGKdBPA4bX) | 3:39 | 2025-04-17 |  |
 | [kAHpE](https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [kAHpE](https://open.spotify.com/album/4LJKT3syN0IUiZY4PIz2EQ) | 2:21 | 2025-02-27 | 2025-03-07 |
+| [Kahpe Gibi](https://open.spotify.com/track/6QsMmrhOgIcPlyiABsTUUO) | [Ayaz Erdoğan](https://open.spotify.com/artist/2Y2hYlVGlZpTHAQ9UMaBCA) | [Kahpe Gibi](https://open.spotify.com/album/1UfOW8AOTGqrKr4K40Apcr) | 2:57 | 2025-04-18 |  |
 | [Kal](https://open.spotify.com/track/055EHLAtct3xHPDxaeqHWc) | [Son İstasyon](https://open.spotify.com/artist/7pnTxFbt34vsheS1ADFqST) | [Kal](https://open.spotify.com/album/5pidyqsBic89rz4qMqTZGb) | 3:09 | 2025-02-20 | 2025-02-28 |
 | [Kalbimi Sar](https://open.spotify.com/track/6Z3I0TEHaiE0oCpnVloXBt) | [Hopera](https://open.spotify.com/artist/2uABrlLK2zeVtV43eCvn8I) | [Kalbimi Sar](https://open.spotify.com/album/4R0djmY7uhkOLX0LqYgJnx) | 3:16 | 2025-03-13 | 2025-03-21 |
 | [Kalbimin Adaleti](https://open.spotify.com/track/4mN41oz57NhdA40aL0KwwF) | [Kafadar](https://open.spotify.com/artist/0LCDNWcB9H2oU7zcWW13aU) | [Kalbimin Adaleti](https://open.spotify.com/album/3ifGTXZxWLVGhcRqg8ELmS) | 3:32 | 2025-02-27 | 2025-03-07 |
@@ -550,6 +551,7 @@
 | [Poz Ver](https://open.spotify.com/track/5xDHozqlksLmerrttTJx4h) | [Son İstasyon](https://open.spotify.com/artist/7pnTxFbt34vsheS1ADFqST) | [Poz Ver](https://open.spotify.com/album/7l2LTDC4xofP4TAt0QfE3E) | 2:15 | 2025-03-27 | 2025-04-04 |
 | [pretty](https://open.spotify.com/track/7zku2rvsa345C0kwQ4OEyZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [pretty](https://open.spotify.com/album/4w5TWeEWxzS7qhsAUR5xE5) | 2:30 | 2025-02-27 | 2025-03-07 |
 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 | 2025-03-20 | 2025-03-28 |
+| [pUTA](https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [BIGBAT](https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix) | [pUTA](https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd) | 1:44 | 2025-04-18 |  |
 | [Raf](https://open.spotify.com/track/1cFuWTgSE8LCgnG7MSVwZI) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Raf](https://open.spotify.com/album/3teB4wQBOyMBvytv40bjjq) | 4:23 | 2025-02-27 | 2025-03-07 |
 | [Randevu](https://open.spotify.com/track/0AI45sLCnLLErLEdaGpVHb) | [BGR](https://open.spotify.com/artist/6umb60Q2lGAXahIvuPiOHi) | [Randevu](https://open.spotify.com/album/1sfk7bIf0XWIhW81BUfmOs) | 2:34 | 2025-04-03 | 2025-04-11 |
 | [REALMAN](https://open.spotify.com/track/3PvQpdvTCUboq4EUSevYlV) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [REALMAN](https://open.spotify.com/album/57XEn0ZSBx6vysIsvVT474) | 2:05 | 2025-03-20 | 2025-03-28 |
@@ -574,6 +576,7 @@
 | [Sahiden](https://open.spotify.com/track/1C4KHJ0WJumpgyYWVeuCi3) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [Sahiden](https://open.spotify.com/album/1ePPQpNC2M3AFRQQR9KmWx) | 2:04 | 2025-03-13 | 2025-03-21 |
 | [Sakatlık Bende](https://open.spotify.com/track/2H44wsi0eh2Fqjh5Qln5Fl) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Sakatlık Bende](https://open.spotify.com/album/7DpA2luIxKLFlQoXpLnjOG) | 2:48 | 2025-04-03 | 2025-04-11 |
 | [Sakın Bizi](https://open.spotify.com/track/5eHgV4vLnOFv1s4zcRn8dp) | [Sinem Güngör](https://open.spotify.com/artist/1vTXBkyauHdQNZGts985Vj) | [Sakın Bizi](https://open.spotify.com/album/2K9dqkoUTc0F0O83wq8X4h) | 2:47 | 2025-04-17 |  |
+| [Sana Borçluyum](https://open.spotify.com/track/7seIzVTMAIxNv5977Hdood) | [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii) | [Sana Borçluyum](https://open.spotify.com/album/1UNwcj2hOulCGe8W3D48f2) | 2:16 | 2025-04-18 |  |
 | [Sana Dair](https://open.spotify.com/track/6fTs3BSiMHzl0FXeYfGKDM) | [Maran Marangöz](https://open.spotify.com/artist/7Bd99Z2n8L1OBJQMdims0J) | [Sana Dair](https://open.spotify.com/album/2YCMBTl8nb6bOv5vTICNxp) | 2:47 | 2025-02-27 | 2025-03-07 |
 | [Sana Değmez \- Feridun Hürel Albüm](https://open.spotify.com/track/1YRj3xQyP2FuI0hwJluIw4) | [emre aydın](https://open.spotify.com/artist/66vIaZFb8okZH0npc4eQ5q) | [Sana Değmez \(Feridun Hürel Albüm\)](https://open.spotify.com/album/0untMsyhjku9TLrL1gsO0b) | 3:19 | 2025-04-03 | 2025-04-11 |
 | [Sana Gülüyor](https://open.spotify.com/track/0x3crAaeVhix7tdgGZxnyo) | [Alptuğrul Karadeli](https://open.spotify.com/artist/1NkFsnTkEt8271mmTKCqm7) | [Sana Gülüyor](https://open.spotify.com/album/0pIH72Qfy35rwp8DUTm156) | 2:30 | 2025-02-20 | 2025-02-28 |
@@ -627,6 +630,7 @@
 | [SİREN](https://open.spotify.com/track/059nSdcKwJ7s5bEwYZlbZq) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [The Nova](https://open.spotify.com/artist/4UDP9ZOfvXvjwg8GslPUFy) | [SİREN](https://open.spotify.com/album/3NqAO3tMLgdLtUGMz6dL4V) | 2:57 | 2025-03-06 | 2025-03-14 |
 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-10 | 2025-04-18 |
 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-13 | 2025-03-21 |
+| [Soft Öpücük](https://open.spotify.com/track/7sJ1cyZrmhqHaFVvD2xBkj) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Soft Öpücük](https://open.spotify.com/album/15Z5zDLAWBPP0GjIiVHzlK) | 3:18 | 2025-04-18 |  |
 | [Sokak Lambaları](https://open.spotify.com/track/6b1uy821JdoBurhVtNwxbW) | [Lil Begy](https://open.spotify.com/artist/50do41eMmwBzQICjvnmwxN) | [Sokak Lambaları](https://open.spotify.com/album/5imWHlXP1Dv2tTh24Bvarq) | 2:03 | 2025-03-13 | 2025-03-21 |
 | [sol yanımda](https://open.spotify.com/track/03YrnvMxTQne1f5zUa2DGu) | [Eytan](https://open.spotify.com/artist/3rtgZpxBTGp6NWtLMDvvEO) | [sol yanımda](https://open.spotify.com/album/13erneAtaOwlVqJvhUxbCI) | 2:49 | 2025-03-13 | 2025-03-21 |
 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 | 2025-02-27 | 2025-03-07 |
@@ -675,6 +679,7 @@
 | [Ters Gard](https://open.spotify.com/track/6Qij3PE4F1jbj0DL4eqqJr) | [Vento](https://open.spotify.com/artist/6AVltkaemYSoibjVs2Tf6J) | [Ters Gard](https://open.spotify.com/album/2aqGvK4nki0JrucvGix7IJ) | 1:38 | 2025-04-17 |  |
 | [Teşekkürler Düşünceler](https://open.spotify.com/track/3eg8GTjc2SnPMKnx7xDvdN) | [light motiv](https://open.spotify.com/artist/6rLXE13y3DrO2mZ8GJqJsZ) | [Geçen Günler Düşen Yapraklar Gibi](https://open.spotify.com/album/52eLrmEUGqCZQNGD41vOoj) | 3:59 | 2025-03-06 | 2025-03-14 |
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-10 | 2025-04-18 |
+| [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 | 2025-04-17 |  |
 | [The Flood](https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Flood](https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv) | 4:29 | 2025-04-03 | 2025-04-11 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-13 | 2025-03-21 |
 | [The Mirror](https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [The Mirror](https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO) | 2:53 | 2025-02-20 | 2025-02-28 |

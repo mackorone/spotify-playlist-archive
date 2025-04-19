@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Good Bad Ugly",
+  "description": "New Music from Kollywood.\nCover : Thug Life",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -3470,7 +3470,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 166581,
       "name": "Arena (From \"TEST\")",
       "url": "https://open.spotify.com/track/6iezfKAXRLprXcICgFtIkc"
@@ -13251,6 +13251,40 @@
     },
     {
       "album": {
+        "name": "Jinguchaa (From \"Thug Life\") (Tamil)",
+        "url": "https://open.spotify.com/album/5ROLhzeNs1qAN2SwAD4Ukp"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260314,
+      "name": "Jinguchaa (From \"Thug Life\") (Tamil)",
+      "url": "https://open.spotify.com/track/3hZg8oiTOWFZWaFudFi610"
+    },
+    {
+      "album": {
         "name": "Jo Jo (From \"Aranmanai 4\")",
         "url": "https://open.spotify.com/album/39PWuo2WvDNgekZWrAlFdA"
       },
@@ -20254,7 +20288,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 261428,
       "name": "Mambatti Nuni (From \"Maadan Kodai Vizha\")",
       "url": "https://open.spotify.com/track/0I5VuRXUKxXyz9XMBj6aHv"
@@ -26450,7 +26484,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 210187,
       "name": "Oruthi",
       "url": "https://open.spotify.com/track/4IsIV1LKd4xx1eur5R7Plx"
@@ -30280,7 +30314,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 190161,
       "name": "Rangamma",
       "url": "https://open.spotify.com/track/71QCnpqGwmtQwkdTfl6WW1"
@@ -38778,7 +38812,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 207157,
       "name": "Uyir Pathikaama - From \"Vaa Vaathiyaar\"",
       "url": "https://open.spotify.com/track/6jmc3lXKzUEdbWMTJw89K2"

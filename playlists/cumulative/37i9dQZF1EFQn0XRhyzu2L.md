@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-556 songs - 1 day 6 hr 25 min
+557 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Call it Love](https://open.spotify.com/track/5rVv4Ej6k60zh5VPRpjln0) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [LOVE](https://open.spotify.com/album/477cCvnSXhVwHlUJ4j70zj) | 3:03 | 2024-02-27 |  |
 | [Call Me Queen](https://open.spotify.com/track/36t0yXv8WYdtuksM3IPBom) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Call Me Queen \(Frank Pole Remix\)](https://open.spotify.com/album/0xhky4wKaoKH4mrTbIVmux) | 2:47 | 2024-02-27 |  |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/1OdvKyTexzm8ZEmdCxhGsX) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:06 | 2025-03-28 |  |
+| [Can We Do This Over](https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Can We Do This Over](https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT) | 3:28 | 2025-04-18 |  |
 | [Can't Keep Up](https://open.spotify.com/track/4RUyjM8S9ap1LScrRii8T9) | [Eliot Ness](https://open.spotify.com/artist/2UP9pN18GnCfuFNMFOmu9u), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Mr\. 3\-2](https://open.spotify.com/artist/5xu3KF4ZTFjNncNRIVaJnt), [Mike D](https://open.spotify.com/artist/0e6si4eBTPWosfLhmEyo4L) | [I'm Me, Pt\. 2](https://open.spotify.com/album/0EjmKtrJ48kj3XirDHKrz6) | 3:32 | 2024-03-26 |  |
 | [CANDLES](https://open.spotify.com/track/6RjjXvQyvgiPX3t8cm0gck) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 3:32 | 2024-09-25 |  |
 | [Candy Cigarette](https://open.spotify.com/track/1u38aj9LVAjbO84irVCfwP) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Anything's Possible \(Motion Picture Soundtrack\)](https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w) | 2:22 | 2024-02-27 |  |

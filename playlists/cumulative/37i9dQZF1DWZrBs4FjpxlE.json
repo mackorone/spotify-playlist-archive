@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "PARTYLAND",
+        "url": "https://open.spotify.com/album/1Fj0KeuWt1GTTMDm6ZtmBY"
+      },
+      "artists": [
+        {
+          "name": "Kee Nola",
+          "url": "https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141968,
+      "name": "Apologies",
+      "url": "https://open.spotify.com/track/7KvJup9EIS0K5Tsunt2p4r"
+    },
+    {
+      "album": {
         "name": "Arcade",
         "url": "https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 150475,
       "name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
       "url": "https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ"
@@ -544,7 +562,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 224000,
       "name": "F.N",
       "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
@@ -1512,6 +1530,24 @@
       "duration_ms": 140800,
       "name": "Sad Song",
       "url": "https://open.spotify.com/track/6TGcyIIJgkfVEg5AP4mwHo"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/5epAkQBKiF1AbHuK3OjI2R"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170973,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/479iOebjPbBBXPXZvGKcYc"
     },
     {
       "album": {

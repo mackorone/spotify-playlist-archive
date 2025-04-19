@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e1f\u0e31\u0e07\u0e01\u0e31\u0e19\u0e22\u0e32\u0e27\u0e46 \u0e2a\u0e07\u0e01\u0e23\u0e32\u0e19\u0e15\u0e4c\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MILLI",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 1MILL",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 202500,
       "name": "Again",
       "url": "https://open.spotify.com/track/3RpYxHjhAptAGk5pmjDHYB"
+    },
+    {
+      "album": {
+        "name": "PARAGON DEMON",
+        "url": "https://open.spotify.com/album/5YNVxOuJPYy432DbTYMluj"
+      },
+      "artists": [
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "AGAIN 2",
+      "url": "https://open.spotify.com/track/0nbktqh3AwE8214QJ8nn8w"
     },
     {
       "album": {
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 173047,
       "name": "FOR ME",
       "url": "https://open.spotify.com/track/6gh3ZarTcmcYAUIBqFJ6ql"
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 146860,
       "name": "Haters Attitude",
       "url": "https://open.spotify.com/track/5fq6xqQ8Z3fTfWzZcDDW2m"
@@ -4069,6 +4087,28 @@
     },
     {
       "album": {
+        "name": "PainStar",
+        "url": "https://open.spotify.com/album/4rFlZNxyRiarkttqZr0mBq"
+      },
+      "artists": [
+        {
+          "name": "THAIBABY",
+          "url": "https://open.spotify.com/artist/71RhZfnN3OMxNcNw9x9K7j"
+        },
+        {
+          "name": "NICECNX",
+          "url": "https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "PainStar",
+      "url": "https://open.spotify.com/track/26bhWTDxpsoHAGx4XRCa4F"
+    },
+    {
+      "album": {
         "name": "Panda",
         "url": "https://open.spotify.com/album/0vj7tKmyu6jVhyK2X13IvZ"
       },
@@ -4120,7 +4160,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 187375,
       "name": "PEDRO",
       "url": "https://open.spotify.com/track/3Fb0As7T7EodmoaiDyFYRb"
@@ -8977,6 +9017,28 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e32\u0e25\u0e30\u0e40\u0e2b\u0e27\u0e22 \u0e21\u0e32\u0e25\u0e30\u0e27\u0e32",
+        "url": "https://open.spotify.com/album/7GepwSiN34Dan1igXQA9Ky"
+      },
+      "artists": [
+        {
+          "name": "Rap Is Now",
+          "url": "https://open.spotify.com/artist/6WEHKzjzHXaAv9M9bJRYxj"
+        },
+        {
+          "name": "PQR",
+          "url": "https://open.spotify.com/artist/09Pi9mJ2EXpG6tNRNn7SPr"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136633,
+      "name": "\u0e21\u0e32\u0e25\u0e30\u0e40\u0e2b\u0e27\u0e22 \u0e21\u0e32\u0e25\u0e30\u0e27\u0e32",
+      "url": "https://open.spotify.com/track/5tGFguVPoyyhuyKTxbqj4o"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e32\u0e41\u0e15\u0e23\u0e4c\u0e40\u0e14\u0e2d\u0e35",
         "url": "https://open.spotify.com/album/19lh2iwF6uufDa9AxBUSl2"
       },
@@ -9146,6 +9208,24 @@
       "duration_ms": 214826,
       "name": "\u0e22\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/5iRvRezhqYg1UxUaHG82jz"
+    },
+    {
+      "album": {
+        "name": "PARAGON DEMON",
+        "url": "https://open.spotify.com/album/5YNVxOuJPYy432DbTYMluj"
+      },
+      "artists": [
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169442,
+      "name": "\u0e22\u0e2d\u0e21\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+      "url": "https://open.spotify.com/track/6sOyoa64cJIcjzbjnn2fNG"
     },
     {
       "album": {
@@ -10304,7 +10384,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 206326,
       "name": "\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e23\u0e38\u0e48\u0e19 (feat. 4BANG, F.HERO)",
       "url": "https://open.spotify.com/track/6PSX4YOY3gD0b9b8aOwHEv"
@@ -10471,6 +10551,24 @@
     },
     {
       "album": {
+        "name": "PARAGON DEMON",
+        "url": "https://open.spotify.com/album/5YNVxOuJPYy432DbTYMluj"
+      },
+      "artists": [
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191812,
+      "name": "\u0e2b\u0e21\u0e35\u0e02\u0e31\u0e49\u0e27\u0e42\u0e25\u0e01 (Polar Bear)",
+      "url": "https://open.spotify.com/track/3AJMEPpRSY9yv4WD4NaquP"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e27\u0e31\u0e07\u0e27\u0e48\u0e32\u0e08\u0e30\u0e14\u0e35",
         "url": "https://open.spotify.com/album/3zy7LxS0OpFSV8F10LNK0n"
       },
@@ -10544,7 +10642,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 148500,
       "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/4GK5seU6Fyi1Kstn4QZ5vU"

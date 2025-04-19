@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406 likes - 404 songs - 21 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 406 likes - 405 songs - 21 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 172 | [Scrapple from the Apple \(2000 \- Remaster\)](https://open.spotify.com/track/6uBT2Gt0nRAz1jpIwwhPV1) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Now's the Time](https://open.spotify.com/album/4d0fFwbKeBJ9ysxjT7XywQ) | 2:57 |
 | 173 | [Dawn \- Woodwire Remix](https://open.spotify.com/track/1BE5ehhf87kLvECCYWWPKo) | [Wild Wild Waves](https://open.spotify.com/artist/4cpfsyfy6rHtFWm5l1AQTF), [Woodwire](https://open.spotify.com/artist/0XDDVrXAZds2CXYLywCfe5) | [Dawn \(Woodwire Remix\)](https://open.spotify.com/album/3rkjqWK42hsJsfW6tkMOeZ) | 3:39 |
 | 174 | [Voodoo](https://open.spotify.com/track/3C2HSGEUxEd9tXCsuzdSPL) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Cow Fingers and Mosquito Pie \(Expanded Edition\)](https://open.spotify.com/album/7iqV06s6GOh88Y1f9cgEud) | 2:40 |
-| 175 | [Live and Let Live \(2023 Remastered\)](https://open.spotify.com/track/6rCPBH7r58GrgiKH8Rsn8m) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 1:55 |
-| 176 | [Where Is The Life That Late I Led?](https://open.spotify.com/track/0lnjAgtSKBb7YqdWAkrm0Y) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:34 |
+| 175 | [Where Is The Life That Late I Led?](https://open.spotify.com/track/0lnjAgtSKBb7YqdWAkrm0Y) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:34 |
+| 176 | [Live and Let Live \(2023 Remastered\)](https://open.spotify.com/track/6rCPBH7r58GrgiKH8Rsn8m) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 1:55 |
 | 177 | [Without your love](https://open.spotify.com/track/5jAw425BUP2RVDNJaZG2NL) | [Billie Holiday Orchestra, Lester Young](https://open.spotify.com/artist/0boUJeiqdjS7GP6On0qZzX) | [BILLIE HOLIDAY, LESTER YOUNG](https://open.spotify.com/album/3sKyhn3eEHRqmvOZ9HAYyR) | 2:52 |
 | 178 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 | 179 | [Jubilee](https://open.spotify.com/track/72QKvGdTnXwTXnXEMWqa2C) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 4:45 |
@@ -412,5 +412,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 402 | [Quainty, Dainty Me \- Remastered](https://open.spotify.com/track/7KLochx49d0KSmjAUNQIrw) | [Fanny Brice](https://open.spotify.com/artist/13dV8RDgoexJINGhkS7sLR) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/4bQSGb4laq7OD90vuCDmYt) | 4:15 |
 | 403 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 404 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
+| 405 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `AbvDNAAAAAB7B9y9QbjWI5KdecDNPeFc`
+Snapshot ID: `AbvI1AAAAADfQLS4cgMysdUoUZIIwul8`

@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Layefa
 
-1,238 songs - 2 day 11 hr 36 min
+1,239 songs - 2 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Feels Like Magic](https://open.spotify.com/track/6hE9eQNiZDdbHpaxPcSqjD) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:54 | 2022-08-12 | 2022-10-29 |
 | [Felony](https://open.spotify.com/track/4plfpUXQGDWmPSzi3hh1ph) | [Graham BMG](https://open.spotify.com/artist/0mlVlGzMbIQvvR9ttBWFW3) | [Felony](https://open.spotify.com/album/3ysBQMUR3McphAzqTbNSVW) | 2:14 | 2024-01-26 | 2024-03-01 |
 | [Female](https://open.spotify.com/track/3BQmC4l8GnAfHdahiZ1GQX) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Quantitative Reason](https://open.spotify.com/album/5QopXHEo3jwlI9ATm0NXdG) | 2:36 | 2024-02-09 | 2024-03-01 |
+| [Fight 4 Love](https://open.spotify.com/track/1VBoC1tRFA7WI7r2fk9Sis) | [Dj Hkeem](https://open.spotify.com/artist/2b4kfsJBz1rJRhGaDyIHNi), [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [Fight 4 Love](https://open.spotify.com/album/6lZ1E6jxT5Jyn6DxvU4dSu) | 2:56 | 2025-04-18 |  |
 | [Find Someone](https://open.spotify.com/track/3S6EvVam1BkLDuDxvjJL2n) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [Find Someone](https://open.spotify.com/album/3LybbuWtZbeqVwfwHrtA5o) | 1:59 | 2024-05-10 | 2024-06-01 |
 | [Fine Girl](https://open.spotify.com/track/1d0y0QIrrLcvyROxYeYMLh) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Fine Girl](https://open.spotify.com/album/5GqNDVg42ADBKbvpcfKlpa) | 3:11 | 2023-09-14 | 2024-01-26 |
 | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61) | 3:06 | 2022-12-08 | 2023-03-31 |

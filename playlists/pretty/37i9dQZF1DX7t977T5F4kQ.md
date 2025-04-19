@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover: KiDi & Gyakie
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,291 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,313 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 27 | [Gone](https://open.spotify.com/track/0zCBuNnMKpn8G2YpTQf31e) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Gone](https://open.spotify.com/album/4k0fSGTnUkUEXlaXdkPE8v) | 2:46 |
 | 28 | [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 |
 | 29 | [Daakyi](https://open.spotify.com/track/2txGaErDB8OAKa1Mh7ECk5) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Daakyi](https://open.spotify.com/album/5JEvmfxuLsZujr5Iy5pY6v) | 4:00 |
-| 30 | [WELCOME TO AFRICA](https://open.spotify.com/track/5I9E9qA5slBlMRZDruIsoG) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [WELCOME TO AFRICA](https://open.spotify.com/album/7CNEJPuvPvESDraHQv1o4l) | 3:13 |
+| 30 | [WELCOME TO AFRICA](https://open.spotify.com/track/5I9E9qA5slBlMRZDruIsoG) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [WELCOME TO AFRICA](https://open.spotify.com/album/7CNEJPuvPvESDraHQv1o4l) | 3:02 |
 | 31 | [Ruwa](https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Ruwa](https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA) | 2:46 |
 | 32 | [For the Popping \(Apicki\)](https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [For the Popping \(Apicki\)](https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq) | 2:57 |
 | 33 | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/album/0YLqst6MXpMNNyVtZKJPQb) | 2:28 |

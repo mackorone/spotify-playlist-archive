@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44168,
+  "num_followers": 44164,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ+CW1IAuVSgsXPdIYyVe0mhPznLb5",
+  "snapshot_id": "AAAZ+vlLUvCBOWzN+D8xAx17QEU1R+GB",
   "tracks": [
+    {
+      "added_at": "2025-04-18 13:34:00",
+      "album": {
+        "name": "1000 BPM",
+        "url": "https://open.spotify.com/album/1meGf7IwRXYnL2Ge9IoK4r"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 122038,
+      "name": "1000 BPM",
+      "url": "https://open.spotify.com/track/4xk8R3G79Hyz8uLGKUVV1l"
+    },
+    {
+      "added_at": "2025-04-18 13:34:31",
+      "album": {
+        "name": "No Crumbs",
+        "url": "https://open.spotify.com/album/0f6obn47vRBYI53s0UumAU"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "No Crumbs",
+      "url": "https://open.spotify.com/track/2zOJ6fmpd0T9oJLfXSpA1I"
+    },
     {
       "added_at": "2025-04-11 17:02:18",
       "album": {

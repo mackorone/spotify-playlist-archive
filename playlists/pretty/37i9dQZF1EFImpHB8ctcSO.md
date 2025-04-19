@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 16 | [Today's the Day](https://open.spotify.com/track/3R6Yl4rzMWEMJkz093QuGp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/5gl67XfmbbdmfJKPkR9rIe) | 4:42 |
 | 17 | [Pavlov's Bell](https://open.spotify.com/track/0EfNxK7VbgofcknJHA4FNL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 4:27 |
 | 18 | [You Never Loved Me](https://open.spotify.com/track/5ZQYl1nIY1s1FvfKNkPeJg) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 3:07 |
-| 19 | [Stuck in the Past](https://open.spotify.com/track/7rONX7xD3AL2xWhUhahN7t) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 3:33 |
-| 20 | [How Am I Different \- Remastered 2020](https://open.spotify.com/track/195F1ifBpwJI02D4a1TkNv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor, No\. 2 \(Or, The Last Remains of the Dodo\) \[20th Anniversary Edition\]](https://open.spotify.com/album/1eEcY3aadclBQnBcpTJGeV) | 5:03 |
+| 19 | [How Am I Different \- Remastered 2020](https://open.spotify.com/track/195F1ifBpwJI02D4a1TkNv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor, No\. 2 \(Or, The Last Remains of the Dodo\) \[20th Anniversary Edition\]](https://open.spotify.com/album/1eEcY3aadclBQnBcpTJGeV) | 5:03 |
+| 20 | [Stuck in the Past](https://open.spotify.com/track/7rONX7xD3AL2xWhUhahN7t) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 3:33 |
 | 21 | [Freeway](https://open.spotify.com/track/0R0i07c7OAeV9btDjJNPFk) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 3:50 |
 | 22 | [Build That Wall](https://open.spotify.com/track/4mwnG1PFZrrGrmZsQyd8VY) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 4:24 |
 | 23 | [Rollercoasters](https://open.spotify.com/track/6s1nalRMMo4krFyIlpSgpL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 3:44 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `AbvDNAAAAADVxMU/xDXS9lKbMV0ZkwEN`
+Snapshot ID: `AbvIwAAAAAD2BSS1AUObjAqXoY2T+Yq/`

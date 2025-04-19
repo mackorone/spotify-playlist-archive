@@ -1,10 +1,10 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1047434,
+  "num_followers": 1047522,
   "original_name": "Acoustic Rock",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "Z8FC7wAAAAAVcPUhC8pejpuQfznLSSxd",
   "tracks": [
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Wherever You Will Go - Acoustic",
-      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
         "name": "Bleed American (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 190640,
       "name": "The Middle - Acoustic Version",
       "url": "https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "Wherever You Will Go - Acoustic",
+      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Something Human (Acoustic)",
-      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
         "name": "Free (Deluxe)",
         "url": "https://open.spotify.com/album/0mRS9byJHTnRXaaJaxDM8Z"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 237369,
       "name": "Crash Land",
       "url": "https://open.spotify.com/track/7r8Ut9Pn4kzEJwNFtgDQKr"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Something Human (Acoustic)",
+      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
     },
     {
       "added_at": "2025-02-28 05:00:31",

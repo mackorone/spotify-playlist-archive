@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-123 songs - 8 hr 56 min
+124 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Ikenai Borderline \-album version\-](https://open.spotify.com/track/0gg1K0zwcNaYyzMeKpRNxT) | [Walkure](https://open.spotify.com/artist/4b1IVV9meynYx65WpsxjbT) | [TV Animation "MACROSS DELTA" VOCAL SONGS COLLECTION "Walkure Attack!"](https://open.spotify.com/album/2nQJ2Eyi1uAwWcYXeYx6xP) | 4:39 | 2021-12-21 | 2024-04-19 |
 | [JOJO SONO CHINO SADAME](https://open.spotify.com/track/08q2CrXYf1ZaMbcKViPdVA) | [Hiroaki Tommy Tominaga](https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ) | [JOJO SONO CHINO SADAME](https://open.spotify.com/album/0t9GYCbtohYvtA60qUBCHa) | 4:22 | 2021-12-21 | 2024-04-19 |
 | [Koi wo Shita nowa](https://open.spotify.com/track/4djnzEBxRzNkitxZRPGmzy) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Shimetta Natsu no Hajimari](https://open.spotify.com/album/6vpsmEKP8UPBJW8uzdY06r) | 6:00 | 2021-12-21 | 2024-04-19 |
+| [LOVE GOOD TIME](https://open.spotify.com/track/6ecl1NHBoBHcVHawGLlu0L) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [「オオカミ少女と黒王子」Single](https://open.spotify.com/album/1STKXYTBeCtfPpRm00L5Ju) | 2:37 | 2025-04-18 |  |
 | [Make it!](https://open.spotify.com/track/4NhJWyPv20hIvs5oDP0Jga) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Make it!](https://open.spotify.com/album/00qBnGSGC1qtAWPVys6cxB) | 4:12 | 2021-12-21 | 2022-11-13 |
 | [Make it!](https://open.spotify.com/track/5d1ElKPz3XIOJnU9h7zh6t) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [10th Anniversary Best Album 〜Best i☆Rist〜](https://open.spotify.com/album/0WfFLFywmHvtexaH2fwLFQ) | 4:12 | 2022-09-15 | 2024-04-19 |
 | [Make it!](https://open.spotify.com/track/0JJZiPzGv2WnzMSmFqO0jl) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [We are i☆Ris!!!](https://open.spotify.com/album/3I490xGVtOveSoXdImJAnF) | 4:13 | 2021-12-21 |  |

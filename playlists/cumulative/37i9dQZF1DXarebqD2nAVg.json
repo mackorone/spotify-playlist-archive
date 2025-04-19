@@ -121,6 +121,42 @@
     },
     {
       "album": {
+        "name": "amethyst",
+        "url": "https://open.spotify.com/album/4cxQp2Q5D5nRvl2wH3q7X0"
+      },
+      "artists": [
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132812,
+      "name": "amethyst",
+      "url": "https://open.spotify.com/track/0sAOhw3tv1rzpfi1tiRKQL"
+    },
+    {
+      "album": {
+        "name": "an endless spring",
+        "url": "https://open.spotify.com/album/0EYe6j5EaDj1E4pi2XkYLa"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112491,
+      "name": "an endless spring",
+      "url": "https://open.spotify.com/track/0XIFV4GDAm0eGSpzDQgU5o"
+    },
+    {
+      "album": {
         "name": "another time",
         "url": "https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7"
       },
@@ -158,7 +194,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 191707,
       "name": "Anything Like Her (feat. Tiffi)",
       "url": "https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0"
@@ -176,7 +212,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 137075,
       "name": "at any given moment",
       "url": "https://open.spotify.com/track/3RvUyWy3mlzFl8LhnJY6yR"
@@ -230,7 +266,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 121672,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
@@ -671,6 +707,24 @@
     },
     {
       "album": {
+        "name": "day by day",
+        "url": "https://open.spotify.com/album/2aeDFGJgAVpDjEg9kw17Qk"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "day by day",
+      "url": "https://open.spotify.com/track/5K5k3QaMvZdwlrrJX1Qqnf"
+    },
+    {
+      "album": {
         "name": "disappear",
         "url": "https://open.spotify.com/album/3oRx3Ru3FcKCCl20IF6fNk"
       },
@@ -1086,7 +1140,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 134030,
       "name": "Fonnes",
       "url": "https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6"
@@ -1300,7 +1354,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 130496,
       "name": "going back home",
       "url": "https://open.spotify.com/track/7aJwN8s9yS5WbmS2CXffBB"
@@ -1318,7 +1372,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 123076,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883"
@@ -1452,10 +1506,28 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 84000,
       "name": "Hold on, Pt. 2",
       "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
+    },
+    {
+      "album": {
+        "name": "holding hands",
+        "url": "https://open.spotify.com/album/7c30n8rGmqfBMHmXvbhIV1"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122171,
+      "name": "holding hands",
+      "url": "https://open.spotify.com/track/5R4LOkyxtLjlXDzglgYBpW"
     },
     {
       "album": {
@@ -2154,7 +2226,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 72583,
       "name": "making her smile",
       "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
@@ -3007,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "slowFi",
+        "url": "https://open.spotify.com/album/52itzxK5WbmBO1RcOcxU9g"
+      },
+      "artists": [
+        {
+          "name": "knight knight",
+          "url": "https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132411,
+      "name": "slowFi",
+      "url": "https://open.spotify.com/track/4aWrBVm1mzziG5g003EkEd"
+    },
+    {
+      "album": {
         "name": "Smooth Fields",
         "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
       },
@@ -3112,6 +3202,24 @@
       "duration_ms": 143250,
       "name": "soulful",
       "url": "https://open.spotify.com/track/5GMk3k1qsvegqMcmgBd0Qm"
+    },
+    {
+      "album": {
+        "name": "Star Map",
+        "url": "https://open.spotify.com/album/3sv9oXIIjsWT833RTXpOmT"
+      },
+      "artists": [
+        {
+          "name": "les marais",
+          "url": "https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118048,
+      "name": "Star Map",
+      "url": "https://open.spotify.com/track/5zW1Bwlz6RreBhyphUsifD"
     },
     {
       "album": {
@@ -3347,6 +3455,28 @@
     },
     {
       "album": {
+        "name": "The Shore",
+        "url": "https://open.spotify.com/album/1flHqSiDEz0tnQxONWwzRa"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "The Shore",
+      "url": "https://open.spotify.com/track/6J0AggmWHenT6C8ORVzoPE"
+    },
+    {
+      "album": {
         "name": "Think About U (feat. Joji)",
         "url": "https://open.spotify.com/album/4RydIl5xqQZjDyOYSmUb7a"
       },
@@ -3500,6 +3630,24 @@
       "duration_ms": 156000,
       "name": "tranquility",
       "url": "https://open.spotify.com/track/6rl4T0vpbACeNmZs3kVwH6"
+    },
+    {
+      "album": {
+        "name": "truth",
+        "url": "https://open.spotify.com/album/44wtfuJv5UJeyEmNZkpM2e"
+      },
+      "artists": [
+        {
+          "name": "marigold",
+          "url": "https://open.spotify.com/artist/4UPrESsUKf7K2iGxO1mSwc"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "truth",
+      "url": "https://open.spotify.com/track/2v61JbHklrRRSyADCJh5Hn"
     },
     {
       "album": {

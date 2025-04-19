@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Josh Ross",
+  "description": "The home of Canadian country music. Cover: James Baker Band",
   "name": "North Country",
   "tracks": [
     {
@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Story To Tell",
+        "url": "https://open.spotify.com/album/3dSynGcJjvbIMf3EAXvW8P"
+      },
+      "artists": [
+        {
+          "name": "Riley Taylor",
+          "url": "https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271850,
+      "name": "Fucked Up",
+      "url": "https://open.spotify.com/track/4viYCwHJ4TfWlqxXh8iLjp"
+    },
+    {
+      "album": {
         "name": "Get Outta My Dreams, Get into My Truck",
         "url": "https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz"
       },
@@ -1379,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Hate How You Look",
+        "url": "https://open.spotify.com/album/1t3ggBU7tZh8cn5b3PDLzX"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194364,
+      "name": "Hate How You Look",
+      "url": "https://open.spotify.com/track/1e5jpBtujcn9CMRwNsB9Rq"
+    },
+    {
+      "album": {
         "name": "He's The One",
         "url": "https://open.spotify.com/album/5oaGk1fr7NQxfHEMccMFFT"
       },
@@ -1570,7 +1606,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 191500,
       "name": "Home",
       "url": "https://open.spotify.com/track/0Eiif2eLqWumvKSDejgT8F"
@@ -1716,6 +1752,24 @@
     {
       "album": {
         "name": "I Don't See Why Not",
+        "url": "https://open.spotify.com/album/05rrUU9UpnWX4bObjjeWDN"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199310,
+      "name": "I Don't See Why Not",
+      "url": "https://open.spotify.com/track/0HJk2kajnKs7VXkCrirxeV"
+    },
+    {
+      "album": {
+        "name": "I Don't See Why Not",
         "url": "https://open.spotify.com/album/3g9SoGCrOgz5mmOEHEp12I"
       },
       "artists": [
@@ -1726,7 +1780,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 199310,
       "name": "I Don't See Why Not",
       "url": "https://open.spotify.com/track/3v1M3elHKiyYFKJ9gF7c2m"
@@ -1816,7 +1870,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 190217,
       "name": "i'll be there",
       "url": "https://open.spotify.com/track/47OYGU1ItIVUDRHl7jLfFb"
@@ -2058,6 +2112,24 @@
       "duration_ms": 242932,
       "name": "Lightning in July (Prairie Fire)",
       "url": "https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK"
+    },
+    {
+      "album": {
+        "name": "Little Of The Drunk Me",
+        "url": "https://open.spotify.com/album/1uHVq7dDuZi6gi5raL2yWj"
+      },
+      "artists": [
+        {
+          "name": "Doug Folkins",
+          "url": "https://open.spotify.com/artist/4FXyGNkqjgnwI9APRAUrMs"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "Little Of The Drunk Me",
+      "url": "https://open.spotify.com/track/3PYSxGSw6vMAWHhotPCvhx"
     },
     {
       "album": {
@@ -2344,7 +2416,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 178141,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa"
@@ -2558,7 +2630,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 178240,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/0hDhVVVJWkT6HfAvZa5DbK"
@@ -3279,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/50bR1gs2LyZ2WdTm4azOr0"
+      },
+      "artists": [
+        {
+          "name": "Raquel Cole",
+          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216360,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/3JiyEkTKPmPqOZ3Blh8J55"
+    },
+    {
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/5dLEg3MZITafGfwzp65Qev"
       },
@@ -3842,7 +3932,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 267798,
       "name": "Turn My Lover Loose",
       "url": "https://open.spotify.com/track/5gNKywykgKB0J7mTeqsHBC"
@@ -4320,6 +4410,28 @@
       "duration_ms": 179626,
       "name": "You Fight Dirty",
       "url": "https://open.spotify.com/track/55YiHh9QWQKwF5OH0CLwBB"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Fall",
+        "url": "https://open.spotify.com/album/0wSXHbSfSsIbSJD9X0jXXV"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        },
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151320,
+      "name": "You're Gonna Fall",
+      "url": "https://open.spotify.com/track/1lIv7tnLHNRKjQ6CxJjiIW"
     },
     {
       "album": {

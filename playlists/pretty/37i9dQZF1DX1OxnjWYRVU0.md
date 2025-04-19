@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[](https://open.spotify.com/user/null) - 427,948 likes - 368 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,961 likes - 368 songs - 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 琳誼 \(Ring\)
 
-2,011 songs - 4 day 20 hr 57 min
+2,012 songs - 4 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1712,6 +1712,7 @@
 | [给, 漂亮的你](https://open.spotify.com/track/43IIwWppKiUka02d0Ls0k4) | [JSY 九十壹](https://open.spotify.com/artist/5S8d47H2l7106BuyPmLoap) | [给, 漂亮的你](https://open.spotify.com/album/6rTfQJdeUq0EkuuLAZXpk0) | 5:04 | 2025-04-17 |  |
 | [缓释胶囊](https://open.spotify.com/track/1Nu2TignH4FkqgGkVlQRY8) | [莫非定律乐团](https://open.spotify.com/artist/4XTIJd5AGmVq8urHnuMtcO), [莫非定律樂團](https://open.spotify.com/artist/576mV44iwFvzotJJrznMbj) | [缓释胶囊](https://open.spotify.com/album/5vd7MFUXaIuycmunw1LDei) | 4:14 | 2024-11-28 | 2024-12-13 |
 | [缺](https://open.spotify.com/track/0VxWA8MdEly682d4mC5zzD) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [缺](https://open.spotify.com/album/01TGWmnonLEk9NAG9k9dxK) | 5:30 | 2025-01-16 | 2025-02-14 |
+| [翅膀和泥土](https://open.spotify.com/track/2IziylC3691RmAiano7dW8) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [翅膀和泥土](https://open.spotify.com/album/1J0iIYt7b1PBoniG4ZmYLg) | 3:50 | 2025-04-17 |  |
 | [習慣後就別說痛了](https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [習慣後就別說痛了](https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl) | 3:52 | 2024-06-27 | 2024-07-05 |
 | [老乾媽](https://open.spotify.com/track/1CeWNKMZKdVZxFNejYnPGf) | [Crossing\-跨世兄弟](https://open.spotify.com/artist/78JfivRUsg9hKmS5yIUpol) | [老乾媽](https://open.spotify.com/album/1LsIam9kST7W0Ce26orZvE) | 2:31 | 2025-01-30 | 2025-02-21 |
 | [老妹](https://open.spotify.com/track/4xWyl1fR3Kj60zvNjxFYVj) | [王喬尹](https://open.spotify.com/artist/5GBsSWJAqh8ZU16AO8L6ns) | [老妹](https://open.spotify.com/album/0FPJJamTPYEI72SZENUPBN) | 3:13 | 2024-07-18 | 2024-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Sean McConnell
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,563 likes - 109 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,590 likes - 109 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 105 | [For the Birds](https://open.spotify.com/track/5eCSVLc6dpco6I8yNSLTsq) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [For the Birds](https://open.spotify.com/album/3W4ao1ItDRAehHMxMrW6tA) | 3:41 |
 | 106 | [Loose Cannon](https://open.spotify.com/track/0NugEFSGIWRGcrbH7h2jDS) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Loose Cannon](https://open.spotify.com/album/789MvCDTKZzXZh6YkgO0ee) | 3:22 |
 | 107 | [If You Look Hard Enough](https://open.spotify.com/track/0hoPD9npxJurbrUPS3baxB) | [Fort Frances](https://open.spotify.com/artist/1b2FE6oSOgzJ9dwNZi0Pqn) | [If You Look Hard Enough](https://open.spotify.com/album/44V9nDnRNQ0mznXzbJCqQa) | 3:25 |
-| 108 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 |
+| 108 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 |
 | 109 | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/track/7fP24BONHPihA1ZIdwZYIU) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/album/2nOrFKbiS8gUo3XCNTCiDr) | 4:11 |
 
 Snapshot ID: `Z+Ye6gAAAACz1ZJKKU40J6kJzl6gaz3x`

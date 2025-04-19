@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Holden
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,808 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,804 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AUTODISTRUZIONE](https://open.spotify.com/track/0vKVVWPt2gq8YHnFsOvuhj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [AUTODISTRUZIONE](https://open.spotify.com/album/2SpbiNy06VmEH0RUKTiMhb) | 3:54 |
-| 2 | [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 |
+| 2 | [Cuore Bucato](https://open.spotify.com/track/2GG7tK8CX1F7i1bWZcbXqs) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Cuore Bucato](https://open.spotify.com/album/0v01Hen2iwZZ3P9fRJ6tIe) | 2:49 |
 | 3 | [ROMANTICA](https://open.spotify.com/track/0P69lzMez4EK81zNq2zx6b) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [ROMANTICA](https://open.spotify.com/album/1515R9PDJhpiwKSuO8cnrK) | 2:21 |
 | 4 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 |
 | 5 | [empatia](https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [empatia](https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6) | 2:40 |
-| 6 | [Cuore Bucato](https://open.spotify.com/track/2GG7tK8CX1F7i1bWZcbXqs) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Cuore Bucato](https://open.spotify.com/album/0v01Hen2iwZZ3P9fRJ6tIe) | 2:49 |
-| 7 | [GRANDE MURAGLIA](https://open.spotify.com/track/2VQua5WXO3BgJblaDxaTuy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [GRANDE MURAGLIA](https://open.spotify.com/album/55vhs76YPKuBU3KsXPT4PL) | 2:46 |
-| 8 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 |
+| 6 | [GRANDE MURAGLIA](https://open.spotify.com/track/2VQua5WXO3BgJblaDxaTuy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [GRANDE MURAGLIA](https://open.spotify.com/album/55vhs76YPKuBU3KsXPT4PL) | 2:46 |
+| 7 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 |
+| 8 | [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 |
 | 9 | [Colpa Mia](https://open.spotify.com/track/1O9UvXAnPwFXSccCqB9K2R) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Colpa Mia](https://open.spotify.com/album/14hWXI41p18S5cmcOwMPHM) | 2:10 |
-| 10 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
-| 11 | [ROMA LO SA](https://open.spotify.com/track/0JMGJ1qUxwHTXCQm3EiEnP) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [ROMA LO SA](https://open.spotify.com/album/42yAjU28M1sJKVfYUGzScv) | 2:29 |
-| 12 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 |
-| 13 | [100 Sigarette](https://open.spotify.com/track/2OOitJLWO975yrhBRC29dM) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [100 Sigarette](https://open.spotify.com/album/0n8xLvt6AOl4SDppXjgBXC) | 3:01 |
-| 14 | [APNEA](https://open.spotify.com/track/0cpGlh2u5b7NyyNBLS51q2) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Giupo](https://open.spotify.com/artist/0BoI7C0LoBWSR0lnL75SJR) | [APNEA](https://open.spotify.com/album/7pzePdAgASObZKirKRtO7B) | 2:21 |
-| 15 | [FINO A SPEGNERTI \(feat\. Tancredi\)](https://open.spotify.com/track/6Zr1V97HE1XTIxdAKNPgtx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [RONDINE](https://open.spotify.com/album/5XPz7jpDxXyzMVuFUPFAGo) | 2:50 |
-| 16 | [Leone](https://open.spotify.com/track/1guv7Km5uPI4hz5oV9VCSt) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Leone](https://open.spotify.com/album/2B92x0RnkkBIKW7QJeoDOj) | 3:05 |
+| 10 | [ROMA LO SA](https://open.spotify.com/track/0JMGJ1qUxwHTXCQm3EiEnP) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [ROMA LO SA](https://open.spotify.com/album/42yAjU28M1sJKVfYUGzScv) | 2:29 |
+| 11 | [Leone](https://open.spotify.com/track/1guv7Km5uPI4hz5oV9VCSt) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Leone](https://open.spotify.com/album/2B92x0RnkkBIKW7QJeoDOj) | 3:05 |
+| 12 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
+| 13 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 |
+| 14 | [100 Sigarette](https://open.spotify.com/track/2OOitJLWO975yrhBRC29dM) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [100 Sigarette](https://open.spotify.com/album/0n8xLvt6AOl4SDppXjgBXC) | 3:01 |
+| 15 | [APNEA](https://open.spotify.com/track/0cpGlh2u5b7NyyNBLS51q2) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Giupo](https://open.spotify.com/artist/0BoI7C0LoBWSR0lnL75SJR) | [APNEA](https://open.spotify.com/album/7pzePdAgASObZKirKRtO7B) | 2:21 |
+| 16 | [FINO A SPEGNERTI \(feat\. Tancredi\)](https://open.spotify.com/track/6Zr1V97HE1XTIxdAKNPgtx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [RONDINE](https://open.spotify.com/album/5XPz7jpDxXyzMVuFUPFAGo) | 2:50 |
 | 17 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 |
 | 18 | [CANI RANDAGI](https://open.spotify.com/track/2m3Xb1dRie5ub8L2x1A6BL) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CANI RANDAGI](https://open.spotify.com/album/6nbm2pPp2oO6G5TB8rGewU) | 2:54 |
 | 19 | [CTRL Z](https://open.spotify.com/track/5uAw56Ik0pgiX3JOAM2IU5) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [CTRL Z](https://open.spotify.com/album/2O5It6LoUxAxV9detnvjKA) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 99 | [LINGERIE](https://open.spotify.com/track/49aYVCpoDITAMF48VlFOmz) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [LINGERIE](https://open.spotify.com/album/18XkozvJyk6ZvqiECks6G0) | 2:23 |
 | 100 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 |
 
-Snapshot ID: `aAF6PAAAAAD+xlD0+CsUVnngeCMlKkbQ`
+Snapshot ID: `aAJqMgAAAAB3HIVSCYhYjllosdaAjTcx`

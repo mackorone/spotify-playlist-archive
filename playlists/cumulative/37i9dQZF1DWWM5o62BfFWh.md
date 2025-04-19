@@ -4,7 +4,7 @@
 
 > ¡Música urbana representando a Cuba! Cover: El Taiger
 
-152 songs - 8 hr 55 min
+153 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Formula Favorita](https://open.spotify.com/track/5lngWJVhe0Voo2jSFNxN4b) | [Skarlet](https://open.spotify.com/artist/5EBHFUWkDWg7EqzTk0yP1d), [MILAN](https://open.spotify.com/artist/53813mpn1haYsOi2xrLpeU) | [Formula Favorita](https://open.spotify.com/album/25ECDeb56UVUPXJD3tUozO) | 4:00 | 2022-04-08 | 2023-02-11 |
 | [Formula Favorita \- Remix](https://open.spotify.com/track/0DnqGNJ5ijXdqptfTsz6cJ) | [Skarlet](https://open.spotify.com/artist/5EBHFUWkDWg7EqzTk0yP1d), [MILAN](https://open.spotify.com/artist/53813mpn1haYsOi2xrLpeU) | [Formula Favorita \(Remix\)](https://open.spotify.com/album/5GKlxshf9Jq2jpTF8Thrfq) | 4:00 | 2022-02-25 | 2022-07-29 |
 | [Guachineo](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [GUACHINEO \(Cubaton \- Cuban Reggaeton 2015 \- Lo Que Mas Suena En Cuba\)](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 | 2022-02-25 |  |
+| [Gustazo](https://open.spotify.com/track/2H5OYDaZdZV5kS3v07TjHG) | [Candelita](https://open.spotify.com/artist/4WzBqbc7fxl2y8XrznMSqf), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Gustazo](https://open.spotify.com/album/0uYdSjjjjZZaUF2dKqgGSY) | 2:45 | 2025-04-18 |  |
 | [Hasta Que Se Seque el Malecón](https://open.spotify.com/track/3w1D8eAOBDZdb8RP5wbV65) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [El Inmortal](https://open.spotify.com/album/2G2jtQfZVKDTHiMjUIVg7D) | 3:07 | 2022-02-25 |  |
 | [Háblame de Miami](https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Háblame de Miami](https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE) | 2:38 | 2022-02-25 |  |
 | [Jala Jala](https://open.spotify.com/track/7bDl3llKm7u0MrcuiUsMwK) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Sobredosis](https://open.spotify.com/album/6TCORScO7wTD6n5yeOXVx5) | 3:41 | 2022-02-25 |  |
@@ -152,7 +153,7 @@
 | [Verano Permanente](https://open.spotify.com/track/4ldXfi0TePKFe7OtmEjIxH) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Carli](https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Verano Permanente](https://open.spotify.com/album/1XLhmnyEcN7tHrDlOxM4uf) | 4:39 | 2023-12-08 | 2024-04-19 |
 | [Verano Permanente](https://open.spotify.com/track/6vRLN4Q4ZEFZa20SeesOnS) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Carli](https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Verano Permanente](https://open.spotify.com/album/24nuDNQnfyAyxSlpAiFkRl) | 4:39 | 2024-04-19 |  |
 | [Volvere Junto a Ti](https://open.spotify.com/track/2OWKqDlP17Go78ykRGlvJd) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef) | 3:48 | 2022-04-08 | 2022-10-23 |
-| [Volvere Junto a Ti](https://open.spotify.com/track/00mhWSGsOidu8YVEWiwqDV) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/1pFGaaejCIj06DhPW5r7H7) | 3:48 | 2022-02-25 |  |
+| [Volvere Junto a Ti](https://open.spotify.com/track/00mhWSGsOidu8YVEWiwqDV) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/1pFGaaejCIj06DhPW5r7H7) | 3:48 | 2022-02-25 | 2025-04-19 |
 | [Volvere Junto a Ti](https://open.spotify.com/track/031G5P1NTQ9pfhrnxPwr1V) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Simplemente Lo Mejor](https://open.spotify.com/album/3RU3VqVst27dAwrfYLbEQo) | 3:48 | 2022-04-08 | 2023-07-01 |
 | [Volvere Junto a Ti](https://open.spotify.com/track/5o7nZuOli9DzVIEi9ROZGw) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos!](https://open.spotify.com/album/53pF7quvHbC6zRcHbz8Wts) | 3:48 | 2022-04-08 | 2022-11-13 |
 | [Volveré Junto a Ti](https://open.spotify.com/track/64c6JUdoG2qEGH8xuyXnrA) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 3:48 | 2022-04-08 | 2022-11-12 |

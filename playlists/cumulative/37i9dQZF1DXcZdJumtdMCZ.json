@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Tamil Hip-Hop!\nCover : Paal Dabba",
+  "description": "Best of Tamil Hip-Hop!\nCover : Asal Kolaar",
   "name": "RAP 91 Tamil",
   "tracks": [
     {
@@ -588,6 +588,28 @@
       "duration_ms": 161014,
       "name": "Certified Self Made",
       "url": "https://open.spotify.com/track/7ggjfTXTEwRWBMsoSyDFFy"
+    },
+    {
+      "album": {
+        "name": "Champagini (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/6ku33EXLIvrxSPSet3xTfM"
+      },
+      "artists": [
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116296,
+      "name": "Champagini - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/5K2mySnr02sfLS3MMJZICc"
     },
     {
       "album": {
@@ -1392,7 +1414,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 314309,
       "name": "Irumbile Oru Idhaiyam",
       "url": "https://open.spotify.com/track/2nw99OdSVWFWzEdbYuoOer"
@@ -1422,7 +1444,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 247853,
       "name": "Irumugan Settai",
       "url": "https://open.spotify.com/track/5f7PjIN9Pteq1wLcJSr04j"
@@ -2526,7 +2548,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 171176,
       "name": "ORAM",
       "url": "https://open.spotify.com/track/3ehAzRvLK7W0Re6M1Oh4Tn"
@@ -3443,6 +3465,32 @@
     },
     {
       "album": {
+        "name": "THADI (Clean Version)",
+        "url": "https://open.spotify.com/album/7vn4kNiI4IG74mLBbeQKnb"
+      },
+      "artists": [
+        {
+          "name": "Slim KD",
+          "url": "https://open.spotify.com/artist/09WwWdZUQKu1HHMfyYdLWI"
+        },
+        {
+          "name": "Vrun",
+          "url": "https://open.spotify.com/artist/6KVt2wDvpw7V9Nyw2I2iyE"
+        },
+        {
+          "name": "Abhishek Solomon",
+          "url": "https://open.spotify.com/artist/5dgtHxWOCczwceqvBio34M"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "THADI (Clean Version)",
+      "url": "https://open.spotify.com/track/640qIPvO9CgNHheous2TVe"
+    },
+    {
+      "album": {
         "name": "Thakida",
         "url": "https://open.spotify.com/album/1ClupOIOZuE3Jk5jllMJTL"
       },
@@ -3638,6 +3686,40 @@
       "duration_ms": 353495,
       "name": "Thathai Thathai",
       "url": "https://open.spotify.com/track/4NYAItpYLDFjc8QKTSHPgO"
+    },
+    {
+      "album": {
+        "name": "The One (From \"Retro\")",
+        "url": "https://open.spotify.com/album/4DrXmo88SfZ2gV8tBFvsTu"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "SVDP",
+          "url": "https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        },
+        {
+          "name": "The Indian Choral Ensemble",
+          "url": "https://open.spotify.com/artist/4Rp2Fp4kllqWQWZLbEZgm3"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239110,
+      "name": "The One (From \"Retro\")",
+      "url": "https://open.spotify.com/track/2m3QwNw6Xe4s8MfapdTbWo"
     },
     {
       "album": {
@@ -4140,7 +4222,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-19",
       "duration_ms": 203478,
       "name": "Written By Holy Cow!",
       "url": "https://open.spotify.com/track/0dy7bIOZTmu9SdHygEUvdU"
@@ -4236,6 +4318,24 @@
       "duration_ms": 262533,
       "name": "Yedho Mayakkam",
       "url": "https://open.spotify.com/track/5MGdVJRHRfZ95yWQ2hCwRC"
+    },
+    {
+      "album": {
+        "name": "Yeththana Poi",
+        "url": "https://open.spotify.com/album/5vYpMUxXwUh4KWosUbdGbi"
+      },
+      "artists": [
+        {
+          "name": "Thiraiyan",
+          "url": "https://open.spotify.com/artist/6khZoRA9gHZZUhpKexKuli"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191219,
+      "name": "Yeththana Poi",
+      "url": "https://open.spotify.com/track/74JSMYUsWd5M4xBjB2gzHd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ"

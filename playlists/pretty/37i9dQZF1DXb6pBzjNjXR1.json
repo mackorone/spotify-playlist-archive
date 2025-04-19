@@ -1,6 +1,6 @@
 {
   "description": "Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors. ",
-  "num_followers": 27056,
+  "num_followers": 27069,
   "original_name": "AfroTech Now",
   "owner": {
     "name": "Spotify",
@@ -687,34 +687,6 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/54h8nN7jqmjxRpJjcvUYVQ"
-      },
-      "artists": [
-        {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
-        },
-        {
-          "name": "Aleksandra Krstic",
-          "url": "https://open.spotify.com/artist/2VB8Hb8vBpf1XBZdRKulvv"
-        },
-        {
-          "name": "Samm (BE)",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        },
-        {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2JL7BiVkQ5W1rzYCUw3y9a"
-        }
-      ],
-      "duration_ms": 427113,
-      "name": "Shadows - Samm (BE) Remix",
-      "url": "https://open.spotify.com/track/65BrSCF5Nkaci7hoslEQhX"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
         "name": "Moya Wa Taola",
         "url": "https://open.spotify.com/album/4OAWp8cNsUVwN6qQ7TJOl1"
       },
@@ -775,6 +747,34 @@
       "duration_ms": 359989,
       "name": "Mnike (Shimza Remix) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/00mVHfhTC2vXrNxTgIofoq"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/54h8nN7jqmjxRpJjcvUYVQ"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        },
+        {
+          "name": "Aleksandra Krstic",
+          "url": "https://open.spotify.com/artist/2VB8Hb8vBpf1XBZdRKulvv"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2JL7BiVkQ5W1rzYCUw3y9a"
+        }
+      ],
+      "duration_ms": 427113,
+      "name": "Shadows - Samm (BE) Remix",
+      "url": "https://open.spotify.com/track/65BrSCF5Nkaci7hoslEQhX"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Lie Machine",
-        "url": "https://open.spotify.com/album/2XIwh1XLULhc97edBxkUka"
-      },
-      "artists": [
-        {
-          "name": "DAVI",
-          "url": "https://open.spotify.com/artist/0VkkYZbmSXa7DLcNFsRver"
-        }
-      ],
-      "duration_ms": 453439,
-      "name": "Lie Machine",
-      "url": "https://open.spotify.com/track/08UK8zOXlcz8SpswskT533"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
         "name": "Ma Tnsani (Yalla Habibi)",
         "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 220000,
       "name": "Ma Tnsani (Yalla Habibi)",
       "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
+        "name": "Lie Machine",
+        "url": "https://open.spotify.com/album/2XIwh1XLULhc97edBxkUka"
+      },
+      "artists": [
+        {
+          "name": "DAVI",
+          "url": "https://open.spotify.com/artist/0VkkYZbmSXa7DLcNFsRver"
+        }
+      ],
+      "duration_ms": 453439,
+      "name": "Lie Machine",
+      "url": "https://open.spotify.com/track/08UK8zOXlcz8SpswskT533"
     },
     {
       "added_at": "2025-04-10 23:57:20",

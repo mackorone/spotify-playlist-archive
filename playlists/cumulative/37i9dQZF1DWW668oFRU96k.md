@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Sorn x Whisnu Santika
 
-1,769 songs - 3 day 17 hr 56 min
+1,770 songs - 3 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1010,6 +1010,7 @@
 | [Miracle \(feat\. Jetason\)](https://open.spotify.com/track/6BVDTFUf0HDTRy7cyY5GXK) | [Sheezan](https://open.spotify.com/artist/4f9mcViIkHxsriISYsD0lE), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe), [Brodie Nero](https://open.spotify.com/artist/6J9JSIaE1oRDmIW86So9ku), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Miracle \(feat\. Jetason\)](https://open.spotify.com/album/3KPpP2TKfiXe7r6jDeihwK) | 2:29 | 2023-06-29 | 2023-08-04 |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-09 | 2023-04-14 |
 | [Miroir Miroir \- Romain Garcia Remix](https://open.spotify.com/track/0Ysm1TAJq3jUFPHbOGN9lL) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Miroir Miroir \(Romain Garcia Remix\)](https://open.spotify.com/album/673Tkd2JZXQ0ZshjTK6S0e) | 3:29 | 2024-01-11 | 2024-02-16 |
+| [Mirror ball \(feat\. Moon Sujin\)](https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Mirror ball \(feat\. Moon Sujin\)](https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo) | 3:13 | 2025-04-17 |  |
 | [Mirror Machine \(feat\. Aurelia Ray\)](https://open.spotify.com/track/02idOTV7xd70dtWv5ALKNt) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Aurelia Ray](https://open.spotify.com/artist/1XBlyH8em537ST8B4bifds) | [Mirror Machine \(feat\. Aurelia Ray\)](https://open.spotify.com/album/2kOMPQL3Dh0txs9SLyrKbM) | 2:19 | 2025-02-13 | 2025-03-21 |
 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-07-20 | 2023-08-25 |
 | [Miss Me](https://open.spotify.com/track/5XMJeMxbVI1DLtNaH9cKPY) | [Teductive](https://open.spotify.com/artist/5jRVWBwDwIU4lA0wBe5QYO), [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Miss Me](https://open.spotify.com/album/0GTz0tkodbF4uV4DxqhCLC) | 2:40 | 2023-05-18 | 2023-06-23 |

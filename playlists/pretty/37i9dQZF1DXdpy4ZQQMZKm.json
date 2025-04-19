@@ -1,13 +1,29 @@
 {
-  "description": "The songs with the biggest throwback moments. Cover: Rihanna",
-  "num_followers": 1067280,
+  "description": "The songs with the biggest throwback moments. Cover: Lady Gaga",
+  "num_followers": 1069293,
   "original_name": "Top Viral Throwbacks ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/qlNAAAAAAci+RRvGY5jDS9bDnKjEgj",
+  "snapshot_id": "aAHLfAAAAABHNy1yc3uc+Kx5lGv8xheY",
   "tracks": [
+    {
+      "added_at": "2025-04-18 03:48:12",
+      "album": {
+        "name": "Born This Way",
+        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
+    },
     {
       "added_at": "2025-04-12 17:39:00",
       "album": {
@@ -843,22 +859,6 @@
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
-    },
-    {
-      "added_at": "2025-03-18 22:58:28",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2025-03-18 22:58:28",

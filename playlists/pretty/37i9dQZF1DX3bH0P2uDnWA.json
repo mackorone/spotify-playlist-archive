@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 383544,
+  "num_followers": 383574,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9zkZgAAAABeBwr1Sj1LJiwfxVrQf8vl",
+  "snapshot_id": "aAHOYAAAAAD/gLpO5Mp0xAAS3ieiO2/9",
   "tracks": [
     {
       "added_at": "2025-03-07 05:00:20",
@@ -23,6 +23,22 @@
       "duration_ms": 184382,
       "name": "Rico's Groove",
       "url": "https://open.spotify.com/track/0nEWWblhoj0hNGrmCrHcJV"
+    },
+    {
+      "added_at": "2025-04-18 04:00:32",
+      "album": {
+        "name": "Murder Bunny",
+        "url": "https://open.spotify.com/album/1e14SOllnIAQiS8ufvyRUj"
+      },
+      "artists": [
+        {
+          "name": "Riff Kitten",
+          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+        }
+      ],
+      "duration_ms": 209941,
+      "name": "Murder Bunny",
+      "url": "https://open.spotify.com/track/3UQJ1bFfh7veUyxO7Sc6mf"
     },
     {
       "added_at": "2025-03-21 04:00:38",
@@ -923,22 +939,6 @@
       "duration_ms": 188546,
       "name": "Black Coffee - Electro Swing Mix",
       "url": "https://open.spotify.com/track/2JAYRs8g4Lp860x8Mla0a1"
-    },
-    {
-      "added_at": "2024-11-04 16:02:20",
-      "album": {
-        "name": "That's My Cue",
-        "url": "https://open.spotify.com/album/4cOpg5ahUkkiLIkuOLDDTq"
-      },
-      "artists": [
-        {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
-        }
-      ],
-      "duration_ms": 159953,
-      "name": "That's My Cue",
-      "url": "https://open.spotify.com/track/2cRNcC6xTYgys5YCGDiJsi"
     },
     {
       "added_at": "2024-11-04 16:02:20",

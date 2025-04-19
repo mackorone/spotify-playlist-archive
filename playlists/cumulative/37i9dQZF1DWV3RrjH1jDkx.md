@@ -4,7 +4,7 @@
 
 > Ny musikk fra Golfklubb, Morgan Sulele, Tyr & Bianca og mange flere!🎵
 
-5,259 songs - 11 day 7 hr 36 min
+5,261 songs - 11 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2652,6 +2652,7 @@
 | [Klovn Uten Sminke](https://open.spotify.com/track/4umwK82vgSraKmenGL7CPH) | [Eirik Zakariassen](https://open.spotify.com/artist/7KgUO2sM28c0ahCJRUn5oi) | [Klovn Uten Sminke](https://open.spotify.com/album/4Kq8GP7jPKuaGPaL5YJhS1) | 3:02 | 2025-03-27 | 2025-04-04 |
 | [KNIGHTZ](https://open.spotify.com/track/7LBnjBgA8OA2DPaOuhZ5lQ) | [Truse Tarzan](https://open.spotify.com/artist/2wvRnhwhYuLc04HMOciPiZ), [Roc Meiniac](https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb), [mo$art.](https://open.spotify.com/artist/6SMzQu8U3CpAEjZ6vJvczx) | [KNIGHTZ](https://open.spotify.com/album/5G0xdU4PNb6RbtJpznB4Vm) | 2:31 | 2024-10-24 | 2024-11-01 |
 | [Knock Yourself Out XD](https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Knock Yourself Out XD](https://open.spotify.com/album/6a6vazlfojF2pu0VXhmn4r) | 2:48 | 2024-04-26 | 2024-05-03 |
+| [Knockout Season](https://open.spotify.com/track/75NoSp7t9YkPYP8GExQnVQ) | [Maren Berg](https://open.spotify.com/artist/6gFaX3OYDlwjjaG9rsmJhC) | [Knockout Season](https://open.spotify.com/album/4Qs3AqIZZUCnATzHxHlHOU) | 2:03 | 2025-04-17 |  |
 | [KNOW ME BETTER](https://open.spotify.com/track/3JuySLe5AwpUVnuek2R2bv) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [KNOW ME BETTER](https://open.spotify.com/album/0WvjmMVHAi6s1fBPyblMAR) | 2:50 | 2025-04-17 |  |
 | [Knust Diamant](https://open.spotify.com/track/0dFvBNhfxNPEnBYVpD2NHA) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Knust Diamant](https://open.spotify.com/album/6dUGX3lJUaMjp3aBH7mnVS) | 2:28 | 2024-10-24 | 2024-11-01 |
 | [Kokain \(Sinnataggen 2025\)](https://open.spotify.com/track/4vYPZCAh3ocW57DrHszkNo) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Kokain \(Sinnataggen 2025\)](https://open.spotify.com/album/7AbOFIrDRXXvEN6RmmfDUI) | 2:48 | 2025-02-20 | 2025-02-28 |
@@ -3741,6 +3742,7 @@
 | [Rapstar](https://open.spotify.com/track/2nAuZA07udvTg8GL9Txl12) | [SAKSA](https://open.spotify.com/artist/2XZynN5htnB5zvAda7msVY) | [Rapstar](https://open.spotify.com/album/08YrwvXXbjLr9jtfC8JFuz) | 2:23 | 2024-08-09 | 2024-08-16 |
 | [Rat Race](https://open.spotify.com/track/2IehkByzIu1b7iaq21L4Qo) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Rat Race](https://open.spotify.com/album/6ZzZBkpGHRxmmPwYXwwH2G) | 3:05 | 2024-09-26 | 2024-10-04 |
 | [RATATA](https://open.spotify.com/track/6dTeTA0twiM21NuFwl9XHq) | [FISKERN](https://open.spotify.com/artist/5XUjkAYySdCwhURGYY4edG), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [RATATA](https://open.spotify.com/album/7GHHBlObXw5ikD1ssZowLe) | 2:08 | 2024-09-05 | 2024-09-13 |
+| [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-17 |  |
 | [Rattlesnake](https://open.spotify.com/track/5JwH2QoAbi65odT6GYWJTk) | [Robin Sohlberg](https://open.spotify.com/artist/7kLcBP612zGDJQdRWnqgqA) | [Rattlesnake](https://open.spotify.com/album/1liCkrR5rNny4kHJcF0MAz) | 2:31 | 2025-04-03 | 2025-04-11 |
 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 | 2025-01-30 | 2025-02-07 |
 | [Rave Meditation](https://open.spotify.com/track/0fpioDklxRd1yEW6qtuDzy) | [Bonjour Papa](https://open.spotify.com/artist/2HRN8EOLDKPwS1h9BlKwFe) | [Rave Meditation](https://open.spotify.com/album/47YGLQYiHu2AcrKiLvWeip) | 2:20 | 2024-11-28 | 2024-12-06 |
