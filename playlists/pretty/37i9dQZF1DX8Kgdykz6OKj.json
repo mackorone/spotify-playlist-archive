@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1445426,
+  "num_followers": 1445936,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
+        "name": "Ziplock / Rich Don't Stop",
+        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Ziplock",
+      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
         "name": "Summer Drop (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 168573,
       "name": "Summer Drop (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
-        "name": "Ziplock / Rich Don't Stop",
-        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Ziplock",
-      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -447,30 +447,6 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
-        "name": "Casa Lopez",
-        "url": "https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Casa Lopez",
-      "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 353346,
       "name": "Children Of The Internet - Ezra Collective Remix",
       "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
+        "name": "Casa Lopez",
+        "url": "https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Casa Lopez",
+      "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -775,6 +775,26 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
+        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
         "name": "The Gout",
         "url": "https://open.spotify.com/album/7kc4Wz5KXRw31bzCR8ema3"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 165752,
       "name": "The Gout",
       "url": "https://open.spotify.com/track/3wImNO7NIhfZZ17wyZr5yb"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
-        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
-        "name": "Simple Days",
-        "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 125720,
-      "name": "Simple Days",
-      "url": "https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 201011,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
+        "name": "Simple Days",
+        "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 125720,
+      "name": "Simple Days",
+      "url": "https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
+        "name": "MARVIN GAYE.",
+        "url": "https://open.spotify.com/album/1TtRkqZaAsVMh9vIwcxj2y"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "MARVIN GAYE.",
+      "url": "https://open.spotify.com/track/03PYqIVNer7nBktg44SFDz"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 164656,
       "name": "Raw (feat. Lil Wayne & Niko Brim)",
       "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
-        "name": "MARVIN GAYE.",
-        "url": "https://open.spotify.com/album/1TtRkqZaAsVMh9vIwcxj2y"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 170320,
-      "name": "MARVIN GAYE.",
-      "url": "https://open.spotify.com/track/03PYqIVNer7nBktg44SFDz"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
+        "name": "3:AM (feat. Erykah Badu)",
+        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
         "name": "Tesla Tower Power",
         "url": "https://open.spotify.com/album/3lI6tDCNmqNNpXJZZ0fNLo"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 233802,
       "name": "Spinnin These Blocks (feat. BJ The Chicago Kid, Maxo Kream & Paul Wall)",
       "url": "https://open.spotify.com/track/5G8y6DhzM6YMorFC0rh8RK"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
-        "name": "3:AM (feat. Erykah Badu)",
-        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 213566,
-      "name": "3:AM (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
+        "name": "One of Those Feelings",
+        "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
+      },
+      "artists": [
+        {
+          "name": "Classik",
+          "url": "https://open.spotify.com/artist/0yxqzeTXKE8mrIG2PCxyf6"
+        },
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "One of Those Feelings",
+      "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
         "name": "Burkes Beach",
         "url": "https://open.spotify.com/album/3JiBxee3gaGom7vKK8UsWg"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 155548,
       "name": "Still (Got Your Love)",
       "url": "https://open.spotify.com/track/2OyWzhIOjcafQmZZujXdR7"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
-        "name": "One of Those Feelings",
-        "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
-      },
-      "artists": [
-        {
-          "name": "Classik",
-          "url": "https://open.spotify.com/artist/0yxqzeTXKE8mrIG2PCxyf6"
-        },
-        {
-          "name": "CrazyJaZz",
-          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
-        }
-      ],
-      "duration_ms": 156342,
-      "name": "One of Those Feelings",
-      "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
-        "name": "NIGHTS LIKE THIS",
-        "url": "https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 127594,
-      "name": "NIGHTS LIKE THIS",
-      "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
         "name": "That Jazz",
         "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
+        "name": "NIGHTS LIKE THIS",
+        "url": "https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 127594,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/0ckGmkDxDZeVpHZ8sP5G8P"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 170791,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/2eI39ZcdcjFiPvLQvJ1COb"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 216883,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
+        "name": "Bear Trap",
+        "url": "https://open.spotify.com/album/0ckGmkDxDZeVpHZ8sP5G8P"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 170791,
+      "name": "Bear Trap",
+      "url": "https://open.spotify.com/track/2eI39ZcdcjFiPvLQvJ1COb"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
-        "name": "Pertenecer",
-        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 207801,
-      "name": "Pertenecer",
-      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
         "name": "Tulips",
         "url": "https://open.spotify.com/album/6Oa2B45zimQ8lfbknds32G"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 334374,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
+        "name": "Pertenecer",
+        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 207801,
+      "name": "Pertenecer",
+      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
     },
     {
       "added_at": "2025-04-18 04:00:34",
@@ -1963,6 +1963,26 @@
     {
       "added_at": "2025-04-18 04:00:34",
       "album": {
+        "name": "fusion.",
+        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
+      },
+      "artists": [
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        },
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 220797,
+      "name": "Battiti in parole",
+      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2025-04-18 04:00:34",
+      "album": {
         "name": "High Winds",
         "url": "https://open.spotify.com/album/2sbm3v5x18dG7QoVHTzNUf"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 143685,
       "name": "High Winds",
       "url": "https://open.spotify.com/track/7HPDbITY0cS65MntSLdFue"
-    },
-    {
-      "added_at": "2025-04-18 04:00:34",
-      "album": {
-        "name": "fusion.",
-        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
-      },
-      "artists": [
-        {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        },
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
-        }
-      ],
-      "duration_ms": 220797,
-      "name": "Battiti in parole",
-      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
     }
   ],
   "unique_name": "Jazz Rap",

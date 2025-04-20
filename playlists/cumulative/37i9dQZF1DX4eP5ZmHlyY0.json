@@ -4845,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/7glgOEdjzN4zKY9D6pmkpq"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284360,
+      "name": "Moon(with VIVIZ, MINHYUK, KIHYUN, I.M of MONSTA X, HOSHI, WONWOO, MINGYU, DK, SEUNGKWAN of SEVENTEEN, HELLO GLOOM, ROCKY, CHOI YOOJUNG, KIM DOYEON, CHA NI (SF9), Bang Chan (Stray Kids), MOON SUA of Billlie)",
+      "url": "https://open.spotify.com/track/2gu6fOPHZVG0GzjCvnxlBA"
+    },
+    {
+      "album": {
         "name": "Re:ERA",
         "url": "https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj"
       },

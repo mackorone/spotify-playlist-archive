@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Cœur De Pirate
 
-3,229 songs - 7 day 3 hr 21 min
+3,230 songs - 7 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [C'est Plus Comme Avant \- Version Acoustique](https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [C'est Plus Comme Avant \(Version Acoustique\)](https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA) | 2:46 | 2022-01-21 | 2022-02-05 |
 | [C'est quoi l'amour](https://open.spotify.com/track/4VMs6ckMoT6VFIoU1eMsvJ) | [Steven Levac](https://open.spotify.com/artist/2syLDt6wmCcJUmtHdnency) | [C'est quoi l'amour](https://open.spotify.com/album/5BL88WnxUNFtZmy3MJAAhq) | 2:39 | 2022-09-02 | 2022-09-17 |
 | [C'est quoi le boulot](https://open.spotify.com/track/20tbggYegKwvYI9gEmJ9sM) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Boîte de Pandore](https://open.spotify.com/album/5M94RDub177Dot84wRNPEt) | 3:21 | 2022-04-29 | 2022-05-14 |
+| [C'est Quoi Ton Délire](https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Nés Pour Briller : Book II](https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh) | 2:54 | 2025-04-18 |  |
 | [C'est si beau](https://open.spotify.com/track/49qzgP24cnIABaeOCTWLqU) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [C'est si beau](https://open.spotify.com/album/2Mfeejkw2vcwBg9cOHGqDu) | 4:01 | 2023-03-10 | 2023-03-18 |
 | [C'est toi](https://open.spotify.com/track/2g3Fic14Z4VhYGtuINPXDW) | [Rita Baga](https://open.spotify.com/artist/0QigUNRqSbo5kTwdH93bHH) | [C'est toi](https://open.spotify.com/album/5KvPHrEw9Pg9GbVFaf7ReA) | 2:26 | 2024-05-17 | 2024-05-25 |
 | [C'est toi](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 | 2023-07-21 | 2023-09-23 |
@@ -1934,7 +1935,7 @@
 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 | 2022-05-13 | 2022-05-20 |
 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 | 2022-09-30 | 2022-10-15 |
 | [Mignon tout plein](https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:24 | 2024-01-26 | 2024-04-06 |
-| [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 | 2025-03-07 |  |
+| [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 | 2025-03-07 | 2025-04-20 |
 | [Million](https://open.spotify.com/track/4p6alDHcmLYFP9F2fym7o3) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Million](https://open.spotify.com/album/2JoVMQkDFadGmn29eIpOFR) | 2:22 | 2022-04-08 | 2022-04-23 |
 | [Millionnaire](https://open.spotify.com/track/2wzdnS3Iwjh0ltmZWNEZqD) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [Millionnaire](https://open.spotify.com/album/5uE3d5oUX3vlC8n875vRNw) | 2:34 | 2023-03-24 | 2023-04-09 |
 | [MILLIONS](https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MILLIONS](https://open.spotify.com/album/3kA1BrEN312GfMQqt3kJG9) | 2:50 | 2025-01-31 | 2025-02-08 |

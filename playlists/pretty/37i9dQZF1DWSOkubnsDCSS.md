@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: Ruff Sqwad
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,715 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,702 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 39 | [Charizard Freestyle](https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV) | [Footsie](https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Charizard Freestyle](https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT) | 2:22 |
 | 40 | [Or What?](https://open.spotify.com/track/7hJug6mHWKyJwLpIYIhPyd) | [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [More Fire Crew](https://open.spotify.com/artist/5oZ8KfzPMkIanBdvY371cK), [Bruza](https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx) | [Or What?](https://open.spotify.com/album/5af3gKAMG5ohDcUaXGnL5r) | 2:51 |
 | 41 | [On Toppa Dat](https://open.spotify.com/track/6xILImJGF1bi9UuY6nkdGD) | [Mayhem NODB](https://open.spotify.com/artist/4OvtTdyyTQJhVPiagIiSah) | [On Toppa Dat](https://open.spotify.com/album/2THmfSCYjtagtgaRiwl3yq) | 3:34 |
-| 42 | [Serious Mic Man](https://open.spotify.com/track/63gM9YT6O4LT2uJbldDSf5) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [AM TO PM](https://open.spotify.com/album/7d7Y3OyRxWiMlriJwBItKK) | 3:21 |
-| 43 | [Check Dis](https://open.spotify.com/track/1lyIwetPEavr3TuSVwaHxN) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Check Dis](https://open.spotify.com/album/5BW7q1epzfJ3JWplkTqk6m) | 2:29 |
+| 42 | [Check Dis](https://open.spotify.com/track/1lyIwetPEavr3TuSVwaHxN) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Check Dis](https://open.spotify.com/album/5BW7q1epzfJ3JWplkTqk6m) | 2:29 |
+| 43 | [Serious Mic Man](https://open.spotify.com/track/63gM9YT6O4LT2uJbldDSf5) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [AM TO PM](https://open.spotify.com/album/7d7Y3OyRxWiMlriJwBItKK) | 3:21 |
 | 44 | [Keep Your Distance](https://open.spotify.com/track/5SuMCTQBfHdEDdGuJPQv0a) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Keep Your Distance](https://open.spotify.com/album/3bSADrKL6wR19a5bJ0o7ny) | 3:40 |
 | 45 | [This One Freestyle](https://open.spotify.com/track/34w1JOx0yCOqq3UpaBhmhV) | [Trilla Jermaine Trilloski](https://open.spotify.com/artist/1c1ppVMEkBrVj2jX4e6NbW), [Rude Kid](https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl) | [This One Freestyle](https://open.spotify.com/album/3aJ1IGANY6It23pA3xHxr9) | 3:15 |
 | 46 | [Geronimo](https://open.spotify.com/track/6096p5PPlkSoyyB95Gksab) | [Koder](https://open.spotify.com/artist/0LEWB6r1NeRpb4N84BlYXj) | [Geronimo](https://open.spotify.com/album/0Daj0Y9haEcNweE0AnAgxc) | 2:52 |

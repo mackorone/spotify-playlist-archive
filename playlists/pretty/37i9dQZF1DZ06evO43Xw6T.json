@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 155515,
+  "num_followers": 155633,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAAD0Lc+dANHOKlC9vXplC1dS",
+  "snapshot_id": "aAGWAAAAAABVgvjX0cBORfotlmXx3RQq",
   "tracks": [
     {
       "added_at": null,
@@ -263,30 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skin de Bandida",
-        "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 176134,
-      "name": "Skin de Bandida",
-      "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -307,6 +283,30 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/0FxtC8uFapbpDBliAU3sd6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skin de Bandida",
+        "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 176134,
+      "name": "Skin de Bandida",
+      "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Idiota",
+        "url": "https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 166086,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Habla De Un Muchacho",
         "url": "https://open.spotify.com/album/5bBNOI72SRleWF0U7jj0SO"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 177523,
       "name": "Se Habla De Un Muchacho",
       "url": "https://open.spotify.com/track/3SOctVtXCIZUnQDjcnEpr9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Idiota",
-        "url": "https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 166086,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Minitas",
-        "url": "https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Las Minitas",
-      "url": "https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonus Track",
         "url": "https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 191432,
       "name": "Bonus Track",
       "url": "https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Minitas",
+        "url": "https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Las Minitas",
+      "url": "https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

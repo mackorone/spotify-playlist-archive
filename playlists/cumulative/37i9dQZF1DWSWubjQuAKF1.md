@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Pośnik
 
-426 songs - 20 hr 37 min
+427 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [+2 złamane serca](https://open.spotify.com/track/2boUivVVmvd58WLBUYmrru) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [+2 złamane serca](https://open.spotify.com/album/4fBcQOqgdE9n0SCvGhNKff) | 2:53 | 2024-11-21 | 2025-01-24 |
 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 | 2024-06-28 | 2024-07-05 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-23 | 2025-04-18 |
-| [224](https://open.spotify.com/track/3xElklpx6wgtwpRfycekE1) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [224](https://open.spotify.com/album/4eQ2BlXnzLpt9fJWSytG2E) | 3:26 | 2025-04-17 |  |
+| [224](https://open.spotify.com/track/3xElklpx6wgtwpRfycekE1) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [224](https://open.spotify.com/album/4eQ2BlXnzLpt9fJWSytG2E) | 3:26 | 2025-04-17 | 2025-04-20 |
 | [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-06-28 | 2024-07-12 |
 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-03 |  |
 | [8 am](https://open.spotify.com/track/1p8PD4ArjnUjLoapFKUn5B) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 3:03 | 2025-02-06 | 2025-03-02 |
@@ -79,6 +79,7 @@
 | [Clean girl era](https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [Clean girl era](https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE) | 2:37 | 2024-07-18 | 2024-10-19 |
 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 | 2025-03-20 |  |
 | [come over?](https://open.spotify.com/track/5Y1REJUiVtJGGUAqTEphWz) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [come over?](https://open.spotify.com/album/41DUwYHE0GETfovi2havgJ) | 2:40 | 2025-01-23 |  |
+| [comeback!](https://open.spotify.com/track/5fCioQ9fV5gDORRTRTC0j7) | [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [comeback!](https://open.spotify.com/album/5mUXseiDHWqq7GeGte41aq) | 2:16 | 2025-04-17 |  |
 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 | 2025-01-30 | 2025-03-21 |
 | [cytryny](https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [cytryny](https://open.spotify.com/album/7ff1IXrHp9ownWMMZC2KdK) | 4:24 | 2025-01-23 | 2025-02-21 |
 | [CZAS NA SEN](https://open.spotify.com/track/6LulbqWDMnl1odFxtKWAzi) | [Karolina Prasał](https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr) | [CZAS NA SEN](https://open.spotify.com/album/7xaxcinwclcWFuJN61intz) | 2:44 | 2025-02-13 | 2025-02-23 |

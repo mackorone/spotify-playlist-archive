@@ -404,7 +404,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 130670,
       "name": "18",
       "url": "https://open.spotify.com/track/5KMfzwgSsB0UETKqceJ6Eu"
@@ -8768,6 +8768,24 @@
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
+    },
+    {
+      "album": {
+        "name": "Devil May Cry 5 Special Edition Vergil's Rebirth Sound Selection",
+        "url": "https://open.spotify.com/album/0xmupOFcrSRBIolFIozXQm"
+      },
+      "artists": [
+        {
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580292,
+      "name": "Bury the Light",
+      "url": "https://open.spotify.com/track/0FcS0Cpz3tK1DLXIzr6iL2"
     },
     {
       "album": {
@@ -17922,7 +17940,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 170038,
       "name": "EL D\u00cdA DEL AMIGO",
       "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
@@ -37342,7 +37360,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 653810,
       "name": "Mix Rubby P\u00e9rez: Hazme Olvidar / Enamorado de Ella / Buscando Tus Besos / Cobarde Cobarde / Fiesta para Dos / Volver\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/3otbIdU4kykRe1vbdQKfOM"
@@ -42141,6 +42159,40 @@
     },
     {
       "album": {
+        "name": "One Dancehall",
+        "url": "https://open.spotify.com/album/0AfWgm2Q4k1NLrgs86yE5a"
+      },
+      "artists": [
+        {
+          "name": "Le Magic",
+          "url": "https://open.spotify.com/artist/2TKXzeZ7YJvmydXbKF2MJZ"
+        },
+        {
+          "name": "Keko Musik",
+          "url": "https://open.spotify.com/artist/4Fw6S1XIDNuw6dutII4SsZ"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259497,
+      "name": "One Dancehall",
+      "url": "https://open.spotify.com/track/43XsZPGa1HOvmSW2stFROO"
+    },
+    {
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -42406,7 +42458,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary - Wedding Version",
       "url": "https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp"
@@ -42458,7 +42510,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 193359,
       "name": "Orilla",
       "url": "https://open.spotify.com/track/4rxPM7gelblflqcSTp6pkw"
@@ -50604,7 +50656,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 218506,
       "name": "Sexo Seguro",
       "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
@@ -51882,7 +51934,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
@@ -61164,7 +61216,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"

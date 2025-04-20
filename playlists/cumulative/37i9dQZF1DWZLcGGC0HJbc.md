@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-147 songs - 8 hr 39 min
+148 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2024-06-27 | 2024-09-20 |
 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 | 2025-01-23 |  |
 | [Ceiling Stars](https://open.spotify.com/track/1oYhmvMDaObdrBG3USn3Mw) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:22 | 2025-01-23 | 2025-03-08 |
-| [Changing](https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:49 | 2024-09-19 |  |
+| [Changing](https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:49 | 2024-09-19 | 2025-04-20 |
 | [Chilly Walks Home](https://open.spotify.com/track/16hHaTlIPDGgc7uU1DnUvH) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [UNALASKA](https://open.spotify.com/album/2EfVQqJagb60EnAJNq1o9I) | 3:22 | 2025-01-23 | 2025-01-29 |
 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 | 2024-06-27 | 2024-12-19 |
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-02-27 |  |
@@ -55,6 +55,7 @@
 | [getting used to](https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [getting used to](https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y) | 3:47 | 2024-12-18 | 2025-01-24 |
 | [Ghazal](https://open.spotify.com/track/1UeVhgHhkh9wtBJgNVw64H) | [Myrthe van de Weetering](https://open.spotify.com/artist/7qUsU9xkEpbdImTvJGfB99) | [Ghazal](https://open.spotify.com/album/4cTQWNH3OnrSAFHQRPLyfx) | 4:20 | 2024-06-27 | 2024-11-14 |
 | [Glad You Did](https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Glad You Did](https://open.spotify.com/album/7q9stc9skBvyNLron7OBLR) | 3:11 | 2024-06-27 | 2025-01-24 |
+| [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 | 2025-04-17 |  |
 | [Golden](https://open.spotify.com/track/5miJiOLexPAA2F8J2sj4T4) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Golden](https://open.spotify.com/album/2d3CxH0CmA0XJkwk1NasG0) | 3:41 | 2024-06-27 | 2025-01-24 |
 | [gone is the grace](https://open.spotify.com/track/690PnBq4pAsxEoCvqcZYpX) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [antichamber](https://open.spotify.com/album/3FXBukPm1OOjYUL1UJgsPQ) | 3:38 | 2025-02-27 |  |
 | [green](https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [green](https://open.spotify.com/album/3wtbk8hyZN77OqkubXcAtc) | 3:06 | 2024-10-03 | 2025-01-24 |

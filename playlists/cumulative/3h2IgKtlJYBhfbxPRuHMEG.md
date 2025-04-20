@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Mary Droppinz
 
-165 songs - 9 hr 20 min
+166 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Do It To It \- Sub Focus Remix](https://open.spotify.com/track/4z78eVQBoMHg1e4XGp4rMj) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Sub Focus Remix\)](https://open.spotify.com/album/2nHx69FlthuA68GBIjjXuP) | 3:14 | 2023-12-01 |  |
 | [Dooms Dive](https://open.spotify.com/track/4SW0IfMrQ4UuW1LMfeBChC) | [K.D.A.P.](https://open.spotify.com/artist/1NShLHrgna15CWNJAQDoom), [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Influences](https://open.spotify.com/album/42f1guaKkopBy81cZpxEA5) | 5:25 | 2023-12-01 |  |
 | [Drift](https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Drift](https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN) | 4:08 | 2023-12-01 |  |
+| [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 | 2025-04-19 |  |
 | [Drum Beats Go Like](https://open.spotify.com/track/4bW4m8LzKoaqwF8sCI37wn) | [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN) | [Drum Beats Go Like](https://open.spotify.com/album/0Ed341Woml6O3DJJsALmmN) | 3:36 | 2024-05-17 | 2024-11-09 |
 | [DUMP TRUCC](https://open.spotify.com/track/33rKsURXyPeltTOrErKYA3) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [DUMP TRUCC](https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ) | 2:30 | 2023-12-01 |  |
 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 | 2024-01-19 | 2024-11-09 |
@@ -139,7 +140,7 @@
 | [Silence Is Loud](https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe) | 2:37 | 2024-02-16 | 2024-11-09 |
 | [Slow \(with Łaszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Łaszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 | 2024-07-06 | 2024-11-09 |
 | [Smoak & Sip](https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Smoak & Sip](https://open.spotify.com/album/7wc12zgtkHjbtZ7EoFgQrb) | 3:42 | 2024-02-23 | 2024-11-09 |
-| [Smoke & Ones](https://open.spotify.com/track/1Ozd6d7lNxRvQxGrmMmE37) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3), [Jmo Let Em Know](https://open.spotify.com/artist/0j6m0No9ZFEawNFJbsurSa) | [Smoke & Ones](https://open.spotify.com/album/2mt1IX4WofBVkmuptuPJmX) | 3:28 | 2023-12-01 |  |
+| [Smoke & Ones](https://open.spotify.com/track/1Ozd6d7lNxRvQxGrmMmE37) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3), [Jmo Let Em Know](https://open.spotify.com/artist/0j6m0No9ZFEawNFJbsurSa) | [Smoke & Ones](https://open.spotify.com/album/2mt1IX4WofBVkmuptuPJmX) | 3:28 | 2023-12-01 | 2025-04-20 |
 | [Stupid](https://open.spotify.com/track/1kyuxFtixkhsXW7lPJMO2s) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Descent \- EP](https://open.spotify.com/album/0MIZlwrMURKrCp7taVFzyC) | 3:08 | 2023-12-01 |  |
 | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/track/413ir53trC0Nfh4Mhdmgws) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/album/5tght1mFiO2ezt5lz9L2IS) | 1:33 | 2024-02-16 | 2024-11-09 |
 | [Superstars](https://open.spotify.com/track/7FbdXyyZOknEfjHxGmdQVp) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Superstars](https://open.spotify.com/album/6dvGmNFspBMuwkM09pJqkj) | 2:52 | 2023-12-01 | 2024-11-30 |

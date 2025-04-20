@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 110389,
+  "num_followers": 110463,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Porque te amo",
+      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 175694,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Porque te amo",
-      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "EL Gil De Tu Ex",
-      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 175266,
       "name": "Las Seis",
       "url": "https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "EL Gil De Tu Ex",
+      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1079,30 +1079,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "MALAMOR",
-        "url": "https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Los Vasquez",
-          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
-        },
-        {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
-        }
-      ],
-      "duration_ms": 198082,
-      "name": "MALAMOR",
-      "url": "https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Sue\u00f1o Cumplido",
         "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 232515,
       "name": "Entre el Odio y el Amor",
       "url": "https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "MALAMOR",
+        "url": "https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+        },
+        {
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+        }
+      ],
+      "duration_ms": 198082,
+      "name": "MALAMOR",
+      "url": "https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
-        "url": "https://open.spotify.com/album/0aEZ4jdVNNT8seRRa28vKX"
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
       },
       "artists": [
         {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
         }
       ],
-      "duration_ms": 319787,
-      "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
-      "url": "https://open.spotify.com/track/1XB6uprTK9QOmgkUtmiDYX"
+      "duration_ms": 246920,
+      "name": "Y Me Beb\u00ed Tu Recuerdo",
+      "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+        "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
+        "url": "https://open.spotify.com/album/0aEZ4jdVNNT8seRRa28vKX"
       },
       "artists": [
         {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 246920,
-      "name": "Y Me Beb\u00ed Tu Recuerdo",
-      "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"
+      "duration_ms": 319787,
+      "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
+      "url": "https://open.spotify.com/track/1XB6uprTK9QOmgkUtmiDYX"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "De Amor y Vacil\u00f3n",
-        "url": "https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV"
-      },
-      "artists": [
-        {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Soy Feo Pero Rico",
-      "url": "https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "El Sonido Inconfundible",
         "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 201827,
       "name": "Amor Sobre 4 Ruedas",
       "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "De Amor y Vacil\u00f3n",
+        "url": "https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Soy Feo Pero Rico",
+      "url": "https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "El Sonido Inconfundible",
+        "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
+      },
+      "artists": [
+        {
+          "name": "D'Latin Sound",
+          "url": "https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Ritmo Loco",
+      "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Onda Nueva",
         "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
       },
@@ -1511,38 +1527,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "El Sonido Inconfundible",
-        "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
-      },
-      "artists": [
-        {
-          "name": "D'Latin Sound",
-          "url": "https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Ritmo Loco",
-      "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "La Terrible Pulenta",
-        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
-      },
-      "artists": [
-        {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "La Tortuga Vacilona",
-      "url": "https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Moral Distra\u00edda",
         "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
       },
@@ -1555,22 +1539,6 @@
       "duration_ms": 198173,
       "name": "El Men\u00fa",
       "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Qui\u00e9reme",
-        "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Haciendo el Amor",
-      "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1591,6 +1559,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "La Terrible Pulenta",
+        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "La Tortuga Vacilona",
+      "url": "https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "La Makinita",
         "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 284875,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/6gUUERbRME9MKaAMIAa1I3"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 192073,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1639,24 +1639,8 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Despu\u00e9s De Ti",
-        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 192073,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Onda Tropical",
-        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
       },
       "artists": [
         {
@@ -1664,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Acercate MI Amor",
-      "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
+      "duration_ms": 224960,
+      "name": "Haciendo el Amor",
+      "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1687,6 +1671,22 @@
       "duration_ms": 166586,
       "name": "Sigue La Cumbia",
       "url": "https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Cuerpo Repartido",
+        "url": "https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5"
+      },
+      "artists": [
+        {
+          "name": "Banda Conmoci\u00f3n",
+          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "El Casorio",
+      "url": "https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr"
     },
     {
       "added_at": "2025-01-17 12:58:12",

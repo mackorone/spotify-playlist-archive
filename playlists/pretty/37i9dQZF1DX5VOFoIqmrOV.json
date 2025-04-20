@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 394440,
+  "num_followers": 395060,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
     },
     {
+      "added_at": "2023-12-15 08:53:49",
+      "album": {
+        "name": "Hi Nanna",
+        "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Gaaju Bomma",
+      "url": "https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8"
+    },
+    {
       "added_at": "2022-10-17 05:05:06",
       "album": {
         "name": "Naa Madhi (From \"Thiru\")",
@@ -543,22 +559,6 @@
       "duration_ms": 174193,
       "name": "Naa Madhi (From \"Thiru\")",
       "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
-    },
-    {
-      "added_at": "2023-12-15 08:53:49",
-      "album": {
-        "name": "Hi Nanna",
-        "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Gaaju Bomma",
-      "url": "https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8"
     },
     {
       "added_at": "2023-12-12 05:49:47",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Nannaku Prematho",
-        "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
-      },
-      "artists": [
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Arjun Reddy",
         "url": "https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 203250,
       "name": "Emitemitemo",
       "url": "https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Nannaku Prematho",
+        "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
+      },
+      "artists": [
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Govindudu Andarivaadele",
-        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Gulabi Kallu Rendu Mullu",
-      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Malli Malli Idi Rani Roju",
         "url": "https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 271428,
       "name": "Yenno Yenno",
       "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Govindudu Andarivaadele",
+        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Gulabi Kallu Rendu Mullu",
+      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
     },
     {
       "added_at": "2023-02-10 09:20:04",

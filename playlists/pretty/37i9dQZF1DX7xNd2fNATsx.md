@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un\. Photo : Bob Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,298 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,303 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 10 | [Ocean](https://open.spotify.com/track/6ugr5lPJY2r7DN4PAAENwx) | [Else](https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B) | [Ocean](https://open.spotify.com/album/7ftixvRPy06P4D1PdgRHHJ) | 2:35 |
 | 11 | [2 Go](https://open.spotify.com/track/6bEreC7Z1UdHbMC7JDhcwm) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [2 Go](https://open.spotify.com/album/6ZRtBlfIqF1NOySOUrjz2p) | 4:06 |
 | 12 | [Nightcall](https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Nightcall](https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7) | 2:59 |
-| 13 | [Watching Over Me](https://open.spotify.com/track/63Fu6cZVHFsxxeXEBvMBs6) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/6VxEbABUynP9EO928oMktg) | 4:39 |
+| 13 | [Watching Over Me](https://open.spotify.com/track/63Fu6cZVHFsxxeXEBvMBs6) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/6VxEbABUynP9EO928oMktg) | 4:37 |
 | 14 | [N.E.M.](https://open.spotify.com/track/1evi0s1rOH5ZFJkrCWbStm) | [Las Aves](https://open.spotify.com/artist/0bbL6moYLUu792U2ZdWgXU) | [Die In Shanghai](https://open.spotify.com/album/3X0fVmPjhrn1tjsz8ALmdC) | 3:20 |
 | 15 | [Fun](https://open.spotify.com/track/7gsYaYvQHjW7x4UzLpCrVo) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fun](https://open.spotify.com/album/1kZhU7o65hxykIDQlYaysm) | 3:08 |
 | 16 | [Don't Wait Up](https://open.spotify.com/track/18yDsGdHw4LhYMMTbNlNWS) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Don't Wait Up](https://open.spotify.com/album/4mGi7lkUGSqal4YEIKKE00) | 3:47 |

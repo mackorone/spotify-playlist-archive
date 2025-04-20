@@ -4,7 +4,7 @@
 
 > your favourite playlist's favourite playlist &lt;3\. shop the pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Ariana Grande
 
-483 songs - 1 day 1 hr 22 min
+484 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Make Me Your Mrs](https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Make Me Your Mrs](https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K) | 2:38 | 2024-03-01 | 2024-09-28 |
 | [makeout with a stranger](https://open.spotify.com/track/44NQ2S22UuRK0QLjuyJp3y) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [makeout with a stranger](https://open.spotify.com/album/1ERoaxiuegt7OkjDLorpGm) | 2:26 | 2023-11-06 | 2024-05-06 |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/2mqaYmF0XmV8egZB6jQOtN) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:53 | 2024-07-26 | 2024-09-28 |
+| [MARRIAGE](https://open.spotify.com/track/4svSxX04Y90JGFM9j35tyW) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [GOD/MARRIAGE](https://open.spotify.com/album/3r02puVKfFDTkZgkDjdO04) | 2:44 | 2025-04-19 |  |
 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 | 2024-02-09 | 2024-11-21 |
 | [ME MYSELF AND YOU](https://open.spotify.com/track/0DHBocC3mQFnoiqWWD92TB) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [ME MYSELF AND YOU](https://open.spotify.com/album/26bq2zFIGStfUYHqzuQXFx) | 2:14 | 2023-11-17 | 2024-02-27 |
 | [Medicine](https://open.spotify.com/track/28xPS2Els3jTO6pdgp2znH) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Medicine](https://open.spotify.com/album/39D1A6YzvcAGdELvfnh9YG) | 2:42 | 2023-11-24 | 2024-07-10 |

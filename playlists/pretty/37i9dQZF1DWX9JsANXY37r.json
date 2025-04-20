@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121933,
+  "num_followers": 121941,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,26 @@
     {
       "added_at": "2025-04-18 06:04:54",
       "album": {
+        "name": "Don't Forget About Us (KAYTRANADA Remix)",
+        "url": "https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 243125,
+      "name": "Don't Forget About Us - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
+    },
+    {
+      "added_at": "2025-04-18 06:04:54",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
-    },
-    {
-      "added_at": "2025-04-18 06:04:54",
-      "album": {
-        "name": "Don't Forget About Us (KAYTRANADA Remix)",
-        "url": "https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 243125,
-      "name": "Don't Forget About Us - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
     },
     {
       "added_at": "2025-04-18 06:04:54",

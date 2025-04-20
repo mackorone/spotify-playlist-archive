@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Khaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,637 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,645 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 44 | [Natural Park](https://open.spotify.com/track/4MZtMTxHOiw7anDqOQi8l5) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [Natural Park](https://open.spotify.com/album/2KH8aRJnaZGuu1hYhqX5CJ) | 4:06 |
 | 45 | [All Right](https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Minds & Colors](https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36) | 3:18 |
 | 46 | [meaning](https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meaning](https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW) | 3:44 |
-| 47 | [ASOBO](https://open.spotify.com/track/7IQan4WbmdsftXYOD2W3iT) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ASOBO](https://open.spotify.com/album/0v89xmGKz3kGktmRHDPnv5) | 3:28 |
-| 48 | [Warumono](https://open.spotify.com/track/5RsCECjqGekDQvFbbxz5zg) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [内なる惑星](https://open.spotify.com/album/75LAVq4NjYN5z0zjNCPTkH) | 4:01 |
+| 47 | [Warumono](https://open.spotify.com/track/5RsCECjqGekDQvFbbxz5zg) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [内なる惑星](https://open.spotify.com/album/75LAVq4NjYN5z0zjNCPTkH) | 4:01 |
+| 48 | [ASOBO](https://open.spotify.com/track/7IQan4WbmdsftXYOD2W3iT) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ASOBO](https://open.spotify.com/album/0v89xmGKz3kGktmRHDPnv5) | 3:28 |
 | 49 | [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:03 |
 | 50 | [ステラ](https://open.spotify.com/track/3P2s80yVnpaABmMVbq1KPJ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ステラ](https://open.spotify.com/album/5Re5sssjx93JkNfYADiLCE) | 3:07 |
 | 51 | [Wave](https://open.spotify.com/track/1pXIk9DQmaCFRzFREdq2P9) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Wave](https://open.spotify.com/album/4O0vNDX1DS8fk2XqQjuOwf) | 3:28 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 53 | [ラブコメ](https://open.spotify.com/track/3NlIznCiPTTYYjxoVXHV7v) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ラブコメ](https://open.spotify.com/album/4zcHOrQn3reSiyvHdlJJiy) | 4:15 |
 | 54 | [Youth \(feat\. Skaai\)](https://open.spotify.com/track/5f7Yii4MaG1ksyHHsb0KCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Youth \(feat\. Skaai\)](https://open.spotify.com/album/48b1YVvyE3HpukwhEZR2Y9) | 2:52 |
 | 55 | [Dying Star](https://open.spotify.com/track/60fJwXfsLswVout8DYaAzf) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Dying Star](https://open.spotify.com/album/3hwHY1kb8NZQ3b3rG50Jkh) | 3:10 |
-| 56 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
-| 57 | [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 |
+| 56 | [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 |
+| 57 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
 | 58 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 |
 | 59 | [Ghost](https://open.spotify.com/track/2b2ck4wCQhwIlr6m7mCY7N) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [Ghost](https://open.spotify.com/album/2TYDqjnlad15lj4PT1CUib) | 5:27 |
 | 60 | [Lover](https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [Lover](https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy) | 6:34 |
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 63 | [Whenever, Whatever](https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [In Your Languages](https://open.spotify.com/album/1nJlr4uATMI2G26PYLVlvE) | 4:56 |
 | 64 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
 | 65 | [say no more](https://open.spotify.com/track/0PJ28FMpQYzVPNzraE3NF7) | [MET](https://open.spotify.com/artist/4QzScFRs2N6EdhJfX74b1O), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [say no more](https://open.spotify.com/album/4RwY5P1d3I7cueyE9yAnqE) | 2:40 |
-| 66 | [Happy Ending Show](https://open.spotify.com/track/7IgtInfdL98RaUo7Cd3lZq) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Happy Ending Show](https://open.spotify.com/album/6bDf4iFszh8ZTUTdTYC3RN) | 4:01 |
-| 67 | [Night Crawlin'](https://open.spotify.com/track/0IyOcFSic2MLImq9y4n0MO) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [第八作品集『無題』](https://open.spotify.com/album/56oudFcHR5axk94kl0A011) | 5:49 |
-| 68 | [春になれ](https://open.spotify.com/track/25vsL9xUIGGx5CpweTKXJh) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [春になれ](https://open.spotify.com/album/3xJeggSsG3xabe6kN2D1WR) | 3:21 |
-| 69 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
-| 70 | [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 |
-| 71 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 |
+| 66 | [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 |
+| 67 | [Happy Ending Show](https://open.spotify.com/track/7IgtInfdL98RaUo7Cd3lZq) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Happy Ending Show](https://open.spotify.com/album/6bDf4iFszh8ZTUTdTYC3RN) | 4:01 |
+| 68 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
+| 69 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 |
+| 70 | [Night Crawlin'](https://open.spotify.com/track/0IyOcFSic2MLImq9y4n0MO) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [第八作品集『無題』](https://open.spotify.com/album/56oudFcHR5axk94kl0A011) | 5:49 |
+| 71 | [春になれ](https://open.spotify.com/track/25vsL9xUIGGx5CpweTKXJh) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [春になれ](https://open.spotify.com/album/3xJeggSsG3xabe6kN2D1WR) | 3:21 |
 | 72 | [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 |
 | 73 | [相席屋に行きたい \- Cornelius Remix](https://open.spotify.com/track/59PLeH8yo9ivYuun0nUYZW) | [トリプルファイヤー](https://open.spotify.com/artist/1Hr7ESrCzlm2W7FbpUgYwX), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [相席屋に行きたい \(Cornelius Remix\)](https://open.spotify.com/album/3fFBDBkPW3VWQ26IzetQvM) | 4:41 |
 | 74 | [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 |

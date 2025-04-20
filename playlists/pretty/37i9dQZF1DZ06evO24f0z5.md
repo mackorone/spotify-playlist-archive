@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,383 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,380 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 4 | [Un nuevo día](https://open.spotify.com/track/1frOafeIbErPlqrInWJf7E) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/7dUJgg7a8iff1DqhTWzf3d) | 6:12 |
 | 5 | [No estes triste](https://open.spotify.com/track/0bN5K2BhUvSQqIdzQ1U4Lm) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/0G1VpkWCoM0TQb2pVzILsy) | 3:58 |
 | 6 | [De la Tierra Crece](https://open.spotify.com/track/532IVEHOs1VXR5K12Tj7Pa) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/7BmdnJ82zErmaHrSjBOwWR) | 3:09 |
-| 7 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 |
-| 8 | [Juicio](https://open.spotify.com/track/01UwOmzu1qMzpPC3eGkukY) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/30wM6jKgNzpMBKGhaNaqnQ) | 4:02 |
+| 7 | [Juicio](https://open.spotify.com/track/01UwOmzu1qMzpPC3eGkukY) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/30wM6jKgNzpMBKGhaNaqnQ) | 4:02 |
+| 8 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 |
 | 9 | [Estoy bien](https://open.spotify.com/track/5hLdGCCDi8T2jplRUxBmBz) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/6JKua9VUHe4SyVJdfKVJtW) | 5:34 |
 | 10 | [Y mi corazón contento](https://open.spotify.com/track/7dIkplEb0eMFWEQxKyWv2K) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/7BmdnJ82zErmaHrSjBOwWR) | 3:28 |
 | 11 | [Buscar estar](https://open.spotify.com/track/4lYqQ6d6NvcFMhEmQg5ky7) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/7dUJgg7a8iff1DqhTWzf3d) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 49 | [Cerca del río](https://open.spotify.com/track/0VIfgwSHb6xjCzgYhBvYdk) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/2c1Ctje54v5kkdc932GsqN) | 5:02 |
 | 50 | [Esa luz](https://open.spotify.com/track/4N5P2ofWNgfYBc1YUS4u3t) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:03 |
 
-Snapshot ID: `aABEgAAAAACCIe1cG9nCPvht2ser1LpI`
+Snapshot ID: `aAGWAAAAAAANctR6RI8DAaerhVJgYrub`

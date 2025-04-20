@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-580 songs - 1 day 16 hr 22 min
+581 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Daydream](https://open.spotify.com/track/6EFwCTxuOWiJllWJSZtsBe) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Daydream](https://open.spotify.com/album/4QopFPTULH28wBGUtdk0eb) | 3:23 | 2024-07-26 | 2024-10-21 |
 | [Deep Space](https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Deep Space](https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F) | 3:01 | 2023-05-05 | 2024-05-05 |
 | [Delta](https://open.spotify.com/track/0WbXxAn99TZzB2kdLkh5hu) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Wake Your Mind Sessions 004 Exclusives](https://open.spotify.com/album/5ecWuN5lJXqZeqVU0UUVaW) | 4:05 | 2021-05-07 | 2022-04-16 |
-| [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 | 2023-10-06 |  |
+| [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 | 2023-10-06 | 2025-04-20 |
 | [Desire \(with Sam Smith\) \- Cedric Gervais Festival Mix](https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Desire \(with Sam Smith\) \[Cedric Gervais Remixes\]](https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx) | 4:19 | 2023-09-22 | 2023-11-28 |
 | [Dialogue](https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Radiant](https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI) | 7:32 | 2023-12-01 | 2025-04-07 |
 | [Disco Voyager](https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Disco Voyager](https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7) | 3:10 | 2023-02-17 | 2023-09-23 |
@@ -120,6 +120,7 @@
 | [Distraction](https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Distraction](https://open.spotify.com/album/18iJol0H5J6ApQzwRkniXp) | 3:55 | 2024-05-03 |  |
 | [Don't Look Down \- Edit](https://open.spotify.com/track/10NoopYlXNLPFLCvm2l4nT) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Don't Look Down](https://open.spotify.com/album/0lKB8S9EwZygC7JYEYAvL1) | 4:23 | 2022-05-06 | 2022-07-29 |
 | [Dreamers](https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI) | [Dreamers](https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO) | 6:43 | 2021-10-25 | 2023-07-15 |
+| [Each Other](https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Each Other](https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv) | 3:04 | 2025-04-18 |  |
 | [Easy](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Easy](https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78) | 3:25 | 2023-11-17 | 2025-03-22 |
 | [Easy Love](https://open.spotify.com/track/520bx5thoXdK6SsBJseLGl) | [Krismi](https://open.spotify.com/artist/3ujWl7adFLOFZOkNtVi0WL) | [Easy Love](https://open.spotify.com/album/07gM5wpFq7rh1kGg9NECTj) | 3:26 | 2024-07-26 | 2025-04-19 |
 | [Ecletric](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Ecletric](https://open.spotify.com/album/3DuDHySeHsZXytYR1HHQq9) | 3:18 | 2021-05-07 | 2022-07-28 |

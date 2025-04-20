@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 44489,
+  "num_followers": 44493,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/7zAAAAAABlv7s766AEYb+4wgi7yd30",
+  "snapshot_id": "aAGWAAAAAABqJHc4ZcLZFC+a1a8eAc0d",
   "tracks": [
     {
       "added_at": null,
@@ -188,7 +188,7 @@
       "added_at": null,
       "album": {
         "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
       },
       "artists": [
         {
@@ -196,25 +196,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Answering Bell",
-      "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "There Is a Light That Never Goes Out",
-        "url": "https://open.spotify.com/album/4p7FbdliqsM0ZmbbCaEjeZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 273047,
-      "name": "There Is a Light That Never Goes Out",
-      "url": "https://open.spotify.com/track/5gkW1Q4MDPD7gc7ukuGhbi"
+      "duration_ms": 301013,
+      "name": "La Cienega Just Smiled",
+      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
     },
     {
       "added_at": null,
@@ -231,6 +215,22 @@
       "duration_ms": 132680,
       "name": "Dear Chicago",
       "url": "https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is a Light That Never Goes Out",
+        "url": "https://open.spotify.com/album/4p7FbdliqsM0ZmbbCaEjeZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 273047,
+      "name": "There Is a Light That Never Goes Out",
+      "url": "https://open.spotify.com/track/5gkW1Q4MDPD7gc7ukuGhbi"
     },
     {
       "added_at": null,
@@ -252,7 +252,7 @@
       "added_at": null,
       "album": {
         "name": "Gold",
-        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 301013,
-      "name": "La Cienega Just Smiled",
-      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
+      "duration_ms": 185000,
+      "name": "Answering Bell",
+      "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
     },
     {
       "added_at": null,
@@ -283,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+        "name": "The Battle",
+        "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
       },
       "artists": [
+        {
+          "name": "Caitlin Cary",
+          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
+        },
         {
           "name": "Ryan Adams",
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 274146,
-      "name": "When You Cross Over",
-      "url": "https://open.spotify.com/track/4AMSEr9CDJh7oryZM1Ga9Y"
+      "duration_ms": 180560,
+      "name": "The Battle (feat. Ryan Adams)",
+      "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
     },
     {
       "added_at": null,
@@ -331,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Battle",
-        "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
       },
       "artists": [
-        {
-          "name": "Caitlin Cary",
-          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
-        },
         {
           "name": "Ryan Adams",
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 180560,
-      "name": "The Battle (feat. Ryan Adams)",
-      "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
+      "duration_ms": 274146,
+      "name": "When You Cross Over",
+      "url": "https://open.spotify.com/track/4AMSEr9CDJh7oryZM1Ga9Y"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
       "duration_ms": 189403,
       "name": "Call Me on Your Way Back Home",
       "url": "https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 232150,
-      "name": "I'm Sorry and I Love You",
-      "url": "https://open.spotify.com/track/1LXWFJKNC5Cfbji9cHNX65"
     },
     {
       "added_at": null,
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 218138,
-      "name": "Poison & Pain",
-      "url": "https://open.spotify.com/track/4dqwEh4lhm3kndmNgLJjQM"
+      "duration_ms": 232150,
+      "name": "I'm Sorry and I Love You",
+      "url": "https://open.spotify.com/track/1LXWFJKNC5Cfbji9cHNX65"
     },
     {
       "added_at": null,
@@ -479,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
       "artists": [
         {
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 169573,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
+      "duration_ms": 340666,
+      "name": "English Girls Approximately",
+      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
     },
     {
       "added_at": null,
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 235120,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
+      "duration_ms": 246440,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
     },
     {
       "added_at": null,
@@ -520,15 +504,15 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 332196,
-      "name": "Wednesdays",
-      "url": "https://open.spotify.com/track/209YFSsZnQTFmk78zpqJv8"
+      "duration_ms": 218138,
+      "name": "Poison & Pain",
+      "url": "https://open.spotify.com/track/4dqwEh4lhm3kndmNgLJjQM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 340666,
-      "name": "English Girls Approximately",
-      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
+      "duration_ms": 169573,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
       "added_at": null,
@@ -568,25 +552,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 246440,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Nuclear",
-      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
+      "duration_ms": 235120,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
     },
     {
       "added_at": null,
@@ -607,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 332196,
+      "name": "Wednesdays",
+      "url": "https://open.spotify.com/track/209YFSsZnQTFmk78zpqJv8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
       "artists": [
         {
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 294708,
-      "name": "Walk In The Dark",
-      "url": "https://open.spotify.com/track/4DGhZZw22xxlbqnMUq7oL9"
+      "duration_ms": 204026,
+      "name": "Nuclear",
+      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 321120,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 294708,
+      "name": "Walk In The Dark",
+      "url": "https://open.spotify.com/track/4DGhZZw22xxlbqnMUq7oL9"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 271270,
-      "name": "Mamma",
-      "url": "https://open.spotify.com/track/0RpgOO8taMgvmDKUbTuOFj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 151960,
       "name": "Oh My God, Whatever, Etc.",
       "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 271270,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/0RpgOO8taMgvmDKUbTuOFj"
     },
     {
       "added_at": null,

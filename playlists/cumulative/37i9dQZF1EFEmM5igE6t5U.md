@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-233 songs - 14 hr 57 min
+234 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 | 2023-03-09 |  |
 | [Come For Me \(Unlocked\)](https://open.spotify.com/track/1xgf7XiQ7rHae5SOuIrNVC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Come For Me \(Unlocked\) \[Official Video\]](https://open.spotify.com/album/57iAWIvNor0B92dBzCufwk) | 3:37 | 2023-12-13 | 2024-02-02 |
 | [Come For Me \(Unlocked\) \(feat\. Khalid & Lucky Daye\)](https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:29 | 2023-03-09 |  |
+| [Comfy](https://open.spotify.com/track/0Lkw5KjKiBgX8nZbUTy1jw) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [The Last Doll](https://open.spotify.com/album/7yn4tvk6FnItSAPYgPaQ4F) | 3:31 | 2025-04-19 |  |
 | [Crazy \(Mi Corazon\)](https://open.spotify.com/track/1Z2iAIUrpMUiuE3a9aLDFM) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(20th Anniversary Edition\)](https://open.spotify.com/album/4D50mUGHwK0tZ7oVUx6Mx3) | 3:53 | 2023-03-09 | 2023-06-05 |
 | [Crazy \(Mi Corazon\)](https://open.spotify.com/track/6gEpGWuXte7C903k2sQ2VX) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 3:54 | 2023-06-04 |  |
 | [Daffodils \(Originals\)](https://open.spotify.com/track/0NA4CSpUEWzFHCI6RzvbS1) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:33 | 2023-03-09 |  |

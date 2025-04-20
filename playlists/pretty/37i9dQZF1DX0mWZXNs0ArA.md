@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,983,139 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,983,047 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 94 | [Please Please Please \- Sped Up](https://open.spotify.com/track/4EryTXqW5cvf5yqITZEm7b) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1) | 2:32 |
 | 95 | [Murder On The Dancefloor \- Sped Up Version](https://open.spotify.com/track/6AUEDH2zNt9Ssn0V9InxDk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Murder On The Dancefloor \(Edits\)](https://open.spotify.com/album/54Ch49X0yluaniJTOeMdZF) | 3:13 |
 | 96 | [Austin \(Boots Stop Workin'\) \- Sped Up](https://open.spotify.com/track/4SSzZ3yv1mj1C9kBKQtWwh) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin \(Boots Stop Workin'\) \[Sped Up/Slowed Down\]](https://open.spotify.com/album/5gYHEWPXf9w58Oa2PQ98sE) | 2:16 |
-| 97 | [fukumean \(sped up version\)](https://open.spotify.com/track/4YjUP1tr06laO1GSXaQqsJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [fukumean](https://open.spotify.com/album/5RHDfyHMN7CyYLc0KOOmKc) | 1:40 |
-| 98 | [YOU'RE TOO SLOW \- Sped Up](https://open.spotify.com/track/28IsqKmZQyl6eGiIapyUNm) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DOOR TO DUSK \(ODECORE MIX\)](https://open.spotify.com/album/0lzxP3FqDyCvbEL8jER5kX) | 1:39 |
+| 97 | [YOU'RE TOO SLOW \- Sped Up](https://open.spotify.com/track/28IsqKmZQyl6eGiIapyUNm) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DOOR TO DUSK \(ODECORE MIX\)](https://open.spotify.com/album/0lzxP3FqDyCvbEL8jER5kX) | 1:39 |
+| 98 | [fukumean \(sped up version\)](https://open.spotify.com/track/4YjUP1tr06laO1GSXaQqsJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [fukumean](https://open.spotify.com/album/5RHDfyHMN7CyYLc0KOOmKc) | 1:40 |
 | 99 | [Unwritten \- sped up](https://open.spotify.com/track/3YfN4FJ9k10ZQFFrZEZsz9) | [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten \(sped up\)](https://open.spotify.com/album/2wftAO4MIoY2ATqIxyrq8l) | 3:53 |
 | 100 | [One Of Your Girls \- Sped Up](https://open.spotify.com/track/3aP1ep4PqgP5IPXUdPsxD5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [One Of Your Girls \(Sped Up\)](https://open.spotify.com/album/48cK704EMiYSveyWWCST4j) | 2:36 |
 

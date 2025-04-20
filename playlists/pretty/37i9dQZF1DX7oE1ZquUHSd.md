@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,324 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,368 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 94 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |
 | 95 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
 | 96 | [Mi Familia](https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Expreso Aerophon](https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr) | 5:13 |
-| 97 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 |
-| 98 | [Balance](https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Faruz Vs\. Proof](https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8) | 3:24 |
+| 97 | [Balance](https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Faruz Vs\. Proof](https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8) | 3:24 |
+| 98 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 |
 | 99 | [Madafaka \(feat\. Molotov\)](https://open.spotify.com/track/3SfFu1MfHefPC55gW4ngH3) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg), [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Chances](https://open.spotify.com/album/5GVNLD6AGiNGOVNPkLc6rI) | 4:03 |
 | 100 | [Pruebalo](https://open.spotify.com/track/2V5155hKRLxHceKN6S8V8y) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ) | [Los Veteranos](https://open.spotify.com/album/79xVsg1JPIqvQE0exEly78) | 3:50 |
 

@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-576 songs - 1 day 5 hr 30 min
+577 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Apollo \- SICK INDIVIDUALS Remix](https://open.spotify.com/track/7BhDnbKnRvTUcgzFMJ5aok) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Revealed 10 Year Anniversary Remixed](https://open.spotify.com/album/6SraspRZ2caOJx8V7AIjFr) | 3:33 | 2022-04-14 | 2022-07-08 |
 | [Arabian Nights](https://open.spotify.com/track/3e9lh8yGoVFBfOWt9e3imb) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Diètro](https://open.spotify.com/artist/5qH3F8PeTa9G7XNNHxIDhW) | [Arabian Nights](https://open.spotify.com/album/3q7V5PK3x35jEic1tkeyqM) | 3:04 | 2022-04-21 | 2022-09-05 |
 | [Are You All Dead? \(Impetus Viscus\)](https://open.spotify.com/track/76dITxox08saDWNgfbAxuJ) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x), [CS\-Jay](https://open.spotify.com/artist/7EeFW4dWZQitnue96aHyNc) | [Are You All Dead? \(Impetus Viscus\)](https://open.spotify.com/album/4h9pjvC6BvfpZlbTGWS8ip) | 3:06 | 2025-04-03 |  |
-| [Aria](https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Aria](https://open.spotify.com/album/7CRPqwHZ8H8264OBRhUAEy) | 2:44 | 2024-09-19 |  |
+| [Aria](https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Aria](https://open.spotify.com/album/7CRPqwHZ8H8264OBRhUAEy) | 2:44 | 2024-09-19 | 2025-04-20 |
 | [Armageddon](https://open.spotify.com/track/6bXNko4ehHxNCsfI1G9yLI) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [Armageddon](https://open.spotify.com/album/60yqhOP10Pw4DNrWMqt2XZ) | 2:44 | 2023-01-12 | 2023-03-14 |
 | [Atmosphere](https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Atmosphere](https://open.spotify.com/album/5Z34tqOAHVByFmFK6hyhyg) | 2:44 | 2024-02-01 | 2024-06-07 |
 | [Attention](https://open.spotify.com/track/33PrROTmibJVlLYO5CZg0E) | [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Attention](https://open.spotify.com/album/4khR8sOn7QVzXrADwEWKwO) | 2:48 | 2022-12-27 | 2023-01-03 |
@@ -55,6 +55,7 @@
 | [Beat Of My Heart](https://open.spotify.com/track/6IHQczMpJmWnNIKijtKHY1) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [Beat Of My Heart](https://open.spotify.com/album/0jTrfHAkabTrkRUS9EjaGS) | 2:41 | 2022-09-15 | 2022-10-07 |
 | [Beautiful Life \- Faustix RMX](https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Beautiful Life \(Faustix RMX\)](https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh) | 2:59 | 2023-11-02 | 2025-03-07 |
 | [BED \- David Guetta Festival Mix](https://open.spotify.com/track/5z6jkLZ698f5SmQa4s189t) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED \(David Guetta Festival Mix\)](https://open.spotify.com/album/2g7TH4pjOmA7jcfPi24m2H) | 3:55 | 2022-04-14 | 2022-06-24 |
+| [Beethoven's Aria Für Elise](https://open.spotify.com/track/3auOQTnNNJZaKJl2nlDtGv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Beethoven's Aria Für Elise](https://open.spotify.com/album/60arWJQ36tblu7ootxVhAJ) | 2:29 | 2025-04-17 |  |
 | [Being Alone](https://open.spotify.com/track/0LkhrxxLxmitdXcSr7wfMQ) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Being Alone](https://open.spotify.com/album/2vfIWuuqhMmZHM1sAr8ewo) | 2:48 | 2024-05-17 | 2024-06-25 |
 | [Believe](https://open.spotify.com/track/3KckvunLh7ppfXqzl0P8AT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Believe](https://open.spotify.com/album/5j8FYbyJOB1ppcDdtqou6N) | 2:54 | 2022-09-22 | 2023-04-28 |
 | [Believe](https://open.spotify.com/track/3CKIWKgDVHOURcDLizLVpa) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Believe](https://open.spotify.com/album/6ynBCRtz2f2HHh3RJZsgAp) | 2:11 | 2025-01-28 | 2025-04-12 |

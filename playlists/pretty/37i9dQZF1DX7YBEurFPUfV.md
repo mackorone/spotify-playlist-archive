@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : NORDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,642 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,655 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 3 | [Vision](https://open.spotify.com/track/6lv8cTrryrBTXlI8ur5cBS) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Vision](https://open.spotify.com/album/6iWH0XxDrU4ByDuguQXYIU) | 2:44 |
 | 4 | [MEN BARRA](https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:46 |
 | 5 | [N3awed fel 3am](https://open.spotify.com/track/707GkvPkCHMVdPIXzWlv3g) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl), [L'vibe](https://open.spotify.com/artist/2nhBiQjksWJvRoNf9H2fZa) | [Side Effects](https://open.spotify.com/album/0BNTa2AYTosb561nNUWG4S) | 2:46 |
-| 6 | [Klem](https://open.spotify.com/track/5IjtjlAJVe6mFCKzhr0YKt) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ktyb](https://open.spotify.com/artist/4E0kAlJerKS1GJ1xvchbdH) | [Cotinga](https://open.spotify.com/album/5UAGPzp0t0DIczTuIPLCak) | 4:07 |
+| 6 | [Klem](https://open.spotify.com/track/5IjtjlAJVe6mFCKzhr0YKt) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [Cotinga](https://open.spotify.com/album/5UAGPzp0t0DIczTuIPLCak) | 4:07 |
 | 7 | [Mio!](https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO) | [Lullysnake](https://open.spotify.com/artist/4KliRHlaiBy3lAztDAD6cz) | [Mio!](https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE) | 2:54 |
 | 8 | [Klit Klat](https://open.spotify.com/track/3AqP7SNyNxeEI0sPWqO0uO) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Klit Klat](https://open.spotify.com/album/3GcV5oJU8K0QJJvRuFO9dg) | 2:42 |
 | 9 | [Tfadhel](https://open.spotify.com/track/7EBgYjGG0ZXOZh3PraqIhj) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Tfadhel](https://open.spotify.com/album/7iQs5yLhszxjg5SItzjqGu) | 3:12 |

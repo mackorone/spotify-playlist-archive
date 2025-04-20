@@ -1531,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "WICK",
+        "url": "https://open.spotify.com/album/4y5vG1udERB0K1sDyeENa2"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179633,
+      "name": "Why Hate",
+      "url": "https://open.spotify.com/track/19DP1DQrUyBSOwWXVPN7Sz"
+    },
+    {
+      "album": {
         "name": "Strength & Loyalty",
         "url": "https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB"
       },

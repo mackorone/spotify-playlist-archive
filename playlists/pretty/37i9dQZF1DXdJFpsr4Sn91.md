@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa BESS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,920 likes - 92 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,930 likes - 92 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 4 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
 | 5 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 6 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
-| 7 | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/track/7Hmw2A09c7o9g9SbtRT5ca) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/album/6DzW026bWi2rrGLDryPsIP) | 2:29 |
-| 8 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
-| 9 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 |
-| 10 | [Öis](https://open.spotify.com/track/6obPoxSSiUwiJgC4yrmy7Q) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Öis](https://open.spotify.com/album/2ZfOh9ZxV09y017BVc9G33) | 3:03 |
+| 7 | [Öis](https://open.spotify.com/track/6obPoxSSiUwiJgC4yrmy7Q) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Öis](https://open.spotify.com/album/2ZfOh9ZxV09y017BVc9G33) | 3:03 |
+| 8 | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/track/7Hmw2A09c7o9g9SbtRT5ca) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/album/6DzW026bWi2rrGLDryPsIP) | 2:29 |
+| 9 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
+| 10 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 |
 | 11 | [Kirsikat](https://open.spotify.com/track/0RrtayzwGZd7rCvLgrDmMU) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kirsikat](https://open.spotify.com/album/7dWEiZ4iqA45KlrjXosIHQ) | 3:26 |
 | 12 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
 | 13 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 |
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 15 | [Leima \(feat\. Turisti\)](https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ORIGO](https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt) | 2:36 |
 | 16 | [GUM](https://open.spotify.com/track/4fo0OT2CUmYuh1N6jpz1S2) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [GUM](https://open.spotify.com/album/1FowAd6rpHLlsbTYWAopjO) | 2:59 |
 | 17 | [Valot kamera action](https://open.spotify.com/track/7iXarUBY2dGYlnBdGbVo9m) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Valot kamera action](https://open.spotify.com/album/4NH4Ywxj9JN89F7vLnX2hU) | 2:24 |
-| 18 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
+| 18 | [Pieni ystävä](https://open.spotify.com/track/3Gnt3zrmjmtfg5zmcfgehp) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Pieni ystävä](https://open.spotify.com/album/6T59VioHQazN7bAVDcZCwU) | 3:17 |
 | 19 | [Ikuisuuteen](https://open.spotify.com/track/0iDngbVf0f913F88x6oWCe) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Ikuisuuteen](https://open.spotify.com/album/75nGiUV5o6XnNkQ9rxOISk) | 3:03 |
-| 20 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 |
-| 21 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 |
-| 22 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
-| 23 | [Enkeli](https://open.spotify.com/track/24nWnuX84FdKgpDCZgg3tQ) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Enkeli](https://open.spotify.com/album/68BaBbcSTIuakL0CHamIBt) | 2:50 |
-| 24 | [Pieni ystävä](https://open.spotify.com/track/3Gnt3zrmjmtfg5zmcfgehp) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Pieni ystävä](https://open.spotify.com/album/6T59VioHQazN7bAVDcZCwU) | 3:17 |
+| 20 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
+| 21 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
+| 22 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 |
+| 23 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 |
+| 24 | [Enkeli](https://open.spotify.com/track/24nWnuX84FdKgpDCZgg3tQ) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Enkeli](https://open.spotify.com/album/68BaBbcSTIuakL0CHamIBt) | 2:50 |
 | 25 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
 | 26 | [unissasi](https://open.spotify.com/track/1AuJHvZaR7v0Q8kXtmEqTi) | [ILON](https://open.spotify.com/artist/40sIqI3UYyunS5uyEVILIa) | [unissasi](https://open.spotify.com/album/3Ybsu2UNx8DNLPP50Kkp4Y) | 2:45 |
 | 27 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 91 | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Ei hyvää ilman pahaa \(feat\. Jami Faltin\)](https://open.spotify.com/album/4AiGX40bV04dmI9Fq2a08y) | 2:37 |
 | 92 | [Jäävuorii](https://open.spotify.com/track/17KVNRBrEV9Y1l0l6jbr3t) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Jäävuorii](https://open.spotify.com/album/3LKRIasfmbfoFhFQJZ5a5O) | 4:05 |
 
-Snapshot ID: `aAFsEwAAAACVLWQ4D3Ljhx0Qub+RNAJ9`
+Snapshot ID: `aAOySgAAAACrFPzVpyS/zsbtVH4iNrG/`

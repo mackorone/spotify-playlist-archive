@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93263,
+  "num_followers": 93266,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
-    },
-    {
-      "added_at": "2025-04-17 22:00:06",
-      "album": {
         "name": "A Fragile Thing",
         "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 283086,
       "name": "A Fragile Thing",
       "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
+    },
+    {
+      "added_at": "2025-04-17 22:00:06",
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
+        "name": "Somliga av oss",
+        "url": "https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Det b\u00e4sta av allt",
+      "url": "https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq"
+    },
+    {
+      "added_at": "2025-04-17 22:00:06",
+      "album": {
         "name": "Hver Gang Vi M\u00f8tes 2025",
         "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 180677,
       "name": "Mamma sa",
       "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
-    },
-    {
-      "added_at": "2025-04-17 22:00:06",
-      "album": {
-        "name": "Somliga av oss",
-        "url": "https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Det b\u00e4sta av allt",
-      "url": "https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "Where Flowers Grow",
-        "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
+        "name": "Alla Tittar P\u00e5 Mig",
+        "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
       },
       "artists": [
         {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
+      "duration_ms": 144586,
+      "name": "Alla Tittar P\u00e5 Mig",
+      "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -851,18 +851,34 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "Alla Tittar P\u00e5 Mig",
-        "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "Weeping Willows",
+          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
         }
       ],
-      "duration_ms": 144586,
-      "name": "Alla Tittar P\u00e5 Mig",
-      "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
+      "duration_ms": 242013,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
+    },
+    {
+      "added_at": "2025-04-17 22:00:06",
+      "album": {
+        "name": "Where Flowers Grow",
+        "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -883,34 +899,18 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "Swan Song",
-        "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
+        "name": "EN D\u00d6ENDE PLANET",
+        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
       },
       "artists": [
         {
-          "name": "Weeping Willows",
-          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Swan Song",
-      "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
-    },
-    {
-      "added_at": "2025-04-17 22:00:06",
-      "album": {
-        "name": "Uteblivna vi",
-        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
-      },
-      "artists": [
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 362920,
-      "name": "Uteblivna vi",
-      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
+      "duration_ms": 243529,
+      "name": "EN D\u00d6ENDE PLANET",
+      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+        "name": "Uteblivna vi",
+        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
       },
       "artists": [
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
         }
       ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+      "duration_ms": 362920,
+      "name": "Uteblivna vi",
+      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "EN D\u00d6ENDE PLANET",
-        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
       "artists": [
         {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 243529,
-      "name": "EN D\u00d6ENDE PLANET",
-      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -991,22 +991,6 @@
       "duration_ms": 174054,
       "name": "Ingen annan",
       "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
-    },
-    {
-      "added_at": "2025-04-17 22:00:06",
-      "album": {
-        "name": "Fyllda Av Sommar",
-        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 204287,
-      "name": "Fyllda Av Sommar",
-      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "Discomforts",
-        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+        "name": "Fyllda Av Sommar",
+        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
         }
       ],
-      "duration_ms": 168497,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+      "duration_ms": 204287,
+      "name": "Fyllda Av Sommar",
+      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -1071,6 +1055,22 @@
       "duration_ms": 178826,
       "name": "Hit men inte l\u00e4ngre",
       "url": "https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp"
+    },
+    {
+      "added_at": "2025-04-17 22:00:06",
+      "album": {
+        "name": "Discomforts",
+        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 168497,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "All I See Is You",
-        "url": "https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY"
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
       },
       "artists": [
         {
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
         }
       ],
-      "duration_ms": 157040,
-      "name": "All I See Is You",
-      "url": "https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4"
+      "duration_ms": 213905,
+      "name": "Will You Run Away With Me",
+      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 172838,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
-    },
-    {
-      "added_at": "2025-04-17 22:00:06",
-      "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/1dtyicmDm2kBFPmwMLdVMu"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 172838,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
+    },
+    {
+      "added_at": "2025-04-17 22:00:06",
+      "album": {
         "name": "Via Dolorosa",
         "url": "https://open.spotify.com/album/1n5WdaQJKAG8NTUq2M8d0f"
       },
@@ -1335,8 +1335,8 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
+        "name": "All I See Is You",
+        "url": "https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY"
       },
       "artists": [
         {
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
         }
       ],
-      "duration_ms": 213905,
-      "name": "Will You Run Away With Me",
-      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
+      "duration_ms": 157040,
+      "name": "All I See Is You",
+      "url": "https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
-        "url": "https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 180627,
-      "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
-      "url": "https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o"
-    },
-    {
-      "added_at": "2025-04-17 22:00:06",
-      "album": {
         "name": "T\u00e4nd hela himlen",
         "url": "https://open.spotify.com/album/60e3dAefZyr9y6FosBHqiT"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 193417,
       "name": "T\u00e4nd hela himlen",
       "url": "https://open.spotify.com/track/2LEsVPAC8rD2mh6px5wlRA"
+    },
+    {
+      "added_at": "2025-04-17 22:00:06",
+      "album": {
+        "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
+        "url": "https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 180627,
+      "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
+      "url": "https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o"
     },
     {
       "added_at": "2025-04-17 22:00:06",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2025-04-17 22:00:06",
       "album": {
-        "name": "It\u2019s Time",
-        "url": "https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG"
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/7vftI6sRQGbJrTstCjbr6t"
       },
       "artists": [
         {
-          "name": "Maskinisten",
-          "url": "https://open.spotify.com/artist/7EqcInpJPb4pRMPyEvUKRR"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 226738,
-      "name": "It\u2019s Time",
-      "url": "https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG"
+      "duration_ms": 223908,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/1cVhitY0LNYiskEEIwSANH"
     }
   ],
   "unique_name": "Aktuellt",

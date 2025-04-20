@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-521 songs - 2 day 2 hr 28 min
+522 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-09-29 |  |
 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 | 2024-11-15 |  |
 | [Calvary's Enough](https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Calvary's Enough](https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8) | 3:17 | 2023-10-06 | 2023-12-15 |
-| [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 | 2023-12-15 |  |
+| [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 | 2023-12-15 | 2025-04-20 |
 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2022-06-30 |  |
 | [Chinedum](https://open.spotify.com/track/2Ec5ca9NM0Rwb0MddtQSHI) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Chinedum](https://open.spotify.com/album/5V0vhc3p1EllrWsBNQR6Hh) | 4:40 | 2023-09-29 | 2023-10-26 |
 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 | 2022-06-30 | 2023-01-20 |
@@ -150,6 +150,7 @@
 | [Glorious Day \- Live](https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 4:58 | 2025-01-27 | 2025-02-02 |
 | [Glory \(Live\)](https://open.spotify.com/track/0iymH5SFw2bAkOaBBoLFB2) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Glory \(Live\)](https://open.spotify.com/album/0tFBkbECWVx5PF18ZNAral) | 5:37 | 2024-11-08 | 2024-11-15 |
 | [Glory On The Other Side](https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side](https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo) | 4:59 | 2024-09-27 | 2024-10-18 |
+| [God Is Alive](https://open.spotify.com/track/5avTXXUA36ekHDaec72R6m) | [Pacome BenHaelohim](https://open.spotify.com/artist/4Ytvgrankp38Tw46uJwPOj), [Sarepta Faveur](https://open.spotify.com/artist/1R5Ud8jFIhhFfUXnVmmjPE) | [Chayyim](https://open.spotify.com/album/1WvT2OBu7myGedtQHAgkai) | 6:15 | 2025-04-19 |  |
 | [God Is with Us](https://open.spotify.com/track/1HcpdLzAcySmIAPUUZ5m7L) | [Ebube Immanuel](https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp) | [God Is with Us](https://open.spotify.com/album/2Pw52yj3lRX7VGuMp10hab) | 4:28 | 2024-07-12 | 2024-07-27 |
 | [God of Miracles](https://open.spotify.com/track/0pILKxYDI5oilUN52AebIu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 5:20 | 2022-06-30 | 2023-09-03 |
 | [God Really Loves Us \- Live From Passion 2022](https://open.spotify.com/track/1jn04FVADgMstxG6WyBbX5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 4:26 | 2025-01-27 | 2025-02-02 |

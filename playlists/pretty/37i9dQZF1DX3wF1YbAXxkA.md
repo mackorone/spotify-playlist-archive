@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,474 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,583 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 76 | [Everybody's Different](https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 4:00 |
 | 77 | [GOODTIME](https://open.spotify.com/track/3CN6YEns6bX9k88E49tFbu) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [GOODTIME](https://open.spotify.com/album/0hSOM2pULHVVCgOyI98rHy) | 2:44 |
 | 78 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
-| 79 | [Villains](https://open.spotify.com/track/3xFjz2vlzkyty4vUCs6HFo) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Villains](https://open.spotify.com/album/6P5bTg5CNgTGdECjcdUZfU) | 3:12 |
-| 80 | [NOBODY // ME](https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [NOBODY // ME](https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4) | 3:35 |
-| 81 | [Richer](https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Richer](https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi) | 2:57 |
+| 79 | [NOBODY // ME](https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [NOBODY // ME](https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4) | 3:35 |
+| 80 | [Richer](https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Richer](https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi) | 2:57 |
+| 81 | [Villains](https://open.spotify.com/track/3xFjz2vlzkyty4vUCs6HFo) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Villains](https://open.spotify.com/album/6P5bTg5CNgTGdECjcdUZfU) | 3:12 |
 | 82 | [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 |
 | 83 | [Big Man](https://open.spotify.com/track/10vuEcEgX3uG7NNf4rAp7k) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/68jC22x5sVxqj9GJHziVr8) | 4:13 |
 | 84 | [Blindside](https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Blindside](https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk) | 2:54 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 90 | [samba de rua](https://open.spotify.com/track/2KAA9pNM75emBljtHSzwYr) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [samba de rua](https://open.spotify.com/album/09yJxhmXzfP1BVwgOOJdmr) | 2:34 |
 | 91 | [Fighter](https://open.spotify.com/track/7voFl01BoIdLzFRNDPjjc7) | [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Fighter](https://open.spotify.com/album/7JkXyHCZGVaCrogkuS1j6K) | 3:22 |
 | 92 | [BABE](https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BABE](https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn) | 2:27 |
-| 93 | [A.T.A](https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [A.T.A](https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd) | 2:09 |
-| 94 | [Billete](https://open.spotify.com/track/1SZJ4NWbgf6i8Clttt1Wq4) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Hombres También Lloran](https://open.spotify.com/album/16w7wDjUaxn5XGoWMaSgj2) | 2:11 |
+| 93 | [Billete](https://open.spotify.com/track/1SZJ4NWbgf6i8Clttt1Wq4) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Hombres También Lloran](https://open.spotify.com/album/16w7wDjUaxn5XGoWMaSgj2) | 2:11 |
+| 94 | [A.T.A](https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [A.T.A](https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd) | 2:09 |
 | 95 | [Hey Hey Hey](https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ) | [Hey Hey Hey](https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e) | 2:53 |
 | 96 | [Tomorrow Man](https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 2:46 |
 | 97 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |

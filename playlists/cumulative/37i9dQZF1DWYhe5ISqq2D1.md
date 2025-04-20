@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 清水翔太
 
-568 songs - 1 day 12 hr 19 min
+570 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [リアルタイムシンガーソングライター](https://open.spotify.com/track/6v4ZXXpTjf3qp27clLZkMm) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [リアルタイムシンガーソングライター](https://open.spotify.com/album/6BzlZed8i1DMcJdToU0n4l) | 5:20 | 2024-12-24 | 2025-02-07 |
 | [リズ](https://open.spotify.com/track/5ZEFKttTKRneIvAiumkulK) | [由 \-iu\-](https://open.spotify.com/artist/2Oo2GKkVK7cTVkB80yAxz1) | [風に乗って](https://open.spotify.com/album/4N7hFU2PmQe9JkDZkbDWkG) | 4:47 | 2025-03-25 | 2025-04-02 |
 | [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-07-02 | 2024-07-31 |
-| [ルーツ](https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [ルーツ](https://open.spotify.com/album/2oHZkXP1kzX5USWN7rT6dc) | 3:15 | 2024-12-03 |  |
+| [ルーツ](https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [ルーツ](https://open.spotify.com/album/2oHZkXP1kzX5USWN7rT6dc) | 3:15 | 2024-12-03 | 2025-04-20 |
 | [レモネード](https://open.spotify.com/track/7j3glm5d39tG8xWFCVEfA5) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [レモネード](https://open.spotify.com/album/2kcXILwRsaIlDbnyCrhDx5) | 3:26 | 2024-10-01 | 2025-01-06 |
 | [レンズ](https://open.spotify.com/track/7tpqFaSHJV0pKD9pOyTWtc) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [レンズ](https://open.spotify.com/album/6FzDCkVE0t0VsqdKhyGP4c) | 3:58 | 2024-12-24 |  |
 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 | 2024-07-02 | 2024-07-10 |
@@ -436,7 +436,7 @@
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2024-07-02 | 2024-07-10 |
 | [初ＫＯ勝ち](https://open.spotify.com/track/1CgrzghxC7VBPNHrAPqFab) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [のっち](https://open.spotify.com/artist/1Y1Uce4qIuL8b1fOMpZZoV) | [初ＫＯ勝ち](https://open.spotify.com/album/65MDsIZ8w32fVfbFhz68gH) | 3:31 | 2024-07-02 | 2024-07-29 |
 | [包帯](https://open.spotify.com/track/17K79g6BKzDGRcqycIIXcQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [包帯](https://open.spotify.com/album/7FSz65qsiE1PoCfgl1HL1Y) | 3:35 | 2024-09-03 | 2024-12-25 |
-| [午後二時の通り雨](https://open.spotify.com/track/51Z4HhqC0DljkAmYeFDRmx) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [手のひら望遠鏡](https://open.spotify.com/album/6nZLHAV76GXfH2CqSBnl6O) | 3:06 | 2024-11-19 |  |
+| [午後二時の通り雨](https://open.spotify.com/track/51Z4HhqC0DljkAmYeFDRmx) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [手のひら望遠鏡](https://open.spotify.com/album/6nZLHAV76GXfH2CqSBnl6O) | 3:06 | 2024-11-19 | 2025-04-20 |
 | [叫ぼう](https://open.spotify.com/track/07k4QmppKWu2hqMufPkIbH) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo) | [叫ぼう／必然](https://open.spotify.com/album/6BwipEeQgqd7QDkYpqKZRM) | 4:20 | 2024-10-08 | 2024-11-06 |
 | [君のヒーロー](https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [君のヒーロー](https://open.spotify.com/album/6r2CYwG0Na2anxJmUmP9Wh) | 3:32 | 2024-12-03 | 2025-01-22 |
 | [君らしくね](https://open.spotify.com/track/1u0E7qCy28RMKJ2Ih1tFrn) | [渋谷すばる](https://open.spotify.com/artist/7KVGeQvCQQLOKxSaYi7xva) | [君らしくね](https://open.spotify.com/album/6vspPddDcRijWl90WVTLFG) | 3:29 | 2024-09-17 | 2024-09-25 |
@@ -466,6 +466,7 @@
 | [幸せな約束。](https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [軌跡](https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt) | 3:49 | 2025-01-14 |  |
 | [幸せのレシピ](https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [幸せのレシピ](https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL) | 3:12 | 2025-01-14 |  |
 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-08-06 | 2024-12-25 |
+| [徘徊](https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [徘徊](https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH) | 3:11 | 2025-04-15 |  |
 | [快晴浪漫](https://open.spotify.com/track/19nqy9tmxZ7GvqesKym1PR) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [快晴浪漫](https://open.spotify.com/album/2ROR9v4EDlZOLiZKRPA5py) | 4:39 | 2024-07-09 | 2024-07-17 |
 | [怪物](https://open.spotify.com/track/048PMBca62rmCNnGt4eEp0) | [Shigeru Izumiya](https://open.spotify.com/artist/2cEudNpRawXl3CAGMNYsLS) | [怪物](https://open.spotify.com/album/3fITb3Ay7HqTO4ilSCJ3yP) | 8:36 | 2025-02-11 | 2025-02-19 |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2024-07-02 | 2024-10-16 |
@@ -543,6 +544,7 @@
 | [群衆フライデー](https://open.spotify.com/track/59eAiIIFsvA1LY2fY87Dj9) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI) | [群衆フライデー](https://open.spotify.com/album/05FuBLsysXMHxyIX7MlePl) | 4:21 | 2025-03-25 | 2025-04-02 |
 | [色のこと](https://open.spotify.com/track/0GYJxE1TJmgV8oAGKa8Mjm) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [色のこと](https://open.spotify.com/album/4Lpwpe755z8MXeF431RHEr) | 4:08 | 2024-07-26 | 2024-07-31 |
 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 | 2024-07-02 | 2024-12-25 |
+| [花びら](https://open.spotify.com/track/7gMNavGjdzfwD1wKSRYATy) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [花びら](https://open.spotify.com/album/6hhUahDB8VJmSGP22Gyy4e) | 2:58 | 2025-04-15 |  |
 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 | 2024-12-24 | 2025-01-08 |
 | [花束](https://open.spotify.com/track/1j8ZWc6c4IejNInJKpiIOL) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [花束](https://open.spotify.com/album/7sl4LhEZ6Wcet1ZHvg7ovJ) | 3:41 | 2025-03-11 | 2025-03-19 |
 | [花筏](https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [花筏](https://open.spotify.com/album/5AF20QdRUuCy6hpNO4KKIf) | 4:35 | 2024-07-02 | 2024-07-29 |

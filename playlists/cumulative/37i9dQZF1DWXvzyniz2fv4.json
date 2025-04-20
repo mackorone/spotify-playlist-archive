@@ -653,6 +653,32 @@
     },
     {
       "album": {
+        "name": "Brisa Errada",
+        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DaluzzZ",
+          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123582,
+      "name": "Brisa Errada",
+      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
+    },
+    {
+      "album": {
         "name": "MIXTRAPISEIRO",
         "url": "https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY"
       },
@@ -2288,7 +2314,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"

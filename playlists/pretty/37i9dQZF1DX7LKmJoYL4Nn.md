@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,981 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,003 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 65 | [ROCK ROAR \- Game Edit](https://open.spotify.com/track/6ScjwtZQgKtgG7KVIJZAgk) | [デッドマンズ／朔間 零\(CV.増田 俊樹\)、蓮巳 敬人\(CV.梅原 裕一郎\)、大神 晃牙\(CV.小野 友樹\)、鬼龍 紅郎 \(CV.神尾 晋一郎\)](https://open.spotify.com/artist/15JhHuwM0wSTUl0muVA45Z) | [あんさんぶるスターズ！！ デッドマンズ「ROCK ROAR」 \(Game Edit\)](https://open.spotify.com/album/0U1g4lLPkcJdib2IiK2cSU) | 2:30 |
 | 66 | [金色千夜夢舞台 \- Game Edit](https://open.spotify.com/track/7bF8aiQ2Y0HywixEytUCgT) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！！ 紅月「金色千夜夢舞台」 \(Game Edit\)](https://open.spotify.com/album/5L23YPqnArhqqm50NFHbTW) | 2:36 |
 | 67 | [エンドレスヴィーデ \- Game Edit](https://open.spotify.com/track/1Y3zlrI3V32ljmtFDjPgHY) | [フラタニティ/氷鷹 北斗\(CV.前野 智昭\)、朱桜 司\(CV.土田 玲央\)、朔間 零\(CV.増田 俊樹\)、斎宮 宗\(CV.高橋 広樹\)、天城 燐音\(CV.阿座上 洋平\)](https://open.spotify.com/artist/5bPtVx4Mln56ZipwGTI0ZP) | [あんさんぶるスターズ！！ フラタニティ「エンドレスヴィーデ」 \(Game Edit\)](https://open.spotify.com/album/0OUW7LbjLcSY3WP9Xu7VBv) | 2:12 |
-| 68 | [FIST OF SOUL \- Game Edit](https://open.spotify.com/track/6KoEvtzvvZRWh10iNVwSpu) | [舞闘会/鬼龍 紅郎 \(CV.神尾 晋一郎\)、三毛縞 斑\(CV.鳥海 浩輔\)、南雲 鉄虎\(CV.中島 ヨシキ\)、乙狩 アドニス\(CV.羽多野 渉\)、漣 ジュン\(CV.内田 雄馬\)](https://open.spotify.com/artist/01sNMVJuLy4CjPVHEYTozI) | [あんさんぶるスターズ！！ 舞闘会「FIST OF SOUL」 \(Game Edit\)](https://open.spotify.com/album/30bF3IeHVpc0Ny9qFnvzNX) | 2:34 |
-| 69 | [Awakening Myth](https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 \(vol.6\)](https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ) | 3:54 |
+| 68 | [Awakening Myth](https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 \(vol.6\)](https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ) | 3:54 |
+| 69 | [FIST OF SOUL \- Game Edit](https://open.spotify.com/track/6KoEvtzvvZRWh10iNVwSpu) | [舞闘会/鬼龍 紅郎 \(CV.神尾 晋一郎\)、三毛縞 斑\(CV.鳥海 浩輔\)、南雲 鉄虎\(CV.中島 ヨシキ\)、乙狩 アドニス\(CV.羽多野 渉\)、漣 ジュン\(CV.内田 雄馬\)](https://open.spotify.com/artist/01sNMVJuLy4CjPVHEYTozI) | [あんさんぶるスターズ！！ 舞闘会「FIST OF SOUL」 \(Game Edit\)](https://open.spotify.com/album/30bF3IeHVpc0Ny9qFnvzNX) | 2:34 |
 | 70 | [Article of Faith](https://open.spotify.com/track/35EjeiSultt0Ooo7vKM8DX) | [Knights/月永レオ\(CV.浅沼晋太郎\)、瀬名泉\(CV.伊藤マサミ\)、朔間凛月\(CV.山下大輝\)、鳴上嵐\(CV.北村諒\)、朱桜司\(CV.土田玲央\)](https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 5:21 |
 | 71 | [夏鳥の詩 \-サマーバード\- \- Game Edit](https://open.spotify.com/track/7ILrFq6VkqmCx8LdrXooRL) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！！ 紅月「夏鳥の詩 \-サマーバード\-」 \(Game Edit\)](https://open.spotify.com/album/5pwjlcxQkjJ16XRN7TPFvf) | 2:28 |
 | 72 | [Trap For You](https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:08 |

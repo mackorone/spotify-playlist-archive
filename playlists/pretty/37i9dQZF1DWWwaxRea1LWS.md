@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT celebrates International Guitar Month with this mix of 80s face\-melters and iconic riffs\. Cover: Eddie Van Halen
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,319,425 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,319,365 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

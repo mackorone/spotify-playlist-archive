@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 17644,
+  "num_followers": 17645,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Grzybnia",
+        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 173486,
+      "name": "Kozak",
+      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Recut",
         "url": "https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 237482,
       "name": "Zima",
       "url": "https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Grzybnia",
-        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 173486,
-      "name": "Kozak",
-      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Nie Ma Ziemi Nad Kujawy",
+        "url": "https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j"
+      },
+      "artists": [
+        {
+          "name": "ZPiT Ziemia Bydgoska",
+          "url": "https://open.spotify.com/artist/1NaG7uZH1hkCPFi7brEolY"
+        }
+      ],
+      "duration_ms": 107826,
+      "name": "Oberek Kujawski Ze Szwankowa",
+      "url": "https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Wsp\u00f3\u0142g\u0142osy",
         "url": "https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 91803,
       "name": "Gospel Song",
       "url": "https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Nie Ma Ziemi Nad Kujawy",
-        "url": "https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j"
-      },
-      "artists": [
-        {
-          "name": "ZPiT Ziemia Bydgoska",
-          "url": "https://open.spotify.com/artist/1NaG7uZH1hkCPFi7brEolY"
-        }
-      ],
-      "duration_ms": 107826,
-      "name": "Oberek Kujawski Ze Szwankowa",
-      "url": "https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p"
     },
     {
       "added_at": "2025-04-06 08:27:45",

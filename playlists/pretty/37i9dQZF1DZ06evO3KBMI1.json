@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 72627,
+  "num_followers": 72633,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAABWRLTHwx70uvzR5Wxtdtqb",
+  "snapshot_id": "aAGWAAAAAABnZ3bFyCKWcc2hhBCl5d14",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fight For Liberty / Wizard CLUB",
-        "url": "https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Fight For Liberty",
-      "url": "https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neo SOUND BEST",
         "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 334026,
       "name": "\u6fc0\u52d5",
       "url": "https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fight For Liberty / Wizard CLUB",
+        "url": "https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Fight For Liberty",
+      "url": "https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "MONDO PIECE",
-      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 312746,
       "name": "AFTER LIFE",
       "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "MONDO PIECE",
+      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AVALANCHE",
-        "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "AVALANCHE",
-      "url": "https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 267893,
       "name": "OXYMORON",
       "url": "https://open.spotify.com/track/23Wc7OK7cvKfwsnplGBi0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x"
     },
     {
       "added_at": null,

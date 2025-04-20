@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe con Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,123 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,163 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 82 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 |
 | 83 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
 | 84 | [La Salvación](https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Salvación](https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC) | 4:45 |
-| 85 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
-| 86 | [El imperio contraataca](https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf) | [LOS NIKIS](https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS) | [Marines A Pleno Sol](https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539) | 3:12 |
+| 85 | [El imperio contraataca](https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf) | [LOS NIKIS](https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS) | [Marines A Pleno Sol](https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539) | 3:12 |
+| 86 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
 | 87 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 |
 | 88 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
 | 89 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 94 | [Frío \(con Fito y Fitipaldis, Tarque y Rosendo\)](https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57) | [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p) | [Un día nada más](https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x) | 4:09 |
 | 95 | [Cowboys de la A3](https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Cowboys de la A3](https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH) | 4:36 |
 | 96 | [Me Vuelves Puto Loco](https://open.spotify.com/track/4tzxgcaoO6D4zn0AEYiXSt) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Me Vuelves Puto Loco](https://open.spotify.com/album/65fYJ12gYDLZOHUvnT81PO) | 2:59 |
-| 97 | [Two Parts In One \(Cruce de Caminos\)](https://open.spotify.com/track/5eZZe4fakhCROBtsQY3NHs) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Two Parts In One \(Cruce de Caminos\)](https://open.spotify.com/album/5IQrSIanSUAfRcj29KKIm0) | 4:09 |
-| 98 | [Cien gaviotas](https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [20 años de canciones](https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3) | 2:49 |
-| 99 | [En Blanco Y Negro](https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Los Singles](https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG) | 4:05 |
+| 97 | [Cien gaviotas](https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [20 años de canciones](https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3) | 2:49 |
+| 98 | [En Blanco Y Negro](https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Los Singles](https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG) | 4:05 |
+| 99 | [Two Parts In One \(Cruce de Caminos\)](https://open.spotify.com/track/5eZZe4fakhCROBtsQY3NHs) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Two Parts In One \(Cruce de Caminos\)](https://open.spotify.com/album/5IQrSIanSUAfRcj29KKIm0) | 4:09 |
 | 100 | [Que Hace una Chica Como Tu en un Sitio Como Este](https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:07 |
 
 Snapshot ID: `Z/g/cgAAAACYfMgTMPLYPWTLcMpug4Fd`

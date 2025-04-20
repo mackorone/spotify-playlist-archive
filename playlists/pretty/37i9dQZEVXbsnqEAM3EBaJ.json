@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAA6zwj4JFJQ4Bp1ZbyPjCwA",
+  "snapshot_id": "AAAAAAAAAAC6lJerWobxa8xCHWrXP4QM",
   "tracks": [
     {
       "added_at": "2025-04-18 04:00:00",
@@ -39,22 +39,6 @@
       "duration_ms": 220800,
       "name": "Adrenaline Addict",
       "url": "https://open.spotify.com/track/5Yi6eWcwVdEb9Cl8KPxLrB"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Sofa (Of My Lethargy)",
-        "url": "https://open.spotify.com/album/6UTxEJFPtfnXpe1gWVEAe6"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 237981,
-      "name": "Sofa (Of My Lethargy) - Radio Edit",
-      "url": "https://open.spotify.com/track/6A8TMpLQL4a6pCFPDYkyg6"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -95,38 +79,18 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Blind Spot",
-        "url": "https://open.spotify.com/album/7uApA7LL0do3kqf671TWOg"
+        "name": "Sofa (Of My Lethargy)",
+        "url": "https://open.spotify.com/album/6UTxEJFPtfnXpe1gWVEAe6"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Blind Spot",
-      "url": "https://open.spotify.com/track/1G9NKmN4q6KG9lT6p7Q3Cu"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Deepest",
-        "url": "https://open.spotify.com/album/2cJJEC1xUABOEwqCFEWXpc"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        },
-        {
-          "name": "Tilda Swinton",
-          "url": "https://open.spotify.com/artist/6MIvzbV3vHoilc0qKVKMrX"
-        }
-      ],
-      "duration_ms": 284685,
-      "name": "Deepest - Edit",
-      "url": "https://open.spotify.com/track/369TCZPg5fhG0z3PqFCZ8z"
+      "duration_ms": 237981,
+      "name": "Sofa (Of My Lethargy) - Radio Edit",
+      "url": "https://open.spotify.com/track/6A8TMpLQL4a6pCFPDYkyg6"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -179,6 +143,94 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
+        "name": "Blind Spot",
+        "url": "https://open.spotify.com/album/7uApA7LL0do3kqf671TWOg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Blind Spot",
+      "url": "https://open.spotify.com/track/1G9NKmN4q6KG9lT6p7Q3Cu"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Deepest",
+        "url": "https://open.spotify.com/album/2cJJEC1xUABOEwqCFEWXpc"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "Tilda Swinton",
+          "url": "https://open.spotify.com/artist/6MIvzbV3vHoilc0qKVKMrX"
+        }
+      ],
+      "duration_ms": 284685,
+      "name": "Deepest - Edit",
+      "url": "https://open.spotify.com/track/369TCZPg5fhG0z3PqFCZ8z"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "ghoulstart",
+        "url": "https://open.spotify.com/album/4sDRcqGcM7o5qZ0eaJPeYj"
+      },
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "duration_ms": 99944,
+      "name": "ghoulstart",
+      "url": "https://open.spotify.com/track/0livin4NsPUWmr2C9eFIra"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/4UE9iLgjXaU4oYmZPqOzN4"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 222035,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3lmgVPbCy1kfJa97mhLI8f"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "SERPIENTE DE MADERA",
+        "url": "https://open.spotify.com/album/3kXwK1YQtEdXKCfJp7iTK1"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Hordatoj",
+          "url": "https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "En la mia",
+      "url": "https://open.spotify.com/track/6PkBxz7ODRoblrIdXPlGxv"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
         "name": "WE PRAY (TWICE Version)",
         "url": "https://open.spotify.com/album/0QOAUAUR20fpa2SK1J0yGy"
       },
@@ -215,46 +267,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Who's Laughing Now",
-        "url": "https://open.spotify.com/album/5SWP3r7Lw6ENV9EHsP4EBi"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        },
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 198457,
-      "name": "Who's Laughing Now",
-      "url": "https://open.spotify.com/track/0ZpLyeA0NJeQ0mVsbje1Bm"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "SERPIENTE DE MADERA",
-        "url": "https://open.spotify.com/album/3kXwK1YQtEdXKCfJp7iTK1"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "Hordatoj",
-          "url": "https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "En la mia",
-      "url": "https://open.spotify.com/track/6PkBxz7ODRoblrIdXPlGxv"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "The Hero's Trial",
         "url": "https://open.spotify.com/album/00a5SQeKpuMwaM9VjQI6K7"
       },
@@ -275,26 +287,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Black Betty",
-        "url": "https://open.spotify.com/album/7DSXr9vHTFdDXq7JH7068E"
-      },
-      "artists": [
-        {
-          "name": "Exit 59",
-          "url": "https://open.spotify.com/artist/0fpFE1iGej6IHMC42N75fp"
-        },
-        {
-          "name": "Ram Jam",
-          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
-        }
-      ],
-      "duration_ms": 284307,
-      "name": "Black Betty - Version A",
-      "url": "https://open.spotify.com/track/5ttGZSzvltPsXssj8HhGTQ"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
         "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
       },
@@ -307,38 +299,6 @@
       "duration_ms": 249960,
       "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
       "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "The Screaming Of The Valkyries",
-        "url": "https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi"
-      },
-      "artists": [
-        {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
-        }
-      ],
-      "duration_ms": 376680,
-      "name": "Demagoguery",
-      "url": "https://open.spotify.com/track/1x77ughFOY7YgArlkGZeZB"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -359,18 +319,18 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "The Squirrely Years Revisited",
-        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
+        "name": "Smash It Like Belushi",
+        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
       },
       "artists": [
         {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 238333,
-      "name": "Revenge - Squirrely Version",
-      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
+      "duration_ms": 168554,
+      "name": "Smash It Like Belushi",
+      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -391,22 +351,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Smash It Like Belushi",
-        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 168554,
-      "name": "Smash It Like Belushi",
-      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Trigger Discipline",
         "url": "https://open.spotify.com/album/7AWqFKgSfA1mS4hmYXSNIV"
       },
@@ -419,6 +363,22 @@
       "duration_ms": 232321,
       "name": "Trigger Discipline",
       "url": "https://open.spotify.com/track/3juGcDx9vNMNEPr6QeF5A5"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "The Squirrely Years Revisited",
+        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Revenge - Squirrely Version",
+      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -439,22 +399,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Tu Esp\u00edritu",
-        "url": "https://open.spotify.com/album/6R1Jb3gI4RkAIluma4scKl"
-      },
-      "artists": [
-        {
-          "name": "Lucybell",
-          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
-        }
-      ],
-      "duration_ms": 211710,
-      "name": "Tu Esp\u00edritu",
-      "url": "https://open.spotify.com/track/3zByplYcYM8f1UPZfp4DLJ"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Lvciferaeon",
         "url": "https://open.spotify.com/album/1PRrNHVsKzyj1dp16wtoDd"
       },
@@ -471,18 +415,18 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+        "name": "Tu Esp\u00edritu",
+        "url": "https://open.spotify.com/album/6R1Jb3gI4RkAIluma4scKl"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
         }
       ],
-      "duration_ms": 225840,
-      "name": "A Million Suns",
-      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
+      "duration_ms": 211710,
+      "name": "Tu Esp\u00edritu",
+      "url": "https://open.spotify.com/track/3zByplYcYM8f1UPZfp4DLJ"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -503,18 +447,18 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Creatures of Chaos",
-        "url": "https://open.spotify.com/album/417069DxvdXoov1vxICCNs"
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
       "artists": [
         {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 200483,
-      "name": "Creatures of Chaos",
-      "url": "https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU"
+      "duration_ms": 225840,
+      "name": "A Million Suns",
+      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -531,6 +475,22 @@
       "duration_ms": 200204,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Creatures of Chaos",
+        "url": "https://open.spotify.com/album/417069DxvdXoov1vxICCNs"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 200483,
+      "name": "Creatures of Chaos",
+      "url": "https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -643,22 +603,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Big Ole Album Vol. 1",
-        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 181806,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Aspiral",
         "url": "https://open.spotify.com/album/3cQch4ohGE1kUeJBSnfMNa"
       },
@@ -723,18 +667,18 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Even If It Kills Me (Reimagined)",
-        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7m6GmsvljjPqLPhEHBuwmE"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 174755,
-      "name": "Even If It Kills Me (Reimagined)",
-      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
+      "duration_ms": 241833,
+      "name": "The Seeker - Unedited Version / Steven Wilson Stereo Mix",
+      "url": "https://open.spotify.com/track/4LfAPBYpVBTaAJ5R3C0PQf"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -755,22 +699,6 @@
       "duration_ms": 184219,
       "name": "Ni Un Segundo M\u00e1s",
       "url": "https://open.spotify.com/track/4UnXfxtpUp5TRgYiWLBB2W"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7m6GmsvljjPqLPhEHBuwmE"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 241833,
-      "name": "The Seeker - Unedited Version / Steven Wilson Stereo Mix",
-      "url": "https://open.spotify.com/track/4LfAPBYpVBTaAJ5R3C0PQf"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -867,22 +795,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Private Dancer (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Private Dancer - Sterling Version",
-      "url": "https://open.spotify.com/track/2zCpxRVfOBkwWoDt2lpbfj"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
       },
@@ -903,26 +815,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Superlover (Feat. Annie Lennox)",
-        "url": "https://open.spotify.com/album/4bl5DXRhQnvujIUBKJ9WIA"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 312602,
-      "name": "Superlover (Feat. Annie Lennox)",
-      "url": "https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
       },
@@ -939,34 +831,6 @@
       "duration_ms": 222701,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "PISANDO FUERTE",
-        "url": "https://open.spotify.com/album/7Dty2jjx3zMCikYGcVdIf5"
-      },
-      "artists": [
-        {
-          "name": "MC TRN",
-          "url": "https://open.spotify.com/artist/30xOpK8rDXJyKtZLtJYRtm"
-        },
-        {
-          "name": "Mandacerio",
-          "url": "https://open.spotify.com/artist/5kCGiXHySW5MV2sJkqJk5W"
-        },
-        {
-          "name": "Bascur",
-          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
-        },
-        {
-          "name": "DJ Vilaz",
-          "url": "https://open.spotify.com/artist/69dgyUAwb7V1mHfZl2poYd"
-        }
-      ],
-      "duration_ms": 222833,
-      "name": "PISANDO FUERTE",
-      "url": "https://open.spotify.com/track/63tLllllAkKrC5gHGQKkZU"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -995,6 +859,34 @@
       "duration_ms": 170622,
       "name": "Now Or Never (F.A.S.T. x & DJ Triple XL Remix)",
       "url": "https://open.spotify.com/track/0ne6OckaYVeDJOMBETFHBC"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "PISANDO FUERTE",
+        "url": "https://open.spotify.com/album/7Dty2jjx3zMCikYGcVdIf5"
+      },
+      "artists": [
+        {
+          "name": "MC TRN",
+          "url": "https://open.spotify.com/artist/30xOpK8rDXJyKtZLtJYRtm"
+        },
+        {
+          "name": "Mandacerio",
+          "url": "https://open.spotify.com/artist/5kCGiXHySW5MV2sJkqJk5W"
+        },
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
+        },
+        {
+          "name": "DJ Vilaz",
+          "url": "https://open.spotify.com/artist/69dgyUAwb7V1mHfZl2poYd"
+        }
+      ],
+      "duration_ms": 222833,
+      "name": "PISANDO FUERTE",
+      "url": "https://open.spotify.com/track/63tLllllAkKrC5gHGQKkZU"
     },
     {
       "added_at": "2025-04-18 04:00:00",

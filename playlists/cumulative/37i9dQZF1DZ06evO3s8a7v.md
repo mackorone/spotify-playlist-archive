@@ -4,7 +4,7 @@
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 40 min
+72 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [BLANCO Y NEGRO](https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:50 | 2024-11-23 |  |
 | [BLANCO Y NEGRO](https://open.spotify.com/track/14Z4eUbgdSzg70JRqyZS60) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BLANCO Y NEGRO](https://open.spotify.com/album/1bADdBH6USOG55rAxPtR2p) | 2:50 | 2024-10-19 | 2024-11-23 |
 | [Bronceado \- Remix](https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Bronceado \(Remix\)](https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2) | 2:36 | 2023-12-15 | 2024-06-12 |
-| [Bronceado \- Remix](https://open.spotify.com/track/3iXtNVICHTu2FEhh3bMWoV) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Bronceado \(Remix\)](https://open.spotify.com/album/5lwilhNb8WxGWuOqHxBlP5) | 2:36 | 2024-06-12 |  |
+| [Bronceado \- Remix](https://open.spotify.com/track/3iXtNVICHTu2FEhh3bMWoV) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Bronceado \(Remix\)](https://open.spotify.com/album/5lwilhNb8WxGWuOqHxBlP5) | 2:36 | 2024-06-12 | 2025-04-20 |
+| [Bronceado \- Remix](https://open.spotify.com/track/5e0oCRJKwwnSViF2EC7BMU) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Marama 10 Años](https://open.spotify.com/album/5QEaSrsQcGcGKa6GEDkjAr) | 2:36 | 2025-04-20 |  |
 | [Calle 2 \- Remix](https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Coscu](https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm) | [Calle 2 \(Remix\)](https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07) | 3:42 | 2023-11-10 |  |
 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 | 2023-11-10 |  |
 | [Como + Nadie](https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Como + Nadie](https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C) | 3:03 | 2023-11-10 |  |

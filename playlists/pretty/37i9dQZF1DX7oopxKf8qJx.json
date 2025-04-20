@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 114580,
+  "num_followers": 114642,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "With Compliments",
+        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "The Third Man - Cinema Gala",
         "url": "https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn"
       },
@@ -63,22 +79,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "With Compliments",
-        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 184520,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "My Way Of Music",
         "url": "https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG"
       },
@@ -91,22 +91,6 @@
       "duration_ms": 150666,
       "name": "Les papillons",
       "url": "https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -127,22 +111,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "The Mancini Pops Orchestra",
-          "url": "https://open.spotify.com/artist/1vxjKNfdi39vzEeA36L31L"
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 207640,
-      "name": "The Summer Knows (From \"Summer of '42\")",
-      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -163,22 +143,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Three O'Clock In The Morning",
-      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Music For Romancing",
         "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
@@ -195,6 +159,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Three O'Clock In The Morning",
+      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Music, Martinis And Memories",
         "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 194880,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "The Mancini Pops Orchestra",
+          "url": "https://open.spotify.com/artist/1vxjKNfdi39vzEeA36L31L"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "The Summer Knows (From \"Summer of '42\")",
+      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Music For Romancing",
         "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 185680,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Hatari!",
-        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Night Side",
-      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 148106,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+        "name": "Hatari!",
+        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
       },
       "artists": [
         {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
+      "duration_ms": 203493,
+      "name": "Night Side",
+      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Moon over Miami",
-      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "The America Album",
         "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 264693,
       "name": "Jean",
       "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Moon over Miami",
+      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music From Hollywood",
-        "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 351559,
-      "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
-      "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Charade",
         "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 179066,
       "name": "Megeve",
       "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Music From Hollywood",
+        "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 351559,
+      "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
+      "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Pops Goes West",
+        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
+      },
+      "artists": [
+        {
+          "name": "Arthur Fiedler",
+          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "duration_ms": 127986,
+      "name": "Buttons and Bows",
+      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Plays Latin Themes For Young Lovers",
         "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 196666,
       "name": "Melancholy Serenade",
       "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Pops Goes West",
-        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
-      },
-      "artists": [
-        {
-          "name": "Arthur Fiedler",
-          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
-        }
-      ],
-      "duration_ms": 127986,
-      "name": "Buttons and Bows",
-      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
     },
     {
       "added_at": "2024-07-17 14:53:29",

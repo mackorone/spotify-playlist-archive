@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 with Dabin",
-  "num_followers": 469862,
+  "num_followers": 469846,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1723,6 +1723,46 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Let Me Out",
+        "url": "https://open.spotify.com/album/1xVqDFUmogPRr2RQ05Kk2a"
+      },
+      "artists": [
+        {
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Let Me Out",
+      "url": "https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "Say What You Mean",
         "url": "https://open.spotify.com/album/1p9XaMzSeW7WjcuzwhiF79"
       },
@@ -1763,46 +1803,6 @@
       "duration_ms": 160400,
       "name": "Taking It Slow",
       "url": "https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "Let Me Out",
-        "url": "https://open.spotify.com/album/1xVqDFUmogPRr2RQ05Kk2a"
-      },
-      "artists": [
-        {
-          "name": "ARAYA",
-          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Let Me Out",
-      "url": "https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2027,30 +2027,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/4vkYIGkp5vQBCbh4F5gQhx"
-      },
-      "artists": [
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "Abandoned",
-          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/5m4Y2sEGkSQQhJK5ENFkGk"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4d1KJTdwMU2QxUiSc8U4t1"
       },
@@ -2151,6 +2127,30 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/4vkYIGkp5vQBCbh4F5gQhx"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Abandoned",
+          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/5m4Y2sEGkSQQhJK5ENFkGk"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "The Nature of Hope",
         "url": "https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm"
       },
@@ -2163,30 +2163,6 @@
       "duration_ms": 210206,
       "name": "Straight Into The Ground",
       "url": "https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 200575,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2235,22 +2211,46 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2"
       },
       "artists": [
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl"
+      "duration_ms": 200575,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Elysian Fields",
+        "url": "https://open.spotify.com/album/5ttdnzEUkTLtSLkIaE0jZ1"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "A Hundred Drums",
+          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+        }
+      ],
+      "duration_ms": 207887,
+      "name": "Elysian Fields",
+      "url": "https://open.spotify.com/track/3MyUhaoPmjq0vNRP53qtNz"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2267,6 +2267,26 @@
       "duration_ms": 270000,
       "name": "My Demons",
       "url": "https://open.spotify.com/track/31Mn08SEsadcIXVqWPGsqO"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Someone To Forget",
+        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Someone To Forget",
+      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2291,22 +2311,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Elysian Fields",
-        "url": "https://open.spotify.com/album/5ttdnzEUkTLtSLkIaE0jZ1"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj"
       },
       "artists": [
         {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         },
         {
-          "name": "A Hundred Drums",
-          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
         }
       ],
-      "duration_ms": 207887,
-      "name": "Elysian Fields",
-      "url": "https://open.spotify.com/track/3MyUhaoPmjq0vNRP53qtNz"
+      "duration_ms": 240000,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2335,26 +2355,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Someone To Forget",
-        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Someone To Forget",
-      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
       },
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/3ajS8E0sijasHYpPP25Bxf"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Something For Your Mind",
+      "url": "https://open.spotify.com/track/46EGyxJ2V0rk13jUlIGL6s"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
         "name": "LUNAR-1",
         "url": "https://open.spotify.com/album/23rPVLn3A5y1qn2DVZh7bv"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 220800,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/67JGqNjFnv6Dw1RAdTDcR8"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/3ajS8E0sijasHYpPP25Bxf"
-      },
-      "artists": [
-        {
-          "name": "An-Ten-Nae",
-          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Something For Your Mind",
-      "url": "https://open.spotify.com/track/46EGyxJ2V0rk13jUlIGL6s"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2551,26 +2551,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Someone You Forget",
-        "url": "https://open.spotify.com/album/2D2ektN5qMfIV98wsZbwNg"
-      },
-      "artists": [
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Armen Paul",
-          "url": "https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk"
-        }
-      ],
-      "duration_ms": 323555,
-      "name": "Someone You Forget",
-      "url": "https://open.spotify.com/track/1oLxRluTxUVVsp4k86y21R"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Dancing With Myself",
         "url": "https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00"
       },
@@ -2591,18 +2571,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Where We Begin EP",
-        "url": "https://open.spotify.com/album/5gVLOOdehYVlQZrRXbIf5G"
+        "name": "Someone You Forget",
+        "url": "https://open.spotify.com/album/2D2ektN5qMfIV98wsZbwNg"
       },
       "artists": [
         {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Armen Paul",
+          "url": "https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk"
         }
       ],
-      "duration_ms": 242250,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/1eO9MlZBzOvH4FEWKrPUNd"
+      "duration_ms": 323555,
+      "name": "Someone You Forget",
+      "url": "https://open.spotify.com/track/1oLxRluTxUVVsp4k86y21R"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2623,6 +2607,22 @@
       "duration_ms": 215238,
       "name": "Meet Me In The Middle",
       "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Where We Begin EP",
+        "url": "https://open.spotify.com/album/5gVLOOdehYVlQZrRXbIf5G"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "duration_ms": 242250,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/1eO9MlZBzOvH4FEWKrPUNd"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2671,22 +2671,6 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/0Pjb8nZBlx7muWOH2VZJoy"
       },
@@ -2707,6 +2691,22 @@
       "duration_ms": 192391,
       "name": "Numb",
       "url": "https://open.spotify.com/track/0kMWWZzHQwB5HaIkWhObP5"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2775,22 +2775,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
+        "name": "Ghost Of You",
+        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
       },
       "artists": [
         {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+          "name": "Aye Bay",
+          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
         },
         {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+          "name": "ELLE",
+          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz"
+      "duration_ms": 222439,
+      "name": "Ghost Of You",
+      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2815,42 +2815,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Ghost Of You",
-        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
       },
       "artists": [
         {
-          "name": "Aye Bay",
-          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
         },
         {
-          "name": "ELLE",
-          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
         }
       ],
-      "duration_ms": 222439,
-      "name": "Ghost Of You",
-      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
-    },
-    {
-      "added_at": "2025-04-11 04:00:36",
-      "album": {
-        "name": "Don't Turn Back",
-        "url": "https://open.spotify.com/album/2P3UyvYnyIpXHzMnZpGlFE"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 240596,
-      "name": "Don't Turn Back",
-      "url": "https://open.spotify.com/track/6ntkpYujaAiblBWTCwbH92"
+      "duration_ms": 248400,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -2871,6 +2851,26 @@
       "duration_ms": 228333,
       "name": "Violet Sky (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
+    },
+    {
+      "added_at": "2025-04-11 04:00:36",
+      "album": {
+        "name": "Don't Turn Back",
+        "url": "https://open.spotify.com/album/2P3UyvYnyIpXHzMnZpGlFE"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 240596,
+      "name": "Don't Turn Back",
+      "url": "https://open.spotify.com/track/6ntkpYujaAiblBWTCwbH92"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -3043,22 +3043,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/7JDPq2m2r8VV5oqcpQ5sid"
+        "name": "Good in Goodbye",
+        "url": "https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH"
       },
       "artists": [
         {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
         },
         {
-          "name": "Luxtides",
-          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
         }
       ],
-      "duration_ms": 298736,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/2dfhrd0GPiffQjHaGWQCiE"
+      "duration_ms": 180000,
+      "name": "Good in Goodbye",
+      "url": "https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV"
     },
     {
       "added_at": "2025-04-11 04:00:36",
@@ -3087,22 +3087,22 @@
     {
       "added_at": "2025-04-11 04:00:36",
       "album": {
-        "name": "Good in Goodbye",
-        "url": "https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH"
+        "name": "Salvage",
+        "url": "https://open.spotify.com/album/76O98yEsB6i0hzdp1upNvP"
       },
       "artists": [
         {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+          "name": "Abandoned",
+          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
         },
         {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+          "name": "HYLIA",
+          "url": "https://open.spotify.com/artist/6zRFKufuh8CGgePzQeIzw8"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Good in Goodbye",
-      "url": "https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV"
+      "duration_ms": 276413,
+      "name": "Salvage",
+      "url": "https://open.spotify.com/track/6Oe2fIOBBnGqZSZbbw7Xb9"
     }
   ],
   "unique_name": "Bass Lounge",

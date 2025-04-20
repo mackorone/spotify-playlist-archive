@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Katy Nichole
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,917 likes - 99 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,972 likes - 99 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

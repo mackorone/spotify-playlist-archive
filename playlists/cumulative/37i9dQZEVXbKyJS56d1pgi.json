@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -5392,7 +5392,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-16",
+      "date_removed": null,
       "duration_ms": 138591,
       "name": "CAVALINHO",
       "url": "https://open.spotify.com/track/1WGmyxoPCfOrk7uT2z3Zuu"
@@ -19797,6 +19797,24 @@
     },
     {
       "album": {
+        "name": "MOXXXPIRII",
+        "url": "https://open.spotify.com/album/0yapDd3A9YI9yV6Yvjbsk0"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "MOXXXPIRII",
+      "url": "https://open.spotify.com/track/3W1L721fuS3pRLrt973Ewc"
+    },
+    {
+      "album": {
         "name": "Mo\u00e7a",
         "url": "https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz"
       },
@@ -21582,6 +21600,24 @@
       "duration_ms": 170290,
       "name": "O Teu Cheiro",
       "url": "https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r"
+    },
+    {
+      "album": {
+        "name": "Entre N\u00f3s",
+        "url": "https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170290,
+      "name": "O teu cheiro",
+      "url": "https://open.spotify.com/track/3D1ehynDwM6z7vgkxogkTT"
     },
     {
       "album": {
@@ -24268,7 +24304,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 160625,
       "name": "P\u00f4r do Sol",
       "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
@@ -28000,7 +28036,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
@@ -29150,7 +29186,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 159751,
       "name": "Tata",
       "url": "https://open.spotify.com/track/0fPOFtS7ZylYKcC9b64cSj"
@@ -33818,6 +33854,24 @@
       "duration_ms": 154553,
       "name": "\u00daltima Noite - Solo",
       "url": "https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub"
+    },
+    {
+      "album": {
+        "name": "Entre N\u00f3s",
+        "url": "https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196310,
+      "name": "\u00daltimo beijo",
+      "url": "https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKyJS56d1pgi"

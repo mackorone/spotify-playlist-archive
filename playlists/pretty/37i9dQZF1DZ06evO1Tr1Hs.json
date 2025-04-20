@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 38926,
+  "num_followers": 38963,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAAB2VRHUHezSjIph5wlT7GNT",
+  "snapshot_id": "aAGWAAAAAADVdev0E9v6oRprOhuMMKJX",
   "tracks": [
     {
       "added_at": null,
@@ -179,38 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 148760,
-      "name": "i need u",
-      "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 121957,
-      "name": "Lord Of Chaos",
-      "url": "https://open.spotify.com/track/2Tif3Rjua8qfTCUFP6lFrV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
@@ -231,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "delusional",
-        "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
       "artists": [
         {
@@ -240,9 +208,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 131274,
-      "name": "delusional",
-      "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
+      "duration_ms": 190541,
+      "name": "LiveLeak",
+      "url": "https://open.spotify.com/track/7aURTqVzpZxkJfboCvGc69"
     },
     {
       "added_at": null,
@@ -256,15 +224,15 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 158515,
-      "name": "Jennifer\u2019s Body",
-      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
+      "duration_ms": 148760,
+      "name": "i need u",
+      "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+        "name": "delusional",
+        "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
       },
       "artists": [
         {
@@ -272,9 +240,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 190541,
-      "name": "LiveLeak",
-      "url": "https://open.spotify.com/track/7aURTqVzpZxkJfboCvGc69"
+      "duration_ms": 131274,
+      "name": "delusional",
+      "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
     },
     {
       "added_at": null,
@@ -295,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
       "artists": [
         {
@@ -304,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 186756,
-      "name": "loading",
-      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
+      "duration_ms": 121957,
+      "name": "Lord Of Chaos",
+      "url": "https://open.spotify.com/track/2Tif3Rjua8qfTCUFP6lFrV"
     },
     {
       "added_at": null,
@@ -320,15 +288,15 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 95687,
-      "name": "It\u2019s Over",
-      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
+      "duration_ms": 158515,
+      "name": "Jennifer\u2019s Body",
+      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
       "artists": [
         {
@@ -336,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 172702,
-      "name": "Thx",
-      "url": "https://open.spotify.com/track/4EJaMoBaqhbhGn4KX0vwOU"
+      "duration_ms": 186756,
+      "name": "loading",
+      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
     },
     {
       "added_at": null,
@@ -367,6 +335,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 172702,
+      "name": "Thx",
+      "url": "https://open.spotify.com/track/4EJaMoBaqhbhGn4KX0vwOU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 95687,
+      "name": "It\u2019s Over",
+      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO STYLIST",
         "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
       },
@@ -387,38 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 124567,
-      "name": "Hardcore",
-      "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 150386,
-      "name": "Trap Jump",
-      "url": "https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
       },
@@ -435,6 +403,38 @@
       "duration_ms": 272364,
       "name": "money & sex",
       "url": "https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/2epSrh6IjiIb2F0O4QLu4b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 124567,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
       "duration_ms": 176578,
       "name": "Murda Musik (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 142287,
+      "name": "Freestyle 3",
+      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
     },
     {
       "added_at": null,

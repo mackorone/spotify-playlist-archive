@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,497 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,517 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 31 | [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 |
 | 32 | [CMGR Theme](https://open.spotify.com/track/32pkOK9wETE4BwlGTRmeeL) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2), [Narendra Doddapaneni](https://open.spotify.com/artist/1DEVUybUdaNx5xCgfRxs59) | [Cameraman Gangatho Rambabu](https://open.spotify.com/album/1DzfUGIuSfToncxjmhNiZY) | 1:53 |
 | 33 | [Arjun & Nani’s Theme](https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:19 |
-| 34 | [Dizzy Dance](https://open.spotify.com/track/58NdvwKBAX4Ml4DNnfUlEW) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:35 |
+| 34 | [Celebration of Vennela](https://open.spotify.com/track/0QQTNr2eNT7Ju3x174in3B) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Dasara \(Telugu\)](https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta) | 0:46 |
 | 35 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 |
-| 36 | [Celebration of Vennela](https://open.spotify.com/track/0QQTNr2eNT7Ju3x174in3B) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Dasara \(Telugu\)](https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta) | 0:46 |
+| 36 | [Dizzy Dance](https://open.spotify.com/track/58NdvwKBAX4Ml4DNnfUlEW) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:35 |
 | 37 | [Rise of Karthikeya](https://open.spotify.com/track/2tdFX0TdftpyaixQ2OJPvE) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Karthikeya](https://open.spotify.com/album/5e0PXRVSqL2hqJ4RysHdTC) | 1:21 |
 | 38 | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/album/3IXz0KiwMcNuwqh4ntRakn) | 1:28 |
 | 39 | [Nenu Na Rakshasi\(Theme\)](https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 1:55 |

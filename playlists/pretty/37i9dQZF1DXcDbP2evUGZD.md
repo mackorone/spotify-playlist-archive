@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2024</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2024 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,292 likes - 88 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,295 likes - 88 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 49 | [haaAakkKKK!!!](https://open.spotify.com/track/0c444u01V64C5zfV5V8m5f) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/44OzoIkxMtGrmnP978PTZY) | 2:52 |
 | 50 | [MUNG](https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:59 |
 | 51 | [Donnie](https://open.spotify.com/track/6pyDWs6IKtSctEsbTRwLOq) | [PAAK](https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL) | [Donnie](https://open.spotify.com/album/3mzKYgxyKMLnrLukzVMrRw) | 3:28 |
-| 52 | [Trabaye](https://open.spotify.com/track/6oU2Y2dRcSkgwxSGgojAxj) | [PAAK](https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL), [EID®](https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv) | [Trabaye](https://open.spotify.com/album/6UYNUNGAQ3yVdWinJpNGgx) | 2:42 |
+| 52 | [Trabaye](https://open.spotify.com/track/6oU2Y2dRcSkgwxSGgojAxj) | [PAAK](https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL), [EID®echoesindream.](https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv) | [Trabaye](https://open.spotify.com/album/6UYNUNGAQ3yVdWinJpNGgx) | 2:42 |
 | 53 | [Play With Me](https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7), [KKANBYEONGZ](https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt) | [Play With Me](https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd) | 2:49 |
 | 54 | [OXO](https://open.spotify.com/track/79Ulc0SbeRgJyUbiRNsgEz) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7) | [OXO](https://open.spotify.com/album/2nBUmXMS1kaodi7xx46iga) | 2:49 |
 | 55 | [Shooting Star](https://open.spotify.com/track/0rKXS6HI2d0fJF7FPkK5ZO) | [Gill Gipan](https://open.spotify.com/artist/4w6mpmFOUMsUOmsV9858rE), [jinuseong](https://open.spotify.com/artist/4E1GJ2sKTu9tr9DkxFul4d) | [Shooting Star](https://open.spotify.com/album/7qc8RqceTxZFjDcjw8RhBd) | 3:05 |

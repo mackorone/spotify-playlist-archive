@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Abbot
 
-1,594 songs - 3 day 6 hr 39 min
+1,595 songs - 3 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1572,6 +1572,7 @@
 | [Wakaflocka](https://open.spotify.com/track/5INqDBMfgmzBP3vZ4P036Z) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Wakaflocka](https://open.spotify.com/album/63ETYSEsGAk8gtnjDZLDhc) | 2:31 | 2024-02-16 | 2024-03-09 |
 | [WALK](https://open.spotify.com/track/3rwiD7ODn7A1ke19LukbYa) | [Shoy](https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [AçúK](https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM) | [WALK](https://open.spotify.com/album/7GSelZDVqv2797xr1kbzRA) | 2:19 | 2023-01-13 | 2023-02-11 |
 | [WAR](https://open.spotify.com/track/7BM9PAFxTqYEYGmT23VuBV) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [WAR](https://open.spotify.com/album/1IVKoeAPWQQklwTWVzdFLV) | 2:38 | 2023-03-31 | 2023-10-14 |
+| [WOW](https://open.spotify.com/track/1K3qIJ1rmPki4bPqlIkoeW) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [WOW](https://open.spotify.com/album/4bgeRfkzj8fRutAMsfISZ0) | 3:02 | 2025-04-19 |  |
 | [X1](https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:08 | 2022-06-17 | 2023-05-27 |
 | [X6](https://open.spotify.com/track/7mBvm8Btuuki2jsh6y1d6L) | [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [X6](https://open.spotify.com/album/0udOR3FWCWME2YWiQE3etx) | 2:12 | 2023-10-20 | 2023-12-02 |
 | [Xeque Mate](https://open.spotify.com/track/57V2taA0W9V5Q68XqH4uAC) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd) | [Xeque Mate](https://open.spotify.com/album/6UjprYB6m1wCE9gffp70Fi) | 2:24 | 2023-11-17 | 2023-11-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1uuASu7T9L.md) - [plain]
 
 > Be there and be square\. Listen to the music from A Minecraft Movie, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,642 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,152 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1uuASu7T9L.md) - [plain]
 | 16 | [Steve's Lava Chicken \- Extended Version](https://open.spotify.com/track/26c8pvUxWO1FhxbGM1k8fJ) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I...Am Steve \(Bonus Songs from "A Minecraft Movie" Soundtrack\)](https://open.spotify.com/album/0MbxnPC8K45uPy1xzk9Tos) | 1:15 |
 | 17 | [Birthday Rap \- Extended Version](https://open.spotify.com/track/1jx5cQkYCEgDKl6DAC2k8q) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T), [Jason Momoa](https://open.spotify.com/artist/1lmCTCDCIJzczakwpriIjq) | [I...Am Steve \(Bonus Songs from "A Minecraft Movie" Soundtrack\)](https://open.spotify.com/album/0MbxnPC8K45uPy1xzk9Tos) | 1:00 |
 | 18 | [Ode to Dennis \- Extended Version](https://open.spotify.com/track/0EJ65EB2bSMlhfkTZWuvkM) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I...Am Steve \(Bonus Songs from "A Minecraft Movie" Soundtrack\)](https://open.spotify.com/album/0MbxnPC8K45uPy1xzk9Tos) | 3:25 |
-| 19 | [Steve’s Ultimate Resort Condominiums](https://open.spotify.com/track/6KjUIxe7GPHaR9s0YDGpx5) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I...Am Steve \(Bonus Songs from "A Minecraft Movie" Soundtrack\)](https://open.spotify.com/album/0MbxnPC8K45uPy1xzk9Tos) | 0:37 |
+| 19 | [Welcome to Steve's!](https://open.spotify.com/track/6KjUIxe7GPHaR9s0YDGpx5) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I...Am Steve \(Bonus Songs from "A Minecraft Movie" Soundtrack\)](https://open.spotify.com/album/0MbxnPC8K45uPy1xzk9Tos) | 0:37 |
 | 20 | [Minecraft \- from "A Minecraft Movie"](https://open.spotify.com/track/5xl9kugOn1prN2Dx6aVm55) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:39 |
 | 21 | [Mintage](https://open.spotify.com/track/6QwXhDyMgJokZo7gICIKh1) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:23 |
 | 22 | [Midport Village](https://open.spotify.com/track/1m6fDqnlryNWxi0Pt8W7An) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 2:59 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 300286,
+  "num_followers": 300321,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAABeMN5xm4AVm9rBL7XDpiYO",
+  "snapshot_id": "aAGWAAAAAAA184szq9sARcrRLSFpLr8j",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Wake Up Dead - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 213480,
       "name": "Conquer Or Die",
       "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Wake Up Dead - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok"
     },
     {
       "added_at": null,

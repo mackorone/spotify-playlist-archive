@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-478 songs - 22 hr 18 min
+479 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,11 +114,12 @@
 | [Doomed](https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Doomed](https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P) | 4:32 | 2023-08-31 | 2024-08-19 |
 | [Doomed](https://open.spotify.com/track/5hSdWD0d2yWdLe8LHh7S60) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:32 | 2024-03-08 | 2024-04-19 |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2023-08-22 | 2025-03-10 |
+| [Dripping Water](https://open.spotify.com/track/6SqPw9UGVTboNGLis5aj6J) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Dripping Water](https://open.spotify.com/album/5pTceUjUFCkkLPTLcQE50d) | 1:49 | 2025-04-18 |  |
 | [Dunt Dunt](https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw) | [Graeme Gengras](https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq) | [Dunt Dunt](https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp) | 4:29 | 2023-08-22 | 2024-09-09 |
 | [Dusk till Dawn](https://open.spotify.com/track/1kb6efbzTHHoatxufVUnaP) | [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn), [sig.beats](https://open.spotify.com/artist/2tulXMyNgLmiG9TG6F6tE9) | [Dusk till Dawn](https://open.spotify.com/album/1DAzJOHzTDBgEdj4Qepuwu) | 1:57 | 2025-04-11 |  |
 | [dust to dust](https://open.spotify.com/track/1OCJ2bc1RpuJJQMS2fHXkh) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin) | [dust to dust](https://open.spotify.com/album/676MUluvyjocKsfJNeD47g) | 1:56 | 2024-11-08 |  |
 | [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 | 2024-02-16 |  |
-| [Déjà vu](https://open.spotify.com/track/0KJZkIvbHYRmZhP6NGsP6n) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Chameleon](https://open.spotify.com/album/2INZD6kTNVO54IqhcMHvIt) | 2:28 | 2025-04-18 |  |
+| [Déjà vu](https://open.spotify.com/track/0KJZkIvbHYRmZhP6NGsP6n) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Chameleon](https://open.spotify.com/album/2INZD6kTNVO54IqhcMHvIt) | 2:28 | 2025-04-18 | 2025-04-20 |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |
 | [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 | 2024-12-05 |
 | [Eldstaden](https://open.spotify.com/track/0RJaXClmRBz77vnVGjw0lL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Eldstaden](https://open.spotify.com/album/5nCJ4HB1xhdQTZA73JotEr) | 2:36 | 2025-02-07 | 2025-02-17 |

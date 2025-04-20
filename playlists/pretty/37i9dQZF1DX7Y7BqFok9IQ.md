@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,178 likes - 150 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,268 likes - 150 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Holy Water](https://open.spotify.com/track/1YypSwQhC86QYatXNrikAV) | [Rockababyrock](https://open.spotify.com/artist/36HOHy9YzgiG2FrGRWf99s), [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar), [Tyler Banks](https://open.spotify.com/artist/5OzZ1EneWUCgVKh0V3x93i) | [Holy Water](https://open.spotify.com/album/6gcXWQzLXGPPejTKAJ7G5D) | 4:24 |
+| 1 | [Holy Water](https://open.spotify.com/track/1YypSwQhC86QYatXNrikAV) | [Rockababyrock](https://open.spotify.com/artist/36HOHy9YzgiG2FrGRWf99s), [Striking Matches](https://open.spotify.com/artist/3qLBc5htEe4QgGvHYglyTU), [Tyler Banks](https://open.spotify.com/artist/5OzZ1EneWUCgVKh0V3x93i) | [Holy Water](https://open.spotify.com/album/6gcXWQzLXGPPejTKAJ7G5D) | 4:24 |
 | 2 | [Can Ya Handle The Heat?](https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Can Ya Handle The Heat?](https://open.spotify.com/album/1OVvAY4Xa0sAIPVtej7K8S) | 2:54 |
 | 3 | [Brown Liquor](https://open.spotify.com/track/42noe9MfFLBjYkWoc8pPQn) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5gM9h1Ksjiu1iy3wLy42dt) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:47 |
 | 4 | [Snake In The Tall Grass](https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Snake In The Tall Grass](https://open.spotify.com/album/0jBB09fd0COyMvmq3vvGr4) | 4:22 |

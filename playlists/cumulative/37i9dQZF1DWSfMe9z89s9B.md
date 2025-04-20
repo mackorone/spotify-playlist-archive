@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> The new school \- Alternative R&B\. Cover: Q
+> The new school \- Alternative R&B\. Cover: Duckwrth
 
-1,410 songs - 3 day 2 hr 14 min
+1,412 songs - 3 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [DISHONORED](https://open.spotify.com/track/1URH3DZOnsEx6TNqPYsYkk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [IN LOVING MEMORY](https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk) | 2:43 | 2023-12-01 | 2024-04-11 |
 | [Disillusioned \(with serpentwithfeet\)](https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:01 | 2023-04-07 | 2024-06-29 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-17 |  |
+| [Distant Lover](https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Distant Lover](https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J) | 2:58 | 2025-04-19 |  |
 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 | 2023-04-10 |
 | [DNM](https://open.spotify.com/track/67Oq8booO7HDSL4LlmHE4s) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 1:58 | 2024-02-09 |  |
 | [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 | 2021-11-05 | 2022-09-10 |
@@ -556,7 +557,7 @@
 | [Hello World](https://open.spotify.com/track/5rjPk8WPaeG5Jw7K3HNDYy) | [Kosine](https://open.spotify.com/artist/5JO4jfnkthNB05Byp1zA84) | [Truth Serum](https://open.spotify.com/album/1MsQJu4l3DyUkvUcsojE6v) | 3:11 | 2021-05-14 | 2022-01-27 |
 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 | 2022-07-15 | 2023-07-22 |
 | [Her](https://open.spotify.com/track/1lvbDafT3jgfqrV7zJfVhT) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/0SgYriWkwz4xvXQEQhxVdA) | 4:21 | 2021-03-19 | 2022-04-15 |
-| [Here](https://open.spotify.com/track/0BP4fjdFdVvhNFa6Ij2CeL) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Here](https://open.spotify.com/album/5liG8ifZWteRMyYAQMh9fj) | 3:07 | 2025-01-24 |  |
+| [Here](https://open.spotify.com/track/0BP4fjdFdVvhNFa6Ij2CeL) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Here](https://open.spotify.com/album/5liG8ifZWteRMyYAQMh9fj) | 3:07 | 2025-01-24 | 2025-04-20 |
 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 | 2025-02-07 |  |
 | [Hey, Love!](https://open.spotify.com/track/5HR4E0PlY8bIyF1aVukVCj) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Hey, Love!](https://open.spotify.com/album/2M3rb1vhyQmiiPFZKMSoJM) | 2:29 | 2023-09-08 | 2024-06-29 |
 | [High & Dry](https://open.spotify.com/track/3euV86x39viux87PuKhgMq) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [High & Dry](https://open.spotify.com/album/4NZ8TvWas89czIE5aGxUGw) | 2:38 | 2022-04-01 | 2022-04-15 |
@@ -748,7 +749,7 @@
 | [Lowkey](https://open.spotify.com/track/10hUWpN7YFbK64zWuXxqGT) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/4jIEMRSPsEVpjn75QTMlc8) | 3:43 | 2023-01-13 | 2023-03-25 |
 | [Lucky Me](https://open.spotify.com/track/066XcsGBMGUpamyOkH2xXX) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/3mibhG0wF43mAZJIOVkxfm) | 3:42 | 2022-10-14 | 2022-10-17 |
 | [Lucky Me](https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 3:42 | 2022-10-14 | 2023-03-25 |
-| [LUSTER](https://open.spotify.com/track/65sSwF7kt1atOy0RXfy3Od) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [LUSTER](https://open.spotify.com/album/04ZzefredPlk50sph2nju1) | 2:23 | 2025-02-21 | 2025-03-27 |
+| [LUSTER](https://open.spotify.com/track/65sSwF7kt1atOy0RXfy3Od) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [LUSTER](https://open.spotify.com/album/04ZzefredPlk50sph2nju1) | 2:23 | 2025-02-21 |  |
 | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU) | 3:13 | 2023-01-27 | 2023-10-07 |
 | [LUV IN DA 6 \(with Smino\)](https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 3:04 | 2025-02-07 |  |
 | [Luvaroq](https://open.spotify.com/track/3oRwReVMtEUrQTFlwm0v09) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/4XIQJ95bBKkckzNdWjGMnq) | 3:40 | 2022-07-15 | 2022-10-13 |
@@ -1037,6 +1038,7 @@
 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 | 2024-07-26 |  |
 | [scuse me](https://open.spotify.com/track/6Y6RY6HhGO74XTiCNls79c) | [Charlie Myles](https://open.spotify.com/artist/2NDd2biAGcq4bdICP7mFb7) | [scuse me](https://open.spotify.com/album/7mLCTKkW7aWxsNsXTJ9oYz) | 2:24 | 2022-12-16 | 2023-01-14 |
 | [See You](https://open.spotify.com/track/1laov0eTmYzYLbP01ChrGe) | [Erin Kaith](https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG) | [See You](https://open.spotify.com/album/2hIkmuhxnh4q3sBr45kohd) | 2:17 | 2023-08-18 | 2023-10-09 |
+| [Seeing Stars](https://open.spotify.com/track/5bibSmheVJMxhCEBMwORvm) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Seeing Stars](https://open.spotify.com/album/74O2qiOcoWXGqBQKOtwXBw) | 3:44 | 2025-04-19 |  |
 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2023-04-14 | 2023-05-06 |
 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 | 2021-03-19 | 2022-08-06 |
 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 | 2022-09-30 | 2023-08-24 |
@@ -1080,7 +1082,7 @@
 | [slide](https://open.spotify.com/track/5BunyaI1MzNWTjVHZwdCy0) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me](https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j) | 3:49 | 2023-06-16 | 2023-06-24 |
 | [Slide By](https://open.spotify.com/track/6zGzTRlfl5kJabJls1fj1o) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Slide By](https://open.spotify.com/album/0cScyZvb9fmDvQ8t58aNJL) | 3:28 | 2024-03-29 | 2024-05-26 |
 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 | 2021-09-17 | 2022-09-10 |
-| [Slow Fade](https://open.spotify.com/track/5GWEfTYjFrHctThz0sfGJE) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Slow Fade](https://open.spotify.com/album/5I85tkoofOEByI8VudyLmk) | 3:31 | 2024-04-26 |  |
+| [Slow Fade](https://open.spotify.com/track/5GWEfTYjFrHctThz0sfGJE) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Slow Fade](https://open.spotify.com/album/5I85tkoofOEByI8VudyLmk) | 3:31 | 2024-04-26 | 2025-04-20 |
 | [Slow Jam](https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:28 | 2022-08-19 | 2022-11-12 |
 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 | 2023-08-25 | 2024-06-29 |
 | [Slumber](https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Slipping Into Color](https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO) | 3:45 | 2023-09-22 | 2024-05-09 |
@@ -1314,7 +1316,7 @@
 | [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 | 2022-09-16 | 2023-08-12 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-04-01 | 2022-04-16 |
 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 | 2024-06-07 |  |
-| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 |  |
+| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 | 2025-04-20 |
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 | 2023-10-07 |
 | [VIRGINIA CREEPER](https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [VIRGINIA CREEPER](https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf) | 2:52 | 2023-06-23 | 2024-06-29 |
 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 | 2024-12-13 |  |

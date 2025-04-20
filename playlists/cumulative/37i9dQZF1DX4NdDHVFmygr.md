@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-451 songs - 1 day 0 hr 6 min
+453 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Ba9i Ghadi](https://open.spotify.com/track/1H6QL0ZZQE6PGEjIK6PquR) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Marjana](https://open.spotify.com/artist/5RYnsnyAY3olfaIWVVcjP5) | [Ba9i Ghadi](https://open.spotify.com/album/4B3gXNiT4cwYk0ncSimlSI) | 2:56 | 2021-12-25 | 2022-02-10 |
 | [BABA](https://open.spotify.com/track/7wx8mijv8TXROYv2WZ2oTM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [BABA](https://open.spotify.com/album/1vNjVDbX6zT8eGXg5fKbwj) | 3:00 | 2021-12-25 | 2022-05-05 |
 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 | 2023-11-24 | 2024-01-26 |
+| [BABOUR LOU7](https://open.spotify.com/track/72h1HdEtR4XzLPvOigW8u8) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 3:39 | 2025-04-19 |  |
 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 | 2024-08-28 |  |
 | [Baghi Ntoub](https://open.spotify.com/track/4ZqfS1PEQlNmfKNUqPXmYr) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1), [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Baghi Ntoub](https://open.spotify.com/album/4Qy0HAqDOh20b7ss1YWbJI) | 2:42 | 2023-09-18 | 2023-10-02 |
 | [BAMBARA](https://open.spotify.com/track/5EBSvoppcZtLqZ7kif2Mhz) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [BAMBARA](https://open.spotify.com/album/4ZhiN2qHatPIIVWS6yWkLt) | 2:22 | 2024-08-28 | 2024-12-11 |
@@ -420,6 +421,7 @@
 | [Wsalni MSG](https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Wsalni MSG](https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU) | 2:36 | 2024-08-28 | 2024-11-27 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-29 | 2024-04-26 |
 | [Ya Ayouni](https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ya Ayouni](https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu) | 4:21 | 2022-01-17 | 2023-01-05 |
+| [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 | 2025-04-19 |  |
 | [Ya Bent Nass](https://open.spotify.com/track/3p6p3ZoO8raP3s4bxI7Z2B) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Ya Bent Nass](https://open.spotify.com/album/7etlW0csrc4pTaLA55M1cH) | 3:02 | 2022-07-19 | 2023-05-09 |
 | [Ya Bent Nass](https://open.spotify.com/track/2s5o3Di1s0dWOkL1iYnTJl) | [Zamane](https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Ya Bent Nass](https://open.spotify.com/album/2tFxYpE665zTN9sL4qVizP) | 3:06 | 2022-05-26 | 2022-06-21 |
 | [YA DENIA](https://open.spotify.com/track/0hIi9hpHl4P9wJmVRYeVaN) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [YA DENIA](https://open.spotify.com/album/74PxzvwyTg2wdXEIse476z) | 2:57 | 2021-12-25 | 2022-06-10 |

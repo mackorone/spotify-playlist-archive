@@ -934,7 +934,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 208588,
       "name": "Blessing Now",
       "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
@@ -3215,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "Hagiazo (Live)",
+        "url": "https://open.spotify.com/album/06ZexGDl7IkbHEcxD8nvWw"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 901815,
+      "name": "Hagiazo - Live",
+      "url": "https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup"
+    },
+    {
+      "album": {
         "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
         "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
       },
@@ -3722,6 +3740,24 @@
       "duration_ms": 322821,
       "name": "I Overcame",
       "url": "https://open.spotify.com/track/4VzrPcWyOdMhNudt0SqaW0"
+    },
+    {
+      "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103882,
+      "name": "I Pray",
+      "url": "https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK"
     },
     {
       "album": {
@@ -7580,7 +7616,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 382499,
       "name": "Prophetic Chant (Live)",
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"

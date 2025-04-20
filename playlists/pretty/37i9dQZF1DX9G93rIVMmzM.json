@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 333711,
+  "num_followers": 333802,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
     },
     {
-      "added_at": "2025-04-01 15:15:19",
-      "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "SHALLOW",
-      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
-    },
-    {
       "added_at": "2025-03-07 05:00:32",
       "album": {
         "name": "Thirteenth Step",
@@ -567,6 +551,22 @@
       "duration_ms": 195133,
       "name": "Weak And Powerless",
       "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
+    },
+    {
+      "added_at": "2025-04-01 15:15:19",
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "SHALLOW",
+      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "Blur Into One",
-        "url": "https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z"
-      },
-      "artists": [
-        {
-          "name": "Graywave",
-          "url": "https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR"
-        }
-      ],
-      "duration_ms": 230980,
-      "name": "Blur Into One",
-      "url": "https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
         "name": "Drain",
         "url": "https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 180649,
       "name": "Phrygian",
       "url": "https://open.spotify.com/track/5ySpBqLgqeDONh96HKv0kL"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
+        "name": "Blur Into One",
+        "url": "https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z"
+      },
+      "artists": [
+        {
+          "name": "Graywave",
+          "url": "https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR"
+        }
+      ],
+      "duration_ms": 230980,
+      "name": "Blur Into One",
+      "url": "https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "I Shift",
-        "url": "https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c"
+        "name": "Sleep Now, In Reverse",
+        "url": "https://open.spotify.com/album/7FO5FYSOvklvOHwnHqQW4F"
       },
       "artists": [
         {
-          "name": "Sable",
-          "url": "https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq"
+          "name": "Iress",
+          "url": "https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc"
         }
       ],
-      "duration_ms": 190428,
-      "name": "I Shift",
-      "url": "https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo"
+      "duration_ms": 325142,
+      "name": "Lovely (Forget Me Not)",
+      "url": "https://open.spotify.com/track/3zyL8LRNulKlAHTtAB8Wh5"
     }
   ],
   "unique_name": "ALLURE",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > This Holy Week, The Jesuit Music Ministry shares with us some classic Filipino liturgical songs\. Cover: Fr\. Eduardo P\. Hontiveros, SJ \- Father of Filipino Liturgical Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,691 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,767 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

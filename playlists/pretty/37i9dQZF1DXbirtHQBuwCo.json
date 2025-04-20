@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: JUNNY)",
-  "num_followers": 1040420,
+  "num_followers": 1040338,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-04-07 09:00:17",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
-      },
-      "artists": [
-        {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
-    },
-    {
-      "added_at": "2025-04-07 09:00:17",
-      "album": {
         "name": "Smeraldo Garden Marching Band (feat. Loco)",
         "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
+    },
+    {
+      "added_at": "2025-04-07 09:00:17",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
     },
     {
       "added_at": "2025-04-07 09:00:17",
@@ -843,26 +843,18 @@
     {
       "added_at": "2025-04-07 09:00:17",
       "album": {
-        "name": "Do What You Do",
-        "url": "https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S"
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
       "artists": [
         {
           "name": "BAEKHYUN",
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        },
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "EL CAPITXN",
-          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Do What You Do",
-      "url": "https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb"
+      "duration_ms": 213053,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
     },
     {
       "added_at": "2025-04-07 09:00:17",
@@ -939,18 +931,26 @@
     {
       "added_at": "2025-04-07 09:00:17",
       "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+        "name": "Do What You Do",
+        "url": "https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S"
       },
       "artists": [
         {
           "name": "BAEKHYUN",
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "EL CAPITXN",
+          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
         }
       ],
-      "duration_ms": 213053,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+      "duration_ms": 179200,
+      "name": "Do What You Do",
+      "url": "https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb"
     },
     {
       "added_at": "2025-04-07 09:00:17",

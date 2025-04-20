@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,758 likes - 568 songs - 1 day 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,764 likes - 568 songs - 1 day 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 90 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
 | 91 | [If I Was the One](https://open.spotify.com/track/1iNO6V1JBTSy9aaiLrOHkZ) | [Ruff Endz](https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW) | [Love Crimes](https://open.spotify.com/album/42P7eLV4ylVjWKnRJeCWHG) | 4:26 |
 | 92 | [Just to Hear You Say That You Love Me \(with Tim McGraw\)](https://open.spotify.com/track/7m7V3K1yHLfJB2Sx9FKinU) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 4:28 |
-| 93 | [Nada](https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:15 |
-| 94 | [Show Me The Way Back To Your Heart](https://open.spotify.com/track/4YcXc551uqE3IpHf3iZiYM) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 3:55 |
+| 93 | [Show Me The Way Back To Your Heart](https://open.spotify.com/track/4YcXc551uqE3IpHf3iZiYM) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 3:55 |
+| 94 | [Nada](https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:15 |
 | 95 | [Whenever You Remember](https://open.spotify.com/track/5cwt3fRFqMCuxP5mhA1N7k) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:47 |
 | 96 | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/track/0Vf1E9i3cK9O6KZyPynDHg) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/album/1X5UxEFIFdJUm2m9fwerDH) | 3:44 |
 | 97 | [These Are the Special Times](https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:07 |
@@ -577,4 +577,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 567 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 568 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `AbvI1AAAAABL4ejI0DgK7MRQHZQxdmTX`
+Snapshot ID: `AbvOdAAAAAB1V2ng2oLv0o+MTnlzoUY7`

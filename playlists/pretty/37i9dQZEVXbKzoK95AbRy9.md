@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,512 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,566 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Última Noite](https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Estilo Nattanzinho \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO) | 2:37 |
 | 50 | [FANTASMA \(versão GORDÃO DO PC\)](https://open.spotify.com/track/6x6EA3N9xXgptSakS7VZUg) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Mc Menor DN](https://open.spotify.com/artist/2FJjf1qmmogfQyqLKjbPML), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [FANTASMA \(versão GORDÃO DO PC\)](https://open.spotify.com/album/7JbiJkrVXvo1num2mfA33v) | 2:51 |
 
-Snapshot ID: `L5XAIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L5cT+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

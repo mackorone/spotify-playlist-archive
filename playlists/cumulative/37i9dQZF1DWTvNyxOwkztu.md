@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-314 songs - 17 hr 23 min
+315 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Get Down](https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Get Down](https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa) | 3:20 | 2023-04-14 | 2024-08-05 |
 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 | 2022-08-05 |  |
 | [Glass and Plastic \(Instrumental Version\)](https://open.spotify.com/track/2yfAkyDlAzx3zuMvgC0N9g) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS) | [Glass and Plastic](https://open.spotify.com/album/6OvqhTnUPNZ2GSPzp5x8WP) | 3:08 | 2022-03-25 | 2022-04-21 |
-| [Glassy Haze](https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6) | [Kubicova](https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr) | [Glassy Haze](https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf) | 2:33 | 2022-11-25 |  |
+| [Glassy Haze](https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6) | [Kubicova](https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr) | [Glassy Haze](https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf) | 2:33 | 2022-11-25 | 2025-04-20 |
 | [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 | 2022-11-25 |  |
 | [Goldclap](https://open.spotify.com/track/1lDEM6ESKlPj3wFBTtZ8Z8) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Fall Again](https://open.spotify.com/album/669HtfPdwIVB2sCpdF0bbU) | 3:59 | 2021-12-09 | 2022-02-21 |
 | [Gravity](https://open.spotify.com/track/29Sf7YWibtHoFxrv4a9ol9) | [ALIIASES](https://open.spotify.com/artist/76tghSDHKcYCKcdPpKe5cp) | [Gravity](https://open.spotify.com/album/7GI6FGh57gOzsKhhDF3nny) | 2:21 | 2023-09-13 | 2023-11-05 |
@@ -147,6 +147,7 @@
 | [Kalmar \- Lassjo's Dive](https://open.spotify.com/track/7sjPnJvroufu2baQuwoZ7Z) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Kalmar](https://open.spotify.com/album/2KxqTqUFYM335WGrCy9V4T) | 4:00 | 2022-03-25 | 2022-07-16 |
 | [Karma](https://open.spotify.com/track/7FoyKoMhQyDCSomTBYKVP1) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Karma](https://open.spotify.com/album/6AFwibLKtWYJVKdY9ChZGh) | 3:04 | 2023-11-14 |  |
 | [Keep on Keepin' On](https://open.spotify.com/track/6T6Uf0q0Jpe5t4LnFQU3tM) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 2:20 | 2022-03-25 | 2022-04-21 |
+| [Keep You](https://open.spotify.com/track/12MuNOUBqDSd52jzDIjrLJ) | [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Keep You](https://open.spotify.com/album/0m3q4whKBww4O5QnQAiduJ) | 2:26 | 2025-04-18 |  |
 | [Keep Your Cool](https://open.spotify.com/track/2XRPJw4krhDLWjen7Z9wr0) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Keep Your Cool](https://open.spotify.com/album/0UuYZvNcoHQ6oBOkQKTpxW) | 3:19 | 2023-06-30 | 2023-08-25 |
 | [Kobicha](https://open.spotify.com/track/1G8KzCELG4AXvmpf1WRMY6) | [Soul Flower](https://open.spotify.com/artist/3NI2ar7GCozS2JaqTyU0Ra) | [Kobicha](https://open.spotify.com/album/0suJmrWbXjCIT6bgR4AYhR) | 3:01 | 2022-02-26 | 2022-10-01 |
 | [Kyoto](https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 5:31 | 2021-12-09 | 2022-09-13 |

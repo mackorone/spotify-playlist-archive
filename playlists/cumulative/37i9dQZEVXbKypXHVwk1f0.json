@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 144000,
       "name": "Ale, Ale, Ale",
       "url": "https://open.spotify.com/track/4Ahfx9Q5X0vbRNUuX6aaUs"
@@ -25006,7 +25006,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 206946,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez"
@@ -26648,6 +26648,64 @@
       "duration_ms": 314000,
       "name": "SI TE PEGO - Remix",
       "url": "https://open.spotify.com/track/2yZxiXTqVtfLsGxHuDZqDI"
+    },
+    {
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/46SNK2DeLKpTX5uOdBFpaF"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "Focking Rafita",
+          "url": "https://open.spotify.com/artist/31ZeHgT3blkmKIIz8b2ZNM"
+        },
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "Tachi",
+          "url": "https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Kaih",
+          "url": "https://open.spotify.com/artist/5wsTlBhwu3m6EJggLSQdSX"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365842,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1k7wYVm9FBqRIdG5zSdXxE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-488 songs - 1 day 16 hr 43 min
+489 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [ABRIR MONTE](https://open.spotify.com/track/7npn0mfuaUUNcrrVBsOEib) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 5:12 | 2025-01-17 |  |
 | [Adagio I \- Mut](https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Nothing Lasts Forever](https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC) | 4:46 | 2022-02-11 | 2024-08-29 |
 | [Affiliate](https://open.spotify.com/track/3ibSQOkXDoVtr5o5izWwC9) | [Tangent](https://open.spotify.com/artist/1Ad0cOIi5d9YkVsRMLWegv), [Dryft](https://open.spotify.com/artist/15XyOjcwHR1BLzZDpcja9f) | [Acquiesce](https://open.spotify.com/album/7brmSCmB5orSsJgGJULcqx) | 4:08 | 2021-12-26 | 2023-04-30 |
+| [Afrodisia](https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Afrodisia](https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT) | 9:00 | 2025-04-18 |  |
 | [After the Rain](https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [After the Rain](https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp) | 9:00 | 2025-04-11 |  |
 | [Afterglow](https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL) | [Tim Angrave](https://open.spotify.com/artist/6y9JXfBjqfOAql3YYLaNJm) | [Afterglow](https://open.spotify.com/album/0Bp2qglhyUtYpSwCII3ayZ) | 5:52 | 2022-03-25 | 2024-07-05 |
 | [Agalma V](https://open.spotify.com/track/6pwsr8MsXAGYWHeJirQyRW) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Agalma](https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6) | 7:30 | 2022-08-19 | 2023-08-12 |
@@ -262,7 +263,7 @@
 | [Many Gods, Many Angels](https://open.spotify.com/track/0KxY7ZWz8XLCiKaKsellzs) | [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [In A Paraventral Scale EP](https://open.spotify.com/album/5HWtPvipgZKIvRPPc1Glgw) | 3:55 | 2021-12-26 | 2022-01-12 |
 | [MD 2](https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Past and Future Tense](https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR) | 3:44 | 2022-08-05 | 2024-07-02 |
 | [Meet Me At Sachas](https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 2:06 | 2021-12-26 | 2023-08-12 |
-| [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 | 2022-03-25 |  |
+| [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 | 2022-03-25 | 2025-04-20 |
 | [Metallic Spheres In Colour: Movement 2 \- Excerpt](https://open.spotify.com/track/1fpuphYAwKaoVxYGWkNaV7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour: Movement 2 \- Excerpt](https://open.spotify.com/album/54OHjqMfotsJPkVWnRqkts) | 3:38 | 2023-09-08 | 2025-01-10 |
 | [Mexican Helium](https://open.spotify.com/track/6JSfZeeU5uG9GjRXE8H9ua) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [Eleven Fugues For Sodium Pentothal](https://open.spotify.com/album/0Y88Eg4EbumVR08gZSEG5A) | 4:24 | 2025-01-14 | 2025-01-18 |
 | [Mir](https://open.spotify.com/track/1449q5smxpk9UEB1QxyZeO) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR) | 6:39 | 2023-04-21 | 2024-04-19 |

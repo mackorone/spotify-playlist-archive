@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw?si=8crPuqYdRJWHd6szEoIQuQ">Japanese Breakfast</a>
 
-[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,457 likes - 65 songs - 4 hr 5 min
+[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,458 likes - 65 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-408 songs - 23 hr 43 min
+409 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [High Energy](https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [High Energy](https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4) | 3:03 | 2024-11-22 |  |
 | [High On \- Original Mix](https://open.spotify.com/track/5H3tRNbw4kgCiXj4Dwyyqi) | [D\-Addiction](https://open.spotify.com/artist/6Yhs0KQpKTdobkbSrrgOtS), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [High On](https://open.spotify.com/album/4VHjnH4m5DfAV9NyWzZO54) | 7:50 | 2023-12-27 | 2024-01-12 |
 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 | 2022-09-30 | 2024-02-23 |
+| [Hit The Brakes](https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Hit The Brakes](https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz) | 3:43 | 2025-04-17 |  |
 | [Home In That Bass](https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Home In That Bass](https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT) | 3:09 | 2024-09-12 |  |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-09-30 | 2024-02-23 |
 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 | 2023-12-01 | 2024-09-06 |
@@ -230,7 +231,7 @@
 | [Mosh Pit \(feat\. Haribo\)](https://open.spotify.com/track/2g3NNzNps6fCjsbcA91yH6) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Haribo](https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm) | [Mosh Pit / Dance](https://open.spotify.com/album/4dZO0gDZhi5aKzIoaVkqk7) | 4:10 | 2023-05-19 | 2023-07-28 |
 | [Move Your Body \- Hedex Remix](https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Move Your Body \(Hedex Remix\)](https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo) | 3:20 | 2022-09-30 | 2024-06-28 |
 | [Murder On The Dancefloor \- Rave Edit](https://open.spotify.com/track/1Nl3LaK2B5X2y3tHJThfSA) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Murder On The Dancefloor \(Rave Edit\)](https://open.spotify.com/album/6ypShOKsNsnWNXSLYo0Qnw) | 2:57 | 2023-12-27 | 2024-01-12 |
-| [Mwah! \(I'm That Bitch\)](https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Mwah! \(I'm That Bitch\)](https://open.spotify.com/album/3yG8lSOzlMQS1lungwRE1h) | 1:43 | 2024-10-18 |  |
+| [Mwah! \(I'm That Bitch\)](https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Mwah! \(I'm That Bitch\)](https://open.spotify.com/album/3yG8lSOzlMQS1lungwRE1h) | 1:43 | 2024-10-18 | 2025-04-20 |
 | [Nan Slapper](https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Nan Slapper](https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH) | 4:23 | 2024-02-23 | 2024-09-06 |
 | [Nancy Junglist](https://open.spotify.com/track/3o3z4W9yb9TZDCh1j3npyO) | [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Nancy Junglist](https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu) | 3:40 | 2024-08-08 |  |
 | [Need Me So](https://open.spotify.com/track/1ouVPdv49QKSSiBfCOw6zL) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [DON DARKOE](https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql) | [Need Me So](https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki) | 3:00 | 2025-01-31 |  |

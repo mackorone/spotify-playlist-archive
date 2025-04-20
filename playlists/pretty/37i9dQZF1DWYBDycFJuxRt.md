@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: tuki\. \*👉 <a href="https://spice.eplus.jp/articles/337094">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,999 likes - 71 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,100 likes - 71 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

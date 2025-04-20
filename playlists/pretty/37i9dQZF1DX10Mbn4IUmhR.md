@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > All the South African and global pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=BIipgvK8QGacBeF\_vlhPpg"> Porcelain Moon </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,011 likes - 59 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,010 likes - 59 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

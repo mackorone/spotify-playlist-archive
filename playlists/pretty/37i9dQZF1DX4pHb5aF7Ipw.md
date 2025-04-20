@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Zehr Vibe,  Gminxr, Tegi Pannu, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,487 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,509 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [21](https://open.spotify.com/track/17NugyNtDtZbGTW2hQNPOU) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Sardar Khehra](https://open.spotify.com/artist/6BHbZCsasnUoxO8MkGAv8u) | [HIT LIST](https://open.spotify.com/album/5go4tm1zyhDdQAKBDi1mRo) | 2:16 |
+| 1 | [21](https://open.spotify.com/track/17NugyNtDtZbGTW2hQNPOU) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP) | [HIT LIST](https://open.spotify.com/album/5go4tm1zyhDdQAKBDi1mRo) | 2:16 |
 | 2 | [Shut Down](https://open.spotify.com/track/6RUgRlEd2SOZxwsUQV1EyH) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Bling Singh](https://open.spotify.com/artist/2iVVra3x9R6r9EhwmFpXWH) | [Shut Down](https://open.spotify.com/album/351Hd07iep66TLAss9PWTy) | 2:54 |
 | 3 | [Goodfellas](https://open.spotify.com/track/0Pygl14hAJzebqoq91lCt0) | [Jodha](https://open.spotify.com/artist/4lW5ng5q45zXLg4FeGwcFs), [Rxmbo](https://open.spotify.com/artist/6VwPTd4ychTXAvO1bDJyuz), [Shikaari](https://open.spotify.com/artist/5DGaWIko5aIbDdAPGJjEoz) | [Goodfellas](https://open.spotify.com/album/1nin31tLtK8RYXXrdMmzW9) | 3:05 |
 | 4 | [Blight](https://open.spotify.com/track/7M7YISICp1U3gVeM3rytgw) | [Harvi](https://open.spotify.com/artist/5rpl4dM4cZVFeseE6XT0AZ), [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [Blight](https://open.spotify.com/album/22Cpvkunzvz33lDeL4Km59) | 2:51 |

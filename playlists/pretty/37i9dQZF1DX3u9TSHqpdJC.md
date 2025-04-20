@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: Jake Marsh\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,249 likes - 118 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,274 likes - 118 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

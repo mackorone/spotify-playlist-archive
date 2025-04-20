@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: C\u0153ur De Pirate",
-  "num_followers": 44471,
+  "num_followers": 44469,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,42 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "Focus Mentalit\u00e9",
+        "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 156676,
+      "name": "Melrose Place",
+      "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "Ari",
+        "url": "https://open.spotify.com/album/6oW6cEZMm901BlM7CznAtI"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Tremblay-Grenier",
+          "url": "https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X"
+        }
+      ],
+      "duration_ms": 146930,
+      "name": "Ari",
+      "url": "https://open.spotify.com/track/6pE3yQ8dBQNDOdUs7dMnsa"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "Grand Soleil",
         "url": "https://open.spotify.com/album/7EBt9Vr2e0aHJcJNcgkrPC"
       },
@@ -287,22 +323,6 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "Ari",
-        "url": "https://open.spotify.com/album/6oW6cEZMm901BlM7CznAtI"
-      },
-      "artists": [
-        {
-          "name": "\u00c9douard Tremblay-Grenier",
-          "url": "https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X"
-        }
-      ],
-      "duration_ms": 146930,
-      "name": "Ari",
-      "url": "https://open.spotify.com/track/6pE3yQ8dBQNDOdUs7dMnsa"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
         "name": "H\u00c9RITAGE : DERNI\u00c8RE EMPREINTE",
         "url": "https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs"
       },
@@ -327,22 +347,6 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "Saturday",
-        "url": "https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 150328,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp"
       },
@@ -359,22 +363,18 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "Focus Mentalit\u00e9",
-        "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM"
       },
       "artists": [
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
         }
       ],
-      "duration_ms": 156676,
-      "name": "Melrose Place",
-      "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
+      "duration_ms": 150328,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "J'avoue",
+        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 189241,
+      "name": "J'avoue",
+      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "SHAOLIN",
         "url": "https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 188589,
       "name": "Tise & Ken",
       "url": "https://open.spotify.com/track/254mSu5mvfeomdx79F1rdB"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "J'avoue",
-        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 189241,
-      "name": "J'avoue",
-      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "RIPRO",
+        "url": "https://open.spotify.com/album/5gNNmdAr9tFbtocOuLe388"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 217226,
+      "name": "Comme toi",
+      "url": "https://open.spotify.com/track/1SVLDzLK37a1LbBcr4Y0eL"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "Gentil Gar\u00e7on",
         "url": "https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN"
       },
@@ -695,18 +711,22 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "RIPRO",
-        "url": "https://open.spotify.com/album/5gNNmdAr9tFbtocOuLe388"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
         }
       ],
-      "duration_ms": 217226,
-      "name": "Comme toi",
-      "url": "https://open.spotify.com/track/1SVLDzLK37a1LbBcr4Y0eL"
+      "duration_ms": 235666,
+      "name": "La Pluie",
+      "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -755,22 +775,6 @@
       "duration_ms": 221600,
       "name": "Sains et saufs",
       "url": "https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -859,6 +863,22 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "Feel Good (Version Acoustique)",
         "url": "https://open.spotify.com/album/5t1ClJpWR3OqXO3hxG7oBz"
       },
@@ -891,6 +911,22 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "Honn\u00eatement",
+        "url": "https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 115693,
+      "name": "Honn\u00eatement",
+      "url": "https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "77 Degr\u00e9s",
         "url": "https://open.spotify.com/album/7rrim5oqq6k8w8TN7AD8nF"
       },
@@ -911,54 +947,30 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "Honn\u00eatement",
-        "url": "https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn"
+        "name": "N\u00e9s Pour Briller : Book II",
+        "url": "https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh"
       },
       "artists": [
         {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 115693,
-      "name": "Honn\u00eatement",
-      "url": "https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         },
         {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "La Pluie",
-      "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "graou",
-        "url": "https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW"
-      },
-      "artists": [
+          "name": "D2",
+          "url": "https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS"
+        },
         {
-          "name": "Miki",
-          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         }
       ],
-      "duration_ms": 138306,
-      "name": "miki cowboy",
-      "url": "https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU"
+      "duration_ms": 174653,
+      "name": "C'est Quoi Ton D\u00e9lire",
+      "url": "https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

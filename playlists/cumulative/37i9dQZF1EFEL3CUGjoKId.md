@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 5 hr 47 min
+90 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 | 2024-01-29 |  |
 | [Warm Ways](https://open.spotify.com/track/4SysnIGNcHQlaz9jJVnIxX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:54 | 2024-01-29 |  |
 | [What a Shame](https://open.spotify.com/track/5wqtOvdY2hUQOkEMq33k1Y) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Future Games](https://open.spotify.com/album/0mrtsupVI772qJdmW17yP0) | 2:15 | 2024-01-29 |  |
+| [Why Hate](https://open.spotify.com/track/19DP1DQrUyBSOwWXVPN7Sz) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [WICK](https://open.spotify.com/album/4y5vG1udERB0K1sDyeENa2) | 2:59 | 2025-04-19 |  |
 | [Wind Blow](https://open.spotify.com/track/2SO6T1KaYLu4yXP4qf286F) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 4:18 | 2024-01-29 |  |
 | [Wish You Were Here \- 2016 Remaster](https://open.spotify.com/track/3DDWXHK09mtVlVwmuHe760) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:51 | 2024-01-29 |  |
 | [World Turning](https://open.spotify.com/track/6QvgyZ8xG2OFGjZsH3s8d3) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:25 | 2024-01-29 |  |

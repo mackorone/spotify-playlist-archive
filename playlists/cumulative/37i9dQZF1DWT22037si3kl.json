@@ -2007,6 +2007,32 @@
     },
     {
       "album": {
+        "name": "Estrela do Blocko !",
+        "url": "https://open.spotify.com/album/5NduXW5kkie5ZrLJBO3OF0"
+      },
+      "artists": [
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "BLOCKKSTAR",
+          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129733,
+      "name": "Contando na Minha",
+      "url": "https://open.spotify.com/track/7E3Yl950GR5DvQiAH6AJlN"
+    },
+    {
+      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -3534,7 +3560,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 138305,
       "name": "Famigerado",
       "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
@@ -4930,7 +4956,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 184000,
       "name": "Jovem Pr\u00edncipe - Remix",
       "url": "https://open.spotify.com/track/1Ky0nJZ03ZH3Y50uD4gvek"
@@ -7618,6 +7644,28 @@
       "duration_ms": 251000,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/3iGRHR2keH35e9WoxOWmZu"
+    },
+    {
+      "album": {
+        "name": "Mate Ou Morra",
+        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179383,
+      "name": "Outro Clima",
+      "url": "https://open.spotify.com/track/2Rsrsh2J3BAn4SLBGT7g0s"
     },
     {
       "album": {

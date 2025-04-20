@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 559398,
+  "num_followers": 559426,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/7zAAAAAAByveokCwk4P/SSjn56GPqf",
+  "snapshot_id": "aAGWAAAAAABstzDfvWOO7q2maJBDNPTV",
   "tracks": [
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "F8",
-        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+        "name": "A Decade of Destruction",
+        "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 202249,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3"
+      "duration_ms": 275212,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/6WmfUWWGRnE2yPaH0pbqDk"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Decade of Destruction",
-        "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 275212,
-      "name": "Gone Away",
-      "url": "https://open.spotify.com/track/6WmfUWWGRnE2yPaH0pbqDk"
+      "duration_ms": 202249,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
-        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "Cradle to the Grave",
-      "url": "https://open.spotify.com/track/4bpI7WOnEjXDAnZtyvaX5A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way of the Fist",
         "url": "https://open.spotify.com/album/2Mn74oOIxU32wfHDcHknRL"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 271346,
       "name": "The Bleeding",
       "url": "https://open.spotify.com/track/0PhgdhsVVVFQBAL4FXSy1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
+        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "Cradle to the Grave",
+      "url": "https://open.spotify.com/track/4bpI7WOnEjXDAnZtyvaX5A"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 223766,
-      "name": "Battle Born",
-      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got Your Six",
         "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 187670,
       "name": "Hell To Pay",
       "url": "https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 223766,
+      "name": "Battle Born",
+      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
     },
     {
       "added_at": null,

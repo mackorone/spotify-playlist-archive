@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 241243,
+  "num_followers": 241253,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/7zAAAAAACeMdyMZhrsYyyjuDyXSoO7",
+  "snapshot_id": "aAGWAAAAAAD4suSDM2cdqUC0vuDNG6RM",
   "tracks": [
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4"
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
       },
       "artists": [
         {
@@ -290,27 +290,7 @@
       ],
       "duration_ms": 162187,
       "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/0jl2VaNUWun3uwy5LPbDyx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing Was The Same",
-        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 322160,
-      "name": "From Time",
-      "url": "https://open.spotify.com/track/0GaBIpyHvytM1UBYmqXu08"
+      "url": "https://open.spotify.com/track/5DRt7Ys0fnvhoOMOdQTNF1"
     },
     {
       "added_at": null,
@@ -335,6 +315,26 @@
       "duration_ms": 235186,
       "name": "Beware",
       "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Was The Same",
+        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 322160,
+      "name": "From Time",
+      "url": "https://open.spotify.com/track/0GaBIpyHvytM1UBYmqXu08"
     },
     {
       "added_at": null,
@@ -419,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "P*$$Y Fairy (OTW)",
-        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh"
       },
       "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 181860,
-      "name": "P*$$Y Fairy (OTW)",
-      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
+      "duration_ms": 207066,
+      "name": "I. Pink Toes",
+      "url": "https://open.spotify.com/track/5rmmw20qm7TDplJvyQAhIn"
     },
     {
       "added_at": null,
@@ -451,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh"
+        "name": "P*$$Y Fairy (OTW)",
+        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
       },
       "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 207066,
-      "name": "I. Pink Toes",
-      "url": "https://open.spotify.com/track/5rmmw20qm7TDplJvyQAhIn"
+      "duration_ms": 181860,
+      "name": "P*$$Y Fairy (OTW)",
+      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "3:16AM",
-      "url": "https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 252053,
       "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "3:16AM",
+      "url": "https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "guidance",
-        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 215198,
-      "name": "guidance",
-      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sailing Soul(s)",
         "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 232826,
       "name": "mirrors - Bonus",
       "url": "https://open.spotify.com/track/0IXTRIqR1OsKb0YQ235Xkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "guidance",
+        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 215198,
+      "name": "guidance",
+      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 421826,
+  "num_followers": 421884,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
+        "name": "Sea Star",
+        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Sea Star",
+      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
         "name": "Burn It Down",
         "url": "https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 146520,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
-        "name": "Sea Star",
-        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Sea Star",
-      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Will I Ever Know",
-      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Will I Ever Know",
+      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "How Do You Get By",
-        "url": "https://open.spotify.com/album/698NNT71NehpuCIDRFXWic"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Murr",
-          "url": "https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG"
-        }
-      ],
-      "duration_ms": 250614,
-      "name": "How Do You Get By",
-      "url": "https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "Reelin'",
         "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 208250,
       "name": "Reelin'",
       "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "How Do You Get By",
+        "url": "https://open.spotify.com/album/698NNT71NehpuCIDRFXWic"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Murr",
+          "url": "https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG"
+        }
+      ],
+      "duration_ms": 250614,
+      "name": "How Do You Get By",
+      "url": "https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "Test Your Love",
-        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Clover",
-          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "The Ruse",
-      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "Electric Fever",
         "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 227567,
       "name": "Electric Fever",
       "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "Test Your Love",
+        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Clover",
+          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "The Ruse",
+      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "Darlin'",
-        "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Darlin\u2019",
-      "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "Something In The Water",
         "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 203986,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "Darlin'",
+        "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Darlin\u2019",
+      "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "Sister Andre",
-        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "Sister Andre",
-      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "King of Bohemia",
         "url": "https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 218749,
       "name": "King of Bohemia",
       "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "Sister Andre",
+        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "Sister Andre",
+      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
     },
     {
       "added_at": "2025-03-19 18:26:36",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-03-19 18:26:36",
       "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
-    },
-    {
-      "added_at": "2025-03-19 18:26:36",
-      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 224266,
       "name": "Waterfallin'",
       "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
+    },
+    {
+      "added_at": "2025-03-19 18:26:36",
+      "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
     },
     {
       "added_at": "2025-03-19 18:26:36",

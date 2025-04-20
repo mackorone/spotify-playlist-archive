@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 464824,
+  "num_followers": 464821,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
-      "added_at": "2023-04-12 01:28:07",
-      "album": {
-        "name": "chronopolis",
-        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
-      },
-      "artists": [
-        {
-          "name": "derek muro",
-          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "realcopy",
-      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
-    },
-    {
       "added_at": "2022-03-11 06:33:02",
       "album": {
         "name": "Yesterday Faded (Edit)",
@@ -707,6 +691,22 @@
       "duration_ms": 242784,
       "name": "Yesterday Faded - Edit",
       "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
+    },
+    {
+      "added_at": "2023-04-12 01:28:07",
+      "album": {
+        "name": "chronopolis",
+        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+      },
+      "artists": [
+        {
+          "name": "derek muro",
+          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "realcopy",
+      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
-      "added_at": "2022-08-19 02:33:31",
-      "album": {
-        "name": "Order",
-        "url": "https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer"
-      },
-      "artists": [
-        {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Warm Fuzzies: The Glory",
-      "url": "https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA"
-    },
-    {
       "added_at": "2023-11-08 01:35:05",
       "album": {
         "name": "Zan",
@@ -815,6 +799,22 @@
       "duration_ms": 285000,
       "name": "Zan",
       "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
+    },
+    {
+      "added_at": "2022-08-19 02:33:31",
+      "album": {
+        "name": "Order",
+        "url": "https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Warm Fuzzies: The Glory",
+      "url": "https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA"
     },
     {
       "added_at": "2022-07-15 18:13:54",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
-      "added_at": "2023-03-31 19:28:59",
-      "album": {
-        "name": "Verve EP",
-        "url": "https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 337194,
-      "name": "Opak",
-      "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
-    },
-    {
       "added_at": "2024-05-08 03:36:12",
       "album": {
         "name": "The Precision of Infinity",
@@ -883,6 +867,22 @@
       "duration_ms": 280200,
       "name": "The Precision Of Infinity",
       "url": "https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD"
+    },
+    {
+      "added_at": "2023-03-31 19:28:59",
+      "album": {
+        "name": "Verve EP",
+        "url": "https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 337194,
+      "name": "Opak",
+      "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
     }
   ],
   "unique_name": "Genre Glitch",

@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "The Last Doll",
+        "url": "https://open.spotify.com/album/7yn4tvk6FnItSAPYgPaQ4F"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211652,
+      "name": "Comfy",
+      "url": "https://open.spotify.com/track/0Lkw5KjKiBgX8nZbUTy1jw"
+    },
+    {
+      "album": {
         "name": "Songs In A Minor (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4D50mUGHwK0tZ7oVUx6Mx3"
       },

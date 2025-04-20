@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Lana Del Rey, Josh Ross, JID, Davido, Leon Thomas and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,141 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,220 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 35 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 |
 | 36 | [METATRON](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [METATRON](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 |
 | 37 | [Feather In My Hat \(feat\. Lainey Wilson\)](https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Eagle Feather](https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI) | 3:21 |
-| 38 | [21](https://open.spotify.com/track/17NugyNtDtZbGTW2hQNPOU) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Sardar Khehra](https://open.spotify.com/artist/6BHbZCsasnUoxO8MkGAv8u) | [HIT LIST](https://open.spotify.com/album/5go4tm1zyhDdQAKBDi1mRo) | 2:16 |
+| 38 | [21](https://open.spotify.com/track/17NugyNtDtZbGTW2hQNPOU) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP) | [HIT LIST](https://open.spotify.com/album/5go4tm1zyhDdQAKBDi1mRo) | 2:16 |
 | 39 | [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 |
 | 40 | [Rain Crow](https://open.spotify.com/track/1vZwn9shBmyZfoorT4zxi4) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Justin Robinson](https://open.spotify.com/artist/2mOT5MxVjb9Jhc2CEqyVvw) | [What Did the Blackbird Say to the Crow](https://open.spotify.com/album/27X6vmJ0YmKi9ydl0aM65m) | 2:28 |
 | 41 | [R 2 ME](https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [R 2 ME](https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN) | 2:32 |

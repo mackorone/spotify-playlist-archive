@@ -3435,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Hit The Brakes",
+        "url": "https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Hit The Brakes",
+      "url": "https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX"
+    },
+    {
+      "album": {
         "name": "Home In That Bass",
         "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
       },
@@ -4904,7 +4922,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 103714,
       "name": "Mwah! (I'm That Bitch)",
       "url": "https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW"

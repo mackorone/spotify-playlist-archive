@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 198521,
+  "num_followers": 198578,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAABMNq2+aBNBeizAJbmHaoFE",
+  "snapshot_id": "aAGWAAAAAACIDEPC8d4AXbya1aFkL8Rz",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' Andar Risue\u00f1o",
+        "url": "https://open.spotify.com/album/0cPYwfMhD0H0RVwOLiNM13"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Pa' Andar Risue\u00f1o",
+      "url": "https://open.spotify.com/track/4PXt1De2NogcDlcDkf9jJa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 202666,
       "name": "Solita",
       "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' Andar Risue\u00f1o",
-        "url": "https://open.spotify.com/album/0cPYwfMhD0H0RVwOLiNM13"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Pa' Andar Risue\u00f1o",
-      "url": "https://open.spotify.com/track/4PXt1De2NogcDlcDkf9jJa"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flaco Pesado",
-        "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 157074,
-      "name": "Flaco Pesado",
-      "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flaco Pesado",
+        "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 157074,
+      "name": "Flaco Pesado",
+      "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
     },
     {
       "added_at": null,

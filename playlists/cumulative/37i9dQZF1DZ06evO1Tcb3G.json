@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 171000,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/1VJ5aTih2uI1DvQgMxplV8"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 169906,
       "name": "Cold Arms",
       "url": "https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 221099,
       "name": "Fool You\u2019ve Landed",
       "url": "https://open.spotify.com/track/0MKQZo1oHR4IOoc63V6Mxg"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 236866,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1tQtvqPs77t6CYemcXOs2T"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 236883,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2DT29yY6D5Ko07qMohmuGe"
@@ -1406,10 +1406,28 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+    },
+    {
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
     },
     {
       "album": {

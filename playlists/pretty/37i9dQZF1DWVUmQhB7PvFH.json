@@ -1,6 +1,6 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u65b9\u5927\u540c (Khalil Fong)",
-  "num_followers": 233608,
+  "num_followers": 233671,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-04-16 07:11:37",
       "album": {
+        "name": "\u5fc3\u8df3",
+        "url": "https://open.spotify.com/album/4q3Dp4JkTVThfMe2OiZfUx"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "\u5fc3\u8df3",
+      "url": "https://open.spotify.com/track/740KtWw1r4f5Gd6UXzhYNp"
+    },
+    {
+      "added_at": "2025-04-16 07:11:37",
+      "album": {
         "name": "\u770b\u621172\u8b8a",
         "url": "https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2025-04-16 07:11:37",
       "album": {
-        "name": "\u5f8c \u9752\u6625\u671f\u7684\u8a69",
-        "url": "https://open.spotify.com/album/3cCdHi2r9iknmDTBSOWlqF"
-      },
-      "artists": [
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
-        }
-      ],
-      "duration_ms": 299906,
-      "name": "\u4f60\u4e0d\u662f\u771f\u6b63\u7684\u5feb\u6a02",
-      "url": "https://open.spotify.com/track/1XfWRrji6DBo420tz75tNV"
-    },
-    {
-      "added_at": "2025-04-16 07:11:37",
-      "album": {
         "name": "11\u6708\u7684\u856d\u90a6",
         "url": "https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2025-04-16 07:11:37",
       "album": {
-        "name": "\u5fc3\u8df3",
-        "url": "https://open.spotify.com/album/4q3Dp4JkTVThfMe2OiZfUx"
+        "name": "\u5f8c \u9752\u6625\u671f\u7684\u8a69",
+        "url": "https://open.spotify.com/album/3cCdHi2r9iknmDTBSOWlqF"
       },
       "artists": [
         {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
         }
       ],
-      "duration_ms": 263400,
-      "name": "\u5fc3\u8df3",
-      "url": "https://open.spotify.com/track/740KtWw1r4f5Gd6UXzhYNp"
+      "duration_ms": 299906,
+      "name": "\u4f60\u4e0d\u662f\u771f\u6b63\u7684\u5feb\u6a02",
+      "url": "https://open.spotify.com/track/1XfWRrji6DBo420tz75tNV"
     },
     {
       "added_at": "2025-04-16 07:11:37",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-04-16 07:11:37",
       "album": {
-        "name": "\u611b\u4f60",
-        "url": "https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu"
+        "name": "\u4e0d\u8aaa\u51fa\u7684\u6eab\u67d4",
+        "url": "https://open.spotify.com/album/4T39XZq1SSz0c1VjhJAhJU"
       },
       "artists": [
         {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+          "name": "Fan Yi Chen",
+          "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
         }
       ],
-      "duration_ms": 233213,
-      "name": "\u7b2c\u4e00\u6b21\u611b\u7684\u4eba",
-      "url": "https://open.spotify.com/track/0aS2KtZUK3AHnaDvJSMsIw"
+      "duration_ms": 273093,
+      "name": "\u653e\u751f",
+      "url": "https://open.spotify.com/track/1FYDHcFBASKDxhjkLLbh5X"
     }
   ],
   "unique_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",

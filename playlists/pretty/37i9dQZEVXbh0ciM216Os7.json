@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACVSSX0ZlGu7bWCdMj6BQxh",
+  "snapshot_id": "AAAAAAAAAAB5H2ov7bhj30LGb7yTHN2X",
   "tracks": [
     {
       "added_at": "2025-04-18 04:00:00",
@@ -63,6 +63,46 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/2sH5rG6MxVFjYA2PG777fv"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        }
+      ],
+      "duration_ms": 130701,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/0cZYSpHP1FzZT1JWnUaq2p"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Abracadabra (Gesaffelstein Remix)",
+        "url": "https://open.spotify.com/album/313T8fnlDeKWEtoq9vwWAO"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "duration_ms": 211735,
+      "name": "Abracadabra - Gesaffelstein Remix",
+      "url": "https://open.spotify.com/track/17sOAutZqK3xM5O6Cc2pMj"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
         "name": "Come Back Around",
         "url": "https://open.spotify.com/album/60kH3xNqaxGOkLcJLC882s"
       },
@@ -83,30 +123,6 @@
       "duration_ms": 234586,
       "name": "It Factor",
       "url": "https://open.spotify.com/track/4TXz2EPuXtGR7gzgLylIdG"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Kush + Orange Juice 2",
-        "url": "https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        }
-      ],
-      "duration_ms": 228732,
-      "name": "Jet Taylor - feat. Terrace Martin and Curren$y",
-      "url": "https://open.spotify.com/track/7iPvtDaI6p06iusfigUrC7"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -155,8 +171,52 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "The Art of Listening (with RZA)",
-        "url": "https://open.spotify.com/album/1KfDY6QzdyvplRqVgbBGnY"
+        "name": "I Ain't Comin' Back",
+        "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "I Ain't Comin' Back (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Kush + Orange Juice 2",
+        "url": "https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "duration_ms": 228732,
+      "name": "Jet Taylor - feat. Terrace Martin and Curren$y",
+      "url": "https://open.spotify.com/track/7iPvtDaI6p06iusfigUrC7"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "TRY",
+        "url": "https://open.spotify.com/album/3aRDrfQdwSjCzIetgFGC13"
       },
       "artists": [
         {
@@ -170,7 +230,7 @@
       ],
       "duration_ms": 116645,
       "name": "The Art of Listening (with RZA)",
-      "url": "https://open.spotify.com/track/6MPyW6EXMU4KwiTkOwiJCo"
+      "url": "https://open.spotify.com/track/2SWMebYbkkx7zZsnsfVPrk"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -195,6 +255,22 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
+        "name": "RIGHT ON TRACK",
+        "url": "https://open.spotify.com/album/58m21NWAdq1miS65qwCBUc"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 228704,
+      "name": "RIGHT ON TRACK",
+      "url": "https://open.spotify.com/track/2stzMSLIhrWoCOwzSBkxag"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
         "name": "Once Within A Time (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/39D8mDGAExY9nrAZbgiu1l"
       },
@@ -204,29 +280,13 @@
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "Sussan Deyhim",
-          "url": "https://open.spotify.com/artist/5JdC4MOQDRxMHoofdZJY0F"
+          "name": "Philip Glass Ensemble",
+          "url": "https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp"
         }
       ],
-      "duration_ms": 241377,
-      "name": "Clarion Call",
-      "url": "https://open.spotify.com/track/13ziApye7jTd4NCr6RU4kr"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Sunshine & Rain...",
-        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 197796,
-      "name": "Sunshine & Rain...",
-      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
+      "duration_ms": 445825,
+      "name": "Act II (Facades)",
+      "url": "https://open.spotify.com/track/16Ewc48JyYhULUczHNCyqE"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -271,38 +331,6 @@
       "duration_ms": 192702,
       "name": "Warriors Two, Cooley High",
       "url": "https://open.spotify.com/track/3meUWngyJwuYjJxQ334vXd"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 207420,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Soft Girl Era",
-        "url": "https://open.spotify.com/album/5jBlZoU6wTgDDsNyr8PZwO"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 186482,
-      "name": "Soft Girl Era",
-      "url": "https://open.spotify.com/track/1Jk072eWqMwDQwvI7R8fff"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -415,22 +443,18 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Spirit Box",
-        "url": "https://open.spotify.com/album/3PJHdTwoBNb0RUSaHd6gFP"
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
       },
       "artists": [
         {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Cesco",
-          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         }
       ],
-      "duration_ms": 167334,
-      "name": "Garmonbozia - Cesco Remix",
-      "url": "https://open.spotify.com/track/16OuSBmV7aLCj505xzE1Nu"
+      "duration_ms": 317789,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -451,18 +475,22 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
+        "name": "Spirit Box",
+        "url": "https://open.spotify.com/album/3PJHdTwoBNb0RUSaHd6gFP"
       },
       "artists": [
         {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
         }
       ],
-      "duration_ms": 317789,
-      "name": "Lazarus",
-      "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
+      "duration_ms": 167334,
+      "name": "Garmonbozia - Cesco Remix",
+      "url": "https://open.spotify.com/track/16OuSBmV7aLCj505xzE1Nu"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -483,18 +511,18 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Doppler Affection",
-        "url": "https://open.spotify.com/album/3c5rCd8nQe3WkDTm869aUM"
+        "name": "Ballad of the Last Payphone",
+        "url": "https://open.spotify.com/album/5sNAzykESrOkQ7kFlRdNs2"
       },
       "artists": [
         {
-          "name": "The Cost",
-          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
         }
       ],
-      "duration_ms": 229125,
-      "name": "One of a Kind",
-      "url": "https://open.spotify.com/track/3rjP5E00ajzEQoZVTxLOQS"
+      "duration_ms": 235453,
+      "name": "Ballad of the Last Payphone",
+      "url": "https://open.spotify.com/track/7vyW4yBldhKGnUsPPDSUWV"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -523,22 +551,6 @@
       "duration_ms": 157648,
       "name": "Loco (feat. Migos) - Remix",
       "url": "https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Ballad of the Last Payphone",
-        "url": "https://open.spotify.com/album/5sNAzykESrOkQ7kFlRdNs2"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 235453,
-      "name": "Ballad of the Last Payphone",
-      "url": "https://open.spotify.com/track/7vyW4yBldhKGnUsPPDSUWV"
     },
     {
       "added_at": "2025-04-18 04:00:00",

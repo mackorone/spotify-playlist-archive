@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring JID, Yeat, Key Glock and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,120 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,273 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Losing Feathers](https://open.spotify.com/track/68OrstzJ9ZwZr10JVHzb6D) | [The Underachievers](https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N), [Issa Gold](https://open.spotify.com/artist/4AQPiL37xjPAgBfEEYQrg9), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Homecoming](https://open.spotify.com/album/1nzUTLirQi5b0lC9JtfIIJ) | 3:13 |
 | 36 | [Prairie View \(feat\. Monaleo\)](https://open.spotify.com/track/4SRO28Mlz2386J87Nzwq7D) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Prairie View](https://open.spotify.com/album/21G9fcYSqk08kpBiFK6SrK) | 2:16 |
 | 37 | [Just Like You](https://open.spotify.com/track/1Q9Lsjc4HhYRXeXntyhqx3) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Just Like You](https://open.spotify.com/album/6Oh8acU6S1fJG1TCSENjNa) | 2:49 |
-| 38 | [Tired of Being A Simp](https://open.spotify.com/track/3k8OK4KCeg62Zr7N8QtxMO) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [You Can't Say That](https://open.spotify.com/album/1HQJGuWN0N8WCEpczQpQut) | 2:13 |
+| 38 | [Tired Of Being A Simp](https://open.spotify.com/track/3k8OK4KCeg62Zr7N8QtxMO) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [You Can't Say That](https://open.spotify.com/album/1HQJGuWN0N8WCEpczQpQut) | 2:13 |
 | 39 | [Pick a Side \(feat\. Jazze Pha, Snoop Dogg & Rexx Life Raj\)](https://open.spotify.com/track/1wQVgcilCm5hU2SHrfYRZw) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [SIR TOO $HORT, VOL\. 1 \(FREAKY TALES\)](https://open.spotify.com/album/3UG18Q4jn9Z0LKFXmoMiFL) | 2:58 |
 | 40 | [Arm in the Rim](https://open.spotify.com/track/32RjHwj2tmM7u0BJqkzNAb) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Addie Pitino 2](https://open.spotify.com/album/4OXjFeI3f9yUWtNBx9L2Ms) | 2:31 |
 | 41 | [Off The Land](https://open.spotify.com/track/6r2y8cwDFR2swmUoZuFmaw) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Off The Land](https://open.spotify.com/album/2GoAbSxqF5Mz3upfL6wzuf) | 1:50 |

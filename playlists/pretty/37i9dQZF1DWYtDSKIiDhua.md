@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Hoāng
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,661 likes - 93 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,662 likes - 93 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 71 | [Nobody Like U \(Interlude\)](https://open.spotify.com/track/6UNeYace48ikp6kLlTIiOf) | [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ) | [Nobody Like U \(Interlude\)](https://open.spotify.com/album/6fvMH4jsCJo9dDy2hzJcxB) | 2:28 |
 | 72 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 73 | [My World](https://open.spotify.com/track/4Jc7Ijwrk9vpQza9wy5eKR) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 3:34 |
-| 74 | [You're a Liar \(You Love Me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [You're a Liar \(You Love Me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
+| 74 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
 | 75 | [It's Okay To Not Be Okay](https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Okay To Not Be Okay](https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe) | 3:29 |
 | 76 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
 | 77 | [Baby \(Let Me Go\)](https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Latinka](https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [Baby \(Let Me Go\)](https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H) | 4:08 |

@@ -1,13 +1,29 @@
 {
   "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 48657,
+  "num_followers": 48685,
   "original_name": "This Is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAAC+SkRFMuATk9H/fR2s16mD",
+  "snapshot_id": "aAGWAAAAAACoj1x1IdB/lw1p1hqOERzw",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 149675,
+      "name": "Hope It Hurts",
+      "url": "https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY"
+    },
     {
       "added_at": null,
       "album": {
@@ -123,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 127780,
-      "name": "i'm yours sped up",
-      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HEARTBEAT",
         "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 124959,
       "name": "HEARTBEAT",
       "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
     },
     {
       "added_at": null,
@@ -363,6 +379,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 125596,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/5JC4XWf0j1mc86I5vpaViE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GAMEBOY",
+        "url": "https://open.spotify.com/album/2uM3S8vnJ0HVqnPAqGFgQq"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "GAMEBOY",
+      "url": "https://open.spotify.com/track/3rH2aivQdfPh6aLWloxPwj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "YOU FEAR THE GOD THAT LOVES YOU",
         "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
       },
@@ -379,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 178806,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/4OVK8oaLIhx9Xu0P8D3SA7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "YOU FEAR THE GOD THAT LOVES YOU",
         "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
       },
@@ -391,6 +455,70 @@
       "duration_ms": 166452,
       "name": "praying",
       "url": "https://open.spotify.com/track/2nPOaOSY7HAitNxGGhM0cR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 151021,
+      "name": "Girl Of Your Dreams",
+      "url": "https://open.spotify.com/track/57VTWm2rMYF5MP1H5Cw0qW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 143656,
+      "name": "Destroy Myself For You",
+      "url": "https://open.spotify.com/track/2ORzVBlYsxSlFL6moTxxxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 155196,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/0isd3qAsRc0f4sOlsNn4cB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 140374,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/5hRpKNogEPwDNdDKYYTtmJ"
     }
   ],
   "unique_name": "This Is Isabel LaRosa",

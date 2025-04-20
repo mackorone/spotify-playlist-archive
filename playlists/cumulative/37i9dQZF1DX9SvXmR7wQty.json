@@ -7947,6 +7947,36 @@
     },
     {
       "album": {
+        "name": "N\u00e9s Pour Briller : Book II",
+        "url": "https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "D2",
+          "url": "https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "C'est Quoi Ton D\u00e9lire",
+      "url": "https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk"
+    },
+    {
+      "album": {
         "name": "C'est si beau",
         "url": "https://open.spotify.com/album/2Mfeejkw2vcwBg9cOHGqDu"
       },
@@ -37568,7 +37598,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 138306,
       "name": "miki cowboy",
       "url": "https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Sfera e Shiva in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,703 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,936 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 42 | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw) | 2:50 |
 | 43 | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/track/3VJMudHQf9VWu51EHtPBNk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/album/3aY3G5ljgdYzeMsuU1jduq) | 2:36 |
 | 44 | [MEDITERRANEO](https://open.spotify.com/track/1Sa8J8xhhF2n6hLLYogE4H) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [ANGELO BALACLAVA](https://open.spotify.com/album/1n7HkZhfeIrfMaTJJldfEO) | 3:01 |
-| 45 | [Lacrime del diavolo](https://open.spotify.com/track/46oEfzFinosISkSvU2a6Qs) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:46 |
+| 45 | [Lacrime del diavolo \(feat\. Jake La Furia\)](https://open.spotify.com/track/46oEfzFinosISkSvU2a6Qs) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:46 |
 | 46 | [Tutti i giorni](https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:18 |
 | 47 | [64 BARRE DI DOPAMINA \(Red Bull 64 Bars\)](https://open.spotify.com/track/0MaW34pxaFOSYPO0m9cMSn) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Disse](https://open.spotify.com/artist/2t2mbWoOQGudGL9xmLZVVC), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [64 BARRE DI DOPAMINA \(Red Bull 64 Bars\)](https://open.spotify.com/album/3tTqmkEGfwjbmqbhBr5TPU) | 3:03 |
 | 48 | [CINTE DI PELLE \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/5hYWjjR4iA4p0Vo5G4ilUu) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [NON SONO GESÙ](https://open.spotify.com/album/6ExmoTCkfrCs3NbaVRjDeL) | 2:26 |

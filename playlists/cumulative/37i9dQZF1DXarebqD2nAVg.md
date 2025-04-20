@@ -4,7 +4,7 @@
 
 > raw feels,  emotional beats to cry out to ☁️❤️‍🩹
 
-219 songs - 8 hr 33 min
+220 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 | 2019-03-27 | 2024-04-19 |
 | [clear blue atmosphere](https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [clear blue atmosphere](https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ) | 2:20 | 2023-10-27 |  |
 | [Clouds](https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Clouds](https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N) | 2:44 | 2023-10-27 |  |
-| [cold door handles](https://open.spotify.com/track/3pVZWd4YdZhLu3tOZBdQS8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else ep](https://open.spotify.com/album/3nLYsia2FCACqJ2A0BYCZW) | 2:26 | 2019-03-27 |  |
+| [cold door handles](https://open.spotify.com/track/3pVZWd4YdZhLu3tOZBdQS8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else ep](https://open.spotify.com/album/3nLYsia2FCACqJ2A0BYCZW) | 2:26 | 2019-03-27 | 2025-04-20 |
 | [cold door handles](https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else](https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW) | 2:26 | 2019-03-27 | 2024-04-19 |
 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 | 2023-10-27 |  |
 | [curled up](https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [curled up](https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8) | 2:12 | 2023-10-27 |  |
@@ -72,6 +72,7 @@
 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 | 2023-10-27 |  |
 | [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 | 2023-02-16 | 2023-07-07 |
 | [French Inhale](https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [444](https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j) | 1:48 | 2023-02-16 | 2023-11-30 |
+| [Fresh Air](https://open.spotify.com/track/4LOyXdINtMw2gCoVdXWJ4y) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Fresh Air](https://open.spotify.com/album/3jlc6xabhwLfEXXKI2CBo2) | 2:29 | 2025-04-18 |  |
 | [frost](https://open.spotify.com/track/4bmuGIHRJYMjL02yXZeoCd) | [Griffin' Groove](https://open.spotify.com/artist/24NgW9lCc4H75rz6nrfpzD) | [frost](https://open.spotify.com/album/09z9j5sgQR4FjntLAgjqV0) | 2:40 | 2023-10-27 | 2024-05-14 |
 | [Frostthrone](https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7) | [Frostthrone](https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl) | 3:48 | 2019-03-27 | 2024-05-14 |
 | [Frozen](https://open.spotify.com/track/5LozFJFkPYR5x5INGZHU0R) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Frozen](https://open.spotify.com/album/4s5jXhv9WeEFp22phtX0K9) | 3:09 | 2025-03-13 | 2025-03-25 |

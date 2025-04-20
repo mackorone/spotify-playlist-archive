@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Cliente Frecuente",
+        "url": "https://open.spotify.com/album/5cVg6TTXQvrzD7YaVvoY2Q"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169556,
+      "name": "Cliente Frecuente",
+      "url": "https://open.spotify.com/track/21Rty7kWQngfzDLqRBDJzh"
+    },
+    {
+      "album": {
         "name": "Soy Sagitario",
         "url": "https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60"
       },
@@ -604,6 +622,24 @@
       "duration_ms": 176199,
       "name": "Esto Es As\u00ed",
       "url": "https://open.spotify.com/track/4t9EQ2mAXzPZLpMPwDAGIM"
+    },
+    {
+      "album": {
+        "name": "Examen de Tristeza",
+        "url": "https://open.spotify.com/album/2rECZItHNLUi8lo1Qthke5"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184655,
+      "name": "Examen de Tristeza",
+      "url": "https://open.spotify.com/track/2SocElbfCrZro6TBLdfGpp"
     },
     {
       "album": {
@@ -1064,7 +1100,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 202392,
       "name": "No Se Dice",
       "url": "https://open.spotify.com/track/5fzeebAg9ZJUwCbhkIIgiZ"
@@ -1536,7 +1572,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 242944,
       "name": "TODO",
       "url": "https://open.spotify.com/track/1EmlHrs93OOsyz8lAMfmCW"

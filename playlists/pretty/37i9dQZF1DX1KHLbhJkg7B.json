@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Brooks & Dunn",
-  "num_followers": 126536,
+  "num_followers": 126601,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -387,42 +387,6 @@
     {
       "added_at": "2025-03-28 04:00:39",
       "album": {
-        "name": "Wake Me up (Country Version)",
-        "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
-      },
-      "artists": [
-        {
-          "name": "Cooper Alan",
-          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Wake Me up (Country Version)",
-      "url": "https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu"
-    },
-    {
-      "added_at": "2025-03-28 04:00:39",
-      "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/6kwvbPkXCbL0ywkLUlooKo"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 193456,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/4T0NKEfBxsVsSjoMg5FsNV"
-    },
-    {
-      "added_at": "2025-03-28 04:00:39",
-      "album": {
         "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
@@ -443,6 +407,42 @@
       "duration_ms": 216194,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ"
+    },
+    {
+      "added_at": "2025-03-28 04:00:39",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/6kwvbPkXCbL0ywkLUlooKo"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 193456,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4T0NKEfBxsVsSjoMg5FsNV"
+    },
+    {
+      "added_at": "2025-03-28 04:00:39",
+      "album": {
+        "name": "Wake Me up (Country Version)",
+        "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Wake Me up (Country Version)",
+      "url": "https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu"
     },
     {
       "added_at": "2025-03-28 04:00:39",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2025-03-28 04:00:39",
       "album": {
-        "name": "I'm On Fire - Spotify Singles",
-        "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
         }
       ],
-      "duration_ms": 209586,
-      "name": "I'm On Fire - Spotify Singles",
-      "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
+      "duration_ms": 186346,
+      "name": "Wild And Blue",
+      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
     },
     {
       "added_at": "2025-03-28 04:00:39",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2025-03-28 04:00:39",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
+        "name": "I'm On Fire - Spotify Singles",
+        "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
       },
       "artists": [
         {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 186346,
-      "name": "Wild And Blue",
-      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
+      "duration_ms": 209586,
+      "name": "I'm On Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
     },
     {
       "added_at": "2025-03-28 04:00:39",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-03-28 04:00:39",
       "album": {
+        "name": "Pure BS (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
+    },
+    {
+      "added_at": "2025-03-28 04:00:39",
+      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 278000,
       "name": "Seminole Wind",
       "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
-    },
-    {
-      "added_at": "2025-03-28 04:00:39",
-      "album": {
-        "name": "Pure BS (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
     },
     {
       "added_at": "2025-03-28 04:00:39",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2025-03-28 04:00:39",
       "album": {
-        "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
-        "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
-      "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
-    },
-    {
-      "added_at": "2025-03-28 04:00:39",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8"
       },
@@ -1491,18 +1471,22 @@
     {
       "added_at": "2025-03-28 04:00:39",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX"
+        "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+        "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
       "artists": [
         {
-          "name": "Charly Reynolds",
-          "url": "https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 276116,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A"
+      "duration_ms": 216546,
+      "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+      "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
     },
     {
       "added_at": "2025-03-28 04:00:39",
@@ -1519,6 +1503,22 @@
       "duration_ms": 269525,
       "name": "Just to See You Smile",
       "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
+    },
+    {
+      "added_at": "2025-03-28 04:00:39",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX"
+      },
+      "artists": [
+        {
+          "name": "Charly Reynolds",
+          "url": "https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp"
+        }
+      ],
+      "duration_ms": 276116,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A"
     },
     {
       "added_at": "2025-03-28 04:00:39",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-03-28 04:00:39",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/6poT82LErL1xylnfgoVNqQ"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 494800,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw"
-    },
-    {
-      "added_at": "2025-03-28 04:00:39",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 171320,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
+    },
+    {
+      "added_at": "2025-03-28 04:00:39",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/6poT82LErL1xylnfgoVNqQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 494800,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw"
     },
     {
       "added_at": "2025-03-28 04:00:39",

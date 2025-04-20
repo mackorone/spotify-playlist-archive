@@ -5619,6 +5619,24 @@
     },
     {
       "album": {
+        "name": "My Creed",
+        "url": "https://open.spotify.com/album/0H6Y4VYYR1W25moo3pLyU1"
+      },
+      "artists": [
+        {
+          "name": "Kayode Fadase",
+          "url": "https://open.spotify.com/artist/5FRJXfl6Djm3F5YarEHIiz"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195419,
+      "name": "My Creed",
+      "url": "https://open.spotify.com/track/4It6ngpkrnIVsudb0M8eJn"
+    },
+    {
+      "album": {
         "name": "MY DADDY",
         "url": "https://open.spotify.com/album/6vqFXA9wiTuFr5cSLfezI5"
       },
@@ -8509,7 +8527,7 @@
         },
         {
           "name": "TegaBeatz",
-          "url": "https://open.spotify.com/artist/6wPNVm0ql3E0kFdZagm6ex"
+          "url": "https://open.spotify.com/artist/45RxWSIb7jS3pR9dOkK1lt"
         }
       ],
       "date_added": "2025-04-18",

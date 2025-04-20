@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover: <a href=https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=aAspDRzFQvqjWUhQsbESKA>Victor Thompson</a>",
-  "num_followers": 34492,
+  "num_followers": 34516,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWWwAAAACDxxYOj0qSP13ejqRk7Kg4",
+  "snapshot_id": "aAN8OgAAAAC83+hQZmIP0e0jdbVbW0mt",
   "tracks": [
     {
       "added_at": "2025-04-18 00:01:31",
@@ -165,6 +165,30 @@
       "url": "https://open.spotify.com/track/2gzifUVRtwtwyoe3SzsN87"
     },
     {
+      "added_at": "2025-04-19 10:28:19",
+      "album": {
+        "name": "FRIEND INDEED",
+        "url": "https://open.spotify.com/album/3ZtXTQaPwtw9s7TENPCH2u"
+      },
+      "artists": [
+        {
+          "name": "Godfrey Gad",
+          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
+        },
+        {
+          "name": "Sound Of Salem",
+          "url": "https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I"
+        },
+        {
+          "name": "Pst. Oche Ogebe",
+          "url": "https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk"
+        }
+      ],
+      "duration_ms": 139991,
+      "name": "FRIEND INDEED",
+      "url": "https://open.spotify.com/track/37Z396VXnlD0ZaAukhljSl"
+    },
+    {
       "added_at": "2025-04-11 00:01:30",
       "album": {
         "name": "BURU",
@@ -251,6 +275,58 @@
       "duration_ms": 305806,
       "name": "Consecrated",
       "url": "https://open.spotify.com/track/0GVWAGutilYa8UnjWy7For"
+    },
+    {
+      "added_at": "2025-04-19 10:34:34",
+      "album": {
+        "name": "Chayyim",
+        "url": "https://open.spotify.com/album/1WvT2OBu7myGedtQHAgkai"
+      },
+      "artists": [
+        {
+          "name": "Pacome BenHaelohim",
+          "url": "https://open.spotify.com/artist/4Ytvgrankp38Tw46uJwPOj"
+        },
+        {
+          "name": "Sarepta Faveur",
+          "url": "https://open.spotify.com/artist/1R5Ud8jFIhhFfUXnVmmjPE"
+        }
+      ],
+      "duration_ms": 375272,
+      "name": "God Is Alive",
+      "url": "https://open.spotify.com/track/5avTXXUA36ekHDaec72R6m"
+    },
+    {
+      "added_at": "2025-04-11 00:01:30",
+      "album": {
+        "name": "My Creed",
+        "url": "https://open.spotify.com/album/0H6Y4VYYR1W25moo3pLyU1"
+      },
+      "artists": [
+        {
+          "name": "Kayode Fadase",
+          "url": "https://open.spotify.com/artist/5FRJXfl6Djm3F5YarEHIiz"
+        }
+      ],
+      "duration_ms": 195419,
+      "name": "My Creed",
+      "url": "https://open.spotify.com/track/4It6ngpkrnIVsudb0M8eJn"
+    },
+    {
+      "added_at": "2025-04-19 10:34:34",
+      "album": {
+        "name": "Jesu Ti\u1e63e",
+        "url": "https://open.spotify.com/album/2cE9hDKzcMxO9W70zivKJZ"
+      },
+      "artists": [
+        {
+          "name": "Helen Yawson",
+          "url": "https://open.spotify.com/artist/3ChtrSrR4Klo88Gkp3mCc0"
+        }
+      ],
+      "duration_ms": 300187,
+      "name": "Jesu Ti\u1e63e",
+      "url": "https://open.spotify.com/track/1zXDwgJUsywfAxMcCmdLqg"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -627,22 +703,6 @@
       "duration_ms": 327653,
       "name": "Onjengawe Jesu Wami - Medley 10",
       "url": "https://open.spotify.com/track/7bYfOZ2LIsVMaR75INcrbl"
-    },
-    {
-      "added_at": "2025-04-11 00:01:30",
-      "album": {
-        "name": "My Creed",
-        "url": "https://open.spotify.com/album/0H6Y4VYYR1W25moo3pLyU1"
-      },
-      "artists": [
-        {
-          "name": "Kayode Fadase",
-          "url": "https://open.spotify.com/artist/5FRJXfl6Djm3F5YarEHIiz"
-        }
-      ],
-      "duration_ms": 195419,
-      "name": "My Creed",
-      "url": "https://open.spotify.com/track/4It6ngpkrnIVsudb0M8eJn"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1293,7 +1353,7 @@
         },
         {
           "name": "TegaBeatz",
-          "url": "https://open.spotify.com/artist/6wPNVm0ql3E0kFdZagm6ex"
+          "url": "https://open.spotify.com/artist/45RxWSIb7jS3pR9dOkK1lt"
         }
       ],
       "duration_ms": 186425,

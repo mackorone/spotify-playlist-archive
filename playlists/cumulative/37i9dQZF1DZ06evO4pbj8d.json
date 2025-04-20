@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Nazareth",
+        "url": "https://open.spotify.com/album/1Ny7Q4HVVdo4fOA99DX4mM"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186514,
+      "name": "Nazareth",
+      "url": "https://open.spotify.com/track/3Jbv6IxhzJK3jthNIbKheI"
+    },
+    {
+      "album": {
         "name": "NO COUNTRY",
         "url": "https://open.spotify.com/album/7ruqdZtzBceRy4B5WVvAlg"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 229240,
       "name": "this little lighter of mine (joy version)",
       "url": "https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO"

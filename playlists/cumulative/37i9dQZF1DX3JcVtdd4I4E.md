@@ -4,7 +4,7 @@
 
 > Welcome to the Nordic queendom.
 
-158 songs - 8 hr 4 min
+159 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 | 2024-02-08 |  |
 | [It's Not My Fault](https://open.spotify.com/track/759I7gXSRfrXFpXTqovwMa) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Salt](https://open.spotify.com/album/2Qyj2igDUVDUsTiteIIrer) | 2:40 | 2025-03-04 |  |
 | [I’ll Think of You](https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Solitude](https://open.spotify.com/album/3p3saMidKHm879P3SC0znA) | 2:23 | 2024-02-08 | 2025-03-05 |
-| [Jars](https://open.spotify.com/track/590ecw84DmjMvGcK8rw5jb) | [Joselin](https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt) | [Jars](https://open.spotify.com/album/6ZHr5O5D4q7xfvLUIbASA5) | 2:19 | 2025-03-11 |  |
+| [Jars](https://open.spotify.com/track/590ecw84DmjMvGcK8rw5jb) | [Joselin](https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt) | [Jars](https://open.spotify.com/album/6ZHr5O5D4q7xfvLUIbASA5) | 2:19 | 2025-03-11 | 2025-04-20 |
 | [Kamikaze Life](https://open.spotify.com/track/7GD6wNULWTgFoNNZN2Q5Fk) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Kamikaze Life](https://open.spotify.com/album/4eB1ll3k2qLZVWrF2TNFjz) | 3:01 | 2025-03-04 |  |
 | [Lazy](https://open.spotify.com/track/4uFSthUW4PTiYT89ShAvpC) | [Ameli Dot](https://open.spotify.com/artist/6rX000PthIdtHGAlvGZODh) | [Lazy](https://open.spotify.com/album/2xjF3kxMxZtgPYGc3amcQu) | 2:16 | 2025-03-04 | 2025-04-19 |
 | [Legend \(Fortress\)](https://open.spotify.com/track/6j0WPaER95jkSIWRTxMatl) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Legend of Ely](https://open.spotify.com/album/7Ci2YH3SZUO6mk2djiHH7J) | 3:21 | 2024-02-08 | 2025-03-05 |
@@ -140,6 +140,7 @@
 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 | 2024-02-08 | 2025-03-05 |
 | [Strawberry Dream](https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strawberry Dream](https://open.spotify.com/album/7CQX6aejSNeztkuDRmkRhV) | 3:11 | 2025-03-04 |  |
 | [Summer Rain](https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Summer Rain](https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B) | 2:42 | 2024-02-08 | 2025-03-05 |
+| [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 | 2025-03-11 |  |
 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2024-02-08 | 2025-02-25 |
 | [SUPERSONIC](https://open.spotify.com/track/4q7R7pOqr3gNj7VJpgwTKu) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [SUPERSONIC](https://open.spotify.com/album/4zZ4ajMHG4gXXdljaZR7kH) | 2:46 | 2025-03-04 | 2025-04-09 |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-03-04 |  |

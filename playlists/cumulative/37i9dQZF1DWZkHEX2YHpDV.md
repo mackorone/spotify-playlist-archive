@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Mayday Parade
 
-1,377 songs - 3 day 0 hr 43 min
+1,378 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Contain Myself](https://open.spotify.com/track/58n1iUnTwtArC7bduvPebq) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Contain Myself](https://open.spotify.com/album/6kEbxCvh3eN1KOgG0ChOrj) | 2:50 | 2021-12-10 | 2022-07-29 |
 | [conversations](https://open.spotify.com/track/6J0ohmUrbssmeOlfFTb7aY) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [conversations](https://open.spotify.com/album/2M4v9DoTHg0Hw4adhhmB6b) | 2:01 | 2023-04-10 | 2023-04-24 |
 | [Count It Up](https://open.spotify.com/track/14FQxd5tpDpRmXDm0saUtm) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Count It Up](https://open.spotify.com/album/2sPhsGJAnalTMPPx9krxmu) | 3:26 | 2022-03-25 | 2022-04-19 |
-| [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 | 2024-10-18 |  |
+| [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 | 2024-10-18 | 2025-04-20 |
 | [CRACK MY SKULL](https://open.spotify.com/track/4hqPAxttJibCdJwg4FGRSC) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow \(Deluxe\)](https://open.spotify.com/album/0Ne9hQqlrVOEHTphkXiK9T) | 2:54 | 2021-12-10 | 2022-05-15 |
 | [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 | 2021-12-10 | 2023-04-11 |
 | [Crash Course](https://open.spotify.com/track/2oFf6cTGdZesNk4TxSpuJe) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG) | [Heirloom](https://open.spotify.com/album/0JsLMP8FHcwICqNdCgyw5C) | 3:16 | 2022-02-04 | 2022-04-21 |
@@ -609,6 +609,7 @@
 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 | 2023-09-15 | 2023-09-23 |
 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/6bWBLZLBRQEJ5KsLicouNB) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/album/6iGIjsBt4RJQFYlBBiNk39) | 2:50 | 2021-12-10 | 2022-07-09 |
 | [I Think It's Time](https://open.spotify.com/track/2CkFgrKRdVym1Y1UZPawqq) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [I Think It's Time](https://open.spotify.com/album/67tdElpNSPRUFXHX5EFj8d) | 3:03 | 2024-09-20 | 2025-02-15 |
+| [I Think They Know](https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [I Think They Know](https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1) | 3:06 | 2025-04-18 |  |
 | [I Think You Should Leave](https://open.spotify.com/track/6YcrBSmLlD2vRUjAQkcUtL) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I Think You Should Leave](https://open.spotify.com/album/1XsERUmCUSsSnoGCsNpbX3) | 2:43 | 2023-11-10 | 2024-06-25 |
 | [I Wanna Go Out](https://open.spotify.com/track/1lpazBOGKUvnun0DSkWeQk) | [Wavy Trees](https://open.spotify.com/artist/1raxbMiiHxTcbYbScF9rmM) | [I Wanna Go Out](https://open.spotify.com/album/0SwQCNhjSYSvAcJdQy39MG) | 2:35 | 2022-01-14 | 2022-07-07 |
 | [I Want to Kill You](https://open.spotify.com/track/06YhbREh7qQLF8Sl7tZIyn) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [I Want to Kill You](https://open.spotify.com/album/3v3CJTdsVWzd3tvfozVNOa) | 3:12 | 2021-12-10 | 2022-07-29 |

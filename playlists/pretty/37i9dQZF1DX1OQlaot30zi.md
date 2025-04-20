@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neffa, Night Skinny, Gheba, Flaco G e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,693 likes - 140 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,695 likes - 140 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 6 | [Gelido \(feat\. Joshua, Tormento & Mimì\) \- Live Session](https://open.spotify.com/track/3pY7UWTs2r5PZMGqraokDp) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Gelido \(feat\. Joshua, Tormento & Mimì\) \[Live Session\]](https://open.spotify.com/album/3ATGV1PynOrfI698AnMxW9) | 3:16 |
 | 7 | [San Junipero](https://open.spotify.com/track/5Kjfb10pZKI62LidBmezYW) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [San Junipero](https://open.spotify.com/album/1fb2b1t5tMkdGAJeufs7mb) | 2:31 |
 | 8 | [F\*ck Love](https://open.spotify.com/track/7BZ5YmSnyfMzw3q9RI4MHk) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0) | [F\*ck Love](https://open.spotify.com/album/27P8029lZ9dq9w3S9uwOLL) | 3:23 |
-| 9 | [Lacrime del diavolo](https://open.spotify.com/track/46oEfzFinosISkSvU2a6Qs) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:46 |
+| 9 | [Lacrime del diavolo \(feat\. Jake La Furia\)](https://open.spotify.com/track/46oEfzFinosISkSvU2a6Qs) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:46 |
 | 10 | [Bufera \(feat\. Franco126\)](https://open.spotify.com/track/6DD5LQHa82aepiqNDm3eyv) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Canerandagio \- Parte 1](https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc) | 2:30 |
 | 11 | [Zin Zin \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/3QpfAGCWS5owDwtTzTQzlj) | [NOX](https://open.spotify.com/artist/6b0qbsuBxViNCoV49F4D4A), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Zin Zin \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/682oet2H23I8gNe5Pyld48) | 2:30 |
 | 12 | [SEDICENNE INCINTA \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/0cdHN2xOVKzyMnEC3S7Q28) | [Cuta](https://open.spotify.com/artist/3YHgTUKp46PTi8yhIHOUQi), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [SEDICENNE INCINTA \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/0J0FLastpgtwXYvk4cMzMk) | 2:12 |

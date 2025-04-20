@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWXVWOhZAgm.md) - [plain]
 
 > Music From "Violet Evergarden"!  ©暁佳奈・京都アニメーション／ヴァイオレット・エヴァーガーデン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,467 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,507 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWXVWOhZAgm.md) - [plain]
 | 3 | [The Songstress Aria](https://open.spotify.com/track/2POrYYvaxuFq25wkrUnAts) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [VIOLET EVERGARDEN: Automemories](https://open.spotify.com/album/1RITWu5USu7lcphTyWh6FY) | 1:06 |
 | 4 | [WILL](https://open.spotify.com/track/2Si4DFYRGEdNDRKcgccXbO) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [WILL](https://open.spotify.com/album/6bChfOGtjKzekU77JCNhCR) | 5:31 |
 | 5 | [Dear Violet](https://open.spotify.com/track/1QKGh5TWJtXfOoEEYV8KOU) | [石川由依 \(ヴァイオレット・エヴァーガーデン\)](https://open.spotify.com/artist/13vOgTFHsyJC7hsgolUnDx) | [Letters and Doll 〜Looking back on the memories of Violet Evergarden〜](https://open.spotify.com/album/1CvvKhKl8ykEH4zEiK0uMl) | 5:06 |
-| 6 | [Theme of Violet Evergarden \- Though Seasons Change Ver.](https://open.spotify.com/track/3rqEr4hokLTIXbxdzeNK29) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [アニメ『ヴァイオレット・エヴァーガーデン』ピアノアレンジアルバム「Though Seasons Change ～Violet Evergarden Piano Memories～」](https://open.spotify.com/album/4tSXplq7IQENw6HHD4XQrG) | 2:27 |
+| 6 | [Theme of Violet Evergarden \- Though Seasons Change Ver.](https://open.spotify.com/track/3rqEr4hokLTIXbxdzeNK29) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Animation "Violet Evergarden" Piano Arrange Album: Though Seasons Change\-Violet Evergarden Piano Memories\-](https://open.spotify.com/album/4tSXplq7IQENw6HHD4XQrG) | 2:27 |
 | 7 | [未来のひとへ \- Orchestra ver.](https://open.spotify.com/track/7qZYZWxBwo4UpzbI4KkOLG) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [WILL](https://open.spotify.com/album/6bChfOGtjKzekU77JCNhCR) | 3:54 |
 | 8 | [エイミー](https://open.spotify.com/track/1UuZAN65PXvPx0JJIpxGO5) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [エイミー](https://open.spotify.com/album/5aP4TLsr5GDrnBvkdPoplo) | 4:54 |
 | 9 | [sister](https://open.spotify.com/track/5MsU71soS3G33uBnZZ3aS3) | [石川由依 \(ヴァイオレット・エヴァーガーデン\)](https://open.spotify.com/artist/13vOgTFHsyJC7hsgolUnDx) | [Letters and Doll 〜Looking back on the memories of Violet Evergarden〜](https://open.spotify.com/album/1CvvKhKl8ykEH4zEiK0uMl) | 4:14 |

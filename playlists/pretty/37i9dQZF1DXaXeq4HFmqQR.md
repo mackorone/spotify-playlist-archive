@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Mamma Soul en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,413 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,414 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 10 | [Levítico 20:9](https://open.spotify.com/track/0l3zOe0a5HH4uAw6ZS89dn) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:48 |
 | 11 | [Cariño Malo](https://open.spotify.com/track/2A8IWW4doAylJMntiYO7VY) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc) | [Cariño Malo](https://open.spotify.com/album/1Py0xymBaKzMvbAFi9I5ug) | 3:27 |
 | 12 | [Eternamente](https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Fe](https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym) | 3:14 |
-| 13 | [Volver a los 17](https://open.spotify.com/track/22BcmMzT3mY5CmstuCXSBD) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Las Últimas Composiciones](https://open.spotify.com/album/6hCWXZNwVtLk8vcEFiCmfE) | 4:09 |
+| 13 | [Arauco Tiene una Pena](https://open.spotify.com/track/5VEn738GxQ0CGF3c0zpu6p) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Canciones Reencontradas en París](https://open.spotify.com/album/1ps5BA5hN2pCCtDFVZF341) | 2:57 |
 | 14 | [Canción para Acunar](https://open.spotify.com/track/72vh5bshCrmUNZ1ijYfrDf) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 3:24 |
 | 15 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/16cTFZsb1ELjU7TfsKBmwg) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 2:49 |
 | 16 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
 | 17 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 |
 | 18 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
-| 19 | [Arauco Tiene una Pena](https://open.spotify.com/track/5VEn738GxQ0CGF3c0zpu6p) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Canciones Reencontradas en París](https://open.spotify.com/album/1ps5BA5hN2pCCtDFVZF341) | 2:57 |
+| 19 | [Volver a los 17](https://open.spotify.com/track/22BcmMzT3mY5CmstuCXSBD) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Las Últimas Composiciones](https://open.spotify.com/album/6hCWXZNwVtLk8vcEFiCmfE) | 4:09 |
 | 20 | [Proverbios](https://open.spotify.com/track/5PqnqnJjlby6TQb05jwxG0) | [Javiera & Los Imposibles](https://open.spotify.com/artist/6IEAyaXCPxZoPtCAYZXOxz) | [La Suerte](https://open.spotify.com/album/3nkzokTijxaORG4srJc2bO) | 4:02 |
 | 21 | [La Mariposa](https://open.spotify.com/track/3RTWU4ApWqWGZu3rBrG0oa) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/1XobnPbudhBcVUhdvosE7g) | 4:24 |
 | 22 | [Con los Pies Sobre la Tierra](https://open.spotify.com/track/047xrMTkNMLHqpz9IPqYZR) | [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt) | [Con los Pies Sobre la Tierra](https://open.spotify.com/album/3wCZNKak482e3SvU3CJVa4) | 2:26 |

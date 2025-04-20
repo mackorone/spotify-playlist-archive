@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Parker McCollum, Morgan Wallen with Post Malone, Ian Munsick with Lainey Wilson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,504 likes - 73 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,801 likes - 73 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

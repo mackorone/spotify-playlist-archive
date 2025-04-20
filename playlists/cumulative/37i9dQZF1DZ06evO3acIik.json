@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56000,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/5K6ZJglE2XxqABL3rY2OgB"
+    },
+    {
+      "album": {
         "name": "Light Will Find You",
         "url": "https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7"
       },
@@ -716,7 +734,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 212250,
       "name": "Eyes Only for You",
       "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"

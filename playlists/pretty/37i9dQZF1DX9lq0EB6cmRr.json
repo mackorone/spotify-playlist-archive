@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: John Noh (\uc874 \ub178)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4627,
+  "num_followers": 4629,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2025-04-08 06:34:42",
       "album": {
-        "name": "Boom Boom Bass (Orchestra Version)",
-        "url": "https://open.spotify.com/album/6rxvpb7N5NXGD9PlpAwLBv"
+        "name": "Growl (Orchestra Version)",
+        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
       },
       "artists": [
         {
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
         }
       ],
-      "duration_ms": 162205,
-      "name": "Boom Boom Bass - Orchestra Version",
-      "url": "https://open.spotify.com/track/4OgQ3J2o8mI82LcJOqLrX2"
+      "duration_ms": 244918,
+      "name": "Growl - Orchestra Version",
+      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
     },
     {
       "added_at": "2025-04-08 06:34:42",
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
-      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
+      "duration_ms": 433986,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
+      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
     },
     {
       "added_at": "2025-04-08 06:34:42",
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 433986,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
-      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
+      "duration_ms": 205573,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
     },
     {
       "added_at": "2025-04-08 06:34:42",
@@ -1555,18 +1555,22 @@
     {
       "added_at": "2025-04-08 06:34:42",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
       },
       "artists": [
         {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        },
+        {
+          "name": "COAST82",
+          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
         }
       ],
-      "duration_ms": 283880,
-      "name": "Il Mare Calmo Della Sera",
-      "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
+      "duration_ms": 279528,
+      "name": "Island baby",
+      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
     },
     {
       "added_at": "2025-04-08 06:34:42",
@@ -1587,22 +1591,18 @@
     {
       "added_at": "2025-04-08 06:34:42",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
       },
       "artists": [
         {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        },
-        {
-          "name": "COAST82",
-          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
         }
       ],
-      "duration_ms": 279528,
-      "name": "Island baby",
-      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
+      "duration_ms": 283880,
+      "name": "Il Mare Calmo Della Sera",
+      "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
     },
     {
       "added_at": "2025-04-08 06:34:42",
@@ -1867,6 +1867,30 @@
     {
       "added_at": "2025-04-08 06:34:42",
       "album": {
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
+        },
+        {
+          "name": "Sung-hyun Cho",
+          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
+        },
+        {
+          "name": "Kyeong Ham",
+          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
+        }
+      ],
+      "duration_ms": 361853,
+      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
+      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
+    },
+    {
+      "added_at": "2025-04-08 06:34:42",
+      "album": {
         "name": "Nielsen: Violin Concerto, Op. 33: Ia. Praeludium. Largo",
         "url": "https://open.spotify.com/album/3exdIJxDUdHdjsQFFLGknw"
       },
@@ -1895,6 +1919,22 @@
     {
       "added_at": "2025-04-08 06:34:42",
       "album": {
+        "name": "Sound for Pets",
+        "url": "https://open.spotify.com/album/2AWEg21GlDU04LCnQVljtv"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/7zYXGTdAyM2jJYCiKdWFld"
+    },
+    {
+      "added_at": "2025-04-08 06:34:42",
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
       },
@@ -1911,42 +1951,18 @@
     {
       "added_at": "2025-04-08 06:34:42",
       "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
       },
       "artists": [
         {
-          "name": "Wilhelm Friedemann Bach",
-          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
-        },
-        {
-          "name": "Sung-hyun Cho",
-          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
-        },
-        {
-          "name": "Kyeong Ham",
-          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
         }
       ],
-      "duration_ms": 361853,
-      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
-      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
-    },
-    {
-      "added_at": "2025-04-08 06:34:42",
-      "album": {
-        "name": "Sound for Pets",
-        "url": "https://open.spotify.com/album/2AWEg21GlDU04LCnQVljtv"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/7zYXGTdAyM2jJYCiKdWFld"
+      "duration_ms": 249240,
+      "name": "Blossom of Flower",
+      "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
     },
     {
       "added_at": "2025-04-08 06:34:42",
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2025-04-08 06:34:42",
       "album": {
-        "name": "Lost In Memory",
-        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
-      },
-      "artists": [
-        {
-          "name": "Hyungjoo Lim",
-          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Blossom of Flower",
-      "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
-    },
-    {
-      "added_at": "2025-04-08 06:34:42",
-      "album": {
         "name": "Timepass",
         "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
       },
@@ -2007,22 +2007,18 @@
     {
       "added_at": "2025-04-08 06:34:42",
       "album": {
-        "name": "Timepass",
-        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+        "name": "Une Vie Full album",
+        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Kim Dami",
-          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
         }
       ],
-      "duration_ms": 600280,
-      "name": "Souvenir d'un lieu cher, Op. 42: I. Meditation",
-      "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
+      "duration_ms": 253360,
+      "name": "Une Vie Part 1",
+      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
     }
   ],
   "unique_name": "Classics Korea",

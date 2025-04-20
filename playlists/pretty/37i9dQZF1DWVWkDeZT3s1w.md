@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,737 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,740 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 71 | [104](https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [104](https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy) | 3:08 |
 | 72 | [Escorpión](https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [Escorpión](https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA) | 2:52 |
 | 73 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 |
-| 74 | [El Sueño](https://open.spotify.com/track/3HTFZZNZfFADiNdlElXXNS) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Dina Buendía](https://open.spotify.com/artist/7kW5Upycw8RiwrzFLAEgye), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [El Sueño](https://open.spotify.com/album/30P4JwoLpAo4ky9rHcgHsZ) | 3:13 |
-| 75 | [Helarte](https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb) | [Helarte](https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT) | 3:23 |
-| 76 | [Soy Pueblo](https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71) | [Facto](https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m) | [Pólvora](https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf) | 3:24 |
+| 74 | [Helarte](https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb) | [Helarte](https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT) | 3:23 |
+| 75 | [Soy Pueblo](https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71) | [Facto](https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m) | [Pólvora](https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf) | 3:24 |
+| 76 | [El Sueño](https://open.spotify.com/track/3HTFZZNZfFADiNdlElXXNS) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Dina Buendía](https://open.spotify.com/artist/7kW5Upycw8RiwrzFLAEgye), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [El Sueño](https://open.spotify.com/album/30P4JwoLpAo4ky9rHcgHsZ) | 3:13 |
 | 77 | [REPRE$ENT](https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3), [Der Enyel](https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC) | [REPRE$ENT](https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA) | 4:05 |
 | 78 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
 | 79 | [Inmunes](https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Inmunes](https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU) | 3:14 |

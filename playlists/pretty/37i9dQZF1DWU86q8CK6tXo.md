@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume, co\-curated by cover artist Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,867 likes - 64 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,889 likes - 64 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 31 | [if looks could kill](https://open.spotify.com/track/2w9lI8JcFAL3lCb0bFMRY8) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird: no rain, no flowers \(deluxe\)](https://open.spotify.com/album/4COdErCzwv0rQAFH594bol) | 3:13 |
 | 32 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 |
 | 33 | [Savannah](https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Savannah](https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz) | 3:24 |
-| 34 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 |
-| 35 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 |
+| 34 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 |
+| 35 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 |
 | 36 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 |
 | 37 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
 | 38 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 40 | [Ancient Light](https://open.spotify.com/track/42Xt27QoxLh1XxxG8ILEMI) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Ancient Light](https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl) | 3:34 |
 | 41 | [Impossible](https://open.spotify.com/track/7E9EalF830tMPcu3JGzgMM) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Impossible](https://open.spotify.com/album/7gJifmJDQTPqMbByCsFZ55) | 3:14 |
 | 42 | [Love Will Find Me](https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist \(Gold Edition\)](https://open.spotify.com/album/2hPaUJ88PvHKtaz8HtaLKu) | 3:50 |
-| 43 | [So What?](https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:38 |
-| 44 | [Nichel](https://open.spotify.com/track/6USIYSkp1Fu2URHE1ptEuf) | [Alahsin](https://open.spotify.com/artist/1WIZEUGvpwPabtLcGTVFrF) | [Nichel](https://open.spotify.com/album/7GdtvwkG1Zd42hsS9FM03f) | 3:56 |
+| 43 | [Nichel](https://open.spotify.com/track/6USIYSkp1Fu2URHE1ptEuf) | [Alahsin](https://open.spotify.com/artist/1WIZEUGvpwPabtLcGTVFrF) | [Nichel](https://open.spotify.com/album/7GdtvwkG1Zd42hsS9FM03f) | 3:56 |
+| 44 | [So What?](https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:38 |
 | 45 | [Footprints](https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Footprints](https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx) | 4:01 |
 | 46 | [God Shows Up](https://open.spotify.com/track/61YmoYlzwA2qR8uaMYsr77) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [God Shows Up](https://open.spotify.com/album/6gDaH2oBvUsvcl3hTtrRjz) | 3:05 |
 | 47 | [I Don't Wanna Know](https://open.spotify.com/track/6nMkOqB2XpHVF09Ogxn7DI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Everything I Didn't Say](https://open.spotify.com/album/2KYarSTNNGsGXaq9vE1pjN) | 3:07 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 60 | [BSUKEO](https://open.spotify.com/track/4T1kufseBSNBhrVPeK3bZL) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [BSUKEO](https://open.spotify.com/album/40ABWjVkALc5WvTjgnqRa4) | 2:38 |
 | 61 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 62 | [Cradle The Pain](https://open.spotify.com/track/04K5qfFqfxJF5yh3xaUYZS) | [Morgan Nagler](https://open.spotify.com/artist/6mT5D1CUrWTMXngtqazglr) | [Cradle The Pain](https://open.spotify.com/album/7vpQiPMi8SmOEGwEjBCP4C) | 4:08 |
-| 63 | [TONTA](https://open.spotify.com/track/5Tl27NRoLSRTV1WRUSdnUk) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [TONTA](https://open.spotify.com/album/7gfp7ejyLLRYpJpsinVgxX) | 2:42 |
-| 64 | [Going Higher](https://open.spotify.com/track/31gf5uLDwHLSAQUVCoZ5nj) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [Going Higher](https://open.spotify.com/album/1Wybf9w4RZV1UoO9tqTwVT) | 3:17 |
+| 63 | [Going Higher](https://open.spotify.com/track/31gf5uLDwHLSAQUVCoZ5nj) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [Going Higher](https://open.spotify.com/album/1Wybf9w4RZV1UoO9tqTwVT) | 3:17 |
+| 64 | [TONTA](https://open.spotify.com/track/5Tl27NRoLSRTV1WRUSdnUk) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [TONTA](https://open.spotify.com/album/7gfp7ejyLLRYpJpsinVgxX) | 2:42 |
 
 Snapshot ID: `Z/WOcAAAAAD03pHi44pYYfsaCCxebjal`

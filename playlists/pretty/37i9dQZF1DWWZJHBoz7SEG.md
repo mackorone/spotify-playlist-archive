@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Que siga la vacación, el calorcito y las canciones más top de la semana en compañía de Kenia Os y Anitta ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,755 likes - 54 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 967,425 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

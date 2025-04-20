@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAAB05nLuPn1dw19Nsa53cEKj",
+  "snapshot_id": "aAGWAAAAAAAt+vgEPq+WhAgMXHJZOyAo",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+        "name": "Quintal dos Prettos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv"
       },
       "artists": [
         {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+          "name": "Prettos",
+          "url": "https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB"
+        },
+        {
+          "name": "Magnu Sous\u00e1",
+          "url": "https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP"
+        },
+        {
+          "name": "Maurilio de Oliveira",
+          "url": "https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6"
         },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
+      "duration_ms": 277480,
+      "name": "Oy\u00e1 - Sorriso Negro - Ao Vivo",
+      "url": "https://open.spotify.com/track/72h3iFRtmZSxvY2pAuIkaC"
     },
     {
       "added_at": null,
@@ -403,6 +411,26 @@
       "duration_ms": 355866,
       "name": "Principia (feat. Fabiana Cozza, Pastor Henrique Vieira & Pastoras do Ros\u00e1rio)",
       "url": "https://open.spotify.com/track/1wTuMYmA3AJC7zKg6cuu19"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+      },
+      "artists": [
+        {
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": null,
@@ -439,34 +467,6 @@
       "duration_ms": 232733,
       "name": "Madagascar",
       "url": "https://open.spotify.com/track/0FAisOr5R8iaelTo9j6nQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quintal dos Prettos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv"
-      },
-      "artists": [
-        {
-          "name": "Prettos",
-          "url": "https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB"
-        },
-        {
-          "name": "Magnu Sous\u00e1",
-          "url": "https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP"
-        },
-        {
-          "name": "Maurilio de Oliveira",
-          "url": "https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "Oy\u00e1 - Sorriso Negro - Ao Vivo",
-      "url": "https://open.spotify.com/track/72h3iFRtmZSxvY2pAuIkaC"
     },
     {
       "added_at": null,
@@ -855,30 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobe junto",
-        "url": "https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Sobe junto",
-      "url": "https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -899,6 +875,30 @@
       "duration_ms": 246320,
       "name": "Oi Compadre - Ao Vivo",
       "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobe junto",
+        "url": "https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Sobe junto",
+      "url": "https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA"
     },
     {
       "added_at": null,
@@ -1091,6 +1091,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 246904,
       "name": "NUNCA TENHA MEDO RMX - Ao Vivo",
       "url": "https://open.spotify.com/track/3CSNLfuxKXmJDlw916US3j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
     }
   ],
   "unique_name": "This Is Emicida",

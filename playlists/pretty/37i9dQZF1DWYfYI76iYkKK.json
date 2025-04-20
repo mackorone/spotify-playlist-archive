@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 129060,
+  "num_followers": 129080,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-04-17 16:00:32",
       "album": {
-        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 236020,
-      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
-    },
-    {
-      "added_at": "2025-04-17 16:00:32",
-      "album": {
         "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
         "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 224951,
       "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
       "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
+    },
+    {
+      "added_at": "2025-04-17 16:00:32",
+      "album": {
+        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 236020,
+      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
     },
     {
       "added_at": "2025-04-17 16:00:32",
@@ -275,6 +275,26 @@
     {
       "added_at": "2025-04-17 16:00:32",
       "album": {
+        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
+        "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "duration_ms": 236239,
+      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
+      "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
+    },
+    {
+      "added_at": "2025-04-17 16:00:32",
+      "album": {
         "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
         "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 269990,
       "name": "\u6700\u7f8e\u7684\u907a\u61be",
       "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
-    },
-    {
-      "added_at": "2025-04-17 16:00:32",
-      "album": {
-        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
-        "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
-      },
-      "artists": [
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        },
-        {
-          "name": "DIOR \u5927\u7a4e",
-          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
-        }
-      ],
-      "duration_ms": 236239,
-      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
-      "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
     },
     {
       "added_at": "2025-04-17 16:00:32",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-04-17 16:00:32",
       "album": {
-        "name": "If Only...",
-        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
-      },
-      "artists": [
-        {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
-        }
-      ],
-      "duration_ms": 187369,
-      "name": "If Only...",
-      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
-    },
-    {
-      "added_at": "2025-04-17 16:00:32",
-      "album": {
         "name": "Sent",
         "url": "https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 241893,
       "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
       "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
+    },
+    {
+      "added_at": "2025-04-17 16:00:32",
+      "album": {
+        "name": "If Only...",
+        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "duration_ms": 187369,
+      "name": "If Only...",
+      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
     },
     {
       "added_at": "2025-04-17 16:00:32",
@@ -635,18 +635,18 @@
     {
       "added_at": "2025-04-17 16:00:32",
       "album": {
-        "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
-        "url": "https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3"
+        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57",
+        "url": "https://open.spotify.com/album/0mAK2g8CtdHOmZFe7EHorf"
       },
       "artists": [
         {
-          "name": "Isaac Yong",
-          "url": "https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk"
+          "name": "Fang Wu",
+          "url": "https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu"
         }
       ],
-      "duration_ms": 270227,
-      "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
-      "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
+      "duration_ms": 305373,
+      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57",
+      "url": "https://open.spotify.com/track/75TTxCaCcm3Cyf8arMhCyY"
     },
     {
       "added_at": "2025-04-17 16:00:32",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-04-17 16:00:32",
       "album": {
+        "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
+        "url": "https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3"
+      },
+      "artists": [
+        {
+          "name": "Isaac Yong",
+          "url": "https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk"
+        }
+      ],
+      "duration_ms": 270227,
+      "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
+      "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
+    },
+    {
+      "added_at": "2025-04-17 16:00:32",
+      "album": {
         "name": "\u9752\u7a7a\u672a\u4f86",
         "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 249417,
       "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
       "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
-    },
-    {
-      "added_at": "2025-04-17 16:00:32",
-      "album": {
-        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57",
-        "url": "https://open.spotify.com/album/0mAK2g8CtdHOmZFe7EHorf"
-      },
-      "artists": [
-        {
-          "name": "Fang Wu",
-          "url": "https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu"
-        }
-      ],
-      "duration_ms": 305373,
-      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57",
-      "url": "https://open.spotify.com/track/75TTxCaCcm3Cyf8arMhCyY"
     },
     {
       "added_at": "2025-04-17 16:00:32",

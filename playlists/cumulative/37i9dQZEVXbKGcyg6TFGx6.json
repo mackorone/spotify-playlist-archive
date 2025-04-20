@@ -730,7 +730,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 214971,
       "name": "4 Kamp\u00e9",
       "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -4140,10 +4140,32 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "album": {
+        "name": "Azizam (feat. Googoosh) [Persian Version]",
+        "url": "https://open.spotify.com/album/4eAPqbxuqZuwBnYSBrE0Rb"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Googoosh",
+          "url": "https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162034,
+      "name": "Azizam (feat. Googoosh) [Persian Version]",
+      "url": "https://open.spotify.com/track/7erMlaJm419myrasNStsQ4"
     },
     {
       "album": {
@@ -5486,7 +5508,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -6214,6 +6236,100 @@
       "duration_ms": 126315,
       "name": "bissu dumm \u00bf",
       "url": "https://open.spotify.com/track/4JxUgmIt5Mi4xrBlf7srDW"
+    },
+    {
+      "album": {
+        "name": "bissu dumm \u00bf MEGALODON REMIX",
+        "url": "https://open.spotify.com/album/2GCqfqoKJuP9GlnTdKAbva"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Nate57",
+          "url": "https://open.spotify.com/artist/5PIdjtNMwJgYituTP77U3X"
+        },
+        {
+          "name": "AchtVier",
+          "url": "https://open.spotify.com/artist/6JOYrJkaS8ZKxLoUdNNdWr"
+        },
+        {
+          "name": "AK 33",
+          "url": "https://open.spotify.com/artist/3803JqLnUACUJcuCLmK3xz"
+        },
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "AZAD",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Big Toe",
+          "url": "https://open.spotify.com/artist/18Zq5h68TQ6kurXzRNHJDo"
+        },
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        },
+        {
+          "name": "Celo & Abdi",
+          "url": "https://open.spotify.com/artist/48Fq6GV3S6on56TxSBu5NO"
+        },
+        {
+          "name": "Crackaveli",
+          "url": "https://open.spotify.com/artist/27ERI8hVciwqhL2mYZMaqu"
+        },
+        {
+          "name": "Curse",
+          "url": "https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Die P",
+          "url": "https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ"
+        },
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Frauenarzt",
+          "url": "https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym"
+        },
+        {
+          "name": "Hakan Abi",
+          "url": "https://open.spotify.com/artist/5IbRFfGADDwo49rmydNHuV"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/3SxrBNpBsKhqOA4WX7HSV5"
+        },
+        {
+          "name": "Jaill",
+          "url": "https://open.spotify.com/artist/0RTKm5n4OBSU5H8uGqi3fM"
+        },
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1114155,
+      "name": "bissu dumm \u00bf MEGALODON REMIX",
+      "url": "https://open.spotify.com/track/6nK4HBBu3wlDGhlpxAjf0n"
     },
     {
       "album": {
@@ -6998,7 +7114,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -26964,7 +27080,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -28284,7 +28400,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -29756,7 +29872,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
@@ -33024,6 +33140,24 @@
       "duration_ms": 90779,
       "name": "No No",
       "url": "https://open.spotify.com/track/5YcJJSdIA02S9R6qPiCXLY"
+    },
+    {
+      "album": {
+        "name": "Street Songs Project",
+        "url": "https://open.spotify.com/album/5qkQBb42M7BA48NqXwFMrE"
+      },
+      "artists": [
+        {
+          "name": "Anthony Russell",
+          "url": "https://open.spotify.com/artist/3quYSu4f5Iu9UddctUEXdv"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215975,
+      "name": "No one",
+      "url": "https://open.spotify.com/track/4d4H3eXGO92iBIvrtnaGat"
     },
     {
       "album": {
@@ -42640,7 +42774,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
@@ -49828,7 +49962,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"

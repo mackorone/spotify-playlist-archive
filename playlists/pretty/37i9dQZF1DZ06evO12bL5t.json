@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 134312,
+  "num_followers": 134355,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAAAJDOuVtnyDtm60pbPwRKGs",
+  "snapshot_id": "aAGWAAAAAACZV/Pbptfusp82e8LLFV+T",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Historia De Los Barrios",
+      "url": "https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry For The Wait 2",
         "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
       },
@@ -363,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 158250,
-      "name": "Historia De Los Barrios",
-      "url": "https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy"
+      "duration_ms": 145375,
+      "name": "Seguimos Dando Lata",
+      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,
@@ -399,26 +419,6 @@
       "duration_ms": 128000,
       "name": "Reyes Magos",
       "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 145375,
-      "name": "Seguimos Dando Lata",
-      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Pilas",
-        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
       "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 165458,
-      "name": "Bien Pilas",
-      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
+      "duration_ms": 169629,
+      "name": "Ric Flair",
+      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
     },
     {
       "added_at": null,
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+        "name": "Bien Pilas",
+        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
       },
       "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 169629,
-      "name": "Ric Flair",
-      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
+      "duration_ms": 165458,
+      "name": "Bien Pilas",
+      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
     },
     {
       "added_at": null,
@@ -891,26 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Debe Ser",
-        "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
+        "name": "The Line Up",
+        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
       "artists": [
         {
-          "name": "Marca De Rancho",
-          "url": "https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+          "name": "Los Del Puerto",
+          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 130087,
-      "name": "Como Debe Ser",
-      "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
+      "duration_ms": 157909,
+      "name": "De La Calle (Remix)",
+      "url": "https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU"
     },
     {
       "added_at": null,
@@ -931,22 +927,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Line Up",
-        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
+        "name": "Como Debe Ser",
+        "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
       },
       "artists": [
         {
-          "name": "Los Del Puerto",
-          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
+          "name": "Marca De Rancho",
+          "url": "https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 157909,
-      "name": "De La Calle (Remix)",
-      "url": "https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU"
+      "duration_ms": 130087,
+      "name": "Como Debe Ser",
+      "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
     }
   ],
   "unique_name": "This Is Herencia de Patrones",

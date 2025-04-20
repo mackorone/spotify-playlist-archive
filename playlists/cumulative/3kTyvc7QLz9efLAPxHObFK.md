@@ -4,7 +4,7 @@
 
 > 
 
-2,183 songs - 4 day 19 hr 22 min
+2,185 songs - 4 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1453,6 +1453,7 @@
 | [OUTTA CNTRL](https://open.spotify.com/track/7ESHcL4NvcHzkd6kdq4laO) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [OUTTA CNTRL](https://open.spotify.com/album/14lYpqVNUtwVzRgFmyomQM) | 2:48 | 2024-09-06 |  |
 | [Outta Love](https://open.spotify.com/track/1GYugUcs4C77U2wRkURYCW) | [Vengeance](https://open.spotify.com/artist/0rkZewDpEnFUDab7m5A4Tz) | [Outta Love](https://open.spotify.com/album/4giXgWkAS1WHbvfCeeCZ40) | 2:59 | 2024-11-30 |  |
 | [Over The Edge](https://open.spotify.com/track/4nY712OnbGcILW6odhaUr5) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1), [Heavy Damage](https://open.spotify.com/artist/3Jj06vceLZ9dBSvBdAEf1D) | [Over The Edge](https://open.spotify.com/album/7azKDP73ftzPca9UDC9klN) | 2:18 | 2024-08-25 |  |
+| [Overcome](https://open.spotify.com/track/37flfId9XYw0bsISI55UNL) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Overcome](https://open.spotify.com/album/7kI2d4XJM9omT52Ew1Gcru) | 3:05 | 2025-04-19 |  |
 | [Overdrive](https://open.spotify.com/track/1hF5pQZKYVLHo2zLBtHjWT) | [JEEX](https://open.spotify.com/artist/2yyaQ5rBXKUgEo8unwNQIS), [D\-Garz](https://open.spotify.com/artist/3F8wF7yPQ4Y8mwUqn9cQDv) | [Overdrive](https://open.spotify.com/album/06FDDRWwObPVz2Y7ZlNACO) | 2:05 | 2024-08-13 |  |
 | [Overdrive](https://open.spotify.com/track/1wYLvGENfGmmDwZxhbheMR) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [Overdrive](https://open.spotify.com/album/04eW70SMoAm1gPQAtafg9S) | 2:42 | 2022-09-10 |  |
 | [Overdrive](https://open.spotify.com/track/1XMA0bQoFjalwFkmYBAwQA) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Overdrive](https://open.spotify.com/album/14xAQNuJoKKxR93xR9xeSN) | 3:27 | 2024-08-30 |  |
@@ -1836,6 +1837,7 @@
 | [Take My Hand](https://open.spotify.com/track/2SIWFQ4WmUt23LaliYrMWs) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [Take My Hand](https://open.spotify.com/album/4hhmYoYq9gD9RtnuhZ5jlm) | 2:36 | 2022-08-01 |  |
 | [Take Off](https://open.spotify.com/track/3iZqzWXy4dQ55lhdJdB9ve) | [Weekend Offender](https://open.spotify.com/artist/2j8p5TGdqqPZkTJ5YZP35F) | [Take Off](https://open.spotify.com/album/5doJP0bkxhxjWuKLn2gW1h) | 3:19 | 2025-01-23 |  |
 | [Take The Grind](https://open.spotify.com/track/6hjPccOFeXAA5jJEq6dvkw) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Take The Grind](https://open.spotify.com/album/556N3LLJ2A6BUI0wF2O2Eg) | 2:50 | 2024-04-01 |  |
+| [Taking Control](https://open.spotify.com/track/5UvIfLsjJaSbJQ3v8hJ4L5) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [Taking Control](https://open.spotify.com/album/2TLTgctw64qwgIpBY86FzJ) | 2:29 | 2025-04-19 |  |
 | [TAKING OVER](https://open.spotify.com/track/0roNsDM3FEnG1UjoTjpWq0) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Boray](https://open.spotify.com/artist/1tC69g1QLo1PvMg0vki9bY) | [TAKING OVER](https://open.spotify.com/album/7gN1gSTN1rZmuW0goOmmPU) | 2:28 | 2024-05-28 |  |
 | [Tanano \- Original Mix](https://open.spotify.com/track/3FTwkDGGep7ZZBY8rPRLOy) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Open Your Mind \(Original Mix\)](https://open.spotify.com/album/7d2fiQZhbWBOSL5RGtZrv1) | 2:10 | 2024-04-16 |  |
 | [Tanano \- Original Mix](https://open.spotify.com/track/2N0iQCQOQnR9yV3tZfjFQ2) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [Open Your Mind \(Original Mix\)](https://open.spotify.com/album/7d2fiQZhbWBOSL5RGtZrv1) | 3:01 | 2024-04-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,052 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,067 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 9 | [The Grinch](https://open.spotify.com/track/09VfkVlQG7MRdk9nVEgjzQ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [The Grinch](https://open.spotify.com/album/4OGUwy4Oc6i3Sv39G8NpCg) | 2:15 |
 | 10 | [EGYPT](https://open.spotify.com/track/5yD5MO0jgjIfKPXanAtRi6) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES](https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3) | 2:10 |
 | 11 | [They Shot At Trump](https://open.spotify.com/track/2UrjgEkw74FaqbGHDrQxgE) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [They Shot At Trump](https://open.spotify.com/album/13ptzgY2ol78IeD9oj59Gh) | 3:26 |
-| 12 | [21](https://open.spotify.com/track/17NugyNtDtZbGTW2hQNPOU) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Sardar Khehra](https://open.spotify.com/artist/6BHbZCsasnUoxO8MkGAv8u) | [HIT LIST](https://open.spotify.com/album/5go4tm1zyhDdQAKBDi1mRo) | 2:16 |
+| 12 | [21](https://open.spotify.com/track/17NugyNtDtZbGTW2hQNPOU) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP) | [HIT LIST](https://open.spotify.com/album/5go4tm1zyhDdQAKBDi1mRo) | 2:16 |
 | 13 | [Gallons \(feat\. Lil Jairmy, Sosamann, Drodi & MG Lil Bubba\)](https://open.spotify.com/track/1Kl63BAh3hAQu3XT2Slaj0) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI), [Drodi](https://open.spotify.com/artist/7kCAjlixXVJX7XHppLyL1h), [Mg Lil Bubba](https://open.spotify.com/artist/3agpFHXv6thiBv8b6epxI5) | [Chicken & Sauce](https://open.spotify.com/album/1RdsitXNm1aQb8Ir7f2E72) | 5:07 |
 | 14 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 |
 | 15 | [MISSISSIPPI MACK](https://open.spotify.com/track/6uJhTtq22cgLpmrFunl3c8) | [QUE HEFFE](https://open.spotify.com/artist/46tL8oCXaHrpVqzqPZ7VDP), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [MISSISSIPPI MACK](https://open.spotify.com/album/765HxxhSEzEU6ntjGoqL4c) | 2:27 |

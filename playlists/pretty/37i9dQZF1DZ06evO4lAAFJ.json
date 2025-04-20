@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 641233,
+  "num_followers": 641267,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAACHyGl9svArifCT6ixlzIj6",
+  "snapshot_id": "aAGWAAAAAAAdxEBqHV7EIrGySo38wOEt",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pal\u00e9",
-        "url": "https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 143773,
-      "name": "A Pal\u00e9",
-      "url": "https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 196426,
       "name": "PROMESA",
       "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Pal\u00e9",
+        "url": "https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 143773,
+      "name": "A Pal\u00e9",
+      "url": "https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fucking Money Man",
-        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Dio$ No$ Libre Del Dinero",
-      "url": "https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oral",
         "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fucking Money Man",
+        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Dio$ No$ Libre Del Dinero",
+      "url": "https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v"
     },
     {
       "added_at": null,

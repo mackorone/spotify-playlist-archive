@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > qnd ce pum kayblack tá na tanzânia de novo 🤫
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,298 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,230 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 55 | [Na Melhor](https://open.spotify.com/track/1LfGTlNBlqSTFs7RLjkzkn) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [FlackBeats](https://open.spotify.com/artist/4nqT3LMrlkxJHDlpfUPSiQ) | [Na Melhor](https://open.spotify.com/album/6QOgK3kwPmrDeJmbhP0CJ3) | 2:15 |
 | 56 | [Futuro de Ouro](https://open.spotify.com/track/2Q0EI3fEeqlEr12YUUAzOW) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [DJ Kaio Mix](https://open.spotify.com/artist/74gBEMW9nABFurusi73PkB), [Nova Era Produtora](https://open.spotify.com/artist/2N912WjUu3L2kyfhbCa5hB) | [Futuro de Ouro](https://open.spotify.com/album/7EqdR2qbRHJUEy0GmrtA5C) | 2:36 |
 | 57 | [Malandro É o Gato](https://open.spotify.com/track/7oOjxomjhmAAqqzmGDbUol) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [Terci](https://open.spotify.com/artist/41QyIQJ2tuaHUF9FQLdoZO), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Malandro É o Gato](https://open.spotify.com/album/3w9uKIkND4ApQIW3o1IO57) | 1:43 |
-| 58 | [RITMOU](https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:51 |
-| 59 | [Criado no Crime](https://open.spotify.com/track/0XxSkJH7wby9MkiqJaHuDI) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Criado no Crime](https://open.spotify.com/album/1rfI5W8TJxW84Zjvt0W8GQ) | 2:24 |
+| 58 | [Criado no Crime](https://open.spotify.com/track/0XxSkJH7wby9MkiqJaHuDI) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Criado no Crime](https://open.spotify.com/album/1rfI5W8TJxW84Zjvt0W8GQ) | 2:24 |
+| 59 | [RITMOU](https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:51 |
 | 60 | [SEQUÊNCIA DE AMÔ RITMADA](https://open.spotify.com/track/2Bxpm2WHB8PaO3lGVlUSES) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:38 |
 
 Snapshot ID: `aAHAiQAAAAATC1iToc2CIttkXt61lrw2`

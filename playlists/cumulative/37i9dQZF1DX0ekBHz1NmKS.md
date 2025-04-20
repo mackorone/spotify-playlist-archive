@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,828 songs - 3 day 22 hr 53 min
+1,829 songs - 3 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [By Design](https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz) | 3:39 | 2022-09-29 | 2022-10-03 |
 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 | 2024-04-11 | 2024-05-17 |
 | [Bygga Nytt](https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Bygga Nytt](https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl) | 3:40 | 2022-09-15 | 2022-10-07 |
-| [Bäst](https://open.spotify.com/track/5EB1gR2BcPPAyhPNqz0SdM) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Bäst](https://open.spotify.com/album/4hko5sUAbQqs5jbhtp5oaz) | 2:36 | 2025-01-16 |  |
+| [Bäst](https://open.spotify.com/track/5EB1gR2BcPPAyhPNqz0SdM) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Bäst](https://open.spotify.com/album/4hko5sUAbQqs5jbhtp5oaz) | 2:36 | 2025-01-16 | 2025-04-20 |
 | [Bästa kebaben i hela stan](https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Bästa kebaben i hela stan](https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2) | 3:35 | 2024-06-06 | 2024-08-09 |
 | [Bästa som hänt](https://open.spotify.com/track/2FqMN5yQNBTN1argtzblRl) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Bästa som hänt](https://open.spotify.com/album/7plgkCP375uQfQtP9O8wh2) | 2:56 | 2023-10-13 | 2024-01-26 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
@@ -765,6 +765,7 @@
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-08-14 |
 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 | 2024-02-08 | 2024-04-05 |
 | [I Lost](https://open.spotify.com/track/5j3KH3ZJUzAIrXnF4s90JS) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [I Lost](https://open.spotify.com/album/5lGBBVEh15bNp0FptPimbS) | 2:51 | 2021-12-16 | 2022-01-07 |
+| [i miss you](https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i miss you](https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J) | 3:25 | 2025-04-17 |  |
 | [I natt é hela staden vår](https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [I natt é hela staden vår](https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4) | 3:20 | 2024-10-04 | 2025-04-11 |
 | [I Need Love \(feat\. Trevor Daniel\)](https://open.spotify.com/track/6t0nlLzuahyBab1sYqfOGG) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/0E6Bt7I9gHxC6j8UmaCXTh) | 3:06 | 2021-12-16 | 2022-03-11 |
 | [I Raised Your Boyfriend](https://open.spotify.com/track/7u5VlSd8HxCNjeB4txesJ6) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [I Raised Your Boyfriend](https://open.spotify.com/album/0Apz8ymj3oeGthfJz2RAo9) | 2:42 | 2023-02-16 | 2023-06-05 |

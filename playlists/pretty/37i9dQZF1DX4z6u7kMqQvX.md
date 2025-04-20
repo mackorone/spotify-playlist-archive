@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,603 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,607 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 75 | [Domingo Escarlata](https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Domingo Escarlata](https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf) | 3:49 |
 | 76 | [Ojos de Planeta](https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY), [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Ojos de Planeta](https://open.spotify.com/album/48g89qmq4trgf6qkn8x5gH) | 3:15 |
 | 77 | [X AMOR](https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1) | 4:02 |
-| 78 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 |
-| 79 | [Isita Querida](https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Isita Querida](https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB) | 3:32 |
+| 78 | [Isita Querida](https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Isita Querida](https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB) | 3:32 |
+| 79 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 |
 | 80 | [otr\(a v\)ez](https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [\(re\)definiciones](https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b) | 2:46 |
 | 81 | [Cómo olvidar](https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:15 |
 | 82 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 |

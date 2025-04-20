@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Kyan, Mu540
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,821 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,875 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 44 | [Nós Só Porta Oakley](https://open.spotify.com/track/0jUsCmDG995TQLkSHlWsJ0) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [VENERÁ](https://open.spotify.com/artist/6XBVnm9XV4snmI8dPIRqAd) | [Nós Só Porta Oakley](https://open.spotify.com/album/4EvFmKpsBtTBwNjsoAyqcl) | 2:14 |
 | 45 | [Thanos](https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Thanos](https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9) | 2:15 |
 | 46 | [Viajando no Drink](https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Real Wise](https://open.spotify.com/artist/5TMDIE7J0fAia565qmD5x2) | [Viajando no Drink](https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq) | 3:36 |
-| 47 | [Hennessy](https://open.spotify.com/track/13plPuxQXo1trpgcoYoYIB) | [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [YNC Younco](https://open.spotify.com/artist/69MHK2hU8EbU2EXsdwxLrf) | [Hennessy](https://open.spotify.com/album/5ahBvjhShtljjmTzo6DvfB) | 2:07 |
+| 47 | [MACALLAN](https://open.spotify.com/track/1ykmQJJxwnOQxUPwl2AAtq) | [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm) | [JR&AF](https://open.spotify.com/album/4DUKdMYTZKnSHijPXtVaN0) | 3:04 |
 | 48 | [Ela joga no 7](https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 3:20 |
 | 49 | [BrusaDaNike e GShock](https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [SHAK](https://open.spotify.com/artist/3U28JqFKDrXW0WHFN6ieGL), [VCR Slim](https://open.spotify.com/artist/17yxCujICJdjk64A1J7NAd) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 3:06 |
 | 50 | [Bem Vinda a SP](https://open.spotify.com/track/0EdDsbTrDZOaaxctEZiYEl) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Bem Vinda a SP](https://open.spotify.com/album/5F57Uld3RPSV1X7KzRrYO9) | 3:24 |
 
-Snapshot ID: `Z/1NhAAAAABCHS4ibNnFtk9yOCgi3hJp`
+Snapshot ID: `aAPGIQAAAADByrrjqIvFo9/9e2chvYvB`

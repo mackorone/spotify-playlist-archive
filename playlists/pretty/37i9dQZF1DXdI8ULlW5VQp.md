@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Adanowsky en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,338 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,331 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 35 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 |
 | 36 | [yo creo que todxs estamos mal](https://open.spotify.com/track/3suD9pn0TYxok32F2VU7lO) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [yo creo que todxs estamos mal](https://open.spotify.com/album/2HXkcH9CJG5zhCFudV9QWx) | 3:16 |
 | 37 | [febrero](https://open.spotify.com/track/5d80aeDtbjALCuBUENE9rf) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [febrero](https://open.spotify.com/album/5kVqa2z1cseI8PorTtmEAX) | 3:46 |
-| 38 | [Se Necesitan 2](https://open.spotify.com/track/0RUQeCXPEfMR4RNiQqJoug) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Se Necesitan 2](https://open.spotify.com/album/34SOXYIKwUMFnELZxO7fNF) | 3:47 |
-| 39 | [TANTO PARA NADA](https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [RUBEDO](https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8) | 2:40 |
+| 38 | [TANTO PARA NADA](https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [RUBEDO](https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8) | 2:40 |
+| 39 | [Se Necesitan 2](https://open.spotify.com/track/0RUQeCXPEfMR4RNiQqJoug) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Se Necesitan 2](https://open.spotify.com/album/34SOXYIKwUMFnELZxO7fNF) | 3:47 |
 | 40 | [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 |
 | 41 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 |
 | 42 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 70 | [año nuevo](https://open.spotify.com/track/7ajLeP8dofCboY5MpQ5ymP) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Vangan](https://open.spotify.com/artist/7k5pkos4SfOSL1o0VMQzU0) | [año nuevo](https://open.spotify.com/album/56Mx91RHVVImdY8mCcR4Bm) | 3:17 |
 | 71 | [El lugar correcto \- En Vivo \[Live at Carnegie Hall\]](https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [El lugar correcto \(En Vivo \[Live at Carnegie Hall\]\)](https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN) | 3:30 |
 | 72 | [cómo acaba](https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G) | 3:44 |
-| 73 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |
-| 74 | [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 |
+| 73 | [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 |
+| 74 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |
 | 75 | [Solo Los Amantes Sobreviven](https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Solo Los Amantes Sobreviven](https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx) | 3:16 |
 
 Snapshot ID: `Z/iv6wAAAAApEZL72MhVNuF6VwpJsa0c`

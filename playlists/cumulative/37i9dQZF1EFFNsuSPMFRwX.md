@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-68 songs - 3 hr 56 min
+69 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Steam](https://open.spotify.com/track/2FgKK4s8bx8hLePNTaA1PO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Steam \(Official Video\)](https://open.spotify.com/album/7Mrjn3uGcMWQGUN9jmX2ak) | 4:36 | 2024-01-03 | 2024-02-01 |
 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 | 2022-05-25 |  |
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-12-14 |  |
-| [Tell Ur Girlfriend](https://open.spotify.com/track/3Vp4B9KshEPy72bwY0NJks) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:04 | 2024-05-31 |  |
+| [Tell Ur Girlfriend](https://open.spotify.com/track/3I3eUAnjfJ3XtqgQJda5u5) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/6YRxXLfApqwOhEPAtI8UZY) | 2:04 | 2025-04-19 |  |
+| [Tell Ur Girlfriend](https://open.spotify.com/track/3Vp4B9KshEPy72bwY0NJks) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:04 | 2024-05-31 | 2025-04-20 |
 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-05-08 | 2024-06-01 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2025-01-28 |  |
 | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/track/5vrUXAD0UfFIVCrBkJ8Kq7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/album/1X75jBTdqVxa8tOs15yPoi) | 3:20 | 2024-06-26 |  |

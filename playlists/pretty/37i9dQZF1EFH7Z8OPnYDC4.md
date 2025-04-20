@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516 likes - 330 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 330 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 122 | [Finale: You'll Never Walk Alone \- Reprise](https://open.spotify.com/track/1AV0Wf5HUvWQltBBReuwls) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Brittany Pollack](https://open.spotify.com/artist/42vwxwuBgZ6HEJAskI8sM9), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 2:13 |
 | 123 | [A Lady Must Live](https://open.spotify.com/track/2HLoMbcIXeiD9TsQCDETHX) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [The Beginning 1975](https://open.spotify.com/album/15Gx6rLODhyfw7zgtiRjXp) | 2:40 |
 | 124 | [Blow High, Blow Low](https://open.spotify.com/track/6LbkEYIVemBYdPQeHzdgTG) | [Amar Ramasar](https://open.spotify.com/artist/5cc54mMVl3oSmNXDSupV1K), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 5:45 |
-| 125 | [Give It Back To The Indians](https://open.spotify.com/track/2BwZM9WlW4t96MHmkxPsuy) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:12 |
-| 126 | [It's Got To Be Love](https://open.spotify.com/track/5J9OZfEsV36dvpTnta6UBE) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Rodgers & Hart Songbook](https://open.spotify.com/album/67YwQrGAJI0oAkp7Lq0oLh) | 2:24 |
+| 125 | [It's Got To Be Love](https://open.spotify.com/track/5J9OZfEsV36dvpTnta6UBE) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Rodgers & Hart Songbook](https://open.spotify.com/album/67YwQrGAJI0oAkp7Lq0oLh) | 2:24 |
+| 126 | [Give It Back To The Indians](https://open.spotify.com/track/2BwZM9WlW4t96MHmkxPsuy) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:12 |
 | 127 | [This Was A Real Nice Clambake](https://open.spotify.com/track/5hLQMMAEUz2T0xMmrJ5GbS) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Alexander Gemignani](https://open.spotify.com/artist/5rXsEGRJkz8Pxz4iZnOPHl), [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 3:20 |
 | 128 | [The Sound of Music](https://open.spotify.com/track/17YYqSgjvlXlOlbEEeKLMO) | [Mary Martin](https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw) | [Peter Pan: The Original Soundtrack](https://open.spotify.com/album/393HwN4vEc4re8hw0NAW5G) | 2:49 |
 | 129 | [You're A Queer One, Julie Jordan](https://open.spotify.com/track/0qWFfmu78XFDGlKghWKWpw) | [Barbara Ruick](https://open.spotify.com/artist/3hlVtWfnDNqQUVFmLq0hkK), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok) | [Carousel \( 1956 Film Score\)](https://open.spotify.com/album/1kVq56y4ijrH7nFwR6tS9w) | 1:23 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AbvI1AAAAAApwm1QWKrEB/E3A4wZTAFl`
+Snapshot ID: `AbvOdAAAAADyWOHl3hI3Ha/h/10A/atG`

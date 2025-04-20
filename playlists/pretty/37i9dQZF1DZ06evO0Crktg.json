@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 286495,
+  "num_followers": 286689,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAAAkIxQLl7Tj133dAp/LlsUO",
+  "snapshot_id": "aAGWAAAAAABjRmHsRB03/Lo0Lr0QHNH4",
   "tracks": [
     {
       "added_at": null,
@@ -523,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "Only God Knows",
+        "url": "https://open.spotify.com/album/0kvNhrR0LLNPiGQbHYQhwX"
       },
       "artists": [
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 174026,
-      "name": "She",
-      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
+      "duration_ms": 246861,
+      "name": "Only God Knows",
+      "url": "https://open.spotify.com/track/0H8C3HyC1pK75EI06SVYZd"
     },
     {
       "added_at": null,
@@ -555,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "She",
+      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 254277,
       "name": "Life",
       "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only God Knows",
-        "url": "https://open.spotify.com/album/0kvNhrR0LLNPiGQbHYQhwX"
-      },
-      "artists": [
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 246861,
-      "name": "Only God Knows",
-      "url": "https://open.spotify.com/track/0H8C3HyC1pK75EI06SVYZd"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 156816,
-      "name": "The Bottom",
-      "url": "https://open.spotify.com/track/3HTlU2dr9WtOXTe4ktQcc0"
+      "duration_ms": 203550,
+      "name": "Nothing Left At All",
+      "url": "https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 203550,
-      "name": "Nothing Left At All",
-      "url": "https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY"
+      "duration_ms": 156816,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/3HTlU2dr9WtOXTe4ktQcc0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,190 songs - 2 day 20 hr 33 min
+1,191 songs - 2 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,7 +585,7 @@
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 | 2022-10-09 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-10-09 | 2023-07-23 |
 | [Lemonade](https://open.spotify.com/track/6txVOdSbg928oeGhlVUrdK) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:10 | 2021-09-19 | 2021-09-20 |
-| [Lesung Pipi](https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG) | 3:45 | 2025-04-18 |  |
+| [Lesung Pipi](https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG) | 3:45 | 2025-04-18 | 2025-04-20 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-25 | 2023-12-30 |
 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-14 | 2023-06-17 |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-10-21 | 2021-10-31 |
@@ -635,7 +635,8 @@
 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 | 2021-08-27 | 2021-08-28 |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-03-27\* | 2021-04-17 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-01-23 | 2023-02-24 |
-| [lowkey](https://open.spotify.com/track/2ABV2OYzFdpWsNTpMDLZaL) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/7ztS9ILcFuesq0fDeolS7r) | 3:37 | 2025-04-03 |  |
+| [lowkey](https://open.spotify.com/track/2ABV2OYzFdpWsNTpMDLZaL) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/7ztS9ILcFuesq0fDeolS7r) | 3:37 | 2025-04-03 | 2025-04-20 |
+| [lowkey](https://open.spotify.com/track/26PxiMFtKVpovBotmMaxor) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/6HDVpP0LSoUnhvqe0MTAXT) | 3:37 | 2025-04-19 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-06-29 |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-24 |  |
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-06-05 | 2024-07-13 |
@@ -890,7 +891,7 @@
 | [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2022-12-05 | 2023-05-08 |
 | [Sempurna](https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Sempurna](https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm) | 4:11 | 2022-02-15 | 2025-04-17 |
 | [Senandung Hari Raya Untukmu](https://open.spotify.com/track/6oPIg3ql5chwh04iS9JfX9) | [Dayangku Intan](https://open.spotify.com/artist/3D4uyEk5z3Ko3kwREUNsUt) | [Salam Aidilfitri Untuk Semua](https://open.spotify.com/album/5BcML59c6LOnCLF7wYw7JB) | 3:27 | 2021-05-06 | 2025-04-06 |
-| [Seribu Tahun](https://open.spotify.com/track/5dao4fg11b8udWiLFiXJFx) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Dengan Secara Kebetulan](https://open.spotify.com/album/7aXCIaTMFIXHBKJw66RGIH) | 3:53 | 2025-04-11 | 2025-04-19 |
+| [Seribu Tahun](https://open.spotify.com/track/5dao4fg11b8udWiLFiXJFx) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Dengan Secara Kebetulan](https://open.spotify.com/album/7aXCIaTMFIXHBKJw66RGIH) | 3:53 | 2025-04-11 |  |
 | [Seribu Tahun Lagi](https://open.spotify.com/track/1RKXxb95nvXtM7EQ6WtPmG) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Seribu Tahun Lagi](https://open.spotify.com/album/3zN8nN9moCS4xIGcGqTmMV) | 4:22 | 2025-03-18 |  |
 | [Serumpun](https://open.spotify.com/track/3uXtPOeDPx812uTfhz3dEf) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Serumpun](https://open.spotify.com/album/6CWVjCF0B95isfDZ9uWoWF) | 2:11 | 2025-03-21 |  |
 | [Sesuci Lebaran](https://open.spotify.com/track/20gz9dYTVbtnDUFV2YmJC0) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Anugerah Aidilfitri](https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ) | 3:59 | 2021-04-30 | 2025-04-05 |

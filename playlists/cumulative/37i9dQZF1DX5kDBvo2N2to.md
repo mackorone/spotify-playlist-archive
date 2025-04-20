@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-278 songs - 15 hr 28 min
+279 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [112](https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [112](https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7) | 3:16 | 2025-03-20 |  |
 | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak) | 2:53 | 2024-06-28 | 2024-10-13 |
 | [8 Days](https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [8 Days](https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD) | 2:10 | 2024-09-13 |  |
-| [99 fel](https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [KALLAX CARGO](https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD) | 3:43 | 2024-11-08 |  |
+| [99 fel](https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [KALLAX CARGO](https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD) | 3:43 | 2024-11-08 | 2025-04-20 |
 | [A Love Song](https://open.spotify.com/track/6pgN5BnqxYHHB9MDUc3Nij) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [A Love Song](https://open.spotify.com/album/6kqIcSCJZntogK5Wtc1rvp) | 2:19 | 2024-10-10 | 2024-11-09 |
 | [Above Love](https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Above Love](https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj) | 2:42 | 2024-06-28 | 2024-10-30 |
 | [Absolute Romance](https://open.spotify.com/track/4BRUTaXQsb1hWUV7tY6vei) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Absolute Romance](https://open.spotify.com/album/5dqduEZyQ0G5E6wOf9HyQM) | 3:09 | 2025-02-27 |  |
@@ -135,6 +135,7 @@
 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 | 2024-06-28 | 2024-08-30 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-08 | 2025-04-18 |
 | [I Miss My Adidas](https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth) | [Gina Hannuksela](https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [I Miss My Adidas](https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4) | 2:10 | 2024-08-08 | 2024-09-15 |
+| [i miss you](https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i miss you](https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J) | 3:25 | 2025-04-17 |  |
 | [I natt é hela staden vår](https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [I natt é hela staden vår](https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4) | 3:20 | 2024-10-04 |  |
 | [I Was A Sailor](https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [I Was A Sailor](https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em) | 4:00 | 2024-06-28 | 2024-08-23 |
 | [I'll Come Your Way](https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [I'll Come Your Way](https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9) | 3:33 | 2024-06-28 | 2024-09-15 |

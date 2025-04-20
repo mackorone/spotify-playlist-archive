@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Lotusx.
 
-1,969 songs - 4 day 10 hr 33 min
+1,970 songs - 4 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Dem Boyz](https://open.spotify.com/track/1gAjXHdpcptXxdUoa7prJo) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Dem Boyz](https://open.spotify.com/album/7beq3BrjLFChhbf3Quht8L) | 2:40 | 2024-04-12 | 2024-05-14 |
 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 | 2022-03-24 | 2022-04-15 |
 | [Dentro la mia testa](https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile \(Deluxe\)](https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t) | 2:41 | 2024-04-19 | 2024-08-24 |
-| [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 | 2025-01-24 |  |
+| [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 | 2025-01-24 | 2025-04-20 |
 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/0U4gcE2BhQ0GCMvP9bQKRe) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [La Muela \- LBC](https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB) | 2:52 | 2024-05-03 | 2024-08-24 |
 | [Despedirme](https://open.spotify.com/track/3cumZj3UXGZwgILBu7FFID) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Despedirme](https://open.spotify.com/album/3aBl8sDdLEkr2o1stvoFys) | 2:39 | 2025-04-04 |  |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-16 | 2024-10-12 |
@@ -556,7 +556,7 @@
 | [Finto cielo](https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [DUMBA](https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO) | 2:20 | 2024-05-17 | 2024-07-09 |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-08-04 | 2022-09-05 |
 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 | 2023-07-07 | 2024-01-20 |
-| [First Love](https://open.spotify.com/track/3NjRL5odT7eVY7zod4PROD) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [First Love](https://open.spotify.com/album/24Rm6uAR7zdpsgAlhjn7my) | 2:48 | 2025-03-14 |  |
+| [First Love](https://open.spotify.com/track/3NjRL5odT7eVY7zod4PROD) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [First Love](https://open.spotify.com/album/24Rm6uAR7zdpsgAlhjn7my) | 2:48 | 2025-03-14 | 2025-04-20 |
 | [Five Black](https://open.spotify.com/track/3Pzx0UuZmhtowYJaW5B05s) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Five Black](https://open.spotify.com/album/4upjS5lPcbcAaL0SxmK7FB) | 2:44 | 2022-04-07 | 2022-04-13 |
 | [Flaca](https://open.spotify.com/track/4OXyQVIU3WpKXDimY4DsU8) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Flaca](https://open.spotify.com/album/2DiPW0TQNv1Xqp0FJ7vgbK) | 4:27 | 2022-03-24 | 2022-04-20 |
 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 | 2023-10-13 | 2024-04-19 |
@@ -1019,7 +1019,7 @@
 | [Mengikat Jiwa](https://open.spotify.com/track/3K2DV7rSdv84xN78Ec6I67) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Mengikat Jiwa](https://open.spotify.com/album/46SNhizU2l2fJ1eD549hx5) | 3:31 | 2022-03-24 | 2022-08-02 |
 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 | 2025-03-07 |  |
 | [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 | 2023-01-27 | 2023-04-13 |
-| [MERCY](https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [MERCY](https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI) | 2:38 | 2024-12-20 | 2025-04-19 |
+| [MERCY](https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [MERCY](https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI) | 2:38 | 2024-12-20 |  |
 | [Mereng](https://open.spotify.com/track/6JeNxkyohRHYZMLIQMULZy) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Mereng](https://open.spotify.com/album/6Q0h49CuGr0QSkVWVgoJ1k) | 3:00 | 2022-02-03 | 2022-08-02 |
 | [Message personnel](https://open.spotify.com/track/2DBpWQ3i7UTAe6v6YZJVgm) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Message personnel](https://open.spotify.com/album/6fIKuclmcc5fvUuCtHluCB) | 2:45 | 2022-03-24 | 2022-08-02 |
 | [Messy](https://open.spotify.com/track/2cFwZx2yXnzQ3pfWpEkVwd) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Messy](https://open.spotify.com/album/5R7t1Fg13ptPy4BX4hlsqO) | 2:39 | 2024-08-30 | 2025-02-22 |
@@ -1325,6 +1325,7 @@
 | [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 | 2024-06-21 | 2024-06-25 |
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2022-03-03 | 2023-01-28 |
 | [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 | 2024-01-19 | 2024-05-18 |
+| [Raya Pop Pop](https://open.spotify.com/track/46b7q1bc3cqddrrbORs8MC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Raya Pop Pop](https://open.spotify.com/album/4SjHtAj8DCfBzvKolcJmow) | 2:36 | 2025-04-18 |  |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-27 | 2024-05-04 |
 | [Rela](https://open.spotify.com/track/1azXDEz0VyJzPUfjq3dxJZ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Rela](https://open.spotify.com/album/3pAIePTL43Po9BwgPJn2m0) | 3:59 | 2022-03-24 | 2022-08-27 |
 | [RELAPSE](https://open.spotify.com/track/682r8bR4EjjDr3LIu539EJ) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [RELAPSE](https://open.spotify.com/album/2a6Y8UkwEXrRIJ1WPoa9Jz) | 1:49 | 2024-11-15 | 2025-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,065,216 likes - 103 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,064,874 likes - 103 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

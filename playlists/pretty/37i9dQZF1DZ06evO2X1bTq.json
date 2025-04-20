@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1242052,
+  "num_followers": 1242141,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAABJ96zvevBdIGq7yk4SZpyO",
+  "snapshot_id": "aAGWAAAAAAAqtlK0HvqLMVlhmR4l/O1x",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "Your Song Saved My Life - From Sing 2",
-      "url": "https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Line On The Horizon",
         "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 444306,
       "name": "Moment Of Surrender",
       "url": "https://open.spotify.com/track/2PwwiKJYMYbuWh7j5yAbwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Your Song Saved My Life - From Sing 2",
+      "url": "https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a"
     },
     {
       "added_at": null,

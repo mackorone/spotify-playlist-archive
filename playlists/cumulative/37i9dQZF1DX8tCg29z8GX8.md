@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-634 songs - 1 day 9 hr 8 min
+635 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [9:45 \(feat\. Lasmid & Ladipoe\)](https://open.spotify.com/track/0dT06xBuL6PQ7fzS37BEjs) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:46 | 2024-06-14 | 2024-08-31 |
 | [A Body, A Coffin](https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 2:49 | 2022-07-28 | 2022-10-14 |
 | [A Fuul](https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Fuul](https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq) | 2:47 | 2024-10-18 |  |
+| [Aban Kaba](https://open.spotify.com/track/18ohSiDMM8ZNiEDYTKvIYs) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Aban Kaba](https://open.spotify.com/album/2q4nudXObn26z4FbfCSrMJ) | 3:32 | 2025-04-18 |  |
 | [Abasakom](https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc) | [NS Tino](https://open.spotify.com/artist/5LWf1fvuHtGShL9KQ2YuaI), [Mickey Lux](https://open.spotify.com/artist/0hJNmRtD9lt2OjvkfYsauD), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Abasakom](https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r) | 2:59 | 2024-03-15 | 2024-05-03 |
 | [Abasakoom](https://open.spotify.com/track/1nwny3zV6GwX1qIESCROJI) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Abasakoom](https://open.spotify.com/album/3DOEGSS6s8EGMaS0W6PgMm) | 2:36 | 2025-03-21 | 2025-04-05 |
 | [Abeg U](https://open.spotify.com/track/4WFFWMFIsEqX3SeIkftUp2) | [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Abeg U](https://open.spotify.com/album/672qLgUzgkxADMTp0ZWlaP) | 2:54 | 2022-09-30 | 2023-04-21 |
@@ -32,7 +33,7 @@
 | [Adom](https://open.spotify.com/track/7riYHpL21B6InKKSmpZwBz) | [KRYMI](https://open.spotify.com/artist/34wXzU4pMFOuQejyLtMWjO) | [Adom](https://open.spotify.com/album/7MoGcLsJi4tM5Ik6Re2WSE) | 3:44 | 2024-04-12 | 2024-04-26 |
 | [AFRIKANA](https://open.spotify.com/track/64WCLvf2CC5u9YTP5sXH8s) | [BILO](https://open.spotify.com/artist/2mRpEmM3HN911HcNiDEsuT), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Sona](https://open.spotify.com/artist/0fZfg0q442duxzNdPCLOLa) | [AFRIKANA](https://open.spotify.com/album/3Xty3EB0LLI6AaDtvb49Bz) | 3:08 | 2024-07-05 | 2024-07-12 |
 | [Against](https://open.spotify.com/track/52gCmydyFcaKB4Resr8Bo7) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Luther](https://open.spotify.com/artist/1pvFxQVlZd8YqoEcZK9iWW) | [Against](https://open.spotify.com/album/3vDHV01HAUobX19MMRYgJK) | 3:59 | 2024-05-02 | 2024-05-17 |
-| [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 | 2025-03-14 |  |
+| [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 | 2025-03-14 | 2025-04-20 |
 | [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 | 2023-09-26 |
 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-01-15 | 2024-03-15 |
 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 | 2023-10-17 | 2023-11-17 |

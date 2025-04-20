@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Akanksha Bhandari, Garvit\-Priyansh  and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,008 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,085 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 12 | [Is It Okay?](https://open.spotify.com/track/2KTzGihwWGpWXi3ysoAnW8) | [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Anahita Dawar](https://open.spotify.com/artist/5QBO7zupabRkodbX53gLug) | [Is It Okay?](https://open.spotify.com/album/5ATVhjWHv6fKepQnjYPPRb) | 3:32 |
 | 13 | [Aadhey Adhoorey](https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aadhey Adhoorey](https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM) | 2:53 |
 | 14 | [Dariya](https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 2:52 |
-| 15 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
-| 16 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |
+| 15 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |
+| 16 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
 | 17 | [Bhool Bhulaiya](https://open.spotify.com/track/5En9zOsP5wURF47Fxzh66o) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Bhool Bhulaiya](https://open.spotify.com/album/5UdtpbfhTvDSz6x78eCSNy) | 3:32 |
 | 18 | [Jiya](https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jiya](https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM) | 3:01 |
 | 19 | [BETWEEN FLOWERS](https://open.spotify.com/track/1XjapKb8GMXCoO2WuWlX8x) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Manreet Khara](https://open.spotify.com/artist/5IbqlFtFzlcqZW0KlnyVkq) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 3:00 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 21 | [Dil Ki Sada](https://open.spotify.com/track/41iqI5PyUzXt6gpU4C3OKY) | [Prady J](https://open.spotify.com/artist/0Z7xTlsSbRQzaCTISzk8jJ) | [Dil Ki Sada](https://open.spotify.com/album/0JP7dZnlGJuAHWTht7rEof) | 4:07 |
 | 22 | [Raazdaariyan](https://open.spotify.com/track/28q4tY4XwtYiOuTBIS7ehw) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [Raazdaariyan](https://open.spotify.com/album/4tvoBFJbpRFlZtm3eMBBe4) | 3:01 |
 | 23 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
-| 24 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 |
-| 25 | [Aakhri Saans](https://open.spotify.com/track/07pmWp10yqaphv5YTm1dpN) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aakhri Saans](https://open.spotify.com/album/75pbxDNRvnZhsJ7eXX8QI5) | 3:18 |
+| 24 | [Aakhri Saans](https://open.spotify.com/track/07pmWp10yqaphv5YTm1dpN) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aakhri Saans](https://open.spotify.com/album/75pbxDNRvnZhsJ7eXX8QI5) | 3:18 |
+| 25 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 |
 | 26 | [Kaari Kaari](https://open.spotify.com/track/0dpBVrAjfxARkxR0L7vls6) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Kaari Kaari](https://open.spotify.com/album/0nJTuLPIv2lUR4nFer1Y0f) | 1:13 |
 | 27 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 |
 | 28 | [Naam Kaam](https://open.spotify.com/track/1AeNfDWNRVbgu50j3yacBZ) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Naam Kaam](https://open.spotify.com/album/7ad0igZrnVtlIlTSl3oYS3) | 3:18 |

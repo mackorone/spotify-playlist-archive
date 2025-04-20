@@ -1929,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "High on You",
+        "url": "https://open.spotify.com/album/2UBuB3s8t310icc8c4pQED"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "High on You",
+      "url": "https://open.spotify.com/track/1x2ql7GenJK1F30lmR45vp"
+    },
+    {
+      "album": {
         "name": "Dusk & Dawn",
         "url": "https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36"
       },

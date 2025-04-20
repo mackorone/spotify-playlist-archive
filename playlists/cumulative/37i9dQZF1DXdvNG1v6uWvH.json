@@ -3530,7 +3530,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 126066,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/43CJ2KSNwFG713V5FT8jVd"
@@ -7030,7 +7030,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 236360,
       "name": "AUGNAR\u00c1\u00d0",
       "url": "https://open.spotify.com/track/64TZPebLo1iTL2RSemYMHB"
@@ -14484,7 +14484,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 184037,
       "name": "BURN",
       "url": "https://open.spotify.com/track/0xYNPzN8LGh5uAYemXTKhd"
@@ -29516,7 +29516,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 156840,
       "name": "Ey\u00f0im\u00f6rk",
       "url": "https://open.spotify.com/track/6idsyuaCr3UEQw5HcJe9l8"
@@ -35036,7 +35036,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 322866,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/3dFZtqIjS9Dq5TpfIrmnSQ"
@@ -65670,7 +65670,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 155559,
       "name": "M\u00f6mmustr\u00e1kur",
       "url": "https://open.spotify.com/track/5tvoC7nnd4j9hOarOApt6D"
@@ -77157,6 +77157,28 @@
     },
     {
       "album": {
+        "name": "RATHER BE ALONE (feat. Halle)",
+        "url": "https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190690,
+      "name": "RATHER BE ALONE (feat. Halle)",
+      "url": "https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z"
+    },
+    {
+      "album": {
         "name": "Rather Die",
         "url": "https://open.spotify.com/album/0DPJ26Z99gvqqEfgrqYcTF"
       },
@@ -83546,7 +83568,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 350400,
       "name": "Showman (Sonic Deception mix)",
       "url": "https://open.spotify.com/track/7Incu5q1SzELX9NGjU6vnz"
@@ -107736,7 +107758,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 224234,
       "name": "You are gone because of me",
       "url": "https://open.spotify.com/track/4i0ghb7lXdmvmQy8LhXaYh"
@@ -109446,7 +109468,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 213909,
       "name": "\u00dev\u00e6lan",
       "url": "https://open.spotify.com/track/3dywl5cSrmSZyveIIuJCxB"

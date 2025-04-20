@@ -1,12 +1,12 @@
 {
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
-  "num_followers": 1049488,
+  "num_followers": 1049909,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAACSGNhznJfPha6W2YWXLdvb",
+  "snapshot_id": "aAGWAAAAAABUCJc/U5tUoFCTgn/jQaoO",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El T\u00f3xico",
-        "url": "https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s"
+        "name": "She Hurts Like Tequila",
+        "url": "https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         },
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 179745,
-      "name": "El T\u00f3xico",
-      "url": "https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx"
+      "duration_ms": 202560,
+      "name": "She Hurts Like Tequila",
+      "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
     },
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Hurts Like Tequila",
-        "url": "https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd"
+        "name": "El T\u00f3xico",
+        "url": "https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 202560,
-      "name": "She Hurts Like Tequila",
-      "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
+      "duration_ms": 179745,
+      "name": "El T\u00f3xico",
+      "url": "https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te quiero",
-        "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 214781,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 160153,
       "name": "Pedazo De Tonto",
       "url": "https://open.spotify.com/track/3jasf0mJzfHDxP5q3ZNpPx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 214781,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [New Dance Hits 2025](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: Felix Cartal &amp; Rêve
+> The best Dance and EDM tracks right now! Cover: Jazzy
 
-302 songs - 15 hr 47 min
+303 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Chill Like That](https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n) | 2:58 | 2023-10-27 | 2023-11-25 |
 | [Close To You](https://open.spotify.com/track/2tdycOIyC6XuFBEBZpabjD) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E) | [Close To You](https://open.spotify.com/album/7x62qan6SetjbmoGSBjpiF) | 2:05 | 2024-11-29 |  |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-10-27 | 2024-05-13 |
+| [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 | 2025-04-19 |  |
 | [Collect Call \- Adventure Club Remix](https://open.spotify.com/track/4mDhR5nTFXmHdZxMBmaZrm) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Collect Call \(Adventure Club Remix\)](https://open.spotify.com/album/5SoxPgdiY1o9nlK37v6h3V) | 3:28 | 2024-04-26 | 2024-05-04 |
 | [Contemporary Love \- Paul Woolford Remix](https://open.spotify.com/track/5gyhzAGsG6Ezkv1OewvUu2) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Contemporary Love \(Paul Woolford Remix\)](https://open.spotify.com/album/6hrIx4HctLLoQUstYYsoIE) | 2:49 | 2023-10-27 | 2025-01-22 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 | 2025-01-22 |

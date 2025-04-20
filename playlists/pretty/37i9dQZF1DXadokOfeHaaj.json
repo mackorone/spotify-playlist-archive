@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Real Lies",
-  "num_followers": 35466,
+  "num_followers": 35480,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,22 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "Self Sabotage",
-        "url": "https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui"
       },
       "artists": [
         {
           "name": "49th & Main",
           "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
         }
       ],
-      "duration_ms": 145074,
-      "name": "Self Sabotage",
-      "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
+      "duration_ms": 138906,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -311,22 +315,18 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui"
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v"
       },
       "artists": [
         {
           "name": "49th & Main",
           "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        },
-        {
-          "name": "SHEE",
-          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
         }
       ],
-      "duration_ms": 138906,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf"
+      "duration_ms": 145074,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "Chewing The Fat",
-        "url": "https://open.spotify.com/album/7K0aniOTtJV04v9lCqLODa"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 213417,
-      "name": "Square Pegs In Round Holes",
-      "url": "https://open.spotify.com/track/5PMFasm2jY0zfp16iaWfAx"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
+        "name": "Chewing The Fat",
+        "url": "https://open.spotify.com/album/7K0aniOTtJV04v9lCqLODa"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 213417,
+      "name": "Square Pegs In Round Holes",
+      "url": "https://open.spotify.com/track/5PMFasm2jY0zfp16iaWfAx"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
         "name": "EUSEXUA",
         "url": "https://open.spotify.com/album/7mDcWtWBE3ktQFtmGFb9ID"
       },
@@ -903,6 +903,26 @@
       "duration_ms": 236893,
       "name": "Girl Feels Good",
       "url": "https://open.spotify.com/track/5KzjHp1pHPVaLeluTLiUZ4"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
+        "name": "Lying In The Sand",
+        "url": "https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A"
+      },
+      "artists": [
+        {
+          "name": "Bubble Love",
+          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
+        },
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 199968,
+      "name": "Lying In The Sand",
+      "url": "https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -931,26 +951,6 @@
       "duration_ms": 208334,
       "name": "Waited All Night",
       "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
-        "name": "Lying In The Sand",
-        "url": "https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A"
-      },
-      "artists": [
-        {
-          "name": "Bubble Love",
-          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
-        },
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 199968,
-      "name": "Lying In The Sand",
-      "url": "https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Favourite Girl",
-      "url": "https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ"
-    },
-    {
-      "added_at": "2025-04-17 23:00:32",
-      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb"
       },
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "A Tear in Space (Airlock) [Jakwob Remix]",
-        "url": "https://open.spotify.com/album/5ZNT8qG7vVoAhqRTsgXwSZ"
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        },
-        {
-          "name": "Jakwob",
-          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 231325,
-      "name": "A Tear in Space (Airlock) - Jakwob Remix",
-      "url": "https://open.spotify.com/track/4mWWykOrKwI2lBIrYUzDKX"
+      "duration_ms": 159000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -1199,22 +1179,22 @@
     {
       "added_at": "2025-04-17 23:00:32",
       "album": {
-        "name": "stay alive",
-        "url": "https://open.spotify.com/album/3FE6DDUtqAM7HrKueMyXAZ"
+        "name": "A Tear in Space (Airlock) [Jakwob Remix]",
+        "url": "https://open.spotify.com/album/5ZNT8qG7vVoAhqRTsgXwSZ"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         },
         {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+          "name": "Jakwob",
+          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
         }
       ],
-      "duration_ms": 130164,
-      "name": "stay alive",
-      "url": "https://open.spotify.com/track/1bP6FLHUIUjfecYLsNPK16"
+      "duration_ms": 231325,
+      "name": "A Tear in Space (Airlock) - Jakwob Remix",
+      "url": "https://open.spotify.com/track/4mWWykOrKwI2lBIrYUzDKX"
     },
     {
       "added_at": "2025-04-17 23:00:32",
@@ -1231,6 +1211,26 @@
       "duration_ms": 225231,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS"
+    },
+    {
+      "added_at": "2025-04-17 23:00:32",
+      "album": {
+        "name": "stay alive",
+        "url": "https://open.spotify.com/album/3FE6DDUtqAM7HrKueMyXAZ"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "duration_ms": 130164,
+      "name": "stay alive",
+      "url": "https://open.spotify.com/track/1bP6FLHUIUjfecYLsNPK16"
     },
     {
       "added_at": "2025-04-17 23:00:32",

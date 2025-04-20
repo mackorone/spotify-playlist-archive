@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,421 likes - 160 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,419 likes - 160 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 78 | [Guilty](https://open.spotify.com/track/5jmGXGD7wh45Ye5DYzHJcq) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:43 |
 | 79 | [Off the Market](https://open.spotify.com/track/6zOdNkaCjXPlAWsoUE3VSn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 2:44 |
 | 80 | [Overloved](https://open.spotify.com/track/0w6qh5d8G5PoJatb7HoDrs) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Overloved](https://open.spotify.com/album/38rPxIOqhYF5LI4J8janwV) | 3:03 |
-| 81 | [First Time](https://open.spotify.com/track/1F5mbTXiR5EFYb4lGaoUso) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency](https://open.spotify.com/album/4HofMSociJPE9FDcKzOAsC) | 3:11 |
-| 82 | [Bones](https://open.spotify.com/track/41LiSeJIhiXDGGNaYXhIzx) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Bones](https://open.spotify.com/album/6ajKD5jYpHTrof8xZJb4tJ) | 3:12 |
+| 81 | [Bones](https://open.spotify.com/track/41LiSeJIhiXDGGNaYXhIzx) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Bones](https://open.spotify.com/album/6ajKD5jYpHTrof8xZJb4tJ) | 3:12 |
+| 82 | [First Time](https://open.spotify.com/track/1F5mbTXiR5EFYb4lGaoUso) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency](https://open.spotify.com/album/4HofMSociJPE9FDcKzOAsC) | 3:11 |
 | 83 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 |
 | 84 | [Colors in the Sky \- Interlude](https://open.spotify.com/track/31gsVhOYfLTq2rLIOo0VaV) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [One of a Kind](https://open.spotify.com/album/2aOEQaMZuoR8bn8K9CJZbO) | 1:08 |
 | 85 | [Body and Soul](https://open.spotify.com/track/12kNMrGbvKNy6c4lJdOYxq) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/4MZfZGEPUXgCkxEI6fUedT) | 2:30 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 159 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 160 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AbvI1AAAAAAXpWcUHzHxmENjoeP/gypJ`
+Snapshot ID: `AbvOdAAAAABJJZc3129YTAmG/QQdrbrp`

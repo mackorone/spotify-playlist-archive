@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Jadu Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,272 likes - 99 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,269 likes - 99 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

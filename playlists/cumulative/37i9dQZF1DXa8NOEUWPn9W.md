@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Maesic & Marshall Jefferson
 
-1,140 songs - 2 day 18 hr 26 min
+1,141 songs - 2 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Backfire](https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Jay Colin](https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx) | [Backfire](https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK) | 3:19 | 2022-01-14 | 2022-07-26 |
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2025-01-04 |  |
 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-06-16 | 2023-07-08 |
-| [BAD FOR YOU](https://open.spotify.com/track/23YknLzYKxnC0OpWu5x64Z) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1) | [BAD FOR YOU](https://open.spotify.com/album/4pQ1YdGRDSQGkxLz9LGE8H) | 2:22 | 2025-01-10 |  |
+| [BAD FOR YOU](https://open.spotify.com/track/23YknLzYKxnC0OpWu5x64Z) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1) | [BAD FOR YOU](https://open.spotify.com/album/4pQ1YdGRDSQGkxLz9LGE8H) | 2:22 | 2025-01-10 | 2025-04-20 |
 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 | 2025-04-04 |  |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-19 | 2025-03-22 |
 | [Baila \(La Banda\)](https://open.spotify.com/track/6AY8ze5ZtHhkygQryAvdHI) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Baila \(La Banda\)](https://open.spotify.com/album/3rzSGcuOW6mGCGu0Sc2pzb) | 2:38 | 2023-06-23 | 2023-10-03 |
@@ -209,6 +209,7 @@
 | [Closer](https://open.spotify.com/track/5dg4F4PPKLe3rFyCDkpYrP) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Cuttin' Headz Presents Boogeyman](https://open.spotify.com/album/642K5TlR4vGkCmqoH7Q9qh) | 6:33 | 2021-03-27\* | 2021-05-03 |
 | [Closer \(feat\. Bantu\)](https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Closer \(feat\. Bantu\)](https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl) | 3:01 | 2024-10-18 | 2025-03-15 |
 | [Closer \- Edit](https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Closer](https://open.spotify.com/album/6XVwl4AeJhcFWOLlZiKsgO) | 2:56 | 2021-05-03 | 2022-08-17 |
+| [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 | 2025-04-18 |  |
 | [Code Switching](https://open.spotify.com/track/7I0rKU0b0QDggNRd6JnJQ0) | [MJSB](https://open.spotify.com/artist/1KlsbLfbYrohtEiTc7eyJB) | [Eight Zero \#35](https://open.spotify.com/album/3QB5ygLej0YCPpIuPIpyj6) | 3:15 | 2021-03-27\* | 2021-04-10 |
 | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/track/23Hpu8KpFzy6NpycYnvk9L) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jack Hawitt](https://open.spotify.com/artist/0AikfZHjypmTXKZnPUq5ER) | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/album/39txCRq92K0VTohkvuqYaE) | 2:26 | 2021-11-20 | 2022-06-11 |
 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 | 2024-10-04 |  |

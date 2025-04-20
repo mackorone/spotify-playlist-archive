@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Al Diablo Tu Ausencia",
+        "url": "https://open.spotify.com/album/3dLTkDINGMdEBJOv2nG2Dz"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Al Diablo Tu Ausencia",
+      "url": "https://open.spotify.com/track/7vNoUdhkr9q4BnlKAT6BsN"
+    },
+    {
+      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 185520,
       "name": "El Rengo Del Gallo Giro",
       "url": "https://open.spotify.com/track/7vUdpsAP66ZPZxuJJbVzVo"

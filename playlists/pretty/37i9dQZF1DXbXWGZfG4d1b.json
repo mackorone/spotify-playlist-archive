@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24134,
+  "num_followers": 24133,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Mi Verano Oscuro",
-        "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
-      },
-      "artists": [
-        {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        },
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 197005,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "Mi Verano Oscuro",
+        "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 197005,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Losers' Paradise",
-        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Vin",
-          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Losers' Paradise",
-      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Humo y Menta",
         "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 183242,
       "name": "Humo y Menta",
       "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "Losers' Paradise",
+        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Vin",
+          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Losers' Paradise",
+      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "El Discreto Encanto de la Melod\u00eda",
-        "url": "https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH"
-      },
-      "artists": [
-        {
-          "name": "Saturno y la Melancol\u00eda",
-          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Somos Diferentes",
-      "url": "https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "GLEEMONEX",
         "url": "https://open.spotify.com/album/43YE48NLIeNmltm3ok8oPv"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 226715,
       "name": "GLEEMONEX",
       "url": "https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "El Discreto Encanto de la Melod\u00eda",
+        "url": "https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH"
+      },
+      "artists": [
+        {
+          "name": "Saturno y la Melancol\u00eda",
+          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Somos Diferentes",
+      "url": "https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Creo que necesito ir a dar una vuelta",
-        "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
-      },
-      "artists": [
-        {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 192137,
-      "name": "Oh my goth",
-      "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Hipercandombe",
         "url": "https://open.spotify.com/album/1od06WJAGRxwQvXOQjOydn"
       },
@@ -1355,6 +1335,26 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
+        "name": "Creo que necesito ir a dar una vuelta",
+        "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
+      },
+      "artists": [
+        {
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "duration_ms": 192137,
+      "name": "Oh my goth",
+      "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
         "name": "VOLVER A CERO",
         "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Que te iba a Decir",
-        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
-      },
-      "artists": [
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 381577,
-      "name": "Botas encontradas",
-      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "No digas que no te avis\u00e9",
         "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 266472,
       "name": "No digas que no te avis\u00e9",
       "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "Que te iba a Decir",
+        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
+      },
+      "artists": [
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        }
+      ],
+      "duration_ms": 381577,
+      "name": "Botas encontradas",
+      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
     },
     {
       "added_at": "2025-04-04 03:00:19",

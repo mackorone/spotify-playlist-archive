@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 796768,
+  "num_followers": 796856,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-04-18 04:00:46",
       "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Every Light In The House",
-      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
-    },
-    {
-      "added_at": "2025-04-18 04:00:46",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 186346,
       "name": "On the Other Hand",
       "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2025-04-18 04:00:46",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Every Light In The House",
+      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
     },
     {
       "added_at": "2025-04-18 04:00:46",
@@ -1567,38 +1567,6 @@
     {
       "added_at": "2025-04-18 04:00:46",
       "album": {
-        "name": "Vinyl",
-        "url": "https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g"
-      },
-      "artists": [
-        {
-          "name": "William Michael Morgan",
-          "url": "https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "I Met a Girl",
-      "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
-    },
-    {
-      "added_at": "2025-04-18 04:00:46",
-      "album": {
-        "name": "Greatest Hits: From the Beginning",
-        "url": "https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 152640,
-      "name": "Here's a Quarter (Call Someone Who Cares)",
-      "url": "https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP"
-    },
-    {
-      "added_at": "2025-04-18 04:00:46",
-      "album": {
         "name": "Hello Shitty Day",
         "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
       },
@@ -1619,18 +1587,54 @@
     {
       "added_at": "2025-04-18 04:00:46",
       "album": {
-        "name": "Mr. Saturday Night",
-        "url": "https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9"
+        "name": "Vinyl",
+        "url": "https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "William Michael Morgan",
+          "url": "https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn"
         }
       ],
-      "duration_ms": 186549,
-      "name": "Mr. Saturday Night",
-      "url": "https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH"
+      "duration_ms": 201533,
+      "name": "I Met a Girl",
+      "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
+    },
+    {
+      "added_at": "2025-04-18 04:00:46",
+      "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        },
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        }
+      ],
+      "duration_ms": 170251,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
+    },
+    {
+      "added_at": "2025-04-18 04:00:46",
+      "album": {
+        "name": "Greatest Hits: From the Beginning",
+        "url": "https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 152640,
+      "name": "Here's a Quarter (Call Someone Who Cares)",
+      "url": "https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP"
     }
   ],
   "unique_name": "Traditional Country",

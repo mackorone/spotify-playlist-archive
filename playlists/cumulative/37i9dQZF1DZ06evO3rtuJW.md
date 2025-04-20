@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-166 songs - 8 hr 15 min
+167 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Focused](https://open.spotify.com/track/1jUz3W4cXv56omhrUacbwH) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Swervo](https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE) | 2:43 | 2023-03-12 | 2024-08-09 |
 | [Fuck Opps](https://open.spotify.com/track/0b8uFzqvwKiwMQ3hhzrt68) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:50 | 2023-04-30 | 2023-05-08 |
 | [FWM \(with Yosohn\)](https://open.spotify.com/track/6FgLgiZfogBrRLUKTL9DpW) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yosohn](https://open.spotify.com/artist/28X3uK2mhWGNFwFy145ZD4) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:21 | 2022-10-28 | 2023-04-05 |
-| [GFazos](https://open.spotify.com/track/6sAuhx4dGDAoLt0Y5Wk9Vz) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:32 | 2025-04-12 |  |
+| [GFazos](https://open.spotify.com/track/6sAuhx4dGDAoLt0Y5Wk9Vz) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:32 | 2025-04-12 | 2025-04-20 |
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-10-28 |  |
 | [Glitches \(feat\. G Herbo\)](https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Glitches](https://open.spotify.com/album/33zs2J5lgdvrtKwJwQRKOh) | 1:58 | 2022-10-31 | 2023-04-13 |
 | [Global Spinning \(feat\. BabyDrill\)](https://open.spotify.com/track/6ViNOWs6pBf1kvwplclX6K) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:48 | 2024-09-09 | 2024-10-20 |
@@ -155,6 +155,7 @@
 | [T.O.P.](https://open.spotify.com/track/0C0H3ceDDykj8FQR51gMZP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 2:40 | 2023-02-24 | 2023-05-01 |
 | [Teflon](https://open.spotify.com/track/4e7MKSoUZSHG3r1kZe4psM) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Taurus](https://open.spotify.com/artist/31yqUKDLuRIRp6WrGHijf9), [Wheezy](https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL) | [Strictly For My Fans 2.0](https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd) | 2:57 | 2024-12-06 | 2025-01-01 |
 | [Ten \(feat\. Sexyy Red\)](https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:04 | 2024-09-08 | 2024-10-07 |
+| [Through The Fire](https://open.spotify.com/track/0EngAXfx8kNX7I8W4CVJZX) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 3:07 | 2025-04-20 |  |
 | [Throw \(feat\. G Herbo\)](https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BIG SCOOM \(Vol\. 1\)](https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49) | 2:53 | 2024-12-31 | 2025-04-11 |
 | [TO THE GRAVE](https://open.spotify.com/track/12Qfni7HZUowpG6NNtM10g) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [TO THE GRAVE](https://open.spotify.com/album/3oftYhgmFsRf56Ivz1CbVV) | 3:36 | 2024-06-18 | 2024-10-19 |
 | [TO THE GRAVE](https://open.spotify.com/track/2d1HzUNg6hkZx69wHRPhTS) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THA STREETS VOL 1](https://open.spotify.com/album/4bLE8jmz0HJlQcSaT8zrob) | 3:41 | 2025-01-30 | 2025-02-17 |

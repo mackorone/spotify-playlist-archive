@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,225 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,271 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 33 | [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 |
 | 34 | [Umona](https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW) | [Toby Franco](https://open.spotify.com/artist/4TIry72leguyMNcNYc6bqR), [Major\_Keys](https://open.spotify.com/artist/6tGXYcWxP5R6r8C5F0vl3c), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Umona](https://open.spotify.com/album/2h86FnfcyRYsYWFkoUDq8q) | 6:08 |
 | 35 | [Uyavala](https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4) | [Uyavala](https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ) | 5:48 |
-| 36 | [Skontiri](https://open.spotify.com/track/4po57qphS5dHDitAV2JSML) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS) | [Skontiri](https://open.spotify.com/album/5o4Kwy9FcyEqqdNHJX1Iml) | 5:51 |
-| 37 | [Bass Outra !](https://open.spotify.com/track/6r5GQYg2Z3Jfz4KIxrFjTH) | [Sgija Keys](https://open.spotify.com/artist/3nMUXRbnQ1LAixKdBCt0Ti), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j) | [Bass Outra !](https://open.spotify.com/album/2f8SzIxSBQW10s8ge33O59) | 5:51 |
+| 36 | [Bass Outra !](https://open.spotify.com/track/6r5GQYg2Z3Jfz4KIxrFjTH) | [Sgija Keys](https://open.spotify.com/artist/3nMUXRbnQ1LAixKdBCt0Ti), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j) | [Bass Outra !](https://open.spotify.com/album/2f8SzIxSBQW10s8ge33O59) | 5:51 |
+| 37 | [Skontiri](https://open.spotify.com/track/4po57qphS5dHDitAV2JSML) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS) | [Skontiri](https://open.spotify.com/album/5o4Kwy9FcyEqqdNHJX1Iml) | 5:51 |
 | 38 | [Sanitizer](https://open.spotify.com/track/3dFpRuEIxuQfm2EHBf4ZVU) | [Dj Karri](https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1), [Lebzito](https://open.spotify.com/artist/3ZzgC7B3Ggr2jZGWclAY7Q), [BL Zero](https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl), [ELK](https://open.spotify.com/artist/2z839qWwCE38uqOqI2QnWa) | [Sanitizer](https://open.spotify.com/album/1dPG0MRY5u8J2e2cw1NPCN) | 6:56 |
 | 39 | [Monate Mogwanti](https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN) | [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Monate Mogwanti](https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF) | 5:27 |
 | 40 | [Moratata \(feat\. Leemckrazy & TitoM\)](https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:25 |

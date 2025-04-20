@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,911 likes - 350 songs - 12 hr 14 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,908 likes - 350 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 74 | [Time Capsule](https://open.spotify.com/track/42XK4Uz1OAzCeIX4zzr5gj) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Time Capsule](https://open.spotify.com/album/4vnUTvt1w7dy6CKOCwtyMR) | 1:49 |
 | 75 | [Sky High](https://open.spotify.com/track/2KnPrhLZzxKz5MxrcJnSiV) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Sky High](https://open.spotify.com/album/6Xm7dmaBuV0tyjMmSfz3oL) | 2:13 |
 | 76 | [That's Crazy](https://open.spotify.com/track/2avRqbm04LF0BjfedQuYi3) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [That's Crazy](https://open.spotify.com/album/2z1vZ0g0m0yuXzVD1TP6wX) | 1:58 |
-| 77 | [Inner Peace 2](https://open.spotify.com/track/2HvehrTgu3RU2vRbJBxlol) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Inner Peace 2](https://open.spotify.com/album/26gSJgyipEJq6gJIurIK2C) | 1:46 |
+| 77 | [Inner Peace](https://open.spotify.com/track/2HvehrTgu3RU2vRbJBxlol) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Inner Peace](https://open.spotify.com/album/26gSJgyipEJq6gJIurIK2C) | 1:46 |
 | 78 | [everything will be alright](https://open.spotify.com/track/6Kt3hXL704ziL0p3vq9g8o) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [everything will be alright](https://open.spotify.com/album/2pzzZldtWC8h2JBHGrE9nO) | 1:43 |
 | 79 | [Good time](https://open.spotify.com/track/2tke8aDcoB51IDd5elUOA5) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Boréale beats](https://open.spotify.com/artist/6YB3HSDrQPTcmpr99c1Z7t) | [Good time](https://open.spotify.com/album/4dYFSGkh1gneebEzRrU8mS) | 1:58 |
 | 80 | [Cabriolet](https://open.spotify.com/track/4d7oxKlwQhlBTEpKSE7qQJ) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA) | [Cabriolet](https://open.spotify.com/album/0L6imm5kjlUhxLNFrUaQLP) | 1:54 |

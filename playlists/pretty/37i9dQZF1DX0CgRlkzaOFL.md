@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,752 likes - 66 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,814 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 16 | [すずさん](https://open.spotify.com/track/3IJb1ea8z7JI0MGhXEvl2r) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 3:08 |
 | 17 | [Skies of Song](https://open.spotify.com/track/0B1yXwS1FWBHkkzLwIC2n8) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 3:02 |
 | 18 | [Passacaille in Barcelona](https://open.spotify.com/track/2xH7QrBeYXbX3l4ftsZxsO) | [Taku Matsushiba](https://open.spotify.com/artist/3ITwaLbY4bFzc57CVTKT2u) | [ユートラ/ユーリ!!! on ICE サウンド・トラックCOLLECTION](https://open.spotify.com/album/5kcCBXLWAvaifoNOaNEVuN) | 3:13 |
-| 19 | [ケーナ](https://open.spotify.com/track/1SDr66kP3bN5b7tyhCMorR) | [夢見クジラ](https://open.spotify.com/artist/0utvO9BKKww2LIPIHiFztn) | [TVアニメ『リアデイルの大地にて』Original Soundtrack](https://open.spotify.com/album/5JGyobpgajZLYDTxyF7Mqe) | 1:06 |
+| 19 | [Cayna](https://open.spotify.com/track/1SDr66kP3bN5b7tyhCMorR) | [夢見クジラ](https://open.spotify.com/artist/0utvO9BKKww2LIPIHiFztn) | [TV Animation "In the Land of Leadale" Original Soundtrack](https://open.spotify.com/album/5JGyobpgajZLYDTxyF7Mqe) | 1:06 |
 | 20 | [リズと青い鳥 第三楽章「愛ゆえの決断」](https://open.spotify.com/track/04XhdVM3q2qPusWPEmg95c) | [北宇治高校吹奏楽部](https://open.spotify.com/artist/2KcsOu1hIobMNRXYFun6tF) | [映画『リズと青い鳥』オリジナルサウンドトラック「girls,dance,staircase」](https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE) | 6:27 |
 | 21 | [リバーサルオーケストラ \-Main Theme\-](https://open.spotify.com/track/36kDKctTcQh3vpRXCA2Quc) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2), [啼鵬](https://open.spotify.com/artist/1FI9S6aeJTuR7md0tSBo5h) | [日本テレビ系水曜ドラマ「リバーサルオーケストラ」オリジナル・サウンドトラック](https://open.spotify.com/album/5I6Y4cnuyBpSA5IAaEGt3t) | 4:24 |
 | 22 | [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/5LLMUx9GcRSpkOqOIBIONw) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:58 |

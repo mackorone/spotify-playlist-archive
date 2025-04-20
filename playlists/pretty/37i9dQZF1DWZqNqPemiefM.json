@@ -1,6 +1,6 @@
 {
   "description": "\u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af / The artisanal ambient and alternative sounds make you float in the air.",
-  "num_followers": 77346,
+  "num_followers": 77360,
   "original_name": "Sora",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
         "name": "Radio Yugawara",
         "url": "https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 213000,
       "name": "Strange Clouds",
       "url": "https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -891,18 +891,18 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Grey Interiors",
-        "url": "https://open.spotify.com/album/5mIWrPzuLBpWL4oLGDIBHB"
+        "name": "[lust]",
+        "url": "https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05"
       },
       "artists": [
         {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+          "name": "Rei Harakami",
+          "url": "https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB"
         }
       ],
-      "duration_ms": 1241448,
-      "name": "Grey Interiors",
-      "url": "https://open.spotify.com/track/2ofqsikXLUtWhsO9OsjSyr"
+      "duration_ms": 67600,
+      "name": "long time",
+      "url": "https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "[lust]",
-        "url": "https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05"
-      },
-      "artists": [
-        {
-          "name": "Rei Harakami",
-          "url": "https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB"
-        }
-      ],
-      "duration_ms": 67600,
-      "name": "long time",
-      "url": "https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
@@ -955,6 +939,38 @@
       "duration_ms": 262000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "pink misty wave",
+        "url": "https://open.spotify.com/album/3pyCGrRGJ8lsuL2aqzHYXg"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 192048,
+      "name": "pink misty wave",
+      "url": "https://open.spotify.com/track/7mqcCAKHLx0mLWgh7dfQ5w"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "Grey Interiors",
+        "url": "https://open.spotify.com/album/5mIWrPzuLBpWL4oLGDIBHB"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 1241448,
+      "name": "Grey Interiors",
+      "url": "https://open.spotify.com/track/2ofqsikXLUtWhsO9OsjSyr"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1027,38 +1043,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 237168,
-      "name": "Ablaze",
-      "url": "https://open.spotify.com/track/4lSvsybipCBR0KpA9SBrQx"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "pink misty wave",
-        "url": "https://open.spotify.com/album/3pyCGrRGJ8lsuL2aqzHYXg"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 192048,
-      "name": "pink misty wave",
-      "url": "https://open.spotify.com/track/7mqcCAKHLx0mLWgh7dfQ5w"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "Solaris (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 172613,
       "name": "First Sleep",
       "url": "https://open.spotify.com/track/4kvIhfgXgFIMsxmCbsMB0M"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 237168,
+      "name": "Ablaze",
+      "url": "https://open.spotify.com/track/4lSvsybipCBR0KpA9SBrQx"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Afrikan Culture",
-        "url": "https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Black meditation",
-      "url": "https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "\u3072\u3068\u3064\u3076\u306e\u6d77",
         "url": "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 275133,
       "name": "\u5149\u3068\u6c34",
       "url": "https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "Afrikan Culture",
+        "url": "https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Black meditation",
+      "url": "https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
+        "name": "8 tableaux",
+        "url": "https://open.spotify.com/album/7pMLnAkNLcgeKVQtskA56B"
+      },
+      "artists": [
+        {
+          "name": "Flore Laurentienne",
+          "url": "https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv"
+        }
+      ],
+      "duration_ms": 344493,
+      "name": "Au couchant",
+      "url": "https://open.spotify.com/track/5eqovPK4whLwjlJj9x7ITG"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
         "name": "WALD (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6H45vwAFL4XobeGKIUcQrK"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 100172,
       "name": "Regentag",
       "url": "https://open.spotify.com/track/2SKuIX3Gfg4K8aKoY9Z7k0"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "8 tableaux",
-        "url": "https://open.spotify.com/album/7pMLnAkNLcgeKVQtskA56B"
-      },
-      "artists": [
-        {
-          "name": "Flore Laurentienne",
-          "url": "https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv"
-        }
-      ],
-      "duration_ms": 344493,
-      "name": "Au couchant",
-      "url": "https://open.spotify.com/track/5eqovPK4whLwjlJj9x7ITG"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Dan Da Dan (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ"
-      },
-      "artists": [
-        {
-          "name": "Kensuke Ushio",
-          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "okarun's life",
-      "url": "https://open.spotify.com/track/3H2YFr8ESaWSmNGMO8usXe"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/7dCswh217OVGR5M2m52U1m"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 200920,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "Dan Da Dan (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "okarun's life",
+      "url": "https://open.spotify.com/track/3H2YFr8ESaWSmNGMO8usXe"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Slow Worm",
-        "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Slow Worm",
-      "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
       },
@@ -1347,22 +1331,18 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "no floor",
-        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
+        "name": "Slow Worm",
+        "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
       },
       "artists": [
         {
-          "name": "More Eaze",
-          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 196418,
-      "name": "kinda tropical",
-      "url": "https://open.spotify.com/track/5Y6oG4bv2zgLEYcs8K9k4m"
+      "duration_ms": 152000,
+      "name": "Slow Worm",
+      "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1383,6 +1363,26 @@
       "duration_ms": 215746,
       "name": "Esperance",
       "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "no floor",
+        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
+      },
+      "artists": [
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 196418,
+      "name": "kinda tropical",
+      "url": "https://open.spotify.com/track/5Y6oG4bv2zgLEYcs8K9k4m"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "KLAMAUK",
-        "url": "https://open.spotify.com/album/3H6tjwSunpKqPMug5RSLcb"
-      },
-      "artists": [
-        {
-          "name": "Takeshi Kurihara",
-          "url": "https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK"
-        }
-      ],
-      "duration_ms": 427370,
-      "name": "Second Harvest",
-      "url": "https://open.spotify.com/track/2To5sfZUDbK9xlbHT9weRX"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "All These Worlds, Pt. II",
         "url": "https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 239967,
       "name": "All These Worlds, Pt. II",
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "KLAMAUK",
+        "url": "https://open.spotify.com/album/3H6tjwSunpKqPMug5RSLcb"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Kurihara",
+          "url": "https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK"
+        }
+      ],
+      "duration_ms": 427370,
+      "name": "Second Harvest",
+      "url": "https://open.spotify.com/track/2To5sfZUDbK9xlbHT9weRX"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 413476,
-      "name": "20210310",
-      "url": "https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "On the Quakefish",
         "url": "https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 235800,
       "name": "Denden",
       "url": "https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 413476,
+      "name": "20210310",
+      "url": "https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "+puzzle",
-        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        }
-      ],
-      "duration_ms": 254561,
-      "name": "+puzzle",
-      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "Music for Peace and Harmony",
         "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 275194,
       "name": "Billowing",
       "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "+puzzle",
+        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "duration_ms": 254561,
+      "name": "+puzzle",
+      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
-      },
-      "artists": [
-        {
-          "name": "Yasunori Mitsuda",
-          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "\u6642\u306e\u56de\u5eca",
-      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "async",
         "url": "https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 232073,
       "name": "solari",
       "url": "https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
+      },
+      "artists": [
+        {
+          "name": "Yasunori Mitsuda",
+          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "\u6642\u306e\u56de\u5eca",
+      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
     },
     {
       "added_at": "2025-04-04 09:29:46",

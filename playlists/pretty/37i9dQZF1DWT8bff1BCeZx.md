@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,479 likes - 105 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,488 likes - 105 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 104 | [Baffled King](https://open.spotify.com/track/2VQVYq7gfzJZKGaW0T7faY) | [Temple](https://open.spotify.com/artist/0JbxX1XHZznkLBwIE6NcKT), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [Baffled King](https://open.spotify.com/album/4hu5gW5O5hNGNN3x8HSeJt) | 2:19 |
 | 105 | [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 |
 
-Snapshot ID: `aAGWWgAAAAA67ew5wY5IU9KTQVp7svMG`
+Snapshot ID: `aAN8XQAAAAAmzmzqAo0btz6rVd3yRsx8`

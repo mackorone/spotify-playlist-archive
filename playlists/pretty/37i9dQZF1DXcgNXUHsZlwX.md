@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,990 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,015 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 29 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 |
 | 30 | [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 |
 | 31 | [Silver and Red](https://open.spotify.com/track/3F1E4OIeBjrsLUiukpbxsa) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. V](https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT) | 2:20 |
-| 32 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 |
+| 32 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 |
 | 33 | [come on, baby! be a good girl for the camera](https://open.spotify.com/track/0RpRs9ZjlxczDGJfEF5eh1) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [come on, baby! be a good girl for the camera](https://open.spotify.com/album/3oj0PDzNlOtVEWy1Rrkzo7) | 4:09 |
-| 34 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 |
+| 34 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 |
 | 35 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 |
 | 36 | [Solitudes](https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Solitudes](https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi) | 4:08 |
 | 37 | [Mais je sais que tu m'attends](https://open.spotify.com/track/0VuZx9LXIT319lHPNxSIal) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:05 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 77 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 |
 | 78 | [Tu danses, condessa](https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:17 |
 | 79 | [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 |
-| 80 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 |
-| 81 | [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 |
+| 80 | [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 |
+| 81 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 |
 | 82 | [Nos corps qui se longent](https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Nos corps qui se longent](https://open.spotify.com/album/4jbtiI2XfuxHS4JLQigLZx) | 3:56 |
 | 83 | [Promenade](https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 2:52 |
 | 84 | [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 91 | [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 |
 | 92 | [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 |
 | 93 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 |
-| 94 | [La flamme](https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [La flamme](https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS) | 3:54 |
-| 95 | [J'espère](https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [J'espère](https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK) | 2:30 |
+| 94 | [J'espère](https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [J'espère](https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK) | 2:30 |
+| 95 | [La flamme](https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [La flamme](https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS) | 3:54 |
 | 96 | [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 |
 | 97 | [Les travaux](https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère](https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv) | 3:50 |
 | 98 | [Grande fille](https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 2:53 |

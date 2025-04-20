@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our newsletter...</a> Cover: Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,339 likes - 130 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,444 likes - 130 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

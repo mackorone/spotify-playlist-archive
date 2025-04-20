@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Gheba in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,639 likes - 65 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,621 likes - 65 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 17 | [POLVERE](https://open.spotify.com/track/1Q3fYsa6OkCMnuS5gQu10s) | [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3), [RT](https://open.spotify.com/artist/53jy9KonR3xKonPZZLA8Bn), [BPOLO](https://open.spotify.com/artist/2pHOoXAbSf05Cps6sJkCVN) | [POLVERE](https://open.spotify.com/album/5LkCuVRDHkPCt6vZgD0eTT) | 2:28 |
 | 18 | [il frutto](https://open.spotify.com/track/6171i0PgjeJc2vdsXl6UwK) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw) | [il frutto](https://open.spotify.com/album/1zXLcxDv1MskC0C9GnObNW) | 2:09 |
 | 19 | [Tarantelle](https://open.spotify.com/track/1hJOO9xg505p09IDoVXy6y) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7) | [Tarantelle](https://open.spotify.com/album/4AQzA8fS5rsFK9g9ddozfP) | 2:16 |
-| 20 | [Himalaya](https://open.spotify.com/track/27MRJe0hNXimach42RhqkL) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:48 |
+| 20 | [Himalaya \(feat\. Il Ghost\)](https://open.spotify.com/track/27MRJe0hNXimach42RhqkL) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:48 |
 | 21 | [5 AM](https://open.spotify.com/track/5AHbliUwx0rJ4dd5iSwArl) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [5 AM](https://open.spotify.com/album/5Jec1PHcm59IIt3vp7cUs6) | 2:21 |
 | 22 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 |
 | 23 | [Goccia Dopo Goccia](https://open.spotify.com/track/0GyeA3H7THVGB2tw58Vx8x) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [Goccia Dopo Goccia](https://open.spotify.com/album/3Z8JSyW2kmr2oo7UAf7bce) | 2:40 |

@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 61004,
+  "num_followers": 60997,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-04-14 01:00:12",
       "album": {
-        "name": "safeword",
-        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 133639,
-      "name": "safeword",
-      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
-    },
-    {
-      "added_at": "2025-04-14 01:00:12",
-      "album": {
         "name": "Born Without a Heart",
         "url": "https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 198896,
       "name": "Born Without a Heart",
       "url": "https://open.spotify.com/track/6i5jBmnB22alUpJ7hpznuj"
+    },
+    {
+      "added_at": "2025-04-14 01:00:12",
+      "album": {
+        "name": "safeword",
+        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 133639,
+      "name": "safeword",
+      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
     },
     {
       "added_at": "2025-04-14 01:00:12",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-04-14 01:00:12",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
-    },
-    {
-      "added_at": "2025-04-14 01:00:12",
-      "album": {
         "name": "fleabag",
         "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2025-04-14 01:00:12",
       "album": {
-        "name": "Coffin Change",
-        "url": "https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG"
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 185361,
-      "name": "Coffin Change",
-      "url": "https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk"
+      "duration_ms": 192440,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
     },
     {
       "added_at": "2025-04-14 01:00:12",
@@ -723,6 +707,22 @@
       "duration_ms": 188779,
       "name": "love race (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81"
+    },
+    {
+      "added_at": "2025-04-14 01:00:12",
+      "album": {
+        "name": "Coffin Change",
+        "url": "https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 185361,
+      "name": "Coffin Change",
+      "url": "https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk"
     },
     {
       "added_at": "2025-04-14 01:00:12",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-04-14 01:00:12",
       "album": {
-        "name": "Swing For The Fences",
-        "url": "https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 202695,
-      "name": "Swing For The Fences",
-      "url": "https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb"
-    },
-    {
-      "added_at": "2025-04-14 01:00:12",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": "2025-04-14 01:00:12",
       "album": {
+        "name": "Swing For The Fences",
+        "url": "https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 202695,
+      "name": "Swing For The Fences",
+      "url": "https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb"
+    },
+    {
+      "added_at": "2025-04-14 01:00:12",
+      "album": {
         "name": "mama's boy",
         "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-04-14 01:00:12",
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Ok, But This Is The Last Time",
-      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
-    },
-    {
-      "added_at": "2025-04-14 01:00:12",
-      "album": {
         "name": "Halo (feat. PIA MARIA)",
         "url": "https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 159600,
       "name": "Halo (feat. PIA MARIA)",
       "url": "https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC"
+    },
+    {
+      "added_at": "2025-04-14 01:00:12",
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Ok, But This Is The Last Time",
+      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
     },
     {
       "added_at": "2025-04-14 01:00:12",

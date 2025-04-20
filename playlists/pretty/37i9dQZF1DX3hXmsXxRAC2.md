@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,147 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,198 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 74 | [Luna](https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel Todos Sus Exitos](https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo) | 4:30 |
 | 75 | [Costumbres](https://open.spotify.com/track/0isfyPlYuItuJ0C43tIBM4) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Costumbres](https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz) | 4:44 |
 | 76 | [Inocente Pobre Amiga](https://open.spotify.com/track/0Xl7Q8ROMKdPOlvWd2nC88) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [30 Años de Exitos](https://open.spotify.com/album/3WGjI64qVOhmSUOteU3mwe) | 3:57 |
-| 77 | [Yo Sé Que Está En Tu Corazón](https://open.spotify.com/track/4N3dBPrM1KPWHii6VRHi3q) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Los Dúo 2](https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8) | 4:06 |
+| 77 | [No Discutamos](https://open.spotify.com/track/1SSJlfheVvqdMEcjyFfRfz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Los Dúo 2](https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8) | 2:19 |
 | 78 | [No Vale La Pena](https://open.spotify.com/track/1OZHMioFDVvY85KYoRovHj) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Antologia De Juan Gabriel](https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc) | 2:37 |
 | 79 | [Siempre en Mi Mente \- MTV Unplugged \[En Vivo\]](https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Pepe Aguilar MTV Unplugged \[\(MTV Unplugged\) \[En Vivo\]\]](https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp) | 4:54 |
 | 80 | [Ya No Me Interesas](https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:23 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 83 | [Amor Eterno](https://open.spotify.com/track/3FXllawd18D81GScM3Ei5t) | [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Canciones Que Recuerdo](https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d) | 5:11 |
 | 84 | [Me Gusta Estar Contigo \- En Vivo](https://open.spotify.com/track/17ne2PsydVYhLHmcNxPWfL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos \(En Vivo\)](https://open.spotify.com/album/5NIk6uBVUYggydObu1q9ul) | 2:48 |
 | 85 | [Costumbres](https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 4:44 |
-| 86 | [No Discutamos](https://open.spotify.com/track/1SSJlfheVvqdMEcjyFfRfz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Los Dúo 2](https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8) | 2:19 |
+| 86 | [Yo Sé Que Está En Tu Corazón](https://open.spotify.com/track/4N3dBPrM1KPWHii6VRHi3q) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Los Dúo 2](https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8) | 4:06 |
 | 87 | [La Diferencia \- \(En Vivo\)](https://open.spotify.com/track/4ao69zrQh9WcxvJ2t2fj9q) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila \- Vol\. 1](https://open.spotify.com/album/0sKGLI3vnagX4jo4uHJrBC) | 2:59 |
 | 88 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5YjqUsdVbg9ZugYZjaL1TF) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/2KvM2ocXX8DEyvu7cAMfuJ) | 3:16 |
 | 89 | [La Farsante](https://open.spotify.com/track/3pwiyLyqOb9Web9j60Dl6j) | [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Canciones Que Recuerdo](https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d) | 2:55 |

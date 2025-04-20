@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Eagle Feather",
+        "url": "https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Feather In My Hat (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ"
+    },
+    {
+      "album": {
         "name": "HIGH",
         "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
       },

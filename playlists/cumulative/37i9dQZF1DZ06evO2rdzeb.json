@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "happiness (live)",
+        "url": "https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208180,
+      "name": "happiness - live",
+      "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
+    },
+    {
+      "album": {
         "name": "Hours Were the Birds",
         "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
       },

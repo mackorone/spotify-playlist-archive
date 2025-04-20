@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Achille Lauro, Neffa, Ultimo, Federica Abbate, BigMama, OneRepublic e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,386 likes - 96 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,417 likes - 96 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 37 | [BANG BANG](https://open.spotify.com/track/4TZaceVVtIEtHOx8w8KkJV) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [BANG BANG](https://open.spotify.com/album/2IKf2bBeD3RF178UUTC3ZA) | 3:13 |
 | 38 | [Las Vegas Freestyle](https://open.spotify.com/track/2XA12liYHYjmYfGS9dx4zT) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [W.edy Wonders](https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR) | [Las Vegas Freestyle](https://open.spotify.com/album/1oqSHf9Qc8sJThpm6lpX2K) | 2:14 |
 | 39 | [F\*ck Love](https://open.spotify.com/track/7BZ5YmSnyfMzw3q9RI4MHk) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0) | [F\*ck Love](https://open.spotify.com/album/27P8029lZ9dq9w3S9uwOLL) | 3:23 |
-| 40 | [Lacrime del diavolo](https://open.spotify.com/track/46oEfzFinosISkSvU2a6Qs) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:46 |
+| 40 | [Lacrime del diavolo \(feat\. Jake La Furia\)](https://open.spotify.com/track/46oEfzFinosISkSvU2a6Qs) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:46 |
 | 41 | [Zin Zin \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/3QpfAGCWS5owDwtTzTQzlj) | [NOX](https://open.spotify.com/artist/6b0qbsuBxViNCoV49F4D4A), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Zin Zin \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/682oet2H23I8gNe5Pyld48) | 2:30 |
 | 42 | [19](https://open.spotify.com/track/1n88bxrLOffsTW1SMn4YFJ) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [19](https://open.spotify.com/album/26k6MwepFlylaHtoDcpRBg) | 2:25 |
 | 43 | [Hope It Hurts](https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:29 |

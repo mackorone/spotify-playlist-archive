@@ -4,7 +4,7 @@
 
 > Il rap è uno sport competitivo 🔥 Cover: Playboi Carti
 
-760 songs - 1 day 15 hr 52 min
+761 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,8 @@
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 | 2024-02-16 |
 | [Ten Cuidao](https://open.spotify.com/track/7BUsACnVIfWB6SGfSWuBMk) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Ten Cuidao](https://open.spotify.com/album/1s2FZxgjM4rWoVgeNAyj1p) | 3:41 | 2023-12-14 | 2024-01-19 |
 | [Texas](https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:26 | 2024-07-11 |  |
-| [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 | 2024-03-01 |  |
+| [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 | 2024-03-01 | 2025-04-20 |
+| [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 | 2025-04-17 |  |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-14 |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-08-18 | 2023-09-29 |
 | [The King and I \(feat\. CeeLo Green\) \- From the Original Motion Picture Soundtrack ELVIS](https://open.spotify.com/track/4QjbbBQAJ7NiGdlfDPcxag) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The King and I \(feat\. CeeLo Green\) \[From the Original Motion Picture Soundtrack ELVIS\]](https://open.spotify.com/album/24lMM7McdJmSBgbFhKGugA) | 3:13 | 2022-07-01 | 2022-08-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1202453,
+  "num_followers": 1202538,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAABdwf/Ka0X7l+jtLjI3bB8g",
+  "snapshot_id": "aAGWAAAAAAAsCqaY/KP2xIYTtmYCLbl8",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1432",
-        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 158936,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRISM",
         "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 204285,
       "name": "This Is How We Do",
       "url": "https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 158936,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
     },
     {
       "added_at": null,
@@ -870,11 +870,15 @@
         {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 167040,
-      "name": "HAS A HEART",
-      "url": "https://open.spotify.com/track/3LFy6yVZ1gcQ2uolOrbk2m"
+      "duration_ms": 163821,
+      "name": "ARTIFICIAL (feat. JID)",
+      "url": "https://open.spotify.com/track/3F7nQ5YqYYYHKvRnIRtKYh"
     },
     {
       "added_at": null,

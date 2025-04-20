@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Aziya
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,335 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,340 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 28 | [babydoll](https://open.spotify.com/track/0tdTGvI5viFA9KAYXxsJ4o) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [babydoll](https://open.spotify.com/album/15en7QxCLo75Ik3uaZY7Qo) | 2:40 |
 | 29 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 |
 | 30 | [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 |
-| 31 | [You're a Liar \(You Love Me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [You're a Liar \(You Love Me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
+| 31 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
 | 32 | [Bite Marks](https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Bite Marks](https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid) | 3:10 |
 | 33 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
 | 34 | [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 |

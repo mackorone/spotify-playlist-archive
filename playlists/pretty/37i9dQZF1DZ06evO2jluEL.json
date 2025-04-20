@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAAALsj94TlTAA9BVTYKOYzxZ",
+  "snapshot_id": "aAGWAAAAAAC7/5t3sDVvYneVUIXWytd6",
   "tracks": [
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 407626,
-      "name": "Vale a Pena ser Profeta - Ao Vivo",
-      "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"
+      "duration_ms": 284146,
+      "name": "No Meio de uma Tempestade",
+      "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
       },
       "artists": [
         {
@@ -496,29 +496,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 284146,
-      "name": "No Meio de uma Tempestade",
-      "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
+      "duration_ms": 407626,
+      "name": "Vale a Pena ser Profeta - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"
     },
     {
       "added_at": null,
@@ -551,6 +531,26 @@
       "duration_ms": 306466,
       "name": "Senhor que Cura",
       "url": "https://open.spotify.com/track/5ty5iPKPaNepDPSauxGuIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Orar e Adorar 4 - 24h por Dia",
+        "url": "https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "24 Horas por Dia",
+      "url": "https://open.spotify.com/track/4dNoG5zyY6ZkH3RlueTnX2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -735,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 391586,
-      "name": "Orar e Adorar (feat. David Quinlan)",
-      "url": "https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
         "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
       },
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Orar e Adorar 4 - 24h por Dia",
-        "url": "https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA"
+        "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL"
       },
       "artists": [
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
         }
       ],
-      "duration_ms": 255840,
-      "name": "24 Horas por Dia",
-      "url": "https://open.spotify.com/track/4dNoG5zyY6ZkH3RlueTnX2"
+      "duration_ms": 391586,
+      "name": "Orar e Adorar (feat. David Quinlan)",
+      "url": "https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 369853,
+      "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
       },
@@ -835,6 +851,30 @@
       "duration_ms": 421866,
       "name": "Toma Teu Trono",
       "url": "https://open.spotify.com/track/0EYhxEagvkr3yasS5goZSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastros de Amor (ao Vivo)",
+        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Jesus, A Rocha Eterna - Ao Vivo",
+      "url": "https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi"
     },
     {
       "added_at": null,
@@ -863,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 369853,
-      "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 348893,
       "name": "S\u00f3 o Senhor \u00e9 Deus",
       "url": "https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rastros de Amor (ao Vivo)",
-        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
-      },
-      "artists": [
-        {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Alda C\u00e9lia",
-          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Jesus, A Rocha Eterna - Ao Vivo",
-      "url": "https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi"
     },
     {
       "added_at": null,

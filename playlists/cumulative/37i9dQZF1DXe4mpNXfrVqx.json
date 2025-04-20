@@ -2345,6 +2345,28 @@
     },
     {
       "album": {
+        "name": "LAI$ROSA On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/3Zih5VaAa4t3PFEYyUUNKV"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137973,
+      "name": "LAI$ROSA On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/3s2njFVDOO2dn46Y3KkIoy"
+    },
+    {
+      "album": {
         "name": "Lealdade",
         "url": "https://open.spotify.com/album/3UVCBgMLJwuPuujCg6tm6G"
       },
@@ -2840,7 +2862,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 163432,
       "name": "MEDITO E ME ACALMO",
       "url": "https://open.spotify.com/track/1qFKnOalXyNsfeABFGGQCi"
@@ -3104,6 +3126,32 @@
       "duration_ms": 161559,
       "name": "Nem Quero Saber",
       "url": "https://open.spotify.com/track/1BMSRjqjt2INiJ4PuEyWmv"
+    },
+    {
+      "album": {
+        "name": "No Estudio 15 - Telefonema",
+        "url": "https://open.spotify.com/album/6nN4r8cEF0nho31iv4XkQO"
+      },
+      "artists": [
+        {
+          "name": "Lav\u00ednia",
+          "url": "https://open.spotify.com/artist/4fmOel5OdA6Wvov0qKlP6u"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Blessbls",
+          "url": "https://open.spotify.com/artist/3ZgYOtWHGSmkJuq503UMtN"
+        }
+      ],
+      "date_added": "2025-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147835,
+      "name": "No Estudio 15 - Telefonema",
+      "url": "https://open.spotify.com/track/3oaFWXoiX6azLFR2O6yXb8"
     },
     {
       "album": {
@@ -3444,7 +3492,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 189716,
       "name": "Perfeito \u00c9 o Mar",
       "url": "https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R"

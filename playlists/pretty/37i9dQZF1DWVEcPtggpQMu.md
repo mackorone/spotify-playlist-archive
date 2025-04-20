@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:<a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=UM5MUXN5THCvBDJIeudsIA">Ziggy4x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,660 likes - 89 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,725 likes - 89 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Boys Noize
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,156 likes - 152 songs - 7 hr 54 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,126 likes - 152 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 59 | [Time Is The Healer](https://open.spotify.com/track/1b7QjilLhnqscAIyqxmhdD) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Time Is The Healer](https://open.spotify.com/album/0rgbIpteVVAj5jjAetO3qf) | 3:12 |
 | 60 | [Castles In The Sky](https://open.spotify.com/track/2aUFuFkH7YirC6ER6yGit6) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [IVD](https://open.spotify.com/artist/0br6sutLp9kgaxziqx45oZ) | [Castles In The Sky](https://open.spotify.com/album/1DPaEexteBEjBmUk8zVCuK) | 3:13 |
 | 61 | [Keep The Faith](https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV) | 3:13 |
-| 62 | [Watching Over Me](https://open.spotify.com/track/63Fu6cZVHFsxxeXEBvMBs6) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/6VxEbABUynP9EO928oMktg) | 4:39 |
+| 62 | [Watching Over Me](https://open.spotify.com/track/63Fu6cZVHFsxxeXEBvMBs6) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/6VxEbABUynP9EO928oMktg) | 4:37 |
 | 63 | [Tokyo](https://open.spotify.com/track/5GOKWH2coW8Q0vbQubJYl3) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Dea Magna](https://open.spotify.com/artist/2CV829PespIwQonuSPIClv) | [Tokyo](https://open.spotify.com/album/4acW0dZRUUJ1JoTNUeNvRO) | 2:19 |
 | 64 | [Burn The Night](https://open.spotify.com/track/2qIAl1Pzgf2xT6cL2jwGMu) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Philou Louzolo](https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C) | [Burn The Night](https://open.spotify.com/album/1bKCKiIuGPMfmu7tWFcTjS) | 3:36 |
 | 65 | [Supposed To Do \- Mike Dunn BlackBall MixX](https://open.spotify.com/track/1RWINX6xITjsvz3mDYOhR6) | [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Supposed To Do \(Mike Dunn BlackBall MixX\)](https://open.spotify.com/album/2npd2skzvpN6g0rFJ40EbJ) | 3:31 |

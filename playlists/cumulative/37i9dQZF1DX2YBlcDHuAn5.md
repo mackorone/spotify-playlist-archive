@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-220 songs - 13 hr 9 min
+221 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2023-02-23 | 2024-06-28 |
 | [California](https://open.spotify.com/track/2TeTcoh9iB1uOOLiQBeTkT) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [California](https://open.spotify.com/album/4R2ALa4EonxEMxi0yDhcGj) | 3:58 | 2023-03-30 | 2024-09-13 |
 | [Can A Heart Take](https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Can A Heart Take](https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O) | 3:04 | 2025-01-16 |  |
-| [Can't Let You In, Can't Let You Out](https://open.spotify.com/track/5uR1HLJjVfukNCjZ1hkKIw) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Can't Let You In, Can't Let You Out](https://open.spotify.com/album/2oh9crqE4SLLnas9UFRnFx) | 3:32 | 2025-03-13 |  |
+| [Can't Let You In, Can't Let You Out](https://open.spotify.com/track/5uR1HLJjVfukNCjZ1hkKIw) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Can't Let You In, Can't Let You Out](https://open.spotify.com/album/2oh9crqE4SLLnas9UFRnFx) | 3:32 | 2025-03-13 | 2025-04-20 |
 | [Can't Nobody](https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody](https://open.spotify.com/album/29N9gvVvR2wiXR1hJR7M9R) | 3:23 | 2023-02-23 | 2023-04-28 |
 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 | 2025-03-13 |  |
 | [Changing Lanes](https://open.spotify.com/track/2Llgpo9AXTBNNHfGwfJzVN) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/5jhFRab152NcnXSPab5GNO) | 2:58 | 2023-08-17 | 2023-09-01 |
@@ -226,6 +226,7 @@
 | [Wild Roses](https://open.spotify.com/track/18d5dlhKtJRqNBxNrB4gWU) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Wild Roses](https://open.spotify.com/album/2k6LkrFt3pS40RSvEb5Ntm) | 3:00 | 2024-06-27 | 2025-02-04 |
 | [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 | 2025-04-17 |  |
 | [Win My Heart](https://open.spotify.com/track/04vYVXnigtNtKDfHtjLwS4) | [Mycah](https://open.spotify.com/artist/11LEf5PXavWVHgzSLXcaeV) | [Win My Heart](https://open.spotify.com/album/5rtIZDLfrJ5k2mtnvcaPu1) | 3:50 | 2024-09-19 | 2024-11-09 |
+| [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 | 2025-04-17 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2023-02-23 | 2023-09-22 |
 | [Young At Heart](https://open.spotify.com/track/1EmCT6WLXdn6WMagoOtsXy) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS) | [Young At Heart](https://open.spotify.com/album/5wnk5LWQOATrZmAz0x1VUX) | 5:23 | 2024-11-08 | 2025-02-05 |
 

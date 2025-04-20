@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 172453,
+  "num_followers": 172459,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAABtDktYfIqN/8kRyZxWYQrG",
+  "snapshot_id": "aAGWAAAAAAD2HKbq8RGDRxSW997nAcWR",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "I'll Be Lovin' You",
-      "url": "https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kerosene (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 239331,
       "name": "I Don't Love Here Anymore",
       "url": "https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "I'll Be Lovin' You",
+      "url": "https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Locomotive",
+      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Locomotive",
-      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
     },
     {
       "added_at": null,
@@ -975,26 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cass County (Deluxe)",
-        "url": "https://open.spotify.com/album/3qsw8b2cxvBthq1OQIKBB3"
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
       "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        },
-        {
-          "name": "Mick Jagger",
-          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
-        },
         {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 270334,
-      "name": "Bramble Rose",
-      "url": "https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n"
+      "duration_ms": 136280,
+      "name": "Armadillo",
+      "url": "https://open.spotify.com/track/0ffSNNyKBwBUl7W9fOuS5O"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

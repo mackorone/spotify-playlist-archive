@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Afrodisia",
+        "url": "https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540340,
+      "name": "Afrodisia",
+      "url": "https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i"
+    },
+    {
+      "album": {
         "name": "After the Rain",
         "url": "https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp"
       },
@@ -4980,7 +4998,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 306676,
       "name": "Melting Hazard",
       "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"

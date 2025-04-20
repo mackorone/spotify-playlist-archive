@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Rico Nasty",
-  "num_followers": 768950,
+  "num_followers": 768949,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
+        "name": "blindfolded",
+        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "blindfolded",
+      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
         "name": "I Want You (Fever)",
         "url": "https://open.spotify.com/album/6wxdOloEjabLrzUjXhhpbd"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "blindfolded",
-        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
       },
       "artists": [
         {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 199240,
-      "name": "blindfolded",
-      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -771,22 +787,6 @@
       "duration_ms": 243293,
       "name": "My House - feat. Courtney LaPlante",
       "url": "https://open.spotify.com/track/7wSVu2ZvscLgaHbS5g5m6o"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
-        "name": "T&A",
-        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "T&A",
-      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Take Your Aim",
-        "url": "https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0"
-      },
-      "artists": [
-        {
-          "name": "Rocket",
-          "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Take Your Aim",
-      "url": "https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Take Your Aim",
+        "url": "https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0"
+      },
+      "artists": [
+        {
+          "name": "Rocket",
+          "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Take Your Aim",
+      "url": "https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "My Drummer's Girlfriend",
-        "url": "https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj"
-      },
-      "artists": [
-        {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
-        }
-      ],
-      "duration_ms": 157029,
-      "name": "My Drummer's Girlfriend",
-      "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Dig Me Out (Remastered)",
         "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 160919,
       "name": "Dig Me Out",
       "url": "https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "My Drummer's Girlfriend",
+        "url": "https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "duration_ms": 157029,
+      "name": "My Drummer's Girlfriend",
+      "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 177975,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
         "url": "https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 234000,
       "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
       "url": "https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Champagne Taste",
-        "url": "https://open.spotify.com/album/2zsxtYFYCBeElrDzjLu0uG"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Champagne Taste",
-      "url": "https://open.spotify.com/track/0oJ2ViRL2hbmUAkWwCSDib"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Love Me Forever",
         "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 196942,
       "name": "the kids aren't alright",
       "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Champagne Taste",
+        "url": "https://open.spotify.com/album/2zsxtYFYCBeElrDzjLu0uG"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 192371,
+      "name": "Champagne Taste",
+      "url": "https://open.spotify.com/track/0oJ2ViRL2hbmUAkWwCSDib"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Cover You",
-        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "Cover You",
-      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 207636,
       "name": "blindspot",
       "url": "https://open.spotify.com/track/0SqZvFpQbApABMTzwQ4rXh"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Cover You",
+        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "Cover You",
+      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
     },
     {
       "added_at": "2025-03-07 05:00:43",

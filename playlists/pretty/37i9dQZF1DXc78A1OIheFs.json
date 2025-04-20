@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18927,
+  "num_followers": 18929,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
     },
     {
+      "added_at": "2025-03-27 13:00:15",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "Telling Lies",
+      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Hyperreal (Middle of the Night)",
@@ -155,22 +171,6 @@
       "duration_ms": 165000,
       "name": "Hyperreal (Middle of the Night)",
       "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
-    },
-    {
-      "added_at": "2025-03-27 13:00:15",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "Telling Lies",
-      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
     },
     {
       "added_at": "2025-04-03 13:00:16",
@@ -357,6 +357,22 @@
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
     },
     {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
       "added_at": "2025-01-30 13:00:19",
       "album": {
         "name": "Verrans Corner",
@@ -375,22 +391,6 @@
       "duration_ms": 202415,
       "name": "Verrans Corner",
       "url": "https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "pretend",
-        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
-      },
-      "artists": [
-        {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
     },
     {
-      "added_at": "2025-01-23 13:00:35",
-      "album": {
-        "name": "look what you're doing to me",
-        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "look what you're doing to me",
-      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
-    },
-    {
       "added_at": "2024-12-05 13:00:00",
       "album": {
         "name": "Light Up",
@@ -477,6 +461,22 @@
       "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
     },
     {
+      "added_at": "2025-01-23 13:00:35",
+      "album": {
+        "name": "look what you're doing to me",
+        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "look what you're doing to me",
+      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Nights Like This",
@@ -491,6 +491,22 @@
       "duration_ms": 165090,
       "name": "Boots 'N All",
       "url": "https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW"
+    },
+    {
+      "added_at": "2024-11-07 11:00:00",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -527,22 +543,6 @@
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
-    },
-    {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
-      },
-      "artists": [
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c"
     },
     {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM"
+        }
+      ],
+      "duration_ms": 194670,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x"
+    },
+    {
       "added_at": "2025-01-30 13:00:19",
       "album": {
         "name": "What The Hell Do We Do Now?",
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Meet Me",
-        "url": "https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV"
-      },
-      "artists": [
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM"
-        }
-      ],
-      "duration_ms": 194670,
-      "name": "Meet Me",
-      "url": "https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Leisurevision",
         "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+    },
+    {
+      "added_at": "2025-01-30 13:00:19",
+      "album": {
+        "name": "Make Way For The Sun",
+        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
+      },
+      "artists": [
+        {
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
     },
     {
       "added_at": "2025-01-23 13:00:35",
@@ -691,22 +707,6 @@
       "duration_ms": 176326,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/4zHNBoWXRGv4D46AYgaT3x"
-    },
-    {
-      "added_at": "2025-01-30 13:00:19",
-      "album": {
-        "name": "Make Way For The Sun",
-        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
-      },
-      "artists": [
-        {
-          "name": "O & The Mo",
-          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
     },
     {
       "added_at": "2025-03-20 14:42:12",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
-    },
-    {
       "added_at": "2025-04-10 14:00:37",
       "album": {
         "name": "The Eyes",
@@ -871,6 +855,22 @@
       "duration_ms": 197625,
       "name": "The Eyes",
       "url": "https://open.spotify.com/track/4MpAtRHh8dckqOar0vlLBp"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
     },
     {
       "added_at": "2025-02-27 13:00:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Might As Well Be Watching",
-        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Might As Well Be Watching",
-      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Everything Is Going To Be Alright",
         "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
@@ -1027,22 +1011,6 @@
       "duration_ms": 191812,
       "name": "Forever Is A Charm",
       "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
-    },
-    {
-      "added_at": "2025-02-20 13:00:26",
-      "album": {
-        "name": "Kiss Me Like You're So In Love",
-        "url": "https://open.spotify.com/album/24dH4zH1SsLXGO86wCD1Ce"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 207785,
-      "name": "Kiss Me Like You're So In Love",
-      "url": "https://open.spotify.com/track/0BcsYXyRxgfjtyxkDKTJKG"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1079,6 +1047,38 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Might As Well Be Watching",
+        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "Might As Well Be Watching",
+      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
+    },
+    {
+      "added_at": "2025-02-20 13:00:26",
+      "album": {
+        "name": "Kiss Me Like You're So In Love",
+        "url": "https://open.spotify.com/album/24dH4zH1SsLXGO86wCD1Ce"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "duration_ms": 207785,
+      "name": "Kiss Me Like You're So In Love",
+      "url": "https://open.spotify.com/track/0BcsYXyRxgfjtyxkDKTJKG"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Tief Im Wald",
         "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 218033,
       "name": "Tief Im Wald",
       "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1261,20 +1261,24 @@
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2025-04-03 13:00:16",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
+        "name": "KAVAFIED",
+        "url": "https://open.spotify.com/album/6XXFEoCUDmrONzj2qLNGgq"
       },
       "artists": [
         {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Revus",
+          "url": "https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa"
         }
       ],
-      "duration_ms": 215571,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
+      "duration_ms": 184632,
+      "name": "KAVAFIED",
+      "url": "https://open.spotify.com/track/78Mrv1y0tVzrhNRpv9BcXj"
     }
   ],
   "unique_name": "The Local List Aotearoa",

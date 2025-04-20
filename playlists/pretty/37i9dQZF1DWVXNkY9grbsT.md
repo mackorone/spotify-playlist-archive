@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,735 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,775 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 83 | [O, Dark Mother](https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [O, Dark Mother](https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6) | 5:31 |
 | 84 | [Atlas](https://open.spotify.com/track/2fRj10zHMEuzwNCGOirFmb) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx) | 6:53 |
 | 85 | [Heterodina](https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 2](https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL) | 2:19 |
-| 86 | [Kumquat](https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Kumquat](https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr) | 3:16 |
-| 87 | [Winter Cop](https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 2:35 |
-| 88 | [Heliconia](https://open.spotify.com/track/3ohYAC4qiN3DwpYzain1gu) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Mosaic](https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a) | 9:13 |
-| 89 | [The Milky Sea](https://open.spotify.com/track/5lTrKIvw7MN30cGS2FQKde) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [The Milky Sea](https://open.spotify.com/album/3xLrHm2vb65AkmaTSuJ8PC) | 20:02 |
+| 86 | [Dragon Bridge](https://open.spotify.com/track/0wWCZ69qJ5sY2Cc5X9xNOi) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Dragon Bridge](https://open.spotify.com/album/5ULcrCdfbtnV8XPeW2TpYX) | 3:45 |
+| 87 | [Afrodisia](https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Afrodisia](https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT) | 9:00 |
+| 88 | [Winter Cop](https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 2:35 |
+| 89 | [Heliconia](https://open.spotify.com/track/3ohYAC4qiN3DwpYzain1gu) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Mosaic](https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a) | 9:13 |
 | 90 | [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 |
-| 91 | [Dragon Bridge](https://open.spotify.com/track/0wWCZ69qJ5sY2Cc5X9xNOi) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Dragon Bridge](https://open.spotify.com/album/5ULcrCdfbtnV8XPeW2TpYX) | 3:45 |
-| 92 | [Chaparral](https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02) | [Total Blue](https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y) | [Total Blue](https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG) | 6:07 |
-| 93 | [The Prettiest Pearl](https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [Reflections 06](https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX) | 3:53 |
-| 94 | [Heliobat](https://open.spotify.com/track/00hrine247guDPYb1jSBKg) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Dostrotime](https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI) | 3:47 |
+| 91 | [Kumquat](https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Kumquat](https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr) | 3:16 |
+| 92 | [The Milky Sea](https://open.spotify.com/track/5lTrKIvw7MN30cGS2FQKde) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [The Milky Sea](https://open.spotify.com/album/3xLrHm2vb65AkmaTSuJ8PC) | 20:02 |
+| 93 | [Chaparral](https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02) | [Total Blue](https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y) | [Total Blue](https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG) | 6:07 |
+| 94 | [The Prettiest Pearl](https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [Reflections 06](https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX) | 3:53 |
 | 95 | [3eee](https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 2](https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL) | 1:49 |
-| 96 | [Långt under noll](https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Radio Mnemosyne](https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y) | 6:22 |
-| 97 | [Glimmer](https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj) | [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Burst / Glimmer](https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb) | 5:16 |
-| 98 | [kinda tropical](https://open.spotify.com/track/0PRlkQ8uBsQR5G3Oeov5n5) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [kinda tropical](https://open.spotify.com/album/3L2jSO3z1tn9Yc2bM50sgC) | 3:16 |
-| 99 | [how it ends](https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [how it ends](https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl) | 1:58 |
-| 100 | [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 |
+| 96 | [Heliobat](https://open.spotify.com/track/00hrine247guDPYb1jSBKg) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Dostrotime](https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI) | 3:47 |
+| 97 | [Långt under noll](https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Radio Mnemosyne](https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y) | 6:22 |
+| 98 | [Glimmer](https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj) | [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Burst / Glimmer](https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb) | 5:16 |
+| 99 | [kinda tropical](https://open.spotify.com/track/0PRlkQ8uBsQR5G3Oeov5n5) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [kinda tropical](https://open.spotify.com/album/3L2jSO3z1tn9Yc2bM50sgC) | 3:16 |
+| 100 | [how it ends](https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [how it ends](https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl) | 1:58 |
 
 Snapshot ID: `aAKcqwAAAADcZXbdTcWkhLunUxPn99zz`

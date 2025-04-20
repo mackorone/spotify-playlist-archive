@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aABEgAAAAADK1nC5vn/6/rAe+wZOWmKw",
+  "snapshot_id": "aAGWAAAAAAC8DTHdwsN3ZtXiDaTDAkVE",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Salala",
-      "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Equal Strain On All Parts",
         "url": "https://open.spotify.com/album/237Fbt0QgkCxkRDmBRvmiR"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 236918,
       "name": "Ti Punch Caf\u00e9",
       "url": "https://open.spotify.com/track/0GHiqo3CxI9pZvFHEzdvU5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Salala",
+      "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 242906,
       "name": "Do Yourself",
       "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oremi",
-        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
     },
     {
       "added_at": null,
@@ -1055,26 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MULTICOLOR",
-        "url": "https://open.spotify.com/album/28trbUyNBxZsVaLhWpwCjI"
-      },
-      "artists": [
-        {
-          "name": "Lura",
-          "url": "https://open.spotify.com/artist/0zNTRuF4PDWOt7IGHpGyNc"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 220343,
-      "name": "Cetam",
-      "url": "https://open.spotify.com/track/2MLB1Yr7ZCXP54kjWSwVNX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 226826,
       "name": "Iwoya (feat. Dave Matthews)",
       "url": "https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MULTICOLOR",
+        "url": "https://open.spotify.com/album/28trbUyNBxZsVaLhWpwCjI"
+      },
+      "artists": [
+        {
+          "name": "Lura",
+          "url": "https://open.spotify.com/artist/0zNTRuF4PDWOt7IGHpGyNc"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 220343,
+      "name": "Cetam",
+      "url": "https://open.spotify.com/track/2MLB1Yr7ZCXP54kjWSwVNX"
     },
     {
       "added_at": null,

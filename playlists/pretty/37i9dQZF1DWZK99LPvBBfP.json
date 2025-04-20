@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 315500,
+  "num_followers": 315642,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Foundation",
+        "url": "https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH"
+      },
+      "artists": [
+        {
+          "name": "Ten City",
+          "url": "https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi"
+        }
+      ],
+      "duration_ms": 255200,
+      "name": "That's the Way Love Is - Underground Mix; Edit",
+      "url": "https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Leave The World Behind",
         "url": "https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 410493,
       "name": "Leave The World Behind",
       "url": "https://open.spotify.com/track/73jg7bVVMpht7GF1QYVkl5"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Foundation",
-        "url": "https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH"
-      },
-      "artists": [
-        {
-          "name": "Ten City",
-          "url": "https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi"
-        }
-      ],
-      "duration_ms": 255200,
-      "name": "That's the Way Love Is - Underground Mix; Edit",
-      "url": "https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Watch The Sunrise",
-        "url": "https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 372493,
-      "name": "Watch The Sunrise - Extended Vocal",
-      "url": "https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Paul Oakenfold - Mount Everest: The Base Camp Mix",
         "url": "https://open.spotify.com/album/5L6PMFprTx841pBTxV6bqZ"
       },
@@ -1147,6 +1127,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/6szJjY0eocfiH3VeyFrSn9"
+      },
+      "artists": [
+        {
+          "name": "Moodymanc",
+          "url": "https://open.spotify.com/artist/4aUxzq0r7O2RhqrHMc56BW"
+        }
+      ],
+      "duration_ms": 556906,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2uMdRrbYYxOk2Hcqt1ZBL7"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "So Many Colours",
         "url": "https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8"
       },
@@ -1167,18 +1163,54 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/6szJjY0eocfiH3VeyFrSn9"
+        "name": "Watch The Sunrise",
+        "url": "https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ"
       },
       "artists": [
         {
-          "name": "Moodymanc",
-          "url": "https://open.spotify.com/artist/4aUxzq0r7O2RhqrHMc56BW"
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
         }
       ],
-      "duration_ms": 556906,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/2uMdRrbYYxOk2Hcqt1ZBL7"
+      "duration_ms": 372493,
+      "name": "Watch The Sunrise - Extended Vocal",
+      "url": "https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Time For Change",
+        "url": "https://open.spotify.com/album/2rBMhWTkBHdjWqpQkHbzI5"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        }
+      ],
+      "duration_ms": 464160,
+      "name": "Camdino Soul",
+      "url": "https://open.spotify.com/track/6jO4uy595sAigCrkKJIhdU"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "T.V. Scene (Sensurround Mix)",
+        "url": "https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae"
+      },
+      "artists": [
+        {
+          "name": "Linda Di Franco",
+          "url": "https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW"
+        }
+      ],
+      "duration_ms": 438408,
+      "name": "T.V. Scene - Sensurround Mix",
+      "url": "https://open.spotify.com/track/2boRfspDMS8D2e44lw6VTl"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1199,22 +1231,6 @@
       "duration_ms": 546791,
       "name": "Canoa",
       "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "T.V. Scene (Sensurround Mix)",
-        "url": "https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae"
-      },
-      "artists": [
-        {
-          "name": "Linda Di Franco",
-          "url": "https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW"
-        }
-      ],
-      "duration_ms": 438408,
-      "name": "T.V. Scene - Sensurround Mix",
-      "url": "https://open.spotify.com/track/2boRfspDMS8D2e44lw6VTl"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1247,22 +1263,6 @@
       "duration_ms": 241053,
       "name": "Big Love - Eat Me Edit",
       "url": "https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Time For Change",
-        "url": "https://open.spotify.com/album/2rBMhWTkBHdjWqpQkHbzI5"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        }
-      ],
-      "duration_ms": 464160,
-      "name": "Camdino Soul",
-      "url": "https://open.spotify.com/track/6jO4uy595sAigCrkKJIhdU"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 238920,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Lola's Theme",
         "url": "https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 207066,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 238920,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Sueno Latino",
-        "url": "https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7"
+        "name": "Experience: Expanded (Remastered)",
+        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
       },
       "artists": [
         {
-          "name": "Sue\u00f1o Latino",
-          "url": "https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ"
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
         }
       ],
-      "duration_ms": 634893,
-      "name": "Sueno Latino - Paradise Version",
-      "url": "https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW"
+      "duration_ms": 298533,
+      "name": "Out Of Space (Remastered)",
+      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
     }
   ],
   "unique_name": "Ibiza Classics",

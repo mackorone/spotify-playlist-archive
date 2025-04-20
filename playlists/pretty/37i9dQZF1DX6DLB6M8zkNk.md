@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,623 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,937 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Experience](https://open.spotify.com/track/4BTPwdNcGQK2GQxwvKkiZI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse \(Deluxe Edition\)](https://open.spotify.com/album/62dvhzEC1RtHI7tIpE4EmL) | 5:15 |
-| 2 | [Für Elise \- Reimagined](https://open.spotify.com/track/6z720DAWxYJL5SacdZLlEN) | [Alexander Joseph](https://open.spotify.com/artist/14UXdoHp8xbGJLLYDp9HqF) | [Für Elise \- Reimagined](https://open.spotify.com/album/5Olt9x9Bp5NOvDx2Pex9CW) | 6:00 |
-| 3 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 |
+| 1 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 |
+| 2 | [Experience](https://open.spotify.com/track/4BTPwdNcGQK2GQxwvKkiZI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse \(Deluxe Edition\)](https://open.spotify.com/album/62dvhzEC1RtHI7tIpE4EmL) | 5:15 |
+| 3 | [Für Elise \- Reimagined](https://open.spotify.com/track/6z720DAWxYJL5SacdZLlEN) | [Alexander Joseph](https://open.spotify.com/artist/14UXdoHp8xbGJLLYDp9HqF) | [Für Elise \- Reimagined](https://open.spotify.com/album/5Olt9x9Bp5NOvDx2Pex9CW) | 6:00 |
 | 4 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 |
 | 5 | [Cornfield Chase \- Piano\-Cello Version](https://open.spotify.com/track/0dn7lN2ky5BnUJNoELXh3i) | [Michael Forster](https://open.spotify.com/artist/0TORlmlTHaneG9k4nWPn0V), [Anna Stevens](https://open.spotify.com/artist/1vIQpbquJceZ12FiKFnnzv) | [Piano Chill](https://open.spotify.com/album/01O3K6QN4xR3YR2j00ONtr) | 2:04 |
 | 6 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 75 | [Pluto's Crossing: Id\. The Journey](https://open.spotify.com/track/2B7DzfgaMkfVVv9pT2q43P) | [Andrew Sparrow](https://open.spotify.com/artist/0kIFcoCKn3Lfal4tQbWP0N), [The Czech Film Orchestra](https://open.spotify.com/artist/0m8SPeJ3LOEnfuzXf5LN9b), [Marek Valášek](https://open.spotify.com/artist/5nycKcUvS0WElwhFKLmwx1) | [Sparrow: Pluto's Crossing](https://open.spotify.com/album/1Gbeu75FH5vyS7mENKuqY8) | 2:04 |
 | 76 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 |
 
-Snapshot ID: `aAEVOAAAAAAq2n3AXlQduvvPZrOoN6GS`
+Snapshot ID: `aAMfxQAAAADiqgLO5IUlO4+Z9mGERcSq`

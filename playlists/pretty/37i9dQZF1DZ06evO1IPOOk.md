@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,849,522 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,850,149 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 49 | [Super Bowl LIX Halftime Show \- Live](https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [NFL](https://open.spotify.com/artist/1oj9F8x44ah5gxYecEj8ch) | [Super Bowl LIX Halftime Show \(Live\)](https://open.spotify.com/album/2Q9sOmcZFz7IsoVyF8G3s4) | 13:20 |
 | 50 | [Backseat Freestyle](https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 3:32 |
 
-Snapshot ID: `aABEgAAAAACSK1fLbayW8K26X/68a3FI`
+Snapshot ID: `aAGWAAAAAAC7JNq7bFjhWxbwLuBPZ0FW`

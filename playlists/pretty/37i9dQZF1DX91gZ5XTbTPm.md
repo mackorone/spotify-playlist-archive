@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,819 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,831 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 24 | [Kentucky Love](https://open.spotify.com/track/7v21UEJI0U8v99dggzZjQm) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [KrispyLife Kidd](https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR) | [Kentucky Love](https://open.spotify.com/album/2kh30VwYJ7fwfoEszdMOg0) | 3:51 |
 | 25 | [The Viper](https://open.spotify.com/track/4VIPmYQRbPTIYujLB76sHx) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/67KUGPrssrB3fyI9ZFO9dP) | 2:30 |
 | 26 | [Alice at Magic](https://open.spotify.com/track/6SzE2xgKxhTIg6xdzcVvpk) | [k3](https://open.spotify.com/artist/6FhM9cnSGHVmJ7qNLJndMx) | [MeloManiac](https://open.spotify.com/album/391oad94O17UqPNgzMflhl) | 2:19 |
-| 27 | [Tired of Being A Simp](https://open.spotify.com/track/3k8OK4KCeg62Zr7N8QtxMO) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [You Can't Say That](https://open.spotify.com/album/1HQJGuWN0N8WCEpczQpQut) | 2:13 |
+| 27 | [Tired Of Being A Simp](https://open.spotify.com/track/3k8OK4KCeg62Zr7N8QtxMO) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [You Can't Say That](https://open.spotify.com/album/1HQJGuWN0N8WCEpczQpQut) | 2:13 |
 | 28 | [Okay](https://open.spotify.com/track/32cHb0lGUepK7qVu06EmGC) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [DREAMS NEVER DIE](https://open.spotify.com/album/3aDklSkHajFA1fAIC4lOiv) | 2:31 |
 | 29 | [They Want To Be You \(feat\. Future\)](https://open.spotify.com/track/2SDKEjkjZQxxSt8e9ZiqKx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:47 |
 | 30 | [Hell Woods 2](https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hell Woods 2](https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic) | 3:10 |

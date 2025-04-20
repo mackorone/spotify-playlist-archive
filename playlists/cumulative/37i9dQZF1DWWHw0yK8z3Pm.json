@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Canadian",
+        "url": "https://open.spotify.com/album/2WXiQpfUoALkQaoT7zBT58"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Canadian",
+      "url": "https://open.spotify.com/track/3BA4GWAh21nYAiECfCnX5E"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/2OyX6YzNKwM7C8dX6NOI5I"
       },
@@ -6068,7 +6086,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 186861,
       "name": "Never Love You Again (Feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/1hpeLq6qX83kCsfh9C8RNI"
@@ -6162,6 +6180,24 @@
       "duration_ms": 264387,
       "name": "North of the Border",
       "url": "https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680"
+    },
+    {
+      "album": {
+        "name": "Northern Blood",
+        "url": "https://open.spotify.com/album/1rQfXmREZiL4nDa6cXJ1Eo"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Northern Blood",
+      "url": "https://open.spotify.com/track/5HoukISZBPykqAbKPT12kK"
     },
     {
       "album": {
@@ -8280,7 +8316,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 150371,
       "name": "the real deal",
       "url": "https://open.spotify.com/track/3zfwaCUZLnssBxfJg6E2n9"
@@ -8762,7 +8798,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-20",
       "duration_ms": 209768,
       "name": "Tumblin Down",
       "url": "https://open.spotify.com/track/48UCmZuBo7WJLGWAAEYIg2"
@@ -9672,6 +9708,28 @@
       "duration_ms": 159693,
       "name": "You Think You're Like the Rain",
       "url": "https://open.spotify.com/track/1qSh9gR4epn8vgu5GPeGP3"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Fall",
+        "url": "https://open.spotify.com/album/0wSXHbSfSsIbSJD9X0jXXV"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        },
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151320,
+      "name": "You're Gonna Fall",
+      "url": "https://open.spotify.com/track/1lIv7tnLHNRKjQ6CxJjiIW"
     },
     {
       "album": {

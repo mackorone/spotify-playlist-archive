@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-591 songs - 2 day 1 hr 5 min
+592 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 |  |
 | [Alleghanys](https://open.spotify.com/track/3awOKjYfWhKg9MqHZoN831) | [Mitch Oliver](https://open.spotify.com/artist/1ckj2vv3RFouOkfBd8PxiJ) | [Alleghanys](https://open.spotify.com/album/40X8cf3IfXsqsARey9SPie) | 6:41 | 2021-12-08 | 2023-08-20 |
 | [Altitude](https://open.spotify.com/track/0jfawsq3wQKUtvoBfQRlPK) | [Hidden Voices](https://open.spotify.com/artist/7nm1s5jeLUOtV654BErfeu) | [Altitude](https://open.spotify.com/album/7d2R3XGaesuYEhQWEKpjE0) | 4:14 | 2024-01-26 |  |
-| [Amethyst](https://open.spotify.com/track/4MZBAmPqM7WJOVICPwFPst) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Amethyst](https://open.spotify.com/album/57V02f75ZzKZCOX3QFGmgF) | 4:27 | 2023-07-07 |  |
+| [Amethyst](https://open.spotify.com/track/4MZBAmPqM7WJOVICPwFPst) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Amethyst](https://open.spotify.com/album/57V02f75ZzKZCOX3QFGmgF) | 4:27 | 2023-07-07 | 2025-04-20 |
 | [Amman \- Nils Hoffmann Remix](https://open.spotify.com/track/01pdcdTTNU68wz3nelUulJ) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Amman \(Nils Hoffmann Remix\)](https://open.spotify.com/album/594usaC9V9jwQwBU9ncqXa) | 4:14 | 2023-03-03 |  |
 | [And Then You Came](https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Maria Marcus](https://open.spotify.com/artist/3TFBKKjm1zzgBCOQi2SEGY) | [As Above So Below \(Deluxe Version\)](https://open.spotify.com/album/77Z0RXxgT4Qu5anSsMNmXn) | 4:47 | 2021-12-08 | 2024-07-13 |
 | [Ano](https://open.spotify.com/track/7GEuIUb8ffHIsZ05O5Zdcl) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg) | [Ano EP](https://open.spotify.com/album/3X7duLBTg1yRaYk5rEMlvJ) | 6:59 | 2024-04-12 | 2025-04-05 |
@@ -435,6 +435,7 @@
 | [Robots With Soul Part 2 \- Original Mix](https://open.spotify.com/track/5y6CnB9Q3WDQvVG5rwoYZ1) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:54 | 2021-12-08 | 2022-07-29 |
 | [Robots With Soul Part 3 \- Original Mix](https://open.spotify.com/track/0Q93Bly24xaWk0WcqruOuD) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:20 | 2021-12-08 | 2022-07-26 |
 | [Ronda](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ronda](https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz) | 5:46 | 2021-12-08 | 2024-07-13 |
+| [Roots](https://open.spotify.com/track/2puKQ2WQoMrVcEf4LyvX2z) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Roots](https://open.spotify.com/album/3O54dMAezB6VzwCn6ZloER) | 3:51 | 2025-04-11 |  |
 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 | 2024-04-12 | 2025-03-10 |
 | [Running up That Hill](https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ) | [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h) | [Running up That Hill](https://open.spotify.com/album/7fKT7JDZJvg0LhaXp9Tltw) | 5:07 | 2022-02-21 |  |
 | [Safe Place \- Mixed](https://open.spotify.com/track/4UVw2XBBjIZGErQUOAjAXS) | [Delano Smith](https://open.spotify.com/artist/2HadNlQJIJDPNJMtMQNQU4) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/3G96swfKatQvIVo4Fn6BcE) | 6:00 | 2022-01-14 | 2022-07-21 |

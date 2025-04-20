@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,176 songs - 4 day 18 hr 58 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,178 songs - 4 day 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2184,5 +2184,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2174 | [Hey Mickey](https://open.spotify.com/track/25EmKS69SkgyLnVlABsU1X) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Hey Mickey](https://open.spotify.com/album/6Ppng1zPSwnCJyMgCG9rKL) | 2:20 |
 | 2175 | [All Guns Blazing](https://open.spotify.com/track/2AZnjUHTD6y3qc4PSl5ixG) | [Samynator](https://open.spotify.com/artist/0stG6nm18OkbJlJHWHxrPw), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [All Guns Blazing](https://open.spotify.com/album/2JyBKhHmI938YcK5GJAi4e) | 2:53 |
 | 2176 | [The Devil is Calling You](https://open.spotify.com/track/656ByickknqcplDw6kEVni) | [Common Poetry](https://open.spotify.com/artist/34z9kVC0l0zsLCRqoa56mC), [DEATH CODE](https://open.spotify.com/artist/4TxNiQlZXcBj79ySTx9f2o) | [The Devil is Calling You](https://open.spotify.com/album/56YSQf81xhcuy5XFTC25QL) | 4:37 |
+| 2177 | [Overcome](https://open.spotify.com/track/37flfId9XYw0bsISI55UNL) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Overcome](https://open.spotify.com/album/7kI2d4XJM9omT52Ew1Gcru) | 3:05 |
+| 2178 | [Taking Control](https://open.spotify.com/track/5UvIfLsjJaSbJQ3v8hJ4L5) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [Taking Control](https://open.spotify.com/album/2TLTgctw64qwgIpBY86FzJ) | 2:29 |
 
-Snapshot ID: `AAAIvDUVN9rZIkYKU8r+24DJQ4/qorr9`
+Snapshot ID: `AAAIvikt3UJqvET3/p1X32NTWPocFFXb`

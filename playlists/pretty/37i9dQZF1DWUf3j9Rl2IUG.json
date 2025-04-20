@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Reekado Banks",
-  "num_followers": 160918,
+  "num_followers": 161037,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
-      },
-      "artists": [
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
-    },
-    {
-      "added_at": "2025-04-18 00:01:25",
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -359,22 +343,18 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "HAUSAPIANO (Remix)",
-        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
       "artists": [
         {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
         }
       ],
-      "duration_ms": 137844,
-      "name": "HAUSAPIANO - Remix",
-      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -399,6 +379,26 @@
       "duration_ms": 125284,
       "name": "Hey Jago",
       "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
+    },
+    {
+      "added_at": "2025-04-18 00:01:25",
+      "album": {
+        "name": "HAUSAPIANO (Remix)",
+        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
+      },
+      "artists": [
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "HAUSAPIANO - Remix",
+      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
-    },
-    {
-      "added_at": "2025-04-18 00:01:25",
-      "album": {
         "name": "Fi Kan We Kan",
         "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+    },
+    {
+      "added_at": "2025-04-18 00:01:25",
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
+        "name": "Kese (Dance)",
+        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
+    },
+    {
+      "added_at": "2025-04-18 00:01:25",
+      "album": {
         "name": "FLAKO",
         "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 174117,
       "name": "FLAKO",
       "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
-    },
-    {
-      "added_at": "2025-04-18 00:01:25",
-      "album": {
-        "name": "Kese (Dance)",
-        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -763,18 +763,22 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh"
+        "name": "Viva Lavida",
+        "url": "https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w"
       },
       "artists": [
         {
           "name": "Joeboy",
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 156226,
-      "name": "Taxi Driver",
-      "url": "https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj"
+      "duration_ms": 173858,
+      "name": "Free of Charge",
+      "url": "https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -851,22 +855,18 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Viva Lavida",
-        "url": "https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w"
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh"
       },
       "artists": [
         {
           "name": "Joeboy",
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 173858,
-      "name": "Free of Charge",
-      "url": "https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT"
+      "duration_ms": 156226,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
+        "name": "Reason 2 Japa",
+        "url": "https://open.spotify.com/album/0xoYbMUYlLRuWg5NEYAg8M"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Reason 2 Japa",
+      "url": "https://open.spotify.com/track/25oHQt2nwWQ6ILjkwZRRIy"
+    },
+    {
+      "added_at": "2025-04-18 00:01:25",
+      "album": {
         "name": "Joy Is Coming",
         "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 149243,
       "name": "Pxy Drip",
       "url": "https://open.spotify.com/track/6slrSrrOXJGgUcDFjmNP3T"
-    },
-    {
-      "added_at": "2025-04-18 00:01:25",
-      "album": {
-        "name": "Reason 2 Japa",
-        "url": "https://open.spotify.com/album/0xoYbMUYlLRuWg5NEYAg8M"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Reason 2 Japa",
-      "url": "https://open.spotify.com/track/25oHQt2nwWQ6ILjkwZRRIy"
     },
     {
       "added_at": "2025-04-18 00:01:25",

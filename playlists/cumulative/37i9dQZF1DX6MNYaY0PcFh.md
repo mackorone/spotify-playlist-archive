@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-240 songs - 13 hr 54 min
+241 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [lose my head](https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [lose my head](https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE) | 3:13 | 2025-03-14 |  |
 | [Lost2TheSound](https://open.spotify.com/track/1xooD0EkUnwr1yRL8yK5ad) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Manny Noir](https://open.spotify.com/artist/3YAdlYloykgwECqb1Mtpas) | [Lost2TheSound](https://open.spotify.com/album/0dzEElBKQIeLCMMkmRrVSi) | 3:20 | 2024-03-22 | 2024-05-26 |
 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 | 2022-11-25 | 2024-03-27 |
+| [LOVELOVE](https://open.spotify.com/track/1CuXRKxg5QXaQu3NgGi2Z7) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [LOVELOVE](https://open.spotify.com/album/2giaF7Lwvy9ddscpF9iaP9) | 3:06 | 2025-04-17 |  |
 | [lovergirl \- Tommy Villiers VIP Mix](https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl \(Tommy Villiers VIP Mix\)](https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN) | 3:36 | 2023-09-01 | 2024-03-31 |
 | [Lovesome](https://open.spotify.com/track/6563duTX83eTMkc2AGETfE) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Peaky Beats](https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd) | [Business As Usual EP](https://open.spotify.com/album/30URyJrwzIsoabTOMRncJw) | 4:33 | 2024-05-10 | 2024-07-06 |
 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 | 2024-06-28 | 2025-03-13 |
@@ -152,7 +153,7 @@
 | [Move Your Body feat\. Xpansions](https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body](https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX) | 2:30 | 2025-04-03 |  |
 | [MR\. SANDMAN](https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MR\. SANDMAN](https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb) | 2:25 | 2024-01-26 |  |
 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 | 2024-08-22 |  |
-| [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 | 2024-07-25 |  |
+| [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 | 2024-07-25 | 2025-04-20 |
 | [Near U](https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ) | [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Near U](https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a) | 4:32 | 2024-02-09 | 2024-04-22 |
 | [Needle On The Record \- 4am Mix](https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record \(4am Mix\)](https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW) | 2:58 | 2024-01-26 | 2024-07-27 |
 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 | 2023-06-08 | 2024-06-28 |

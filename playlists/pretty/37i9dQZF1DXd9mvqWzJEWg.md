@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=ybtIU6xvQZGGZowQbG5Vxg">DJ Lag</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,673 likes - 80 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,714 likes - 80 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
