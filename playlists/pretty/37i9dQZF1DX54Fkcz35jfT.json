@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: KALA",
-  "num_followers": 51170,
+  "num_followers": 51172,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "Make It Out Alive",
-        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 209799,
-      "name": "Make It Out Alive",
-      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
         "name": "BRING YOUR BOARD!!",
         "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
       },
@@ -567,22 +551,18 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "Danger Danger",
-        "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
       "artists": [
         {
-          "name": "FZMZ",
-          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
-        },
-        {
-          "name": "icy",
-          "url": "https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Danger Danger",
-      "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -599,22 +579,6 @@
       "duration_ms": 238534,
       "name": "Vengeance",
       "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
-        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "\u5b8c\u5168\u611f\u899aDreamer",
-      "url": "https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -667,6 +631,26 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
+        "name": "Danger Danger",
+        "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
+      },
+      "artists": [
+        {
+          "name": "FZMZ",
+          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+        },
+        {
+          "name": "icy",
+          "url": "https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Danger Danger",
+      "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
         "name": "Missing",
         "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
       },
@@ -711,6 +695,38 @@
       "duration_ms": 175386,
       "name": "KiLLiNG ME",
       "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
+        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "\u5b8c\u5168\u611f\u899aDreamer",
+      "url": "https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
+        "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -763,22 +779,6 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "Delusion:All",
-        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 184909,
-      "name": "Delusion:All",
-      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
         "name": "\u66d6\u6627",
         "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
       },
@@ -791,38 +791,6 @@
       "duration_ms": 222125,
       "name": "\u66d6\u6627",
       "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
-        "name": "I'll be there",
-        "url": "https://open.spotify.com/album/2XV1p7LViusogXzUiB338X"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 278433,
-      "name": "I'll be there",
-      "url": "https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
-        "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
-      "url": "https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -843,18 +811,18 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "ELEVEN FIRE CRACKERS",
-        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
+        "name": "I'll be there",
+        "url": "https://open.spotify.com/album/2XV1p7LViusogXzUiB338X"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 226920,
-      "name": "Salamander",
-      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
+      "duration_ms": 278433,
+      "name": "I'll be there",
+      "url": "https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -879,6 +847,22 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
         "name": "NEW DAWN",
         "url": "https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 212745,
       "name": "NEW DAWN",
       "url": "https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
+        "name": "ELEVEN FIRE CRACKERS",
+        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 226920,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "yoake",
-        "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "yoake",
-      "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 260278,
       "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
+        "name": "yoake",
+        "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "yoake",
+      "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
         "name": "Straight Up (feat. Kj)",
         "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 252300,
       "name": "Straight Up (feat. Kj)",
       "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
-      },
-      "artists": [
-        {
-          "name": "The BONEZ",
-          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "Love song",
-      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 168173,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
+      },
+      "artists": [
+        {
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "Love song",
+      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
         "name": "Tank-top Flower for Friends",
         "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 132386,
       "name": "Blooming the Tank-top",
       "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "Inside Of Me",
-        "url": "https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE"
-      },
-      "artists": [
-        {
-          "name": "HEY-SMITH",
-          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
-        }
-      ],
-      "duration_ms": 193824,
-      "name": "Inside of Me",
-      "url": "https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
         "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
         "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 233393,
       "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
       "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
+        "name": "Inside Of Me",
+        "url": "https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "duration_ms": 193824,
+      "name": "Inside of Me",
+      "url": "https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -1467,34 +1467,18 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
+        "name": "helm\u2019N bass",
+        "url": "https://open.spotify.com/album/6ShhFUdgi20EuTJMq5rHdi"
       },
       "artists": [
         {
-          "name": "ROTTENGRAFFTY",
-          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
         }
       ],
-      "duration_ms": 251400,
-      "name": "\u5bc2\u5bde -sekibaku-",
-      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
-    },
-    {
-      "added_at": "2025-04-15 15:00:25",
-      "album": {
-        "name": "smileY:)",
-        "url": "https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn"
-      },
-      "artists": [
-        {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
-        }
-      ],
-      "duration_ms": 115769,
-      "name": "smileY:)",
-      "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
+      "duration_ms": 234200,
+      "name": "helm\u2019N bass",
+      "url": "https://open.spotify.com/track/1dVRH1xnZgOTFQoCKl1Ha5"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -1511,6 +1495,22 @@
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM"
+    },
+    {
+      "added_at": "2025-04-15 15:00:25",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
+      },
+      "artists": [
+        {
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+        }
+      ],
+      "duration_ms": 251400,
+      "name": "\u5bc2\u5bde -sekibaku-",
+      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "helm\u2019N bass",
-        "url": "https://open.spotify.com/album/6ShhFUdgi20EuTJMq5rHdi"
+        "name": "smileY:)",
+        "url": "https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
         }
       ],
-      "duration_ms": 234200,
-      "name": "helm\u2019N bass",
-      "url": "https://open.spotify.com/track/1dVRH1xnZgOTFQoCKl1Ha5"
+      "duration_ms": 115769,
+      "name": "smileY:)",
+      "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "DIGITAL PARANOIA 2052",
-        "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
+        "name": "BUNBUN SUIBUN",
+        "url": "https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0"
       },
       "artists": [
         {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
-        },
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
         }
       ],
-      "duration_ms": 165124,
-      "name": "girls lie.",
-      "url": "https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt"
+      "duration_ms": 191242,
+      "name": "BUNBUN SUIBUN",
+      "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
     },
     {
       "added_at": "2025-04-15 15:00:25",
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2025-04-15 15:00:25",
       "album": {
-        "name": "BUNBUN SUIBUN",
-        "url": "https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0"
+        "name": "DIGITAL PARANOIA 2052",
+        "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
       },
       "artists": [
         {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         }
       ],
-      "duration_ms": 191242,
-      "name": "BUNBUN SUIBUN",
-      "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
+      "duration_ms": 165124,
+      "name": "girls lie.",
+      "url": "https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt"
     },
     {
       "added_at": "2025-04-15 15:00:25",

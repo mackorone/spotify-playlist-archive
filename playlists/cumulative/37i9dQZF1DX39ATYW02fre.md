@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-259 songs - 18 hr 37 min
+260 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Shapeless](https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW) | 4:34 | 2022-05-30 | 2024-07-05 |
 | [Shapeless](https://open.spotify.com/track/6K33NwGklMpJcuGJV4x2QP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/1OlUD0LH7yiFLfDiSatt8l) | 4:34 | 2024-02-01 | 2024-04-19 |
 | [She Only Counts to Eight](https://open.spotify.com/track/027LxcmuIVTqt5E2xIhRgS) | [Eluize](https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha) | [She Only Counts to Eight](https://open.spotify.com/album/7pA9wbkZj1mesnOyqNVX1N) | 6:03 | 2020-06-06 | 2021-11-26 |
+| [Shine a Light](https://open.spotify.com/track/2Y61neJqFlIhIlToV1HVZK) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Zayden](https://open.spotify.com/artist/2qnLoq981D2rjdJiHltYb8) | [Shine a Light](https://open.spotify.com/album/0J3vMnW6cDhihkSmASC0iw) | 2:07 | 2025-04-17 |  |
 | [Silence](https://open.spotify.com/track/4Jc2zZ9S41O4UD6hLFob87) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [OTHERLiiNE](https://open.spotify.com/album/0XsqhKLzKCGw2q0VAT58Xj) | 4:34 | 2020-06-05\* | 2022-07-06 |
 | [Simple Dreams of Simple Days](https://open.spotify.com/track/6xtonRve2UXZnrFC0dcVAu) | [Mike Slott](https://open.spotify.com/artist/1Ujy7P4HcSHRDxMhyr2Zfo) | [Simple Dreams Of Simple Days](https://open.spotify.com/album/0WDfCykL9v3Cv4oOJ8FBMX) | 2:47 | 2020-06-05\* | 2022-07-28 |
 | [Sister \- Floating Points Remix](https://open.spotify.com/track/3N4YxDS84C9wezYQyJqQln) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Never Come Back / Sister \(Floating Points Remixes\)](https://open.spotify.com/album/05DA37duYzKdMAnYNxGCTs) | 7:03 | 2020-07-04 | 2022-07-29 |
@@ -249,7 +250,7 @@
 | [Understand](https://open.spotify.com/track/5SzMlTF8yHxnYYLXDpyaac) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Dawn Chorus](https://open.spotify.com/album/3fDOKKGXHv4CsGCOTv4W3z) | 2:50 | 2020-06-07 | 2022-07-25 |
 | [Untold](https://open.spotify.com/track/7A5mMcksu3HJeJE9uKDYoX) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2) | 4:18 | 2020-06-10 | 2021-05-28 |
 | [Venus Express](https://open.spotify.com/track/3qfBa57MQFM6ft1tq6J5sA) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF) | [Venus Express](https://open.spotify.com/album/6SlguWoUzAXJiMEsA2ewaA) | 3:58 | 2020-09-02 | 2022-07-27 |
-| [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 | 2020-06-05\* |  |
+| [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 | 2020-06-05\* | 2025-04-21 |
 | [Warm Puddles](https://open.spotify.com/track/5BMgscZZQtHbyflZypgE0B) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Blue 03](https://open.spotify.com/album/5PXvjruQZlkLp7CS3oBD6v) | 7:29 | 2021-04-20 | 2021-07-27 |
 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 | 2020-06-05\* |  |
 | [Watercolor](https://open.spotify.com/track/3Q7c85fyBteQk6wa9dpimM) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Beneath Your Waves](https://open.spotify.com/album/6w6YeMj7cEIBs0iaxNcvPH) | 2:51 | 2020-06-12 | 2022-06-06 |

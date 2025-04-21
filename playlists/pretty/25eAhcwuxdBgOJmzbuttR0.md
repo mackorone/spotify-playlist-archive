@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 5 likes - 371 songs - 1 day 1 hr 12 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 5 likes - 372 songs - 1 day 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -379,5 +379,6 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 369 | [No Ordinary Love \- 2005 Remaster](https://open.spotify.com/track/7asm5RVOARNAXcAZP89VCQ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 5:30 |
 | 370 | [976\-EVIL](https://open.spotify.com/track/2YBzcZv2O6aaiKpcvKeNIp) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes \(Deluxe\)](https://open.spotify.com/album/4RQnFSkkZlA65Xxchhnaha) | 4:32 |
 | 371 | [A Little Bit Harder Now](https://open.spotify.com/track/5td7LYTivVH0MXXwin8QvE) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [Up and Down](https://open.spotify.com/album/5vhJlo8GF4hfoFexjo3zZu) | 2:54 |
+| 372 | [SHALLOW](https://open.spotify.com/track/7hm7YOaz4CHZYAiYBDbf4m) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [VAMP](https://open.spotify.com/album/4bk8MDVLQ78NVnVeAKpe6z) | 3:29 |
 
-Snapshot ID: `AAABe4RjRMo/iq1Q+vGs7v3QEBMoRXZ4`
+Snapshot ID: `AAABfG4z7fHjxaq/v2W7oAc8kZDAuNG/`

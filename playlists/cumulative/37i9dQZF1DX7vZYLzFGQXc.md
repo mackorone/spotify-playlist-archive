@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 고고학 \(Gogohawk\)\) \(Meet the emerging talents of Korea!\)
 
-1,529 songs - 3 day 14 hr 1 min
+1,531 songs - 3 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [BEAM!](https://open.spotify.com/track/546uVfZ5cAMFLL0VbGUXyO) | [Lil 9ap](https://open.spotify.com/artist/6CC0Rj30WieBrLs5fmlSrK), [nowimyoung](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [SUDO](https://open.spotify.com/artist/0KLEGOxFdkllQF972DAiPU) | [NEON LIVES MATTER](https://open.spotify.com/album/1yD0vG1K56xHsvP8RB1LS1) | 2:04 | 2023-03-02 | 2023-05-02 |
 | [Beautiful](https://open.spotify.com/track/6mdJwDvMmy1R0UD4B96WVB) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6) | [Beautiful](https://open.spotify.com/album/0E5ci3LbKXJ4DHSPI1FpUG) | 3:16 | 2022-02-04 | 2022-03-18 |
 | [Beautiful days](https://open.spotify.com/track/20aQQG44sUAjvVIhwAn5ES) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Beautiful days](https://open.spotify.com/album/38b0Ivf0z7RQcT01oiuFqd) | 3:40 | 2022-10-02 | 2023-02-01 |
-| [Beauty and the Beast](https://open.spotify.com/track/1AXBczq7b5irScauvlstAy) | [Rredrain](https://open.spotify.com/artist/7L9rGbD5y3hIIh1IAHEfLr) | [B&B](https://open.spotify.com/album/4xCXyA098tkj94sw0AiQDC) | 2:31 | 2025-02-04 |  |
+| [Beauty and the Beast](https://open.spotify.com/track/1AXBczq7b5irScauvlstAy) | [Rredrain](https://open.spotify.com/artist/7L9rGbD5y3hIIh1IAHEfLr) | [B&B](https://open.spotify.com/album/4xCXyA098tkj94sw0AiQDC) | 2:31 | 2025-02-04 | 2025-04-21 |
 | [Beauty\(2022\)](https://open.spotify.com/track/1gaE9GDp3ctETPzSPcjhZs) | [SONG YUVIN](https://open.spotify.com/artist/5bO0Iy0ozHhSelVBOttCyT) | [Beauty\(2022\)](https://open.spotify.com/album/1afUq7Xry5pM5ueGbcPCVg) | 3:51 | 2022-08-18 | 2022-10-15 |
 | [Before Sunset](https://open.spotify.com/track/3vaNIj3KHtDPHMa0BsZ8NE) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Before Sunset](https://open.spotify.com/album/5Ep3mCuTcoVu0qtFDOwTS2) | 3:20 | 2022-02-23 | 2022-03-18 |
 | [Behind Your Side](https://open.spotify.com/track/7fREUPT71OY4K46OV7RdOy) | [Lee Yeongwon](https://open.spotify.com/artist/0AIMYibUrV6pg7YTgugZLM) | [Behind Your Side](https://open.spotify.com/album/0mG4lz5ipXjQ5ExYoKY77H) | 3:56 | 2022-06-18 | 2022-07-05 |
@@ -983,7 +983,7 @@
 | [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 | 2023-03-31 | 2023-05-02 |
 | [Per](https://open.spotify.com/track/1Kp9qkgGOB0nXrXdsW6w8o) | [ADYA](https://open.spotify.com/artist/4J4tJMuTHFBLuNE93GGvDW) | [ADYA](https://open.spotify.com/album/399ty1ZZfuwQ5vbzFPCPmP) | 3:20 | 2023-06-01 | 2023-08-01 |
 | [Perfect Breathing](https://open.spotify.com/track/0qPUtgnCiSaVYsd1Hr1mwY) | [Euijin](https://open.spotify.com/artist/2i6hsEhNtL3SGDpRhMoP0l) | [SILHOUETTE](https://open.spotify.com/album/1dnCb6DmZWhSYAMnW7MWlo) | 2:40 | 2024-10-04 | 2025-03-13 |
-| [Perfect Timing](https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Turbulence: A Guide to Balance](https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR) | 3:09 | 2024-11-11 |  |
+| [Perfect Timing](https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Turbulence: A Guide to Balance](https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR) | 3:09 | 2024-11-11 | 2025-04-21 |
 | [Perfection](https://open.spotify.com/track/7gKaiNKGoAXQaKne3Feaeh) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Perfection](https://open.spotify.com/album/4pbZ6fucZKAHSzVNfhgvNG) | 2:32 | 2022-06-18 | 2022-07-05 |
 | [Perhaps I](https://open.spotify.com/track/7m85t0XsdAyVpM0FeJFzRd) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Perhaps I](https://open.spotify.com/album/6KZWrD60TjiXXIcyn7gfMq) | 4:25 | 2023-11-14 | 2024-05-03 |
 | [Piano](https://open.spotify.com/track/07F31DtYZt6iTgQInCb1j7) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [Piano 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/7yTfZopRpEzqYqUeupHXFW) | 3:22 | 2024-08-02 | 2024-11-12 |
@@ -1400,6 +1400,7 @@
 | [Where the Flowers Bloom \(Feat\. punchnello\)](https://open.spotify.com/track/582JWXA9sYkNTMSxAHVRVC) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Where the Flowers Bloom](https://open.spotify.com/album/29CoZO1vHx09Szxqaum0aA) | 3:02 | 2022-06-09 | 2022-07-05 |
 | [Where You Go](https://open.spotify.com/track/4AJSA8VsXBYFagWCb4EWSu) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [Where You Go](https://open.spotify.com/album/0WUJfDgRE3WsMugEreaN3x) | 3:06 | 2024-08-02 | 2025-02-04 |
 | [Wherever I go](https://open.spotify.com/track/0pp9ibPttAErvNaRV64l3S) | [jujuland](https://open.spotify.com/artist/62rT4s8zGnb3qVvQvDNldP) | [Wherever I go](https://open.spotify.com/album/37gegMx8hLdgot9x0Sh7rp) | 2:46 | 2023-10-30 | 2024-04-04 |
+| [WHITE \(Feat\. Chan, jeebanoff, sannie\)](https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV), [sannie](https://open.spotify.com/artist/7DzAtAzBPwXAbnwVWoo6sb) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 4:25 | 2025-04-21 |  |
 | [White BM](https://open.spotify.com/track/3LDMnVMx0Fw0ZiACLRrZPK) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu) | [White BM](https://open.spotify.com/album/0GFtMSnGLQFWyByeinsZet) | 2:31 | 2023-01-11 | 2023-02-09 |
 | [White the wilds](https://open.spotify.com/track/1bF5PdCcQPPi30hO6lfubH) | [muscoda](https://open.spotify.com/artist/0PFrzocEGd0JUKSkZvyYs8) | [White the wilds](https://open.spotify.com/album/64Bgsvemjrzdwpq7tYiL4G) | 4:28 | 2022-06-18 | 2022-07-05 |
 | [Whitening](https://open.spotify.com/track/3vX1YWfvFuWwbN7nnmV4BN) | [oomool](https://open.spotify.com/artist/6Hd7QIFavcdnS1Iiri4ssH) | [Whitening](https://open.spotify.com/album/4U6g1WrENzxEjzDhMjVOd7) | 5:12 | 2023-02-08 | 2023-05-02 |
@@ -1419,6 +1420,7 @@
 | [Winter Dance](https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Winter Dance](https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR) | 2:45 | 2024-01-08 | 2025-01-21 |
 | [WINTER FLOWER](https://open.spotify.com/track/24MIIiuBemcfY8Grr1Q61x) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF) | [On My Way To You](https://open.spotify.com/album/1CpZGP4dij7YWzaCm5GjJS) | 1:32 | 2023-01-30 | 2023-04-01 |
 | [Winter Sonata \(feat\. WET BOY\)](https://open.spotify.com/track/1dUkH9OTBqCmXtXzZrWRNy) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [Wetboy](https://open.spotify.com/artist/5WTC9ObtgUkLbac6FpKcIF) | [Winter Sonata \(feat\. WET BOY\)](https://open.spotify.com/album/3oC70ZNeqbMA6Vrmx8rMgC) | 3:05 | 2022-05-02 | 2022-06-10 |
+| [Wish](https://open.spotify.com/track/1RJmEwV43f5u6Q1Js8lX5m) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Wish](https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ) | 3:32 | 2025-04-21 |  |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-08-13 |
 | [Wish!](https://open.spotify.com/track/6rqf1XFZjBGesjZ850msAm) | [LEVENUE](https://open.spotify.com/artist/1C9OICkvpyG9oHKaZvRreX) | [Wish!](https://open.spotify.com/album/7pqKbTAFYlCtlcJILZ0g3F) | 2:24 | 2023-05-01 | 2023-07-27 |
 | [with the eyes of the moon](https://open.spotify.com/track/7qglpdOQtClVfNDper6YaH) | [Clean cotton](https://open.spotify.com/artist/4zMXJUvne9BlGw8kDi07wb) | [with the eyes of the moon](https://open.spotify.com/album/6OiLARt2DB1ptef8I6kNWs) | 3:46 | 2022-07-04 | 2022-09-06 |

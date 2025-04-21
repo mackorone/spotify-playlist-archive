@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,391 songs - 6 day 23 hr 16 min
+4,392 songs - 6 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1122,7 +1122,7 @@
 | [Endless Ride](https://open.spotify.com/track/5UaRDNZRytOrwUpoC2PGnu) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Endless Ride](https://open.spotify.com/album/35Ot96eQKx5omcBkLUw1Lx) | 2:19 | 2022-06-09 | 2022-07-22 |
 | [Endless Sunday](https://open.spotify.com/track/07dyGFh2pczE8rWeM6ITXx) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Endless Sunday](https://open.spotify.com/album/0uuy7OctUEaabOwiY87al5) | 2:40 | 2022-12-22 | 2023-03-31 |
 | [Endless Sunday](https://open.spotify.com/track/2iucEL5yIzZJvu54y3VoRi) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Endless Sunday](https://open.spotify.com/album/5znFt36cNTe6uFw7sJIS0R) | 2:40 | 2022-11-17 | 2022-11-21 |
-| [Energy Aligned](https://open.spotify.com/track/7rBuButJ63g8ajzk6mi5Ze) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Energy Aligned](https://open.spotify.com/album/3LYjNucT9Tgv44kA9b40j5) | 1:50 | 2025-04-18 |  |
+| [Energy Aligned](https://open.spotify.com/track/7rBuButJ63g8ajzk6mi5Ze) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Energy Aligned](https://open.spotify.com/album/3LYjNucT9Tgv44kA9b40j5) | 1:50 | 2025-04-18 | 2025-04-21 |
 | [Enjoy The Ride](https://open.spotify.com/track/4KNOEoXjiqUbTehIHuydxn) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp) | [Enjoy The Ride](https://open.spotify.com/album/22B3mxUsDxn4hveKSWFYqs) | 2:03 | 2022-09-08 |  |
 | [Enjoy Your Life](https://open.spotify.com/track/5bAvxBekImPsYvXEJ4F6o7) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Enjoy Your Life](https://open.spotify.com/album/5EaPHt8aaVwtvpWbVbMibI) | 4:09 | 2019-05-26\* | 2019-08-13 |
 | [Ensnared](https://open.spotify.com/track/1p5jbuZMzTZUXOlmI8VRIl) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Ensnared](https://open.spotify.com/album/7dlCWTmnJoJbeK1rr4kRLJ) | 3:31 | 2019-12-20 | 2020-04-07 |
@@ -3826,6 +3826,7 @@
 | [Teñido](https://open.spotify.com/track/3bhM9Ep1gSIqnBN84gaIgW) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Teñido](https://open.spotify.com/album/12rSENOvT03hh66i7RLgRc) | 2:14 | 2019-08-02 | 2020-01-07 |
 | [That Summer Feeling](https://open.spotify.com/track/42UxztZhDlE6Pl3OP5r3iy) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [That Summer Feeling](https://open.spotify.com/album/7F4FtBnBQihTNFsSzI1WER) | 2:07 | 2023-10-05 |  |
 | [That's Cool](https://open.spotify.com/track/1v1dO4EG1h8lQch6Rjmi0j) | [Mudiai](https://open.spotify.com/artist/3WhIkySENPmxM6tfy544xp) | [Introducing](https://open.spotify.com/album/3YZIroQJBK1S3SF3YYfoI4) | 1:54 | 2020-06-22 | 2020-08-27 |
+| [That's Crazy](https://open.spotify.com/track/2avRqbm04LF0BjfedQuYi3) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [That's Crazy](https://open.spotify.com/album/2z1vZ0g0m0yuXzVD1TP6wX) | 1:58 | 2025-04-18 |  |
 | [That's ok](https://open.spotify.com/track/2eycw1K4RoRWQz9nsIa077) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [That's ok](https://open.spotify.com/album/5BHSgXimijS5z0NMs3e6eA) | 2:36 | 2022-01-06 | 2022-03-11 |
 | [The Ambassador](https://open.spotify.com/track/2IO0o4n1NhVGTos3tmn8ci) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Quinte](https://open.spotify.com/artist/4SJgGbyXJspqhUmm6nbvyq) | [The Ambassador](https://open.spotify.com/album/4kCcX4vzdRoNzhZnwrwe6o) | 1:38 | 2021-08-07 | 2021-09-10 |
 | [The Angels](https://open.spotify.com/track/6XwDVNiqXI6WrhlVJYdPLu) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [The Angels](https://open.spotify.com/album/1ZdaNHouyJBXKES1AxjFAV) | 3:33 | 2021-10-09 | 2021-11-19 |

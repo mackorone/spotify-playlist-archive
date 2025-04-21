@@ -4,7 +4,7 @@
 
 > Get revived with some of the best Deep House South Africa has to offer.
 
-260 songs - 1 day 6 hr 4 min
+261 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Ndoyiswe](https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Bamtho Imbongi](https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX) | [Ndoyiswe](https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq) | 5:25 | 2022-09-14 | 2022-12-14 |
 | [Need You.](https://open.spotify.com/track/6h4TuK1fhkm3RqGMjAeZan) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG), [SpheraQ](https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE) | [Over Loved](https://open.spotify.com/album/2oHEj8GTLy3onemgwEWekf) | 7:15 | 2025-03-07 |  |
 | [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 | 2022-09-29 | 2024-04-24 |
+| [Never](https://open.spotify.com/track/2Jbthl8zCDHWKLOseOpheR) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Never](https://open.spotify.com/album/5Khn9h1aNhIgeE5G3v2BLN) | 7:36 | 2025-04-18 |  |
 | [Never Break Me \(feat\. Kuthathu\)](https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Kuthathu](https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh) | [From Blak With Love](https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X) | 6:43 | 2024-02-15 | 2025-02-22 |
 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 | 2022-09-14 | 2024-04-26 |
 | [Never Thought](https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Thap Soul](https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy), [NexVocals](https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc) | [Never Thought](https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj) | 4:44 | 2022-09-29 | 2024-07-12 |
@@ -212,7 +213,7 @@
 | [Signs](https://open.spotify.com/track/0WLa7Q0oy1MftXRRfDVnMK) | [Abyss \(Giuseppe Morabito\)](https://open.spotify.com/artist/0tIjbzsH79MTlMHrimk9SB), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Signs](https://open.spotify.com/album/5GuOUlz4kPJxWmKFcCz3B9) | 3:18 | 2024-04-12 | 2024-06-14 |
 | [So Long](https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Aquatone](https://open.spotify.com/artist/657ZCz2bARTZsq9YXVjh3R) | [So Long](https://open.spotify.com/album/62iaygApaNNVrYyU7Xck2R) | 6:24 | 2024-05-03 |  |
 | [Solidarity](https://open.spotify.com/track/4G7KOUK2WuiGNRArzcFeDU) | [Senzo C](https://open.spotify.com/artist/00rQpaR5oh9jwZlyGMB0yA) | [Solidarity](https://open.spotify.com/album/0kkXWIhomnQLgmgbCgVu9s) | 7:36 | 2023-05-12 | 2023-07-24 |
-| [Some Lovin'](https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Some Lovin'](https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx) | 3:56 | 2024-04-25 |  |
+| [Some Lovin'](https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Some Lovin'](https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx) | 3:56 | 2024-04-25 | 2025-04-21 |
 | [Some Lovin' \- DJ Edit](https://open.spotify.com/track/57Ol8R1ALGXDipjo023Zh5) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Some Lovin'](https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx) | 7:47 | 2025-03-20 | 2025-04-07 |
 | [Something For Closure](https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Something For Closure](https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf) | 6:51 | 2022-09-14 | 2023-02-06 |
 | [SOMETHING FOR THE HEART](https://open.spotify.com/track/2crHF2M9NdB8Qsfxvjfil2) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [THE XO EFFECT 2](https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt) | 7:33 | 2025-02-21 |  |

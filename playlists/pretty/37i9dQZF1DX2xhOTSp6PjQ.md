@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/5YrV8AJDPqlKLq8DCzTy4T?si=RN75fd\_iRIGWAxi8g4FBpA">uDulasi Magubane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,523 likes - 65 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,622 likes - 65 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uc5bc\ud130\ub124\uc774\ud2f0\ube0c \ub85d\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 4553,
+  "num_followers": 4560,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-04-17 06:06:08",
       "album": {
+        "name": "Model",
+        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 167144,
+      "name": "You (Show Me Where My Days Went)",
+      "url": "https://open.spotify.com/track/08QharKdouaH70SCqhfcZM"
+    },
+    {
+      "added_at": "2025-04-17 06:06:08",
+      "album": {
         "name": "Luxury Disease",
         "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
-    },
-    {
-      "added_at": "2025-04-17 06:06:08",
-      "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "The Craving (Jenna's version)",
-      "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
     },
     {
       "added_at": "2025-04-17 06:06:08",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-04-17 06:06:08",
       "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "The Craving (Jenna's version)",
+      "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
+    },
+    {
+      "added_at": "2025-04-17 06:06:08",
+      "album": {
         "name": "Only God Was Above Us",
         "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2025-04-17 06:06:08",
       "album": {
-        "name": "Model",
-        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 167144,
-      "name": "You (Show Me Where My Days Went)",
-      "url": "https://open.spotify.com/track/08QharKdouaH70SCqhfcZM"
-    },
-    {
-      "added_at": "2025-04-17 06:06:08",
-      "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
-    },
-    {
-      "added_at": "2025-04-17 06:06:08",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Spectator",
-      "url": "https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz"
     },
     {
       "added_at": "2025-04-17 06:06:08",
@@ -479,18 +463,18 @@
     {
       "added_at": "2025-04-17 06:06:08",
       "album": {
-        "name": "The Craving",
-        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
         }
       ],
-      "duration_ms": 173866,
-      "name": "The Craving - single version",
-      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
+      "duration_ms": 183133,
+      "name": "Spectator",
+      "url": "https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz"
     },
     {
       "added_at": "2025-04-17 06:06:08",
@@ -523,6 +507,22 @@
       "duration_ms": 193425,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg"
+    },
+    {
+      "added_at": "2025-04-17 06:06:08",
+      "album": {
+        "name": "The Craving",
+        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "The Craving - single version",
+      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
     },
     {
       "added_at": "2025-04-17 06:06:08",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-04-17 06:06:08",
       "album": {
-        "name": "Model",
-        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
+        "name": "November Rain",
+        "url": "https://open.spotify.com/album/2538KLlnCjm3paWVwn5MjX"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
-      "duration_ms": 261944,
-      "name": "Only Ecstasy",
-      "url": "https://open.spotify.com/track/5bzLRH0aGMIu2DKMZLtIvU"
+      "duration_ms": 258000,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/14Np50ZA2kLzYwtJezBFqJ"
     },
     {
       "added_at": "2025-04-17 06:06:08",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-04-17 06:06:08",
       "album": {
-        "name": "November Rain",
-        "url": "https://open.spotify.com/album/2538KLlnCjm3paWVwn5MjX"
+        "name": "Model",
+        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
       },
       "artists": [
         {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 258000,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/14Np50ZA2kLzYwtJezBFqJ"
+      "duration_ms": 261944,
+      "name": "Only Ecstasy",
+      "url": "https://open.spotify.com/track/5bzLRH0aGMIu2DKMZLtIvU"
     },
     {
       "added_at": "2025-04-17 06:06:08",

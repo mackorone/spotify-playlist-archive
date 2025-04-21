@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,028 songs - 1 day 21 hr 31 min
+1,030 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Do You?](https://open.spotify.com/track/7agT62ZexUHrtiuqtspXiB) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [CUBY](https://open.spotify.com/artist/6n1wZRMdadogX69VCHg9F0) | [Do You?](https://open.spotify.com/album/0erzAxltvYVnOFMzIBS5qT) | 2:57 | 2024-11-08 | 2024-12-07 |
 | [Doing Fine](https://open.spotify.com/track/4rR6xlaNAwpDbiwsfeyZ95) | [just here.](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx) | [Doing Fine](https://open.spotify.com/album/7f52H2OaURtU2sb0oGaJjv) | 2:38 | 2025-01-10 | 2025-02-05 |
 | [Don't](https://open.spotify.com/track/2Bt6tHmXB5JHJjG7mMZIt9) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [Room 333](https://open.spotify.com/artist/4ScN27DS9DWc3bJREIWVoB) | [Don't](https://open.spotify.com/album/5rcAOianEEgI0FDFwqOLxU) | 2:22 | 2024-10-11 | 2024-11-18 |
+| [Don't Go There](https://open.spotify.com/track/3fT5kPSwxMJNW9KUxsyYCt) | [Dave Becker](https://open.spotify.com/artist/5VxPNkpxqPUQt8GKnJgt67) | [Don't Go There](https://open.spotify.com/album/1AOvNt10ocG3zAVdRS9RHX) | 3:30 | 2025-04-20 |  |
 | [Don't Hate You](https://open.spotify.com/track/7rjyb0xF3bKwJ3GZ9ORbaM) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Don't Hate You](https://open.spotify.com/album/6AGPekG6MANxEmWEN2fXl7) | 2:28 | 2024-01-05 | 2024-09-15 |
 | [Don't Let Go](https://open.spotify.com/track/7gc83M7EZqHIGukEvzziOu) | [blu skies](https://open.spotify.com/artist/2cKo9hDcG09gWlu5gDJRNH), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Don't Let Go](https://open.spotify.com/album/2z6VAEGJf9IpJcxhzo3wDy) | 2:32 | 2024-07-12 | 2024-08-10 |
 | [Don't Let Go](https://open.spotify.com/track/2RWorX6mB3GFxaCnZb0Zzh) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Don't Let Go](https://open.spotify.com/album/63uEAStA3fEXiBWkuhFw3L) | 2:12 | 2024-03-08 | 2024-04-15 |
@@ -891,6 +892,7 @@
 | [Tell Me](https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ) | [Tell Me](https://open.spotify.com/album/076yQZmCYLr11TVMZZRvP3) | 2:12 | 2024-01-05 | 2024-03-16 |
 | [Tell Me](https://open.spotify.com/track/38XqhKzJbBNFKMa7x6nsUv) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4), [Curdz](https://open.spotify.com/artist/3zKKp7w1aPxxA93GCkVbO4), [nøya.](https://open.spotify.com/artist/7uQIdGvojsQWSphx9QHNYD) | [Tell Me](https://open.spotify.com/album/01aOE0NYuWsZGoVjPOjQTR) | 3:18 | 2024-07-26 | 2024-08-31 |
 | [Tell Me About](https://open.spotify.com/track/1YlkdOga1GfwWrgKaQUfMl) | [terro](https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g) | [Tell Me About](https://open.spotify.com/album/0QLL8ykx4wLMpYJU84QhEF) | 3:04 | 2024-04-19 | 2024-06-15 |
+| [Tell Me Why](https://open.spotify.com/track/34yeyWFr9WLJkoRcmYB2DK) | [Kevin Kairouz](https://open.spotify.com/artist/44NK7lcuXAEc35Z383UnCS), [Gavss](https://open.spotify.com/artist/0qEqW7rr1VRG15q2iZiSMc) | [Tell Me Why](https://open.spotify.com/album/6qMUEZ6MNtXgdFbgOPZMI6) | 3:02 | 2025-04-20 |  |
 | [Thandiwe](https://open.spotify.com/track/3YaxBnNrWYYDHIBBGdrAbF) | [Shamzisto](https://open.spotify.com/artist/6xHvJyvoIFftCKpbbLPzIu), [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Thandiwe](https://open.spotify.com/album/4306nBIbiZgy167pzqypAq) | 2:44 | 2024-09-20 | 2024-11-21 |
 | [Thanks](https://open.spotify.com/track/5vvOIzEOE9ZaeMiipJnH5P) | [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa), [Mati Troglia](https://open.spotify.com/artist/0AeSX3EccdQA1NALPJye0E), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Thanks](https://open.spotify.com/album/6I6ZR4qurPXJLhmsHKBpz1) | 2:14 | 2024-11-15 | 2025-02-18 |
 | [That Feeling](https://open.spotify.com/track/5K1TYB2NvGDJ0aWabAXlzc) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [That Feeling](https://open.spotify.com/album/6hkv1g1nlzwD2DVGVuLzUK) | 2:32 | 2024-06-28 | 2024-08-10 |

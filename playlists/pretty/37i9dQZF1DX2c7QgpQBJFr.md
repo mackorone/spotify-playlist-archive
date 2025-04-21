@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: mew
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,829 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,835 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 9 | [Farti Fuori](https://open.spotify.com/track/19xkTUHX8VtAJI1mlAOm97) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Farti Fuori](https://open.spotify.com/album/6mYgPQdoSieRNtwOlUxnlE) | 2:23 |
 | 10 | [Arma Puntata \(feat\. 22simba\)](https://open.spotify.com/track/2tchckpnk6RZ2yPyB09eeG) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [XS](https://open.spotify.com/album/3XIpwOtJ6Y0tXnx7M2CSJ2) | 2:51 |
 | 11 | [Brooklyn](https://open.spotify.com/track/31EmbdSqvWvBMZUFWySeC9) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Brooklyn](https://open.spotify.com/album/7hDr4TuhR0b4jBF9fEuzcd) | 2:42 |
-| 12 | [NOSTALGIA E KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA E KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 |
+| 12 | [NOSTALGIA & KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA & KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 |
 | 13 | [SOMBRAS](https://open.spotify.com/track/6DALNGK0SneZHSbp9Wj3r5) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [SOMBRAS](https://open.spotify.com/album/7lXHaDj9dBxaFFSyRZIIth) | 2:07 |
 | 14 | [BIANCO E NERO](https://open.spotify.com/track/4tkqku6p04KXf7ymoL7Q06) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2), [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [BIANCO E NERO](https://open.spotify.com/album/1BXUBdFESMkB8cVJXv9IEh) | 3:09 |
 | 15 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |

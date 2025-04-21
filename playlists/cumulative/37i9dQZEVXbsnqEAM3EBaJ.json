@@ -17782,7 +17782,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 311269,
       "name": "Henry, come on",
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
@@ -28358,7 +28358,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 222035,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3lmgVPbCy1kfJa97mhLI8f"
@@ -48774,6 +48774,28 @@
       "duration_ms": 198457,
       "name": "Who's Laughing Now",
       "url": "https://open.spotify.com/track/0ZpLyeA0NJeQ0mVsbje1Bm"
+    },
+    {
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/4UE9iLgjXaU4oYmZPqOzN4"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        },
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198457,
+      "name": "Who's Laughing Now",
+      "url": "https://open.spotify.com/track/1Rwn5PAnp6YrRGg93F5pj1"
     },
     {
       "album": {

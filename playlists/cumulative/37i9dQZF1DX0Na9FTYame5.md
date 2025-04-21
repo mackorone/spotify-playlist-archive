@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Florentina, FOURTY
 
-203 songs - 9 hr 13 min
+204 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2024-08-01 | 2024-08-13 |
 | [Bei Nacht](https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:41 | 2025-01-16 |  |
 | [Bei Nacht](https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Bei Nacht](https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B) | 2:54 | 2024-06-28 |  |
-| [BERETTA](https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [BERETTA](https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh) | 3:32 | 2024-06-28 |  |
+| [BERETTA](https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [BERETTA](https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh) | 3:32 | 2024-06-28 | 2025-04-21 |
 | [Beverly Hills](https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Beverly Hills](https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL) | 2:07 | 2024-06-28 |  |
 | [Bis ins Grab](https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq) | [YFG Pave](https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C) | [Bis ins Grab](https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP) | 2:26 | 2024-06-28 | 2024-10-25 |
 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 | 2024-06-28 | 2024-11-26 |
@@ -146,6 +146,7 @@
 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 | 2024-06-28 | 2024-10-11 |
 | [Nur die Nacht](https://open.spotify.com/track/3tnjLb6fuGMX8TupeAZUFp) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Nur die Nacht](https://open.spotify.com/album/3RCctNgHRIN53VyRkOrLeV) | 3:07 | 2025-02-03 |  |
 | [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-06-28 |  |
+| [Ohne dich](https://open.spotify.com/track/3b3Dj7FMFkqUQLSxKjixkS) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ohne dich](https://open.spotify.com/album/0pUX6myx7NWjdx2j7hgvs2) | 2:17 | 2025-04-17 |  |
 | [OMG](https://open.spotify.com/track/48VxUAyrLAnOr39ck1cJV5) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [OMG](https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM) | 2:41 | 2024-08-12 | 2025-01-21 |
 | [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 | 2024-06-28 |  |
 | [Panikweiß](https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Panikweiß](https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5) | 2:50 | 2024-06-28 | 2025-02-12 |

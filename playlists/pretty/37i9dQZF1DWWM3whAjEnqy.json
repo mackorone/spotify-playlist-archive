@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 818,
+  "num_followers": 827,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
+        "name": "Waking Up Easy",
+        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
         }
       ],
-      "duration_ms": 207906,
-      "name": "We're Going Home",
-      "url": "https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9"
+      "duration_ms": 236808,
+      "name": "Waking Up Easy",
+      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Waking Up Easy",
-        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
       },
       "artists": [
         {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 236808,
-      "name": "Waking Up Easy",
-      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/6tV62HWWPFkSqf7lh5pPwi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -203,24 +203,8 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/6tV62HWWPFkSqf7lh5pPwi"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
       },
       "artists": [
         {
@@ -228,9 +212,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
+      "duration_ms": 207906,
+      "name": "We're Going Home",
+      "url": "https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -347,22 +331,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Harlequin Dream",
         "url": "https://open.spotify.com/album/7cDFsmUgTousyXecwsWnjr"
       },
@@ -375,6 +343,22 @@
       "duration_ms": 280952,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0sfMc7DhDVGRuTvVb53s5v"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -411,22 +395,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Rainbow Valley",
         "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
       },
@@ -439,6 +407,22 @@
       "duration_ms": 262257,
       "name": "Miracle Love",
       "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -475,6 +459,22 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/1wb9iylRnBbBBHGYAatao0"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Angus & Julia Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Mystik",
         "url": "https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Angus & Julia Stone (Deluxe)",
-        "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 248526,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL"
+      "duration_ms": 215493,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/1wb9iylRnBbBBHGYAatao0"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "14 Steps To A Better You",
-        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 216636,
-      "name": "On Our Own",
-      "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 226733,
       "name": "London Still",
       "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "14 Steps To A Better You",
+        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 216636,
+      "name": "On Our Own",
+      "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/1X14uciXmjCEzFH0rfnBso"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Gossip",
         "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 203920,
       "name": "Leaps And Bounds",
       "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/1X14uciXmjCEzFH0rfnBso"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1019,18 +1019,34 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "After Hours, Close To Dawn",
-        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
       },
       "artists": [
         {
-          "name": "Kingswood",
-          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
+      "duration_ms": 232746,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Half Mile Harvest (Deluxe)",
+        "url": "https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 263840,
+      "name": "I Get Up",
+      "url": "https://open.spotify.com/track/3clLiFEchrm0ElggigjADF"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1067,34 +1083,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
+        "name": "After Hours, Close To Dawn",
+        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Kingswood",
+          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
         }
       ],
-      "duration_ms": 232746,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Half Mile Harvest (Deluxe)",
-        "url": "https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 263840,
-      "name": "I Get Up",
-      "url": "https://open.spotify.com/track/3clLiFEchrm0ElggigjADF"
+      "duration_ms": 202000,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1127,22 +1127,6 @@
       "duration_ms": 295266,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Memories & Dust",
         "url": "https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "That Place",
-        "url": "https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 278700,
-      "name": "That Place",
-      "url": "https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "LO LA RU",
         "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 212173,
       "name": "God Forgot",
       "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "That Place",
+        "url": "https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 278700,
+      "name": "That Place",
+      "url": "https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU"
     },
     {
       "added_at": "2023-11-15 02:04:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,442 likes - 72 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,473 likes - 72 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 30 | [Monk’s Mood](https://open.spotify.com/track/1k2iHRgO44gs0q86FKbl8K) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Kristin Lee](https://open.spotify.com/artist/52BaQ1gjSLQ7tFKGsWU17N), [Jeremy Ajani Jordon](https://open.spotify.com/artist/7tr6g1GWQow4qhdnJqzLok) | [MONK: Monk's Mood](https://open.spotify.com/album/5m2I8DfAqBNBKR1mSoDGef) | 5:09 |
 | 31 | [Peace Piece](https://open.spotify.com/track/1OIf9HdeZ0V0F6kSbgnBoO) | [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Kronos Quartet: Music Of Bill Evans](https://open.spotify.com/album/5vGOb3jAa4wv7ZS0mL2IfF) | 7:11 |
 | 32 | [Ahbez: Nature Boy](https://open.spotify.com/track/52jmWacjf1gFjELq6DRvXN) | [Eden Ahbez](https://open.spotify.com/artist/10uwDZEuXM1HzOeDlrybCS), [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo), [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ), [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ) | [Ahbez: Nature Boy](https://open.spotify.com/album/4rUPq6knWbVhVblkazea8q) | 4:27 |
-| 33 | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/track/3PNbcJH2CPBvLnd6lF2g12) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz), [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/album/6TQ31OQSex24hz8PrE6vXB) | 2:22 |
+| 33 | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/track/3PNbcJH2CPBvLnd6lF2g12) | [Victor Young](https://open.spotify.com/artist/3r2p0PuFymMEnYS3n5t2KR), [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/album/6TQ31OQSex24hz8PrE6vXB) | 2:22 |
 | 34 | [Quando m'en vo \(Musetta's Waltz\) \[From the opera "La Boheme"\]](https://open.spotify.com/track/4fDKjvddshvWecTqhkeCws) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn), [Vic Juris](https://open.spotify.com/artist/5pxK3XZDWU8RSTFgu7hRdl) | [Quando m'en vo \[From the opera "La Boheme"\]](https://open.spotify.com/album/4r7wCXTSeEs79fordibgeb) | 5:59 |
 | 35 | [Prelude In E Minor](https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:16 |
 | 36 | [Sicilyan Dream \(D’après Siciliano, BWV\. 1031 de Johann Sebastian Bach\)](https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:37 |

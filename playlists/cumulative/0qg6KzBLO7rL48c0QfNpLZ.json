@@ -4675,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "Don't Go There",
+        "url": "https://open.spotify.com/album/1AOvNt10ocG3zAVdRS9RHX"
+      },
+      "artists": [
+        {
+          "name": "Dave Becker",
+          "url": "https://open.spotify.com/artist/5VxPNkpxqPUQt8GKnJgt67"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "Don't Go There",
+      "url": "https://open.spotify.com/track/3fT5kPSwxMJNW9KUxsyYCt"
+    },
+    {
+      "album": {
         "name": "Don't Hate You",
         "url": "https://open.spotify.com/album/6AGPekG6MANxEmWEN2fXl7"
       },
@@ -18984,6 +19002,28 @@
       "duration_ms": 184000,
       "name": "Tell Me About",
       "url": "https://open.spotify.com/track/1YlkdOga1GfwWrgKaQUfMl"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/6qMUEZ6MNtXgdFbgOPZMI6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kairouz",
+          "url": "https://open.spotify.com/artist/44NK7lcuXAEc35Z383UnCS"
+        },
+        {
+          "name": "Gavss",
+          "url": "https://open.spotify.com/artist/0qEqW7rr1VRG15q2iZiSMc"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182450,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/34yeyWFr9WLJkoRcmYB2DK"
     },
     {
       "album": {

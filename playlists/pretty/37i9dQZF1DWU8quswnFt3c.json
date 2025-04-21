@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Hsien Ching",
-  "num_followers": 1084518,
+  "num_followers": 1084451,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-04-16 04:00:25",
       "album": {
-        "name": "V\u00e1le",
-        "url": "https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE"
-      },
-      "artists": [
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "V\u00e1le",
-      "url": "https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E"
-    },
-    {
-      "added_at": "2025-04-16 04:00:25",
-      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 178139,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
+    },
+    {
+      "added_at": "2025-04-16 04:00:25",
+      "album": {
+        "name": "V\u00e1le",
+        "url": "https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "V\u00e1le",
+      "url": "https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E"
     },
     {
       "added_at": "2025-04-16 04:00:25",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-04-16 04:00:25",
       "album": {
-        "name": "If You Wanna Scream",
-        "url": "https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 258023,
-      "name": "If You Wanna Scream",
-      "url": "https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc"
-    },
-    {
-      "added_at": "2025-04-16 04:00:25",
-      "album": {
         "name": "Make Up",
         "url": "https://open.spotify.com/album/6rFEHXqExBkjde9Uhyadrj"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 202007,
       "name": "Make Up",
       "url": "https://open.spotify.com/track/17wgXMgncYVMa33et1WE4X"
+    },
+    {
+      "added_at": "2025-04-16 04:00:25",
+      "album": {
+        "name": "If You Wanna Scream",
+        "url": "https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 258023,
+      "name": "If You Wanna Scream",
+      "url": "https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc"
     },
     {
       "added_at": "2025-04-16 04:00:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-04-16 04:00:25",
       "album": {
-        "name": "Miss Behaves",
-        "url": "https://open.spotify.com/album/7EfN2vmlrsZTFkWYLI3f3e"
-      },
-      "artists": [
-        {
-          "name": "Cece Natalie",
-          "url": "https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F"
-        }
-      ],
-      "duration_ms": 146866,
-      "name": "Ambulance",
-      "url": "https://open.spotify.com/track/585AnHpC4c13rIhnsoioyg"
-    },
-    {
-      "added_at": "2025-04-16 04:00:25",
-      "album": {
         "name": "put elphi on",
         "url": "https://open.spotify.com/album/3mcAvlzWECPY8d7HyMgLiM"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2025-04-16 04:00:25",
       "album": {
+        "name": "Miss Behaves",
+        "url": "https://open.spotify.com/album/7EfN2vmlrsZTFkWYLI3f3e"
+      },
+      "artists": [
+        {
+          "name": "Cece Natalie",
+          "url": "https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F"
+        }
+      ],
+      "duration_ms": 146866,
+      "name": "Ambulance",
+      "url": "https://open.spotify.com/track/585AnHpC4c13rIhnsoioyg"
+    },
+    {
+      "added_at": "2025-04-16 04:00:25",
+      "album": {
         "name": "Contagious",
         "url": "https://open.spotify.com/album/43ZO099zRzcgZ28axFoOSz"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 142000,
       "name": "Contagious",
       "url": "https://open.spotify.com/track/2xsxWhuajHXZuW8aPDtq3z"
-    },
-    {
-      "added_at": "2025-04-16 04:00:25",
-      "album": {
-        "name": "How Could U",
-        "url": "https://open.spotify.com/album/2KWVWPEOaM8u1Bdm3dWmxd"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        }
-      ],
-      "duration_ms": 185721,
-      "name": "How Could U - Ninajirachi VIP Mix",
-      "url": "https://open.spotify.com/track/0bZl04jQ6Qc8QjTWonDA2S"
     },
     {
       "added_at": "2025-04-16 04:00:25",
@@ -1207,6 +1187,26 @@
       "duration_ms": 188571,
       "name": "Balverine",
       "url": "https://open.spotify.com/track/3TpYtEqXhqoUVMQTTvPiw5"
+    },
+    {
+      "added_at": "2025-04-16 04:00:25",
+      "album": {
+        "name": "How Could U",
+        "url": "https://open.spotify.com/album/2KWVWPEOaM8u1Bdm3dWmxd"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "duration_ms": 185721,
+      "name": "How Could U - Ninajirachi VIP Mix",
+      "url": "https://open.spotify.com/track/0bZl04jQ6Qc8QjTWonDA2S"
     },
     {
       "added_at": "2025-04-16 04:00:25",

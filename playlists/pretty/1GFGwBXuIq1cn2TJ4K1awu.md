@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 20 likes - 11 songs - 39 min 50 sec
+[royva06](https://open.spotify.com/user/royva06) - 20 likes - 11 songs - 33 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All My Favorite Songs](https://open.spotify.com/track/6zVhXpiYbJhLJWmLGV9k1r) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:22 |
-| 2 | [The Dreamer \(feat\. Talib Kweli & Timan Family Choir\)](https://open.spotify.com/track/2sNhYJ2ggd9BadlTXU3Mah) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Timan Family Choir](https://open.spotify.com/artist/78OK71F2nNKI5nNw4BycWm) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 5:39 |
-| 3 | [That's Entertainment](https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 3:32 |
-| 4 | [Honey](https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Honey](https://open.spotify.com/album/2D37uNhXgherfImusGBKTx) | 3:19 |
-| 5 | [I'm so Bored with the U.S.A\. \- Remastered](https://open.spotify.com/track/6bbQuT0lK4ekunMnK446Bt) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:24 |
-| 6 | [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 |
-| 7 | [Signal](https://open.spotify.com/track/7fBRThswHqbzvIwL65hcPx) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:29 |
-| 8 | [Please Be Mine](https://open.spotify.com/track/7mfWdGa87PuMmcGoFnZinm) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Please Be Mine](https://open.spotify.com/album/4b0YU2JfWbGrT51Eete3cf) | 5:03 |
-| 9 | [Do Me Wrong](https://open.spotify.com/track/4WWotQCVQIU944v4HNbudw) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 4:15 |
-| 10 | [Black Thoughts](https://open.spotify.com/track/6T9vELv84w9ZJgfSCD4jBT) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [First Four EPs](https://open.spotify.com/album/6z0h5LpwfydBJBPweJvPIq) | 1:00 |
-| 11 | [Sweet Jane](https://open.spotify.com/track/4Xne0YjYaY1MtP74svE08d) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Very Best Of The Velvet Underground](https://open.spotify.com/album/344S0YTvALBtF2Aq2EsJWy) | 4:05 |
+| 1 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 |
+| 2 | [ALRIGHT](https://open.spotify.com/track/7IXaYc8pDIqugaXwpyBUkq) | [Ashes To Amber](https://open.spotify.com/artist/1VjLe0p8LUFKPbyKaQZAgu) | [Voodoo Blu](https://open.spotify.com/album/2u3r9jBnRD3KQhhHiT4zQq) | 1:53 |
+| 3 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
+| 4 | [Easter Sunday](https://open.spotify.com/track/5aDZOMeCa6VuKJSENFsuGx) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Dyn\-O\-Mite](https://open.spotify.com/album/4NIsKATEssBSrAl40JlZs5) | 2:02 |
+| 5 | [SLUFF](https://open.spotify.com/track/2HtcNtydLGeSdYkaTWG47w) | [Naked Giants](https://open.spotify.com/artist/4KhnLZjONKS3nuYzXoqoXi) | [SLUFF](https://open.spotify.com/album/54YSrqaj3vKH1XeJM3CPUW) | 2:55 |
+| 6 | [Not My Baby](https://open.spotify.com/track/27bBjan9bD8rUESGYqK9a7) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 4:16 |
+| 7 | [Making Breakfast](https://open.spotify.com/track/5HjqXQPZi27d92H5gCo1Oq) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Wild Onion](https://open.spotify.com/album/1giZtAoxpO0kEFHhhXADXh) | 2:12 |
+| 8 | [No](https://open.spotify.com/track/6Got3kDpFVc9XysaKhaWrK) | [Subhumans](https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK) | [The Day the Country Died](https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1) | 1:49 |
+| 9 | [I'm Sorry](https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Brenda Lee](https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm) | 2:41 |
+| 10 | [Outside](https://open.spotify.com/track/4VM3DRzZBBBTnnJw66Y8gz) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 4:14 |
+| 11 | [Every Girl](https://open.spotify.com/track/3l4cnZdtNbVZgV3ICYh1Ni) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 3:45 |
 
-Snapshot ID: `AAAFt8rBfMeEDsQe4GOwvKGYy/AvVJmW`
+Snapshot ID: `AAAFzVMEj8OCUYwCUvvzLvoyauPJbl8F`

@@ -209,6 +209,28 @@
     },
     {
       "album": {
+        "name": "tripq",
+        "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273818,
+      "name": "cerem\u00f3nia",
+      "url": "https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O"
+    },
+    {
+      "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
       },
@@ -1588,6 +1610,24 @@
       "duration_ms": 206037,
       "name": "szosziazi",
       "url": "https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi"
+    },
+    {
+      "album": {
+        "name": "Egyed\u00fcl a s\u00f6t\u00e9tben",
+        "url": "https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt"
+      },
+      "artists": [
+        {
+          "name": "Follow The Flow",
+          "url": "https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158955,
+      "name": "Sz\u00e9lcsend",
+      "url": "https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy"
     },
     {
       "album": {

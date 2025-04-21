@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Dan Dizzy
 
-574 songs - 1 day 3 hr 6 min
+575 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Rocksteady](https://open.spotify.com/track/4kJXMh8UNRxQlEqWZR5VIz) | [Niambi](https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6) | [Rocksteady](https://open.spotify.com/album/1IP3pF4OpdVEeIeMbkSezV) | 2:36 | 2024-10-04 | 2024-11-16 |
 | [RTL](https://open.spotify.com/track/5Mg2fg3wdPNDVZsfMrhKEL) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [RTL](https://open.spotify.com/album/3BCCcDroewejHhnJU2fUtM) | 2:02 | 2023-11-24 | 2023-12-02 |
 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 | 2022-06-09 | 2023-03-18 |
+| [Sativa \- Remix](https://open.spotify.com/track/2xcjxoTzb863uNnudktuOX) | [Hydee flex](https://open.spotify.com/artist/1CnppHVp0ryZrj3jyuaV3K), [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Sativa \(Remix\)](https://open.spotify.com/album/4kY6afyKTG8Gm6wD2pTXPb) | 2:55 | 2025-04-18 |  |
 | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR) | [Immaculate Taste](https://open.spotify.com/artist/7EqcUzt8S9Gh3nKcCZDXlE), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR) | 3:29 | 2023-04-27 | 2023-06-17 |
 | [SAVAGE BY FENTY](https://open.spotify.com/track/35kUFJhbmP05do7bR4JorK) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [SAVAGE BY FENTY](https://open.spotify.com/album/60fZP68vLte6PtTPYMQFzN) | 2:20 | 2023-02-11 | 2023-02-17 |
 | [Sere](https://open.spotify.com/track/7bhCJLuXAhD7VXkjvwrtG4) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere](https://open.spotify.com/album/5fzyuJuRuonlLJDnXzYx8q) | 2:10 | 2023-11-24 | 2023-12-01 |
@@ -453,7 +454,7 @@
 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws) | 2:10 | 2023-12-01 | 2024-04-19 |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-06-09 | 2023-02-24 |
 | [Shakur](https://open.spotify.com/track/6FAZgSguZfXqdpqtVjV7iP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:23 | 2022-10-14 | 2022-10-29 |
-| [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 | 2024-06-07 |  |
+| [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 | 2024-06-07 | 2025-04-21 |
 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 | 2025-02-21 |  |
 | [SHARP SHOOTER](https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Sharp Shooter](https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X) | 2:30 | 2024-03-01 | 2024-03-29 |
 | [Shina Peters](https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Shina Peters](https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P) | 2:46 | 2023-06-02 | 2023-06-17 |

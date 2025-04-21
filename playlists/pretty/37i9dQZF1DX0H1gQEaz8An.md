@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 > Lo que diga el corazón ❤️💔 Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,877 likes - 102 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,949 likes - 102 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tal Vez](https://open.spotify.com/track/3WaSfL4uKTmbLE2ll6qa1q) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tal Vez](https://open.spotify.com/album/6jm6xoq0cOwygfA9JI5C4W) | 3:29 |
 | 2 | [Amigos? No.](https://open.spotify.com/track/7hNgSEQ4Ho7kWBA2rKpDd9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Amigos? No.](https://open.spotify.com/album/4b2QIGSCXrUQSURm2PnbUT) | 3:46 |
 | 3 | [TATTOO](https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [TATTOO](https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE) | 2:47 |
-| 4 | [Sirena](https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Sirena](https://open.spotify.com/album/05rTIYsjywlMLjG5sk6h2H) | 3:36 |
+| 4 | [sirena](https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [sirena](https://open.spotify.com/album/05rTIYsjywlMLjG5sk6h2H) | 3:36 |
 | 5 | [Por Esos Ojos](https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Por Esos Ojos](https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp) | 3:08 |
 | 6 | [Perdido](https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Perdido](https://open.spotify.com/album/1bySzNQNPElENKhS564NkO) | 2:36 |
 | 7 | [Loqueando](https://open.spotify.com/track/3wGn3jUPvRkBcpo52vY72l) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:01 |
 | 8 | [AMOR](https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 3:35 |
-| 9 | [Chocolate](https://open.spotify.com/track/79iH0QxZ4NVlWLH0pDPnIU) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Chocolate](https://open.spotify.com/album/3kBSyGYB1vYb27M0scvgVL) | 3:03 |
+| 9 | [chocolate](https://open.spotify.com/track/79iH0QxZ4NVlWLH0pDPnIU) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [chocolate](https://open.spotify.com/album/3kBSyGYB1vYb27M0scvgVL) | 3:03 |
 | 10 | [adioseuropa:\(](https://open.spotify.com/track/1XKf9wemYKvd1AUfRT5BYk) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [adioseuropa:\(](https://open.spotify.com/album/14Ov5lz4PLUgligb4ORBW3) | 3:40 |
 | 11 | [Cuando Me Ocupes](https://open.spotify.com/track/6QvHiOp35ylHrYGy2ohuBg) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:38 |
 | 12 | [7 Dias](https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [7 Dias](https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4) | 3:00 |

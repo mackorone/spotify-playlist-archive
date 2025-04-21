@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Katy Nichole
 
-8,898 songs - 24 day 11 hr 8 min
+8,899 songs - 24 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6502,6 +6502,7 @@
 | [Ruth](https://open.spotify.com/track/4BD7p0wEVZABM3JH01FAN3) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Grace At The Garden](https://open.spotify.com/album/64lN8M1GEzg7a6w2ZL7pGN) | 2:23 | 2023-03-31 | 2023-04-15 |
 | [Résumé Check](https://open.spotify.com/track/2U3bGofs0hvKRJBkNtULGk) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side B](https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK) | 3:18 | 2022-04-22 | 2022-04-29 |
 | [Ríe](https://open.spotify.com/track/09ci2IWlVyKtNlevPwoEIV) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Ríe](https://open.spotify.com/album/0IuDUGjP4fxplXEqaUUxdK) | 2:46 | 2023-04-21 | 2023-04-29 |
+| [S.I.T.L.](https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:58 | 2025-04-18 |  |
 | [S.O.S.](https://open.spotify.com/track/5sokFOC8fmkSuUTb7rbOYX) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [S.O.S.](https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp) | 3:25 | 2022-08-26 | 2022-09-10 |
 | [S150](https://open.spotify.com/track/77tGJeNlGyMwko1L51pmFS) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [S150](https://open.spotify.com/album/0Ui1WJthUL9UjDxcbOep5z) | 2:02 | 2024-02-23 | 2024-03-09 |
 | [Sabbath](https://open.spotify.com/track/6jlCy52viS3IbpWJJv2uAd) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0) | [Green](https://open.spotify.com/album/6uM4Dhs2tsnfX2xLpxHd3q) | 5:01 | 2023-05-26 | 2023-06-10 |

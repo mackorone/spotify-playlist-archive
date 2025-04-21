@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 174180,
+  "num_followers": 174213,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWAAAAAAAqxtR6XHIssJNak6/AuHJK",
+  "snapshot_id": "aALngAAAAABLToLC2p4kqCRMwLejrPl4",
   "tracks": [
     {
       "added_at": null,
@@ -499,18 +499,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este Cuento",
-        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
+        "name": "2 MANOS 1 MUNDO",
+        "url": "https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA"
       },
       "artists": [
         {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Nia Skyfer",
+          "url": "https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN"
         }
       ],
-      "duration_ms": 174083,
-      "name": "Este Cuento",
-      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
+      "duration_ms": 188000,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/087LHAM3Qh50ClhMjvtF0y"
     },
     {
       "added_at": null,
@@ -535,26 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 MANOS 1 MUNDO",
-        "url": "https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA"
+        "name": "Este Cuento",
+        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
       },
       "artists": [
         {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Nia Skyfer",
-          "url": "https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN"
         }
       ],
-      "duration_ms": 188000,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/087LHAM3Qh50ClhMjvtF0y"
+      "duration_ms": 174083,
+      "name": "Este Cuento",
+      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
     },
     {
       "added_at": null,

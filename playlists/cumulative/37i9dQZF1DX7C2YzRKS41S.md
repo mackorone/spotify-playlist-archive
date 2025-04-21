@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-450 songs - 1 day 2 hr 33 min
+451 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Fecho Os Meus Olhos \- Deluxe](https://open.spotify.com/track/2kQJ5OQO5BSAWVqZx7Mfda) | [Bola](https://open.spotify.com/artist/0vSYheQ4exKMuzSbTWOo4Z) | [Saudade \(Deluxe\)](https://open.spotify.com/album/7EylaA3fyzazyHDyIFSi0C) | 3:27 | 2022-02-11 | 2022-04-20 |
 | [Feito Amor](https://open.spotify.com/track/7h1CZsqQb3TCmEs1h8ISKN) | [Jéf](https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR) | [Solar](https://open.spotify.com/album/5jAiSA1sO1BDl28Ieqq6Jl) | 4:45 | 2021-12-24 | 2022-05-23 |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2022-03-25 | 2025-02-22 |
+| [Flagra](https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Flagra](https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS) | 3:16 | 2025-04-18 |  |
 | [Fluir](https://open.spotify.com/track/3yo4ejNBuT7S8B8cPAktOJ) | [Vella](https://open.spotify.com/artist/7kNVzWiHWK2eW5BShVLyWi) | [Peixe de Prata](https://open.spotify.com/album/78270kolXHXXUzaiVAzz0a) | 3:09 | 2021-12-24 | 2022-07-29 |
 | [Fortuna e Paz](https://open.spotify.com/track/76QfrFK7OiK82C51iqWNu7) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s), [Mário Lúcio](https://open.spotify.com/artist/0l0E5CN1nDzWU8hwwareoI) | [Fortuna e Paz](https://open.spotify.com/album/2jdha01PurEQqe5BasgMHC) | 3:00 | 2021-12-24 | 2022-07-29 |
 | [Fortunate Son](https://open.spotify.com/track/4B1oEy7m2dl1osmBE6L3AE) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Recycled Recipes](https://open.spotify.com/album/6NW3ZLjyJM0McaliJS9hwk) | 2:40 | 2022-03-25 | 2022-04-04 |
@@ -244,7 +245,7 @@
 | [Meu Amor É Seu](https://open.spotify.com/track/4kc7hKuZFE3XYd2xMVvdxS) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Só Conheço o Mar](https://open.spotify.com/album/2C3fZsdvNDv3qYQSdTZTQk) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [Meu Bem](https://open.spotify.com/track/08tHtVcWkD5rcxkguScfUY) | [Felipe Câmara](https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0) | [Meu Bem](https://open.spotify.com/album/6kRSgZALUlqIKnISQC6L7F) | 3:51 | 2021-12-24 | 2022-06-28 |
 | [Meu Bem](https://open.spotify.com/track/0ytvLIAhBCFT504fZU5pUo) | [Guil](https://open.spotify.com/artist/2XHBtzbbgnF9s2QRvmmZi2) | [Guil](https://open.spotify.com/album/4bC19EkmFsVCI0S5Ke1Cro) | 2:51 | 2022-03-25 | 2022-04-20 |
-| [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 | 2022-03-25 |  |
+| [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 | 2022-03-25 | 2025-04-21 |
 | [Meu Verão \(Versão K7\) \- Acústica](https://open.spotify.com/track/3nHKkYCczRfd7y5exRNulV) | [LoFábio](https://open.spotify.com/artist/5UfL2BN66Pa8Rxah2KbhXg) | [Meu Verão \(Versão K7\) \[Acústica\]](https://open.spotify.com/album/0phTuahRIPaaEP6tquAFsr) | 3:31 | 2021-12-24 | 2022-07-29 |
 | [Minha Viagem](https://open.spotify.com/track/3qiyRWp6A9GExfXXWKVsoM) | [almanua](https://open.spotify.com/artist/4s2zj4RMLkUdNzJFBkc1NL) | [Minha Viagem](https://open.spotify.com/album/1tSaL5DtUZI4yRpbVm0fa3) | 2:47 | 2022-03-25 | 2022-04-12 |
 | [Minha Voz](https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa) | [Versos Que Compomos Na Estrada](https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME), [Eu Me Chamo Antônio](https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh) | [Um Verão Qualquer](https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX) | 2:42 | 2023-01-06 |  |

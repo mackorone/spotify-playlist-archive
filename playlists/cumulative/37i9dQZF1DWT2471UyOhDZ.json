@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 248215,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 211289,
       "name": "Backseat Banton",
       "url": "https://open.spotify.com/track/7DQq9q2C6Vba0OYYGtdKo0"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 214125,
       "name": "Le Risque",
       "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
@@ -3934,6 +3934,24 @@
       "duration_ms": 174233,
       "name": "Statue In The Square",
       "url": "https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE"
+    },
+    {
+      "album": {
+        "name": "Stonefly",
+        "url": "https://open.spotify.com/album/0dn2T6cE7b9XMO3gYrTLd9"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Stonefly",
+      "url": "https://open.spotify.com/track/05O8KklNXxbVYKRUkOKiOD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 83806,
+  "num_followers": 83807,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWAAAAAAD7wvf9RrYc0auZg5abCQ0N",
+  "snapshot_id": "aALngAAAAADkAtM7Kng0q0M/+Kk0OTAq",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extrav\u00edate",
         "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 262933,
       "name": "Mi nombre",
       "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Amor y Sentimiento",
         "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 218920,
       "name": "El primero, el \u00fanico, el \u00faltimo",
       "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memorias Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26"
+        "name": "Canciones de Amor y Sentimiento",
+        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 289560,
-      "name": "La Memoria Del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/21RRlWWp4eBfo0Avxxmaso"
+      "duration_ms": 244280,
+      "name": "Cuando grita la piel",
+      "url": "https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz"
     }
   ],
   "unique_name": "This Is Edith M\u00e1rquez",

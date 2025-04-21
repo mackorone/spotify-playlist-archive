@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: Yungblud
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,885 likes - 80 songs - 4 hr 54 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,884 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

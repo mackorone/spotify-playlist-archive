@@ -1,4 +1,4 @@
-## Playlists \(8471\)
+## Playlists \(8472\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -5208,6 +5208,7 @@
 - [Singing in the Shower...](/playlists/pretty/5LtwydYUv9Um4D2toY3Wzh.md)
 - [Singled Out](/playlists/pretty/37i9dQZF1DX8f6LHxMjnzD.md)
 - [Sinhala Pop](/playlists/pretty/37i9dQZF1DWYfNJLV7OBMA.md)
+- [Sinners Official Playlist](/playlists/pretty/37i9dQZF1DX9cgnKcytSCK.md)
 - [Sintonia Playlist Oficial](/playlists/pretty/37i9dQZF1DX7pOPsUgXj1I.md)
 - [Sizzlers](/playlists/pretty/37i9dQZF1DWUUBD5WCN49h.md)
 - [Ska Around The Globe](/playlists/pretty/37i9dQZF1DX4mnAzYEyRVc.md)

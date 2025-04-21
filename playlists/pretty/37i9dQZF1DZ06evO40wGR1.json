@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 36235,
+  "num_followers": 36242,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWAAAAAAAaRZ0rRjv3SkxaTUCfgoVx",
+  "snapshot_id": "aALngAAAAAD8kgltbaL4HvarZnB7zb/h",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va por Ti",
-        "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Kisiera",
-      "url": "https://open.spotify.com/track/5DY35CHTE6FV8v2odkxV4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
       },
@@ -315,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+        "name": "Va por Ti",
+        "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
       },
       "artists": [
         {
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 224040,
-      "name": "La Flaca",
-      "url": "https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol"
+      "duration_ms": 258973,
+      "name": "Kisiera",
+      "url": "https://open.spotify.com/track/5DY35CHTE6FV8v2odkxV4W"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 213809,
       "name": "La Vida Es Corta - Remastered 2000",
       "url": "https://open.spotify.com/track/6GP0NwjA95OGQiwIbmen36"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "Diez Cuarenta y Siete",
-      "url": "https://open.spotify.com/track/3imJOXUD815t4kSwrY8HwA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D.F.",
         "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 243946,
       "name": "Un Adi\u00f3s",
       "url": "https://open.spotify.com/track/452k6YfwmgEowaTVupBo9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "Diez Cuarenta y Siete",
+      "url": "https://open.spotify.com/track/3imJOXUD815t4kSwrY8HwA"
     },
     {
       "added_at": null,
@@ -447,6 +447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estoy Perdiendo La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "duration_ms": 202556,
+      "name": "Estoy Perdiendo La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -479,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estoy Perdiendo La Raz\u00f3n",
-        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        }
-      ],
-      "duration_ms": 202556,
-      "name": "Estoy Perdiendo La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cham\u00e1n",
         "url": "https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 285893,
       "name": "Cham\u00e1n",
       "url": "https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 258438,
+      "name": "No Puedo So\u00f1ar",
+      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
       "duration_ms": 254615,
       "name": "Sin Tu Latido",
       "url": "https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 258438,
-      "name": "No Puedo So\u00f1ar",
-      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "Le Dir\u00e9 a las Estrellas",
-      "url": "https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/5qhTvBl63Blw114264HUbn"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 262026,
       "name": "No Todo Es Oro",
       "url": "https://open.spotify.com/track/328Y6znBICauFKcJhJQ94W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "Le Dir\u00e9 a las Estrellas",
+      "url": "https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv"
     },
     {
       "added_at": null,

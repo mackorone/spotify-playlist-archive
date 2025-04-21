@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 123135,
+  "num_followers": 123142,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Las Mejores Vol. 1",
-        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Un Dia A La Vez",
-      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Christian Puga y los Ladrones Sueltos",
         "url": "https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E"
       },
@@ -335,22 +319,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "El Gallo Rojo",
-        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
+        "name": "Las Mejores Vol. 1",
+        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
       },
       "artists": [
         {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
         }
       ],
-      "duration_ms": 155191,
-      "name": "El Gallo Rojo",
-      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
+      "duration_ms": 201973,
+      "name": "Un Dia A La Vez",
+      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -383,6 +363,26 @@
       "duration_ms": 237844,
       "name": "Ay Que Vida",
       "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "El Gallo Rojo",
+        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 155191,
+      "name": "El Gallo Rojo",
+      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        }
+      ],
+      "duration_ms": 223608,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Agua Para El Mar",
         "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 217026,
       "name": "No Llores por M\u00ed",
       "url": "https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        }
-      ],
-      "duration_ms": 223608,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "El Equilibrio",
+        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "duration_ms": 169928,
+      "name": "La Semilla",
+      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Rumbo a Tu Corazon",
         "url": "https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ"
       },
@@ -699,6 +715,34 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Soy Latino",
+        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
+      },
+      "artists": [
+        {
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Cruz",
+          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
+        }
+      ],
+      "duration_ms": 189658,
+      "name": "Soy Latino",
+      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Ac\u00fastico en Paraguay (En Vivo)",
         "url": "https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV"
       },
@@ -723,6 +767,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/35bkjlH5s7kSayeSJGDAju"
+      },
+      "artists": [
+        {
+          "name": "Japiaguar",
+          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
+        }
+      ],
+      "duration_ms": 153433,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0zZTDvd4QeWd4PHrEXNQ8T"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Verano \u00b499",
         "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
       },
@@ -739,22 +799,6 @@
       "duration_ms": 163494,
       "name": "Verano \u00b499",
       "url": "https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "El Equilibrio",
-        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        }
-      ],
-      "duration_ms": 169928,
-      "name": "La Semilla",
-      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -803,50 +847,6 @@
       "duration_ms": 215067,
       "name": "Es Mi Culpa",
       "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Soy Latino",
-        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Cruz",
-          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
-        }
-      ],
-      "duration_ms": 189658,
-      "name": "Soy Latino",
-      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/35bkjlH5s7kSayeSJGDAju"
-      },
-      "artists": [
-        {
-          "name": "Japiaguar",
-          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
-        }
-      ],
-      "duration_ms": 153433,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0zZTDvd4QeWd4PHrEXNQ8T"
     },
     {
       "added_at": "2025-03-14 20:46:39",

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6901,
+  "num_followers": 6903,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Survivant",
-        "url": "https://open.spotify.com/album/4Wi38v5VLNOnKjpLebg7e0"
+        "name": "Dix mille matins",
+        "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
       },
       "artists": [
         {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+          "name": "Daniel Boucher",
+          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
         }
       ],
-      "duration_ms": 216360,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/7JtZ96DZ5WJEhF4ppZfrIN"
+      "duration_ms": 296026,
+      "name": "La d\u00e9sise",
+      "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Dix mille matins",
-        "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
+        "name": "J'ai Bu",
+        "url": "https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK"
       },
       "artists": [
         {
-          "name": "Daniel Boucher",
-          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
+          "name": "Qu\u00e9bec Redneck Bluegrass Project",
+          "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
         }
       ],
-      "duration_ms": 296026,
-      "name": "La d\u00e9sise",
-      "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
+      "duration_ms": 347855,
+      "name": "Me d'mandait ma blonde",
+      "url": "https://open.spotify.com/track/617uIR54eouaAaLMj2Zef9"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "J'ai Bu",
-        "url": "https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK"
+        "name": "Survivant",
+        "url": "https://open.spotify.com/album/4Wi38v5VLNOnKjpLebg7e0"
       },
       "artists": [
         {
-          "name": "Qu\u00e9bec Redneck Bluegrass Project",
-          "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
         }
       ],
-      "duration_ms": 347855,
-      "name": "Me d'mandait ma blonde",
-      "url": "https://open.spotify.com/track/617uIR54eouaAaLMj2Zef9"
+      "duration_ms": 216360,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/7JtZ96DZ5WJEhF4ppZfrIN"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 149882,
-      "name": "America",
-      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Nini",
         "url": "https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 226666,
       "name": "J'fais des efforts",
       "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 149882,
+      "name": "America",
+      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Anyway, Mommy Love",
+        "url": "https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "duration_ms": 191603,
+      "name": "Anyway, Mommy Love",
+      "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Suite pour personne",
         "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 154506,
       "name": "Belly (feat. Dinos)",
       "url": "https://open.spotify.com/track/35uC41Ry5HFEQtel6BKHbj"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Anyway, Mommy Love",
-        "url": "https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k"
-      },
-      "artists": [
-        {
-          "name": "Marco Ema",
-          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
-        }
-      ],
-      "duration_ms": 191603,
-      "name": "Anyway, Mommy Love",
-      "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Traits d'union",
-        "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Trait d'union",
-      "url": "https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c0 demain peut-\u00eatre",
         "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 179706,
       "name": "Anomie",
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Traits d'union",
+        "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Trait d'union",
+      "url": "https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Landing",
-        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        },
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 292480,
-      "name": "J'aurai cent ans",
-      "url": "https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "J'en raffole",
         "url": "https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 225230,
       "name": "J'en raffole",
       "url": "https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Landing",
+        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "J'aurai cent ans",
+      "url": "https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs"
     },
     {
       "added_at": "2024-06-19 20:38:05",

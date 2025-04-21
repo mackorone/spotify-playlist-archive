@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: OneRepublic
 
-1,555 songs - 3 day 17 hr 30 min
+1,556 songs - 3 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-22 | 2025-01-17 |
 | [DEADBEAT \- demo](https://open.spotify.com/track/3COVhNcQ71ZyAxHyM1xiK4) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [DEADBEAT \(demo\)](https://open.spotify.com/album/10m7tBBmCXRaQW0GP1jlBK) | 2:25 | 2023-12-21 | 2024-01-12 |
 | [Deadlines](https://open.spotify.com/track/77TznXvHi8vX42uBZMNhyH) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Deadlines](https://open.spotify.com/album/0Ic1Oi2gXqIEEF27HPtJdE) | 3:05 | 2025-01-17 | 2025-03-07 |
+| [Deadstick](https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Deadstick](https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT) | 3:33 | 2025-04-17 |  |
 | [Dear Maria, Count Me In \- ATL's Version](https://open.spotify.com/track/7D5xfRWhezT4QyOnwh7lcr) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dear Maria, Count Me In \- ATL's Version](https://open.spotify.com/album/1pH81EVN0YItmlphDI5k6b) | 3:07 | 2024-08-01 | 2024-09-15 |
 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 | 2023-03-16 | 2023-04-14 |
 | [Debilitate \(feat\. Pussy Riot\)](https://open.spotify.com/track/4lLSGmYY0E8ZGu2SzpmkAB) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Debilitate \(feat\. Pussy Riot\)](https://open.spotify.com/album/5g20tuP4LcpzftTWYsJaZY) | 2:23 | 2023-06-22 | 2023-06-30 |
@@ -1488,7 +1489,7 @@
 | [When I Come Around \- Cassette demo](https://open.spotify.com/track/4ECOhAff9rCHTgddtPO1Wa) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/47l8TkJCLzHaekHImz1e9g) | 2:59 | 2023-09-28 | 2023-10-27 |
 | [WHEN THE MUSIC STOPS](https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J) | 3:13 | 2024-02-08 | 2024-02-16 |
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-25 | 2024-03-06 |
-| [Who Laughs Last \(feat\. Kristen Stewart\)](https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Kristen Stewart](https://open.spotify.com/artist/3YNXLteYZdNIc9ZkAOYCA6) | [Who Laughs Last](https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD) | 4:43 | 2025-01-23 |  |
+| [Who Laughs Last \(feat\. Kristen Stewart\)](https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Kristen Stewart](https://open.spotify.com/artist/3YNXLteYZdNIc9ZkAOYCA6) | [Who Laughs Last](https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD) | 4:43 | 2025-01-23 | 2025-04-21 |
 | [Why Do I](https://open.spotify.com/track/6GXYIAAmG2r4n2dTMMikPA) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Elsewhere](https://open.spotify.com/album/5bQTYnJyhbf2nCTpyTuTOD) | 2:35 | 2023-03-16 | 2023-05-05 |
 | [Why Would You Be Loved](https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby! \(Special Edition\)](https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5) | 4:08 | 2024-05-02 | 2024-06-03 |
 | [Wide Eyes](https://open.spotify.com/track/0KiN95OOUGLFadCzc2ghBa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Built To Last](https://open.spotify.com/album/23XiIM9QKyC9urzQbTidGE) | 3:05 | 2023-05-25 | 2023-06-02 |

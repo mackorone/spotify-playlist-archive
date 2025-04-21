@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Entdecke die Songauswahl von Benjamin Amaru.<br/>Discover Benjamin Amaru's song selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,142 likes - 29 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,145 likes - 29 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

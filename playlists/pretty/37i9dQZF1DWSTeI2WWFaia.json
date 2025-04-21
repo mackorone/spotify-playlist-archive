@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Saba",
-  "num_followers": 1591865,
+  "num_followers": 1591815,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-04-18 04:00:54",
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Do You Have A Destination?",
+      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
         "name": "Muddy Waters Too",
         "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
       },
@@ -463,6 +479,42 @@
     {
       "added_at": "2025-04-18 04:00:54",
       "album": {
+        "name": "Pipeline",
+        "url": "https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
+        "name": "Studio Fit Riddim",
+        "url": "https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 102765,
+      "name": "Studio Fit Riddim",
+      "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
@@ -472,9 +524,25 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 204564,
-      "name": "Do You Have A Destination?",
-      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+      "duration_ms": 285805,
+      "name": "Friendly Hallucinations",
+      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
     },
     {
       "added_at": "2025-04-18 04:00:54",
@@ -499,58 +567,6 @@
       "duration_ms": 222640,
       "name": "Munyon Canyon",
       "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "Pipeline",
-        "url": "https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Pipeline",
-      "url": "https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 224639,
-      "name": "Die Together",
-      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "Studio Fit Riddim",
-        "url": "https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 102765,
-      "name": "Studio Fit Riddim",
-      "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"
     },
     {
       "added_at": "2025-04-18 04:00:54",
@@ -619,46 +635,6 @@
     {
       "added_at": "2025-04-18 04:00:54",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 285805,
-      "name": "Friendly Hallucinations",
-      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "LLC",
-      "url": "https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
         "name": "Muddy Waters Too",
         "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
       },
@@ -671,82 +647,6 @@
       "duration_ms": 137222,
       "name": "Dont Wanna C Me Rich",
       "url": "https://open.spotify.com/track/2yIg0KHEuXzagLIDNS2I0s"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/7CvfOOp2EzaJtlaHe0rmIH"
-      },
-      "artists": [
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        }
-      ],
-      "duration_ms": 132120,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/1GnwRHSnwZ0clkFJgfHHBS"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/3LtZUOfccDjNs18684twS8"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "OUTLANDER",
-      "url": "https://open.spotify.com/track/0XYCmKYEqdtNE8mYIIaBg9"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 194489,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "I Been",
-        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "I Been",
-      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
     },
     {
       "added_at": "2025-04-18 04:00:54",
@@ -775,6 +675,58 @@
     {
       "added_at": "2025-04-18 04:00:54",
       "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 194489,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/3LtZUOfccDjNs18684twS8"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "OUTLANDER",
+      "url": "https://open.spotify.com/track/0XYCmKYEqdtNE8mYIIaBg9"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/7CvfOOp2EzaJtlaHe0rmIH"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        }
+      ],
+      "duration_ms": 132120,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/1GnwRHSnwZ0clkFJgfHHBS"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
         "name": "The Pre-Game",
         "url": "https://open.spotify.com/album/5EPczt43gqjn3GY3OdMLCn"
       },
@@ -791,6 +743,30 @@
       "duration_ms": 200591,
       "name": "36 Ounces and a Mercedes",
       "url": "https://open.spotify.com/track/4IfQLjiAk1bahtL0TRkWxQ"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "LLC",
+      "url": "https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP"
     },
     {
       "added_at": "2025-04-18 04:00:54",
@@ -827,54 +803,6 @@
       "duration_ms": 225760,
       "name": "Palaces",
       "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "Bad Choices",
-        "url": "https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Bad Choices",
-      "url": "https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/3LtZUOfccDjNs18684twS8"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Estee Nack",
-          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        }
-      ],
-      "duration_ms": 305612,
-      "name": "BOSWELL",
-      "url": "https://open.spotify.com/track/5uFAi57aZcH5eHexBEcmxn"
     },
     {
       "added_at": "2025-04-18 04:00:54",
@@ -959,6 +887,54 @@
     {
       "added_at": "2025-04-18 04:00:54",
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/3LtZUOfccDjNs18684twS8"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "duration_ms": 305612,
+      "name": "BOSWELL",
+      "url": "https://open.spotify.com/track/5uFAi57aZcH5eHexBEcmxn"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
         "name": "How to Impress God",
         "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 180731,
       "name": "Armani Section",
       "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
+    },
+    {
+      "added_at": "2025-04-18 04:00:54",
+      "album": {
+        "name": "The Final Call",
+        "url": "https://open.spotify.com/album/727O17Cvp3DDONyTshbrG6"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "THE FINAL CALL (feat. Jay Electronica)",
+      "url": "https://open.spotify.com/track/7eIAKM9rfW6CWvRehVlpBL"
     }
   ],
   "unique_name": "Spilled Ink",

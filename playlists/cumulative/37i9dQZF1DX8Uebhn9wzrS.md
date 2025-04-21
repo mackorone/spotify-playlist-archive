@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,306 songs - 3 day 15 hr 52 min
+2,307 songs - 3 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1115,6 +1115,7 @@
 | [Like Saffron](https://open.spotify.com/track/05YRpkQ35gr4CWIYY35Lic) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Like Saffron](https://open.spotify.com/album/3aFt9TpuvBySq2zPJsHewR) | 2:25 | 2022-12-16 |  |
 | [Liliac](https://open.spotify.com/track/4xhLpuypn1JCVdklz1FLYt) | [softhead](https://open.spotify.com/artist/2nq3JoZK43Y5eeZPNReJI8) | [Liliac](https://open.spotify.com/album/2VEDWfLVAcOxXtCJY2144e) | 1:31 | 2022-05-13 | 2022-11-12 |
 | [lille dyp](https://open.spotify.com/track/3QXdIjTThCZP2r2ed3XEiZ) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [lille dyp](https://open.spotify.com/album/5h0YmsuW4dOrt1ZISmqgrn) | 2:31 | 2024-11-29 | 2025-02-19 |
+| [lilly](https://open.spotify.com/track/6TYwpyey0o6pAxp4trTqI2) | [miura x miura](https://open.spotify.com/artist/24JB4ExVYytyA9AN9tBgMc) | [lilly](https://open.spotify.com/album/5KxAVslcXaJ1gLyb8qIb9t) | 2:05 | 2025-04-18 |  |
 | [Limewire](https://open.spotify.com/track/0wwa9lg3yCKyyOkJLAEtod) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:19 | 2022-04-15 | 2022-06-03 |
 | [liminal spaces](https://open.spotify.com/track/29gOaTqO4WCYfkJcN4MPk8) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [liminal spaces](https://open.spotify.com/album/1CrLzxoJRfm8FdafJCTDcx) | 1:50 | 2022-05-13 | 2023-03-25 |
 | [Liquid Force](https://open.spotify.com/track/10bPPpQ60lkYCmoHYB6Y1o) | [Chilimanjaro](https://open.spotify.com/artist/4YZwxJSx2UJYXsIL9W514t) | [Jungle Haze](https://open.spotify.com/album/7Apf1ulc15WJvhlmLGhIKe) | 1:24 | 2022-04-15 | 2022-05-27 |
@@ -1279,7 +1280,7 @@
 | [Miniscule](https://open.spotify.com/track/6taFLGjpIKa19YkW7ql9BU) | [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [One Flew Over the Bird's Nest](https://open.spotify.com/album/4SQ1EW9BxsPeikp4PNLhmO) | 1:32 | 2023-06-06 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [Mirrored](https://open.spotify.com/track/2C0mLKtJ2I7tjPGwbb2MEi) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Mirrored](https://open.spotify.com/album/5wCJDR7CHKPetG8flITMnR) | 2:20 | 2022-04-15 | 2022-12-03 |
-| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 |  |
+| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 | 2025-04-21 |
 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 | 2023-03-01 |  |
 | [Miss lavii](https://open.spotify.com/track/4UpMl0ADAnyeLBM1TGbqtu) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:42 | 2022-04-15 | 2023-03-09 |
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2023-02-21 |  |

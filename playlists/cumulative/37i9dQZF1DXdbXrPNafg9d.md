@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Tunde Adebimpe
 
-8,646 songs - 21 day 0 hr 3 min
+8,647 songs - 21 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7198,6 +7198,7 @@
 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 | 2022-10-07 | 2022-11-26 |
 | [T&A](https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/2VbHxRWhhYbWNAFIwjL4zw) | 3:45 | 2025-01-10 | 2025-02-22 |
 | [T\-Shirt](https://open.spotify.com/track/4nbUCgADOoOzz8bU8SXkk0) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [T\-Shirt](https://open.spotify.com/album/4xxjiWgYKD5P1g0SFKBqNh) | 2:47 | 2023-11-17 | 2024-01-13 |
+| [T.H.](https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 4:46 | 2025-04-18 |  |
 | [Ta Que Tiembla \- Buscabulla x Empress Of \[Empress Of Remix\]](https://open.spotify.com/track/5zALPpDuSLPHgLGcFfiuQj) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Ta Que Tiembla \(Buscabulla x Empress Of \[Empress Of Remix\]\)](https://open.spotify.com/album/4xFRtvc4uI5IQoBCV1an52) | 2:59 | 2020-12-04 | 2021-02-12 |
 | [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 | 2023-10-27 | 2023-11-18 |
 | [Tag Along](https://open.spotify.com/track/0zO2Fu7XExfd3WZYedeCle) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Tag Along](https://open.spotify.com/album/6kPkthpgKSlWtah8pIX28k) | 2:08 | 2022-09-30 | 2022-11-12 |

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,318 songs - 11 day 13 hr 9 min
+7,320 songs - 11 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [Azul](https://open.spotify.com/track/3shwwjqqfOs4HqHIivQQK6) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Azul](https://open.spotify.com/album/4xDZEz4eWKipMgUjhRYIwM) | 2:09 | 2023-02-07 | 2023-03-25 |
 | [Azul](https://open.spotify.com/track/0fK1zhjRHxXPaJuFDqxCDe) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Azul](https://open.spotify.com/album/05iBUKB5WejZhKGx3ahsKc) | 3:14 | 2023-10-20 | 2023-11-11 |
 | [Azumi III](https://open.spotify.com/track/4NEWnLEmGUhUR2hho2ompn) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Azumi III](https://open.spotify.com/album/6QLt9ZlCCP1Z6m9W3sZYn0) | 2:00 | 2022-07-08 | 2022-10-21 |
-| [Azur](https://open.spotify.com/track/5AqSgIRnhgcnd1MORbQCmN) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Azur](https://open.spotify.com/album/0MfHkNlb8B9K6dRYJmeOfs) | 2:05 | 2025-03-21 |  |
+| [Azur](https://open.spotify.com/track/5AqSgIRnhgcnd1MORbQCmN) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Azur](https://open.spotify.com/album/0MfHkNlb8B9K6dRYJmeOfs) | 2:05 | 2025-03-21 | 2025-04-21 |
 | [Azure](https://open.spotify.com/track/0ohfiE8ypxbQKtxHScV9wV) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Azure](https://open.spotify.com/album/61uqCryeJEYveSgmSsNZHU) | 2:05 | 2021-12-03 | 2022-06-17 |
 | [B U M M E R](https://open.spotify.com/track/5vZ1DfRwPTjss87r1FMMCH) | [Chkody](https://open.spotify.com/artist/0lpmaOMQwbE7m9MOQjBQuU) | [B U M M E R](https://open.spotify.com/album/7368NXwgP3r1uEYENAJgF9) | 2:37 | 2020-10-01 | 2021-10-20 |
 | [B.O.B.O](https://open.spotify.com/track/4w7myQXkKXXGASKa9wQAri) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [B.O.B.O](https://open.spotify.com/album/5Jt2hPVNvcrNuMfz2I3wFQ) | 2:24 | 2023-01-13 | 2023-04-21 |
@@ -4468,6 +4468,7 @@
 | [noodle cup](https://open.spotify.com/track/44THmimSaDVlBDZ0MP7nLt) | [Dweeb](https://open.spotify.com/artist/1ziop6MvACsEsogEf7Qqd4) | [building](https://open.spotify.com/album/3kfMnWokZwz19CCVd7dDfZ) | 1:32 | 2019-12-14 | 2020-06-18 |
 | [noodle soup](https://open.spotify.com/track/4MkbLSo3IpbhLTaDFendaw) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [noodle soup](https://open.spotify.com/album/28kqFDwnmsRI9bgWr40M33) | 2:11 | 2022-07-01 | 2022-10-28 |
 | [noon](https://open.spotify.com/track/0Lou9XRy38aRMyVag7NB4N) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [noon](https://open.spotify.com/album/4ZgnMvBoadINNDcq80MywR) | 2:28 | 2022-08-05 | 2022-11-18 |
+| [Noontide](https://open.spotify.com/track/2m91VLJ1jLbfkUSNaagRhi) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Noontide](https://open.spotify.com/album/0qAsM3qootrAIiQMOIVkE4) | 2:50 | 2025-04-18 |  |
 | [Noozy](https://open.spotify.com/track/5QKMn9YhcBQQcgvVznQ9dG) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx), [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Noozy](https://open.spotify.com/album/2wOKoGU489kREuaYsf5UWq) | 2:40 | 2023-09-29 | 2024-04-27 |
 | [Nord Wav.](https://open.spotify.com/track/3RWJXGq6eDKlvaSGeh8KA6) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Nord Wav.](https://open.spotify.com/album/5DXvX66DplfBovPB6KFtmK) | 2:30 | 2023-01-06 | 2023-10-27 |
 | [Normal Day](https://open.spotify.com/track/5nntPu5WRXxckE0CnWU5gF) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Normal Day](https://open.spotify.com/album/1NWjOAZg42WIxuanNbRvUF) | 2:16 | 2022-07-08 | 2022-10-21 |
@@ -5102,7 +5103,7 @@
 | [Rainbow Avenue](https://open.spotify.com/track/7nCoFZ29H4VhYsgWEMC91G) | [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h), [Wiz Key](https://open.spotify.com/artist/2x3HojB3eQq3BfyU62PzxL) | [Rainbow Avenue](https://open.spotify.com/album/4TajUXdonDTv8ZTqxnl0QM) | 2:06 | 2022-12-23 | 2023-05-04 |
 | [Rainbow Mountain](https://open.spotify.com/track/43kJ5pr7YJJkr985hAQzwX) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Rainbow Mountain](https://open.spotify.com/album/2O04F1khafVgGI0JN0qmRZ) | 1:38 | 2019-09-08 | 2021-05-20 |
 | [Rainbow Skies](https://open.spotify.com/track/1CbmeDupyfPqIub89Lu8zk) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Rainbow Skies](https://open.spotify.com/album/3ydhxMRz35W3JdmwUgue0o) | 2:15 | 2024-07-19 | 2024-08-24 |
-| [Rainbower](https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Rainbower](https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC) | 2:08 | 2024-03-29 |  |
+| [Rainbower](https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Rainbower](https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC) | 2:08 | 2024-03-29 | 2025-04-21 |
 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 | 2023-03-24 | 2024-03-08 |
 | [Raindrop](https://open.spotify.com/track/4aGbdTwk7CJmzv7WWzoq4Z) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Troshin](https://open.spotify.com/artist/5TARiGQcJV5HOGNkINlRN0) | [Raindrop](https://open.spotify.com/album/1mOhXl3HXFzuR1j8Xqxslc) | 3:16 | 2023-06-20 | 2023-07-07 |
 | [Raindrop City](https://open.spotify.com/track/2QoJN8vhVHL47q0MvXaVl0) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Raindrop City](https://open.spotify.com/album/2dvLcQvZyheV6DQ4CDbo5k) | 2:36 | 2024-02-16 |  |
@@ -5756,6 +5757,7 @@
 | [so what so long](https://open.spotify.com/track/6jMlaEJKGdEn6bfeNmPkWL) | [beatsailor](https://open.spotify.com/artist/4oRX63TIKfzCAnGP6bKqzy) | [ahoy aloha](https://open.spotify.com/album/70Xn5qkJDRbtxkK1pVHrVb) | 1:28 | 2021-03-06 | 2022-02-15 |
 | [So What's Next](https://open.spotify.com/track/2K7WZXs3r1xkhTuopHTBkf) | [zan.](https://open.spotify.com/artist/4DAttJWki3DZFdi35o1hqy) | [So What's Next](https://open.spotify.com/album/4dQT8Y9jwZbVwtCvSg5MV7) | 1:48 | 2021-03-07 | 2022-01-14 |
 | [Soaring Anticipation](https://open.spotify.com/track/3uEg8h7ZvNbUOSO8Er0Cjf) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Soaring Anticipation](https://open.spotify.com/album/0RKoDZUssXKqMYSVmumcNj) | 3:26 | 2023-04-12 | 2023-04-21 |
+| [Sober](https://open.spotify.com/track/4evgifr0KofJZEhRcvBIhl) | [stretching time](https://open.spotify.com/artist/28FywWM12HeVlD0yOWbWHV), [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm), [Beautiful Disco](https://open.spotify.com/artist/4bNcfgeja8qTyJFLUE3YF3) | [Sober](https://open.spotify.com/album/2aJlm3VI13xwtFszo6s7pO) | 2:04 | 2025-04-18 |  |
 | [Sobre la soledad y la amistad](https://open.spotify.com/track/1QjwITVZlPJpIeMIQp9n2g) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Sobre la soledad y la amistad](https://open.spotify.com/album/4EqRc2iPSESO806iGU5sgu) | 2:25 | 2022-02-14 | 2022-06-03 |
 | [Social Distancing](https://open.spotify.com/track/3XpApV8nqdWSv7kkYz4Cl2) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Social Distancing](https://open.spotify.com/album/4qNibGmqFhj8RSrPLpow2k) | 1:53 | 2024-05-10 | 2024-10-14 |
 | [Social Distancing](https://open.spotify.com/track/3SSE8zrdsyBBejRjGpcKhd) | [Slow Dreamers](https://open.spotify.com/artist/22I3HfDFVXfgs23A8GT3RN) | [Social Distancing](https://open.spotify.com/album/6YHZG4Exp19bMnQ047QQLK) | 3:01 | 2020-04-03 | 2021-09-04 |

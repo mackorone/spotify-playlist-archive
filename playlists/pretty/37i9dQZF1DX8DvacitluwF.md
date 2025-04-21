@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb?si=FjzbrXd\-QsaqXhfviIBRJw">Leon Thomas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,212 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,211 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

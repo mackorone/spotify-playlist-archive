@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 56786,
+  "num_followers": 56807,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWAAAAAAChzVoZu9EfW9g97ayOdevv",
+  "snapshot_id": "aALngAAAAACGpP8WOWVeqeVGpcDzA1KD",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond All Reasonable Doubt",
-        "url": "https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw"
+        "name": "Strange Face (1st Sound Techniques Session, March / 1968)",
+        "url": "https://open.spotify.com/album/6g5KjtQrLTdSZDH0hrXBDL"
       },
       "artists": [
-        {
-          "name": "Chris Adams",
-          "url": "https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v"
-        },
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 199762,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R"
+      "duration_ms": 225573,
+      "name": "Strange Face - 1st Sound Techniques Session, March / 1968",
+      "url": "https://open.spotify.com/track/3zmge3Jmf96bwVVvFe0sd6"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Face (1st Sound Techniques Session, March / 1968)",
-        "url": "https://open.spotify.com/album/6g5KjtQrLTdSZDH0hrXBDL"
+        "name": "Beyond All Reasonable Doubt",
+        "url": "https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw"
       },
       "artists": [
+        {
+          "name": "Chris Adams",
+          "url": "https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v"
+        },
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Strange Face - 1st Sound Techniques Session, March / 1968",
-      "url": "https://open.spotify.com/track/3zmge3Jmf96bwVVvFe0sd6"
+      "duration_ms": 199762,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R"
     },
     {
       "added_at": null,

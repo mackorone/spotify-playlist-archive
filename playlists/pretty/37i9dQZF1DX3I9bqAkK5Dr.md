@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,153 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,156 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 22 | [Nidarove Cheliya](https://open.spotify.com/track/6JhDvJfUCR9G5wnUQZcmjx) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aditya Yashasvi](https://open.spotify.com/artist/00F8wb2vP6TZl4cUDL3tBg), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Nidarove Cheliya](https://open.spotify.com/album/0DmOGXWANZIx7ly9oMogwt) | 3:10 |
 | 23 | [Padha raa](https://open.spotify.com/track/0rfhJxxUlS4YeTPPuHUXjl) | [Bhargav Poludasu](https://open.spotify.com/artist/13yl701qf9J3ZlZKSt4cKj) | [Padha raa](https://open.spotify.com/album/1Pjehf3AqjBKFltsnIMR6n) | 1:21 |
 | 24 | [My Love \- Telugu](https://open.spotify.com/track/6IvRfKpHwofYcb3378pxMU) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s), [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [My Love \(Telugu\)](https://open.spotify.com/album/0m0GKbuc0o7MJbBuuwiaCt) | 4:30 |
-| 25 | [Chinni chinni ashalu \- Ma palle jivithalu](https://open.spotify.com/track/0zndBLqNSzZwCSkttGV2Y0) | [Narasingu Prasad Digital](https://open.spotify.com/artist/0v2SbGWJ7B756hWxMCpXQA) | [Chinni chinni ashalu \- Ma palle jivithalu](https://open.spotify.com/album/4invHZTTFPQ1YFNt4UsqNH) | 3:28 |
+| 25 | [Chinni chinni ashalu \- Ma palle jivithalu](https://open.spotify.com/track/0zndBLqNSzZwCSkttGV2Y0) | [Aditya Sony Music](https://open.spotify.com/artist/4N486HyuRwSCxnhBqbFFow) | [Chinni chinni ashalu \- Ma palle jivithalu](https://open.spotify.com/album/4invHZTTFPQ1YFNt4UsqNH) | 3:28 |
 | 26 | [Cheliya](https://open.spotify.com/track/1wsl9JcJIvSz56VryENzXd) | [Sai Madhav](https://open.spotify.com/artist/43jyzHaxxei3yv3UpVmfUc) | [Cheliya](https://open.spotify.com/album/7tCG8Tc5htb5zErVwrySJp) | 4:27 |
 | 27 | [Nee Andamaina Madhi](https://open.spotify.com/track/4aknSFeZ47FevS9ehHnU9Y) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Nee Andamaina Madhi](https://open.spotify.com/album/0SQZ0QqKuKvbESmcAUlO76) | 4:29 |
 | 28 | [Hello Chittamma](https://open.spotify.com/track/08JFxXy4ERFQFZAcEu8y86) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Hello Chittamma](https://open.spotify.com/album/3HaCAI70bGfKoAwrVpgUD8) | 2:27 |

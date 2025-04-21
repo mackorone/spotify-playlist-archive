@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 47328,
+  "num_followers": 47330,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWAAAAAABJSFwozu6kIE5KkC39WmbV",
+  "snapshot_id": "aALngAAAAADUAnFbSEEK7GFQ+HhhbKOZ",
   "tracks": [
     {
       "added_at": null,
@@ -187,18 +187,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+        "name": "Greetings From Suffocate City",
+        "url": "https://open.spotify.com/album/6Ub4uRu4MftC1TCauizseQ"
       },
       "artists": [
         {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5"
+      "duration_ms": 203294,
+      "name": "You\u2019re So Ugly When You Cry (feat. Bert of The Used)",
+      "url": "https://open.spotify.com/track/3xM09w3oCzwnhevD58Vt6O"
     },
     {
       "added_at": null,
@@ -235,26 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greetings From Suffocate City",
-        "url": "https://open.spotify.com/album/6Ub4uRu4MftC1TCauizseQ"
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
       "artists": [
         {
-          "name": "The Funeral Portrait",
-          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
-        },
-        {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "Bert McCracken",
-          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
         }
       ],
-      "duration_ms": 203294,
-      "name": "You\u2019re So Ugly When You Cry (feat. Bert of The Used)",
-      "url": "https://open.spotify.com/track/3xM09w3oCzwnhevD58Vt6O"
+      "duration_ms": 193733,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Poetic Tragedy",
-      "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
+      "duration_ms": 200333,
+      "name": "Bulimic",
+      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 200333,
-      "name": "Bulimic",
-      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
+      "duration_ms": 224000,
+      "name": "Poetic Tragedy",
+      "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
     },
     {
       "added_at": null,

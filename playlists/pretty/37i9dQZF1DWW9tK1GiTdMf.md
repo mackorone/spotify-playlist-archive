@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ chiello in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,226 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,228 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 24 | [Le cose che non so](https://open.spotify.com/track/3actE1nAO5TCxcTdW1zUsx) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Le cose che non so](https://open.spotify.com/album/7oHf8DMUQPFXmz5ICoU0rJ) | 2:43 |
 | 25 | [Strobo](https://open.spotify.com/track/4Ftvl0UNFtVleWuo7dz061) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Strobo](https://open.spotify.com/album/3fMYjsVrP2VYmFSLnxZx5V) | 2:55 |
 | 26 | [OLOGRAMMA \(feat\. 18K\)](https://open.spotify.com/track/5qU4xzfQ2OZmMtRBaKLSev) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [TOCCA IL CIELO](https://open.spotify.com/album/4jPzZlabX82iApEx74Zldl) | 2:32 |
-| 27 | [Feel It \- From “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 27 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 28 | [KITSCH](https://open.spotify.com/track/765J3gX9vSabx6ALavokHU) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [KITSCH](https://open.spotify.com/album/7cEw7HecWEGrAPLRkoK7Jv) | 2:28 |
 | 29 | [ISIDE](https://open.spotify.com/track/0Zt3q9ZMX6EbWPfsz4wH09) | [Veronica+](https://open.spotify.com/artist/4mdUjVc6TvMQqIpMe8HaBo), [ronnie](https://open.spotify.com/artist/3xUYZj64PEvIlUrITN5AOc) | [ISIDE](https://open.spotify.com/album/0PCF8YFY24BXfUSlVMPKMm) | 2:51 |
 | 30 | [CURAMI](https://open.spotify.com/track/4UICi24Qe2RZ44zxHQiwL6) | [SAN JUNO](https://open.spotify.com/artist/7HIpFHpLPz4sBqLVdd8Zjz) | [CURAMI](https://open.spotify.com/album/336aovJBBb2xRej1ZHfA7X) | 2:47 |

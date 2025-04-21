@@ -4,7 +4,7 @@
 
 > 
 
-945 songs - 1 day 22 hr 30 min
+946 songs - 1 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -917,6 +917,7 @@
 | [Way It Go](https://open.spotify.com/track/3XKvJoOD0pjiM36AjlCeyd) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [3AM Vibes](https://open.spotify.com/album/3orPhMBlpm0MQDS9ZuZxsI) | 2:22 | 2022-12-23 | 2023-04-12 |
 | [We Dem](https://open.spotify.com/track/4rlvqiq90liG5L5gpcUpiq) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 2:47 | 2023-04-17 | 2023-12-14 |
 | [We On Dat](https://open.spotify.com/track/7x988PVAwdmWum1yct1woQ) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Ghetto Assassin](https://open.spotify.com/album/2ff6XMkerFMRgfxQDbpSlE) | 2:14 | 2024-12-05 |  |
+| [Went Silly](https://open.spotify.com/track/3Keul7V4tLUmyPoUQ2VRWh) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Grandson, Vol\. 1](https://open.spotify.com/album/5BAggP8hO7VWDSTKkNGyCi) | 2:43 | 2025-04-20 |  |
 | [Werkin](https://open.spotify.com/track/251bqAhih1Yn6m9Eqw3Z1n) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 2:02 | 2023-12-09 |  |
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-04-04 | 2023-12-14 |
 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 | 2023-04-04 | 2023-12-14 |

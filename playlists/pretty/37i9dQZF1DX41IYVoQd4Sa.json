@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31826,
+  "num_followers": 31836,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-04-17 21:00:29",
       "album": {
+        "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
+        "url": "https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4"
+      },
+      "artists": [
+        {
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
+      "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
+    },
+    {
+      "added_at": "2025-04-17 21:00:29",
+      "album": {
         "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
         "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2025-04-17 21:00:29",
       "album": {
-        "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
-        "url": "https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4"
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
       },
       "artists": [
         {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
         }
       ],
-      "duration_ms": 245600,
-      "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
-      "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-04-17 21:00:29",
@@ -599,18 +615,18 @@
     {
       "added_at": "2025-04-17 21:00:29",
       "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
       },
       "artists": [
         {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
+          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
         }
       ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
+      "duration_ms": 150829,
+      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
     },
     {
       "added_at": "2025-04-17 21:00:29",
@@ -647,18 +663,22 @@
     {
       "added_at": "2025-04-17 21:00:29",
       "album": {
-        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
+        "name": "Running Out of Time",
+        "url": "https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW"
       },
       "artists": [
         {
-          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
-          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
+          "name": "PA'AM",
+          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
+        },
+        {
+          "name": "Danny Kuttner",
+          "url": "https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH"
         }
       ],
-      "duration_ms": 150829,
-      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
+      "duration_ms": 180661,
+      "name": "Running Out of Time",
+      "url": "https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE"
     },
     {
       "added_at": "2025-04-17 21:00:29",
@@ -679,26 +699,6 @@
       "duration_ms": 179875,
       "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
       "url": "https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR"
-    },
-    {
-      "added_at": "2025-04-17 21:00:29",
-      "album": {
-        "name": "Running Out of Time",
-        "url": "https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW"
-      },
-      "artists": [
-        {
-          "name": "PA'AM",
-          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
-        },
-        {
-          "name": "Danny Kuttner",
-          "url": "https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH"
-        }
-      ],
-      "duration_ms": 180661,
-      "name": "Running Out of Time",
-      "url": "https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE"
     },
     {
       "added_at": "2025-04-17 21:00:29",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-04-17 21:00:29",
       "album": {
-        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
-    },
-    {
-      "added_at": "2025-04-17 21:00:29",
-      "album": {
         "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
         "url": "https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 263853,
       "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
       "url": "https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy"
+    },
+    {
+      "added_at": "2025-04-17 21:00:29",
+      "album": {
+        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
     },
     {
       "added_at": "2025-04-17 21:00:29",
@@ -803,22 +803,6 @@
       "duration_ms": 326979,
       "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
       "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
-    },
-    {
-      "added_at": "2025-04-17 21:00:29",
-      "album": {
-        "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
     },
     {
       "added_at": "2025-04-17 21:00:29",
@@ -907,26 +891,18 @@
     {
       "added_at": "2025-04-17 21:00:29",
       "album": {
-        "name": "\u05e9\u05d9\u05e8 \u05dc\u05d4\u05ea\u05d7\u05d9\u05dc \u05dc\u05e0\u05e7\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/2M15QGbn2T4u5wZVmDcuGU"
+        "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
       },
       "artists": [
         {
-          "name": "Gon Ben Ari",
-          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
-        },
-        {
-          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
-          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
-        },
-        {
-          "name": "\u05e1\u05dc\u05d5\u05de\u05d4",
-          "url": "https://open.spotify.com/artist/49mD4wE4bs2QSuYKMyJ0UI"
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
         }
       ],
-      "duration_ms": 277000,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05d4\u05ea\u05d7\u05d9\u05dc \u05dc\u05e0\u05e7\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/60br7n3byETHf7vzafZ8UE"
+      "duration_ms": 206000,
+      "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
     },
     {
       "added_at": "2025-04-17 21:00:29",
@@ -951,18 +927,26 @@
     {
       "added_at": "2025-04-17 21:00:29",
       "album": {
-        "name": "\u05d9\u05d5\u05de\u05d4",
-        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
+        "name": "\u05e9\u05d9\u05e8 \u05dc\u05d4\u05ea\u05d7\u05d9\u05dc \u05dc\u05e0\u05e7\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/2M15QGbn2T4u5wZVmDcuGU"
       },
       "artists": [
         {
-          "name": "Tohar Gadasi",
-          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
+          "name": "Gon Ben Ari",
+          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+        },
+        {
+          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
+          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
+        },
+        {
+          "name": "\u05e1\u05dc\u05d5\u05de\u05d4",
+          "url": "https://open.spotify.com/artist/49mD4wE4bs2QSuYKMyJ0UI"
         }
       ],
-      "duration_ms": 145000,
-      "name": "\u05d9\u05d5\u05de\u05d4",
-      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
+      "duration_ms": 277000,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05d4\u05ea\u05d7\u05d9\u05dc \u05dc\u05e0\u05e7\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/60br7n3byETHf7vzafZ8UE"
     },
     {
       "added_at": "2025-04-17 21:00:29",
@@ -979,6 +963,22 @@
       "duration_ms": 188987,
       "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
       "url": "https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf"
+    },
+    {
+      "added_at": "2025-04-17 21:00:29",
+      "album": {
+        "name": "\u05d9\u05d5\u05de\u05d4",
+        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
+      },
+      "artists": [
+        {
+          "name": "Tohar Gadasi",
+          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "\u05d9\u05d5\u05de\u05d4",
+      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
     },
     {
       "added_at": "2025-04-17 21:00:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-04-17 21:00:29",
       "album": {
-        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
-    },
-    {
-      "added_at": "2025-04-17 21:00:29",
-      "album": {
         "name": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
         "url": "https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr"
       },
@@ -1075,22 +1059,34 @@
     {
       "added_at": "2025-04-17 21:00:29",
       "album": {
-        "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
+        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
       },
       "artists": [
         {
-          "name": "Meirav Hellinger",
-          "url": "https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy"
-        },
-        {
-          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
-          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
         }
       ],
-      "duration_ms": 183750,
-      "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
+      "duration_ms": 177000,
+      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
+    },
+    {
+      "added_at": "2025-04-17 21:00:29",
+      "album": {
+        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea (\u05d1\u05d0\u05e8\u05d1\u05d9 Live)",
+        "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
+      "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

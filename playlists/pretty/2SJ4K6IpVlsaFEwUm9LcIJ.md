@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,956 likes - 64 songs - 4 hr 7 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,952 likes - 73 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,14 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 62 | [Laugh Now \- Re\-Issue](https://open.spotify.com/track/7x2ZsDLoIWvCulm9pJqdtN) | [Little Wings](https://open.spotify.com/artist/0Z6hyoqGpchajBS8Gt3c0l) | [Magic Wand](https://open.spotify.com/album/2L5aLYeqqcdmPpF6es6XhP) | 4:51 |
 | 63 | [Harmless](https://open.spotify.com/track/4OYmd02op9NYxIdOfjYo4C) | [Mad About The Boy](https://open.spotify.com/artist/0ux8iLN3qDkhoXLwbTA1M0) | [Top Earner](https://open.spotify.com/album/2adLrKoyb1QYHuSqlSu6Bi) | 4:48 |
 | 64 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 |
+| 65 | [Memory Foam](https://open.spotify.com/track/30RssVq7KiJHl7E6cFDdre) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Imaginations](https://open.spotify.com/album/3wyZNkNP8tUegRaPWV1lap) | 3:44 |
+| 66 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
+| 67 | [Puddles on My Pillow](https://open.spotify.com/track/6r15HLqlrLaxKesH2qaAVL) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Swimming Pool](https://open.spotify.com/album/5Fz76M7GkaDO8pObe6MRFs) | 2:00 |
+| 68 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 |
+| 69 | [I Feel It Starts Again](https://open.spotify.com/track/5BRBSRdSHRbq5E9GmdZ6ye) | [Suzanne Menzel](https://open.spotify.com/artist/6As3O7Fndk3au4CcOSYT3H) | [Goodbyes And Beginnings](https://open.spotify.com/album/0NehyKBbhDRF123SuqLe4c) | 3:28 |
+| 70 | [Walking and Falling](https://open.spotify.com/track/0jV8lPEbz6mVI6Q34Ru0ym) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 2:13 |
+| 71 | [Suffer Debt](https://open.spotify.com/track/3U9AaUSqjcUmWEbDenK39r) | [Truth Club](https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC) | [Running From the Chase](https://open.spotify.com/album/3yKcdRIr1FIFE1xQe4PCWR) | 4:05 |
+| 72 | [Ain't That A Kick](https://open.spotify.com/track/5JzjcUEDpVtK6fnsoX2Pxu) | [Peter Ivers](https://open.spotify.com/artist/55tLEUlrzGNtACuMVJZHNf) | [Becoming Peter Ivers](https://open.spotify.com/album/5jhapSTmOa3IfQj4WShMpQ) | 2:25 |
+| 73 | [Berry on a Briar](https://open.spotify.com/track/7fGjyvwFV3kbSBBhT8McGO) | [Will Fox](https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67) | [Old News](https://open.spotify.com/album/27NsD2q6jzQWlVjDNBEizM) | 3:59 |
 
-Snapshot ID: `AAAMPM5nGcWhjuTXVp3cAppNfYdHiLqr`
+Snapshot ID: `AAAMRcoXvSDmFJYVLIj8IhRptucyONo/`

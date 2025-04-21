@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158715,
+  "num_followers": 158707,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,30 @@
     {
       "added_at": "2025-04-19 15:40:19",
       "album": {
+        "name": "Brisa Errada",
+        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DaluzzZ",
+          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "Brisa Errada",
+      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
+    },
+    {
+      "added_at": "2025-04-19 15:40:19",
+      "album": {
         "name": "Equa\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
       },
@@ -367,22 +391,6 @@
     {
       "added_at": "2025-04-19 15:40:19",
       "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
-    },
-    {
-      "added_at": "2025-04-19 15:40:19",
-      "album": {
         "name": "Comemorar?",
         "url": "https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml"
       },
@@ -403,26 +411,18 @@
     {
       "added_at": "2025-04-19 15:40:19",
       "album": {
-        "name": "Brisa Errada",
-        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
       },
       "artists": [
         {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "DaluzzZ",
-          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 123582,
-      "name": "Brisa Errada",
-      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2025-04-19 15:40:19",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-04-19 15:40:19",
       "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "Ka\u00ea",
-          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
-    },
-    {
-      "added_at": "2025-04-19 15:40:19",
-      "album": {
         "name": "Ela N\u00e3o Cansa",
         "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 174715,
       "name": "Ela N\u00e3o Cansa",
       "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
+    },
+    {
+      "added_at": "2025-04-19 15:40:19",
+      "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00ea",
+          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2025-04-19 15:40:19",
@@ -975,30 +975,6 @@
     {
       "added_at": "2025-04-19 15:40:19",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Vidal",
-          "url": "https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        }
-      ],
-      "duration_ms": 149203,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV"
-    },
-    {
-      "added_at": "2025-04-19 15:40:19",
-      "album": {
         "name": "Astro Rei",
         "url": "https://open.spotify.com/album/1IxiiZj9kjC1s5EHnwO3wr"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 177000,
       "name": "Astro Rei",
       "url": "https://open.spotify.com/track/0d4LrgSfIQ6oLxMQbGhTme"
+    },
+    {
+      "added_at": "2025-04-19 15:40:19",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Vidal",
+          "url": "https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "duration_ms": 149203,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV"
     },
     {
       "added_at": "2025-04-19 15:40:19",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-04-19 15:40:19",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2025-04-19 15:40:19",
-      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 213698,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+    },
+    {
+      "added_at": "2025-04-19 15:40:19",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     }
   ],
   "unique_name": "Resenha na Praia",

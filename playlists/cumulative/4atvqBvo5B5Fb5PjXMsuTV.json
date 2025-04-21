@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Apr 22:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Apr 13:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -37648,7 +37648,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 475764,
       "name": "i'm going CRAZY",
       "url": "https://open.spotify.com/track/39A4WUPw6U4IekWFLPsa9T"
@@ -53968,6 +53968,24 @@
       "duration_ms": 268190,
       "name": "Not Linear",
       "url": "https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo"
+    },
+    {
+      "album": {
+        "name": "Not Regular",
+        "url": "https://open.spotify.com/album/1xbqROaZYQX11Y9w4R0DGF"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132085,
+      "name": "Not Regular",
+      "url": "https://open.spotify.com/track/7nrB7FTJ9TjWXrGXgF9XpG"
     },
     {
       "album": {

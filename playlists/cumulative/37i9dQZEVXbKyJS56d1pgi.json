@@ -2893,6 +2893,32 @@
     },
     {
       "album": {
+        "name": "Baile do Panta",
+        "url": "https://open.spotify.com/album/6sPc0S84IlwDrHbPmPV424"
+      },
+      "artists": [
+        {
+          "name": "Nego Trufa",
+          "url": "https://open.spotify.com/artist/62Gt9kCSVSxobYTVkrowRy"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Baile do Panta",
+      "url": "https://open.spotify.com/track/5AoOD6SAzOOE6jwxvRIBPq"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -7560,7 +7586,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 203686,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4VhSwcMCrXQgEfwls3s46o"
@@ -21614,7 +21640,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 170290,
       "name": "O teu cheiro",
       "url": "https://open.spotify.com/track/3D1ehynDwM6z7vgkxogkTT"
@@ -33868,7 +33894,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 196310,
       "name": "\u00daltimo beijo",
       "url": "https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ"

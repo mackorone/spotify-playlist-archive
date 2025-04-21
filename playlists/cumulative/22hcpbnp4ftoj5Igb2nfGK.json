@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118066,
+      "name": "BLOOD.",
+      "url": "https://open.spotify.com/track/1n4jwRVXdkK2U34nBDUKKT"
+    },
+    {
+      "album": {
         "name": "NEHRUVIANDOOM",
         "url": "https://open.spotify.com/album/152CETYdkMTfchUyFtCDZu"
       },
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 141000,
       "name": "Shattered Dreams",
       "url": "https://open.spotify.com/track/2LQb3iYBzoxbxct2IexjBc"

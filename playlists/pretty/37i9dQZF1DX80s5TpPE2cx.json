@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Cruel Santino",
-  "num_followers": 15726,
+  "num_followers": 15749,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
+        "name": "Repercussions",
+        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 180714,
+      "name": "Repercussions",
+      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 200680,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Reason You",
-      "url": "https://open.spotify.com/track/3kPJGFBlp69ZaJ9smfaklJ"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -187,18 +187,18 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "Repercussions",
-        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 180714,
-      "name": "Repercussions",
-      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
+      "duration_ms": 206750,
+      "name": "Reason You",
+      "url": "https://open.spotify.com/track/3kPJGFBlp69ZaJ9smfaklJ"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -291,38 +291,6 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 190104,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "Better Days / Wetin Dey",
-        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 146447,
-      "name": "Wetin Dey",
-      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
         "name": "Reckless & Sweet",
         "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
       },
@@ -339,18 +307,18 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
       },
       "artists": [
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 180884,
-      "name": "Mad Apology",
-      "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
+      "duration_ms": 190104,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -371,42 +339,6 @@
       "duration_ms": 182500,
       "name": "Where Dem Dey",
       "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "Mandy & The Jungle",
-        "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Sparky",
-      "url": "https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -447,6 +379,74 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
+        "name": "Mandy & The Jungle",
+        "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Sparky",
+      "url": "https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 180884,
+      "name": "Mad Apology",
+      "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "Better Days / Wetin Dey",
+        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 146447,
+      "name": "Wetin Dey",
+      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9"
       },
@@ -463,62 +463,6 @@
       "duration_ms": 161239,
       "name": "All Night",
       "url": "https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "MONICA",
-      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "rare.",
-        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Alt\u00e9 Cruise",
-      "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "I Don\u2019t Like You",
-        "url": "https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t"
-      },
-      "artists": [
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 151983,
-      "name": "I Don't Like You",
-      "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -547,6 +491,78 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "MONICA",
+      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 151983,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "rare.",
+        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+        }
+      ],
+      "duration_ms": 192309,
+      "name": "Alt\u00e9 Cruise",
+      "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "SARO",
+        "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
+      },
+      "artists": [
+        {
+          "name": "Jinmi Abduls",
+          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
+        }
+      ],
+      "duration_ms": 182475,
+      "name": "SARO",
+      "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 256365,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/05vU0jW7ZkWiPShxlM0OU7"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "SARO",
-        "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
-      },
-      "artists": [
-        {
-          "name": "Jinmi Abduls",
-          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
-        }
-      ],
-      "duration_ms": 182475,
-      "name": "SARO",
-      "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 191179,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 187206,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 191179,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "Skedaddle",
-        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 150858,
-      "name": "Skedaddle",
-      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
         "name": "MASTA",
         "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "Skedaddle",
+        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 150858,
+      "name": "Skedaddle",
+      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "sundays",
-        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
-      },
-      "artists": [
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "sundays",
-      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
         "name": "Mondays",
         "url": "https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 134295,
       "name": "Mondays",
       "url": "https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -1003,6 +1003,26 @@
       "duration_ms": 196603,
       "name": "Air",
       "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "Wuse II (feat. Odunsi)",
+        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 269552,
+      "name": "Wuse II",
+      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -1043,26 +1063,6 @@
       "duration_ms": 166399,
       "name": "girl on a mission",
       "url": "https://open.spotify.com/track/71cG0LyiL0ozOwKAxyM5Fe"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "Wuse II (feat. Odunsi)",
-        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 269552,
-      "name": "Wuse II",
-      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
     },
     {
       "added_at": "2025-03-14 05:42:32",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-518 songs - 1 day 1 hr 16 min
+519 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK) | 2:44 | 2024-09-30 | 2025-03-25 |
 | [ADU](https://open.spotify.com/track/35qrZvnYZw3OEa2NAXc3iO) | [Mo Falk](https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ), [Sam Helix](https://open.spotify.com/artist/77rUVbhFaC5ayjN6nufaR6) | [ADU](https://open.spotify.com/album/5mhNe3gJCIfUbRLMT0XyWM) | 2:23 | 2023-07-14 | 2023-08-12 |
 | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Gustavo Dotch](https://open.spotify.com/artist/4BVrKqgmtI33WIxB6aabYZ), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/album/4VHGQcaaY2tPDJnSzt6IEm) | 2:34 | 2021-10-29 | 2022-12-17 |
-| [Afterparty](https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp) | 2:40 | 2025-04-11 |  |
+| [Afterparty](https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp) | 2:40 | 2025-04-11 | 2025-04-21 |
 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 | 2022-12-16 | 2024-04-19 |
 | [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 | 2022-09-12 |
 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 | 2022-09-09 | 2024-04-19 |
@@ -319,6 +319,7 @@
 | [Molotov](https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Molotov](https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e) | 2:58 | 2023-03-10 | 2023-06-25 |
 | [Mood](https://open.spotify.com/track/4Yq0j5W2HQPJGmu9Mapu8I) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Laureli](https://open.spotify.com/artist/1VzMRLlJzJbV9hlin8Vl0g) | [Mood](https://open.spotify.com/album/0Y9TbXivPAbowEaJ1h5acK) | 3:11 | 2021-10-29 | 2022-07-29 |
 | [Move It \(with Luciana\)](https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Move It \(with Luciana\)](https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8) | 2:15 | 2023-07-14 |  |
+| [Move Your Body](https://open.spotify.com/track/2tb7YJrPpuBJAz1oUNxmTU) | [Sebastian Bronk](https://open.spotify.com/artist/4Iau0oBg23all6HbsD98lm) | [Move Your Body](https://open.spotify.com/album/1TbWdchy86OGM3VYBWpH3K) | 2:18 | 2025-04-18 |  |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-01-28 | 2023-11-25 |
 | [Movin](https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Movin](https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ) | 2:11 | 2024-04-12 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/1KOAr3G8LaibCpHeaWtL2u) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Mr\. Brightside](https://open.spotify.com/album/5RyXZZrzXpINCtbaJGfsF0) | 3:46 | 2021-10-29 | 2022-05-29 |

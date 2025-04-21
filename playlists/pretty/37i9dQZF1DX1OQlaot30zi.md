@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neffa, Night Skinny, Gheba, Flaco G e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,695 likes - 140 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,693 likes - 140 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 68 | [Questo buio](https://open.spotify.com/track/189Aj8GRdSiQOXbNstIhDL) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Questo buio](https://open.spotify.com/album/1PJSnOWIqlDekwMOQemSda) | 2:49 |
 | 69 | [TUSI \(feat\. Nicola Siciliano\)](https://open.spotify.com/track/1VdeiCEMI9kbLCFEQs7Mj7) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [TUSI \(feat\. Nicola Siciliano\)](https://open.spotify.com/album/2A09JkHkFxITPERH7Z34ZK) | 3:10 |
 | 70 | [COL FUOCO NEGLI OCCHI](https://open.spotify.com/track/5awt4TsOuuY2vFKRfAsX70) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [COL FUOCO NEGLI OCCHI](https://open.spotify.com/album/4mEP2tMcVmwZ9rTioZ59Op) | 2:24 |
-| 71 | [100 Lame \(feat\. IRBIS & Kuremino\)](https://open.spotify.com/track/16xMWS0vYA9P4AhtOZ5Eey) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [100 Lame \(feat\. IRBIS & Kuremino\)](https://open.spotify.com/album/61kteOeKgMaU7qTNfJ5uvY) | 2:33 |
+| 71 | [100 LAME \(feat\. IRBIS & Kuremino\)](https://open.spotify.com/track/16xMWS0vYA9P4AhtOZ5Eey) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [100 LAME \(feat\. IRBIS & Kuremino\)](https://open.spotify.com/album/61kteOeKgMaU7qTNfJ5uvY) | 2:33 |
 | 72 | [Hacker Harakiri](https://open.spotify.com/track/3va0HlkSSu7U88p9fpWtsR) | [Anastasio](https://open.spotify.com/artist/0QJ3p787u7KD0ZhD5vzrCA) | [Le Macchine Non Possono Pregare](https://open.spotify.com/album/4n2OoUkDezeBncVQOVhSKZ) | 3:20 |
 | 73 | [Prendimi Le Mani](https://open.spotify.com/track/07kwBRLhQZQYNV2FOHltcl) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Prendimi Le Mani](https://open.spotify.com/album/4TLzowSUim4FMWRoGVhoTo) | 2:30 |
 | 74 | [5 AM](https://open.spotify.com/track/5AHbliUwx0rJ4dd5iSwArl) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [5 AM](https://open.spotify.com/album/5Jec1PHcm59IIt3vp7cUs6) | 2:21 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 514103,
+  "num_followers": 514174,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
         "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
       },
@@ -111,54 +127,6 @@
       "duration_ms": 221538,
       "name": "Guachineo",
       "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
-        "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 392106,
-      "name": "Tu Me Recordar\u00e1s",
-      "url": "https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Los Campeones De La Salsa",
-      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Timba Cubana",
-        "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
-      },
-      "artists": [
-        {
-          "name": "Tirso Duarte",
-          "url": "https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "Un Mal Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -211,38 +179,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Live In The USA",
-        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
-      },
-      "artists": [
-        {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
-        }
-      ],
-      "duration_ms": 476586,
-      "name": "Lola Lola",
-      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Mi Vida Es Cantar",
         "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
       },
@@ -255,6 +191,54 @@
       "duration_ms": 275253,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
+        "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 392106,
+      "name": "Tu Me Recordar\u00e1s",
+      "url": "https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Los Campeones De La Salsa",
+      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 284053,
+      "name": "Luna Negra",
+      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -279,18 +263,34 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
+        "name": "Timba Cubana",
+        "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
       },
       "artists": [
         {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+          "name": "Tirso Duarte",
+          "url": "https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu"
         }
       ],
-      "duration_ms": 326720,
-      "name": "La Boda de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
+      "duration_ms": 325026,
+      "name": "Un Mal Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Live In The USA",
+        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
+      },
+      "artists": [
+        {
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
+        }
+      ],
+      "duration_ms": 476586,
+      "name": "Lola Lola",
+      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 326720,
+      "name": "La Boda de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Grandes Exitos Vol. 1",
         "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 284053,
-      "name": "Luna Negra",
-      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Chapeando",
+        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+        }
+      ],
+      "duration_ms": 368720,
+      "name": "Despu\u00e9s de todo",
+      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Contra Todos los Pron\u00f3sticos",
         "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 328253,
       "name": "El Negro Esta Cocinando",
       "url": "https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Chapeando",
-        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
-        }
-      ],
-      "duration_ms": 368720,
-      "name": "Despu\u00e9s de todo",
-      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Te pone la cabeza mala",
+        "url": "https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+        }
+      ],
+      "duration_ms": 248999,
+      "name": "Esto te pone la cabeza mala",
+      "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -563,18 +579,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+        "name": "El Charanguero Mayor",
+        "url": "https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4"
       },
       "artists": [
         {
-          "name": "Formell y los Van Van",
-          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
         }
       ],
-      "duration_ms": 313295,
-      "name": "Al Paso",
-      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
+      "duration_ms": 392053,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -595,38 +611,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "El Charanguero Mayor",
-        "url": "https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4"
-      },
-      "artists": [
-        {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
-        }
-      ],
-      "duration_ms": 392053,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Te pone la cabeza mala",
-        "url": "https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
-        }
-      ],
-      "duration_ms": 248999,
-      "name": "Esto te pone la cabeza mala",
-      "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "La Aplanadora de Cuba",
         "url": "https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG"
       },
@@ -643,18 +627,34 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+        "name": "Laberinto de Pasiones",
+        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+      "duration_ms": 177160,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+      },
+      "artists": [
+        {
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+        }
+      ],
+      "duration_ms": 313295,
+      "name": "Al Paso",
+      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Sin Escala",
         "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Laberinto de Pasiones",
-        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "El Esp\u00edritu de la Rumba",
         "url": "https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc"
       },
@@ -723,30 +723,6 @@
       "duration_ms": 407920,
       "name": "La Gozadera",
       "url": "https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "La Salsa Tiene mi Son",
-        "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
-      },
-      "artists": [
-        {
-          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
-          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
-        },
-        {
-          "name": "Alexander Delgado (Gente D' Zona)",
-          "url": "https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh"
-        },
-        {
-          "name": "Serguei Yera Madera",
-          "url": "https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
-      "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -799,6 +775,46 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "La Salsa Tiene mi Son",
+        "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
+      },
+      "artists": [
+        {
+          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
+        },
+        {
+          "name": "Alexander Delgado (Gente D' Zona)",
+          "url": "https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh"
+        },
+        {
+          "name": "Serguei Yera Madera",
+          "url": "https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
+      "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Sin Escala",
+        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
+      },
+      "artists": [
+        {
+          "name": "El Noro y Primera Clase",
+          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "La Bomba (Yo Lo S\u00e9)",
+      "url": "https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Chambonea (feat. Gilbert Man)",
         "url": "https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 336095,
       "name": "Caramelo Con Picante",
       "url": "https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Sin Escala",
-        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
-      },
-      "artists": [
-        {
-          "name": "El Noro y Primera Clase",
-          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "La Bomba (Yo Lo S\u00e9)",
-      "url": "https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM"
     }
   ],
   "unique_name": "Salsa Cubana",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,070 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,067 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 17 | [te quiero](https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [te quiero](https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B) | 3:35 |
 | 18 | [III\. OJALÁ!](https://open.spotify.com/track/7Js0AmjsKvj3QPSlm9oiXE) | [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [III\. OJALÁ!](https://open.spotify.com/album/1TNeG7LKpVphlcckdl8Zcz) | 2:50 |
 | 19 | [Tuyo](https://open.spotify.com/track/6G5iD3Ht93VJbHc9ZH9wFu) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tuyo](https://open.spotify.com/album/2w8fI8cbD9Wg8R2N4fBhsi) | 3:39 |
-| 20 | [Rey](https://open.spotify.com/track/69FwmM0iXHNwN0G3zGwFmi) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Rey](https://open.spotify.com/album/2bKy9kHpuQpAJ79wJwBqmV) | 2:34 |
+| 20 | [REY](https://open.spotify.com/track/69FwmM0iXHNwN0G3zGwFmi) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [REY](https://open.spotify.com/album/2bKy9kHpuQpAJ79wJwBqmV) | 2:34 |
 | 21 | [Tu Manera De Amar](https://open.spotify.com/track/1ocABazLBzqkca31voY0AO) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [Tu Manera De Amar](https://open.spotify.com/album/1aVXjqX2ShlH1zdsBK38CH) | 2:51 |
 | 22 | [LAS FLORES QUE ERAN PARA TI](https://open.spotify.com/track/1Z0T7NvJKS93rpGHLgYPur) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [LAS FLORES QUE ERAN PARA TI](https://open.spotify.com/album/6lj1SQusfS9wYgI7yOPfn4) | 3:00 |
 | 23 | [En Nada](https://open.spotify.com/track/5js6qoDiSuty9pF3Osru0X) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Secuencias](https://open.spotify.com/album/0ezme4B4gqyP216mc2sGJx) | 3:05 |

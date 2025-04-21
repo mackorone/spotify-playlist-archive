@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-14",
+      "date_removed": null,
       "duration_ms": 247173,
       "name": "Across the universe",
       "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan)",
       "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
@@ -2813,6 +2813,28 @@
     },
     {
       "album": {
+        "name": "kiss",
+        "url": "https://open.spotify.com/album/6qkirALj76VC5Iv4RSawmQ"
+      },
+      "artists": [
+        {
+          "name": "Giwon",
+          "url": "https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155091,
+      "name": "kiss",
+      "url": "https://open.spotify.com/track/46uCTQbtKT3k8zCYG46AdV"
+    },
+    {
+      "album": {
         "name": "Knight",
         "url": "https://open.spotify.com/album/3FpyOvhv7HSbljctC5bfiy"
       },
@@ -2930,7 +2952,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 166196,
       "name": "Let\u2019s play tug",
       "url": "https://open.spotify.com/track/3JPIijrNEtzAjfWMSphCG0"
@@ -3770,6 +3792,28 @@
       "duration_ms": 195400,
       "name": "Need to talk",
       "url": "https://open.spotify.com/track/112eRBGEwDCtNA4KiDAbkW"
+    },
+    {
+      "album": {
+        "name": "Nerdy Love",
+        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Nerdy Love",
+      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
     },
     {
       "album": {
@@ -4880,7 +4924,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 189706,
       "name": "Small girl (feat. D.O.)",
       "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"

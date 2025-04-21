@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWAAAAAACNGsWo5MwNlhf8UExlTDer",
+  "snapshot_id": "aALngAAAAAAfFJ7wgB2cMAV4ecKIavtE",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,42 @@
       "duration_ms": 323301,
       "name": "Samambaila - Original Mix",
       "url": "https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decibels Loudness And Perception",
+        "url": "https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 559369,
+      "name": "Close The Door - Original Mix",
+      "url": "https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPACE BLANK - TECH HOUSE",
+        "url": "https://open.spotify.com/album/6L1ujqIRbwUUf4QqdN1utg"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        },
+        {
+          "name": "Mad Math",
+          "url": "https://open.spotify.com/artist/2IYBNTl8U2V0LeqyXRuP9m"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Crazy Heat - Original Mix",
+      "url": "https://open.spotify.com/track/74V44B1LQhkkiS4pFysDdH"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

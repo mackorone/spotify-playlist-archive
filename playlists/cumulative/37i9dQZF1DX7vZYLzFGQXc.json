@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 151000,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/1AXBczq7b5irScauvlstAy"
@@ -18722,7 +18722,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 189440,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq"
@@ -26601,6 +26601,36 @@
     },
     {
       "album": {
+        "name": "WHITE",
+        "url": "https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK"
+      },
+      "artists": [
+        {
+          "name": "Q the trumpet",
+          "url": "https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        },
+        {
+          "name": "sannie",
+          "url": "https://open.spotify.com/artist/7DzAtAzBPwXAbnwVWoo6sb"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "WHITE (Feat. Chan, jeebanoff, sannie)",
+      "url": "https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a"
+    },
+    {
+      "album": {
         "name": "White BM",
         "url": "https://open.spotify.com/album/0GFtMSnGLQFWyByeinsZet"
       },
@@ -26956,6 +26986,24 @@
       "duration_ms": 185142,
       "name": "Winter Sonata (feat. WET BOY)",
       "url": "https://open.spotify.com/track/1dUkH9OTBqCmXtXzZrWRNy"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ"
+      },
+      "artists": [
+        {
+          "name": "CHOSNG",
+          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212052,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/1RJmEwV43f5u6Q1Js8lX5m"
     },
     {
       "album": {

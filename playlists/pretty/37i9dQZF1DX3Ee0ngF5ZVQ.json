@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 410393,
+  "num_followers": 410382,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -347,38 +347,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Have A Nice Day",
-        "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 238687,
-      "name": "Chasing My Tail",
-      "url": "https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "Handle On You",
-        "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Handle On You",
-      "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "It Won't Be Long",
         "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
       },
@@ -395,6 +363,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 238687,
+      "name": "Chasing My Tail",
+      "url": "https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
         "name": "Fall This Way",
         "url": "https://open.spotify.com/album/5fezVdpvGi5luATJVA19B5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 215000,
       "name": "Fall This Way",
       "url": "https://open.spotify.com/track/5AeR3j18cKWueAh42yKkFE"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Handle On You",
+        "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Handle On You",
+      "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 241523,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+      "duration_ms": 241523,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1127,38 +1127,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Whole Lotta Lubbock",
-        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 192651,
-      "name": "Whole Lotta Lubbock",
-      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "Three Drinks Behind",
-        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Three Drinks Behind",
-      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Outlaws and Mustangs",
         "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
       },
@@ -1175,34 +1143,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Starting Over Again",
-        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
+        "name": "Whole Lotta Lubbock",
+        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 179645,
-      "name": "Starting Over Again",
-      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "Wild Is Her Favorite Color",
-        "url": "https://open.spotify.com/album/4IHQZBoW3LnJ62LsGvx4FT"
-      },
-      "artists": [
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 246786,
-      "name": "Wild Is Her Favorite Color",
-      "url": "https://open.spotify.com/track/7JATKNLC6c83UohqPyunhp"
+      "duration_ms": 192651,
+      "name": "Whole Lotta Lubbock",
+      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1227,6 +1179,54 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
+        "name": "Three Drinks Behind",
+        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Three Drinks Behind",
+      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Wild Is Her Favorite Color",
+        "url": "https://open.spotify.com/album/4IHQZBoW3LnJ62LsGvx4FT"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Wild Is Her Favorite Color",
+      "url": "https://open.spotify.com/track/7JATKNLC6c83UohqPyunhp"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Starting Over Again",
+        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "Starting Over Again",
+      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
         "name": "Cold Shoulder",
         "url": "https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 171605,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
         "name": "Lonestar Lonely",
         "url": "https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM"
       },
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Never Again One More Time",
-        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
+        "name": "The Droptines",
+        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
       },
       "artists": [
         {
-          "name": "Walker Montgomery",
-          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
         }
       ],
-      "duration_ms": 178284,
-      "name": "Never Again One More Time",
-      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+      "duration_ms": 182406,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1359,34 +1355,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "When My Baby\u2019s In Boots",
-        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
+        "name": "Never Again One More Time",
+        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 183613,
-      "name": "When My Baby\u2019s In Boots",
-      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "The Droptines",
-        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
-      },
-      "artists": [
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        },
         {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
         }
       ],
-      "duration_ms": 182406,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
+      "duration_ms": 178284,
+      "name": "Never Again One More Time",
+      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1431,6 +1415,26 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
+        "name": "That's What Makes the World Go Around",
+        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 197861,
+      "name": "That's What Makes The World Go Around",
+      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
         "name": "Don\u2019t Mess With Exes",
         "url": "https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956"
       },
@@ -1443,6 +1447,38 @@
       "duration_ms": 207893,
       "name": "Don\u2019t Mess With Exes",
       "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Horseback",
+      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "When My Baby\u2019s In Boots",
+        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 183613,
+      "name": "When My Baby\u2019s In Boots",
+      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1479,42 +1515,6 @@
       "duration_ms": 187089,
       "name": "Learnin' my Lesson",
       "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "Horseback",
-        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
-      },
-      "artists": [
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Horseback",
-      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "That's What Makes the World Go Around",
-        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 197861,
-      "name": "That's What Makes The World Go Around",
-      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/71c9E1RjHBacjk9hY8titl"
-      },
-      "artists": [
-        {
-          "name": "Cameron Sacky Band",
-          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
-        }
-      ],
-      "duration_ms": 190924,
-      "name": "Something Wrong",
-      "url": "https://open.spotify.com/track/6iiieW9Az0k3dqytcwQaGV"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 223679,
       "name": "Country Round Here Tonight (feat. Justin Moore)",
       "url": "https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/71c9E1RjHBacjk9hY8titl"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sacky Band",
+          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
+        }
+      ],
+      "duration_ms": 190924,
+      "name": "Something Wrong",
+      "url": "https://open.spotify.com/track/6iiieW9Az0k3dqytcwQaGV"
     },
     {
       "added_at": "2025-04-18 04:06:12",

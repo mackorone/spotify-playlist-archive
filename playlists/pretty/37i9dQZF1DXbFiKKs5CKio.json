@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 67336,
+  "num_followers": 67337,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,26 @@
     {
       "added_at": "2025-03-24 15:14:05",
       "album": {
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Allefez",
+          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Gaveta/Onironauta",
+      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
+    },
+    {
+      "added_at": "2025-03-24 15:14:05",
+      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 199186,
       "name": "Candeia",
       "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
-    },
-    {
-      "added_at": "2025-03-24 15:14:05",
-      "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Allefez",
-          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Gaveta/Onironauta",
-      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
     },
     {
       "added_at": "2025-03-24 15:14:05",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-03-24 15:14:05",
       "album": {
-        "name": "M\u00fasica",
-        "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
-      },
-      "artists": [
-        {
-          "name": "YAZI",
-          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
-        },
-        {
-          "name": "A Timeline",
-          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
-        }
-      ],
-      "duration_ms": 203584,
-      "name": "M\u00fasica",
-      "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
-    },
-    {
-      "added_at": "2025-03-24 15:14:05",
-      "album": {
         "name": "Cuz I Really Feel It",
         "url": "https://open.spotify.com/album/2fn3Ud9RQECGPUZ8Oc5BHd"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 167088,
       "name": "Tudo O Que Eu Posso Te Dar",
       "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
+    },
+    {
+      "added_at": "2025-03-24 15:14:05",
+      "album": {
+        "name": "M\u00fasica",
+        "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
+      },
+      "artists": [
+        {
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
+        },
+        {
+          "name": "A Timeline",
+          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
+        }
+      ],
+      "duration_ms": 203584,
+      "name": "M\u00fasica",
+      "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
     },
     {
       "added_at": "2025-03-24 15:14:05",

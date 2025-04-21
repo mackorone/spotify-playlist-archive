@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 271844,
+  "num_followers": 271850,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWAAAAAABXiwOYfdIBv7SW7FH8DY0/",
+  "snapshot_id": "aALngAAAAADsyLyGyr0dLaQrw8f8Bipq",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 260040,
+      "name": "Express - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3e809RytbPZxM8BjbrjlqF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor (Edici\u00f3n Especial En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 262306,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/0U4mdFPED6oviFgWjst8q9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 260040,
-      "name": "Express - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3e809RytbPZxM8BjbrjlqF"
     },
     {
       "added_at": null,
@@ -959,22 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Particles",
-        "url": "https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB"
+        "name": "Viva Duets",
+        "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
       },
       "artists": [
         {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 262820,
-      "name": "Fall On Me",
-      "url": "https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ"
+      "duration_ms": 122226,
+      "name": "Steppin' Out with My Baby (with Christina Aguilera)",
+      "url": "https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

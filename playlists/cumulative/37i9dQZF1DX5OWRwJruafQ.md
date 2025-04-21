@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Jassa Dhillon
 
-597 songs - 1 day 4 hr 35 min
+598 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Defender](https://open.spotify.com/track/1QGUZ1pSmeJv7U677bSVN9) | [Deep Karan](https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defender](https://open.spotify.com/album/0jhvzKYhasAq4RzgeVK3A9) | 2:24 | 2023-06-27 | 2023-10-12 |
 | [Defender](https://open.spotify.com/track/0YKVC87H962oWFWD3Zb9iZ) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Ride With Me](https://open.spotify.com/album/4IECKlBGNSADVXDrcB6J2z) | 2:08 | 2024-03-20 | 2024-04-12 |
 | [Desi Drip](https://open.spotify.com/track/169QUibETixunbbMjZo9at) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Desi Drip](https://open.spotify.com/album/5dFbznBNj5B1e7fjm1q6vA) | 2:52 | 2024-06-13 |  |
-| [Desi Touch](https://open.spotify.com/track/0qYRT0Wu43MmRpKoCH2ECW) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [NAAZ](https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo), [Taseer](https://open.spotify.com/artist/7gQmf386XqGGfIAoGrjKan) | [Desi Touch](https://open.spotify.com/album/5pB1MlqZwkvtTHlYsG9AYV) | 3:10 | 2024-08-14 |  |
+| [Desi Touch](https://open.spotify.com/track/0qYRT0Wu43MmRpKoCH2ECW) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [NAAZ](https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo), [Taseer](https://open.spotify.com/artist/7gQmf386XqGGfIAoGrjKan) | [Desi Touch](https://open.spotify.com/album/5pB1MlqZwkvtTHlYsG9AYV) | 3:10 | 2024-08-14 | 2025-04-21 |
 | [Desire](https://open.spotify.com/track/2TIIsy9WCwJCGw3rTh4akB) | [Ekkan](https://open.spotify.com/artist/2VnWKIkpDJE8f6qukTmnpa), [Marz](https://open.spotify.com/artist/5V7bS224vebOH5hCq5nlMB) | [Desire](https://open.spotify.com/album/6PmDdiDkDpgUj7PJWjLsil) | 2:55 | 2025-02-12 | 2025-03-20 |
 | [Desiya Da Daur \- From "Kanneda"](https://open.spotify.com/track/2hnNKAuVl9S3Abc3VNRUok) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Kanneda \(Original Series Soundtrack\)](https://open.spotify.com/album/2HF4aHW9ZSlzbLhidUnDLJ) | 2:05 | 2025-04-01 |  |
 | [Dhanwaad](https://open.spotify.com/track/3zN9vftHNTFeP0adBYhY5z) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Dhanwaad](https://open.spotify.com/album/0VaG4Qhr1cT435mCqSL8kO) | 3:36 | 2024-12-02 | 2025-02-19 |
@@ -338,6 +338,7 @@
 | [Look At Me](https://open.spotify.com/track/3Om27K297aRPV9I5GRw9F7) | [Karn Sekhon](https://open.spotify.com/artist/3xOt6ZsKiyP9p8hmFNiYNz), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Look At Me](https://open.spotify.com/album/7ArPNvpEQHvUPb7tqBAd6s) | 2:25 | 2023-04-26 | 2023-05-06 |
 | [Love Hurts](https://open.spotify.com/track/3iyxOE7ZrxMCVMNzFkWtZY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Love Hurts](https://open.spotify.com/album/5Tmdgf9queNWN4lqQnvqr7) | 3:24 | 2024-10-04 |  |
 | [Lucifer](https://open.spotify.com/track/38RA9VH12NmpiVBamNJtSy) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Mr\. Rubal](https://open.spotify.com/artist/36UOJCmUrSwImCKV47F3Iy) | [Lucifer](https://open.spotify.com/album/6CYRc3WOonWttx4O1VJh1q) | 3:13 | 2023-08-28 | 2023-10-07 |
+| [LV](https://open.spotify.com/track/73brEuUMAPAiGWALPglvRm) | [Manpreet Dhillon](https://open.spotify.com/artist/43NqRT7AYkjgNTCSU3BwiA), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [LV](https://open.spotify.com/album/4E8acyQkONbwZIDvQTq1d3) | 2:24 | 2025-04-20 |  |
 | [M1911](https://open.spotify.com/track/0r5lpL34oxVDKg8aFRueU6) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [M1911](https://open.spotify.com/album/6B2XyOETt9hTC6UJK9DPdT) | 2:35 | 2023-08-16 | 2023-10-05 |
 | [M9](https://open.spotify.com/track/5SOT3flWOUBxw2Ieso43Zp) | [Angad Aliwal](https://open.spotify.com/artist/5aT1z6vnIsnwgpl26WXq4A), [Archie Muzik](https://open.spotify.com/artist/2dcNgbwIYrKSohxZZQZ7Kk) | [M9](https://open.spotify.com/album/5mPVMaXvIoWPhjVDDz3SnX) | 2:34 | 2025-04-11 |  |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-29 | 2023-04-09 |

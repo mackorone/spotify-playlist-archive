@@ -7617,6 +7617,24 @@
     },
     {
       "album": {
+        "name": "Destinasi",
+        "url": "https://open.spotify.com/album/2V7KL0bSN13EPSkgiRtUAq"
+      },
+      "artists": [
+        {
+          "name": "Firdaus Rahmat",
+          "url": "https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184708,
+      "name": "Destinasi",
+      "url": "https://open.spotify.com/track/1dVZp1nXK61PFsTSlgsk8p"
+    },
+    {
+      "album": {
         "name": "DETOX",
         "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
       },
@@ -19102,7 +19120,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 158019,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd"
@@ -30978,7 +30996,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 164851,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
@@ -35642,7 +35660,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 252496,
       "name": "\u5fc3\u4e2d\u90a3\u4f4d\u4f4f\u5ba2",
       "url": "https://open.spotify.com/track/6hgwn1nNPk8E8tEeoa6nwU"

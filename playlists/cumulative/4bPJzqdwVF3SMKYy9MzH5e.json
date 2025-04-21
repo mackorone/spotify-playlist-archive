@@ -33567,6 +33567,24 @@
     },
     {
       "album": {
+        "name": "Super",
+        "url": "https://open.spotify.com/album/4tPyjMTlhXtroKXgm67zT0"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103520,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/1rSf5hRY0WREuRfiDLETqZ"
+    },
+    {
+      "album": {
         "name": "Pink Friday (Complete Edition)",
         "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
       },

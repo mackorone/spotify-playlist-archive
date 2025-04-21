@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 20 Apr 22:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 20 Apr 13:04 UTC.
 
-4,573 songs - 10 day 13 hr 47 min
+4,574 songs - 10 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1966,7 +1966,7 @@
 | [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 | 2025-03-21 | 2025-04-02 |
 | [I'm Actually a Puddle](https://open.spotify.com/track/373Cexu21XAdznabxrNhpK) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [I'm Actually a Puddle](https://open.spotify.com/album/0nT2iY6Hi6RyQmDbUcYZMG) | 1:55 | 2024-05-28 | 2024-06-01 |
 | [i'm broken](https://open.spotify.com/track/02XrPzjCjFSY7JHcr0CYfz) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [i'm broken](https://open.spotify.com/album/4utd1b21BTalR8eHvsfBPL) | 2:34 | 2024-07-30 | 2024-08-02 |
-| [i'm going CRAZY](https://open.spotify.com/track/39A4WUPw6U4IekWFLPsa9T) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [i'm going CRAZY](https://open.spotify.com/album/5YXz9BvsNY3WI7jKeOf0Rn) | 7:55 | 2025-04-09 |  |
+| [i'm going CRAZY](https://open.spotify.com/track/39A4WUPw6U4IekWFLPsa9T) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [i'm going CRAZY](https://open.spotify.com/album/5YXz9BvsNY3WI7jKeOf0Rn) | 7:55 | 2025-04-09 | 2025-04-21 |
 | [I'm Gonna Love You](https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I'm Gonna Love You](https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9) | 3:08 | 2024-09-27 | 2024-10-02 |
 | [i'm just tryna dance.](https://open.spotify.com/track/6UEmq3IdeRNP8ZRRyx55NB) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [i'm just tryna dance.](https://open.spotify.com/album/0Lfq79Fmk06anNkLWlAPRR) | 2:21 | 2024-05-27 | 2024-06-01 |
 | [I'm Not Getting Better](https://open.spotify.com/track/5ZOh8soFtf3Fye1n8Vu6JE) | [Marianas Trench](https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR) | [I'm Not Getting Better](https://open.spotify.com/album/0phWDxh2m6HV3ThEuxTgmg) | 2:49 | 2024-07-12 | 2024-07-14 |
@@ -2811,6 +2811,7 @@
 | [Not Just Yet](https://open.spotify.com/track/448YCEFNaiIAoAH4r4Rc0O) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Not Just Yet](https://open.spotify.com/album/4IXs7xwoAWybrQiinwE0Hm) | 2:01 | 2024-07-23 | 2024-07-27 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-05 | 2024-05-09 |
 | [Not Linear](https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Not Linear](https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA) | 4:28 | 2024-08-26 | 2024-08-30 |
+| [Not Regular](https://open.spotify.com/track/7nrB7FTJ9TjWXrGXgF9XpG) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Not Regular](https://open.spotify.com/album/1xbqROaZYQX11Y9w4R0DGF) | 2:12 | 2025-04-20 |  |
 | [Not What You Think](https://open.spotify.com/track/3EPWQOyuyCBi23OpIL6NDt) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Not What You Think](https://open.spotify.com/album/2XBOWKsjWM9TF3d19mzGzq) | 3:30 | 2025-01-28 | 2025-02-03 |
 | [Not You](https://open.spotify.com/track/7tmVdRsFuKhJJ9cNgOUAdY) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Not You](https://open.spotify.com/album/14B3wqQbe2YsbCn43EDI44) | 2:43 | 2024-10-04 | 2024-10-10 |
 | [Not Your Angel](https://open.spotify.com/track/6mZm8UsXesXTWZNPF3QKxq) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Not Your Angel](https://open.spotify.com/album/3tmyrJbOloJPuuvtvIh51X) | 2:59 | 2024-06-11 | 2024-06-13 |

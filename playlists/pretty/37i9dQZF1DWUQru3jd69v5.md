@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Gheba in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,621 likes - 65 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,605 likes - 65 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 36 | [Non È Normale \(feat Yele\)](https://open.spotify.com/track/536RGaYKYdbV69tB8TzbLz) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx), [Yele](https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z) | [Non È Normale \(feat Yele\)](https://open.spotify.com/album/2pWvggcUEnolHTjjO9KG7I) | 3:20 |
 | 37 | [Trapper & Rapper](https://open.spotify.com/track/2FYynCmjKInS16KCs85ayt) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [Trapper & Rapper](https://open.spotify.com/album/7B3HrpD6NaTbRGwmO7xu4H) | 2:37 |
 | 38 | [MERIDIONALI](https://open.spotify.com/track/5fESZCkz1LEUuVuyYz4TU0) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [MERIDIONALI](https://open.spotify.com/album/4v2CwBSnTUnQtrhxRwAlhJ) | 2:07 |
-| 39 | [100 Lame \(feat\. IRBIS & Kuremino\)](https://open.spotify.com/track/16xMWS0vYA9P4AhtOZ5Eey) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [100 Lame \(feat\. IRBIS & Kuremino\)](https://open.spotify.com/album/61kteOeKgMaU7qTNfJ5uvY) | 2:33 |
+| 39 | [100 LAME \(feat\. IRBIS & Kuremino\)](https://open.spotify.com/track/16xMWS0vYA9P4AhtOZ5Eey) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [100 LAME \(feat\. IRBIS & Kuremino\)](https://open.spotify.com/album/61kteOeKgMaU7qTNfJ5uvY) | 2:33 |
 | 40 | [Bene Io Sto](https://open.spotify.com/track/3gCNd6e8klBCGLnIyi9MzK) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [ENERGY](https://open.spotify.com/album/4VtY5JnbEozEneOfKm3iOb) | 2:51 |
 | 41 | [Je t'aime](https://open.spotify.com/track/09JEEHKU0EAfb5ZoMa28i3) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Je t'aime](https://open.spotify.com/album/48mhjA29VmWO7bRCXUMvYq) | 2:31 |
 | 42 | [SAME](https://open.spotify.com/track/6YUjlVq35iuRxJHdE6kJam) | [Razer.Rah](https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [SAME](https://open.spotify.com/album/1PeUL3gAq7vQ2YbzSjmr0j) | 2:16 |

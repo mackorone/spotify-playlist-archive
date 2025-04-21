@@ -4,7 +4,7 @@
 
 > Where faith meets R&B\. Cover: V\. Rose
 
-660 songs - 1 day 13 hr 53 min
+661 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Rolling Stone](https://open.spotify.com/track/2DHzmQa57F3K6hYzBFtUdB) | [Damon Elbert](https://open.spotify.com/artist/2WXYTbQLAhC8jhJLsw5nIi) | [Rolling Stone](https://open.spotify.com/album/1VurqgycIlTJbZ9MOXfI66) | 3:00 | 2025-01-17 |  |
 | [Rome](https://open.spotify.com/track/1FJnHjvl8AOZyHpXWzMCfA) | [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn) | [Rome](https://open.spotify.com/album/290mHkt1I4zqbxwheKMIxA) | 3:09 | 2025-03-14 |  |
 | [Run On](https://open.spotify.com/track/2dFwwb7q8lfR4cJR4K2weJ) | [JoJo Martin](https://open.spotify.com/artist/7gyT3c9PhZWtGgJ43adxKU) | [Temporary Tears](https://open.spotify.com/album/3kZxVbCo3dEXwWyifG4Vhh) | 4:27 | 2022-07-17 | 2023-07-17 |
+| [S.I.T.L.](https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:58 | 2025-04-18 |  |
 | [Safe Place](https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD) | [Pauline Zoe Park](https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T) | [Safe Place](https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx) | 3:31 | 2023-01-20 | 2023-11-01 |
 | [Said & Done](https://open.spotify.com/track/3rftkfE7FlGjsJkrexzLTu) | [Jackie Legere](https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA) | [Said & Done](https://open.spotify.com/album/72OxEannUP1Tw88FizcNc8) | 2:26 | 2025-02-22 | 2025-04-05 |
 | [Satisfy](https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg) | [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Satisfy](https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr) | 3:04 | 2023-01-20 | 2024-06-22 |

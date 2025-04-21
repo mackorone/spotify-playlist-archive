@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Kane Rodriguez & Adrian L Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,541 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,557 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 6 | [Vago](https://open.spotify.com/track/3lG6xBKhIARGRqgw4gphIW) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Vago](https://open.spotify.com/album/3vw55Ga5uKEFjzYjczfjws) | 2:41 |
 | 7 | [Che Vato](https://open.spotify.com/track/3FqGt2Rxs72TodiIzOMIvP) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Che Vato](https://open.spotify.com/album/66obkKkZwvxyy3Jq81kOOX) | 2:32 |
 | 8 | [PADRE NUESTRO](https://open.spotify.com/track/5o0f5uZc3DXthzA3sDstV4) | [Capotes](https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev) | [PADRE NUESTRO](https://open.spotify.com/album/3qKe4iawLVrUWgq30LF7Dy) | 3:06 |
-| 9 | [Sirena](https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Sirena](https://open.spotify.com/album/05rTIYsjywlMLjG5sk6h2H) | 3:36 |
+| 9 | [sirena](https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [sirena](https://open.spotify.com/album/05rTIYsjywlMLjG5sk6h2H) | 3:36 |
 | 10 | [Llamo y Llamo](https://open.spotify.com/track/3Lnf5FmbOsiLAAinnU72iY) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq), [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I), [Davizzy](https://open.spotify.com/artist/5V9QrCyPr3luZ5OidBJwpd) | [Dinero, Poder y Mujeres](https://open.spotify.com/album/70Uut90pqlmsDiho68CDTI) | 3:28 |
 | 11 | [LO BUENO](https://open.spotify.com/track/19PeyswSzQhH9k97HHAnoq) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [GAD](https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0) | 2:34 |
 | 12 | [Lo Siento ;\(](https://open.spotify.com/track/1PzAPZMDfXrW42smS71IUI) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Lo Siento ;\(](https://open.spotify.com/album/0cOnmFObWUorsJjrtdnXtD) | 2:52 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 42 | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7) | 2:54 |
 | 43 | [Ranchero](https://open.spotify.com/track/6i2IDQkO9VeLtDsZxjm3vl) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Ranchero](https://open.spotify.com/album/2jnkhpZGj7tnkiMeXLlj8Q) | 2:54 |
 | 44 | [MORRO MAÑOSO](https://open.spotify.com/track/2tNSQeKEVtrsMhRYixazni) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [MORRO MAÑOSO](https://open.spotify.com/album/2XuDTR0qbeS2GgbypCY2Pp) | 2:47 |
-| 45 | [Chocolate](https://open.spotify.com/track/79iH0QxZ4NVlWLH0pDPnIU) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Chocolate](https://open.spotify.com/album/3kBSyGYB1vYb27M0scvgVL) | 3:03 |
+| 45 | [chocolate](https://open.spotify.com/track/79iH0QxZ4NVlWLH0pDPnIU) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [chocolate](https://open.spotify.com/album/3kBSyGYB1vYb27M0scvgVL) | 3:03 |
 | 46 | [Para Ser Sincero](https://open.spotify.com/track/3vRunC5olGPKJ0eCaOjfub) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Para Ser Sincero](https://open.spotify.com/album/3wXAgJyolPbsFues6JCA04) | 2:56 |
 | 47 | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/track/4s1zaDDDsJtpV975lTE53j) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/album/5jQT5UY5yJTHqYkkEkpuV3) | 2:51 |
 | 48 | [Cruda Moral](https://open.spotify.com/track/7wQbIuItdaE8kUfMIbb7zL) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Cruda Moral](https://open.spotify.com/album/1HIvvTrMhtebUi8TpqKq6J) | 3:07 |

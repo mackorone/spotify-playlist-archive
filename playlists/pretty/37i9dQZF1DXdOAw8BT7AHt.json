@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: YHWH Nailgun",
-  "num_followers": 469805,
+  "num_followers": 469811,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "stone cold summer",
-        "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 167829,
-      "name": "stone cold summer",
-      "url": "https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "End Eric Sparrow and the Life of Him",
         "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 169000,
       "name": "End Eric Sparrow and the Life of Him",
       "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "stone cold summer",
+        "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 167829,
+      "name": "stone cold summer",
+      "url": "https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -283,6 +283,26 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
+        "name": "The Crucible Of Life",
+        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        },
+        {
+          "name": "Intervals",
+          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
+        }
+      ],
+      "duration_ms": 159414,
+      "name": "Love & Co.",
+      "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
         "name": "Keep Planting Flowers",
         "url": "https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 196394,
       "name": "Junebug",
       "url": "https://open.spotify.com/track/1WyzPXw5x8wdEssO2cS0aW"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
-        "name": "The Crucible Of Life",
-        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        },
-        {
-          "name": "Intervals",
-          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
-        }
-      ],
-      "duration_ms": 159414,
-      "name": "Love & Co.",
-      "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 222317,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "State Champs",
         "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Not Hell, Not Heaven",
-        "url": "https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU"
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
       },
       "artists": [
         {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 181027,
-      "name": "Not Hell, Not Heaven",
-      "url": "https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2"
+      "duration_ms": 222317,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -491,6 +475,22 @@
       "duration_ms": 201710,
       "name": "diamonds on your dagger",
       "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "Not Hell, Not Heaven",
+        "url": "https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 181027,
+      "name": "Not Hell, Not Heaven",
+      "url": "https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -531,6 +531,26 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
+        "name": "State Champs",
+        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        },
+        {
+          "name": "Slope",
+          "url": "https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR"
+        }
+      ],
+      "duration_ms": 199811,
+      "name": "Save Face Story",
+      "url": "https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
         "name": "HEAVY JELLY",
         "url": "https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 186679,
       "name": "Pretty Good To Feel Something",
       "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
-        "name": "State Champs",
-        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        },
-        {
-          "name": "Slope",
-          "url": "https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR"
-        }
-      ],
-      "duration_ms": 199811,
-      "name": "Save Face Story",
-      "url": "https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "B.A.B.E.",
-        "url": "https://open.spotify.com/album/2WprxFWcKDodLgXosRikiw"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 153209,
-      "name": "B.A.B.E.",
-      "url": "https://open.spotify.com/track/7ES8BGLLkl2VsklzKX7d7Z"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "Violet",
         "url": "https://open.spotify.com/album/2akaIK1XrP5jJ15AsSrjWz"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 260946,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/43wNqEJvEkdWVgNQmOnLiB"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "B.A.B.E.",
+        "url": "https://open.spotify.com/album/2WprxFWcKDodLgXosRikiw"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 153209,
+      "name": "B.A.B.E.",
+      "url": "https://open.spotify.com/track/7ES8BGLLkl2VsklzKX7d7Z"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
         "name": "An Artist Is An Artist",
         "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB"
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
       },
       "artists": [
         {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
         }
       ],
-      "duration_ms": 145893,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"
+      "duration_ms": 108650,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -819,22 +835,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Hypocrite",
-        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Hypocrite",
-      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "The New Chaos",
         "url": "https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 117263,
       "name": "Jinx",
       "url": "https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
-        "name": "Trembling Level",
-        "url": "https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4"
-      },
-      "artists": [
-        {
-          "name": "Poison The Well",
-          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
-        }
-      ],
-      "duration_ms": 157946,
-      "name": "Trembling Level",
-      "url": "https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -883,18 +867,18 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "My Apologies To The Chef",
-        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+        "name": "Trembling Level",
+        "url": "https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
         }
       ],
-      "duration_ms": 162851,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv"
+      "duration_ms": 157946,
+      "name": "Trembling Level",
+      "url": "https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -927,6 +911,22 @@
       "duration_ms": 199866,
       "name": "GROWING UP ON THE INTERNET",
       "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "My Apologies To The Chef",
+        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 162851,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/3yxFYvrL7kjSNNqOsU4zzD"
-      },
-      "artists": [
-        {
-          "name": "Preoccupations",
-          "url": "https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3"
-        }
-      ],
-      "duration_ms": 212813,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/2r9cwV8mYpm2JRm8WBppDN"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "Bite Me",
         "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 127185,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/3yxFYvrL7kjSNNqOsU4zzD"
+      },
+      "artists": [
+        {
+          "name": "Preoccupations",
+          "url": "https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3"
+        }
+      ],
+      "duration_ms": 212813,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/2r9cwV8mYpm2JRm8WBppDN"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "Sink Or Swim",
         "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 192080,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "20 Something",
-        "url": "https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "20 Something",
-      "url": "https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "ONE NATION",
         "url": "https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 194833,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "20 Something",
+        "url": "https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "20 Something",
+      "url": "https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Feel It All",
-        "url": "https://open.spotify.com/album/0YGPrCcQsv5ZIH7PTVInM9"
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
       },
       "artists": [
         {
-          "name": "Alex Melton",
-          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
         }
       ],
-      "duration_ms": 163104,
-      "name": "Feel It All",
-      "url": "https://open.spotify.com/track/4kZtyasvGfawNuUDFKkRGL"
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
     }
   ],
   "unique_name": "Today's Punk",

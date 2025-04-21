@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-136 songs - 6 hr 10 min
+137 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Come On](https://open.spotify.com/track/4waBLhyDuZaTBpbZZCJzNm) | [EST DonWon](https://open.spotify.com/artist/0gGnzjMxj0SABNG2Zhgekd), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Come On](https://open.spotify.com/album/3di9y03sPi3y6Z5hq7M9wF) | 2:41 | 2023-11-10 | 2023-12-14 |
 | [Crash](https://open.spotify.com/track/2GKX005I57lLXkxuhp6vn0) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 3:19 | 2025-02-02 | 2025-02-05 |
 | [Death Around The Corner \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:43 | 2022-10-28 | 2025-02-02 |
+| [DEATH BEFORE DISHONOR](https://open.spotify.com/track/4DR2F9HEucYO4Z6XJC0I67) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [INTRUSIVE THOUGHTS](https://open.spotify.com/album/0tjWYspyQvDrgVk4ExxCKX) | 3:12 | 2025-04-21 |  |
 | [Did It Again](https://open.spotify.com/track/4Z2oORKlQdMBpI3syl8iZl) | [TRTrizzy](https://open.spotify.com/artist/2CXGDRh4MYWK9NPff9nCMy), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Did It Again](https://open.spotify.com/album/5PT0DdEwow8sctBE5EVz3O) | 3:04 | 2024-02-17 | 2024-04-12 |
 | [Dirt McGerk \(feat\. EST Gee & Lil Crix\)](https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 3:53 | 2023-05-27 |  |
 | [Do My Own Stunts](https://open.spotify.com/track/0j2WIceULTVtQV4iqlq33W) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:30 | 2025-02-02 | 2025-02-07 |
@@ -136,7 +137,7 @@
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-10-28 |  |
 | [TOAST](https://open.spotify.com/track/5PkN8WUr8NIivKX6uNo61r) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 3:30 | 2023-08-25 | 2023-09-19 |
 | [Trust Nun \(feat\. EST Gee\)](https://open.spotify.com/track/0D77ULkdHxpfbu0NsDLeRL) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Gas God](https://open.spotify.com/album/2Bz7FAQGKk464rBl9oxaVj) | 2:22 | 2022-10-28 | 2023-05-28 |
-| [TURN THE STREETS UP](https://open.spotify.com/track/0A5fRjPHOLznxrx7dVEpx5) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 | 2023-09-15 |  |
+| [TURN THE STREETS UP](https://open.spotify.com/track/0A5fRjPHOLznxrx7dVEpx5) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 | 2023-09-15 | 2025-04-21 |
 | [TURN THE STREETS UP](https://open.spotify.com/track/3irk5ecKiBYSIB0350rH87) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Turn The Streets Up](https://open.spotify.com/album/4aCmTJ5xk0O2aVNvciRkoR) | 2:42 | 2023-06-23 | 2023-09-10 |
 | [Turn The Streets Up](https://open.spotify.com/track/7gf04Ez0ffBu5avR2IwK9N) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Turn The Streets Up](https://open.spotify.com/album/0rqgVUSQyjEG0H5WJ89liZ) | 2:42 | 2023-05-27 | 2023-06-24 |
 | [TUSCAN PERFUME](https://open.spotify.com/track/2mTk9JIi6gx5Oj4czCqbEu) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 3:45 | 2023-08-21 | 2023-09-16 |

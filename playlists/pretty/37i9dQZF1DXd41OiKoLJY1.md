@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Chelly Lim Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,412 likes - 106 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,429 likes - 106 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

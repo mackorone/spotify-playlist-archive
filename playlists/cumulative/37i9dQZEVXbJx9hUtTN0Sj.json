@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 155189,
       "name": "Charger",
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
@@ -12228,7 +12228,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 199312,
       "name": "Hoor Je Mij",
       "url": "https://open.spotify.com/track/5Tq1M5F1nV66RDh5Q1dD3q"
@@ -21831,6 +21831,24 @@
     },
     {
       "album": {
+        "name": "pick your poison",
+        "url": "https://open.spotify.com/album/0cSIimDWrJAEaLrbIF5fhX"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137100,
+      "name": "pick your poison",
+      "url": "https://open.spotify.com/track/5LqLqxvXlLO4X5dyF5PdXL"
+    },
+    {
+      "album": {
         "name": "Piece of My Heart (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
       },
@@ -25004,7 +25022,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 271400,
       "name": "Sosa",
       "url": "https://open.spotify.com/track/39s9RAR6L1BKtqmnyrH815"

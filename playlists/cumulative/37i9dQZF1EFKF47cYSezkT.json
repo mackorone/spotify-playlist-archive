@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U"
+      },
+      "artists": [
+        {
+          "name": "Pascal Letoublon",
+          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197005,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl"
+    },
+    {
+      "album": {
         "name": "Where It Goes from Here",
         "url": "https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt"
       },

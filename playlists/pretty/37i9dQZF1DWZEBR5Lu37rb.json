@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 90513,
+  "num_followers": 90637,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Emakhaya",
+        "url": "https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU"
+      },
+      "artists": [
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Emakhaya",
+      "url": "https://open.spotify.com/track/4eLFAxZWiV4Mfp8mpzdrdT"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 247333,
       "name": "True Love (feat. Tay Iwar & Projexx)",
       "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Emakhaya",
-        "url": "https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU"
-      },
-      "artists": [
-        {
-          "name": "Mlindo The Vocalist",
-          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Emakhaya",
-      "url": "https://open.spotify.com/track/4eLFAxZWiV4Mfp8mpzdrdT"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 227460,
-      "name": "Let Me Love You Now",
-      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
         "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 444474,
       "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 227460,
+      "name": "Let Me Love You Now",
+      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "Sunday Blues",
-        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
-      },
-      "artists": [
-        {
-          "name": "Langa Mavuso",
-          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
-        }
-      ],
-      "duration_ms": 225382,
-      "name": "Sunday Blues",
-      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
         "name": "Buyelekhaya",
         "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 234000,
       "name": "Hawataweza",
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
+        "name": "Sunday Blues",
+        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
+      },
+      "artists": [
+        {
+          "name": "Langa Mavuso",
+          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
+        }
+      ],
+      "duration_ms": 225382,
+      "name": "Sunday Blues",
+      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Barua ya Dunia",
+        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
+      },
+      "artists": [
+        {
+          "name": "Elani",
+          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "Kookoo",
+      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ"
       },
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "Barua ya Dunia",
-        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
+        "name": "Wahu Classics",
+        "url": "https://open.spotify.com/album/0cu2ZwMtnug5JX2hIFpJY2"
       },
       "artists": [
         {
-          "name": "Elani",
-          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
+          "name": "Wahu",
+          "url": "https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq"
         }
       ],
-      "duration_ms": 254986,
-      "name": "Kookoo",
-      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
+      "duration_ms": 260838,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/73EVyhT9Wq0diDaasJi9yu"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -1715,22 +1731,6 @@
       "duration_ms": 191893,
       "name": "Number One",
       "url": "https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Wahu Classics",
-        "url": "https://open.spotify.com/album/0cu2ZwMtnug5JX2hIFpJY2"
-      },
-      "artists": [
-        {
-          "name": "Wahu",
-          "url": "https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq"
-        }
-      ],
-      "duration_ms": 260838,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/73EVyhT9Wq0diDaasJi9yu"
     },
     {
       "added_at": "2025-04-17 07:46:17",

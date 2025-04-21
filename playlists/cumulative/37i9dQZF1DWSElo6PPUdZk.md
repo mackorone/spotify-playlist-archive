@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda sharma
 
-196 songs - 10 hr 3 min
+197 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Gerhe](https://open.spotify.com/track/32vevf8YHQp6YXsX3gcXTd) | [Harmanpreet Kaur](https://open.spotify.com/artist/514AvNhszo9vWHoG732hEG) | [Gerhe](https://open.spotify.com/album/0yN3IYKGYq5kJPlvh7UTla) | 3:14 | 2024-10-08 | 2024-12-04 |
 | [Ghori](https://open.spotify.com/track/2NNBsoC80svL6FU8mIhn82) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Mahi Da Viyah](https://open.spotify.com/album/799pGvv7ev2JMIMMy8GJCR) | 4:31 | 2023-03-18 | 2023-04-20 |
 | [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 | 2024-09-28 |  |
-| [Girl Anthem](https://open.spotify.com/track/5Achtd7j1uSUvJlIPHIL8q) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Girl Anthem](https://open.spotify.com/album/69Jud0DQ8GwV4C3zokKtYY) | 3:25 | 2025-03-03 |  |
+| [Girl Anthem](https://open.spotify.com/track/5Achtd7j1uSUvJlIPHIL8q) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Girl Anthem](https://open.spotify.com/album/69Jud0DQ8GwV4C3zokKtYY) | 3:25 | 2025-03-03 | 2025-04-21 |
 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 | 2023-04-19 | 2024-04-19 |
 | [Good Luck](https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Good Luck](https://open.spotify.com/album/5VzvS0APXNfXoYwUPZetPg) | 3:31 | 2024-01-30 | 2024-04-24 |
 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 | 2025-03-20 |  |
@@ -163,6 +163,7 @@
 | [Rooh](https://open.spotify.com/track/2HuoVplD1lLM8WYUVDd3gE) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Rooh](https://open.spotify.com/album/5obWYzYO5TQJkIoWBx4OHG) | 3:28 | 2023-03-18 | 2024-08-21 |
 | [Rool Ditta Ee](https://open.spotify.com/track/2tPM0OjAwMKMACNJeY4ThC) | [Asif Masood](https://open.spotify.com/artist/6zVaELKGjvE7kA3bCzTsBl), [Saba Riaz](https://open.spotify.com/artist/4zmPgXIIr38vLo5N2TRntN) | [Rool Ditta Ee](https://open.spotify.com/album/4D7XfY3vTeavXDxFndrvHS) | 3:14 | 2024-09-11 | 2024-11-27 |
 | [Routine](https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Kaptaan](https://open.spotify.com/artist/2czXapo5pWGIMCK0CVxxGl) | [Routine](https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn) | 3:23 | 2023-04-19 | 2024-12-04 |
+| [RUMAL](https://open.spotify.com/track/1HSgJzdRzYE0nPbR0PlEyt) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [BAHAAR, Vol\. 1](https://open.spotify.com/album/3xLDF5zlnOPjIV3KG0Krv4) | 2:21 | 2025-04-20 |  |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2023-03-18 | 2024-09-29 |
 | [Sajjan Chale Gaye](https://open.spotify.com/track/29RfARPUckT0h2VwaCG8jb) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Sajjan Chale Gaye](https://open.spotify.com/album/578cr7TmZADIGksSb46Omo) | 3:54 | 2024-11-21 |  |
 | [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 | 2024-09-21 |

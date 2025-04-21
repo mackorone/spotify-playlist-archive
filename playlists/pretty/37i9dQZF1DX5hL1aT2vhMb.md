@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Jess Gillam
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,539 likes - 102 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,548 likes - 102 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 | 2 | [Étude No\. 8: Through the Window](https://open.spotify.com/track/2sRohDA9RP8bgwzE5xXUJU) | [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Études Mélodiques](https://open.spotify.com/album/4KKe8rGFDtCL8Jy4tA7Dl5) | 5:40 |
 | 3 | [Beau soir, CD 84 \(Performed on Harp & Saxophone\)](https://open.spotify.com/track/2CKg3VJaUVY1gQvOgksoK5) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB) | [Long Nights and Starry Skies](https://open.spotify.com/album/6KsrPQ6TYATNYWeZZ5Ib9I) | 2:36 |
 | 4 | [Méditation from Thaïs](https://open.spotify.com/track/7pgJTa3eZM4kkT2vsZUmFt) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Daniel Harding](https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6) | [Szymanowski: Violin Concerto No.1](https://open.spotify.com/album/4Sjm2tyEUTP7wfhOFaf4C8) | 5:31 |
-| 5 | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/track/3PNbcJH2CPBvLnd6lF2g12) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz), [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/album/6TQ31OQSex24hz8PrE6vXB) | 2:22 |
+| 5 | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/track/3PNbcJH2CPBvLnd6lF2g12) | [Victor Young](https://open.spotify.com/artist/3r2p0PuFymMEnYS3n5t2KR), [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [When I Fall In Love \(Arr\. for Piano by Rosey Chan\)](https://open.spotify.com/album/6TQ31OQSex24hz8PrE6vXB) | 2:22 |
 | 6 | [Puccini: Vissi d'Arte \- Olivia Belli Rework](https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Puccini: Vissi d'Arte \(Olivia Belli Rework\)](https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x) | 3:09 |
 | 7 | [Nocturne No\. 14 in G Major, H\. 58](https://open.spotify.com/track/0R0Jt6AtWvquyxklC01fQu) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Field: Nocturne No\. 14 in G Major, H\. 58](https://open.spotify.com/album/25H8xWK0FbBVeq2RmSuxXn) | 2:33 |
 | 8 | [La fille aux cheveux de lin](https://open.spotify.com/track/2McoMylVClF4w6HQOUnFrD) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [La fille aux cheveux de lin](https://open.spotify.com/album/1ZjcrrdQb3pvhCAqWh62vy) | 2:39 |

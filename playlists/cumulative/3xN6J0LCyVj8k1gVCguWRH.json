@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 142022,
       "name": "AL SOL",
       "url": "https://open.spotify.com/track/5XFVj7wjZb3xScbceQIY2e"
@@ -5254,7 +5254,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 148544,
       "name": "Apareciste",
       "url": "https://open.spotify.com/track/7LfcgCGggRzAmG4YxSBEfc"
@@ -15686,7 +15686,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 262414,
       "name": "Color In The Leaves",
       "url": "https://open.spotify.com/track/3cKyqtV96znpw3vqzU7Gca"
@@ -48342,7 +48342,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 182733,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/5LrrFh7zmV4cEqavmdqReZ"
@@ -52360,7 +52360,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 331194,
       "name": "Moses' Mama",
       "url": "https://open.spotify.com/track/1U9Se5xHezUHYai6HwaWQ4"
@@ -58542,7 +58542,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 211720,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/3TI8ee7H3yFIkmuB9Z6jpw"
@@ -78080,7 +78080,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 215635,
       "name": "The Heart to Hurt Her",
       "url": "https://open.spotify.com/track/6FZdF6YZx0BIjyyHZqexCA"
@@ -87731,6 +87731,24 @@
     },
     {
       "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/5N5nqs7ZVFr9U58L6Vg7yw"
+      },
+      "artists": [
+        {
+          "name": "STYTES",
+          "url": "https://open.spotify.com/artist/16BEMUJZRO1PXnaospToJS"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235919,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/1kQkNaldGvxSMsKJdBeUbp"
+    },
+    {
+      "album": {
         "name": "White Bars",
         "url": "https://open.spotify.com/album/3S1qZ1VD73xD5JUeApqC3G"
       },
@@ -89544,7 +89562,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 186570,
       "name": "Year of the Snake",
       "url": "https://open.spotify.com/track/2Rmfz4WlSPbzy98kcwDifU"

@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 508438,
+  "num_followers": 508487,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "Selfish Machines",
+        "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 268480,
+      "name": "Caraphernelia",
+      "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
         "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
       },
@@ -111,18 +127,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Selfish Machines",
-        "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
       },
       "artists": [
         {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 268480,
-      "name": "Caraphernelia",
-      "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2"
+      "duration_ms": 202640,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -175,38 +191,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "I Brought You My Bullets, You Brought Me Your Love",
-        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 366560,
-      "name": "Demolition Lovers",
-      "url": "https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "What Separates Me From You",
-        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -219,22 +203,6 @@
       "duration_ms": 215146,
       "name": "Pretty Handsome Awkward",
       "url": "https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Tell All Your Friends (Remastered)",
-        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 181336,
-      "name": "You're So Last Summer - Remastered 2019",
-      "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -255,6 +223,38 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 366560,
+      "name": "Demolition Lovers",
+      "url": "https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 181336,
+      "name": "You're So Last Summer - Remastered 2019",
+      "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -271,38 +271,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "I Brought You My Bullets, You Brought Me Your Love",
-        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 231096,
-      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
-      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Dying Is Your Latest Fashion",
-        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Not Good Enough For Truth In Clich\u00e9",
-      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "In Keeping Secrets Of Silent Earth: 3",
         "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
       },
@@ -315,22 +283,6 @@
       "duration_ms": 234706,
       "name": "A Favor House Atlantic",
       "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -367,6 +319,38 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Dying Is Your Latest Fashion",
+        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Not Good Enough For Truth In Clich\u00e9",
+      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "Define The Great Line",
         "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "This War Is Ours (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 266733,
-      "name": "This War Is Ours (The Guillotine II)",
-      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
+      "duration_ms": 231096,
+      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -463,18 +447,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+        "name": "This War Is Ours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
       },
       "artists": [
         {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
         }
       ],
-      "duration_ms": 216293,
-      "name": "The Words \"Best Friend\" Become Redefined",
-      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
+      "duration_ms": 266733,
+      "name": "This War Is Ours (The Guillotine II)",
+      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -507,6 +491,22 @@
       "duration_ms": 205160,
       "name": "I Caught Fire",
       "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "The Words \"Best Friend\" Become Redefined",
+      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "A Box Full of Sharp Objects",
-      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Bone Palace Ballet: Grand Coda",
-        "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Bulls Make Money, Bears Make Money, Pigs Get Slaughtered",
-      "url": "https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y"
+      "duration_ms": 176373,
+      "name": "A Box Full of Sharp Objects",
+      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -683,6 +667,22 @@
       "duration_ms": 237840,
       "name": "The Thespian",
       "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Bone Palace Ballet: Grand Coda",
+        "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Bulls Make Money, Bears Make Money, Pigs Get Slaughtered",
+      "url": "https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Boiled Frogs",
+      "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "The City Sleeps in Flames",
         "url": "https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 227706,
       "name": "Ready To Fall",
       "url": "https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Boiled Frogs",
-      "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Scary Kids Scaring Kids",
-        "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
-      },
-      "artists": [
-        {
-          "name": "Scary Kids Scaring Kids",
-          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
-        }
-      ],
-      "duration_ms": 261240,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "The Second Stage Turbine Blade (Re-Issue)",
         "url": "https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 287866,
       "name": "Devil In Jersey City",
       "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Scary Kids Scaring Kids",
+        "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        }
+      ],
+      "duration_ms": 261240,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
-      },
-      "artists": [
-        {
-          "name": "The Fall of Troy",
-          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
-        }
-      ],
-      "duration_ms": 224346,
-      "name": "Mouths Like Sidewinder Missles",
-      "url": "https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "The Question",
         "url": "https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 210986,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
+      },
+      "artists": [
+        {
+          "name": "The Fall of Troy",
+          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
+        }
+      ],
+      "duration_ms": 224346,
+      "name": "Mouths Like Sidewinder Missles",
+      "url": "https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "All It Takes For Your Dreams To Come True",
+      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "From Them, Through Us, To You",
         "url": "https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 205480,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "All It Takes For Your Dreams To Come True",
-      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "We'rewolf",
-      "url": "https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -1291,22 +1275,6 @@
       "duration_ms": 224973,
       "name": "Mu Empire",
       "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Dream to Make Believe",
-        "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
-      },
-      "artists": [
-        {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Dream to Make Believe",
-      "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1327,18 +1295,34 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Orchestra Of Wolves (new version)",
-        "url": "https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx"
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
       "artists": [
         {
-          "name": "Gallows",
-          "url": "https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu"
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 161866,
-      "name": "In the Belly of a Shark",
-      "url": "https://open.spotify.com/track/0khj70h8pejNRukEhOn86O"
+      "duration_ms": 204720,
+      "name": "We'rewolf",
+      "url": "https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Dream to Make Believe",
+        "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
+      },
+      "artists": [
+        {
+          "name": "Armor For Sleep",
+          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Dream to Make Believe",
+      "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1355,6 +1339,22 @@
       "duration_ms": 300640,
       "name": "Apathy Is a Cold Body",
       "url": "https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Orchestra Of Wolves (new version)",
+        "url": "https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx"
+      },
+      "artists": [
+        {
+          "name": "Gallows",
+          "url": "https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "In the Belly of a Shark",
+      "url": "https://open.spotify.com/track/0khj70h8pejNRukEhOn86O"
     },
     {
       "added_at": "2024-10-03 21:26:43",

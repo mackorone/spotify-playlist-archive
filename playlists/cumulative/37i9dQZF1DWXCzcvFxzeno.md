@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-255 songs - 18 hr 52 min
+256 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 | 2025-02-19 |
 | [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 | 2024-10-04 |
 | [Profiler](https://open.spotify.com/track/2tjv041ykwK3QzDLE4AalM) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [R009](https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD) | 6:08 | 2024-04-09 | 2024-07-15 |
-| [Psycho](https://open.spotify.com/track/1dCZSwjr62Vdt5q8ixO1wz) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [Psycho](https://open.spotify.com/album/6ogh0yQyrZd8tmxSivz96F) | 4:40 | 2025-02-07 |  |
+| [Psycho](https://open.spotify.com/track/1dCZSwjr62Vdt5q8ixO1wz) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [Psycho](https://open.spotify.com/album/6ogh0yQyrZd8tmxSivz96F) | 4:40 | 2025-02-07 | 2025-04-21 |
 | [Psychotic Mind](https://open.spotify.com/track/6O3Aqqdc4IaSGwNWIfV8bN) | [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Psychotic Mind](https://open.spotify.com/album/2RqwbCQR1obP0cIQTkcbRW) | 5:15 | 2024-04-09 | 2024-06-17 |
 | [Pulse](https://open.spotify.com/track/5IWZWLUlFAKT2NJBwnN7NO) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Pulse](https://open.spotify.com/album/4tm7JzxqqnqzzjDwvf0jAj) | 1:59 | 2024-11-29 | 2025-02-28 |
 | [Purple Widow](https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Purple Widow \(Original & Remix Versions\)](https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At) | 6:21 | 2024-04-09 |  |
@@ -219,6 +219,7 @@
 | [Swords](https://open.spotify.com/track/3kZTkTa0skVIvp1UCRVEmK) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Swords EP](https://open.spotify.com/album/7DuE1pxDycYqwqQz3kbE9s) | 6:33 | 2024-04-09 | 2024-05-28 |
 | [Synthetic Dreams \- Anetha Remix](https://open.spotify.com/track/5dDOtrnF2JQrr4yrD5SRdV) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Synthetic Dreams \(Anetha Remix\)](https://open.spotify.com/album/5KV09u5f8tmoFLauTBtyx6) | 6:23 | 2024-04-09 | 2024-04-19 |
 | [Tamara](https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tamara](https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD) | 3:26 | 2024-08-13 | 2024-11-29 |
+| [Techno Dream](https://open.spotify.com/track/7At9gHq8Gi66Cch4nnBipm) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [David White](https://open.spotify.com/artist/4sQ7XS59ZQebv14J404ZSn) | [Techno Dream](https://open.spotify.com/album/1PvjVmVZFQqFsiS1RGkMVU) | 1:56 | 2025-04-18 |  |
 | [TECHNO DRUG](https://open.spotify.com/track/4eTcsnhvSpCqraE0OQRr5T) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX) | [TECHNO DRUG](https://open.spotify.com/album/1mvWzA7i1nh4wllD9ZKcGB) | 2:54 | 2025-04-18 |  |
 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 | 2024-08-05 |  |
 | [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 | 2024-04-09 |  |

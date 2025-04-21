@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/08cA6Tv3pBYlwbJjUpFnn1"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161544,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/2YfSEfmGirtcp6C6ZcLelL"
+    },
+    {
+      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },

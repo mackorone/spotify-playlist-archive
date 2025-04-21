@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 365673,
+  "num_followers": 365691,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGWAAAAAABK6dwiwELrTsw7hsHbp024",
+  "snapshot_id": "aALngAAAAABZJ1u0HApqqMgY3+/qjyOk",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond Us",
-        "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
-      },
-      "artists": [
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 225240,
       "name": "Power to Redeem (feat. All Sons & Daughters)",
       "url": "https://open.spotify.com/track/5TpThpilfTOSkbCTXkhGsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond Us",
+        "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
     },
     {
       "added_at": null,

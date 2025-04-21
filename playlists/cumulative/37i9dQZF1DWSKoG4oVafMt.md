@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,057 songs - 2 day 9 hr 2 min
+1,058 songs - 2 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Garam Taseer](https://open.spotify.com/track/4yVKgKagOZiLmOcyk16O1b) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Garam Taseer](https://open.spotify.com/album/0kOeacJvdJGV1yFxLQo28E) | 3:04 | 2024-11-21 | 2025-04-08 |
 | [Geet Lagdai](https://open.spotify.com/track/4iQOHCJsh7uYgq52NCpO3T) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:59 | 2023-01-16 | 2023-02-04 |
 | [Gehri Akh](https://open.spotify.com/track/0pqTSGAe2FtV7mMAg3zVFX) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 3:39 | 2022-07-18 | 2022-08-18 |
-| [Ghutt Ghutt](https://open.spotify.com/track/6Pli0rn0Z3Z11mQo6FIHGW) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Ghutt Ghutt](https://open.spotify.com/album/2fniIfHjJ8WjJ29Wr1D0lM) | 3:34 | 2025-04-14 |  |
+| [Ghutt Ghutt](https://open.spotify.com/track/6Pli0rn0Z3Z11mQo6FIHGW) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Ghutt Ghutt](https://open.spotify.com/album/2fniIfHjJ8WjJ29Wr1D0lM) | 3:34 | 2025-04-14 | 2025-04-21 |
 | [God's Art](https://open.spotify.com/track/1plZ5d6vaJZJKgX1ynCAJk) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [God's Art](https://open.spotify.com/album/7CylNHjNTHdcBcOzZu8dpT) | 3:45 | 2023-04-13 | 2023-05-06 |
 | [GODSPEED](https://open.spotify.com/track/7d4ZrG3Cer7jbqIl6wOI6D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY) | [GODSPEED](https://open.spotify.com/album/7JCjmMD0sZ2kk1oXdh83z0) | 2:07 | 2022-07-13 | 2023-02-02 |
 | [Goriye](https://open.spotify.com/track/73xwtIVQno0EEoiiFpbjG4) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Goriye](https://open.spotify.com/album/0be9lG0TVPkMnTupK6YGvF) | 2:44 | 2022-03-11 | 2022-04-06 |
@@ -774,6 +774,7 @@
 | [Reh Ni Hunda](https://open.spotify.com/track/2kKt7xkWtHAOAPKtim6eQG) | [Harish Verma](https://open.spotify.com/artist/6JfYDFQWMlAMizvlVIMdFX) | [Reh Ni Hunda](https://open.spotify.com/album/2fmtzmBdtOzhTppeg2ruQs) | 3:24 | 2022-05-20 | 2022-07-06 |
 | [Rehle Mere Kol](https://open.spotify.com/track/4yS0ItJus3N0C0ijvNAvHl) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Rehle Mere Kol](https://open.spotify.com/album/4Vg5sPyw8xzeuOhc745A42) | 2:34 | 2025-01-27 |  |
 | [Rehn De](https://open.spotify.com/track/4tefrWaeysumoEvGz23J56) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [Rehn De](https://open.spotify.com/album/3U8XVnnURgv0k84qJIMcE4) | 2:43 | 2024-08-02 | 2024-08-21 |
+| [Reshami Rumal](https://open.spotify.com/track/1hl4SS4AirxcDk7DAjFKQX) | [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Reshami Rumal](https://open.spotify.com/album/6BinEWb7r68vOm0Q69VYWw) | 2:52 | 2025-04-20 |  |
 | [Retirement](https://open.spotify.com/track/6PYte1lHTd5htEKOnoghqi) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8) | [Retirement](https://open.spotify.com/album/7o7hQLjlrtf6NaWvgvThgJ) | 2:37 | 2023-01-18 | 2023-01-28 |
 | [Right Left](https://open.spotify.com/track/3NRQrlGGoeTvCTrV7cpQq4) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Right Left](https://open.spotify.com/album/22Ldpb0mavJumq7gLpYKkK) | 3:05 | 2022-08-04 | 2022-08-18 |
 | [Robinhood \(feat\. Gurlej Akhtar\)](https://open.spotify.com/track/6bpNpYXmhH5KDk3AEW31sl) | [Param Sohal](https://open.spotify.com/artist/08AOEb2kUJ876OeRe3aaCb), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Robinhood \(feat\. Gurlej Akhtar\)](https://open.spotify.com/album/5b2Fyz0WEVUKCXQf2bNM50) | 2:51 | 2022-03-18 | 2022-04-06 |

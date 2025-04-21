@@ -6,8 +6,348 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGSgbrtZ+0dFX3gkiLiTA5aQXJQtsB",
+  "snapshot_id": "AAAGS9ClZl8kZOussLBs+vgQeLwjsYcl",
   "tracks": [
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Find a Way",
+        "url": "https://open.spotify.com/album/08S96gDKVPfwDFeLttFZpI"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2SH1fMTuhPQt49xeLXQ6xi"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "anxious attachment style (the remixes)",
+        "url": "https://open.spotify.com/album/4UZipESPjbbcGaKUTcLIxy"
+      },
+      "artists": [
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        },
+        {
+          "name": "Indigo Eyes",
+          "url": "https://open.spotify.com/artist/04qGSeuOlRDSyVYFblRy9O"
+        }
+      ],
+      "duration_ms": 149565,
+      "name": "ur face (Indigo Eyes Remix)",
+      "url": "https://open.spotify.com/track/73PdruuBTuutIFrvHcAM9N"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Disco Nap",
+        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Disco Nap",
+      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6QEnHZniqvybsckdyptQql"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 159562,
+      "name": "Endless Sky",
+      "url": "https://open.spotify.com/track/6yx9SdXE5O69efsGQqNiLp"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0wNVvymY4L9f69Qdm46mSp"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "just lil",
+          "url": "https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg"
+        }
+      ],
+      "duration_ms": 226956,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3EcoV6yM8sRBhU4panF0xH"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V"
+      },
+      "artists": [
+        {
+          "name": "Loaded Honey",
+          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
+        },
+        {
+          "name": "Lydia Kitto",
+          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
+        },
+        {
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Love Me Not",
+        "url": "https://open.spotify.com/album/0FYjV1mYKYhQqxrPSJWaLi"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/0geLfVS9vrNQhDPFJBqsL8"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Trust It",
+        "url": "https://open.spotify.com/album/4giAI1rzrdkPNFMeTL9sk0"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        }
+      ],
+      "duration_ms": 354306,
+      "name": "Thrill Me",
+      "url": "https://open.spotify.com/track/2unIXIeXCYSVte41IuRHTz"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/24mZt09H2PNWpE5ueKMxrC"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "duration_ms": 175948,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4c1ZQ1mgwfNZq68iU0Wpmu"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6OguGlQ0qqeNAOaggF4zDT"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 206222,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1RHsONwpXcquKICISbiJxB"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Ben Days",
+        "url": "https://open.spotify.com/album/4JSUbHlKDPlHJlu5CxWq8J"
+      },
+      "artists": [
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        }
+      ],
+      "duration_ms": 200446,
+      "name": "Ben Days",
+      "url": "https://open.spotify.com/track/67hs9rQxAVvq9mfyTOhPQj"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/6UEZTFHKOXfjK3stZnPbxE"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 174396,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/4jwKnYysiCv0yfPqFpzMHJ"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Jolene 04",
+        "url": "https://open.spotify.com/album/7GF1zxY9mBPYIcdlpGnQcj"
+      },
+      "artists": [
+        {
+          "name": "Mike Parton",
+          "url": "https://open.spotify.com/artist/5CZzcVFn6EmJztwJOlgq1r"
+        }
+      ],
+      "duration_ms": 208843,
+      "name": "Aspirateur - Radio Edit",
+      "url": "https://open.spotify.com/track/35o3w7Ji1XSL1VutkqbGB6"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/2AlOh1B9MA0sD65pWqV79n"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 241996,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/4dXVydA1uwkWnaVtH1IfgH"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Puede Ser",
+        "url": "https://open.spotify.com/album/0SqJ7F8YbjF5KfmxCavapf"
+      },
+      "artists": [
+        {
+          "name": "Ale Cominotti",
+          "url": "https://open.spotify.com/artist/6Q89YLgXwqogdZKgqfodSq"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Puede Ser",
+      "url": "https://open.spotify.com/track/4SPDloODs5jxbZ3Hrye1YS"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "riseatsunset (reworks)",
+        "url": "https://open.spotify.com/album/684UmlPbVItreGNmfh8Beg"
+      },
+      "artists": [
+        {
+          "name": "Krishna Canning",
+          "url": "https://open.spotify.com/artist/7cVhebR7qQnFcIUAD5D5Wv"
+        },
+        {
+          "name": "Slo Loris",
+          "url": "https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "sleepatsunrise",
+      "url": "https://open.spotify.com/track/3siWSjEeEj4NH62Jm1cBJk"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "VELVET TEXTS",
+        "url": "https://open.spotify.com/album/4688MKThaUrOXf4GR6FxCO"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 187245,
+      "name": "VELVET TEXTS",
+      "url": "https://open.spotify.com/track/3jHnLrn0Qx9kmJzhMhnj3G"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "KLUBPARTEI",
+        "url": "https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "HERZSCHLAG",
+      "url": "https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A"
+    },
+    {
+      "added_at": "2025-04-21 01:39:16",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "duration_ms": 164244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
     {
       "added_at": "2025-03-21 16:40:12",
       "album": {

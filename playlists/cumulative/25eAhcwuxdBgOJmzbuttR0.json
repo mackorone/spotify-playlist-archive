@@ -5123,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "VAMP",
+        "url": "https://open.spotify.com/album/4bk8MDVLQ78NVnVeAKpe6z"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "SHALLOW",
+      "url": "https://open.spotify.com/track/7hm7YOaz4CHZYAiYBDbf4m"
+    },
+    {
+      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },

@@ -4,7 +4,7 @@
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-91 songs - 6 hr 51 min
+92 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [FZND DNV](https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [FZND DNV](https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5) | 2:14 | 2024-12-14 |  |
 | [Hipnotiza](https://open.spotify.com/track/2uEYMeOQFrRqugiXB6zaCU) | [Chase](https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hipnotiza](https://open.spotify.com/album/3KZ2vF4yiS47f2lglqimsH) | 2:45 | 2025-01-25 | 2025-02-21 |
 | [Hora H](https://open.spotify.com/track/74GeiZ69xOZYej0IeKSLYv) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 2:16 | 2024-10-07 |  |
+| [Jogo da Vida](https://open.spotify.com/track/6jK8DJfC4wVPyfEc7SEgfe) | [Visão Records](https://open.spotify.com/artist/51jC7VpvzmZ6gN6LHrJNy5), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo da Vida](https://open.spotify.com/album/2ZcjMx3IEjStin63pGb7u2) | 2:00 | 2025-04-21 |  |
 | [Jogo de Sedução](https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo de Sedução](https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX) | 3:45 | 2024-02-01 |  |
 | [Loca](https://open.spotify.com/track/1b3wDo7ypEzQmeIMR3J8Pw) | [OTRAFITTA](https://open.spotify.com/artist/5eYHm8UnOR6NF08OotxOHt), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Loca](https://open.spotify.com/album/0JXnRI8z6vhJufZxooANoz) | 2:36 | 2024-02-24 | 2024-03-31 |
 | [LOVEZY](https://open.spotify.com/track/2BHlvOVDfPYSbgpTf1a4XY) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:42 | 2023-12-30 |  |
@@ -95,7 +96,7 @@
 | [TUDO É SOBRE MÚSICA](https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [TUDO É SOBRE MÚSICA](https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7) | 3:26 | 2023-12-30 |  |
 | [Vale Nada](https://open.spotify.com/track/6e9mevCxIfRq8KKJyhXQXd) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Vale Nada](https://open.spotify.com/album/1sFLaxyMYYFz7OY7zLvWUt) | 2:44 | 2024-01-01 | 2024-02-21 |
 | [Vamu](https://open.spotify.com/track/5IcjA42tUbyrM0P3GIVTQJ) | [A Banca 021](https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Raissa](https://open.spotify.com/artist/5aXydhORFva5JBIUtQwOTm) | [Vamu](https://open.spotify.com/album/3hVFOQiSDlm3Fr22iBH2vd) | 3:34 | 2025-03-22 | 2025-04-01 |
-| [VIP](https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VIP](https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv) | 2:10 | 2024-03-09 |  |
+| [VIP](https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VIP](https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv) | 2:10 | 2024-03-09 | 2025-04-21 |
 | [VÍBORA](https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK) | [funBABE](https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VÍBORA](https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU) | 3:25 | 2023-12-30 |  |
 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 | 2025-02-23 |  |
 | [Água de Bala](https://open.spotify.com/track/64cZXj1jmOOP8cEJhhtjPN) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DK Prod](https://open.spotify.com/artist/2kpBtHNUaSnGdessRqOzgq) | [Água de Bala](https://open.spotify.com/album/0C2qo8plNXXuVfb68WdqOP) | 2:24 | 2023-12-30 | 2025-03-03 |

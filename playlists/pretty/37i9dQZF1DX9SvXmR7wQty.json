@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: C\u0153ur De Pirate",
-  "num_followers": 44469,
+  "num_followers": 44470,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "Grand Soleil",
         "url": "https://open.spotify.com/album/7EBt9Vr2e0aHJcJNcgkrPC"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
         "name": "Saturday",
         "url": "https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "H\u00e9l\u00e9",
-        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "M\u00e9latonine",
-      "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
         "name": "Tout Pour L\u2019Equipe",
         "url": "https://open.spotify.com/album/0Dj5KIGp4cHUCS5rsoX0hU"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 180973,
       "name": "Tout Pour L'\u00e9quipe",
       "url": "https://open.spotify.com/track/2A6XI4w9IasxpX9tVGgcHs"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "H\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "M\u00e9latonine",
+      "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "B\u00eatise",
+        "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "B\u00eatise",
+      "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "Famille",
         "url": "https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "B\u00eatise",
-        "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
+        "name": "J'avoue",
+        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
         }
       ],
-      "duration_ms": 165253,
-      "name": "B\u00eatise",
-      "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
+      "duration_ms": 189241,
+      "name": "J'avoue",
+      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -587,22 +603,6 @@
       "duration_ms": 178632,
       "name": "Try Try Try - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "J'avoue",
-        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 189241,
-      "name": "J'avoue",
-      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -643,6 +643,42 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "Qu\u00e9 Miras Bobo",
+        "url": "https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 150806,
+      "name": "Qu\u00e9 Miras Bobo",
+      "url": "https://open.spotify.com/track/69V8EffxZePjssPL4h7x87"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "La Pluie",
+      "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf"
       },
@@ -659,22 +695,6 @@
       "duration_ms": 206194,
       "name": "PERFORMANTE",
       "url": "https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Qu\u00e9 Miras Bobo",
-        "url": "https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 150806,
-      "name": "Qu\u00e9 Miras Bobo",
-      "url": "https://open.spotify.com/track/69V8EffxZePjssPL4h7x87"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -707,26 +727,6 @@
       "duration_ms": 204120,
       "name": "Gentil Gar\u00e7on",
       "url": "https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "La Pluie",
-      "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "Sans surprise",
         "url": "https://open.spotify.com/album/3yWUYiNyDnOuEQp0rvNvNE"
       },
@@ -815,34 +831,30 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "Comme Ye",
-        "url": "https://open.spotify.com/album/1xyFYAejJRKhUdTk0lkUas"
+        "name": "N\u00e9s Pour Briller : Book II",
+        "url": "https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh"
       },
       "artists": [
         {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 153586,
-      "name": "Comme Ye",
-      "url": "https://open.spotify.com/track/64pEZyDpOpb3zOjryhvNSv"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Fum\u00e9e Blanche",
-        "url": "https://open.spotify.com/album/4LzlgK3TJqL8ivGKIsdUfN"
-      },
-      "artists": [
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
         {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+          "name": "D2",
+          "url": "https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         }
       ],
-      "duration_ms": 184342,
-      "name": "Fum\u00e9e Blanche",
-      "url": "https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe"
+      "duration_ms": 174653,
+      "name": "C'est Quoi Ton D\u00e9lire",
+      "url": "https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -863,22 +875,6 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
         "name": "Feel Good (Version Acoustique)",
         "url": "https://open.spotify.com/album/5t1ClJpWR3OqXO3hxG7oBz"
       },
@@ -891,6 +887,38 @@
       "duration_ms": 149896,
       "name": "Feel Good - Version Acoustique",
       "url": "https://open.spotify.com/track/2lmYsDvV8grxCcZ2FNi7Wt"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "Fum\u00e9e Blanche",
+        "url": "https://open.spotify.com/album/4LzlgK3TJqL8ivGKIsdUfN"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        }
+      ],
+      "duration_ms": 184342,
+      "name": "Fum\u00e9e Blanche",
+      "url": "https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "Comme Ye",
+        "url": "https://open.spotify.com/album/1xyFYAejJRKhUdTk0lkUas"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 153586,
+      "name": "Comme Ye",
+      "url": "https://open.spotify.com/track/64pEZyDpOpb3zOjryhvNSv"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -943,34 +971,6 @@
       "duration_ms": 167076,
       "name": "Camp Nou",
       "url": "https://open.spotify.com/track/1HjubnKBM5ZwjTBOTIv7KS"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "N\u00e9s Pour Briller : Book II",
-        "url": "https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "D2",
-          "url": "https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "C'est Quoi Ton D\u00e9lire",
-      "url": "https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

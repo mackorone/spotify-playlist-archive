@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Sorn x Whisnu Santika
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,041 likes - 106 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,053 likes - 106 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

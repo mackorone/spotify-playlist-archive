@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 146600,
       "name": "Andvaka",
       "url": "https://open.spotify.com/track/7qG2vQ0m5YmuyavrpMZM7Q"
@@ -22368,6 +22368,28 @@
     {
       "album": {
         "name": "J\u00e1 \u00e9g veit",
+        "url": "https://open.spotify.com/album/4StSlDE0kLjS47FhSuuzbf"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180343,
+      "name": "J\u00e1 \u00e9g veit",
+      "url": "https://open.spotify.com/track/3IgapLLSeD5XoX9hTruPhR"
+    },
+    {
+      "album": {
+        "name": "J\u00e1 \u00e9g veit",
         "url": "https://open.spotify.com/album/2Fb29nlOEQArr4lI89VN1I"
       },
       "artists": [
@@ -24872,7 +24894,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 198120,
       "name": "Lifa af",
       "url": "https://open.spotify.com/track/5cFYLpNErj9k9JjjZL8Vft"
@@ -38258,7 +38280,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 193916,
       "name": "Snj\u00f3a\u00f0 \u00ed sporin",
       "url": "https://open.spotify.com/track/4TSGjZ6ThX1xBnrlxjOz5R"
@@ -43424,7 +43446,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-17",
+      "date_removed": null,
       "duration_ms": 234166,
       "name": "Til \u00ed allt, Pt. III",
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
@@ -46726,7 +46748,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 136506,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/7qKwQz9WJfjnFID9gtHnqm"
@@ -50582,7 +50604,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 168800,
       "name": "\u00deekkir einhver hana gu\u00f0?",
       "url": "https://open.spotify.com/track/6FA59c0Wjj2rK44oCqDQLn"

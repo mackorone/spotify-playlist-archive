@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 245340,
       "name": "B\u1eafc Bling (B\u1eafc Ninh) (Prod. by Masew)",
       "url": "https://open.spotify.com/track/4L2xuczFpbb7cjXebOBNkt"
@@ -8452,7 +8452,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-14",
+      "date_removed": null,
       "duration_ms": 234166,
       "name": "Gi\u1edd Th\u00ec",
       "url": "https://open.spotify.com/track/7mblTCdc14ylJ1JW71MODb"
@@ -15399,6 +15399,24 @@
     },
     {
       "album": {
+        "name": "N\u1eafng C\u00f3 Mang Em V\u1ec1.",
+        "url": "https://open.spotify.com/album/4UzZ84kIjMIOEdQj3qi04U"
+      },
+      "artists": [
+        {
+          "name": "Tr\u1ea7n \u0110\u00ecnh Tu\u1ea5n",
+          "url": "https://open.spotify.com/artist/0aLtEhhoPEykQ0FX0Jp6S3"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253680,
+      "name": "N\u1eafng C\u00f3 Mang Em V\u1ec1.",
+      "url": "https://open.spotify.com/track/0AscgB4P3xmBLUUOeGI6tM"
+    },
+    {
+      "album": {
         "name": "Space Jam, Vol. 1",
         "url": "https://open.spotify.com/album/7ahqMhfibWJT33LPuPlvK6"
       },
@@ -20528,7 +20546,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 110294,
       "name": "Th\u00e1p Drill T\u1ef1 Do",
       "url": "https://open.spotify.com/track/4RdWOIciJCKnVBRgo1BMMa"
@@ -20812,7 +20830,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 279605,
       "name": "Tim Anh Ghen",
       "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
@@ -21048,7 +21066,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -22610,7 +22628,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 185625,
       "name": "v\u1ea1n v\u1eadt nh\u01b0 mu\u1ed1n ta b\u00ean nhau",
       "url": "https://open.spotify.com/track/5WkuMbkHX7yR7nnBKCn7tV"
@@ -24068,7 +24086,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 250722,
       "name": "\u00d4m Em Th\u1eadt L\u00e2u",
       "url": "https://open.spotify.com/track/0oLdpAqSgmSyqzXJo4XHig"

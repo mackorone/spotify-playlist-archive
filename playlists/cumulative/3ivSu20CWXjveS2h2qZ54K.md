@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,772 songs - 8 day 16 hr 52 min
+3,773 songs - 8 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1737,6 +1737,7 @@
 | [Justo al otro lado](https://open.spotify.com/track/5l36VXWbVcjMniR8U6AkFZ) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW) | [Justo al otro lado](https://open.spotify.com/album/7us3lWS6uwEPbAKBOj7JBw) | 2:22 | 2024-07-01 | 2024-07-13 |
 | [Juvenil](https://open.spotify.com/track/2wb5yn5LXQAuVot0WJwcBD) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S), [LeChatelier](https://open.spotify.com/artist/4oWqobXI4WEGjmnnWQmW0t) | [Juvenil](https://open.spotify.com/album/3Krto3PEJptwSC7FTA4dZF) | 2:32 | 2025-04-04 | 2025-04-12 |
 | [Jóvenes para siempre](https://open.spotify.com/track/5GbtNUNuwKoZE6M2P6jFwq) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Jóvenes para siempre](https://open.spotify.com/album/2E5Fq7VV88U9g5qKjicZ8A) | 3:24 | 2025-02-21 | 2025-02-28 |
+| [K.T.Y.W.S.](https://open.spotify.com/track/1u3g9logKPJbG92rtABCR1) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:16 | 2025-04-18 |  |
 | [KAIMAN](https://open.spotify.com/track/7haiQQxJnawx0dEyWiOmcB) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [KAIMAN](https://open.spotify.com/album/5HFgyaVeJMVtirveWpI3CO) | 3:29 | 2025-01-31 | 2025-02-08 |
 | [Kamikaze Comic](https://open.spotify.com/track/5ICK1BSMnDkYulOijLCJzi) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Kamikaze Comic](https://open.spotify.com/album/1IyAn07bOZdtlXqy1HzPSb) | 3:09 | 2024-10-04 | 2024-10-12 |
 | [Karaoke español](https://open.spotify.com/track/3i97XSAj6jDO0k4x4AcStN) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Karaoke español](https://open.spotify.com/album/4Tkm6w0F5t1BjQlpcfJSji) | 3:09 | 2024-12-20 | 2025-01-11 |

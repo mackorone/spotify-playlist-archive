@@ -4,7 +4,7 @@
 
 > Nuovi brani di Achille Lauro, Neffa, Ultimo, Federica Abbate, BigMama, OneRepublic e tanti altri.
 
-4,477 songs - 9 day 9 hr 51 min
+4,478 songs - 9 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1997,6 +1997,7 @@
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 | 2025-03-28 |
 | [K.O.](https://open.spotify.com/track/2D8e2PCUcIX4CeFLkREoBT) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [K.O.](https://open.spotify.com/album/25dbkaIafgbVGgv4BH4YAs) | 3:23 | 2025-01-10 | 2025-01-17 |
 | [k.o\. tt](https://open.spotify.com/track/1cwNTlAcz9SXkvfMpsphhA) | [Saphe](https://open.spotify.com/artist/0PfwY5WJuVYmUc6PJzQ9TO) | [tt ok / k.o\. tt](https://open.spotify.com/album/4tWdxF6UNNA1yqajBZWN7p) | 1:55 | 2024-07-11 | 2024-07-19 |
+| [K.T.Y.W.S.](https://open.spotify.com/track/1u3g9logKPJbG92rtABCR1) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:16 | 2025-04-18 |  |
 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 | 2025-03-20 | 2025-03-28 |
 | [Kalima](https://open.spotify.com/track/5hGhHUMdLYQq48IyuuqwJt) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Kalima EP](https://open.spotify.com/album/3EnmgngDjZK5zDt36WI51Q) | 3:55 | 2025-03-14 | 2025-03-21 |
 | [KANGAL \(feat\. Emanuelino\)](https://open.spotify.com/track/54ZrCUiyU8xpRp0tr5EQ30) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [KANGAL \(feat\. Emanuelino\)](https://open.spotify.com/album/1mBYnGk6aLbtxkfoh8kFcp) | 1:52 | 2024-10-03 | 2024-10-11 |

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Akanksha Bhandari, Garvit\-Priyansh  and other exciting artists.
 
-1,032 songs - 2 day 8 hr 16 min
+1,033 songs - 2 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Mehfilein](https://open.spotify.com/track/0PHoyLbOsXTV8jtD7fWZKr) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p) | [Mehfilein](https://open.spotify.com/album/2X8DlB3za1eLymLoI0PqAJ) | 3:17 | 2024-04-19 | 2024-06-29 |
 | [Mehfooz](https://open.spotify.com/track/63PBLCusJc0ZMaKSA0pfex) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mehfooz](https://open.spotify.com/album/774XcXabwenOF4KYWhy9xe) | 2:40 | 2024-11-08 | 2024-11-30 |
 | [MEHFOOZ](https://open.spotify.com/track/5rfOUeUYRc7VHnbFgczTQI) | [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Shreya](https://open.spotify.com/artist/4rSaLcdoKWIZiJOsUJzeCT) | [MEHFOOZ](https://open.spotify.com/album/47M5qZnaJ8bKLBhEHj5hII) | 3:01 | 2024-09-06 | 2024-10-19 |
+| [Mehfooz Rakh](https://open.spotify.com/track/7lebXT1ac1B47vOO8AW0yn) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Mehfooz Rakh](https://open.spotify.com/album/1TeIPtXAsPLdTwGRJXYSlU) | 3:37 | 2025-04-18 |  |
 | [Mehsoos](https://open.spotify.com/track/1CpPNLb6wX0VRDki8JsFuu) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Mehsoos](https://open.spotify.com/album/1A01ciWQAlggJKclr8GOPX) | 6:35 | 2023-12-08 | 2024-01-20 |
 | [Mein Tera Hojaau](https://open.spotify.com/track/2cbq58YcyyWQx92ccTEWPy) | [The Kabir](https://open.spotify.com/artist/6yPhcGRmraBwXnqANykgQS), [Sayli Kamble](https://open.spotify.com/artist/4bjftmzN2eJwJMxinRq6lD), [BYG BASS](https://open.spotify.com/artist/7qScqy8QkqngHWUluAWVux) | [Mein Tera Hojaau](https://open.spotify.com/album/7IevyEJ5ATBeRpBytWmGbA) | 3:40 | 2025-03-07 | 2025-03-10 |
 | [Melt](https://open.spotify.com/track/5I8LXURY4AJdZHtsUfxGlx) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Melt](https://open.spotify.com/album/3Bkkh7N0ia6j5PhpDTQlkt) | 2:52 | 2023-08-25 | 2023-10-07 |
@@ -870,7 +871,7 @@
 | [Sukoon](https://open.spotify.com/track/5UNxdMgOfVybQcqC70Iij8) | [SHAHI](https://open.spotify.com/artist/37jIu8068iik4NKht4gl92), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Deep](https://open.spotify.com/artist/0z7tFsnGUC5AmOISD1cATs) | [Sukoon](https://open.spotify.com/album/4Ph81Y9WbRh5iBEJTPJq4q) | 3:10 | 2024-11-29 | 2025-02-01 |
 | [Suljhey](https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Suljhey](https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF) | 3:17 | 2024-12-06 | 2025-01-11 |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-22 | 2024-03-02 |
-| [Summercoat](https://open.spotify.com/track/5nXpK11JqlN0kOx4IXzV7R) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Summercoat](https://open.spotify.com/album/2TJrs5gRMnUFKmZAWJ8TWu) | 3:33 | 2025-01-31 |  |
+| [Summercoat](https://open.spotify.com/track/5nXpK11JqlN0kOx4IXzV7R) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Summercoat](https://open.spotify.com/album/2TJrs5gRMnUFKmZAWJ8TWu) | 3:33 | 2025-01-31 | 2025-04-21 |
 | [Sun Bachhe](https://open.spotify.com/track/0lNQgj1M5WZ1Zc6taFvQVh) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Sun Bachhe](https://open.spotify.com/album/31gJq0ZwKNl1GYcZmKBlq3) | 3:07 | 2024-04-19 | 2024-05-24 |
 | [Sun Beliya](https://open.spotify.com/track/4dIXexUt5xZfhf4f6lp90B) | [Deepshikha Raina](https://open.spotify.com/artist/65RSx9RT02eH4TvBKdeqBY) | [Sun Beliya](https://open.spotify.com/album/5e2Il2vYU1XJZ3Arsk1KLt) | 3:55 | 2023-09-15 | 2023-10-21 |
 | [Sun bhi ja](https://open.spotify.com/track/3w5nZYYT1NtwnPzhMYmZmW) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Sun bhi ja](https://open.spotify.com/album/14weJ3nJ22lqH7P9mTdcDM) | 3:34 | 2023-08-25 | 2023-09-22 |

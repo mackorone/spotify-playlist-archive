@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Apr 22:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Apr 13:04 UTC.",
   "num_followers": 93,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAARPxRvOVge3mO6JpLlc1pBJTjWXVpe",
+  "snapshot_id": "AAARQSIoCf092j74hiXMo7hbTGvK5bEM",
   "tracks": [
     {
       "added_at": "2025-04-18 08:05:06",
@@ -187,6 +187,22 @@
       "duration_ms": 140307,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/1DNAIKJQTTOxAIgFl2dcls"
+    },
+    {
+      "added_at": "2025-04-20 13:04:28",
+      "album": {
+        "name": "Not Regular",
+        "url": "https://open.spotify.com/album/1xbqROaZYQX11Y9w4R0DGF"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 132085,
+      "name": "Not Regular",
+      "url": "https://open.spotify.com/track/7nrB7FTJ9TjWXrGXgF9XpG"
     },
     {
       "added_at": "2025-04-19 03:04:19",
@@ -831,22 +847,6 @@
       "duration_ms": 168554,
       "name": "Smash It Like Belushi",
       "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
-    },
-    {
-      "added_at": "2025-04-09 08:04:06",
-      "album": {
-        "name": "i'm going CRAZY",
-        "url": "https://open.spotify.com/album/5YXz9BvsNY3WI7jKeOf0Rn"
-      },
-      "artists": [
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        }
-      ],
-      "duration_ms": 475764,
-      "name": "i'm going CRAZY",
-      "url": "https://open.spotify.com/track/39A4WUPw6U4IekWFLPsa9T"
     }
   ],
   "unique_name": "New Singles Now",

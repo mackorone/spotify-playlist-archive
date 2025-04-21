@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C5zJGrQEji.md) - [plain]
 
 > Tracks crediting NATURE support its conservation.<br/>New tracks out on Earth Day,  April 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 25 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 34 likes - 25 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

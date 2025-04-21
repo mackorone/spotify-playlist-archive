@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 255700,
       "name": "r\u00fcyet",
       "url": "https://open.spotify.com/track/7thtv8TVmmxx5edxwk9r1o"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 209423,
       "name": "Sonumu Bile Bile",
       "url": "https://open.spotify.com/track/3ZGgkyCgxd0UqSIgrQqlVS"
@@ -3330,6 +3330,28 @@
       "duration_ms": 138440,
       "name": "YANGIN",
       "url": "https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd"
+    },
+    {
+      "album": {
+        "name": "Yan\u0131mda Ol",
+        "url": "https://open.spotify.com/album/6TSwhuFNoVRe0LyqFLG24K"
+      },
+      "artists": [
+        {
+          "name": "Alba",
+          "url": "https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71"
+        },
+        {
+          "name": "zei",
+          "url": "https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "Yan\u0131mda Ol",
+      "url": "https://open.spotify.com/track/5Ycw6Hh1IKdEyumGBVS5Y9"
     },
     {
       "album": {
@@ -3938,7 +3960,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 166384,
       "name": "\u00c7orba",
       "url": "https://open.spotify.com/track/5ewUwzoIdPI3GYyMdoaOeW"

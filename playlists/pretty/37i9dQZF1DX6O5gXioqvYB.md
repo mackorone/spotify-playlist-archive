@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Prim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,365 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,364 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 2 | [costole rotte](https://open.spotify.com/track/5ZzAXUZ6wWmIVRMgXH8SE0) | [moha111](https://open.spotify.com/artist/0zInhyakN9jMdmXwCLRUyW) | [Bedaya](https://open.spotify.com/album/5j9vwKRepPaYkkXZKhjZ07) | 3:15 |
 | 3 | [E poi](https://open.spotify.com/track/2uPkHeF2T4V6LK3d0JVZhV) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [RADICAL POP](https://open.spotify.com/album/0fL9TA0WevAHVH33i2ql3N) | 2:56 |
 | 4 | [Chi Vince Che Vince?](https://open.spotify.com/track/4wur6ap0kNAOGd1PKupeNg) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Chi Vince Che Vince?](https://open.spotify.com/album/69oCajyWAMrsB7EuywcdWL) | 3:07 |
-| 5 | [NOSTALGIA E KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA E KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 |
+| 5 | [NOSTALGIA & KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA & KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 |
 | 6 | [Mi Fai Sentire](https://open.spotify.com/track/3GTuHlDQ0rch650sMsrtpv) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [Mi Fai Sentire](https://open.spotify.com/album/4M9K5B3GHD3NT288aCjugV) | 2:30 |
 | 7 | [SOMBRAS](https://open.spotify.com/track/6DALNGK0SneZHSbp9Wj3r5) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [SOMBRAS](https://open.spotify.com/album/7lXHaDj9dBxaFFSyRZIIth) | 2:07 |
 | 8 | [Festa](https://open.spotify.com/track/6NFUu2pQMC0MTvOKv8EK4D) | [Malvax](https://open.spotify.com/artist/5rxTrWSZXwqJbhwXpR8886) | [Festa](https://open.spotify.com/album/5gVzgWUOez57LzO44YKioa) | 2:50 |

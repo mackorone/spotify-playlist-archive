@@ -20903,6 +20903,24 @@
     },
     {
       "album": {
+        "name": "lilly",
+        "url": "https://open.spotify.com/album/5KxAVslcXaJ1gLyb8qIb9t"
+      },
+      "artists": [
+        {
+          "name": "miura x miura",
+          "url": "https://open.spotify.com/artist/24JB4ExVYytyA9AN9tBgMc"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125517,
+      "name": "lilly",
+      "url": "https://open.spotify.com/track/6TYwpyey0o6pAxp4trTqI2"
+    },
+    {
+      "album": {
         "name": "In The Third Move",
         "url": "https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv"
       },
@@ -24026,7 +24044,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 171880,
       "name": "Mir\u00f3",
       "url": "https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1"

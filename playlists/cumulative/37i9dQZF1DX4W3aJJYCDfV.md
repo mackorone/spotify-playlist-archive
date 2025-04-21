@@ -4,7 +4,7 @@
 
 > Brand new music from Fontaines D.C., Addison Rae and more!
 
-15,773 songs - 35 day 11 hr 53 min
+15,774 songs - 35 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7443,6 +7443,7 @@
 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 | 2023-07-20 | 2023-07-28 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-20 | 2023-07-28 |
 | [K.K.O](https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [K.K.O](https://open.spotify.com/album/6QMZWUgeNUjAqwaxgFsPFm) | 1:56 | 2023-02-03 | 2023-02-10 |
+| [K.T.Y.W.S.](https://open.spotify.com/track/1u3g9logKPJbG92rtABCR1) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:16 | 2025-04-17 |  |
 | [K9](https://open.spotify.com/track/5nnhETVQeAoJEnGJDuB6fC) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [K9](https://open.spotify.com/album/4yBjOCopyDn9TDoJHm59kf) | 2:55 | 2024-05-16 | 2024-05-24 |
 | [Kahani Badal Gai](https://open.spotify.com/track/5geN3rO3gzwE0k4ClfHIBQ) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Kahani Badal Gai](https://open.spotify.com/album/3wilNiclvJL8m8cCuWpMmv) | 2:40 | 2024-07-25 | 2024-08-02 |
 | [Kairo Keyz \- No Miming](https://open.spotify.com/track/5dEiQrAgaOwqls19YDiYNQ) | [Tim & Barry](https://open.spotify.com/artist/7MdhgOG14jdWpchQuE14Ce), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [Kairo Keyz \- No Miming](https://open.spotify.com/album/2tsu9gX1Wx3fyiQScRJ0in) | 1:48 | 2023-05-25 | 2023-06-02 |

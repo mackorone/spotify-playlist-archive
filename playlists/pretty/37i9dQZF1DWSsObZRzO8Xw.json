@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 197243,
+  "num_followers": 197277,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "X'ed Out",
+        "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
+      },
+      "artists": [
+        {
+          "name": "Tera Melos",
+          "url": "https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Weird Circles",
+      "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "SIMILAR",
         "url": "https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 199886,
       "name": "KALA",
       "url": "https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "X'ed Out",
-        "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
-      },
-      "artists": [
-        {
-          "name": "Tera Melos",
-          "url": "https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Weird Circles",
-      "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Los Bajos Fondos",
-      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Stegosauro",
         "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 205293,
       "name": "Jap'n Cazz",
       "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Los Bajos Fondos",
+      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Retcon",
-        "url": "https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR"
-      },
-      "artists": [
-        {
-          "name": "Mylets",
-          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Hungover Tehran",
-      "url": "https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "World",
         "url": "https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+        "name": "Retcon",
+        "url": "https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR"
       },
       "artists": [
         {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+          "name": "Mylets",
+          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+      "duration_ms": 256629,
+      "name": "Hungover Tehran",
+      "url": "https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -811,18 +795,34 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/7n8f4VpR5BAC9IiLiiIWKl"
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
       "artists": [
         {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
         }
       ],
-      "duration_ms": 206093,
-      "name": "Baboon",
-      "url": "https://open.spotify.com/track/4mgS9q5U0a8sh42tp3UgMy"
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Valerio Benustelli",
+        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "Valerio Benustelli",
+      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -839,22 +839,6 @@
       "duration_ms": 251600,
       "name": "Infinite Spice",
       "url": "https://open.spotify.com/track/40hF24KMxg9LpglA9We3As"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -891,18 +875,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Valerio Benustelli",
-        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/7n8f4VpR5BAC9IiLiiIWKl"
       },
       "artists": [
         {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
         }
       ],
-      "duration_ms": 206007,
-      "name": "Valerio Benustelli",
-      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
+      "duration_ms": 206093,
+      "name": "Baboon",
+      "url": "https://open.spotify.com/track/4mgS9q5U0a8sh42tp3UgMy"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -919,6 +903,22 @@
       "duration_ms": 188129,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Kiev",
-        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
-      },
-      "artists": [
-        {
-          "name": "The Polar Dream",
-          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
-        }
-      ],
-      "duration_ms": 303516,
-      "name": "Caballos (Horses)",
-      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Gamba Tesa",
         "url": "https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 112616,
       "name": "x Maria Violenza",
       "url": "https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Kiev",
+        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
+      },
+      "artists": [
+        {
+          "name": "The Polar Dream",
+          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
+        }
+      ],
+      "duration_ms": 303516,
+      "name": "Caballos (Horses)",
+      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Horizons / Rapture",
-        "url": "https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt"
-      },
-      "artists": [
-        {
-          "name": "The Physics House Band",
-          "url": "https://open.spotify.com/artist/30EilmonVXftR1pWoALezP"
-        }
-      ],
-      "duration_ms": 385360,
-      "name": "Teratology",
-      "url": "https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Caballeros del Albedr\u00edo",
         "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 138400,
       "name": "El Hombre P\u00e1nico",
       "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Horizons / Rapture",
+        "url": "https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt"
+      },
+      "artists": [
+        {
+          "name": "The Physics House Band",
+          "url": "https://open.spotify.com/artist/30EilmonVXftR1pWoALezP"
+        }
+      ],
+      "duration_ms": 385360,
+      "name": "Teratology",
+      "url": "https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1"
     },
     {
       "added_at": "2024-09-20 00:01:00",

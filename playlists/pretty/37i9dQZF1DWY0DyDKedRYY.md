@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,842 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,845 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 24 | [Anhedonia](https://open.spotify.com/track/09AvSIidFD4Z7SrZ8IMm9h) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Anhedonia](https://open.spotify.com/album/6CNwm8XPtOmYagAmoIt7vi) | 3:49 |
 | 25 | [Wood Knot](https://open.spotify.com/track/1RDm9ypgsDjqPz57CtLc1t) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Moneyball](https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi) | 4:21 |
 | 26 | [Kerosene](https://open.spotify.com/track/5IxZ834XDOpE24vY8hEYVu) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Kerosene](https://open.spotify.com/album/0jr1ykkFlGG3RPlzlIp0QP) | 3:23 |
-| 27 | [Sirena](https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Sirena](https://open.spotify.com/album/05rTIYsjywlMLjG5sk6h2H) | 3:36 |
+| 27 | [sirena](https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [sirena](https://open.spotify.com/album/05rTIYsjywlMLjG5sk6h2H) | 3:36 |
 | 28 | [i’ll be happy when](https://open.spotify.com/track/3Q3URGmQcp4hbF2ZTgHeDc) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [i'll be happy when](https://open.spotify.com/album/0EG43re9S4RRLXO6WE2gqD) | 2:56 |
 | 29 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 |
 | 30 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [Haynza](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |

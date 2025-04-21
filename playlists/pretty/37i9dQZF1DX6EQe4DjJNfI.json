@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Rael",
-  "num_followers": 177800,
+  "num_followers": 177824,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
         "name": "Porque Me Responde Ainda",
         "url": "https://open.spotify.com/album/27JH4nsKkUIEbu3ri1EXph"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 212000,
       "name": "Imaturos",
       "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -339,22 +339,38 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
-        "name": "1001 Roteiros",
-        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
       "artists": [
         {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         },
         {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         }
       ],
-      "duration_ms": 161024,
-      "name": "1001 Roteiros",
-      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
+      "duration_ms": 187733,
+      "name": "Falar De Amor - Remix",
+      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -379,22 +395,6 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -415,6 +415,26 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
+        "name": "1001 Roteiros",
+        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        }
+      ],
+      "duration_ms": 161024,
+      "name": "1001 Roteiros",
+      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 249728,
       "name": "T\u00e3o Crazy",
       "url": "https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Falar De Amor - Remix",
-      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -551,6 +531,26 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
         "name": "Sonhei com Voc\u00ea",
         "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 261144,
       "name": "Sonhei com Voc\u00ea",
       "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
-        "name": "Nossa M\u00fasica",
-        "url": "https://open.spotify.com/album/1PvKNzwf78tHq50nNFEsmM"
-      },
-      "artists": [
-        {
-          "name": "R\u00ea Barbosa",
-          "url": "https://open.spotify.com/artist/2LdRIx27LRtTjL2PASuduX"
-        },
-        {
-          "name": "Gu$t",
-          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
-        }
-      ],
-      "duration_ms": 147007,
-      "name": "Nossa M\u00fasica",
-      "url": "https://open.spotify.com/track/4vJJqJ9psCW7CKCJSEqrtL"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -607,6 +587,26 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
+        "name": "Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/1PvKNzwf78tHq50nNFEsmM"
+      },
+      "artists": [
+        {
+          "name": "R\u00ea Barbosa",
+          "url": "https://open.spotify.com/artist/2LdRIx27LRtTjL2PASuduX"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "duration_ms": 147007,
+      "name": "Nossa M\u00fasica",
+      "url": "https://open.spotify.com/track/4vJJqJ9psCW7CKCJSEqrtL"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
-        "name": "Melanina",
-        "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
-      },
-      "artists": [
-        {
-          "name": "Nega",
-          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
-        },
-        {
-          "name": "TX",
-          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Melanina",
-      "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
         "name": "O BGLH \u00c9 BLACK",
         "url": "https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt"
       },
@@ -951,22 +931,22 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
-        "name": "Blusa da High",
-        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
+        "name": "Melanina",
+        "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Nega",
+          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
         },
         {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
         }
       ],
-      "duration_ms": 160338,
-      "name": "Blusa da High",
-      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
+      "duration_ms": 120000,
+      "name": "Melanina",
+      "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
+        "name": "Blusa da High",
+        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 160338,
+      "name": "Blusa da High",
+      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 213421,
-      "name": "risco",
-      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
         "name": "Mania de Voc\u00ea",
         "url": "https://open.spotify.com/album/1P3yi6mXwdmNpF5KKWscnY"
       },
@@ -1139,6 +1119,26 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
         "name": "Respostas",
         "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 194000,
       "name": "Respostas",
       "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -1215,6 +1195,30 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
+        "name": "Mais uma Vez",
+        "url": "https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2"
+      },
+      "artists": [
+        {
+          "name": "Gu Original",
+          "url": "https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi"
+        },
+        {
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
+        },
+        {
+          "name": "JHXW",
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
+        }
+      ],
+      "duration_ms": 129896,
+      "name": "Mais uma Vez",
+      "url": "https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
         "name": "Esse \u00c9 Meu Mundo",
         "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
       },
@@ -1235,6 +1239,26 @@
       "duration_ms": 176326,
       "name": "Dispara",
       "url": "https://open.spotify.com/track/73U0LScJh4nV901IJqbVDS"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -1263,30 +1287,6 @@
       "duration_ms": 171269,
       "name": "Localiza\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5QfVNjigAYJ5k585D3bdpL"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
-        "name": "Mais uma Vez",
-        "url": "https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2"
-      },
-      "artists": [
-        {
-          "name": "Gu Original",
-          "url": "https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi"
-        },
-        {
-          "name": "Cyclope Beatz",
-          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
-        },
-        {
-          "name": "JHXW",
-          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
-        }
-      ],
-      "duration_ms": 129896,
-      "name": "Mais uma Vez",
-      "url": "https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt"
     },
     {
       "added_at": "2025-04-05 18:46:07",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
-        "name": "sexysong.mp3",
-        "url": "https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52"
-      },
-      "artists": [
-        {
-          "name": "Calena",
-          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
-        },
-        {
-          "name": "Arcanjo Beat",
-          "url": "https://open.spotify.com/artist/6Ya4Wxa4p2uiMTmCAIj91V"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "sexysong.mp3",
-      "url": "https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
         "name": "Mil\u00e3o",
         "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
+        "name": "sexysong.mp3",
+        "url": "https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52"
+      },
+      "artists": [
+        {
+          "name": "Calena",
+          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
+        },
+        {
+          "name": "Arcanjo Beat",
+          "url": "https://open.spotify.com/artist/6Ya4Wxa4p2uiMTmCAIj91V"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "sexysong.mp3",
+      "url": "https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo"
     },
     {
       "added_at": "2025-04-05 18:46:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Davido, Leon Thomas, DESIREE and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,258 likes - 83 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,312 likes - 83 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 17 | [Wamuhle \(feat\. Just Percy & Mduduzi Ncube\)](https://open.spotify.com/track/61kljvq4N6RXXQydiuPt18) | [RoneeDeep](https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO), [Just Percy](https://open.spotify.com/artist/47nFfbUJLgqP9rFKZLzzXy), [Mduduzi Ncube](https://open.spotify.com/artist/26wQS9QDgipxSQd9uWBUSG) | [Wamuhle \(feat\. Just Percy & Mduduzi Ncube\)](https://open.spotify.com/album/7LDVHxI3UobUQk87RLkXxC) | 6:37 |
 | 18 | [Forever \(with Kid Cudi\)](https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Forever \(with Kid Cudi\)](https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul) | 4:11 |
 | 19 | [I WANNA MOVE TO BROOKLYN](https://open.spotify.com/track/51uk8yCAwqn1X68Z9QxPBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Articulate Excuses](https://open.spotify.com/album/6zYppiOb1FMO7I9YRoeLio) | 3:00 |
-| 20 | [Ye Wena](https://open.spotify.com/track/6BBLwXgPxDm3FtGvWDOce9) | [Phantom Steeze Robot Boii](https://open.spotify.com/artist/1VOSrDpgfN8lXC6gO994yr), [Audio Addicts](https://open.spotify.com/artist/1tjAECvMdhkOPNEPYCNZol), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Ye Wena](https://open.spotify.com/album/5TsSFs14SgV9Rj813U7E16) | 6:22 |
+| 20 | [Ye Wena](https://open.spotify.com/track/6BBLwXgPxDm3FtGvWDOce9) | [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Audio Addicts](https://open.spotify.com/artist/1tjAECvMdhkOPNEPYCNZol), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Ye Wena](https://open.spotify.com/album/5TsSFs14SgV9Rj813U7E16) | 6:22 |
 | 21 | [Tjale Tjale \- Dub](https://open.spotify.com/track/6FYvPwkLkKtGCzRKlm9aiA) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [Tjale Tjale](https://open.spotify.com/album/60k5YoHClpKi3RxVwurjCf) | 5:52 |
 | 22 | [Uthembekile](https://open.spotify.com/track/694XHH9QOXjL53DhNvk4GB) | [Jnr SA](https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku), [Section Five](https://open.spotify.com/artist/5pM2d7Jh0CvXvddLhBsRfS) | [Uthembekile](https://open.spotify.com/album/56gBvA9KkILZiFScLcshE1) | 7:01 |
 | 23 | [Hallelujah \(feat\. Basetsana\)](https://open.spotify.com/track/49Oa0Q3OuP3VW5QTFPlwjs) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3), [Lady Amar](https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk), [Basetsana](https://open.spotify.com/artist/5tOlDzzo2n5dhYJDG6GFbe) | [Hallelujah \(feat\. Basetsana\)](https://open.spotify.com/album/7fzdLRvpGMaEgRSbYKWnnL) | 6:10 |

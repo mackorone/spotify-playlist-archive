@@ -4352,7 +4352,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 324213,
       "name": "Come Along - N\u00e5id 2001 Remix -Remastered",
       "url": "https://open.spotify.com/track/4Zsm4jvCbSGG0CwGlkjxr9"
@@ -7099,6 +7099,28 @@
     },
     {
       "album": {
+        "name": "Figa",
+        "url": "https://open.spotify.com/album/2NUtJMkU0yjDwHsQOhYPGX"
+      },
+      "artists": [
+        {
+          "name": "Trinix Remix",
+          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99130,
+      "name": "Figa",
+      "url": "https://open.spotify.com/track/6EkrsqZTNnOhlX3mys2VyR"
+    },
+    {
+      "album": {
         "name": "FKR (NQMASH SURCE TECHNO (EDIT)",
         "url": "https://open.spotify.com/album/2nIbqIFRwZ6ZgGlBGmcp7z"
       },
@@ -7770,7 +7792,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 118153,
       "name": "Get Jiggy",
       "url": "https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY"
@@ -12374,7 +12396,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 218520,
       "name": "MAGIE",
       "url": "https://open.spotify.com/track/2omklMDXdvkJiaGWfo2S8T"
@@ -12840,7 +12862,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
@@ -14716,7 +14738,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"
@@ -15950,7 +15972,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 103403,
       "name": "PASSO BEM SOLTO",
       "url": "https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG"
@@ -17622,7 +17644,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-21",
       "duration_ms": 190774,
       "name": "Runway Walk (Bonus) (feat. Brevi)",
       "url": "https://open.spotify.com/track/49G3ExbNrPDgopoEwjhEsQ"
@@ -18170,7 +18192,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 164398,
       "name": "Seoul City",
       "url": "https://open.spotify.com/track/4zUob9iYFS9TgAR0hgo5pR"
@@ -24230,6 +24252,24 @@
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
+    },
+    {
+      "album": {
+        "name": "WTHELLY",
+        "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137666,
+      "name": "WTHELLY",
+      "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
     },
     {
       "album": {

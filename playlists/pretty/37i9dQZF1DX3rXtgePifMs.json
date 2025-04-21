@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 117711,
+  "num_followers": 117717,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "1,2 & Mer",
-        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
-      },
-      "artists": [
-        {
-          "name": "BABY MALA",
-          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "1,2 & Mer",
-      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Assumptions (Jengi Remix)",
         "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 186222,
       "name": "Assumptions - Jengi Remix",
       "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "1,2 & Mer",
+        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
+      },
+      "artists": [
+        {
+          "name": "BABY MALA",
+          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "1,2 & Mer",
+      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "there she goes",
+        "url": "https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "duration_ms": 162649,
+      "name": "there she goes",
+      "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "there she goes",
-        "url": "https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        }
-      ],
-      "duration_ms": 162649,
-      "name": "there she goes",
-      "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 279810,
-      "name": "Fall Right In",
-      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Osama (Bruno Be, Ralk Rework)",
         "url": "https://open.spotify.com/album/5Tds5Ajn5nx4GMId45f9TV"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 281794,
       "name": "Osama - Bruno Be, Ralk Rework",
       "url": "https://open.spotify.com/track/3pWC9DZvy8N8CUHKJJ8dBp"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 279810,
+      "name": "Fall Right In",
+      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Isn\u2019t It Now?",
-        "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 368386,
-      "name": "Soul Capturer",
-      "url": "https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
         "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 111044,
       "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
       "url": "https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Isn\u2019t It Now?",
+        "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 368386,
+      "name": "Soul Capturer",
+      "url": "https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "EAZI",
+        "url": "https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM"
+      },
+      "artists": [
+        {
+          "name": "Young Eman",
+          "url": "https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL"
+        }
+      ],
+      "duration_ms": 150474,
+      "name": "EAZI",
+      "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
         "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
       },
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "EAZI",
-        "url": "https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM"
-      },
-      "artists": [
-        {
-          "name": "Young Eman",
-          "url": "https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL"
-        }
-      ],
-      "duration_ms": 150474,
-      "name": "EAZI",
-      "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "We Are The Ones (FC24 Version)",
         "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
       },
@@ -1699,22 +1699,6 @@
       "duration_ms": 135950,
       "name": "We Are The Ones - FC24 Version",
       "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1735,6 +1719,22 @@
       "duration_ms": 212971,
       "name": "Pemmican",
       "url": "https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-11-20 15:00:00",
