@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8684,
+  "num_followers": 8685,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aALngAAAAACITTTJkBw0oQwF40ZleHJz",
+  "snapshot_id": "aAQ5AAAAAAC8SLCP0X2o7mikKZ1IdyTp",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sandpaper and Silk",
+        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 242975,
+      "name": "Sandpaper And Silk",
+      "url": "https://open.spotify.com/track/5jC6Qa2r8l3FsAGlm5YeZu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ohio is for Lovers (Lofi)",
         "url": "https://open.spotify.com/album/0KRDlxHUmKfQRWqSiV0SAw"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 174915,
       "name": "Ohio Is For Lovers - Lofi",
       "url": "https://open.spotify.com/track/68kuwYK3mdn415abKKiISa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sandpaper and Silk",
-        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 242975,
-      "name": "Sandpaper And Silk",
-      "url": "https://open.spotify.com/track/5jC6Qa2r8l3FsAGlm5YeZu"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
-        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 199753,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
+      "duration_ms": 202346,
+      "name": "Bring You Back",
+      "url": "https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
+        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Bring You Back",
-      "url": "https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy"
+      "duration_ms": 199753,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
     },
     {
       "added_at": null,
@@ -666,15 +666,11 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Anthony Raneri",
-          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Spray Paint It Black",
-      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
     },
     {
       "added_at": null,
@@ -742,11 +738,15 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Anthony Raneri",
+          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
+      "duration_ms": 198066,
+      "name": "Spray Paint It Black",
+      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
     },
     {
       "added_at": null,

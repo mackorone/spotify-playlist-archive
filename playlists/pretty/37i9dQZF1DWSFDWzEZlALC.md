@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Arkan, Replay Okay, SOFFIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,550 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,490 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 |
-| 2 | [Ausbluten](https://open.spotify.com/track/6MJfPq4ty6Td0wZ2ILDvoA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Ausbluten](https://open.spotify.com/album/2aITDUNoTwMzprmFY03qdg) | 3:05 |
-| 3 | [Warum](https://open.spotify.com/track/1bfNkC1ojUfEypkGFtbQsl) | [Arkan](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Warum](https://open.spotify.com/album/7onfetixabgBWIJYVpj867) | 2:48 |
-| 4 | [Wandrisse](https://open.spotify.com/track/40i48ukbj3os9j30zFvA0F) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wandrisse](https://open.spotify.com/album/0mYVH89m0NIpU2LXpfDOK3) | 2:42 |
-| 5 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 |
-| 6 | [Klassenclown](https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Klassenclown](https://open.spotify.com/album/4r4pOnl70iEX4cLHaai067) | 1:56 |
-| 7 | [Du & Ich](https://open.spotify.com/track/4FE41La9DXd8052XKV6M9j) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [OTPendia](https://open.spotify.com/artist/0xUNWefnIKxk31Qhg634BY) | [Du & Ich](https://open.spotify.com/album/57H7OCAgOcBCLkMQnfl7Aw) | 3:04 |
+| 2 | [Klassenclown](https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Klassenclown](https://open.spotify.com/album/4r4pOnl70iEX4cLHaai067) | 1:56 |
+| 3 | [Du & Ich](https://open.spotify.com/track/4FE41La9DXd8052XKV6M9j) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [OTPendia](https://open.spotify.com/artist/0xUNWefnIKxk31Qhg634BY) | [Du & Ich](https://open.spotify.com/album/57H7OCAgOcBCLkMQnfl7Aw) | 3:04 |
+| 4 | [Ausbluten](https://open.spotify.com/track/6MJfPq4ty6Td0wZ2ILDvoA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Ausbluten](https://open.spotify.com/album/2aITDUNoTwMzprmFY03qdg) | 3:05 |
+| 5 | [Warum](https://open.spotify.com/track/1bfNkC1ojUfEypkGFtbQsl) | [Arkan](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Warum](https://open.spotify.com/album/7onfetixabgBWIJYVpj867) | 2:48 |
+| 6 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 |
+| 7 | [Wandrisse](https://open.spotify.com/track/40i48ukbj3os9j30zFvA0F) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wandrisse](https://open.spotify.com/album/0mYVH89m0NIpU2LXpfDOK3) | 2:42 |
 | 8 | [Panzer](https://open.spotify.com/track/6DWeyOG13fZJwTDZbCcKws) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Panzer](https://open.spotify.com/album/4Tfy4qhThkJI3nD2jFJs67) | 2:27 |
 | 9 | [Stacheldraht](https://open.spotify.com/track/5gNyaLC1N2tRebbJ5yafRv) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Stacheldraht](https://open.spotify.com/album/6Uwf57Ku4yU8jVhj7gwpBu) | 1:59 |
 | 10 | [keine Panik](https://open.spotify.com/track/2VmYYyXquNb7kWb6xqSARw) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [keine Panik EP](https://open.spotify.com/album/4KjEU82iAamT0BqNRrVaPT) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Grüne Kippe](https://open.spotify.com/track/6Rfoq8IeU7JzetKOHN6L0G) | [Hænsen](https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66) | [Grüne Kippe](https://open.spotify.com/album/18dYWKESlv0AJxZ0QlD5t7) | 2:20 |
 | 75 | [wirbelwind](https://open.spotify.com/track/3Rixx4Zk1R4ZAQyIy9HpHp) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [oddworld](https://open.spotify.com/artist/4moOyBAkXsIAbF3pplCtv8) | [wirbelwind](https://open.spotify.com/album/4ElkWgm3ZEcncTEzI4ySIO) | 3:14 |
 
-Snapshot ID: `aAGIDQAAAABId0e2IrIyhzJJcuReObBk`
+Snapshot ID: `aAX38QAAAABalG+woO+ha84nvC08RbqI`

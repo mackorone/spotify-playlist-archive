@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,440 likes - 470 songs - 1 day 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,456 likes - 470 songs - 1 day 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,8 +249,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 239 | [It's Gotta Be You](https://open.spotify.com/track/2vZALCthE0GRzGXXGK67Qt) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 2:57 |
 | 240 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/4TkvdQwcxXxusi8JG6mMj7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [eternal sunshine \(slightly deluxe and also live\)](https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp) | 3:33 |
 | 241 | [Ghost](https://open.spotify.com/track/2Vl6VlxpDQk99QU7TfQGjO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:23 |
-| 242 | [Witness](https://open.spotify.com/track/6EzuVdWmzgOBmqHpzbbzfQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:10 |
-| 243 | [Don't Wanna Lose You Now](https://open.spotify.com/track/6gPVAM9CNj1uQQtGK0eYzZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:55 |
+| 242 | [Don't Wanna Lose You Now](https://open.spotify.com/track/6gPVAM9CNj1uQQtGK0eYzZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:55 |
+| 243 | [Witness](https://open.spotify.com/track/6EzuVdWmzgOBmqHpzbbzfQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:10 |
 | 244 | [Once in a Lifetime](https://open.spotify.com/track/0gC7GdWEUHmo9ZZ35aUKQg) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:34 |
 | 245 | [First Love](https://open.spotify.com/track/5P16LUPtZ1I5t3EqwELD53) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:35 |
 | 246 | [Get Another Boyfriend](https://open.spotify.com/track/3nx5PkGa2sJyXVJzqE4eYM) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:06 |
@@ -325,8 +325,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 315 | [Boys & Girls](https://open.spotify.com/track/1jGC00ZVUuVXwNdJjV17kJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:22 |
 | 316 | [Forever Until Tomorrow](https://open.spotify.com/track/7EaScyD2SKCSvZHqsY0RSK) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 3:46 |
 | 317 | [Up N' Down](https://open.spotify.com/track/30pIRfkIrvI88LaXReJ6HJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:42 |
-| 318 | [Starry Eyes \- MIKE DEAN Remix](https://open.spotify.com/track/5T0ZsRG7hVgXeffepN8Kmk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/12INlMsFtBjyehNnawBv36) | 3:18 |
-| 319 | [It's True](https://open.spotify.com/track/53PfD1XKQFSswX2wOmKLd1) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 4:13 |
+| 318 | [It's True](https://open.spotify.com/track/53PfD1XKQFSswX2wOmKLd1) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 4:13 |
+| 319 | [Starry Eyes \- MIKE DEAN Remix](https://open.spotify.com/track/5T0ZsRG7hVgXeffepN8Kmk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/12INlMsFtBjyehNnawBv36) | 3:18 |
 | 320 | [I Need You](https://open.spotify.com/track/12404kHw6YwKa71fpOnkgH) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 3:49 |
 | 321 | [I Wanna Be with You](https://open.spotify.com/track/4HEtWYYzROeE4KmZJald5V) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 4:05 |
 | 322 | [How Will I Know \(Who You Are\)](https://open.spotify.com/track/3AC8WrZdwW6bycdNtm15fD) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 3:36 |
@@ -418,8 +418,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 408 | [Let U Go](https://open.spotify.com/track/0aoXtU2V25FgbmQMCdw3Wm) | [Ashley Parker Angel](https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP) | [Soundtrack To Your Life](https://open.spotify.com/album/5mES955VGLh9er8nmXl783) | 3:38 |
 | 409 | [Oh Oh](https://open.spotify.com/track/3lAYDUHm3i4TLpsjjhpPVk) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 2:53 |
 | 410 | [Don't Ask Why](https://open.spotify.com/track/0TvFXLF4vmhqkDmHMK0UPW) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [Identified](https://open.spotify.com/album/7wUps5X7zrLQdysd2DW4mT) | 3:10 |
-| 411 | [Rude Boy](https://open.spotify.com/track/1YZNBgp5Py2dKslyzD6xDL) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:12 |
-| 412 | [I'm Gone, I'm Going](https://open.spotify.com/track/7CP9SPBwTkbURq60Td11JA) | [Lesley Roy](https://open.spotify.com/artist/1hKEBSwDGhKmshGFWiWm7S) | [Unbeautiful](https://open.spotify.com/album/1rHXAzNDnX5EU6eAZo7BWm) | 3:25 |
+| 411 | [I'm Gone, I'm Going](https://open.spotify.com/track/7CP9SPBwTkbURq60Td11JA) | [Lesley Roy](https://open.spotify.com/artist/1hKEBSwDGhKmshGFWiWm7S) | [Unbeautiful](https://open.spotify.com/album/1rHXAzNDnX5EU6eAZo7BWm) | 3:25 |
+| 412 | [Rude Boy](https://open.spotify.com/track/1YZNBgp5Py2dKslyzD6xDL) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:12 |
 | 413 | [NON PUOI LASCIARMI COSI](https://open.spotify.com/track/6uADgZjH3OQaHlPtHwc9wc) | [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [PER SEMPRE](https://open.spotify.com/album/0E3TKLXbAvLysz9fcaWSbR) | 3:51 |
 | 414 | [For All That You Want](https://open.spotify.com/track/2CandjgzRFCj1roFo4eoud) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Twelve Months, Eleven Days](https://open.spotify.com/album/3KWW58aDPkF44ZZAQMu3lK) | 3:37 |
 | 415 | [Wait](https://open.spotify.com/track/5ZbVmXVAV5yqXlJpBQSkQP) | [Sharks](https://open.spotify.com/artist/4hSVd8MbbcF70JgBbPk4sS) | [Wait](https://open.spotify.com/album/2t4K86Iv1sqnBmRTSD6mMe) | 3:06 |
@@ -479,4 +479,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 469 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 470 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `AbvUFAAAAADP3a910GsXky+JxXa6/1sT`
+Snapshot ID: `AbvZtAAAAACAqenaqMummqNLg8pTyyfH`

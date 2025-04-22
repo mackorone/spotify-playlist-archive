@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-655 songs - 1 day 14 hr 32 min
+656 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Hey Kadhal Kanmani](https://open.spotify.com/track/68rnua8CCiXP2pN8aqepBv) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Vivek ravi](https://open.spotify.com/artist/5hG8x8ynDBvUBOqYQOxpfU) | [Hey Kadhal Kanmani](https://open.spotify.com/album/6ZplA3nsVgTXXpXgbaVktU) | 2:27 | 2025-03-26 | 2025-04-18 |
 | [Hey Sagiye](https://open.spotify.com/track/5UoDP4lBVA2Cpdg3J9GqSe) | [MOZ](https://open.spotify.com/artist/1g4uzCTdQZdsfZKC1rBTZR), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Sagiye](https://open.spotify.com/album/1B0xbRHabbOWaPfQDw7eOc) | 3:08 | 2022-09-23 | 2022-10-07 |
 | [Hey Singari](https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/4WwSfK1gPABCUFctI3Rjts) | 3:51 | 2021-12-01 | 2022-08-12 |
-| [HIGH FASHION](https://open.spotify.com/track/7BtpADoxk4qpQiK3gQMtDb) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [HIGH FASHION](https://open.spotify.com/album/4OS7pjJGJ8gpoM8uFWgawi) | 2:12 | 2024-09-30 |  |
+| [HIGH FASHION](https://open.spotify.com/track/7BtpADoxk4qpQiK3gQMtDb) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [HIGH FASHION](https://open.spotify.com/album/4OS7pjJGJ8gpoM8uFWgawi) | 2:12 | 2024-09-30 | 2025-04-22 |
 | [i Aval](https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ) | 2:49 | 2023-10-06 | 2025-03-13 |
 | [i Aval](https://open.spotify.com/track/2IF8PVUGyCrbYfJz5wsDa3) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/4uFSbPAoFHoa5SZ72WD9pw) | 2:49 | 2023-10-06 | 2024-04-19 |
 | [I Mac Nee](https://open.spotify.com/track/3iotSFdvIPHlbVMH4caznZ) | [Srikanth KVB](https://open.spotify.com/artist/6W4s4ZE6Rxg7N8Tyj0vJtT), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P), [Chaithania Prakash](https://open.spotify.com/artist/4zLVUpAR1fVOY1O00fRc92), [Akshay Kamal](https://open.spotify.com/artist/7qmBZJIXxASuf2ODypFxo1) | [I Mac Nee](https://open.spotify.com/album/0vHTrFFBcDgqrU77Hwu3xx) | 3:57 | 2023-03-03 | 2023-03-23 |
@@ -663,5 +663,6 @@
 | [YAENDI YAENDI](https://open.spotify.com/track/1FcSdJlxQxG2rUfi6Hw3sf) | [KS Chandru](https://open.spotify.com/artist/5yUVc6PdLSEPQXINJVBGyJ), [Sathya Narayanan](https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt) | [YAENDI YAENDI](https://open.spotify.com/album/6o4sLAluM3x3DKg5IGIi7w) | 5:04 | 2023-02-10 | 2024-03-24 |
 | [Yen Pulla](https://open.spotify.com/track/1KRSXgSrxbkbi1bOYRk0iP) | [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2) | [Yen Pulla](https://open.spotify.com/album/03ZbwAbnw2SuKzkmDE2e2Z) | 3:26 | 2022-08-14 | 2023-02-07 |
 | [Yendhizhaye](https://open.spotify.com/track/3nLXHO8Mkv3gSQGatuOKUk) | [Ashwath](https://open.spotify.com/artist/0ZME1dtaOU96fNDeTTAnnM), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Soundararajan K](https://open.spotify.com/artist/71pwW7cVZxIz3MEnqZHqwQ) | [Yendhizhaye](https://open.spotify.com/album/4bZfDL2vNEhlT9PZf27f3V) | 3:58 | 2025-01-07 |  |
+| [Yethetho](https://open.spotify.com/track/4SrsHuFHWRB9d14FXsKDww) | [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Yethetho](https://open.spotify.com/album/1SOi1JzwaDAcmJiLXj7WGH) | 3:22 | 2025-04-21 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

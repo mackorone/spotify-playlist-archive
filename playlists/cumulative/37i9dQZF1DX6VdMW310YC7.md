@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,760 songs - 5 day 0 hr 2 min
+1,761 songs - 5 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Breathe In](https://open.spotify.com/track/0DzRRsU837SFfGg3qHggZt) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n), [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Kuala](https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv) | [Breathe In](https://open.spotify.com/album/3OlOyy3r8jil3U0aYzALyw) | 4:25 | 2024-04-05 | 2024-06-22 |
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2021-03-27 | 2024-04-19 |
 | [Breathing](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Breathing](https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan) | 3:24 | 2025-02-28 |  |
+| [Breeze](https://open.spotify.com/track/4Iz4rZPxjWYQCeVtksopKv) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Breeze](https://open.spotify.com/album/0udlUWkYUdtgKhg8x8DSM5) | 2:38 | 2025-04-18 |  |
 | [Brighter](https://open.spotify.com/track/6PKGDDpYt39sJfHJrYxJW4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:41 | 2020-05-18 | 2020-07-03 |
 | [Brighter \- Emmit's Version](https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Brighter \(Emmit's Version\)](https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt) | 2:42 | 2024-05-03 | 2024-09-21 |
 | [brighter days](https://open.spotify.com/track/0OidLNIUhWSBX2UEXbaqQS) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 3:56 | 2020-03-20 | 2020-07-18 |
@@ -636,7 +637,7 @@
 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 | 2022-07-01 | 2023-05-13 |
 | [Hear Me Now](https://open.spotify.com/track/6OnYQKTc5fbSGbIpaH4KxL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/5ev8miwRafJ3DeXNaAVzBZ) | 3:12 | 2020-05-22 | 2020-07-03 |
 | [Heart](https://open.spotify.com/track/1IQgMSRjsLjVw5VZFeWcC0) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart](https://open.spotify.com/album/5oOeNGXiuRst2Dat4Ufkhp) | 3:15 | 2020-03-16 | 2020-06-12 |
-| [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-10-01 |  |
+| [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-10-01 | 2025-04-22 |
 | [Heart Of Mine](https://open.spotify.com/track/7xsEMen9ISL49UPbeJ72RK) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Heart Of Mine](https://open.spotify.com/album/4BhGd2bPD1gqn0V7P4RVvx) | 3:50 | 2020-07-03 | 2020-10-10 |
 | [Heart To Heart](https://open.spotify.com/track/2RsBPnEUWSDEkheThXHbIq) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Heart To Heart](https://open.spotify.com/album/7u2vHbfkcGaRIfDH91Bl4h) | 4:24 | 2022-09-09 | 2022-12-13 |
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2021-09-10 | 2023-07-08 |

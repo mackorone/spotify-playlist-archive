@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 976 likes - 322 songs - 16 hr 22 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 977 likes - 331 songs - 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -330,5 +330,14 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 320 | [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 |
 | 321 | [Hyperactive](https://open.spotify.com/track/31JEUb4xIhZi5ZO3WVh6hE) | [The Lazy Tails](https://open.spotify.com/artist/7GmTFT9mv4s0VHTti5GRGi) | [Hyperactive](https://open.spotify.com/album/6hf1roiQQyKiTVdp5jVPXG) | 2:34 |
 | 322 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 |
+| 323 | [Get Away](https://open.spotify.com/track/3LQl1gU0y3xeMTaSWg1YES) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Get Away](https://open.spotify.com/album/5zTwh7E4oErE0OcriWgAfd) | 2:50 |
+| 324 | [I've Been Gone](https://open.spotify.com/track/5vwbKI4y8QPHENwh1afdjs) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I've Been Gone](https://open.spotify.com/album/3nkvNUzeXNSoyksBQh5xf6) | 4:30 |
+| 325 | [Fading Away](https://open.spotify.com/track/7qDJdDDFKBp79GJQhSiXvz) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:02 |
+| 326 | [Love my fursuit but what about me](https://open.spotify.com/track/0ZcQhlsqYvdjf4OyUDRTcG) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:48 |
+| 327 | [Christmas Star](https://open.spotify.com/track/5QEaw3cd2xfhv0TcEWDWnT) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:48 |
+| 328 | [My Little Monster](https://open.spotify.com/track/0JTJ1RyD5dK4LVaSCGkW1f) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 2:04 |
+| 329 | [Bring It To The Light](https://open.spotify.com/track/77BxV5aP7gQesMciiKi56S) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:53 |
+| 330 | [My Future](https://open.spotify.com/track/2XdlvoezoK7qp94SLmIkmW) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [My Future](https://open.spotify.com/album/79mIn0EK43ln8TJ3OSbOkv) | 2:13 |
+| 331 | [Y2K](https://open.spotify.com/track/5xzjnu9S5WB7oWudMxY1WM) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Y2K](https://open.spotify.com/album/4dwSVMwJqxzliiZHH72FcF) | 2:18 |
 
-Snapshot ID: `AAABdIcdL5ARD8fqY6LGoHxPlY9zYTAt`
+Snapshot ID: `AAABfbptKimuJEHb3/WrxioWp1O4Pk2i`

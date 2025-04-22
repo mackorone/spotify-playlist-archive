@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 18803,
+  "num_followers": 18808,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-04-21 02:20:22",
       "album": {
-        "name": "Night within you",
-        "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Night within you",
-      "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
-    },
-    {
-      "added_at": "2025-04-21 02:20:22",
-      "album": {
         "name": "Letter",
         "url": "https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2025-04-21 02:20:22",
       "album": {
-        "name": "Dear.",
-        "url": "https://open.spotify.com/album/6VAiBqirKlthgxPQUgP7Tb"
+        "name": "Night within you",
+        "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
       },
       "artists": [
         {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
         }
       ],
-      "duration_ms": 281493,
-      "name": "Your name",
-      "url": "https://open.spotify.com/track/5dJg9eVbselFdPqF1MJBwl"
+      "duration_ms": 254360,
+      "name": "Night within you",
+      "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
     },
     {
       "added_at": "2025-04-21 02:20:22",
@@ -835,6 +819,22 @@
       "duration_ms": 211536,
       "name": "today was the day I wasn't loved by anyone",
       "url": "https://open.spotify.com/track/0Qxu0E9xrGC34Fouim1vdO"
+    },
+    {
+      "added_at": "2025-04-21 02:20:22",
+      "album": {
+        "name": "Dear.",
+        "url": "https://open.spotify.com/album/6VAiBqirKlthgxPQUgP7Tb"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 281493,
+      "name": "Your name",
+      "url": "https://open.spotify.com/track/5dJg9eVbselFdPqF1MJBwl"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

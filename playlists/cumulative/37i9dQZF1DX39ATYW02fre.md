@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-260 songs - 18 hr 39 min
+261 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Love Now, Again](https://open.spotify.com/track/1NoWuTa2yd2fmXqIbALVri) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Chalk](https://open.spotify.com/album/7BwSbpmnlFAHrKpXdCrlcj) | 3:17 | 2024-03-01 | 2024-07-05 |
 | [Love Theme](https://open.spotify.com/track/5a0kuu2yUKAxgz4ie4EVp2) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Love Theme](https://open.spotify.com/album/2YXmGNLo8MgBrOmQKhp0bu) | 4:29 | 2020-06-05\* | 2022-07-21 |
 | [Lover, You Should've Come Over \(Exclusive Cover Version\)](https://open.spotify.com/track/4Pzim4c56ntyReaKmjcIIL) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Lover, You Should've Come Over](https://open.spotify.com/album/5VellzrJuIcQsc2JjB0hrv) | 3:00 | 2021-03-16 | 2022-07-29 |
-| [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 | 2021-04-20 |  |
+| [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 | 2021-04-20 | 2025-04-22 |
 | [Made To Stray](https://open.spotify.com/track/0BVdNCqYq6offkjRGKVRDB) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/4jaLRarRRCScr5v6Y6vUQu) | 4:46 | 2022-11-25 | 2024-01-10 |
 | [Made To Stray](https://open.spotify.com/track/7M0GDtHcuJrTMWtnSs48I3) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/6ETAoJJ5NhxsGyD53cHApT) | 4:46 | 2021-03-16 | 2022-11-13 |
 | [Magpie](https://open.spotify.com/track/7JupIPNh2O9kapSLZADTbd) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 3:55 | 2020-06-05 | 2022-07-18 |
@@ -197,6 +197,7 @@
 | [Ry \- Edit](https://open.spotify.com/track/3Tc6x9waprUmAwaOjEIWEa) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ry](https://open.spotify.com/album/4vFo3InuBDrRVEuBxBVMb5) | 3:40 | 2020-06-05\* | 2021-10-13 |
 | [S teboi](https://open.spotify.com/track/2kAOCGCbaBF6bXMkTcBFKk) | [zalagasper](https://open.spotify.com/artist/0YvFvwtv758gmIrkPoAnRO) | [4](https://open.spotify.com/album/0srDYj2Gl5QpfT5MQX9AmG) | 3:24 | 2020-06-12 | 2021-01-15 |
 | [Sailed](https://open.spotify.com/track/0AuyIbBGezzXo4zHvYVfEn) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Sailed](https://open.spotify.com/album/1MsQiYcjOZfsEg33k2szWW) | 4:04 | 2024-07-05 | 2024-09-21 |
+| [Salve](https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Salve](https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8) | 3:13 | 2025-04-17 |  |
 | [Say Something](https://open.spotify.com/track/1QtOnUVFzMD7g4E9tjofTw) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Kingdoms](https://open.spotify.com/album/073y7G58ZFRONbJJSYiwwC) | 3:56 | 2021-03-20 | 2021-10-16 |
 | [Sea \- Young Marco Remix](https://open.spotify.com/track/2LuPVa3HeAMBycOFhwI1KM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Remixed 1](https://open.spotify.com/album/3a9Uyb3QAQTpNUjx2Q2M05) | 5:42 | 2021-03-18 | 2022-07-14 |
 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-07-05 |  |

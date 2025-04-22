@@ -3671,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "Psalms",
+        "url": "https://open.spotify.com/album/5cuDMqFOZjvQVNktqakVSb"
+      },
+      "artists": [
+        {
+          "name": "Where's the Sheep?",
+          "url": "https://open.spotify.com/artist/0IvsAJ3WzVgyC9b6ZnXp9O"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Who Seeks God, Who Seeks Him (Psalm 14)",
+      "url": "https://open.spotify.com/track/56Osa3xRlKRojHvQ09xDMK"
+    },
+    {
+      "album": {
         "name": "WHY DO YOU LOVE ME?",
         "url": "https://open.spotify.com/album/0O14HOBmEPVEcDscQDfaEN"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743,606 likes - 200 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743,580 likes - 200 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

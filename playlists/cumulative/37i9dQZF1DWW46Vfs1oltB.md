@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> C JAMM\(씨잼\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> HAON\(하온\)\)
 
-1,506 songs - 3 day 9 hr 32 min
+1,507 songs - 3 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [God's Science \- Remix](https://open.spotify.com/track/11zGLobOQ8mseZToc54RLr) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [God's Science](https://open.spotify.com/album/3GfRA7uHVRHVjt1FDHZHgd) | 3:21 | 2022-10-06 | 2023-03-01 |
 | [Going Home \(feat\. Koonta\)](https://open.spotify.com/track/3eNvKpsWbefSkN2PReDxPf) | [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Going Home](https://open.spotify.com/album/4Bhx96JxhZK8hiEhIpCNA0) | 3:17 | 2022-03-03 | 2022-06-23 |
 | [Gold \(ft\. DUT2, DON MALIK\)](https://open.spotify.com/track/08Z8hKRmQHJjDYt1wk0z0t) | [hyeminsong](https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [REBORN](https://open.spotify.com/album/3VhweYBjsf9InPl29h78qf) | 2:54 | 2023-12-06 | 2024-03-09 |
+| [Gold Chain \(feat\. YANGHONGWON\)](https://open.spotify.com/track/112YssgzPBToSuq09E5xnC) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Gold Chain](https://open.spotify.com/album/0kQdDKNaHImgr4QEyicWll) | 3:14 | 2025-04-21 |  |
 | [Gone](https://open.spotify.com/track/2kUmf1T7B8ZpfRhBxEJCbL) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Re: Tired.](https://open.spotify.com/album/0qR9lMfsaunrGQNaIm6l2K) | 3:06 | 2022-10-19 | 2022-10-27 |
 | [Gone \(feat\. Loco\)\(prod\. 성국\)](https://open.spotify.com/track/4IvttuPCmhLXFoYg2DhWH2) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Gone \(feat\. Loco\)\(prod\. 성국\)](https://open.spotify.com/album/1HyRMR8M7NLcq6Y9MuQtSb) | 3:02 | 2022-04-08 | 2022-07-07 |
 | [GOOD 2 GO \(feat\. Jay Park\)](https://open.spotify.com/track/1pNtXt7AY1D4U9699g40mS) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [GOOD 2 GO](https://open.spotify.com/album/6t05xCPgRIHjikiHPxWI6a) | 2:34 | 2022-07-07 | 2023-01-04 |

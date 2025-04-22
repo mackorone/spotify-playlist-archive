@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 161923,
+  "num_followers": 161936,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aALngAAAAAC8Uzl5DKFk1PRRYjaRq5Zl",
+  "snapshot_id": "aAQ5AAAAAABqu4dzLqW+D2jUrvBaZ2O5",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aline Barros e Cia",
         "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 202106,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
-        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
-      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firme Fundamento",
-        "url": "https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI"
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 297082,
-      "name": "1 Cor\u00edntios 13",
-      "url": "https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y"
+      "duration_ms": 449693,
+      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/49z6QBLAYJDbITRbidCoMn"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros 20 Anos Ao Vivo",
-        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+        "name": "Firme Fundamento",
+        "url": "https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 449693,
-      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/49z6QBLAYJDbITRbidCoMn"
+      "duration_ms": 297082,
+      "name": "1 Cor\u00edntios 13",
+      "url": "https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y"
     },
     {
       "added_at": null,

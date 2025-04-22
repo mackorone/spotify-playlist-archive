@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 112,109 likes - 106 songs - 4 hr 36 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 112,090 likes - 106 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 68 | [New Day](https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [New Day](https://open.spotify.com/album/7Cf9t1081bnynjbVx0xonT) | 2:30 |
 | 69 | [Exist](https://open.spotify.com/track/6A7n3nYDnsTaKl0Z6SmvWW) | [Twin](https://open.spotify.com/artist/04xlDQ2RhoOYISsIcP7ia4), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Exist](https://open.spotify.com/album/14lxmZVJ5aNmOGbafHxz2C) | 3:00 |
 | 70 | [World Without You](https://open.spotify.com/track/43j93tSFpswVLPsUeGoLkR) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Rolih](https://open.spotify.com/artist/5yfuJnrgpx9RtTDsYY9RBj), [Twins of June](https://open.spotify.com/artist/5atvjRh7t4OxQFkBYnHAiu), [Sarah Maria](https://open.spotify.com/artist/5JoVkGX1tekbjCYdWrMgZz) | [World Without You](https://open.spotify.com/album/5JOmd54e9jlln4EJUiRby8) | 2:50 |
-| 71 | [Good Liar](https://open.spotify.com/track/2khM65nYgmAJaZUFxowBCu) | [Leo Chase](https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j) | [Good Liar](https://open.spotify.com/album/2puWp7kLgFD0cFKhAbXBHH) | 2:14 |
-| 72 | [Deja Vu](https://open.spotify.com/track/2rYmLVCRao7S4l3NQ5rPRT) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Deja Vu](https://open.spotify.com/album/43zqCD8k4E19ZvCW7cyIUh) | 2:13 |
-| 73 | [Where Are You Now](https://open.spotify.com/track/5TKUi0iE41RHwRztvupYlK) | [EMOCA](https://open.spotify.com/artist/5rk2n2NIB3kKhIl880B08S), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7) | [Where Are You Now](https://open.spotify.com/album/5xQzkvqkGV4NRBj2iZlYfQ) | 2:11 |
+| 71 | [Where Are You Now](https://open.spotify.com/track/5TKUi0iE41RHwRztvupYlK) | [EMOCA](https://open.spotify.com/artist/5rk2n2NIB3kKhIl880B08S), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7) | [Where Are You Now](https://open.spotify.com/album/5xQzkvqkGV4NRBj2iZlYfQ) | 2:11 |
+| 72 | [Good Liar](https://open.spotify.com/track/2khM65nYgmAJaZUFxowBCu) | [Leo Chase](https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j) | [Good Liar](https://open.spotify.com/album/2puWp7kLgFD0cFKhAbXBHH) | 2:14 |
+| 73 | [Deja Vu](https://open.spotify.com/track/2rYmLVCRao7S4l3NQ5rPRT) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Deja Vu](https://open.spotify.com/album/43zqCD8k4E19ZvCW7cyIUh) | 2:13 |
 | 74 | [Too Close](https://open.spotify.com/track/5jkBclINAdcDJ4YkdtwKqE) | [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Too Close](https://open.spotify.com/album/35159oqJ0OjZ3sTUyRtCJR) | 2:55 |
 | 75 | [Falling For You](https://open.spotify.com/track/6NZziRxaq11Tv8MTuEB0kR) | [Ten Pictures](https://open.spotify.com/artist/56JblCBPFFJbOhsHoPrJ4e) | [Falling For You](https://open.spotify.com/album/6sW6ujeG6ROsbdu1zB4nQp) | 2:29 |
 | 76 | [Blame The Messiah](https://open.spotify.com/track/1sAGfDjxTrYz5BD131flfV) | [Delove](https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt), [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj) | [Blame The Messiah](https://open.spotify.com/album/1efuRyOnawyCgmZ3shql4l) | 2:49 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 105 | [All The Way Down](https://open.spotify.com/track/1JLUnZ3nhiaJ9XiZ62a8wG) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Plaha](https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [All The Way Down](https://open.spotify.com/album/5yiANlsz99kE9TWCTxPlzP) | 2:21 |
 | 106 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/6f5HftdP4BE9tLvCBAJHtC) | [LUKUS](https://open.spotify.com/artist/1MRIxJ469v984abDvc1sMi), [Balmy Buoy](https://open.spotify.com/artist/65usRz9lf3wbkGzsnNUa7d) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/4V5v3TQRHGd2wuUAbSqx9V) | 2:49 |
 
-Snapshot ID: `AAAeqYYrNIzelzuo+6Pb2bIzTbLBKmZ7`
+Snapshot ID: `AAAeqh2mZZTNXLEfrdA0aMEISwkxPQW8`

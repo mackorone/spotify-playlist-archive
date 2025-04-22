@@ -11692,7 +11692,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -31011,6 +31011,24 @@
     },
     {
       "album": {
+        "name": "Rolfs Hasengeschichte",
+        "url": "https://open.spotify.com/album/3nYNwdW3Bf6W1CC8P7bA8c"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114533,
+      "name": "Jetzt kommt die Osterzeit",
+      "url": "https://open.spotify.com/track/3TdaIvgF7SUojwc2rA3gPd"
+    },
+    {
+      "album": {
         "name": "Jiggy",
         "url": "https://open.spotify.com/album/3z2D8SA7g9trHTh3pawZFl"
       },
@@ -31030,7 +31048,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 131214,
       "name": "Jiggy",
       "url": "https://open.spotify.com/track/6xLoWndBgNvlylHAWxiqxw"
@@ -43664,7 +43682,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"

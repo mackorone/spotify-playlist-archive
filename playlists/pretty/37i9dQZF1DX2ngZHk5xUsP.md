@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Juicy Luicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,018 likes - 90 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,017 likes - 90 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

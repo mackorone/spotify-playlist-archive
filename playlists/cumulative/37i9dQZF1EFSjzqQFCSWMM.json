@@ -977,6 +977,28 @@
     },
     {
       "album": {
+        "name": "Before I Disappear Again",
+        "url": "https://open.spotify.com/album/6agdmpAaTKDYHrG2R7dl0U"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144286,
+      "name": "Invoice (feat. Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/063nJW2YbI0LBZLrO6qwDG"
+    },
+    {
+      "album": {
         "name": "I GOT ISSUES",
         "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
       },

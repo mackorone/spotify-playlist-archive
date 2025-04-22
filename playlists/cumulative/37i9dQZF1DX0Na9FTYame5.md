@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Florentina, FOURTY
 
-204 songs - 9 hr 15 min
+206 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD) | 2:56 | 2024-07-25 | 2024-10-18 |
 | [EIN TEIL VON MIR](https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [EIN TEIL VON MIR](https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd) | 2:45 | 2025-02-03 |  |
 | [Elbe](https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Elbe](https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg) | 3:15 | 2024-06-28 |  |
-| [Ende](https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Ende](https://open.spotify.com/album/4a93EgYKbcOmW5aSeL6ODf) | 2:53 | 2025-02-27 |  |
+| [Ende](https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Ende](https://open.spotify.com/album/4a93EgYKbcOmW5aSeL6ODf) | 2:53 | 2025-02-27 | 2025-04-22 |
 | [Ende der Strasse](https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Ende der Strasse](https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ) | 2:36 | 2024-06-28 | 2025-01-03 |
 | [Engel](https://open.spotify.com/track/46EwNycSh1V6DTtsIffbS0) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Engel](https://open.spotify.com/album/7Jy7AQ54wPaWiYXExMZ70r) | 2:16 | 2024-09-16 | 2024-10-13 |
 | [Erinnerung](https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Erinnerung](https://open.spotify.com/album/12HdgFBc0Ij4mvk9MefIk2) | 3:26 | 2025-03-24 |  |
@@ -162,12 +162,13 @@
 | [Rollercoaster](https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:20 | 2025-04-10 |  |
 | [Rote Ampel](https://open.spotify.com/track/3GpYpn3NaaZglyLqOMYHdJ) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf), [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5) | [Leeres Herz](https://open.spotify.com/album/5sWgyjMxgC28NFWEHtt26o) | 2:41 | 2024-12-09 | 2025-04-18 |
 | [S1](https://open.spotify.com/track/5M9h1FePRQwKlOOFdt9OSF) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [S1](https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ) | 3:12 | 2024-06-28 | 2024-10-04 |
-| [SABÍA QUE NO \- Acoustic](https://open.spotify.com/track/79zF8Srs6cWvQhq7E5p1LP) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [SABÍA QUE NO \- Acoustic](https://open.spotify.com/album/71ZyKJJR0jHm0rsCB6SMsX) | 2:18 | 2025-02-03 |  |
+| [SABÍA QUE NO \- Acoustic](https://open.spotify.com/track/79zF8Srs6cWvQhq7E5p1LP) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [SABÍA QUE NO \- Acoustic](https://open.spotify.com/album/71ZyKJJR0jHm0rsCB6SMsX) | 2:18 | 2025-02-03 | 2025-04-22 |
 | [Safe Space](https://open.spotify.com/track/6HDHXiKCOYJkrpaJPZuM74) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Safe Space](https://open.spotify.com/album/2P4PDLYSHvViL5tnKF4P5R) | 2:16 | 2024-06-28 | 2024-07-29 |
 | [sag was](https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sag was](https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs) | 3:22 | 2024-06-28 | 2025-02-04 |
 | [Sanduhr](https://open.spotify.com/track/0hab3VhPV6LIWZbOgwm67L) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [LEVIN LIAM LEAKS 2025](https://open.spotify.com/album/4EM21MaOPc7LwPZPWUfEwv) | 2:11 | 2025-03-24 |  |
 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 | 2024-06-28 | 2024-12-19 |
 | [Schwarze Wolke](https://open.spotify.com/track/5Y1KFSz4b4b27mVwtAdnUV) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Schwarze Wolke](https://open.spotify.com/album/1WZAhXI5YWAjDonYilGnzy) | 2:57 | 2024-11-11 | 2025-01-16 |
+| [Schwere Zeit](https://open.spotify.com/track/5biAmerrRPKz6NyXcJu7JU) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Schwere Zeit](https://open.spotify.com/album/0svFX9P5gBS7mggcJAjyJR) | 2:06 | 2025-04-17 |  |
 | [Sehnsucht](https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Sehnsucht](https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3) | 3:03 | 2024-08-26 |  |
 | [Selber Schuld](https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Selber Schuld](https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg) | 2:21 | 2024-08-01 | 2025-02-08 |
 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 | 2024-06-28 | 2024-11-11 |
@@ -210,6 +211,7 @@
 | [Wünsch mir was](https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY) | [METRICKZ](https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf) | [Mufasa](https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1) | 3:15 | 2024-08-01 | 2025-01-21 |
 | [Yay](https://open.spotify.com/track/51OiYIROicWw15V5Pcbj5g) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:05 | 2025-01-16 |  |
 | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu) | 2:31 | 2024-06-28 | 2024-12-10 |
+| [Zemer <3](https://open.spotify.com/track/04xkyS0g9ZQVauyOukMu1r) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Zemer <3](https://open.spotify.com/album/7zOaDFEjjNb8j0uEEfhqC6) | 2:29 | 2025-04-17 |  |
 | [Zwischenphase](https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Zwischenphase](https://open.spotify.com/album/191TZlivZyXydwrNA3vl04) | 2:30 | 2025-03-14 |  |
 | [Über dem Himmel](https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Über dem Himmel](https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK) | 2:26 | 2024-06-28 | 2024-08-13 |
 

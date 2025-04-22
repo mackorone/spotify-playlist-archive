@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ3uKRXjFdH.md) - [plain]
 
 > The Official Playlist for Clark\. Watch Now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 38 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 38 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

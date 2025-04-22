@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Hugo Henrique com Léo Foguete, Kenia OS com Anitta, Juliette, Rachel Reis e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062,890 likes - 71 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062,919 likes - 71 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

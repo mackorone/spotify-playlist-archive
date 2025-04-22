@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 82726,
+  "num_followers": 82747,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -51,30 +51,6 @@
     {
       "added_at": "2025-04-17 15:47:11",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/2f3JjQYimC9ZWI7KwJVZrN"
-      },
-      "artists": [
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        },
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0ZXq43rBFfRBAhynZeVChZ"
-    },
-    {
-      "added_at": "2025-04-17 15:47:11",
-      "album": {
         "name": "BEAT THE DRUM",
         "url": "https://open.spotify.com/album/1r8qDaeUBVt3SgcfmTplrp"
       },
@@ -95,6 +71,30 @@
       "duration_ms": 192705,
       "name": "BEAT THE DRUM",
       "url": "https://open.spotify.com/track/34ZYnA1IYZgY2wQfwRpFkm"
+    },
+    {
+      "added_at": "2025-04-17 15:47:11",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2f3JjQYimC9ZWI7KwJVZrN"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0ZXq43rBFfRBAhynZeVChZ"
     },
     {
       "added_at": "2025-04-17 15:47:11",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-04-17 15:47:11",
       "album": {
-        "name": "Straight To The Core",
-        "url": "https://open.spotify.com/album/0qGohB6U4hU6e0lNovxQKH"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 171771,
-      "name": "Straight To The Core",
-      "url": "https://open.spotify.com/track/2ajb1wQhU6yjmHyktCqnox"
-    },
-    {
-      "added_at": "2025-04-17 15:47:11",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 178801,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt"
+    },
+    {
+      "added_at": "2025-04-17 15:47:11",
+      "album": {
+        "name": "Straight To The Core",
+        "url": "https://open.spotify.com/album/0qGohB6U4hU6e0lNovxQKH"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 171771,
+      "name": "Straight To The Core",
+      "url": "https://open.spotify.com/track/2ajb1wQhU6yjmHyktCqnox"
     },
     {
       "added_at": "2025-04-17 15:47:11",
@@ -979,18 +979,22 @@
     {
       "added_at": "2025-04-17 15:47:11",
       "album": {
-        "name": "Mind Control",
-        "url": "https://open.spotify.com/album/08Mz2EPv19ITTa6ScLo3nP"
+        "name": "Zware Jongens",
+        "url": "https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota"
       },
       "artists": [
         {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+          "name": "Tharken",
+          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/1LPHe6Gm9NfUBhhSUTRQrb"
+      "duration_ms": 164400,
+      "name": "Zware Jongens",
+      "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"
     }
   ],
   "unique_name": "Hardcore Rage 2025",

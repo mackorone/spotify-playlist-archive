@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 4334,
+  "num_followers": 4342,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Old Fashioned Holiday",
-        "url": "https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9"
+        "name": "A Dotted Line",
+        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
       },
       "artists": [
         {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
         }
       ],
-      "duration_ms": 186833,
-      "name": "Old Fashioned Holiday",
-      "url": "https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t"
+      "duration_ms": 262786,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -171,22 +171,18 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "The Light Of Christmas Day (From \"Love The Coopers\" Soundtrack)",
-        "url": "https://open.spotify.com/album/3B9kzvGmlBGIe7OBKpo5xJ"
+        "name": "Old Fashioned Holiday",
+        "url": "https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9"
       },
       "artists": [
         {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
         }
       ],
-      "duration_ms": 206480,
-      "name": "The Light Of Christmas Day - From \"Love The Coopers\" Soundtrack",
-      "url": "https://open.spotify.com/track/1UwnjTHeagqBKTmFMe9CwF"
+      "duration_ms": 186833,
+      "name": "Old Fashioned Holiday",
+      "url": "https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -207,18 +203,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "A Dotted Line",
-        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
+        "name": "The Light Of Christmas Day (From \"Love The Coopers\" Soundtrack)",
+        "url": "https://open.spotify.com/album/3B9kzvGmlBGIe7OBKpo5xJ"
       },
       "artists": [
         {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 262786,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
+      "duration_ms": 206480,
+      "name": "The Light Of Christmas Day - From \"Love The Coopers\" Soundtrack",
+      "url": "https://open.spotify.com/track/1UwnjTHeagqBKTmFMe9CwF"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Christmas Grass - The Collection",
-        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "One Bright Star",
-      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Everybody Knows It's Christmas",
         "url": "https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 224760,
       "name": "Wrapping Presents For Myself",
       "url": "https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Christmas Grass - The Collection",
+        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "One Bright Star",
+      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Baby, It's Cold Outside",
-        "url": "https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Maria Muldaur",
-          "url": "https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Gone for Christmas (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 232102,
       "name": "Gone for Christmas (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Baby, It's Cold Outside",
+        "url": "https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Maria Muldaur",
+          "url": "https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "The Songs the Season Brings, Vol. 5",
-        "url": "https://open.spotify.com/album/1oFbCfHaZmS713CJfmcnll"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 145709,
-      "name": "Wonderful Christmas Time",
-      "url": "https://open.spotify.com/track/3ojZyttDj9BPo3IJfYYeeB"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/0Lt81n1P5yl3I35EbUrvd3"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 208988,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/7GnQsPZ4C4mecUcglkUJgr"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "The Songs the Season Brings, Vol. 5",
+        "url": "https://open.spotify.com/album/1oFbCfHaZmS713CJfmcnll"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 145709,
+      "name": "Wonderful Christmas Time",
+      "url": "https://open.spotify.com/track/3ojZyttDj9BPo3IJfYYeeB"
     },
     {
       "added_at": "2024-12-20 18:31:17",

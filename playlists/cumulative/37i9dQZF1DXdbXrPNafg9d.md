@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Tunde Adebimpe
 
-8,647 songs - 21 day 0 hr 8 min
+8,648 songs - 21 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [Baseball Bat](https://open.spotify.com/track/0dW4ugBEAeoAINC72jZ7q5) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [Baseball Bat](https://open.spotify.com/album/1iqGSVF6kycYHgttIEpDtG) | 3:45 | 2023-11-17 | 2024-01-13 |
 | [Basement](https://open.spotify.com/track/1LGZzWQexuUXz7n3DJTJOl) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/29rQiqo1hLh668XBKU80sA) | 3:43 | 2024-02-23 | 2024-03-06 |
 | [Basement](https://open.spotify.com/track/1aIQvLvwz35NdFgMpc2nYo) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C) | 3:43 | 2024-02-23 | 2024-03-23 |
+| [Bashville on the Sugar](https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bashville on the Sugar](https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz) | 4:05 | 2025-04-21 |  |
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-24 | 2025-03-01 |
 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-02-24 | 2023-03-25 |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 | 2022-07-16 |
@@ -8469,7 +8470,7 @@
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-01-13 | 2023-02-18 |
 | [Worst Case Scenario](https://open.spotify.com/track/2zfCPUl6LNNpMXxxWboAQd) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Worst Case Scenario](https://open.spotify.com/album/4CIKxYnhoT739ryV3crJ81) | 3:38 | 2024-10-04 | 2024-11-02 |
 | [Worst of Ways](https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Field Guide](https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr) | 3:26 | 2022-10-28 | 2022-12-10 |
-| [Worst That Could Happen](https://open.spotify.com/track/1gmfLlgeaAhCTt1JFzqjiO) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [A Walk in the Grass](https://open.spotify.com/album/0EohXKXpUG3W6newg6wmLc) | 4:12 | 2025-03-21 |  |
+| [Worst That Could Happen](https://open.spotify.com/track/1gmfLlgeaAhCTt1JFzqjiO) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [A Walk in the Grass](https://open.spotify.com/album/0EohXKXpUG3W6newg6wmLc) | 4:12 | 2025-03-21 | 2025-04-22 |
 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [worth it](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 | 2023-03-03 | 2023-04-09 |
 | [Would It Kill Ya](https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Would It Kill Ya](https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f) | 2:45 | 2023-03-03 | 2023-04-09 |
 | [Would You Love Me Anyway?](https://open.spotify.com/track/3NzCQuUAMhCSzLRuo6YWIY) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Would You Love Me Anyway?](https://open.spotify.com/album/3cqcMqt1X0hdxGlTD8ugHW) | 4:12 | 2023-10-20 | 2023-12-14 |

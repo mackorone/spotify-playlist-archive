@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-689 songs - 2 day 18 hr 59 min
+690 songs - 2 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Last Song](https://open.spotify.com/track/6pvI93SNbtPTaWQ3OvvFmV) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/5Ks5CvTHpCOc7m08HkxVpn) | 7:42 | 2019-08-15 | 2021-03-22 |
 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 | 2024-12-20 | 2025-01-26 |
 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 | 2023-06-30 | 2024-08-30 |
-| [Let It Go](https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Let It Go](https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj) | 2:58 | 2025-01-10 |  |
+| [Let It Go](https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Let It Go](https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj) | 2:58 | 2025-01-10 | 2025-04-22 |
 | [Let Me Come To Life](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Let Me Come To Life](https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY) | 5:35 | 2025-01-31 |  |
 | [Lieblingsmensch \- Edit](https://open.spotify.com/track/6CXFxsx3VCNLwRdOn9cXKp) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Lieblingsmensch \(Edit\)](https://open.spotify.com/album/0a7nVpT905t2mcpvMVuxuL) | 3:40 | 2020-01-14 | 2020-07-18 |
 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 |  |
@@ -443,6 +443,7 @@
 | [Overcome](https://open.spotify.com/track/3Ri7CVRYHurCnvubOZKZRA) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu), [Arturo \(RU\)](https://open.spotify.com/artist/5Mci17S1El2pO6fvVaZ2Fd) | [Overcome](https://open.spotify.com/album/1esfKP16AKHgk6P5fDuXQX) | 7:12 | 2022-11-15 | 2022-11-26 |
 | [Overtime](https://open.spotify.com/track/7rVC2UttlwpV320rkPBSrs) | [Paji](https://open.spotify.com/artist/7JlIc6aw1PyoBKQg9c1EnJ), [Wonderful Bones](https://open.spotify.com/artist/1fXw6ZgMDrLPoyehLaoQkf) | [Paji](https://open.spotify.com/album/2Oq4q9VX9Cq0vseM7vtRHj) | 5:10 | 2019-12-21 | 2021-02-20 |
 | [Owl Adventure](https://open.spotify.com/track/51uhOO3zvddkGfZHkRxbJc) | [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [Owl Adventure](https://open.spotify.com/album/47UqjyThELPKDNQ0kH32TV) | 8:03 | 2021-12-07 | 2022-07-22 |
+| [Oxido \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/2RhTWxwoljIizLKfphbyFD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Desconfiguración, Vol\. 4](https://open.spotify.com/album/5LGIrNz5TLDoV228z8oLeO) | 6:54 | 2025-04-11 |  |
 | [Packard \- Blomqvist & Schories Sunrise Mix](https://open.spotify.com/track/68UiApRTyu4Trb5kwMgCd2) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Packard](https://open.spotify.com/album/2N1lWGpmve4vfMTGeCk3At) | 6:01 | 2020-07-18 | 2021-08-21 |
 | [Packard \- Nora En Pure Remix](https://open.spotify.com/track/6q8y9CRGqPCz4Waajo9zAS) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Packard \(Nora En Pure Remix\)](https://open.spotify.com/album/5PoGk4EwhBXqGZLbD1aCXU) | 4:10 | 2020-10-10 | 2022-07-29 |
 | [Panama](https://open.spotify.com/track/6t5ZrF85M2199GUyPm4P3k) | [Starkato](https://open.spotify.com/artist/1lO9ligq8J6pXAAbvXwk9z), [Intaktogene](https://open.spotify.com/artist/4Xb3F7RouTER6Dckc2PCG0) | [Panslinger](https://open.spotify.com/album/4oPjm0PzlCpDDJLKopTZcM) | 7:17 | 2021-02-16 | 2021-05-28 |

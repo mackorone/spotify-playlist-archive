@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Deborah Hanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,250 likes - 111 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,261 likes - 111 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

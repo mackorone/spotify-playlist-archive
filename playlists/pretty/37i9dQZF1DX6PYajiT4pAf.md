@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Omar Courtz con Bad Gyal, Judeline, Beéle & Marc Anthony y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,204 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,229 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 4 | [KTM](https://open.spotify.com/track/3XXofal1zx616qGCutchgq) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG) | [KTM](https://open.spotify.com/album/1NXAld0zegArVKl00nTSpv) | 2:57 |
 | 5 | [EXCLUSI](https://open.spotify.com/track/2bP5d3R5DlWGmekTQpZHT5) | [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI), [Jthyago](https://open.spotify.com/artist/1OGwUf0F69wrVxXYW3e9Nl), [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4), [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [BUGGATINO](https://open.spotify.com/artist/43zou9f8vndQl2XZR5gAmR) | [EXCLUSI](https://open.spotify.com/album/0J6m0KxeCC8HSWPyekgnn5) | 4:22 |
 | 6 | [Tantos](https://open.spotify.com/track/0UIU0Mut769Hsj73u275rt) | [El Ougyy](https://open.spotify.com/artist/7c4LUqMbUnX1rwzHaSkpxp), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Tantos](https://open.spotify.com/album/6cC3jt9znooEEI5v9NRfKA) | 2:59 |
-| 7 | [90%](https://open.spotify.com/track/4y4udz7Zz9eQXeX9PbJHkp) | [C Marí](https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps), [BLNCO](https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p) | [Sempre Cor \(Deluxe\)](https://open.spotify.com/album/5kPjEUnf1jrr1rvb222TJ2) | 3:35 |
+| 7 | [90%](https://open.spotify.com/track/4y4udz7Zz9eQXeX9PbJHkp) | [C Marí](https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps), [BLNCO](https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p) | [Sempre Cor Deluxe](https://open.spotify.com/album/5kPjEUnf1jrr1rvb222TJ2) | 3:35 |
 | 8 | [Dentro De La Disco](https://open.spotify.com/track/1fyIGx1bGNlywDMybF6aJD) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Dentro De La Disco](https://open.spotify.com/album/50WeyzONmjgiV9K7q4CrNk) | 2:58 |
 | 9 | [UN TRIO](https://open.spotify.com/track/6i6PpqE9lA5eMYTJX57ZhD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [UN TRIO](https://open.spotify.com/album/3zAkWZlz7sa6cuzUlAXCF8) | 2:37 |
 | 10 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |

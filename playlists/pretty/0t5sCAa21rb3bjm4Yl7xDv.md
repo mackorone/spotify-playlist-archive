@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > your favourite playlist's favourite playlist &lt;3\. shop the pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Ariana Grande
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 79,921 likes - 98 songs - 5 hr 17 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 79,919 likes - 98 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

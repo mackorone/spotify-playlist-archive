@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-212 songs - 11 hr 45 min
+213 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,11 +76,12 @@
 | [Far Away \(Feat\. H:SEAN, SWRY\) \(Prod\. Liam K\)](https://open.spotify.com/track/4y3zwYdCDCRUnRsXP9gBLI) | [Holmsted](https://open.spotify.com/artist/4AETbFj8tCGWWDWLXIldTB), [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18), [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs) | [DOT 1](https://open.spotify.com/album/2pyUjceJRcxmJsf0UAZvOI) | 3:42 | 2022-04-18 | 2022-07-27 |
 | [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 | 2023-10-20 |  |
 | [First time](https://open.spotify.com/track/3c6G3VkE3TbHdUYrDaATOS) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [First time](https://open.spotify.com/album/5ZnkmWDQeXbdgfpj8VaurC) | 3:06 | 2022-04-21 | 2022-07-26 |
+| [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 | 2025-04-09 |  |
 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2022-08-03 |  |
 | [Flower \(Feat\. Jay Park, Woo, GIRIBOY\)](https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:33 | 2022-04-18 |  |
 | [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 | 2024-05-14 |  |
 | [Frank Ocean](https://open.spotify.com/track/5GIYyKQCiNobtNpU3IGgxn) | [Jiho Givenchy](https://open.spotify.com/artist/7FmUBvEV5FBVdF021jN5r2), [Javan](https://open.spotify.com/artist/2Ov5VPtihyYirhoUVqvb8g) | [Frank Ocean](https://open.spotify.com/album/60HTg0VEeH0VYSkMWLKRfz) | 3:08 | 2022-04-18 | 2022-07-29 |
-| [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 | 2022-04-18 |  |
+| [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 | 2022-04-18 | 2025-04-22 |
 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 | 2022-07-22 | 2023-01-07 |
 | [Full Moon](https://open.spotify.com/track/0TVNwwR03yg6MvkDn12Oy3) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 4:34 | 2022-04-18 | 2022-07-24 |
 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 | 2022-04-18 | 2022-07-28 |

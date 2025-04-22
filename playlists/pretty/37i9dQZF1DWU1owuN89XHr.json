@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 286293,
+  "num_followers": 286316,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Hoy Como Ayer",
+        "url": "https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 272042,
+      "name": "Hoy Como Ayer",
+      "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "14 de Ciento Volando de 14",
         "url": "https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX"
       },
@@ -751,26 +771,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Hoy Como Ayer",
-        "url": "https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 272042,
-      "name": "Hoy Como Ayer",
-      "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Coincidir",
         "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Tres De Copas",
-        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
-      },
-      "artists": [
-        {
-          "name": "Tres de Copas",
-          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Hasta Donde tu vayas",
-      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 240866,
       "name": "Todo El A\u00f1o",
       "url": "https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Tres De Copas",
+        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
+      },
+      "artists": [
+        {
+          "name": "Tres de Copas",
+          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "Hasta Donde tu vayas",
+      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
     },
     {
       "added_at": "2021-07-29 16:46:05",

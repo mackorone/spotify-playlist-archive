@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Dato' Sri Siti Nurhaliza, OneRepublic, Lana Del Rey, Nadhif Basamalah, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,624 likes - 113 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,631 likes - 113 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

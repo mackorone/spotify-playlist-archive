@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Jazzy
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,282 likes - 114 songs - 5 hr 50 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,286 likes - 116 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 112 | [Got Me Started \- Bag Raiders Remix](https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Got Me Started \(Bag Raiders Remix\)](https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX) | 3:41 |
 | 113 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 |
 | 114 | [Lunae Veritatis \(Stay\) feat\. Drax Project](https://open.spotify.com/track/2k82YAk1mA5AF97XSBanpn) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Lunae Veritatis \(Stay\) feat\. Drax Project](https://open.spotify.com/album/4VfegOywgKkXVItS89E5WW) | 3:26 |
+| 115 | [Obsession](https://open.spotify.com/track/6PuSrhsfW1SuB26lDtahRJ) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Obsession](https://open.spotify.com/album/7FdYJQkaZcG5PvzmwkhXMi) | 3:37 |
+| 116 | [Can You Be](https://open.spotify.com/track/3zoBAXsq6sFHs6T8yuoizy) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s), [Kadiri](https://open.spotify.com/artist/3kZSDkPCtc5ICgzAmZSP4e) | [Can You Be](https://open.spotify.com/album/4rlDBqeWrfgWjLB3arW6Rv) | 3:13 |
 
-Snapshot ID: `AAAgAURhRga+RB9V38EkXqXAsYe6lqAD`
+Snapshot ID: `AAAgAysJ0mSs5lJwlNY3y0EQGX9hBsEk`

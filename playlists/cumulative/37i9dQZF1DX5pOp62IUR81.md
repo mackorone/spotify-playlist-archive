@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-210 songs - 9 hr 1 min
+211 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [The Final Battle Begins](https://open.spotify.com/track/3dmbpL8b6XIi3B0iM7G3Bw) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy \(Original Score\)](https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM) | 4:21 | 2024-01-05 |  |
 | [The Hero of the Multiverse](https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If...? \- An Immersive Story \(Original Soundtrack\)](https://open.spotify.com/album/54SlomuJZjSdzwHL9mXjM8) | 1:23 | 2024-08-16 |  |
 | [The Jabari](https://open.spotify.com/track/6i0hIiIRiHU2CouXvYCq8Z) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 1:08 | 2024-01-05 |  |
+| [The Lord Near My Shadows](https://open.spotify.com/track/6yyvfHWTmLkHs38vUtKdMF) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Marvel's Daredevil: Born Again \- Vol\. 2 \(Episodes 5\-9\) \[Original Soundtrack\]](https://open.spotify.com/album/6aEAmDEDpZc4WaNZqdyccx) | 1:17 | 2025-04-21 |  |
 | [The Mind Stone](https://open.spotify.com/track/5QWpMTowF8po4JgIpJxOKV) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 8 \(Original Soundtrack\)](https://open.spotify.com/album/5n0jcupsCMSOjt8K7vq555) | 2:29 | 2024-01-05 |  |
 | [The Punisher Main Title](https://open.spotify.com/track/0rSJtqCSAkhKORRpJlk7pL) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [The Punisher \(Original Soundtrack\)](https://open.spotify.com/album/4z7w3IoSFgysP7iNpDgUqu) | 1:15 | 2024-01-05 |  |
 | [The Real Hero](https://open.spotify.com/track/3KHrXuByzDnDOaVR15rZH7) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 5:54 | 2024-01-05 |  |

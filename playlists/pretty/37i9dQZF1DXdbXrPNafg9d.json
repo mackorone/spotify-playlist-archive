@@ -1,12 +1,12 @@
 {
   "description": "The best new music every Friday. Cover: Tunde Adebimpe",
-  "num_followers": 1300646,
+  "num_followers": 1300857,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAHOeAAAAAB17ewtkiw2POVByL1mG7zq",
+  "snapshot_id": "aAZ1egAAAABFssrlIukUypn0c5T0Keuz",
   "tracks": [
     {
       "added_at": "2025-04-18 04:00:56",
@@ -247,6 +247,22 @@
       "duration_ms": 229977,
       "name": "Hazel",
       "url": "https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5"
+    },
+    {
+      "added_at": "2025-04-21 16:42:34",
+      "album": {
+        "name": "Bashville on the Sugar",
+        "url": "https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Bashville on the Sugar",
+      "url": "https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1"
     },
     {
       "added_at": "2025-04-18 04:00:56",
@@ -2707,22 +2723,6 @@
       "duration_ms": 420889,
       "name": "Immigrant Songs",
       "url": "https://open.spotify.com/track/68UHXy1CYxlp6VsjJSYqaH"
-    },
-    {
-      "added_at": "2025-03-21 04:00:58",
-      "album": {
-        "name": "A Walk in the Grass",
-        "url": "https://open.spotify.com/album/0EohXKXpUG3W6newg6wmLc"
-      },
-      "artists": [
-        {
-          "name": "Casino Hearts",
-          "url": "https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z"
-        }
-      ],
-      "duration_ms": 252163,
-      "name": "Worst That Could Happen",
-      "url": "https://open.spotify.com/track/1gmfLlgeaAhCTt1JFzqjiO"
     },
     {
       "added_at": "2025-03-21 04:00:58",

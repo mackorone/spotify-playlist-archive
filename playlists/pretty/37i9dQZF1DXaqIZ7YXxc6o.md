@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Dom Dolla, Kid Cudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,945 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,988 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [4Runner](https://open.spotify.com/track/43Q2O4tW2u55EyEZ9criZn) | [JÄMO](https://open.spotify.com/artist/5BatmKqX0n63qHXQTcKoPr), [jimmyallnite](https://open.spotify.com/artist/02XL9u0jm3DXQ2cStkjV4M), [REINIER](https://open.spotify.com/artist/4acncdScRKPPQk3tf9h2IK) | [4Runner](https://open.spotify.com/album/6TskdtG4NigNfM5ohw5P1q) | 4:37 |
 | 99 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 |
 
-Snapshot ID: `aAEJcAAAAABlG8s3xJ07b2d6WDqpqDfL`
+Snapshot ID: `aAbbHgAAAAC2HwtiGirzWVm9NQvK0Duh`

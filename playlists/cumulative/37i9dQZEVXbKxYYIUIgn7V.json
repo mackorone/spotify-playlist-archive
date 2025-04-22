@@ -6288,7 +6288,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 168001,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/7aTPGByz1LCEObBAxt3UAh"
@@ -6838,7 +6838,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 76838,
       "name": "DAS IST DIE REGEL HIER - Slowed",
       "url": "https://open.spotify.com/track/1P3yg4GA1lltDZlmtcDFEF"
@@ -9642,6 +9642,28 @@
       "duration_ms": 163155,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
+    },
+    {
+      "album": {
+        "name": "Figa",
+        "url": "https://open.spotify.com/album/2NUtJMkU0yjDwHsQOhYPGX"
+      },
+      "artists": [
+        {
+          "name": "Trinix Remix",
+          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99130,
+      "name": "Figa",
+      "url": "https://open.spotify.com/track/6EkrsqZTNnOhlX3mys2VyR"
     },
     {
       "album": {
@@ -19964,7 +19986,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 95302,
       "name": "MONTAGEM TOMADA - Super Slowed",
       "url": "https://open.spotify.com/track/4CsIS26ndsxIzM8X8VEaXd"
@@ -30406,7 +30428,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 165661,
       "name": "Verwandtschaftstreffen",
       "url": "https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju"
@@ -30428,7 +30450,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 134769,
       "name": "Vidrado Em Voc\u00ea",
       "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"

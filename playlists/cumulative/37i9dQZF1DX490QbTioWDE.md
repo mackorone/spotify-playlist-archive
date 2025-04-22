@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ian Lucas & Q´ Lokura.
 
-544 songs - 1 day 9 hr 17 min
+545 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [El Que Se Enamora Pierde](https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [El Que Se Enamora Pierde](https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx) | 2:24 | 2025-04-18 |  |
 | [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 | 2025-02-28 |  |
 | [En Eso No Quedamos](https://open.spotify.com/track/4qtoQsIlmCeyNgAEYwxTsv) | [Facu Y La Fuerza](https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU) | [En Eso No Quedamos](https://open.spotify.com/album/1xwFg2YGtumMe9NimRouHE) | 2:38 | 2022-01-10 | 2022-06-03 |
+| [En Esta Boca](https://open.spotify.com/track/6wFjjwfWVwUTo5emqQDoS3) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [En Esta Boca](https://open.spotify.com/album/6JvqDWDdHHYEqZAGQ8tFI1) | 2:57 | 2025-04-21 |  |
 | [En Esta Boca](https://open.spotify.com/track/2qoViFH47tZDwL86vBOKyL) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Taweno](https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez) | [En Esta Boca](https://open.spotify.com/album/0cD8iuFFMVEOpYhpImvyiq) | 3:24 | 2024-03-22 | 2024-07-03 |
 | [En la cara \- En Vivo](https://open.spotify.com/track/4buQ1OSw1JwfU2Qj9Cq2MY) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [En la cara \(En Vivo\)](https://open.spotify.com/album/3LDA9nD7K36cegTBBWumuE) | 2:57 | 2024-09-13 | 2025-01-14 |
 | [En Libertad](https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Con el Corazón en la Mano](https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf) | 2:53 | 2024-08-20 | 2025-04-19 |
@@ -401,7 +402,7 @@
 | [QUE ME FALTE TODO](https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE ME FALTE TODO](https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd) | 2:45 | 2023-10-27 | 2024-11-09 |
 | [Que No Le Hago Falta](https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I) | [El Rejunte](https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG) | [Que No Le Hago Falta](https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H) | 4:16 | 2021-12-24 | 2023-05-08 |
 | [Que Otra Cosa](https://open.spotify.com/track/14JS9qXw6KGU82swmt3d35) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Que Otra Cosa](https://open.spotify.com/album/5X9TBumrqRDB8HlZLGDEsA) | 3:07 | 2024-09-27 | 2024-12-16 |
-| [Que Otra Cosa \(En Vivo Gran Rex\)](https://open.spotify.com/track/4xqcRw63fmHQ1X6azpmMj4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Que Otra Cosa \(En Vivo Gran Rex\)](https://open.spotify.com/album/4X0Xunac6Ph3kx2ZfTquZG) | 3:43 | 2025-03-28 |  |
+| [Que Otra Cosa \(En Vivo Gran Rex\)](https://open.spotify.com/track/4xqcRw63fmHQ1X6azpmMj4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Que Otra Cosa \(En Vivo Gran Rex\)](https://open.spotify.com/album/4X0Xunac6Ph3kx2ZfTquZG) | 3:43 | 2025-03-28 | 2025-04-22 |
 | [QUE SED](https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [QUE SED](https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG) | 2:11 | 2024-03-22 | 2024-07-27 |
 | [Que Te Olvide](https://open.spotify.com/track/7gOtGWLuClM1P9L2tXq9BG) | [El Ramy](https://open.spotify.com/artist/71GI3crYM00yVUTgsyfcgt), [El Turco Julio](https://open.spotify.com/artist/4EMjageaWU23LtyVfVjVW1), [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Que Te Olvide](https://open.spotify.com/album/7v89rqv4mitRs99q08Fa4M) | 4:11 | 2022-01-07 | 2022-05-29 |
 | [Que Te Vuelva Amor](https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Que Te Vuelva Amor](https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB) | 2:30 | 2024-11-01 |  |

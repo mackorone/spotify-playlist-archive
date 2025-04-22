@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   Frank Edwards, Ada Ehi and Limoblaze.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,051 likes - 108 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,080 likes - 108 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

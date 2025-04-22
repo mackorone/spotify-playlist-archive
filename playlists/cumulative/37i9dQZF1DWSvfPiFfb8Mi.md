@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-365 songs - 1 day 0 hr 4 min
+366 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Point One](https://open.spotify.com/track/5G7UKEiJ6MXpsRShpPRarl) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Point One](https://open.spotify.com/album/0E0WPv8eP2oV1DNg9bbMxU) | 4:35 | 2021-07-24 | 2022-06-21 |
 | [Post Tenebras Lux](https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Post Tenebras Lux](https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1) | 3:52 | 2023-07-28 | 2024-09-09 |
 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-05-26 | 2025-04-01 |
+| [Promises](https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Louise Marshall](https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4) | [Promises](https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V) | 2:46 | 2025-04-18 |  |
 | [Pull Together](https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Pull Together](https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun) | 4:13 | 2025-03-28 |  |
 | [PULL UP \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5OcpvgdYknA4VEGTwXNecJ) | [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [PULL UP \(feat\. Nile Rodgers\)](https://open.spotify.com/album/6R8BPbLgBzcdoA9S3uhi9Z) | 3:08 | 2023-05-19 | 2023-07-30 |
 | [Raining in LA](https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Into the Ether](https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d) | 3:11 | 2023-05-19 |  |
@@ -357,7 +358,7 @@
 | [We Could Be Falling In Love \- Edit](https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [We Could Be Falling In Love](https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L) | 2:59 | 2023-09-22 |  |
 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 | 2023-05-19 | 2024-10-28 |
 | [Welcome To Organic](https://open.spotify.com/track/2RABiORxekaDV23sfNTjid) | [Mount Liberation Unlimited](https://open.spotify.com/artist/5zVhnqOyQesaJrFSC0wShT) | [Mount Liberation Unlimited](https://open.spotify.com/album/0NGgNO6HINijyLI7aHreKP) | 4:59 | 2021-07-24 | 2022-06-21 |
-| [What Am I](https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [What Am I](https://open.spotify.com/album/5uOtlVIBJkWWZxOk2RZSMm) | 3:11 | 2025-03-07 |  |
+| [What Am I](https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [What Am I](https://open.spotify.com/album/5uOtlVIBJkWWZxOk2RZSMm) | 3:11 | 2025-03-07 | 2025-04-22 |
 | [what i feel](https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [tomorrow never comes](https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT) | 3:20 | 2024-09-27 |  |
 | [What You Mean to Me](https://open.spotify.com/track/2oh0F0WIDbbFDhaJHpBxOU) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Free Fall](https://open.spotify.com/album/6XouRdQWRuzp17zN4IMfjU) | 6:24 | 2021-07-24 | 2023-05-20 |
 | [When We're Together](https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt) | [Love Language](https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Bodies in Motion](https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA) | 3:16 | 2024-10-11 | 2024-11-21 |

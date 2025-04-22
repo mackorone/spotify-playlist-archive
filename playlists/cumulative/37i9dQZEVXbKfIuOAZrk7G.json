@@ -11953,6 +11953,24 @@
     },
     {
       "album": {
+        "name": "Chicken Banana",
+        "url": "https://open.spotify.com/album/2pbyB0m8GNItw3xdHjuB0k"
+      },
+      "artists": [
+        {
+          "name": "Crazy Music Channel",
+          "url": "https://open.spotify.com/artist/2Y6bsT6oxjAhpghYTlUpXG"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132948,
+      "name": "Chicken Banana",
+      "url": "https://open.spotify.com/track/2DW0Mowto3hrXkFBQt0nye"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -62226,7 +62244,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 124864,
       "name": "tell you straight",
       "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"

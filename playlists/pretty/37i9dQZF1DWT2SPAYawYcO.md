@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: Morgan Wallen, Dom Dolla,  Lana Del Rey, Addison Rae, Beddy Rays + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,122 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,147 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 73 | [Flow](https://open.spotify.com/track/02Hjgk7NbS2BtkMpK5pe1j) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Flow](https://open.spotify.com/album/2NW96KndFggFYbRxqCfzzb) | 3:02 |
 | 74 | [Heavy Jelly](https://open.spotify.com/track/0WWJZU5HrQHxshzma0h9LC) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVIER JELLY](https://open.spotify.com/album/3Rz31xgqFQGTlkABzhv7Qo) | 2:36 |
 
-Snapshot ID: `aAEJcAAAAABcnazRvTeUk2uy5uTBfbo0`
+Snapshot ID: `aAba7AAAAACFEs4bN1HL9pQXPwbA8gPv`

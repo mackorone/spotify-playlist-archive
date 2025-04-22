@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,320 songs - 11 day 13 hr 14 min
+7,321 songs - 11 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3342,7 +3342,7 @@
 | [Know Pain, Know Gain \(Ode To Beatmojo\)](https://open.spotify.com/track/4v3MHzcDNXhvpQ9JtALcAH) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Know Pain, Know Gain \(Ode to Beatmojo\)](https://open.spotify.com/album/5G5h83Nul9ax5CncQjyZLA) | 3:01 | 2022-04-08 | 2022-08-27 |
 | [Know What's valuable](https://open.spotify.com/track/7GR0zNudON7wiUWd99kxiO) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Know What's valuable](https://open.spotify.com/album/2dTml3E1HS5IEoRAiJXiT7) | 2:08 | 2021-06-18 | 2022-01-14 |
 | [kobayashi](https://open.spotify.com/track/2sUhqxCGxxbwO51dr9uUVr) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [listen//waves](https://open.spotify.com/album/3rAdjjsqdA3Pc3oIQ894Oa) | 1:56 | 2022-03-11 | 2022-08-05 |
-| [Kochyli](https://open.spotify.com/track/59lne8ie4M3fNsvkMj1wNc) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Soulvibe Cuts](https://open.spotify.com/artist/37qQan0WPQj9vb2GQLYG6M) | [Kochyli](https://open.spotify.com/album/3AtSALPSWEChyd3kXhuEXi) | 2:28 | 2024-04-26 |  |
+| [Kochyli](https://open.spotify.com/track/59lne8ie4M3fNsvkMj1wNc) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Soulvibe Cuts](https://open.spotify.com/artist/37qQan0WPQj9vb2GQLYG6M) | [Kochyli](https://open.spotify.com/album/3AtSALPSWEChyd3kXhuEXi) | 2:28 | 2024-04-26 | 2025-04-22 |
 | [kodak](https://open.spotify.com/track/7q8NJyn5JHHzfTwa1auiPH) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [kodak](https://open.spotify.com/album/0ggeJPPUAeDt8oCadobrvM) | 1:51 | 2023-11-17 |  |
 | [Kodama](https://open.spotify.com/track/7izUtMWxKQ4A5wrRDxjZdJ) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Kodama](https://open.spotify.com/album/4mL0leszsfXpcCysyF37ZX) | 2:09 | 2022-02-25 | 2022-07-29 |
 | [Kogarashi](https://open.spotify.com/track/5rKsm9Po4qMxzrkZu1PR3T) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Dezl](https://open.spotify.com/artist/0Rrqv6SWqD5cYgOOSBjwGc), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Kogarashi](https://open.spotify.com/album/1vrwpurmCUvTxjTWzKsNyC) | 2:25 | 2020-01-19 | 2021-01-11 |
@@ -6737,6 +6737,7 @@
 | [Under You](https://open.spotify.com/track/1DRdXaBYFaMrdZ1PBFadbH) | [Wenzel](https://open.spotify.com/artist/1tQmb1kAHc5lpCA5Pdl7Pz), [Thom Leaf](https://open.spotify.com/artist/5CAZd4dHO7QrHklVr6gWLP) | [Under You](https://open.spotify.com/album/0s1hREHAFFCuBKIwvLYph7) | 1:48 | 2019-06-08 | 2019-06-09 |
 | [Undercover Lover](https://open.spotify.com/track/4YR3PB2Ux5zSHxsGobrxVc) | [PRGMAT](https://open.spotify.com/artist/3n36M7jE1JSaZ5OXHdxo37) | [The Allegory of Crystal Shadows](https://open.spotify.com/album/1RfsVpRSA3xcd4wfRWvIl9) | 2:48 | 2023-05-31 | 2023-07-07 |
 | [Undercurrent](https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Undercurrent](https://open.spotify.com/album/4MJ3GzvCQ78ky7ghnhkjzv) | 2:07 | 2021-11-05 | 2022-05-27 |
+| [Underglow](https://open.spotify.com/track/3IqfukMjUfGnheoVpwbmIt) | [Golden Mist](https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK) | [Underglow](https://open.spotify.com/album/3JpD4nO7WHIk5V1COO2ky3) | 2:08 | 2025-04-18 |  |
 | [Underground](https://open.spotify.com/track/7lL3BDrOSvXep6OhMhTC85) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Rendezvous](https://open.spotify.com/album/2qVe4uYPZO6OrI81QT8Xuu) | 2:32 | 2021-12-03 | 2022-06-17 |
 | [Underground Sound](https://open.spotify.com/track/35nwGumdzHPRlM09GC0CzU) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34), [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Underground Sound](https://open.spotify.com/album/1MyldykVHxaBnsmKE9GdNm) | 2:27 | 2023-02-13 | 2023-06-08 |
 | [underneath the rain](https://open.spotify.com/track/6EruekpR534eGN50w9u8eF) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [wrongnumber](https://open.spotify.com/artist/3jU1KxwkbO4pQfJblgxUVi) | [underneath the rain](https://open.spotify.com/album/6yk5dT0SLFF74hn0PEI6j2) | 2:32 | 2022-04-23 | 2022-09-16 |

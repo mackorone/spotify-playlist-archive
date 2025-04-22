@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=qM5YtP52QTCe54I\-KN03Cg">Bobby Van Jaarsveld</a> en <a href="https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=l8x5Gi5qQXa3jfHiLe9YqQ">Irene\-Louise Van Wyk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,217 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,263 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

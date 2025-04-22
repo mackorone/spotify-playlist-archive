@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtVG5o02Mg3.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv?si=afc0b53f965f42b8">Poppy's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,138 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,155 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtVG5o02Mg3.md) - [plain]
 | 7 | [Ghost Hardware](https://open.spotify.com/track/5m1VR5YlkswXMoHSmGWFqa) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 4:53 |
 | 8 | [Eifersucht \- Jealousy \- 2019 Remaster](https://open.spotify.com/track/3qS81NPmYJYbvj8PnERqQc) | [Malaria!](https://open.spotify.com/artist/1QrqFxy3w6rk4IlVyoycI6) | [Full Emotion](https://open.spotify.com/album/4ZpsdcWrqrvPD8cUlRNTWj) | 3:09 |
 | 9 | [To Itch His Own \(1958\)](https://open.spotify.com/track/37gSabyYww8X8cuFn1MzGK) | [Carl Stalling](https://open.spotify.com/artist/08DSLJzStQLYvOi5kBSHlu), [The Carl Stalling Project](https://open.spotify.com/artist/5SiqahCCWn8SMOrbmVJ3v4) | [The Carl Stalling Project \- Music From Warner Bros\. Cartoons 1936\-1958](https://open.spotify.com/album/1dtdWVUHSEOYR6TMEPAjzd) | 5:54 |
-| 10 | [Romeo's Distress](https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 3:16 |
+| 10 | [Romeo's Distress \- 1](https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 3:16 |
 | 11 | [Hear Nothing See Nothing Say Nothing](https://open.spotify.com/track/4jTLlwHR9tn7dIFUScOwRi) | [Discharge](https://open.spotify.com/artist/5SRhOM75OnwuXH8BmCxD5a) | [Hear Nothing See Nothing Say Nothing](https://open.spotify.com/album/6WYcRCX40Kfhjjeiy2S91P) | 1:30 |
 | 12 | [The Nurse Who Loved Me](https://open.spotify.com/track/3IfCsWzD0BRc0TnLQW6Y0s) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I) | 4:25 |
 | 13 | [Parasite](https://open.spotify.com/track/7ig3ihkjvZSMc0pSplrsK9) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Post Self](https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE) | 3:40 |

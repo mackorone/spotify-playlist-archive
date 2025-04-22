@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 135452,
+  "num_followers": 135482,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "The Big Cover-Up",
-        "url": "https://open.spotify.com/album/2DSRpIJMFmV2cEUxGq2N2H"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje & The Olsens",
-          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
-        }
-      ],
-      "duration_ms": 391222,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/0VDi0h6uXz4r24TyAz5eJu"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Trax Classix",
         "url": "https://open.spotify.com/album/1XQXorGVNfyRxDqVzKgAjx"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 134800,
       "name": "Cornish Acid",
       "url": "https://open.spotify.com/track/5b1Ux2Mw6WLaasgmf4sBQ4"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/1fdvWcji1NsAK4qqQ3e3F9"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 345520,
+      "name": "Warsaw - White Light Version",
+      "url": "https://open.spotify.com/track/09P3YUNZ63OdaMhaxFvfbM"
     }
   ],
   "unique_name": "303 Classics",

@@ -3125,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "Petit",
+        "url": "https://open.spotify.com/album/2Ic3DxDRFDte2DjHsEMidH"
+      },
+      "artists": [
+        {
+          "name": "Julien Andriana",
+          "url": "https://open.spotify.com/artist/1IpfgEWQa7m6ERlU9NCCPX"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Petit",
+      "url": "https://open.spotify.com/track/39I0BFHXeltCjKjVXLYw6P"
+    },
+    {
+      "album": {
         "name": "Miroirs (Edition deluxe)",
         "url": "https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL"
       },

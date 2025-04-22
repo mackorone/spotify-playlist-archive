@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 282 songs - 16 hr 1 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 284 songs - 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -290,5 +290,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 280 | [プロポーズ](https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Let me battle](https://open.spotify.com/album/0lrzLq3f2hFBaaTHN0xURv) | 3:54 |
 | 281 | [like a ghost \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1EHjsmdVXK64z9MFmebp46) | [sato noco](https://open.spotify.com/artist/18VhiGitw1aRTgdMPl49EV), [Kaai Yuki](https://open.spotify.com/artist/71LWbhymyyFoWzzy6tuPGn) | [like a ghost](https://open.spotify.com/album/0x6PunvepjfphMDfuydH2h) | 2:54 |
 | 282 | [うそ鳴き](https://open.spotify.com/track/4Hal50XJ5qW9TtsFWvMlJU) | [心世紀](https://open.spotify.com/artist/3D7WfGrhPBUqfKQ4BAlOa6), [少女革命計画](https://open.spotify.com/artist/7gFHp9H8K8h4B9y7HkFC7N), [御莉姫](https://open.spotify.com/artist/0Ur3wB7R1lkydYPdwATVpe), [佳鏡院](https://open.spotify.com/artist/1ydUxA0KMdyroinaACZFsu), [硝子宮](https://open.spotify.com/artist/71B1IRtrf1zRRSUPOsxOLu) | [うそ鳴き](https://open.spotify.com/album/4VHIOjtivBozJgUHrJgxeo) | 3:16 |
+| 283 | [迷い子山中神隠し奇譚](https://open.spotify.com/track/4WuEpuvGm2MNXu9QQ5sZD5) | [浮足立](https://open.spotify.com/artist/3khRVJyfuSQWVudz1bzD3g) | [迷い子山中神隠し奇譚](https://open.spotify.com/album/1m5KWs7oRBKjiW0fScvQ3D) | 3:10 |
+| 284 | [sifflet](https://open.spotify.com/track/426JELf4IKUDygeeSC2p5Q) | [rillrail](https://open.spotify.com/artist/7poCU746QVt1c794QGAO5d) | [sifflet / identity](https://open.spotify.com/album/5FCe9DeF7McTUnx8Z7msUW) | 3:34 |
 
-Snapshot ID: `AAAI/D2z8lFVS5ExKUWMpYnydX7sU19y`
+Snapshot ID: `AAAI/pQKIJO+1qIw8s5eyJgkBvQ/lOIo`

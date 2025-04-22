@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-495 songs - 1 day 3 hr 37 min
+496 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aigiri Nandini](https://open.spotify.com/track/4bJCeVoQH0g0IVtZT1Mw1D) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Aigiri Nandini](https://open.spotify.com/album/7LMtFuBWtKUZ9qJW6erzrs) | 1:30 | 2024-01-29 | 2024-02-17 |
 | [ALAG HAI](https://open.spotify.com/track/3ptmb4toZVGAs73tbERceP) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/7A7jELEKRiRVMIQMZGlGyN) | 1:23 | 2023-09-20 | 2024-02-17 |
 | [ALAG HAI](https://open.spotify.com/track/5E11KdVG38ylpaI736pJ9I) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz) | 1:23 | 2023-09-20 | 2024-01-07 |
+| [Alemaari](https://open.spotify.com/track/1vEAKvg8MTsLE1bXnIXAJu) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy) | [Alemaari](https://open.spotify.com/album/15vbphiLpF98dJshJkVfhQ) | 3:40 | 2025-04-21 |  |
 | [Alive](https://open.spotify.com/track/6fTBrgN6MgDU4wsjv1jewf) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Alive](https://open.spotify.com/album/2yVUXFVHUNWFFJ8f571ltz) | 3:31 | 2024-05-24 | 2024-11-06 |
 | [Alladsro](https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E) | [PS Praveen](https://open.spotify.com/artist/2Dl133Jk9EdG3Z8lKbTMle) | [Alladsro](https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu) | 3:56 | 2023-08-25 | 2023-09-22 |
 | [Alochane](https://open.spotify.com/track/76b6XWSPuXZUhyxz5JShhE) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Sukeerth Shetty](https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo), [Thanusha KM](https://open.spotify.com/artist/0MCXq3V1499mItuvVRmGdl) | [Alochane](https://open.spotify.com/album/3GK6rmUrTMqsQWo4WiR1wG) | 3:43 | 2025-02-18 |  |

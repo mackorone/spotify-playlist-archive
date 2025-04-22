@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Comfort Eagle",
+        "url": "https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220202,
+      "name": "Comfort Eagle",
+      "url": "https://open.spotify.com/track/2qQCU22yQXKjhytKUBxa59"
+    },
+    {
+      "album": {
         "name": "Red of Tooth and Claw",
         "url": "https://open.spotify.com/album/3H78W1uHinGlB6Kprp2OzK"
       },

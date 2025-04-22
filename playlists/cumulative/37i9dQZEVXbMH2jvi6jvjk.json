@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-16",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 425338,
       "name": "Ama Gear",
       "url": "https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -4922,7 +4922,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
@@ -10276,7 +10276,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-16",
+      "date_removed": null,
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -16742,7 +16742,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 247588,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/0zSGfaxDJWmzfRT67F4dnM"
@@ -28666,7 +28666,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 245401,
       "name": "Mmapelo",
       "url": "https://open.spotify.com/track/685eBVJA10zu3EkpFOiSkk"
@@ -29560,7 +29560,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 309473,
       "name": "Moyongcwele",
       "url": "https://open.spotify.com/track/5pRsWnuWkwfnCsaSlxYrsj"
@@ -31434,6 +31434,28 @@
       "duration_ms": 379285,
       "name": "Ngwana Mani",
       "url": "https://open.spotify.com/track/4RZSQxWuovabz4QCWbFQh8"
+    },
+    {
+      "album": {
+        "name": "Lekompo Easter",
+        "url": "https://open.spotify.com/album/43pTsfHhb5Dg2LyT4FCEF4"
+      },
+      "artists": [
+        {
+          "name": "Janesh",
+          "url": "https://open.spotify.com/artist/1oK1EnI3oWOsRKlV4e6L5L"
+        },
+        {
+          "name": "Hitboss SA",
+          "url": "https://open.spotify.com/artist/4V5DDRtrNNcRrV9VVxgqyK"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256864,
+      "name": "Ngwanaka",
+      "url": "https://open.spotify.com/track/3bM6G6G4kcoeTAMdFDPKEB"
     },
     {
       "album": {
@@ -33374,7 +33396,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 299016,
       "name": "Palesa",
       "url": "https://open.spotify.com/track/0cPTKlRYKQMsDKsksYjKkb"
@@ -37294,7 +37316,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 271305,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ"
@@ -37608,7 +37630,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 387433,
       "name": "Sangena (feat. Scotts Maphuma & Toss)",
       "url": "https://open.spotify.com/track/7uyScF14QVoYWUE51t3XYi"
@@ -38812,7 +38834,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 445719,
       "name": "Shayi'Moto (feat. Seemah & Yanda Woods)",
       "url": "https://open.spotify.com/track/0AQfRLzd7pQZcLtfh9Onb8"
@@ -39730,7 +39752,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 372710,
       "name": "Skuta Baba - Remix",
       "url": "https://open.spotify.com/track/2NUL19ktYaXmes18Cz7HPn"
@@ -43228,7 +43250,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -47236,7 +47258,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 356306,
       "name": "Ungukuphila",
       "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
@@ -47638,7 +47660,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 412500,
       "name": "UYAH! (feat. 2wo Bunnies, Jay Music, & Imbongi Yosizi)",
       "url": "https://open.spotify.com/track/2J8TIoje5sqUoz4I3JIZkI"
@@ -48486,7 +48508,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 476100,
       "name": "Vulani (feat. Thatohatsi & Tracy)",
       "url": "https://open.spotify.com/track/62KQubjM0rmQ7L3VvybxrL"

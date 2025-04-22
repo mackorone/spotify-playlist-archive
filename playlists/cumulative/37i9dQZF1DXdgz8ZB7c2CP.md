@@ -4,7 +4,7 @@
 
 > We're SO ready for ZULAN's debut!!
 
-996 songs - 2 day 6 hr 53 min
+997 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [CHROMA 004 ROLA](https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 004](https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol) | 4:49 | 2024-07-19 | 2025-01-11 |
 | [CHROMA 005 A.L.O.E](https://open.spotify.com/track/3j9K1iPrnwwPyieemfz2if) | [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 005](https://open.spotify.com/album/5K2nivvCbKUqr1cBAkei6g) | 5:10 | 2024-08-08 | 2025-01-17 |
 | [CHROMA 008 TANGZ](https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 008](https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb) | 5:12 | 2025-01-16 |  |
+| [CHROMA 009 KR36](https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 009](https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx) | 4:48 | 2025-04-17 |  |
 | [Chromatically](https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Chromatically](https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY) | 3:18 | 2024-01-26 | 2025-01-31 |
 | [Clarity](https://open.spotify.com/track/3y8Vm5FfhIxMaacpS2IShA) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY), [Soak XP](https://open.spotify.com/artist/6SuyywE4h5N9XvfPzfwACl) | [Clarity](https://open.spotify.com/album/1ca9y7OQxBv0bXUXGKIFYP) | 2:40 | 2024-03-21 | 2024-03-29 |
 | [Class](https://open.spotify.com/track/2TxrF4XVuA0SHk8JT3um0F) | [Qarti](https://open.spotify.com/artist/2gzTgXb3QbDtdCESrqNTnA), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [Class](https://open.spotify.com/album/4aDXHERZtrdRHtEF89TqLj) | 2:25 | 2024-02-16 | 2024-03-01 |
@@ -986,7 +987,7 @@
 | [Woke This Giant](https://open.spotify.com/track/7muWe1RUQDYkVyVCmB3IXg) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy), [Trunk Space](https://open.spotify.com/artist/0E9PXzwyBnIwMOE44WBxxu) | [Woke This Giant](https://open.spotify.com/album/43yORoDXvYkLkSDDSj5pYf) | 4:45 | 2023-12-08 | 2023-12-15 |
 | [Would I Believe](https://open.spotify.com/track/5J7z4X615BmONq0bRNC0x3) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Would I Believe](https://open.spotify.com/album/0bS7F6oNnt7rMf9S9g3jq4) | 4:24 | 2022-01-21 | 2022-07-25 |
 | [Wrong For Me](https://open.spotify.com/track/1lSDRaA8wcru8fYC8QAMmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Wrong For Me](https://open.spotify.com/album/6kJpok0ZOZ2sMbGUJgOswC) | 3:25 | 2025-02-27 |  |
-| [XE3 \(Whethan Turn\)](https://open.spotify.com/track/0uUQq7tP8upuBaN6cmQuqx) | [Mssingno](https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [XE3 \(Whethan Turn\)](https://open.spotify.com/album/1Zg6vOcUQAZfltTLYhmqpr) | 3:53 | 2025-02-20 |  |
+| [XE3 \(Whethan Turn\)](https://open.spotify.com/track/0uUQq7tP8upuBaN6cmQuqx) | [Mssingno](https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [XE3 \(Whethan Turn\)](https://open.spotify.com/album/1Zg6vOcUQAZfltTLYhmqpr) | 3:53 | 2025-02-20 | 2025-04-22 |
 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 | 2024-09-13 |  |
 | [Yapa Yapa \(Shut It Pls\) \[feat\. Dr Ofori\]](https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp) | [Yapa Yapa \(Shut It Pls\) \[feat\. Dr Ofori\]](https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz) | 1:54 | 2025-03-20 |  |
 | [Yosemite \- Wilkinson Remix](https://open.spotify.com/track/4jUKR2J4CheTJyaJUMJIaA) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Yosemite \(Wilkinson Remix\)](https://open.spotify.com/album/7gt7cZAXp0bg2dyYkoOPBU) | 4:04 | 2025-04-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,066 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,068 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 20 | [Love So Deep](https://open.spotify.com/track/4j6GH3lNzFjWpszEmJJ1BR) | [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Star\-Funk, Vol\. 17](https://open.spotify.com/album/3FwORjUHzBX0kWcBgzsw7Z) | 7:01 |
 | 21 | [Electric Kingdom](https://open.spotify.com/track/1XCKE65GRGauDKnyFAKDN5) | [Twilight 22](https://open.spotify.com/artist/6duhLtz5KONtwVxwX4ka6B) | [Twilight 22](https://open.spotify.com/album/7bLnAbhQOanjUiJqYq076m) | 4:46 |
 | 22 | [Egypt Egypt](https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY) | [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP) | [On the Nile](https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i) | 5:19 |
-| 23 | [Al\-Naafyish \- Time](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
+| 23 | [Al\-Naafyish \(The Soul\)](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
 | 24 | [Haven't Been Funked Enough \- Original Mix](https://open.spotify.com/track/2lbEarePBP4FL2v5wtb9kv) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/3Qc2hu9ngTfwe2UvGL5LPc) | 6:42 |
 | 25 | [Funn](https://open.spotify.com/track/3mCyWicf3WPPYyDQCibWW4) | [The Gunchback Boogie Band](https://open.spotify.com/artist/4oIIY392AXFfmOJH2y8fnC) | [Rare Preludes, Vol\. 3](https://open.spotify.com/album/0PHuEeLvtoLqwhJea7dLLA) | 5:36 |
 | 26 | [Erotic City \- Make Love Not War Erotic City Come Alive; Extended Version; 2017 Remaster](https://open.spotify.com/track/14TRnDQpggU8mpAzQ4Y3GL) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 7:23 |

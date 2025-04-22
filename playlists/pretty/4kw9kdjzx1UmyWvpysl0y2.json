@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125418,
+  "num_followers": 125419,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT9r+bonJ9zlZQplU275GFK7DiPUMA",
+  "snapshot_id": "AAAT+LV9uwh61ZKHI/sksmULu7cPnhGQ",
   "tracks": [
+    {
+      "added_at": "2025-04-21 23:37:29",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/1K04Q2pVJiRftAdROfQ8R3"
+      },
+      "artists": [
+        {
+          "name": "Eater",
+          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3lInjgjlce124YrDUc3obI"
+    },
     {
       "added_at": "2025-04-18 17:06:52",
       "album": {

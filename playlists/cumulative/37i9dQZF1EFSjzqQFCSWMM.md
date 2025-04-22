@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-113 songs - 5 hr 26 min
+114 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 | 2023-12-13 |  |
 | [I'm Ready For You](https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:54 | 2023-12-13 |  |
 | [INTRO](https://open.spotify.com/track/254e1d9X2yuvBvDt6Xnbay) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 0:14 | 2023-12-13 |  |
+| [Invoice \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/063nJW2YbI0LBZLrO6qwDG) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Before I Disappear Again](https://open.spotify.com/album/6agdmpAaTKDYHrG2R7dl0U) | 2:24 | 2025-04-21 |  |
 | [Issues](https://open.spotify.com/track/52jtTbKkCMKlOccyzhoNI9) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 2:20 | 2023-12-13 |  |
 | [Kiss & Tell](https://open.spotify.com/track/2wRNKZsOcrNOl44fCleWK1) | [Sainvil](https://open.spotify.com/artist/1nv9STc3b4snPq4Zcm1I4n) | [In Bad Shape](https://open.spotify.com/album/5ddLy0baF0N5AwcXx5Ubvi) | 2:52 | 2023-12-13 |  |
 | [Laying Low \(Cooking Up\)](https://open.spotify.com/track/33gqGbD6eQGMMlV7IPlDgk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 3:48 | 2023-12-13 |  |

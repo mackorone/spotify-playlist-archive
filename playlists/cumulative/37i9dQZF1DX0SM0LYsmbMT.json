@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 152999,
       "name": "Autumn Sky",
       "url": "https://open.spotify.com/track/18krMlHUAxBY9bjTdGEeOV"
@@ -18618,6 +18618,24 @@
       "duration_ms": 152727,
       "name": "Desert Flowers",
       "url": "https://open.spotify.com/track/1EEw7is3DEYdxUcrSlFtOf"
+    },
+    {
+      "album": {
+        "name": "Desert Rain",
+        "url": "https://open.spotify.com/album/4vRonLoVuSlpX46VKebLne"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118441,
+      "name": "Desert Rain",
+      "url": "https://open.spotify.com/track/537vbafZKRnIHmrVEypjdi"
     },
     {
       "album": {
@@ -40764,7 +40782,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-22",
       "duration_ms": 156000,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6OP7rt2g1GX4aZhwRFRyUV"
@@ -63842,6 +63860,24 @@
       "duration_ms": 141086,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3WOMT6Kl2r6RCgpaf9l3Ic"
+    },
+    {
+      "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0S2PgzG9Kw6vDOKhLB9yie"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126374,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/0I9iSTL4FYXqaiby0uL3qk"
     },
     {
       "album": {

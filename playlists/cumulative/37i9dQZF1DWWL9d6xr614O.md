@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-198 songs - 15 hr 16 min
+199 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Where Would I Be](https://open.spotify.com/track/1QN30TGAZWHiGInfeR5o2Q) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/0n7GtDVbxR1GPJnDuxOQgv) | 4:04 | 2022-04-15 | 2024-10-25 |
 | [Where Would I Be](https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/3TsuS8ao3G2Q3HdNF16Iq5) | 4:04 | 2023-05-05 | 2024-04-19 |
 | [White as Snow](https://open.spotify.com/track/0rrn33tLZt3IRVedeiZZlz) | [Hope Music PH](https://open.spotify.com/artist/6O01ivbiwFip0rVDBubs3B) | [White as Snow](https://open.spotify.com/album/2WceBp8P5cKQKdDa79DkfB) | 4:10 | 2024-03-19 |  |
+| [Who Seeks God, Who Seeks Him \(Psalm 14\)](https://open.spotify.com/track/56Osa3xRlKRojHvQ09xDMK) | [Where's the Sheep?](https://open.spotify.com/artist/0IvsAJ3WzVgyC9b6ZnXp9O) | [Psalms](https://open.spotify.com/album/5cuDMqFOZjvQVNktqakVSb) | 3:31 | 2025-04-21 |  |
 | [WHY DO YOU LOVE ME?](https://open.spotify.com/track/4NEFSN1DzwyV3pIEIGCeU4) | [Janine Danielle](https://open.spotify.com/artist/08uLGVhzLS7zpGtrCZfing) | [WHY DO YOU LOVE ME?](https://open.spotify.com/album/0O14HOBmEPVEcDscQDfaEN) | 4:57 | 2022-04-21 |  |
 | [Why So Restless](https://open.spotify.com/track/19Iong3AVfJecoZzwgIpgB) | [Living Hope](https://open.spotify.com/artist/3G8NoFvD2M9zGEZFq3EfV3) | [There Is More](https://open.spotify.com/album/0xOWA1rEotFtNPxlj8RDiR) | 4:56 | 2024-03-19 | 2024-10-25 |
 | [Wonderstruck](https://open.spotify.com/track/66kjME9bCPZyk8mL6cgEys) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/0CpE0Qa69lByhqnOSYHsC0) | 4:38 | 2023-03-29 | 2024-10-25 |

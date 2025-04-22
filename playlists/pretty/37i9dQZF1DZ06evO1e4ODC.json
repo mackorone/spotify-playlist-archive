@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 203890,
+  "num_followers": 203966,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aALngAAAAAAo48pWy5ZnvbWx/zElgaph",
+  "snapshot_id": "aAQ5AAAAAACW02ss1qIROtWN121e2MxY",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Que Ser\u00eda De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marcela Gandara (Live)",
         "url": "https://open.spotify.com/album/3u0wEJACfVAI4SwRg9LHEq"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 330786,
       "name": "T\u00fa Est\u00e1s Aqu\u00ed (Live)",
       "url": "https://open.spotify.com/track/6uExMEig887UmyXoFqdyOW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Que Ser\u00eda De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 299200,
-      "name": "No Es Como Yo",
-      "url": "https://open.spotify.com/track/6C7MQrVotSOLaEmWlFJ5Xh"
+      "duration_ms": 310613,
+      "name": "Esp\u00e9rame",
+      "url": "https://open.spotify.com/track/0nVAXr2tTHrFzx7ORvR6e1"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 310613,
-      "name": "Esp\u00e9rame",
-      "url": "https://open.spotify.com/track/0nVAXr2tTHrFzx7ORvR6e1"
+      "duration_ms": 299200,
+      "name": "No Es Como Yo",
+      "url": "https://open.spotify.com/track/6C7MQrVotSOLaEmWlFJ5Xh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: We Came As Romans
 
-8,953 songs - 25 day 1 hr 7 min
+8,954 songs - 25 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -851,6 +851,7 @@
 | [Beyond the Wall](https://open.spotify.com/track/2Wk29M74wBPuLO1nRSlrhk) | [Saor](https://open.spotify.com/artist/4rHMzJ1RKUMtid1K2QEYbr) | [Beyond the Wall](https://open.spotify.com/album/4e7Yf2oyPLt01N4Ghtx99p) | 6:14 | 2022-05-27 | 2022-06-07 |
 | [Beyond Vision](https://open.spotify.com/track/7gvrJyZYhddcd8rja168tu) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Beyond Vision \[single\]](https://open.spotify.com/album/3dJ1lzUAwzMvSVlVbbk9jj) | 6:06 | 2023-01-20 | 2023-01-28 |
 | [Beyond Your Reach](https://open.spotify.com/track/4h6LEoX1Ouz7lVH332Z3gN) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beyond Your Reach](https://open.spotify.com/album/2rdYCuVa38VWExvcb2QCmL) | 3:45 | 2022-05-27 | 2022-06-07 |
+| [Big Blind](https://open.spotify.com/track/3P9sADlTfW3HMVpI1Dg9Pt) | [Waxed](https://open.spotify.com/artist/4jW7rGR5aeJpsEhmv3PAtY) | [Big Blind](https://open.spotify.com/album/1xRnHvJoPjhIPVLv3Onnvd) | 2:45 | 2025-04-21 |  |
 | [Big Homie](https://open.spotify.com/track/4p1d6pUPeCtuCUE2djaqi6) | [生 Conform 死](https://open.spotify.com/artist/37mOmrBhYDEfRM1aSp91bl), [Jacson Robb](https://open.spotify.com/artist/1j5vzo0DpHKWUvT0slSpHd) | [Vol II: Music for Living Failures](https://open.spotify.com/album/5BFNFpJ9MiGeEjXTtUdm8A) | 3:01 | 2022-08-05 | 2022-08-13 |
 | [Big Rig](https://open.spotify.com/track/1PKk9xVnt7W35Zv7CEoq51) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Land of Sleeper](https://open.spotify.com/album/2HqOgVl5yLGFHGTIeu8JxQ) | 6:31 | 2023-02-17 | 2023-02-25 |
 | [Big Shot](https://open.spotify.com/track/1W8E07hkLSmtkIbpWmh3gv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Big Shot](https://open.spotify.com/album/6xsThAkPhe4okfWN4cQWu5) | 2:43 | 2023-10-20 | 2023-10-28 |

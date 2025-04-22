@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-587 songs - 1 day 21 hr 6 min
+588 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [50 INCH WOOFAS](https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg) | [Facu Baez](https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN), [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [50 INCH WOOFAS](https://open.spotify.com/album/6MfCmQMFgRkhfkJsGBatyb) | 2:56 | 2024-08-16 |  |
 | [7am Germany](https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx) | [Ben Hixon](https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [DR\-EP\-2068](https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y) | 3:52 | 2024-04-19 | 2024-08-24 |
 | [A Walk In The Park \- Moodymann Remix](https://open.spotify.com/track/4L1cTkm5pw0OluxjVVYZF9) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [A Walk In The Park \(Moodymann Remix\)](https://open.spotify.com/album/17lrQ0gDXaJh5RvtFWlE6u) | 5:22 | 2023-08-25 | 2023-11-16 |
+| [AAAAaaaa](https://open.spotify.com/track/2L334OjbOswSQbX3qXqfgc) | [nocapz.](https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT) | [AAAAaaaa](https://open.spotify.com/album/4DDe7US1xhE5ZhWTK2nQhe) | 3:28 | 2025-04-21 |  |
 | [About The Music](https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Mikey V](https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe) | [Snatch! OFF 071](https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg) | 3:06 | 2022-07-29 | 2023-04-05 |
 | [Aether](https://open.spotify.com/track/4EPLcCSJNzPXFelheUF1oF) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [Third Time Lucky](https://open.spotify.com/album/3Dpji7REpcY9ixrbeLoJoQ) | 8:56 | 2024-06-17 | 2024-07-27 |
 | [Alive \- Radio Edit](https://open.spotify.com/track/18V03JCrwP7DLel4T55bpJ) | [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df) | [Alive](https://open.spotify.com/album/5KJCpe9JburdcTRSjHGxL7) | 3:30 | 2025-01-10 | 2025-01-25 |
@@ -160,7 +161,7 @@
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-22 | 2025-03-22 |
 | [Falling Back](https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Falling Back](https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo) | 3:30 | 2024-12-06 |  |
 | [Fascinator](https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:12 | 2024-11-04 |  |
-| [FEEL IT](https://open.spotify.com/track/4vjtS6TjP2Ygi2giSzpvuk) | [LASSE TOP](https://open.spotify.com/artist/07jLchrERslg1737jGgr0G) | [FEEL IT](https://open.spotify.com/album/0EVGyXZTww8bbN2jB0RWk0) | 5:56 | 2025-02-07 |  |
+| [FEEL IT](https://open.spotify.com/track/4vjtS6TjP2Ygi2giSzpvuk) | [LASSE TOP](https://open.spotify.com/artist/07jLchrERslg1737jGgr0G) | [FEEL IT](https://open.spotify.com/album/0EVGyXZTww8bbN2jB0RWk0) | 5:56 | 2025-02-07 | 2025-04-22 |
 | [Feel The Bass](https://open.spotify.com/track/5oHvb2k4wbH2BnaI7GeUEn) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Feel The Bass EP](https://open.spotify.com/album/3Ch9ksgJ5kbuqeSeZx21XZ) | 6:17 | 2024-11-13 | 2024-12-24 |
 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 | 2022-07-08 | 2023-05-27 |
 | [Fia](https://open.spotify.com/track/5TREoPShL4tfACMEbHxuzL) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Fia](https://open.spotify.com/album/7DgEWcG8Ra9VtejKVfxw7t) | 8:03 | 2022-06-03 | 2022-07-29 |

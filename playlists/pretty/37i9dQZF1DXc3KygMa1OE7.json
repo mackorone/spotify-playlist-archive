@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2578657,
+  "num_followers": 2578690,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z0z/gAAAAADYS3mzRNcmRfDiPkiY1pXb",
   "tracks": [
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Suddenly (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "The Allnighter",
         "url": "https://open.spotify.com/album/1XrMP6S74aDQjLvDpSFD9c"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 251400,
       "name": "Lover's Moon",
       "url": "https://open.spotify.com/track/2QlVjJhaIWXoN6LfCIVfPi"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "Suddenly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b"
-      },
-      "artists": [
-        {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-        }
-      ],
-      "duration_ms": 262413,
-      "name": "Foolish Beat",
-      "url": "https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "Turn Back The Clock",
         "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 262413,
+      "name": "Foolish Beat",
+      "url": "https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
         "name": "The Best of Chicago, 40th Anniversary Edition",
         "url": "https://open.spotify.com/album/13etqTFFO9ZKGD3LeRMROL"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 223280,
       "name": "Hard to Say I'm Sorry - 2007 Remaster",
       "url": "https://open.spotify.com/track/7boKWlaNVmrhJdX8IbzUdD"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "No Fun Aloud",
+        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "The One You Love",
+      "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -1047,22 +1063,6 @@
       "duration_ms": 256226,
       "name": "It Might Be You (Theme from Tootsie)",
       "url": "https://open.spotify.com/track/3TRexXc7XRFVZA1WZPkOGY"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
-        "name": "No Fun Aloud",
-        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "The One You Love",
-      "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "The Best of Air Supply: Ones That You Love",
-        "url": "https://open.spotify.com/album/09xjEibrHp8sYnLDg4ehJ9"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Every Woman In The World - Digitally Remastered 1999",
-      "url": "https://open.spotify.com/track/30IcbXIfDDhKi7rW6TNUV0"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "The Allnighter",
         "url": "https://open.spotify.com/album/1XrMP6S74aDQjLvDpSFD9c"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 211440,
       "name": "Sexy Girl",
       "url": "https://open.spotify.com/track/6c3rTjGR3FuGfTGj4D5S7l"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "The Best of Air Supply: Ones That You Love",
+        "url": "https://open.spotify.com/album/09xjEibrHp8sYnLDg4ehJ9"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Every Woman In The World - Digitally Remastered 1999",
+      "url": "https://open.spotify.com/track/30IcbXIfDDhKi7rW6TNUV0"
     },
     {
       "added_at": "2024-07-15 17:18:57",

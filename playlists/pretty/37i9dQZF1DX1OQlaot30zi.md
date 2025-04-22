@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neffa, Night Skinny, Gheba, Flaco G e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,693 likes - 140 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,707 likes - 140 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

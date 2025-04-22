@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 92093,
+  "num_followers": 92117,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Ismael Rivera - Greatest Hits",
+        "url": "https://open.spotify.com/album/5YbhaAh0G06ElvNWvLvRor"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Arrecotin Arrecotan",
+      "url": "https://open.spotify.com/track/0Fhj9gmYf0BR5aHI2TPhfU"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Joe Bataan Anthology",
         "url": "https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 331868,
       "name": "Boogaloo Blues",
       "url": "https://open.spotify.com/track/7wLdPTpjA6xOluKGOFBrmR"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Fania Latin Boogaloo Essentials",
-        "url": "https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba",
-          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
-        }
-      ],
-      "duration_ms": 247480,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf"
     }
   ],
   "unique_name": "Boogaloo Essentials",

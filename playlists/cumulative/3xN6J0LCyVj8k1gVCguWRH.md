@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,794 songs - 11 day 4 hr 49 min
+4,796 songs - 11 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1036,6 +1036,7 @@
 | [Desert Bloom](https://open.spotify.com/track/4Q03tgBgVmoJa4LV2UGogX) | [Earthquake Lights](https://open.spotify.com/artist/1ZhXMVV5iZrnrKUIMEhuFW) | [Desert Bloom](https://open.spotify.com/album/7lSNxyFatEEw7J5907sxYE) | 3:20 | 2023-02-10 | 2023-03-11 |
 | [Desert Psalm](https://open.spotify.com/track/33WihwgoE6i8nZcNhSFBtn) | [Night Teacher](https://open.spotify.com/artist/5XboTqSD1RnWR5vkwsHxDt) | [Desert Psalm](https://open.spotify.com/album/4ATD3NeCnp3K3NCsfhcZFJ) | 5:16 | 2023-02-24 | 2023-03-20 |
 | [Desire](https://open.spotify.com/track/5MP3dL9T6aJIDVmbghk4aC) | [PYN](https://open.spotify.com/artist/2E3GkyDBfEHrKhr1uKMeao) | [Desire](https://open.spotify.com/album/7t9p3fTuTN8GkJO8uQM5S0) | 3:26 | 2022-09-09 | 2022-09-25 |
+| [DESIRE](https://open.spotify.com/track/4ihbsFQgVSbABGNtcu5vEL) | [Thomee Guapo](https://open.spotify.com/artist/2YsilKsNeUeUaqxjjzWUIb) | [DESIRE](https://open.spotify.com/album/0flewn6LJwxfN2fHN2L5Ch) | 2:59 | 2025-04-21 |  |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-09 | 2022-08-11 |
 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 | 2021-07-11 | 2024-04-21 |
 | [Desperado & Saint](https://open.spotify.com/track/5cftmtiLlBdCRPChgTYLYo) | [GillyThaGOAT](https://open.spotify.com/artist/60LWLaRPIWLUG2agvpKEH7) | [Desperado & Saint](https://open.spotify.com/album/11GGvIRBUUswuOd3QXXWTh) | 2:47 | 2025-03-31 | 2025-04-17 |
@@ -4386,6 +4387,7 @@
 | [unrequited love](https://open.spotify.com/track/7saZGol648iJi3wvKev41R) | [Jalen Porchá](https://open.spotify.com/artist/50YeLCyzFEgy0DsqXzIssn) | [unrequited love](https://open.spotify.com/album/1o0hPm1R3zr0HoS1IuF2jM) | 1:51 | 2024-09-07 | 2024-09-17 |
 | [Unsuffer Me](https://open.spotify.com/track/3tJvIep0xivOdA6xCjGVQS) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [West](https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K) | 5:40 | 2024-08-12 |  |
 | [Untamed](https://open.spotify.com/track/41binbQGuTMcIMwdsXrpNs) | [Kayana](https://open.spotify.com/artist/37wgqSZpFAAJ2hB4tsY6yY), [JaMichael](https://open.spotify.com/artist/6mtuKa84eQ2jdOsYkp3et4) | [Untamed](https://open.spotify.com/album/4bQsPc4kkryXOIxVYgxPCw) | 3:15 | 2022-02-25 | 2022-03-14 |
+| [Up 4 Chilling](https://open.spotify.com/track/1H21eWXHVWq84sX5TFOSZy) | [Kurvyn](https://open.spotify.com/artist/1afhckAEGADXLNnwLwjwqx) | [Up 4 Chilling](https://open.spotify.com/album/1wv2niuiSJxGUxyHx9g0h7) | 2:48 | 2025-04-21 |  |
 | [Up All Night](https://open.spotify.com/track/2s2FQY87CytJ96v1hZOLLV) | [Nothing Like Robots](https://open.spotify.com/artist/2fAsz7fjaibEtQd8i4OfrG) | [Up All Night](https://open.spotify.com/album/3DZCRcty9tG0ss5smsboGN) | 2:59 | 2024-12-05 | 2024-12-16 |
 | [Up on Me](https://open.spotify.com/track/4W5P0XK73J0DRbrgbRr2Pg) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Up on Me](https://open.spotify.com/album/0dsSkj1WGvlRslAEHzQJPD) | 2:31 | 2020-01-20 | 2020-02-08 |
 | [uprobablyforgotusbynow](https://open.spotify.com/track/0RgDMO9DOz3eozfcixyc7V) | [Sophie Said](https://open.spotify.com/artist/0uhGoYlsroDbyn3GvupHas), [Mollie Edsell](https://open.spotify.com/artist/6dFJm191lF7fUlZtHTQSso) | [uprobablyforgotusbynow](https://open.spotify.com/album/4Vu0jblfzcVKJoMvT3TyMa) | 3:15 | 2024-09-20 | 2024-10-01 |

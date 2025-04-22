@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN y Envidia Kotxina.",
-  "num_followers": 111895,
+  "num_followers": 111898,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -131,18 +131,18 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Siglo XXI",
-        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
+        "name": "Ay De Mi!",
+        "url": "https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E"
       },
       "artists": [
         {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
         }
       ],
-      "duration_ms": 159826,
-      "name": "Esclavos del Siglo XXI",
-      "url": "https://open.spotify.com/track/0tk6HwFFBSkbrn8sGKaZgq"
+      "duration_ms": 198135,
+      "name": "Tus Bragas",
+      "url": "https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -199,18 +199,18 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Ay De Mi!",
-        "url": "https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E"
+        "name": "Siglo XXI",
+        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
       },
       "artists": [
         {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
         }
       ],
-      "duration_ms": 198135,
-      "name": "Tus Bragas",
-      "url": "https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi"
+      "duration_ms": 159826,
+      "name": "Esclavos del Siglo XXI",
+      "url": "https://open.spotify.com/track/0tk6HwFFBSkbrn8sGKaZgq"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
+        "name": "Versos de Rabia",
+        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
+      },
+      "artists": [
+        {
+          "name": "Discordia",
+          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Ke Felicidad!",
+      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
         "name": "Iron Mendez Manuel Japan",
         "url": "https://open.spotify.com/album/7eE1BRQs6OD4oLEIFA8px4"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 181196,
       "name": "Tengo y No Vendo",
       "url": "https://open.spotify.com/track/1aK0lNexMlHybmnec2Gvw3"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "Versos de Rabia",
-        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
-      },
-      "artists": [
-        {
-          "name": "Discordia",
-          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Ke Felicidad!",
-      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
+        "name": "El M\u00e1s Gremlin de Montilla",
+        "url": "https://open.spotify.com/album/1WvwhwDNw1w7Xsum7oXK34"
+      },
+      "artists": [
+        {
+          "name": "Loncha Velasco",
+          "url": "https://open.spotify.com/artist/2GqOx9nLc3mOGApdvV6LHW"
+        }
+      ],
+      "duration_ms": 139969,
+      "name": "El M\u00e1s Gremlin de Montilla",
+      "url": "https://open.spotify.com/track/5bvz0zijssCwb0TzYdA4I4"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
         "name": "Insolente",
         "url": "https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 139998,
       "name": "Yo Soy Aquel",
       "url": "https://open.spotify.com/track/17uv9rAMfpwfluvH7nDG9I"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "El M\u00e1s Gremlin de Montilla",
-        "url": "https://open.spotify.com/album/1WvwhwDNw1w7Xsum7oXK34"
-      },
-      "artists": [
-        {
-          "name": "Loncha Velasco",
-          "url": "https://open.spotify.com/artist/2GqOx9nLc3mOGApdvV6LHW"
-        }
-      ],
-      "duration_ms": 139969,
-      "name": "El M\u00e1s Gremlin de Montilla",
-      "url": "https://open.spotify.com/track/5bvz0zijssCwb0TzYdA4I4"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Su Falso Mundo - original",
+      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Su Falso Mundo - original",
-      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
+        "name": "Hace falta\u2026?",
+        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
+      },
+      "artists": [
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La locura - original",
+      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
         "name": "J\u00f3dete",
         "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 227992,
       "name": "Gernika",
       "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "All Cayetanos Are Bastards",
-        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanco Del Jam\u00f3n",
-          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
-        }
-      ],
-      "duration_ms": 160034,
-      "name": "All Cayetanos Are Bastards",
-      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "Humanos",
-        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
       },
       "artists": [
         {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
         }
       ],
-      "duration_ms": 151134,
-      "name": "Humanos",
-      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1619,18 +1619,34 @@
     {
       "added_at": "2025-04-10 22:00:18",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+        "name": "Humanos",
+        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
       "artists": [
         {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
+      "duration_ms": 151134,
+      "name": "Humanos",
+      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+    },
+    {
+      "added_at": "2025-04-10 22:00:18",
+      "album": {
+        "name": "All Cayetanos Are Bastards",
+        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanco Del Jam\u00f3n",
+          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
+        }
+      ],
+      "duration_ms": 160034,
+      "name": "All Cayetanos Are Bastards",
+      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
     },
     {
       "added_at": "2025-04-10 22:00:18",
@@ -1663,22 +1679,6 @@
       "duration_ms": 226093,
       "name": "Enamorado de la Muerte",
       "url": "https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp"
-    },
-    {
-      "added_at": "2025-04-10 22:00:18",
-      "album": {
-        "name": "Love the Antros",
-        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 155469,
-      "name": "Love the Antros",
-      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

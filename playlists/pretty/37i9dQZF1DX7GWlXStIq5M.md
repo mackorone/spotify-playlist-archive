@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Ana Laura Lopes
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,808 likes - 90 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,800 likes - 90 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 39 | [Melhor Sensação](https://open.spotify.com/track/059VjhItSXQXp4mRMHrvBi) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Melhor Sensação](https://open.spotify.com/album/6J2FSHWn2I4GAazjurgxYV) | 2:59 |
 | 40 | [BiKE \(blv\)](https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [BiKE \(blv\)](https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ) | 3:00 |
 | 41 | [Profundamente](https://open.spotify.com/track/0dQaxEGl5a8vtFxIgqeoDd) | [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Profundamente](https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o) | 2:15 |
-| 42 | [T Ó X I C O](https://open.spotify.com/track/7a0ik6D4mG9zqQqOGunsPA) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [T Ó X I C O](https://open.spotify.com/album/5ZDRU1H00G4Qjqzl05p1cg) | 2:12 |
-| 43 | [Trama](https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr), [Aksel](https://open.spotify.com/artist/1sUETKU4N8F8kABpmDiOZW) | [Trama](https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7) | 4:19 |
+| 42 | [Trama](https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr), [Aksel](https://open.spotify.com/artist/1sUETKU4N8F8kABpmDiOZW) | [Trama](https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7) | 4:19 |
+| 43 | [T Ó X I C O](https://open.spotify.com/track/7a0ik6D4mG9zqQqOGunsPA) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [T Ó X I C O](https://open.spotify.com/album/5ZDRU1H00G4Qjqzl05p1cg) | 2:12 |
 | 44 | [solto \(histórias de amor\)](https://open.spotify.com/track/56RKGwqSeMhb8qSBJLOMSx) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [solto \(histórias de amor\)](https://open.spotify.com/album/1W8WFozGDueySUZcTJ5eKp) | 3:10 |
 | 45 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
 | 46 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 81 | [Nem Me Convidou](https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [Nem Me Convidou](https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz) | 2:07 |
 | 82 | [Universo Paralelo](https://open.spotify.com/track/1JoEPseer8Fu2rLaul3ptb) | [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Universo Paralelo](https://open.spotify.com/album/6NtscXdBrsjGKMFdWUKGwr) | 2:28 |
 | 83 | [pdv](https://open.spotify.com/track/6F1GOxswjLVcpUfC9CkowQ) | [TMJ](https://open.spotify.com/artist/1kI5Fhk2S8mHOEdTcGu6Yn), [Laudz](https://open.spotify.com/artist/7yrw5KX85FJ6aKdMfBSa9T) | [glitchfunk](https://open.spotify.com/album/6URVDClAwhEMLm1fGdgDsP) | 1:29 |
-| 84 | [Fanfic de Verão](https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm) | [GIOLI](https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd) | [Fanfic de Verão](https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu) | 2:40 |
-| 85 | ["bb, que tal?"](https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw) | ["bb, que tal?"](https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN) | 2:41 |
+| 84 | ["bb, que tal?"](https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw) | ["bb, que tal?"](https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN) | 2:41 |
+| 85 | [Fanfic de Verão](https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm) | [GIOLI](https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd) | [Fanfic de Verão](https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu) | 2:40 |
 | 86 | [Perigosa](https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS) | [AMANDONA!](https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd) | [Perigosa](https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe) | 3:06 |
 | 87 | [INFAME](https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Cena 1](https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx) | 3:22 |
 | 88 | [7AM](https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk) | [Angela Destro](https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6) | [7AM](https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn) | 2:47 |

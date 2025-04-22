@@ -4,7 +4,7 @@
 
 > Inspiring the explorer in everyone\. Cover: National Parks USA, now streaming on Hulu.
 
-94 songs - 4 hr 44 min
+95 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Salt Lake to Antelope](https://open.spotify.com/track/08fZDhN62EQZ9R8GnvhJlG) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 3:25 | 2023-12-15 |  |
 | [Sand Dunes](https://open.spotify.com/track/7kJUjKch2mG1d6n4LBsS6A) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 5:00 | 2024-05-24 |  |
 | [Sea Turtle](https://open.spotify.com/track/3vAnvSdQJLDgWH2NxSEOic) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 2:33 | 2023-12-15 |  |
+| [Secrets of the Penguins Main Titles](https://open.spotify.com/track/106VoObcPD0M9h32DgNxjk) | [Nainita Desai](https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO), [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [Secrets of the Penguins \(Original Series Soundtrack\)](https://open.spotify.com/album/0PJnaQaFqh2Sbqo1pqbYzs) | 2:54 | 2025-04-21 |  |
 | [Shake](https://open.spotify.com/track/7zvmi94ekefZgqq4E1JZ9H) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 1:41 | 2024-03-01 | 2024-03-28 |
 | [Shot Caller](https://open.spotify.com/track/3npiCYzlwprZjaukhmGDZi) | [Morgan Kibby](https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M) | [Queens \(Original Series Soundtrack\)](https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5) | 0:52 | 2024-03-01 |  |
 | [Sisters = Survival](https://open.spotify.com/track/1NF5Mdnt6lc7fjG0GdsZAW) | [Morgan Kibby](https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M) | [Queens \(Original Series Soundtrack\)](https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5) | 1:14 | 2024-03-01 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Rico Nasty",
-  "num_followers": 768932,
+  "num_followers": 768904,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "I Want You (Fever)",
-        "url": "https://open.spotify.com/album/6wxdOloEjabLrzUjXhhpbd"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 217249,
-      "name": "I Want You (Fever)",
-      "url": "https://open.spotify.com/track/10twEEpq8Q4BIEXJb0xulD"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "T&A",
         "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
       },
@@ -771,22 +755,18 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "My House (feat. Courtney LaPlante)",
-        "url": "https://open.spotify.com/album/542T5OevZIJxjdzZs5eBUC"
+        "name": "I Want You (Fever)",
+        "url": "https://open.spotify.com/album/6wxdOloEjabLrzUjXhhpbd"
       },
       "artists": [
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "Courtney LaPlante",
-          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
         }
       ],
-      "duration_ms": 243293,
-      "name": "My House - feat. Courtney LaPlante",
-      "url": "https://open.spotify.com/track/7wSVu2ZvscLgaHbS5g5m6o"
+      "duration_ms": 217249,
+      "name": "I Want You (Fever)",
+      "url": "https://open.spotify.com/track/10twEEpq8Q4BIEXJb0xulD"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -807,6 +787,26 @@
       "duration_ms": 194653,
       "name": "TOMBSTONE TOWN (feat. Slash)",
       "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "My House (feat. Courtney LaPlante)",
+        "url": "https://open.spotify.com/album/542T5OevZIJxjdzZs5eBUC"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "My House - feat. Courtney LaPlante",
+      "url": "https://open.spotify.com/track/7wSVu2ZvscLgaHbS5g5m6o"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "A Million Knives",
-        "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 232041,
-      "name": "Take It From The Top",
-      "url": "https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 179707,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "A Million Knives",
+        "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 232041,
+      "name": "Take It From The Top",
+      "url": "https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
         "name": "CRIMINAL",
         "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 227258,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 219964,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/1g8becOwXRFEkYukY94L99"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "What Now",
-      "url": "https://open.spotify.com/track/1g8becOwXRFEkYukY94L99"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/3nuLaHUml2Ul4Vu1hv7iT4"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 235893,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/2gpffYGJGvhgqgA0Aw8wKi"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2025-03-07 05:00:43",

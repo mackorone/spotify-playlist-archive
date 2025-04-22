@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 144 | [More Than Words](https://open.spotify.com/track/2skY9Q1Hk8N7UPpW3uksEe) | [Abfab Party Band](https://open.spotify.com/artist/6NYJwXRUZygKZ2nkxQ8Lcz) | [Classic Valentine's Day Party Music](https://open.spotify.com/album/7GzQBHJnqIVefV8qRwY53R) | 3:24 |
 | 145 | [0.34](https://open.spotify.com/track/5dyXKa2swXFp96qXWH7XGI) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6BVlA2NLGg3OKYemGJgo2v) | 0:34 |
 | 146 | [It's a Wonder](https://open.spotify.com/track/0KqHIDBKGXOczq7lbHBCyw) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:54 |
-| 147 | [When Love Comes Calling](https://open.spotify.com/track/7wnw8eRMkk71SJCXJnsAai) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 3:27 |
-| 148 | [I Get a Kick out of You](https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 8:38 |
+| 147 | [I Get a Kick out of You](https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 8:38 |
+| 148 | [When Love Comes Calling](https://open.spotify.com/track/7wnw8eRMkk71SJCXJnsAai) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 3:27 |
 | 149 | [Too Bad \- Single Edit](https://open.spotify.com/track/2W4sO74zIbkgqXLcCpJCoQ) | [Gladius James](https://open.spotify.com/artist/6aUGlRUfGKww4IwhbK7yjY) | [Too Bad](https://open.spotify.com/album/5ZfmENeXhL7NEARlXa3EKS) | 2:54 |
 | 150 | [How Could We Be Wrong](https://open.spotify.com/track/6zZXtGTAYByufreIBwnLcV) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R) | [The Very Thought Of You](https://open.spotify.com/album/36exp8KOYFll7y1hX4vqzO) | 3:19 |
 | 151 | [Come On In \- Live At Cimarron Ballroom, 1961](https://open.spotify.com/track/4MuKRLvRM2KKKX1dzdqOgc) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Live At The Cimarron Ballroom](https://open.spotify.com/album/0TG2GEHyjM6E2JD2jQPfCV) | 1:38 |
@@ -414,4 +414,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 404 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 405 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `AbvUFAAAAAAQn9Cyb3puzqGnhqiFO5ey`
+Snapshot ID: `AbvZtAAAAAAUvXdXi3XyXU1nFuk0AFeF`

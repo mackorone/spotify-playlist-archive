@@ -299,6 +299,28 @@
     },
     {
       "album": {
+        "name": "Alemaari",
+        "url": "https://open.spotify.com/album/15vbphiLpF98dJshJkVfhQ"
+      },
+      "artists": [
+        {
+          "name": "Adhvik",
+          "url": "https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV"
+        },
+        {
+          "name": "dixit",
+          "url": "https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy"
+        }
+      ],
+      "date_added": "2025-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Alemaari",
+      "url": "https://open.spotify.com/track/1vEAKvg8MTsLE1bXnIXAJu"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2yVUXFVHUNWFFJ8f571ltz"
       },

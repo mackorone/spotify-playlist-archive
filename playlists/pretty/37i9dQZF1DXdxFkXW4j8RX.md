@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Jonas Sanche, Soulnastyy & Movimiento Original
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,484 likes - 107 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,478 likes - 107 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Ganar](https://open.spotify.com/track/3hsf5ZtAFvkjg9Q5eiAQ58) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0), [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk) | [A Ganar](https://open.spotify.com/album/4Cu5kZc0OfgapIvTvBUEpS) | 3:26 |
-| 2 | [En la mia](https://open.spotify.com/track/6PkBxz7ODRoblrIdXPlGxv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [SERPIENTE DE MADERA](https://open.spotify.com/album/3kXwK1YQtEdXKCfJp7iTK1) | 2:55 |
+| 2 | [En la mia](https://open.spotify.com/track/6PkBxz7ODRoblrIdXPlGxv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf) | [SERPIENTE DE MADERA](https://open.spotify.com/album/3kXwK1YQtEdXKCfJp7iTK1) | 2:55 |
 | 3 | [Haciendo Historia](https://open.spotify.com/track/78YkL65MnKRC60cvePedyo) | [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Douglass](https://open.spotify.com/artist/5WR2RuBXuzsOzfFW8D8Ji6), [Rocco](https://open.spotify.com/artist/2h3vGzEnHE3ZkEDHgpLgaj) | [El Poder de la FÉ](https://open.spotify.com/album/6t9WDFn16iVwfjQfbKYgyT) | 3:20 |
 | 4 | [Brillante](https://open.spotify.com/track/0G1n934bhBPvIGOSJV4vk8) | [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [Brillante](https://open.spotify.com/album/00X3bycKDsgD8JwEO31wxE) | 3:04 |
 | 5 | [No voy a olvidarte](https://open.spotify.com/track/2xn7uTGqQyqYKAfPg2Ib9D) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [No voy a olvidarte](https://open.spotify.com/album/0vzcMOxIPmXwekQsC2W649) | 3:52 |

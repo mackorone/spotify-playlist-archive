@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : Liv del Estal
+> La scène française branchée sur courant alternatif\. Photo : Liv del Estal
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,811 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,816 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [ne croquez pas cette pomme](https://open.spotify.com/track/1ghb1yDkwk3Jah3xnaOEtm) | [Adieu Salvatore](https://open.spotify.com/artist/4qIhDVc6BugjA7w4vscA9y), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [L'AMOUR](https://open.spotify.com/album/4j9w6qqk8IbTSIWIi8P5fp) | 2:36 |
 | 50 | [BIEN MÉRITÉ](https://open.spotify.com/track/2kOvLoHKLoZxRbIMzt6AYa) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [BIEN MÉRITÉ](https://open.spotify.com/album/3Ba5qLJD8gEw6l2tmkJY5h) | 2:43 |
 
-Snapshot ID: `aAUPLwAAAACqLUNq6KxfBbfi9OeR6yG7`
+Snapshot ID: `aAZgTAAAAACFzVPUhK9ES7zF+0BBilu6`

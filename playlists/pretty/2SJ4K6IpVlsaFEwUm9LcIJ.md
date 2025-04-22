@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,952 likes - 73 songs - 4 hr 36 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,961 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 71 | [Suffer Debt](https://open.spotify.com/track/3U9AaUSqjcUmWEbDenK39r) | [Truth Club](https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC) | [Running From the Chase](https://open.spotify.com/album/3yKcdRIr1FIFE1xQe4PCWR) | 4:05 |
 | 72 | [Ain't That A Kick](https://open.spotify.com/track/5JzjcUEDpVtK6fnsoX2Pxu) | [Peter Ivers](https://open.spotify.com/artist/55tLEUlrzGNtACuMVJZHNf) | [Becoming Peter Ivers](https://open.spotify.com/album/5jhapSTmOa3IfQj4WShMpQ) | 2:25 |
 | 73 | [Berry on a Briar](https://open.spotify.com/track/7fGjyvwFV3kbSBBhT8McGO) | [Will Fox](https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67) | [Old News](https://open.spotify.com/album/27NsD2q6jzQWlVjDNBEizM) | 3:59 |
+| 74 | [Man On The Tube](https://open.spotify.com/track/5UG4irKV9cvtktJWRzTiAU) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Michael & Miranda](https://open.spotify.com/album/1JvEQ9sw7KgdlPX3z4syN6) | 3:53 |
+| 75 | [My Sound](https://open.spotify.com/track/6Wz3jWMD5fgc7MB2EoXuWE) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Music Is Rotted One Note](https://open.spotify.com/album/7jPRc2iSpir5elpmK0WQrM) | 6:07 |
 
-Snapshot ID: `AAAMRcoXvSDmFJYVLIj8IhRptucyONo/`
+Snapshot ID: `AAAMR+1nwFlVgmgT96UaIHyy1C/OMSt+`

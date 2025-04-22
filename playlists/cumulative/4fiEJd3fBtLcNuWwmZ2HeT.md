@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-286 songs - 16 hr 18 min
+288 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Scorched Cranberries](https://open.spotify.com/track/7CFsEDBswHlZlC0tv6OJdd) | [Leon Riskin](https://open.spotify.com/artist/3sESZxzkq5C0PEceARiS4v) | [Five Nights at Freddy's: Help Wanted 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/3Kpo1RHEdCHh9Fn8jbQUgA) | 1:37 | 2024-04-22 |  |
 | [Shake It Now.](https://open.spotify.com/track/5PQt3xVYvS9kE2N7r8eHxW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [rendez\-vous](https://open.spotify.com/album/3Oks0VL5KDShvcuNS4LSSJ) | 3:16 | 2023-11-27 |  |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-10-14 |  |
+| [sifflet](https://open.spotify.com/track/426JELf4IKUDygeeSC2p5Q) | [rillrail](https://open.spotify.com/artist/7poCU746QVt1c794QGAO5d) | [sifflet / identity](https://open.spotify.com/album/5FCe9DeF7McTUnx8Z7msUW) | 3:34 | 2025-04-21 |  |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2022-03-16 |  |
 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 | 2023-11-12 |  |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-14 |  |
@@ -287,6 +288,7 @@
 | [蜜月アン・ドゥ・トロワ](https://open.spotify.com/track/5NqbWhWvnOVbWgkBS3gyhM) | [Ryo\-kun](https://open.spotify.com/artist/3WtpN29KizqR4NjuJGx6jE) | [Re:alize](https://open.spotify.com/album/4eE5jhzVkqd9smfhX1aUNy) | 4:10 | 2024-01-22 |  |
 | [超常マイマイン](https://open.spotify.com/track/7yuRlwbz9rgtIZwBPbtDjR) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [ナユタン星からの物体Ｎ](https://open.spotify.com/album/41ZGXbCyhkBOt8lqtQxWBZ) | 2:25 | 2022-11-01 |  |
 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 | 2023-10-13 |  |
+| [迷い子山中神隠し奇譚](https://open.spotify.com/track/4WuEpuvGm2MNXu9QQ5sZD5) | [浮足立](https://open.spotify.com/artist/3khRVJyfuSQWVudz1bzD3g) | [迷い子山中神隠し奇譚](https://open.spotify.com/album/1m5KWs7oRBKjiW0fScvQ3D) | 3:10 | 2025-04-21 |  |
 | [酔いどれ知らず](https://open.spotify.com/track/1ED6MZZkTum3aGIrZMB3VF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [酔いどれ知らず](https://open.spotify.com/album/1F9ZzB58lOLwnXUsajOhyC) | 2:13 | 2024-03-10 |  |
 | [錠剤](https://open.spotify.com/track/1NuXCV6xF2iAstBk40Sycw) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:21 | 2024-09-08 |  |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2023-10-23 |  |

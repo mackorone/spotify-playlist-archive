@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Nej \(pictured\),  Milano and Jazeek and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,873 likes - 96 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,871 likes - 96 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

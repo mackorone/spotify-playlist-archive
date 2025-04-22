@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française\. Photo : Marguerite
 
-231 songs - 11 hr 25 min
+232 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Parle\-moi..\. ou pas](https://open.spotify.com/track/1fvWSvZOi1xm2MzxS4IMCZ) | [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [Parle\-moi..\. ou pas](https://open.spotify.com/album/0oeo2vtHzFPJcRgCM28vxJ) | 2:28 | 2024-10-10 | 2025-01-17 |
 | [Pas banale](https://open.spotify.com/track/6VpQQAEE1RvA1lMrzdMYMM) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Pas banale](https://open.spotify.com/album/7q9chE1LkGztCxEKs5ssA6) | 2:34 | 2025-02-20 |  |
 | [Pas d'après](https://open.spotify.com/track/1Mqj9RgFGepZinzA1QleP5) | [Valentina](https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S) | [Pas d'après](https://open.spotify.com/album/5NSJgnOFxYZnCxNQk5OAkC) | 2:40 | 2024-06-27 | 2024-09-06 |
+| [Petit](https://open.spotify.com/track/39I0BFHXeltCjKjVXLYw6P) | [Julien Andriana](https://open.spotify.com/artist/1IpfgEWQa7m6ERlU9NCCPX) | [Petit](https://open.spotify.com/album/2Ic3DxDRFDte2DjHsEMidH) | 3:04 | 2025-04-21 |  |
 | [Petit Frère](https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Miroirs \(Edition deluxe\)](https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL) | 2:41 | 2025-01-16 | 2025-03-14 |
 | [Petite gueule](https://open.spotify.com/track/1KceWs92cxNJjxiBi8VR7m) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Lovelace](https://open.spotify.com/artist/2enPsIhjzgL3ANKtBhXgtK) | [Petite gueule](https://open.spotify.com/album/6Nna3FXAnXi3yl12aIxWjI) | 2:45 | 2024-06-27 | 2024-07-05 |
 | [Plein le coeur](https://open.spotify.com/track/5sH61fRKG9VzemeLCnEQy7) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Plein le coeur](https://open.spotify.com/album/7643FMfOT2OILHDQJaaeve) | 2:45 | 2024-09-12 | 2024-11-22 |

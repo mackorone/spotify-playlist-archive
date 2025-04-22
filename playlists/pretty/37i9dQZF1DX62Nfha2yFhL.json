@@ -1,13 +1,29 @@
 {
   "description": "every day soul with a funky groove for a laid back day.",
-  "num_followers": 918362,
+  "num_followers": 918393,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+eE9AAAAAAb6QQV75Z432TsafLE7bZC",
+  "snapshot_id": "aAZl1QAAAABVzhZFFoENQkrbqwbphmxc",
   "tracks": [
+    {
+      "added_at": "2025-04-21 15:35:49",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 272988,
+      "name": "P",
+      "url": "https://open.spotify.com/track/2NWh7HvsycgnS2EH7HILQf"
+    },
     {
       "added_at": "2025-03-29 05:28:20",
       "album": {

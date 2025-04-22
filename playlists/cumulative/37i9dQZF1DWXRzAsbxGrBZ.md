@@ -4,7 +4,7 @@
 
 > Get revived with some of the best Deep House South Africa has to offer.
 
-261 songs - 1 day 6 hr 12 min
+262 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [It Is Well](https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatWhite](https://open.spotify.com/artist/3ZCdk8KQtyV9ZbB6okOx0Q) | [It Is Well](https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY) | 7:10 | 2024-01-25 | 2024-04-19 |
 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 | 2022-09-14 | 2024-04-26 |
 | [Jade](https://open.spotify.com/track/0x3ZlVGcLzNIjyDPmvhVCi) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Florilegia II](https://open.spotify.com/album/1R3HlVU8Ch92aq9hzWEojs) | 3:06 | 2025-02-21 | 2025-02-28 |
-| [Jewels](https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Jewels](https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5) | 7:20 | 2024-05-31 |  |
+| [Jewels](https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Jewels](https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5) | 7:20 | 2024-05-31 | 2025-04-22 |
 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 | 2023-03-17 | 2024-03-21 |
 | [Joker](https://open.spotify.com/track/7iIE5iJjyQ5STT7kFSY1fX) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/5lV2QzhcKf6NAPg9gIfRyC) | 5:23 | 2024-03-15 | 2024-04-19 |
 | [Joy Ride](https://open.spotify.com/track/44OulbiTBps06KLwYGwUER) | [Guztav](https://open.spotify.com/artist/5njhRrz5uOFMp6PVBhq4XH) | [Joy Ride](https://open.spotify.com/album/7lbLT70sHiUhkpISvO8dI6) | 7:08 | 2024-05-16 | 2024-05-23 |
@@ -256,6 +256,7 @@
 | [Vmahle Orchids](https://open.spotify.com/track/7EISxW8coey54XALfjD2mW) | [Tea White](https://open.spotify.com/artist/4MpPHRxgfWKnBUoAGCBx45) | [4LTERNVTE](https://open.spotify.com/album/715lSmE5jlClQQ1kQ1ichM) | 8:17 | 2025-04-10 |  |
 | [VOICES](https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Simeon](https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x) | [TARU](https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL) | 6:39 | 2023-12-08 | 2024-08-03 |
 | [Waitsi](https://open.spotify.com/track/0GlbbESWDlCOUWq7cxX8Ib) | [Slaga](https://open.spotify.com/artist/6TMHpHxtnjEsfpC0Psdsdw), [Dazz B Musiq](https://open.spotify.com/artist/2uXPRBlQzbT3xMPV2Fbotn), [Macnoss](https://open.spotify.com/artist/1lKc8wWqtr5h8dgFbQ1mf2) | [Waitsi](https://open.spotify.com/album/1u3es3pUx9rj43lHrKqbrk) | 5:06 | 2025-01-30 | 2025-02-28 |
+| [Wamuhle \(feat\. Just Percy & Mduduzi Ncube\)](https://open.spotify.com/track/61kljvq4N6RXXQydiuPt18) | [RoneeDeep](https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO), [Just Percy](https://open.spotify.com/artist/47nFfbUJLgqP9rFKZLzzXy), [Mduduzi Ncube](https://open.spotify.com/artist/26wQS9QDgipxSQd9uWBUSG) | [Wamuhle \(feat\. Just Percy & Mduduzi Ncube\)](https://open.spotify.com/album/7LDVHxI3UobUQk87RLkXxC) | 6:37 | 2025-04-18 |  |
 | [We Beg Your Pardon](https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [We Beg Your Pardon](https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu) | 7:11 | 2022-09-14 | 2023-03-18 |
 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 | 2022-11-10 | 2024-03-21 |
 | [Wena](https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Disciples of House](https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr) | [Ghost](https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU) | 4:10 | 2022-11-10 | 2023-03-18 |

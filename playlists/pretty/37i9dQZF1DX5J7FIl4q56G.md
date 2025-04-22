@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: We Came As Romans
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,415 likes - 54 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,426 likes - 55 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,19 +48,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 38 | [Chase The Light](https://open.spotify.com/track/1Zvy4pMPBiUxSZVZl4g3bz) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Chase The Light](https://open.spotify.com/album/6gwTaXptFUbfQlVVX2FePV) | 3:41 |
 | 39 | [Necronomicon Automaton](https://open.spotify.com/track/2uznLyBojyt5bnA7111Sx4) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Necronomicon Automaton](https://open.spotify.com/album/4XjmSiDgWjzzzz0kHYeZFV) | 3:07 |
 | 40 | [In Search of Tomorrow](https://open.spotify.com/track/1sIny89FOnM0kGkXN3cHDj) | [Youth Code](https://open.spotify.com/artist/15VmPRQCJEZWaZWgHEroj0) | [In Search of Tomorrow](https://open.spotify.com/album/2nWxngiXyQKuGZg2Yhkpcq) | 2:33 |
-| 41 | [Nights Tender Reckoning](https://open.spotify.com/track/2qbNNVOA0Mj4nKb1j8WGyV) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [Nights Tender Reckoning](https://open.spotify.com/album/0ILF2d6YqP3llZ66mD96hQ) | 5:14 |
-| 42 | [At The End Of Our Reign](https://open.spotify.com/track/4biYLqLHrZBzlaIWHc2KAr) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [At The End Of Our Reign](https://open.spotify.com/album/4izqSq4gLFtGjbqMRH5un2) | 3:42 |
-| 43 | [The Bane](https://open.spotify.com/track/75l9T2HDOKotSyeXRqpy03) | [Domkraft](https://open.spotify.com/artist/40xO7OmZ8ikhRqupjpAUSC) | [The Bane](https://open.spotify.com/album/4R10d0IX7CUqwre4a2u2wL) | 7:36 |
-| 44 | [Unbound](https://open.spotify.com/track/5QlGTqv4KVv4j1iAELQ5iG) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Unbound](https://open.spotify.com/album/40omXcyyKm9WIwJhACJwfZ) | 3:15 |
-| 45 | [Withholding](https://open.spotify.com/track/0IP4FxPjBbnGh2QkLLZ7nb) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Insatiable](https://open.spotify.com/album/5174DaPHbMVAzmnWR1CQ0b) | 3:06 |
-| 46 | [The Depths](https://open.spotify.com/track/7GXb9D1FU88FmGS0srHye1) | [Red Moon Architect](https://open.spotify.com/artist/6i4hfUB4ANDxB8FgXQLTTo) | [October Decay](https://open.spotify.com/album/6hucvcKD6yCUfblL1V1E4k) | 5:53 |
-| 47 | [Give In](https://open.spotify.com/track/4RwClvjqFEgEoRFrc3Wxuy) | [Royal Sorrow](https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK) | [Give In](https://open.spotify.com/album/2iPjK6ISiM31jyImoKWsXd) | 4:04 |
-| 48 | [Seeking Revenge](https://open.spotify.com/track/2Rx6Hi8EYZXDCY0KiKHWJl) | [Nightfall](https://open.spotify.com/artist/4W0Vom1cl6o3UCq8tTfRHV) | [Seeking Revenge](https://open.spotify.com/album/1zRZszUbCtSjynHCdqlGtU) | 3:48 |
-| 49 | [Low Love](https://open.spotify.com/track/7K1jk4cSAbD8WxLJ5ZLrH5) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Low Love](https://open.spotify.com/album/5yN0GwG0dO4iDkAep7ynb6) | 4:03 |
-| 50 | [Vala](https://open.spotify.com/track/4GdIbYVVTvDsWGv4eXrdba) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Vala](https://open.spotify.com/album/4EDXFOn18tzo83drvWuqrN) | 2:48 |
-| 51 | [Sad Boi](https://open.spotify.com/track/5JUT3UHLB7Pp7TWfVhTpSX) | [Hotbox](https://open.spotify.com/artist/1K3l1jGn0tUAQhwrKkv1MR) | [Sad Boi](https://open.spotify.com/album/7kq7OaiyRJmFEDEp6ADdj0) | 3:22 |
-| 52 | [Orphans](https://open.spotify.com/track/4LfsAv0rKLseLLGiAI4qR5) | [Dormant Ordeal](https://open.spotify.com/artist/4ui3qa98lqUVnnHhphk9OG) | [Tooth and Nail](https://open.spotify.com/album/2jskrnvgwiQjCAhpuZvPZM) | 4:53 |
-| 53 | [Fuck You, My Love](https://open.spotify.com/track/5DFUroN3yFgqazgB9zElRA) | [Hangover In Minsk](https://open.spotify.com/artist/1xstYK0cWVjCIQbQXvnvCF), [Déhà](https://open.spotify.com/artist/2PfvRrjETo5Rp6UyQDcxoe) | [Party Is Over](https://open.spotify.com/album/75lbqd9WyoectqXgMRcN4D) | 5:17 |
-| 54 | [The Fourth Stage: Bargaining](https://open.spotify.com/track/2XJFlqgJcY3gmw1Z9hDJ41) | [Mares of Thrace](https://open.spotify.com/artist/0qeQtOu0Sd9qCkqFl4OEd8) | [The Fourth Stage: Bargaining](https://open.spotify.com/album/42ddWg2iAbT63tpAFzcf6n) | 7:05 |
+| 41 | [Big Blind](https://open.spotify.com/track/3P9sADlTfW3HMVpI1Dg9Pt) | [Waxed](https://open.spotify.com/artist/4jW7rGR5aeJpsEhmv3PAtY) | [Big Blind](https://open.spotify.com/album/1xRnHvJoPjhIPVLv3Onnvd) | 2:45 |
+| 42 | [Nights Tender Reckoning](https://open.spotify.com/track/2qbNNVOA0Mj4nKb1j8WGyV) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [Nights Tender Reckoning](https://open.spotify.com/album/0ILF2d6YqP3llZ66mD96hQ) | 5:14 |
+| 43 | [At The End Of Our Reign](https://open.spotify.com/track/4biYLqLHrZBzlaIWHc2KAr) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [At The End Of Our Reign](https://open.spotify.com/album/4izqSq4gLFtGjbqMRH5un2) | 3:42 |
+| 44 | [The Bane](https://open.spotify.com/track/75l9T2HDOKotSyeXRqpy03) | [Domkraft](https://open.spotify.com/artist/40xO7OmZ8ikhRqupjpAUSC) | [The Bane](https://open.spotify.com/album/4R10d0IX7CUqwre4a2u2wL) | 7:36 |
+| 45 | [Unbound](https://open.spotify.com/track/5QlGTqv4KVv4j1iAELQ5iG) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Unbound](https://open.spotify.com/album/40omXcyyKm9WIwJhACJwfZ) | 3:15 |
+| 46 | [Withholding](https://open.spotify.com/track/0IP4FxPjBbnGh2QkLLZ7nb) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Insatiable](https://open.spotify.com/album/5174DaPHbMVAzmnWR1CQ0b) | 3:06 |
+| 47 | [The Depths](https://open.spotify.com/track/7GXb9D1FU88FmGS0srHye1) | [Red Moon Architect](https://open.spotify.com/artist/6i4hfUB4ANDxB8FgXQLTTo) | [October Decay](https://open.spotify.com/album/6hucvcKD6yCUfblL1V1E4k) | 5:53 |
+| 48 | [Give In](https://open.spotify.com/track/4RwClvjqFEgEoRFrc3Wxuy) | [Royal Sorrow](https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK) | [Give In](https://open.spotify.com/album/2iPjK6ISiM31jyImoKWsXd) | 4:04 |
+| 49 | [Seeking Revenge](https://open.spotify.com/track/2Rx6Hi8EYZXDCY0KiKHWJl) | [Nightfall](https://open.spotify.com/artist/4W0Vom1cl6o3UCq8tTfRHV) | [Seeking Revenge](https://open.spotify.com/album/1zRZszUbCtSjynHCdqlGtU) | 3:48 |
+| 50 | [Low Love](https://open.spotify.com/track/7K1jk4cSAbD8WxLJ5ZLrH5) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Low Love](https://open.spotify.com/album/5yN0GwG0dO4iDkAep7ynb6) | 4:03 |
+| 51 | [Vala](https://open.spotify.com/track/4GdIbYVVTvDsWGv4eXrdba) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Vala](https://open.spotify.com/album/4EDXFOn18tzo83drvWuqrN) | 2:48 |
+| 52 | [Sad Boi](https://open.spotify.com/track/5JUT3UHLB7Pp7TWfVhTpSX) | [Hotbox](https://open.spotify.com/artist/1K3l1jGn0tUAQhwrKkv1MR) | [Sad Boi](https://open.spotify.com/album/7kq7OaiyRJmFEDEp6ADdj0) | 3:22 |
+| 53 | [Orphans](https://open.spotify.com/track/4LfsAv0rKLseLLGiAI4qR5) | [Dormant Ordeal](https://open.spotify.com/artist/4ui3qa98lqUVnnHhphk9OG) | [Tooth and Nail](https://open.spotify.com/album/2jskrnvgwiQjCAhpuZvPZM) | 4:53 |
+| 54 | [Fuck You, My Love](https://open.spotify.com/track/5DFUroN3yFgqazgB9zElRA) | [Hangover In Minsk](https://open.spotify.com/artist/1xstYK0cWVjCIQbQXvnvCF), [Déhà](https://open.spotify.com/artist/2PfvRrjETo5Rp6UyQDcxoe) | [Party Is Over](https://open.spotify.com/album/75lbqd9WyoectqXgMRcN4D) | 5:17 |
+| 55 | [The Fourth Stage: Bargaining](https://open.spotify.com/track/2XJFlqgJcY3gmw1Z9hDJ41) | [Mares of Thrace](https://open.spotify.com/artist/0qeQtOu0Sd9qCkqFl4OEd8) | [The Fourth Stage: Bargaining](https://open.spotify.com/album/42ddWg2iAbT63tpAFzcf6n) | 7:05 |
 
-Snapshot ID: `aAHOcwAAAAB3vcsfRRLCeJpDXnzb+KdV`
+Snapshot ID: `aAaZNQAAAAAtSq7HvJHf58ULT4ltoiOV`

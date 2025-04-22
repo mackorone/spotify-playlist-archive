@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Marguerite
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,388 likes - 39 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,409 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,29 +23,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 13 | [Toucher la lune](https://open.spotify.com/track/3xms7bWYWPxiITm6lsl3xp) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Toucher la lune](https://open.spotify.com/album/62FxTQ1bwHlhbO49TkC1sh) | 2:48 |
 | 14 | [Tour du monde \(feat\. Ronisia\)](https://open.spotify.com/track/5SuyFU4CGBodJOaAeGBI7J) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Adrénaline](https://open.spotify.com/album/37MDglqBpeVjrOdA0votKm) | 2:47 |
 | 15 | [Je ne pense qu'à ça](https://open.spotify.com/track/3C24V2ZTjHQNo7frG1hRiM) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Je ne pense qu'à ça](https://open.spotify.com/album/0V3ilf6unZikfsPUILrsrh) | 2:35 |
-| 16 | [Mute](https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [La prison des amoureuses malheureuses](https://open.spotify.com/album/3dKaOKSDCF3C9XSpa7AQbn) | 2:53 |
-| 17 | [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 |
-| 18 | [Dis\-moi](https://open.spotify.com/track/48J8yeiYwZZxxwWXa4zTXQ) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Dis\-moi](https://open.spotify.com/album/1RwLMAYV1bqXcwCmdKrsOO) | 2:27 |
-| 19 | [Weekend \- 48H Radio Edit](https://open.spotify.com/track/2qgkmFTjDk13rrdJY7MIKE) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Weekend \(48H Radio Edit\)](https://open.spotify.com/album/6JVqrqC8uCUjcMNeIp6e8l) | 2:25 |
-| 20 | [Cavale](https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cavale](https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3) | 3:43 |
-| 21 | [Ce qui me va](https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 2:35 |
-| 22 | [Balance](https://open.spotify.com/track/5NozBRrGayj3tk6XefEDK0) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Balance](https://open.spotify.com/album/5WZKMq9O6JF7WNjVKZrhSj) | 2:40 |
-| 23 | [Abuelito](https://open.spotify.com/track/0ErYFIfaBolQss5NKdvdhC) | [Anthony Soto](https://open.spotify.com/artist/2blhvivHK3BmOLf1HQeQ6k) | [Abuelito](https://open.spotify.com/album/69lB7oDyFfSlsgVQLOCRnz) | 2:45 |
-| 24 | [maman](https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman](https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx) | 3:00 |
-| 25 | [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 |
-| 26 | [hais moi](https://open.spotify.com/track/6JXTyX1Elucrz7NZpZODIi) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [hais moi](https://open.spotify.com/album/7EZ5aN2eXA5Hd572iGWdqp) | 2:53 |
-| 27 | [Comment fait\-on ?](https://open.spotify.com/track/7e7ITPw4Ap7YL5C3p0AkcJ) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Comment fait\-on ?](https://open.spotify.com/album/1MLgGAiDsRaJQ1dzAGuuEC) | 2:06 |
-| 28 | [BABY](https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BABY](https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp) | 2:35 |
-| 29 | [Meilleur](https://open.spotify.com/track/3nfrlD1WL02p0ggrcNmmEp) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/4zyNrGyLYL8Fh4xaDg5w3N) | 3:00 |
-| 30 | [Mima](https://open.spotify.com/track/65s4YN5BiSzaNkVNJ17yYd) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Mima](https://open.spotify.com/album/2G4HwnISlVWk72pyC8fnk9) | 2:45 |
-| 31 | [100K à l'heure](https://open.spotify.com/track/0ZgvkcqpfrjlU3wBQduEwT) | [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF) | [100K à l'heure](https://open.spotify.com/album/6zcuD7hPUFftsrtanWEX0B) | 3:14 |
-| 32 | [Aux Deux Fêlés](https://open.spotify.com/track/5N7ocYESHbZu5gKOBNh7pH) | [Moona](https://open.spotify.com/artist/5PXOHFvMnDtfEG8Lsu0eSd) | [Aux Deux Fêlés](https://open.spotify.com/album/5YRcKoRm5iLbxSmOWPFKu3) | 2:25 |
-| 33 | [J'espère que c'est vrai](https://open.spotify.com/track/2EuuOBDrIfrdKYUKvXW2iK) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [J'espère que c'est vrai](https://open.spotify.com/album/1TtiBpOuEDjDo44m20sqkp) | 3:20 |
-| 34 | [Tourne Tourne](https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO DRAME](https://open.spotify.com/album/0t4I2vTPNL4IKMXCVNSCvY) | 2:29 |
-| 35 | [Vide](https://open.spotify.com/track/3Ywheg9zwWfStowfrpf7V5) | [Charlie Boisseau](https://open.spotify.com/artist/3LXVL2L6r29aSz9s3MK5aP) | [Vide](https://open.spotify.com/album/7r2RSKrWUQ4sw5y990H6Aj) | 2:19 |
-| 36 | [Internet](https://open.spotify.com/track/6CTF67PhXCjejoVdw9H0Yg) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Internet](https://open.spotify.com/album/0JWbb1gcqKO0OACnszsDRg) | 3:10 |
-| 37 | [Pas banale](https://open.spotify.com/track/6VpQQAEE1RvA1lMrzdMYMM) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Pas banale](https://open.spotify.com/album/7q9chE1LkGztCxEKs5ssA6) | 2:34 |
-| 38 | [Vérité](https://open.spotify.com/track/6n0A1PveCnOugPtdWRkbeC) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Vérité](https://open.spotify.com/album/3hebYaRK5QJJx7qEsRZayP) | 2:45 |
-| 39 | [Eternel amoureux](https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Eternel amoureux](https://open.spotify.com/album/2t47wy2zXVEYKkpbgJSkfF) | 2:43 |
+| 16 | [Petit](https://open.spotify.com/track/39I0BFHXeltCjKjVXLYw6P) | [Julien Andriana](https://open.spotify.com/artist/1IpfgEWQa7m6ERlU9NCCPX) | [Petit](https://open.spotify.com/album/2Ic3DxDRFDte2DjHsEMidH) | 3:04 |
+| 17 | [Mute](https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [La prison des amoureuses malheureuses](https://open.spotify.com/album/3dKaOKSDCF3C9XSpa7AQbn) | 2:53 |
+| 18 | [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 |
+| 19 | [Dis\-moi](https://open.spotify.com/track/48J8yeiYwZZxxwWXa4zTXQ) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Dis\-moi](https://open.spotify.com/album/1RwLMAYV1bqXcwCmdKrsOO) | 2:27 |
+| 20 | [Weekend \- 48H Radio Edit](https://open.spotify.com/track/2qgkmFTjDk13rrdJY7MIKE) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Weekend \(48H Radio Edit\)](https://open.spotify.com/album/6JVqrqC8uCUjcMNeIp6e8l) | 2:25 |
+| 21 | [Cavale](https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cavale](https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3) | 3:43 |
+| 22 | [Ce qui me va](https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 2:35 |
+| 23 | [Balance](https://open.spotify.com/track/5NozBRrGayj3tk6XefEDK0) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Balance](https://open.spotify.com/album/5WZKMq9O6JF7WNjVKZrhSj) | 2:40 |
+| 24 | [Abuelito](https://open.spotify.com/track/0ErYFIfaBolQss5NKdvdhC) | [Anthony Soto](https://open.spotify.com/artist/2blhvivHK3BmOLf1HQeQ6k) | [Abuelito](https://open.spotify.com/album/69lB7oDyFfSlsgVQLOCRnz) | 2:45 |
+| 25 | [maman](https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman](https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx) | 3:00 |
+| 26 | [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 |
+| 27 | [hais moi](https://open.spotify.com/track/6JXTyX1Elucrz7NZpZODIi) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [hais moi](https://open.spotify.com/album/7EZ5aN2eXA5Hd572iGWdqp) | 2:53 |
+| 28 | [Comment fait\-on ?](https://open.spotify.com/track/7e7ITPw4Ap7YL5C3p0AkcJ) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Comment fait\-on ?](https://open.spotify.com/album/1MLgGAiDsRaJQ1dzAGuuEC) | 2:06 |
+| 29 | [BABY](https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BABY](https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp) | 2:35 |
+| 30 | [Meilleur](https://open.spotify.com/track/3nfrlD1WL02p0ggrcNmmEp) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/4zyNrGyLYL8Fh4xaDg5w3N) | 3:00 |
+| 31 | [Mima](https://open.spotify.com/track/65s4YN5BiSzaNkVNJ17yYd) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Mima](https://open.spotify.com/album/2G4HwnISlVWk72pyC8fnk9) | 2:45 |
+| 32 | [100K à l'heure](https://open.spotify.com/track/0ZgvkcqpfrjlU3wBQduEwT) | [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF) | [100K à l'heure](https://open.spotify.com/album/6zcuD7hPUFftsrtanWEX0B) | 3:14 |
+| 33 | [Aux Deux Fêlés](https://open.spotify.com/track/5N7ocYESHbZu5gKOBNh7pH) | [Moona](https://open.spotify.com/artist/5PXOHFvMnDtfEG8Lsu0eSd) | [Aux Deux Fêlés](https://open.spotify.com/album/5YRcKoRm5iLbxSmOWPFKu3) | 2:25 |
+| 34 | [J'espère que c'est vrai](https://open.spotify.com/track/2EuuOBDrIfrdKYUKvXW2iK) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [J'espère que c'est vrai](https://open.spotify.com/album/1TtiBpOuEDjDo44m20sqkp) | 3:20 |
+| 35 | [Tourne Tourne](https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO DRAME](https://open.spotify.com/album/0t4I2vTPNL4IKMXCVNSCvY) | 2:29 |
+| 36 | [Vide](https://open.spotify.com/track/3Ywheg9zwWfStowfrpf7V5) | [Charlie Boisseau](https://open.spotify.com/artist/3LXVL2L6r29aSz9s3MK5aP) | [Vide](https://open.spotify.com/album/7r2RSKrWUQ4sw5y990H6Aj) | 2:19 |
+| 37 | [Internet](https://open.spotify.com/track/6CTF67PhXCjejoVdw9H0Yg) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Internet](https://open.spotify.com/album/0JWbb1gcqKO0OACnszsDRg) | 3:10 |
+| 38 | [Pas banale](https://open.spotify.com/track/6VpQQAEE1RvA1lMrzdMYMM) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Pas banale](https://open.spotify.com/album/7q9chE1LkGztCxEKs5ssA6) | 2:34 |
+| 39 | [Vérité](https://open.spotify.com/track/6n0A1PveCnOugPtdWRkbeC) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Vérité](https://open.spotify.com/album/3hebYaRK5QJJx7qEsRZayP) | 2:45 |
+| 40 | [Eternel amoureux](https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Eternel amoureux](https://open.spotify.com/album/2t47wy2zXVEYKkpbgJSkfF) | 2:43 |
 
-Snapshot ID: `aAF54QAAAAB4AbI4x0GSTyK1B4E0kgfG`
+Snapshot ID: `aAZApAAAAAC0LuaP8jeYxPxllZmgtQOr`

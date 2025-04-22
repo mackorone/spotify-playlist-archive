@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>, <a href="spotify:artist:25u4wHJWxCA9vO0CzxAbK7">Lukas Graham</a>,  <a href="spotify:artist:4gvjmrtzydbMpyJaXUtwvP">Addison Rae</a> og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,373 likes - 105 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,372 likes - 105 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
