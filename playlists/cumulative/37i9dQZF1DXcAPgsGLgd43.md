@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-385 songs - 21 hr 2 min
+386 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Arenales 2984](https://open.spotify.com/track/4HnLWM4wXJIaqItvM5NofI) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Jdr](https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh) | [Arenales 2984](https://open.spotify.com/album/23ven5o2tmccqzRJ2ETSu4) | 2:48 | 2024-06-28 | 2024-07-06 |
 | [Arrebatao \(feat\. Tayson Kryss\)](https://open.spotify.com/track/4X98vdZ7WXOCFyzC05PPOv) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Sebastian Ledher](https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn), [Joseph Ren](https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Arrebatao](https://open.spotify.com/album/4AHUp3FsMi7XQqiYQJz4e8) | 2:47 | 2024-10-25 | 2025-04-07 |
 | [Asereje](https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM) | [Jean Massey](https://open.spotify.com/artist/0jxlHo3OVSP5B5u0MsU8rE) | [Asereje](https://open.spotify.com/album/7FH5hS1VYDTy0hE1yni0cV) | 2:48 | 2023-12-01 |  |
+| [Asereje \- Remix](https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Asereje \(Remix\)](https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB) | 2:37 | 2025-04-18 |  |
 | [Asi Lo Grita](https://open.spotify.com/track/5eXAJrSoUOx9LfNDm2svO7) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Asi Lo Grita](https://open.spotify.com/album/3HHmPnky6PZCgIqZpSiY2a) | 3:10 | 2024-03-29 | 2024-04-19 |
 | [Atardecer](https://open.spotify.com/track/4lgrZY890RzjqNGA7awcH2) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [NIINE](https://open.spotify.com/artist/6gsA8VU32Q7HZy84xOihW8) | [Atardecer](https://open.spotify.com/album/2dmBNrGn4ucWFUGTh1M7rF) | 2:11 | 2024-08-02 | 2024-11-14 |
 | [Ay](https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ay](https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7) | 4:06 | 2024-03-01 | 2024-07-06 |
@@ -175,7 +176,7 @@
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2023-11-10 | 2023-12-09 |
 | [HAHAHA](https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM), [Stizi](https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42) | [HAHAHA EP](https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC) | 2:36 | 2024-07-26 | 2025-02-09 |
 | [HAVANA](https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s) | [Vince Morgana](https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8), [GLADYS](https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf) | [HAVANA](https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN) | 2:26 | 2024-01-05 | 2024-05-27 |
-| [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-11-10 |  |
+| [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-11-10 | 2025-04-23 |
 | [Hola Venga](https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Hola Venga](https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB) | 3:55 | 2024-11-15 | 2025-01-30 |
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2023-11-10 |  |
 | [Incanto](https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Incanto](https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp) | 3:06 | 2024-05-31 | 2024-12-17 |

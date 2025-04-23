@@ -4,7 +4,7 @@
 
 > Lluvia sin más
 
-314 songs - 14 hr 58 min
+315 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Dripping Rain](https://open.spotify.com/track/0Of6J0VrkGeNm8YRpTYby9) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Dripping Rain](https://open.spotify.com/album/2B2IvBr9t2Qy0w5fjall3b) | 2:39 | 2023-06-16 |  |
 | [Dripping Rain on Garden Stones](https://open.spotify.com/track/6wO8CbViGqfobTkcCAzumO) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Summer Rains](https://open.spotify.com/album/6OsfWkLWbpN3t8T94YhPzz) | 4:41 | 2023-06-16 |  |
 | [Droplet Drift](https://open.spotify.com/track/5L7KXB9VytvwVTz7qcuCL9) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Droplet Drift](https://open.spotify.com/album/280YFBsxQ3p9XvxZ94RtVy) | 3:08 | 2023-06-16 |  |
+| [Early Autumn Rain](https://open.spotify.com/track/5YqfEDaj1m9CVCFtLYwDbr) | [Rain\-Dears](https://open.spotify.com/artist/4tM1ZZLpf0ewkeqWrpI5O0) | [Early Autumn Rain And Thunder](https://open.spotify.com/album/3C0iO1d0GWuEY3HTbGiQ9x) | 2:56 | 2025-04-08 |  |
 | [Earth Rain](https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Space Rain](https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K) | 3:41 | 2023-06-16 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2023-06-16 |  |
 | [Euphoric Drizzle](https://open.spotify.com/track/2Ge3BI9fA1cNJdb8ePNqam) | [Okami Sky](https://open.spotify.com/artist/3UjdSZhRRq4rEZ3K2HQWIP) | [Euphoric Drizzle](https://open.spotify.com/album/4g8gKIVO2XTp54E0Oh2IYL) | 2:34 | 2023-06-16 |  |
@@ -307,7 +308,7 @@
 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [I See Rainbows](https://open.spotify.com/artist/3gsxqVDwafHaGerSAf235l) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 | 2023-06-16 |  |
 | [Tuck You In Rain](https://open.spotify.com/track/2bEXK4xPzMh7Q0TQkGAE06) | [Athmospherical FX](https://open.spotify.com/artist/1sOEjr4Po1kf0wbHl6aeGr) | [Athmospherical Rain](https://open.spotify.com/album/60DQWCF0KxebBjDY5Tprgr) | 2:44 | 2023-06-16 |  |
 | [Umbrella Time](https://open.spotify.com/track/5mWEC9dsbcLwo5CeIyVRA6) | [Nordic Rain](https://open.spotify.com/artist/6c2zaxb47VSieJR0wLDLAg) | [Drops Coming Down](https://open.spotify.com/album/7FA1NLVF63KlKuiku94BAD) | 2:32 | 2023-06-16 |  |
-| [Under Cover Rain Sound](https://open.spotify.com/track/5nIay6DvjF2a9gtCOKVPbP) | [Sound Bank of Nature](https://open.spotify.com/artist/1EKgzL5K7yuauocG4oxn8q) | [Light Breeze](https://open.spotify.com/album/3tfXW0ef1xjixcJCUGO0m3) | 2:34 | 2024-03-20 |  |
+| [Under Cover Rain Sound](https://open.spotify.com/track/5nIay6DvjF2a9gtCOKVPbP) | [Sound Bank of Nature](https://open.spotify.com/artist/1EKgzL5K7yuauocG4oxn8q) | [Light Breeze](https://open.spotify.com/album/3tfXW0ef1xjixcJCUGO0m3) | 2:34 | 2024-03-20 | 2025-04-23 |
 | [Under Roof \- Rain/Thunder](https://open.spotify.com/track/3k5VRh1H1Khp7PN8Yp8fB8) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:08 | 2023-06-16 |  |
 | [Under the Rain Clouds](https://open.spotify.com/track/1MyeT7GjwylrPvcLsBSjds) | [Natur Musikanten](https://open.spotify.com/artist/1cnvjBS4O1gaKv7LAIzFFT) | [Endless Rain](https://open.spotify.com/album/68iEqOmVcOTDhYWQ6DwTUI) | 2:38 | 2023-06-16 |  |
 | [Under the Rainy Skies](https://open.spotify.com/track/5L5tusKjZYfPcPpWPmKduv) | [The Rain Seeker](https://open.spotify.com/artist/3D9BR2Fa86NsSY5aISRoKT) | [Under the Rainy Skies](https://open.spotify.com/album/6Xh0gOKnRW6HUfgiBqok68) | 3:23 | 2024-03-21 |  |

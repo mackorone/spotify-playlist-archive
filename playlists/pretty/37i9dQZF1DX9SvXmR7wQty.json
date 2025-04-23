@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: C\u0153ur De Pirate",
-  "num_followers": 44474,
+  "num_followers": 44478,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "La Pluie",
+      "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 211300,
       "name": "Girl (2025)",
       "url": "https://open.spotify.com/track/7DuXqTgphrMZUA0cRU92TL"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Ennemi",
-        "url": "https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 175053,
-      "name": "Ennemi",
-      "url": "https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -555,18 +555,22 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "B\u00eatise",
-        "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
+        "name": "Ennemi",
+        "url": "https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
         }
       ],
-      "duration_ms": 165253,
-      "name": "B\u00eatise",
-      "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
+      "duration_ms": 175053,
+      "name": "Ennemi",
+      "url": "https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -607,22 +611,6 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "SHAOLIN",
-        "url": "https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 124705,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
         "name": "En Attendant Paphos",
         "url": "https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me"
       },
@@ -643,6 +631,66 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "N\u00e9s Pour Briller : Book II",
+        "url": "https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "D2",
+          "url": "https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "C'est Quoi Ton D\u00e9lire",
+      "url": "https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "B\u00eatise",
+        "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "B\u00eatise",
+      "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "SHAOLIN",
+        "url": "https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 124705,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "Qu\u00e9 Miras Bobo",
         "url": "https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6"
       },
@@ -655,26 +703,6 @@
       "duration_ms": 150806,
       "name": "Qu\u00e9 Miras Bobo",
       "url": "https://open.spotify.com/track/69V8EffxZePjssPL4h7x87"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "La Pluie",
-      "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -715,22 +743,6 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "Gentil Gar\u00e7on",
-        "url": "https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Gentil Gar\u00e7on",
-      "url": "https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
         "name": "Me Enamore",
         "url": "https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv"
       },
@@ -743,6 +755,38 @@
       "duration_ms": 189725,
       "name": "Me Enamore",
       "url": "https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
+        "name": "Gentil Gar\u00e7on",
+        "url": "https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Gentil Gar\u00e7on",
+      "url": "https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -763,34 +807,6 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "N\u00e9s Pour Briller : Book II",
-        "url": "https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "D2",
-          "url": "https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "C'est Quoi Ton D\u00e9lire",
-      "url": "https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
         "name": "Sains et saufs",
         "url": "https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 221600,
       "name": "Sains et saufs",
       "url": "https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
     },
     {
       "added_at": "2025-04-18 04:00:43",
@@ -939,6 +939,26 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
+        "name": "Comment T'aimer Sans Diamants ?",
+        "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
+      },
+      "artists": [
+        {
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "ALICANTE",
+      "url": "https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH"
+    },
+    {
+      "added_at": "2025-04-18 04:00:43",
+      "album": {
         "name": "Honn\u00eatement",
         "url": "https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 115693,
       "name": "Honn\u00eatement",
       "url": "https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "77 Degr\u00e9s",
-        "url": "https://open.spotify.com/album/7rrim5oqq6k8w8TN7AD8nF"
-      },
-      "artists": [
-        {
-          "name": "77 degr\u00e9s",
-          "url": "https://open.spotify.com/artist/4OkNhj7zVwnB3p57DR2SVN"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Camp Nou",
-      "url": "https://open.spotify.com/track/1HjubnKBM5ZwjTBOTIv7KS"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Kean Cipriano, Ice Seguerra
 
-336 songs - 21 hr 4 min
+338 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-07-02 | 2024-09-07 |
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2024-09-24 | 2025-02-26 |
 | [Ayos Lang](https://open.spotify.com/track/1k1emHrNUbvDBVihKDBR2f) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ayos Lang](https://open.spotify.com/album/6PIFh1ebIsEIArIFojLg8W) | 3:13 | 2025-03-28 |  |
+| [Bababa](https://open.spotify.com/track/19BGZtnvH41wHrlW4h6SiG) | [1621](https://open.spotify.com/artist/02NMfOlZLaiwrDvQsZxXOI) | [Bababa](https://open.spotify.com/album/6Kf1U9GPu7ra3YcwrUbDyz) | 2:10 | 2025-04-22 |  |
 | [Back Home To You](https://open.spotify.com/track/7HintleCrmra9Ag5rnMYXJ) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Back Home To You](https://open.spotify.com/album/4BQVamFj786ljykHSBrzog) | 3:43 | 2024-07-12 | 2024-09-27 |
 | [Baggages](https://open.spotify.com/track/5CdRKbPYKe0V2bgNrQfRcd) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Baggages](https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7) | 3:16 | 2024-07-17 | 2024-11-09 |
 | [Bakit Hindi Ka Crush Ng Crush Mo](https://open.spotify.com/track/2KuTrG1x4SYCeZh1FMDCGu) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Bakit Hindi Ka Crush Ng Crush Mo](https://open.spotify.com/album/7pvBl5IBQ2XaGccv4P9a09) | 5:37 | 2024-08-16 | 2024-11-21 |
@@ -307,6 +308,7 @@
 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-08 | 2025-02-13 |
 | [Tagpi\-Tagping Piraso](https://open.spotify.com/track/2Wo8XWGAdfVKY0cArDMo8L) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Tagpi\-Tagping Piraso](https://open.spotify.com/album/1sZHJjzmRCPByEp5LvqOqq) | 4:46 | 2024-10-18 | 2025-02-01 |
 | [tama na](https://open.spotify.com/track/7LRPZzicTkzOJ4OyFgajxT) | [Cuatro](https://open.spotify.com/artist/4dg2z4ZmSNpkBGRSSBs3Q0) | [tama na](https://open.spotify.com/album/0Q30UaqNvSu4F2zeBm1pHF) | 4:01 | 2024-11-20 | 2025-02-06 |
+| [TANGA](https://open.spotify.com/track/35XFkYrc5OH9pPlkIwzbJX) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [TANGA](https://open.spotify.com/album/3y88lcUSISH0jDysmWfvE4) | 2:26 | 2025-04-22 |  |
 | [Tanga Mo Juan](https://open.spotify.com/track/13lwYFYmDDXeIBXW9IJaP9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Tanga Mo Juan](https://open.spotify.com/album/1qS34W4EiMKNuZzIa85bn5) | 4:06 | 2024-07-02 | 2024-08-22 |
 | [Tangi](https://open.spotify.com/track/6gZiPX4GZd3wm2Ko4f3LX3) | [Carl Beley](https://open.spotify.com/artist/50JLRPX2SAUwAfMglz3LiJ) | [Tangi](https://open.spotify.com/album/6icZ498dwWlfGWCGVGoobH) | 4:01 | 2024-12-04 |  |
 | [Tanging Ikaw](https://open.spotify.com/track/1mT8L0Da9RmYbx9TUpqU1y) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Tanging Ikaw](https://open.spotify.com/album/5Vo9ijLxjWDZfl11vJhc4a) | 2:56 | 2025-01-31 |  |

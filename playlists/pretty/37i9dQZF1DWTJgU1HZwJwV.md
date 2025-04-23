@@ -4,36 +4,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,622 likes - 145 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,644 likes - 145 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Mayor](https://open.spotify.com/track/0zCXkQqiVItDnClHPSyNd1) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [El Mayor](https://open.spotify.com/album/15WDSMS14fdqlntiw5SwLF) | 2:09 |
 | 2 | [Remembering](https://open.spotify.com/track/2KbLzZgHUCGNifpbDlQVur) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Remembering](https://open.spotify.com/album/0jzL2BPcDgMmVFnzhXKYRr) | 2:18 |
-| 3 | [Dusk](https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Dusk](https://open.spotify.com/album/6alx16iPXm9cGR5w7fuGJj) | 2:34 |
-| 4 | [Close To Home](https://open.spotify.com/track/1yKZOimGS312NRcpwjhsXd) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Close To Home](https://open.spotify.com/album/5dhdPcBxiWEroTeOjsdgQ4) | 2:33 |
-| 5 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 |
-| 6 | [Despegue](https://open.spotify.com/track/2AC6EchHotWs5LgJKZgH5B) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Despegue](https://open.spotify.com/album/6HmMiJUll7sgw4L40sWZEA) | 2:16 |
+| 3 | [Close To Home](https://open.spotify.com/track/1yKZOimGS312NRcpwjhsXd) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Close To Home](https://open.spotify.com/album/5dhdPcBxiWEroTeOjsdgQ4) | 2:33 |
+| 4 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 |
+| 5 | [Despegue](https://open.spotify.com/track/2AC6EchHotWs5LgJKZgH5B) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Despegue](https://open.spotify.com/album/6HmMiJUll7sgw4L40sWZEA) | 2:16 |
+| 6 | [Open Plain](https://open.spotify.com/track/0kEVXbpsHvWRrwxw5V4ztc) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Open Plain](https://open.spotify.com/album/2vvuoGBQR3Lk5mFYyK6Qzh) | 2:52 |
 | 7 | [Peekskills](https://open.spotify.com/track/0Qk32yAxmSsyHmvILqfsdT) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Peekskills](https://open.spotify.com/album/0o3eEFDa3NqHEuiS8G3WjI) | 2:15 |
 | 8 | [Everwarm](https://open.spotify.com/track/4vVHHh42oRLxw4McSyWED2) | [Yumi Ima](https://open.spotify.com/artist/0TVrvag1CbzyEzo93LPCba) | [Everwarm](https://open.spotify.com/album/41ezKIzkNkok0R3aBcdyLU) | 2:49 |
-| 9 | [Open Plain](https://open.spotify.com/track/0kEVXbpsHvWRrwxw5V4ztc) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Open Plain](https://open.spotify.com/album/2vvuoGBQR3Lk5mFYyK6Qzh) | 2:52 |
-| 10 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 |
-| 11 | [Smiled Upon](https://open.spotify.com/track/3LkFqXeJ7HFsQBBDgZ3ay1) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Smiled Upon](https://open.spotify.com/album/2ScFSQPRG8cYlX90aTbbpt) | 2:13 |
-| 12 | [Porto Cervo](https://open.spotify.com/track/7GxkKrjP9Mt8Wizi0YmjfX) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Porto Cervo](https://open.spotify.com/album/0CpRpMXCgd0TvUup9IoPz2) | 2:39 |
-| 13 | [Ordinary Sunday](https://open.spotify.com/track/0bdtCy7wrMYa7gc8mCo955) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Ordinary Sunday](https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7) | 2:44 |
-| 14 | [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 |
-| 15 | [Marylebone](https://open.spotify.com/track/06AYaxQIhxBrj98jEamqOk) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Marylebone](https://open.spotify.com/album/3PSMw5VfGeWMGL1X86N3gf) | 2:33 |
-| 16 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 |
-| 17 | [Still Waiting](https://open.spotify.com/track/2Ny8lpQv4F5sKHtRQglRVn) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Still Waiting](https://open.spotify.com/album/4t9Wak4mJNhpUCwa7VxMCX) | 2:05 |
-| 18 | [Only Briefly](https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Only Briefly](https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG) | 2:07 |
-| 19 | [The Dreamer](https://open.spotify.com/track/4JeCz2VmJDfpdw5nJUg7kV) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Dreamer](https://open.spotify.com/album/1MWZ3bhElou5DzdnnjnKVs) | 2:21 |
-| 20 | [Solis](https://open.spotify.com/track/1szHxvHkt6Q5AOmhy3waph) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Solis](https://open.spotify.com/album/7nIUMBa5guEzQ3YqZiwG6Q) | 2:14 |
-| 21 | [Move Forward](https://open.spotify.com/track/7aPPZJfrst60lLtPHoRHFD) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Move Forward](https://open.spotify.com/album/2gbXjH0jbYytvzRDruzCaP) | 2:12 |
-| 22 | [Turning Right](https://open.spotify.com/track/2ZVNMfJ2Ncn3t6tyH7WRtF) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Turning Right](https://open.spotify.com/album/68ySkYxH2cExnjDC6WUD88) | 2:10 |
-| 23 | [To Say It Once Was](https://open.spotify.com/track/3D7rpE2yBwLFS3pqFZD1hX) | [Nova Lark](https://open.spotify.com/artist/6cZcotbb3ld687qdhgRcG9) | [To Say It Once Was](https://open.spotify.com/album/1PfGLgBwkpTLVn8QQBHOk6) | 2:11 |
-| 24 | [Aporia](https://open.spotify.com/track/4XGgC3C5xkUlK7KZvxrvFO) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Aporia](https://open.spotify.com/album/2soT3wxQELu7yXSph3b4J8) | 1:57 |
-| 25 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 |
-| 26 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 |
+| 9 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 |
+| 10 | [Porto Cervo](https://open.spotify.com/track/7GxkKrjP9Mt8Wizi0YmjfX) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Porto Cervo](https://open.spotify.com/album/0CpRpMXCgd0TvUup9IoPz2) | 2:39 |
+| 11 | [Ordinary Sunday](https://open.spotify.com/track/0bdtCy7wrMYa7gc8mCo955) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Ordinary Sunday](https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7) | 2:44 |
+| 12 | [Marylebone](https://open.spotify.com/track/06AYaxQIhxBrj98jEamqOk) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Marylebone](https://open.spotify.com/album/3PSMw5VfGeWMGL1X86N3gf) | 2:33 |
+| 13 | [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 |
+| 14 | [Smiled Upon](https://open.spotify.com/track/3LkFqXeJ7HFsQBBDgZ3ay1) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Smiled Upon](https://open.spotify.com/album/2ScFSQPRG8cYlX90aTbbpt) | 2:13 |
+| 15 | [Solis](https://open.spotify.com/track/1szHxvHkt6Q5AOmhy3waph) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Solis](https://open.spotify.com/album/7nIUMBa5guEzQ3YqZiwG6Q) | 2:14 |
+| 16 | [Still Waiting](https://open.spotify.com/track/2Ny8lpQv4F5sKHtRQglRVn) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Still Waiting](https://open.spotify.com/album/4t9Wak4mJNhpUCwa7VxMCX) | 2:05 |
+| 17 | [Only Briefly](https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Only Briefly](https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG) | 2:07 |
+| 18 | [The Dreamer](https://open.spotify.com/track/4JeCz2VmJDfpdw5nJUg7kV) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Dreamer](https://open.spotify.com/album/1MWZ3bhElou5DzdnnjnKVs) | 2:21 |
+| 19 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 |
+| 20 | [Turning Right](https://open.spotify.com/track/2ZVNMfJ2Ncn3t6tyH7WRtF) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Turning Right](https://open.spotify.com/album/68ySkYxH2cExnjDC6WUD88) | 2:10 |
+| 21 | [To Say It Once Was](https://open.spotify.com/track/3D7rpE2yBwLFS3pqFZD1hX) | [Nova Lark](https://open.spotify.com/artist/6cZcotbb3ld687qdhgRcG9) | [To Say It Once Was](https://open.spotify.com/album/1PfGLgBwkpTLVn8QQBHOk6) | 2:11 |
+| 22 | [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 |
+| 23 | [Aporia](https://open.spotify.com/track/4XGgC3C5xkUlK7KZvxrvFO) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Aporia](https://open.spotify.com/album/2soT3wxQELu7yXSph3b4J8) | 1:57 |
+| 24 | [Beyond This Chapter](https://open.spotify.com/track/2y9KLiNyaEAyViL5JOEFYI) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Beyond This Chapter](https://open.spotify.com/album/19rvv5E7HnKyS4g8XZxm8T) | 2:24 |
+| 25 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 |
+| 26 | [Boundless Moment](https://open.spotify.com/track/1wmCoFe0tdBkWD2fmmAbJA) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Boundless Moment](https://open.spotify.com/album/3YGZLm3CHmMbIA24pLklT3) | 2:29 |
 | 27 | [Labyrinth](https://open.spotify.com/track/6D1rwuCaxBMaKNkRCKYkdN) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Labyrinth](https://open.spotify.com/album/1SDeeKR6wSSuPlqvTPAigX) | 2:12 |
 | 28 | [Skopje](https://open.spotify.com/track/0cEpSarBhZNqu46vwjPPXK) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Skopje](https://open.spotify.com/album/3M4XSfTycOnadZIECHG14V) | 2:42 |
 | 29 | [Once Upon a Summer](https://open.spotify.com/track/6rb2wUYGbRAtz6gG0kMU97) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Once Upon a Summer](https://open.spotify.com/album/0N1rtLe8DE7INB2oth9jlk) | 2:57 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 144 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 |
 | 145 | [Fairytale](https://open.spotify.com/track/1nG96s85Zw3DVnG24onptC) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Fairytale](https://open.spotify.com/album/4f3CoCIOgJGOPgdZLu8ycA) | 2:28 |
 
-Snapshot ID: `Z/+X1AAAAAAXZh8sWjLt7aYkB+QuKDKJ`
+Snapshot ID: `aAezVQAAAACKFgi+/rUtKuaO4Dox3FJx`

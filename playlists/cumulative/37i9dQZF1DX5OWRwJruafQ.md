@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Jassa Dhillon
 
-598 songs - 1 day 4 hr 38 min
+599 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Hard Knock Life](https://open.spotify.com/track/3uWoeP4NbQMnObVhxa4t0J) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Hard Knock Life](https://open.spotify.com/album/5w7kjwK7VYpUAsZn6TYtjO) | 3:19 | 2023-05-05 | 2023-05-27 |
 | [Hath Mittran Nu](https://open.spotify.com/track/3akvPGRrZVPaE2GSoqJIvf) | [Khadak Singh](https://open.spotify.com/artist/6u8dtdN8dK5hjTkkfw4ysc) | [Hath Mittran Nu](https://open.spotify.com/album/7J4wVMxhnPfzr3Vj9dzjSA) | 2:30 | 2024-10-18 | 2024-11-15 |
 | [Hathyar \- From "Tufang"](https://open.spotify.com/track/1JpUj7FtR1pGM2OAZdSeK3) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Hathyar \(From "Tufang"\)](https://open.spotify.com/album/5zXOlnv7LlCLlipzHBdSPk) | 2:24 | 2023-07-17 | 2024-01-06 |
+| [Have Too](https://open.spotify.com/track/3OKiaEUDDEnsZeh4yOvhLp) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [Have Too](https://open.spotify.com/album/2MxwtkkcQv2GYahjmuKnNS) | 2:04 | 2025-04-22 |  |
 | [Heads Up](https://open.spotify.com/track/6JGlFHvFHXe3VjqP1obvL6) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:40 | 2024-08-23 |  |
 | [Heel](https://open.spotify.com/track/3RjYCv0aBmCzZyLRIHH4o8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Billo Kehndi](https://open.spotify.com/album/0zufKiU1f4TQOmcpTDpnpW) | 3:22 | 2024-01-18 | 2024-02-16 |
 | [Heeray](https://open.spotify.com/track/2ArvOTJvqP3tGTddDX5zXc) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Ishq Di Ep](https://open.spotify.com/album/6O88c3OCo8IjNBfaIhE7EQ) | 3:04 | 2023-11-06 | 2023-11-13 |
@@ -340,7 +341,7 @@
 | [Lucifer](https://open.spotify.com/track/38RA9VH12NmpiVBamNJtSy) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Mr\. Rubal](https://open.spotify.com/artist/36UOJCmUrSwImCKV47F3Iy) | [Lucifer](https://open.spotify.com/album/6CYRc3WOonWttx4O1VJh1q) | 3:13 | 2023-08-28 | 2023-10-07 |
 | [LV](https://open.spotify.com/track/73brEuUMAPAiGWALPglvRm) | [Manpreet Dhillon](https://open.spotify.com/artist/43NqRT7AYkjgNTCSU3BwiA), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [LV](https://open.spotify.com/album/4E8acyQkONbwZIDvQTq1d3) | 2:24 | 2025-04-20 |  |
 | [M1911](https://open.spotify.com/track/0r5lpL34oxVDKg8aFRueU6) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [M1911](https://open.spotify.com/album/6B2XyOETt9hTC6UJK9DPdT) | 2:35 | 2023-08-16 | 2023-10-05 |
-| [M9](https://open.spotify.com/track/5SOT3flWOUBxw2Ieso43Zp) | [Angad Aliwal](https://open.spotify.com/artist/5aT1z6vnIsnwgpl26WXq4A), [Archie Muzik](https://open.spotify.com/artist/2dcNgbwIYrKSohxZZQZ7Kk) | [M9](https://open.spotify.com/album/5mPVMaXvIoWPhjVDDz3SnX) | 2:34 | 2025-04-11 |  |
+| [M9](https://open.spotify.com/track/5SOT3flWOUBxw2Ieso43Zp) | [Angad Aliwal](https://open.spotify.com/artist/5aT1z6vnIsnwgpl26WXq4A), [Archie Muzik](https://open.spotify.com/artist/2dcNgbwIYrKSohxZZQZ7Kk) | [M9](https://open.spotify.com/album/5mPVMaXvIoWPhjVDDz3SnX) | 2:34 | 2025-04-11 | 2025-04-23 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-29 | 2023-04-09 |
 | [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-12 | 2024-04-24 |
 | [Mainstream](https://open.spotify.com/track/5NVKb40uUdjWbo8TINPtWU) | [NADAR](https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr), [DaBrown](https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC) | [Mainstream](https://open.spotify.com/album/3V47YjpWRzCma2P0jFB1Cm) | 2:52 | 2024-01-24 | 2024-02-14 |

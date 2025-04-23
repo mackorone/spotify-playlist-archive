@@ -4,11 +4,11 @@
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-254 songs - 15 hr 48 min
+255 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [124 BPM](https://open.spotify.com/track/0hAoGiAaZQVl3UzemYRadq) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [124 BPM](https://open.spotify.com/album/0YgfHQN287ghLyYbN2SXjt) | 2:42 | 2025-03-27 |  |
+| [124 BPM](https://open.spotify.com/track/0hAoGiAaZQVl3UzemYRadq) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [124 BPM](https://open.spotify.com/album/0YgfHQN287ghLyYbN2SXjt) | 2:42 | 2025-03-27 | 2025-04-23 |
 | [24](https://open.spotify.com/track/6ZmvkPsAhZdP0VUqX2NtTo) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [24](https://open.spotify.com/album/1qI2EQofSUMJJl35IzIsT0) | 5:05 | 2023-08-25 | 2023-11-30 |
 | [9MM](https://open.spotify.com/track/5rqTRj4ZB2Nv3watYPlIYb) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [ESKIIMO](https://open.spotify.com/artist/3XtbVyd1BMPc4vIwCengvA) | [9MM](https://open.spotify.com/album/3NvxmDyHLzXU73v6eRDXS2) | 2:39 | 2023-08-25 | 2023-09-02 |
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2023-07-21 | 2024-03-29 |
@@ -206,6 +206,7 @@
 | [หัวใจ \(The Reason Why I Live\)](https://open.spotify.com/track/63QIlrzh79BhQYrd9FuR5A) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [หัวใจ \(The Reason Why I Live\)](https://open.spotify.com/album/4ETXZZ3z3Q4OBTy2Jmnq3Q) | 4:39 | 2023-01-10 | 2023-04-14 |
 | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/album/4UmeizyaQt3UMctskcADjF) | 5:17 | 2023-04-13 | 2024-03-29 |
 | [หินเปิดตัวแฟน](https://open.spotify.com/track/7a7J9igYwomlu1BPD0mrex) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [หินเปิดตัวแฟน](https://open.spotify.com/album/4XSDCkmJYKAAPH9SjC8aQh) | 3:17 | 2023-04-13 | 2023-06-23 |
+| [ห๊ะ! \(Huh!\)](https://open.spotify.com/track/7ijSTwXKu4SoVJS7BPxPSt) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ), [PRAESUN](https://open.spotify.com/artist/6A44sxjXbXiPQvb7GaUF0g) | [ห๊ะ! \(Huh!\)](https://open.spotify.com/album/4Lg5B5UZVS5peimZFp8XOl) | 3:30 | 2025-04-22 |  |
 | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/album/3VnwBDrzS0Ly8e3Q7nmOzy) | 3:42 | 2022-09-15 | 2023-04-14 |
 | [อยากมองเธอในแง่ร้าย](https://open.spotify.com/track/07YGyzUOy0iRj9bXtJ8JsI) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [อยากมองเธอในแง่ร้าย](https://open.spotify.com/album/3dAn90QqK2aEj8f5IWQDAS) | 3:06 | 2025-03-27 |  |
 | [อย่าฝืน \(Over\)](https://open.spotify.com/track/3PBTZxL5Dk7AOXjt7ooyWB) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [อย่าฝืน \(Over\)](https://open.spotify.com/album/6SeguylSlO1uCPRyCXWLgN) | 3:47 | 2025-02-17 | 2025-03-28 |

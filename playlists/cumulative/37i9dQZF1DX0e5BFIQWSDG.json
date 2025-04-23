@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Kidd",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Fy",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -152,6 +152,24 @@
       "duration_ms": 152500,
       "name": "5 AM IN VANCOUVER",
       "url": "https://open.spotify.com/track/3VwyRL8A1CkxCLWtWalb60"
+    },
+    {
+      "album": {
+        "name": "5G",
+        "url": "https://open.spotify.com/album/5PRrzJZQTL2KeYgLEvBruP"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209393,
+      "name": "5G",
+      "url": "https://open.spotify.com/track/1zFopnWXPb0lWocBU5eSnw"
     },
     {
       "album": {
@@ -476,7 +494,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 238866,
       "name": "An einai dinaton",
       "url": "https://open.spotify.com/track/0jCvKqzE6I0tZxxXYGUOod"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 322064,
       "name": "BLACK PHONE MAFIA",
       "url": "https://open.spotify.com/track/6BbY1PRIpGi8jxyzmrSibV"
@@ -1310,6 +1328,32 @@
       "duration_ms": 156069,
       "name": "DOLCE GABBANA",
       "url": "https://open.spotify.com/track/7r0sYhhoM4hjeuCDlbCobZ"
+    },
+    {
+      "album": {
+        "name": "DOLLA DOLLA",
+        "url": "https://open.spotify.com/album/1k7V7iff3inDa6BwZ4uBZ0"
+      },
+      "artists": [
+        {
+          "name": "Khay Be",
+          "url": "https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "DOLLA DOLLA",
+      "url": "https://open.spotify.com/track/1Q4fXnDsfRVN1KTH3TEaN3"
     },
     {
       "album": {
@@ -1875,6 +1919,32 @@
     },
     {
       "album": {
+        "name": "ZIZEL",
+        "url": "https://open.spotify.com/album/3ZiPfcm1SdyAsuOqHkuM1j"
+      },
+      "artists": [
+        {
+          "name": "ZiZZi",
+          "url": "https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "GET MONEY",
+      "url": "https://open.spotify.com/track/0TWiy2EMCGnOJY7sHk3V6V"
+    },
+    {
+      "album": {
         "name": "Repetition",
         "url": "https://open.spotify.com/album/2hwW3zp6Hgxpjs5AiUVxuF"
       },
@@ -2044,7 +2114,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 120000,
       "name": "GOAL",
       "url": "https://open.spotify.com/track/7melDBnvzx5TU4yxOgT1MF"
@@ -2305,32 +2375,6 @@
     },
     {
       "album": {
-        "name": "ZIZEL",
-        "url": "https://open.spotify.com/album/3ZiPfcm1SdyAsuOqHkuM1j"
-      },
-      "artists": [
-        {
-          "name": "ZiZZi",
-          "url": "https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL"
-        },
-        {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "date_added": "2025-04-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133894,
-      "name": "I GET MONEY",
-      "url": "https://open.spotify.com/track/0TWiy2EMCGnOJY7sHk3V6V"
-    },
-    {
-      "album": {
         "name": "ILEGAL",
         "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
       },
@@ -2460,6 +2504,32 @@
       "duration_ms": 190336,
       "name": "Kamia San Esena",
       "url": "https://open.spotify.com/track/4RPbBXNO6784XLVOVBGCT0"
+    },
+    {
+      "album": {
+        "name": "MAVRI ELLADA",
+        "url": "https://open.spotify.com/album/1VLERIT9MWXQGypnzYaTe9"
+      },
+      "artists": [
+        {
+          "name": "Negros Tou Moria",
+          "url": "https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "ODYDOZE",
+          "url": "https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Kapos Allios",
+      "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
     },
     {
       "album": {
@@ -2884,7 +2954,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 156862,
       "name": "LEOFORIO",
       "url": "https://open.spotify.com/track/5ZirPH2NK1tcghUP3tW8fa"
@@ -3472,7 +3542,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 207225,
       "name": "Nyxterides",
       "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
@@ -4383,6 +4453,28 @@
     },
     {
       "album": {
+        "name": "SIN PLIN",
+        "url": "https://open.spotify.com/album/6WbBTOHSCSD603ym4WfURh"
+      },
+      "artists": [
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "SIN PLIN",
+      "url": "https://open.spotify.com/track/1pZO75V7j80d1mgsQgnjJe"
+    },
+    {
+      "album": {
         "name": "SKG DRILL",
         "url": "https://open.spotify.com/album/5UC3x1p0tyC6fPNFEhL4Vk"
       },
@@ -4662,6 +4754,32 @@
       "duration_ms": 165125,
       "name": "Teleia Sxesh",
       "url": "https://open.spotify.com/track/3ze6LTsfPjdMtEpnaQaU1Z"
+    },
+    {
+      "album": {
+        "name": "Ta Lathos Paidia",
+        "url": "https://open.spotify.com/album/2MsnFonVS6PjQaPJ0M57BQ"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282115,
+      "name": "Tha Ta Katafero",
+      "url": "https://open.spotify.com/track/19WDU6ZfYeVNYtm9tL4RkL"
     },
     {
       "album": {

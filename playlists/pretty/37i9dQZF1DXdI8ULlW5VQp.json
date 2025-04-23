@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Adanowsky en portada.",
-  "num_followers": 192286,
+  "num_followers": 192266,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,22 @@
     {
       "added_at": "2025-04-11 06:00:11",
       "album": {
-        "name": "Esta noche",
-        "url": "https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn"
+        "name": "Bendito Desamor",
+        "url": "https://open.spotify.com/album/6LY0E3EMCawQUMWNPksIaR"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 276613,
-      "name": "Esta noche",
-      "url": "https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM"
+      "duration_ms": 188042,
+      "name": "La \u00daltima Carta",
+      "url": "https://open.spotify.com/track/1wUUGsbWpr8EFrZu1bxGra"
     },
     {
       "added_at": "2025-04-11 06:00:11",
@@ -391,22 +395,18 @@
     {
       "added_at": "2025-04-11 06:00:11",
       "album": {
-        "name": "Bendito Desamor",
-        "url": "https://open.spotify.com/album/6LY0E3EMCawQUMWNPksIaR"
+        "name": "Esta noche",
+        "url": "https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 188042,
-      "name": "La \u00daltima Carta",
-      "url": "https://open.spotify.com/track/1wUUGsbWpr8EFrZu1bxGra"
+      "duration_ms": 276613,
+      "name": "Esta noche",
+      "url": "https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM"
     },
     {
       "added_at": "2025-04-11 06:00:11",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-04-11 06:00:11",
       "album": {
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "added_at": "2025-04-11 06:00:11",
+      "album": {
         "name": "Se Necesitan 2",
         "url": "https://open.spotify.com/album/34SOXYIKwUMFnELZxO7fNF"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2025-04-11 06:00:11",
       "album": {
-        "name": "Diosa",
-        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
-    },
-    {
-      "added_at": "2025-04-11 06:00:11",
-      "album": {
         "name": "desahogo",
         "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-04-11 06:00:11",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 185727,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
-    },
-    {
-      "added_at": "2025-04-11 06:00:11",
-      "album": {
         "name": "Tofu",
         "url": "https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 164866,
       "name": "Popango",
       "url": "https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf"
+    },
+    {
+      "added_at": "2025-04-11 06:00:11",
+      "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
     },
     {
       "added_at": "2025-04-11 06:00:11",
@@ -919,22 +919,22 @@
     {
       "added_at": "2025-04-11 06:00:11",
       "album": {
-        "name": "Quer\u00eda Volverte a Ver",
-        "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
+        "name": "Cuanto antes (feat. Lali)",
+        "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
       },
       "artists": [
         {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
         },
         {
-          "name": "Rom\u00e1n Torres",
-          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 251760,
-      "name": "Quer\u00eda Volverte a Ver",
-      "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
+      "duration_ms": 226844,
+      "name": "Cuanto antes (feat. Lali)",
+      "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
     },
     {
       "added_at": "2025-04-11 06:00:11",
@@ -955,22 +955,22 @@
     {
       "added_at": "2025-04-11 06:00:11",
       "album": {
-        "name": "Cuanto antes (feat. Lali)",
-        "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
+        "name": "Quer\u00eda Volverte a Ver",
+        "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
       },
       "artists": [
         {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
         },
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Rom\u00e1n Torres",
+          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
         }
       ],
-      "duration_ms": 226844,
-      "name": "Cuanto antes (feat. Lali)",
-      "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
+      "duration_ms": 251760,
+      "name": "Quer\u00eda Volverte a Ver",
+      "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
     },
     {
       "added_at": "2025-04-11 06:00:11",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-04-11 06:00:11",
       "album": {
-        "name": "Rinconcito en el Cielo",
-        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 222855,
-      "name": "Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
-    },
-    {
-      "added_at": "2025-04-11 06:00:11",
-      "album": {
         "name": "Natalia Lafourcade Live at Carnegie Hall",
         "url": "https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 252520,
       "name": "Soledad y el Mar (feat. Omara Portuondo) - En Vivo [Live at Carnegie Hall]",
       "url": "https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k"
+    },
+    {
+      "added_at": "2025-04-11 06:00:11",
+      "album": {
+        "name": "Rinconcito en el Cielo",
+        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 222855,
+      "name": "Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
     },
     {
       "added_at": "2025-04-11 06:00:11",

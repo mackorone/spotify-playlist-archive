@@ -2,7 +2,7 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Alex Warren
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Pogány Induló
 
 108 songs - 5 hr 24 min
 

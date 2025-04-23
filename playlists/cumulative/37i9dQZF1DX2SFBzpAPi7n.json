@@ -1721,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "blu-print",
+        "url": "https://open.spotify.com/album/0PeK8hbEin6A7aGO3HFQgV"
+      },
+      "artists": [
+        {
+          "name": "APRO",
+          "url": "https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O"
+        },
+        {
+          "name": "KAIL",
+          "url": "https://open.spotify.com/artist/4bephLmNrnXUBtw49vUZeO"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "blu print",
+      "url": "https://open.spotify.com/track/03B8ay9lItNvNIBbmPoL7C"
+    },
+    {
+      "album": {
         "name": "Once in a BLUE MOON",
         "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
       },
@@ -2198,7 +2220,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 194000,
       "name": "CAN'T KEEP SMILING!",
       "url": "https://open.spotify.com/track/6ZPIZDuCF5qcVZIcKgifRN"
@@ -4400,7 +4422,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 251293,
       "name": "Flowering",
       "url": "https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V"
@@ -8348,7 +8370,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 212973,
       "name": "Lost",
       "url": "https://open.spotify.com/track/43OcnpgYqRLX6NsJiaiQcq"
@@ -11536,7 +11558,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 234318,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4Zv2V3I230aVG0jmvrjVr4"
@@ -11922,7 +11944,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 210652,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"

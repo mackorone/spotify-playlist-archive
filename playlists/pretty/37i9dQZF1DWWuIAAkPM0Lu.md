@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>, <a href="spotify:artist:25u4wHJWxCA9vO0CzxAbK7">Lukas Graham</a>,  <a href="spotify:artist:4gvjmrtzydbMpyJaXUtwvP">Addison Rae</a> og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,372 likes - 105 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,369 likes - 105 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 48 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 |
 | 49 | [Bongoman](https://open.spotify.com/track/3UoQnhUWWhsi0R2i8PWBTk) | [Yo Johnny](https://open.spotify.com/artist/25ohYOZfH653j5l7JinIMf), [Combat Casper](https://open.spotify.com/artist/4F5nr65YNenAEQ6vRQj1cC) | [Discount Tekno](https://open.spotify.com/album/7KlBoFgAfCUbqr45PLlU2w) | 2:34 |
 | 50 | [Girls Like Girls](https://open.spotify.com/track/41u8Oh1FAo27ROaw9MMRh3) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Girls Like Girls](https://open.spotify.com/album/5mn3ENQXUsejrfiyW6mdSA) | 2:10 |
-| 51 | [Mint](https://open.spotify.com/track/5LL4kF6pMfQ1DmKOgsyrJr) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej), [Amy McKnight](https://open.spotify.com/artist/53aIUQWhBpSyeeoWwHNMPu) | [Mint](https://open.spotify.com/album/2c0JipkGeH54ovJ4X808wV) | 2:16 |
+| 51 | [Mint](https://open.spotify.com/track/5LL4kF6pMfQ1DmKOgsyrJr) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej), [Amy McKnight](https://open.spotify.com/artist/2whM8W3aK4OUlZXAiPy0l9) | [Mint](https://open.spotify.com/album/2c0JipkGeH54ovJ4X808wV) | 2:16 |
 | 52 | [Run It Back \(feat\. Caroline Byrne\)](https://open.spotify.com/track/2pfX8Wf4Unns6Jt3lThEjk) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Run It Back \(feat\. Caroline Byrne\)](https://open.spotify.com/album/4s7Ja1e8NiQfGkbvXhhC3i) | 3:05 |
 | 53 | [Little Love](https://open.spotify.com/track/4lyx7n55CIvfJ4i0hynoqL) | [KRAS](https://open.spotify.com/artist/7mZH3eRG4k7PbFj97QseWw) | [Little Love](https://open.spotify.com/album/5o65XIdDQ4SbnfQqYSZGKE) | 2:51 |
 | 54 | [Could Be Forever \(Prof\. Stranger Remix\)](https://open.spotify.com/track/77P9fzAA48OISwIbSpeR1Z) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc), [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Could Be Forever \(Prof\. Stranger Remix\)](https://open.spotify.com/album/2wXlu6s4LbjaCjiu9zuWTG) | 3:22 |

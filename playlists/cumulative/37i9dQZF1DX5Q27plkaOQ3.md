@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with Subtronics
 
-997 songs - 2 day 6 hr 58 min
+998 songs - 2 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Forgive Forget](https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Forgive Forget](https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs) | 3:18 | 2024-01-12 | 2024-11-03 |
 | [Foul Tarnished](https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Foul Tarnished](https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye) | 3:09 | 2024-11-15 |  |
 | [Fracture](https://open.spotify.com/track/2tSi83cOo4S6XRuAhoNSMK) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Fracture](https://open.spotify.com/album/59WYYNdEKZblqitYK0Nj5H) | 3:05 | 2023-07-28 | 2024-12-07 |
-| [Freak On](https://open.spotify.com/track/3brwcsPOEVJThiVLKBs91Y) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs) | [Freak On](https://open.spotify.com/album/4C7HudFwlkdOoWZJqtiY1l) | 2:14 | 2025-03-07 |  |
+| [Freak On](https://open.spotify.com/track/3brwcsPOEVJThiVLKBs91Y) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs) | [Freak On](https://open.spotify.com/album/4C7HudFwlkdOoWZJqtiY1l) | 2:14 | 2025-03-07 | 2025-04-23 |
 | [Frequency Knife](https://open.spotify.com/track/1V2gN3aisB9mQRH8hWEbwY) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb) | [Frequency Knife](https://open.spotify.com/album/3SJvZGqPhaXa22W8Z6OsEc) | 3:11 | 2024-06-21 | 2024-09-07 |
 | [From My Grave](https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [From My Grave](https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ) | 2:52 | 2022-03-11 | 2022-09-24 |
 | [from the beginning](https://open.spotify.com/track/6RVMeKVQAFZ5AV7MQDnDcW) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [from the beginning](https://open.spotify.com/album/1EQ5WxrkwhDHbisqtXtiA8) | 2:48 | 2025-02-16 | 2025-04-20 |
@@ -859,6 +859,7 @@
 | [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-06 | 2024-10-05 |
 | [Symphony of the Dead](https://open.spotify.com/track/6xaRlWKa6wPQX2PqYFaD0z) | [Stoned Level](https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd) | [Symphony of the Dead](https://open.spotify.com/album/5XkKTwFUQj0GtgNxrMGr1H) | 3:13 | 2024-01-26 | 2024-10-05 |
 | [T.O.A.D.](https://open.spotify.com/track/255aqjr60zsuqvu7yJPUZM) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [T.O.A.D.](https://open.spotify.com/album/0Qb8vmQGWo0UYTF3oc3iya) | 2:58 | 2023-02-10 | 2024-10-05 |
+| [Table Manners](https://open.spotify.com/track/7I3Eham8kr5iZkB6DN1rNk) | [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [Phocust](https://open.spotify.com/artist/3Aov39Y01vC3JXRQiw3Pd0) | [Table Manners](https://open.spotify.com/album/7bmzdW4n1QsUKVTmrutsGf) | 3:33 | 2025-04-18 |  |
 | [Tactix](https://open.spotify.com/track/4qx3idnPftLmV1XmDWiIGP) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Tactix](https://open.spotify.com/album/3cfVMh4rTeeJZbeHRjoWCV) | 4:04 | 2023-04-21 | 2024-08-20 |
 | [Take A Trip](https://open.spotify.com/track/5CZo2k6Ru1wJYbcvQVaoub) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Take A Trip](https://open.spotify.com/album/5HMJ6OOT8Z6WjNbdK61P2u) | 4:22 | 2022-04-15 | 2023-05-13 |
 | [Take Me Higher](https://open.spotify.com/track/2BiqLx4Aibr5iElQ7DCq3J) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Take Me Higher](https://open.spotify.com/album/1YZLSIwKqC5Z7x5c3ThUEh) | 3:40 | 2024-06-07 | 2024-10-01 |

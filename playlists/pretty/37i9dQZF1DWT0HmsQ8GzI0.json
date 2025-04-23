@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
-  "num_followers": 14666,
+  "num_followers": 14671,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Ezen a hegyen",
-        "url": "https://open.spotify.com/album/5S4OtjWJng2qoheMCwepX6"
-      },
-      "artists": [
-        {
-          "name": "Platon Karataev",
-          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
-        }
-      ],
-      "duration_ms": 336800,
-      "name": "Ezen a hegyen",
-      "url": "https://open.spotify.com/track/1mfHxJ6OHEbtLgJrFSODp3"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "A b\u00e1lban",
         "url": "https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 216093,
       "name": "csin\u00e1lj \u00fagy",
       "url": "https://open.spotify.com/track/2FbBTlpQe6BqXO3A3v9TyQ"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Ezen a hegyen",
+        "url": "https://open.spotify.com/album/5S4OtjWJng2qoheMCwepX6"
+      },
+      "artists": [
+        {
+          "name": "Platon Karataev",
+          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
+        }
+      ],
+      "duration_ms": 336800,
+      "name": "Ezen a hegyen",
+      "url": "https://open.spotify.com/track/1mfHxJ6OHEbtLgJrFSODp3"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Oda\u00e9r",
-        "url": "https://open.spotify.com/album/5l13P64Dc9SGxkCZZGdeha"
-      },
-      "artists": [
-        {
-          "name": "Platon Karataev",
-          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
-        }
-      ],
-      "duration_ms": 266142,
-      "name": "Oda\u00e9r",
-      "url": "https://open.spotify.com/track/0bLpbIu0ZE1yTCQB7cayiv"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "MAG\u00c1NY\u00d6L\u0150",
         "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 182000,
       "name": "MAG\u00c1NY\u00d6L\u0150",
       "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Oda\u00e9r",
+        "url": "https://open.spotify.com/album/5l13P64Dc9SGxkCZZGdeha"
+      },
+      "artists": [
+        {
+          "name": "Platon Karataev",
+          "url": "https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab"
+        }
+      ],
+      "duration_ms": 266142,
+      "name": "Oda\u00e9r",
+      "url": "https://open.spotify.com/track/0bLpbIu0ZE1yTCQB7cayiv"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "The Last Thing On My Mind",
-        "url": "https://open.spotify.com/album/2Vz3JBbfvUwPNUYuujEpsg"
-      },
-      "artists": [
-        {
-          "name": "Aron Andras",
-          "url": "https://open.spotify.com/artist/7JNJRhoNangEwIlZQYHIT0"
-        }
-      ],
-      "duration_ms": 190839,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/5oPK2g4KYkMgQwIoTKPfGA"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "Menj",
         "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
       },
@@ -707,18 +691,34 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
+        "name": "The Last Thing On My Mind",
+        "url": "https://open.spotify.com/album/2Vz3JBbfvUwPNUYuujEpsg"
       },
       "artists": [
         {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+          "name": "Aron Andras",
+          "url": "https://open.spotify.com/artist/7JNJRhoNangEwIlZQYHIT0"
         }
       ],
-      "duration_ms": 132000,
-      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
+      "duration_ms": 190839,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/5oPK2g4KYkMgQwIoTKPfGA"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Orrv\u00e9rz\u00e9s",
+        "url": "https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 199305,
+      "name": "Orrv\u00e9rz\u00e9s",
+      "url": "https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Orrv\u00e9rz\u00e9s",
-        "url": "https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC"
+        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
       },
       "artists": [
         {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
         }
       ],
-      "duration_ms": 199305,
-      "name": "Orrv\u00e9rz\u00e9s",
-      "url": "https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT"
+      "duration_ms": 132000,
+      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "z\u00fagj sz\u00e9l",
-        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "z\u00fagj sz\u00e9l",
-      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
         "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
       },
@@ -811,22 +795,18 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Nekedval\u00f3s\u00e1g",
-        "url": "https://open.spotify.com/album/6LnlDFhGowcmBR0t2xaPjS"
+        "name": "z\u00fagj sz\u00e9l",
+        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
       },
       "artists": [
         {
-          "name": "New Level Empire",
-          "url": "https://open.spotify.com/artist/36qy5nRn7h7rrHuphonJ6y"
-        },
-        {
-          "name": "D\u00e9r Heni",
-          "url": "https://open.spotify.com/artist/295TDfZZwfEJHEjtKQpOhP"
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Nekedval\u00f3s\u00e1g",
-      "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
+      "duration_ms": 201000,
+      "name": "z\u00fagj sz\u00e9l",
+      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -843,6 +823,26 @@
       "duration_ms": 138351,
       "name": "Pillang\u00f3hat\u00e1s",
       "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Nekedval\u00f3s\u00e1g",
+        "url": "https://open.spotify.com/album/6LnlDFhGowcmBR0t2xaPjS"
+      },
+      "artists": [
+        {
+          "name": "New Level Empire",
+          "url": "https://open.spotify.com/artist/36qy5nRn7h7rrHuphonJ6y"
+        },
+        {
+          "name": "D\u00e9r Heni",
+          "url": "https://open.spotify.com/artist/295TDfZZwfEJHEjtKQpOhP"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Nekedval\u00f3s\u00e1g",
+      "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
+        "name": "IM\u00c1G\u00d3",
+        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "\u00dcDV A KLUBBAN",
+      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
         "name": "Quatre Grapes",
         "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 210400,
       "name": "Quatre Grapes",
       "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "IM\u00c1G\u00d3",
-        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "\u00dcDV A KLUBBAN",
-      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
+        "name": "Ahogy szeretn\u00e9m",
+        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
+      },
+      "artists": [
+        {
+          "name": "KACAJ",
+          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "Ahogy szeretn\u00e9m",
+      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
         "name": "Engem szeretni neh\u00e9z",
         "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 242803,
       "name": "Engem szeretni neh\u00e9z",
       "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "Ahogy szeretn\u00e9m",
-        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
-      },
-      "artists": [
-        {
-          "name": "KACAJ",
-          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "Ahogy szeretn\u00e9m",
-      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Magam ut\u00e1n",
-        "url": "https://open.spotify.com/album/1U4gP2lWnkQfqzfC3ytqCf"
-      },
-      "artists": [
-        {
-          "name": "Anna and The Barbies",
-          "url": "https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Magam ut\u00e1n",
-      "url": "https://open.spotify.com/track/0onKegvsFbagpjwduUVB6k"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "Megyek ut\u00e1nad",
         "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 188230,
       "name": "H\u00e9jan\u00e1sz",
       "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Magam ut\u00e1n",
+        "url": "https://open.spotify.com/album/1U4gP2lWnkQfqzfC3ytqCf"
+      },
+      "artists": [
+        {
+          "name": "Anna and The Barbies",
+          "url": "https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Magam ut\u00e1n",
+      "url": "https://open.spotify.com/track/0onKegvsFbagpjwduUVB6k"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1379,22 +1379,26 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "M\u00c1SHOGY F\u00daJ",
-        "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
+        "name": "N\u00e1rcisz",
+        "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
       },
       "artists": [
         {
-          "name": "veryraredome",
-          "url": "https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv"
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
         },
         {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+          "name": "Blaize",
+          "url": "https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD"
+        },
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt"
         }
       ],
-      "duration_ms": 142500,
-      "name": "M\u00c1SHOGY F\u00daJ",
-      "url": "https://open.spotify.com/track/3AtfBJxq2HLnFHAD6PjKbj"
+      "duration_ms": 179045,
+      "name": "Groteszk",
+      "url": "https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa"
     }
   ],
   "unique_name": "Nemazapop",

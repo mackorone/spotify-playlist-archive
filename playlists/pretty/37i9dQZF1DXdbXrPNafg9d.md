@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Tunde Adebimpe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,857 likes - 215 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,301,427 likes - 215 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

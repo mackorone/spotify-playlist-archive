@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 114162,
       "name": "Adrenocrono",
       "url": "https://open.spotify.com/track/7bJgUYWmDc0csFJvYYNyQd"
@@ -6936,7 +6936,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 132972,
       "name": "CHARRAD\u00c3O",
       "url": "https://open.spotify.com/track/0V5xMQdpQfWpS4f5nmRX8s"
@@ -19343,6 +19343,24 @@
     },
     {
       "album": {
+        "name": "Magneto",
+        "url": "https://open.spotify.com/album/4RNKXecvJXdMBxL5GaYrXS"
+      },
+      "artists": [
+        {
+          "name": "chard la plaga",
+          "url": "https://open.spotify.com/artist/1RKq2YyvdgeiC4IcspV1wS"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Magneto",
+      "url": "https://open.spotify.com/track/1fvSBgFv0rpZ2ePwgvZUhO"
+    },
+    {
+      "album": {
         "name": "Mais Grana",
         "url": "https://open.spotify.com/album/37WXvt7bdjHHYreEFZ7Pys"
       },
@@ -23508,6 +23526,36 @@
       "duration_ms": 127268,
       "name": "N\u00e3o Me Julga",
       "url": "https://open.spotify.com/track/6Ds5zJDAgTydkV79PtLiab"
+    },
+    {
+      "album": {
+        "name": "BRS",
+        "url": "https://open.spotify.com/album/18mF2A9g9iH9mhmtuHXZ6i"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "Uxie Kid",
+          "url": "https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V"
+        },
+        {
+          "name": "D$ Luqi",
+          "url": "https://open.spotify.com/artist/3O5miUCibKGaTGEwJUpmdt"
+        },
+        {
+          "name": "DSR",
+          "url": "https://open.spotify.com/artist/79TTYxMKrND5NcKFUbpuTQ"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "N\u00e3o Me Testa",
+      "url": "https://open.spotify.com/track/14AYVYPA0q0a6Wif2RGBrE"
     },
     {
       "album": {

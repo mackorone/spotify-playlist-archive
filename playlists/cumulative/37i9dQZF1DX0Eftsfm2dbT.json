@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: NENE ",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: \u553e\u5947, Kohjiya ",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
+    {
+      "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/0Hm98gwcrWjcGdebHWDLDI"
+      },
+      "artists": [
+        {
+          "name": "YDIZZY",
+          "url": "https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176324,
+      "name": "!",
+      "url": "https://open.spotify.com/track/1OIhqPDENM1T59wWxg9uMk"
+    },
     {
       "album": {
         "name": "\"23freestyle\"",
@@ -1729,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Allright",
+        "url": "https://open.spotify.com/album/3fWxLYSeWEJNX2E7xbKaM5"
+      },
+      "artists": [
+        {
+          "name": "Yella Flat Boys",
+          "url": "https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Allright",
+      "url": "https://open.spotify.com/track/4L9H1KQ1Up7debjuULAzq9"
+    },
+    {
+      "album": {
         "name": "THE GHOST",
         "url": "https://open.spotify.com/album/01ACFaQfeVSK81QRGjfIdL"
       },
@@ -2118,7 +2154,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 176400,
       "name": "ASAMADE FUCKED UP (feat. Hideyoshi)",
       "url": "https://open.spotify.com/track/4LKfbbRg9OoG8FPfkWmjV7"
@@ -2294,6 +2330,32 @@
       "duration_ms": 157108,
       "name": "Assassin",
       "url": "https://open.spotify.com/track/6bCMGLL7p8RT64nK7IH7Tp"
+    },
+    {
+      "album": {
+        "name": "Assassin (feat. S.J.soldier & Carz) [Remix]",
+        "url": "https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        },
+        {
+          "name": "S.J.soldier",
+          "url": "https://open.spotify.com/artist/0dFj1rvEIFdLUxWCiqkCTf"
+        },
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204179,
+      "name": "Assassin - Remix",
+      "url": "https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf"
     },
     {
       "album": {
@@ -2834,6 +2896,28 @@
       "duration_ms": 212689,
       "name": "Bad Combat",
       "url": "https://open.spotify.com/track/7CrIm7O7shx3vhEkqeWI7T"
+    },
+    {
+      "album": {
+        "name": "BAD URBANIZATION",
+        "url": "https://open.spotify.com/album/5Kk4gKpmuDZjR3PBAdxXAV"
+      },
+      "artists": [
+        {
+          "name": "BLYY",
+          "url": "https://open.spotify.com/artist/6yX4DVkXlVVzckdFcqer1p"
+        },
+        {
+          "name": "Tooson",
+          "url": "https://open.spotify.com/artist/6vZswXTpmXhv6nYa5eXQKy"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276705,
+      "name": "BAD URBANIZATION",
+      "url": "https://open.spotify.com/track/1PkYggKRdZI6m2EPTtwzYm"
     },
     {
       "album": {
@@ -5158,7 +5242,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 217142,
       "name": "Chandelier (feat. Hideyoshi, DALU & OSAMI)",
       "url": "https://open.spotify.com/track/4JzNVvkFyZ9WFAoZOqy4jO"
@@ -5206,7 +5290,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 231987,
       "name": "Changes (feat. JJJ)",
       "url": "https://open.spotify.com/track/6EWrD1fNA2v0aqjFLBTGq1"
@@ -8010,7 +8094,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 188295,
       "name": "DUMP!",
       "url": "https://open.spotify.com/track/6DmK3A22PshWUdGioiQvzs"
@@ -8744,7 +8828,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 141240,
       "name": "Eye Splice",
       "url": "https://open.spotify.com/track/5T9sIIIJjg0bUScrA4xWc5"
@@ -8956,7 +9040,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 138600,
       "name": "Fall in down (feat. dizzy)",
       "url": "https://open.spotify.com/track/4ljonzmKbSI4uVzw6VEfqx"
@@ -9128,7 +9212,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 202000,
       "name": "Fast-Paced",
       "url": "https://open.spotify.com/track/2uyIKccjlaD8la6zRtSWZ5"
@@ -10061,6 +10145,24 @@
     },
     {
       "album": {
+        "name": "FUJI ROCK",
+        "url": "https://open.spotify.com/album/6K0hhk0bj1cNK7igDDtHmA"
+      },
+      "artists": [
+        {
+          "name": "gummyboy",
+          "url": "https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "FUJI ROCK",
+      "url": "https://open.spotify.com/track/31kyg7PrRfgAQMThK3Hb9y"
+    },
+    {
+      "album": {
         "name": "FUKANZENTAI",
         "url": "https://open.spotify.com/album/1tjVnpdBdKOpp949HPjpj9"
       },
@@ -10152,7 +10254,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 204000,
       "name": "GAME",
       "url": "https://open.spotify.com/track/7yv94wC27T0kMeEmRX7o2s"
@@ -12077,6 +12179,24 @@
     },
     {
       "album": {
+        "name": "HIROSHIMA SEA SIDE",
+        "url": "https://open.spotify.com/album/4mlArunmXtKzf12DwNmc44"
+      },
+      "artists": [
+        {
+          "name": "JAKEN",
+          "url": "https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "HIROSHIMA SEA SIDE",
+      "url": "https://open.spotify.com/track/7vNYebeHItwbiJIkZ7rX4D"
+    },
+    {
+      "album": {
         "name": "MILLION",
         "url": "https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm"
       },
@@ -12600,7 +12720,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 174000,
       "name": "Hyojo",
       "url": "https://open.spotify.com/track/2ynM5IIb4UDOYMkJvGSWwz"
@@ -13264,7 +13384,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 189714,
       "name": "In My Zone",
       "url": "https://open.spotify.com/track/6xxVyKNSUe7LuWQjTtgk5Z"
@@ -14859,6 +14979,32 @@
     },
     {
       "album": {
+        "name": "Lamborghini (Remix)",
+        "url": "https://open.spotify.com/album/2C5LvSZ9gm3XcDnP3ssqUe"
+      },
+      "artists": [
+        {
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/118eRdycS98oyMFEl5xvbo"
+        },
+        {
+          "name": "DJ KANJI",
+          "url": "https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN"
+        },
+        {
+          "name": "$till.J.Cark",
+          "url": "https://open.spotify.com/artist/7Ib2pqwSqhPdgsRV28N9gt"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181608,
+      "name": "Lamborghini - Remix",
+      "url": "https://open.spotify.com/track/4ovtnKqYCszNaAoqQybwmw"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/39881mXfkMlYQAfYIhue3P"
       },
@@ -15340,7 +15486,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 190279,
       "name": "Life is Romance",
       "url": "https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9"
@@ -17360,7 +17506,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 229565,
       "name": "MOGURA Hadashi no mama de",
       "url": "https://open.spotify.com/track/573CfyEhiPFe5Qmw2syuls"
@@ -18984,7 +19130,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 188612,
       "name": "NEW DAY",
       "url": "https://open.spotify.com/track/1vpBQaHaWVubRu8swkzQHG"
@@ -19399,6 +19545,24 @@
     },
     {
       "album": {
+        "name": "night time friends",
+        "url": "https://open.spotify.com/album/1EwLfKRYRLYkLlJhBT0WHP"
+      },
+      "artists": [
+        {
+          "name": "MEZZ",
+          "url": "https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142847,
+      "name": "night time friends",
+      "url": "https://open.spotify.com/track/6EbqbdUhedyxkvSmhr2RIp"
+    },
+    {
+      "album": {
         "name": "In the Midst",
         "url": "https://open.spotify.com/album/4QT2lSpsyIm7gcwvdCMTRA"
       },
@@ -19792,6 +19956,32 @@
       "duration_ms": 168150,
       "name": "NO RULES",
       "url": "https://open.spotify.com/track/5OEPtB1XLGQulfdirZVEKX"
+    },
+    {
+      "album": {
+        "name": "THE KILLER CUTS",
+        "url": "https://open.spotify.com/album/2IW5awVB79dkFoOoD5HkDg"
+      },
+      "artists": [
+        {
+          "name": "DJ CHARI",
+          "url": "https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p"
+        },
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        },
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146362,
+      "name": "No Rules (feat. MaRI & OZworld)",
+      "url": "https://open.spotify.com/track/6jGh0VYYoLMzAC5naY31Ko"
     },
     {
       "album": {
@@ -21319,6 +21509,28 @@
     },
     {
       "album": {
+        "name": "PAGE ONE",
+        "url": "https://open.spotify.com/album/3mBYSlWDJ9tZtqTOjD15eJ"
+      },
+      "artists": [
+        {
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
+        },
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199259,
+      "name": "PAGE ONE",
+      "url": "https://open.spotify.com/track/2mR3BwYuoITAxCQYk3GlBL"
+    },
+    {
+      "album": {
         "name": "Pages",
         "url": "https://open.spotify.com/album/6SIaENCsuIn4O0x9zCwDYr"
       },
@@ -21428,6 +21640,28 @@
       "duration_ms": 179464,
       "name": "Panic Run",
       "url": "https://open.spotify.com/track/3L2XRKRxXvP7GeKhJQgvbF"
+    },
+    {
+      "album": {
+        "name": "IRNET 2",
+        "url": "https://open.spotify.com/album/5s6GYUGeosERBBnVhKcDCw"
+      },
+      "artists": [
+        {
+          "name": "EASTA",
+          "url": "https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO"
+        },
+        {
+          "name": "13ELL",
+          "url": "https://open.spotify.com/artist/5QVAFVj5ujNUpjurU1wW9s"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Paper Plane",
+      "url": "https://open.spotify.com/track/1tJxGVMp2PpuKtB2L8QSKa"
     },
     {
       "album": {
@@ -27492,7 +27726,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 186486,
       "name": "Tetsu-De-Dekiteru",
       "url": "https://open.spotify.com/track/2TsRjM5MYoLz5Stj4rW9hr"
@@ -29142,7 +29376,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 220186,
       "name": "UNTITLED",
       "url": "https://open.spotify.com/track/7sPMLw5bY4gqtJgpYYCYx1"
@@ -31571,6 +31805,24 @@
     },
     {
       "album": {
+        "name": "You Know What I Mean?",
+        "url": "https://open.spotify.com/album/5k5huUvd2sADqv28MvU5RJ"
+      },
+      "artists": [
+        {
+          "name": "NORIKIYO",
+          "url": "https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197545,
+      "name": "You Know What I Mean?",
+      "url": "https://open.spotify.com/track/5V6zkWyDw2eLh0u0dHfbN1"
+    },
+    {
+      "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR"
       },
@@ -33575,6 +33827,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30f3\u30c8\u30e9\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/3csmDKolVUDj0Lz3gq584F"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214984,
+      "name": "\u540c\u3058\u4eba\u9593",
+      "url": "https://open.spotify.com/track/2km5EwMdwuPc1UrDYmKcH1"
+    },
+    {
+      "album": {
         "name": "\u541b\u3060\u3051",
         "url": "https://open.spotify.com/album/0odEblGfag744TytLbE0xx"
       },
@@ -34662,6 +34932,28 @@
       "duration_ms": 183232,
       "name": "\u7b2c\u6551\u6761",
       "url": "https://open.spotify.com/track/5sluiMnosRaynnGPuuI4ON"
+    },
+    {
+      "album": {
+        "name": "$MOKE OG",
+        "url": "https://open.spotify.com/album/2a4UgRg54p4akXa9FPAnFE"
+      },
+      "artists": [
+        {
+          "name": "$MOKE OG",
+          "url": "https://open.spotify.com/artist/4mdCLBVUWqX7l01s8Olnjx"
+        },
+        {
+          "name": "Search",
+          "url": "https://open.spotify.com/artist/4LADVWbGgajvchOHelqZv2"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151275,
+      "name": "\u7d46 (feat. Search)",
+      "url": "https://open.spotify.com/track/5GxoOyohHROqNZZzv3NTg4"
     },
     {
       "album": {

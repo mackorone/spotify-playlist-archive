@@ -2,7 +2,7 @@
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Mavi Gri ve haftanın en iyi çıkışları!
+> Mavi Gri ve haftanın en iyi çıkışları! 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
 
 838 songs - 1 day 18 hr 32 min
 

@@ -6164,7 +6164,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 172059,
       "name": "El Mayor De Los Ranas",
       "url": "https://open.spotify.com/track/6v5qt5KPQHJt5ckWuhDGtM"
@@ -13384,7 +13384,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Mirada",
       "url": "https://open.spotify.com/track/5NgOyGbjn1thsYFDaEsPk4"
@@ -13854,7 +13854,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -18652,25 +18652,25 @@
       },
       "artists": [
         {
-          "name": "El Jangueo",
-          "url": "https://open.spotify.com/artist/6smPzvuiYo7h15ShTQ6yxf"
-        },
-        {
-          "name": "Lildavid six",
-          "url": "https://open.spotify.com/artist/53o3SPkEknA7KAr7X8mlp5"
-        },
-        {
           "name": "Alessandro Corea",
           "url": "https://open.spotify.com/artist/6IJomFBS3BCLOIRp6V5F91"
         },
         {
           "name": "Merek Supraboy",
           "url": "https://open.spotify.com/artist/1Cs9Rbb6lpd6Pa4BtSzMbR"
+        },
+        {
+          "name": "Lildavid six",
+          "url": "https://open.spotify.com/artist/53o3SPkEknA7KAr7X8mlp5"
+        },
+        {
+          "name": "El Jangueo",
+          "url": "https://open.spotify.com/artist/6smPzvuiYo7h15ShTQ6yxf"
         }
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Saborcito A Miel",
       "url": "https://open.spotify.com/track/1dUVRA8zxsw7n6BChwKk1r"

@@ -4,7 +4,7 @@
 
 > 
 
-946 songs - 1 day 22 hr 33 min
+947 songs - 1 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,6 +923,7 @@
 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 | 2023-04-04 | 2023-12-14 |
 | [What Am I To Do](https://open.spotify.com/track/4TXPbHOeQE0Az7T71uybPu) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Am I To Do](https://open.spotify.com/album/3dyRrIw0NzRFi26EwfZo6V) | 2:55 | 2024-01-29 | 2024-04-24 |
 | [WHAT KIND OF RAPPIN' IS THIS?](https://open.spotify.com/track/2dvgoGTEjoPWou8KdL9h1g) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:52 | 2024-03-26 | 2024-11-06 |
+| [What They Want](https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [There's Really A Wolf](https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC) | 2:45 | 2025-04-22 |  |
 | [What Up Rj \(feat\. Rio Da Yung Og & RMC Mike\)](https://open.spotify.com/track/2rKYN26kW1ECfQMozhzmd3) | [RJ Lamont](https://open.spotify.com/artist/5asON9x8VuygoVAZ4dupgp), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Rj Always Tripping](https://open.spotify.com/album/359RTAtMRZNHm2aO6FoxWF) | 2:46 | 2024-12-05 |  |
 | [What Up Rj Pt 2](https://open.spotify.com/track/47fpaAttCK0xsUmD7x4tIk) | [RJ Lamont](https://open.spotify.com/artist/5asON9x8VuygoVAZ4dupgp), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [The World Smallest Violin](https://open.spotify.com/album/5P7gj5nQNKd39InMoFZf6l) | 2:45 | 2024-12-05 |  |
 | [What We Do](https://open.spotify.com/track/5kDkWHFx0AEvJ1Pfm2i0ac) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Philadelphia Freeway](https://open.spotify.com/album/41guLY5GEPG3GLREh0ck19) | 3:49 | 2024-05-26 | 2024-11-06 |

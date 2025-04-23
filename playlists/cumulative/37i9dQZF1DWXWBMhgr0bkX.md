@@ -4,7 +4,7 @@
 
 > Brand new music from homegrown talent ft\. Kai Bosch
 
-380 songs - 19 hr 28 min
+382 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [DEAR DIARY, I WANNA DIE](https://open.spotify.com/track/0Q6V8TeNSSSj8uQ9Bjvex9) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [THE FINE ART OF DISASSOCIATION](https://open.spotify.com/album/6Y7nLLK0BvFqTEhsln77o0) | 2:32 | 2024-11-15 | 2025-02-07 |
 | [Death of the Party](https://open.spotify.com/track/0SqMmcSIHxx1T4Dy4JDQTP) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Death of the Party](https://open.spotify.com/album/60Yanp9xzdfHQ9rbQEkUTb) | 2:02 | 2024-06-04 | 2024-09-06 |
 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 | 2025-03-21 | 2025-04-18 |
+| [Devil & The Deep](https://open.spotify.com/track/42xix4mgAovDWpmgJG4OUj) | [PAWWS](https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT) | [Devil & The Deep](https://open.spotify.com/album/0DHinaV8HlUL6RENurWIcC) | 2:57 | 2025-04-22 |  |
 | [diamonds](https://open.spotify.com/track/5tevqZie8vY6t1c5O1zt5h) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [diamonds](https://open.spotify.com/album/2LLT1hRwEkJW5bWY3ZXTpX) | 2:21 | 2025-04-17 |  |
 | [Different Planets](https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Different Planets](https://open.spotify.com/album/1W01b32YQe4vsTeaNcrI1r) | 3:10 | 2024-12-06 | 2025-02-14 |
 | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/track/03jGFqmsLt2BLWcbA4Vx5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/album/1bD4ne7GGkyeViaNBFg5Z2) | 3:05 | 2025-03-28 | 2025-04-11 |
@@ -269,6 +270,7 @@
 | [No Place Like You](https://open.spotify.com/track/5ymenEwTMYQ0Qjj3hu0bWs) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [No Place Like You](https://open.spotify.com/album/6405c6m9bzga6WHRpFRBdz) | 3:36 | 2025-01-17 | 2025-02-21 |
 | [Nostalgic](https://open.spotify.com/track/0GOFwHGJxHHNFhlDKEnCht) | [Eiza Murphy](https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9) | [Nostalgic](https://open.spotify.com/album/7ECV25SOu9xdBJitm5jqea) | 3:16 | 2025-04-03 | 2025-04-18 |
 | [nothing holy is free](https://open.spotify.com/track/2L6346dUqtqPvXj0CbthlR) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [NOTHING HOLY IS FREE](https://open.spotify.com/album/7s8ZJyK9Zqz1YTTFZnwmno) | 4:07 | 2025-02-28 | 2025-03-21 |
+| [nothing stays the same](https://open.spotify.com/track/1G5BjlSpXHxNYrekbizoqB) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [nothing stays the same](https://open.spotify.com/album/5LwN7m2X4JWl0k3Pcpky1v) | 3:49 | 2025-04-22 |  |
 | [oh my](https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [oh my](https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb) | 3:23 | 2024-09-19 | 2025-01-10 |
 | [okay cool](https://open.spotify.com/track/56Vxhry0axfjZN667iHCMZ) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [okay cool](https://open.spotify.com/album/5z27JiuMszAKGSUkfRVsNg) | 2:32 | 2025-02-21 | 2025-03-21 |
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-24 | 2025-01-24 |

@@ -2,9 +2,9 @@
 
 ### [National Geographic Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4pt8v2CyS4b)
 
-> Inspiring the explorer in everyone\. Cover: National Parks USA, now streaming on Hulu.
+> Inspiring the explorer in everyone\. Cover: Secrets of the Penguins, now streaming on Hulu.
 
-95 songs - 4 hr 47 min
+96 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Kill Of The Night](https://open.spotify.com/track/2m17BTWlZq0wtS9cpJsCfM) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Gravel & Wine](https://open.spotify.com/album/2HtT4gawEGgOvAPUO7tiU2) | 3:25 | 2024-03-01 | 2024-03-28 |
 | [L.A\. Coast](https://open.spotify.com/track/4v86zin4NZ8ZvgGdm1tdel) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [America the Beautiful \(Original Soundtrack\)](https://open.spotify.com/album/3OuNMUn7WiZLlkxdMX8tET) | 4:01 | 2023-12-15 |  |
 | [Lar Gibbons](https://open.spotify.com/track/3LxHK7LsmRWRLjvwZcGbJk) | [Amanda Jones](https://open.spotify.com/artist/6pXyaY5c2GT6ccfsV8kF8J), [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [Super/Natural \(Original Series Soundtrack\)](https://open.spotify.com/album/7KBwpPJEGr3pFVc6bByfQm) | 4:36 | 2023-12-15 |  |
+| [Leo Found a Home](https://open.spotify.com/track/7tNaI06wCG6ao3hYn8JzQa) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Disneynature: Sea Lions of the Galapagos \(Original Soundtrack\)](https://open.spotify.com/album/7Gj0SSm2x8gYFNfIPSiR6W) | 2:26 | 2025-04-22 |  |
 | [Majestic Dances](https://open.spotify.com/track/2cwySCGbLIRKgLPnha1NoL) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Music from Secrets of the Whales \(Original Soundtrack\)](https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi) | 1:15 | 2023-12-15 |  |
 | [Make a Change](https://open.spotify.com/track/4WDiIU0wKZGiDuDDHP1vdI) | [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Secrets of the Elephants \(Original Series Soundtrack\)](https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe) | 2:56 | 2023-12-15 |  |
 | [Miep and Jan](https://open.spotify.com/track/05lHGulLZrvJNmfgMR5KkN) | [Ariel Marx](https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq) | [A Small Light \(Original Score\)](https://open.spotify.com/album/7dZSwYrevd2nVASKUe4vi5) | 2:54 | 2023-12-15 | 2024-05-25 |

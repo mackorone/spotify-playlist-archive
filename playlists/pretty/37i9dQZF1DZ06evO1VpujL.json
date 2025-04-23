@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 26682,
+  "num_followers": 26694,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAQ5AAAAAABF3AyVhjdHA79GYwwQgGn8",
+  "snapshot_id": "aAWKgAAAAABjM4wRnR3qfUe+xcDXj1yE",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot (Japanese Version)",
-        "url": "https://open.spotify.com/album/75VQg84KLxihs6di0BaCQi"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Ratrace",
-      "url": "https://open.spotify.com/track/6l3XfwxpZJ1ZTKPXoW58RU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shark Bites and Dog Fights",
         "url": "https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 190853,
       "name": "Electric Avenue",
       "url": "https://open.spotify.com/track/1YxE1cKYJztCvSfpPYS85G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Rock Riot (Japanese Version)",
+        "url": "https://open.spotify.com/album/75VQg84KLxihs6di0BaCQi"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Ratrace",
+      "url": "https://open.spotify.com/track/6l3XfwxpZJ1ZTKPXoW58RU"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 213960,
-      "name": "Calling All Stations",
-      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
+      "duration_ms": 216733,
+      "name": "Days Like These",
+      "url": "https://open.spotify.com/track/2vFcKhwJmEEV1uTCGzzXXo"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Days Like These",
-      "url": "https://open.spotify.com/track/2vFcKhwJmEEV1uTCGzzXXo"
+      "duration_ms": 213960,
+      "name": "Calling All Stations",
+      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
     },
     {
       "added_at": null,

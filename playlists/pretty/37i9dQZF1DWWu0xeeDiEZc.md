@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,479 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,516 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 29 | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/track/3PyfzEyTIgqKdsXRyFTKOj) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 4:26 |
 | 30 | [John Jingleheimer Schmidt](https://open.spotify.com/track/3WjmjGKIerosWGLGsrFHKU) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Silly Sing\-Along Songs](https://open.spotify.com/album/13b54xTbPBMlcf9v3F9eZL) | 1:36 |
 | 31 | [Kiss the Girl \- From "The Little Mermaid"/ Soundtrack Version](https://open.spotify.com/track/4F1fdteEm8Oe2GNUA7ON5S) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Greatest Hits](https://open.spotify.com/album/3fEvkXjnmWNotOWFrhnVjP) | 2:42 |
-| 32 | [Do You Want To Build A Snowman?](https://open.spotify.com/track/6Oiyl1qV9r2rbWsD6pCMLt) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/67qORPwmXFeB8AR6wD9XHX) | 3:26 |
-| 33 | [Frère Jacques](https://open.spotify.com/track/0iHDnCbFMopN23ru3qqY9j) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Favourite Things: Songs And Nursery Rhymes From Play School](https://open.spotify.com/album/0UMnJAijTolDnJWgaiVE0i) | 1:12 |
+| 32 | [Frère Jacques](https://open.spotify.com/track/0iHDnCbFMopN23ru3qqY9j) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Favourite Things: Songs And Nursery Rhymes From Play School](https://open.spotify.com/album/0UMnJAijTolDnJWgaiVE0i) | 1:12 |
+| 33 | [Do You Want To Build A Snowman?](https://open.spotify.com/track/6Oiyl1qV9r2rbWsD6pCMLt) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/67qORPwmXFeB8AR6wD9XHX) | 3:26 |
 | 34 | [Skidamarink](https://open.spotify.com/track/5GjXNfKlNfOgacGtTUMXKe) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [It's Time for Bed](https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe) | 2:16 |
 | 35 | [This Old Man](https://open.spotify.com/track/0mXkCgqq5Vv86c4lW8Ec1H) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 2:15 |
 | 36 | [Miss Mary Mack](https://open.spotify.com/track/6n8vAY5flz0VChNl2evwEc) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 2:01 |

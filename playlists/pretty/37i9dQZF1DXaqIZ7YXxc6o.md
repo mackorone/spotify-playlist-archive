@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Dom Dolla, Kid Cudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,988 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,043 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 5 | [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 |
 | 6 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
 | 7 | [Where Were You?](https://open.spotify.com/track/7qzkuqtR4jUEinMM5OA4Wm) | [Brad Mullins](https://open.spotify.com/artist/5yGxsoA0P5Era0ha3F6kBd) | [Where Were You?](https://open.spotify.com/album/5Tqzv87f06NmUNGti1jXbI) | 3:10 |
-| 8 | [Pearl \- Find My Way](https://open.spotify.com/track/5zYNenl8ZNSciONWgktPW5) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c) | [Pearl \(Find My Way\)](https://open.spotify.com/album/4KmQ0NiIS4bdQTcgTL85bJ) | 3:04 |
+| 8 | [Pearl \(Find My Way\)](https://open.spotify.com/track/5zYNenl8ZNSciONWgktPW5) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c) | [Pearl \(Find My Way\)](https://open.spotify.com/album/4KmQ0NiIS4bdQTcgTL85bJ) | 3:04 |
 | 9 | [Sound of You](https://open.spotify.com/track/4J4KcVmHSypHymgMpAP9cn) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [Sound of You](https://open.spotify.com/album/6J4wHgqUO4f0mqp0Cfy3mG) | 3:24 |
 | 10 | [I Can't Forget You](https://open.spotify.com/track/4fxjNTmcKzS83xYigEC8cp) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [I Can't Forget You](https://open.spotify.com/album/22isBBRfzRQ2QuHDn00D8k) | 4:23 |
 | 11 | [Lick](https://open.spotify.com/track/3yyU8dmNxJnBPAFa4oQdCo) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Lick](https://open.spotify.com/album/1ZTLn5TqaYR2TBvg2CkGKO) | 2:48 |

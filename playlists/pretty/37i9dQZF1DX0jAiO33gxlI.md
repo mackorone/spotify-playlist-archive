@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: NOG, Pedro Qually
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,402 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,408 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 8 | [Você Não Quis](https://open.spotify.com/track/0yjSPyFfxqacu1MTP1yeM5) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [Você Não Quis](https://open.spotify.com/album/21yrIiQmtjog1SbEaSA0WF) | 2:46 |
 | 9 | [Destroços](https://open.spotify.com/track/3cYFByWg8X1uTUKtPvy1Av) | [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Dbn Beatz](https://open.spotify.com/artist/26jAFvzjKW2ZRI4Yc0dSq6), [Rap Forte](https://open.spotify.com/artist/5r7Z1SbBf7MVGaioT8xORH), [Valey](https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [Destroços](https://open.spotify.com/album/5bH6oeYxdR0FoCzHPNPiRX) | 2:44 |
 | 10 | [História Pra Contar](https://open.spotify.com/track/2relLa6XhBGunuJrnp8siv) | [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Neblina](https://open.spotify.com/album/3rw3Po8CC3hiw21daWMVNU) | 2:15 |
-| 11 | [VND On The Radar Freestyle](https://open.spotify.com/track/1tHDYlIDLAQxcesC2aqhHK) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP) | [VND On The Radar Freestyle](https://open.spotify.com/album/0FUei9X4Go5XPGoAF9Jzbd) | 1:38 |
+| 11 | [VND On The Radar Freestyle](https://open.spotify.com/track/1tHDYlIDLAQxcesC2aqhHK) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Rafinha No Beat](https://open.spotify.com/artist/6zM44V7R04R6uVZFvUkWWG) | [VND On The Radar Freestyle](https://open.spotify.com/album/0FUei9X4Go5XPGoAF9Jzbd) | 1:38 |
 | 12 | [Escola da Vida](https://open.spotify.com/track/4WIXKT6II2CaovGxlOc0uo) | [Real Donan](https://open.spotify.com/artist/2BbXTdyvebSsht2LXkGN95), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa) | [Escola da Vida](https://open.spotify.com/album/7tC2e61GLeyp90xybJD0pX) | 2:31 |
 | 13 | [CHINELIN](https://open.spotify.com/track/4NuKGF2nuTMPILHi7Rf7EU) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [CHINELIN](https://open.spotify.com/album/47BuiWl4Fbym63HIVFNhE7) | 2:58 |
 | 14 | [Na Favela Ou No Asfalto](https://open.spotify.com/track/6Pam5x7pXUZcROhoitI1tP) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb) | [Na Favela Ou No Asfalto](https://open.spotify.com/album/4vjaQuRwYKNsAuDANmKPYB) | 2:39 |

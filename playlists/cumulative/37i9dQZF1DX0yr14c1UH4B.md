@@ -4,7 +4,7 @@
 
 > Golden new releases ft\. Tori Kelly and JVKE
 
-246 songs - 13 hr 41 min
+247 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Catherine Wheel](https://open.spotify.com/track/12M20nnSOEWCOyCDMODcDj) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Catherine Wheel](https://open.spotify.com/album/60ba6qGWXXrnJzYc226XTq) | 4:05 | 2025-03-28 | 2025-04-11 |
 | [Change](https://open.spotify.com/track/6NElCQ7iTlcx1I9ZuhcCp5) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Change](https://open.spotify.com/album/3AnZFB54DtuYeLgp19fWZK) | 4:31 | 2024-05-31 | 2024-07-27 |
 | [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 | 2025-04-03 | 2025-04-18 |
+| [Climbing Boots](https://open.spotify.com/track/1EmHM2EFSLgOFfroKd8Gju) | [James McVey](https://open.spotify.com/artist/1LXsEmvNi2vdi1oOfVTK3r) | [Climbing Boots](https://open.spotify.com/album/72n4QC6ANllRa4FFLbxJ1r) | 3:30 | 2025-04-22 |  |
 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 | 2025-02-28 | 2025-03-28 |
 | [cozy you](https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [cozy you](https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg) | 3:30 | 2025-04-03 | 2025-04-11 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2025-01-31 | 2025-03-21 |

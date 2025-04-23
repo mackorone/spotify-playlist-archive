@@ -2,7 +2,7 @@
 
 ### [90's Alt Rock](https://open.spotify.com/playlist/65mTEy33PMBRsfVtpwexlc)
 
-> Best of 90s alternative rock music including iconic throwback alt rock songs from Red Hot Chili Peppers, Blur, blink\-182, Nirvana, The Goo Goo Dolls, and more!
+> Best of 90s alternative rock music including iconic throwback alt rock songs from Red Hot Chili Peppers, The Goo Goo Dolls, Blur, blink\-182, Nirvana, and more!
 
 176 songs - 11 hr 57 min
 

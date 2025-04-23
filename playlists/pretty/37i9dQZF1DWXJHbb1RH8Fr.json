@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 12670,
+  "num_followers": 12664,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Yaz\u0131 Tura (Orijinal Film M\u00fczikleri)",
-        "url": "https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z"
+        "name": "Neva",
+        "url": "https://open.spotify.com/album/2ByDgVj2qrVhzMjXooER6C"
       },
       "artists": [
         {
-          "name": "Erkan O\u011fur",
-          "url": "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
+          "name": "Salih Bilgin",
+          "url": "https://open.spotify.com/artist/7CMATW5ajHZY1jixAMb4VW"
+        },
+        {
+          "name": "Murat Aydemir",
+          "url": "https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv"
         }
       ],
-      "duration_ms": 112105,
-      "name": "Tekbir",
-      "url": "https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI"
+      "duration_ms": 279146,
+      "name": "M\u00fc\u015fterek Taksim 1",
+      "url": "https://open.spotify.com/track/1V3GpxsOD06c4feFR8q8wY"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -243,26 +247,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Neva",
-        "url": "https://open.spotify.com/album/2ByDgVj2qrVhzMjXooER6C"
-      },
-      "artists": [
-        {
-          "name": "Salih Bilgin",
-          "url": "https://open.spotify.com/artist/7CMATW5ajHZY1jixAMb4VW"
-        },
-        {
-          "name": "Murat Aydemir",
-          "url": "https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv"
-        }
-      ],
-      "duration_ms": 279146,
-      "name": "M\u00fc\u015fterek Taksim 1",
-      "url": "https://open.spotify.com/track/1V3GpxsOD06c4feFR8q8wY"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Ney Taksimleri",
         "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 110493,
       "name": "Ney'le Zalimsin Hicazkar Taksim",
       "url": "https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Yaz\u0131 Tura (Orijinal Film M\u00fczikleri)",
+        "url": "https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z"
+      },
+      "artists": [
+        {
+          "name": "Erkan O\u011fur",
+          "url": "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
+        }
+      ],
+      "duration_ms": 112105,
+      "name": "Tekbir",
+      "url": "https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Ney Taksimleri",
-        "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
-      },
-      "artists": [
-        {
-          "name": "Murat Akman",
-          "url": "https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe"
-        }
-      ],
-      "duration_ms": 117706,
-      "name": "Ney'le Ho\u015fgeldin Nihavend Taksim",
-      "url": "https://open.spotify.com/track/1IID5LMM0y6YtKwkbv6f3n"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Turkey: The Turkish Ney",
         "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 339666,
       "name": "Makam Ferahfeza: Taksim",
       "url": "https://open.spotify.com/track/7CNb4mtt0JsryOeMkKr3MY"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Ney Taksimleri",
+        "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
+      },
+      "artists": [
+        {
+          "name": "Murat Akman",
+          "url": "https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe"
+        }
+      ],
+      "duration_ms": 117706,
+      "name": "Ney'le Ho\u015fgeldin Nihavend Taksim",
+      "url": "https://open.spotify.com/track/1IID5LMM0y6YtKwkbv6f3n"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK"
         }
       ],
-      "duration_ms": 129493,
-      "name": "Hicaz Taksim",
-      "url": "https://open.spotify.com/track/17Ar8g9BlDJthkGFi3Mx32"
+      "duration_ms": 263146,
+      "name": "U\u015f\u015fak \u0130lahiler",
+      "url": "https://open.spotify.com/track/1FEOekvfha7BrAq3xvTlzW"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK"
         }
       ],
-      "duration_ms": 263146,
-      "name": "U\u015f\u015fak \u0130lahiler",
-      "url": "https://open.spotify.com/track/1FEOekvfha7BrAq3xvTlzW"
+      "duration_ms": 129493,
+      "name": "Hicaz Taksim",
+      "url": "https://open.spotify.com/track/17Ar8g9BlDJthkGFi3Mx32"
     },
     {
       "added_at": "2024-03-05 11:27:00",

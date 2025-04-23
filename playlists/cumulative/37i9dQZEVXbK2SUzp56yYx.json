@@ -2549,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290110,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -3638,7 +3656,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 182560,
       "name": "Diskovery",
       "url": "https://open.spotify.com/track/0glgTkbSgskHVjGj2Hdy8A"
@@ -7208,7 +7226,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 157142,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/0KS1GD8e5TWctYRJbAXZRC"
@@ -9221,6 +9239,44 @@
     },
     {
       "album": {
+        "name": "Ma Meilleure Ennemie ft. Coldplay",
+        "url": "https://open.spotify.com/album/26yUJYL8DYzp2HunSKzmsG"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Ma Meilleure Ennemie ft. Coldplay",
+      "url": "https://open.spotify.com/track/1ZHvGQZNz6HLbxhAtu7pin"
+    },
+    {
+      "album": {
         "name": "Madam",
         "url": "https://open.spotify.com/album/6KMJA6jl70X6ROJCJ5IzRc"
       },
@@ -9961,6 +10017,32 @@
     },
     {
       "album": {
+        "name": "MONTAGEM BAIL\u00c3O",
+        "url": "https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ"
+      },
+      "artists": [
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
+        },
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103727,
+      "name": "MONTAGEM BAIL\u00c3O",
+      "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
+    },
+    {
+      "album": {
         "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
         "url": "https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu"
       },
@@ -10408,10 +10490,28 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 84901,
       "name": "MONTAGEM TOMADA - Slowed",
       "url": "https://open.spotify.com/track/1mfvWzF39LwVpAm8g0LhQT"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM TOMADA (Slowed)",
+        "url": "https://open.spotify.com/album/3nD6GXdrRSDaGd4iOr2zC2"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84901,
+      "name": "MONTAGEM TOMADA - Slowed",
+      "url": "https://open.spotify.com/track/7lMdvefvlMkYEac3ggF9u9"
     },
     {
       "album": {
@@ -10426,7 +10526,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 95302,
       "name": "MONTAGEM TOMADA - Super Slowed",
       "url": "https://open.spotify.com/track/4CsIS26ndsxIzM8X8VEaXd"
@@ -13312,7 +13412,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 107329,
       "name": "satn",
       "url": "https://open.spotify.com/track/7edSzlVVSyZgSFGYipQNml"
@@ -13436,7 +13536,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 164398,
       "name": "Seoul City",
       "url": "https://open.spotify.com/track/4zUob9iYFS9TgAR0hgo5pR"
@@ -13748,7 +13848,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -16162,7 +16262,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 109732,
       "name": "VISION",
       "url": "https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p"
@@ -16932,7 +17032,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 152822,
       "name": "where's my head at _",
       "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
@@ -20608,7 +20708,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 163555,
       "name": "\u0436\u0434\u0443 \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/7bYWfJiF0dMA0zkcNxEW6m"
@@ -21274,7 +21374,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 207692,
       "name": "\u041a\u0430\u0440\u0444\u0430\u0433\u0435\u043d",
       "url": "https://open.spotify.com/track/2E3AjDjfiXJgK8xbjIA2QO"
@@ -21752,7 +21852,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 140800,
       "name": "\u041a\u0443\u0445\u043d\u0438",
       "url": "https://open.spotify.com/track/69zCrlRTLn4sLeU4fJOzmE"
@@ -23027,6 +23127,24 @@
     },
     {
       "album": {
+        "name": "\u043d\u0435 \u043d\u0443\u0436\u043d\u0430",
+        "url": "https://open.spotify.com/album/3UCQpyaUk1n3d1poHuaRVT"
+      },
+      "artists": [
+        {
+          "name": "ENTYPE",
+          "url": "https://open.spotify.com/artist/7poJQ3wJbSypDJMl8dOsd6"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113777,
+      "name": "\u043d\u0435 \u043d\u0443\u0436\u043d\u0430",
+      "url": "https://open.spotify.com/track/1vImXKxUJ46MzxvIoBgDz9"
+    },
+    {
+      "album": {
         "name": "\u041d\u0435 \u043e\u0442\u043f\u0443\u0441\u043a\u0430\u0439",
         "url": "https://open.spotify.com/album/58WH3X9Mq7WWOjuyNaLmrh"
       },
@@ -23284,6 +23402,24 @@
       "duration_ms": 196935,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/6hCZqjIrd68aT1Ce9lpF8e"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0435\u0436\u043d\u043e \u0445 \u0442\u0440\u0438\u043c\u0430\u0439",
+        "url": "https://open.spotify.com/album/7Hwsae7AzJ6YQuUHzvU2ty"
+      },
+      "artists": [
+        {
+          "name": "7azilov",
+          "url": "https://open.spotify.com/artist/5t5RlUxl1mqWirMkIPgXgx"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198949,
+      "name": "\u041d\u0435\u0436\u043d\u043e \u0445 \u0442\u0440\u0438\u043c\u0430\u0439",
+      "url": "https://open.spotify.com/track/5uPNnhS1WnpsmnVVSfvePa"
     },
     {
       "album": {
@@ -25423,6 +25559,24 @@
     },
     {
       "album": {
+        "name": "VK \u0410\u043a\u0443\u0441\u0442\u0438\u043a\u0430",
+        "url": "https://open.spotify.com/album/4cSbDvrlFSI2AM8gjU6L9E"
+      },
+      "artists": [
+        {
+          "name": "GONE.Fludd",
+          "url": "https://open.spotify.com/artist/214zOngelMiicGrvAXD92O"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172124,
+      "name": "\u041f\u0440\u043e\u0441\u043d\u0443\u043b\u0441\u044f \u0412 \u0422\u0435\u043c\u043d\u043e\u0442\u0435",
+      "url": "https://open.spotify.com/track/53VP2mFKRUxPSlVud4eroD"
+    },
+    {
+      "album": {
         "name": "\u0412\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u0435 \u0438 \u0422\u0430\u043a\u0442",
         "url": "https://open.spotify.com/album/6jUAGSgNN8Wb8000zuFfKR"
       },
@@ -27298,7 +27452,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 160212,
       "name": "\u0442\u0443\u043f\u0430\u044f \u0441\u0443\u043a\u0430",
       "url": "https://open.spotify.com/track/4TZFCd8KlukOhQQu5mDei1"

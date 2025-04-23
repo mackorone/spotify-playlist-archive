@@ -4651,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5tissRWcUnU3MG30bT31RQ"
+      },
+      "artists": [
+        {
+          "name": "Max Stewart",
+          "url": "https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168088,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0uAdQM9ASIA2W6LR33ApqU"
+    },
+    {
+      "album": {
         "name": "Floreio",
         "url": "https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu"
       },
@@ -7442,7 +7460,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 183374,
       "name": "Light Across Miles",
       "url": "https://open.spotify.com/track/5agitWJRZZ8B9M2fqCySR9"
@@ -12579,6 +12597,24 @@
     },
     {
       "album": {
+        "name": "Source of Life",
+        "url": "https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV"
+      },
+      "artists": [
+        {
+          "name": "Jonka Ebony",
+          "url": "https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139640,
+      "name": "Source of Life",
+      "url": "https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF"
+    },
+    {
+      "album": {
         "name": "Southern Wind",
         "url": "https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza"
       },
@@ -13724,7 +13760,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 189812,
       "name": "The secret trail",
       "url": "https://open.spotify.com/track/1c04luQUt67s15rXVOPD4h"

@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Primal](https://open.spotify.com/track/3wMkfIe90hyFfDOkw7pYFm) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Martyr](https://open.spotify.com/album/6eYkizhHQml77mtN09vADR) | 1:48 |
 | 2 | [Cries of Domination](https://open.spotify.com/track/48pcLjb7fjc5v0kCEVs7GT) | [DON’T TRY](https://open.spotify.com/artist/0Tm5nFdsHOR6LFBDK7l5x9) | [Cries of Domination](https://open.spotify.com/album/6qxy0PZufi1mo7cFHzR4zn) | 3:04 |
-| 3 | [BAD LUCK](https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [BAD LUCK](https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y) | 4:05 |
+| 3 | [bad luck](https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [bad luck](https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y) | 4:05 |
 | 4 | [Walls](https://open.spotify.com/track/1rMJ6bNrboaJw9cJpGLlwF) | [Heaven's Gate](https://open.spotify.com/artist/7sN8GopqZejq2f2WQqTRyD) | [Tales from a Blistering Paradise](https://open.spotify.com/album/72f6O1tlOWV6ExDH5E2Ovl) | 2:44 |
 | 5 | [In Search of Tomorrow](https://open.spotify.com/track/1sIny89FOnM0kGkXN3cHDj) | [Youth Code](https://open.spotify.com/artist/15VmPRQCJEZWaZWgHEroj0) | [In Search of Tomorrow](https://open.spotify.com/album/2nWxngiXyQKuGZg2Yhkpcq) | 2:33 |
 | 6 | [GREED](https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [GREED](https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u) | 2:50 |

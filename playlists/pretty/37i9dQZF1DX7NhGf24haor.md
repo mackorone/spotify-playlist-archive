@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Sub Zero Project & Dual Damage
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,065 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,136 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 5 | [Wir Sind Ravers](https://open.spotify.com/track/6tMudQ0Rlld3SvOy4TgpJN) | [Roy Dest](https://open.spotify.com/artist/0TBHlw1ktz3YQvFkYpm55Q), [Yellow Pvnk](https://open.spotify.com/artist/5ciuRoDCYAgWi8a5go0GC8) | [Wir Sind Ravers](https://open.spotify.com/album/26qpu7FhmQ9myY4jLgBT0r) | 2:11 |
 | 6 | [It Will Be OK](https://open.spotify.com/track/6CtHeORCTBgceaxVrWKgm0) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [It Will Be OK](https://open.spotify.com/album/0DaQqq24cESLXFjyt4kMfv) | 3:27 |
 | 7 | [Overcome](https://open.spotify.com/track/37flfId9XYw0bsISI55UNL) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Overcome](https://open.spotify.com/album/7kI2d4XJM9omT52Ew1Gcru) | 3:05 |
-| 8 | [Let's Lose Control](https://open.spotify.com/track/4AyVhwedlNs5qXRXax4Uaz) | [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [Nick Spaer](https://open.spotify.com/artist/6uCXHeW33GYc78vStuBIhh) | [Let's Lose Control](https://open.spotify.com/album/1kI6PziqZmDnr2LtRv9ZjL) | 3:37 |
+| 8 | [Let's Lose Control](https://open.spotify.com/track/4AyVhwedlNs5qXRXax4Uaz) | [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [Nick Spear](https://open.spotify.com/artist/1AIletyUg1jICSqOhupWY4) | [Let's Lose Control](https://open.spotify.com/album/1kI6PziqZmDnr2LtRv9ZjL) | 3:37 |
 | 9 | [Pressure](https://open.spotify.com/track/2qdmF0OXZlp9Tqz0e8IdUc) | [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO) | [Pressure](https://open.spotify.com/album/2LvgS7vpTViUH9zh1qVLu5) | 3:15 |
 | 10 | [BREAK FREE \- Intents Festival 2025 Indoor Mainstage OST](https://open.spotify.com/track/72UGeB2CewCFu1HPVA0uOf) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Iris Goes](https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2) | [BREAK FREE \(Intents Festival 2025 Indoor Mainstage OST\)](https://open.spotify.com/album/5HS5f0cG45bvm1PXIQY939) | 2:40 |
 | 11 | [Earthquake](https://open.spotify.com/track/4c8gJuCzQOW8uQsmgAdYTH) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Earthquake](https://open.spotify.com/album/2QXrClHLRRKmJp7E5jHZ4D) | 2:29 |

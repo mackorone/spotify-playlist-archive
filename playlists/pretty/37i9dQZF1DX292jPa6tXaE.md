@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover: Jaz Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,588 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,590 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 38 | [OPTION](https://open.spotify.com/track/68WvmWTqaNl31bGqPwPI6e) | [Zabar](https://open.spotify.com/artist/3CNza9Tg1IVE50uJHPUBVY), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [OPTION](https://open.spotify.com/album/08jlvWpErQ6Z4wrizk0kNj) | 2:22 |
 | 39 | [Budhwaar](https://open.spotify.com/track/27B15voyRrBm23pnoNLZgz) | [Divrose](https://open.spotify.com/artist/2vozhmDOGI7uIqNM1v7GHE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Budhwaar](https://open.spotify.com/album/2azHLuVa34FpuUhSUFUHkN) | 2:44 |
 | 40 | [TERA FIKAR](https://open.spotify.com/track/5I7lM9Atc9UfsIDrlV095P) | [Athak](https://open.spotify.com/artist/3L3pMnyEPTcg0f4LIBqoV1), [Sidd Music](https://open.spotify.com/artist/3X9aS70kCjNtdKKrCaDBxQ) | [TERA FIKAR](https://open.spotify.com/album/0Ae5riPuL8WCswsrH5dukI) | 2:12 |
-| 41 | [Mix Sauce Pasta](https://open.spotify.com/track/6sZD0zKmVCDmvw7WrPWZSY) | [Ajay Syal](https://open.spotify.com/artist/4mrKBXK1QMf1YHNyf0xChA), [Akash Sidana](https://open.spotify.com/artist/7BfQD5OH6P8Cjn0cFrkLRl), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Mix Sauce Pasta](https://open.spotify.com/album/21Uiel6QH75pvWViy3C9w7) | 2:30 |
+| 41 | [Mix Sauce Pasta](https://open.spotify.com/track/6sZD0zKmVCDmvw7WrPWZSY) | [Ajay Syal](https://open.spotify.com/artist/4mrKBXK1QMf1YHNyf0xChA), [Akash Sidana](https://open.spotify.com/artist/7BfQD5OH6P8Cjn0cFrkLRl) | [Mix Sauce Pasta](https://open.spotify.com/album/21Uiel6QH75pvWViy3C9w7) | 2:30 |
 | 42 | [IDGAF](https://open.spotify.com/track/5gndGGPiKaMldQF8ZMQ6t9) | [Guraaj](https://open.spotify.com/artist/5nZxaUMMma4y6EptlQvdCF), [Sharanjeet Singh](https://open.spotify.com/artist/1hL1qABxhvE8eFquxkWUTO) | [IDGAF](https://open.spotify.com/album/254trGgpcNKfW0Wx3v60ns) | 2:15 |
 | 43 | [Money Money](https://open.spotify.com/track/2ZTYkrB6rv8M7tLMkbAxss) | [Savvy Sandhu](https://open.spotify.com/artist/7JNNQOhXwS5i8ENCGLBUgo), [Wakeupparth](https://open.spotify.com/artist/279IKZpSmqxIYR3D46yWH1), [Shayar Sadeek](https://open.spotify.com/artist/5PXWL5af5akPTliQapoiz3) | [Money Money](https://open.spotify.com/album/2C5E2O8wMNJV4BqpLSbsJy) | 2:00 |
 | 44 | [Good Guy](https://open.spotify.com/track/131hyXwXTeqrt3eyJ7ZKxE) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Good Guy](https://open.spotify.com/album/2SOZcAjuUgq3JmxzquOgqn) | 2:18 |

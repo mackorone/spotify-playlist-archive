@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 121275,
       "name": "Conclusions",
       "url": "https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm"
@@ -8602,7 +8602,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 128791,
       "name": "Noir",
       "url": "https://open.spotify.com/track/2rhczOkABR6IuzCFTt3FGc"
@@ -11360,7 +11360,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 169053,
       "name": "Something For You",
       "url": "https://open.spotify.com/track/6oqZPFJ1LM1hokfEdUBPxp"
@@ -11472,6 +11472,24 @@
       "duration_ms": 148986,
       "name": "Sounds of the Horizon",
       "url": "https://open.spotify.com/track/2ZKzQG4TZvMLyXsVebNgW6"
+    },
+    {
+      "album": {
+        "name": "Source of Life",
+        "url": "https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV"
+      },
+      "artists": [
+        {
+          "name": "Jonka Ebony",
+          "url": "https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139640,
+      "name": "Source of Life",
+      "url": "https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF"
     },
     {
       "album": {

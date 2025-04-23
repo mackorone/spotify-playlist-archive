@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,966 songs - 1 day 15 hr 53 min
+1,967 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1423,6 +1423,7 @@
 | [Rivers Flow](https://open.spotify.com/track/6nD2yoVVGKocPg301QNkww) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Rivers Flow](https://open.spotify.com/album/4T1fij8tkq5WJfFeQTkDqj) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Rivers Flow \- Strings Version](https://open.spotify.com/track/791QINqCiJ9BoIAxsvxkIh) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Rivers Flow \(Strings Version\)](https://open.spotify.com/album/0ykI0ftLM0OCtyAqMQvhZK) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Riverside Light](https://open.spotify.com/track/66mNp9Il3Mg2Ze6dK6ekpz) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Riverside Light](https://open.spotify.com/album/5FRX6kF4Y9TQs87o5jRwIr) | 1:00 | 2025-02-12 |  |
+| [Riverside Reflections Arr\. For Piano](https://open.spotify.com/track/2KlYFX52FaHih6OeYI9TTp) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Riverside Reflections Arr\. For Piano](https://open.spotify.com/album/3cJ8mKFl2eY8ZPPblwxzB1) | 1:00 | 2025-04-22 |  |
 | [Romance](https://open.spotify.com/track/5115EAwjhOhlTvLuBGtkUi) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Romance](https://open.spotify.com/album/6nTS0HyGxjrbz7sydj6D2r) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Romance Revisited](https://open.spotify.com/track/6cUiTDvEI4wbktI61stWVY) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Romance Revisited](https://open.spotify.com/album/4UtvrvuFA4FcNeQXcDYQNO) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Romanced](https://open.spotify.com/track/5WU67k2X0BZ4nWdyWMPrD1) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:04 | 2022-02-21 | 2024-01-30 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Mavi Gri ve haftanın en iyi çıkışları!
+> Mavi Gri ve haftanın en iyi çıkışları! 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,719 likes - 95 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,717 likes - 95 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 94 | [OLALIM ARTİZ](https://open.spotify.com/track/7g9NMjeNl8gfm1gkoDKRtE) | [SUH.EYL](https://open.spotify.com/artist/1vzUmvRrh6kXeGX8AdcLSS) | [OLALIM ARTİZ](https://open.spotify.com/album/0rShsL1C51soTepgkXAwUB) | 2:40 |
 | 95 | [Fade out](https://open.spotify.com/track/0b3Csao8JjUZkr3MEqTvSm) | [KUZA](https://open.spotify.com/artist/2GOEYmU1NFCvsVnwtOBtCL) | [Fade out](https://open.spotify.com/album/2diZ0EkijXtYhJT6wd34vP) | 2:50 |
 
-Snapshot ID: `aAJtbQAAAADrWk4P9fJ1Lq2NHkvNBzc+`
+Snapshot ID: `aAgDVAAAAAB1Z8ugHtv07yJS3UrkaTvN`

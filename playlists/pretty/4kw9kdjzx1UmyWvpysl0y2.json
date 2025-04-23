@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125419,
+  "num_followers": 125412,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT+LV9uwh61ZKHI/sksmULu7cPnhGQ",
+  "snapshot_id": "AAAT+r/ZaLUNaFxmR186MfnvC4a9Rhnv",
   "tracks": [
+    {
+      "added_at": "2025-04-22 22:55:09",
+      "album": {
+        "name": "where did you go",
+        "url": "https://open.spotify.com/album/6pZUtqnGuOECXYvYiKAabd"
+      },
+      "artists": [
+        {
+          "name": "oncor",
+          "url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX"
+        },
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "where did you go",
+      "url": "https://open.spotify.com/track/38j9LlW18hlTjc9bulORkm"
+    },
     {
       "added_at": "2025-04-21 23:37:29",
       "album": {

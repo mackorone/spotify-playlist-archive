@@ -22107,6 +22107,28 @@
     },
     {
       "album": {
+        "name": "Orange Lemonade",
+        "url": "https://open.spotify.com/album/3T3loB8qptlgjUWH1RPXbD"
+      },
+      "artists": [
+        {
+          "name": "Charlie South",
+          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
+        },
+        {
+          "name": "Manon Lamartine",
+          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
+        }
+      ],
+      "date_added": "2025-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "Orange Lemonade",
+      "url": "https://open.spotify.com/track/6vIiQXppIWFcsgROMY8TGb"
+    },
+    {
+      "album": {
         "name": "Ordna sig",
         "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
@@ -32220,7 +32242,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 239859,
       "name": "volar",
       "url": "https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b"

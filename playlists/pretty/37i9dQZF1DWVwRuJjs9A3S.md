@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Isak Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,807 likes - 126 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,868 likes - 126 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-778 songs - 2 day 7 hr 21 min
+779 songs - 2 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Jaszczurka](https://open.spotify.com/track/7cinACLJS2nczl42byaYzk) | [Norbert Grzegorczyk](https://open.spotify.com/artist/3OmTpaZrQ7V8zKEOsrymHN) | [Bengal Cat](https://open.spotify.com/album/5nIMNfkfhcHICnRNEx0kbX) | 2:40 | 2024-02-02 | 2024-02-16 |
 | [Je k'abere](https://open.spotify.com/track/0mNYzvTXVvwWlmywEqnzHv) | [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [Je k'abere](https://open.spotify.com/album/29vQ4mgLzNjx3t7GB4Qbr1) | 4:21 | 2021-10-06 | 2022-10-21 |
 | [Je k'abere](https://open.spotify.com/track/5wlLdbWUHyaoSwpbQgJSiL) | [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [Je k'abere](https://open.spotify.com/album/76qKWyy9uXq3Brpg3kp6c6) | 4:21 | 2021-10-06 | 2024-04-19 |
+| [Je ne suis pas fâché](https://open.spotify.com/track/4liMJ96BXjEhfgujdQy6mv) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Rise](https://open.spotify.com/album/0S4s1FCxl8wwfEhq0HFHE7) | 6:17 | 2025-04-18 |  |
 | [Jela Kubwa Na Viboko](https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K) | [Franck Biyong](https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E) | [Radio Masoda](https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo) | 4:51 | 2024-07-05 | 2025-03-23 |
 | [Joni Indo](https://open.spotify.com/track/6htacxeycAR4ILeAAnBbzY) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [BTVC](https://open.spotify.com/album/52QTTpeSM35ixuCvnoJ0w3) | 4:45 | 2023-08-31 | 2023-10-21 |
 | [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/5rJ4Actcle0BKg7CUmGqoy) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/7l9wGE3dDzxgn5P8fl9lgw) | 3:34 | 2021-10-06 | 2022-07-29 |
@@ -760,7 +761,7 @@
 | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/track/1WfRCBqkSWqXF7rPKBJ0dr) | [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/album/3HKXTTI6SAABiaBMr40hwm) | 3:34 | 2021-10-06 | 2022-11-20 |
 | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/track/27wExVJvVvg69dNNKflelY) | [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/album/2LsR3Jk5iERNx788rrSMPj) | 3:34 | 2023-08-31 | 2023-10-06 |
 | [Ya Yo Sé](https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Analog Drift](https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY) | 4:32 | 2022-09-07 | 2022-10-01 |
-| [Yabaal](https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Dur Dur of Somalia \- Vol\. 1, Vol\. 2 \(Analog Africa No\. 27\)](https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az) | 5:57 | 2021-10-06 |  |
+| [Yabaal](https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Dur Dur of Somalia \- Vol\. 1, Vol\. 2 \(Analog Africa No\. 27\)](https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az) | 5:57 | 2021-10-06 | 2025-04-23 |
 | [Yagana](https://open.spotify.com/track/52V2aK0UIqrMyTRQT6OIuL) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Yagana](https://open.spotify.com/album/66sVp81ZBfXiDVlFXA551B) | 5:52 | 2023-06-19 | 2023-07-19 |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-08-15 | 2025-02-21 |
 | [Yarait \- Habibi Funk 022](https://open.spotify.com/track/3kT4IRS9cw54EmbzUoZez5) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Yarait \(Habibi Funk 022\)](https://open.spotify.com/album/0bSQUOWTCMRlnabhqf3XO3) | 3:57 | 2023-05-24 | 2023-08-16 |

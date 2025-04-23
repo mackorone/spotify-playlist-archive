@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jux
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,119 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,189 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Me too](https://open.spotify.com/track/0f69wNZrUKPe4s2EnSA5ai) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Me too](https://open.spotify.com/album/03Ip4Xc6gRdo2SkJtAh8N9) | 2:38 |
-| 2 | [Juju \(feat\. Marioo\)](https://open.spotify.com/track/0HsI0Uo4iQnYpCAiBQuIQg) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Juju \(feat\. Marioo\)](https://open.spotify.com/album/0HOR2H0t3Ugp3PtzEuyOIk) | 3:30 |
-| 3 | [Si Mimi](https://open.spotify.com/track/2wXTa09oysRfgOwu09ZeH5) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Si Mimi](https://open.spotify.com/album/7lOu0ytKDPL8E7mv793vxK) | 3:01 |
-| 4 | [GOD DESIGN](https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [GOD DESIGN](https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp) | 3:35 |
-| 5 | [Finally \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/track/6EzI363irSPtlAmjpR0irr) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Finally \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/album/0wmmR8fK5GkdHwGc9hnUkT) | 3:28 |
-| 6 | [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 |
-| 7 | [Ukiniita](https://open.spotify.com/track/1a17ieOkzl7EYM93imiYqR) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Ukiniita](https://open.spotify.com/album/4jwiLihnEPa7w679H0F1Uq) | 3:32 |
+| 2 | [GOD DESIGN](https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [GOD DESIGN](https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp) | 3:35 |
+| 3 | [Juju \(feat\. Marioo\)](https://open.spotify.com/track/0HsI0Uo4iQnYpCAiBQuIQg) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Juju \(feat\. Marioo\)](https://open.spotify.com/album/0HOR2H0t3Ugp3PtzEuyOIk) | 3:30 |
+| 4 | [Finally \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/track/6EzI363irSPtlAmjpR0irr) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Finally \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/album/0wmmR8fK5GkdHwGc9hnUkT) | 3:28 |
+| 5 | [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 |
+| 6 | [Ukiniita](https://open.spotify.com/track/1a17ieOkzl7EYM93imiYqR) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Ukiniita](https://open.spotify.com/album/4jwiLihnEPa7w679H0F1Uq) | 3:32 |
+| 7 | [Si Mimi](https://open.spotify.com/track/2wXTa09oysRfgOwu09ZeH5) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Si Mimi](https://open.spotify.com/album/7lOu0ytKDPL8E7mv793vxK) | 3:01 |
 | 8 | [Down For You \(feat\. Bien\)](https://open.spotify.com/track/71cVgHpn6iahD2oylViK6w) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 2:58 |
 | 9 | [Go](https://open.spotify.com/track/4RuMpok66IGRwuf46PX5xo) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Go](https://open.spotify.com/album/64PZGw0BVsvm8vflfar9Gr) | 2:55 |
 | 10 | [Moyo](https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Moyo](https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 79 | [Sir God \(feat\. D Voice & Billnass\)](https://open.spotify.com/track/2BVmswbLRnULCTiAkpTdwO) | [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Sir God \(feat\. D Voice & Billnass\)](https://open.spotify.com/album/1Dr2rDsA0rsiTOaDahpuX2) | 4:43 |
 | 80 | [It's Your Boy](https://open.spotify.com/track/6ukYEennm4qhPWKjm1YM9d) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [It's Your Boy](https://open.spotify.com/album/4DyQXOsMsTcEJRBUKeycRR) | 3:55 |
 
-Snapshot ID: `aAGV6QAAAABd/9sAXcE4YsxOPxRIkmv9`
+Snapshot ID: `aAdHDQAAAABWz3GSLPQd5Jy++aweJpPQ`

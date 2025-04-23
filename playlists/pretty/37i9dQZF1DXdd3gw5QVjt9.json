@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1156968,
+  "num_followers": 1156835,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
+        "name": "Stolen",
+        "url": "https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD"
+      },
+      "artists": [
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "duration_ms": 282438,
+      "name": "True Faith",
+      "url": "https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
-        "name": "Stolen",
-        "url": "https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD"
-      },
-      "artists": [
-        {
-          "name": "Lotte Kestner",
-          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
-        }
-      ],
-      "duration_ms": 282438,
-      "name": "True Faith",
-      "url": "https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Matin\u00e9e",
-        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "So Are We",
-      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 226497,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "baby, get your ticket",
-        "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
-      },
-      "artists": [
-        {
-          "name": "Tarune",
-          "url": "https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq"
-        }
-      ],
-      "duration_ms": 155431,
-      "name": "baby, get your ticket",
-      "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/7w9jIIaTUlpYmLSgCNwbb0"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 199334,
       "name": "Fool",
       "url": "https://open.spotify.com/track/7wJj7JVgEbaakRVn9OJ2BF"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "baby, get your ticket",
+        "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
+      },
+      "artists": [
+        {
+          "name": "Tarune",
+          "url": "https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq"
+        }
+      ],
+      "duration_ms": 155431,
+      "name": "baby, get your ticket",
+      "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
     },
     {
       "added_at": "2024-08-23 14:59:54",

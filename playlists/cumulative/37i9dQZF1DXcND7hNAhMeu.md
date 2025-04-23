@@ -2,7 +2,7 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Rana Türkyılmaz
+> Geleceğin seslerini dinle! 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷 Kapak: Rana Türkyılmaz
 
 92 songs - 4 hr 24 min
 

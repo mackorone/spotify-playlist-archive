@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Climbing Boots",
+        "url": "https://open.spotify.com/album/72n4QC6ANllRa4FFLbxJ1r"
+      },
+      "artists": [
+        {
+          "name": "James McVey",
+          "url": "https://open.spotify.com/artist/1LXsEmvNi2vdi1oOfVTK3r"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210329,
+      "name": "Climbing Boots",
+      "url": "https://open.spotify.com/track/1EmHM2EFSLgOFfroKd8Gju"
+    },
+    {
+      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },

@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-112 songs - 7 hr 15 min
+113 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [I Found the Day](https://open.spotify.com/track/50jkiTxHbEAi2h9wOZVbgE) | [Carl Fletcher](https://open.spotify.com/artist/6MJVrtr9vMYLrCv6y0ypzK) | [I Found the Day](https://open.spotify.com/album/3oWKbBZvbTsvf5rrgOQyMs) | 2:27 | 2025-03-25 |  |
 | [I Still Need You](https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC) | [Dan Sistos](https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh) | [The Road To Euphoria](https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW) | 2:37 | 2023-09-01 |  |
 | [Inolvidable](https://open.spotify.com/track/5APbR5HgGEgthIoJANMoJI) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 4:02 | 2023-09-01 |  |
+| [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 | 2025-04-22 |  |
 | [La Juani](https://open.spotify.com/track/7ChsZZv9OdguMCbndtnLBd) | [Domingo Dominguez](https://open.spotify.com/artist/3S1TgZkbTq1XMUoHKzzi8R), [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 3:58 | 2024-04-05 | 2024-06-01 |
 | [La Juani](https://open.spotify.com/track/0oulPWX7WIuc7zienNXCCR) | [Los Alhama](https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47) | [Flamenco](https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX) | 4:00 | 2023-09-01 | 2024-04-19 |
 | [La Moraima](https://open.spotify.com/track/6JLjGnfzm03NxkmQCQSIyv) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Best of Rafa El Tachuela: Flamenco](https://open.spotify.com/album/6Of0l7qLCVmY3Kgfuc6san) | 3:55 | 2024-04-05 |  |

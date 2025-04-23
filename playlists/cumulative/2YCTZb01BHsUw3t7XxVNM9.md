@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-491 songs - 1 day 10 hr 4 min
+492 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Down to Reality](https://open.spotify.com/track/7ostW6epiG2Ovbf0SW6Duv) | [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1) | [The Best of Japanese Stream Hardcore](https://open.spotify.com/album/5uvGy8DZNQu6S3t03Zx614) | 5:45 | 2019-10-04 |  |
 | [Dragoon \- Sword of the valiant Ver.](https://open.spotify.com/track/7H3qxpdDgT1DdEZUYzKLf7) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [OVERHEAT](https://open.spotify.com/album/2VRH44lzNZK9sUikj2OXJ8) | 3:53 | 2021-08-13 |  |
 | [DREADED NOTE](https://open.spotify.com/track/0ysOmEVVYJjenh64P5dN3l) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [DREADED NOTE](https://open.spotify.com/album/3yhKVJspZP2p9T76PPQxTp) | 3:19 | 2021-05-28 |  |
+| [Drive Impact](https://open.spotify.com/track/7M5ybu78eKG5uvONmQH9Kn) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Drive Impact](https://open.spotify.com/album/1CBAEw3bIp8BKZM77jXsju) | 2:28 | 2025-04-22 |  |
 | [Dullahan](https://open.spotify.com/track/6cZOtQM4dmwvBS8iD7A8Eu) | [深海イオ](https://open.spotify.com/artist/0opH2xuLJRAFqbfyeSTpl6), [Quark](https://open.spotify.com/artist/0cgvFywwD5eQevYZed0hw7) | [Daydream Monologue](https://open.spotify.com/album/3rqV4UU7uMGUoOYyrINUM2) | 5:10 | 2020-07-06 |  |
 | [DX超性能フルメタル少女](https://open.spotify.com/track/2vu0goP36p6tiU9kUMRqb4) | [IOSYS TRAX : uno](https://open.spotify.com/artist/7i3tmVvVx1zIdRaDDj4CDt), [Chiyoko](https://open.spotify.com/artist/7hKAguLXi4URr6u8PFWIL4) | [グルーヴコースター オリジナルサウンドトラック](https://open.spotify.com/album/3O9nLzTc3mgIaglp7QKJfh) | 1:55 | 2019-02-15 |  |
 | [Element Symphony](https://open.spotify.com/track/1xJTV4ZwU4nzMJzJDfipWg) | [pocotan](https://open.spotify.com/artist/46CrX7GTEcWgCRHPRMCILk), [LU\-I](https://open.spotify.com/artist/7GzQljkebaUm94GJaAmzM1) | [Distorted Twins 3](https://open.spotify.com/album/1PJnJLthf0Sed1XJcj4mlr) | 4:58 | 2020-09-15 |  |

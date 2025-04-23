@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-76 songs - 3 hr 44 min
+80 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,11 @@
 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 | 2025-03-11 |  |
 | [Deslocado](https://open.spotify.com/track/6QlygEHWgXDeAwDtzksA5b) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:59 | 2025-03-09 | 2025-03-12 |
 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-05-11 | 2025-03-01 |
-| [Dobrodošli](https://open.spotify.com/track/5UspyMgNKogZTVNc9Ptl9P) | [Nina Zizic](https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO) | [Dobrodošli](https://open.spotify.com/album/32mNiQZWRZPliemdjkO3tZ) | 3:00 | 2025-02-28 |  |
+| [Dobrodošli](https://open.spotify.com/track/5UspyMgNKogZTVNc9Ptl9P) | [Nina Zizic](https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO) | [Dobrodošli](https://open.spotify.com/album/32mNiQZWRZPliemdjkO3tZ) | 3:00 | 2025-02-28 | 2025-04-23 |
+| [Dobrodošli \- Eurovision 2025](https://open.spotify.com/track/19Tty48pp2obWcLiRbEAVG) | [Nina Zizic](https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO) | [Dobrodošli \(Eurovision 2025\)](https://open.spotify.com/album/5HGhSZ9a4GkhIcZiIHb4M0) | 3:23 | 2025-04-22 |  |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-05-11 | 2025-03-01 |
-| [Esa Diva \- Benidorm Fest Edit](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva \(Benidorm Fest Edit\)](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 | 2025-02-28 |  |
+| [Esa Diva](https://open.spotify.com/track/6utHjfvlsCAj0V6Wg6mXqx) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva](https://open.spotify.com/album/1Z0LWWEpJAv0dA4VF6POTZ) | 2:58 | 2025-04-22 |  |
+| [Esa Diva \- Benidorm Fest Edit](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva \(Benidorm Fest Edit\)](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 | 2025-02-28 | 2025-04-23 |
 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 | 2025-02-28 |  |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-05-11 | 2025-03-01 |
 | [Fighter \- Eurovision Version](https://open.spotify.com/track/6syLoIbMRXvCEr94FMVBHh) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter \(Eurovision Version\)](https://open.spotify.com/album/759G3cPO8KnudNnVPW7MV9) | 2:59 | 2024-05-11 | 2025-03-01 |
@@ -39,10 +41,11 @@
 | [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 | 2025-02-28 |  |
 | [In the Middle](https://open.spotify.com/track/5ViF3hsL0iwD7jhh5JB2Ip) | [Natalia Barbu](https://open.spotify.com/artist/6dICPcKkYBBS4lW6TdxUQr) | [In the Middle](https://open.spotify.com/album/560gPARoBrtx4oQhrVj6KH) | 2:58 | 2024-05-11 | 2025-03-01 |
 | [Jako](https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Ladaniva](https://open.spotify.com/album/1XtgrVhoVHWCqrUhx2ITDk) | 2:25 | 2024-05-11 | 2025-03-01 |
-| [Kant](https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [Kant](https://open.spotify.com/album/4szjsBraAhoWG3XNHednZK) | 2:59 | 2025-02-28 |  |
+| [Kant](https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [Kant](https://open.spotify.com/album/4szjsBraAhoWG3XNHednZK) | 2:59 | 2025-02-28 | 2025-04-23 |
 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-03-07 |  |
 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-05-11 | 2025-03-01 |
-| [La poupée monte le son \- LSC Edit](https://open.spotify.com/track/7uUZf0d7YEFvfEspnYopXN) | [Laura Thorn](https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx) | [La poupée monte le son \(LSC Edit\)](https://open.spotify.com/album/6anSSKFQybFbbOLdhdJMj1) | 2:58 | 2025-02-28 |  |
+| [La poupée monte le son](https://open.spotify.com/track/6IabIimt88FcZu80dunXWA) | [Laura Thorn](https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx) | [La poupée monte le son](https://open.spotify.com/album/6k0rdf9p1YRh57I9HsK97l) | 2:58 | 2025-04-22 |  |
+| [La poupée monte le son \- LSC Edit](https://open.spotify.com/track/7uUZf0d7YEFvfEspnYopXN) | [Laura Thorn](https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx) | [La poupée monte le son \(LSC Edit\)](https://open.spotify.com/album/6anSSKFQybFbbOLdhdJMj1) | 2:58 | 2025-02-28 | 2025-04-23 |
 | [Laika Party](https://open.spotify.com/track/5PZnJ8GErvuiCo7wKKtpKo) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Laika Party](https://open.spotify.com/album/44LjhJDVICLc7cgAgQ9nTX) | 3:00 | 2025-02-28 |  |
 | [Liar](https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy) | [Silia Kapsis](https://open.spotify.com/artist/3tTnh7pp782ZdZADjqPOvC) | [Liar](https://open.spotify.com/album/5iZ22MQ93D5oS0YGxPpw4p) | 2:58 | 2024-05-11 | 2025-03-01 |
 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 | 2025-02-28 |  |
@@ -63,6 +66,7 @@
 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-02-28 |  |
 | [SAND](https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO) | [SABA](https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW) | [SAND](https://open.spotify.com/album/4qvil8kYuHLOnW327paleO) | 3:00 | 2024-05-11 | 2025-03-01 |
 | [Scared of Heights](https://open.spotify.com/track/0Vsjlru86RuL55GX5LsnF3) | [Hera Björk](https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5) | [Scared of Heights](https://open.spotify.com/album/1xY1K8eiKsbZPUcSAr9epd) | 3:03 | 2024-05-11 | 2025-03-01 |
+| [SERVING KANT](https://open.spotify.com/track/7IAtKdU3e9wZFC8Cd8TLr1) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING KANT](https://open.spotify.com/album/2Jir3xrdLJ34ZLY9lgzCRw) | 2:59 | 2025-04-22 |  |
 | [Shh](https://open.spotify.com/track/3mwqwFYIrO8hE3YBN8gk14) | [Theo Evan](https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj) | [Shh](https://open.spotify.com/album/1WygObqWaky2zQhDJ5rUz8) | 2:57 | 2025-03-14 |  |
 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 | 2025-02-28 |  |
 | [SURVIVOR](https://open.spotify.com/track/4FqL1MlFQ67DipYCbmHzj8) | [PARG](https://open.spotify.com/artist/2tm0hthZZUgjJ4c8jzbZ4K) | [SURVIVOR](https://open.spotify.com/album/5WtJnnQy8iMz2ucyO6g4DZ) | 2:58 | 2025-03-24 |  |

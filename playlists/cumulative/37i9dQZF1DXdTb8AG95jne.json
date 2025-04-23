@@ -244,7 +244,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 204250,
       "name": "15 Years Old",
       "url": "https://open.spotify.com/track/1ksJA4Yme39NKgn82SvLsp"
@@ -1558,6 +1558,28 @@
       "duration_ms": 234000,
       "name": "Beside",
       "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
+    },
+    {
+      "album": {
+        "name": "Best I Ever Had",
+        "url": "https://open.spotify.com/album/3obrbXrfwc8oDmhTiJ5nDz"
+      },
+      "artists": [
+        {
+          "name": "EB",
+          "url": "https://open.spotify.com/artist/370Xs2iZzYs6RSjSmtgmS5"
+        },
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Best I Ever Had (Feat. Vincent Blue)",
+      "url": "https://open.spotify.com/track/45p2wCkqKM9tK71azx6609"
     },
     {
       "album": {

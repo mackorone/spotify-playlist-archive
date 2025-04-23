@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> HAON\(하온\)\)
 
-1,507 songs - 3 day 9 hr 35 min
+1,508 songs - 3 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,6 +837,7 @@
 | [Mi Vida Loca \(feat\. CK, Louie & DOPECHILD\)](https://open.spotify.com/track/2lelDLW1VD7KM97A6naUVh) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [CK](https://open.spotify.com/artist/7tjx9M3KfqqtH58LVTID3Q), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB), [DOPECHILD](https://open.spotify.com/artist/0tReHhczVsR4CyIoenFpQs) | [Renoi Chronicle](https://open.spotify.com/album/7iJ5ydlC5mLCgmyIUNs2WH) | 3:07 | 2022-09-08 | 2022-12-10 |
 | [miami beach](https://open.spotify.com/track/0mV9HR5R3gwWvHwv7MuNyY) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [miami beach](https://open.spotify.com/album/6b4Hdz0wi0EzoFB9pM4xNl) | 3:05 | 2023-10-14 | 2024-03-09 |
 | [MIC "The Hammer" \(feat\. Paloalto, Chin\)](https://open.spotify.com/track/7htJSkwcRU80KVxNCID024) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw) | [MIC "The Hammer" \(feat\. Paloalto, Chin\)](https://open.spotify.com/album/5myFuRRYgLrrpcJLvavoiZ) | 2:48 | 2022-03-31 | 2022-06-16 |
+| [MIC SWG \(feat\. Deepflow, Dragon A.T\)](https://open.spotify.com/track/3T3P7EyWyK05xOklzDcbBk) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Dragon A.T](https://open.spotify.com/artist/7DZu4zslJGMzcsNaQDz9oz) | [Talk Less, Do More Part 1](https://open.spotify.com/album/2Q8XNYUYAxSgTGUJdspDI3) | 3:54 | 2025-04-23 |  |
 | [Michael Jackson Remix \(Feat\. Jay Park\)](https://open.spotify.com/track/74cH1EoFKnaVJmqdU5fLR5) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Michael Jackson Remix](https://open.spotify.com/album/5WPTXczlD1GpoA7j2KelrH) | 3:58 | 2023-04-27 | 2023-06-14 |
 | [MICHELIN CYPHER](https://open.spotify.com/track/41J6fcsioFDdh410It3BUt) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [PUMP COLLECTOR’S EDITION](https://open.spotify.com/album/7r8pyl0ry9r6GVoTWu8OTw) | 3:10 | 2024-10-18 | 2025-01-25 |
 | [Million / Warrior](https://open.spotify.com/track/6G8N7aoDHlkEPOtIxOfonN) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [RAD MILLI](https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg) | 2:46 | 2024-08-30 | 2024-11-28 |

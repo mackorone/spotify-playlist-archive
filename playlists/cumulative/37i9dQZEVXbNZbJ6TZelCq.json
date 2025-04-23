@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 187659,
       "name": "ANGELINA JOLIE",
       "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 131977,
       "name": "Anglia",
       "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 144927,
       "name": "Artileria",
       "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 184000,
       "name": "Bine Ai Venit in Balcani",
       "url": "https://open.spotify.com/track/66bHSTuQi0ncFmqEvS9E6x"
@@ -6530,7 +6530,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 159360,
       "name": "Cateodata",
       "url": "https://open.spotify.com/track/5zYHomneLIlzBbexs7coaY"
@@ -9194,7 +9194,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 143315,
       "name": "De ce te ui\u021bi a\u0219a?",
       "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
@@ -11864,7 +11864,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 215880,
       "name": "Eu Iubesc Doua Femei",
       "url": "https://open.spotify.com/track/283LEYpx54VjkdHTdtleR0"
@@ -14074,7 +14074,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -17358,6 +17358,28 @@
       "duration_ms": 168000,
       "name": "Ia-ma Du-ma",
       "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
+    },
+    {
+      "album": {
+        "name": "Iarta-ma Mamo",
+        "url": "https://open.spotify.com/album/3s7obFL6LtELRmf9XTpHxL"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151948,
+      "name": "Iarta-ma Mamo",
+      "url": "https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag"
     },
     {
       "album": {
@@ -24422,7 +24444,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 145026,
       "name": "Nebunia lui Babasha",
       "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
@@ -34518,7 +34540,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Sugar Daddy",
       "url": "https://open.spotify.com/track/7fuZr7YvNC22Ld6FjOMfXy"
@@ -39282,7 +39304,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 151363,
       "name": "Vocea ta",
       "url": "https://open.spotify.com/track/68E03oskzRz2OUhsiSwOq5"

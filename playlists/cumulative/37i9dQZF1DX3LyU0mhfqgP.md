@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: Boko Yout
+> Songs from LGBTQIA+ artists\.  Cover: MOONGA K.
 
 1,462 songs - 3 day 7 hr 18 min
 

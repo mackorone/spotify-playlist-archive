@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Golfklubb, Morgan Sulele, Tyr & Bianca og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,039 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,050 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 87 | [Stockholm City](https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Stockholm City](https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L) | 2:40 |
 | 88 | [Sweat](https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [SKILAH](https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0) | [Sweat](https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4) | 2:20 |
 | 89 | [Dream Machine](https://open.spotify.com/track/4qmZWX639GLcrQijRgBk9W) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Paradise \(Bonus Edition\)](https://open.spotify.com/album/5SWlTGKudlEfbI4hfja9NJ) | 3:26 |
-| 90 | [Mint](https://open.spotify.com/track/5LL4kF6pMfQ1DmKOgsyrJr) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej), [Amy McKnight](https://open.spotify.com/artist/53aIUQWhBpSyeeoWwHNMPu) | [Mint](https://open.spotify.com/album/2c0JipkGeH54ovJ4X808wV) | 2:16 |
+| 90 | [Mint](https://open.spotify.com/track/5LL4kF6pMfQ1DmKOgsyrJr) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej), [Amy McKnight](https://open.spotify.com/artist/2whM8W3aK4OUlZXAiPy0l9) | [Mint](https://open.spotify.com/album/2c0JipkGeH54ovJ4X808wV) | 2:16 |
 | 91 | [All This Time](https://open.spotify.com/track/24MsIsK3YAysf6waXqPVHu) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [All This Time](https://open.spotify.com/album/6lTW8di6tudYyMKKh8iJ1x) | 3:18 |
 | 92 | [Circles](https://open.spotify.com/track/7rRW7FUJvetThEeuJyortA) | [Marianne Alme](https://open.spotify.com/artist/4YtIMbgAzxNhS3OEQykSsV) | [Circles](https://open.spotify.com/album/4WJlhcKE7I70uOCvhCJwO8) | 2:43 |
 | 93 | [Hard Times](https://open.spotify.com/track/5OJGO3FHfV4f8E3OREEoYO) | [Ledfoot](https://open.spotify.com/artist/4p4n2wyaCut8CfgNKqRfpo) | [Hard Times](https://open.spotify.com/album/0K4pmr9Sv1lMm8HvTwhhpD) | 3:17 |

@@ -2857,6 +2857,32 @@
     },
     {
       "album": {
+        "name": "ZIZEL",
+        "url": "https://open.spotify.com/album/3ZiPfcm1SdyAsuOqHkuM1j"
+      },
+      "artists": [
+        {
+          "name": "ZiZZi",
+          "url": "https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "GET MONEY",
+      "url": "https://open.spotify.com/track/0TWiy2EMCGnOJY7sHk3V6V"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2OTQt5saR38tyZSn9WoOwf"
       },
@@ -3382,32 +3408,6 @@
       "duration_ms": 116400,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/5P8xgPPGAyNTFsKRPoXzX8"
-    },
-    {
-      "album": {
-        "name": "ZIZEL",
-        "url": "https://open.spotify.com/album/3ZiPfcm1SdyAsuOqHkuM1j"
-      },
-      "artists": [
-        {
-          "name": "ZiZZi",
-          "url": "https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL"
-        },
-        {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "date_added": "2025-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133894,
-      "name": "I GET MONEY",
-      "url": "https://open.spotify.com/track/0TWiy2EMCGnOJY7sHk3V6V"
     },
     {
       "album": {

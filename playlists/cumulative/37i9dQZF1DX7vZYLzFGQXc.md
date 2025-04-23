@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 고고학 \(Gogohawk\)\) \(Meet the emerging talents of Korea!\)
 
-1,531 songs - 3 day 14 hr 9 min
+1,533 songs - 3 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [HOW YOU FEEL?](https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [HOW YOU FEEL?](https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW) | 2:44 | 2021-12-02 | 2022-01-11 |
 | [How’s your weather \(feat\. WILRO\)](https://open.spotify.com/track/46LPpV2pIj7XughkHsx3ws) | [Sean.K](https://open.spotify.com/artist/37BFwc5MqodHMtm68RhYQv), [WILRO](https://open.spotify.com/artist/0n2Pt2CZP9z8xx0vzRg4OV) | [How’s your weather](https://open.spotify.com/album/2AdBZWzddMXDNnxegQmfaH) | 3:53 | 2022-06-18 | 2022-07-15 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-02 | 2023-01-12 |
+| [Hurt](https://open.spotify.com/track/0fqFpVkTs8dY5SZMmyY9Bh) | [SRA](https://open.spotify.com/artist/6ajLYP0hhsrxlmJQWqDruk) | [Hurt](https://open.spotify.com/album/1Ip0Q63pL9yWhLTLbyqKw6) | 3:19 | 2025-04-22 |  |
 | [HUSH](https://open.spotify.com/track/6Of6IZabcu8f9UnAocPqxl) | [Lee Dahye](https://open.spotify.com/artist/7gc8zw3BiCRjq9PNgingF5) | [HUSH](https://open.spotify.com/album/7kYyb4HSoOXrXIyjDtNNk4) | 3:12 | 2024-04-03 | 2024-08-02 |
 | [i](https://open.spotify.com/track/6TgZn4L1lPFBDSSBYUENOH) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [i](https://open.spotify.com/album/4Isqr04kGZjdCo3rMiouQf) | 3:01 | 2023-06-01 | 2023-09-21 |
 | [i \(feat\. Swings\)](https://open.spotify.com/track/09bshPEQMZUnUWvuMwvXwK) | [Lean Lean](https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb), [스윙스\(Swings\)](https://open.spotify.com/artist/1FypwMT3hrRR7uxLHpgGuU) | [SUNSHINE](https://open.spotify.com/album/5MgqA59cpZMyowGSHHvatc) | 3:56 | 2022-06-09 | 2022-06-19 |
@@ -675,7 +676,7 @@
 | [It Couldn’t Be Better](https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [It Couldn’t Be Better](https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2) | 3:14 | 2024-01-05 | 2024-06-05 |
 | [It Is Love](https://open.spotify.com/track/08V1uN0jqwwCBmCMfGsvIM) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [It Is Love](https://open.spotify.com/album/3q8SOrhoo4oN3DGASRkNYv) | 3:59 | 2022-03-17 | 2022-04-21 |
 | [It rained again today](https://open.spotify.com/track/7GAEw3YJysqI89rUeza9Tx) | [Pureum](https://open.spotify.com/artist/7cowV7fmlBD9QL55bmhK3S) | [It rained again today](https://open.spotify.com/album/1qvUMd2pb8xaLvDr4OXGqt) | 4:28 | 2023-10-30 | 2024-04-04 |
-| [It Rains](https://open.spotify.com/track/6gRKUHkcccyZi7442aPme9) | [Seoul Electric Band](https://open.spotify.com/artist/2rdg9jLI2WN0bAsrPWdRo1) | [It Rains](https://open.spotify.com/album/59W9Ohv3Y6hlenBBk5whDn) | 5:22 | 2025-02-14 |  |
+| [It Rains](https://open.spotify.com/track/6gRKUHkcccyZi7442aPme9) | [Seoul Electric Band](https://open.spotify.com/artist/2rdg9jLI2WN0bAsrPWdRo1) | [It Rains](https://open.spotify.com/album/59W9Ohv3Y6hlenBBk5whDn) | 5:22 | 2025-02-14 | 2025-04-23 |
 | [It was love](https://open.spotify.com/track/5fNQ6RhlmsS0dAgDePGm1P) | [no reply](https://open.spotify.com/artist/0vDKj2G8ADlhR5aM7BfeUL) | [It was love](https://open.spotify.com/album/3ep8nTC4Pn2L4ttyiNhLdW) | 4:48 | 2023-11-14 | 2024-04-04 |
 | [It was love, but not you](https://open.spotify.com/track/5lAwiCWQTst1LsorYKovHY) | [Kim Yi Wol](https://open.spotify.com/artist/4UWbCpIguG08IsBmldIjdS), [51](https://open.spotify.com/artist/0Fzez7DXH60xdLhLzKDjz9) | [Quetzalcoatl](https://open.spotify.com/album/0x1XicFATaZuRTabcFJbSx) | 3:11 | 2023-05-01 | 2023-07-27 |
 | [It's all my fault](https://open.spotify.com/track/2ScIOszpvKuJvIJwd0Ywkf) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [It's all my fault](https://open.spotify.com/album/26d67oV1i2jC3LX1PWOHHP) | 3:59 | 2022-08-12 | 2022-09-30 |
@@ -720,7 +721,7 @@
 | [last month’s rent](https://open.spotify.com/track/1DZZTL6ZzAp2qhSvAEV9JN) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:05 | 2022-07-27 | 2022-09-06 |
 | [Last Name Goo](https://open.spotify.com/track/1y57deGTFllTZvSxkTC24E) | [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p) | [Rich Bourne NINE](https://open.spotify.com/album/2N9r9X7qIaEBDCFpx0J6W1) | 2:26 | 2023-01-11 | 2023-02-09 |
 | [LAST PARADE](https://open.spotify.com/track/436seJMYT9VZOjvJUTfmcx) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [LAST PARADE](https://open.spotify.com/album/4dARvFNQZIZtyCFw2Lbs6f) | 4:04 | 2024-03-06 | 2024-07-04 |
-| [Late Night Calls](https://open.spotify.com/track/13uXWflFQoO0aqXYaWieTn) | [Seiren](https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL) | [Late Night Calls](https://open.spotify.com/album/0LXW1gHPfyvkuq2vuO90Hn) | 3:15 | 2025-02-04 |  |
+| [Late Night Calls](https://open.spotify.com/track/13uXWflFQoO0aqXYaWieTn) | [Seiren](https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL) | [Late Night Calls](https://open.spotify.com/album/0LXW1gHPfyvkuq2vuO90Hn) | 3:15 | 2025-02-04 | 2025-04-23 |
 | [Late Night Workout](https://open.spotify.com/track/65yx3grfHnTFhJPuYVi2QF) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [Late Night Workout](https://open.spotify.com/album/7cjr2FSE05LdsoCLgR2xkZ) | 2:29 | 2024-03-06 | 2024-07-04 |
 | [laugh!](https://open.spotify.com/track/0IC3nbx1BJSbgtgBYJynmh) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [TWIST](https://open.spotify.com/album/5ZkAwSmcnVoPuR4ZbmXcaz) | 2:55 | 2022-06-09 | 2022-06-19 |
 | [Lauren](https://open.spotify.com/track/2mAhxwO0fLjISvxim2Seap) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Lauren](https://open.spotify.com/album/47iCW4EIDHE8XeakoStZhf) | 3:03 | 2022-09-29 | 2022-12-01 |
@@ -1183,6 +1184,7 @@
 | [Stop](https://open.spotify.com/track/24b4KOWpq3MhFEL9AgSKQs) | [Hitten](https://open.spotify.com/artist/2oKA6qrgCD1QKEiBRkakKH) | [Hitten Vol.1](https://open.spotify.com/album/7wKey3jEkZC3hMdTF8Dshv) | 2:55 | 2023-03-02 | 2023-05-02 |
 | [Stop My Heart](https://open.spotify.com/track/328oX15YamvYYDOlzZ7qOk) | [Park Da Hye](https://open.spotify.com/artist/3USv3ctdZFPKt8qMpzbnca) | [Stop My Heart](https://open.spotify.com/album/5aWiBKht02GOW8IFKVDk7R) | 3:47 | 2024-11-11 | 2025-04-19 |
 | [Stuck in](https://open.spotify.com/track/4sgjUKUuEAIPbKAvRny0fN) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Stuck in](https://open.spotify.com/album/6QG23BFWlIJxcweb1nU0Rv) | 3:34 | 2023-01-30 | 2023-02-09 |
+| [Stuffy Driver](https://open.spotify.com/track/3ecSR7l6y3cl3ZqQF5HcnC) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [Stuffy Driver](https://open.spotify.com/album/5jHAPe0kbR5caIHDm3BtqG) | 3:02 | 2025-04-22 |  |
 | [Stupid](https://open.spotify.com/track/6Mp6OHHzY2qmTqUhMF8thZ) | [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Stupid](https://open.spotify.com/album/0fxrQ4ogS9IxUE4h5aCN0P) | 2:49 | 2024-04-03 | 2025-01-21 |
 | [Stupid \(feat\. Amin & H!\)](https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Weekday is long, Weekend is gone](https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl) | 2:55 | 2022-07-04 | 2022-08-13 |
 | [Stupid Love](https://open.spotify.com/track/3cUyGXzLi6D3VMWATjoXmD) | [JUTO](https://open.spotify.com/artist/7HJsFAB2CpPpMxBNntMT5c), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Stupid Love](https://open.spotify.com/album/30Z6J6DqOyTV3jZQrvN1qm) | 3:55 | 2023-05-01 | 2023-07-06 |

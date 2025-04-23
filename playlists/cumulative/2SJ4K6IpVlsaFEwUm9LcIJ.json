@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Viralata",
+        "url": "https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup"
+      },
+      "artists": [
+        {
+          "name": "Antonio Adolfo",
+          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "Cascavel",
+      "url": "https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz"
+    },
+    {
+      "album": {
         "name": "caught by a wind",
         "url": "https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB"
       },

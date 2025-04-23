@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAQ5AAAAAAB97gSDwwg9S0TUmD1mA6Os",
+  "snapshot_id": "aAWKgAAAAADfurypwh3xoYscCFUy39uQ",
   "tracks": [
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "McQueen",
-        "url": "https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an"
-      },
-      "artists": [
-        {
-          "name": "TrifeDrew",
-          "url": "https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "McQueen",
-      "url": "https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless Yo Trap",
         "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 193000,
       "name": "Pockets",
       "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "McQueen",
+        "url": "https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an"
+      },
+      "artists": [
+        {
+          "name": "TrifeDrew",
+          "url": "https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "McQueen",
+      "url": "https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl"
     }
   ],
   "unique_name": "This Is Murda Beatz",

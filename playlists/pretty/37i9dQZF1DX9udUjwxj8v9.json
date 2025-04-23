@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 153120,
+  "num_followers": 153112,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "A M\u00fasica do Olodum",
-        "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
-      },
-      "artists": [
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Vem meu amor",
-      "url": "https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 306853,
       "name": "Frevo Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "A M\u00fasica do Olodum",
+        "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Vem meu amor",
+      "url": "https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC"
     },
     {
       "added_at": "2023-03-06 22:48:04",

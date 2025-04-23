@@ -2,7 +2,7 @@
 
 ### [Keşif](https://open.spotify.com/playlist/37i9dQZF1DX9EWkqxS1pO0)
 
-> Yeni favori sanatçını keşfet ⚡ Kapak: Kool Jane
+> Yeni favori sanatçını keşfet ⚡23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷  Kapak: Kool Jane
 
 228 songs - 11 hr 25 min
 

@@ -4,7 +4,7 @@
 
 > Wekelijkse update met Hollands en volks\. Cover: Kimberly Fransens
 
-286 songs - 14 hr 1 min
+287 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Als Je Kijkt](https://open.spotify.com/track/4YZg6QZ5Mcl3Js3MKetT5C) | [Gianluca](https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN) | [Als Je kijkt](https://open.spotify.com/album/15nTqtmVFOhB6XZbteKY1u) | 3:05 | 2025-02-07 |  |
 | [Alsof Ik Nooit Bestond](https://open.spotify.com/track/7B6feRSU3NOq1W0yFaYGB5) | [Wim Dalmee](https://open.spotify.com/artist/4y5rRjritb2mAzv3bOlhRU) | [Alsof Ik Nooit Bestond](https://open.spotify.com/album/0PK0L20nyEv76A8cW7TDnr) | 2:39 | 2025-03-13 | 2025-04-18 |
 | [Altijd Altijd 2.0](https://open.spotify.com/track/6PO8kt1r1k0f4yJkNUEPTz) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Altijd Altijd 2.0](https://open.spotify.com/album/0QO4KLZnIhqEzART4OgoKj) | 3:08 | 2025-03-07 |  |
+| [Altijd Vrijgezel](https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Altijd Vrijgezel](https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM) | 3:14 | 2025-04-22 |  |
 | [Angelina](https://open.spotify.com/track/05AVFzPtFgvDoEVDBoSifN) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU) | [Angelina](https://open.spotify.com/album/4Qec40S0raFaGWTY30j8pl) | 3:26 | 2024-09-05 | 2024-10-25 |
 | [Bandolero](https://open.spotify.com/track/5k9CrZ3aW3JqvA1XuUiEWW) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Bandolero](https://open.spotify.com/album/6EH4sQTdM1gyew6f3oWDr4) | 3:05 | 2025-01-06 | 2025-03-21 |
 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 | 2025-02-27 |  |
@@ -157,7 +158,7 @@
 | [La Bamba](https://open.spotify.com/track/5RFCiClE9wUOr6jwljA9HV) | [Zonzo Basily](https://open.spotify.com/artist/3R7xFnUWgnhQVRai7mQ0Fs) | [La Bamba](https://open.spotify.com/album/5MKGdUaWMxLU07z5QDxDHc) | 2:55 | 2024-06-13 | 2024-07-12 |
 | [Laat De Zon In Je Hart](https://open.spotify.com/track/6ZUQHg1ehekmE6C0eETvSv) | [Opgeblazen](https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng) | [Laat De Zon In Je Hart](https://open.spotify.com/album/3DkAKboOUcy1mJjRru7WWk) | 3:23 | 2024-06-13 | 2024-10-11 |
 | [Laat Maar](https://open.spotify.com/track/6JOMvg33jQx0IV0vMNzV8T) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [Laat Maar](https://open.spotify.com/album/1R4ezXYj6QTaOzvwni8mxD) | 2:46 | 2024-10-18 | 2024-11-22 |
-| [Laat Me \(Kroegenversie\)](https://open.spotify.com/track/3f2aAP1QG5VgJwfVuc6ufi) | [Catharina Hulters](https://open.spotify.com/artist/5YD4MeaYzGu65FQ0kIETT9) | [Laat Me \(Kroegenversie\)](https://open.spotify.com/album/6kNVCN8T4At38wEIznlLw2) | 3:20 | 2025-03-13 |  |
+| [Laat Me \(Kroegenversie\)](https://open.spotify.com/track/3f2aAP1QG5VgJwfVuc6ufi) | [Catharina Hulters](https://open.spotify.com/artist/5YD4MeaYzGu65FQ0kIETT9) | [Laat Me \(Kroegenversie\)](https://open.spotify.com/album/6kNVCN8T4At38wEIznlLw2) | 3:20 | 2025-03-13 | 2025-04-23 |
 | [Laat Me Alleen](https://open.spotify.com/track/73Wvvc3AGWby8uBRroCXur) | [Gino Graus](https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT) | [Laat Me Alleen](https://open.spotify.com/album/0c9FMcectVh9zz6RBRqFzd) | 2:34 | 2024-08-29 | 2025-02-08 |
 | [Laat Me Lekker Leven](https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Laat Me Lekker Leven](https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q) | 3:11 | 2025-04-17 |  |
 | [Laat Me Nou](https://open.spotify.com/track/2uVGybmSlejBmCdTkjyq8K) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Laat Me Nou](https://open.spotify.com/album/3yMtUIiGLIsh7cyCCZTcwK) | 3:44 | 2025-01-23 |  |

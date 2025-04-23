@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Eldbjørg Hemsing
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,346 likes - 67 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,343 likes - 67 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 62 | [Vor der Türe](https://open.spotify.com/track/3m4AH7eO0O8kKJ7KSJ124o) | [Rebecca Clarke](https://open.spotify.com/artist/22qeCNFYQmWRJKOIdyWxFz), [Karine Deshayes](https://open.spotify.com/artist/6z3juX3wLgnMpAF6VvqcUS), [Pierre Fouchenneret](https://open.spotify.com/artist/37hnZPP7c01W6gNy5Bht0G), [Théo Foucheneret](https://open.spotify.com/artist/3s4UksnuryBW6THU6PBJUu) | [Rebecca Clarke: Vor der Türe](https://open.spotify.com/album/0A4lASo1VuMFcN8ooZhorG) | 2:40 |
 | 63 | [Partita No\. 3 in A Minor, BWV 827: I\. Fantasia](https://open.spotify.com/track/54YlZKQIBJk6YUZ1XbA9uN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ookjin You](https://open.spotify.com/artist/6U0WIRt9n7uxqpnajo6p4h) | [Onward](https://open.spotify.com/album/7jf5QcmFpf4ewiWpu8N70n) | 2:41 |
 | 64 | [Játékok, in manuscript, the publication of Book XI is in progress: ...le chien..\. to Gyuri for his 66th from his father 13/10/2020](https://open.spotify.com/track/4kjNxfMSfDtzapygs0IhuN) | [György Kurtág](https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [Kurtág: Játékok](https://open.spotify.com/album/1JzZ7YxzzTlsb3QpNkOOGJ) | 2:03 |
-| 65 | [Hyena Party On the Skeleton Coast](https://open.spotify.com/track/5lPVRwpSNdrEqPjxdsG1WO) | [Stewart Copeland](https://open.spotify.com/artist/4XVxeuUkJRiCYJYdqRpwab), [Kingdom Orchestra](https://open.spotify.com/artist/2dpLEy0JmqmoBiRRIurRQy), [Troy Miller](https://open.spotify.com/artist/2K46cfcD7bgNkTCdeYTSSA) | [Stewart Copeland: Wild Concerto](https://open.spotify.com/album/5fmbwfJup6DW8qqvWQgqlm) | 3:17 |
+| 65 | [Hyena Party On the Skeleton Coast](https://open.spotify.com/track/5lPVRwpSNdrEqPjxdsG1WO) | [Stewart Copeland](https://open.spotify.com/artist/4XVxeuUkJRiCYJYdqRpwab), [Troy Miller](https://open.spotify.com/artist/2K46cfcD7bgNkTCdeYTSSA), [Kingdom Orchestra](https://open.spotify.com/artist/2dpLEy0JmqmoBiRRIurRQy), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Stewart Copeland: Wild Concerto](https://open.spotify.com/album/5fmbwfJup6DW8qqvWQgqlm) | 3:17 |
 | 66 | [Il duca d'Alba, Act IV, Scene 1: Angelo casto e bel \(Marcello\)](https://open.spotify.com/track/2bGh7fw38RLy43eByerqOO) | [Gaetano Donizetti](https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56), [Kévin Amiel](https://open.spotify.com/artist/5wz8HWHlrm6GNDeKh9whVh), [Orchestra Sinfonica G\. Rossini](https://open.spotify.com/artist/4tOAERkrAw3uYxSiKIag9C), [Frédéric Chaslin](https://open.spotify.com/artist/0J7QS77wF39iGgyWIiMJaV) | [Donizetti: Il duca d'Alba: Angelo casto e bel \(Marcello\)](https://open.spotify.com/album/6rUcoul6cgvwBadQG1zHw2) | 3:25 |
 | 67 | [Lundu](https://open.spotify.com/track/54TFGNX9XPIvZNu8rQ8CSk) | [Camargo Guarnieri](https://open.spotify.com/artist/0tYgOV6W1HbAeiSQJdiPO4), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Lundu](https://open.spotify.com/album/3VujyBlPwSRbEuf4ltgsNG) | 2:49 |
 

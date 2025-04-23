@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 세이수미\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-937 songs - 2 day 9 hr 13 min
+938 songs - 2 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
 | [101\(Home Home\)](https://open.spotify.com/track/37udabD4Yr1PWBF2QvyBf0) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [101\(Home Home\)](https://open.spotify.com/album/4luAxhIonh4m7E73ceAYho) | 3:04 | 2024-04-30 | 2024-05-10 |
 | [14551](https://open.spotify.com/track/7MiGI1BmyQWhd0blrrTTxO) | [dogyu](https://open.spotify.com/artist/2mZ82ywIcug873Z3DCpL5N), [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [14551](https://open.spotify.com/album/2q0oMA64W0M58swynXTNWe) | 2:16 | 2024-11-20 | 2025-01-23 |
-| [15 Years Old](https://open.spotify.com/track/1ksJA4Yme39NKgn82SvLsp) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [A side](https://open.spotify.com/album/5avEts7E1VeMY3cE8tLzY6) | 3:24 | 2025-03-21 |  |
+| [15 Years Old](https://open.spotify.com/track/1ksJA4Yme39NKgn82SvLsp) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [A side](https://open.spotify.com/album/5avEts7E1VeMY3cE8tLzY6) | 3:24 | 2025-03-21 | 2025-04-23 |
 | [1AM 새벽 한 시](https://open.spotify.com/track/5kxFmqWNGEiHfUxdlt9mRD) | [Casker](https://open.spotify.com/artist/0nHPlnFkwhTmnfda7ho0E5) | [1AM 새벽 한 시](https://open.spotify.com/album/2W4RwbxG9DWa5Y18Fve6Ie) | 4:19 | 2022-04-12 | 2022-04-18 |
 | [1MIN](https://open.spotify.com/track/3K7tYWE7j23hy9i228NwdQ) | [SUNBURNKIDS](https://open.spotify.com/artist/6SvZiq1Mf4AK1Vxslxo6HL) | [1MIN](https://open.spotify.com/album/6ZJhQiQM1Y6a3R5VX8Qww6) | 2:08 | 2024-04-30 | 2024-05-10 |
 | [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-06-06 | 2024-11-30 |
@@ -92,6 +92,7 @@
 | [BEAUTY](https://open.spotify.com/track/0inDmDmSGkTRVqURPRqhVZ) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side D'](https://open.spotify.com/album/3DGVCqVjWMTUAdATGUoqYR) | 3:17 | 2022-03-31 | 2022-04-18 |
 | [been waiting](https://open.spotify.com/track/7Jkl4CQWdyUoimJKnLglf8) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [been waiting](https://open.spotify.com/album/7pEQJyIfqnRSLp75bPIMJ0) | 3:18 | 2022-04-12 | 2022-04-17 |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2021-12-21 | 2022-07-22 |
+| [Best I Ever Had \(Feat\. Vincent Blue\)](https://open.spotify.com/track/45p2wCkqKM9tK71azx6609) | [EB](https://open.spotify.com/artist/370Xs2iZzYs6RSjSmtgmS5), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Best I Ever Had](https://open.spotify.com/album/3obrbXrfwc8oDmhTiJ5nDz) | 2:59 | 2025-04-22 |  |
 | [Better Better](https://open.spotify.com/track/4BC3Yz9D5BS1APX5IP4ZP9) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Ma Lil Planet](https://open.spotify.com/album/0u9OtiNg7h34f5qc9VLVVn) | 3:10 | 2025-03-04 | 2025-04-11 |
 | [Better Me](https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [BE](https://open.spotify.com/album/6tzNl7uTUZQnElYwtzZaGX) | 3:20 | 2022-03-31 | 2022-04-21 |
 | [Betty Boop♥ \(collab\. ULKIN CANVAS\)](https://open.spotify.com/track/6wgQeSCttPKaIRJgwK3EJn) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Betty Boop♥ \(collab\. ULKIN CANVAS\)](https://open.spotify.com/album/0sUQyZG2rfJH6tASxHks3p) | 2:17 | 2025-04-03 | 2025-04-11 |

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-824 songs - 1 day 11 hr 47 min
+826 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Better Day](https://open.spotify.com/track/5fnVL2fGMFS5cwa2SQGXiv) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Better Day](https://open.spotify.com/album/76KdJF0ReBY7NlolwLFsPj) | 3:12 | 2021-12-08 | 2022-06-10 |
 | [Better Days](https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:08 | 2021-12-08 | 2024-05-24 |
 | [Between Bird Cherry and Lilac](https://open.spotify.com/track/6WIDhbMt9PxsTD9dukAmmw) | [Manuel Maria Rojas](https://open.spotify.com/artist/4g0gAM7jxFZznUqV75EUxN) | [Between Bird Cherry and Lilac](https://open.spotify.com/album/3vc2eHIww7vEppI4uRRrCr) | 3:01 | 2024-10-09 |  |
+| [Between the Notes](https://open.spotify.com/track/0CL7Til4BgEOVi7k4KmtoS) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Between the Notes](https://open.spotify.com/album/6tywtkg9eiHZm5eSllUSii) | 3:17 | 2025-04-22 |  |
 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 | 2023-05-12 | 2024-05-04 |
 | [Bilbao](https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu) | [Márcia Sanz](https://open.spotify.com/artist/27OhafNGYrZXUPoBt4TNq8) | [Bilbao](https://open.spotify.com/album/3aVPFj2cpivc3pMcpqhKHq) | 2:51 | 2021-12-08 | 2024-04-05 |
 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-08-07 |  |
@@ -107,7 +108,7 @@
 | [Blue Nights](https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Blue Nights](https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO) | 2:38 | 2022-10-07 | 2023-05-13 |
 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 | 2024-03-08 |  |
 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-21 | 2024-10-10 |
-| [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 | 2023-04-21 |  |
+| [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 | 2023-04-21 | 2025-04-23 |
 | [Bolero Del Sur](https://open.spotify.com/track/0KYaOK0iTCODMZBarRjRm4) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Bolero Del Sur](https://open.spotify.com/album/3q747zMG0IshIwdOYuMzkn) | 3:02 | 2021-12-08 | 2022-09-09 |
 | [Bonheur](https://open.spotify.com/track/3eB5sR72EmZxK05v7vPZII) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Bonheur](https://open.spotify.com/album/2G0OxirfcDmVCGYjeh6WOs) | 2:14 | 2023-03-24 | 2025-03-12 |
 | [Bosque Nevado](https://open.spotify.com/track/6S3dGUUgqt61UnjFqL1C0W) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Bosque Nevado](https://open.spotify.com/album/0mzN5tEu3Fm035fbQ7norg) | 2:23 | 2021-12-08 | 2022-06-10 |
@@ -205,7 +206,7 @@
 | [Drawing Board](https://open.spotify.com/track/4V3hWllK49K8uZVecugi7B) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:06 | 2021-12-08 | 2024-04-05 |
 | [Dreams Forever](https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Dreams Forever](https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ) | 2:18 | 2023-03-24 |  |
 | [Dreams you couldn't follow](https://open.spotify.com/track/2CyT7LpArgmWWcSdOITJZK) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Dreams you couldn't follow](https://open.spotify.com/album/3wP9D613xVXJG7mwm8038z) | 2:34 | 2024-01-12 |  |
-| [Drifting Feathers](https://open.spotify.com/track/6ectiSKVdKSsWTK2MU4UPj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Drifting Feathers](https://open.spotify.com/album/44tNOMKSsOJDn7Vi4r5OUm) | 2:47 | 2025-03-18 |  |
+| [Drifting Feathers](https://open.spotify.com/track/6ectiSKVdKSsWTK2MU4UPj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Drifting Feathers](https://open.spotify.com/album/44tNOMKSsOJDn7Vi4r5OUm) | 2:47 | 2025-03-18 | 2025-04-23 |
 | [Driving Alongside](https://open.spotify.com/track/3OAPa9BnaZoHYbDvaa952w) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Driving Alongside](https://open.spotify.com/album/5i4GPhiFsiEmNxgrFITm5D) | 2:29 | 2023-12-15 |  |
 | [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 | 2025-02-19 |  |
 | [Drømmefanger](https://open.spotify.com/track/0T6bYCFzm1OZQYaKgpJw0e) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Drømmefanger](https://open.spotify.com/album/4tWm0QSK75J3iiXBALU7zF) | 2:18 | 2022-07-01 | 2022-12-10 |
@@ -477,6 +478,7 @@
 | [Morning sun](https://open.spotify.com/track/2G9SMURRZs6xKqDMqy9fI0) | [Dion Mallow](https://open.spotify.com/artist/5tXQhgmU6CraHI0dbj6BdQ) | [Morning sun](https://open.spotify.com/album/1tYYGZm6XXe9cJS4BX0Zda) | 3:20 | 2022-10-28 | 2023-02-25 |
 | [Motion](https://open.spotify.com/track/0SGiGg1Tu6nQRBESwodZIH) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Motion](https://open.spotify.com/album/73o9bmnlN9QOgH6SOvjnmU) | 2:17 | 2022-11-18 | 2023-03-10 |
 | [Mount Fitz Roy](https://open.spotify.com/track/2OZB6Qnil25CLXLNW5XSHS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Mount Fitz Roy](https://open.spotify.com/album/7H1c6RBe4e0ISRO56jwB6a) | 2:38 | 2025-01-20 | 2025-04-17 |
+| [Moving Forward](https://open.spotify.com/track/4jNLfi6sP5MJ1bU17icsrd) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Moving Forward](https://open.spotify.com/album/1NBGAA15nSVrYwGuYFKcUd) | 3:15 | 2025-04-22 |  |
 | [Mozzafiato](https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Mozzafiato](https://open.spotify.com/album/3Jp2IlVVqic8H5Gm6U5Q6Q) | 2:08 | 2022-06-24 | 2024-04-19 |
 | [My Favorite Things](https://open.spotify.com/track/0TtBiPsu7GgyZzxXfu0RmL) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [My Favorite Things](https://open.spotify.com/album/082H1AX20pgvG3SKe6psm7) | 1:52 | 2022-02-01 | 2022-07-08 |
 | [My Garden](https://open.spotify.com/track/7uOpfxCTtdbhWcbq6kzjMH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [My Garden](https://open.spotify.com/album/2ljfPFQH7EvfBR8jLnzav8) | 2:57 | 2023-03-24 | 2024-05-04 |
@@ -607,7 +609,7 @@
 | [Serendipity](https://open.spotify.com/track/0V7r7muOAacZx6KEnHDp5o) | [Kel Giamo](https://open.spotify.com/artist/0xXalPo0tukcLui85tnDKW) | [Serendipity](https://open.spotify.com/album/1ZAjt37hf6EcdFBcIKagLC) | 1:58 | 2021-12-08 | 2023-02-25 |
 | [Serene Skies](https://open.spotify.com/track/5rvvtkkXrd8jvosvE0jJj0) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Serene Skies](https://open.spotify.com/album/2u8VTwNX8BXBTGRfAQf2x6) | 2:03 | 2023-08-10 | 2024-04-05 |
 | [Serengeti](https://open.spotify.com/track/4yoILdPVTyiwWkJQfXqshB) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Serengeti](https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ) | 2:34 | 2023-05-12 |  |
-| [Serenna Vale](https://open.spotify.com/track/2wFah7Gqdl9AU6SOzPcLym) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Serenna Vale](https://open.spotify.com/album/6HVT7lmc1v5TMA8ZA6ADor) | 3:12 | 2025-03-25 |  |
+| [Serenna Vale](https://open.spotify.com/track/2wFah7Gqdl9AU6SOzPcLym) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Serenna Vale](https://open.spotify.com/album/6HVT7lmc1v5TMA8ZA6ADor) | 3:12 | 2025-03-25 | 2025-04-23 |
 | [Seven Hills of Rome](https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Seven Hills of Rome](https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1) | 2:12 | 2021-12-08 | 2022-06-03 |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2021-12-08 | 2022-07-08 |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
@@ -802,7 +804,7 @@
 | [While You Dream](https://open.spotify.com/track/64JfbQmVniAnDa0ulwkNDx) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [While You Dream](https://open.spotify.com/album/377iurKSfWPriVKdTisxYQ) | 2:09 | 2022-10-07 | 2024-05-24 |
 | [Whisper of the Heart](https://open.spotify.com/track/4joOtftW0JiCALcn0aU04F) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Whisper of the Heart](https://open.spotify.com/album/4cdWP61wTkYf0e7z4xYg68) | 2:14 | 2023-06-02 |  |
 | [Whispering Winds](https://open.spotify.com/track/5D9BEXCyDrVrfYGDfwl9FE) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Whispering Winds](https://open.spotify.com/album/0MIMtnfIxqRTZBz5drD61Z) | 3:42 | 2024-05-24 |  |
-| [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 | 2023-05-12 |  |
+| [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 | 2023-05-12 | 2025-04-23 |
 | [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 | 2024-09-04 |
 | [Wildflowers](https://open.spotify.com/track/3xeVTA8S7PyPItewgE9Mpx) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wildflowers](https://open.spotify.com/album/2hlO5P9G2aDGVS6GnDxaXI) | 2:05 | 2022-06-17 | 2023-06-03 |
 | [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 | 2024-07-19 |  |

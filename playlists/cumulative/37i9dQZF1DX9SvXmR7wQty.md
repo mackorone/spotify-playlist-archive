@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Cœur De Pirate
 
-3,230 songs - 7 day 3 hr 24 min
+3,231 songs - 7 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 | 2023-02-24 | 2023-03-11 |
 | [Algérien Fâché](https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Algérien Fâché](https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb) | 1:52 | 2023-07-14 | 2023-09-23 |
 | [Alias](https://open.spotify.com/track/5aW9FVzbaezSPDn3f7nN2e) | [Leïla Lanova](https://open.spotify.com/artist/6vZaYrTbNPdkcxTBwfj9dI), [DENZO](https://open.spotify.com/artist/1pQtc9O0CKJYhvaICw39z9) | [Galactica](https://open.spotify.com/album/62Nz1sWexc4nBQsGDaJj4Z) | 2:58 | 2022-05-27 | 2022-06-11 |
+| [ALICANTE](https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Comment T'aimer Sans Diamants ?](https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7) | 2:58 | 2025-04-18 |  |
 | [Alien 2, le retour](https://open.spotify.com/track/22s0cjtMDw4ZEnQFpcWgUV) | [Mudie](https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr) | [Alien 2, le retour](https://open.spotify.com/album/5ZRpqhXgfBlFoIo8XsN4of) | 2:47 | 2023-01-27 | 2023-02-04 |
 | [Alinéa](https://open.spotify.com/track/1JXLr46nARAmiGPyQIlbjD) | [Catherine van Doesburg](https://open.spotify.com/artist/6WmyHuZR0Qh2ZWjWAHt63W) | [Coeur à coeur](https://open.spotify.com/album/6vJneKiKfTV3yjXUdOVUiN) | 2:51 | 2024-09-27 | 2024-10-05 |
 | [All Night Long](https://open.spotify.com/track/6veDfkluTetAypC3SffZwr) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Volume 2](https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi) | 3:43 | 2023-02-10 | 2023-02-25 |
@@ -426,7 +427,7 @@
 | [Calmer les orages](https://open.spotify.com/track/479V7UCY7ccvfvCQo1UdEG) | [Mariko](https://open.spotify.com/artist/4R9sMVAPeFyuPxtK2mBY0V) | [Calmer les orages](https://open.spotify.com/album/4111YlO3tKaCZz0Z6A9UWy) | 3:49 | 2022-05-13 | 2022-05-20 |
 | [Calvin](https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Calvin](https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn) | 3:03 | 2022-12-16 | 2023-01-14 |
 | [Camion de fruits](https://open.spotify.com/track/3l6GnIc9DI2zSIh8J9yn5A) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Camion de fruits](https://open.spotify.com/album/79I3RmGyBxkLkTKE0MDD8w) | 3:27 | 2025-02-28 | 2025-03-15 |
-| [Camp Nou](https://open.spotify.com/track/1HjubnKBM5ZwjTBOTIv7KS) | [77 degrés](https://open.spotify.com/artist/4OkNhj7zVwnB3p57DR2SVN), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [77 Degrés](https://open.spotify.com/album/7rrim5oqq6k8w8TN7AD8nF) | 2:47 | 2025-02-14 |  |
+| [Camp Nou](https://open.spotify.com/track/1HjubnKBM5ZwjTBOTIv7KS) | [77 degrés](https://open.spotify.com/artist/4OkNhj7zVwnB3p57DR2SVN), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [77 Degrés](https://open.spotify.com/album/7rrim5oqq6k8w8TN7AD8nF) | 2:47 | 2025-02-14 | 2025-04-23 |
 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 | 2022-07-08 | 2022-08-06 |
 | [Camping chez Linda](https://open.spotify.com/track/1OEXv1JLx9LFQtfbywlLip) | [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Camping chez Linda](https://open.spotify.com/album/2OJoxX9sHIDsMetgRN4GKO) | 2:23 | 2022-05-13 | 2022-05-20 |
 | [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 | 2022-09-30 | 2022-10-15 |

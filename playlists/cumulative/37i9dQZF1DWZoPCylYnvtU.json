@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Early Autumn Rain And Thunder",
+        "url": "https://open.spotify.com/album/3C0iO1d0GWuEY3HTbGiQ9x"
+      },
+      "artists": [
+        {
+          "name": "Rain-Dears",
+          "url": "https://open.spotify.com/artist/4tM1ZZLpf0ewkeqWrpI5O0"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Early Autumn Rain",
+      "url": "https://open.spotify.com/track/5YqfEDaj1m9CVCFtLYwDbr"
+    },
+    {
+      "album": {
         "name": "Space Rain",
         "url": "https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K"
       },
@@ -5406,7 +5424,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 154000,
       "name": "Under Cover Rain Sound",
       "url": "https://open.spotify.com/track/5nIay6DvjF2a9gtCOKVPbP"

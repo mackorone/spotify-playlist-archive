@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Hugo Henrique com Léo Foguete, Kenia OS com Anitta, Juliette, Rachel Reis e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062,919 likes - 71 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062,910 likes - 71 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 70 | [ME TER](https://open.spotify.com/track/0JNUvoyofX61tZzOiwLzWv) | [Maipê](https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Pedro Schin](https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P), [Dias Bruno](https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk) | [ME TER](https://open.spotify.com/album/5F6qyDnWRJilSkIcb0VYLc) | 2:46 |
 | 71 | [The First and Last of the Perfect Parties](https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [The First and Last of the Perfect Parties](https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2) | 4:08 |
 
-Snapshot ID: `aAHdwAAAAACsS++frZfE8BDOJ/HttRdh`
+Snapshot ID: `aAe4vQAAAAAYtA+z6RyNCVRI5/PUiyik`

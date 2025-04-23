@@ -2,7 +2,7 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Katannah
+> 50 nejžhavějších hitů v České republice\. Cover: Sara Rikas
 
 114 songs - 5 hr 36 min
 

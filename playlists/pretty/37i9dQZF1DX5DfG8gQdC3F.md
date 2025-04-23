@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Lana Del Rey, Josh Ross, JID, Davido, Leon Thomas and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,264 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,280 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 50 | [bed no breakfast](https://open.spotify.com/track/2dNRnuMiLjicWMbmSkKF4n) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [bed no breakfast](https://open.spotify.com/album/50eGJe89pUdqFiNcl3V36B) | 2:26 |
 | 51 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
 | 52 | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/track/0VTNaBTD8WWpz0cW3dRR0g) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/album/3MQUPgltYMpQ2hmVNZZdKv) | 2:15 |
-| 53 | [Options](https://open.spotify.com/track/4iPc0TpU1uwoNezZT3fGWo) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Options](https://open.spotify.com/album/2WInbubdRKVWOtj7cRzaVp) | 2:51 |
+| 53 | [options](https://open.spotify.com/track/4iPc0TpU1uwoNezZT3fGWo) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [options](https://open.spotify.com/album/2WInbubdRKVWOtj7cRzaVp) | 2:51 |
 | 54 | [Night Bloom](https://open.spotify.com/track/5d3ho8vn1xMfW1gpvq5unv) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Aura Park](https://open.spotify.com/album/4HqTeQW4BK54pRKvWigmI6) | 3:37 |
 | 55 | [Girls Like Girls](https://open.spotify.com/track/41u8Oh1FAo27ROaw9MMRh3) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Girls Like Girls](https://open.spotify.com/album/5mn3ENQXUsejrfiyW6mdSA) | 2:10 |
 | 56 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5gguiSurLMRJwKPTGbEj5r) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/album/1AhoopChurKE2aAHPbh9Lo) | 3:57 |

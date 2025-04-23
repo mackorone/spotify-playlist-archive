@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8685,
+  "num_followers": 8688,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAQ5AAAAAAC8SLCP0X2o7mikKZ1IdyTp",
+  "snapshot_id": "aAWKgAAAAAA9h3oHSl1Z4dLKXASv24Y6",
   "tracks": [
     {
       "added_at": null,
@@ -400,7 +400,7 @@
       "added_at": null,
       "album": {
         "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
+        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
       "artists": [
         {
@@ -418,7 +418,7 @@
       ],
       "duration_ms": 172560,
       "name": "Constant Dread",
-      "url": "https://open.spotify.com/track/74eohVDfoTJockasBnIOoU"
+      "url": "https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 191585,
-      "name": "The Rain Just Follows Me",
-      "url": "https://open.spotify.com/track/4V06e8gINM5WBvZIqcZ9Ni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hawthorne Heights / Emery",
         "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 224550,
       "name": "Walls",
       "url": "https://open.spotify.com/track/4vlilXIZBCe8GdgRCuJhvg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 191585,
+      "name": "The Rain Just Follows Me",
+      "url": "https://open.spotify.com/track/4V06e8gINM5WBvZIqcZ9Ni"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Lights",
         "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
       },
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
       "artists": [
         {
@@ -668,9 +652,25 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucerne Valley",
+        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "Lucerne Valley",
+      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucerne Valley",
-        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
       },
       "artists": [
         {
@@ -704,9 +704,25 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 207899,
-      "name": "Lucerne Valley",
-      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM"
     },
     {
       "added_at": null,
@@ -731,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Anthony Raneri",
-          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Spray Paint It Black",
-      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
       },
       "artists": [
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Anthony Raneri",
+          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM"
+      "duration_ms": 198066,
+      "name": "Spray Paint It Black",
+      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
+        "name": "Sandpaper and Silk",
+        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 222673,
-      "name": "Holy Coast",
-      "url": "https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg"
+      "duration_ms": 208518,
+      "name": "Gold Econoline",
+      "url": "https://open.spotify.com/track/1JfyMRSL41EA1J4B2IbfRT"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandpaper and Silk",
-        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 208518,
-      "name": "Gold Econoline",
-      "url": "https://open.spotify.com/track/1JfyMRSL41EA1J4B2IbfRT"
+      "duration_ms": 222673,
+      "name": "Holy Coast",
+      "url": "https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg"
     }
   ],
   "unique_name": "This Is Hawthorne Heights",

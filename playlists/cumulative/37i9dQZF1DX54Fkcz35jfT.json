@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: KALA",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: AA=",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -4218,7 +4218,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 193933,
       "name": "Re-create -AA= ver.- feat. JUBEE",
       "url": "https://open.spotify.com/track/7mLiu6IY8xJB87VQNGa3TP"
@@ -5400,6 +5400,24 @@
       "duration_ms": 181773,
       "name": "The Autumn Song",
       "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
+    },
+    {
+      "album": {
+        "name": "#7",
+        "url": "https://open.spotify.com/album/0vhO4pPl2Jw4uez4aRbtHY"
+      },
+      "artists": [
+        {
+          "name": "AA=",
+          "url": "https://open.spotify.com/artist/1QRnF3T3BV3bTOLab9lxiN"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136066,
+      "name": "THE BOMB",
+      "url": "https://open.spotify.com/track/0k4nkbjUHBKqaGEyGedPfO"
     },
     {
       "album": {

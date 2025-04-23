@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Adrift",
+        "url": "https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9er \u00c9choes",
+          "url": "https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134906,
+      "name": "Adrift",
+      "url": "https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn"
+    },
+    {
+      "album": {
         "name": "Afternoon hovers",
         "url": "https://open.spotify.com/album/2VMThT0iQUWcvbKm6OUOW7"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 162705,
       "name": "Evening Glow",
       "url": "https://open.spotify.com/track/51hvO83ZDXLAtuxMb9hiJX"
@@ -5318,7 +5336,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 160479,
       "name": "Savona",
       "url": "https://open.spotify.com/track/6CQtNJq9JP1LXugsFE75hD"

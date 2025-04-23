@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 658586,
+  "num_followers": 658610,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
       "artists": [
         {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
         }
       ],
-      "duration_ms": 250573,
-      "name": "Come Back To What You Know",
-      "url": "https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy"
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Come Back To What You Know",
+      "url": "https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Coming Up (Remastered)",
         "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 301533,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
-        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
-      },
-      "artists": [
-        {
-          "name": "Ocean Colour Scene",
-          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "The Day We Caught The Train",
-      "url": "https://open.spotify.com/track/5bWLIVKl5UrbQ2xEGfAXOK"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Good Will Out",
         "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
       },
@@ -471,6 +455,38 @@
       "duration_ms": 366266,
       "name": "All You Good Good People",
       "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 422600,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
+        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
+      },
+      "artists": [
+        {
+          "name": "Ocean Colour Scene",
+          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "The Day We Caught The Train",
+      "url": "https://open.spotify.com/track/5bWLIVKl5UrbQ2xEGfAXOK"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -519,38 +535,6 @@
       "duration_ms": 239746,
       "name": "Kinky Afro - 2007 Remaster",
       "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 422600,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
-        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
-      },
-      "artists": [
-        {
-          "name": "Ocean Colour Scene",
-          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "The Riverboat Song",
-      "url": "https://open.spotify.com/track/1oPg2EYKf2hbS7aDyE8j3S"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -635,22 +619,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "(What's the Story) Morning Glory?",
-        "url": "https://open.spotify.com/album/0PTVq4kaAAuROnfvfA7bHG"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 287826,
-      "name": "Don't Look Back In Anger",
-      "url": "https://open.spotify.com/track/3ixTiPABjqkBKPocxq6oIe"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -663,6 +631,38 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
+        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
+      },
+      "artists": [
+        {
+          "name": "Ocean Colour Scene",
+          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "The Riverboat Song",
+      "url": "https://open.spotify.com/track/1oPg2EYKf2hbS7aDyE8j3S"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "(What's the Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/0PTVq4kaAAuROnfvfA7bHG"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 287826,
+      "name": "Don't Look Back In Anger",
+      "url": "https://open.spotify.com/track/3ixTiPABjqkBKPocxq6oIe"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Some Friendly",
-        "url": "https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "The Only One I Know",
-      "url": "https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Some Friendly",
+        "url": "https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "The Only One I Know",
+      "url": "https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -875,26 +875,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
       },
       "artists": [
         {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        },
-        {
-          "name": "George Drakoulias",
-          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
-        },
-        {
-          "name": "David Bianco",
-          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -915,18 +907,26 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        },
+        {
+          "name": "George Drakoulias",
+          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
+        },
+        {
+          "name": "David Bianco",
+          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
+      "duration_ms": 215986,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "This Is How It Feels",
+        "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
+      },
+      "artists": [
+        {
+          "name": "Inspiral Carpets",
+          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "This Is How It Feels - Radio Mix",
+      "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Tellin' Stories",
         "url": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 239840,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 245946,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01"
     }
   ],
   "unique_name": "Britpop, Etc.",

@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 327697,
+  "num_followers": 327722,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "Digital (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
-      },
-      "artists": [
-        {
-          "name": "Pirredy",
-          "url": "https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf"
-        }
-      ],
-      "duration_ms": 196023,
-      "name": "Digital - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "Cabrobro (Ac\u00fastico) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5dJz65iTYrIFhAoe4E424N"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 220600,
       "name": "Cabrobro (Ac\u00fastico) - Ao Vivo",
       "url": "https://open.spotify.com/track/6GfqBkse7JgaIndolRQy1u"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "Digital (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
+      },
+      "artists": [
+        {
+          "name": "Pirredy",
+          "url": "https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf"
+        }
+      ],
+      "duration_ms": 196023,
+      "name": "Digital - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
     },
     {
       "added_at": "2025-02-28 17:10:40",

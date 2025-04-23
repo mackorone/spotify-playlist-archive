@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Sorn x Whisnu Santika
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,067 likes - 106 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,069 likes - 106 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 15 | [Wrap Yourself Around Me](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Wrap Yourself Around Me](https://open.spotify.com/album/3tVEnCdypxOfjpyv7G6Fo4) | 3:15 |
 | 16 | [Live My Life](https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Live My Life](https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3) | 4:01 |
 | 17 | [Secret \(I Hear Voices\)](https://open.spotify.com/track/4ZkActmlqyr1I95Omm1g2b) | [ZERO SUGAR](https://open.spotify.com/artist/5Ri8A4FMxA7QMYjKBUCidX), [Diverse Bind](https://open.spotify.com/artist/0vokx7XUrEbUXiC0GDsi5U), [7KY](https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj) | [Secret \(I Hear Voices\)](https://open.spotify.com/album/1VMpuTlOY9uUHV7wT7WAdk) | 3:08 |
-| 18 | [Break Your Heart \- Radio Edit](https://open.spotify.com/track/5QJqPXHPCa9NJryHaY3iK3) | [Ollie Crowe](https://open.spotify.com/artist/1JkxFjMhqCQw1Lg9xUH1GJ) | [Break Your Heart \(Radio Edit\)](https://open.spotify.com/album/4wtvB7PLmvE2l4t3dx3gKK) | 2:29 |
+| 18 | [Break Your Heart](https://open.spotify.com/track/5QJqPXHPCa9NJryHaY3iK3) | [Ollie Crowe](https://open.spotify.com/artist/1JkxFjMhqCQw1Lg9xUH1GJ) | [Break Your Heart](https://open.spotify.com/album/4wtvB7PLmvE2l4t3dx3gKK) | 2:29 |
 | 19 | [Sound of You](https://open.spotify.com/track/4nOwB6BoAJ5YRyxKBu30fD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [Sound of You](https://open.spotify.com/album/5LGCpxJBGfy6j8bFdZ5WRX) | 3:09 |
 | 20 | [Shadow](https://open.spotify.com/track/4zSkRhZ5vJoMWGdTBF0oR3) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Shadow](https://open.spotify.com/album/3RvyOtHmRJNPzQXhSB7Ych) | 2:59 |
 | 21 | [Paper Plane \- IN2STELLAR Remix](https://open.spotify.com/track/0MkJMEqnp7q9BQ9onHXSVY) | [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF), [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Paper Plane \(IN2STELLAR Remix\)](https://open.spotify.com/album/7sac4qtPnDkPGZt0zRqaB0) | 5:24 |

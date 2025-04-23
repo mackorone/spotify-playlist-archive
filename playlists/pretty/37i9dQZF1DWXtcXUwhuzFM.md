@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Ege Zululta & Senyalta, RODEOlta ja Karim B:ltä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,140 likes - 106 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,133 likes - 106 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 36 | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/track/0VTNaBTD8WWpz0cW3dRR0g) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/album/3MQUPgltYMpQ2hmVNZZdKv) | 2:15 |
 | 37 | [Sitä samaa \- Remix](https://open.spotify.com/track/1k7rrKBhSbWT5AfNXTeBQv) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [Sitä samaa \(Remix\)](https://open.spotify.com/album/3kqjJa4b1Q3mdhhFDCNVUS) | 2:47 |
 | 38 | [Wish I Could Be Perfect](https://open.spotify.com/track/5ANfzVBhc558TemhWXAPEK) | [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Wish I Could Be Perfect](https://open.spotify.com/album/5Xo6kx0jNoAn8HjG7pSPUR) | 3:15 |
-| 39 | [Options](https://open.spotify.com/track/4iPc0TpU1uwoNezZT3fGWo) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Options](https://open.spotify.com/album/2WInbubdRKVWOtj7cRzaVp) | 2:51 |
+| 39 | [options](https://open.spotify.com/track/4iPc0TpU1uwoNezZT3fGWo) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [options](https://open.spotify.com/album/2WInbubdRKVWOtj7cRzaVp) | 2:51 |
 | 40 | [it's all about the money](https://open.spotify.com/track/6MfBPAAykqwvxOMZ1k0kgm) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [it's all about the money](https://open.spotify.com/album/1neKgeVE9TFUPNEQ7JQR2r) | 4:11 |
 | 41 | [Peace In The Pieces](https://open.spotify.com/track/3hVv8A5MRoJ3KSYgCyhazY) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Peace In The Pieces](https://open.spotify.com/album/5KiqEuDieIiI21M1tNT771) | 2:33 |
 | 42 | [Sylkyy](https://open.spotify.com/track/2caQkKNOL0QgJfyf7ogMs3) | [Tuuliviiri](https://open.spotify.com/artist/5VrINzRXzR05HiA3if1ExH), [Altis](https://open.spotify.com/artist/0huJlE2YmhV88wRaT0fMbo), [MC Kajo](https://open.spotify.com/artist/6B1vMdVZuY1zwXEZ46M35R) | [Sylkyy](https://open.spotify.com/album/3ww7e5TdZbuFE9X8F2sBvm) | 3:33 |

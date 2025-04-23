@@ -59,7 +59,7 @@
     },
     {
       "album": {
-        "name": "From A Basement On The Hill",
+        "name": "From a Basement on the Hill",
         "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
@@ -180,7 +180,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157360,
-      "name": "Angel In The Snow",
+      "name": "Angel in the Snow",
       "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
@@ -306,7 +306,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168333,
-      "name": "Ballad Of Big Nothing",
+      "name": "Ballad of Big Nothing",
       "url": "https://open.spotify.com/track/6L9uay2MM8qACwI1yQHnw2"
     },
     {
@@ -1072,24 +1072,6 @@
     {
       "album": {
         "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "date_added": "2023-06-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220840,
-      "name": "Kiwi Maddog 20/20 (version 2 of 2)",
-      "url": "https://open.spotify.com/track/5GwXU2PDHWykajNQ2Gaj8e"
-    },
-    {
-      "album": {
-        "name": "Roman Candle",
         "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
       },
       "artists": [
@@ -1104,6 +1086,24 @@
       "duration_ms": 222853,
       "name": "Kiwi Maddog 20/20 (Version 2)",
       "url": "https://open.spotify.com/track/4VVVIchlJFKul9vntEVNcz"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Kiwi Maddog 20/20 - version 2 of 2",
+      "url": "https://open.spotify.com/track/5GwXU2PDHWykajNQ2Gaj8e"
     },
     {
       "album": {
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 147240,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
@@ -1234,6 +1234,24 @@
     {
       "album": {
         "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256586,
+      "name": "Needle in the Hay",
+      "url": "https://open.spotify.com/track/7I7O0huqjKrXHX0aaLuO5B"
+    },
+    {
+      "album": {
+        "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
       },
       "artists": [
@@ -1248,24 +1266,6 @@
       "duration_ms": 257586,
       "name": "Needle In The Hay",
       "url": "https://open.spotify.com/track/1bFPKxP56XWDXJOwo3Kvfp"
-    },
-    {
-      "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259893,
-      "name": "Needle In The Hay",
-      "url": "https://open.spotify.com/track/7I7O0huqjKrXHX0aaLuO5B"
     },
     {
       "album": {
@@ -1521,7 +1521,7 @@
     },
     {
       "album": {
-        "name": "From A Basement On The Hill",
+        "name": "From a Basement on the Hill",
         "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
@@ -1588,7 +1588,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204573,
-      "name": "Pretty Mary K (Other Version)",
+      "name": "Pretty Mary K - Other Version",
       "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
     },
     {
@@ -2043,7 +2043,7 @@
     },
     {
       "album": {
-        "name": "From A Basement On The Hill",
+        "name": "From a Basement on the Hill",
         "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
@@ -2169,7 +2169,7 @@
     },
     {
       "album": {
-        "name": "From A Basement On The Hill",
+        "name": "From a Basement on the Hill",
         "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
@@ -2326,7 +2326,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137800,
-      "name": "Whatever (Folk Song In C)",
+      "name": "Whatever (Folk Song in C)",
       "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
     }
   ],

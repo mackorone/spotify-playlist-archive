@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,402 likes - 231 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,806 likes - 229 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Along rusty rails](https://open.spotify.com/track/5xgTVeCBbRQ2rHl33azMw2) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Along rusty rails](https://open.spotify.com/album/60chGCUrcfMTQD2WxZsqyC) | 2:10 |
-| 2 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 |
-| 3 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
-| 4 | [Silent Ridge](https://open.spotify.com/track/6kVuf8HWMytcy6LHMfXxyG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Silent Ridge](https://open.spotify.com/album/18I4PeFcnSBgm77OKMdGdy) | 2:33 |
+| 2 | [Silent Ridge](https://open.spotify.com/track/6kVuf8HWMytcy6LHMfXxyG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Silent Ridge](https://open.spotify.com/album/18I4PeFcnSBgm77OKMdGdy) | 2:33 |
+| 3 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 |
+| 4 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
 | 5 | [Albatroz](https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Albatroz](https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb) | 2:41 |
 | 6 | [Angel](https://open.spotify.com/track/53buLGflmrjon42rFFwcj8) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Angel](https://open.spotify.com/album/4mrl491t5RV2RpqKgt5YuG) | 2:24 |
 | 7 | [On This Day](https://open.spotify.com/track/0ROxScNcNq6OrE6g8ImdgP) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [On This Day](https://open.spotify.com/album/3U1uyg3ua3Euynzq7juUch) | 2:07 |
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 21 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 |
 | 22 | [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 |
 | 23 | [Elys](https://open.spotify.com/track/1GsZaVvJ8K8vrB3QSZElgw) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Elys](https://open.spotify.com/album/3ueM6PUUzuMvqcyWTpInkL) | 2:45 |
-| 24 | [Another Lifetime](https://open.spotify.com/track/6CVu8xdBu0PfhLilBSflKK) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Another Lifetime](https://open.spotify.com/album/4MP5HL0GXG8NyTXZV8Tazt) | 2:08 |
-| 25 | [Homely Stars](https://open.spotify.com/track/6kZnm4YsiqJ7QYEKbjwvej) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Homely Stars](https://open.spotify.com/album/3em8T5dt55VvYTauS8eUFy) | 2:50 |
-| 26 | [Moon Waltz](https://open.spotify.com/track/4Xezh0FxenrjYsqwEmwRG4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Moon Waltz](https://open.spotify.com/album/66g2EHpUlzfj1Zy6ooDRh9) | 2:24 |
-| 27 | [For the joys](https://open.spotify.com/track/1t1TI1DinDcwVZv5Ea188l) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [For the joys](https://open.spotify.com/album/4Jb0gJidq3hehJwEJm69ym) | 1:44 |
-| 28 | [Gentle Wind](https://open.spotify.com/track/3fdtUvagmwESIuBwwGH0WK) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Gentle Wind](https://open.spotify.com/album/4HsimABSaILxtSOmAIxlpk) | 2:19 |
-| 29 | [Petals](https://open.spotify.com/track/2qxVO2JX4ayyUjdvTjEpmX) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Petals](https://open.spotify.com/album/0dOqSiYaRrSbXzTB4z9iKp) | 2:29 |
-| 30 | [Serenna Vale](https://open.spotify.com/track/2wFah7Gqdl9AU6SOzPcLym) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Serenna Vale](https://open.spotify.com/album/6HVT7lmc1v5TMA8ZA6ADor) | 3:12 |
-| 31 | [Serenade of Contradictions](https://open.spotify.com/track/5egmzMRyYpM8cVCLVx1FnH) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Serenade of Contradictions](https://open.spotify.com/album/0KRE9vwGuJCXt0MgidAN55) | 2:25 |
-| 32 | [Drifting Feathers](https://open.spotify.com/track/6ectiSKVdKSsWTK2MU4UPj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Drifting Feathers](https://open.spotify.com/album/44tNOMKSsOJDn7Vi4r5OUm) | 2:47 |
-| 33 | [Long Ago](https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Long Ago](https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb) | 2:37 |
+| 24 | [Homely Stars](https://open.spotify.com/track/6kZnm4YsiqJ7QYEKbjwvej) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Homely Stars](https://open.spotify.com/album/3em8T5dt55VvYTauS8eUFy) | 2:50 |
+| 25 | [For the joys](https://open.spotify.com/track/1t1TI1DinDcwVZv5Ea188l) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [For the joys](https://open.spotify.com/album/4Jb0gJidq3hehJwEJm69ym) | 1:44 |
+| 26 | [Between the Notes](https://open.spotify.com/track/0CL7Til4BgEOVi7k4KmtoS) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Between the Notes](https://open.spotify.com/album/6tywtkg9eiHZm5eSllUSii) | 3:17 |
+| 27 | [Gentle Wind](https://open.spotify.com/track/3fdtUvagmwESIuBwwGH0WK) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Gentle Wind](https://open.spotify.com/album/4HsimABSaILxtSOmAIxlpk) | 2:19 |
+| 28 | [Moving Forward](https://open.spotify.com/track/4jNLfi6sP5MJ1bU17icsrd) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Moving Forward](https://open.spotify.com/album/1NBGAA15nSVrYwGuYFKcUd) | 3:15 |
+| 29 | [Long Ago](https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Long Ago](https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb) | 2:37 |
+| 30 | [Moon Waltz](https://open.spotify.com/track/4Xezh0FxenrjYsqwEmwRG4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Moon Waltz](https://open.spotify.com/album/66g2EHpUlzfj1Zy6ooDRh9) | 2:24 |
+| 31 | [Petals](https://open.spotify.com/track/2qxVO2JX4ayyUjdvTjEpmX) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Petals](https://open.spotify.com/album/0dOqSiYaRrSbXzTB4z9iKp) | 2:29 |
+| 32 | [Another Lifetime](https://open.spotify.com/track/6CVu8xdBu0PfhLilBSflKK) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Another Lifetime](https://open.spotify.com/album/4MP5HL0GXG8NyTXZV8Tazt) | 2:08 |
+| 33 | [Serenade of Contradictions](https://open.spotify.com/track/5egmzMRyYpM8cVCLVx1FnH) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Serenade of Contradictions](https://open.spotify.com/album/0KRE9vwGuJCXt0MgidAN55) | 2:25 |
 | 34 | [Morning Light](https://open.spotify.com/track/1PXpZEeDqgKauNuhssSgWs) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Morning Light](https://open.spotify.com/album/08uEmJ2I1N8pgxPgbpZJC4) | 2:18 |
 | 35 | [Soft Light](https://open.spotify.com/track/6iOK4ucHfN8MQqvcrgUnLt) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Soft Light](https://open.spotify.com/album/6lHWfP2Z5MLnARki97QjR4) | 2:15 |
 | 36 | [Spur of The Moment](https://open.spotify.com/track/3cMRR2kJDgid4lsNhfKGmg) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Spur of The Moment](https://open.spotify.com/album/6FTSLJ4Bhn49LP745m0oTl) | 2:32 |
@@ -233,11 +233,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 223 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 |
 | 224 | [Whisper of the Heart](https://open.spotify.com/track/4joOtftW0JiCALcn0aU04F) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Whisper of the Heart](https://open.spotify.com/album/4cdWP61wTkYf0e7z4xYg68) | 2:14 |
 | 225 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 |
-| 226 | [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 |
-| 227 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 |
-| 228 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 |
-| 229 | [Claim on the future](https://open.spotify.com/track/1hS0hVNC5GpM6MAD4jxd8K) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Claim on the future](https://open.spotify.com/album/2JNt3pBwJk8VjEt06E3kcC) | 2:09 |
-| 230 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 |
-| 231 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 |
+| 226 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 |
+| 227 | [Claim on the future](https://open.spotify.com/track/1hS0hVNC5GpM6MAD4jxd8K) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Claim on the future](https://open.spotify.com/album/2JNt3pBwJk8VjEt06E3kcC) | 2:09 |
+| 228 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 |
+| 229 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 |
 
-Snapshot ID: `Z/+VkQAAAABDrjad7k5HjgBfURmcgFts`
+Snapshot ID: `aAexRQAAAAB6mfONe5RawYKoGSCIDfcW`

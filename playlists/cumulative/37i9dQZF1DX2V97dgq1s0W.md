@@ -2,7 +2,7 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Lola Moxom
+> The best voices in R&B\. Cover: kwn
 
 431 songs - 22 hr 41 min
 

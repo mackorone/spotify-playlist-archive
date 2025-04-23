@@ -2,7 +2,7 @@
 
 ### [Türkçe Rock](https://open.spotify.com/playlist/37i9dQZF1DX3RfxtU3KC3j)
 
-> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Eskitilmiş Yaz
+> Gitar ve davulu konuşturanlar\. 🎸 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷  Kapak: Eskitilmiş Yaz
 
 285 songs - 16 hr 53 min
 

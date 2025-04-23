@@ -11113,6 +11113,24 @@
     },
     {
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1Ip0Q63pL9yWhLTLbyqKw6"
+      },
+      "artists": [
+        {
+          "name": "SRA",
+          "url": "https://open.spotify.com/artist/6ajLYP0hhsrxlmJQWqDruk"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199075,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/0fqFpVkTs8dY5SZMmyY9Bh"
+    },
+    {
+      "album": {
         "name": "HUSH",
         "url": "https://open.spotify.com/album/7kYyb4HSoOXrXIyjDtNNk4"
       },
@@ -12858,7 +12876,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 322723,
       "name": "It Rains",
       "url": "https://open.spotify.com/track/6gRKUHkcccyZi7442aPme9"
@@ -13704,7 +13722,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 195112,
       "name": "Late Night Calls",
       "url": "https://open.spotify.com/track/13uXWflFQoO0aqXYaWieTn"
@@ -22484,6 +22502,24 @@
       "duration_ms": 214146,
       "name": "Stuck in",
       "url": "https://open.spotify.com/track/4sgjUKUuEAIPbKAvRny0fN"
+    },
+    {
+      "album": {
+        "name": "Stuffy Driver",
+        "url": "https://open.spotify.com/album/5jHAPe0kbR5caIHDm3BtqG"
+      },
+      "artists": [
+        {
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182320,
+      "name": "Stuffy Driver",
+      "url": "https://open.spotify.com/track/3ecSR7l6y3cl3ZqQF5HcnC"
     },
     {
       "album": {

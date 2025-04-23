@@ -19395,6 +19395,28 @@
     },
     {
       "album": {
+        "name": "where did you go",
+        "url": "https://open.spotify.com/album/6pZUtqnGuOECXYvYiKAabd"
+      },
+      "artists": [
+        {
+          "name": "oncor",
+          "url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX"
+        },
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "where did you go",
+      "url": "https://open.spotify.com/track/38j9LlW18hlTjc9bulORkm"
+    },
+    {
+      "album": {
         "name": "Where Does The Light Go",
         "url": "https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3"
       },

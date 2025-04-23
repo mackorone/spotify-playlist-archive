@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,829 songs - 3 day 22 hr 57 min
+1,830 songs - 3 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1189,6 +1189,7 @@
 | [Only love can save us](https://open.spotify.com/track/5b4GcXk4b1TWqDDvPHTKe7) | [Da Buzz](https://open.spotify.com/artist/3fl4q8rdZhxwVs9yG2rpz0) | [Only love can save us](https://open.spotify.com/album/6pIMv1amZWerjS6nm6BYSe) | 3:13 | 2024-05-16 | 2024-06-14 |
 | [Only Wit U](https://open.spotify.com/track/3aQaxtRXSnUP30wnecYsl8) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 3:17 | 2023-10-05 | 2023-10-20 |
 | [Opening Act](https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Kamikaze Life EP](https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz) | 2:16 | 2025-03-07 |  |
+| [Orange Lemonade](https://open.spotify.com/track/6vIiQXppIWFcsgROMY8TGb) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e), [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Orange Lemonade](https://open.spotify.com/album/3T3loB8qptlgjUWH1RPXbD) | 2:54 | 2025-04-17 |  |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-06 | 2024-08-09 |
 | [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 | 2022-10-25 |
 | [Orkanen](https://open.spotify.com/track/0YK4KEWdqvFyxMOuWco50H) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Orkanen](https://open.spotify.com/album/2MSSo0cDiZ59cJVBbZCwZq) | 3:33 | 2024-05-30 | 2024-06-28 |
@@ -1730,7 +1731,7 @@
 | [Vita Boots](https://open.spotify.com/track/5iV8CK3jqcaYKFqaOXcNij) | [Mia Elfqvist](https://open.spotify.com/artist/3fBR86TB3VE259lsDTjvoC) | [Vita Boots](https://open.spotify.com/album/5lLze5NZIcCrP95UZarcZ4) | 2:16 | 2024-08-29 | 2025-01-04 |
 | [Vita väggar](https://open.spotify.com/track/5JxfUSVHz6Icx4CUXj5mTQ) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Claras dagbok](https://open.spotify.com/album/3U4LDho4X3lDdgZV0O5gwV) | 3:41 | 2021-12-16 | 2022-04-01 |
 | [Vittran \- Radio Edit](https://open.spotify.com/track/6elAv52VzdVC7TUsaSvo9Q) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [Vittran](https://open.spotify.com/album/1NiKWKJk2cDbpo0kQm26pv) | 3:33 | 2021-12-16 | 2022-03-01 |
-| [volar](https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [The Driving Towards The Sunset Tapes](https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL) | 3:59 | 2025-01-23 |  |
+| [volar](https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [The Driving Towards The Sunset Tapes](https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL) | 3:59 | 2025-01-23 | 2025-04-23 |
 | [Väck mig](https://open.spotify.com/track/1TnsKoURsEMCOTwITqSHg5) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Konsten att fly](https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt) | 2:57 | 2023-10-19 | 2024-01-19 |
 | [Väck mig](https://open.spotify.com/track/3ghOgeif39Qct3OWdRJdZD) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Konsten att fly](https://open.spotify.com/album/7I7LQA7ITDQz76qwgwrxGs) | 2:57 | 2023-08-25 | 2023-10-11 |
 | [Välkommen ner](https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Välkommen ner](https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN) | 2:38 | 2024-04-11 | 2024-05-17 |

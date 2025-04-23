@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,961 likes - 75 songs - 4 hr 46 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,964 likes - 76 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 73 | [Berry on a Briar](https://open.spotify.com/track/7fGjyvwFV3kbSBBhT8McGO) | [Will Fox](https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67) | [Old News](https://open.spotify.com/album/27NsD2q6jzQWlVjDNBEizM) | 3:59 |
 | 74 | [Man On The Tube](https://open.spotify.com/track/5UG4irKV9cvtktJWRzTiAU) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Michael & Miranda](https://open.spotify.com/album/1JvEQ9sw7KgdlPX3z4syN6) | 3:53 |
 | 75 | [My Sound](https://open.spotify.com/track/6Wz3jWMD5fgc7MB2EoXuWE) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Music Is Rotted One Note](https://open.spotify.com/album/7jPRc2iSpir5elpmK0WQrM) | 6:07 |
+| 76 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 |
 
-Snapshot ID: `AAAMR+1nwFlVgmgT96UaIHyy1C/OMSt+`
+Snapshot ID: `AAAMSD/bnOuiim2y2AhcRXjD/+pqJYNu`

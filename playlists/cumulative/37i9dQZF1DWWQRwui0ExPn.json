@@ -9790,7 +9790,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 162355,
       "name": "Back To Nature",
       "url": "https://open.spotify.com/track/5EDbeixOfGCddOlO4xoJgI"
@@ -64888,7 +64888,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 148250,
       "name": "Kochyli",
       "url": "https://open.spotify.com/track/59lne8ie4M3fNsvkMj1wNc"
@@ -83032,7 +83032,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 120375,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG"
@@ -108326,6 +108326,24 @@
       "duration_ms": 132000,
       "name": "Sidewall",
       "url": "https://open.spotify.com/track/4l7jeahYuBbxTlc9L6G7nY"
+    },
+    {
+      "album": {
+        "name": "Sienna",
+        "url": "https://open.spotify.com/album/6CFrvENKLwwinTSo2jiwDH"
+      },
+      "artists": [
+        {
+          "name": "gknister",
+          "url": "https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83792,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/2yjEGB7mQ15YDmX3Y437ta"
     },
     {
       "album": {

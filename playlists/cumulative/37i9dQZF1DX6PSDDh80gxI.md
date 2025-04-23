@@ -4,7 +4,7 @@
 
 > giuse the lizia in cover di indie italia con la sua canzone che è una canzone dei cani!!!
 
-262 songs - 13 hr 49 min
+263 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 | 2024-10-04 |
 | [buco nero](https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:44 | 2025-04-10 |  |
 | [Buio](https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [Buio](https://open.spotify.com/album/3UdbcAYQCwWRIOX2ADdCk4) | 2:55 | 2025-03-06 |  |
-| [Calore](https://open.spotify.com/track/0Pqf9vCxWD79znPmw5WKDw) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Calore](https://open.spotify.com/album/0Bdudd1JyswBKGJUXUweOe) | 3:01 | 2025-04-03 |  |
+| [Calore](https://open.spotify.com/track/0Pqf9vCxWD79znPmw5WKDw) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Calore](https://open.spotify.com/album/0Bdudd1JyswBKGJUXUweOe) | 3:01 | 2025-04-03 | 2025-04-23 |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 | 2024-10-25 |
 | [Canzone Facile](https://open.spotify.com/track/5wJStwEVrz97MUYuDLFBz3) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/7Gwomavjv5whQupOwjbzgP) | 2:47 | 2025-02-27 | 2025-03-18 |
 | [Carnevale](https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Carnevale](https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit) | 2:36 | 2024-09-05 | 2025-03-28 |
@@ -59,7 +59,7 @@
 | [Coming back from Marte](https://open.spotify.com/track/4HU6nNHVABOEey5MQjO2V9) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Luna in acquario ascendente sagittario](https://open.spotify.com/album/0Npr04aGRYwjtvx4Udm8rS) | 2:14 | 2024-12-12 | 2025-02-12 |
 | [Con la faccia al sole e gli occhi chiusi](https://open.spotify.com/track/7dIdSjLWQDaRI9jAa5XcvK) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Con la faccia al sole e gli occhi chiusi](https://open.spotify.com/album/7zKDDlYZ1VVOFXWfC8EEB1) | 8:19 | 2025-03-13 | 2025-04-04 |
 | [Contento](https://open.spotify.com/track/4GPk80xV2M1co2hzY5XUhZ) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [Contento](https://open.spotify.com/album/1dCU5gFInlqqcNG0riDPIH) | 3:06 | 2025-04-17 |  |
-| [Copricolori](https://open.spotify.com/track/57oyHJP3okJUJHXB1eDcH3) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Pezzi Della Sera](https://open.spotify.com/album/4zRAT9VgY87szB4Gufc2t9) | 3:47 | 2025-02-03 |  |
+| [Copricolori](https://open.spotify.com/track/57oyHJP3okJUJHXB1eDcH3) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Pezzi Della Sera](https://open.spotify.com/album/4zRAT9VgY87szB4Gufc2t9) | 3:47 | 2025-02-03 | 2025-04-23 |
 | [Corriamo senza futuro](https://open.spotify.com/track/2Fku8rTogu9G0xd6r1J5kh) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Corriamo senza futuro](https://open.spotify.com/album/3EnPF5Rdj1rd5dDPMi0lHY) | 2:50 | 2024-06-27 | 2024-10-04 |
 | [Cosa Faremo Da Grandi?](https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Cosa Faremo Da Grandi?](https://open.spotify.com/album/0lVUjh0JQVfpUlengR8PwQ) | 3:00 | 2025-02-20 | 2025-03-21 |
 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 | 2024-07-25 | 2024-08-16 |
@@ -155,7 +155,7 @@
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-08-15 | 2024-08-23 |
 | [my baby!](https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [my baby!](https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD) | 2:57 | 2024-11-14 | 2025-02-28 |
 | [MYROMANTICA](https://open.spotify.com/track/2mUaQR6ggH0W4C8OVHNkmy) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [MYROMANTICA](https://open.spotify.com/album/4ZmIavc2q57jOHPjlsjy3f) | 3:17 | 2025-01-16 | 2025-03-21 |
-| [nella parte del mondo in cui sono nato](https://open.spotify.com/track/5PSiID6AtUuUhV1seTjOJA) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:53 | 2025-04-10 |  |
+| [nella parte del mondo in cui sono nato](https://open.spotify.com/track/5PSiID6AtUuUhV1seTjOJA) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:53 | 2025-04-10 | 2025-04-23 |
 | [NERO MASCARA](https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [NERO MASCARA](https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0) | 3:29 | 2024-06-27 | 2025-01-24 |
 | [Nevermind](https://open.spotify.com/track/0AyoK0LiaCVV32vmzqBkG8) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Questa casa è un albergo](https://open.spotify.com/album/5muiXBIZxmYvjgyq85pgtz) | 3:09 | 2025-03-13 | 2025-04-11 |
 | [Nightmares](https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Nightmares](https://open.spotify.com/album/4sSMvLcF71IS3RfB4yP0PN) | 3:21 | 2024-06-27 | 2024-12-06 |
@@ -237,6 +237,7 @@
 | [Ti manca l’aria](https://open.spotify.com/track/2x1AF8mR82VKEci1bSZ5gI) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Ti manca l’aria](https://open.spotify.com/album/56b0zsCOziJ9ujXcqs93Jy) | 3:12 | 2025-04-03 |  |
 | [Ti penso](https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Ti penso](https://open.spotify.com/album/7fWSuZhKMmKcZhpbKF0S2B) | 2:51 | 2025-04-03 |  |
 | [Tieni per me](https://open.spotify.com/track/0L9zUSvruMDHMRIqFg3ZEa) | [Peter White](https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL) | [Tieni per me](https://open.spotify.com/album/0Tfnqv4HXNgQa5oWsjAaKP) | 3:20 | 2024-11-28 | 2025-01-24 |
+| [Tighididà \(con Franco126 & Dov'è Liana\)](https://open.spotify.com/track/0zPg8gU7RN9TtmQsKNwE6d) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Tighididà \(con Franco126 & Dov'è Liana\)](https://open.spotify.com/album/3iZgJ3zaygooKnSYZWHs5q) | 2:26 | 2025-04-22 |  |
 | [TO / GA](https://open.spotify.com/track/2GHtpNPcXKSM0DOzuG2w6X) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [TO / GA](https://open.spotify.com/album/3BuUOsbmolzkhA7ZkYoM7g) | 2:39 | 2025-01-23 | 2025-02-07 |
 | [Tokyo 20](https://open.spotify.com/track/4psZkMjNV6bDrkvKFjGtFU) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Tokyo 20 / Spirito](https://open.spotify.com/album/3vSYheKa4APkJSC03A77Bo) | 3:21 | 2024-07-11 | 2024-08-09 |
 | [Tonight gospel \(feat\. Mecna\)](https://open.spotify.com/track/1vLaI6OG6I7DUunpuEy9ks) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:42 | 2024-10-17 | 2025-01-03 |

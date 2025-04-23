@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 59036,
+  "num_followers": 59045,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -258,6 +258,10 @@
         {
           "name": "Crazy:B",
           "url": "https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
       "duration_ms": 218159,
@@ -434,6 +438,10 @@
         {
           "name": "ALKALOID",
           "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
       "duration_ms": 212359,
@@ -443,13 +451,17 @@
     {
       "added_at": "2025-04-08 17:41:48",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Season5 ALKALOID\u300cSunnyTrip Summer\u300d",
+        "name": "ALKALOID\u300cSunnyTrip Summer\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Season5",
         "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
       },
       "artists": [
         {
           "name": "ALKALOID",
           "url": "https://open.spotify.com/artist/1gbL5yRuV5ygOEe5wVBkdK"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
       "duration_ms": 211976,
@@ -498,6 +510,10 @@
         {
           "name": "Crazy:B",
           "url": "https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
       "duration_ms": 195932,
@@ -539,22 +555,6 @@
     {
       "added_at": "2025-04-08 17:41:48",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
-        "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
-      },
-      "artists": [
-        {
-          "name": "\u30aa\u30eb\u30bf\u30fc\u30c9/\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u65e5\u3005\u6a39 \u6e09(CV.\u6c5f\u53e3 \u62d3\u4e5f)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)\u3001 \u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u9006\u5148 \u590f\u76ee(CV.\u91ce\u5cf6 \u5065\u5150)",
-          "url": "https://open.spotify.com/artist/2OL27gFXdNWKe6yfAdcvhO"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Twilight Pentagram",
-      "url": "https://open.spotify.com/track/5931MmDFddLnEmn5ggVCmr"
-    },
-    {
-      "added_at": "2025-04-08 17:41:48",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2 \u300cOWN\u300d",
         "url": "https://open.spotify.com/album/0UJyFPjq1Qpr7vKQ0Jbtcc"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 205990,
       "name": "OWN",
       "url": "https://open.spotify.com/track/2OoPeFUl5cVpemSwYasVzN"
+    },
+    {
+      "added_at": "2025-04-08 17:41:48",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
+        "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30eb\u30bf\u30fc\u30c9/\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u65e5\u3005\u6a39 \u6e09(CV.\u6c5f\u53e3 \u62d3\u4e5f)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)\u3001 \u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u9006\u5148 \u590f\u76ee(CV.\u91ce\u5cf6 \u5065\u5150)",
+          "url": "https://open.spotify.com/artist/2OL27gFXdNWKe6yfAdcvhO"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Twilight Pentagram",
+      "url": "https://open.spotify.com/track/5931MmDFddLnEmn5ggVCmr"
     },
     {
       "added_at": "2025-04-08 17:41:48",

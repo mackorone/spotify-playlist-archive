@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,058 songs - 2 day 9 hr 5 min
+1,059 songs - 2 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/track/1jUdVhaRk0PwJCK5PvDTsq) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/album/6Ry57BDPUmf63YyjKWGZsz) | 2:37 | 2022-10-25 | 2022-12-16 |
 | [I T 's a G O O D D a Y](https://open.spotify.com/track/67DcAT2A7QoJPHeb6gULv3) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [It's a Good Life](https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h) | 2:36 | 2022-11-28 | 2023-01-24 |
 | [I Wish](https://open.spotify.com/track/5gUNkD57jpcdjXv9ODiSmf) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [I Wish](https://open.spotify.com/album/3eQ91uxeqINSduxCL6zlba) | 3:13 | 2022-09-30 | 2022-12-16 |
-| [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 | 2024-07-25 |  |
+| [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 | 2024-07-25 | 2025-04-23 |
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2022-10-11 | 2023-02-02 |
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
 | [Ik Kookh](https://open.spotify.com/track/2RXYl5dl1FeTDFH3MGbXEo) | [Shivam Vashisht](https://open.spotify.com/artist/3gyUpopsFDSJ5Cg9N7dJoy) | [Ik Kookh](https://open.spotify.com/album/1OK9DHvsFxSt7oO5myKiAZ) | 4:00 | 2025-03-05 | 2025-03-26 |
@@ -901,6 +901,7 @@
 | [Surma](https://open.spotify.com/track/0J987rfHrlc6HOq3Y4nbrS) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq) | [Surma](https://open.spotify.com/album/4lH2JUQPh7oOhypdKijwBp) | 2:45 | 2022-12-01 | 2022-12-16 |
 | [Surma](https://open.spotify.com/track/2TioqC2ZU59C2ycwybWqk6) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [RAFAL](https://open.spotify.com/artist/3kjboz3TWSwnvvLdXSOX9z) | [Surma](https://open.spotify.com/album/1bsPUlVdgdHMKqnom02YZ1) | 2:23 | 2022-11-09 | 2022-12-16 |
 | [Surma](https://open.spotify.com/track/3ijLrhb7Rq9E75B94KJ90s) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Surma](https://open.spotify.com/album/7wiyKmbGYMkikS5DSWTcJC) | 2:45 | 2022-07-22 | 2022-08-18 |
+| [Surmedani](https://open.spotify.com/track/4lfAz9945I62PJdMOT6UV4) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjit](https://open.spotify.com/artist/1Riy17VfQHP6gSIv9RjHSt), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Bajre Da Sitta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5JTXFBLdGmkkOa6uSEsO5v) | 3:26 | 2025-04-22 |  |
 | [SURREY AALE](https://open.spotify.com/track/37lPezjU5ZTTh0H06HEFKb) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [Karan Bhargava](https://open.spotify.com/artist/1YQWIIZgIWVP83VtNCAQRJ), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [SURREY AALE](https://open.spotify.com/album/1uoe77MG97LmOgFlNwM5Uf) | 2:22 | 2022-01-10 | 2022-02-01 |
 | [Sweet Teri Smile](https://open.spotify.com/track/0FzcmRE2A4IHVxxZl2zYZr) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Sweet Teri Smile](https://open.spotify.com/album/79Jh4jb1oHDu0xfhOHnby8) | 2:29 | 2022-04-25 | 2022-05-11 |
 | [Swipe Right Material](https://open.spotify.com/track/1iqvIcsgUfOGuqSltgPfQY) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Swipe Right Material](https://open.spotify.com/album/5PVTBm7DZXOXBfKdkDVFVN) | 3:23 | 2022-02-07 | 2022-02-12 |

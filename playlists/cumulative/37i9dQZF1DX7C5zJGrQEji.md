@@ -4,7 +4,7 @@
 
 > Tracks crediting NATURE support its conservation.
 
-60 songs - 4 hr 11 min
+61 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [We Can't Walk Away \(feat\. NATURE\)](https://open.spotify.com/track/7BNm9A4t8tSTrJve0iuiSB) | [Dirty Vegas](https://open.spotify.com/artist/2IkHcHKErbWa0TA14yHkbl), [Storeys](https://open.spotify.com/artist/3gba6ezq6TiP73eFzGcMLr), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [We Can't Walk Away \(feat\. NATURE\)](https://open.spotify.com/album/3xGkTOw4uW3y80ViuvcRsW) | 4:01 | 2025-04-22 |  |
 | [What In The World \(feat\. NATURE\)](https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [What In The World \(feat\. NATURE\)](https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN) | 3:18 | 2025-04-22 |  |
 | [wherever u r \(feat\. V of BTS and NATURE\)](https://open.spotify.com/track/06DNeAJi8GYZn9TpCF8r2X) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(feat\. V of BTS and NATURE\)](https://open.spotify.com/album/2GlNxsOWZEeOY9f2VDRhGt) | 3:06 | 2025-04-16 |  |
+| [Worry Never Wins \(feat\. NATURE\)](https://open.spotify.com/track/2qRFOTapfaEZ2ZE48AiZJM) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Worry Never Wins \(feat\. NATURE\)](https://open.spotify.com/album/1gYl214H1QjR8XdcMAdd6J) | 3:39 | 2025-04-22 |  |
 | [You & I \- Sounds Right \(feat\. NATURE\)](https://open.spotify.com/track/2beuW2zkLOUDUcdaoACTuA) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Biophonica](https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [You & I \- Sounds Right \(feat\. NATURE\)](https://open.spotify.com/album/3GGmipFQbETmm6Frc9v76M) | 3:48 | 2025-04-16 |  |
 
 \*This playlist was first scraped on 2025-04-17. Prior content cannot be recovered.

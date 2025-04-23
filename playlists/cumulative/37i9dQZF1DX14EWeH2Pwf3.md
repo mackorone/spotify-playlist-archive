@@ -4,7 +4,7 @@
 
 > Sfera e Shiva in cover della playlist urban più grande in Italia 🔥
 
-751 songs - 1 day 12 hr 49 min
+752 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Auto tedesca](https://open.spotify.com/track/1rXqb6AK9Sd0ZG1nPOAbrW) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 2:39 | 2022-11-10 | 2022-12-16 |
 | [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-08-29 | 2022-10-26 |
 | [Auto tedesca](https://open.spotify.com/track/4gKPKREX0hNzsm3jXdoLmh) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Tik Tock Summer 2022](https://open.spotify.com/album/0ccHINP8gj7HmMqarNr8lG) | 2:39 | 2022-11-09 | 2022-11-11 |
+| [Autostima](https://open.spotify.com/track/3yNaZIeDu08fNHm4EOdjDQ) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Autostima](https://open.spotify.com/album/1hMyx7jjaESnoYbWwsYAXO) | 2:50 | 2025-04-20 |  |
 | [AUTOSTOP](https://open.spotify.com/track/5VHCKZj4U8B2uxgV1ep0pI) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [AUTOSTOP](https://open.spotify.com/album/08axqrdrj5kYIBJt3nLQ3Y) | 3:09 | 2022-10-27 | 2023-02-09 |
 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 | 2023-03-23 | 2023-06-23 |
 | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/track/6Ajvu1afirjocbZK934qqh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/album/5HQUIQmVxiUwZ8975mSIMH) | 3:07 | 2025-01-02 |  |

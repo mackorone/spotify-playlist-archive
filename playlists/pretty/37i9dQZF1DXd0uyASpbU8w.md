@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Davido, Leon Thomas, DESIREE and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,336 likes - 83 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,348 likes - 83 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

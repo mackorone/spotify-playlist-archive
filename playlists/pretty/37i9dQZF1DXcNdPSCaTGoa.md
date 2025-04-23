@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > South African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH?si=\_jgJwQqzT3Wj5C1Mwehmtg">Yvonne Chaka Chaka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,072 likes - 60 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,122 likes - 60 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

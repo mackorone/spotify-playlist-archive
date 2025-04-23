@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 118250,
+  "num_followers": 118258,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAQ5AAAAAADhN4EApp/dp4YbSesXiela",
+  "snapshot_id": "aAWKgAAAAACTEeJVb6ruCd3UxBaZ3ko0",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 262573,
-      "name": "Take, Take, Take",
-      "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
+      "duration_ms": 35226,
+      "name": "Passive Manipulation",
+      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 35226,
-      "name": "Passive Manipulation",
-      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
+      "duration_ms": 262573,
+      "name": "Take, Take, Take",
+      "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
       "duration_ms": 144120,
       "name": "We Are Going to Be Friends - Live",
       "url": "https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Party of Special Things to Do",
-        "url": "https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 165053,
-      "name": "Ashtray Heart",
-      "url": "https://open.spotify.com/track/3jUXDyGRhU0y4IUdtjUVMU"
     }
   ],
   "unique_name": "This Is The White Stripes",

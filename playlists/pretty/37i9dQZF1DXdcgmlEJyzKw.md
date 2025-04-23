@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,691 likes - 63 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,712 likes - 63 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Concert de bruit: No\. 2, Étude aux chemis de fer "Imposée"](https://open.spotify.com/track/2fvs8D9hWFCdtRBFsaq1dc) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl), [Club d'essai de la Radiodiffusion\-télévision Française](https://open.spotify.com/artist/1YA4zHtk2xQz2CVHYYJEdx) | [Premier panorama de musique concrète \(Mono Version\)](https://open.spotify.com/album/77ANTgiaByXP1i5UxgC0Fm) | 2:50 |
-| 2 | [Wire Recorder Piece](https://open.spotify.com/track/6B8EIKs90a7PAlUxMT5Szo) | [Halim El\-Dabh](https://open.spotify.com/artist/1hhsjRTpSbycEeaPE9wPrI) | [Laiyla and the Poet](https://open.spotify.com/album/374ADWNsoO7RgQJ5IZi2Vs) | 1:49 |
+| 2 | [Wire Recorder Piece \- Remastered](https://open.spotify.com/track/6B8EIKs90a7PAlUxMT5Szo) | [Halim El\-Dabh](https://open.spotify.com/artist/1hhsjRTpSbycEeaPE9wPrI) | [Laiyla and the Poet](https://open.spotify.com/album/374ADWNsoO7RgQJ5IZi2Vs) | 1:49 |
 | 3 | [Revolution 9 \- Remastered 2009](https://open.spotify.com/track/5dZ8PeKKZJLIQAWNTdp8WX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 8:22 |
 | 4 | [Sound Patterns](https://open.spotify.com/track/4A7U5MG1gtnEciBG9MxNP5) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Brandeis University Chamber Chorus](https://open.spotify.com/artist/4XVSALf4pwJEFbkIgC5IBA), [Alvin Lucier](https://open.spotify.com/artist/0ARBCE8g4PI0TO7PEYMm0Z) | [Extended Voices](https://open.spotify.com/album/5cd1WvUjpDzBLq2bc9nDcr) | 4:00 |
 | 5 | [Dies irae](https://open.spotify.com/track/3ekTbi14cj5gjg1HXj1XFv) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [Requiem](https://open.spotify.com/album/6TcZlksMuA6Zb5nKjCBMrF) | 6:08 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 34 | [Fanfare](https://open.spotify.com/track/3T3RTyI10f6eQBa38NAi0i) | [Trevor Wishart](https://open.spotify.com/artist/7AyCfOaRuQNCsc5CkM8w44) | [Fanfare And Contrapunctus / Imago](https://open.spotify.com/album/0mWKaErUlqro97EFD9E99U) | 6:52 |
 | 35 | [Magnetic Storm](https://open.spotify.com/track/0R54MfZWGVcmzvj9ENqcwv) | [Christian Zanési](https://open.spotify.com/artist/3ellcfQKaQGsPfsbzBW7bn) | [Paysages Magnétiques Magnetic Landscapes](https://open.spotify.com/album/76RbmQFyC2yHfAIqisCusU) | 3:44 |
 | 36 | [Awakening of a City](https://open.spotify.com/track/64tNZbBSOZXEueOBILY1vZ) | [Luigi Russolo](https://open.spotify.com/artist/3UQ7xESfjsa932tpBngbgZ), [Antonio Russolo](https://open.spotify.com/artist/5t2sFKaprL2CwobmRlolTv) | [Awakening of a City](https://open.spotify.com/album/772tGTfSeunEDmA5rCJs4W) | 3:49 |
-| 37 | [Laiyla and the Poet](https://open.spotify.com/track/3EkL4mLdRxBbAg2tswW2cy) | [Halim El\-Dabh](https://open.spotify.com/artist/1hhsjRTpSbycEeaPE9wPrI) | [Laiyla and the Poet](https://open.spotify.com/album/374ADWNsoO7RgQJ5IZi2Vs) | 5:05 |
+| 37 | [Laiyla and the Poet \- Remastered](https://open.spotify.com/track/3EkL4mLdRxBbAg2tswW2cy) | [Halim El\-Dabh](https://open.spotify.com/artist/1hhsjRTpSbycEeaPE9wPrI) | [Laiyla and the Poet](https://open.spotify.com/album/374ADWNsoO7RgQJ5IZi2Vs) | 5:05 |
 | 38 | [Etude Violette](https://open.spotify.com/track/4qpLYe1bJmUGVfCkuv8xln) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [Cinq Etudes De Bruits](https://open.spotify.com/album/0EKSagGc778yDJx56Vc2x0) | 3:20 |
 | 39 | [Classique: Bidule et un](https://open.spotify.com/track/6mnIQOz3XmSQbmf4rwQxkZ) | [Pierre Henry](https://open.spotify.com/artist/5ITPNl5P6R6cFbw4DAcMAY), [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [1st panorama de musique concrete \(Remastered\)](https://open.spotify.com/album/7BIGumADSOqwUPay2wCCZw) | 1:54 |
 | 40 | [Caravan](https://open.spotify.com/track/4yb85lS6DsGlMfF1EEpcRa) | [Pierre Bastien](https://open.spotify.com/artist/5fnXjhmTrnKmXbPDnvTUkm) | [Les Premières Machines](https://open.spotify.com/album/7l8WiZ0hsfmAfLnGraMDCu) | 2:36 |

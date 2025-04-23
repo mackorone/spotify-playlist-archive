@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Katannah
+> 50 nejžhavějších hitů v České republice\. Cover: Sara Rikas
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,449 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,518 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [415 ft\. Robin Zoot](https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq) | [Katannah](https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [The Underdog](https://open.spotify.com/album/3rOYAOvImczZjhKw2m6f6B) | 2:42 |
+| 1 | [Talk2me](https://open.spotify.com/track/0CwxocC7t7mjqvswm7TuQp) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Talk2me](https://open.spotify.com/album/62Z3vJCF0GS2kNZ4ZMKzDe) | 2:43 |
 | 2 | [Body to body](https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:12 |
-| 3 | [Ewa Farna](https://open.spotify.com/track/2SKRhxWAr43tlNHM8yN3jE) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY), [ERNE100](https://open.spotify.com/artist/2PsXHmUVTryvflJlh19Fr5), [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Ewa Farna](https://open.spotify.com/album/3x7uF7U23YDVjXh2z0fcLT) | 3:43 |
-| 4 | [Talk2me](https://open.spotify.com/track/0CwxocC7t7mjqvswm7TuQp) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Talk2me](https://open.spotify.com/album/62Z3vJCF0GS2kNZ4ZMKzDe) | 2:43 |
-| 5 | [Mě Nedostanou](https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Mě Nedostanou](https://open.spotify.com/album/0o7Il9BCp3VZc9F0ug1C9v) | 2:33 |
-| 6 | [KSN](https://open.spotify.com/track/7AlwfbJ4nhr7JnYwoSgAkM) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 3:01 |
-| 7 | [Pistácie \(feat\. Sofian Medjmedj\)](https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 2:54 |
+| 3 | [KSN](https://open.spotify.com/track/7AlwfbJ4nhr7JnYwoSgAkM) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 3:01 |
+| 4 | [Pistácie \(feat\. Sofian Medjmedj\)](https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 2:54 |
+| 5 | [Ewa Farna](https://open.spotify.com/track/2SKRhxWAr43tlNHM8yN3jE) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY), [ERNE100](https://open.spotify.com/artist/2PsXHmUVTryvflJlh19Fr5), [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Ewa Farna](https://open.spotify.com/album/3x7uF7U23YDVjXh2z0fcLT) | 3:43 |
+| 6 | [Mě Nedostanou](https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Mě Nedostanou](https://open.spotify.com/album/0o7Il9BCp3VZc9F0ug1C9v) | 2:33 |
+| 7 | [415 ft\. Robin Zoot](https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq) | [Katannah](https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [The Underdog](https://open.spotify.com/album/3rOYAOvImczZjhKw2m6f6B) | 2:42 |
 | 8 | [Swagsucks](https://open.spotify.com/track/3kGZG7KKmJmJV85JtDAUwn) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 2:42 |
 | 9 | [Silnej hlad](https://open.spotify.com/track/6pLvqvjAQG9kXpKgGCFbgd) | [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY), [Lboy Bsc](https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2) | [Drive By](https://open.spotify.com/album/5VO7ksbvagitZYZArtxl33) | 2:47 |
 | 10 | [Cígo a káva \(feat\. Saul\)](https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 49 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 50 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 
-Snapshot ID: `aAJV/QAAAACFzVZkDqNTW7yPlcqplOIn`
+Snapshot ID: `aAexhwAAAACoSAenflAi7ZeVAnvi9NTx`

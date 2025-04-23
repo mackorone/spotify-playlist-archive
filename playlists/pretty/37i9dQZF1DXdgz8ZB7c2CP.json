@@ -1,6 +1,6 @@
 {
   "description": "We're SO ready for ZULAN's debut!!",
-  "num_followers": 842515,
+  "num_followers": 842516,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -871,46 +871,6 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
-        "name": "Yapa Yapa (Shut It Pls) [feat. Dr Ofori]",
-        "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Big Shaq",
-          "url": "https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO"
-        },
-        {
-          "name": "Dr Ofori",
-          "url": "https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp"
-        }
-      ],
-      "duration_ms": 114158,
-      "name": "Yapa Yapa (Shut It Pls) [feat. Dr Ofori]",
-      "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
-    },
-    {
-      "added_at": "2025-04-17 22:00:08",
-      "album": {
-        "name": "Sweet Memories",
-        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 235688,
-      "name": "Sweet Memories",
-      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
-    },
-    {
-      "added_at": "2025-04-17 22:00:08",
-      "album": {
         "name": "Out Of Bounds",
         "url": "https://open.spotify.com/album/5rZixCKsdcBlEvzwnEv5Yk"
       },
@@ -931,6 +891,46 @@
       "duration_ms": 235909,
       "name": "Out Of Bounds",
       "url": "https://open.spotify.com/track/3xgcNkLwNfYxbK8w9MlLlk"
+    },
+    {
+      "added_at": "2025-04-17 22:00:08",
+      "album": {
+        "name": "Sweet Memories",
+        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 235688,
+      "name": "Sweet Memories",
+      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
+    },
+    {
+      "added_at": "2025-04-17 22:00:08",
+      "album": {
+        "name": "Yapa Yapa (Shut It Pls) [feat. Dr Ofori]",
+        "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Big Shaq",
+          "url": "https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO"
+        },
+        {
+          "name": "Dr Ofori",
+          "url": "https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp"
+        }
+      ],
+      "duration_ms": 114158,
+      "name": "Yapa Yapa (Shut It Pls) [feat. Dr Ofori]",
+      "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/2cm6nf2zFbIS0qvzxF1E5Y"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 145371,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/5UImj5JUImGIBK3lKW5g9E"
-    },
-    {
-      "added_at": "2025-04-17 22:00:08",
-      "album": {
         "name": "LIKE ME",
         "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 207964,
       "name": "LIKE ME",
       "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2025-04-17 22:00:08",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2cm6nf2zFbIS0qvzxF1E5Y"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 145371,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5UImj5JUImGIBK3lKW5g9E"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y"
+        "name": "take it slow",
+        "url": "https://open.spotify.com/album/3AMNBMeY5JZYEO5k8mcaeR"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "KROY",
-          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks"
+      "duration_ms": 137842,
+      "name": "take it slow",
+      "url": "https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1239,18 +1235,38 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
-        "name": "take it slow",
-        "url": "https://open.spotify.com/album/3AMNBMeY5JZYEO5k8mcaeR"
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
       },
       "artists": [
         {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         }
       ],
-      "duration_ms": 137842,
-      "name": "take it slow",
-      "url": "https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo"
+      "duration_ms": 146865,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
+    },
+    {
+      "added_at": "2025-04-17 22:00:08",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1271,22 +1287,6 @@
       "duration_ms": 265500,
       "name": "Velour",
       "url": "https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar"
-    },
-    {
-      "added_at": "2025-04-17 22:00:08",
-      "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
+    },
+    {
+      "added_at": "2025-04-17 22:00:08",
+      "album": {
         "name": "Stampede",
         "url": "https://open.spotify.com/album/0AgVq85MSX0QDbsppdDe8l"
       },
@@ -1335,18 +1351,22 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
       },
       "artists": [
         {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
         }
       ],
-      "duration_ms": 198857,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
+      "duration_ms": 165517,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1367,26 +1387,6 @@
       "duration_ms": 204444,
       "name": "Nothing Gets Better Than This",
       "url": "https://open.spotify.com/track/7ys3QUPW0v0v2TSUFjLEwQ"
-    },
-    {
-      "added_at": "2025-04-17 22:00:08",
-      "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
+        "name": "make the move",
+        "url": "https://open.spotify.com/album/5wtbTNM1IhfvlQSgP9MRsn"
+      },
+      "artists": [
+        {
+          "name": "Conrad",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        },
+        {
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
+        }
+      ],
+      "duration_ms": 171706,
+      "name": "make the move",
+      "url": "https://open.spotify.com/track/7A7ZlcNlwyBQEWLAyNdd5X"
+    },
+    {
+      "added_at": "2025-04-17 22:00:08",
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3EcraYifDxMHAoqpgaweft"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 274385,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/649plSemKxHAB23tlsxlMd"
-    },
-    {
-      "added_at": "2025-04-17 22:00:08",
-      "album": {
-        "name": "make the move",
-        "url": "https://open.spotify.com/album/5wtbTNM1IhfvlQSgP9MRsn"
-      },
-      "artists": [
-        {
-          "name": "Conrad",
-          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
-        },
-        {
-          "name": "Fi Sullivan",
-          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "make the move",
-      "url": "https://open.spotify.com/track/7A7ZlcNlwyBQEWLAyNdd5X"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1623,22 +1623,26 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
-        "name": "REWIND",
-        "url": "https://open.spotify.com/album/2GKHbiAi8odFJi2Ukps9XE"
+        "name": "CHROMA 009",
+        "url": "https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx"
       },
       "artists": [
         {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+          "name": "DOVE",
+          "url": "https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF"
         },
         {
-          "name": "Darby",
-          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+          "name": "Kehina",
+          "url": "https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 132827,
-      "name": "REWIND",
-      "url": "https://open.spotify.com/track/2tYLwCuSefEkUmNUDo09Mz"
+      "duration_ms": 288701,
+      "name": "CHROMA 009 KR36",
+      "url": "https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1659,6 +1663,26 @@
       "duration_ms": 166153,
       "name": "you'll come back (JEV Version)",
       "url": "https://open.spotify.com/track/5BV7SxVEUNd0NlKzoAZrfb"
+    },
+    {
+      "added_at": "2025-04-17 22:00:08",
+      "album": {
+        "name": "REWIND",
+        "url": "https://open.spotify.com/album/2GKHbiAi8odFJi2Ukps9XE"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        }
+      ],
+      "duration_ms": 132827,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/2tYLwCuSefEkUmNUDo09Mz"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1715,6 +1739,30 @@
       "duration_ms": 216000,
       "name": "All Too Late",
       "url": "https://open.spotify.com/track/4m1KSPhZ74hYFDd6pq5Cz6"
+    },
+    {
+      "added_at": "2025-04-17 22:00:08",
+      "album": {
+        "name": "Anomaly (Remixes)",
+        "url": "https://open.spotify.com/album/4MV1bkMexP9A4C25Z61hDO"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Mercy - Jon Casey Remix",
+      "url": "https://open.spotify.com/track/0rNXZeS4pASoPK2VRCargk"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1783,6 +1831,22 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
+        "name": "I Don't Want Anyone",
+        "url": "https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "I Don't Want Anyone",
+      "url": "https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57"
+    },
+    {
+      "added_at": "2025-04-17 22:00:08",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/366r6mv4J4Qsv5EunUmu9Z"
       },
@@ -1839,22 +1903,6 @@
     {
       "added_at": "2025-04-17 22:00:08",
       "album": {
-        "name": "I Don't Want Anyone",
-        "url": "https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "I Don't Want Anyone",
-      "url": "https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57"
-    },
-    {
-      "added_at": "2025-04-17 22:00:08",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6"
       },
@@ -1887,30 +1935,6 @@
       "duration_ms": 193432,
       "name": "lose my head",
       "url": "https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr"
-    },
-    {
-      "added_at": "2025-04-17 22:00:08",
-      "album": {
-        "name": "CHROMA 009",
-        "url": "https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx"
-      },
-      "artists": [
-        {
-          "name": "DOVE",
-          "url": "https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF"
-        },
-        {
-          "name": "Kehina",
-          "url": "https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx"
-        },
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 288701,
-      "name": "CHROMA 009 KR36",
-      "url": "https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n"
     },
     {
       "added_at": "2025-04-17 22:00:08",
@@ -1999,34 +2023,6 @@
       "duration_ms": 285882,
       "name": "Bogeyman",
       "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
-    },
-    {
-      "added_at": "2025-04-17 22:00:08",
-      "album": {
-        "name": "Dafodil",
-        "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        },
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        }
-      ],
-      "duration_ms": 212339,
-      "name": "Dafodil",
-      "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
     }
   ],
   "unique_name": "creamy",

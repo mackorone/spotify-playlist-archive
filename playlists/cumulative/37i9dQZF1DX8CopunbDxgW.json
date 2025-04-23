@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Arc de Triomphe",
+        "url": "https://open.spotify.com/album/1XqWXTFczDFTgnCWZSV242"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166618,
+      "name": "Arc de Triomphe",
+      "url": "https://open.spotify.com/track/5THdCNXFd7JK1ayDYYvzwB"
+    },
+    {
+      "album": {
         "name": "ARCO // ES TAN DIVINO",
         "url": "https://open.spotify.com/album/0zaUl1Y0qwTOSb77bIm8s4"
       },
@@ -3882,7 +3900,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-23",
       "duration_ms": 335168,
       "name": "Bon Bon - Andrew VanWyngarden Remix",
       "url": "https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598"
@@ -23500,7 +23518,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 388837,
-      "name": "Oog om Oog (feat. Spinvis) (D Stone Remix)",
+      "name": "Oog om Oog (feat. Spinvis) - D Stone Remix",
       "url": "https://open.spotify.com/track/2urau0HafmN3pAmVc2r1ed"
     },
     {

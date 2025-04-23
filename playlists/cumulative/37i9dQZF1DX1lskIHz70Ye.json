@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166323,
+      "name": "La Isla",
+      "url": "https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8"
+    },
+    {
+      "album": {
         "name": "Guitarras Mexicanas",
         "url": "https://open.spotify.com/album/69KhYjVvtpMvTH0bf0rlPv"
       },

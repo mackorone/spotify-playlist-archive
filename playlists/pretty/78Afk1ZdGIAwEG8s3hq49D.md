@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Afk1ZdGIAwEG8s3hq49D.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 590 likes - 28 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 589 likes - 28 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/78Afk1ZdGIAwEG8s3hq49D.md) - [plain]
 | 2 | [House of the Rising Sun](https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Most of the Animals](https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA) | 4:29 |
 | 3 | [Sleepwalker's Serenade \- 1994 \- Remaster](https://open.spotify.com/track/0IbNaXjHkr0Hnf4ckYkPqX) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [100 Best Of Blue Note](https://open.spotify.com/album/0lcdc9pUe5p7FQZsOpE3gG) | 3:37 |
 | 4 | [Little Boxes](https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q) | [Malvina Reynolds](https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN) | [Ear to the Ground](https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q) | 2:11 |
-| 5 | [Little Boxes](https://open.spotify.com/track/688lDlicMWIrRvOx4U24Hf) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [Broadside Ballads, Vol\. 2](https://open.spotify.com/album/5r7gUpFJcHSQbYlxWqq9G3) | 2:01 |
+| 5 | [Little Boxes](https://open.spotify.com/track/688lDlicMWIrRvOx4U24Hf) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [Broadside Ballads, Vol\. 2: Sung by Pete Seeger](https://open.spotify.com/album/5r7gUpFJcHSQbYlxWqq9G3) | 2:01 |
 | 6 | [Railroading On the Great Divide](https://open.spotify.com/track/1H84cRYr4wzEwgFM9PGOE5) | [The New Lost City Ramblers](https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd) | [On the Great Divide](https://open.spotify.com/album/32TtjN3J92ysh1zh7TaXvt) | 3:16 |
 | 7 | [The House Carpenter](https://open.spotify.com/track/2Q2uWw7JuQ6WxNThfFbsaH) | [Harry Smith](https://open.spotify.com/artist/1h7Yswl6vTRiIUxpK88EpF) | [Volume 1: Ballads](https://open.spotify.com/album/1HVrlqVlHGeJAXsXQ55luK) | 3:16 |
 | 8 | [Blackjack David](https://open.spotify.com/track/1VkNpSlrOgMpSoJ2LlxNG2) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Harry Smith's Anthology of American Folk Music, Vol\. 4 : Country Music & Bluegrass](https://open.spotify.com/album/5k5FdGVlSsptEflHQYfFUp) | 2:41 |

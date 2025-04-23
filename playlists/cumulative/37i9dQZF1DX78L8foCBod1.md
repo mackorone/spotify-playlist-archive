@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-188 songs - 12 hr 50 min
+189 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Grenzlinie](https://open.spotify.com/track/7AA3ECkK5bJWVGpNwKrwAT) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [甲鉄城のカバネリ ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3g5qoaQMLMpDOnfof2RPCn) | 4:56 | 2022-06-07 |  |
 | [His/Story](https://open.spotify.com/track/01StvYUbEIBwTHYdAXljct) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [SINGularity](https://open.spotify.com/album/0z6d7zSYf9ZFkQA9kFsmEe) | 3:53 | 2022-06-21 | 2024-04-19 |
 | [His/Story](https://open.spotify.com/track/2PvKDoq2wPHhY4oqicrBwJ) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [His/Story / Roll The Dice](https://open.spotify.com/album/36kha76MJobek1T7CzFASG) | 3:54 | 2022-06-07 |  |
+| [H∅WL](https://open.spotify.com/track/62VDazmckQkZcrVvwW1syL) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Season2 \-Arise from the Shadow\- Original Soundtrack](https://open.spotify.com/album/1RiSRSE9wGtGUxPaH9LZ5X) | 2:47 | 2025-04-22 |  |
 | [INERTIA](https://open.spotify.com/track/2joT0CjcGqc1fr8Fvk7itj) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Rei](https://open.spotify.com/artist/4CVs8ZjthgN0YuzXz7yXZ6) | [INERTIA](https://open.spotify.com/album/0tjOB1djtnx8VIkISrO6cb) | 3:19 | 2025-04-08 |  |
 | [Inferno](https://open.spotify.com/track/6ZXVnfb7cIIDxg1DfLCP1M) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/1QZBK8EZ4KSQTlunvEwL7o) | 3:54 | 2022-06-21 | 2024-04-19 |
 | [Inferno](https://open.spotify.com/track/1haosXb8XNSXWBuNirom1g) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/69VJ66DL7INzABSeI90Ufh) | 3:54 | 2022-06-07 |  |

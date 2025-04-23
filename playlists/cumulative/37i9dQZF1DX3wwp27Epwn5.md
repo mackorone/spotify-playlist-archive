@@ -4,7 +4,7 @@
 
 > Train insane with these Bollywood tracks.
 
-107 songs - 6 hr 29 min
+108 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Mauja Hi Mauja](https://open.spotify.com/track/2iXVckhPy7tP0wV9DvlrjZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:05 | 2023-07-11 |  |
 | [Mera Wala Dance \(From "Simmba"\)](https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN) | [Mera Wala Dance \(From "Simmba"\)](https://open.spotify.com/album/7qPXxbOuEiXyAijFSmqUgk) | 3:19 | 2024-09-30 | 2024-11-25 |
 | [Meri Baggi Mera Ghoda \(From "Wild Wild Punjab"\)](https://open.spotify.com/track/7IFZwy08V4RXQg8M0NWgzT) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Meri Baggi Mera Ghoda \(From "Wild Wild Punjab"\)](https://open.spotify.com/album/4Z73NrOpOz0sb3462cQzv3) | 2:32 | 2024-07-08 | 2024-07-24 |
-| [Mitron Maidaan](https://open.spotify.com/track/3eueYVpKPTVBQkhLGTdnrd) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Ashim Kemson](https://open.spotify.com/artist/61xWsEEVhNqPgnjLZ56elT), [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es) | [Crazxy](https://open.spotify.com/album/6irwYRxK1XYQ6rxYtYuJ0T) | 3:24 | 2025-02-26 |  |
+| [Mitron Maidaan](https://open.spotify.com/track/3eueYVpKPTVBQkhLGTdnrd) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Ashim Kemson](https://open.spotify.com/artist/61xWsEEVhNqPgnjLZ56elT), [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es) | [Crazxy](https://open.spotify.com/album/6irwYRxK1XYQ6rxYtYuJ0T) | 3:24 | 2025-02-26 | 2025-04-23 |
+| [Money Money \(From "Raid 2"\)](https://open.spotify.com/track/2weNGy4Q78Kpbpx8Mn75oV) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Money Money \(From "Raid 2"\)](https://open.spotify.com/album/30g9jXQFXvBCnFCQZtBl33) | 3:21 | 2025-04-22 |  |
 | [Morni Banke](https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Badhaai Ho](https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA) | 3:18 | 2023-11-29 | 2024-01-16 |
 | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9) | 3:49 | 2023-07-11 | 2024-11-27 |
 | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW) | 2:56 | 2023-07-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Khay Be, Kidd
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,169 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,168 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 9 | [GANGSTA](https://open.spotify.com/track/2fduNRNDHBMVBtOX4bZNvX) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [GUARANTEE](https://open.spotify.com/album/2nQHKHLCJ7dqjQeld96iFK) | 2:31 |
 | 10 | [EMMONI IDEA](https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [EMMONI IDEA](https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb) | 3:07 |
 | 11 | [BUSY](https://open.spotify.com/track/3j68FJWKuCIbj3K6ISuIEW) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [BUSY](https://open.spotify.com/album/4yRuE4CoGMP55QPMALlJkY) | 2:41 |
-| 12 | [I GET MONEY](https://open.spotify.com/track/0TWiy2EMCGnOJY7sHk3V6V) | [ZiZZi](https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [ZIZEL](https://open.spotify.com/album/3ZiPfcm1SdyAsuOqHkuM1j) | 2:13 |
+| 12 | [GET MONEY](https://open.spotify.com/track/0TWiy2EMCGnOJY7sHk3V6V) | [ZiZZi](https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [ZIZEL](https://open.spotify.com/album/3ZiPfcm1SdyAsuOqHkuM1j) | 2:13 |
 | 13 | [PULL UP](https://open.spotify.com/track/3gZHFbrbtx94WThAqx1n5Y) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [SINALOA](https://open.spotify.com/album/6uEfN3eghmQN8owe3jJrO1) | 2:56 |
 | 14 | [VARKARIS](https://open.spotify.com/track/049yfS33wXFjQtwTnx0iM6) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [VARKARIS](https://open.spotify.com/album/6CeJ6Iz9RTIiRt7JvNadoU) | 2:15 |
 | 15 | [Ximeromata](https://open.spotify.com/track/3KRxG52VYF3wPC7PVCrIxH) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Repetition](https://open.spotify.com/album/2hwW3zp6Hgxpjs5AiUVxuF) | 2:18 |

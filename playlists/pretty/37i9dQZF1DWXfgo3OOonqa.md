@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,940 likes - 105 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,948 likes - 105 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 4 | [PSYKOPAT](https://open.spotify.com/track/77nAkmz4FBTJsDowdaVheO) | [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [PSYKOPAT](https://open.spotify.com/album/3DM25HcNbARZv1HQ1tVAnE) | 1:56 |
 | 5 | [Love](https://open.spotify.com/track/0QJwHsJO0RXWj0D3bJ9kpm) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Love](https://open.spotify.com/album/1K9qmgDs1Wqq2YNyWEVjRY) | 2:31 |
 | 6 | [PRATGLAD](https://open.spotify.com/track/7HPPZdfQj2QMbVD2vIIciX) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [PRATGLAD](https://open.spotify.com/album/3F3q3b2vrhTigpbZIlO64G) | 2:05 |
-| 7 | [Låter Dig Gå](https://open.spotify.com/track/6nS8ssWeodzcBic4L3ILtF) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Låter Dig Gå](https://open.spotify.com/album/1zbCtimxs5Ar5Aot3jh9Re) | 2:31 |
-| 8 | [VEM E DU?](https://open.spotify.com/track/7a0sAadzyZfGC9s3Il2PPw) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [VEM E DU?](https://open.spotify.com/album/4pMwbEtyuwQcQtx19m9VpK) | 1:59 |
-| 9 | [Don Julio](https://open.spotify.com/track/17XpwVB67mYAaYjKtoOpP3) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Don Julio](https://open.spotify.com/album/2RmBJrwoTQsw5Dm3kRtWWk) | 2:18 |
-| 10 | [Du Va Min](https://open.spotify.com/track/4yfMUDPf33Kyt2ZLzDSlTh) | [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Du Va Min](https://open.spotify.com/album/1LBSvlZt6VHkxIqRLUYon4) | 2:45 |
-| 11 | [Röntgen \(feat\. B.Baby\)](https://open.spotify.com/track/72NFdzj9EKOQXJg15Frqfk) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Röntgen \(feat\. B.Baby\)](https://open.spotify.com/album/5x00ErGXtucvRQrJNgBpwq) | 2:34 |
-| 12 | [MAMA](https://open.spotify.com/track/7qCpmvYY5q7AiQtYoyQb9N) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [MAMA](https://open.spotify.com/album/5tTZeNTXoHd4LXRvr4BvM3) | 2:28 |
+| 7 | [Don Julio](https://open.spotify.com/track/17XpwVB67mYAaYjKtoOpP3) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Don Julio](https://open.spotify.com/album/2RmBJrwoTQsw5Dm3kRtWWk) | 2:18 |
+| 8 | [Låter Dig Gå](https://open.spotify.com/track/6nS8ssWeodzcBic4L3ILtF) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Låter Dig Gå](https://open.spotify.com/album/1zbCtimxs5Ar5Aot3jh9Re) | 2:31 |
+| 9 | [Röntgen \(feat\. B.Baby\)](https://open.spotify.com/track/72NFdzj9EKOQXJg15Frqfk) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Röntgen \(feat\. B.Baby\)](https://open.spotify.com/album/5x00ErGXtucvRQrJNgBpwq) | 2:34 |
+| 10 | [MAMA](https://open.spotify.com/track/7qCpmvYY5q7AiQtYoyQb9N) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [MAMA](https://open.spotify.com/album/5tTZeNTXoHd4LXRvr4BvM3) | 2:28 |
+| 11 | [Du Va Min](https://open.spotify.com/track/4yfMUDPf33Kyt2ZLzDSlTh) | [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Du Va Min](https://open.spotify.com/album/1LBSvlZt6VHkxIqRLUYon4) | 2:45 |
+| 12 | [VEM E DU?](https://open.spotify.com/track/7a0sAadzyZfGC9s3Il2PPw) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [VEM E DU?](https://open.spotify.com/album/4pMwbEtyuwQcQtx19m9VpK) | 1:59 |
 | 13 | [GANGLAND](https://open.spotify.com/track/6lBj8WtbFwEkcVEhmu5CVb) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw) | [GANGLAND](https://open.spotify.com/album/5GD85xat73kbZFaWStvPsR) | 2:36 |
 | 14 | [HATA](https://open.spotify.com/track/1f3OXHrLzmDMD90LTyW1j6) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [ProdByR1](https://open.spotify.com/artist/5U8wjIW3UWL3B7Hee3VaDQ), [LLoke](https://open.spotify.com/artist/6ng8zL1LSR6gntI00mGS2Z) | [HATA](https://open.spotify.com/album/7MQJYvaa5KA13y1dDB29sr) | 1:49 |
 | 15 | [Maradona](https://open.spotify.com/track/1gwnYp4LVSgwJevjiu5Fld) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Maradona](https://open.spotify.com/album/2xxSgY1O5cnVmOJEjJLZd4) | 1:56 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 104 | [DROWNING](https://open.spotify.com/track/2d6x84uooJhxNfbIgKNj5q) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [DROWNING](https://open.spotify.com/album/150eFWaolpBjm1phWIgDbc) | 2:15 |
 | 105 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
 
-Snapshot ID: `aAF55QAAAAC+a+Zp8omfVKqNZ5NmBhtl`
+Snapshot ID: `aAdINQAAAACwf201mCOI7/TA3CXJEb71`
