@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: paulkyte\(폴카이트\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: gani\)
 
 512 songs - 1 day 3 hr 45 min
 

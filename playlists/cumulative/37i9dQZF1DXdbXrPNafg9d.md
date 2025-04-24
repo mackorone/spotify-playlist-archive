@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Tunde Adebimpe
 
-8,648 songs - 21 day 0 hr 12 min
+8,649 songs - 21 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1449,6 +1449,7 @@
 | [circle the drain \- Gentle Dom Remix \- Andrew VanWyngarden of MGMT](https://open.spotify.com/track/0f4ggUEmo0TR7FNsnwy18n) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Gentle Dom](https://open.spotify.com/artist/7pCyWyDRP3yk3MJ7mYFmvc) | [Soccer Mommy & Friends Singles Series, Vol\. 3: Gentle Dom](https://open.spotify.com/album/5HAN15ZGe6FIFyY4oLuPul) | 4:40 | 2020-06-19 | 2020-07-10 |
 | [circles](https://open.spotify.com/track/6EgsTFt06FEbGG631Wu6VB) | [anvii](https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ) | [circles](https://open.spotify.com/album/76GON9LRMBf8TbNBMjVy0z) | 3:57 | 2024-06-21 | 2024-07-19 |
 | [Circles](https://open.spotify.com/track/0SlPV0jmrPzC0XPFvh0LJD) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Circles](https://open.spotify.com/album/7ifAJm2h62kb7N68TVVsad) | 2:05 | 2022-08-26 | 2022-09-24 |
+| [Citrus](https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Citrus](https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX) | 3:07 | 2025-04-23 |  |
 | [City](https://open.spotify.com/track/70Sx9jk4M8XoME9VA9t7cE) | [Sound of Honey](https://open.spotify.com/artist/5L6uoIDsPWkcsYmvBU49FG) | [City](https://open.spotify.com/album/7cCbI9ZRrLLYsucq7PZ4Ky) | 2:52 | 2022-02-25 | 2022-04-16 |
 | [City Bus](https://open.spotify.com/track/51g7czCKTQSJl0Sxyhqoxk) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [City Bus](https://open.spotify.com/album/54WCRHplABa3y3NPT11dVJ) | 2:20 | 2024-07-12 | 2024-08-17 |
 | [City Slicker](https://open.spotify.com/track/1dDUoKaxiCxP2Mhh4ze5el) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [City Slicker](https://open.spotify.com/album/33K5IcF2vhHvTxKVgIALWu) | 2:07 | 2021-08-21 | 2021-10-02 |
@@ -7223,7 +7224,7 @@
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/1XmhBZq2QahjdqebUbFwTW) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/album/6F92H0EuolbqbRUE4BygP8) | 2:45 | 2020-05-29 | 2020-06-29 |
 | [Take Me to the Light](https://open.spotify.com/track/6xxldyD49GihQ9HULyNIQb) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Take Me to the Light](https://open.spotify.com/album/4HDdX1Pt0kmyC2iZPodz8Y) | 4:15 | 2019-09-06 | 2019-10-11 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2020-10-09 | 2020-12-22 |
-| [Take Me with You](https://open.spotify.com/track/0KIhaQSQT3Eq5K3UHsUNgm) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [This Is How It Ends](https://open.spotify.com/album/11MLXwJbukdrDxcKcLtlOj) | 4:17 | 2025-03-14 |  |
+| [Take Me with You](https://open.spotify.com/track/0KIhaQSQT3Eq5K3UHsUNgm) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [This Is How It Ends](https://open.spotify.com/album/11MLXwJbukdrDxcKcLtlOj) | 4:17 | 2025-03-14 | 2025-04-24 |
 | [Take This Water](https://open.spotify.com/track/1jYU08vNzY21fG21NMMTf4) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Soon We'll All Be Smoking](https://open.spotify.com/album/0NiTx4og5ObpzpfY13SG5W) | 2:48 | 2024-07-26 | 2024-08-24 |
 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 | 2024-02-02 | 2024-03-09 |
 | [Take You Back](https://open.spotify.com/track/5xjDVAPLOovtYtzswnCxRS) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Take You Back](https://open.spotify.com/album/4KQ1bIDdoQgUILRQBxiWkB) | 3:36 | 2019-09-06 | 2019-10-18 |

@@ -4,7 +4,7 @@
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-458 songs - 21 hr 28 min
+459 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Ich gönn mir Eiscreme](https://open.spotify.com/track/0V7bnkaD5CBAdfKDVE7xGJ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:30 | 2025-03-28 | 2025-04-14 |
 | [Ich hab eine feine Laterne](https://open.spotify.com/track/5D6VL3ggSYvdj4zauqWw9Q) | [Kati Breuer](https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy) | [Sankt Martin ritt durch Schnee und Wind \- Die 25 schönsten Laternenlieder](https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y) | 1:49 | 2023-11-05 | 2024-11-15 |
 | [Ich lass mich nicht ärgern](https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [Berlin Radio Children's Choir](https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ) | [Ich lass mich nicht ärgern](https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N) | 3:19 | 2024-03-01 | 2024-11-08 |
+| [Ich lieb den Frühling](https://open.spotify.com/track/72UWqWn7JLxjhQiX8zpey1) | [Rodscha aus Kambodscha und Tom Palme](https://open.spotify.com/artist/0IvoDjHNSZzwZDczTO3LeK) | [Ich lieb den Frühling](https://open.spotify.com/album/2vyChbBARntkqM2eYJBujN) | 1:50 | 2025-04-23 |  |
 | [Ich lieb den Frühling](https://open.spotify.com/track/3UvFfxNQFGEa1jIOVWuyrf) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:57 | 2024-03-01 |  |
 | [Ich liebe alle Sterne \(Laternenlied\)](https://open.spotify.com/track/7Mwi1YiX4xp2Bo6654p2Sf) | [Kati Breuer](https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy), [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Ich liebe alle Sterne \(Laternenlied\)](https://open.spotify.com/album/1rdaF7ppns4a1ebTYxupqW) | 2:31 | 2023-11-05 | 2024-11-15 |
 | [Ich liebe den Frühling 😊](https://open.spotify.com/track/40l8za7YRSWkNGaTdBelUB) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Kinderlieder \- Frühling & Ostern](https://open.spotify.com/album/5Whc7quTjPIXUT3aYsZF3z) | 2:04 | 2024-03-01 |  |
@@ -215,7 +216,7 @@
 | [Im Frühtau zu Berge](https://open.spotify.com/track/7I8Eo73Pmvnc1HBwP2eDtO) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 6](https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS) | 2:14 | 2024-03-01 |  |
 | [Im Karneval](https://open.spotify.com/track/3zfB2pRkeGehBLmswe3nS1) | [Die Biene Maja](https://open.spotify.com/artist/7GfaHcpmNcrcHoyGnOBsAz) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 3:25 | 2024-02-06 | 2025-03-06 |
 | [Im KinderLiederKarneval \- Originalversion](https://open.spotify.com/track/1Zc2S3C8Jwi1ZBc0aSQcNj) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Im KinderLiederKarneval](https://open.spotify.com/album/1KDpIRUO6pgA5BKQfbXTY0) | 3:17 | 2024-02-06 | 2025-03-06 |
-| [Im Märzen der Bauer](https://open.spotify.com/track/0TvMafU339waUj547Wpujx) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Traditionelle Kinderlieder](https://open.spotify.com/album/7jZ5EaEDOwMrXcBc8TE971) | 1:40 | 2024-04-02 |  |
+| [Im Märzen der Bauer](https://open.spotify.com/track/0TvMafU339waUj547Wpujx) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Traditionelle Kinderlieder](https://open.spotify.com/album/7jZ5EaEDOwMrXcBc8TE971) | 1:40 | 2024-04-02 | 2025-04-24 |
 | [Im Sommer](https://open.spotify.com/track/0TVycvoTx7UQIooIU01PwE) | [Hape Kerkeling](https://open.spotify.com/artist/3CJ0RVE3IsRub5KQLN0rtl) | [Die Eiskönigin Völlig Unverfroren \(Deutscher Original Film Soundtrack\)](https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N) | 1:51 | 2023-11-14 | 2025-02-27 |
 | [Immer wieder kommt ein neuer Frühling](https://open.spotify.com/track/5uzcODmXFN4RjfdaXEVyKa) | [Charlie Glass Kinder Lieder](https://open.spotify.com/artist/2UN1knsjZgMRmNvlmP8Cvx) | [Die schönsten Lieder: Durch das Jahr](https://open.spotify.com/album/0QxB4qqWZuGue8DMlaHoov) | 2:59 | 2024-04-02 |  |
 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 | 2023-06-28 | 2024-09-10 |

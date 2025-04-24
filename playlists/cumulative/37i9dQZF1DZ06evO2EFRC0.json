@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "Cuan Grande Es el",
+        "url": "https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt"
+      },
+      "artists": [
+        {
+          "name": "Eunice Rodriguez",
+          "url": "https://open.spotify.com/artist/2hgP8nOel52OiqwXIFxZYD"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284383,
+      "name": "Cuan Grande Es el",
+      "url": "https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva"
+    },
+    {
+      "album": {
         "name": "Homenaje a Jes\u00fas",
         "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
@@ -1150,7 +1172,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 162521,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/5oxlg8P9xLLB6sHxBXdyOA"
@@ -1168,7 +1190,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 164586,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/0k6MpTbOusOwZVY6QTJ9kQ"
@@ -1548,7 +1570,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 113626,
       "name": "Tu Amor por M\u00ed",
       "url": "https://open.spotify.com/track/3xZX2uiPACsDdMRNQkSfh0"

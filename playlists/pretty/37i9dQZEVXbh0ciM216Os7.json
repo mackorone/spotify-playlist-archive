@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACKzYrCvZTiZZ8cDMnzSjRa",
+  "snapshot_id": "AAAAAAAAAAB0avw0L3cR+OAzb/yva3TQ",
   "tracks": [
     {
       "added_at": "2025-04-18 04:00:00",
@@ -51,6 +51,22 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
+        "name": "METATRON",
+        "url": "https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn"
+      },
+      "artists": [
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 163018,
+      "name": "METATRON",
+      "url": "https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
         "name": "The Light EP",
         "url": "https://open.spotify.com/album/2H5Pz5dITZLcPOq4hMDfPI"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 187391,
       "name": "Trojan Horse",
       "url": "https://open.spotify.com/track/4Bnh2YzHjOGnMo0pB72CC5"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "METATRON",
-        "url": "https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn"
-      },
-      "artists": [
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 163018,
-      "name": "METATRON",
-      "url": "https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -147,6 +147,26 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
+        "name": "TRY",
+        "url": "https://open.spotify.com/album/3aRDrfQdwSjCzIetgFGC13"
+      },
+      "artists": [
+        {
+          "name": "TRY",
+          "url": "https://open.spotify.com/artist/6oCXqCGg4iqbwPftjbZIHg"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        }
+      ],
+      "duration_ms": 116645,
+      "name": "The Art of Listening (with RZA)",
+      "url": "https://open.spotify.com/track/2SWMebYbkkx7zZsnsfVPrk"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/4X5xLiyiz2uv2uTYdtC6cc"
       },
@@ -171,46 +191,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "TRY",
-        "url": "https://open.spotify.com/album/3aRDrfQdwSjCzIetgFGC13"
-      },
-      "artists": [
-        {
-          "name": "TRY",
-          "url": "https://open.spotify.com/artist/6oCXqCGg4iqbwPftjbZIHg"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        }
-      ],
-      "duration_ms": 116645,
-      "name": "The Art of Listening (with RZA)",
-      "url": "https://open.spotify.com/track/2SWMebYbkkx7zZsnsfVPrk"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/2sH5rG6MxVFjYA2PG777fv"
-      },
-      "artists": [
-        {
-          "name": "KaizanBlu",
-          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
-        },
-        {
-          "name": "Ignacio Arr\u00faa",
-          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
-        }
-      ],
-      "duration_ms": 130701,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/0cZYSpHP1FzZT1JWnUaq2p"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Kush + Orange Juice 2",
         "url": "https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 228732,
       "name": "Jet Taylor - feat. Terrace Martin and Curren$y",
       "url": "https://open.spotify.com/track/7iPvtDaI6p06iusfigUrC7"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/2sH5rG6MxVFjYA2PG777fv"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        }
+      ],
+      "duration_ms": 130701,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/0cZYSpHP1FzZT1JWnUaq2p"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -262,11 +262,15 @@
         {
           "name": "Philip Glass Ensemble",
           "url": "https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp"
+        },
+        {
+          "name": "Tara Starling Khozein",
+          "url": "https://open.spotify.com/artist/5OAELHadbJaydUGctwNQSp"
         }
       ],
-      "duration_ms": 445825,
-      "name": "Act II (Facades)",
-      "url": "https://open.spotify.com/track/16Ewc48JyYhULUczHNCyqE"
+      "duration_ms": 409597,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/7LxWC0UHXpsGKaVqdtDPf4"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -371,62 +375,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Pushin'",
-        "url": "https://open.spotify.com/album/55e7eIOsYPOX97m8tMIAlt"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 155920,
-      "name": "Pushin'",
-      "url": "https://open.spotify.com/track/42VKGfjd6sX2avPqqNJ0Lc"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 317789,
-      "name": "Lazarus",
-      "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Fully Automatic Rhymes (Old School Remix)",
-        "url": "https://open.spotify.com/album/12Vsw8dICMaGk5RMZxQv3H"
-      },
-      "artists": [
-        {
-          "name": "DJ Mark One",
-          "url": "https://open.spotify.com/artist/0GTAaiqnJj7PKLyvYMkp0w"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Fully Automatic Rhymes - Old School Remix",
-      "url": "https://open.spotify.com/track/4JNGY7n6d7wVPskxwFBxmj"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Say Yes",
         "url": "https://open.spotify.com/album/3KvajQirBv0q6FPpD3JNag"
       },
@@ -455,6 +403,62 @@
       "duration_ms": 414306,
       "name": "Say Yes (extended jam) (Feat. SiR, Andre Dre Harris, Thundercat, Charlie Bereal, Chris Dave)",
       "url": "https://open.spotify.com/track/0TcjXS0oZsDbu7AVX1jYAT"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Pushin'",
+        "url": "https://open.spotify.com/album/55e7eIOsYPOX97m8tMIAlt"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "duration_ms": 155920,
+      "name": "Pushin'",
+      "url": "https://open.spotify.com/track/42VKGfjd6sX2avPqqNJ0Lc"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Fully Automatic Rhymes (Old School Remix)",
+        "url": "https://open.spotify.com/album/12Vsw8dICMaGk5RMZxQv3H"
+      },
+      "artists": [
+        {
+          "name": "DJ Mark One",
+          "url": "https://open.spotify.com/artist/0GTAaiqnJj7PKLyvYMkp0w"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Fully Automatic Rhymes - Old School Remix",
+      "url": "https://open.spotify.com/track/4JNGY7n6d7wVPskxwFBxmj"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 317789,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -511,22 +515,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/6FxiYTl0Ht63ZdtgtjLIGg"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 273146,
-      "name": "Wires (Lazarus Version)",
-      "url": "https://open.spotify.com/track/4Wjhmh0mRCKDSBCMcIyWut"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Loco (feat. Migos) [Remix]",
         "url": "https://open.spotify.com/album/1B2pHhRl3P87uOq5ZE1n6Q"
       },
@@ -551,6 +539,22 @@
       "duration_ms": 157648,
       "name": "Loco (feat. Migos) - Remix",
       "url": "https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6FxiYTl0Ht63ZdtgtjLIGg"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 273146,
+      "name": "Wires (Lazarus Version)",
+      "url": "https://open.spotify.com/track/4Wjhmh0mRCKDSBCMcIyWut"
     },
     {
       "added_at": "2025-04-18 04:00:00",

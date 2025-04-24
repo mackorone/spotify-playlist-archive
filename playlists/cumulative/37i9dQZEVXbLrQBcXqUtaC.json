@@ -11138,7 +11138,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -12794,7 +12794,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 221224,
       "name": "Lammah",
       "url": "https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT"
@@ -15774,10 +15774,28 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 71392,
       "name": "MONTAGEM TOMADA",
       "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71392,
+      "name": "MONTAGEM TOMADA",
+      "url": "https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R"
     },
     {
       "album": {
@@ -15799,6 +15817,24 @@
     },
     {
       "album": {
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84901,
+      "name": "MONTAGEM TOMADA - Slowed",
+      "url": "https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR"
+    },
+    {
+      "album": {
         "name": "MONTAGEM TOMADA (Slowed)",
         "url": "https://open.spotify.com/album/3nD6GXdrRSDaGd4iOr2zC2"
       },
@@ -15810,7 +15846,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 84901,
       "name": "MONTAGEM TOMADA - Slowed",
       "url": "https://open.spotify.com/track/7lMdvefvlMkYEac3ggF9u9"
@@ -20624,7 +20660,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 164398,
       "name": "Seoul City",
       "url": "https://open.spotify.com/track/4zUob9iYFS9TgAR0hgo5pR"
@@ -28188,7 +28224,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 159168,
       "name": "\u0627\u064a\u0628\u0627\u0647 (\u0631\u064a\u0645\u0643\u0633)",
       "url": "https://open.spotify.com/track/0vGAjG4vLZmyZvnCWKW0WG"
@@ -30265,6 +30301,24 @@
     },
     {
       "album": {
+        "name": "\u0644\u0645\u0627\u062d",
+        "url": "https://open.spotify.com/album/2XZhCvQuYSrDQwRQuZN8aU"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221224,
+      "name": "\u0644\u0645\u0627\u062d",
+      "url": "https://open.spotify.com/track/3Ojh6exk7ODqOowjKlhSYt"
+    },
+    {
+      "album": {
         "name": "\u0644\u0648 \u0643\u0627\u0646 \u0627\u0644\u062d\u064a\u0637 \u0633\u0627\u0645\u0639 \u0647\u0645 \u0627\u0644\u0645\u0648\u062c\u0648\u0639",
         "url": "https://open.spotify.com/album/2gmC7PnhTa6PfLXVzTcvjO"
       },
@@ -30708,7 +30762,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 291657,
       "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
       "url": "https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP"

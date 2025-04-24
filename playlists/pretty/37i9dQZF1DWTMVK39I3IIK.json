@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   Ang\u00e5ende Mig",
-  "num_followers": 46282,
+  "num_followers": 46289,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-04-17 22:00:10",
       "album": {
-        "name": "I Know All The Words But I Can't Say Goodbye",
-        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
-      },
-      "artists": [
-        {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
-        }
-      ],
-      "duration_ms": 207558,
-      "name": "We Grow",
-      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
-    },
-    {
-      "added_at": "2025-04-17 22:00:10",
-      "album": {
         "name": "G\u00e5 Itu",
         "url": "https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 214787,
       "name": "G\u00e5 Itu",
       "url": "https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P"
+    },
+    {
+      "added_at": "2025-04-17 22:00:10",
+      "album": {
+        "name": "I Know All The Words But I Can't Say Goodbye",
+        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
+      },
+      "artists": [
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "duration_ms": 207558,
+      "name": "We Grow",
+      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
     },
     {
       "added_at": "2025-04-17 22:00:10",
@@ -1035,18 +1035,26 @@
     {
       "added_at": "2025-04-17 22:00:10",
       "album": {
-        "name": "Alt hvad jeg vil",
-        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
+        "name": "S\u00e5dan nogen som os",
+        "url": "https://open.spotify.com/album/15PAmqov9dExYI5756SSfl"
       },
       "artists": [
         {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+          "name": "PIND",
+          "url": "https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q"
+        },
+        {
+          "name": "OKAYNICO",
+          "url": "https://open.spotify.com/artist/0moGh7WEOH25xy8gZvpY3a"
+        },
+        {
+          "name": "Martin Johannes Larsen",
+          "url": "https://open.spotify.com/artist/5MRuy6GE6v6wUrCrvrF6mt"
         }
       ],
-      "duration_ms": 224980,
-      "name": "Alt hvad jeg vil",
-      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
+      "duration_ms": 188823,
+      "name": "S\u00e5dan nogen som os",
+      "url": "https://open.spotify.com/track/2rcPLBGIR2ZeXkcKuuTgwN"
     },
     {
       "added_at": "2025-04-17 22:00:10",
@@ -1067,18 +1075,18 @@
     {
       "added_at": "2025-04-17 22:00:10",
       "album": {
-        "name": "Liber",
-        "url": "https://open.spotify.com/album/6rJxbCvszcQZrx4P7Q27Rj"
+        "name": "Alt hvad jeg vil",
+        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
         }
       ],
-      "duration_ms": 220125,
-      "name": "En Fremmed",
-      "url": "https://open.spotify.com/track/66TnIRXFDETjxQnE0l4KKD"
+      "duration_ms": 224980,
+      "name": "Alt hvad jeg vil",
+      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
     },
     {
       "added_at": "2025-04-17 22:00:10",
@@ -1099,6 +1107,22 @@
     {
       "added_at": "2025-04-17 22:00:10",
       "album": {
+        "name": "Liber",
+        "url": "https://open.spotify.com/album/6rJxbCvszcQZrx4P7Q27Rj"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "En Fremmed",
+      "url": "https://open.spotify.com/track/66TnIRXFDETjxQnE0l4KKD"
+    },
+    {
+      "added_at": "2025-04-17 22:00:10",
+      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/7mSxEwgm8OdwnOjv8urJlD"
       },
@@ -1111,42 +1135,6 @@
       "duration_ms": 189322,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/5GSCJ1hB5WziiebrCLixp8"
-    },
-    {
-      "added_at": "2025-04-17 22:00:10",
-      "album": {
-        "name": "H\u00e6rv\u00e6rk / Mesterv\u00e6rk: Side A",
-        "url": "https://open.spotify.com/album/2kLhXQO7TXZNp2fuLrhcRa"
-      },
-      "artists": [
-        {
-          "name": "Soleima",
-          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
-        }
-      ],
-      "duration_ms": 191223,
-      "name": "Ingenting Er \u00c9n Ting",
-      "url": "https://open.spotify.com/track/1TX8I69pBbZBWjFOUFQFrX"
-    },
-    {
-      "added_at": "2025-04-17 22:00:10",
-      "album": {
-        "name": "Pisk",
-        "url": "https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1"
-      },
-      "artists": [
-        {
-          "name": "Ganger",
-          "url": "https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT"
-        },
-        {
-          "name": "Choir Of Young Believers",
-          "url": "https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7"
-        }
-      ],
-      "duration_ms": 230635,
-      "name": "Klubben (feat. Choir Of Young Believers)",
-      "url": "https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN"
     },
     {
       "added_at": "2025-04-17 22:00:10",
@@ -1167,6 +1155,26 @@
       "duration_ms": 200325,
       "name": "D\u00e9r (feat. Wads)",
       "url": "https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k"
+    },
+    {
+      "added_at": "2025-04-17 22:00:10",
+      "album": {
+        "name": "Pisk",
+        "url": "https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1"
+      },
+      "artists": [
+        {
+          "name": "Ganger",
+          "url": "https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT"
+        },
+        {
+          "name": "Choir Of Young Believers",
+          "url": "https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7"
+        }
+      ],
+      "duration_ms": 230635,
+      "name": "Klubben (feat. Choir Of Young Believers)",
+      "url": "https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN"
     }
   ],
   "unique_name": "ung kniv ",

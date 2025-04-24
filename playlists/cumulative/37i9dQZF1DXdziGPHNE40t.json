@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Ambiance",
+        "url": "https://open.spotify.com/album/1EVoAtvMrWdNbDQwsqo1kP"
+      },
+      "artists": [
+        {
+          "name": "Black Door Band",
+          "url": "https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Ambiance",
+      "url": "https://open.spotify.com/track/4Ws3qsowDjLZUkuC0SXYs1"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07"
       },
@@ -2164,6 +2182,24 @@
       "duration_ms": 220189,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/3GaxNr64IWzj9FUhheY28E"
+    },
+    {
+      "album": {
+        "name": "Daisies in spring",
+        "url": "https://open.spotify.com/album/7BzLHyMKur3r6d59OhvSqe"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodman",
+          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192561,
+      "name": "Daisies in spring",
+      "url": "https://open.spotify.com/track/7HiQ6Km6AOsQFAKr8o0uFo"
     },
     {
       "album": {
@@ -4248,7 +4284,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 209000,
       "name": "I Love the Way You Smile",
       "url": "https://open.spotify.com/track/6hufmiqs1HOt6585VQZbPl"
@@ -6505,6 +6541,24 @@
     },
     {
       "album": {
+        "name": "Mirabelle",
+        "url": "https://open.spotify.com/album/6svrhdbZqSWr6lUuoF16nV"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222135,
+      "name": "Mirabelle",
+      "url": "https://open.spotify.com/track/5ZZUajubKFkpNW9eI8pedD"
+    },
+    {
+      "album": {
         "name": "Mirror Images",
         "url": "https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg"
       },
@@ -7272,7 +7326,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 163239,
       "name": "Next Door Guy",
       "url": "https://open.spotify.com/track/5kIrnMtnAFk3dG0nRq2EXw"
@@ -8483,6 +8537,24 @@
     },
     {
       "album": {
+        "name": "Satin Dreams",
+        "url": "https://open.spotify.com/album/5T7c9hQmy63VzcSD2sT0wW"
+      },
+      "artists": [
+        {
+          "name": "Honeysetts",
+          "url": "https://open.spotify.com/artist/4lqVmQcjP5RmM49wXt2uP4"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264892,
+      "name": "Satin Dreams",
+      "url": "https://open.spotify.com/track/1KmYqCE3lHEt2Y2bcnrvpS"
+    },
+    {
+      "album": {
         "name": "Satin Waltz",
         "url": "https://open.spotify.com/album/0yAvuc7VVniZC3iaUqSDJD"
       },
@@ -9684,7 +9756,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 246505,
       "name": "Strange Days",
       "url": "https://open.spotify.com/track/7es3Wz7J0kFwRztujCTGgN"
@@ -11700,7 +11772,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 121068,
       "name": "What The Heart Wants",
       "url": "https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay"
@@ -12096,7 +12168,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 188424,
       "name": "Wine and Dine",
       "url": "https://open.spotify.com/track/1HmkzrpKw75c4dL1rC05Qs"

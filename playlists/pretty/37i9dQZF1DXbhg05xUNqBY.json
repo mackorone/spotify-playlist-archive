@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 347228,
+  "num_followers": 347221,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Like Flowers In The Sun",
+        "url": "https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 238571,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 216400,
       "name": "Precious Gold",
       "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Like Flowers In The Sun",
-        "url": "https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 238571,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Who Is Greatest?",
-        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 214046,
-      "name": "Who Is Greatest?",
-      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "I Surrender",
         "url": "https://open.spotify.com/album/58xaNILsFV4VFsZEwmxeLt"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 233198,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/5O4XktnGcZlRw1Eqtg5BNJ"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Who Is Greatest?",
+        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 214046,
+      "name": "Who Is Greatest?",
+      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "With My Lips",
-        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "With My Lips",
-      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Do it Afraid",
         "url": "https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 164605,
       "name": "Do it Afraid",
       "url": "https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "With My Lips",
+        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "With My Lips",
+      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Hymn Of The Saviour",
-        "url": "https://open.spotify.com/album/727RkiET3zMhaLY90GWhUm"
+        "name": "King Of Grace",
+        "url": "https://open.spotify.com/album/2T1R3F4Bcli2u1xahLYBIl"
       },
       "artists": [
         {
-          "name": "Emu Music",
-          "url": "https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip"
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
         }
       ],
-      "duration_ms": 236693,
-      "name": "Hymn Of The Saviour",
-      "url": "https://open.spotify.com/track/0moPi4BLUGBU5zjkdc4Cxp"
+      "duration_ms": 334677,
+      "name": "King Of Grace",
+      "url": "https://open.spotify.com/track/7EMmx7cOPksZ2Fb5kXqzIC"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "King Of Grace",
-        "url": "https://open.spotify.com/album/2T1R3F4Bcli2u1xahLYBIl"
+        "name": "Hymn Of The Saviour",
+        "url": "https://open.spotify.com/album/727RkiET3zMhaLY90GWhUm"
       },
       "artists": [
         {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        },
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+          "name": "Emu Music",
+          "url": "https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip"
         }
       ],
-      "duration_ms": 334677,
-      "name": "King Of Grace",
-      "url": "https://open.spotify.com/track/7EMmx7cOPksZ2Fb5kXqzIC"
+      "duration_ms": 236693,
+      "name": "Hymn Of The Saviour",
+      "url": "https://open.spotify.com/track/0moPi4BLUGBU5zjkdc4Cxp"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 290526,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "You, First",
         "url": "https://open.spotify.com/album/6ve3Z2Ksar4KF6XdQiq5J8"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 155124,
       "name": "You, First",
       "url": "https://open.spotify.com/track/4wGoDelfywHkA5u2tW3P2j"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "All I Truly Know",
-        "url": "https://open.spotify.com/album/3uG7sSj5QiHYKTnv6oUhV3"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "All I Truly Know",
-      "url": "https://open.spotify.com/track/6h0AC9XW1XI89240ONvx7D"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/51liDjbYOuhLfFCpGATjqF"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 217084,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/63TTQznl7Jmazif66HLiab"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Dawn Til Dusk",
         "url": "https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N"
       },
@@ -1455,38 +1471,6 @@
       "duration_ms": 240375,
       "name": "Never Find",
       "url": "https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 290526,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/51liDjbYOuhLfFCpGATjqF"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 217084,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/63TTQznl7Jmazif66HLiab"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "All I Truly Know",
+        "url": "https://open.spotify.com/album/3uG7sSj5QiHYKTnv6oUhV3"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "All I Truly Know",
+      "url": "https://open.spotify.com/track/6h0AC9XW1XI89240ONvx7D"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "I Could Sing Of Your Love Forever",
         "url": "https://open.spotify.com/album/622dM9HGzrpibDW8zGAIIh"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 161101,
       "name": "I Could Sing Of Your Love Forever",
       "url": "https://open.spotify.com/track/00I5GhfySvAAkfBf4mcapg"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/5l2KQfrihfv6G3mKVORrGf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 144001,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/7y4LIfIofUaaf3Oy2lPlFM"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1595,22 +1611,6 @@
       "duration_ms": 197930,
       "name": "Lord I Need You",
       "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/5l2KQfrihfv6G3mKVORrGf"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 144001,
-      "name": "Return",
-      "url": "https://open.spotify.com/track/7y4LIfIofUaaf3Oy2lPlFM"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Be Still and Know His Name (Even the Wind and the Waves)",
+        "url": "https://open.spotify.com/album/64szHbQOTmhNi0w5Bl8PsV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 199378,
+      "name": "Be Still and Know His Name (Even the Wind and the Waves)",
+      "url": "https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
       },
@@ -1755,26 +1771,6 @@
       "duration_ms": 197500,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "In Christ Alone (En J\u00e9sus Seul)",
-        "url": "https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        },
-        {
-          "name": "Sebastien Corn",
-          "url": "https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "In Christ Alone (En J\u00e9sus Seul)",
-      "url": "https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ"
     }
   ],
   "unique_name": "Be Still",

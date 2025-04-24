@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-965 songs - 2 day 6 hr 31 min
+966 songs - 2 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [Remedy](https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Remedy](https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz) | 2:35 | 2022-04-26 | 2022-07-07 |
 | [Renaissance](https://open.spotify.com/track/2O333FGzBWwOxg0dSrPplb) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:48 | 2022-11-04 | 2022-11-22 |
 | [Renaissance](https://open.spotify.com/track/7moYWZMEBBi9JgO1vbmPU4) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Renaissance](https://open.spotify.com/album/2tMs4REgID4EI8n09Xt1U1) | 3:48 | 2022-09-30 | 2022-12-04 |
+| [Rendezvous](https://open.spotify.com/track/0hdbVFC6rzm2oqt1D7Zgn0) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [GILLIAD](https://open.spotify.com/artist/6AKiapdvTAXauBNZ7DxS3z), [Nina Sung](https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG) | [Rendezvous](https://open.spotify.com/album/0oS0q47PgZZNLTTb2s4Kn9) | 3:32 | 2025-04-23 |  |
 | [Repeating](https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Repeating](https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM) | 2:27 | 2023-05-25 | 2023-08-20 |
 | [Rescue Me](https://open.spotify.com/track/2eO91mgRHGTS14QfUrTS1a) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Rescue Me](https://open.spotify.com/album/5zCwzfOhRQWg6iBZoUvCsi) | 4:01 | 2023-07-11 | 2023-12-14 |
 | [restless](https://open.spotify.com/track/0HkqBi1na692hJl5nrTDit) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [restless](https://open.spotify.com/album/3EDRGL855m5gnbykVzektt) | 2:37 | 2023-07-24 | 2023-12-14 |

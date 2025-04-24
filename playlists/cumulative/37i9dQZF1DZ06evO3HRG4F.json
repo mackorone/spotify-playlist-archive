@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Dancin'Lou",
+      "url": "https://open.spotify.com/track/6zuMprZPxkv2rp26OdfIUO"
+    },
+    {
+      "album": {
         "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
         "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
@@ -700,7 +718,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 291426,
       "name": "Pero Apareciste T\u00fa",
       "url": "https://open.spotify.com/track/7u0Y2ZHmWqIs9FBzxFhzz6"

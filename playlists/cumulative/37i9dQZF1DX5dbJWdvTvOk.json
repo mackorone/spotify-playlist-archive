@@ -4561,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5tissRWcUnU3MG30bT31RQ"
+      },
+      "artists": [
+        {
+          "name": "Max Stewart",
+          "url": "https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow"
+        }
+      ],
+      "date_added": "2025-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168088,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0uAdQM9ASIA2W6LR33ApqU"
+    },
+    {
+      "album": {
         "name": "Floreio",
         "url": "https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu"
       },
@@ -8602,7 +8620,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 128791,
       "name": "Noir",
       "url": "https://open.spotify.com/track/2rhczOkABR6IuzCFTt3FGc"

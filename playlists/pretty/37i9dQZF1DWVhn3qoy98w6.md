@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: LHARA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,702 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,722 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 56 | [Prisión](https://open.spotify.com/track/1OcaPTTySIfTNwOVd2r05E) | [CHICO\-TRóPICO](https://open.spotify.com/artist/044JYgbV4jym1EDli6woQH) | [Prisión](https://open.spotify.com/album/7GtPNb2DRv9RBJXI5wL7kX) | 2:34 |
 | 57 | [Terco](https://open.spotify.com/track/2eaMSyoP5rAdMxWvA9w8rl) | [Hijo Terco Búfalo Gris](https://open.spotify.com/artist/1MOpuNN7nUO37e7pWO6m6U) | [Terco](https://open.spotify.com/album/7mH5BR7p1YI8i5ZQuTVGrt) | 2:40 |
 | 58 | [LinkedIn](https://open.spotify.com/track/6uaOAG6D8aoKo5elrSeMHw) | [MANI C](https://open.spotify.com/artist/6L2VGS6Z4exAX0zcQ7JjbV) | [LinkedIn](https://open.spotify.com/album/5q01ex3yL2WroFZ5OdIyhG) | 3:07 |
-| 59 | [luz](https://open.spotify.com/track/6Kq6z5yMkEcnwWxGvFsy2U) | [Reyes Santa](https://open.spotify.com/artist/3FfaTnYztr2YPiQeLSnGLg) | [luz](https://open.spotify.com/album/2c5l4KS0e8HMiBWstqwVHk) | 2:25 |
+| 59 | [luz](https://open.spotify.com/track/6Kq6z5yMkEcnwWxGvFsy2U) | [Reyes Santa](https://open.spotify.com/artist/3FfaTnYztr2YPiQeLSnGLg), [Rydez](https://open.spotify.com/artist/0ZBxVxamZWcOWqnBXB1bXG) | [luz](https://open.spotify.com/album/2c5l4KS0e8HMiBWstqwVHk) | 2:25 |
 | 60 | [Cristina](https://open.spotify.com/track/4fFL7V5vhXHsaQfNMcCDud) | [Malditas Gaviotas](https://open.spotify.com/artist/5NDXkVoVeB6qGr110Ofjlp), [Borinot](https://open.spotify.com/artist/2cbZEaexZenHamugSTG93g) | [Cristina](https://open.spotify.com/album/5ZJY3wEWUcV9UHVYCVxhVm) | 3:42 |
 | 61 | [No Me Gustas Puto Mundo](https://open.spotify.com/track/1ZJWXdR43S2OGBzt9M7VG9) | [Cannelo](https://open.spotify.com/artist/5F6rjiJYttFHcjVmLsaPrH) | [No Me Gustas Puto Mundo](https://open.spotify.com/album/5gNHvbAReffIBfLSpaXWaV) | 4:30 |
 | 62 | [Colonoscopia](https://open.spotify.com/track/4GBxNMgzFZocovBE4O9jq3) | [Pulpa](https://open.spotify.com/artist/6ps75B4LcSA52WteEQbmX9) | [Colonoscopia](https://open.spotify.com/album/65TQk0M8KlJnYwQbWNmDVY) | 4:14 |

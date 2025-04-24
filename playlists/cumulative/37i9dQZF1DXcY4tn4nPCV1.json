@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 154962,
       "name": "A Midnight Sun",
       "url": "https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 136107,
       "name": "Always Shining Bright",
       "url": "https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 126189,
       "name": "Bekendelser",
       "url": "https://open.spotify.com/track/1idq0k4ICUUMiBZ1fLLzje"
@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Ciclos de Tiempo",
+        "url": "https://open.spotify.com/album/5yTw2u7HHlEQxGwPiKf1eU"
+      },
+      "artists": [
+        {
+          "name": "Gogo Khoi",
+          "url": "https://open.spotify.com/artist/5Gz6VMJi61el4scZUa9YYb"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165023,
+      "name": "Ciclos de Tiempo",
+      "url": "https://open.spotify.com/track/6P0XK7PxB4LnG3dQAmzQIe"
+    },
+    {
+      "album": {
         "name": "Cinematique",
         "url": "https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 168089,
       "name": "Counting the Days",
       "url": "https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 126374,
       "name": "Feeling Free",
       "url": "https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe"
@@ -2540,7 +2558,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 148250,
       "name": "Fornaboda",
       "url": "https://open.spotify.com/track/0kMtMEFvFQjTa7H7bdkCKM"
@@ -4254,7 +4272,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 143874,
       "name": "Marietta",
       "url": "https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2"
@@ -5824,7 +5842,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 130909,
       "name": "Respectfully",
       "url": "https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt"
@@ -7030,7 +7048,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 141401,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/2aWGgqhHwF2UlU6qYeoef6"
@@ -7196,7 +7214,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 179181,
       "name": "Taciturn",
       "url": "https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1"
@@ -8082,7 +8100,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 128000,
       "name": "Valse",
       "url": "https://open.spotify.com/track/3IYzsI7pfsXJYJY41NoVRK"
@@ -8480,7 +8498,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 126326,
       "name": "Wayfarer",
       "url": "https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F"
@@ -8570,7 +8588,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 189750,
       "name": "Whereabouts",
       "url": "https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad"

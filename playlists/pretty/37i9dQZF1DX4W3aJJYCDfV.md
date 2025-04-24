@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Fontaines D.C., Addison Rae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,044 likes - 112 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,063 likes - 112 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 68 | [Trouble](https://open.spotify.com/track/2FAdOxqL00hDkLbaYsC4OR) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [Angie Brown](https://open.spotify.com/artist/1T94SgNcfrWDaZMOqlgP8F) | [Trouble](https://open.spotify.com/album/696KVov2rGLpkpSvqXkyQo) | 2:51 |
 | 69 | [Over & Out](https://open.spotify.com/track/3uAnkqq4sdsc4uHa2NClJl) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Over & Out](https://open.spotify.com/album/32SvBCSwgRIQuFuPnAtnjl) | 3:01 |
 | 70 | [METATRON](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [METATRON](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 |
-| 71 | [Hot Minute](https://open.spotify.com/track/3VSnGbIqvwYO2ocZCXjnou) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Hot Minute](https://open.spotify.com/album/5VZPYqmOTHfPZqPjRqLTJH) | 3:38 |
+| 71 | [Hot Minute \(feat\. Saïna\)](https://open.spotify.com/track/3VSnGbIqvwYO2ocZCXjnou) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Hot Minute \(feat\. Saïna\)](https://open.spotify.com/album/5VZPYqmOTHfPZqPjRqLTJH) | 3:38 |
 | 72 | [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 |
 | 73 | [Hop Out](https://open.spotify.com/track/5bQY5zShMxWIHxqzo4pey9) | [17](https://open.spotify.com/artist/7dvmA3dQimaTBUlZGYK6PM), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Hop Out](https://open.spotify.com/album/2omLle7K6aoaGP3GxniBKr) | 2:13 |
 | 74 | [Alone With You](https://open.spotify.com/track/5giAFOaU75UrQaxrA2LogE) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [Alone With You](https://open.spotify.com/album/6q72qpT7OGQyMdZjzcETmh) | 3:50 |

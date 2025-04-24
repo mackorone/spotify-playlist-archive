@@ -1127,6 +1127,28 @@
     },
     {
       "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/2Bs4SwzcMZg6bkn4FUZRBc"
+      },
+      "artists": [
+        {
+          "name": "CK YG",
+          "url": "https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2"
+        },
+        {
+          "name": "Paris",
+          "url": "https://open.spotify.com/artist/1rhJX5c273PukACkiOQEwy"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/0o5gPZnlIVN0tP2adyxtJd"
+    },
+    {
+      "album": {
         "name": "Choosy",
         "url": "https://open.spotify.com/album/0HVNpa18LV450niP7Mi0UU"
       },
@@ -2996,7 +3018,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 121845,
       "name": "Makasarili Malambing",
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
@@ -3420,6 +3442,28 @@
       "duration_ms": 189130,
       "name": "Naglaho",
       "url": "https://open.spotify.com/track/7dztgD8RDOSmPJGIHFlwnm"
+    },
+    {
+      "album": {
+        "name": "Need Ya",
+        "url": "https://open.spotify.com/album/4EcvomRZ4pQyAn241iWBQV"
+      },
+      "artists": [
+        {
+          "name": "Realest Cram",
+          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
+        },
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251808,
+      "name": "Need Ya",
+      "url": "https://open.spotify.com/track/73ggahUs8CQs2wmJlu7Cx9"
     },
     {
       "album": {
@@ -5146,7 +5190,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 238000,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz"

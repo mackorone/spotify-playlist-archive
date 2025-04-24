@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: CHUU
 
-1,441 songs - 3 day 4 hr 50 min
+1,442 songs - 3 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-03-08 | 2022-04-22 |
 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 | 2024-07-29 | 2024-09-20 |
 | [LUCKY BELL](https://open.spotify.com/track/2VoGeD6baYNu3L68jPOcgD) | [Gen1es](https://open.spotify.com/artist/27yhKgatOFk8Lpv5qIM1BB) | [LUCKY BELL](https://open.spotify.com/album/7cYsRrPEgsvZmrGeUJXuf6) | 2:45 | 2024-04-26 | 2024-05-24 |
+| [Lucky=One](https://open.spotify.com/track/0KUXg1wu5jnK5YzvF6cryR) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Lucky=One](https://open.spotify.com/album/1Evh1hzbbUwjBHFoaVQLBq) | 3:14 | 2025-04-23 |  |
 | [LUMINOUS](https://open.spotify.com/track/55z4CHK595oo1sXngKXdGN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/13B70JuY08wGNOMaL2Mb4e) | 3:58 | 2022-09-27 | 2022-11-23 |
 | [LUMINOUS](https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/2SK988TDKtheZT9zVozte4) | 3:58 | 2022-09-13 | 2022-10-14 |
 | [LUV LUV LUV \(Korean Version\)](https://open.spotify.com/track/7gFp8lhfCrQCskkTzLaFA6) | [GreatGuys](https://open.spotify.com/artist/5rl5eIP9MogVsjbIVUKK1y) | [RECORD OF YOUTH EP.1 DESTINY](https://open.spotify.com/album/3TDpMWzZ1xDZwYGS42bEnp) | 2:47 | 2023-06-20 | 2023-07-26 |
@@ -1394,7 +1395,7 @@
 | [ZERO](https://open.spotify.com/track/4XkeWqW7ogSSvFY6MpR6eP) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 2nd Single Album \[Villain : ZERO\]](https://open.spotify.com/album/0hqxfMNfdoP3b4vQY0nUNq) | 3:38 | 2022-06-14 | 2022-08-04 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-03 | 2023-08-11 |
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2021-12-23 | 2022-01-07 |
-| [zigy=zigy](https://open.spotify.com/track/3wTJIqW5RXvGjmrXuYDZUo) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [zigy=zigy](https://open.spotify.com/album/0bKqQCkR8OukOMQC6BEAIj) | 2:44 | 2025-03-06 |  |
+| [zigy=zigy](https://open.spotify.com/track/3wTJIqW5RXvGjmrXuYDZUo) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [zigy=zigy](https://open.spotify.com/album/0bKqQCkR8OukOMQC6BEAIj) | 2:44 | 2025-03-06 | 2025-04-24 |
 | [Zip Zip Zip](https://open.spotify.com/track/1WxZnMz2lcFskuyx6A7rYi) | [DXMON](https://open.spotify.com/artist/3696Y4dRCxairFC7sQAuI4) | [Youth Never DIE](https://open.spotify.com/album/2oNeawAl6GSDcgx7QHHdeG) | 3:14 | 2024-10-21 | 2024-12-14 |
 | [ZOOM](https://open.spotify.com/track/0qIs4x4LRxGPaA1lP4IS18) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [ZOOM](https://open.spotify.com/album/3sBVNx0uoo6vAzlosi8RhM) | 2:48 | 2025-01-31 |  |
 | [ZOOM](https://open.spotify.com/track/1BB29yzN0aKzyxiNFMveuA) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [ZOOM](https://open.spotify.com/album/1AHut3kK0ewXAhujWEhnhF) | 2:48 | 2024-11-19 | 2025-02-01 |

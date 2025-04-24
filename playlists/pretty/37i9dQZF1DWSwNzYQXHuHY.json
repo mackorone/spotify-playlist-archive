@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10982,
+  "num_followers": 10985,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-04-22 02:47:40",
       "album": {
+        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
+        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "duration_ms": 170746,
+      "name": "Say I Love U",
+      "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
+    },
+    {
+      "added_at": "2025-04-22 02:47:40",
+      "album": {
         "name": "GIRIBOY 11th LP Pt.1 : Why Are You always like this?",
         "url": "https://open.spotify.com/album/6SW0pohsRBjMtNLGutuzzn"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
-    },
-    {
-      "added_at": "2025-04-22 02:47:40",
-      "album": {
-        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
-        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
-      },
-      "artists": [
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        }
-      ],
-      "duration_ms": 170746,
-      "name": "Say I Love U",
-      "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
     },
     {
       "added_at": "2025-04-22 02:47:40",
@@ -807,30 +807,6 @@
     {
       "added_at": "2025-04-22 02:47:40",
       "album": {
-        "name": "What's On Your Mind? (Feat. UNE)",
-        "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
-        },
-        {
-          "name": "\uc73c\ub124 (UNE)",
-          "url": "https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW"
-        }
-      ],
-      "duration_ms": 156857,
-      "name": "What's On Your Mind? (Feat. UNE)",
-      "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
-    },
-    {
-      "added_at": "2025-04-22 02:47:40",
-      "album": {
         "name": "Winter Dance",
         "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 173124,
       "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
       "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
+    },
+    {
+      "added_at": "2025-04-22 02:47:40",
+      "album": {
+        "name": "What's On Your Mind? (Feat. UNE)",
+        "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "\uc73c\ub124 (UNE)",
+          "url": "https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW"
+        }
+      ],
+      "duration_ms": 156857,
+      "name": "What's On Your Mind? (Feat. UNE)",
+      "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
     }
   ],
   "unique_name": "\uc378 !",

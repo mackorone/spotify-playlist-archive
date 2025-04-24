@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-842 songs - 1 day 12 hr 10 min
+843 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-09 | 2022-12-22 |
 | [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 | 2024-02-05 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-02-02 | 2024-03-26 |
+| [Believe in Me](https://open.spotify.com/track/0L4WkLNkDvcvW2vBN2ZcGz) | [Thiméo Louis](https://open.spotify.com/artist/7HSPeHQoksIVtyoUioUGC8) | [Believe in Me](https://open.spotify.com/album/6M8PjIl3H0oFOsHy5pJJTe) | 2:03 | 2025-04-23 |  |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2021-12-13 | 2024-03-26 |
 | [Belleville](https://open.spotify.com/track/2QJXHDyxs9uqGvdcsR5g2h) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Belleville](https://open.spotify.com/album/3BDMka3g88n2O8S0UZAdPQ) | 2:22 | 2023-11-06 |  |
 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 | 2021-12-13 | 2022-05-27 |
@@ -398,7 +399,7 @@
 | [Kjærlighet](https://open.spotify.com/track/1UgFiq67HxKCD2rCeloW2V) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [Kjærlighet](https://open.spotify.com/album/65gHwlRipPDPscf5UK6dOF) | 3:01 | 2021-12-13 | 2022-09-13 |
 | [kloverberg](https://open.spotify.com/track/3TKBlpWAXmf6HGMu4GkLGD) | [Ove Roos](https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0) | [klöverberg](https://open.spotify.com/album/3iQCg7rFcYKJ4slM7r2VKP) | 2:49 | 2023-11-28 |  |
 | [Koto](https://open.spotify.com/track/0LWWi4CHmFfPDV005TLzPP) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Koto](https://open.spotify.com/album/0z58hOr09oGPCmEj0fIIWv) | 2:48 | 2021-12-13 | 2022-12-22 |
-| [L'aube](https://open.spotify.com/track/0BHvhpdDy5TcHjK2Fgrcjh) | [Patrick Maury](https://open.spotify.com/artist/2L45Yn85mKJs9hVQGcaXwS) | [L'aube](https://open.spotify.com/album/6gGss4PADu9mLuChpsMpZt) | 3:00 | 2025-03-31 |  |
+| [L'aube](https://open.spotify.com/track/0BHvhpdDy5TcHjK2Fgrcjh) | [Patrick Maury](https://open.spotify.com/artist/2L45Yn85mKJs9hVQGcaXwS) | [L'aube](https://open.spotify.com/album/6gGss4PADu9mLuChpsMpZt) | 3:00 | 2025-03-31 | 2025-04-24 |
 | [L'automne est là](https://open.spotify.com/track/7xpf7Qnslkz8n7PH20N4mV) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [L'automne est là](https://open.spotify.com/album/5SL3Sreq6F4aZK51eXYIm8) | 2:23 | 2022-01-18 | 2023-06-15 |
 | [L'habit ne fait pas le moine](https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [L'habit ne fait pas le moine](https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db) | 3:00 | 2021-12-13 | 2022-05-27 |
 | [La Cura de Lombao](https://open.spotify.com/track/6nXUKDdwjPTmOTfRiU5AvY) | [Bart Sunshine](https://open.spotify.com/artist/2x6y0xyollJ7JbXMybN2yv) | [La Cura de Lombao](https://open.spotify.com/album/3UjE2OA3MMSPzFldAOZHe0) | 1:59 | 2022-09-12 | 2023-08-22 |

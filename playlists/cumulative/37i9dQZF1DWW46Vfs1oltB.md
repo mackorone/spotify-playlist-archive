@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> HAON\(하온\)\)
 
-1,508 songs - 3 day 9 hr 39 min
+1,509 songs - 3 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [400km \(Feat\. Kid Milli\)](https://open.spotify.com/track/5PFqdHy3b9PGgfns2uVpE6) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Spirit Bomb](https://open.spotify.com/album/0RwKLOJGfjcG6MEu0EKJJh) | 3:31 | 2022-01-04 | 2022-05-21 |
 | [5 STARS \(To not die X Loopy, BLOO\)](https://open.spotify.com/track/3pIa8aJvOObCFLzRnKEmut) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [5 STARS \(To not die X Loopy, BLOO\)](https://open.spotify.com/album/7dNGt83chPpRyZaocO6tcS) | 2:43 | 2021-12-21 | 2022-07-01 |
 | [5882 \(OPPA ASAP\)](https://open.spotify.com/track/2mXkL3ZE9eCncPwc4aTsvC) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [5882 \(OPPA ASAP\)](https://open.spotify.com/album/1ibbXLP3T1UE7ve7MTqMsr) | 2:47 | 2023-07-27 | 2024-01-06 |
+| [59Freestyle](https://open.spotify.com/track/4X5FY6tFCo9u1QybP8roGc) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) | [Talk Less, Do More Part 1](https://open.spotify.com/album/2Q8XNYUYAxSgTGUJdspDI3) | 2:01 | 2025-04-23 |  |
 | [5am in Hongdae](https://open.spotify.com/track/31hw0yomOryemXXUNFhV5o) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [JASMINE](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [5am in Hongdae](https://open.spotify.com/album/7qcmZrKEDVivhsWtkeH6u1) | 2:51 | 2024-12-03 | 2025-03-13 |
 | [6 4\(N.W.A\) \[feat\. Swervy\]](https://open.spotify.com/track/69FQ06kg6kyU6eQ7Aqf2aW) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Bababa](https://open.spotify.com/artist/0rjtEpxCHJVfBahQU1X8Qz), [LGDNR HomeBoy](https://open.spotify.com/artist/2QDfa5cRnUZRWTiCfK2RaH), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [ㅇㅅㅇ](https://open.spotify.com/album/6TNmGaKD8BcJFI0p882xuk) | 2:22 | 2022-08-25 | 2022-12-10 |
 | [8 bars game up](https://open.spotify.com/track/0L4djl0ggbJUEY1n2PuV4r) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8) | [Drop The Bit Final Pt\. 1](https://open.spotify.com/album/1CXbpk3AaBor9rY0XRVZMn) | 3:49 | 2022-07-04 | 2022-07-06 |

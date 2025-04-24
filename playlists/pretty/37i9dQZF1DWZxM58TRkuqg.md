@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Nadhif Basalamah
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,888 likes - 83 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,930 likes - 83 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

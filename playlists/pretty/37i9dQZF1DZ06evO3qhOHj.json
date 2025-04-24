@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 29330,
+  "num_followers": 29335,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAWKgAAAAAA+xVGYmejSugqHHO5FBgR8",
+  "snapshot_id": "aAbcAAAAAAAU3hS91C2vYHbOl+mWncED",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big (2023 Remastered)",
-        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Addicted To That Rush - 2023 Remastered",
-      "url": "https://open.spotify.com/track/59I1DrJrPtVg3mSJ4ZCtu7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 211573,
       "name": "Ain't Seen Love Like That",
       "url": "https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big (2023 Remastered)",
+        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Addicted To That Rush - 2023 Remastered",
+      "url": "https://open.spotify.com/track/59I1DrJrPtVg3mSJ4ZCtu7"
     },
     {
       "added_at": null,
@@ -508,7 +508,7 @@
       "added_at": null,
       "album": {
         "name": "What If...",
-        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 265573,
-      "name": "Stranger In My Life",
-      "url": "https://open.spotify.com/track/1SgrsREYlgqJIGWvMU8GGK"
+      "duration_ms": 288746,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
     },
     {
       "added_at": null,
@@ -572,7 +572,7 @@
       "added_at": null,
       "album": {
         "name": "What If...",
-        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 288746,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
+      "duration_ms": 265573,
+      "name": "Stranger In My Life",
+      "url": "https://open.spotify.com/track/1SgrsREYlgqJIGWvMU8GGK"
     },
     {
       "added_at": null,

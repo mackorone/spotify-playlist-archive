@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,514 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,519 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 50 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 |
 
-Snapshot ID: `L5sGIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L5xXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

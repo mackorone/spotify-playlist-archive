@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-558 songs - 1 day 2 hr 59 min
+559 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [What Lies Ahead](https://open.spotify.com/track/7LyHmHqI6t5rpi2BDSlO0M) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 13 \- Flux \(Original Television Soundtrack\)](https://open.spotify.com/album/6QkKL4MKiahk0WnAKqMkze) | 3:32 | 2022-09-30 | 2024-11-21 |
 | [Whatever It Takes](https://open.spotify.com/track/6dU7upUDqJasYhxB4zliT5) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Kara Talve](https://open.spotify.com/artist/3EHtbaE4XfijksNLg8kK3N) | [The Tattooist of Auschwitz \(Original Series Soundtrack\)](https://open.spotify.com/album/3cx1ds4j6353nYetKxBOdX) | 3:52 | 2024-05-03 |  |
 | [Who You Are](https://open.spotify.com/track/5vgnRvuUVkic3Dhy1oGORc) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 3:38 | 2023-05-05 | 2025-01-11 |
+| [Why You Here / Before the Sun Went Down \(feat\. Miles Caton\) \- from "Sinners" Score](https://open.spotify.com/track/6i7iLbUerRyM7X614fUbHP) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU), [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:39 | 2025-04-23 |  |
 | [Wicked Games](https://open.spotify.com/track/0FXSdzre3I9GaBB444umzh) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Wicked Games \(From Westworld: Season 3\)](https://open.spotify.com/album/1raeE4103hULnR9XjAUhzF) | 5:31 | 2021-12-20 | 2022-07-09 |
 | [Wild Ride](https://open.spotify.com/track/6vo5T14EGkzZ1x6JbuJVrQ) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [No Good Deed \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1JBo3QTKlvZvByfef1sTj8) | 1:23 | 2025-01-07 |  |
 | [World On The Move](https://open.spotify.com/track/4VLgTzZqAJmvYgoOgrxDz5) | [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3), [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [Our Planet II \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7sN39aRsV6AQEOWELmxYaT) | 2:31 | 2023-06-23 | 2025-01-11 |

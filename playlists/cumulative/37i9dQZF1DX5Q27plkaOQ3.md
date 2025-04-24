@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with Subtronics
 
-998 songs - 2 day 7 hr 2 min
+999 songs - 2 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,7 @@
 | [NO LOVE](https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [NO LOVE](https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h) | 3:22 | 2021-12-17 | 2022-10-29 |
 | [No Love](https://open.spotify.com/track/2zPSCwMQCrLczV78bUCldh) | [Hostage Situation](https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON) | [No Love](https://open.spotify.com/album/5CY1wqfjnCowKym2EwyHKv) | 2:15 | 2024-10-04 | 2024-10-07 |
 | [No Man's Land](https://open.spotify.com/track/3nALdbtF15cI6X8BC4b1vP) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [HURTBOX](https://open.spotify.com/artist/7rGhKsxlC6oLrCZmvh9rX6) | [No Man's Land](https://open.spotify.com/album/3GXvMlbnXFqM8TwtWmQlr8) | 3:05 | 2024-02-02 | 2025-01-11 |
-| [No Mercy](https://open.spotify.com/track/6bhRyUYwuVC5uddHVP3zb0) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [No Mercy](https://open.spotify.com/album/10WwLgHVlQzrMpQJmTV4Ec) | 2:59 | 2024-04-12 |  |
+| [No Mercy](https://open.spotify.com/track/6bhRyUYwuVC5uddHVP3zb0) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [No Mercy](https://open.spotify.com/album/10WwLgHVlQzrMpQJmTV4Ec) | 2:59 | 2024-04-12 | 2025-04-24 |
 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2024-11-23 |  |
 | [No Rules](https://open.spotify.com/track/0j78Fsqk81u0NeqbmSiBQQ) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [No Rules](https://open.spotify.com/album/18gaoo9LqVkmmsvFszPVKf) | 2:10 | 2023-03-31 | 2024-04-19 |
 | [No Rules](https://open.spotify.com/track/6HYx52WlKFIQxiOJg1eY2n) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [No Rules](https://open.spotify.com/album/5LSfpXKFTSWKBMLWmgWN25) | 2:10 | 2022-10-14 | 2023-02-26 |
@@ -960,6 +960,7 @@
 | [Ups and Downs](https://open.spotify.com/track/4H3lfEQqrv1Kh3CXVYmMwW) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Ups and Downs](https://open.spotify.com/album/3HmjsrA5wJt2T8Lch6xMyx) | 4:27 | 2025-04-11 |  |
 | [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 | 2021-12-17 | 2023-04-01 |
 | [VAMPIRE](https://open.spotify.com/track/4nDQP2tdsxDsqpzA42lp3b) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [VAMPIRE](https://open.spotify.com/album/44bLwAuqP3yWduonfrklF7) | 3:05 | 2024-08-09 | 2025-03-30 |
+| [Vibrations](https://open.spotify.com/track/0ufc66j3DMgC36BRV4lDwY) | [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Vibrations](https://open.spotify.com/album/3lTrsqe1chZBQqXNHi3xu8) | 3:30 | 2025-04-18 |  |
 | [Voices](https://open.spotify.com/track/2djhpOJMkWCjNh3aggayyJ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE) | [Voices](https://open.spotify.com/album/0GAQ0au4glYJ2wJAaEkb5L) | 3:09 | 2022-02-25 | 2022-08-22 |
 | [Voices](https://open.spotify.com/track/74xGI2SshPv14Rg0kOiyRv) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Voices](https://open.spotify.com/album/3ZBZUT81UWro8rfdcxop06) | 3:15 | 2023-03-10 | 2023-12-02 |
 | [VOLTAGE](https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:09 | 2025-04-04 |  |

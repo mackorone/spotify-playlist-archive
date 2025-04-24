@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: El Taiger
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,767 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,823 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 20 | [Corazon Callejero](https://open.spotify.com/track/5Gp5OYkKpfGT2WKmHvCCfy) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Corazon Callejero](https://open.spotify.com/album/26bcaLoIE0UurvkDgNMxBE) | 2:48 |
 | 21 | [El Negrito](https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [De Menor a Mayor](https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs) | 2:56 |
 | 22 | [Soltera](https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Soltera](https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee) | 2:51 |
-| 23 | [Plan B \- Prod\. by Ernesto Losa](https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5) | [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Plan B](https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8) | 2:55 |
+| 23 | [Plan B \- Prod\. by Ernesto Losa x Roberto Ferrante](https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5) | [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Plan B](https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8) | 2:55 |
 | 24 | [Lagrimas de Champan](https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [El Carli](https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1) | [Lagrimas de Champan](https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E) | 3:15 |
 | 25 | [La Dura](https://open.spotify.com/track/3MhY2IqU3KHxi5IXPDjLB8) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Cuba Hits 2016 \- Salsa, Reggaeton, Pop, Timba, Urbano](https://open.spotify.com/album/75SVuR27f357eZ8J3Vdeie) | 3:54 |
 | 26 | [Quiérete](https://open.spotify.com/track/2O16sRdYyu4POSZklWErrb) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Quiérete](https://open.spotify.com/album/0ZS3u4DW0yl21jzb8CipES) | 3:10 |

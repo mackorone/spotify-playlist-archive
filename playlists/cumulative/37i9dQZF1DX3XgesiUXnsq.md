@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-773 songs - 1 day 19 hr 1 min
+774 songs - 1 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Iman](https://open.spotify.com/track/2SbJ2Ab1MqQWYNhOPodHot) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Eve](https://open.spotify.com/album/4W5qCJNSN3oNHB986TdO9S) | 4:35 | 2022-04-29 | 2022-06-04 |
 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 | 2022-08-12 | 2023-02-18 |
 | [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 | 2024-04-12 | 2024-06-15 |
-| [Imported Goods](https://open.spotify.com/track/697zIbTO0LMhupzGblYREm) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Imported Goods](https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K) | 4:09 | 2025-01-02 |  |
+| [Imported Goods](https://open.spotify.com/track/697zIbTO0LMhupzGblYREm) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Imported Goods](https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K) | 4:09 | 2025-01-02 | 2025-04-24 |
 | [In My Hood](https://open.spotify.com/track/3X5tOT7Aif4l4ZjRj217pa) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:51 | 2023-07-21 | 2023-12-09 |
 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 | 2022-06-17 | 2022-07-09 |
 | [In The Morning \(feat\. Syd & Thundercat\)](https://open.spotify.com/track/5QaUFqVL3D4IqAQh60xGCT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Live From Space](https://open.spotify.com/album/52Bso9BSusrjWj3SA3bBzM) | 4:25 | 2023-06-23 | 2023-07-01 |
@@ -621,6 +621,7 @@
 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:11 | 2022-07-08 | 2022-10-29 |
 | [Special Bullets](https://open.spotify.com/track/5vL9fTDxOGPB0RIyu2QrcZ) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [Special Bullets](https://open.spotify.com/album/5ZWXPmoIzPwqp8RdMnTXPy) | 3:20 | 2023-10-06 | 2023-12-09 |
 | [Spirit of Richard Wright \(feat\. Skyzoo\)](https://open.spotify.com/track/24JtWhwXWvdbjzzyZMekMn) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Skyzoo](https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc) | [Spirit of Richard Wright \(feat\. Skyzoo\)](https://open.spotify.com/album/5luW3wKlUjaDwcb8q9SVUZ) | 3:45 | 2023-10-20 | 2024-02-24 |
+| [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/track/5Q8C3D1YiM1UZt23zNk9ez) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SpitShineFreestyle\(04.23.2022\)](https://open.spotify.com/album/1GklecXNAPYU5epr3FVuUc) | 1:44 | 2025-04-23 |  |
 | [Sriracha](https://open.spotify.com/track/1ytLhTM7p87C4eWPRWqAC9) | [Naturally Born Strangers](https://open.spotify.com/artist/5gZQxOh12bhrAS9ioHB2qc) | [Sriracha](https://open.spotify.com/album/380OfomX0FAj25skGNBOiK) | 3:28 | 2022-04-29 | 2023-08-26 |
 | [SSII.](https://open.spotify.com/track/5Y4pk9pNGNrOWsgEp5AUV5) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SSII.](https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1) | 4:36 | 2022-09-23 | 2023-06-03 |
 | [Stand Tall](https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Stand Tall](https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8) | 2:09 | 2024-03-15 | 2024-05-03 |

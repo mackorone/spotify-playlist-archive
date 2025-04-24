@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > NORSK INVASION!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,226 likes - 98 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,241 likes - 98 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

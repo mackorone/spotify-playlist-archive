@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 174821,
       "name": "Private Collection",
       "url": "https://open.spotify.com/track/5v2f31RuioUvVquwup0sYd"
@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Serenade to Veronika",
+        "url": "https://open.spotify.com/album/1rdGTeKhkDgpSbk84SFjNM"
+      },
+      "artists": [
+        {
+          "name": "Ferenc Bogn\u00e1r",
+          "url": "https://open.spotify.com/artist/6kZd1uFzg7uGWSitp4F4GW"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Serenade to Veronika",
+      "url": "https://open.spotify.com/track/2hzwsJaOQLnex8YchKVqOe"
+    },
+    {
+      "album": {
         "name": "A Second Life",
         "url": "https://open.spotify.com/album/4zfzNeWgluMMQfhXxNOft8"
       },
@@ -2394,6 +2412,24 @@
       "duration_ms": 149123,
       "name": "Sommeil du matin",
       "url": "https://open.spotify.com/track/48iJJJ9TGZQAbcdu5B05Xh"
+    },
+    {
+      "album": {
+        "name": "Sonance",
+        "url": "https://open.spotify.com/album/0Brn57yRLPwJZasUZ1Zukt"
+      },
+      "artists": [
+        {
+          "name": "Aglisia",
+          "url": "https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136521,
+      "name": "Sonance",
+      "url": "https://open.spotify.com/track/3kiImZNbUBxXLpKnsqd5rx"
     },
     {
       "album": {
@@ -3002,7 +3038,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 170608,
       "name": "What Time Reveals",
       "url": "https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8"

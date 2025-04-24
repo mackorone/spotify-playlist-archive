@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-912 songs - 1 day 20 hr 51 min
+918 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 | 2024-01-18 |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-08-15 | 2024-05-05 |
 | [Abrazo Sereno](https://open.spotify.com/track/24SPAIgNceYbCmdrowgkRK) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Melodías Susurrantes](https://open.spotify.com/album/16ArDAGmj2dEQAdAuRD8PW) | 3:39 | 2023-06-23 | 2024-03-21 |
+| [Absorb](https://open.spotify.com/track/59OCrl2Z9eyOSTja6jzNoM) | [Lejo](https://open.spotify.com/artist/5AK84Ka91VoQyA1CmwGbAf) | [Absorb](https://open.spotify.com/album/2WZZgYVzAwzCwIwrVoIhSB) | 2:03 | 2025-04-23 |  |
 | [Acending](https://open.spotify.com/track/0gny3oCHB6fKmZ6PoDedRA) | [So Jao](https://open.spotify.com/artist/0ScQmROrSMggRHzVdPIRim) | [Acending](https://open.spotify.com/album/5UTfGuymK5d3VbqMVjh0fh) | 2:54 | 2021-11-10 | 2024-02-08 |
 | [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 |  |
 | [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 |  |
@@ -120,6 +121,7 @@
 | [Bio\-logical](https://open.spotify.com/track/7bj6z4jBc4z0RSUv4lUoru) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Primary](https://open.spotify.com/album/2TGytgtyIdYTGLpKcTkXcU) | 2:59 | 2021-11-10 | 2024-03-21 |
 | [Blackout](https://open.spotify.com/track/4y4ne3kG3X2BAyWTem6xC1) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Blackout](https://open.spotify.com/album/0QFZRAuhQSJG11e0xFLaqd) | 3:02 | 2024-03-20 | 2024-07-16 |
 | [Bland Minnen](https://open.spotify.com/track/1GPtXZ0BuMsaURDQQxQIR1) | [Wenicia Lindh](https://open.spotify.com/artist/6YkAIhgTo3tAwl6LufTd5G) | [Bland Minnen](https://open.spotify.com/album/3QKjt5vYNd6cGTbdCgRbQQ) | 2:38 | 2023-03-10 | 2024-03-21 |
+| [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 | 2025-04-23 |  |
 | [Blissful Breeze](https://open.spotify.com/track/5mEstebX16SCW56WWnEluW) | [Aurora Novara](https://open.spotify.com/artist/01Yy0uR2H9jYuImGLmMi70) | [Blissful Breeze](https://open.spotify.com/album/2BVKx1soGE44pXFTj2EXkn) | 2:45 | 2024-04-05 | 2025-02-15 |
 | [Blood Moon](https://open.spotify.com/track/65ip2ya2ftUbZHZrfCWuVt) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Blood Moon](https://open.spotify.com/album/32hQvZj9wovY9TOsH29TQn) | 3:53 | 2021-11-10 | 2023-05-06 |
 | [Bloom](https://open.spotify.com/track/29jNOcTJP8rfJYWF3kxMBh) | [Dreamspot](https://open.spotify.com/artist/0MRToWkw1xIpe2XZZbf1tG) | [Shimmer](https://open.spotify.com/album/0zLHfm97dxHyiDZIaabnWA) | 2:54 | 2021-11-10 | 2023-05-06 |
@@ -371,6 +373,7 @@
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2021-11-10 | 2024-04-06 |
 | [Golden Age](https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Golden Age](https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri) | 3:03 | 2024-05-20 | 2025-04-12 |
 | [Golden Horizon](https://open.spotify.com/track/6hhoSK5FBuwk12AJFcFrEG) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Golden Horizon](https://open.spotify.com/album/0X9m3tSZJI88yaj98ffWru) | 2:32 | 2024-02-07 | 2024-12-18 |
+| [Golden World](https://open.spotify.com/track/7BjioO6K4XOUs7VNjUvLdW) | [Felix Lancaster](https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4) | [Golden World](https://open.spotify.com/album/0YiJmb3CyZFcuRUwUbnAFL) | 2:19 | 2025-04-23 |  |
 | [Grateful](https://open.spotify.com/track/7lCWa3w5ZfuaL1vF1HyJ2J) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Grateful](https://open.spotify.com/album/3OUTNb2D5vBitZSIKK8h0C) | 4:24 | 2022-01-28 | 2024-03-21 |
 | [Gravitational Waves](https://open.spotify.com/track/1i309cGCtJxtZ7h4XEHxYC) | [Ocean Mysteries](https://open.spotify.com/artist/1AZbxwiejbmkWYiVfbseXP) | [Immersions](https://open.spotify.com/album/3E3TWLQv6BXRxFJIq1Bdio) | 3:20 | 2021-11-10 | 2022-03-25 |
 | [Gravity’s Lullaby](https://open.spotify.com/track/6bYAdSHt0WeWkr5us2uCm1) | [Kai Monroe](https://open.spotify.com/artist/1TLvs6pMDwN18Ziridx7Ht) | [Gravity’s Lullaby](https://open.spotify.com/album/3hL1YCsusA69gaXGllKWyu) | 2:10 | 2025-01-22 |  |
@@ -615,6 +618,7 @@
 | [Passage](https://open.spotify.com/track/5xkUWQ3DoOYoZa01Q8lGQ9) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Passage](https://open.spotify.com/album/1bcJFd5J3Zj0i7QEW0zD3b) | 2:49 | 2025-04-11 |  |
 | [Passages](https://open.spotify.com/track/5VzaFU0O3pTmG3fnjs0Ff0) | [Kim Nalah](https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ) | [Passages](https://open.spotify.com/album/4XZCuM5CJRMMAvV1apBvXH) | 3:01 | 2023-09-29 | 2024-04-16 |
 | [Passing Through](https://open.spotify.com/track/3clWNXDjKPbqvGviyo1Asg) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Millons of Trees](https://open.spotify.com/album/4RPxiQwUYBFwoXjLrpkNwl) | 2:33 | 2021-11-10 | 2023-09-09 |
+| [Pastel](https://open.spotify.com/track/28S9nPXe5CHoore3WVs6mR) | [Slow Journey](https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW) | [Pastel](https://open.spotify.com/album/4SkDV7qzvsWQHYdJV4N9Wb) | 2:18 | 2025-04-23 |  |
 | [Path to Rest](https://open.spotify.com/track/7gT8yP1YJALEULuyQD8lLO) | [Plasma Nomad](https://open.spotify.com/artist/6AeoATT3xJ1r5N65akHDUb) | [Path to Rest](https://open.spotify.com/album/22UJ6u3TBLwIHnOO9PgRcr) | 3:03 | 2024-05-20 |  |
 | [Pathways](https://open.spotify.com/track/1lv9Nq4FHQmqJUn6Zx4kZn) | [Quiescent State](https://open.spotify.com/artist/7kDDYKZcymPZjsZPFflsuJ) | [Pathways](https://open.spotify.com/album/3CDI17mN6Q22UOmMiKxtv6) | 3:00 | 2025-02-14 |  |
 | [Pathways](https://open.spotify.com/track/5aOOC79cCTH0z1Wtm7i2gY) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Pathways](https://open.spotify.com/album/6eJxefR5zPJELBHbmu8LvL) | 2:26 | 2025-01-14 |  |
@@ -633,6 +637,7 @@
 | [Perspectives](https://open.spotify.com/track/3chCZBYrCCjcUmT4mX5x8E) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Perspectives](https://open.spotify.com/album/6SKpBhqxzknHdxfGsEQMkw) | 4:09 | 2021-11-10 | 2023-05-06 |
 | [Petals](https://open.spotify.com/track/0lxs9clbppskonABJ9do1k) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Petals](https://open.spotify.com/album/0SFlPO4VHbBgRv56ceFtI9) | 2:26 | 2025-02-04 |  |
 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/14ysBEpCMcW4sV0CWhiPRe) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 | 2021-11-10 | 2024-04-06 |
+| [Photon's Path](https://open.spotify.com/track/00LOlOpGgdr4PXGpApLU6F) | [Dalliance Blues](https://open.spotify.com/artist/4gwkNRgkSrQhmyJevVAuCu) | [Photon's Path](https://open.spotify.com/album/7inzp4f1GYuYQBYBaeXnfB) | 3:06 | 2025-04-23 |  |
 | [Pile](https://open.spotify.com/track/49gyEFmwyvHPkKkM3rs6Pu) | [Tine’s](https://open.spotify.com/artist/5xAkneraY1ncz5eO2xopg6) | [Darshannon](https://open.spotify.com/album/36SUU4avh3y7Sv1Tymap0l) | 3:32 | 2023-03-23 | 2023-04-14 |
 | [Pillow Drift](https://open.spotify.com/track/7JJcbFBS6o4cPYxcgXpn2M) | [Dorian Froste](https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss) | [Pillow Drift](https://open.spotify.com/album/54q156SUhi38o2AtNNRhp3) | 2:53 | 2025-04-11 |  |
 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 | 2023-03-31 | 2024-07-10 |
@@ -833,6 +838,7 @@
 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 | 2021-11-10 | 2024-04-06 |
 | [The Road Back](https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [The Road Back](https://open.spotify.com/album/6yXBd5kQQujRewckYFsupC) | 4:06 | 2022-01-21 | 2024-05-05 |
 | [The Searching Mind](https://open.spotify.com/track/4kr9gd3vK8IQw3783OeuIk) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [The Searching Mind](https://open.spotify.com/album/7kbqP0XONQcJm2Bw985mHn) | 3:23 | 2024-02-27 | 2024-04-16 |
+| [The Shape of Us](https://open.spotify.com/track/5ybpe4Bu6QJHgzUNbIzkPJ) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [The Shape of Us](https://open.spotify.com/album/3oU4a8IN6hvTScEWGiKMZp) | 2:57 | 2025-04-23 |  |
 | [The Shoreline](https://open.spotify.com/track/0FBO43m2ztyk4IuGpz8YbW) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [The Shoreline](https://open.spotify.com/album/3TPwRMY1UZqH1MGkaH4TP2) | 2:46 | 2024-10-15 |  |
 | [The Source](https://open.spotify.com/track/69dyjWjzidXTs5ZfqrGG3Q) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [The Source](https://open.spotify.com/album/7yZ7HGhnGWTHuXk8zJngrL) | 2:44 | 2024-01-18 | 2024-02-09 |
 | [The Surname of Penton](https://open.spotify.com/track/4KjUpdQieoX0475pPHZBum) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [The Surname of Penton](https://open.spotify.com/album/5J4VHqcgcFTFpnyZwR9V8g) | 3:37 | 2021-11-10 | 2023-07-01 |

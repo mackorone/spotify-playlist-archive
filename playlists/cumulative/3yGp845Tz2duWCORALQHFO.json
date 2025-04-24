@@ -4643,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/4Q8PT9mLgvunb9cELrAoGs"
+      },
+      "artists": [
+        {
+          "name": "Vrdgo",
+          "url": "https://open.spotify.com/artist/09R5lFFhLwn2SqIBG3M1ca"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262677,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6NgQfk2YUpzrbXz5fuWTGU"
+    },
+    {
+      "album": {
         "name": "Believe (Shooting Stars)",
         "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
       },
@@ -50710,6 +50728,28 @@
       "duration_ms": 166249,
       "name": "Together As One",
       "url": "https://open.spotify.com/track/0jaNgwB0N373CTg8EpnllU"
+    },
+    {
+      "album": {
+        "name": "Together As One (feat. Luke Coulson)",
+        "url": "https://open.spotify.com/album/4LC7i7vqzP0veZwr5RUwwx"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mia",
+          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
+        },
+        {
+          "name": "Luke Coulson",
+          "url": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224881,
+      "name": "Together As One (feat. Luke Coulson)",
+      "url": "https://open.spotify.com/track/4fMnwxMcpUWIAwoVtAFjbn"
     },
     {
       "album": {

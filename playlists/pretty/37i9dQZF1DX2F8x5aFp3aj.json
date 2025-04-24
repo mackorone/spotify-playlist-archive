@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 228705,
+  "num_followers": 228800,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
-      "url": "https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "The Sound of the Smiths (Deluxe; 2008 Remaster)",
         "url": "https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 163053,
       "name": "This Charming Man - Single Version; 2008 Remaster",
       "url": "https://open.spotify.com/track/1oDpnYvcjkgxNc9ytYmxQJ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+      "url": "https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "War (Remastered)",
-        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 335613,
-      "name": "New Year's Day - Remastered 2008",
-      "url": "https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Ancient Heart",
         "url": "https://open.spotify.com/album/7E54UsiVFMQuIAG9t5UOL4"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 292080,
       "name": "Twist in My Sobriety",
       "url": "https://open.spotify.com/track/651In9fY9BregQWY0cF7l2"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Open Book - The Best Of...",
+        "url": "https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN"
+      },
+      "artists": [
+        {
+          "name": "Cock Robin",
+          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
+        }
+      ],
+      "duration_ms": 277706,
+      "name": "When Your Heart Is Weak",
+      "url": "https://open.spotify.com/track/3OiMyoS1QCu8ozdDEj1WWD"
     }
   ],
   "unique_name": "Oscuros 80",

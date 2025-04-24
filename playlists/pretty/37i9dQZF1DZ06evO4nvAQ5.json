@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15200,
+  "num_followers": 15205,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAWKgAAAAAAMBKRGfE/DqrHnUR86HA0L",
+  "snapshot_id": "aAbcAAAAAAAZAZEcfc+ydY3eg8Qe+Pg/",
   "tracks": [
     {
       "added_at": null,
@@ -407,30 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amid the Noise and Haste",
-        "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 195439,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catching Feelings (feat. J Boog) [Bimwala Remix]",
         "url": "https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 200523,
       "name": "Catching Feelings (feat. J Boog) - Bimwala Remix",
       "url": "https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amid the Noise and Haste",
+        "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 195439,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
     },
     {
       "added_at": null,
@@ -659,30 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 188783,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hustlin' Riddim",
         "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 217360,
       "name": "Police and Thieves",
       "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 188783,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
     },
     {
       "added_at": null,

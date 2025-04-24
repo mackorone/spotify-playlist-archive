@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Julia Effekt, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: LISABETH, Artwork: Isu Kim
 
-1,359 songs - 3 day 5 hr 6 min
+1,360 songs - 3 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-01-05 | 2022-01-13 |
 | [Chaleur](https://open.spotify.com/track/643wr9gOqXlFxFSUi2YKgk) | [RasgaRasga](https://open.spotify.com/artist/2AvW8AfEg9caYsocgwE7vF) | [Chaleur](https://open.spotify.com/album/48BPfY4RlI4mrqHH4VqpeF) | 3:25 | 2022-06-22 | 2022-11-24 |
 | [Chamomile Tea](https://open.spotify.com/track/5fXuh8rmnw1xYajexsmvhV) | [Annie Bloch](https://open.spotify.com/artist/22YsZ3Lp8VNBXySgxKVIXd) | [Chamomile Tea](https://open.spotify.com/album/53gsBULwZPiX2eRJSBXWgO) | 3:09 | 2024-03-20 | 2024-06-01 |
-| [Chance](https://open.spotify.com/track/5G8oQngyP7qE65xCBBsKV7) | [Roomer](https://open.spotify.com/artist/7hXtMXAZsLo6LF4qYfj2Ef) | [Chance](https://open.spotify.com/album/0fL9dSIKqMkq1WvTynxFpo) | 2:43 | 2025-02-26 |  |
+| [Chance](https://open.spotify.com/track/5G8oQngyP7qE65xCBBsKV7) | [Roomer](https://open.spotify.com/artist/7hXtMXAZsLo6LF4qYfj2Ef) | [Chance](https://open.spotify.com/album/0fL9dSIKqMkq1WvTynxFpo) | 2:43 | 2025-02-26 | 2025-04-24 |
 | [Changes](https://open.spotify.com/track/6wWMiWDSwoI8hIVcI0D9S5) | [Prismode](https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH), [Solvane](https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0), [Max Joni](https://open.spotify.com/artist/7zcSZ1NiajqeGERguLtlzo) | [Changes](https://open.spotify.com/album/3UqR621qSR4DX3paMUJozM) | 4:05 | 2022-11-09 | 2023-02-23 |
 | [Chardonnay](https://open.spotify.com/track/0QIrFBfloQn3DxvsZPariB) | [Elisa Loah](https://open.spotify.com/artist/00605AnrQOdRhZEnRKtT1L) | [Chardonnay](https://open.spotify.com/album/6AKNfnNCkmmu4xUrcwkK3O) | 2:27 | 2022-02-02 | 2022-02-10 |
 | [charlie chaplin](https://open.spotify.com/track/4Hy9vWOgbNRCLL98dupmyB) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [charlie chaplin](https://open.spotify.com/album/1S1du4ePkJQ63nv38KeH2O) | 2:54 | 2024-08-07 | 2025-01-10 |
@@ -472,6 +472,7 @@
 | [Girl Next Door](https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Girl Next Door](https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH) | 3:33 | 2022-06-01 | 2022-07-14 |
 | [Give Me](https://open.spotify.com/track/4GTHQUI8z2EXUJEWLnBPme) | [RCSE](https://open.spotify.com/artist/2JfaT4Q3Tf0PasGbUgBuRT), [Samon Kawamura](https://open.spotify.com/artist/4rq4prsgvKLOfOU0MIWycc) | [Give Me](https://open.spotify.com/album/3ACgjQmdPKnYpYWeF1YdyH) | 3:12 | 2023-07-19 | 2023-08-31 |
 | [Give This Love A Try](https://open.spotify.com/track/1eg0giS9y2TyjaJLREfUwB) | [Whizz Vienna](https://open.spotify.com/artist/0Rhv7LDt2UHXuVxvuDm7NE) | [The Souloist](https://open.spotify.com/album/0sqrHGOyrnjgkOJd7AAKtN) | 2:27 | 2022-03-02 | 2022-06-01 |
+| [givenchy](https://open.spotify.com/track/6OF8uQoDLYe7JRqAF4dDrh) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [givenchy](https://open.spotify.com/album/0nfPBBqzG0VbetledJ9bKy) | 2:59 | 2025-04-23 |  |
 | [Glamour](https://open.spotify.com/track/1S7HIid9Dj8Rl6xcD3O5yj) | [BLOODHYPE](https://open.spotify.com/artist/7EeittuBdT0wIyfELKYywG) | [Glamour](https://open.spotify.com/album/6bA39mLT7wUE3TULSHRO1a) | 3:29 | 2022-08-31 | 2022-12-01 |
 | [Glanz und Schimmer](https://open.spotify.com/track/3jyay81l2lnGWBPUsaNr9C) | [Absteige](https://open.spotify.com/artist/4rHMr7f5ejRK5PMhkH9n4L) | [Glanz und Schimmer](https://open.spotify.com/album/73SEy6GWwOtB6ffg4cY09Z) | 3:21 | 2023-07-19 | 2024-01-04 |
 | [Glory](https://open.spotify.com/track/2cc6F3TU8SImr4qfazYDmo) | [Seascouts](https://open.spotify.com/artist/2CY6WGxwHKsO4JGSXgHe5e) | [Glory](https://open.spotify.com/album/0QwV0v1jidTONuSIMlaeHz) | 3:47 | 2024-08-21 | 2024-09-26 |

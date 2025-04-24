@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,164 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,229 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 90 | [Aguacero](https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0) | [Aguacero](https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn) | 3:07 |
 | 91 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
 | 92 | [Ta Sendo](https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Ta Sendo](https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8) | 3:23 |
-| 93 | [Toca Me Ft\. Michelle Marrero](https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [OBRIGADO](https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB) | 3:21 |
+| 93 | [Asereje \- Remix](https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Asereje \(Remix\)](https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB) | 2:37 |
 | 94 | [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 |
 | 95 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
-| 96 | [Down](https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Down](https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy) | 2:43 |
-| 97 | [Al Ritmo](https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Allan Piziano](https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV) | [Al Ritmo](https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY) | 3:19 |
-| 98 | [Rosa Que Linda Eres \- Joe Mangione Edit Remix](https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN) | [Joseph Sinatra](https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn), [Joe Mangione](https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2) | [Rosa Que Linda Eres \(Joe Mangione Remix\)](https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4) | 2:47 |
-| 99 | [Asereje \- Remix](https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Asereje \(Remix\)](https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB) | 2:37 |
+| 96 | [Toca Me Ft\. Michelle Marrero](https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [OBRIGADO](https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB) | 3:21 |
+| 97 | [Down](https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Down](https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy) | 2:43 |
+| 98 | [Al Ritmo](https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Allan Piziano](https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV) | [Al Ritmo](https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY) | 3:19 |
+| 99 | [Rosa Que Linda Eres \- Joe Mangione Edit Remix](https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN) | [Joseph Sinatra](https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn), [Joe Mangione](https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2) | [Rosa Que Linda Eres \(Joe Mangione Remix\)](https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4) | 2:47 |
 | 100 | [Pasto Y Perico](https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Hotel Dieu](https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9), [Jay Vázquez](https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj) | [Pasto Y Perico \(feat Jay Vazquez\)](https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud) | 2:47 |
 
 Snapshot ID: `aAHOdQAAAAD9eMN/08ZEqIntNrHxX1VW`

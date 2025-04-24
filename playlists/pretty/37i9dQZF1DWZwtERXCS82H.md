@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,311,871 likes - 194 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,312,267 likes - 194 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 2 | [In the Light of the Moon](https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [In the Light of the Moon](https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw) | 2:23 |
 | 3 | [Under the Tree](https://open.spotify.com/track/47q2Yzs2VG88llrNWH2icn) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Under the Tree](https://open.spotify.com/album/0Ba8rZUhKEBC4dqp2iP301) | 3:04 |
 | 4 | [Biassono](https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Biassono](https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9) | 2:31 |
-| 5 | [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 |
-| 6 | [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 |
+| 5 | [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 |
+| 6 | [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 |
 | 7 | [The evolving mind](https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The evolving mind](https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c) | 2:14 |
 | 8 | [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 |
 | 9 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
@@ -23,19 +23,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 13 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
 | 14 | [Shades of Wounded Light](https://open.spotify.com/track/37UIiW5Bncp2INQ7rT6szi) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [Shades of Wounded Light](https://open.spotify.com/album/23mhihANYnLrPtF8RmT6JG) | 2:50 |
 | 15 | [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 |
-| 16 | [Towards Perfection](https://open.spotify.com/track/36hXU10yupqsRUftnTFAyy) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Towards Perfection](https://open.spotify.com/album/6saaRnHoS7SRny6LhPWoLq) | 2:04 |
+| 16 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
 | 17 | [Unfinished](https://open.spotify.com/track/5WOo4d8DeMEBPLdIN3sMiX) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Unfinished](https://open.spotify.com/album/5SwuDGKMqebn7tRnrNQPKg) | 2:21 |
 | 18 | [Hemma](https://open.spotify.com/track/4bxyy4ZscSjyo7oXfink7z) | [Carl Sture](https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ) | [Hemma](https://open.spotify.com/album/5ncrTGHYzOvqoRQf808O2R) | 2:36 |
-| 19 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
-| 20 | [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 |
-| 21 | [Silent Bloom](https://open.spotify.com/track/0keMPNZ9MeQSN25xr14fUb) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Silent Bloom](https://open.spotify.com/album/1l2ue47R65IiChM0w4Z0Xo) | 2:07 |
-| 22 | [Silhouettes](https://open.spotify.com/track/3bNoItToT68iMJdpMYdMyd) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Silhouettes](https://open.spotify.com/album/5OM6FaXShLy7NT5XTQpp4H) | 2:15 |
-| 23 | [Until the End](https://open.spotify.com/track/7heAWVeCRuprbkAJwMtN7E) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Until the End](https://open.spotify.com/album/2y2bo07zzJPSlNR3UEAtdm) | 2:40 |
-| 24 | [Like Water](https://open.spotify.com/track/3RJm4G3ok4BPif1GA2P3lT) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Like Water](https://open.spotify.com/album/7i61vkxNfImui2RKxFcAcZ) | 2:43 |
-| 25 | [I Know You](https://open.spotify.com/track/5QCQvHat9B9VgaENda7gbs) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Know You](https://open.spotify.com/album/2mSXKlafDrp0KUqJ3UkN4x) | 2:51 |
-| 26 | [Breakup in Bloom \(in E\)](https://open.spotify.com/track/6q4BUfCcG3EE6Bz4UOpT2K) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Breakup in Bloom](https://open.spotify.com/album/1WEoEbXN4f0WXN5BtgOUfD) | 2:39 |
-| 27 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 |
-| 28 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 |
+| 19 | [Silent Bloom](https://open.spotify.com/track/0keMPNZ9MeQSN25xr14fUb) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Silent Bloom](https://open.spotify.com/album/1l2ue47R65IiChM0w4Z0Xo) | 2:07 |
+| 20 | [Towards Perfection](https://open.spotify.com/track/36hXU10yupqsRUftnTFAyy) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Towards Perfection](https://open.spotify.com/album/6saaRnHoS7SRny6LhPWoLq) | 2:04 |
+| 21 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 |
+| 22 | [My Oddysey](https://open.spotify.com/track/1eodu9waOyCx6RTwLpJI8v) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [My Odyssey](https://open.spotify.com/album/6g3Bmw75zzdlmm8GO34zum) | 2:16 |
+| 23 | [I Know You](https://open.spotify.com/track/5QCQvHat9B9VgaENda7gbs) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Know You](https://open.spotify.com/album/2mSXKlafDrp0KUqJ3UkN4x) | 2:51 |
+| 24 | [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 |
+| 25 | [Silhouettes](https://open.spotify.com/track/3bNoItToT68iMJdpMYdMyd) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Silhouettes](https://open.spotify.com/album/5OM6FaXShLy7NT5XTQpp4H) | 2:15 |
+| 26 | [Until the End](https://open.spotify.com/track/7heAWVeCRuprbkAJwMtN7E) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Until the End](https://open.spotify.com/album/2y2bo07zzJPSlNR3UEAtdm) | 2:40 |
+| 27 | [Breakup in Bloom \(in E\)](https://open.spotify.com/track/6q4BUfCcG3EE6Bz4UOpT2K) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Breakup in Bloom](https://open.spotify.com/album/1WEoEbXN4f0WXN5BtgOUfD) | 2:39 |
+| 28 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 |
 | 29 | [Pajaros blancos](https://open.spotify.com/track/3r82q3kloSXj8ybjRNroLN) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Pajaros blancos](https://open.spotify.com/album/3szBCrDbDK5ethdxGuXMiO) | 2:04 |
 | 30 | [Sing, Vogel, Sing!](https://open.spotify.com/track/7HqDwn7I6wglTZX7Nhf3t7) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sing, Vogel, Sing!](https://open.spotify.com/album/3Ebf5QRLd5WdjDZXaqc4CA) | 2:22 |
 | 31 | [A Tiny Wallflower](https://open.spotify.com/track/00PvDazidS7DSFKcKWuhkM) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [A Tiny Wallflower](https://open.spotify.com/album/0cdGpIveNRpHKB54mrEGvx) | 2:26 |
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 193 | [Os ventos do amor](https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Os ventos do amor](https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx) | 2:00 |
 | 194 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 |
 
-Snapshot ID: `Z/936wAAAAC1ellGHc3kBx+R3g8lk1DQ`
+Snapshot ID: `aAkIfwAAAADYiw5rUoW5QfeupqVSSJW3`

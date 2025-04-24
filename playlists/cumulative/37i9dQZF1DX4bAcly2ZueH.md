@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-188 songs - 9 hr 51 min
+189 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Beacon of Hope](https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Beacon of Hope](https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo) | 3:40 | 2022-10-11 |  |
 | [BEAU PAYSAGE](https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju) | [orbe](https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J) | [BEAU PAYSAGE](https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT) | 5:48 | 2024-03-05 |  |
 | [BEAU PAYSAGE](https://open.spotify.com/track/1gsx2y5VHuGiVtHswvmZms) | [orbe](https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Gen Tanabe](https://open.spotify.com/artist/5fwSjQceWBh8gO7PfG3FX7) | [Orbe / Orbe Feat\. Luca](https://open.spotify.com/album/4Cshw3Vv7DxoAkbVMs84jK) | 5:48 | 2022-10-11 | 2024-04-19 |
-| [Berlin](https://open.spotify.com/track/05enoO7Z5prMUxbHEDJBt7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 1:38 | 2024-03-05 |  |
+| [Berlin](https://open.spotify.com/track/05enoO7Z5prMUxbHEDJBt7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 1:38 | 2024-03-05 | 2025-04-24 |
 | [Berlin](https://open.spotify.com/track/341JGRcYGv5ZeGWKYAgq3d) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 1:38 | 2022-10-11 | 2024-04-19 |
 | [Blue](https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Nightfall](https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP) | 2:49 | 2022-10-11 |  |
 | [Blue Moon](https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Dreamwave](https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb) | 2:25 | 2022-10-11 |  |
@@ -68,6 +68,7 @@
 | [Goodbye Blurry Days](https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [So Long So Blue](https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ) | 3:45 | 2022-10-11 |  |
 | [GOOODBYE FOREVER](https://open.spotify.com/track/757t86dILxUPEpgtaEppFM) | [sakehands](https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D), [Lo](https://open.spotify.com/artist/4O02rYoPWNEnz2B8zWvZ5y) | [GOOODBYE FOREVER](https://open.spotify.com/album/1j9xpqOFvJ68usu7Yjjblx) | 2:16 | 2022-10-11 | 2024-07-18 |
 | [Greens](https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Greens](https://open.spotify.com/album/13irODzikOapHKbxYIj42v) | 4:10 | 2022-10-11 |  |
+| [hakubo](https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23) | [THE LIQUID RAY](https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja) | [hakubo](https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2) | 0:55 | 2025-04-23 |  |
 | [Higashi no Sora](https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Higashi no Sora](https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh) | 2:55 | 2023-11-14 |  |
 | [Holding On](https://open.spotify.com/track/15doBKN23wpwkySjDBcIIM) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/6td5NmPNpZG6xpk0btQQb2) | 2:26 | 2024-03-05 | 2024-10-23 |
 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 | 2022-10-11 | 2024-04-19 |

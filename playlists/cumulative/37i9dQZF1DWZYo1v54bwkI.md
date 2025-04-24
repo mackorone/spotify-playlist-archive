@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-381 songs - 18 hr 53 min
+386 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2022-09-02 |  |
 | [Cherry Sky](https://open.spotify.com/track/1gtKcnTX5ZUcsekewgRTd4) | [Aries Suan](https://open.spotify.com/artist/5mYqynrlNOgK6tXogOCtSW) | [Cherry Sky](https://open.spotify.com/album/5EwS3DT6yTAfIB9AkUwLJc) | 2:16 | 2024-06-10 | 2024-12-13 |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-07-15 | 2025-01-08 |
+| [Closing Time](https://open.spotify.com/track/0lFwERRbHC2uY7e0Ovl0wP) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Closing Time](https://open.spotify.com/album/2OcldFCm2u7MZhXZtkglum) | 2:45 | 2025-04-23 |  |
 | [Closure 432 hz](https://open.spotify.com/track/5W2G3rrqupygc1iP3RGLg3) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 3:53 | 2022-10-07 | 2025-01-08 |
 | [Coherence](https://open.spotify.com/track/2vjurdtpGGt8qTXEEy0tF1) | [Distant Dreams](https://open.spotify.com/artist/4YJcFIbKdvMxTzfwJDEUbY) | [Coherence](https://open.spotify.com/album/2JzNv0ZN7HlwyGNrkBlP14) | 3:04 | 2024-01-26 |  |
 | [Colours](https://open.spotify.com/track/03rievEiJ7NxtUfak0XGPH) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Colours](https://open.spotify.com/album/7gS11TlkTwLYdH2lEJi3kd) | 3:10 | 2023-10-13 |  |
@@ -185,9 +186,11 @@
 | [Into The Light](https://open.spotify.com/track/1qNDx2ajmcECC1mVzJl3oO) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Into The Light](https://open.spotify.com/album/5losUh2Qx9FbrjcESjo8sE) | 3:24 | 2024-02-14 |  |
 | [Invisible Currents](https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Sunrise](https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK) | 2:32 | 2022-08-23 |  |
 | [Inward](https://open.spotify.com/track/7vE4R6MP1gb9ElIZZ256zl) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Inward](https://open.spotify.com/album/6bZ6CJdK8E94DLR0YaEqbW) | 2:46 | 2025-02-26 |  |
+| [Iridescent](https://open.spotify.com/track/25CMu2WYOLg5shM8jBoj6l) | [Horizon Mind](https://open.spotify.com/artist/41m8fOzMoMLMU5MfO3AUnp) | [Iridescent](https://open.spotify.com/album/6hcFpQJt9PQtLXBRtsvHHA) | 2:54 | 2025-04-23 |  |
 | [Iridescent Night](https://open.spotify.com/track/3VxaAJh4EbvcfWZzsnOoly) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Iridescent Night](https://open.spotify.com/album/6PdYZwQJsjbhXQvJqfwwGN) | 2:53 | 2024-07-12 |  |
 | [Iridium \(Alpha 8 hz\)](https://open.spotify.com/track/4klPTHZuYtEDzKcL9Mi4dn) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Iridium \(Alpha 8 hz\)](https://open.spotify.com/album/1xhIrmmpbdMtXHK92Npdks) | 3:30 | 2022-07-15 | 2023-04-29 |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 | 2025-01-08 |
+| [Isosceles](https://open.spotify.com/track/46zKydvHIAJB6BpYhzTEUx) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Isosceles](https://open.spotify.com/album/2hliw4cpN9Wp1RyYXUna7f) | 3:12 | 2025-04-23 |  |
 | [Je continue d'apprendre](https://open.spotify.com/track/0ts0VElEurDclsFS8FLFwA) | [Roar Martinsen](https://open.spotify.com/artist/4IWKt1IRlTbunWA0Ge9MIN) | [Je continue d'apprendre](https://open.spotify.com/album/0hBjqma2rfsY0IZEDkUZD0) | 1:40 | 2022-07-15 | 2023-07-29 |
 | [Jeevan](https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Jeevan](https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ) | 2:30 | 2022-07-15 | 2025-01-29 |
 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 | 2022-07-15 | 2025-02-27 |
@@ -269,6 +272,7 @@
 | [Perfect Rose](https://open.spotify.com/track/0Yuw1szR25KD6tmO1KSs9x) | [Jade Palace](https://open.spotify.com/artist/52FzcYdR52cgukrg4A3Tyv) | [Perfect Rose](https://open.spotify.com/album/2E8dJJLDCiKqWMVXuWetCq) | 3:06 | 2022-07-15 | 2023-02-10 |
 | [Perfecta paz](https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK) | [Che Milk](https://open.spotify.com/artist/27eOiRby6feQRgULqf0V8Q) | [Perfecta paz](https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN) | 2:59 | 2022-07-15 | 2024-12-13 |
 | [Personal Discovery](https://open.spotify.com/track/53rQSoI3blh9Cq9BoU6FmX) | [Galactic Soundscape](https://open.spotify.com/artist/1jELPrTZ9LnLVLLlgr8u2D) | [Personal Discovery](https://open.spotify.com/album/0Xcl6pm41yDQMPZTaDByov) | 2:58 | 2024-04-04 | 2024-11-28 |
+| [Place of Peace \(ambient sleep\)](https://open.spotify.com/track/6WnhFHiLsn48BoGqj6dV8W) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [Place of Peace \(ambient sleep\)](https://open.spotify.com/album/3WmFZVNqHu1bUrrGwr85ck) | 2:40 | 2025-04-23 |  |
 | [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 | 2023-09-22 |  |
 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2022-07-15 | 2024-12-20 |
 | [Position in Space](https://open.spotify.com/track/40q3EcvFwkNetw7L3zf6hJ) | [NK\-67](https://open.spotify.com/artist/11TxJf8mz0gmLUK050PyGU) | [Position in Space](https://open.spotify.com/album/26QJ2b0QWpLh07sIgee9pt) | 2:44 | 2025-01-28 |  |
@@ -385,6 +389,7 @@
 | [Yonder](https://open.spotify.com/track/6eIaNamCwzTfJr4SrFypu5) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Yonder](https://open.spotify.com/album/6X6DVdhuR1Ajws0GwFgjHD) | 3:20 | 2022-11-11 |  |
 | [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 | 2022-11-11 |  |
 | [Zeit zu schlafen](https://open.spotify.com/track/6BDciTeYRejg7wi9F63k4H) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Zeit zu schlafen](https://open.spotify.com/album/2imLIpOy9hSqRx2SAszBoa) | 1:47 | 2022-07-15 | 2023-07-29 |
+| [Zero\-Point Reverie](https://open.spotify.com/track/3xck3LfjMfILABX6PL8AX2) | [Astrocalm](https://open.spotify.com/artist/1ZoNh8hKFOtOMDklPdhnCg) | [Zero\-Point Reverie](https://open.spotify.com/album/5lgZrGdoqsiV6gQh2qPdoV) | 2:37 | 2025-04-23 |  |
 | [Zorora](https://open.spotify.com/track/1okmwtb0Elf2nyOBGlzZAf) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Zorora](https://open.spotify.com/album/4iXrTyj4ZuiiHHAPzdL0LQ) | 2:36 | 2023-10-13 |  |
 | [Équilibre](https://open.spotify.com/track/1kY64LDhpgy30XGXj5c7Qa) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Équilibre](https://open.spotify.com/album/3ue6f4Rru74OH3ozKrFnU3) | 3:21 | 2022-10-15 |  |
 | [和 Harmony](https://open.spotify.com/track/578WQbtlCaB1LBoPYZLECn) | [Shunya Koyanagi](https://open.spotify.com/artist/2NGMjhqXuqLLdvot10Mij4) | [和 Harmony](https://open.spotify.com/album/2xqsxjexOjRgS8lYOpoKKU) | 3:04 | 2022-07-15 | 2023-02-25 |

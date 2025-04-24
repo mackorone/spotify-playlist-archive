@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Boys Noize
 
-1,363 songs - 3 day 0 hr 42 min
+1,364 songs - 3 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Back To You](https://open.spotify.com/track/0TLHzVO3fyM2pTg9XQWutm) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Back To You](https://open.spotify.com/album/5bluYOQ6ASt8vaB1LSA1TI) | 2:33 | 2023-06-08 | 2023-08-01 |
 | [Back To You](https://open.spotify.com/track/5cBe4IcrXXSMleXrQNXoLE) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 2:33 | 2023-07-31 | 2023-12-14 |
 | [BAD GIRL](https://open.spotify.com/track/1KYPkLmylyhzHXuKJCJnSc) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [BAD GIRL](https://open.spotify.com/album/6mrxIqvULSVpqCaxitM6rc) | 2:59 | 2025-03-27 |  |
+| [Baille](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Baille](https://open.spotify.com/album/3070nvzG2FbwF1H3oYmMFs) | 2:33 | 2025-04-23 |  |
 | [Bananza](https://open.spotify.com/track/7h9Z1OOpEcKdwbobsGC0bG) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Bananza](https://open.spotify.com/album/6I1jaw9O18g3BbSsYn5bpk) | 2:34 | 2022-06-09 | 2022-08-19 |
 | [Bang Bang](https://open.spotify.com/track/6uX9Drm4DFWdD6iOgTZvXj) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Bang Bang](https://open.spotify.com/album/0B1UBqTkSMFmcmAvXxdYYL) | 5:50 | 2024-06-26 | 2024-10-19 |
 | [Bar A Thym \- THEMBA Remix](https://open.spotify.com/track/1zMNIRTdAZtBhN0BtoRSZA) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:44 | 2023-07-31 | 2023-12-19 |

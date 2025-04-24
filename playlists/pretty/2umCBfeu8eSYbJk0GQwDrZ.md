@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,586 likes - 99 songs - 5 hr 36 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,584 likes - 99 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 14 | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/track/1ZHzO47YcJQWZd7TVqZKIE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/album/0wtqjgDzHqDPgUtkavt79b) | 2:37 |
 | 15 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
 | 16 | [Gallop of the Hounds](https://open.spotify.com/track/0RfsNykOPSwrZ0GJyWeFlf) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Gallop of the Hounds](https://open.spotify.com/album/42RoboH8vmsnzD3TNAoBvF) | 3:29 |
-| 17 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko \- To Bloom](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
+| 17 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
 | 18 | [Crazy Streets](https://open.spotify.com/track/3mZxkPLaRuGEJITfLotgD9) | [Ewan Currie](https://open.spotify.com/artist/5ckcxH3nT0anT1fg9DGX5e) | [Crazy Streets](https://open.spotify.com/album/5xjU73KhYHafgthfUZqRbn) | 3:48 |
 | 19 | [Dreams](https://open.spotify.com/track/2SbCeAa11fMv2YrgkSAqkf) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Dreams](https://open.spotify.com/album/1sTCDGQTUL5yLcFYxoS1Ud) | 3:42 |
 | 20 | [VCR Eject Button \(it's time to grow the fuck up\)](https://open.spotify.com/track/5baO37bN77Ww46B019Cpo7) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [coping strategies to combat the algorithm \[vol\. 7\]](https://open.spotify.com/album/0FXRIMbMyfu5Kz7A44Jx2O) | 2:09 |

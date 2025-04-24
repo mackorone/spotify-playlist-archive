@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Cœur De Pirate
 
-3,231 songs - 7 day 3 hr 26 min
+3,232 songs - 7 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1169,7 +1169,7 @@
 | [Homerun](https://open.spotify.com/track/0Zgy08iUDH1qvtY4xJZUUn) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Le calme avant la tempête](https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp) | 2:48 | 2023-02-17 | 2023-02-25 |
 | [Hometown](https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hometown](https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy) | 3:43 | 2022-11-11 | 2022-12-03 |
 | [Homme de pluie](https://open.spotify.com/track/0sUtLK6x9rryNtWy1bwnSb) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Homme de pluie](https://open.spotify.com/album/6viPgfyEaKsVu3QoGiJkiC) | 3:04 | 2022-07-29 | 2022-10-15 |
-| [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 | 2025-03-28 |  |
+| [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 | 2025-03-28 | 2025-04-24 |
 | [Horoscope](https://open.spotify.com/track/3XtnHORQkTP7FMIRDDNrpJ) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX) | [Horoscope / Cher Montréal](https://open.spotify.com/album/7npxouwTuaKyDKWLa9msy9) | 4:02 | 2023-10-06 | 2023-10-14 |
 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 | 2022-07-08 | 2022-07-23 |
 | [Hors\-piste](https://open.spotify.com/track/0OekRsbs1j7jRtJPHb9HP9) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Mauvais Joueur](https://open.spotify.com/album/4uyewdCj65RZX5mjtabls7) | 2:37 | 2023-04-14 | 2023-04-23 |
@@ -2136,6 +2136,7 @@
 | [On s'passe à côté](https://open.spotify.com/track/2luutsPAHOP7uHrlRDG5HJ) | [Damien Lauretta](https://open.spotify.com/artist/5XzUJg13VlUKJ97W9dp3Fh) | [French Riviera](https://open.spotify.com/album/7FvFGPiHSa12LO1UkgTk6d) | 2:51 | 2022-01-14 | 2022-01-29 |
 | [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-20 | 2024-11-21 |
 | [On tombe, on réessaye](https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [On tombe, on réessaye](https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4) | 3:13 | 2025-02-14 | 2025-04-13 |
+| [On va](https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [On va](https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW) | 2:24 | 2025-04-18 |  |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2023-09-08 | 2023-09-16 |
 | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/track/67t14XAtkgchkqWhYjlyTM) | [Stage Lacroix](https://open.spotify.com/artist/7tkE0AJ82mOghkNbBF1LpQ) | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/album/6WFtXnLkhAA0bM7AggOxTe) | 4:33 | 2022-10-14 | 2022-10-29 |
 | [On voudrait](https://open.spotify.com/track/353yen1tiVmrd5w49rFUQi) | [Richard Séguin](https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo) | [Les liens les lieux](https://open.spotify.com/album/2Jj2Jqb4peRyI1xjflggkl) | 4:23 | 2022-09-09 | 2022-09-24 |

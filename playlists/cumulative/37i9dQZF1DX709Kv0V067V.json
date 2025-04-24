@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Celestial Whispers",
+        "url": "https://open.spotify.com/album/5Sab4t1gLoVFybyYZYcBVf"
+      },
+      "artists": [
+        {
+          "name": "Mindtune",
+          "url": "https://open.spotify.com/artist/64cUzjeD1956oUEGopu6J9"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Celestial Whispers",
+      "url": "https://open.spotify.com/track/1qxFr0cglsK0YXcddvelRI"
+    },
+    {
+      "album": {
         "name": "Chandra (Sound Bath)",
         "url": "https://open.spotify.com/album/58RbwAIMUYwdxGWxKyTh42"
       },
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 220078,
       "name": "Sozen",
       "url": "https://open.spotify.com/track/296ebHdMXBcmBmkpY3lI8B"

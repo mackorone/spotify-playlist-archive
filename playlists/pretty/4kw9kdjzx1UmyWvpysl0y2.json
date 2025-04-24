@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125412,
+  "num_followers": 125410,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT+r/ZaLUNaFxmR186MfnvC4a9Rhnv",
+  "snapshot_id": "AAAT/NLhN4Yc0+WoJgMGbes/QTs8PCHW",
   "tracks": [
+    {
+      "added_at": "2025-04-23 17:13:41",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/0oS0q47PgZZNLTTb2s4Kn9"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "GILLIAD",
+          "url": "https://open.spotify.com/artist/6AKiapdvTAXauBNZ7DxS3z"
+        },
+        {
+          "name": "Nina Sung",
+          "url": "https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/0hdbVFC6rzm2oqt1D7Zgn0"
+    },
     {
       "added_at": "2025-04-22 22:55:09",
       "album": {

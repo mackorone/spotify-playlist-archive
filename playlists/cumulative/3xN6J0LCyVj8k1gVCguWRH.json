@@ -6736,7 +6736,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Bad Apple",
       "url": "https://open.spotify.com/track/3cn5lX9wwlEQdJL9lDrQ8J"
@@ -8950,7 +8950,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 228129,
       "name": "Big Head",
       "url": "https://open.spotify.com/track/3RhwEcqn6s7qDcmsznD1vi"
@@ -14089,6 +14089,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1mueA6AK1eeARqzdTJnPTE"
+      },
+      "artists": [
+        {
+          "name": "Kat Upchurch",
+          "url": "https://open.spotify.com/artist/77UU30Tcd9XjT3Cy4h2vk9"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225610,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0t6NU3JxHcKFZVM0XeXK5m"
+    },
+    {
+      "album": {
         "name": "Change 236",
         "url": "https://open.spotify.com/album/4PScLFpT0lHbzeAsf4xN3q"
       },
@@ -14548,7 +14566,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 234521,
       "name": "Chill Waters",
       "url": "https://open.spotify.com/track/4oK3rp58deNoi7v81xQXp1"
@@ -21891,6 +21909,24 @@
     },
     {
       "album": {
+        "name": "Dph",
+        "url": "https://open.spotify.com/album/1ZCBP6H4P9dv0VZ6tXFrcQ"
+      },
+      "artists": [
+        {
+          "name": "Greazebeats",
+          "url": "https://open.spotify.com/artist/1USccuxj154FZufzl0Hm21"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185483,
+      "name": "Dph",
+      "url": "https://open.spotify.com/track/6oCpVBLVMGuD8EUT3kbJrA"
+    },
+    {
+      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -23470,7 +23506,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 272506,
       "name": "Electric",
       "url": "https://open.spotify.com/track/0J2G98TiyPPuC0WiIEWpKN"
@@ -25519,6 +25555,24 @@
     },
     {
       "album": {
+        "name": "Unburdened",
+        "url": "https://open.spotify.com/album/5Qmu4TqwIxzDEPi3wydJ97"
+      },
+      "artists": [
+        {
+          "name": "Steve Maggiora",
+          "url": "https://open.spotify.com/artist/2bcMIMHrZ3PRRf8T9cbyod"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148720,
+      "name": "Family Is Forever",
+      "url": "https://open.spotify.com/track/6kZsfwG6V6I3hOs0yq2gag"
+    },
+    {
+      "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/6wdgS4Kf0SeJYj94dGnHfC"
       },
@@ -27126,6 +27180,24 @@
       "duration_ms": 156101,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/5fgcw6nPBK96EyLw7RHHTq"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/1xNQRRdCmJjrdCkSxcStDV"
+      },
+      "artists": [
+        {
+          "name": "Songs of Solomon",
+          "url": "https://open.spotify.com/artist/7aYhaJ4WASFumNOpfA9Eyy"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169684,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/7BnbPE2IBecaGxkugX3WsW"
     },
     {
       "album": {
@@ -30050,7 +30122,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 214390,
       "name": "GET RIGHT..",
       "url": "https://open.spotify.com/track/6AzjRpglrpxIB4xvnufYuY"
@@ -70283,6 +70355,32 @@
     },
     {
       "album": {
+        "name": "Slow It Down (with Cruza & Isaiah Falls)",
+        "url": "https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Kay",
+          "url": "https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146594,
+      "name": "Slow It Down (with Cruza & Isaiah Falls)",
+      "url": "https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU"
+    },
+    {
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/1mk03tqEaU2aa8yYy4bJh1"
       },
@@ -84521,6 +84619,24 @@
     },
     {
       "album": {
+        "name": "W.O.W. (Walk On Water)",
+        "url": "https://open.spotify.com/album/4Tt2zX2wTPHmc78UFFQHjf"
+      },
+      "artists": [
+        {
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "W.O.W. (Walk On Water)",
+      "url": "https://open.spotify.com/track/2XcEGsf2Kw9wvEIYUmKPD2"
+    },
+    {
+      "album": {
         "name": "The Color Within",
         "url": "https://open.spotify.com/album/2wmxfFoWEw6KUCBR9pcuf3"
       },
@@ -85462,7 +85578,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 115714,
       "name": "Wash You Away",
       "url": "https://open.spotify.com/track/0wLsPzYrcCtQIBpRrMWulU"

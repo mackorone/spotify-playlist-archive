@@ -1,6 +1,6 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.",
-  "num_followers": 45206,
+  "num_followers": 45204,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
@@ -518,6 +518,10 @@
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
       "duration_ms": 188160,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 
 > Ruhunu dinlendireceğin bu kutsal ayda yolculuğuna eşlik edecek ney ezgileri\. Görsel: Sultanahmet Camii
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,664 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,663 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 26 | [Segah Taksim](https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 3:22 |
 | 27 | [Acemaşiran Peşrev](https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Aşk ile Meşk / Makamlarla İlâhiler 2](https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5) | 1:44 |
 | 28 | [Uyan Ey Gözlerim](https://open.spotify.com/track/0iZ4IXNuFeQM5j7ZJp0div) | [Kervan City](https://open.spotify.com/artist/0e5fIkfRh7wcDxKnQOaaIS) | [Ney Dinletisi, Vol\. 1](https://open.spotify.com/album/5156CHi13Q9MKiuE3IRTRz) | 3:19 |
-| 29 | [Ud Taksim\-Hüzzam](https://open.spotify.com/track/59e8y70HkyfKeJRNdLu33F) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R), [Başak Harmancı](https://open.spotify.com/artist/26D5u8Ioou4suau9EQpALy) | [Amasya İlahileri](https://open.spotify.com/album/61GVnrhHVkx9QqCT9mijbN) | 1:29 |
-| 30 | [Huzurun Yolu](https://open.spotify.com/track/2uUqKI98yYHo4NxxiCYqSX) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 1:51 |
+| 29 | [Huzurun Yolu](https://open.spotify.com/track/2uUqKI98yYHo4NxxiCYqSX) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 1:51 |
+| 30 | [Ud Taksim\-Hüzzam](https://open.spotify.com/track/59e8y70HkyfKeJRNdLu33F) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R), [Başak Harmancı](https://open.spotify.com/artist/26D5u8Ioou4suau9EQpALy) | [Amasya İlahileri](https://open.spotify.com/album/61GVnrhHVkx9QqCT9mijbN) | 1:29 |
 | 31 | [Bestenigar Taksim](https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 2:34 |
 | 32 | [Ney Taksimi](https://open.spotify.com/track/00edBDjyZcCVR4wjxtXNo2) | [Süleyman Erguner](https://open.spotify.com/artist/0HpFsCxk1wv6CuW1Buql19) | [Sükrü Tunar \- Türk Musikisinin Unutulmayan Bestecileri 10 \(The Unforgettable Composers Of Turkish Music\)](https://open.spotify.com/album/7i3TgRfo8b9Cyp0tTNRBdi) | 1:00 |
 | 33 | [Hicaz Taksim](https://open.spotify.com/track/17Ar8g9BlDJthkGFi3Mx32) | [Ender Doğan](https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs), [Yahya Soyyiğit](https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK) | [Ney Taksimleri / Dinle Ney'den \(Enstrumental, Vol\. 1\)](https://open.spotify.com/album/1Ek9svPcKKmyVARdbjas6N) | 2:09 |

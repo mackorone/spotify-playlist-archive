@@ -7987,6 +7987,24 @@
     },
     {
       "album": {
+        "name": "feels like home",
+        "url": "https://open.spotify.com/album/6pN0ppTy0rliZ8OkoPBKmL"
+      },
+      "artists": [
+        {
+          "name": "Ash Forrest",
+          "url": "https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141252,
+      "name": "feels like home",
+      "url": "https://open.spotify.com/track/3v1M7kq2L1wgRKXgWuY3N3"
+    },
+    {
+      "album": {
         "name": "Feels like home",
         "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
       },
@@ -25182,7 +25200,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 161406,
       "name": "Spelbound",
       "url": "https://open.spotify.com/track/1jv9DlrIHMZAqMrPJi9r3T"
@@ -29248,6 +29266,24 @@
       "duration_ms": 126124,
       "name": "Under Cold Water",
       "url": "https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx"
+    },
+    {
+      "album": {
+        "name": "Under the Same Moon",
+        "url": "https://open.spotify.com/album/2O8eOvPiGUjYsI7CYPuTXn"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Under the Same Moon",
+      "url": "https://open.spotify.com/track/77FPdeaBgEHrLi8fLPgNRY"
     },
     {
       "album": {

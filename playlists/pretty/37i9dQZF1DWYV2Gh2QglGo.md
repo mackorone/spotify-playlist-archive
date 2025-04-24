@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: James Baker Band
+> The home of Canadian country music\. Cover: James Barker Band
 
 [Spotify](https://open.spotify.com/user/spotify) - 80,704 likes - 50 songs - 2 hr 37 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [Stay a Little Longer](https://open.spotify.com/track/29qwIkY2r8gShcx9NfhQxs) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [Stay a Little Longer](https://open.spotify.com/album/3Xu8qQ5ub97wlniJznRGAb) | 3:09 |
 | 50 | [Things My Mama Says](https://open.spotify.com/track/4my3xcaM2p80DFfi3ZTiHB) | [Hailey Benedict](https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce) | [Things My Mama Says](https://open.spotify.com/album/4MWGPCRkqgf9Iswh6kYJCH) | 2:52 |
 
-Snapshot ID: `aAHObgAAAACPqawlhpipjNOj7YcALDjy`
+Snapshot ID: `aAkG4wAAAACbcea0CbH5Z8kZIHmnbILS`

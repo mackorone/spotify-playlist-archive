@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Pulse Of Desire",
+        "url": "https://open.spotify.com/album/5b1bMJxJa5M1Q5md2ZQb5p"
+      },
+      "artists": [
+        {
+          "name": "Vellkhan",
+          "url": "https://open.spotify.com/artist/4IkkkRiHwKB0fnXWcFjLEp"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Pulse Of Desire - Radio Edit",
+      "url": "https://open.spotify.com/track/6O4b6FJlygrJqRHsCr4xlF"
+    },
+    {
+      "album": {
         "name": "Return to Paradise [The Remixes]",
         "url": "https://open.spotify.com/album/1iPmSRRJEZyzA0J0OxS1mv"
       },

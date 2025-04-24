@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 241144,
+  "num_followers": 241188,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAWKgAAAAADsEps5vq99wX8b2jqCBizz",
+  "snapshot_id": "aAbcAAAAAACUTuQIFqysXcX5TSMcIGxE",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Quiero Hablar",
-      "url": "https://open.spotify.com/track/0fEXNlcGfKRp33LNM7jToQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 307856,
       "name": "Hasta la Noche (Ilegal)",
       "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Quiero Hablar",
+      "url": "https://open.spotify.com/track/0fEXNlcGfKRp33LNM7jToQ"
     },
     {
       "added_at": null,

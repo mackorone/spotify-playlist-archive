@@ -3039,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "TOXIQUE",
+        "url": "https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "TOXIQUE",
+      "url": "https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m"
+    },
+    {
+      "album": {
         "name": "SUN",
         "url": "https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V"
       },
@@ -6016,7 +6034,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 162935,
       "name": "\u0e16\u0e2d\u0e14 (TAKE IT OFF)",
       "url": "https://open.spotify.com/track/7C1NEDCvP1psZenFDA3Sxx"

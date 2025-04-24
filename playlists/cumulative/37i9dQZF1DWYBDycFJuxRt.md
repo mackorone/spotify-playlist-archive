@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Tele\*👉 <a href="https://spice.eplus.jp/articles/337094">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Tele\*👉 <a href="https://spice.eplus.jp/articles/337284">連動記事</a>をSPICEでチェック!
 
-10,273 songs - 26 day 16 hr 43 min
+10,275 songs - 26 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [2025/3/5 AAAMYYYが鎮座DOPENESSとNeetzを迎えた新曲をリリース！女王蜂のニューアルバムも！君島大空のニューEP、G\-k.i.dのソロ新曲、冨田ラボの新曲もピックアップ！この1週間の音楽ニュースも深堀り！](https://open.spotify.com/episode/0T6FmQgdyXosPxc3EqnOFg) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:11 | 2025-03-05 | 2025-03-12 |
 | [2025/4/16 tuki.が初のドラマ主題歌をリリースしてカバーに！RIP SLYMEの約9年ぶりとなる5人そろっての新曲、Jackson WangとNumber\_iのコラボ作品も！バルーンによる企画アルバム、TK from 凛として時雨のニューアルバムもピックアップ！](https://open.spotify.com/episode/1BukHz0sbkVpvoOghHdYXo) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 18:23 | 2025-04-16 | 2025-04-23 |
 | [2025/4/2 LANAがカバー！HANAのメジャーデビューソングも！Young Cocoのニューアルバム、JO1のベスト・アルバム、デビュー45周年を迎えた松田聖子の新曲もリリースに！](https://open.spotify.com/episode/6A2CpC1KzxagbuS5DSzEnp) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:27 | 2025-04-02 | 2025-04-09 |
+| [2025/4/23 Teleがニューアルバムをリリースしてカバーに！星野源の新曲、\[Alexandros\]のニューアルバムもピックアップ！Ayumu ImazuとFurui Rihoのコラボ曲も！唾奇とKohjiyaのコラボ曲も到着！](https://open.spotify.com/episode/0hCluqJtnYFEz0I8AYBp1c) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 27:28 | 2025-04-23 |  |
 | [2025/4/9 Mrs\. GREEN APPLEが新曲をリリースしてカバーに！Adoからメッセージも到着！！友成空、離婚伝説、幾田りらの新曲も！MC TYSONのニューEPもピックアップ！](https://open.spotify.com/episode/1ijtLjWEbFaAEOr8Z7rlog) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 27:17 | 2025-04-09 | 2025-04-16 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
@@ -4044,7 +4045,7 @@
 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx) | 3:13 | 2023-05-31 | 2023-06-07 |
 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/4DAGg2adRd1PuKrnoUZXOP) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/4zDzYgnFLtpLj9Zo2I6zNi) | 3:13 | 2023-05-30 | 2023-06-01 |
 | [New Shit](https://open.spotify.com/track/6YKn5ACbOOiZ1sm6qQoT7O) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [A YEAR OF STRENGTH](https://open.spotify.com/album/1uorBMQ4jsjiHv4sqdSUTp) | 3:02 | 2023-09-19 | 2023-09-27 |
-| [New Style](https://open.spotify.com/track/3rlM9fqXIbkKwmJtfFpHyH) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [New Style](https://open.spotify.com/album/4mx79mEF8LR3zhBj3PBqws) | 2:25 | 2025-04-22 |  |
+| [New Style](https://open.spotify.com/track/3rlM9fqXIbkKwmJtfFpHyH) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [New Style](https://open.spotify.com/album/4mx79mEF8LR3zhBj3PBqws) | 2:25 | 2025-04-22 |  |
 | [NEW SWAG](https://open.spotify.com/track/0pJ5iJlwK7XJhqUgxL93Et) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Losty](https://open.spotify.com/artist/54SfaqS6XKQHrdbYg7rgZ1) | [ASIAX](https://open.spotify.com/album/74QAbvu4SuVPkYqiWLE6dQ) | 2:43 | 2024-07-30 | 2024-08-07 |
 | [New Wheels](https://open.spotify.com/track/1mZBkV1a6byWsKrJguqejO) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [202](https://open.spotify.com/album/2eORd73ko4OnpjpJ6bePDZ) | 3:51 | 2025-04-22 |  |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-20 | 2024-08-28 |
@@ -5267,6 +5268,7 @@
 | [Silence](https://open.spotify.com/track/4RfDIlknnPcf9AHGML6EUT) | [KOMONO LAKE](https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG) | [Silence](https://open.spotify.com/album/3zy0ddUoagfuv2qvJAhQLq) | 3:37 | 2023-11-01 | 2023-11-08 |
 | [Silence](https://open.spotify.com/track/7Jdp3DDmfO5JbfdRSRB8K8) | [KOMONO LAKE](https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG) | [Silence](https://open.spotify.com/album/4HscBfxdWkJ1HE1tEDliKr) | 3:37 | 2023-10-31 | 2023-11-02 |
 | [Silence](https://open.spotify.com/track/3Oo3qBCkQO14COXfAaf4Ae) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Silence](https://open.spotify.com/album/2lGTukjPRNEe2HgiCcf2pl) | 2:47 | 2024-10-29 | 2024-11-06 |
+| [Silence](https://open.spotify.com/track/4JZZ7HMom41hWql5C97kNF) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Humanity](https://open.spotify.com/album/1YPnixUqWPRZgfAz4nWoHm) | 2:56 | 2025-04-23 |  |
 | [Silent Night with...](https://open.spotify.com/track/4U22SCpjkVSvV8hcT9o1aJ) | [Local Campione](https://open.spotify.com/artist/2cE3MDAfkGNrJXnq1V4e11) | [Silent Night with...](https://open.spotify.com/album/1iDrH3KeyUnsdZl6diFfi6) | 2:46 | 2024-12-03 | 2024-12-11 |
 | [Silent Wheel](https://open.spotify.com/track/1LJihCGuR4PwC6VYsT0tSq) | [ABSTRACT MASH](https://open.spotify.com/artist/76fH2myrsC2s9Ka2WnSJO3) | [Silent Wheel](https://open.spotify.com/album/68JHp1isOYsft3wJBLQr4c) | 4:26 | 2023-02-21 | 2023-03-01 |
 | [Silhouette](https://open.spotify.com/track/0AAIvbD69gVTFFnSa4oWru) | [Name the Night](https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH) | [Silhouette](https://open.spotify.com/album/57dPfug7sefSPHwHIlU02S) | 3:38 | 2024-07-23 | 2024-07-31 |

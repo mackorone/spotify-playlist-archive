@@ -660,7 +660,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 222673,
       "name": "Holy Coast",
       "url": "https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 226826,
       "name": "The Business Of Paper Stars",
       "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
@@ -1332,10 +1332,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 191585,
       "name": "The Rain Just Follows Me",
       "url": "https://open.spotify.com/track/4V06e8gINM5WBvZIqcZ9Ni"
+    },
+    {
+      "album": {
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191585,
+      "name": "The Rain Just Follows Me",
+      "url": "https://open.spotify.com/track/5I4ATfw1W2dvK3d9Kam4El"
     },
     {
       "album": {

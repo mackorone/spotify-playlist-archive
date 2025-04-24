@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \ucd5c\uc218\ud638(CHOI SOO HO)\nLet's party with cheerful Korean trot medley.",
+  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \ubc15\uc11c\uc9c4(Park Seo Jin)\nLet's party with cheerful Korean trot medley.",
   "name": "K-\ud2b8\ub86f \uc2a4\ud0c0 (K-Trot Stars)",
   "tracks": [
     {
@@ -4412,7 +4412,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 234253,
       "name": "Float the Boat",
       "url": "https://open.spotify.com/track/06PX6EkFZ4xvr5KI6WGo9R"
@@ -9356,7 +9356,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 186069,
       "name": "Man Who Left Me",
       "url": "https://open.spotify.com/track/2nVHBxjrX1euCiVq7zNIFg"
@@ -9764,7 +9764,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 146040,
       "name": "Mother",
       "url": "https://open.spotify.com/track/0wHkZmM32MuvUyC1wBKX2D"
@@ -11386,7 +11386,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 187560,
       "name": "Peony",
       "url": "https://open.spotify.com/track/45h3Ls2ZLfUv4Q5srBD0tE"
@@ -12470,7 +12470,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 268219,
       "name": "Scars deeper than love",
       "url": "https://open.spotify.com/track/6ZDGfuLzNSNYtuY3JETdaz"
@@ -14591,6 +14591,24 @@
     },
     {
       "album": {
+        "name": "To My Youth (Hansome Trot T4 Special Track)",
+        "url": "https://open.spotify.com/album/5R0ZsfjaZNlmmOXCwRynQn"
+      },
+      "artists": [
+        {
+          "name": "IN GYOJIN",
+          "url": "https://open.spotify.com/artist/2FUha6ofWRtOQmD55xrOfj"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245120,
+      "name": "To My Youth",
+      "url": "https://open.spotify.com/track/4XUxqXlhtPes3uBsYjQFwg"
+    },
+    {
+      "album": {
         "name": "Bongsungah school PART11",
         "url": "https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo"
       },
@@ -15288,7 +15306,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 197426,
       "name": "Very good tip",
       "url": "https://open.spotify.com/track/3wwLnXLyFH7x8KAoHCRNyz"
@@ -15588,7 +15606,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 186400,
       "name": "Weed",
       "url": "https://open.spotify.com/track/0KtsjIWIOtvdgMdCIkXjWX"

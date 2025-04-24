@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=aAspDRzFQvqjWUhQsbESKA>Victor Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,555 likes - 103 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,567 likes - 103 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

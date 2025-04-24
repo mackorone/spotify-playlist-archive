@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-577 songs - 1 day 5 hr 33 min
+578 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Hero \- Dubvision Remix](https://open.spotify.com/track/1zz4r1u9x46gVmY5qZthEC) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Hero \(Dubvision Remix\)](https://open.spotify.com/album/35sT9OK0TguT214N9u70rS) | 3:51 | 2022-04-14 | 2022-07-26 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-18 | 2023-04-09 |
 | [High For This](https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [High For This](https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC) | 4:01 | 2024-07-11 | 2024-09-20 |
-| [Higher State Of Consciousness](https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Higher State Of Consciousness](https://open.spotify.com/album/2WHfvIIzdT7dLVLTajxjvv) | 3:03 | 2024-10-24 |  |
+| [Higher State Of Consciousness](https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Higher State Of Consciousness](https://open.spotify.com/album/2WHfvIIzdT7dLVLTajxjvv) | 3:03 | 2024-10-24 | 2025-04-24 |
 | [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 | 2025-03-13 |  |
 | [How We Do](https://open.spotify.com/track/1eMZdfK7A9cHAMn083Euy3) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Les Pays Bass](https://open.spotify.com/album/6yAOdghBIXRv3mwIk2b30I) | 2:30 | 2023-02-09 | 2023-02-17 |
 | [How We Feelin](https://open.spotify.com/track/4PkZNPD2waoSbn5ObPnwc9) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [BEATSBYSICK Vol\. 01](https://open.spotify.com/album/3wOGpE3SuvdehXwvnKj3ts) | 2:47 | 2025-02-03 |  |
@@ -542,6 +542,7 @@
 | [Toxic](https://open.spotify.com/track/4ANHKkQXnqEuyEobhBdlfi) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Toxic](https://open.spotify.com/album/11p6rT98tDVDchI7h9XbYU) | 2:58 | 2022-10-27 | 2023-04-11 |
 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 | 2023-04-27 | 2024-09-20 |
 | [Traffic Lights](https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Traffic Lights](https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB) | 2:08 | 2024-06-13 | 2024-11-15 |
+| [Trance Is The Rhythm](https://open.spotify.com/track/1NqwZNdEZKKfSmdwGSm1HJ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Trance Is The Rhythm](https://open.spotify.com/album/1I6COIY4KtHYGA4RdvYyLJ) | 3:00 | 2025-04-17 |  |
 | [Tunnel](https://open.spotify.com/track/1lvpoF24wJfyzITLOsLqpL) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Tunnel](https://open.spotify.com/album/2ZIE7kvVdqeS6cuQr9yCkR) | 3:38 | 2022-06-02 | 2022-07-26 |
 | [Turn Off The Lights \- VIP Mix](https://open.spotify.com/track/5zeJeJkxOFYe2Vx2YRTeEx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Turn Off The Lights \(VIP Mix\)](https://open.spotify.com/album/6na0pPLeZHzJ2HJpITcq9b) | 2:28 | 2024-03-14 | 2024-04-26 |
 | [Turn Up The Bass](https://open.spotify.com/track/16mgFU72kDK6o1bGzqitT6) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8) | [Turn Up The Bass](https://open.spotify.com/album/73kBhQxq0aheDZjj4xOUkl) | 3:13 | 2022-04-14 | 2022-05-06 |

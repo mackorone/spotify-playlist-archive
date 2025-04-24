@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-641 songs - 1 day 20 hr 24 min
+643 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,8 @@
 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 | 2023-12-30 |  |
 | [Taken](https://open.spotify.com/track/758x5c6DtwpX1RuoRhr39i) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 2:48 | 2023-12-30 |  |
 | [Takin' Back My Heart](https://open.spotify.com/track/2ROJCBdOLQNp01eRXjsPG8) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 4:32 | 2023-12-30 |  |
+| [Tan Dentro De Tí](https://open.spotify.com/track/3MSxL9gtn2qHZ1Vwx6cc8v) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Junior](https://open.spotify.com/album/4XcNoHql0HDzjby9lOsdsd) | 4:42 | 2025-04-23 |  |
+| [Taste the Tears \- Thunderpuss Original Mix](https://open.spotify.com/track/19CSCNrnrQOsVgJZxMR8M6) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [The Hits Remixed](https://open.spotify.com/album/3k7C0kAgsm4e0R5HeluMMB) | 3:47 | 2025-04-23 |  |
 | [Tears in the Rain](https://open.spotify.com/track/5ATdlQnIyhLMLEDNm3DpOB) | [Aegis](https://open.spotify.com/artist/65kpH75MFCBJhLy7qvVl6A) | [Back to Love](https://open.spotify.com/album/5ekYZejvueCKVNHC3CSnan) | 4:51 | 2024-07-10 |  |
 | [Tears in the Rain](https://open.spotify.com/track/21SxSkte44lujQBTfRuSwq) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [Legends](https://open.spotify.com/album/4Yn2tIGnNwUcfahxGvw1Vb) | 4:35 | 2023-12-30 |  |
 | [Tell It To The Moon](https://open.spotify.com/track/6VBDF1Q6du1T7p8LhyiblP) | [Martha Davis](https://open.spotify.com/artist/2ioCVuqjcRCoQPhEYY0kmg) | [Policy](https://open.spotify.com/album/3LYSK5WS0E3QigUu1mu0fs) | 4:11 | 2023-12-30 |  |

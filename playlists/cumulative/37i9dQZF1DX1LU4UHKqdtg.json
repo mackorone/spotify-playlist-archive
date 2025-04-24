@@ -13599,6 +13599,24 @@
     },
     {
       "album": {
+        "name": "Lucky=One",
+        "url": "https://open.spotify.com/album/1Evh1hzbbUwjBHFoaVQLBq"
+      },
+      "artists": [
+        {
+          "name": "cosmosy",
+          "url": "https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "Lucky=One",
+      "url": "https://open.spotify.com/track/0KUXg1wu5jnK5YzvF6cryR"
+    },
+    {
+      "album": {
         "name": "LUMINOUS",
         "url": "https://open.spotify.com/album/13B70JuY08wGNOMaL2Mb4e"
       },
@@ -26060,7 +26078,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 164493,
       "name": "zigy=zigy",
       "url": "https://open.spotify.com/track/3wTJIqW5RXvGjmrXuYDZUo"

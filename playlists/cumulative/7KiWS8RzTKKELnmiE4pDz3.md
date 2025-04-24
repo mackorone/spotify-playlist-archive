@@ -4,7 +4,7 @@
 
 > 
 
-947 songs - 1 day 22 hr 35 min
+950 songs - 1 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Broad Day](https://open.spotify.com/track/0u7q9Ok2YzPk7JfciLS6Gi) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:09 | 2022-02-25 | 2023-12-14 |
 | [Broad Day \- Solo Version](https://open.spotify.com/track/2RUnaSDdEsxiKNcHweIQ7g) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [Broad Day \(Solo Version\)](https://open.spotify.com/album/4L9m6x0WaNoGgA0SmeU7hP) | 2:13 | 2022-12-21 | 2023-12-14 |
 | [Broccoli & Cheese](https://open.spotify.com/track/7HI9qCv1vRyn59iJGpjLHx) | [Paper Route EMPIRE](https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PAPER ROUTE iLLUMINATi](https://open.spotify.com/album/6WDlSPJvEMoZLHj9jJ1dhY) | 2:21 | 2023-10-03 | 2024-03-05 |
+| [Bubble Pop Electric](https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:42 | 2025-04-23 |  |
 | [Burn](https://open.spotify.com/track/1X8E4vVoOM3BpSQlEDSjjM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:37 | 2025-04-08 |  |
 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 | 2024-02-10 | 2024-02-18 |
 | [BË QUIET \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:54 | 2024-10-18 |  |
@@ -483,6 +484,7 @@
 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 | 2025-03-03 |  |
 | [Locusts](https://open.spotify.com/track/7LpVvEMb8s30QfGKoHMuu0) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Locusts](https://open.spotify.com/album/00FePblmr3mcHeFHXlAeqb) | 1:56 | 2023-03-27 | 2023-12-14 |
 | [Long Ears](https://open.spotify.com/track/0HiMULfsVPuDSDBGn2hYll) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 3:56 | 2024-02-16 | 2024-11-06 |
+| [Long Way To Go](https://open.spotify.com/track/3ZLmAoJb6ZHlgbakKFDAyk) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 4:34 | 2025-04-23 |  |
 | [Look At They Face](https://open.spotify.com/track/5Otd4NFsyhjFKLkYgivIY8) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:45 | 2022-07-08 | 2023-12-14 |
 | [Lookbook](https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:30 | 2022-10-31 |  |
 | [Lookin Exotic](https://open.spotify.com/track/6Mz7ULRwNSCOdut6M3tNs2) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HNDRXX](https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X) | 3:46 | 2023-09-20 | 2024-11-06 |
@@ -594,6 +596,7 @@
 | [Nun To Me](https://open.spotify.com/track/1wNdaSWQHqXTlwFYiORqdg) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Nun To Me](https://open.spotify.com/album/1cTbBlZz7ZBLQ2ddL2VNG0) | 2:06 | 2022-03-07 | 2023-05-09 |
 | [Nun To Me 2](https://open.spotify.com/track/4sFgIu8crDuYFB5D9rPnwc) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Nun To Me 2](https://open.spotify.com/album/7xA683YceDSM06T3w4przz) | 2:06 | 2022-07-24 | 2023-12-14 |
 | [Obama](https://open.spotify.com/track/0KSM92wdfZ6HqwsFxV3DXn) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:32 | 2025-04-16 |  |
+| [Obedient](https://open.spotify.com/track/0ZCWaBh3XOTcuwy032ZKCl) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Red Light](https://open.spotify.com/album/2aOPyH6k96e4TDJkEivOC9) | 2:59 | 2025-04-23 |  |
 | [Objects in the Mirror](https://open.spotify.com/track/64gyqTtDDel7B2NoEkOa0A) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off \(Deluxe Edition\)](https://open.spotify.com/album/3T02fCxAjApu18taJLLbyN) | 4:19 | 2024-02-22 | 2024-11-06 |
 | [Off Tha Lot](https://open.spotify.com/track/5RdiPZzjXTmp9N51wBEzCv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:03 | 2022-11-30 | 2023-12-14 |
 | [Oh eX whY](https://open.spotify.com/track/15bjjTkuMb2vwdBijmD02S) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/2VLfVJIWbfaMsFQNfS11ad) | 2:33 | 2023-03-12 | 2023-05-09 |

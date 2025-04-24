@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 633295,
+  "num_followers": 633332,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAWKgAAAAAAlWJajA+B0xAW5kwh8wGaD",
+  "snapshot_id": "aAbcAAAAAAA+o2YrvjFbq0oGqxueQHUo",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special Edition 'Still Alive'",
-        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
-      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 233320,
       "name": "Always",
       "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
+      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special Edition 'Still Alive'",
-        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigbang 03",
         "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 218618,
       "name": "Forever With U (Feat. Park Bom)",
       "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
     },
     {
       "added_at": null,

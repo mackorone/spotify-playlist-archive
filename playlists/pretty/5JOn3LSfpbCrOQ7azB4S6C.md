@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,278 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,275 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 | 33 | [Radioactive](https://open.spotify.com/track/5WkUEAGya6TGeC5U0HDa80) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA Deluxe](https://open.spotify.com/album/3KrONVBdZc7AhGf4v7imlo) | 4:11 |
 | 34 | [Waiting Alone](https://open.spotify.com/track/7FuuWivhG4GszZtwF3sezt) | [Shiny Toy Guns](https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY) | [III](https://open.spotify.com/album/18F67pxh1xsZzkl2csLlcq) | 3:14 |
 | 35 | [Winter Trees](https://open.spotify.com/track/29cjJmloO5C0t6Ak3bNLTv) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/7pyw8r3PT2mK3GIEsmQlCI) | 3:37 |
-| 36 | [Closer](https://open.spotify.com/track/1HDpZNBwkE14hHeD5ERHfp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Closer](https://open.spotify.com/album/6oSgEasPKd0VMri2mDlAzB) | 3:32 |
+| 36 | [Closer](https://open.spotify.com/track/1HDpZNBwkE14hHeD5ERHfp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Closer](https://open.spotify.com/album/6oSgEasPKd0VMri2mDlAzB) | 3:30 |
 | 37 | [Black Chandelier](https://open.spotify.com/track/6UNuEH7oPVqaBjnkucKWCk) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Black Chandelier](https://open.spotify.com/album/7kg1l3K6nXd0yBi1iTSkHd) | 4:04 |
 | 38 | [Hold This Moment](https://open.spotify.com/track/1H2CufOweMcJt97bxy8Hjs) | [Vanbot](https://open.spotify.com/artist/21BNK6J98DN07SsiS0MQjD) | [Hold This Moment](https://open.spotify.com/album/1b1dhuhLVgPnq8rYrMYCFY) | 3:26 |
 | 39 | [Fancy Dress](https://open.spotify.com/track/2x1SfpStMrNrNGHhatpPwB) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Priorities \(Deluxe Version\)](https://open.spotify.com/album/493HNHQEdGpkuGvoZKJswR) | 3:28 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 | 43 | [Lose You Tonight](https://open.spotify.com/track/5FS4PATrDGK44mPJkakAEC) | [Kristina Train](https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK) | ["Dark Black" Track By Track](https://open.spotify.com/album/5G1v8TZX16uoUrBQwEqKyi) | 3:34 |
 | 44 | [Now Is The Start](https://open.spotify.com/track/3gEyA6UtRSk1058sev61D6) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [PINES](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) | 4:46 |
 | 45 | [Radioactive](https://open.spotify.com/track/5WkUEAGya6TGeC5U0HDa80) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA Deluxe](https://open.spotify.com/album/3KrONVBdZc7AhGf4v7imlo) | 4:11 |
-| 46 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
+| 46 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:30 |
 | 47 | [Indigo](https://open.spotify.com/track/6JViDApXvT7VGVjvS5qiPE) | [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Indigo](https://open.spotify.com/album/1GPtX9ZvK9gUdJQCwMoO6i) | 3:53 |
 | 48 | [Love So Cold](https://open.spotify.com/track/4mnVOD761wXQHpqFaoncqq) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [Love So Cold / In My Arms](https://open.spotify.com/album/4mvSOePAKi4RiiIy1JcVMD) | 3:41 |
 | 49 | [Hand On Heart](https://open.spotify.com/track/3m2riGbF1EZLR7NV2nGgSC) | [The Heartbreaks](https://open.spotify.com/artist/4tE2pnU40yxjN1rmnahWdE) | [Funtimes](https://open.spotify.com/album/3fI1WKw3ZTHXbQ9RLn2hoW) | 3:30 |

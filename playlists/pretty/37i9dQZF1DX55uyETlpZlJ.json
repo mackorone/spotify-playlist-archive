@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Rahul Dit-O",
-  "num_followers": 24598,
+  "num_followers": 24606,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAYfJwAAAADV6qRHmIRZ90YOVCWVi96H",
+  "snapshot_id": "aAiIoAAAAABXS1Cs50wIBxzCP0NSYDSF",
   "tracks": [
     {
       "added_at": "2025-03-17 09:35:56",
@@ -69,6 +69,38 @@
       "url": "https://open.spotify.com/track/3vR1KLlliDOYQ5VBbEGLPh"
     },
     {
+      "added_at": "2025-01-30 06:53:46",
+      "album": {
+        "name": "Sakkathagiddini",
+        "url": "https://open.spotify.com/album/6HbSyd9OQBydmp4mdhQ4kR"
+      },
+      "artists": [
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        }
+      ],
+      "duration_ms": 158986,
+      "name": "Sakkathagiddini",
+      "url": "https://open.spotify.com/track/5iZhK1bnpCzb2gqEbl8u93"
+    },
+    {
+      "added_at": "2025-04-23 06:28:48",
+      "album": {
+        "name": "Fall in love",
+        "url": "https://open.spotify.com/album/26yNQkxd0J2MB6nioywD5U"
+      },
+      "artists": [
+        {
+          "name": "Shiva Ranna",
+          "url": "https://open.spotify.com/artist/6fOpr6oChdGNK3Ypi9d6CJ"
+        }
+      ],
+      "duration_ms": 224048,
+      "name": "Fall in love",
+      "url": "https://open.spotify.com/track/3XJFWpFQ1mmfsnLAmzoku6"
+    },
+    {
       "added_at": "2025-04-16 09:10:26",
       "album": {
         "name": "Ninnindha Shuru",
@@ -93,20 +125,20 @@
       "url": "https://open.spotify.com/track/63Z5msVzQTDREqGmFbFXok"
     },
     {
-      "added_at": "2025-01-30 06:53:46",
+      "added_at": "2025-04-23 06:28:24",
       "album": {
-        "name": "Sakkathagiddini",
-        "url": "https://open.spotify.com/album/6HbSyd9OQBydmp4mdhQ4kR"
+        "name": "Tandanaa",
+        "url": "https://open.spotify.com/album/08geveRHblH8RA5NoLq0q6"
       },
       "artists": [
         {
-          "name": "Rahul Dit-O",
-          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+          "name": "Trap Raag",
+          "url": "https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09"
         }
       ],
-      "duration_ms": 158986,
-      "name": "Sakkathagiddini",
-      "url": "https://open.spotify.com/track/5iZhK1bnpCzb2gqEbl8u93"
+      "duration_ms": 152451,
+      "name": "Tandanaa",
+      "url": "https://open.spotify.com/track/58RaH4opeDLaPRzxARGzfA"
     },
     {
       "added_at": "2025-04-21 10:34:15",
@@ -1367,50 +1399,6 @@
       "duration_ms": 209166,
       "name": "Dear Nikki",
       "url": "https://open.spotify.com/track/1nq7A0Za0wROknaJE2IsJu"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Preethiso Hudugane",
-        "url": "https://open.spotify.com/album/6ZRvBbqTKGTkV5iQOOwY4v"
-      },
-      "artists": [
-        {
-          "name": "Savishri",
-          "url": "https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ"
-        },
-        {
-          "name": "Mohan P Nayar",
-          "url": "https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3"
-        },
-        {
-          "name": "Sabik puttur",
-          "url": "https://open.spotify.com/artist/7ENmeMjGxTxoXMrM4JTyrc"
-        }
-      ],
-      "duration_ms": 246976,
-      "name": "Preethiso Hudugane",
-      "url": "https://open.spotify.com/track/7fhd7foEcDvmBR0TmRJJNM"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Choore Chooru",
-        "url": "https://open.spotify.com/album/7nvwX5BqZFQHMdMHTbV0Uj"
-      },
-      "artists": [
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Vismaya Jaga",
-          "url": "https://open.spotify.com/artist/4OJZPi2d4EtkviaKrsyHMV"
-        }
-      ],
-      "duration_ms": 203879,
-      "name": "Choore Chooru",
-      "url": "https://open.spotify.com/track/4xvAtC9MHD06kHgCs9oGDS"
     },
     {
       "added_at": "2025-01-06 04:59:04",

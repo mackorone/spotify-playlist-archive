@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Federica Abbate
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,048 likes - 130 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,049 likes - 130 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 63 | [Bella Mossa \(feat\. Coez\)](https://open.spotify.com/track/4VW9kBi5TB2QlhihKgP6tn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 |
 | 64 | [Leone](https://open.spotify.com/track/1guv7Km5uPI4hz5oV9VCSt) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Leone](https://open.spotify.com/album/2B92x0RnkkBIKW7QJeoDOj) | 3:05 |
 | 65 | [Rich](https://open.spotify.com/track/4vhRYAg2gsHzcgb9mHxjN7) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Rich](https://open.spotify.com/album/6lwxh0r3dmw2mQ5LBH4UOG) | 2:31 |
-| 66 | [Follow The Waves \(feat\. Caden\)](https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Caden](https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS) | [Follow The Waves \(feat\. Caden\)](https://open.spotify.com/album/2w1u1N0UTUrv0sWF7y5ncy) | 2:50 |
+| 66 | [Follow The Waves](https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Caden](https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS) | [Follow The Waves](https://open.spotify.com/album/2w1u1N0UTUrv0sWF7y5ncy) | 2:50 |
 | 67 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 |
 | 68 | [CUNTISSIMO](https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUNTISSIMO](https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq) | 4:00 |
 | 69 | [MURAKAMI](https://open.spotify.com/track/3fLX9nZsAAuJxGj2Y2l3c3) | [Gyuse](https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr) | [MURAKAMI](https://open.spotify.com/album/4cjQ6H3fonKcVG8MOri03D) | 3:11 |

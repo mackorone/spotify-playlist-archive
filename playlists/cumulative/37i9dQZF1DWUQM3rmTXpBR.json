@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 225384,
       "name": "Nettat",
       "url": "https://open.spotify.com/track/4cwCGscTjO9FwgtRU9QIAe"
@@ -3302,6 +3302,28 @@
       "duration_ms": 224624,
       "name": "Ya Weel Weely",
       "url": "https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3"
+    },
+    {
+      "album": {
+        "name": "Ya Zarif",
+        "url": "https://open.spotify.com/album/1oOf332OXrB1PoRMVco0zV"
+      },
+      "artists": [
+        {
+          "name": "Sleiman Damien",
+          "url": "https://open.spotify.com/artist/3jJQ6M3FJdbJxY6DopJ73W"
+        },
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119172,
+      "name": "Ya Zarif",
+      "url": "https://open.spotify.com/track/5lBPn6PmXqe52OXIaXxnjS"
     },
     {
       "album": {

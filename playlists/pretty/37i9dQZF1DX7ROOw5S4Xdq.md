@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,742 likes - 49 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,735 likes - 49 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 25 | [Glória, Aleluia](https://open.spotify.com/track/1kqg1ydHXxz5ZeBnbdZrWf) | [Nicoli Francini](https://open.spotify.com/artist/4gaGalvl0a24VY9N8Y4hBj) | [Glória, Aleluia](https://open.spotify.com/album/4QJAg64dE0vEYBxrQ6jxH4) | 4:45 |
 | 26 | [Creio em Ti, Senhor \- Ao Vivo](https://open.spotify.com/track/62sHMKaYgaQcAojaZomuBO) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Communion](https://open.spotify.com/artist/1bWSz81JqycS5iLGZqvOZq), [Ágatha Melo](https://open.spotify.com/artist/6kUXigRAdKvGrpIJb5wAx1) | [Creio em Ti, Senhor \(Ao Vivo\)](https://open.spotify.com/album/3qHzXIwlxP0cMa56Dph2ZO) | 4:02 |
 | 27 | [Filho de Deus](https://open.spotify.com/track/3LuFYzK4SX4CHOcGYtt9o4) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b) | [Filho de Deus](https://open.spotify.com/album/1VHgkrbuWvzWtfiukY7RiV) | 4:57 |
-| 28 | [Teu Nome](https://open.spotify.com/track/3OpBWfeHsk9ztcrEVnic4Q) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ) | [Teu Nome](https://open.spotify.com/album/0IPSCom1xR1RayvLhFeljv) | 5:59 |
+| 28 | [Teu Nome](https://open.spotify.com/track/3OpBWfeHsk9ztcrEVnic4Q) | [Humillé](https://open.spotify.com/artist/2j15s5SPI9yS6X7YGPhd22), [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ) | [Teu Nome](https://open.spotify.com/album/0IPSCom1xR1RayvLhFeljv) | 5:59 |
 | 29 | [Gratidão \- Acústico](https://open.spotify.com/track/3JuvtXUWcgb0aXzE3DiOXz) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Gratidão \(Acústico\)](https://open.spotify.com/album/0vVJt6p4Kakmn3NSzOojm3) | 5:43 |
 | 30 | [Apocalipse \- Ao Vivo](https://open.spotify.com/track/7LPHrgdhNhECxxvHYI4y11) | [Mara Souza](https://open.spotify.com/artist/4bw52hHES9kCJ1T0ILDxPw), [Vanessa Cavalcante](https://open.spotify.com/artist/3b9sDZuaG4AYqiLSK1H6Kc), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse \(43 Anos Louvor Eterno\) \[Ao Vivo, Curitiba, Teatro Positivo, 2025\]](https://open.spotify.com/album/2LDrK6Gh3zQuy02aYkcTuw) | 6:16 |
 | 31 | [Milhões de Motivos](https://open.spotify.com/track/5q0W17o6t7FfELfJXfEs8C) | [Bruna Martins](https://open.spotify.com/artist/15wNQ6H3lUiYCM5xq2XSMq), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Milhões de Motivos](https://open.spotify.com/album/1Nzbj6eXtaGnXvKDLTbAm0) | 4:15 |

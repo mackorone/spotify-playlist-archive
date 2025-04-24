@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-174 songs - 7 hr 13 min
+176 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 | 2023-09-26 |  |
 | [Prados](https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Prados](https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b) | 2:03 | 2023-05-09 |  |
 | [premier amour](https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [premier amour](https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz) | 2:38 | 2024-12-11 |  |
-| [Private Collection](https://open.spotify.com/track/5v2f31RuioUvVquwup0sYd) | [Solyvia](https://open.spotify.com/artist/3T1LDkIId5F2wULXuIAthf) | [Private Collection](https://open.spotify.com/album/21x6KzqlXUNbra8qmGWAH3) | 2:54 | 2025-03-28 |  |
+| [Private Collection](https://open.spotify.com/track/5v2f31RuioUvVquwup0sYd) | [Solyvia](https://open.spotify.com/artist/3T1LDkIId5F2wULXuIAthf) | [Private Collection](https://open.spotify.com/album/21x6KzqlXUNbra8qmGWAH3) | 2:54 | 2025-03-28 | 2025-04-24 |
 | [Prélude](https://open.spotify.com/track/6HIRhDZd8E7MMkfZDLpV48) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:51 | 2023-05-09 | 2025-02-19 |
 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 | 2023-09-11 |  |
 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 | 2024-08-19 |  |
@@ -126,6 +126,7 @@
 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 | 2023-08-15 |  |
 | [Seamless](https://open.spotify.com/track/1DkHsipoHreKriNWagcghR) | [Fröe](https://open.spotify.com/artist/0OZxzIeQtg2hGlRD4B5gLQ) | [Shapes](https://open.spotify.com/album/63LKKV0199QFc6Je3PYUU1) | 2:22 | 2023-05-09 |  |
 | [Seasons Flowing](https://open.spotify.com/track/3GF4u2VOhdmr3qTpACIVmm) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Seasons Flowing](https://open.spotify.com/album/7DGbjC2RBWda7hbD8dE1Hj) | 2:30 | 2024-09-30 |  |
+| [Serenade to Veronika](https://open.spotify.com/track/2hzwsJaOQLnex8YchKVqOe) | [Ferenc Bognár](https://open.spotify.com/artist/6kZd1uFzg7uGWSitp4F4GW) | [Serenade to Veronika](https://open.spotify.com/album/1rdGTeKhkDgpSbk84SFjNM) | 2:36 | 2025-04-23 |  |
 | [Serene Lullaby](https://open.spotify.com/track/6senBBuEDrhyrtq83mNw8K) | [Michele Nobler](https://open.spotify.com/artist/3c77k7JBsnl7h72xlCuaS2) | [A Second Life](https://open.spotify.com/album/4zfzNeWgluMMQfhXxNOft8) | 2:46 | 2023-05-09 | 2025-02-19 |
 | [Serenity](https://open.spotify.com/track/5ul8fmKLEXPOoxI2UB03Cl) | [Peighton](https://open.spotify.com/artist/1YUB5ogOMQkiMfYvaPIEPY) | [Serenity](https://open.spotify.com/album/3H4nRo9aqyV0W0CK0MyaRo) | 2:38 | 2023-05-09 |  |
 | [Silence](https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Silence](https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5) | 2:21 | 2024-12-03 |  |
@@ -140,6 +141,7 @@
 | [Solumn](https://open.spotify.com/track/6NTynu96oI1nXRWHm10Agr) | [Franz Ville](https://open.spotify.com/artist/6hQXyaaHszf1oLCq4KYRhn) | [Solumn](https://open.spotify.com/album/208hv2rYgpKJjxh9wrMPXz) | 2:27 | 2024-09-24 |  |
 | [Somewhere](https://open.spotify.com/track/6jR3xidOqwlv86dmqTtvte) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Somewhere](https://open.spotify.com/album/2Hr2y7y5blJuP0afa4hBix) | 1:58 | 2025-02-28 | 2025-04-09 |
 | [Sommeil du matin](https://open.spotify.com/track/48iJJJ9TGZQAbcdu5B05Xh) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [Sommeil du matin](https://open.spotify.com/album/4e3yaL5e7v46uCWo7SAqu5) | 2:29 | 2023-05-09 |  |
+| [Sonance](https://open.spotify.com/track/3kiImZNbUBxXLpKnsqd5rx) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Sonance](https://open.spotify.com/album/0Brn57yRLPwJZasUZ1Zukt) | 2:16 | 2025-04-23 |  |
 | [Soothing Solitude](https://open.spotify.com/track/7j2sPZ3tWJilkCZM8MnIGN) | [Alisa Moon](https://open.spotify.com/artist/73wq226FP4G1SgFEhIDib3) | [Soothing Solitude](https://open.spotify.com/album/1IebMfL6xlMbRogxNY8UvO) | 2:19 | 2025-02-18 |  |
 | [Sophie's Dream](https://open.spotify.com/track/0NuArIxWB7jwUpukJX48cb) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Stars over Salzburg](https://open.spotify.com/album/1OuTfuGjS8KZaoX8geI1gx) | 2:21 | 2023-05-09 | 2025-02-19 |
 | [Starlight Canyon](https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6) | [Lok Hanzo](https://open.spotify.com/artist/1cncGJWbNVksCj9GsqxDdR) | [Lavender Dreams](https://open.spotify.com/album/4OcV6gotcV6oh8XEmRezDz) | 1:38 | 2023-05-09 | 2025-01-07 |
@@ -173,7 +175,7 @@
 | [vierde moment](https://open.spotify.com/track/2odkdy9ZmZPuH3U1q3BPXD) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0ybD0BRRdBivIT6Db8iu7P) | 3:21 | 2024-04-03 | 2024-08-13 |
 | [Walking Slowly](https://open.spotify.com/track/04HAuNsJ33EMeoNhiOQLcQ) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Walking Slowly](https://open.spotify.com/album/4wjmBndNtG1iaQbsOEyBF0) | 3:18 | 2023-05-09 | 2025-03-05 |
 | [Wavering in the wind](https://open.spotify.com/track/65R91R603eXiAOa0K4bar0) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Wavering in the wind](https://open.spotify.com/album/189614dABOnS6fQzug1EGC) | 2:28 | 2023-05-09 |  |
-| [What Time Reveals](https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [What Time Reveals](https://open.spotify.com/album/1yTPbfXRRusyFpv8vfuqde) | 2:50 | 2025-04-15 |  |
+| [What Time Reveals](https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [What Time Reveals](https://open.spotify.com/album/1yTPbfXRRusyFpv8vfuqde) | 2:50 | 2025-04-15 | 2025-04-24 |
 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 | 2023-05-09 |  |
 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 | 2023-08-15 |  |
 | [When She Smiles](https://open.spotify.com/track/6MvHCW8J9cOp5Ojjz74yyT) | [Daniel Paterok](https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF) | [When She Smiles](https://open.spotify.com/album/6WnYc9OyWVxu9Dli61RhWe) | 2:41 | 2023-05-09 | 2025-01-07 |

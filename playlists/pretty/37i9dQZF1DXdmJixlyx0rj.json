@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: DPR ARTIC)",
-  "num_followers": 28957,
+  "num_followers": 28964,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-04-18 06:49:56",
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43"
+      },
+      "artists": [
+        {
+          "name": "GENRE",
+          "url": "https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "RIZZ (Feat. Shiming)",
+      "url": "https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW"
+    },
+    {
+      "added_at": "2025-04-18 06:49:56",
+      "album": {
         "name": "Eu li EP",
         "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 144262,
       "name": "Ash",
       "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
-    },
-    {
-      "added_at": "2025-04-18 06:49:56",
-      "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43"
-      },
-      "artists": [
-        {
-          "name": "GENRE",
-          "url": "https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "RIZZ (Feat. Shiming)",
-      "url": "https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW"
     },
     {
       "added_at": "2025-04-18 06:49:56",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-04-18 06:49:56",
       "album": {
-        "name": "LOTTO - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 245189,
-      "name": "Monster - LDN Noise Creeper Bass Remix",
-      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
-    },
-    {
-      "added_at": "2025-04-18 06:49:56",
-      "album": {
         "name": "11111101",
         "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 300771,
       "name": "Melodie",
       "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+    },
+    {
+      "added_at": "2025-04-18 06:49:56",
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 245189,
+      "name": "Monster - LDN Noise Creeper Bass Remix",
+      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
     },
     {
       "added_at": "2025-04-18 06:49:56",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2025-04-18 06:49:56",
       "album": {
-        "name": "TROUBLE (arcon Remix)",
-        "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
-      },
-      "artists": [
-        {
-          "name": "EVNNE",
-          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
-        },
-        {
-          "name": "arcon",
-          "url": "https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "TROUBLE - arcon Remix",
-      "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
-    },
-    {
-      "added_at": "2025-04-18 06:49:56",
-      "album": {
         "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
         "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 213273,
       "name": "FOREVER 1 - Matisse & Sadko Remix",
       "url": "https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5"
+    },
+    {
+      "added_at": "2025-04-18 06:49:56",
+      "album": {
+        "name": "TROUBLE (arcon Remix)",
+        "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        },
+        {
+          "name": "arcon",
+          "url": "https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "TROUBLE - arcon Remix",
+      "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
     },
     {
       "added_at": "2025-04-18 06:49:56",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2025-04-18 06:49:56",
       "album": {
-        "name": "[Algorithm (Remixes)]",
-        "url": "https://open.spotify.com/album/4xQ47QdTOo2aQZoadlhRS0"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        },
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        }
-      ],
-      "duration_ms": 148626,
-      "name": "Algorithm (IMLAY Remix)",
-      "url": "https://open.spotify.com/track/6ltlyo7yz5Stbewilyw5H3"
-    },
-    {
-      "added_at": "2025-04-18 06:49:56",
-      "album": {
         "name": "Heart Of Steel",
         "url": "https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 207089,
       "name": "Heart Of Steel",
       "url": "https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3"
+    },
+    {
+      "added_at": "2025-04-18 06:49:56",
+      "album": {
+        "name": "[Algorithm (Remixes)]",
+        "url": "https://open.spotify.com/album/4xQ47QdTOo2aQZoadlhRS0"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        }
+      ],
+      "duration_ms": 148626,
+      "name": "Algorithm (IMLAY Remix)",
+      "url": "https://open.spotify.com/track/6ltlyo7yz5Stbewilyw5H3"
     },
     {
       "added_at": "2025-04-18 06:49:56",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2025-04-18 06:49:56",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5"
+    },
+    {
+      "added_at": "2025-04-18 06:49:56",
+      "album": {
         "name": "iScreaM Vol.23 : Phantom Remixes",
         "url": "https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 240004,
       "name": "Bambi - h4rdy Remix",
       "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
-    },
-    {
-      "added_at": "2025-04-18 06:49:56",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5"
     },
     {
       "added_at": "2025-04-18 06:49:56",

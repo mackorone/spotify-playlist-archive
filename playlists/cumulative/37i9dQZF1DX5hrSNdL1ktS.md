@@ -2,9 +2,9 @@
 
 ### [Reggaetón Mexa ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Sayuri y Sopholov bufando
+> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Alu Mix, Doony Graff y Ezya bufando
 
-776 songs - 1 day 14 hr 10 min
+777 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,10 +770,11 @@
 | [Él No Es Tuyo](https://open.spotify.com/track/1Ob7BoZlmwL5itaJAScc1I) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Él No Es Tuyo](https://open.spotify.com/album/0baLGh3enDgF1Ley0q8NtG) | 3:36 | 2025-03-28 |  |
 | [Ñero Session 11](https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Ñero Session 11](https://open.spotify.com/album/18UE8orLDwFNWcTo4n8UAr) | 3:06 | 2024-04-12 | 2024-06-08 |
 | [Ñero Session 12 \(feat\. El Lyric Boy & Ivy Wavy\)](https://open.spotify.com/track/1l03GCKh35UBKwOyIppPsJ) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Nayar](https://open.spotify.com/artist/28Byb7B4Q788EWDM62Uxdq), [Barajas Day Time](https://open.spotify.com/artist/3cQGIrhFpocmtcIasOmiq6), [El Lyric Boy](https://open.spotify.com/artist/3tmqzNkP8p27xnC8QIO0Gb), [Ivy Wavy](https://open.spotify.com/artist/0f1hBCKMEIIvZ5TNgChNuC) | [Ñero Session 12 \(feat\. El Lyric Boy & Ivy Wavy\)](https://open.spotify.com/album/4N7A02jltjrzaJF2FrGQpN) | 3:48 | 2024-06-07 | 2024-07-13 |
-| [Ñero Session 13](https://open.spotify.com/track/71fQ9SYkunt7NbfMEL2AcR) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Ñero Session 13](https://open.spotify.com/album/6XlYXCYcKST0zvDeaxjMeM) | 2:49 | 2024-08-23 |  |
+| [Ñero Session 13](https://open.spotify.com/track/71fQ9SYkunt7NbfMEL2AcR) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Ñero Session 13](https://open.spotify.com/album/6XlYXCYcKST0zvDeaxjMeM) | 2:49 | 2024-08-23 | 2025-04-24 |
 | [Ñero Session 14](https://open.spotify.com/track/5uSmW3S5zdibzfXPQlJ4Vo) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR) | [Ñero Session 14](https://open.spotify.com/album/6vQdcJhjawIJHuIiKpgEP8) | 2:41 | 2024-10-11 | 2024-11-16 |
 | [Ñero Session 15](https://open.spotify.com/track/7z8GUS0m4JwGdnzXBH327f) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Big Metra](https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU) | [Ñero Session 15](https://open.spotify.com/album/1TocjVtbQxMHlEaowSQEBy) | 2:22 | 2024-11-15 | 2025-02-01 |
 | [Ñero Session 16](https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Ñero Session 16](https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1) | 2:17 | 2025-02-21 |  |
+| [Ñero Session 17](https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Ñero Session 17](https://open.spotify.com/album/4UDoV0gSbWnoVVYUW2XmYB) | 2:50 | 2025-04-24 |  |
 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 | 2023-03-03 | 2024-05-09 |
 | [Ñero Session 23](https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Ñero Session 23](https://open.spotify.com/album/6qN493Dqvx508buRITESb6) | 2:44 | 2024-07-11 |  |
 | [Ñero Session 3](https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [Ñero Session 3](https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA) | 2:48 | 2024-06-07 |  |

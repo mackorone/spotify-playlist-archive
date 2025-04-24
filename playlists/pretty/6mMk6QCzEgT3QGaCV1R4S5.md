@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Loud Luxury
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,213 likes - 79 songs - 4 hr 16 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,212 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 4 | [No No No](https://open.spotify.com/track/2tAJebtyjzuigYZj574bKU) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [No No No](https://open.spotify.com/album/1CXu9TckdWXFyzSbDmf6Jp) | 2:23 |
 | 5 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 |
 | 6 | [Dreamin \(feat\. Daya\) \- Eli Brown Remix](https://open.spotify.com/track/0n8cEBSHOgUKHIcPmECIXi) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\) \[Eli Brown Remix\]](https://open.spotify.com/album/4HZbzCWzDpVN7C1DiDIn3Q) | 2:57 |
-| 7 | [Follow The Waves \(feat\. Caden\)](https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Caden](https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS) | [Follow The Waves \(feat\. Caden\)](https://open.spotify.com/album/2w1u1N0UTUrv0sWF7y5ncy) | 2:50 |
+| 7 | [Follow The Waves](https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Caden](https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS) | [Follow The Waves](https://open.spotify.com/album/2w1u1N0UTUrv0sWF7y5ncy) | 2:50 |
 | 8 | [One More Thing](https://open.spotify.com/track/5UWOJjI2dJcg4OCUImqQ9o) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Sara Davis](https://open.spotify.com/artist/2XYDrXOdwhRiGSgo8NWKFW) | [One More Thing](https://open.spotify.com/album/2C2x4hNaL2w1uzwA4kqYsE) | 3:30 |
 | 9 | [Hurricane \(feat\. Clara Mae\)](https://open.spotify.com/track/3K4faFu5uMhTuahytdLxei) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Hurricane \(feat\. Clara Mae\)](https://open.spotify.com/album/5lYcf3BCOpocetzJCGWQF4) | 2:29 |
 | 10 | [It's Not Right But It's Okay](https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [It's Not Right But It's Okay](https://open.spotify.com/album/5L6Sk7HlBhTQaeXh5nkQro) | 3:32 |

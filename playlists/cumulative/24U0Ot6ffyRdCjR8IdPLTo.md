@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/24U0Ot6ffyRdCjR8IdPLTo.md) - cumulative - [plain](/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo)
 
-### [Pop Focus \| Pop Music for Studying](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
+### [Pop Focus \| Pop Music for Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
-> Get in the zone with this fresh mix of chill music to study to.
+> Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
 382 songs - 20 hr 58 min
 

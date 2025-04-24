@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,964 likes - 76 songs - 4 hr 49 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,969 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 74 | [Man On The Tube](https://open.spotify.com/track/5UG4irKV9cvtktJWRzTiAU) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Michael & Miranda](https://open.spotify.com/album/1JvEQ9sw7KgdlPX3z4syN6) | 3:53 |
 | 75 | [My Sound](https://open.spotify.com/track/6Wz3jWMD5fgc7MB2EoXuWE) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Music Is Rotted One Note](https://open.spotify.com/album/7jPRc2iSpir5elpmK0WQrM) | 6:07 |
 | 76 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 |
+| 77 | [Starshy](https://open.spotify.com/track/4lHPPwYzahtsG46xE2idb5) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 4:09 |
+| 78 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 |
+| 79 | [Angel in Disguise](https://open.spotify.com/track/6PQTUESsPMNcDAg2LEmxh7) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:48 |
+| 80 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 |
 
-Snapshot ID: `AAAMSD/bnOuiim2y2AhcRXjD/+pqJYNu`
+Snapshot ID: `AAAMTAca0xfg0RlwuRXIeFLyxOYP9v+3`

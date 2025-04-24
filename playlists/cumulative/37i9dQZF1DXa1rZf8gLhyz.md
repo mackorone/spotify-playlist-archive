@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-658 songs - 1 day 9 hr 15 min
+659 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Good Night](https://open.spotify.com/track/2UatfwTngd99ugjekcg8Kw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Good Night](https://open.spotify.com/album/0N3Zd0I4F8iTTzorbht0xH) | 2:15 | 2022-11-10 |  |
 | [Good Night My Love](https://open.spotify.com/track/2eFOwHmDqSq3CCGG6pdpjB) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Good Night My Love](https://open.spotify.com/album/1XRcJXl7Vog98zHq8YI1Q1) | 3:12 | 2025-03-03 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-02-01 | 2024-08-20 |
-| [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 | 2021-12-07 |  |
+| [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 | 2021-12-07 | 2025-04-24 |
 | [Grace \#7](https://open.spotify.com/track/3B8IRT01MVf7v1iKBT6nv7) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Grace](https://open.spotify.com/album/1WwlmTdtSfNTS3ZmUeMCRq) | 3:02 | 2021-12-07 | 2022-08-30 |
 | [Grand](https://open.spotify.com/track/3Zd18LrQxTXeqyqCgVyuir) | [Jaden Cohen](https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA) | [Grand](https://open.spotify.com/album/4MWF7jYUvrKlxGUDzI24Qi) | 2:29 | 2023-06-15 |  |
 | [Habit\-forming](https://open.spotify.com/track/6whyQbbwPowZ3u24SsgDWE) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Habit\-forming](https://open.spotify.com/album/2cneO9u6mzVafnCAY8lZWe) | 2:31 | 2023-08-10 |  |
@@ -254,7 +254,7 @@
 | [I Loves You Porgy](https://open.spotify.com/track/6NvpzvvoILZTttsq8Fzam7) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Loves You Porgy](https://open.spotify.com/album/1wqYxQO7panIKBjUMRbMkQ) | 4:40 | 2022-02-15 | 2024-10-09 |
 | [I loves you Porgy](https://open.spotify.com/track/1BXfufGuarf9zIDlq8Lbud) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [I left my heart in San Francisco](https://open.spotify.com/album/2MGGSNeNpJWgxqw48z0IV2) | 3:27 | 2021-12-07 | 2022-01-14 |
 | [I Only Have Eyes for You](https://open.spotify.com/track/2ripUOoce7Cc9A26fQAoxE) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 3:27 | 2021-12-07 | 2022-09-20 |
-| [I Remember Clifford](https://open.spotify.com/track/3UXUeSaBLCmwlNekfs4AQh) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [I Remember Clifford](https://open.spotify.com/album/49wPHJPN2SBWhiWPiBpgcR) | 4:05 | 2022-08-29 |  |
+| [I Remember Clifford](https://open.spotify.com/track/3UXUeSaBLCmwlNekfs4AQh) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [I Remember Clifford](https://open.spotify.com/album/49wPHJPN2SBWhiWPiBpgcR) | 4:05 | 2022-08-29 | 2025-04-24 |
 | [I Remember You](https://open.spotify.com/track/63oIijRBCf17K2BG2xMf51) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I Remember You](https://open.spotify.com/album/6Zy69hl6GmvOE141qAZt3t) | 2:03 | 2023-01-05 |  |
 | [I Should Care](https://open.spotify.com/track/7N1MFr0xi5jt2KRwxitROp) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Should Care](https://open.spotify.com/album/0t76ZydmDChji48Ry6pvGN) | 4:24 | 2021-12-07 | 2024-07-13 |
 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 | 2021-12-07 |  |
@@ -433,6 +433,7 @@
 | [On the Road Again](https://open.spotify.com/track/19OP4q4InqMlF06ANhsREi) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [On the Road Again](https://open.spotify.com/album/2nibwPlq5KEcfk1Cg291dM) | 2:49 | 2025-01-14 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-17 | 2025-02-11 |
 | [Once In A Serenade](https://open.spotify.com/track/6Ia3eru04MZCaWHSjXuf42) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Once In A Serenade](https://open.spotify.com/album/21tgArGIfB91eKUkndpfJG) | 2:57 | 2023-10-27 |  |
+| [One Last Echo](https://open.spotify.com/track/53y0yxfqkdF2Pw909Wk9CH) | [Zach Dawson](https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv) | [One Last Echo](https://open.spotify.com/album/7JGDUBTRjVlZXFRyXrj3SF) | 2:50 | 2025-04-23 |  |
 | [One Last Time](https://open.spotify.com/track/6jGLXKyJvMW6mQ8oIBINtN) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [One Last Time](https://open.spotify.com/album/7sUSIVsIzNrDGZnuqbLt8y) | 3:06 | 2024-07-01 |  |
 | [One More Night With You](https://open.spotify.com/track/71up1fA5uQyNaCt7SOqXYB) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [One More Night With You](https://open.spotify.com/album/6pgjZMSWDCeiODdmyt3vBg) | 3:14 | 2024-11-05 |  |
 | [Only A Few Will Know](https://open.spotify.com/track/5wv2EtqjTwRsVM9oFSQAln) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Only A Few Will Know](https://open.spotify.com/album/7o7Vhmq9212zMiNymtnPCi) | 2:41 | 2024-10-01 |  |
@@ -531,7 +532,7 @@
 | [Spring in Chicago](https://open.spotify.com/track/3GZtZDAbxKusD1QjrwCMDH) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Spring in Chicago](https://open.spotify.com/album/6IRKUu24Xf86iDWVlf6rJx) | 3:00 | 2024-02-23 | 2025-02-11 |
 | [Square One](https://open.spotify.com/track/1rzgbiDEV9e7K7tHmzlcx3) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Square One](https://open.spotify.com/album/6rdTWVLWJekeRcmeQ50BbG) | 2:35 | 2024-02-02 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/3g0fAajWquZEairKQoYZ2z) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Stairway to the Stars](https://open.spotify.com/album/0JdR6CSFmhJRWt5uR8Xe8w) | 4:39 | 2021-12-07 | 2023-06-09 |
-| [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2022-09-29 |  |
+| [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2022-09-29 | 2025-04-24 |
 | [Stardust](https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [Stardust](https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL) | 5:03 | 2022-01-18 | 2025-04-05 |
 | [Starlit Slumber](https://open.spotify.com/track/7xizYphxhTpmI49PYrLSjG) | [Celine Schulz](https://open.spotify.com/artist/1hhFeA7FxCksWZU1nPOH6y) | [Starlit Slumber](https://open.spotify.com/album/1yfNMhJXqUQYdb8iqRD6ag) | 2:15 | 2024-12-09 | 2025-02-04 |
 | [Stars Fell On Alabama](https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Stars Fell On Alabama](https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO) | 4:21 | 2022-06-28 | 2025-02-04 |
@@ -581,7 +582,7 @@
 | [The Nearness of You](https://open.spotify.com/track/4D15PV4EsO7CTf1l7R3jCo) | [Morgan Jaquette](https://open.spotify.com/artist/540KL1Mixm0kSCTjw8mqoa) | [The Nearness of You](https://open.spotify.com/album/0kmf0RsMgbtvL6XxIWz4G4) | 2:49 | 2024-03-22 |  |
 | [The Nearness Of You](https://open.spotify.com/track/3xKchgf19FmMrNNxC0SpT1) | [The Sunday Duo](https://open.spotify.com/artist/454oiwevZw5pjE66lYi9Zn) | [My Foolish Heart](https://open.spotify.com/album/412It4VvdQT3AdofM6xjt8) | 5:22 | 2021-12-07 | 2022-08-10 |
 | [The Night Has A Thousand Eyes](https://open.spotify.com/track/2hHvAndHhJuBwO4qh7i2Is) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/6c9zKUBf74WtsSW6zULcnq) | 2:40 | 2023-04-20 | 2025-02-11 |
-| [The Night Wind](https://open.spotify.com/track/7diMQY1YBm8qBNbXCYYhbD) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [The Night Wind](https://open.spotify.com/album/5sOKlzcL2auYwop5kLxr8E) | 2:33 | 2023-06-01 |  |
+| [The Night Wind](https://open.spotify.com/track/7diMQY1YBm8qBNbXCYYhbD) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [The Night Wind](https://open.spotify.com/album/5sOKlzcL2auYwop5kLxr8E) | 2:33 | 2023-06-01 | 2025-04-24 |
 | [The other way around](https://open.spotify.com/track/7DvzMHZDVeOxFaxgsUOf4r) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [The other way around](https://open.spotify.com/album/2BzusCNxzPQpKGOBIJHicc) | 2:31 | 2024-08-26 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [The Reasons That I Love You](https://open.spotify.com/album/77BhqnRpXIrfBqXiteR3hj) | 4:07 | 2022-08-09 | 2023-05-26 |
 | [The Room](https://open.spotify.com/track/4SrVB1XXNAYgeJ1LsZBcvG) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [The Room](https://open.spotify.com/album/75mUFWa6dxBO3Qvnyqz5PX) | 2:13 | 2023-08-10 |  |

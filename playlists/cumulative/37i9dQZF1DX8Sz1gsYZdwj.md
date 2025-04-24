@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-226 songs - 10 hr 44 min
+227 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Lullaby For Nick](https://open.spotify.com/track/3WA6G5I5pfVR2NG7xvngZu) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Tamara Anna Cislowska](https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs) | [Butterflying: Piano Music By Elena Kats\-Chernin](https://open.spotify.com/album/5VDfSISCsDgMMOIBvoKLRp) | 3:23 | 2021-11-09 | 2022-07-29 |
 | [Lullaby for Nick](https://open.spotify.com/track/3sSGalPwfFt0XiNnYx7fBB) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Tamara Anna Cislowska](https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs) | [Butterflying: Piano Music of Elena Kats\-Chernin](https://open.spotify.com/album/1r7qNZsIrYhszVnFp92pv9) | 3:23 | 2022-06-21 | 2024-01-03 |
 | [Luminous](https://open.spotify.com/track/5RWA30VaTsYkFrkzxKL3aK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Luminous](https://open.spotify.com/album/1qGM1wYNdT4fG81hXrdz6s) | 4:43 | 2021-11-09 |  |
+| [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 | 2025-04-23 |  |
 | [Lyra](https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw) | 2:45 | 2022-02-21 |  |
 | [Lyra](https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF) | 2:45 | 2022-06-21 | 2024-04-19 |
 | [Lyric Pieces, Book 5, Op\. 54: Nocturne](https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 3:40 | 2021-11-09 | 2022-02-01 |

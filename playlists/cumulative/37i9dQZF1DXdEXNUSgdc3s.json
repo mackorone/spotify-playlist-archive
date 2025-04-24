@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Adagio Alpha 105Hz - 115Hz",
+        "url": "https://open.spotify.com/album/5bU15NPLGhunXm4IOnCYOr"
+      },
+      "artists": [
+        {
+          "name": "Floating States",
+          "url": "https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160902,
+      "name": "Adagio Alpha 105Hz - 115Hz",
+      "url": "https://open.spotify.com/track/3DOlYPzw4n17YiebOaWIdF"
+    },
+    {
+      "album": {
         "name": "Binaural Movement",
         "url": "https://open.spotify.com/album/1hfV1O1wccF6G0IpR1Xnix"
       },
@@ -1067,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Deep Thought Resonance (Alpha 88.2Hz-97.3Hz)",
+        "url": "https://open.spotify.com/album/0cnnCb4tki6ufSdRGdXLu1"
+      },
+      "artists": [
+        {
+          "name": "sweetHz",
+          "url": "https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150958,
+      "name": "Deep Thought Resonance (Alpha 88.2Hz-97.3Hz)",
+      "url": "https://open.spotify.com/track/4gPswuyZNcGgv9LBAX9v9a"
+    },
+    {
+      "album": {
         "name": "Celestial Blink Alpha",
         "url": "https://open.spotify.com/album/2TZ4Ks3FtnQz558iczbZAQ"
       },
@@ -1082,6 +1118,24 @@
       "duration_ms": 130000,
       "name": "Dust Settle G Alpha (96-108hz)",
       "url": "https://open.spotify.com/track/1qhpoFWll8RJHM8sKla8CA"
+    },
+    {
+      "album": {
+        "name": "Envision Alpha 71.220 Hz - 84.340 Hz",
+        "url": "https://open.spotify.com/album/2GSceYQGSiKOexKcDQlcwF"
+      },
+      "artists": [
+        {
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195922,
+      "name": "Envision Alpha 71.220 Hz - 84.340 Hz",
+      "url": "https://open.spotify.com/track/4wfh9dA3Tpe1ULVCQRbfZ7"
     },
     {
       "album": {
@@ -1226,6 +1280,24 @@
       "duration_ms": 155714,
       "name": "Glide On Theta (88-96hz)",
       "url": "https://open.spotify.com/track/2AZliYKBZXqLlUYRvvOVJk"
+    },
+    {
+      "album": {
+        "name": "Glowing Sea (Alpha Binaural 77.9 Hz - 88.7 Hz)",
+        "url": "https://open.spotify.com/album/6akuzLLYhjq5ISZd5NDetP"
+      },
+      "artists": [
+        {
+          "name": "Starchaserz",
+          "url": "https://open.spotify.com/artist/5MIBtP87scZ53LF7IYtBvT"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276705,
+      "name": "Glowing Sea (Alpha Binaural 77.9 Hz - 88.7 Hz)",
+      "url": "https://open.spotify.com/track/2UHecCEixUtEAUGYJ4IWVE"
     },
     {
       "album": {
@@ -1625,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Quiet Arrival (Alpha Binaural 116 Hz - 124 Hz)",
+        "url": "https://open.spotify.com/album/6IPwSmMVscFzZibe8FsjdS"
+      },
+      "artists": [
+        {
+          "name": "Oliver Skye",
+          "url": "https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Quiet Arrival (Alpha Binaural 116 Hz - 124 Hz)",
+      "url": "https://open.spotify.com/track/4ZnNZmV9HbPMYdRaDVxvnE"
+    },
+    {
+      "album": {
         "name": "Revitalizing Mind (Binaural Alpha)",
         "url": "https://open.spotify.com/album/3qiExS5HQHUKfER0TqmhSG"
       },
@@ -1942,7 +2032,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 130000,
       "name": "Water",
       "url": "https://open.spotify.com/track/7HvwaIF3Ip2ZhkCCbhvSGS"

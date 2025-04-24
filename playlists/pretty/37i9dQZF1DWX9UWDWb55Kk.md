@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,259 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,220 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 124 | [Slip](https://open.spotify.com/track/0OY2KqGxYAUizKfjwsPrbp) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/2zbAhCVJW1VtT1BYjjlJnw) | 4:58 |
 | 125 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 126 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
-| 127 | [1982](https://open.spotify.com/track/7KwWxaYacPDQpbGoMGLE4L) | [ICARE SANDILAS](https://open.spotify.com/artist/6Jx5WE8A0eq0ByRqipIliK) | [1982 / Cost](https://open.spotify.com/album/4FjfRAg1jBGSoqe5AdXd40) | 4:00 |
+| 127 | [1982](https://open.spotify.com/track/7KwWxaYacPDQpbGoMGLE4L) | [ Icare Sandilas](https://open.spotify.com/artist/6Jx5WE8A0eq0ByRqipIliK) | [1982 / Cost](https://open.spotify.com/album/4FjfRAg1jBGSoqe5AdXd40) | 4:00 |
 | 128 | [En el Aire](https://open.spotify.com/track/6T3O2ghWXY2eJHdlHh6iFN) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc) | [En el Aire](https://open.spotify.com/album/4V4VxMLifbMc0KiGIzhp71) | 3:05 |
 | 129 | [My Friends Are Brutal](https://open.spotify.com/track/7n9U3jZRz4w817V3rMD1VE) | [Paisley Pink](https://open.spotify.com/artist/3If1CcrLGqjVA4szNh1q6G) | [My Friends Are Brutal](https://open.spotify.com/album/0LUlHlrt1RCGcfa3xO9GzW) | 3:15 |
 | 130 | [Lo Que No Me Dices](https://open.spotify.com/track/1RSBgWXopVCzHkoCr2k3pH) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Lo Que No Me Dices](https://open.spotify.com/album/1ItkcM4JZTgPYwU9DSMuKO) | 3:26 |
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 257 | [Half Alive](https://open.spotify.com/track/6PZep0AyFbiX2K3u44evKM) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [The Start \(Act II\)](https://open.spotify.com/album/2tWoCtDjl93XcMKzgN3nb7) | 3:35 |
 | 258 | [Bananat](https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 4:30 |
 | 259 | [Orion](https://open.spotify.com/track/2IHkIsJXKaZD2HPSGKZyQ3) | [Ārty Cøøper](https://open.spotify.com/artist/3HayvSzL4CNzkyyxyOUK3B) | [Orion](https://open.spotify.com/album/4su1sSPon4vQa2w0L9F6Wf) | 3:18 |
-| 260 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |
+| 260 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |
 | 261 | [Baby Baby Baby](https://open.spotify.com/track/3OdBWz9Vw4hhwSQ8xFiZEO) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4) | [Everything Is Gonna Be OK In The End](https://open.spotify.com/album/0eSPvfgbg5UdtFyEw9kxcF) | 4:03 |
 | 262 | [Hard Billy](https://open.spotify.com/track/7DWnLKwS5ozOnCAhGbREjM) | [Léonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Le Cirque de Consolation](https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61) | 3:41 |
 | 263 | [Look At That Butt](https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [WUT WUT](https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE) | 2:32 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,946 songs - 4 day 4 hr 58 min
+1,947 songs - 4 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Autobahn \(feat\. Shooter Gang\)](https://open.spotify.com/track/1o9F4qWXHHY2ExISuqGeev) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Autobahn \(feat\. Shooter Gang\)](https://open.spotify.com/album/14SHB7hffvjt2nfryzMXqq) | 2:57 | 2022-09-17 | 2022-10-16 |
 | [Avantgarde](https://open.spotify.com/track/5nB3zVeuHoAHmwHQuQqhzD) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:46 | 2022-01-15 | 2022-02-13 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-05 | 2025-04-20 |
-| [Azizam \(feat\. Googoosh\) \[Persian Version\]](https://open.spotify.com/track/7erMlaJm419myrasNStsQ4) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [Azizam \(feat\. Googoosh\) \[Persian Version\]](https://open.spotify.com/album/4eAPqbxuqZuwBnYSBrE0Rb) | 2:42 | 2025-04-19 |  |
+| [Azizam](https://open.spotify.com/track/7gZQXwMQjRUp5K7xFioVhp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(feat\. Googoosh\) \[Persian Version\]](https://open.spotify.com/album/4eAPqbxuqZuwBnYSBrE0Rb) | 2:42 | 2025-04-23 |  |
+| [Azizam \(feat\. Googoosh\) \[Persian Version\]](https://open.spotify.com/track/7erMlaJm419myrasNStsQ4) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [Azizam \(feat\. Googoosh\) \[Persian Version\]](https://open.spotify.com/album/4eAPqbxuqZuwBnYSBrE0Rb) | 2:42 | 2025-04-19 | 2025-04-24 |
 | [B.O\. Bop](https://open.spotify.com/track/3ZQEA3yfMMVcZYHtjYc1S4) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [B.O\. Bop/Wawa](https://open.spotify.com/album/0yvKiAxti5yd16tJt4FeAU) | 3:13 | 2021-03-27\* | 2021-03-29 |
 | [Baby Boo](https://open.spotify.com/track/1UrIsBtFnNzWh3ENHMsKqm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Baby Boo](https://open.spotify.com/album/4Ef4mh3T7OVtIiFw30VwMv) | 2:39 | 2021-09-19 | 2021-10-10 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-19 | 2023-05-06 |

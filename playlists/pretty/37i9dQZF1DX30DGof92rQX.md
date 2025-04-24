@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Hasan Raheem, Annural Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,048 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,074 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 4 | [ROOP](https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROOP](https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE) | 2:32 |
 | 5 | [Channa](https://open.spotify.com/track/7HwZ33ysa3zS00P7roQM2N) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Channa](https://open.spotify.com/album/2m2aMdLgZ9rsin4X22kB9t) | 3:27 |
 | 6 | [TERE BINA KAHAN](https://open.spotify.com/track/71MEJFgftdFHlQrvFn9B5S) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Raaj Aashoo](https://open.spotify.com/artist/3jNaDQZQjbidKVJrIhhibh), [Seepi Jha](https://open.spotify.com/artist/3LmV3Qru54ddLrg45CVhJ3) | [TERE BINA KAHAN](https://open.spotify.com/album/2u0k8ffQhiVvoOt8jUaTey) | 4:06 |
-| 7 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko \- To Bloom](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
+| 7 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
 | 8 | [cm](https://open.spotify.com/track/5TnCRObz7zCIH9S1OrPyu0) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [cm](https://open.spotify.com/album/46ijx52m90OoSlDmEox85X) | 3:12 |
 | 9 | [Umeedon Ki](https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Umeedon Ki](https://open.spotify.com/album/4odGDsUGaQx1CR62FmviWH) | 4:50 |
 | 10 | [Bhool](https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Bhool](https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9) | 4:04 |
 | 11 | [Ud jana](https://open.spotify.com/track/6TTEZ1vo7Wu4JvajcaDgmH) | [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM) | [Are you okay?](https://open.spotify.com/album/5t4TDgKqaJD7rkUsGQHCv7) | 4:00 |
 | 12 | [Radha](https://open.spotify.com/track/0oOVxu88I7Bj9jjDnXVRus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Radha](https://open.spotify.com/album/7Jay27dyjhNA07vWwtjCoJ) | 3:39 |
 | 13 | [Peeran](https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Peeran](https://open.spotify.com/album/6IcfYrEbYRXh4ojDNc6O0L) | 4:14 |
-| 14 | [Khilnay Ko](https://open.spotify.com/track/3afvJxGQgUDWUG3mEAdPQr) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko \- To Bloom](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 4:29 |
+| 14 | [Khilnay Ko](https://open.spotify.com/track/3afvJxGQgUDWUG3mEAdPQr) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 4:29 |
 | 15 | [Beqadra](https://open.spotify.com/track/3LBq1FeFAVg45FKQ3Jw9SI) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Lost Path](https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX) | 4:20 |
 | 16 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 |
 | 17 | [Hum Tum](https://open.spotify.com/track/4ETUS1BAxTSO0Gn249PsY6) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Ahtasham Bashir](https://open.spotify.com/artist/1PNQoDHkIIzjdYZNX4mb8p) | [Hum Tum](https://open.spotify.com/album/42Fox5coqRxdf9H5QSMCrl) | 2:52 |

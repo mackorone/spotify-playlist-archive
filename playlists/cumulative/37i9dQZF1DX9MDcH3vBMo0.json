@@ -7869,6 +7869,24 @@
     },
     {
       "album": {
+        "name": "My Odyssey",
+        "url": "https://open.spotify.com/album/6g3Bmw75zzdlmm8GO34zum"
+      },
+      "artists": [
+        {
+          "name": "Mariuga",
+          "url": "https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136353,
+      "name": "My Oddysey",
+      "url": "https://open.spotify.com/track/1eodu9waOyCx6RTwLpJI8v"
+    },
+    {
+      "album": {
         "name": "M\u00e9lancolie",
         "url": "https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N"
       },

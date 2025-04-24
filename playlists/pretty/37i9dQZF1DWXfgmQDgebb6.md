@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 34 | [stuck in my head](https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:49 |
 | 35 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 | 36 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
-| 37 | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/track/3MtaDHBUCkfge8xExxyiQL) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [MAN1AC](https://open.spotify.com/artist/4YNvQXYW6XewBzHcWgsXrS), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/album/0ZYEIvgcYlfGWdOFCr7KV6) | 4:11 |
-| 38 | [Elon Musk](https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Elon Musk](https://open.spotify.com/album/5hYLSv0CrAddV2sOXtKV7h) | 1:46 |
+| 37 | [Elon Musk](https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Elon Musk](https://open.spotify.com/album/5hYLSv0CrAddV2sOXtKV7h) | 1:46 |
+| 38 | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/track/3MtaDHBUCkfge8xExxyiQL) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [MAN1AC](https://open.spotify.com/artist/4YNvQXYW6XewBzHcWgsXrS), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/album/0ZYEIvgcYlfGWdOFCr7KV6) | 4:11 |
 | 39 | [Royal Blue](https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:37 |
 | 40 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
 | 41 | [I know the face](https://open.spotify.com/track/51SP5XjvqDJHTIRmBVLU82) | [Choi Seong](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [DOom](https://open.spotify.com/album/1L4Lz36yZmhmhgpvxyI0p8) | 3:14 |

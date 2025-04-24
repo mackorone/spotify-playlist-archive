@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Gone Daddy Blues",
+        "url": "https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178893,
+      "name": "Call Me Anything (But Call Me)",
+      "url": "https://open.spotify.com/track/5rJJo8AgcYF1FujR33OO52"
+    },
+    {
+      "album": {
         "name": "First of the Great Blues Singers",
         "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 187013,
       "name": "Down in the Basement",
       "url": "https://open.spotify.com/track/66FIldiEFGJPjG9UXVLsj6"
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 182635,
       "name": "Louisiana Hoo Doo Blues",
       "url": "https://open.spotify.com/track/4ivvUhh1XYZhYecY75Nc1V"
@@ -4240,7 +4258,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "Wringing and Twisting Blues",
       "url": "https://open.spotify.com/track/637VHcQICbUCaCYpAuBbiW"

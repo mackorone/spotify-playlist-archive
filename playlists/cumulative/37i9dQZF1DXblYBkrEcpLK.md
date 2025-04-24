@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 星街すいせい Hoshimachi Suisei
 
-750 songs - 2 day 1 hr 45 min
+751 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 | 2022-06-09 | 2024-04-17 |
 | [Flower Crown](https://open.spotify.com/track/22aQEazDHyrOBJ3v0tXuuF) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [「パリピ孔明」EIKO「Dreamer」](https://open.spotify.com/album/025b8ClWA4rIcFXdUHnFDT) | 3:02 | 2023-10-24 | 2023-12-20 |
 | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3) | [Kanako Kishi](https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj) | 2:41 | 2024-01-07 | 2024-04-17 |
-| [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 | 2024-07-30 |  |
+| [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 | 2024-07-30 | 2025-04-24 |
 | [fly with the night](https://open.spotify.com/track/1wQ3iyPGJ1TeCsHUby6ta2) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [fly with the night](https://open.spotify.com/album/4gI6NqgDPRzTNYzHko6Cyv) | 4:00 | 2022-06-24 | 2022-07-05 |
 | [Fly with You!!](https://open.spotify.com/track/0tdGAPgbH0bBAI1Ah8LX51) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Fly with You!!](https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA) | 4:34 | 2023-10-03 | 2023-10-05 |
 | [Fly with You!!](https://open.spotify.com/track/3HbYu8ekAukuOo5w71KBUp) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:34 | 2023-10-03 | 2023-10-18 |
@@ -526,6 +526,7 @@
 | [ドレス](https://open.spotify.com/track/0GtyXOIALhodGAPWAz2r8v) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [ドレス](https://open.spotify.com/album/77xlpcZfxdkDdWoTEHGE3F) | 2:39 | 2022-06-12 | 2022-07-25 |
 | [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 | 2022-07-28 | 2023-04-12 |
 | [ヌマルアクマ](https://open.spotify.com/track/5uDUTHTV8xhFLe8JfDm1P8) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [超!しょこたん☆べすと――\(°∀°\)――!!](https://open.spotify.com/album/7Fx148KQ0vZIN1e6vZHnsx) | 3:12 | 2023-02-21 | 2023-03-08 |
+| [ネオラダイト](https://open.spotify.com/track/2P9e9zkpqTLyHzpCq9CfR4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [ネオラダイト](https://open.spotify.com/album/0qrP4ztyiLy8sa9nEICOgX) | 3:23 | 2025-04-22 |  |
 | [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 | 2022-06-14 | 2022-07-22 |
 | [ハニーアンドループス](https://open.spotify.com/track/7ANXrNYwSnGAa96qgOxZle) | [Aki Toyosaki](https://open.spotify.com/artist/6aieZOzFuKqDoq1QWdZEEP) | [caravan!](https://open.spotify.com/album/1ZVJ6nCThes5FesjRIlvYE) | 3:40 | 2022-06-24 | 2022-07-05 |
 | [ハニージェットコースター](https://open.spotify.com/track/1SFS6Anu0829AMCXKltlNw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [TVアニメ「可愛いだけじゃない式守さん」オープニングテーマ「ハニージェットコースター」](https://open.spotify.com/album/6lEkrGHvjvWYNs2Mwo0yoy) | 3:33 | 2022-06-09 | 2023-01-01 |

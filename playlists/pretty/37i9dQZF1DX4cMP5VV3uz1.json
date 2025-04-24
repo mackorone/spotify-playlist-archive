@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 163335,
+  "num_followers": 163346,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
+        "name": "Home In That Bass",
+        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        }
+      ],
+      "duration_ms": 189310,
+      "name": "Home In That Bass",
+      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
         "name": "Rubber Dub",
         "url": "https://open.spotify.com/album/2jk4LHprmTfFc6zb0fOqht"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "Home In That Bass",
-        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
+        "name": "Hit The Brakes",
+        "url": "https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz"
       },
       "artists": [
         {
-          "name": "Andy C",
-          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
         }
       ],
-      "duration_ms": 189310,
-      "name": "Home In That Bass",
-      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
+      "duration_ms": 223213,
+      "name": "Hit The Brakes",
+      "url": "https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1063,26 +1079,6 @@
       "duration_ms": 195348,
       "name": "Did I Forget Something",
       "url": "https://open.spotify.com/track/5rEPTlWwMXWZ3oXfwe30FA"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
-        "name": "Beamin\u2019",
-        "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 140724,
-      "name": "Beamin\u2019",
-      "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1119,22 +1115,22 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "Wicked & Bad",
-        "url": "https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT"
+        "name": "Beamin\u2019",
+        "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
       },
       "artists": [
         {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"
+      "duration_ms": 140724,
+      "name": "Beamin\u2019",
+      "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1171,6 +1167,26 @@
       "duration_ms": 159545,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "Wicked & Bad",
+        "url": "https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "Hit The Brakes",
-        "url": "https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Hit The Brakes",
-      "url": "https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -1423,18 +1423,26 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "I Miss The Old Macky",
-        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
+        "name": "Mad Ting",
+        "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
       "artists": [
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
         }
       ],
-      "duration_ms": 155056,
-      "name": "I Miss The Old Macky",
-      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
+      "duration_ms": 194685,
+      "name": "Mad Ting",
+      "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1467,26 +1475,18 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "Mad Ting",
-        "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
+        "name": "I Miss The Old Macky",
+        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Moody Good",
-          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         }
       ],
-      "duration_ms": 194685,
-      "name": "Mad Ting",
-      "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+      "duration_ms": 155056,
+      "name": "I Miss The Old Macky",
+      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1551,6 +1551,26 @@
       "duration_ms": 252342,
       "name": "Bad Boy Horns",
       "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "Dutty",
+        "url": "https://open.spotify.com/album/5dfawAgRpWLQxOkQb1mT8v"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 210642,
+      "name": "Dutty",
+      "url": "https://open.spotify.com/track/40QBWI7oVfaKSPsRm4J0uF"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1643,26 +1663,6 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "CALM",
-        "url": "https://open.spotify.com/album/723ujhDCNK9Rw0n6GNQ09G"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs",
-          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 182571,
-      "name": "CALM",
-      "url": "https://open.spotify.com/track/7N0Eavl0IkaFGIQrQRNQ4D"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
         "name": "From The Dirt",
         "url": "https://open.spotify.com/album/5a87llnssLqkYFKLD0pqoL"
       },
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
+        "name": "CALM",
+        "url": "https://open.spotify.com/album/723ujhDCNK9Rw0n6GNQ09G"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 182571,
+      "name": "CALM",
+      "url": "https://open.spotify.com/track/7N0Eavl0IkaFGIQrQRNQ4D"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
         "name": "If We Ever (Remixes)",
         "url": "https://open.spotify.com/album/3yyGJtGzasr89dJ117h2ML"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 367976,
       "name": "If We Ever - Unglued VIP Remix",
       "url": "https://open.spotify.com/track/0b6KX6JqqiFt4T1yWwr4LD"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
-        "name": "Dutty",
-        "url": "https://open.spotify.com/album/5dfawAgRpWLQxOkQb1mT8v"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 210642,
-      "name": "Dutty",
-      "url": "https://open.spotify.com/track/40QBWI7oVfaKSPsRm4J0uF"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "Loud Enuff",
-        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 177977,
-      "name": "Loud Enuff",
-      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/6CpfHRVUlOcrskTcK6lh7V"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 200914,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/76nEx8wI5dCH3RKM2v0c2y"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "Loud Enuff",
+        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Loud Enuff",
+      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
+        "name": "Cuppa Tea",
+        "url": "https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 206170,
+      "name": "Cuppa Tea",
+      "url": "https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
         "name": "This Is Goodbye",
         "url": "https://open.spotify.com/album/2xXQWmPGktx6jyh22RGEmq"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 219428,
       "name": "This Is Goodbye",
       "url": "https://open.spotify.com/track/6gkQQhUt1VaHmWz2WpOPxh"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
-        "name": "Cuppa Tea",
-        "url": "https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU"
-      },
-      "artists": [
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 206170,
-      "name": "Cuppa Tea",
-      "url": "https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ"
     },
     {
       "added_at": "2025-04-17 23:00:35",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-04-17 23:00:35",
       "album": {
-        "name": "BAD BOY",
-        "url": "https://open.spotify.com/album/6tpAQ0U2U8qblcluGpw83C"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "BAD BOY",
-      "url": "https://open.spotify.com/track/1CdJUMDI868MDRZXEF0Vzt"
-    },
-    {
-      "added_at": "2025-04-17 23:00:35",
-      "album": {
         "name": "Dealing With The Best",
         "url": "https://open.spotify.com/album/0N0MHwnc7SEnxfXFl5rtgm"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 157941,
       "name": "Dealing With The Best",
       "url": "https://open.spotify.com/track/35WmOfRHL6qsdtfjZUrrWt"
+    },
+    {
+      "added_at": "2025-04-17 23:00:35",
+      "album": {
+        "name": "BAD BOY",
+        "url": "https://open.spotify.com/album/6tpAQ0U2U8qblcluGpw83C"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "BAD BOY",
+      "url": "https://open.spotify.com/track/1CdJUMDI868MDRZXEF0Vzt"
     },
     {
       "added_at": "2025-04-17 23:00:35",

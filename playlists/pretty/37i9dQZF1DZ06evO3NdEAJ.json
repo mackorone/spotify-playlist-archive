@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 49839,
+  "num_followers": 49860,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAWKgAAAAAAtDWboYYAu+gK3Cwxdjnql",
+  "snapshot_id": "aAbcAAAAAACDKdVVBQdRwsWw0705VFWq",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chingo de Amor",
-        "url": "https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 174645,
-      "name": "Chingo de Amor",
-      "url": "https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Te Quedas Conmigo",
         "url": "https://open.spotify.com/album/2cjosNmIhyNdX5ZVkpLRFP"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 136810,
       "name": "Si Te Quedas Conmigo",
       "url": "https://open.spotify.com/track/1H7gizb9QcLJmgSdYTQyTT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chingo de Amor",
+        "url": "https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 174645,
+      "name": "Chingo de Amor",
+      "url": "https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2"
     },
     {
       "added_at": null,

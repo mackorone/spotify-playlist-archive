@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-938 songs - 2 day 6 hr 56 min
+941 songs - 2 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Late At Night](https://open.spotify.com/track/2hs7iNULNKcfbFpLsyazEz) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Late At Night](https://open.spotify.com/album/3lMYHC4ZL9xYxsp5yysMKl) | 3:08 | 2024-05-23 |  |
 | [Late Bagatelle](https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Late Bagatelle](https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW) | 3:59 | 2023-08-17 | 2024-04-11 |
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2022-04-11 | 2023-03-03 |
+| [Late Night](https://open.spotify.com/track/3PTxiKGQyyaPVug10VZdxM) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Late Night](https://open.spotify.com/album/44gOVNI3sSaD2PUJCR5fYT) | 3:41 | 2025-04-23 |  |
 | [Late Night](https://open.spotify.com/track/7DStSdmgPggkeAzVhZFj6s) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Late Night](https://open.spotify.com/album/4xhU21k5nDS4D0V1RpL1JB) | 4:52 | 2024-04-23 |  |
 | [Late Night Serenade](https://open.spotify.com/track/335m1wcXqBuTOnGkHvQLKE) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Late Night Serenade](https://open.spotify.com/album/0vgWnvmrW0MKhqM0x47EoG) | 3:15 | 2023-04-13 |  |
 | [Late Nights Falling](https://open.spotify.com/track/1AkIosHinV25iLUh0Ll0oH) | [Voluntary Dreamers](https://open.spotify.com/artist/42xc9e1Cs3WxkcZ517zNMD) | [Late Nights Falling](https://open.spotify.com/album/5CRUQSqFsIFPHNvz1Au5Zb) | 2:40 | 2025-04-04 |  |
@@ -744,7 +745,7 @@
 | [Summer Green](https://open.spotify.com/track/2uuGu4QUlVIC24OS2ZilNR) | [The Slow Nine](https://open.spotify.com/artist/2KSSPN9F7IzGkUhtQzmyj5) | [Summer Green](https://open.spotify.com/album/6EyhVfE0XMIls6HYY5jQDa) | 4:23 | 2023-11-17 |  |
 | [Summer Knows](https://open.spotify.com/track/6hp3KLPgzVPJjhTpxkeiDU) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Standard Collections Vol\. 1](https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF) | 4:47 | 2022-04-11 | 2022-06-23 |
 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 | 2022-05-02 |  |
-| [Sunday Night](https://open.spotify.com/track/6y7k3VdsuMnFj0xRJADncP) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Sunday Night](https://open.spotify.com/album/1RzVAJf3HO7gHBYCLag7LQ) | 4:53 | 2024-11-11 |  |
+| [Sunday Night](https://open.spotify.com/track/6y7k3VdsuMnFj0xRJADncP) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Sunday Night](https://open.spotify.com/album/1RzVAJf3HO7gHBYCLag7LQ) | 4:53 | 2024-11-11 | 2025-04-24 |
 | [Sunny Days](https://open.spotify.com/track/381lxBVIMBN79lRzgOVVlu) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Moments of Solitude](https://open.spotify.com/album/2O9Gl75omwsBSfBDg8AYgb) | 4:49 | 2023-09-29 |  |
 | [Sunset Stroll](https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Sunset Stroll](https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf) | 2:44 | 2023-09-22 |  |
 | [Swaying Shadows](https://open.spotify.com/track/53MQJJpDsIE0QV6y6Mv2mc) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Swaying Shadows](https://open.spotify.com/album/0td3uSBMDcvtSI4XEonj6L) | 3:20 | 2024-03-22 |  |
@@ -756,6 +757,7 @@
 | [Talk About Her Luck](https://open.spotify.com/track/0P6c4tOGYLMkrjDV0wLqRj) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Talk About Her Luck](https://open.spotify.com/album/5nRpyRfHFVsSR1kLx9MnOk) | 2:32 | 2022-12-22 | 2023-09-01 |
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-06-28 | 2023-01-27 |
 | [Tap on my Door](https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Tap on my Door](https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7) | 3:34 | 2022-10-27 | 2024-10-09 |
+| [Teardrops](https://open.spotify.com/track/6GS3MgQ3hq6EDkFdruXvsA) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Teardrops](https://open.spotify.com/album/0pMEVveaBgad6gYjbgwkcT) | 3:08 | 2025-04-23 |  |
 | [Tell Me](https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me](https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa) | 4:24 | 2022-06-28 | 2023-01-27 |
 | [Tender](https://open.spotify.com/track/1SJNqS8rBmRj28yWw7Uh3r) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Tender](https://open.spotify.com/album/0LJbfswcuffz1VZjBNI1Pr) | 3:26 | 2024-11-25 |  |
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2022-04-11 | 2023-02-24 |
@@ -911,6 +913,7 @@
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 |  |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 |  |
 | [Woodland](https://open.spotify.com/track/5HydmnvQcjzE2JRf1GUtiz) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [Woodland](https://open.spotify.com/album/6806BOrYiaBMTYzpdDBdBR) | 3:24 | 2024-07-01 |  |
+| [Worlds Apart](https://open.spotify.com/track/5uvvUK0JQvxMJHBJjaFT3g) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Worlds Apart](https://open.spotify.com/album/2kG0FP3axmYTtOPvZue4R6) | 3:37 | 2025-04-23 |  |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 | 2024-12-17 |
 | [Would You Be Mine?](https://open.spotify.com/track/6lMSD6SW8sazpPANmZSKi0) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Would You Be Mine?](https://open.spotify.com/album/2VyiqxfAFBkkT6QR29PoA2) | 2:38 | 2022-04-11 | 2022-11-18 |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Wrap Your Troubles In Dreams](https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q) | 2:49 | 2023-06-08 |  |

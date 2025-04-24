@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-856 songs - 1 day 17 hr 38 min
+862 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A View of the World](https://open.spotify.com/track/0HdY6r6dTWZqWpBCDYsGz1) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [A View of the World](https://open.spotify.com/album/0hiOyQhl10gvBrvsKJeCvI) | 3:26 | 2024-07-09 |  |
 | [A World At Rest](https://open.spotify.com/track/4XJGAjvpgN5K84TsrUoTHp) | [Meadowsweet](https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z) | [A World At Rest](https://open.spotify.com/album/3QC3NCA8gebXV2hCyU1Sfg) | 2:59 | 2023-04-06 | 2024-03-21 |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2023-04-06 | 2024-03-07 |
+| [Absorb](https://open.spotify.com/track/59OCrl2Z9eyOSTja6jzNoM) | [Lejo](https://open.spotify.com/artist/5AK84Ka91VoQyA1CmwGbAf) | [Absorb](https://open.spotify.com/album/2WZZgYVzAwzCwIwrVoIhSB) | 2:03 | 2025-04-23 |  |
 | [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 |  |
 | [Across The Purple Expanse](https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Across The Purple Expanse](https://open.spotify.com/album/4Qc09SX2XC8YlP1Hggb3Jd) | 2:14 | 2023-04-06 | 2024-02-09 |
 | [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 | 2024-07-10 |
@@ -111,6 +112,7 @@
 | [Beyond](https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Beyond](https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ) | 2:30 | 2024-03-06 | 2024-07-16 |
 | [Biome](https://open.spotify.com/track/6QQYZSV72dVzr8W7ek1egc) | [Nelumbo Lutea](https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr) | [Biome](https://open.spotify.com/album/4vyzokOwEmhcUbttBgyNpk) | 2:55 | 2024-01-17 | 2024-10-16 |
 | [Blackout](https://open.spotify.com/track/4y4ne3kG3X2BAyWTem6xC1) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Blackout](https://open.spotify.com/album/0QFZRAuhQSJG11e0xFLaqd) | 3:02 | 2024-03-20 | 2024-07-10 |
+| [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 | 2025-04-23 |  |
 | [Blissful Breeze](https://open.spotify.com/track/5mEstebX16SCW56WWnEluW) | [Aurora Novara](https://open.spotify.com/artist/01Yy0uR2H9jYuImGLmMi70) | [Blissful Breeze](https://open.spotify.com/album/2BVKx1soGE44pXFTj2EXkn) | 2:45 | 2024-04-05 | 2025-02-15 |
 | [Blissful Restingplace](https://open.spotify.com/track/3I7Pcn4n5sJmJXy58CmT0K) | [Relaxatron](https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d) | [Blissful Restingplace](https://open.spotify.com/album/5iLWz9QLqbv0JTIppy8TQB) | 2:50 | 2024-01-17 | 2024-08-31 |
 | [Blissful Sleep](https://open.spotify.com/track/68DpOjWFy6Y74VdYxXDq31) | [Dancing and Dreaming](https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt) | [Blissful Sleep](https://open.spotify.com/album/6nCaOSO8if185A1nZID5mj) | 2:24 | 2024-06-13 |  |
@@ -342,6 +344,7 @@
 | [Glittervine](https://open.spotify.com/track/4VwxsliKflhy8wLOuPO3dG) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Glittervine](https://open.spotify.com/album/07ZzUjsZzsVcFByFd8Oex1) | 2:34 | 2024-10-15 |  |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2023-04-06 | 2024-01-18 |
 | [Golden Age](https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Golden Age](https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri) | 3:03 | 2024-05-20 |  |
+| [Golden World](https://open.spotify.com/track/7BjioO6K4XOUs7VNjUvLdW) | [Felix Lancaster](https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4) | [Golden World](https://open.spotify.com/album/0YiJmb3CyZFcuRUwUbnAFL) | 2:19 | 2025-04-23 |  |
 | [Green Valley](https://open.spotify.com/track/6NqoYpqw31nAKmm7u4PGwE) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Green Valley](https://open.spotify.com/album/6HxwLfVq6FmX4LBfGZu8e6) | 2:22 | 2024-07-09 | 2025-01-15 |
 | [Grow Free](https://open.spotify.com/track/6SkEMoTZ3i3AB0Hp8Rvw3k) | [VØNAR](https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ) | [Grow Free](https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA) | 2:50 | 2024-01-17 | 2024-07-10 |
 | [Gruis Silentium](https://open.spotify.com/track/30XdBC7802TJIsTurWWI7T) | [Lukasti](https://open.spotify.com/artist/44iToUPW0yX9V7edv2ZgWd) | [Gruis Silentium](https://open.spotify.com/album/2ZzhFG4xH98UysJqdfuUUz) | 2:38 | 2024-01-17 | 2024-02-09 |
@@ -552,6 +555,7 @@
 | [Pangaea](https://open.spotify.com/track/1eWQWzggVkmtzEH4sU6FMH) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Pangaea](https://open.spotify.com/album/5LdR17Y6pym1QGv4N8zHVP) | 3:06 | 2025-04-01 |  |
 | [Parabola](https://open.spotify.com/track/6J4InKIcUOJlqhRipZgfRb) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Parabola](https://open.spotify.com/album/1X6qh4usrOTIZGfcl0WFUW) | 2:45 | 2025-01-08 |  |
 | [Passage](https://open.spotify.com/track/5xkUWQ3DoOYoZa01Q8lGQ9) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Passage](https://open.spotify.com/album/1bcJFd5J3Zj0i7QEW0zD3b) | 2:49 | 2025-04-11 |  |
+| [Pastel](https://open.spotify.com/track/28S9nPXe5CHoore3WVs6mR) | [Slow Journey](https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW) | [Pastel](https://open.spotify.com/album/4SkDV7qzvsWQHYdJV4N9Wb) | 2:18 | 2025-04-23 |  |
 | [Patagonia](https://open.spotify.com/track/2C9fQbShu57HBEqcYKrhiU) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Patagonia](https://open.spotify.com/album/3jCNGxYY5CHHCNPFgM8wKg) | 2:47 | 2024-01-17 | 2024-07-10 |
 | [Path](https://open.spotify.com/track/59L4ILD0qkCBq7m3s6t5AY) | [Zeejo Report](https://open.spotify.com/artist/5bv9vgOeu93qvIFWgDBf9h) | [Path](https://open.spotify.com/album/0Y4JIMczzUrYYa3xIb5F53) | 2:47 | 2024-01-17 | 2024-08-15 |
 | [Path to Rest](https://open.spotify.com/track/7gT8yP1YJALEULuyQD8lLO) | [Plasma Nomad](https://open.spotify.com/artist/6AeoATT3xJ1r5N65akHDUb) | [Path to Rest](https://open.spotify.com/album/22UJ6u3TBLwIHnOO9PgRcr) | 3:03 | 2024-05-20 |  |
@@ -566,6 +570,7 @@
 | [Perseus](https://open.spotify.com/track/6Tsjcfuw0zYLkELy8Y8qEZ) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Perseus](https://open.spotify.com/album/5oW5dV6XB9E8t8FdSNxMgJ) | 3:09 | 2024-03-06 | 2024-07-16 |
 | [Petals](https://open.spotify.com/track/0lxs9clbppskonABJ9do1k) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Petals](https://open.spotify.com/album/0SFlPO4VHbBgRv56ceFtI9) | 2:26 | 2025-02-04 | 2025-04-12 |
 | [Phenomena](https://open.spotify.com/track/5DzOeqMOYZ7WoLU9iokZHG) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Phenomena](https://open.spotify.com/album/7yolTQvPFt3vweDqvAO4Xp) | 2:47 | 2024-01-17 | 2024-03-21 |
+| [Photon's Path](https://open.spotify.com/track/00LOlOpGgdr4PXGpApLU6F) | [Dalliance Blues](https://open.spotify.com/artist/4gwkNRgkSrQhmyJevVAuCu) | [Photon's Path](https://open.spotify.com/album/7inzp4f1GYuYQBYBaeXnfB) | 3:06 | 2025-04-23 |  |
 | [Pilgrimage](https://open.spotify.com/track/1zezNbZhyMmqWNrhOplWCW) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Pilgrimage](https://open.spotify.com/album/5AwVLeZaasm9k837iDF71g) | 2:50 | 2023-09-01 | 2024-05-05 |
 | [Pillow Drift](https://open.spotify.com/track/7JJcbFBS6o4cPYxcgXpn2M) | [Dorian Froste](https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss) | [Pillow Drift](https://open.spotify.com/album/54q156SUhi38o2AtNNRhp3) | 2:53 | 2025-04-11 |  |
 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 | 2023-04-06 | 2024-05-05 |
@@ -773,6 +778,7 @@
 | [The Only Me](https://open.spotify.com/track/12C0zlAiXNawkKZcM2vksz) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [The Only Me](https://open.spotify.com/album/18BqgRE1FYyGzLl4CCpx4v) | 3:20 | 2023-04-06 | 2024-01-18 |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2023-04-06 | 2024-01-18 |
 | [The Sands Of Time](https://open.spotify.com/track/0tlRQNdPgr8F3dXHBJ4hgt) | [Damion Delaney](https://open.spotify.com/artist/609WL7MDR0yu9oDUQlyDug) | [The Sands Of Time](https://open.spotify.com/album/5ns7wN4zKt2D1AKaat72az) | 3:08 | 2023-04-06 | 2023-04-14 |
+| [The Shape of Us](https://open.spotify.com/track/5ybpe4Bu6QJHgzUNbIzkPJ) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [The Shape of Us](https://open.spotify.com/album/3oU4a8IN6hvTScEWGiKMZp) | 2:57 | 2025-04-23 |  |
 | [The Shoreline](https://open.spotify.com/track/0FBO43m2ztyk4IuGpz8YbW) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [The Shoreline](https://open.spotify.com/album/3TPwRMY1UZqH1MGkaH4TP2) | 2:46 | 2024-10-15 |  |
 | [These Words](https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS) | [Aerin Villegas](https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk) | [These Words](https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg) | 2:12 | 2024-02-27 | 2024-11-07 |
 | [Thinking of You](https://open.spotify.com/track/0ZHZ3KsAl0AVBONDmUY3mv) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Thinking of You](https://open.spotify.com/album/6jKwbDWoBziX5qErZMUSa5) | 2:34 | 2023-04-06 | 2024-01-18 |

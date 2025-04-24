@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-256 songs - 18 hr 54 min
+257 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bella Ciao \- Hard Techno Remix](https://open.spotify.com/track/1EDnEdNHoNOhaTDBEowLDH) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Bella Ciao \(Hard Techno Remix\)](https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF) | 3:38 | 2024-05-31 |  |
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 | 2024-09-27 |
 | [Black Hole](https://open.spotify.com/track/4zHpgtUnq6ukjCBoB3bsuP) | [Anxhela](https://open.spotify.com/artist/2GqUrgjv3nl7JBCJ26ky5n) | [Black Hole](https://open.spotify.com/album/0fEQO1ruegqY6Mq5Wsa1mN) | 6:20 | 2024-12-13 |  |
-| [Blow Up The Speakers vs\. Hard One \[Live At Tomorrowland\]](https://open.spotify.com/track/5jaiP1qbLsetMAKuXOY3kj) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [The Moon](https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC), [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6), [DJ Ghost](https://open.spotify.com/artist/6ZIKPrjoaYURaSRnwPw1pg) | [Vinyl Only \(Live at Tomorrowland\)](https://open.spotify.com/album/3rezHr9oHODeCApPiqRiN6) | 2:31 | 2024-11-22 |  |
+| [Blow Up The Speakers vs\. Hard One \[Live At Tomorrowland\]](https://open.spotify.com/track/5jaiP1qbLsetMAKuXOY3kj) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [The Moon](https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC), [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6), [DJ Ghost](https://open.spotify.com/artist/6ZIKPrjoaYURaSRnwPw1pg) | [Vinyl Only \(Live at Tomorrowland\)](https://open.spotify.com/album/3rezHr9oHODeCApPiqRiN6) | 2:31 | 2024-11-22 | 2025-04-24 |
 | [Bomb Drop Rhythm](https://open.spotify.com/track/6NfF1hLZKtjAiacXN3ZKTE) | [JVRM](https://open.spotify.com/artist/5jtReR2dGUE1x3kxkTyfu7) | [Bomb Drop Rhythm](https://open.spotify.com/album/1y8NI4TIhiI2vYGrzf20nT) | 6:19 | 2024-07-14 | 2024-07-22 |
 | [Bounce Back](https://open.spotify.com/track/3H470QOFLgh6CuUj7CuhAL) | [Acidus](https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB), [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg) | [Bounce Back](https://open.spotify.com/album/4XAscsjKLpfUBzzTWXAe9o) | 5:24 | 2024-04-09 |  |
 | [Bounce It](https://open.spotify.com/track/5bVoAjpheAtpRypUL6f2by) | [Stoltenhoff](https://open.spotify.com/artist/6HKR0MHpgba3ZRBXYfPiq0) | [Bounce It](https://open.spotify.com/album/6MggkvxUbJCzl1ZnF8uTqR) | 6:30 | 2024-10-14 | 2024-12-27 |
@@ -219,6 +219,7 @@
 | [Swords](https://open.spotify.com/track/3kZTkTa0skVIvp1UCRVEmK) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Swords EP](https://open.spotify.com/album/7DuE1pxDycYqwqQz3kbE9s) | 6:33 | 2024-04-09 | 2024-05-28 |
 | [Synthetic Dreams \- Anetha Remix](https://open.spotify.com/track/5dDOtrnF2JQrr4yrD5SRdV) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Synthetic Dreams \(Anetha Remix\)](https://open.spotify.com/album/5KV09u5f8tmoFLauTBtyx6) | 6:23 | 2024-04-09 | 2024-04-19 |
 | [Tamara](https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tamara](https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD) | 3:26 | 2024-08-13 | 2024-11-29 |
+| [Technique](https://open.spotify.com/track/6g2Q53kY8SYBnJ7RYfDWiV) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Flydat](https://open.spotify.com/artist/05AhtFXYiMwXiVF4XW8Vq2) | [Technique](https://open.spotify.com/album/2UWlXrpdoNAq5vvG5Nnevl) | 4:11 | 2025-04-18 |  |
 | [Techno Dream](https://open.spotify.com/track/7At9gHq8Gi66Cch4nnBipm) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [David White](https://open.spotify.com/artist/4sQ7XS59ZQebv14J404ZSn) | [Techno Dream](https://open.spotify.com/album/1PvjVmVZFQqFsiS1RGkMVU) | 1:56 | 2025-04-18 |  |
 | [TECHNO DRUG](https://open.spotify.com/track/4eTcsnhvSpCqraE0OQRr5T) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX) | [TECHNO DRUG](https://open.spotify.com/album/1mvWzA7i1nh4wllD9ZKcGB) | 2:54 | 2025-04-18 |  |
 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 | 2024-08-05 |  |

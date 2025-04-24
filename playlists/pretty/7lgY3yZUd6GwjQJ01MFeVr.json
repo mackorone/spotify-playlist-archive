@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music!",
-  "num_followers": 35132,
+  "num_followers": 35131,
   "original_name": "Top Country Hits 2025",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAbVHQ6wc/QLB9YKgizGSXB2CRrrd8M",
+  "snapshot_id": "AAAbVQY4urUWZaIOhmQANfHHSap9tOlf",
   "tracks": [
     {
       "added_at": "2025-04-19 00:32:04",
@@ -1675,6 +1675,22 @@
       "duration_ms": 163053,
       "name": "lose you again (feat. parmalee)",
       "url": "https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG"
+    },
+    {
+      "added_at": "2025-04-23 14:10:41",
+      "album": {
+        "name": "GOD & GUNS N\u2019 ROSES",
+        "url": "https://open.spotify.com/album/5bnproodqEP0tHybDjDF72"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 216684,
+      "name": "GOD & GUNS N\u2019 ROSES",
+      "url": "https://open.spotify.com/track/0ryWwDkI0VcjMYJBrN9Fir"
     }
   ],
   "unique_name": "Top Country Hits 2025",

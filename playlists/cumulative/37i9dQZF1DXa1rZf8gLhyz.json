@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 157250,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
@@ -4444,7 +4444,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 245121,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/3UXUeSaBLCmwlNekfs4AQh"
@@ -7655,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "One Last Echo",
+        "url": "https://open.spotify.com/album/7JGDUBTRjVlZXFRyXrj3SF"
+      },
+      "artists": [
+        {
+          "name": "Zach Dawson",
+          "url": "https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170056,
+      "name": "One Last Echo",
+      "url": "https://open.spotify.com/track/53y0yxfqkdF2Pw909Wk9CH"
+    },
+    {
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/7sUSIVsIzNrDGZnuqbLt8y"
       },
@@ -9434,7 +9452,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 220964,
       "name": "Star Eyes",
       "url": "https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z"
@@ -10334,7 +10352,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 153482,
       "name": "The Night Wind",
       "url": "https://open.spotify.com/track/7diMQY1YBm8qBNbXCYYhbD"

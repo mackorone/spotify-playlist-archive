@@ -2,7 +2,7 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: James Baker Band
+> The home of Canadian country music\. Cover: James Barker Band
 
 240 songs - 13 hr 3 min
 

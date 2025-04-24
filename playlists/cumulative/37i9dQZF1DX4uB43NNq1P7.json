@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "For Georgia",
+        "url": "https://open.spotify.com/album/1rY7O5ayBPF7O1b3WfjeYi"
+      },
+      "artists": [
+        {
+          "name": "Drifreda",
+          "url": "https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "For Georgia",
+      "url": "https://open.spotify.com/track/2wa7MUTd3VRGAnMoII9Tap"
+    },
+    {
+      "album": {
         "name": "Forest Crystals",
         "url": "https://open.spotify.com/album/5zFlNgmr3bSv5cxCAUE43h"
       },

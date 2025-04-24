@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 164106,
+  "num_followers": 164148,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 222600,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/2eKBLX1uF9PgvJ6qqGwmRZ"
+      "duration_ms": 275066,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
+      "duration_ms": 222600,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/2eKBLX1uF9PgvJ6qqGwmRZ"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
         "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Lo Mejor de Ivan",
-        "url": "https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga"
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
       },
       "artists": [
         {
-          "name": "Ivan",
-          "url": "https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq"
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Te Quiero Tanto",
-      "url": "https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4"
+      "duration_ms": 259866,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1207,6 +1191,22 @@
       "duration_ms": 181960,
       "name": "Lo Que Te Queda",
       "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Lo Mejor de Ivan",
+        "url": "https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga"
+      },
+      "artists": [
+        {
+          "name": "Ivan",
+          "url": "https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Mano A Mano Volumen 1",
-        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
-      },
-      "artists": [
-        {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Por Que Nos Dijimos Adios",
-      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Las Estrellas De La Matancera",
         "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 174213,
       "name": "Total",
       "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Mano A Mano Volumen 1",
+        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
+      },
+      "artists": [
+        {
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Por Que Nos Dijimos Adios",
+      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda del Rayo y Los Gatos Salvajes",
-          "url": "https://open.spotify.com/artist/7r5O7eZNPfgVNTauzcrPTp"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "Te regalo mis ojos",
-      "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Just",
         "url": "https://open.spotify.com/album/4HpiCloJ987Iq58KRIWTMD"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 166217,
       "name": "Desilusi\u00f3n",
       "url": "https://open.spotify.com/track/5Mc9dGVnkYCFIvSvWJnOho"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda del Rayo y Los Gatos Salvajes",
+          "url": "https://open.spotify.com/artist/7r5O7eZNPfgVNTauzcrPTp"
+        }
+      ],
+      "duration_ms": 175266,
+      "name": "Te regalo mis ojos",
+      "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Los Tecolines: Bolero Romantico",
-        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Prisionero Del Mar",
-      "url": "https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/2Z3yiPCELhCreq4tgPqK9O"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 237946,
       "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/6mIqd7D0OQZn1Fn3UoBdRW"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Los Tecolines: Bolero Romantico",
+        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Prisionero Del Mar",
+      "url": "https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Solo Por Ti",
-        "url": "https://open.spotify.com/album/3WwQkMGD0RviYHhRV8GQZd"
-      },
-      "artists": [
-        {
-          "name": "Francisco Xavier",
-          "url": "https://open.spotify.com/artist/5SVuJpKQmu1ZUkCOjtP8sV"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Qu\u00e9 Es La Libertad",
-      "url": "https://open.spotify.com/track/56izv6YwNBNErqnCpglZLF"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Hay Amores... Y Amores",
         "url": "https://open.spotify.com/album/0wWLi7i2f8XuZYmOvKLvKc"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 211905,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Solo Por Ti",
+        "url": "https://open.spotify.com/album/3WwQkMGD0RviYHhRV8GQZd"
+      },
+      "artists": [
+        {
+          "name": "Francisco Xavier",
+          "url": "https://open.spotify.com/artist/5SVuJpKQmu1ZUkCOjtP8sV"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Qu\u00e9 Es La Libertad",
+      "url": "https://open.spotify.com/track/56izv6YwNBNErqnCpglZLF"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2279,18 +2279,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La Triunfadora Sonora Santanera",
-        "url": "https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6"
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
-      "duration_ms": 166640,
-      "name": "Por Las Calles De M\u00e9xico",
-      "url": "https://open.spotify.com/track/020y2GEMz7AdfCSKe3eDhb"
+      "duration_ms": 229306,
+      "name": "Hoy Te Confieso",
+      "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
+        "name": "La Triunfadora Sonora Santanera",
+        "url": "https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6"
       },
       "artists": [
         {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 229306,
-      "name": "Hoy Te Confieso",
-      "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
+      "duration_ms": 166640,
+      "name": "Por Las Calles De M\u00e9xico",
+      "url": "https://open.spotify.com/track/020y2GEMz7AdfCSKe3eDhb"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5c84r0tNo2LVvgnqv9p2ay"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Marisol (1976) [Remasterizado 2022]",
         "url": "https://open.spotify.com/album/1NpMIQUpPephDPD92I77jg"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 131120,
       "name": "Tu Nombre Me Sabe A Yerba - Remasterizado",
       "url": "https://open.spotify.com/track/6IzGkgxvQUxwqlNv15VOeb"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Lo Mejor De Maria Conchita Alonso",
+        "url": "https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Acar\u00edciame",
+      "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
     }
   ],
   "unique_name": "La Cocina de la Abuela",

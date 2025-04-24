@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: paulkyte\(폴카이트\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: gani\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,680 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,700 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Life is Tricky](https://open.spotify.com/track/6tO6hzQ3sjkwGsF8MWD0hi) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [When the Stars Gossip OST Part.2](https://open.spotify.com/album/4hYqvSKf2tJDrDV0o5PQo8) | 3:07 |
 | 50 | [A Bitter Letter To Myself](https://open.spotify.com/track/0djIuIFCPgHVHzjTk7OcuB) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [A Bitter Letter To Myself](https://open.spotify.com/album/2O2iOBGOlGcaCZgHj1fyQc) | 2:35 |
 
-Snapshot ID: `aAG4vwAAAAAdmF7CvaL9SKUEZ+19egME`
+Snapshot ID: `aAiKmAAAAABq6bLzVfwe+v0ai/3Gi1iL`

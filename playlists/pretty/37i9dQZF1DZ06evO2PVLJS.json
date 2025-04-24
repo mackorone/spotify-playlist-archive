@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1072471,
+  "num_followers": 1072781,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAWKgAAAAADKloGFfiITf0z6tHwrUiEn",
+  "snapshot_id": "aAbcAAAAAACx+cLPtoI/YGUbXtLABYXY",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El N\u00famero Uno",
+        "url": "https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Yo Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 186973,
       "name": "El Tah\u00far",
       "url": "https://open.spotify.com/track/1rxJGkbviNNz9UKWHXUJhg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El N\u00famero Uno",
-        "url": "https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 191066,
-      "name": "Yo Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "Ya Me Voy para Siempre",
-      "url": "https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Del Pueblo",
         "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 175133,
       "name": "La Ley de la Vida",
       "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Ya Me Voy para Siempre",
+      "url": "https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Cuando Yo Quer\u00eda Ser Grande",
-      "url": "https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Del Pueblo",
         "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 193840,
       "name": "Escuch\u00e9 las Golondrinas",
       "url": "https://open.spotify.com/track/6kRaonmi8YMTCy8LpGfhOy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Cuando Yo Quer\u00eda Ser Grande",
+      "url": "https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-216 songs - 11 hr 42 min
+217 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Friends](https://open.spotify.com/track/7yZxBR1o5HBbS40fV9KlWh) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Friends](https://open.spotify.com/album/0Yp9phFkGNlasyazgx0EXo) | 3:26 | 2023-12-08 | 2024-02-03 |
 | [Friends Like That](https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/182KWLgpOndmV1VwYvUbAF) | 3:06 | 2023-12-08 | 2024-03-02 |
 | [Girl In Green](https://open.spotify.com/track/3r5dLsCxsir9EIzl5NtMZB) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [First Dance](https://open.spotify.com/album/7N11EFT1PaUGiaNrzFGezt) | 2:11 | 2025-03-25 |  |
+| [GOD & GUNS N’ ROSES](https://open.spotify.com/track/0ryWwDkI0VcjMYJBrN9Fir) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [GOD & GUNS N’ ROSES](https://open.spotify.com/album/5bnproodqEP0tHybDjDF72) | 3:36 | 2025-04-23 |  |
 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-12-17 |  |
 | [Growin’ Up Raising You](https://open.spotify.com/track/3iuh5xyutKj3TkMjACNLMo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Growin’ Up Raising You](https://open.spotify.com/album/1jdW9gWypFKDZvnStebVG5) | 3:15 | 2023-12-08 | 2024-01-13 |
 | [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 | 2023-12-08 | 2024-01-13 |

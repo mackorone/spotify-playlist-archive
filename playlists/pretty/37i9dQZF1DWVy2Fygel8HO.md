@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 
 > Soft, soothing piano for you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,298 likes - 116 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,344 likes - 116 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 17 | [Unvergesslich](https://open.spotify.com/track/2l7ROj2BBqVGrIQdVe68vS) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Unvergesslich](https://open.spotify.com/album/60FJJHnlc7TlKFytAudGm5) | 2:25 |
 | 18 | [Seasons Flowing](https://open.spotify.com/track/3GF4u2VOhdmr3qTpACIVmm) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Seasons Flowing](https://open.spotify.com/album/7DGbjC2RBWda7hbD8dE1Hj) | 2:30 |
 | 19 | [A Lovely Night](https://open.spotify.com/track/1gzHpUQjiXvBW5cagVuWVm) | [Ana Grieg](https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H) | [A Lovely Night](https://open.spotify.com/album/48GIB3aaGt1tuNMSt6pK7m) | 2:12 |
-| 20 | [Soothing Solitude](https://open.spotify.com/track/7j2sPZ3tWJilkCZM8MnIGN) | [Alisa Moon](https://open.spotify.com/artist/73wq226FP4G1SgFEhIDib3) | [Soothing Solitude](https://open.spotify.com/album/1IebMfL6xlMbRogxNY8UvO) | 2:19 |
-| 21 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 |
-| 22 | [Celandine](https://open.spotify.com/track/5jQYFxt77oQWFQXbok9jcq) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Celandine](https://open.spotify.com/album/6nwjj72G7P6AjnMACNl8Qe) | 3:10 |
-| 23 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 |
-| 24 | [What Time Reveals](https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [What Time Reveals](https://open.spotify.com/album/1yTPbfXRRusyFpv8vfuqde) | 2:50 |
-| 25 | [Private Collection](https://open.spotify.com/track/5v2f31RuioUvVquwup0sYd) | [Solyvia](https://open.spotify.com/artist/3T1LDkIId5F2wULXuIAthf) | [Private Collection](https://open.spotify.com/album/21x6KzqlXUNbra8qmGWAH3) | 2:54 |
-| 26 | [Solenne Heartwake](https://open.spotify.com/track/0MOn8fbmJVOXn5GoAqRFEW) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Solenne Heartwake](https://open.spotify.com/album/6CqTNCHJ3TEpidPeFaqygp) | 2:28 |
-| 27 | [Woodland Morning](https://open.spotify.com/track/2qcv6Nw5J6ziryDNL5dXW2) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Woodland Morning](https://open.spotify.com/album/5sHCirCOjV2yN49Ak6RM64) | 2:29 |
-| 28 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 |
+| 20 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 |
+| 21 | [Sonance](https://open.spotify.com/track/3kiImZNbUBxXLpKnsqd5rx) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Sonance](https://open.spotify.com/album/0Brn57yRLPwJZasUZ1Zukt) | 2:16 |
+| 22 | [Solenne Heartwake](https://open.spotify.com/track/0MOn8fbmJVOXn5GoAqRFEW) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Solenne Heartwake](https://open.spotify.com/album/6CqTNCHJ3TEpidPeFaqygp) | 2:28 |
+| 23 | [Serenade to Veronika](https://open.spotify.com/track/2hzwsJaOQLnex8YchKVqOe) | [Ferenc Bognár](https://open.spotify.com/artist/6kZd1uFzg7uGWSitp4F4GW) | [Serenade to Veronika](https://open.spotify.com/album/1rdGTeKhkDgpSbk84SFjNM) | 2:36 |
+| 24 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 |
+| 25 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 |
+| 26 | [Soothing Solitude](https://open.spotify.com/track/7j2sPZ3tWJilkCZM8MnIGN) | [Alisa Moon](https://open.spotify.com/artist/73wq226FP4G1SgFEhIDib3) | [Soothing Solitude](https://open.spotify.com/album/1IebMfL6xlMbRogxNY8UvO) | 2:19 |
+| 27 | [Celandine](https://open.spotify.com/track/5jQYFxt77oQWFQXbok9jcq) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Celandine](https://open.spotify.com/album/6nwjj72G7P6AjnMACNl8Qe) | 3:10 |
+| 28 | [Woodland Morning](https://open.spotify.com/track/2qcv6Nw5J6ziryDNL5dXW2) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Woodland Morning](https://open.spotify.com/album/5sHCirCOjV2yN49Ak6RM64) | 2:29 |
 | 29 | [At Night](https://open.spotify.com/track/1QX2SYLb1nATOdaS2eer1U) | [C.M.H](https://open.spotify.com/artist/7eMrolcvKtdRpB6OrG3tIx) | [At Night](https://open.spotify.com/album/59Dy1DGXPMfcFmzWQUVsu8) | 2:54 |
 | 30 | [Stillness of Time](https://open.spotify.com/track/7I8C7LhvYa25EjOB5dPIWg) | [Nia Amara](https://open.spotify.com/artist/66zVxJqnaCuSkUimaB2WZS) | [Stillness of Time](https://open.spotify.com/album/7lvuJhE8Tgp7Va9pZHFUDU) | 2:03 |
 | 31 | [Echoes in the Rain](https://open.spotify.com/track/4SHc8k6K4KEviFqdI7VoHU) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Echoes in the Rain](https://open.spotify.com/album/0NVJMgNWPnUFPKOQBlYUPg) | 2:26 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 115 | [Perennial Youth](https://open.spotify.com/track/7J7tN1PAKrD6yY8xmR8Q7a) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Acertijos](https://open.spotify.com/album/0GPaw2ltzhkjwsVCZaeiDx) | 3:04 |
 | 116 | [Last Sunday](https://open.spotify.com/track/1HTvslM0ZjMDrCYM3YqsV7) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Last Sunday](https://open.spotify.com/album/3Iq0eQBewdnHphQGXdDxUk) | 2:23 |
 
-Snapshot ID: `Z/4lgAAAAAA6dd89jO+x6LgphnU05R1F`
+Snapshot ID: `aAis3wAAAAB5SmLzl4FAoqZ60MPVrdWK`

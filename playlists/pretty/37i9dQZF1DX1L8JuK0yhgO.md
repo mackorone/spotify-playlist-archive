@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,585 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,586 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 49 | [Treasure Hunter](https://open.spotify.com/track/4t0AvEttAB0Vbvbc1nE0Gv) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Treasure Hunter](https://open.spotify.com/album/7rMHZak6zPjIi5SOilgsVp) | 8:42 |
 | 50 | [WE ARE \- Shōtaro Aoyama Remix](https://open.spotify.com/track/6COlsEE7bAapAtmNnisMIn) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr), [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [WE ARE \(Shōtaro Aoyama Remix\)](https://open.spotify.com/album/33Tf2IA7x096KhnW086tEr) | 5:11 |
 | 51 | [With You](https://open.spotify.com/track/21m5mFmPXGOuYipWODnvh7) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [With You](https://open.spotify.com/album/5GoWtoDC8G2V4sFfByP80l) | 3:23 |
-| 52 | [Hot Minute](https://open.spotify.com/track/3VSnGbIqvwYO2ocZCXjnou) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Hot Minute](https://open.spotify.com/album/5VZPYqmOTHfPZqPjRqLTJH) | 3:38 |
+| 52 | [Hot Minute \(feat\. Saïna\)](https://open.spotify.com/track/3VSnGbIqvwYO2ocZCXjnou) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Hot Minute \(feat\. Saïna\)](https://open.spotify.com/album/5VZPYqmOTHfPZqPjRqLTJH) | 3:38 |
 | 53 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
 | 54 | [ruin my life](https://open.spotify.com/track/0RNC6mCMhul37N4P9pdZlJ) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [ruin my life](https://open.spotify.com/album/3d6TxaKOGZPKkhEjlqucKv) | 2:02 |
 | 55 | [kiss me blue](https://open.spotify.com/track/0At2oBBJxf4yAigXEpvUcI) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [kiss me blue](https://open.spotify.com/album/2dlzA5WYWI0VZRIuhFgEMY) | 3:08 |

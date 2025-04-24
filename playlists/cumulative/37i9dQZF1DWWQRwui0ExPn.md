@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,322 songs - 11 day 13 hr 17 min
+7,323 songs - 11 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [A Day at the Beach](https://open.spotify.com/track/2fPa4tV612brQ2Pl9PBk3j) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v) | [A Day at the Beach](https://open.spotify.com/album/4aUnZIzM5KarEIvgpqX44O) | 1:57 | 2022-11-18 | 2024-02-09 |
 | [A Day at the Beach](https://open.spotify.com/track/6EbJiKdTXXAygx1hx8cUZR) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v) | [A Day at the Beach](https://open.spotify.com/album/5RMXgSBRW0ni4dcsGRsoBt) | 1:57 | 2022-10-21 | 2022-11-24 |
 | [A Day At The Park](https://open.spotify.com/track/2Ar8Npuuw97k0AkVko1ZDp) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [A Day At The Park](https://open.spotify.com/album/1ylmNVkTVBISVe8W4P7dle) | 2:07 | 2023-06-20 | 2023-10-13 |
-| [a day with the kids](https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [a day with the kids](https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ) | 2:00 | 2024-08-16 |  |
+| [a day with the kids](https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [a day with the kids](https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ) | 2:00 | 2024-08-16 | 2025-04-24 |
 | [A Few Clouds](https://open.spotify.com/track/1OE55ddPHQPv3Ho2H9e4Oz) | [Sports & Music](https://open.spotify.com/artist/48hF8pmQ61ySf1iwpF3Yo9) | [A Few Clouds](https://open.spotify.com/album/1SakjnCCvt6CdXkIIuWUDH) | 1:54 | 2021-07-01 | 2022-01-14 |
 | [A Future Vision](https://open.spotify.com/track/0L3BcOqjKzqu94KZPzpsat) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [A Future Vision](https://open.spotify.com/album/2Etu3B7M1FgYbpyZDD3EPn) | 1:45 | 2022-09-09 | 2022-12-16 |
 | [A Gap in the Clouds](https://open.spotify.com/track/7EU9UDXG3s1XDKn028iBRb) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [Daoti](https://open.spotify.com/artist/0XLvC5dprQ3rL0W0xIIaBn) | [A Gap in the Clouds](https://open.spotify.com/album/2rO72UkYoH53ECG6YBO9O8) | 2:01 | 2023-09-15 | 2023-11-24 |
@@ -3970,7 +3970,7 @@
 | [Mesa Rework](https://open.spotify.com/track/7vBUIcz4umWi0AjdNNut72) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Mesa Rework](https://open.spotify.com/album/6Qq3INZ22tOb4NYrff3s5f) | 1:50 | 2022-11-11 | 2023-01-20 |
 | [messy](https://open.spotify.com/track/5nvL2YxmnbQyuu7aGrI68K) | [luvuto](https://open.spotify.com/artist/3a7ffdUFmZl09XoSWY58F1) | [messy](https://open.spotify.com/album/3630vAsANBxtui6vKFSigL) | 1:36 | 2023-10-06 | 2024-10-12 |
 | [metro](https://open.spotify.com/track/3jPPfpQORgJLAUUwkcIhzx) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [Mr.Mahous](https://open.spotify.com/artist/3f3P7pxs9gtHuN7nNUDHFh) | [metro](https://open.spotify.com/album/5BmKxp9o7aeR5NuMvB7c5s) | 2:52 | 2023-03-24 | 2023-05-04 |
-| [METRO](https://open.spotify.com/track/05m1hizRfatq3bxCjUVzIS) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [METRO](https://open.spotify.com/album/3gJDQZhEyFqH7XaMp2GwMP) | 1:46 | 2025-04-18 |  |
+| [METRO](https://open.spotify.com/track/05m1hizRfatq3bxCjUVzIS) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [METRO](https://open.spotify.com/album/3gJDQZhEyFqH7XaMp2GwMP) | 1:46 | 2025-04-18 | 2025-04-24 |
 | [Mexico Lofi Beat](https://open.spotify.com/track/0q4M1k3QQqNKyJM2U2jQKu) | [Deejay Lofi](https://open.spotify.com/artist/3T9ViVeWbkZUyAukkBgHrQ) | [The World of Lofi](https://open.spotify.com/album/2jArlAnL0XftzK1qTgYzA7) | 2:11 | 2021-04-17 | 2022-01-14 |
 | [Mezzanine](https://open.spotify.com/track/25BTCsL9FKR7xg01dnzt9Y) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT) | [Elevator](https://open.spotify.com/album/6h83Urgyqsq2Aj77wTnJG3) | 1:08 | 2021-11-20 | 2022-06-10 |
 | [Mezzenile](https://open.spotify.com/track/0FcnYz7S1rCXsPLh4idw5M) | [wyn wyn](https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT) | [Mezzenile](https://open.spotify.com/album/3PdOaq8rOQxwr9pfkGN2S6) | 2:22 | 2023-01-13 | 2023-11-11 |
@@ -4733,6 +4733,7 @@
 | [Outset](https://open.spotify.com/track/604oBYPrXNjkKQiwSoNQLJ) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Evermore](https://open.spotify.com/album/0uzhZQewlMQDQsEVk8hch1) | 2:40 | 2022-04-23 | 2022-09-09 |
 | [Outside](https://open.spotify.com/track/05AcIr6sleSW8lNtQdh3vw) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [Outside](https://open.spotify.com/album/085LfKKbbHWmiGbkH9EmRM) | 1:56 | 2025-02-07 | 2025-03-22 |
 | [Outside](https://open.spotify.com/track/5uq96r4dIHTt3s3BOoUlPZ) | [Fun Intended](https://open.spotify.com/artist/3LVh75iLe4iDjG4W1ztvAh) | [Outside](https://open.spotify.com/album/0uztScwtnvscI0Fk2ZR6P5) | 2:14 | 2023-02-10 | 2023-02-11 |
+| [Outside](https://open.spotify.com/track/75HeezSpwjbcFas5AIpfhb) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Outside](https://open.spotify.com/album/4vbfjUzeZToejv0p9c5Qzd) | 2:22 | 2025-04-18 |  |
 | [Outta conteXt](https://open.spotify.com/track/5Imb4vbdF9a0Cet0a5tNjy) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Outta conteXt](https://open.spotify.com/album/2DgzOaygq4zG41UZyLwrLY) | 2:09 | 2023-10-06 | 2024-03-22 |
 | [over](https://open.spotify.com/track/2RE9CDwbxPRv1m7ZGT6sFI) | [mai](https://open.spotify.com/artist/2xc6Hh1FGy6PkuxxUJOiTr) | [over](https://open.spotify.com/album/6BRts5fwxExng5Go8Fccno) | 1:02 | 2020-01-23 | 2021-08-22 |
 | [over here](https://open.spotify.com/track/2hYZUf4R5HcqnHLEUT2Bsm) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [over here](https://open.spotify.com/album/17OYOt7ys1dCfLxFv8I9qX) | 2:01 | 2023-01-06 | 2023-09-16 |
@@ -6026,7 +6027,7 @@
 | [Strike](https://open.spotify.com/track/1miOdqqAbFKydVatY11LFQ) | [Siesta Beats](https://open.spotify.com/artist/7Ij0ol3KymmV235kMWnXiq) | [Strike](https://open.spotify.com/album/7GK1sveZab0A29so3rXYTT) | 2:14 | 2023-04-27 | 2024-02-02 |
 | [Stripe Two](https://open.spotify.com/track/4AXc2D9pa1uttadN9MowI3) | [Tom Oswald](https://open.spotify.com/artist/0h8JdYna5YWfPvyw3YaBVN) | [Stripe One](https://open.spotify.com/album/6gaMaWFWEZTl6kwel3RRp1) | 1:46 | 2020-06-18 | 2021-10-02 |
 | [Strive](https://open.spotify.com/track/43LF4H7u7x8OnDlSkhh2ar) | [Ollie Morris](https://open.spotify.com/artist/0vOJttjiMGGOBRPhzl8FKt) | [Strive](https://open.spotify.com/album/6u3pAUdtvtsiBjY39lG7dI) | 2:03 | 2019-06-21 | 2020-01-04 |
-| [Stroll](https://open.spotify.com/track/7w7jNbglIedd2HDaQwJqaK) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Stroll](https://open.spotify.com/album/6pSmR7ZyMToEopTCHWfjHc) | 2:15 | 2024-01-12 | 2025-03-29 |
+| [Stroll](https://open.spotify.com/track/7w7jNbglIedd2HDaQwJqaK) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Stroll](https://open.spotify.com/album/6pSmR7ZyMToEopTCHWfjHc) | 2:15 | 2024-01-12 |  |
 | [Stroll](https://open.spotify.com/track/0kQRC3bmqnu6sw1ElX9jmE) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [Stroll](https://open.spotify.com/album/3A76JubhsoUjQoJM21Fy7f) | 2:53 | 2023-07-06 | 2024-01-26 |
 | [Structure](https://open.spotify.com/track/1bBFxXwsiAgbT5WAa55vua) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Structure](https://open.spotify.com/album/6CUQLKU7QNbw49Huf701fv) | 1:37 | 2023-11-24 | 2024-07-19 |
 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 | 2022-09-02 | 2023-01-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Achille Lauro, Neffa, Ultimo, Federica Abbate, BigMama, OneRepublic e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,468 likes - 96 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,493 likes - 96 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

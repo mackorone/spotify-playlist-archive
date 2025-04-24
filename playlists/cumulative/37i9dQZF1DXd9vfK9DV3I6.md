@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-307 songs - 22 hr 28 min
+308 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Dahlia Girl](https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Dahlia Girl](https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv) | 3:17 | 2022-05-19 |  |
 | [Dar Gnawa \- Original Mix](https://open.spotify.com/track/3y5HE8dQl42d0fzyfrIdU5) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Dar Gnawa Ep](https://open.spotify.com/album/3ZwlXB4sw91PjNlsLSmBxJ) | 6:59 | 2020-10-18\* | 2022-07-29 |
 | [DayBreak Ft\. Behrooz Shiri \- Original mix](https://open.spotify.com/track/47ds21UWcwcRAb2grmY23u) | [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV), [Adeia](https://open.spotify.com/artist/2HXkY2E4L4r1U4Lz2zlf5Q) | [DayBreak Ft\. Behrooz Shiri](https://open.spotify.com/album/2RBZ8NbEoccZBVr2arOrU4) | 4:00 | 2021-01-08 | 2023-03-18 |
+| [DeeDee II](https://open.spotify.com/track/6vA85OOOm0nCI8ql0IQhpp) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK), [BADBOX](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf), [Simo Chemchoub](https://open.spotify.com/artist/1gKFhYULkd0yVePJAPR1IV) | [DeeDee II](https://open.spotify.com/album/0SwwegVqpuWr7uR0umVJJm) | 2:59 | 2025-04-18 |  |
 | [Deep Anatolia](https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ) | [Deep Anatolia](https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW) | 2:48 | 2022-06-27 | 2024-04-19 |
 | [Deep Anatolia](https://open.spotify.com/track/2s61JUSrJVjtkZKxFSBsdH) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ) | [Deep Anatolia](https://open.spotify.com/album/23NVYYNs4HxDHfc0zKm4tX) | 2:48 | 2021-06-01 | 2022-08-12 |
 | [Delichones](https://open.spotify.com/track/6qiwOC5TeKXK4pDonIZxgR) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Delichones](https://open.spotify.com/album/7JDEXzgMecy0ut0xXIIcks) | 6:45 | 2020-10-18\* | 2023-01-13 |
@@ -233,7 +234,7 @@
 | [OUD](https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [OUD](https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo) | 7:15 | 2020-11-19 | 2022-11-14 |
 | [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-01-21 | 2023-03-18 |
 | [Oud Love](https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO) | [Camil Kanouni](https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC) | [O.M.M.A](https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe) | 3:41 | 2020-10-18\* | 2023-08-06 |
-| [Oud Trip](https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ A Ego](https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9) | [Oud Trip](https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF) | 4:32 | 2020-10-18\* |  |
+| [Oud Trip](https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ A Ego](https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9) | [Oud Trip](https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF) | 4:32 | 2020-10-18\* | 2025-04-24 |
 | [Overdose \- Sait Esmeray Remix](https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW) | [Sasha Lopez](https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF), [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9), [Sait Esmeray](https://open.spotify.com/artist/0ay99LpZruYu1GkaQxWWe4) | [Overdose \(Sait Esmeray Remix\)](https://open.spotify.com/album/1IhXKGtdrHwt4hdRh3G3sq) | 2:38 | 2021-05-22 |  |
 | [Painter](https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs) | [Lady Ocean](https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn) | [Painter](https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ) | 3:23 | 2021-06-07 |  |
 | [Play the Game](https://open.spotify.com/track/1Z9SkXBBMTpdrWwl085zRv) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa) | [Play the Game](https://open.spotify.com/album/2CV2MKeBFeINXQRInZuS9w) | 2:22 | 2021-08-13 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-75 songs - 8 hr 31 min
+76 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Part of Me \- Original Mix](https://open.spotify.com/track/4k8Z6zQPbbJYo5ld0fXvSL) | [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy), [Angel Falls](https://open.spotify.com/artist/5rFJL8YA8t1lv8lgjL7X2E) | [Part of Me](https://open.spotify.com/album/62rG5y4kCrfbYIowkunZWO) | 7:01 | 2021-03-23 |  |
 | [Point Nemo \- Original Mix](https://open.spotify.com/track/7AdUCqTinPTvw3ejzGycrg) | [Mark Moncrieff](https://open.spotify.com/artist/4K4hc4X2Dp2atIg6HBBmAd) | [Summer Melody 100: Sampler Part 3](https://open.spotify.com/album/5aPJsvcEJgC2RQIqL6NLbT) | 7:37 | 2021-12-14 |  |
 | [Progressive Soul](https://open.spotify.com/track/1XCbbMW6DwpKHIKAhQ7xSs) | [kalsy](https://open.spotify.com/artist/6vPghOkrVqxHkDHOV3l30R) | [Progressive Soul](https://open.spotify.com/album/6lWCbs8MxC0euSMUuNxR5x) | 10:35 | 2023-02-23 |  |
+| [Pulse Of Desire \- Radio Edit](https://open.spotify.com/track/6O4b6FJlygrJqRHsCr4xlF) | [Vellkhan](https://open.spotify.com/artist/4IkkkRiHwKB0fnXWcFjLEp) | [Pulse Of Desire](https://open.spotify.com/album/5b1bMJxJa5M1Q5md2ZQb5p) | 3:05 | 2025-04-23 |  |
 | [Return to Paradise \- Nipika Remix](https://open.spotify.com/track/0lh6F43g0ZiLSCNIiPtuJo) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Nipika](https://open.spotify.com/artist/00xLgjFkwM6G1ufrFJGd7g) | [Return to Paradise \[The Remixes\]](https://open.spotify.com/album/1iPmSRRJEZyzA0J0OxS1mv) | 7:12 | 2023-09-01 |  |
 | [Reunion](https://open.spotify.com/track/6bXjQr1KQG1auvD6sNtbl7) | [Vellkhan](https://open.spotify.com/artist/4IkkkRiHwKB0fnXWcFjLEp) | [Reunion](https://open.spotify.com/album/178GOjWTTIvDcggFtKx6Nv) | 6:11 | 2025-04-12 |  |
 | [Rise](https://open.spotify.com/track/4Gs4NvoNjdLPi49TnVbx96) | [South Pole](https://open.spotify.com/artist/3vNPCpgA6iJvFoWQfP3Fli) | [Rise](https://open.spotify.com/album/7LUv6Pi8Bxz3tY4iLqPwyf) | 8:10 | 2019-07-05 |  |

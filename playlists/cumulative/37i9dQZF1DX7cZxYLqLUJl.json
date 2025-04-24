@@ -2151,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "Serenade to Veronika",
+        "url": "https://open.spotify.com/album/1rdGTeKhkDgpSbk84SFjNM"
+      },
+      "artists": [
+        {
+          "name": "Ferenc Bogn\u00e1r",
+          "url": "https://open.spotify.com/artist/6kZd1uFzg7uGWSitp4F4GW"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Serenade to Veronika",
+      "url": "https://open.spotify.com/track/2hzwsJaOQLnex8YchKVqOe"
+    },
+    {
+      "album": {
         "name": "Retrospection",
         "url": "https://open.spotify.com/album/2TTPCvN55NHOr95q89qmpa"
       },

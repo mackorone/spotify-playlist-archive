@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Stickere",
+        "url": "https://open.spotify.com/album/2yHy27oGwEJWwxVaI216e0"
+      },
+      "artists": [
+        {
+          "name": "Jador",
+          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "2 Stickere",
+      "url": "https://open.spotify.com/track/6UqAQ2xZSFQxb2p89rvvVN"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
@@ -116,6 +138,24 @@
       "duration_ms": 142458,
       "name": "ACTIVIST",
       "url": "https://open.spotify.com/track/2ApM2mZoLTVUSfLfKgTbRm"
+    },
+    {
+      "album": {
+        "name": "Afacere",
+        "url": "https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147773,
+      "name": "Afacere",
+      "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
     },
     {
       "album": {
@@ -944,10 +984,32 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/4z0QjhdKJ9RB8BPFux1Bci"
+    },
+    {
+      "album": {
+        "name": "De ce te ui\u021bi a\u0219a?",
+        "url": "https://open.spotify.com/album/6Qn7iJTooKGtVMw1g4epFT"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143315,
+      "name": "De ce te ui\u021bi a\u0219a?",
+      "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
     },
     {
       "album": {
@@ -1512,6 +1574,28 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
+        "name": "Iarta-ma Mamo",
+        "url": "https://open.spotify.com/album/3s7obFL6LtELRmf9XTpHxL"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151948,
+      "name": "Iarta-ma Mamo",
+      "url": "https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag"
     },
     {
       "album": {
@@ -2996,7 +3080,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 128000,
       "name": "Triton",
       "url": "https://open.spotify.com/track/4DrMJI9DGrZlgygVrMC1cp"
@@ -3014,7 +3098,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 160000,
       "name": "Turbo Orange",
       "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
@@ -3196,7 +3280,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-24",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

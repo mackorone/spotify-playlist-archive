@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/1qC8qEhfPZvZcgpRqCV50P"
+      },
+      "artists": [
+        {
+          "name": "Maylinn",
+          "url": "https://open.spotify.com/artist/60CX9yGvjcDd4kcKculbMg"
+        }
+      ],
+      "date_added": "2025-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178953,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/2Sn9FClQKj6FrBFOXbKtl7"
+    },
+    {
+      "album": {
         "name": "TRAPART",
         "url": "https://open.spotify.com/album/3JNARFXD4YTlwAz01Oi0Zp"
       },

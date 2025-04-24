@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain](/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo)
 
-### [Pop Focus \| Pop Music for Studying](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
+### [Pop Focus \| Pop Music for Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
-> Get in the zone with this fresh mix of chill music to study to.
+> Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-[Topsify](https://open.spotify.com/user/topsify) - 10,467 likes - 96 songs - 5 hr 7 min
+[Topsify](https://open.spotify.com/user/topsify) - 10,465 likes - 96 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 95 | [Love You To Death](https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Love You To Death](https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7) | 2:19 |
 | 96 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 |
 
-Snapshot ID: `AAAGS0JMSDoBmWSq1dHRKM1fhwrb3tWE`
+Snapshot ID: `AAAGTPAz8FItW/07t4oe1Uaoff6aEDdT`
