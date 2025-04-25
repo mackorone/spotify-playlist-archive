@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록 음악을 만나보세요!\)
 
-934 songs - 2 day 9 hr 3 min
+935 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Highway](https://open.spotify.com/track/6g90q5OxuYT6FY5POVLbII) | [Boyz\_moon](https://open.spotify.com/artist/5aAxIm2TceztaZpbQnrxtB) | [22.5 Night&Day](https://open.spotify.com/album/4GurrYb465ebuulUNrGOP4) | 3:10 | 2022-04-22 | 2022-05-12 |
 | [Highway](https://open.spotify.com/track/3HuvkpFoG2ZjIbJ5l7XDYW) | [Macguffin](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [Highway](https://open.spotify.com/album/2KDtUanUM8jVd9jeIzYZGk) | 4:14 | 2022-04-12 | 2022-07-29 |
 | [Highway Drive](https://open.spotify.com/track/2hSZMOhx9OlNjVtTyEtxJd) | [NEKIRU](https://open.spotify.com/artist/64Qq6Sd2V4cRGNQV2xUjOC) | [Highway Drive](https://open.spotify.com/album/7p97vh6lADgQuYDB28nZDK) | 3:40 | 2025-02-11 | 2025-03-18 |
+| [Hippo](https://open.spotify.com/track/3YazEnAmUwCJnL2HNYquFN) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [WAJANGCHANG](https://open.spotify.com/album/2ktH2zzm2Jbu8Gq7ISN5oN) | 3:36 | 2025-04-24 |  |
 | [HOLA!](https://open.spotify.com/track/677NB7UXGFoXMn2Nlk5yS6) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HOLA!](https://open.spotify.com/album/3hV4UVXS8ijrebLmwFKvo6) | 3:13 | 2022-05-03 | 2022-07-15 |
 | [Hold Me Like It’s Forever](https://open.spotify.com/track/6QZJTunvjAU44kpXzDNXzn) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3), [Car](https://open.spotify.com/artist/4IwZDPPzFIVVN2DSVudIZO), [The Garden](https://open.spotify.com/artist/60OalAUIgelvXUGPkrFm6O) | [Midnight Candy](https://open.spotify.com/album/6jU28TIxDs4HEkaJ4ea2zO) | 3:03 | 2022-05-11 | 2022-05-17 |
 | [Hollywood Dreaming](https://open.spotify.com/track/0FZsFe8LMDz2i5bywe6KPU) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1), [MKPBand](https://open.spotify.com/artist/7EvDe1CLV4Mydlm0rOpWS2) | [Hollywood Dreaming](https://open.spotify.com/album/7wK5BDnTw9pj7h1QNERdeN) | 3:01 | 2022-06-03 | 2022-06-06 |
@@ -831,7 +832,7 @@
 | [WAITING](https://open.spotify.com/track/4TMVuENexY9u0083CqMphE) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:07 | 2024-06-05 | 2024-11-07 |
 | [Waiting For Your Calling Back](https://open.spotify.com/track/6GpyKE5T9si1V5QJMR6ra7) | [Sultan of the Disco](https://open.spotify.com/artist/2OlCSUqTMqHguyNtdE0mdv) | [Waiting For Your Calling Back](https://open.spotify.com/album/61E8qZbwN805gq18noEjFZ) | 3:58 | 2022-07-08 | 2022-07-10 |
 | [Wakey Wakey](https://open.spotify.com/track/2FzUD2fJDnR8uEaBtZIN20) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Wakey Wakey](https://open.spotify.com/album/2z663REgTC3wLtIcipDRnC) | 2:40 | 2025-03-31 | 2025-04-12 |
-| [Wakey Wakey](https://open.spotify.com/track/7ie3z8INSG550mxkjOqavT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [WAJANGCHANG](https://open.spotify.com/album/2ktH2zzm2Jbu8Gq7ISN5oN) | 2:40 | 2025-04-23 |  |
+| [Wakey Wakey](https://open.spotify.com/track/7ie3z8INSG550mxkjOqavT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [WAJANGCHANG](https://open.spotify.com/album/2ktH2zzm2Jbu8Gq7ISN5oN) | 2:40 | 2025-04-23 | 2025-04-25 |
 | [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/track/3jXJmRPGuCkkq3P6D9apMT) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [kim seungyoon](https://open.spotify.com/artist/4JLS2R4A5ob8Fra7UpUtBI) | [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/album/1iLbD5VKkdQPEYBcygEokK) | 3:18 | 2023-02-23 | 2023-02-25 |
 | [War](https://open.spotify.com/track/5TV2bxWF3YZsjMQk2vaULt) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [War](https://open.spotify.com/album/02JAq1LeSVB6WMqgctzmWB) | 4:46 | 2022-04-12 | 2022-07-28 |
 | [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 | 2025-01-30 | 2025-03-18 |

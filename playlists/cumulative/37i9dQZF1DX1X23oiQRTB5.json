@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Werenoi au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "La Mano 1.9 au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -986,7 +986,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 200920,
       "name": "Capata",
       "url": "https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE"
@@ -4707,6 +4707,24 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172259,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc"
+    },
+    {
+      "album": {
         "name": "Depuis le temps",
         "url": "https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu"
       },
@@ -4973,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Diamant Noir",
+        "url": "https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Poney",
+      "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"
+    },
+    {
+      "album": {
         "name": "POP (feat. La Mano 1.9)",
         "url": "https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM"
       },
@@ -5006,7 +5042,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 179034,
       "name": "POUR ELLE",
       "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
@@ -5118,7 +5154,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 211239,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
@@ -6112,6 +6148,24 @@
       "duration_ms": 175906,
       "name": "TOKA",
       "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
+    },
+    {
+      "album": {
+        "name": "Tout Pour L\u2019Equipe",
+        "url": "https://open.spotify.com/album/0Dj5KIGp4cHUCS5rsoX0hU"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180973,
+      "name": "Tout Pour L'\u00e9quipe",
+      "url": "https://open.spotify.com/track/2A6XI4w9IasxpX9tVGgcHs"
     },
     {
       "album": {

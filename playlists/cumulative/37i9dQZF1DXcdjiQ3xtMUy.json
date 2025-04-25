@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Oge, Marina Satti",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marina Satti",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 177272,
       "name": "ANATOLI",
       "url": "https://open.spotify.com/track/1XaESunLfD5BmNNjSExrHq"
@@ -644,6 +644,28 @@
       "duration_ms": 188040,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/0cM8ON4hpz4SqPLPjGJ9o5"
+    },
+    {
+      "album": {
+        "name": "POP TOO",
+        "url": "https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        },
+        {
+          "name": "Negros Tou Moria",
+          "url": "https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159592,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/7nVLvWhpWwkj1EvnkLPMLX"
     },
     {
       "album": {
@@ -1600,6 +1622,24 @@
       "duration_ms": 158969,
       "name": "Logia",
       "url": "https://open.spotify.com/track/1UudyGXBTV2WxnULbhYXtp"
+    },
+    {
+      "album": {
+        "name": "POP TOO",
+        "url": "https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "LOLA",
+      "url": "https://open.spotify.com/track/08ZOiOkRA8HPwrz9hsum1n"
     },
     {
       "album": {
@@ -2782,7 +2822,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 164000,
       "name": "TUCUTUM - RMX",
       "url": "https://open.spotify.com/track/61Ga4RFrrsATHp0i7VRKcI"

@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 237513,
       "name": "Agaracha",
       "url": "https://open.spotify.com/track/42WBHKFN8h7bNkNKTG6KoY"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 176571,
       "name": "Daily",
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 224070,
       "name": "El-Roi",
       "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
@@ -2745,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/4eVHpFE3L70YsFRW7bTEcL"
+      },
+      "artists": [
+        {
+          "name": "Macjosh",
+          "url": "https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152121,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/3zbnmDcgr1stnp7VMecPTL"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4DSH6OSqbLCQv8t6cfQp6f"
       },
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 165500,
       "name": "God First",
       "url": "https://open.spotify.com/track/2etcvSTrodoQLDfzLF2Jjk"
@@ -6425,6 +6443,24 @@
     },
     {
       "album": {
+        "name": "Nwachinemelu",
+        "url": "https://open.spotify.com/album/2JKnfrfl4fuSOybUMxjjYL"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186908,
+      "name": "Nwachinemelu",
+      "url": "https://open.spotify.com/track/4TKB7cAwgWwkVQ3KJxl7s8"
+    },
+    {
+      "album": {
         "name": "Nya Gyidi",
         "url": "https://open.spotify.com/album/5E115qCQUZjWEIztqVtjDc"
       },
@@ -7053,6 +7089,24 @@
     },
     {
       "album": {
+        "name": "Only You Jesus",
+        "url": "https://open.spotify.com/album/3eoylkKdNJlpVBpWuq4iHH"
+      },
+      "artists": [
+        {
+          "name": "Salt & Grace",
+          "url": "https://open.spotify.com/artist/2yaom9TYZfkhHXgk3Zr3sy"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236320,
+      "name": "Only You Jesus",
+      "url": "https://open.spotify.com/track/4fZrdDQUCJGA2GoyYUgcPf"
+    },
+    {
+      "album": {
         "name": "Overwhelming Victory",
         "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
@@ -7616,7 +7670,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 382499,
       "name": "Prophetic Chant (Live)",
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
@@ -7696,6 +7750,24 @@
       "duration_ms": 596544,
       "name": "Rahama (Live)",
       "url": "https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651"
+    },
+    {
+      "album": {
+        "name": "resolve~",
+        "url": "https://open.spotify.com/album/49aeURRkNoDukqUGy68vLo"
+      },
+      "artists": [
+        {
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159340,
+      "name": "resolve~",
+      "url": "https://open.spotify.com/track/7BMymBTTpyv5eUdEo8ZB4r"
     },
     {
       "album": {
@@ -7846,6 +7918,24 @@
       "duration_ms": 225153,
       "name": "Selense",
       "url": "https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ"
+    },
+    {
+      "album": {
+        "name": "Shammah",
+        "url": "https://open.spotify.com/album/3Wi8dsqFQoDzkGyB1qxlsG"
+      },
+      "artists": [
+        {
+          "name": "Princewill Agbazue",
+          "url": "https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Shammah",
+      "url": "https://open.spotify.com/track/1hW8cVgHXcKo9BqSm8mcHM"
     },
     {
       "album": {
@@ -9112,7 +9202,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"

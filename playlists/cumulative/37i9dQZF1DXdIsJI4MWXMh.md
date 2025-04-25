@@ -2,9 +2,9 @@
 
 ### [Ranchera Chilena](https://open.spotify.com/playlist/37i9dQZF1DXdIsJI4MWXMh)
 
-> ¡A gastar la suela con lo mejor de la ranchera chilena!
+> ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-145 songs - 9 hr 51 min
+146 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Asosegando Cachorras](https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 3:58 | 2023-03-03 |  |
 | [Ay Mi Amor](https://open.spotify.com/track/0wtDWP4eK9RJVtXkxa7PJr) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 3:15 | 2023-03-03 |  |
 | [Ay Soledad](https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbia y Sabor](https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9) | 4:05 | 2023-03-03 | 2024-04-19 |
+| [Bella](https://open.spotify.com/track/1xvnIbO3HaGyalKxPD1EMV) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Bella](https://open.spotify.com/album/6cjrGGDQs8xmKCNGQ831E5) | 3:20 | 2025-04-25 |  |
 | [Bilú Bilú](https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Bilú Bilú](https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW) | 3:49 | 2023-09-15 |  |
 | [Bonita](https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Bonita](https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7) | 3:05 | 2024-12-06 |  |
 | [Burbujas de Amor](https://open.spotify.com/track/2x5COOGasiDIfK7oHgpeJl) | [Los Vaqueros Del Sur](https://open.spotify.com/artist/0r8NXIbmbXpE6drioTrX5p) | [El Regreso](https://open.spotify.com/album/6VQm0giHf7eAuMfqPZqEpu) | 4:35 | 2024-06-12 |  |
@@ -127,7 +128,7 @@
 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 | 2023-03-03 |  |
 | [Son Solo Palabritas](https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Para Nuestra Gente](https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N) | 3:31 | 2023-03-03 |  |
 | [Sufriendo por Tu Amor](https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:11 | 2023-05-29 |  |
-| [Sácale Leche a la Vaca](https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO) | [Alex y el Clan Azabache](https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr) | [Alex y el Clan Azabache](https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ) | 3:00 | 2023-03-03 |  |
+| [Sácale Leche a la Vaca](https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO) | [Alex y el Clan Azabache](https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr) | [Alex y el Clan Azabache](https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ) | 3:00 | 2023-03-03 | 2025-04-25 |
 | [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 | 2023-03-03 | 2025-04-17 |
 | [Tattoo](https://open.spotify.com/track/0vfPiExVUcECwzpQ3vfV0R) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Tattoo](https://open.spotify.com/album/3EYAbEV8gM0VvHPqF3asP4) | 3:21 | 2024-10-14 |  |
 | [Tatuaje](https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk) | [Los Pincheira del sur Oficial](https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:35 | 2023-03-03 |  |

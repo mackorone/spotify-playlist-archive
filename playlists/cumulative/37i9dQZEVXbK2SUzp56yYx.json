@@ -6152,7 +6152,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 118153,
       "name": "Get Jiggy",
       "url": "https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY"
@@ -10515,6 +10515,24 @@
     },
     {
       "album": {
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84901,
+      "name": "MONTAGEM TOMADA - Slowed",
+      "url": "https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR"
+    },
+    {
+      "album": {
         "name": "MONTAGEM TOMADA (Slowed)",
         "url": "https://open.spotify.com/album/3nD6GXdrRSDaGd4iOr2zC2"
       },
@@ -10526,7 +10544,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 84901,
       "name": "MONTAGEM TOMADA - Slowed",
       "url": "https://open.spotify.com/track/7lMdvefvlMkYEac3ggF9u9"
@@ -12086,6 +12104,24 @@
     {
       "album": {
         "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY"
+    },
+    {
+      "album": {
+        "name": "PASSO BEM SOLTO",
         "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
       },
       "artists": [
@@ -12096,7 +12132,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
@@ -16298,7 +16334,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 109732,
       "name": "VISION",
       "url": "https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p"
@@ -21140,7 +21176,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 79562,
       "name": "\u0438\u0433\u0440\u043e\u043a",
       "url": "https://open.spotify.com/track/75E6UvfTp7zJ91VhUTE8lk"
@@ -25624,7 +25660,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 172124,
       "name": "\u041f\u0440\u043e\u0441\u043d\u0443\u043b\u0441\u044f \u0412 \u0422\u0435\u043c\u043d\u043e\u0442\u0435",
       "url": "https://open.spotify.com/track/53VP2mFKRUxPSlVud4eroD"
@@ -25718,7 +25754,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 176409,
       "name": "\u041f\u0440\u043e\u0442\u0438\u0432 \u0446\u0430\u0440\u044f",
       "url": "https://open.spotify.com/track/0DvM6OhAMflNe8RqtPpnie"
@@ -27122,7 +27158,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 236307,
       "name": "\u0422\u0430\u043c, \u0437\u0430 \u0440\u0435\u043a\u043e\u0439",
       "url": "https://open.spotify.com/track/5tkQqVq7WjoPYGIKmGD9l7"

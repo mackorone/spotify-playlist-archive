@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,446 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,502 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Ladies & Gentlemen](https://open.spotify.com/track/0UKJzXJ7ffg6kHguTEAVfr) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:46 |
 | 50 | [Gustav Gans](https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Blast Action Heroes](https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo) | 3:32 |
 
-Snapshot ID: `Z1beeAAAAAAeu6enD7bsbcN4o2grYlI4`
+Snapshot ID: `aAom0wAAAADMdwYhnLa/uXW/onv+anhE`

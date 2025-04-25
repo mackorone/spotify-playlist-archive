@@ -2,9 +2,9 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷 Kapak: Rana Türkyılmaz
+> Geleceğin seslerini dinle! Kapak: Ceren Sagu
 
-92 songs - 4 hr 24 min
+93 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,11 +23,12 @@
 | [Beni Anla](https://open.spotify.com/track/0dTusB8JKDynGkqGkgvLPS) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Beni Anla](https://open.spotify.com/album/3lG4KrGHKQ0RmZ25Zdo60C) | 4:31 | 2024-10-23 | 2024-12-13 |
 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 | 2024-10-23 |  |
 | [Beni Yanlış Bırak](https://open.spotify.com/track/6wyeHLKjp7guulm1nqBs8X) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Beni Yanlış Bırak](https://open.spotify.com/album/2cmLNe0FXyf0NVaOrGfhwL) | 4:44 | 2024-06-20 | 2024-10-24 |
-| [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-10-23 |  |
+| [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-10-23 | 2025-04-25 |
 | [bi var bi yok](https://open.spotify.com/track/4v38AvW0s9QwFrqnaULgMa) | [Karya Çandar](https://open.spotify.com/artist/5cqshWrRR53ssZM2L2P06K), [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [bi var bi yok](https://open.spotify.com/album/1lWms2nsXFOIt8TWGKTB8r) | 2:29 | 2024-06-20 | 2024-10-24 |
 | [Bile Bile](https://open.spotify.com/track/3GZMQGYymBSOIyKnTZOXBg) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [Bile Bile](https://open.spotify.com/album/6m5GB5l0Y3spjQVUeGRH6t) | 2:46 | 2024-06-20 |  |
 | [Bu Gece Son](https://open.spotify.com/track/1k2asRqf2pyMDc6Yh7Y3Ec) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Bu Gece Son](https://open.spotify.com/album/2g9H0x9HQi68RoI0krAO8p) | 2:44 | 2024-06-20 | 2024-10-24 |
 | [bu kadar güzel olmak suç değil mi?](https://open.spotify.com/track/0AWzhPYyZvbkoGlS3SSmTS) | [sevimo.](https://open.spotify.com/artist/2EChc9oByY31aq86S1E4ST) | [bu kadar güzel olmak suç değil mi?](https://open.spotify.com/album/6A9O8HWmfmS5lk19hKORAz) | 3:24 | 2024-06-20 | 2024-10-24 |
+| [bırak öleyim](https://open.spotify.com/track/16G2UlN8OFUCf5qAGNadQK) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [cümlelerim](https://open.spotify.com/album/7igC0FT4qMplTZsnMzyhyv) | 3:28 | 2025-04-24 |  |
 | [Bırakın Arasın](https://open.spotify.com/track/2mp5AxLWjNW7WGvJ8uWddm) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bırakın Arasın](https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA) | 2:38 | 2024-12-19 |  |
 | [cesaret](https://open.spotify.com/track/5SaZ6P2aHMVraIXsMvHLl3) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [cesaret](https://open.spotify.com/album/6zSOEkhrBzxFWjCw6gLgaa) | 2:52 | 2024-06-20 |  |
 | [cümlelerim](https://open.spotify.com/track/3GQm1FfMFmpoPyOwlo4bqL) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [cümlelerim](https://open.spotify.com/album/2GGvDWqti6JlsrRTKWsrLF) | 3:29 | 2025-04-10 |  |

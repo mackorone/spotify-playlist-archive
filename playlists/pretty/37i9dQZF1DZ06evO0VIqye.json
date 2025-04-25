@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 59362,
+  "num_followers": 59368,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAAD3ll8KXatzE7r0SnXhNeEl",
+  "snapshot_id": "aAgtgAAAAABQeP+/v25b8es5Kheq//5v",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "A.C.D.C.",
+      "url": "https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
@@ -387,6 +403,22 @@
       "duration_ms": 168400,
       "name": "Shout",
       "url": "https://open.spotify.com/track/55UIB1pXg1Pk9lrfIb8NB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Victim of Circumstance",
+      "url": "https://open.spotify.com/track/1VGP4asQMmeyd1PHVFN54d"
     },
     {
       "added_at": null,
@@ -411,38 +443,6 @@
       "duration_ms": 170506,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Victim of Circumstance",
-      "url": "https://open.spotify.com/track/1VGP4asQMmeyd1PHVFN54d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "A.C.D.C.",
-      "url": "https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Music",
         "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 161066,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Tulane",
-      "url": "https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Ridin' With James Dean",
+      "url": "https://open.spotify.com/track/5C9C1h2gF9bpVLUXAqWG7W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Changeup",
         "url": "https://open.spotify.com/album/1DT4EIajvxjEkGdvZ707xS"
       },
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Ridin' With James Dean",
-      "url": "https://open.spotify.com/track/5C9C1h2gF9bpVLUXAqWG7W"
+      "duration_ms": 173853,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Fresh Start",
-      "url": "https://open.spotify.com/track/0CoaJsa2utAfRXiNeWmJiH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 202933,
       "name": "I Still Dream About You",
       "url": "https://open.spotify.com/track/6y7Jl5Jrmdl0fCFcOVmnbX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Reputation (Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Fresh Start",
+      "url": "https://open.spotify.com/track/0CoaJsa2utAfRXiNeWmJiH"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

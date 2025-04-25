@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,793 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,794 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 57 | [Jackson \- Cover](https://open.spotify.com/track/3nvS2z9s0xf2xGMZJO0OaT) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi), [Ike Campbell](https://open.spotify.com/artist/3lj5OOeZrVaSN71dqJCXcX) | [Jackson \(Cover\)](https://open.spotify.com/album/28REKiqomkBstRutFWUkom) | 3:25 |
 | 58 | [Wanna Be with You](https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Wanna Be with You](https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA) | 3:11 |
 | 59 | [Dive In](https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8) | [Bailey Kauri](https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q) | [Dive In](https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ) | 3:08 |
-| 60 | [Fairy Floss Sky](https://open.spotify.com/track/0W4PlkXqZR4AZ4nrpLdSRj) | [Jack Willis](https://open.spotify.com/artist/5bDMEki3F51J9AwYPJeBZY) | [Fairy Floss Sky](https://open.spotify.com/album/1yzydT6WbXJbSrniPmHHr4) | 3:29 |
+| 60 | [Zombie](https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Zombie](https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW) | 3:35 |
 
 Snapshot ID: `ZWiHUAAAAAByQUDO6JtmyzoMqnnI1Ls0`

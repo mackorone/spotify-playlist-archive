@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-578 songs - 1 day 18 hr 31 min
+579 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Azulejos](https://open.spotify.com/track/4QzIBfFkEgaumDBJBE7djC) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Azulejos](https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J) | 3:28 | 2023-07-10 | 2024-04-19 |
 | [Azzaman](https://open.spotify.com/track/04HDEpLOJcxAFUgpxZsO4O) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Temet](https://open.spotify.com/album/5MCnyM5GBaeED2WXsQDE91) | 3:59 | 2024-01-19 | 2024-04-19 |
 | [Azzaman](https://open.spotify.com/track/0ilFgeEIykSNK00krMGbaS) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Temet](https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq) | 3:59 | 2023-07-10 | 2024-01-13 |
+| [Aïcha](https://open.spotify.com/track/1D5K2ShaIeKvTW0G1LkOAU) | [Africando](https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V) | [Baloba!](https://open.spotify.com/album/0uz0GTlSvmnwBCrb9RpWMI) | 5:10 | 2024-11-08 |  |
 | [Aïcha \(Wolof\)](https://open.spotify.com/track/47SM72RTQXZpzOiyyraS4m) | [Africando](https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V) | [Baloba!](https://open.spotify.com/album/36mduXduOxss6KOtG7yuqI) | 5:10 | 2023-07-10 | 2024-04-19 |
 | [Baby](https://open.spotify.com/track/77YYd464qZ7ivCPDT9Tlgy) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | [Tecnicolor](https://open.spotify.com/album/3V1DtzwjDoXJb0jEcJdQPC) | 3:37 | 2023-07-10 | 2024-04-19 |
 | [Baghon Main](https://open.spotify.com/track/4VGFLMTNy3jr4Q1JLqV5LL) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Darian Donovan Thomas](https://open.spotify.com/artist/4hJmlJAgDI3ivZouvwnCEJ) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 6:44 | 2023-07-10 |  |
@@ -270,7 +271,7 @@
 | [Joropo](https://open.spotify.com/track/5Ze8tw2wAOPSiAMvCcs1hf) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [La Mano Ajena](https://open.spotify.com/album/1nQyDzLYLsNNPWcVmKXJCX) | 4:17 | 2023-07-10 |  |
 | [Já Sei Namorar \- 2004 Digital Remaster](https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 3:16 | 2023-07-10 | 2024-04-19 |
 | [Ka moun kè](https://open.spotify.com/track/3rCJPCJTJRUxvCduWDVprx) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 6:26 | 2024-08-21 |  |
-| [Kaalai](https://open.spotify.com/track/51JOTU8OWBWMXGsHgB4CMe) | [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kaalai](https://open.spotify.com/album/4d7mInaZfisSx3qUNNk2vq) | 3:24 | 2024-03-08 |  |
+| [Kaalai](https://open.spotify.com/track/51JOTU8OWBWMXGsHgB4CMe) | [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kaalai](https://open.spotify.com/album/4d7mInaZfisSx3qUNNk2vq) | 3:24 | 2024-03-08 | 2025-04-25 |
 | [Kadia Blues](https://open.spotify.com/track/6W9zUJcakKsIBxw4yKfe2b) | [Orchestre de la Paillote](https://open.spotify.com/artist/1VOknf5hdVCEMuH9BoD2bF) | [Syliphone, 40ème anniversaire, Vol\. 2](https://open.spotify.com/album/70vnxeeitOd14Roe0MYFr0) | 4:46 | 2023-07-10 | 2024-04-19 |
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 | 2023-07-10 | 2024-02-22 |
 | [Kingdom Come](https://open.spotify.com/track/5uhJnZd0m9Xz3GafDeMJxK) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Inner Fire](https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY) | 4:12 | 2023-07-10 | 2024-04-19 |

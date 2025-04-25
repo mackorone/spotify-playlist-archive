@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 54615,
+  "num_followers": 54625,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAABVroMUv88XF0pnSiuHxgAg",
+  "snapshot_id": "aAgtgAAAAADUgZF2Xq/cWaevNZNSdJMR",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Ser\u00eda Un Placer",
-      "url": "https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Va a Estar Bien",
         "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 267796,
       "name": "Todo Va Estar Bien",
       "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Ser\u00eda Un Placer",
+      "url": "https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 197198,
-      "name": "Para Que Vuelvas",
-      "url": "https://open.spotify.com/track/2c7Ukir0D12XpgRvFmsEb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Aqu\u00ed Estuvieras",
         "url": "https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 321000,
       "name": "Si Aqu\u00ed Estuvieras",
       "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 197198,
+      "name": "Para Que Vuelvas",
+      "url": "https://open.spotify.com/track/2c7Ukir0D12XpgRvFmsEb6"
     },
     {
       "added_at": null,
@@ -987,34 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre High",
-        "url": "https://open.spotify.com/album/0WSxsgqE0iWITJVWvvLyBB"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Jozue",
-          "url": "https://open.spotify.com/artist/4xfZnRMSGaNr3zZ9VG4oGG"
-        }
-      ],
-      "duration_ms": 284501,
-      "name": "Siempre High",
-      "url": "https://open.spotify.com/track/2mimHhtQ7lK2JI2Bl4GKow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -1043,6 +1015,34 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre High",
+        "url": "https://open.spotify.com/album/0WSxsgqE0iWITJVWvvLyBB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Jozue",
+          "url": "https://open.spotify.com/artist/4xfZnRMSGaNr3zZ9VG4oGG"
+        }
+      ],
+      "duration_ms": 284501,
+      "name": "Siempre High",
+      "url": "https://open.spotify.com/track/2mimHhtQ7lK2JI2Bl4GKow"
     },
     {
       "added_at": null,
@@ -1147,26 +1147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Villana",
-        "url": "https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 198787,
-      "name": "Villana",
-      "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carita de Santa",
         "url": "https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN"
       },
@@ -1187,42 +1167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callao",
-        "url": "https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L"
+        "name": "Villana",
+        "url": "https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u"
       },
       "artists": [
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 178729,
-      "name": "Callao",
-      "url": "https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
         },
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+      "duration_ms": 198787,
+      "name": "Villana",
+      "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
     },
     {
       "added_at": null,
@@ -1251,6 +1211,46 @@
       "duration_ms": 302104,
       "name": "CALIENTE",
       "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callao",
+        "url": "https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 178729,
+      "name": "Callao",
+      "url": "https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN"
     },
     {
       "added_at": null,

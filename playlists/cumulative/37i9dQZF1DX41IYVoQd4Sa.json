@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e0\u05d2\u05d4 \u05d0\u05e8\u05d6",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -174,6 +174,28 @@
       "duration_ms": 179779,
       "name": "AYAYAY (feat. Dillom)",
       "url": "https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ"
+    },
+    {
+      "album": {
+        "name": "Special Delivery",
+        "url": "https://open.spotify.com/album/7h4P1b3NEvQKqNAPu5d70K"
+      },
+      "artists": [
+        {
+          "name": "Ido Maimon",
+          "url": "https://open.spotify.com/artist/57N91pDyMWcNFvzDbsh4QJ"
+        },
+        {
+          "name": "Loren Noyman",
+          "url": "https://open.spotify.com/artist/0Tlit4MACMKpkoYKr0HYXp"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235860,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/19J2rmuJ7bsaoFt9RknsgS"
     },
     {
       "album": {
@@ -3080,7 +3102,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 220360,
       "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
       "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
@@ -4022,7 +4044,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 232500,
       "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
       "url": "https://open.spotify.com/track/4i6v0i4BrvbMevPY2Qwh5n"

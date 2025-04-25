@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-118 songs - 6 hr 48 min
+119 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ni Una Ni Dos \(House\)](https://open.spotify.com/track/5yoz1OoaIgevrCbUt3Tou6) | [Santi Cocina](https://open.spotify.com/artist/5uZOZdJrE6JDHgds4Z9BkI), [Echu Sanchez Dj](https://open.spotify.com/artist/27pcbtJXo693Wz4XyLmURD) | [Ni Una Ni Dos \(House\)](https://open.spotify.com/album/05WuOBLV5DH7Hs3Xm180lV) | 2:26 | 2023-11-29 |  |
 | [NO MIENTEN \- Tiësto Remix](https://open.spotify.com/track/46cyduQIwGKuyZX8TQvVLK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [NO MIENTEN \(Tiësto Remix\)](https://open.spotify.com/album/3eoM1XxYABWjL8XQTXxGD8) | 2:34 | 2023-11-29 |  |
 | [No Se Ve \- House](https://open.spotify.com/track/5OZpdzRTMv4yxI0Gb4wK8a) | [Echu Sanchez Dj](https://open.spotify.com/artist/27pcbtJXo693Wz4XyLmURD) | [No Se Ve \(House\)](https://open.spotify.com/album/0W588IY4qSz17R7psukAeR) | 3:45 | 2023-11-29 |  |
+| [OAAM \#5 La Joaqui \| PuroFuego \- REMIX](https://open.spotify.com/track/5E03MqOCfqIdxHUwWYttrF) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Purofuego](https://open.spotify.com/artist/0vsRqmQWY578AQYgKvkMBX), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Omar Algo Anda Mal \| Remix Box](https://open.spotify.com/album/4264mczLJ2rJykSC7oEbPo) | 3:17 | 2025-04-25 |  |
 | [Olvidarte \(After Mix\) \- Remix](https://open.spotify.com/track/3I9AajtprhPOov5T252mOa) | [Zalito](https://open.spotify.com/artist/3rXx66tcslBXiP0h3zbmg4), [Dj Loke](https://open.spotify.com/artist/6bG8DGRTEhihRP8tz46IC1), [Dj Luciano Troncoso](https://open.spotify.com/artist/10q5bnnlpwVGc2Lea4KaSh), [Luciano Troncoso](https://open.spotify.com/artist/0ZqAeaDOxKDA7g44mHBiJT) | [Olvidarte \(After Mix\) \[Remix\]](https://open.spotify.com/album/2olwwIatjDNHfV3Ns9KNCv) | 2:33 | 2025-01-17 |  |
 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 | 2024-12-17 |  |
 | [Parcera](https://open.spotify.com/track/56oomeTRgamzypt6iObrvA) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Parcera](https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm) | 2:32 | 2023-11-29 |  |

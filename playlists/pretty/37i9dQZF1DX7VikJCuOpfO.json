@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Michelle Maciel",
-  "num_followers": 363529,
+  "num_followers": 363544,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-04-11 06:00:14",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ"
+    },
+    {
+      "added_at": "2025-04-11 06:00:14",
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 128520,
       "name": "Fuiste M\u00eda",
       "url": "https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D"
-    },
-    {
-      "added_at": "2025-04-11 06:00:14",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ"
     },
     {
       "added_at": "2025-04-11 06:00:14",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-04-11 06:00:14",
       "album": {
-        "name": "Gavil\u00e1n o Paloma",
-        "url": "https://open.spotify.com/album/78q7MzI5WqcsUsi0fZp2Bw"
+        "name": "Ojo Por Ojo",
+        "url": "https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4"
       },
       "artists": [
         {
-          "name": "Kevin Aguilar",
-          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/1Bex5jXvCsysHyBC6CmHrE"
+      "duration_ms": 181614,
+      "name": "Ojo Por Ojo",
+      "url": "https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4"
     },
     {
       "added_at": "2025-04-11 06:00:14",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-04-11 06:00:14",
       "album": {
-        "name": "Ojo Por Ojo",
-        "url": "https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4"
+        "name": "Gavil\u00e1n o Paloma",
+        "url": "https://open.spotify.com/album/78q7MzI5WqcsUsi0fZp2Bw"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
         }
       ],
-      "duration_ms": 181614,
-      "name": "Ojo Por Ojo",
-      "url": "https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4"
+      "duration_ms": 256000,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/1Bex5jXvCsysHyBC6CmHrE"
     },
     {
       "added_at": "2025-04-11 06:00:14",

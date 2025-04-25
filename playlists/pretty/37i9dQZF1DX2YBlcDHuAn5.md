@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,553 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,550 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 42 | [Aiming High](https://open.spotify.com/track/2awmxdY36BxGuK80wxHIFE) | [Quinty van der Geest](https://open.spotify.com/artist/2A2lTcBiJUYRfbMVtdtwW2) | [Aiming High](https://open.spotify.com/album/1oTL2vaBXveBK8KbrOfbzY) | 3:21 |
 | 43 | [Angel By My Side](https://open.spotify.com/track/6FLRq82j1YsKLOQb2XU7g6) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Angel By My Side](https://open.spotify.com/album/4wFPcdUu0pljx0iDtvaPOz) | 3:15 |
 | 44 | [Separate Cars](https://open.spotify.com/track/7hwOnTyzAl6Jf8XIKEKv2A) | [Michael Asnot](https://open.spotify.com/artist/1TfbvyIkRpQHY0JIsX4nuL), [Silke](https://open.spotify.com/artist/1qA7JNMyTJw6VmOFr8pyI7) | [Separate Cars](https://open.spotify.com/album/0irmnMY7pNUETNQfVa1A1l) | 3:04 |
-| 45 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
-| 46 | [Out On Gin](https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Acoustic.Blues.Club](https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ) | 6:31 |
+| 45 | [Out On Gin](https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Acoustic.Blues.Club](https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ) | 6:31 |
+| 46 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
 | 47 | [Hold Your Fire](https://open.spotify.com/track/6mzTD4VqE5lEg7MLQ8PKqK) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Hold Your Fire](https://open.spotify.com/album/3AMaRXx8JHkgraFE2koTaY) | 3:16 |
-| 48 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
-| 49 | [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 |
+| 48 | [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 |
+| 49 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
 | 50 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 |
 
 Snapshot ID: `aAF56QAAAAATeZGZ++vHC7K/9+Hu8Kw5`

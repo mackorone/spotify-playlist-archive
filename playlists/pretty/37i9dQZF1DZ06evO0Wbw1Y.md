@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 > This is Ventino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,154 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,158 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 31 | [Inevitables](https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:51 |
 | 32 | [Cosas Pendientes](https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cosas Pendientes](https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa) | 3:01 |
 | 33 | [Popurrí de Juan Gabriel](https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Popurrí de Juan Gabriel](https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ) | 4:54 |
-| 34 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 |
+| 34 | [Para No Esperarte Más](https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para No Esperarte Más](https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6) | 2:58 |
 | 35 | [Besos De Bar](https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:55 |
-| 36 | [Para No Esperarte Más](https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para No Esperarte Más](https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6) | 2:58 |
+| 36 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 |
 | 37 | [Otra Noche](https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:18 |
 | 38 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 |
 | 39 | [Dos Tequilas](https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:59 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 45 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 |
 | 46 | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/track/1Almzz97LopTjEDLILaNEE) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/album/1PMFRNKwAlOrOg2tmIcfgR) | 3:03 |
 
-Snapshot ID: `aAbcAAAAAABwrRiOr8h1o1nMfGIikyb2`
+Snapshot ID: `aAgtgAAAAADr1PyPlBtUlkY+Y3N8/Ruu`

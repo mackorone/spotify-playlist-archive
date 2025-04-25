@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,966 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,029 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 66 | [Naranja Paraíso](https://open.spotify.com/track/2IMlhZ6Sxse3z7ghzRO7qc) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Naranja Paraíso](https://open.spotify.com/album/60pnmUd6TxVl3cABofrNFI) | 4:18 |
 | 67 | [Nunca Nadie](https://open.spotify.com/track/5twSN2QylT6wKmNCu0Xw4e) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Nunca Nadie](https://open.spotify.com/album/4EwQ5G2tbosagB8tEr3A7O) | 2:58 |
 | 68 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
-| 69 | [Wavespell](https://open.spotify.com/track/24arbdmxql9TYbLUvaSUEk) | [Jordi Cantos](https://open.spotify.com/artist/7EyOOj6cPrgGVWW9kiYqr2), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Anahí Monsalvo](https://open.spotify.com/artist/4xxW0bd5HcurKbVXYsl5A4) | [Wavespell](https://open.spotify.com/album/3kMytkV2JWLxYPkxU6ri0w) | 6:05 |
-| 70 | [The Great Unknown](https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 4:12 |
+| 69 | [The Great Unknown](https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 4:12 |
+| 70 | [Wavespell](https://open.spotify.com/track/24arbdmxql9TYbLUvaSUEk) | [Jordi Cantos](https://open.spotify.com/artist/7EyOOj6cPrgGVWW9kiYqr2), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Anahí Monsalvo](https://open.spotify.com/artist/4xxW0bd5HcurKbVXYsl5A4) | [Wavespell](https://open.spotify.com/album/3kMytkV2JWLxYPkxU6ri0w) | 6:05 |
 | 71 | [Hay algo en ti](https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf) | [Eva Sola](https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4) | [Hay algo en ti](https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW) | 2:26 |
 | 72 | [The Echo & The Shadow](https://open.spotify.com/track/6FytDcO847O1h7JlWbY838) | [The Well Pennies](https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi) | [Endlings](https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC) | 3:48 |
 | 73 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 89 | [Amor del bueno](https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid) | [Eva Sola](https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4) | [Amor del bueno](https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx) | 3:15 |
 | 90 | [Chilleando por Madrid](https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE) | [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET), [Raphael Karell](https://open.spotify.com/artist/0rzj1DUlP3tDKSVQhSkpv8) | [Chilleando por Madrid](https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8) | 3:54 |
 | 91 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 |
-| 92 | [Ojos de Miel](https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS) | [Valhua](https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Ojos de Miel](https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO) | 3:22 |
-| 93 | [Boredom](https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr) | [Núria Graham](https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI) | [Boredom \(Demo 2015\)](https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN) | 3:52 |
-| 94 | [Time \(For You\)](https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 2:56 |
-| 95 | [Siento mucho más](https://open.spotify.com/track/0Htx70RXcDyejFDSdhzRvO) | [Flavio](https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN) | [Siento mucho más](https://open.spotify.com/album/4F8kyjMBeQC0CHgJd0Qi3C) | 2:49 |
+| 92 | [Boredom](https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr) | [Núria Graham](https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI) | [Boredom \(Demo 2015\)](https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN) | 3:52 |
+| 93 | [Ojos de Miel](https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS) | [Valhua](https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Ojos de Miel](https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO) | 3:22 |
+| 94 | [Siento mucho más](https://open.spotify.com/track/0Htx70RXcDyejFDSdhzRvO) | [Flavio](https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN) | [Siento mucho más](https://open.spotify.com/album/4F8kyjMBeQC0CHgJd0Qi3C) | 2:49 |
+| 95 | [Time \(For You\)](https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 2:56 |
 | 96 | [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 |
-| 97 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 |
-| 98 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 |
+| 97 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 |
+| 98 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 |
 | 99 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 |
-| 100 | [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 |
+| 100 | [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 |
 
 Snapshot ID: `Z+pOsAAAAADKt/pI4CZcTGDeXUCIx0ar`

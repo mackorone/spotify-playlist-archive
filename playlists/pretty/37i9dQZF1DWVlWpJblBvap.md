@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Charity Gayle
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,920 likes - 55 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,244 likes - 55 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

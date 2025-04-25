@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Selfi Yamma
+> Dendang Dangdut teratas\. Cover: Andin
 
-236 songs - 18 hr 35 min
+238 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Harusnya Aku Bukan Dia](https://open.spotify.com/track/0rmbQ7zTdLbO4ZeRINhwct) | [Balena](https://open.spotify.com/artist/2cjdvAkEtUktGoQSyc1teU) | [Harusnya Aku Bukan Dia](https://open.spotify.com/album/5bhiAHjrp1DNxyLDnkFD90) | 5:17 | 2024-02-22 |  |
 | [Hati Ini Selalu Milikmu](https://open.spotify.com/track/4MKz4c3w8UaMpBqlDdqRLg) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa) | [Hati Ini Selalu Milikmu](https://open.spotify.com/album/112on20pNWhwlIGoWGe4JM) | 4:24 | 2023-08-24 | 2025-04-18 |
 | [Hatiku Beku](https://open.spotify.com/track/2jiwjWWBlVx6GoOTg6h4BG) | [OM PMR 1977](https://open.spotify.com/artist/0A4aLQgaU88gKKC4DziWIl), [David Koeswoyo](https://open.spotify.com/artist/7x6OmOPjv1WyL831nr7Plx) | [Hatiku Beku](https://open.spotify.com/album/354yU1d7zhycezwTZ8E2FD) | 4:42 | 2023-06-09 | 2025-03-21 |
+| [Heningan Malam Sunyi](https://open.spotify.com/track/6A6WPNSgB8zPa7nop1eek5) | [Cut Rani Auliza](https://open.spotify.com/artist/56MsGGbdOtGbcSoOKc5N7V) | [Heningan Malam Sunyi](https://open.spotify.com/album/1s8ci2zRR7ZG9lGEx22WfA) | 6:20 | 2025-04-24 |  |
 | [Hepi Betul](https://open.spotify.com/track/4uMts13ld3ZJWZBmj5HJrC) | [Dapur 61](https://open.spotify.com/artist/1M9ME2DPBtcOOYlzMaC3O8) | [Hepi Betul](https://open.spotify.com/album/78Ib3br5KAIAtvWK6tYhYj) | 4:05 | 2023-05-25 | 2023-07-14 |
 | [HITAM BUKAN PUTIH](https://open.spotify.com/track/6yyREPfjUN9taQYiFXaooJ) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Hitam Bukan Putih](https://open.spotify.com/album/3CEIR3DRSKg4maA0avJSm4) | 5:33 | 2024-04-25 |  |
 | [IISTIMEWA](https://open.spotify.com/track/6enD0k6TWGgyUzEC4HJR8U) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky), [Tiket](https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM) | [IISTIMEWA](https://open.spotify.com/album/0lSqGC4B0BTMdGbvwxMuUk) | 3:13 | 2023-09-28 | 2023-12-01 |
@@ -164,6 +165,7 @@
 | [Pergi](https://open.spotify.com/track/6QCnymtBJNwdv6pIipGk4T) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Pergi](https://open.spotify.com/album/1VDEAgE1vlNpwTrBbpSG2Y) | 4:06 | 2021-08-23 | 2023-09-22 |
 | [Perjalanan Cinta](https://open.spotify.com/track/7mAj5C8G5OGxbtrEuxTL4i) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp), [Sule](https://open.spotify.com/artist/7dFuuEw7vtremmH04grgC6) | [Perjalanan Cinta](https://open.spotify.com/album/0dRuc3F24fnfzP9AW5d4qp) | 4:08 | 2023-05-25 | 2025-01-31 |
 | [Perlahan](https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Perlahan](https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG) | 5:00 | 2021-08-23 | 2024-09-07 |
+| [Pesta Meriah](https://open.spotify.com/track/05hKQZy4zRFVe6o38fBbq6) | [Andin](https://open.spotify.com/artist/3iwFJew3OUpZGxUHK4mXj1) | [Pesta Meriah](https://open.spotify.com/album/3oJp9DsXiKVpd4gUrSFdLF) | 4:27 | 2025-04-24 |  |
 | [Pintu Berkah](https://open.spotify.com/track/3WyOay9X5Nnd43HHvSCNvy) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p), [Hari Putra](https://open.spotify.com/artist/7rghk7Vdh0DpjZOpp9zSwN) | [Pintu Berkah](https://open.spotify.com/album/49GYCqpTtiXImRZnB3lKRI) | 4:15 | 2023-10-26 |  |
 | [Racun Asmara](https://open.spotify.com/track/4snJpcd1vXnhlrSF3tZA4W) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Racun Asmara](https://open.spotify.com/album/5aH9pPOs9g6K63DZYBpJBf) | 6:11 | 2023-08-03 |  |
 | [Ramadhan Yang Ku Rindu](https://open.spotify.com/track/6Acip5VSeERRwTiNOW503T) | [Ade Reungit](https://open.spotify.com/artist/1U36tPNlDRd7BCyq8ftXkk) | [Ramadhan Yang Ku Rindu](https://open.spotify.com/album/3bWjs7Qp2rpi8ZftbtgwJ9) | 6:05 | 2024-03-22 | 2025-02-21 |

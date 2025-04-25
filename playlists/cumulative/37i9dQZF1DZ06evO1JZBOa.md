@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-148 songs - 11 hr 10 min
+149 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Negropolitaines](https://open.spotify.com/track/5z2Tm9vWQpI0By5AFiunRQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 7:19 | 2022-03-05 | 2022-03-07 |
 | [New Bell](https://open.spotify.com/track/32CdxI1J7RuzQSE4A9AnbV) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 6:48 | 2021-12-28 |  |
 | [Night In Zeralda](https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:36 | 2021-12-28 |  |
-| [Nobody Cares](https://open.spotify.com/track/6FsJMw1nJYwGTw58c6LynS) | [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Moko](https://open.spotify.com/album/4x5VH28M3MDs2bXMIYrYN7) | 4:12 | 2022-12-13 |  |
+| [Nobody Cares](https://open.spotify.com/track/6FsJMw1nJYwGTw58c6LynS) | [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Moko](https://open.spotify.com/album/4x5VH28M3MDs2bXMIYrYN7) | 4:12 | 2022-12-13 | 2025-04-25 |
 | [Nobody Knows 2](https://open.spotify.com/track/3EHNJCNEMOg8PxCUO7gnOT) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Merci ! Thank You !, Vol\. 1](https://open.spotify.com/album/2YcPmYfonftIokdUZu2e0Y) | 5:20 | 2024-09-03 | 2024-09-22 |
 | [Nonto Sangoma](https://open.spotify.com/track/6kT24c1WVCsBxX0Jvy7Ma9) | [Moreira Chonguiça](https://open.spotify.com/artist/39IHtnX5EC2ge39XUftUle), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M & M](https://open.spotify.com/album/1NHrBasHmhaEvemj74DHPm) | 6:26 | 2022-10-28 | 2022-11-08 |
 | [Nostalgie](https://open.spotify.com/track/3Kn1HI0X47ydVVSHgPBoA7) | [Moni Bile](https://open.spotify.com/artist/2uMATivHXNKTu89qctJZdg), [Ben Decca](https://open.spotify.com/artist/0167ut3NFs3TI8EGscI3aZ), [Franck Chaleur](https://open.spotify.com/artist/3IVxFMLPR7oePD3DHpYvbp), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Sergeo Polo](https://open.spotify.com/artist/3d14xPEq0eQJDwxUKuZw0I), [Guy Lobé](https://open.spotify.com/artist/1mKorwTSYxVNbzBHCyX9Bf) | [Le testament du makossa, Vol\. 8](https://open.spotify.com/album/0XUeMGRZi1SsVxmakzESw7) | 15:52 | 2022-10-18 | 2024-11-01 |
@@ -147,6 +147,7 @@
 | [Tu sais \- Hymne officiel de la Francophonie](https://open.spotify.com/track/2DL1IgEEJxRT88OScgQv0G) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD), [Inna MODJA](https://open.spotify.com/artist/2Wcolafj7tcFeVOIr0V4Ju), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Tu sais \(Hymne officiel de la Francophonie\)](https://open.spotify.com/album/6GB9E89wUtFSU9HzpJacyi) | 3:00 | 2023-01-03 | 2023-03-15 |
 | [Waka Juju](https://open.spotify.com/track/4SSbRPQrMUQZiTPyBikl1w) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:49 | 2022-01-15 | 2022-04-08 |
 | [Waka Juju Part 1](https://open.spotify.com/track/5YaPcafCexFx4CLmosjhZn) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Dibango 82 – In Marseille Dec 82](https://open.spotify.com/album/3sFpm1dzLfedjW4oOkqyXG) | 3:54 | 2025-04-24 |  |
+| [Waka Juju Part 2](https://open.spotify.com/track/54DBhZHidY3FVayTqKN46q) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Dibango 82 – In Marseille Dec 82](https://open.spotify.com/album/3sFpm1dzLfedjW4oOkqyXG) | 4:23 | 2025-04-25 |  |
 | [Wakafrika](https://open.spotify.com/track/6Dr4Tat4uPaYBRIJ71WgQe) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:47 | 2021-12-28 |  |
 | [Walking to Waza](https://open.spotify.com/track/3VpzSUaFT1vywhVgJNsqxU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 4:02 | 2022-08-23 |  |
 | [What a wonderful world](https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 | 2021-12-28 | 2024-12-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Luis Mexia, El Rabbanito en portada.",
-  "num_followers": 206824,
+  "num_followers": 206939,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Mis Metas",
-        "url": "https://open.spotify.com/album/3CrhHPWRoAwnHZ0h1oMK5s"
-      },
-      "artists": [
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
-        }
-      ],
-      "duration_ms": 151981,
-      "name": "Mis Metas",
-      "url": "https://open.spotify.com/track/0xn4FZY8rcdLKoZ7YDkQYS"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "Rugrats",
         "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 235875,
       "name": "Rugrats",
       "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "Mis Metas",
+        "url": "https://open.spotify.com/album/3CrhHPWRoAwnHZ0h1oMK5s"
+      },
+      "artists": [
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "duration_ms": 151981,
+      "name": "Mis Metas",
+      "url": "https://open.spotify.com/track/0xn4FZY8rcdLKoZ7YDkQYS"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "La G\u00fcera y La Morena",
-        "url": "https://open.spotify.com/album/3iUNVJ2MkizmsYYeTBxSTx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 202405,
-      "name": "La G\u00fcera y La Morena",
-      "url": "https://open.spotify.com/track/28c2DNs7tghpQuVZLbaRyb"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "La G\u00fcera y La Morena",
+        "url": "https://open.spotify.com/album/3iUNVJ2MkizmsYYeTBxSTx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 202405,
+      "name": "La G\u00fcera y La Morena",
+      "url": "https://open.spotify.com/track/28c2DNs7tghpQuVZLbaRyb"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "DEFIENDO EL TERRE",
         "url": "https://open.spotify.com/album/3dSuYPcIUIgUdUZsKZiDMh"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 150000,
       "name": "DEFIENDO EL TERRE",
       "url": "https://open.spotify.com/track/150x3uhN0IOSohoxaj3auy"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
-      },
-      "artists": [
-        {
-          "name": "La Cuatiza",
-          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
-        }
-      ],
-      "duration_ms": 133250,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "De LM a GVE",
         "url": "https://open.spotify.com/album/4mt1JOASnU158hhph30M0l"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 151946,
       "name": "De LM a GVE",
       "url": "https://open.spotify.com/track/2qHfvwACkkNTFFPOyLPoma"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
+      },
+      "artists": [
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "duration_ms": 133250,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "El Mago Merl\u00edn",
+        "url": "https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 161733,
+      "name": "El Mago Merl\u00edn",
+      "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "Vice City",
         "url": "https://open.spotify.com/album/23LPkEHsmyraqgagmBLvfK"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 183973,
       "name": "Vice City",
       "url": "https://open.spotify.com/track/5vCvXUhlrqjNdDSXZpl1vi"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "El Mago Merl\u00edn",
-        "url": "https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 161733,
-      "name": "El Mago Merl\u00edn",
-      "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "El 602",
         "url": "https://open.spotify.com/album/2bsJcfaIJcA7DemqKPQttl"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 161703,
       "name": "Yo Soy Serafin",
       "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
     },
     {
       "added_at": "2025-03-28 18:15:05",

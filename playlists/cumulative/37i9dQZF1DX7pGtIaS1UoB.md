@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-398 songs - 23 hr 26 min
+399 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Thoughts Of You \(Feat\. pH\-1 & BENZO\)](https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [李大奔BENZO](https://open.spotify.com/artist/5sF2WUeEL2qiV03Vym3727) | [Thoughts Of You](https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx) | 3:44 | 2022-07-25 |  |
 | [Till We Fall in Love](https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [Till We Fall in Love](https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt) | 4:00 | 2022-06-06 |  |
 | [U \(三立華劇「我的青春沒在怕」片頭曲\)](https://open.spotify.com/track/5P3r3I4MdjYPYhhP7roD7n) | [劉以豪](https://open.spotify.com/artist/5S4LgCDo6Im3fADQDXyWyP) | [U \(三立華劇「我的青春沒在怕」片頭曲\)](https://open.spotify.com/album/4wnswsR5wYk2QjxGE7WrvE) | 3:08 | 2022-06-06 | 2022-07-28 |
-| [Valentine](https://open.spotify.com/track/3fiKQLSo3R0mCqxWuGOD15) | [GIN 莫竣琋](https://open.spotify.com/artist/2jKSQaGye85579shswHzcC), [Joel Quintis](https://open.spotify.com/artist/3q11dOe2pSvKVQlr4XTMmH) | [Valentine](https://open.spotify.com/album/3LhShtVTz3Asj74JnzIqsE) | 2:25 | 2025-02-13 |  |
+| [Valentine](https://open.spotify.com/track/3fiKQLSo3R0mCqxWuGOD15) | [GIN 莫竣琋](https://open.spotify.com/artist/2jKSQaGye85579shswHzcC), [Joel Quintis](https://open.spotify.com/artist/3q11dOe2pSvKVQlr4XTMmH) | [Valentine](https://open.spotify.com/album/3LhShtVTz3Asj74JnzIqsE) | 2:25 | 2025-02-13 | 2025-04-25 |
 | [Valentine's Day](https://open.spotify.com/track/0ZSHpad1O6qybnxaEj0lyL) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [第9次初戀](https://open.spotify.com/album/77pNXNu9FeYHfBIJOSSFhZ) | 4:03 | 2022-07-25 | 2022-07-27 |
 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/0X0yv9i8T1YdeGbOI0PnwN) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [Will You Be My Love \~ 問問 \(WBL系列影集第一季<永遠的第一名>片頭曲\)](https://open.spotify.com/album/6zFcUqZETFY38EQOhZgeHL) | 3:23 | 2022-06-06 | 2022-07-27 |
 | [With U \(《男生男生配 Boys Like Boys》節目主題曲\)](https://open.spotify.com/track/4PMTllvedph40YFXskSmqV) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [With U](https://open.spotify.com/album/3kNZ0vA64unelkAEcpSiPs) | 2:36 | 2023-10-30 | 2023-11-28 |
@@ -134,6 +134,7 @@
 | [全糖生活](https://open.spotify.com/track/2MarMkhBQ2OGMHViXAoKrx) | [王宇彤](https://open.spotify.com/artist/2k3lWdz2zL38YgXlxY3GJO) | [全糖生活](https://open.spotify.com/album/0TEobWuNXXSeQv96V5mcvT) | 2:57 | 2024-01-15 | 2024-01-29 |
 | [兩人世界](https://open.spotify.com/track/57OQCjeVopFXR8hQhCu6lM) | [Huang Yali](https://open.spotify.com/artist/5nLnIboxUroy6N5HBGRTMe) | [黄雅莉的奇幻秀](https://open.spotify.com/album/0xqBcDVlh3ZLrjgmwDTh8U) | 3:41 | 2022-06-27 | 2022-07-05 |
 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 | 2022-06-06 |  |
+| [再一次](https://open.spotify.com/track/2nlf9fB6ENWqw6XGhi0E07) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [再一次](https://open.spotify.com/album/54AwsQS9rsCyaHIlf6qWuD) | 2:57 | 2025-04-24 |  |
 | [再唱一遍\(不來梅樂隊\)](https://open.spotify.com/track/3iIIi2k5EanEnhsrc7VYu1) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [再唱一遍\(不來梅樂隊\)](https://open.spotify.com/album/6XejP1e6swahNwyPT4Og4k) | 3:52 | 2022-06-06 | 2022-07-29 |
 | [分你一半](https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh) | [叶恨水](https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD) | [分你一半](https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj) | 3:19 | 2022-06-06 | 2024-06-21 |
 | [初恋的朦胧诗](https://open.spotify.com/track/4UazSuVGvyHnpgKD5VQAxW) | [房东的猫](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [初恋的朦胧诗](https://open.spotify.com/album/3DqiMmXJZ3Ctfu0P6rQmrT) | 3:11 | 2023-01-09 | 2023-01-17 |

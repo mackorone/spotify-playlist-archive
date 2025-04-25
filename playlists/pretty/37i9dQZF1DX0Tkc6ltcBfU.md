@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south: Quavo and Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,746 likes - 99 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,794 likes - 99 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Don3ydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,747 likes - 69 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,749 likes - 69 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 62 | [Hush That Fuss](https://open.spotify.com/track/7nsxgcx2mSkavqB5bAQ93j) | [Dukeyman](https://open.spotify.com/artist/3OeK0k6vkbUDkk0GSjYjcO) | [Baltimore Club Classics \(Dukeyman Greatest Hits\)](https://open.spotify.com/album/7C70nZLgZIPjXrqg5LLJgx) | 4:55 |
 | 63 | [Be Ya Girl](https://open.spotify.com/track/2SYtKPPZGyObiLe2XrqEfY) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu) | [The Sound Of Love International \#002 \- Beautiful Swimmers](https://open.spotify.com/album/2cxbgAp9U7ZubuZ2ygijXk) | 4:11 |
 | 64 | [Yupp Challenge \(feat\. DJ Flex\)](https://open.spotify.com/track/6ZeydF5POoBbhxY2XNk3BQ) | [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk), [DJ Flex](https://open.spotify.com/artist/54L87Ji6ugFjw9oCleDoeL) | [The Bounce \- EP](https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9) | 1:21 |
-| 65 | [Dance My Pain Away](https://open.spotify.com/track/2sZrEIyHRqzEB4sBw8X9Jh) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 2:07 |
+| 65 | [Dance My Pain Away](https://open.spotify.com/track/2sZrEIyHRqzEB4sBw8X9Jh) | [Rod Lee](https://open.spotify.com/artist/4aOWkQEvWtJHiXuvjYgxJE) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 2:07 |
 | 66 | [P's and Q's \- Baltimore Club Remix](https://open.spotify.com/track/6XFkvBlkjTUCuEJ8PM8hcC) | [DJ Yae](https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ) | [The Cloud, Vol\. 2 \(Baltimore Club Remixes\)](https://open.spotify.com/album/1AjBIRPKNHyB1fLrxM4IT2) | 1:37 |
 | 67 | [Like This \- Original Mix](https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk) | [ClubHeadSLiiM](https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk) | [New Jersey Club vol.2](https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW) | 2:56 |
 | 68 | [Baltimore City](https://open.spotify.com/track/2GXNQhq760y65pC0OGAAFq) | [DJ Class](https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 4: The Pressure](https://open.spotify.com/album/2WsSlehfEGLliibE7nRCJF) | 3:06 |

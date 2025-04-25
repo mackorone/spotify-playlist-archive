@@ -4,7 +4,7 @@
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-95 songs - 7 hr 5 min
+97 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,14 +60,16 @@
 | [Mary On A Cross \- Live at the Forum / 2023](https://open.spotify.com/track/130a5toWPujkHGuMFYr0IX) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 4:58 | 2024-07-27 | 2024-08-24 |
 | [Miasma](https://open.spotify.com/track/2YQtAJisZ4oXd3qVK6CyEA) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 5:17 | 2024-05-17 | 2024-07-21 |
 | [Miasma](https://open.spotify.com/track/7Le5UXQgzpsbK8oaEYGG6T) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 5:17 | 2024-05-10 | 2024-06-22 |
-| [Miasma \- Live at the Forum / 2023](https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 6:18 | 2024-08-02 |  |
+| [Miasma \- Live at the Forum / 2023](https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 6:18 | 2024-08-02 | 2025-04-25 |
 | [Missionary Man](https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:42 | 2022-05-30 | 2025-04-20 |
 | [Missionary Man](https://open.spotify.com/track/29NX2dMLjvmtD8HQek1AFQ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 3:42 | 2023-06-14 |  |
 | [Monstrance Clock](https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 5:53 | 2022-05-30 |  |
 | [Mummy Dust](https://open.spotify.com/track/0zL2CizOnEyMoT90JIZ8FF) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 4:07 | 2022-05-31 | 2022-06-08 |
-| [Mummy Dust](https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:07 | 2022-09-19 |  |
+| [Mummy Dust](https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:07 | 2022-09-19 | 2025-04-25 |
+| [Mummy Dust](https://open.spotify.com/track/4tcin0H3ANvVUc6YjfcviJ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:07 | 2025-04-25 |  |
 | [Nocturnal Me](https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 5:13 | 2022-05-30 | 2025-04-21 |
 | [Nocturnal Me](https://open.spotify.com/track/618X9Viet4Bli058EL23WF) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 5:13 | 2023-06-24 |  |
+| [Peacefield \- Single Version](https://open.spotify.com/track/6SpkveTreVFsmzoTlwJnHg) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5ccZHgmVJ244iMulDie7BB) | 4:46 | 2025-04-25 |  |
 | [Per Aspera Ad Inferi](https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 4:09 | 2023-06-12 |  |
 | [Per Aspera Ad Inferi](https://open.spotify.com/track/7yD3gWx3XTQ7UZivdvabv7) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Deluxe Version\)](https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr) | 4:09 | 2022-07-02 | 2023-06-13 |
 | [Phantom Of The Opera](https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantom Of The Opera](https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb) | 7:23 | 2023-05-17 |  |

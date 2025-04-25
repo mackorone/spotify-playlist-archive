@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: Yoga Lin
+> Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track ! Cover: 韋禮安& 東海
 
-180 songs - 12 hr 2 min
+183 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2022-03-10 | 2023-02-03 |
 | [如果每天都可以 happy happy 誰想要sad:\)\)](https://open.spotify.com/track/5u6xwrIwh9cPW9VXCODU7v) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 4:28 | 2025-04-03 |  |
 | [妳的名字我的姓氏](https://open.spotify.com/track/2mmmlbh573ldSbEIHM16gf) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [晴歌集](https://open.spotify.com/album/2NkOW9aVr1Ov261a9upeH1) | 3:45 | 2023-02-02 | 2025-04-04 |
+| [完美的大人呐](https://open.spotify.com/track/2ABTH5CySaSPE8VRVQ9VCM) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [完美的大人呐](https://open.spotify.com/album/1ZOcpGeEqHRbgA1qQ2fIr9) | 3:02 | 2025-04-24 |  |
 | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/track/0Q3KCpiyisGcVyEh4I5LBT) | [黃劍文](https://open.spotify.com/artist/7ttdhAuwRlmHaRDUU4WRk2) | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/album/2GQFBMygsXGKDE6ZVyhLNb) | 4:07 | 2022-03-10 | 2023-02-03 |
 | [小黑與我](https://open.spotify.com/track/2vD2zwXVdGrF7ZaSK7XcF3) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Infinity Journey](https://open.spotify.com/album/43A14wOfi59SPQGbIoRCia) | 3:53 | 2023-02-02 | 2025-04-04 |
 | [彩虹桥](https://open.spotify.com/track/5g9oMoqEjZ6r55WPEenymW) | [MAD](https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze) | [彩虹桥](https://open.spotify.com/album/7wLSWh0Hcjuk17ULOnPbb9) | 4:08 | 2025-04-03 |  |
@@ -117,6 +118,7 @@
 | [把你給的愛全部還給你](https://open.spotify.com/track/3iXJ94UA0usAvkMF8Em4v1) | [王泰翔2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [把你給的愛全部還給你](https://open.spotify.com/album/3MR2paemv2NSAqggLR0mJm) | 4:20 | 2025-04-17 |  |
 | [損友 \(音樂永續作品\)](https://open.spotify.com/track/58NLb3BrpY5ulbRRaFH8bU) | [SoulJase](https://open.spotify.com/artist/0DxUeiPWLakywVP1UocKim) | [損友 \(音樂永續作品\)](https://open.spotify.com/album/23Bihif9rjkXe3oSL7qmTU) | 4:24 | 2023-02-02 | 2025-04-04 |
 | [改造人 \- Live Version](https://open.spotify.com/track/6cdnqfrCjMg2z8IKan7h4S) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [幸福 \(華星40系列\)](https://open.spotify.com/album/1i1ISMhespmATpxL9x7yOR) | 4:26 | 2024-04-04 | 2025-04-04 |
+| [新郎](https://open.spotify.com/track/1AwHhS0vQrc2vzSpW7m7GH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [新郎](https://open.spotify.com/album/20F3ek2ax9tCi0XeUarWiF) | 3:42 | 2025-04-24 |  |
 | [旋轉咖啡杯](https://open.spotify.com/track/4fqQlOGeCpyNhyaPDJU2A3) | [Yohee又熙](https://open.spotify.com/artist/3vF1H9QKCNIXvIDnRDiCke) | [旋轉咖啡杯](https://open.spotify.com/album/5ItjMVolyfUjV4jnKX783j) | 2:52 | 2025-04-03 |  |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-03-10 | 2023-02-03 |
 | [春光乍洩](https://open.spotify.com/track/2i5W0vHE6fdx9Sp569wjE8) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Cross Over](https://open.spotify.com/album/5epxfLiiZq2Q3ou0PL4Xuu) | 3:48 | 2024-04-04 | 2025-04-04 |
@@ -124,6 +126,7 @@
 | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE), [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU) | 5:27 | 2022-03-10 | 2023-02-03 |
 | [暗湧](https://open.spotify.com/track/23pf1KLKsOqwFufDrliFmQ) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [歷久嚐新REBORN \(環球精選\)](https://open.spotify.com/album/2OIg1BweYzUeevdKt6VTX3) | 3:51 | 2024-04-04 | 2025-04-04 |
 | [暗湧 \- 電影"愈快樂愈墮落"歌曲](https://open.spotify.com/track/51qJSDTQiyP2BNsAKRcRo2) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [廿一世紀精選](https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S) | 3:49 | 2023-02-02 | 2024-04-19 |
+| [最好的朋友](https://open.spotify.com/track/3uD9D4Gw9hxhvVQWBx3Ehd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX), [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY) | [最好的朋友](https://open.spotify.com/album/0gUEh0gO3nDqiWwWHh7bMS) | 3:52 | 2025-04-24 |  |
 | [最後的信仰 \- Snug In My Arms Live](https://open.spotify.com/track/3XGVrj8xSClxddeiKbbA3C) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [Snug In My Arms Live](https://open.spotify.com/album/0lefvBKopUG6Ip0jvqeVCx) | 4:48 | 2024-04-04 | 2025-04-04 |
 | [最後的歌](https://open.spotify.com/track/2cSNM2l9koIzxoKoOkPE9m) | [陳輝陽 x 女聲合唱](https://open.spotify.com/artist/6t1LRAgmnIc4a1hnjhSDHU) | [最後的歌](https://open.spotify.com/album/6obk6R6XuJmp0VFjCGaypj) | 3:30 | 2024-04-04 | 2025-04-04 |
 | [月亮代表我的心 \(《華燈初上》主題曲\)](https://open.spotify.com/track/0Q02NWqQL5m4m8jkp3zsSy) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [月亮代表我的心](https://open.spotify.com/album/5EpcaGPuWiDZ2zmqOy5JaJ) | 3:47 | 2022-03-10 | 2023-02-03 |

@@ -15025,6 +15025,24 @@
     },
     {
       "album": {
+        "name": "Hope For Tomorrow",
+        "url": "https://open.spotify.com/album/1jduHtLtIWYAWTN7CeBLvV"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60245,
+      "name": "Hope For Tomorrow",
+      "url": "https://open.spotify.com/track/1y5IUw5iNCfcEHvGnZ2buR"
+    },
+    {
+      "album": {
         "name": "Hope In Winter",
         "url": "https://open.spotify.com/album/4xXdaM9DEG3zA28BacIMeR"
       },
@@ -32932,6 +32950,24 @@
       "duration_ms": 100794,
       "name": "Violet Lights",
       "url": "https://open.spotify.com/track/3goWOHs5aahFhIbHxeBwdw"
+    },
+    {
+      "album": {
+        "name": "Violet Skies",
+        "url": "https://open.spotify.com/album/7t86lhA0DDEkEncB8QJWeM"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60368,
+      "name": "Violet Skies",
+      "url": "https://open.spotify.com/track/4DRSaonKXh7WYH1ZM8eELZ"
     },
     {
       "album": {

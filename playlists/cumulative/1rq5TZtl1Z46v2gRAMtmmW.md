@@ -4,7 +4,7 @@
 
 > 
 
-394 songs - 1 day 2 hr 18 min
+395 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 | 2025-01-14 |  |
 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2022-06-29 | 2022-10-14 |
 | [All We Need \- ODESZA VIP Remix](https://open.spotify.com/track/0gGSxG7r332R7Vgvk24GHY) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [The Last Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/1ZSBGvgxsWbX1i5gdz4gUM) | 3:30 | 2023-04-26 | 2023-07-12 |
+| [Alma's Cove](https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Alma’s Cove](https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre) | 3:54 | 2025-04-24 |  |
 | [Always Been](https://open.spotify.com/track/0oMABvqsnoeQkHMWMCu8jy) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 4:25 | 2022-06-21 | 2022-06-25 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-06-24 | 2022-11-18 |
 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 | 2023-12-11 | 2024-05-17 |

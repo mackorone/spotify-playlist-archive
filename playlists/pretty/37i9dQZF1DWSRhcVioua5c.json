@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 82707,
+  "num_followers": 82723,
   "original_name": "Folclore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,18 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Hablan de Ti",
-        "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
+        "name": "T\u00fa S\u00ed Sabes Quererme",
+        "url": "https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW"
       },
       "artists": [
         {
-          "name": "Copla alta",
-          "url": "https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ"
-        },
-        {
-          "name": "Chacho Ramos",
-          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
         }
       ],
-      "duration_ms": 242684,
-      "name": "Hablan de Ti",
-      "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
+      "duration_ms": 189866,
+      "name": "T\u00fa S\u00ed Sabes Quererme",
+      "url": "https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -407,18 +403,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "T\u00fa S\u00ed Sabes Quererme",
-        "url": "https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW"
+        "name": "Hablan de Ti",
+        "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
       },
       "artists": [
         {
-          "name": "Destino San Javier",
-          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+          "name": "Copla alta",
+          "url": "https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ"
+        },
+        {
+          "name": "Chacho Ramos",
+          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
         }
       ],
-      "duration_ms": 189866,
-      "name": "T\u00fa S\u00ed Sabes Quererme",
-      "url": "https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95"
+      "duration_ms": 242684,
+      "name": "Hablan de Ti",
+      "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        }
-      ],
-      "duration_ms": 236854,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
@@ -755,18 +739,34 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "No Te Rindas",
-        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
       },
       "artists": [
         {
-          "name": "Destino San Javier",
-          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
         }
       ],
-      "duration_ms": 219050,
-      "name": "No Te Rindas",
-      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
+      "duration_ms": 236854,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+      },
+      "artists": [
+        {
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+        "name": "No Te Rindas",
+        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
       },
       "artists": [
         {
-          "name": "Francisco Benitez",
-          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
         }
       ],
-      "duration_ms": 190113,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+      "duration_ms": 219050,
+      "name": "No Te Rindas",
+      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
-      },
-      "artists": [
-        {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Zambita pa' Enamorar",
-      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "El Sue\u00f1o de Mi Guitarra",
         "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
       },
@@ -887,22 +871,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 213859,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 224759,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+      },
+      "artists": [
+        {
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Zambita pa' Enamorar",
+      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 213859,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Que Tiene de Malo Eso",
-        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
+        "name": "Adi\u00f3s Amor M\u00edo",
+        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
       },
       "artists": [
         {
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Que Tiene de Malo Eso",
-      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
+      "duration_ms": 149680,
+      "name": "Adi\u00f3s Amor M\u00edo",
+      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Adi\u00f3s Amor M\u00edo",
-        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
+        "name": "Que Tiene de Malo Eso",
+        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
       },
       "artists": [
         {
@@ -1284,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 149680,
-      "name": "Adi\u00f3s Amor M\u00edo",
-      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
+      "duration_ms": 166266,
+      "name": "Que Tiene de Malo Eso",
+      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
     },
     {
       "added_at": "2024-11-14 16:50:34",

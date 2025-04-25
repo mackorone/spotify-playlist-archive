@@ -1127,6 +1127,28 @@
     },
     {
       "album": {
+        "name": "La Tribu Royale",
+        "url": "https://open.spotify.com/album/3Xc8NHu8CFixhcdpX5Ck8y"
+      },
+      "artists": [
+        {
+          "name": "La Tribu Royale",
+          "url": "https://open.spotify.com/artist/1bcfJhvSlyCZpBtsmXyNoV"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205451,
+      "name": "Caminante",
+      "url": "https://open.spotify.com/track/2WIYYgfanuLj3Pped97mGf"
+    },
+    {
+      "album": {
         "name": "Caney",
         "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
       },
@@ -3584,7 +3606,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 246271,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/6SF64uRu4URufMHawFN22x"
@@ -3756,7 +3778,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 249542,
       "name": "La Tierra del Desencanto",
       "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
@@ -6396,7 +6418,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 259217,
       "name": "Saber a D\u00f3nde ir",
       "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"

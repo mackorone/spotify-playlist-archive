@@ -764,7 +764,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 274795,
       "name": "Elenore",
       "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 106315,
       "name": "Feeling Lost Tonight",
       "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 130500,
       "name": "I Can See",
       "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 141954,
       "name": "Iawah",
       "url": "https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS"
@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 124528,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/3COQYxU8yIBa3oBOnM6EN0"
@@ -3788,6 +3788,24 @@
     {
       "album": {
         "name": "Mad World",
+        "url": "https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT"
+      },
+      "artists": [
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204297,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ"
+    },
+    {
+      "album": {
+        "name": "Mad World",
         "url": "https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV"
       },
       "artists": [
@@ -3942,6 +3960,24 @@
       "duration_ms": 242093,
       "name": "Memories",
       "url": "https://open.spotify.com/track/70eaUWGPQ3RrZdcHxWb7Ja"
+    },
+    {
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2tIl7vsgtOgdrGoN9jemW6"
+      },
+      "artists": [
+        {
+          "name": "REWIND BE KIND",
+          "url": "https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262874,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/5bxTXHVddTlCcvPy1YdlNM"
     },
     {
       "album": {
@@ -4926,7 +4962,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 207457,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ"
@@ -5816,7 +5852,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 164125,
       "name": "That Kinda Love",
       "url": "https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx"
@@ -6006,7 +6042,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 129573,
       "name": "Thousand Lullabies",
       "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
@@ -6250,7 +6286,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 193548,
       "name": "Waiting All My Life",
       "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"

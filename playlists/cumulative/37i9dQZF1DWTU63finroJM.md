@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Lotusx.
 
-1,973 songs - 4 day 10 hr 46 min
+1,974 songs - 4 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,7 @@
 | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/track/13KjMbVC5JLTaEG2NI6ytg) | [LAUREN](https://open.spotify.com/artist/5zK6Y7XOLDFFg0sdThkVxr), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/album/3gDG8Nco79Nm6mvXJTA2g0) | 1:55 | 2022-03-24 | 2022-08-02 |
 | [Fui El Borrego](https://open.spotify.com/track/4K9ZTPMrvpQ2mnLMu6UKnR) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fui El Borrego](https://open.spotify.com/album/0Gba5NI1R8k8LUiflUEgbg) | 3:20 | 2023-09-15 | 2023-10-14 |
 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 | 2024-05-03 | 2024-06-01 |
-| [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-04-04 |  |
+| [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-04-04 | 2025-04-25 |
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-23 | 2025-04-05 |
 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 | 2024-01-19 | 2024-04-19 |
 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 | 2022-03-31 | 2022-08-27 |
@@ -590,6 +590,7 @@
 | [Gaffe aux autres](https://open.spotify.com/track/33mN4sWswIF5wlRs061KXX) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Carrousel](https://open.spotify.com/album/48ipTBEr85O48Ig0CAQc5x) | 2:57 | 2023-04-17 | 2023-07-12 |
 | [Ganas](https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Ganas](https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD) | 3:01 | 2022-03-24 | 2022-04-16 |
 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2023-01-06 | 2023-09-09 |
+| [Gantung](https://open.spotify.com/track/2R1Eks7GwZb8F8JIfyZEBo) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Gantung](https://open.spotify.com/album/45xtIbXUuprdcTEUqvRpCB) | 3:37 | 2025-04-18 |  |
 | [garden.](https://open.spotify.com/track/2aDshEBdWAyUo4H8z9AHbO) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [garden.](https://open.spotify.com/album/1l1s0fAZcrYEkJ6thwDFZk) | 3:35 | 2022-06-07 | 2022-06-12 |
 | [GARE DU NORD](https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [L'AFRO OU LES TRESSES](https://open.spotify.com/album/5GaFutbilpzWUYP0kkoVPP) | 3:11 | 2024-02-09 | 2024-06-08 |
 | [GARÇON](https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [GARÇON](https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG) | 2:24 | 2023-04-17 | 2023-12-16 |

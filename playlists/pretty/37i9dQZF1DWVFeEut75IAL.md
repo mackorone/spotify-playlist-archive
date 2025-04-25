@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,973 likes - 121 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,463 likes - 121 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 4 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 |
 | 5 | [Kinderszenen, Op\. 15: VII\. Träumerei](https://open.spotify.com/track/4SbAXtlOJ0eCL0XwFVi0Ij) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Schumann: Kinderszenen; Kreisleriana](https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX) | 2:55 |
 | 6 | [The Well\-Tempered Clavier, Book 1: Prelude No\. 1 in C Major, BWV 846/1](https://open.spotify.com/track/2w2FzZKSwudBZjOsCei9Qz) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Bach, J.S.: The well\-tempered Clavier](https://open.spotify.com/album/3sHGzXs7ZKRRFmJxBp4YTv) | 1:52 |
-| 7 | [Cavalleria rusticana: Intermezzo](https://open.spotify.com/track/6wKkWFhgOPKgiE360T6NNs) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Domingo Hindoyan](https://open.spotify.com/artist/2feNtcJ1uaxCQFDqv4zajg), [Royal Liverpool Philharmopnic Orchestra](https://open.spotify.com/artist/6cE6l2zY3xSJFbGQmMZDXc) | [Cavalleria rusticana: Intermezzo](https://open.spotify.com/album/4QzroossnF0SqsfH2jIQFp) | 4:03 |
+| 7 | [Cavalleria rusticana: Intermezzo](https://open.spotify.com/track/6wKkWFhgOPKgiE360T6NNs) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Domingo Hindoyan](https://open.spotify.com/artist/2feNtcJ1uaxCQFDqv4zajg) | [Cavalleria rusticana: Intermezzo](https://open.spotify.com/album/4QzroossnF0SqsfH2jIQFp) | 4:03 |
 | 8 | [Notturno for Strings and Harp](https://open.spotify.com/track/7nGA1sRfLDWXYb3VPstnZf) | [Arnold Schoenberg](https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM), [Jane Berthe](https://open.spotify.com/artist/54IIxBw0yvR4zHHxE8GG5d) | [Schoenberg: Notturno for Strings and Harp](https://open.spotify.com/album/4rCx7dnAgXhes9ckGrMXA4) | 3:12 |
 | 9 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 |
 | 10 | [Filma Solo](https://open.spotify.com/track/4SsDrt7HV1ECcJ2A7EHfLL) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/0HYTxeKs2ySnsuAkwnwDrd) | 3:15 |

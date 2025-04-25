@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3350,
+  "num_followers": 3351,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADjTWqKo3gzdE2oMcET8pXv",
+  "snapshot_id": "aAgtgAAAAAAJDX8pR1YgklvBIM+0HzAi",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 258613,
-      "name": "ASAP (As Soon as Possible)",
-      "url": "https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl"
+      "duration_ms": 261866,
+      "name": "Get as Much Love as You Can",
+      "url": "https://open.spotify.com/track/528wN82D9KEA7xY59Go0Ls"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 261866,
-      "name": "Get as Much Love as You Can",
-      "url": "https://open.spotify.com/track/528wN82D9KEA7xY59Go0Ls"
+      "duration_ms": 258613,
+      "name": "ASAP (As Soon as Possible)",
+      "url": "https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 276973,
-      "name": "Ah, Ah, Ah, Ah",
-      "url": "https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK"
+      "duration_ms": 252640,
+      "name": "Better Things to Do",
+      "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Better Things to Do",
-      "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
+      "duration_ms": 276973,
+      "name": "Ah, Ah, Ah, Ah",
+      "url": "https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 254533,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
+      "duration_ms": 300413,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 300413,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
+      "duration_ms": 254533,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good to the Last Drop",
         "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 190293,
       "name": "My Own Special Way",
       "url": "https://open.spotify.com/track/1Sk0lvi9prK86bgkzGA4q4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
     },
     {
       "added_at": null,

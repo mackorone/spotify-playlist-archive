@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,773 songs - 8 day 16 hr 56 min
+3,775 songs - 8 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [Casa Coche Curro](https://open.spotify.com/track/6qWD3plTtJXkgrohyJqn52) | [Liz Forte](https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1), [mauvetrip](https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR) | [Casa Coche Curro](https://open.spotify.com/album/1AUTczIJEbo0oVCv2QRxNT) | 1:24 | 2025-01-17 | 2025-01-25 |
 | [Casa Sola](https://open.spotify.com/track/3uDAf3WgxmYlu1CcuUAfdP) | [Don Patricio](https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9) | [Casa Sola](https://open.spotify.com/album/4NRQLhJRvu2POCB7zkF9iH) | 2:56 | 2025-03-14 | 2025-03-22 |
 | [casandra](https://open.spotify.com/track/5xxlq2rPFNbO3uTi8bRNUe) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [casandra](https://open.spotify.com/album/2Isyha8kYfpcmi5VZijLyY) | 2:20 | 2024-10-25 | 2024-11-09 |
+| [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 | 2025-04-24 |  |
 | [Cash Feeling](https://open.spotify.com/track/7BB2ZdVdrzkbmVeUdzJbh3) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [Cash Feeling](https://open.spotify.com/album/0TSvH5GMGMbLN2YvudPmGr) | 2:58 | 2025-02-20 | 2025-02-28 |
 | [Casi te vas](https://open.spotify.com/track/4p5pRd94l4su1XJNeZJh48) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Nómada](https://open.spotify.com/album/04hjxl5SIolGB9IvApy2Cs) | 2:54 | 2024-05-24 | 2024-06-12 |
 | [Casi todo bien](https://open.spotify.com/track/5qF1PM60n4SkVYlTV5vwPn) | [GREX](https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt) | [Casi todo bien](https://open.spotify.com/album/6Ut7zN5nke4Wf4nXvLf6sK) | 2:28 | 2025-03-07 | 2025-03-15 |
@@ -2560,7 +2561,7 @@
 | [Pink Lies](https://open.spotify.com/track/2gy4tmF1TOlyoMUuoYut5G) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Pink Lies](https://open.spotify.com/album/45S8Y7ECm3gWpMxLWpyYX4) | 2:53 | 2024-11-29 | 2024-12-07 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-06-12 |
 | [Pipi](https://open.spotify.com/track/5R5OfqtFcZhCBlJr0WjITd) | [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Pipi](https://open.spotify.com/album/26g7iXjXkVu9aC0wu3yP0y) | 1:42 | 2024-07-12 | 2024-07-19 |
-| [Pirata Espacial](https://open.spotify.com/track/59v361amQYsBBPRS21twr1) | [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Pirata Espacial](https://open.spotify.com/album/09svCcPNf18twfMQPhlfhe) | 2:35 | 2025-04-11 |  |
+| [Pirata Espacial](https://open.spotify.com/track/59v361amQYsBBPRS21twr1) | [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Pirata Espacial](https://open.spotify.com/album/09svCcPNf18twfMQPhlfhe) | 2:35 | 2025-04-11 |  |
 | [PIRLO](https://open.spotify.com/track/5VdTnUIVqW4pLeJNBCKgTp) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [PIRLO](https://open.spotify.com/album/18Y3uexTmHsnHQLp3I0pVX) | 2:44 | 2024-09-27 | 2024-10-05 |
 | [Pirouette](https://open.spotify.com/track/7uj5bFfCFpP3bXNcHPtcJQ) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Pirouette](https://open.spotify.com/album/0ZSz3vLHAgBenyEI3SZEdD) | 4:06 | 2025-03-28 | 2025-04-05 |
 | [PIRULÍ](https://open.spotify.com/track/3FggkagNxxLXP9UABaN7XF) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [PIRULÍ](https://open.spotify.com/album/4VwnBqeoLhPRn2kQAWC8Gw) | 2:59 | 2024-05-17 | 2024-05-25 |
@@ -3628,6 +3629,7 @@
 | [What The Hell Do We Do Now?](https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [What The Hell Do We Do Now?](https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0) | 3:13 | 2025-01-31 | 2025-02-08 |
 | [What the hip hop hell is this ?](https://open.spotify.com/track/7nEOnYGnPIqNukJ0RJIDox) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/55lsRqfR4SpMeYFr3neQ7S) | 2:32 | 2025-02-07 | 2025-02-15 |
 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 | 2024-10-04 | 2024-10-12 |
+| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-24 |  |
 | [What Would You Do?](https://open.spotify.com/track/3F7qTaugjHaRNTWS6cqoFM) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Would You Do?](https://open.spotify.com/album/1moDPEq3gWL5V2WDsFydS4) | 3:03 | 2024-05-24 | 2024-06-12 |
 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 | 2024-08-23 | 2024-08-31 |
 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 | 2025-03-21 | 2025-03-29 |

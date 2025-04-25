@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover: Rihaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,599 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,603 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 24 | [GTR](https://open.spotify.com/track/5cFCuBlZVusuNtbo5Yxxkd) | [Nimaan Sidhu](https://open.spotify.com/artist/7DVxAhVVgwu4KC5kNl3nEV), [Divya Bhatt](https://open.spotify.com/artist/2dwNUvIo6j1fBisV0WNSWt), [Anjali Arora](https://open.spotify.com/artist/0wv9F6o1Ou6r2Cbl4DZp9D) | [GTR](https://open.spotify.com/album/06wcJlGxcqr4FviCkVtjlP) | 2:58 |
 | 25 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 | 26 | [Kar Gall](https://open.spotify.com/track/7kWBa4WmXZLqiGgVnBOou7) | [Gunjaz](https://open.spotify.com/artist/6hiVd03wh0H6uGLHvrOCPz), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [Kar Gall](https://open.spotify.com/album/0izzjdnfDrsdoS1Rfdle4Z) | 2:30 |
-| 27 | [Chandigarh](https://open.spotify.com/track/6mCL6P3RBBqYdyjJBlh3XW) | [Jesan](https://open.spotify.com/artist/6w7Endw7qHuf3oEv31riZu), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Chandigarh](https://open.spotify.com/album/4GNW5BxcOiOxj4KU3OxRdw) | 2:24 |
+| 27 | [Chandigarh](https://open.spotify.com/track/6mCL6P3RBBqYdyjJBlh3XW) | [Jesann](https://open.spotify.com/artist/08QRdOFJw3db7MEz9qiYy6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Chandigarh](https://open.spotify.com/album/4GNW5BxcOiOxj4KU3OxRdw) | 2:24 |
 | 28 | [4 Peg](https://open.spotify.com/track/5oNUqBljB0cRNPXn9rioIs) | [Baaz Dhaliwal](https://open.spotify.com/artist/5W7gEJq6iQGu1GZofFOcQ5) | [4 Peg](https://open.spotify.com/album/2zT8qrj8Xuiv59GBYJn6Q6) | 2:51 |
 | 29 | [Chehre Te Filter](https://open.spotify.com/track/5I6Cki9uIAkRVLPAzkeN89) | [G Maan](https://open.spotify.com/artist/46ll5Bw3BunlOAOJFDVUTT) | [Chehre Te Filter](https://open.spotify.com/album/3d8zO41ES4XeyESUVWTfF3) | 3:01 |
 | 30 | [Kidan Maaf Kran](https://open.spotify.com/track/00FVb6LD7g2ltjh5wMsenQ) | [Arssha Raikot](https://open.spotify.com/artist/20fVuCkvWDDekszp0JTM1J), [Mr Sadak](https://open.spotify.com/artist/140oebTYcxSTa4TSjasx6a) | [Kidan Maaf Kran](https://open.spotify.com/album/1aU6UdJdtMQAUwUNALvD3u) | 3:22 |

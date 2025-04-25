@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 112969,
+  "num_followers": 113010,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAABnOoSDRG2cmJWKUA8mG6+7",
+  "snapshot_id": "aAgtgAAAAABeFdBcqvLtxIUteWOOPEo4",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "fall in love with a girl (feat. Beabadoobee)",
-        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
+        "name": "I Wish I Was Stephen Malkmus",
+        "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
       },
       "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
         {
           "name": "beabadoobee",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 190853,
-      "name": "fall in love with a girl (feat. Beabadoobee)",
-      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
+      "duration_ms": 231860,
+      "name": "I Wish I Was Stephen Malkmus",
+      "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
     },
     {
       "added_at": null,
@@ -571,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish I Was Stephen Malkmus",
-        "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
+        "name": "fall in love with a girl (feat. Beabadoobee)",
+        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
       },
       "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
         {
           "name": "beabadoobee",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 231860,
-      "name": "I Wish I Was Stephen Malkmus",
-      "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
+      "duration_ms": 190853,
+      "name": "fall in love with a girl (feat. Beabadoobee)",
+      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
     },
     {
       "added_at": null,

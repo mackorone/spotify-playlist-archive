@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u041d\u0430\u0439\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0456\u0448\u0456 \u043f\u0456\u0441\u043d\u0456 \u0441\u044c\u043e\u0433\u043e\u0434\u0435\u043d\u043d\u044f. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: MamaRika",
+  "description": "\u041d\u0430\u0439\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0456\u0448\u0456 \u043f\u0456\u0441\u043d\u0456 \u0441\u044c\u043e\u0433\u043e\u0434\u0435\u043d\u043d\u044f. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u0410\u043d\u043d\u0430 \u0422\u0440\u0456\u043d\u0447\u0435\u0440",
   "name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 183928,
       "name": "EVIL J0RDAN",
       "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
@@ -1080,6 +1080,24 @@
       "duration_ms": 133108,
       "name": "\u0413\u0430\u0457 \u0448\u0443\u043c\u043b\u044f\u0442\u044c (1913)",
       "url": "https://open.spotify.com/track/4bZDub9rMMoJqyLHSlZUgu"
+    },
+    {
+      "album": {
+        "name": "\u0413\u0440\u0443\u0448\u043a\u0430",
+        "url": "https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g"
+      },
+      "artists": [
+        {
+          "name": "FI\u0407NKA",
+          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "\u0413\u0440\u0443\u0448\u043a\u0430",
+      "url": "https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr"
     },
     {
       "album": {

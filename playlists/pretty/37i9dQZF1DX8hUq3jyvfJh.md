@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Rachel Reis e mais mulheres incríveis no volume máximo! co\-curada por Rachel Reis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,762 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,761 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 30 | [Alumiô](https://open.spotify.com/track/2nFx9WDf3Jk2ONvO0PUoQv) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/0Dg5HGop5JMQeRDHB63tz9) | 3:24 |
 | 31 | [A Melhor Saída](https://open.spotify.com/track/6nnQ6idUNylK6LBckW9hyO) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/60w2pJCJwfeHzIKYQxue37) | 4:03 |
 | 32 | [Malemolencia](https://open.spotify.com/track/4yOCbdjfT2zCSImNhTvDq9) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 2:54 |
-| 33 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
-| 34 | [Chuva](https://open.spotify.com/track/3dNPLNDR3fVmqHoV0t3LbD) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [\#1](https://open.spotify.com/album/36rOrPgkGGw3k02RtOFbEh) | 4:20 |
+| 33 | [Chuva](https://open.spotify.com/track/3dNPLNDR3fVmqHoV0t3LbD) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [\#1](https://open.spotify.com/album/36rOrPgkGGw3k02RtOFbEh) | 4:20 |
+| 34 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
 | 35 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
 | 36 | [Mana](https://open.spotify.com/track/7lKMqNkBECJiyJyQuw4j9X) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 4:35 |
 | 37 | [GIGANTESCA](https://open.spotify.com/track/0FYOKGb3jeFC9rtQFZAGLA) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [GIGANTESCA](https://open.spotify.com/album/75tSrVAnqly6IAHjh9asTR) | 3:33 |

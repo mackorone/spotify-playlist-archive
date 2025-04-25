@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Satiro
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: MAR, Sleepytheprince
 
-723 songs - 1 day 14 hr 23 min
+724 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Aprendi a Amar](https://open.spotify.com/track/25eaNnUtxQhnoisuKglAtA) | [Oestrela](https://open.spotify.com/artist/4OHp25KOzOBF38Uq4CNtNE) | [Aprendi a Amar](https://open.spotify.com/album/07Xhxbh0q271QHx5iPJctj) | 2:59 | 2024-02-09 | 2024-03-01 |
 | [Aproximar](https://open.spotify.com/track/2rtlkeLwPPoYdHC0SmzlXM) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Diogo Ribeiro](https://open.spotify.com/artist/4M8WzxjaLIlIBYtwnmYk3i) | [Aproximar](https://open.spotify.com/album/6Dus4s197Sp6WNgkfH4mD2) | 3:07 | 2023-03-01 | 2023-03-25 |
 | [Aquece](https://open.spotify.com/track/5h63JxV3NF4zmK8SE5ihuc) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Aquece](https://open.spotify.com/album/5QBjnecox9dbzdyN28FMG6) | 3:43 | 2023-01-20 | 2023-03-02 |
+| [AQUI AGORA](https://open.spotify.com/track/5061WxcutGInYsobzvTXEk) | [MAR](https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [AQUI AGORA](https://open.spotify.com/album/5xSA6tJSFi9a6uzkl30tRq) | 2:53 | 2025-04-24 |  |
 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 | 2022-07-07 |  |
 | [Areias do Deserto](https://open.spotify.com/track/5cefcJbSVTJK6LV7XU0R6S) | [Jay Mezo](https://open.spotify.com/artist/2nkrSZPL5u1nT1poaujDnC) | [Areias do Deserto](https://open.spotify.com/album/3pquO8sScvt3C7kZkBIu79) | 3:23 | 2023-12-08 | 2024-01-05 |
 | [Assim](https://open.spotify.com/track/5gjGfw1eaoMOW9Rq97j1Rp) | [Choro](https://open.spotify.com/artist/7jmNHJxPdNzErKwdI9Ts5D), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Matheus Paraizo](https://open.spotify.com/artist/10BT29sUZJ4ZIKOwIfONA4), [Inês Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn), [AVALANCHE](https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z) | [Assim](https://open.spotify.com/album/3eQ6r9soA8z9PluYL8U2vk) | 2:43 | 2022-07-07 | 2022-08-05 |
@@ -568,7 +569,7 @@
 | [Saudade](https://open.spotify.com/track/3OS9HqgLoWRd8JQWiSogyo) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/6sNUelgfRXdVV76YIOuGzY) | 5:06 | 2022-07-07 | 2024-04-20 |
 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 | 2022-07-21 | 2024-04-19 |
 | [Saudade](https://open.spotify.com/track/7sBMMplj5JAauU85M4wdvS) | [FR3DDY](https://open.spotify.com/artist/5D4bziCymPVk5UwjMLj33u) | [Passado](https://open.spotify.com/album/05zWfvsJH9b0jYSBo9HERB) | 2:30 | 2023-01-20 | 2023-01-22 |
-| [Saudade](https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D), [kaako](https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx) | [Saudade](https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr) | 2:35 | 2025-04-10 |  |
+| [Saudade](https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D), [kaako](https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx) | [Saudade](https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr) | 2:35 | 2025-04-10 | 2025-04-25 |
 | [Saudade](https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:09 | 2023-12-22 | 2024-02-16 |
 | [Saudade](https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Morais](https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu) | [Saudade](https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz) | 3:38 | 2025-03-28 |  |
 | [Saudades](https://open.spotify.com/track/4zcd47kKnAja9SU61xNL2o) | [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Saudades](https://open.spotify.com/album/25aQvTGMXD64EsjTSZDHS7) | 3:32 | 2023-09-07 | 2023-09-22 |

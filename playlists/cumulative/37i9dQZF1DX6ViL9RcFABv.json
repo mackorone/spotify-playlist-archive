@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Margarida Vasconcelos",
+  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
   "name": "Pop PT",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 228320,
       "name": "20 Anos",
       "url": "https://open.spotify.com/track/0E8UYHnvtIdElOoW9FHXms"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 180000,
       "name": "ADAMASTOR",
       "url": "https://open.spotify.com/track/0pI2OpBlBqbXXPrcvQxiNj"
@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "bilhete na garrafa",
+        "url": "https://open.spotify.com/album/66E2SDh51iVq64oot5dxpc"
+      },
+      "artists": [
+        {
+          "name": "Rita Rocha",
+          "url": "https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142788,
+      "name": "bilhete na garrafa",
+      "url": "https://open.spotify.com/track/1hwccM97LF25C0CGbGDKCP"
+    },
+    {
+      "album": {
         "name": "Boca Louca",
         "url": "https://open.spotify.com/album/0duEgRKsX4UfXOoF9bqMiG"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 200500,
       "name": "Chelas",
       "url": "https://open.spotify.com/track/1F5fQlcfAXZelz5Y47MQbJ"
@@ -1289,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "DEIXA-TE DE MERDAS - 10 ANOS - LIVE PERFORMANCE",
+        "url": "https://open.spotify.com/album/1vuhTdiKN5Z9XVGMX3ENbo"
+      },
+      "artists": [
+        {
+          "name": "Agir",
+          "url": "https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281254,
+      "name": "DEIXA-TE DE MERDAS - 10 ANOS - LIVE PERFORMANCE",
+      "url": "https://open.spotify.com/track/7tdI8xxQgNYPHwNszKJZHp"
+    },
+    {
+      "album": {
         "name": "Deixou-me a mala no comboio",
         "url": "https://open.spotify.com/album/7KuUjsTqPkrbQiTiN7eR2K"
       },
@@ -1515,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "do raso ao fundo",
+        "url": "https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245681,
+      "name": "do raso ao fundo",
+      "url": "https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW"
+    },
+    {
+      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/0aKzVffljSE3UF3Gg7UeyJ"
       },
@@ -1732,7 +1790,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 208615,
       "name": "Eu Deixei",
       "url": "https://open.spotify.com/track/4HccSOoWxrXU5Ysor3yD9k"
@@ -2412,7 +2470,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 168461,
       "name": "Juras",
       "url": "https://open.spotify.com/track/0bMU79dbvAax22hvi3u7ot"
@@ -2726,6 +2784,24 @@
       "duration_ms": 175586,
       "name": "Melodia",
       "url": "https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx"
+    },
+    {
+      "album": {
+        "name": "Metade",
+        "url": "https://open.spotify.com/album/7wuvePhkb2UA1Knm58o5Bz"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "Metade",
+      "url": "https://open.spotify.com/track/1xCVMWnFHBC2aKkozzoaoi"
     },
     {
       "album": {
@@ -3621,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
+    },
+    {
+      "album": {
         "name": "Qualquer Hora",
         "url": "https://open.spotify.com/album/3iUGxF5uo6k4X8zKUAWGge"
       },
@@ -3948,7 +4042,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 190886,
       "name": "saudades tuas.",
       "url": "https://open.spotify.com/track/32DNY9XRdDPwL6jWufOGcj"
@@ -4333,6 +4427,28 @@
     },
     {
       "album": {
+        "name": "Tentar (outra vez)",
+        "url": "https://open.spotify.com/album/3kB71aZrSpAFafaof9jPA1"
+      },
+      "artists": [
+        {
+          "name": "Catarina Filipe",
+          "url": "https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8"
+        },
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156013,
+      "name": "Tentar (outra vez)",
+      "url": "https://open.spotify.com/track/5WUEmlPYQQ2dMmSR7vJFA0"
+    },
+    {
+      "album": {
         "name": "Tento Na L\u00edngua",
         "url": "https://open.spotify.com/album/0JZzrTOlEMIsUV5lGXgtOx"
       },
@@ -4512,6 +4628,24 @@
       "duration_ms": 210989,
       "name": "Vai Vaguear",
       "url": "https://open.spotify.com/track/1G59cxn9MKkmt9Sy41rYmv"
+    },
+    {
+      "album": {
+        "name": "VAMPIROS",
+        "url": "https://open.spotify.com/album/2KC9XbtziG5bLOEViQAKXF"
+      },
+      "artists": [
+        {
+          "name": "Peculiar",
+          "url": "https://open.spotify.com/artist/6m3yCxyoE4000Nd18hdEaC"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "VAMPIROS",
+      "url": "https://open.spotify.com/track/4Jlh1A7Lv28qVk08mLcdf5"
     },
     {
       "album": {

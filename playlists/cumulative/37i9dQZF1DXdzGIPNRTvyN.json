@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Fields Above",
+        "url": "https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth"
+      },
+      "artists": [
+        {
+          "name": "Sinnesro",
+          "url": "https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153281,
+      "name": "Fields Above",
+      "url": "https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn"
+    },
+    {
+      "album": {
         "name": "Gentle Evening Rain",
         "url": "https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ"
       },
@@ -2767,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Lyricon",
+        "url": "https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "Lyricon",
+      "url": "https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1"
+    },
+    {
+      "album": {
         "name": "Magnetic Aura",
         "url": "https://open.spotify.com/album/0ucppkG6frtTW2LVZGvBBB"
       },
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 224500,
       "name": "Moonlight Dolphin",
       "url": "https://open.spotify.com/track/5axYEK74QBwkyAdQjNd5DT"
@@ -4582,7 +4618,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 154134,
       "name": "Silver Stream",
       "url": "https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc"

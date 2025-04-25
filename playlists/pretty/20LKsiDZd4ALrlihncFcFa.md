@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain]
 
 ### [90s ALTERNATIVE ROCK](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 
-> 1990s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus \| system of a down \| wheatus
+> 1990s alt rock \| 90s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 722,278 likes - 167 songs - 11 hr 39 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 722,209 likes - 167 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain]
 | 166 | [We Die Young](https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 2:32 |
 | 167 | [Pure Massacre](https://open.spotify.com/track/7qCIP5KHYy9HuXbEEWzmC7) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:58 |
 
-Snapshot ID: `AAACKeyGDMqac4c9WJkTQrfsLO+mzJ59`
+Snapshot ID: `AAACK+4WMv5ClWffGSfA3qeRVraDIJxC`

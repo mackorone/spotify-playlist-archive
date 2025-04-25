@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-19",
-  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=vifkgyFKR6mKTqLFn5uJvg>Prinx Emmanuel</a>",
+  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=6j4C8WSDTUy9023842Y1Sg>Abbey Ojomu</a>",
   "name": "Redeemed",
   "tracks": [
     {
@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/7qcZTkaE3dXKI1pSKvAGfv"
+    },
+    {
+      "album": {
         "name": "Commando",
         "url": "https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr"
       },
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 158653,
       "name": "Everything",
       "url": "https://open.spotify.com/track/2e9ot5pidJZvqsIric6Z62"
@@ -2576,7 +2594,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 300187,
       "name": "Jesu Ti\u1e63e",
       "url": "https://open.spotify.com/track/1zXDwgJUsywfAxMcCmdLqg"
@@ -4188,6 +4206,24 @@
       "duration_ms": 225000,
       "name": "Pain To Praise",
       "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
+    },
+    {
+      "album": {
+        "name": "Pentecost",
+        "url": "https://open.spotify.com/album/5S4SZSu82ZBbdb4eyfOSAx"
+      },
+      "artists": [
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 683500,
+      "name": "Pentecost",
+      "url": "https://open.spotify.com/track/43OP3itAcQyyBOQO7TtROL"
     },
     {
       "album": {

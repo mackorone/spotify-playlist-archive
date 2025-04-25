@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 337257,
+  "num_followers": 337493,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADaTuz5yf7gJp5Ev80eO13E",
+  "snapshot_id": "aAgtgAAAAAAoyRfpr7U5enweZjEL/Zyw",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Catafixia",
-        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "La Paso Bien",
-      "url": "https://open.spotify.com/track/28YY7biYW6ocfOxl2blQPA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On fire",
         "url": "https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 167692,
       "name": "A ti",
       "url": "https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Catafixia",
+        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "La Paso Bien",
+      "url": "https://open.spotify.com/track/28YY7biYW6ocfOxl2blQPA"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
       "duration_ms": 190092,
       "name": "Diablos",
       "url": "https://open.spotify.com/track/6sSXi0TxT2Mnz3IfH8ACxu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "El Ni\u00f1o",
+      "url": "https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 153182,
       "name": "La Plebada del 09",
       "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "El Ni\u00f1o",
-      "url": "https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele Tu Abandono (En Vivo)",
-        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Duele Tu Abandono (En Vivo)",
-      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 195608,
       "name": "La Sand\u00eda",
       "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duele Tu Abandono (En Vivo)",
+        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Duele Tu Abandono (En Vivo)",
+      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
     },
     {
       "added_at": null,

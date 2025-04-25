@@ -1,49 +1,13 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 153213,
+  "num_followers": 153257,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADyIck1fupwBJ6CzmEZn4xf",
+  "snapshot_id": "aAgtgAAAAACpmc40unlK6LVXglyLBEOj",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3 Rock 3",
-        "url": "https://open.spotify.com/album/1bSlwawZmp5TyryRHIVHte"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Young Ganni",
-          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 312240,
-      "name": "S\u00f3 Rock 3",
-      "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
-    },
     {
       "added_at": null,
       "album": {
@@ -91,6 +55,42 @@
       "duration_ms": 577819,
       "name": "Poesia Ac\u00fastica #6 Era uma Vez",
       "url": "https://open.spotify.com/track/5JC2ezFSbkVi4Js4byzKoj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 Rock 3",
+        "url": "https://open.spotify.com/album/1bSlwawZmp5TyryRHIVHte"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Young Ganni",
+          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 312240,
+      "name": "S\u00f3 Rock 3",
+      "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
     },
     {
       "added_at": null,
@@ -547,6 +547,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "7 Meiota",
+      "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 225365,
       "name": "AK de Bip\u00e9",
       "url": "https://open.spotify.com/track/45AGZPv5djNJj0CH6sEjjp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "7 Meiota",
-      "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
     },
     {
       "added_at": null,
@@ -1087,6 +1087,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dono das Esquinas",
+        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Carro Forte",
+      "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
       },
@@ -1119,34 +1147,6 @@
       "duration_ms": 188021,
       "name": "REBELDE",
       "url": "https://open.spotify.com/track/7shYAA767wK9QjXOkHNVoc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dono das Esquinas",
-        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Carro Forte",
-      "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
     },
     {
       "added_at": null,

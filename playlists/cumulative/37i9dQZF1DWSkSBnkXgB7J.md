@@ -4,7 +4,7 @@
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Lella Fadda
 
-158 songs - 8 hr 23 min
+159 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Astahlik](https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq) | [Ahmed Burhan](https://open.spotify.com/artist/7pWG2cgMJbZmMd2a0TqZJ0) | [Astahlik](https://open.spotify.com/album/20vCcB2a5j1MSStibILx1n) | 4:03 | 2022-06-24 | 2023-06-07 |
 | [Astronaut in the Ocean](https://open.spotify.com/track/27ErCu5vx463lPyabA87oi) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Astronaut in the Ocean](https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl) | 2:14 | 2022-06-24 | 2022-11-09 |
 | [Ayam](https://open.spotify.com/track/0QKS9BuMqsfSyVRP2vWvzO) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Ayam](https://open.spotify.com/album/0HBSC3kSOgiV7hAwaycPhd) | 3:05 | 2022-06-24 | 2025-01-30 |
+| [AZOUL V3](https://open.spotify.com/track/7mB6gUSK0aPPisiUA3czNV) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [AZOUL V3](https://open.spotify.com/album/197mIxNXShd34q7VU71Him) | 2:20 | 2025-04-24 |  |
 | [Baadek Bizakerti](https://open.spotify.com/track/583BG3e4wpZzkwJTPbQc2W) | [Chris Moussa](https://open.spotify.com/artist/72DLvyPzbU6R4NZel6MaX5) | [Baadek Bizakerti](https://open.spotify.com/album/5CGX6rOvDdKLcB7usNXyNH) | 3:16 | 2022-06-24 | 2025-01-30 |
 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 | 2022-07-14 | 2024-05-15 |
 | [Bara L Koon](https://open.spotify.com/track/7fc5zsFu2iemGf2GTgx95z) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Bara L Koon](https://open.spotify.com/album/6iZPXJKS4cATmFcegbKjrL) | 2:48 | 2024-05-02 |  |

@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/7qcZTkaE3dXKI1pSKvAGfv"
+    },
+    {
+      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
       },
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 189189,
       "name": "DONE IT",
       "url": "https://open.spotify.com/track/3i7Xk7b6UCkLmmNxddFS86"
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 124999,
       "name": "Ese",
       "url": "https://open.spotify.com/track/0eV92oAqLxBTd90cnhafMM"
@@ -2978,7 +2996,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 252995,
       "name": "Goodness and Mercy",
       "url": "https://open.spotify.com/track/5YaXD4R9OhWDGdXXwLQipk"
@@ -4208,6 +4226,24 @@
       "duration_ms": 369529,
       "name": "Jesus at the Centre",
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+    },
+    {
+      "album": {
+        "name": "JESUS IS THE KING",
+        "url": "https://open.spotify.com/album/7vFBJKQWiqx857OwNMEbjD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "JESUS IS THE KING",
+      "url": "https://open.spotify.com/track/22b5l8DtpvNhtmx9EpsXdd"
     },
     {
       "album": {
@@ -6634,6 +6670,28 @@
       "duration_ms": 145919,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw"
+    },
+    {
+      "album": {
+        "name": "Surely Goodness",
+        "url": "https://open.spotify.com/album/7JPu2axcCxxcXhu3PDVnZY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288218,
+      "name": "Surely Goodness (feat. Phil Thompson)",
+      "url": "https://open.spotify.com/track/5p8eebjG6L3AS5JxGA6fSg"
     },
     {
       "album": {

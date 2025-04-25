@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷  Kapak: BLOK3 x Ati242
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: BLOK3 x Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,593,842 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,593,943 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Durma Yürüsene](https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Durma Yürüsene](https://open.spotify.com/album/08x2uyRPSt4x3UYwKUuKJc) | 3:41 |
 | 50 | [Duydun Mu?](https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc) | [Yusuf Güney](https://open.spotify.com/artist/7ictQXHIBmXODb4ykTI95n) | [Duydun Mu?](https://open.spotify.com/album/1IX9ThOBRxgRFGYeh2AbuJ) | 3:41 |
 
-Snapshot ID: `aAig3QAAAACFf63byS8xfnzx0GweOcH1`
+Snapshot ID: `aAqmagAAAAASaVtfE2V3+TtfhfDY0SBZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-[Topsify](https://open.spotify.com/user/topsify) - 10,465 likes - 96 songs - 5 hr 7 min
+[Topsify](https://open.spotify.com/user/topsify) - 10,464 likes - 96 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

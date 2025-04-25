@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 319623,
+  "num_followers": 319628,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "My Love (2024)",
         "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 184949,
       "name": "My Love (2024)",
       "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+        "url": "https://open.spotify.com/album/5jAnfBukpgxAPJPtrAgLgN"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 258682,
+      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "url": "https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
         "url": "https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 160602,
       "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
       "url": "https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
-        "url": "https://open.spotify.com/album/5jAnfBukpgxAPJPtrAgLgN"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 258682,
-      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
-      "url": "https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "I CAN'T LOSE YOU",
-        "url": "https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 155343,
-      "name": "I CAN\u2019T LOSE YOU",
-      "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "I Just Can't Get Enough 2024",
         "url": "https://open.spotify.com/album/2LMGCtC018PamOvkrB1IHA"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 200338,
       "name": "I Just Can't Get Enough 2024",
       "url": "https://open.spotify.com/track/5ysryf5WrO4iDe6hm6Cu8x"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "I CAN'T LOSE YOU",
+        "url": "https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 155343,
+      "name": "I CAN\u2019T LOSE YOU",
+      "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dance To The Beat (Pitchin')",
         "url": "https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 161029,
       "name": "Dance To The Beat (Pitchin')",
       "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1343,26 +1343,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Kisses (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+        "name": "PE$O",
+        "url": "https://open.spotify.com/album/2XoyikKhNxe9XLRloDLRC7"
       },
       "artists": [
         {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
         },
         {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         },
         {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 138246,
-      "name": "Kisses (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+      "duration_ms": 156416,
+      "name": "PE$O",
+      "url": "https://open.spotify.com/track/5o0r8QqEH6AR5OOrBVrKxr"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1387,26 +1387,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "PE$O",
-        "url": "https://open.spotify.com/album/2XoyikKhNxe9XLRloDLRC7"
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
       "artists": [
         {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
         },
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
         },
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
         }
       ],
-      "duration_ms": 156416,
-      "name": "PE$O",
-      "url": "https://open.spotify.com/track/5o0r8QqEH6AR5OOrBVrKxr"
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 150987,
-      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "She's In The Club (feat. Asal)",
         "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 188011,
       "name": "She's In The Club (feat. Asal)",
       "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 150987,
+      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Earth Move Edit",
+        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
+      },
+      "artists": [
+        {
+          "name": "Daire",
+          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
+        }
+      ],
+      "duration_ms": 162043,
+      "name": "Earth Move Edit",
+      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Sugar Baby",
         "url": "https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5"
       },
@@ -1527,18 +1543,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Earth Move Edit",
-        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
+        "name": "Sweet Devotion",
+        "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
       },
       "artists": [
         {
-          "name": "Daire",
-          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
         }
       ],
-      "duration_ms": 162043,
-      "name": "Earth Move Edit",
-      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
+      "duration_ms": 207895,
+      "name": "Sweet Devotion - Edit",
+      "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1583,26 +1603,6 @@
       "duration_ms": 176185,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Sweet Devotion",
-        "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 207895,
-      "name": "Sweet Devotion - Edit",
-      "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Set Me Free (feat. Robert Courtois)",
-        "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Robert Courtois",
-          "url": "https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa"
-        }
-      ],
-      "duration_ms": 150218,
-      "name": "Set Me Free (feat. Robert Courtois)",
-      "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Breathe You In (feat. NORTH)",
         "url": "https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 245466,
       "name": "Breathe You In (feat. NORTH)",
       "url": "https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Set Me Free (feat. Robert Courtois)",
+        "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Robert Courtois",
+          "url": "https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa"
+        }
+      ],
+      "duration_ms": 150218,
+      "name": "Set Me Free (feat. Robert Courtois)",
+      "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
     },
     {
       "added_at": "2024-09-19 23:00:00",

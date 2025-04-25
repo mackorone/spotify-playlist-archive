@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Nii
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,793 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,800 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 16 | [keep it a hundred](https://open.spotify.com/track/4cHCZMMUSWFnEzHT5ij1T8) | [Mark Taiwo](https://open.spotify.com/artist/5fIZHbbeEMCrVXtxsDukW4) | [keep it a hundred](https://open.spotify.com/album/7aNOEKTTlDVIPCCZJGcMGi) | 3:51 |
 | 17 | [Hand\-Delivered](https://open.spotify.com/track/7LQF3YcMJwqzQGPuskSmEC) | [Make Friends](https://open.spotify.com/artist/7dxUKrjbdkaAl1nCCYblq7) | [Hand\-Delivered](https://open.spotify.com/album/47gXFYplt51NnrkhgWm0Ng) | 3:33 |
 | 18 | [SICK](https://open.spotify.com/track/3vcOUlqLMGJ64Y0h8npVxq) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [SICK](https://open.spotify.com/album/746TmWT3VFT0Y7wDbueXgG) | 3:46 |
-| 19 | [I Hate You, I Love You](https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I hate you, I love you](https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is) | 5:29 |
+| 19 | [I Hate You, I Love You](https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I Hate You, I Love You](https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is) | 5:29 |
 | 20 | [Two](https://open.spotify.com/track/746r8pAzLk3VgpG2qmXdOg) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Two](https://open.spotify.com/album/2SAGjSimKHwB1d0TjhCNKQ) | 2:48 |
 | 21 | [ISO](https://open.spotify.com/track/73ey35FCk88uo0NbvEX9DV) | [Lance A](https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq) | [ISO](https://open.spotify.com/album/1exGXDA5ktfUtrqfUOV3Rr) | 2:37 |
 | 22 | [Rosie](https://open.spotify.com/track/49vLCIHFZZDZHNbNPMJIue) | [Tilly Louise](https://open.spotify.com/artist/3NT9rxRQ2o4qUYpHRJY76O) | [Rosie](https://open.spotify.com/album/2NhyGITGhRcOql1Sz3b7UA) | 4:06 |

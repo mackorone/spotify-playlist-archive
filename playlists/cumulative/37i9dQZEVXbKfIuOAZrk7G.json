@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 211185,
       "name": "4 Kamp\u00e9 II",
       "url": "https://open.spotify.com/track/5VceXjXeBMGOHC04rjpyC7"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 211304,
       "name": "4 Kamp\u00e9 II",
       "url": "https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR"
@@ -18602,7 +18602,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
@@ -45516,7 +45516,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -48708,6 +48708,24 @@
     {
       "album": {
         "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY"
+    },
+    {
+      "album": {
+        "name": "PASSO BEM SOLTO",
         "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
       },
       "artists": [
@@ -48718,7 +48736,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
@@ -60810,7 +60828,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 292333,
       "name": "Sunday Is Coming",
       "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
@@ -60828,7 +60846,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 292333,
       "name": "Sunday Is Coming",
       "url": "https://open.spotify.com/track/7jXsHUyrXt3AcpUSOUvqKV"
@@ -61836,7 +61854,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 190586,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/3EUtK1T5Wqu0LOmdzLHTTd"
@@ -61854,7 +61872,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 190586,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"

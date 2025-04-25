@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista. Kannessa Sleep Token.",
+  "description": "Suomen suurin ja paras rock-soittolista. Kannessa Ghost.",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 203066,
       "name": "(I Don't Wanna Be) Just A Memory",
       "url": "https://open.spotify.com/track/2mxA7nJ19UTxVFaDPHrTFw"
+    },
+    {
+      "album": {
+        "name": "77 (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173842,
+      "name": "77 - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
     },
     {
       "album": {
@@ -355,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Black Mamba",
+        "url": "https://open.spotify.com/album/3YeUoZElR3JzAwNpS8zOa9"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297546,
+      "name": "Black Mamba",
+      "url": "https://open.spotify.com/track/31INWASDAVj7l1smhUNunx"
+    },
+    {
+      "album": {
         "name": "Black Waves",
         "url": "https://open.spotify.com/album/1X6QFQngklDerKb8aKHKWa"
       },
@@ -366,7 +406,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 200491,
       "name": "Black Waves",
       "url": "https://open.spotify.com/track/5lOYCQMschBIypDDuarswO"
@@ -832,6 +872,24 @@
       "duration_ms": 403700,
       "name": "Dark Ocean Summoning",
       "url": "https://open.spotify.com/track/1jU7R8VlbsEaSK7i0BQwiz"
+    },
+    {
+      "album": {
+        "name": "Darkness Always Wins",
+        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290309,
+      "name": "Darkness Always Wins",
+      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
     },
     {
       "album": {
@@ -1510,7 +1568,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 546385,
       "name": "Hello Heaven, Hello",
       "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
@@ -1546,7 +1604,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 180217,
       "name": "Heroes - Spotify Singles",
       "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
@@ -2061,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
+    },
+    {
+      "album": {
         "name": "Made Of Metal",
         "url": "https://open.spotify.com/album/6iF2V3BdIyQY21w3JyZcSN"
       },
@@ -2307,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/3jgn8ryANXoghlqqjmKhHS"
+      },
+      "artists": [
+        {
+          "name": "Brother Firetribe",
+          "url": "https://open.spotify.com/artist/0FP1GVYq6WKexCiBkPftha"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233629,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/5sy6m7FTbkG3A10tiQHkqD"
+    },
+    {
+      "album": {
         "name": "SUPERCHARGED",
         "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
@@ -2344,7 +2438,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 208054,
       "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
       "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
@@ -2370,7 +2464,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 205742,
       "name": "Outcome",
       "url": "https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa"
@@ -2486,6 +2580,28 @@
       "duration_ms": 325987,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1sADPht6zP5bBXlNitLRuQ"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        },
+        {
+          "name": "Elize Ryd",
+          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180615,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des"
     },
     {
       "album": {
@@ -3228,7 +3344,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 226904,
       "name": "Still Dancing",
       "url": "https://open.spotify.com/track/1zSvEI7l5cRpsHkMn2MpBe"
@@ -3354,7 +3470,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 278213,
       "name": "Taivas",
       "url": "https://open.spotify.com/track/4zBuget6g86I99WgsuFYwe"
@@ -3444,6 +3560,24 @@
       "duration_ms": 462655,
       "name": "Tee t\u00e4nne taivas (feat. Tony Kaikkonen, Timo Rautiainen, Jarkko Martikainen, Teemu Liekkala, Peter Engberg & Samuli Federley)",
       "url": "https://open.spotify.com/track/1zPK1VmqUp78YR6VfmTScg"
+    },
+    {
+      "album": {
+        "name": "Templars",
+        "url": "https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Templars",
+      "url": "https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj"
     },
     {
       "album": {
@@ -3818,7 +3952,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 277412,
       "name": "Vaeltaa",
       "url": "https://open.spotify.com/track/3WzqKxdR2BveahPlyQNDRQ"

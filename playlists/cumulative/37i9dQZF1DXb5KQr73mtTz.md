@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-265 songs - 17 hr 17 min
+266 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [We Were There](https://open.spotify.com/track/6vdi2iCRObLUKOMNgzGAXM) | [DAREDAA](https://open.spotify.com/artist/7GHmnSeSDBooMAk39m6Ol6) | [We Were There](https://open.spotify.com/album/1sXvwTlHdo0j4XRCJutUMv) | 3:43 | 2024-10-27 | 2024-12-08 |
 | [WERE WE?](https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:44 | 2022-05-11 | 2022-07-25 |
 | [What Is Love](https://open.spotify.com/track/0858nTMxQH3y9iFWYcmCmo) | [Venoby](https://open.spotify.com/artist/2U6nABODrRHTzRMnEoK037) | [What Is Love](https://open.spotify.com/album/67s4fQQGCBZBWHExk4baFV) | 4:25 | 2022-05-11 | 2022-05-31 |
+| [When I Close My Eyes](https://open.spotify.com/track/177RNC6mpCBnry2nF66rYT) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [When I Close My Eyes](https://open.spotify.com/album/4qCeoxwrJVyacT8irO3n4W) | 4:42 | 2025-04-21 |  |
 | [Who Are You](https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Who Are You](https://open.spotify.com/album/0AJedZzGLJy6NlD8eaI9QN) | 3:46 | 2022-06-09 | 2022-06-14 |
 | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 | 2023-06-13 | 2025-02-15 |
 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 | 2024-06-11 | 2025-04-09 |
@@ -254,7 +255,7 @@
 | [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 | 2022-11-23 | 2023-03-18 |
 | [You're Free](https://open.spotify.com/track/19BiyAamzm9lGzz7LXuCbb) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [You're Free](https://open.spotify.com/album/26TddKetWo996P7sqj0u5Y) | 3:44 | 2022-05-11 | 2022-07-29 |
 | [You, you](https://open.spotify.com/track/1zqVFI0tM6SHXGRtf5nzV4) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [You, you](https://open.spotify.com/album/4PN4xczdZoMbKBdJgaOltt) | 5:02 | 2022-05-11 | 2022-07-29 |
-| [Your name](https://open.spotify.com/track/5dJg9eVbselFdPqF1MJBwl) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Dear.](https://open.spotify.com/album/6VAiBqirKlthgxPQUgP7Tb) | 4:41 | 2024-08-10 |  |
+| [Your name](https://open.spotify.com/track/5dJg9eVbselFdPqF1MJBwl) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Dear.](https://open.spotify.com/album/6VAiBqirKlthgxPQUgP7Tb) | 4:41 | 2024-08-10 | 2025-04-25 |
 | [가득 빈 마음에](https://open.spotify.com/track/5wfmGokIYWd3nanQiZhbUE) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [제30회 유재하 음악경연대회](https://open.spotify.com/album/3ZjVQ2syixv8QLunQXYvRO) | 2:57 | 2025-04-08 |  |
 | [거울 MIRROR](https://open.spotify.com/track/3rJlE3EHSZcjOVI5fJZpgR) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [거울 MIRROR](https://open.spotify.com/album/2BKrJ8ePL68zc2xesSdkHN) | 4:42 | 2023-09-20 | 2023-11-06 |
 | [나와 같다면](https://open.spotify.com/track/76vLOcSPwCr4BHQSO7Ihis) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [서바이벌 나는 가수다 경연 3\-2 \- 네티즌 추천곡](https://open.spotify.com/album/40mJuq7mDmCahsMxjSBxzk) | 3:38 | 2022-05-11 | 2022-06-01 |

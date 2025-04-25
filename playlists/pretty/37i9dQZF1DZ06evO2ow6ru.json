@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 174696,
+  "num_followers": 174694,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADW3km/rOm1SwyhxFqnE9at",
+  "snapshot_id": "aAgtgAAAAACs6sg3GZ0Ijb76eprKq7x9",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 206839,
-      "name": "Old Scars / Future Hearts",
-      "url": "https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Young Renegade",
         "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 217680,
       "name": "Drugs & Candy",
       "url": "https://open.spotify.com/track/1isQMKYmpvJ4tOP8R2qkWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 206839,
+      "name": "Old Scars / Future Hearts",
+      "url": "https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Forever Sessions (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 222290,
-      "name": "Jasey Rae - ATL's Version",
-      "url": "https://open.spotify.com/track/29VPBSFEHubcBQneEStyDt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Young Renegade",
         "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 214093,
       "name": "Last Young Renegade",
       "url": "https://open.spotify.com/track/66hOCG7IpEJI5wfLDhajxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Forever Sessions (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 222290,
+      "name": "Jasey Rae - ATL's Version",
+      "url": "https://open.spotify.com/track/29VPBSFEHubcBQneEStyDt"
     },
     {
       "added_at": null,

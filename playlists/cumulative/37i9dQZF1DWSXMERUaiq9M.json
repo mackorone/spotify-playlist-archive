@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Alle werden alt",
+        "url": "https://open.spotify.com/album/00aDacxHbkR3WvdehjaRU0"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269903,
+      "name": "Alle werden alt",
+      "url": "https://open.spotify.com/track/4H6IFl3r8jtbQbbUdeLZMq"
+    },
+    {
+      "album": {
         "name": "Alone Again",
         "url": "https://open.spotify.com/album/0YzIkTjBZPqImdQLx3VqTc"
       },
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 205722,
       "name": "Dooms Night",
       "url": "https://open.spotify.com/track/0V8yBXUvXv5PascZlSTKVc"
@@ -5569,6 +5587,28 @@
     },
     {
       "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/5cRJaHx3DiAQAg5MfGkHWs"
+      },
+      "artists": [
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/4eqNyLDGWPXcsscSIVT7XU"
+    },
+    {
+      "album": {
         "name": "My Barn My Rules",
         "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
       },
@@ -6594,6 +6634,28 @@
       "duration_ms": 273103,
       "name": "Poison",
       "url": "https://open.spotify.com/track/6Lkll7PM43HQVxQAmBF0U8"
+    },
+    {
+      "album": {
+        "name": "Pool (Gravagerz Version)",
+        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        },
+        {
+          "name": "kiki wera",
+          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125178,
+      "name": "Pool - Gravagerz Version",
+      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
     },
     {
       "album": {
@@ -8386,7 +8448,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 124500,
       "name": "Throw It Back",
       "url": "https://open.spotify.com/track/1RiUCViwSix0tpcJAkUikB"
@@ -8879,6 +8941,36 @@
     },
     {
       "album": {
+        "name": "Vielleicht Vielleicht (Holy Priest & elMefti Remix)",
+        "url": "https://open.spotify.com/album/11AgvfRovHCABNaX85Ymh1"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        },
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "elMefti",
+          "url": "https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169818,
+      "name": "Vielleicht Vielleicht - Holy Priest & elMefti Remix",
+      "url": "https://open.spotify.com/track/4pRAG3h4ZTfyEhRMytddzd"
+    },
+    {
+      "album": {
         "name": "Viento EP",
         "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
       },
@@ -8948,7 +9040,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 217866,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/4hACcQfF5dtAzN0CW7vCAF"
@@ -9040,7 +9132,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 198648,
       "name": "Wanna Feel",
       "url": "https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c"

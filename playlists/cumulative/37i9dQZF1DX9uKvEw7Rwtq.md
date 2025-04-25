@@ -4,7 +4,7 @@
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-152 songs - 12 hr 47 min
+154 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Peterson](https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The American Dollar](https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF) | 3:19 | 2022-03-25 |  |
 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 | 2022-05-27 | 2024-04-19 |
 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 | 2022-03-25 |  |
+| [raat ki rani \- Khruangbin Remix](https://open.spotify.com/track/44QLYLXDebPCkTzcnGX4XA) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [raat ki rani \(Khruangbin Remix\)](https://open.spotify.com/album/0hHxD2fUWlqAcjXwIIiqaj) | 4:35 | 2025-04-24 |  |
 | [Reflection](https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [Reflection](https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP) | 3:47 | 2022-03-18 |  |
 | [Release](https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 3:29 | 2023-01-27 |  |
 | [Requiem](https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Reanimation](https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy) | 2:12 | 2022-03-25 |  |
@@ -122,7 +123,7 @@
 | [Samadhi](https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz) | [Rain No Rain](https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut) | [Samadhi](https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW) | 4:25 | 2022-03-25 |  |
 | [Secret Colours](https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [deer meadow](https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr) | [In a Sad Red Dusk, We Were Finally Leaving](https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR) | 5:18 | 2022-03-18 |  |
 | [Seeming](https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0) | 2:35 | 2022-05-27 | 2024-04-19 |
-| [Seeming](https://open.spotify.com/track/5nrQNMtKNb3amHXUZrzKNf) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3OjaLYG57ukJufdA9H63YP) | 2:35 | 2022-03-18 |  |
+| [Seeming](https://open.spotify.com/track/5nrQNMtKNb3amHXUZrzKNf) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3OjaLYG57ukJufdA9H63YP) | 2:35 | 2022-03-18 | 2025-04-25 |
 | [Serenity](https://open.spotify.com/track/1rJTJnb9jFkSetUSoIKOvz) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [Serenity](https://open.spotify.com/album/0qLppbcnPxM0EcGFNZzAji) | 8:00 | 2022-03-25 |  |
 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 | 2022-03-25 |  |
 | [Shelter from the Rain](https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 4:03 | 2023-01-24 | 2024-04-19 |
@@ -133,6 +134,7 @@
 | [Sound Study Four](https://open.spotify.com/track/0d3XErjZJDoJr7XgjncNXr) | [Devin Sarno](https://open.spotify.com/artist/6H0BGNsWkD3AZNqJ3dEHPI), [Randy Randall](https://open.spotify.com/artist/10xQlFFMkARUiDNXd31XYS) | [Sound Study Four](https://open.spotify.com/album/7k68DOmu9jG4RJvG0VveGu) | 7:18 | 2022-03-18 |  |
 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 | 2022-03-25 |  |
 | [Svefn\-g\-englar](https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC) | 10:06 | 2022-03-25 |  |
+| [Tear Trails](https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Dusk/Dawn](https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0) | 3:02 | 2025-04-24 |  |
 | [The Biting Air, the Howling Wind](https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW) | [Cursebitten](https://open.spotify.com/artist/77advwCNdJgfdi3QR8BF38) | [Northwarder](https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku) | 3:31 | 2022-04-01 |  |
 | [The Blurred Horizon](https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM) | [Tuesday The Sky](https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q) | [The Blurred Horizon](https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi) | 3:56 | 2022-03-18 |  |
 | [The First Glimmer of Wind](https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [James](https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z) | 5:54 | 2022-03-18 |  |
@@ -159,6 +161,6 @@
 | [You Have My Whole Heart](https://open.spotify.com/track/3XSMK307R9qBIK1HUgau2x) | [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [you are now listening to a tender spring](https://open.spotify.com/album/2ymV75wRLGGSeO45vwGU6X) | 2:51 | 2025-01-31 |  |
 | [Your Hand in Mine](https://open.spotify.com/track/4mZofk9oND0AA4sJfzTH0R) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/1Kea0bYAee4cGaMY7KAcMl) | 8:17 | 2022-03-25 |  |
 | [Your Hand In Mine \- Remastered](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place \(Anniversary Edition\)](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:17 | 2022-05-27 | 2024-04-19 |
-| [Zero Gravity](https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX) | [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Zero Gravity](https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox) | 2:39 | 2022-05-06 |  |
+| [Zero Gravity](https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX) | [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Zero Gravity](https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox) | 2:39 | 2022-05-06 | 2025-04-25 |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

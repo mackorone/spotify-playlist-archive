@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-966 songs - 2 day 6 hr 34 min
+967 songs - 2 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Chasing Shadows](https://open.spotify.com/track/7nxBtfw37vfNSV95pC8uzt) | [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Chasing Shadows](https://open.spotify.com/album/0D1uc3g7ceS0gZWjAkEjUe) | 4:20 | 2021-11-19 | 2022-02-12 |
 | [Chasing Stars](https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY) | [Skyler Madison](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Chasing Stars](https://open.spotify.com/album/1jUyU3oh4FJCmJtNaPJWJw) | 4:41 | 2021-11-29 | 2022-03-04 |
 | [Cheat Code](https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [REDLESS](https://open.spotify.com/artist/30j2u2oo0Q8v2pBjnb3ctJ) | [Cheat Code](https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC) | 2:50 | 2022-06-30 | 2022-09-13 |
+| [cheemistry](https://open.spotify.com/track/43GqjsNEuDm8wVdJZdwLWO) | [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [cheemistry](https://open.spotify.com/album/5euhcmT7aP4W7mrL9JWlPy) | 1:56 | 2025-04-24 |  |
 | [Choir of the Banshees](https://open.spotify.com/track/72ijk2ClDkcZ5FgD4IM1n8) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Sorcerer’s Symphony](https://open.spotify.com/album/1ajS5QuEOLZXMVG7TG9twW) | 4:11 | 2024-02-07 | 2024-05-01 |
 | [Chroma](https://open.spotify.com/track/0Yf9BcL40KJplKTDwmpIPw) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Chroma](https://open.spotify.com/album/36V5r5FbxC2I0U1rCZn2Li) | 4:10 | 2023-11-27 | 2024-03-09 |
 | [Chromatically](https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Chromatically](https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY) | 3:18 | 2024-01-25 | 2024-04-16 |

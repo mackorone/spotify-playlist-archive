@@ -4,7 +4,7 @@
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-253 songs - 10 hr 41 min
+255 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [magic feeling](https://open.spotify.com/track/13Uf530cTsAeYx3TwLnwlB) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [magic feeling](https://open.spotify.com/album/0FaQAvcCmeYxzOB8Dn6KPc) | 2:48 | 2023-08-18 | 2025-02-22 |
 | [Malam Suci](https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Malam Suci](https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff) | 4:19 | 2025-01-31 |  |
 | [maps to nowhere](https://open.spotify.com/track/2wvhy8OLnkBfThXvDwrAlj) | [leapyear](https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR), [FutureVille](https://open.spotify.com/artist/5YYDG8J9TC7S9FHyy9qgSE) | [maps to nowhere](https://open.spotify.com/album/4PJjDMSopK3Or8D50B4MFy) | 2:04 | 2023-08-14 | 2025-02-08 |
+| [melancholy](https://open.spotify.com/track/57wPccLpgo5fFYEJwGjLey) | [Ethergløw](https://open.spotify.com/artist/4wCPQdWkFOW41S7BuGOo5g), [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7) | [melancholy](https://open.spotify.com/album/4cxu9PSbrtDK6M0LVQmrlx) | 1:40 | 2025-04-24 |  |
 | [memories](https://open.spotify.com/track/2Vj1OMtjDCPlYIMmvak2Iq) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [memories](https://open.spotify.com/album/1FlMizTLU44bh37i6tAKh1) | 1:49 | 2025-02-14 |  |
 | [midnight session](https://open.spotify.com/track/1BQZgeu6kzduKrI5TfqUIM) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC), [suffershade](https://open.spotify.com/artist/09erAii23JiJfYwr8MhDLB), [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [midnight session](https://open.spotify.com/album/3BBGbRPIohTjPDD5IK2cJX) | 1:36 | 2025-01-31 |  |
 | [milk cassette x.mp3 \(slowed + reverb\)](https://open.spotify.com/track/0QZMfHkSdCXeJpszp7peVR) | [analog\_mannequin](https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH) | [milk cassette x.mp3 \(slowed + reverb\)](https://open.spotify.com/album/0NC8YAvwPObW2CJkJMRJtL) | 3:44 | 2023-08-14 | 2025-02-08 |
@@ -166,6 +167,7 @@
 | [night light](https://open.spotify.com/track/7eODFTDYmIKXFjqXRIA23X) | [castle hearts](https://open.spotify.com/artist/76RNkLoEvMKNJM1OxkBRBe) | [night light](https://open.spotify.com/album/7bKSVuKP3Iodi9cGbbLDyC) | 2:41 | 2023-09-29 |  |
 | [Nightfall](https://open.spotify.com/track/6SC9208LAobyAXtJx03GoF) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Nightfall](https://open.spotify.com/album/4848CW7S9ikm4lVG2kyOG4) | 2:48 | 2023-08-14 | 2023-10-13 |
 | [nightlights](https://open.spotify.com/track/6Y9mbCLJiTBKR5ZEtCWeZi) | [sevenlies](https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7), [Headphone Activist](https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk), [your home](https://open.spotify.com/artist/6q53f3ESKAu4uYmklhG2qV) | [nightlights](https://open.spotify.com/album/72BrOfbPQCwCXhMRXBKAJG) | 1:48 | 2023-09-22 | 2025-02-22 |
+| [no need to be alert](https://open.spotify.com/track/6Wp8A5CLtkzOzziugS4hZZ) | [i don't like mirrors](https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld) | [life update, it won't go away](https://open.spotify.com/album/1DXp37nURD8B4VtpbP53om) | 4:00 | 2025-04-24 |  |
 | [non feelings](https://open.spotify.com/track/71EwDM2NV8FVGhsmp4rmUi) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [non feelings](https://open.spotify.com/album/5qrLDx3SZlTqILarWrh6wk) | 2:46 | 2023-11-14 |  |
 | [Nova](https://open.spotify.com/track/0exX2Z6w9fC0ET8w4n0iis) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH) | [Nova](https://open.spotify.com/album/0alk8zJzhETdnniJGQwOub) | 1:44 | 2025-01-31 |  |
 | [Nova](https://open.spotify.com/track/6VczOdO8TqPFS82DxGaNMD) | [comet](https://open.spotify.com/artist/7hUqDEJnvDAU7TuYlC74cy) | [Nova](https://open.spotify.com/album/7uARZw0iN0XH2ioEgDhK7O) | 1:41 | 2023-08-14 | 2025-02-08 |

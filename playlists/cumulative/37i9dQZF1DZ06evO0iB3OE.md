@@ -4,7 +4,7 @@
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-102 songs - 6 hr 33 min
+103 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [El Inicio...](https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:48 | 2023-05-17 |  |
 | [El Jabali \- En Vivo](https://open.spotify.com/track/1ckXZnEJwjM907IZBDUX5z) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 2:53 | 2022-06-01 |  |
 | [El Jabalí](https://open.spotify.com/track/4fnYZTgXsEwpwO1GXTABlS) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:48 | 2022-10-15 | 2023-10-11 |
-| [El Licenciado](https://open.spotify.com/track/3Z6HAOYGo0za5tpU7X7Rg3) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 4:08 | 2022-06-01 |  |
+| [El Licenciado](https://open.spotify.com/track/3Z6HAOYGo0za5tpU7X7Rg3) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 4:08 | 2022-06-01 | 2025-04-25 |
 | [El M.P.](https://open.spotify.com/track/2ZThthZbJ4QwHmenUQIJcG) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:53 | 2022-06-01 | 2025-04-24 |
 | [El Mensaje](https://open.spotify.com/track/5KCqnvbmpJt4E8LiojzPCM) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Jerarquia de Corridos con Power Sinaloense! \(Edited Version\)](https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA) | 3:01 | 2022-11-16 | 2023-05-27 |
 | [El Mes De Enero](https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:36 | 2023-05-11 |  |
@@ -99,6 +99,7 @@
 | [Ni el Dinero Ni Nada](https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:50 | 2024-02-07 |  |
 | [Pachanga en el Infierno](https://open.spotify.com/track/5qWNCBn3Y0f36URNDAmOfg) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:36 | 2022-06-02 |  |
 | [Palomas Que Andan Volando / Cariñito de Mi Vida \- En Vivo](https://open.spotify.com/track/5jwl6jbNnPGtj01xeSGMaY) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 5:30 | 2022-06-01 | 2022-10-13 |
+| [Por Cristo Vivo](https://open.spotify.com/track/3E4uGtLmGNYlj8dEKXR8wK) | [Tomas Hernandez](https://open.spotify.com/artist/1xYRTB4bJqGh639domz2BS), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Hombre Nuevo](https://open.spotify.com/album/2fCDpOF1PMVDNtUfWnIybY) | 3:22 | 2025-04-25 |  |
 | [Por Cristo Vivo \(feat\. El Potro de Sinaloa\)](https://open.spotify.com/track/1LUQKYTfsiyBA8S7nQGzky) | [Tomas Hernandez](https://open.spotify.com/artist/1xYRTB4bJqGh639domz2BS), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Hombre Nuevo](https://open.spotify.com/album/7gmjWu4fTRRdcEFvUCesrA) | 3:22 | 2022-10-12 | 2024-07-24 |
 | [Por Que No Vienes](https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:29 | 2022-06-01 |  |
 | [Que No Se Apague la Lumbre](https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 3:06 | 2022-06-01 |  |

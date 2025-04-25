@@ -2,9 +2,9 @@
 
 ### [Desi Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1)
 
-> Best of South Asian Music\. Cover: Maanu, Annural Khalid
+> Best of South Asian Music\. Cover: Afusic
 
-445 songs - 1 day 1 hr 50 min
+447 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 | 2024-03-18 | 2024-04-09 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2022-06-16 | 2024-01-06 |
 | [2AM](https://open.spotify.com/track/3dhEu1ux3U7wwoQr5xFO6h) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [2AM](https://open.spotify.com/album/4N7aRRCARMSm26NnolcFuq) | 5:02 | 2024-06-19 | 2024-06-22 |
+| [48 Rhymes](https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [48 Rhymes](https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX) | 1:50 | 2025-04-24 |  |
 | [4AM in Karachi](https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Worth The Wait](https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5) | 3:28 | 2022-11-23 | 2022-12-01 |
 | [6 Maheenay](https://open.spotify.com/track/6y6pBKHe151pglLIiJw6iD) | [Talha Dar](https://open.spotify.com/artist/2qPhpzXetOadbEAO31n4NP) | [6 Maheenay](https://open.spotify.com/album/5eRdEYyiB5zyE16BiYGgjs) | 3:14 | 2022-09-08 | 2023-01-13 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2024-02-19 | 2024-11-21 |
@@ -330,6 +331,7 @@
 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE) | 2:46 | 2024-01-05 | 2024-12-05 |
 | [Punjabi Kompa](https://open.spotify.com/track/3XUeQfDlKWphVg5LFWEaRi) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Punjabi Kompa](https://open.spotify.com/album/38K1o8yxmy7ZnHr4wJaYH3) | 3:10 | 2024-11-20 | 2024-12-05 |
 | [Pushpa Pushpa \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/track/1o0bFBGkxgxCnu6mg2YrP1) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Pushpa Pushpa \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/album/2B8A82Xt4J6AXZRXfFOQGh) | 4:16 | 2024-05-22 | 2024-06-22 |
+| [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 | 2025-04-24 |  |
 | [Pyaar Hota Kayi Baar Hai \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Pyaar Hota Kayi Baar Hai \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/1cttjZoENYipDCPgISthpY) | 3:36 | 2024-01-05 | 2024-12-05 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-05-05 |
 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 | 2025-02-17 |  |

@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 203349,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/6Kxdy3nt65UFoNhTLQmVo3"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 199694,
       "name": "D.A.N (Dance All Night)",
       "url": "https://open.spotify.com/track/28vNgcNGHNKoqnfljWnN26"
@@ -2617,6 +2617,28 @@
     },
     {
       "album": {
+        "name": "Get High With You",
+        "url": "https://open.spotify.com/album/1Vaw330SIGSmYBF9VbN5v2"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186623,
+      "name": "Get High With You",
+      "url": "https://open.spotify.com/track/3BLbMyKaxcKraFkIv1lY91"
+    },
+    {
+      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK"
       },
@@ -3086,7 +3108,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 236307,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
@@ -6250,7 +6272,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 254314,
       "name": "Simple Times",
       "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
@@ -6591,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "Stop Now",
+        "url": "https://open.spotify.com/album/0A3lSVMnO2B94Lcbzp4209"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288019,
+      "name": "Stop Now",
+      "url": "https://open.spotify.com/track/03hwEnKfs0s3GeGrssARv7"
+    },
+    {
+      "album": {
         "name": "Trust It",
         "url": "https://open.spotify.com/album/4giAI1rzrdkPNFMeTL9sk0"
       },
@@ -6628,6 +6668,28 @@
       "duration_ms": 216622,
       "name": "Sunday Shoutin' - TSHA Remix",
       "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
+    },
+    {
+      "album": {
+        "name": "Sungazing (Electronic Mix)",
+        "url": "https://open.spotify.com/album/4h1vw2FoXuoCPFrMu3wZpg"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "Alexa Sunshine Rose",
+          "url": "https://open.spotify.com/artist/1EicV0pIrtOsnszBgno6SB"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "Sungazing - Electronic Mix",
+      "url": "https://open.spotify.com/track/0H72o8QdyYc57jNkvYwfAX"
     },
     {
       "album": {
@@ -7172,6 +7234,32 @@
       "duration_ms": 176114,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+    },
+    {
+      "album": {
+        "name": "The One (feat. Jocelyn Brown)",
+        "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182498,
+      "name": "The One (feat. Jocelyn Brown)",
+      "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,028 likes - 77 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,139 likes - 77 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 76 | [Tik Tik](https://open.spotify.com/track/0zXIZ3cuzZmfd1bS6cVNbY) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Amrita Sen](https://open.spotify.com/artist/21n4V78skCmFZRgMxtLic0), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Tik Tik](https://open.spotify.com/album/589jH3mLW5FI0qmCrAztkM) | 3:06 |
 | 77 | [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 |
 
-Snapshot ID: `aAJGDgAAAACTTdS8VUztMOxAMAIqlRIe`
+Snapshot ID: `aAnw1AAAAABbDQ7ztMt8BglrAanBONxq`

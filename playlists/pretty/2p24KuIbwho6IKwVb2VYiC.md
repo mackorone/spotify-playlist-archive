@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Jazzy
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,288 likes - 115 songs - 5 hr 53 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,287 likes - 115 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

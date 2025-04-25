@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,604 likes - 90 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,614 likes - 90 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 70 | [Never Fall Down](https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM) | [Never Fall Down](https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ) | 2:24 |
 | 71 | [Lifted](https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Lifted](https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF) | 2:39 |
 | 72 | [Closer](https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq) | [Sherman de Vries](https://open.spotify.com/artist/0PZ5NAziJDDcjnpMvkmMYA), [Navaro](https://open.spotify.com/artist/1NTpb0EU5OWNdUqtWEdnSW), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [Closer](https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD) | 2:54 |
-| 73 | [That Feeling](https://open.spotify.com/track/4lql7uSnzEQkREh0eu92yh) | [Wonbeat & Purpose](https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb) | [That Feeling](https://open.spotify.com/album/7El8pPTioa8zArZyUBOMOn) | 2:24 |
-| 74 | [I DON'T KNOW](https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [I DON'T KNOW](https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv) | 2:52 |
+| 73 | [I DON'T KNOW](https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [I DON'T KNOW](https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv) | 2:52 |
+| 74 | [That Feeling](https://open.spotify.com/track/4lql7uSnzEQkREh0eu92yh) | [Wonbeat & Purpose](https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb) | [That Feeling](https://open.spotify.com/album/7El8pPTioa8zArZyUBOMOn) | 2:24 |
 | 75 | [Redemption](https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [RMB](https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG) | [Redemption](https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ) | 2:15 |
 | 76 | [Needing You](https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Needing You](https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7) | 3:36 |
 | 77 | [Slowly Going Crazy \(feat\. EKE\)](https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Tomhio](https://open.spotify.com/artist/1Oi8GuEGJRkBlST7gU6YL7), [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Slowly Going Crazy \(feat\. EKE\)](https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc) | 2:27 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 87 | [Dizzy](https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [LOUII LANE](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [Dizzy](https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk) | 2:27 |
 | 88 | [A2](https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [A2](https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP) | 2:27 |
 | 89 | [Back In '99](https://open.spotify.com/track/2go9hE9lNmxdPdUSd2X2uh) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Back In '99](https://open.spotify.com/album/4QKHJEN7HIzyMDP7QCfhzs) | 2:47 |
-| 90 | [Got a Friend](https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Guillaume Gordon](https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj) | [Currents](https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy) | 2:42 |
+| 90 | [Like Thunder](https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71) | [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Nøway](https://open.spotify.com/artist/2DOYVHP5s55Muqsv0TyFyU), [Calumny](https://open.spotify.com/artist/1VzCGzFPj5ZToYK3QmpD8R) | [Like Thunder](https://open.spotify.com/album/18zUdfT1bfo8ndN0upWRsO) | 2:21 |
 
 Snapshot ID: `Z+8FEQAAAABPQCdIGBH67LtybBvNy6fy`

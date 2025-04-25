@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 109\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: CHEEZE \(치즈\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-566 songs - 1 day 9 hr 32 min
+567 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 | 2021-12-10 | 2022-08-13 |
 | [Reason Why We Have To Break Up](https://open.spotify.com/track/1IBAhKP77WU0xMrynp5Ymv) | [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C) | [Reason Why We Have To Break Up](https://open.spotify.com/album/4nwxtVuw1mxCzZ3SGIGEcu) | 3:22 | 2022-01-13 | 2022-06-25 |
 | [Regrets 미안한 마음](https://open.spotify.com/track/59PiMiACfGn5yfLTPcFeYA) | [PAPERCUT PROJECT](https://open.spotify.com/artist/40MbmSwJQPPCvWV2Q6Cuqp) | [Regrets 미안한 마음](https://open.spotify.com/album/3XsBCKZMBVB5eJt98fBJ9x) | 4:03 | 2022-03-31 | 2022-04-13 |
-| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 |  |
+| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 | 2025-04-25 |
 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 | 2022-03-31 |  |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 | 2024-09-03 |
 | [Romeo & Juliet](https://open.spotify.com/track/2WkJb27TKlVaNTM4vulZDy) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [‘BLUISH’ Unplugged](https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr) | 2:52 | 2024-12-10 | 2025-01-02 |
@@ -543,6 +543,7 @@
 | [계절은 핑계 Season is an excuse](https://open.spotify.com/track/4b3Ts1tvSUNBQ3oThWYduD) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [계절은 핑계 Season is an excuse](https://open.spotify.com/album/3KoQlMZ9ECns52XeGCfmur) | 3:11 | 2023-01-11 | 2023-01-26 |
 | [그날에 우리 My Love](https://open.spotify.com/track/37ato9JpxggrmZsqaXa3qN) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [01](https://open.spotify.com/album/7gUFQ9ulk9EbbSz8U52xTp) | 3:53 | 2022-02-18 | 2022-06-19 |
 | [그렇게 넌 나의 비밀이 되었고](https://open.spotify.com/track/0hv2VNJBFGFqS7vGWsbX3m) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars OST Part.3](https://open.spotify.com/album/79TMZgjbONFze6t6toQw0X) | 4:11 | 2023-07-01 | 2024-04-19 |
+| [그렇게 됐어 It just happened](https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [It just happened](https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh) | 2:36 | 2025-04-24 |  |
 | [내가 바보라서 그래?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [내가 바보라서 그래?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 | 2023-03-27 |  |
 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 | 2022-03-07 | 2022-06-28 |
 | [너로 짙은 밤 Mistiness of You](https://open.spotify.com/track/6RBjYC4YAXWgFmt5V94LHc) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Hanall](https://open.spotify.com/artist/2XTRUxBBVztcLWgidIVX5y) | [새봄, 03 소품집 \`겨울 우리\` How I Love You](https://open.spotify.com/album/450lHoZWkYEPoVAAMygbgB) | 3:50 | 2022-03-31 | 2022-04-21 |

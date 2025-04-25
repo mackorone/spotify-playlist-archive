@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,170 songs - 5 day 2 hr 42 min
+2,172 songs - 5 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-03-31 | 2023-04-09 |
 | [Fears In The Fire \(feat\. Camden Cox\)](https://open.spotify.com/track/1CjY6ANoDxJ20dh0DfD1qE) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Fears In The Fire \(feat\. Camden Cox\)](https://open.spotify.com/album/7lRpIFJzeeNNfRjgdFeLTR) | 3:05 | 2022-11-11 | 2022-11-19 |
 | [Feed My Hunger \(No Shade\)](https://open.spotify.com/track/0hsjCTNkruMDApePUJZMKv) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Feed My Hunger \(No Shade\)](https://open.spotify.com/album/6IpuoQShDOYowPqkxzG8Ku) | 2:24 | 2022-10-14 | 2022-10-29 |
+| [Feed The Fire](https://open.spotify.com/track/3cuOlVmoIPNNDY98qyi8pV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Feed The Fire](https://open.spotify.com/album/79isL27aZp2fspAxFGXs56) | 2:33 | 2025-04-24 |  |
 | [Feed Your Soul](https://open.spotify.com/track/6arHrJv28C4X7meSbtXZUG) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK) | [Feed Your Soul](https://open.spotify.com/album/2mNc6DXC1qHBzcZdKsqWxe) | 3:02 | 2023-03-31 | 2023-04-09 |
 | [Feel Alive](https://open.spotify.com/track/6PCiKb4TDIEtLZppK9fqzM) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Feel Alive](https://open.spotify.com/album/3mr3f08assS0OeICVBci5s) | 3:09 | 2024-03-15 | 2024-05-02 |
 | [Feel Alive](https://open.spotify.com/track/1xj3p0T92qspXHlDTMeyFN) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [Feel Alive / Be My Love](https://open.spotify.com/album/3aKodtgO1n014PgiOyg8Xj) | 3:03 | 2022-06-24 | 2022-07-02 |
@@ -1092,6 +1093,7 @@
 | [Lisa Sin La Vi\-sa](https://open.spotify.com/track/4x18ftK8TlJpDvkTaxiwJv) | [Raffa Castillo](https://open.spotify.com/artist/0NakbcldLR7JE7Zbwae5Fy), [Pato D'Auria](https://open.spotify.com/artist/2yJc7sy3LUQM3fg39vWeDH) | [From South EP](https://open.spotify.com/album/2wx0KAJs8bpJgWdlyL2RR6) | 5:30 | 2023-12-08 | 2023-12-17 |
 | [Listen \- Austin Pettit Remix](https://open.spotify.com/track/09ysaqWecuRW7gGLBrxTDm) | [Stan Kolev](https://open.spotify.com/artist/6MzHMxgYcbj6ue5w9pbNp9), [Austin Pettit](https://open.spotify.com/artist/2hvTEkJIyi0TLuwpRX1awn) | [Listen \[The Remixes\]](https://open.spotify.com/album/2khLaEBxaaisEWt7lGTPg3) | 6:16 | 2023-11-05 | 2023-11-10 |
 | [Little Perk](https://open.spotify.com/track/6Z0pACbh4jmSOL4d47FRHi) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Little Perk](https://open.spotify.com/album/4hYel5A8uGNtLLYsHC7Fj8) | 3:01 | 2023-11-27 | 2023-12-01 |
+| [Litty](https://open.spotify.com/track/22M3ZdXhlQ1TOlaDAf5D1x) | [Blake Russ](https://open.spotify.com/artist/3RnKX0pQ5RlG6yZHla8DGh) | [Litty](https://open.spotify.com/album/0TcdUMebuTSqRQirqd8ph8) | 3:34 | 2025-04-24 |  |
 | [Live Stream \- Noizu Remix](https://open.spotify.com/track/44wKNLBs2kjyY5KqjWqY0z) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m) | [Live Stream \(Noizu Remix\)](https://open.spotify.com/album/6MY8C5VVAizFXfEgDeTnin) | 3:03 | 2023-06-30 | 2023-07-16 |
 | [Live Wire](https://open.spotify.com/track/6pd1xr5qxj4lw1GD6QBDxl) | [Valy Mo](https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH), [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Live Wire](https://open.spotify.com/album/1rffiRmofrgygTi0L2V5i4) | 3:08 | 2023-11-10 | 2023-11-18 |
 | [Liveware](https://open.spotify.com/track/3lJ5MhiuH901erw39QQPDB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Liveware](https://open.spotify.com/album/3sA8rKmuHD7BvBbgqSYDrd) | 4:27 | 2022-10-28 | 2022-11-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Flow so good, it deserved a reload.  Cover: Ruff Sqwad",
+  "description": "Flow so good, it deserved a reload.  Cover: namesbliss",
   "name": "Grime Shutdown",
   "tracks": [
     {
@@ -1645,6 +1645,40 @@
     },
     {
       "album": {
+        "name": "signature sound",
+        "url": "https://open.spotify.com/album/3q07K9HBN5xuTHJViysGrF"
+      },
+      "artists": [
+        {
+          "name": "namesbliss",
+          "url": "https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM"
+        },
+        {
+          "name": "SAMSON",
+          "url": "https://open.spotify.com/artist/2I2FhyufVacXGtnLVt5mcp"
+        },
+        {
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        },
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        },
+        {
+          "name": "t.o",
+          "url": "https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179571,
+      "name": "different szn",
+      "url": "https://open.spotify.com/track/2RJP8HJyRvevWsRqdPruz7"
+    },
+    {
+      "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F"
       },
@@ -2202,6 +2236,28 @@
       "duration_ms": 198855,
       "name": "Fake",
       "url": "https://open.spotify.com/track/3i0FJcMMq7b4xY6bSdjNN8"
+    },
+    {
+      "album": {
+        "name": "signature sound",
+        "url": "https://open.spotify.com/album/3q07K9HBN5xuTHJViysGrF"
+      },
+      "artists": [
+        {
+          "name": "namesbliss",
+          "url": "https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM"
+        },
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Falling Into Place",
+      "url": "https://open.spotify.com/track/1Pmz95JwdCItjhPzOCpyga"
     },
     {
       "album": {
@@ -3210,7 +3266,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 154285,
       "name": "LORDSBACK",
       "url": "https://open.spotify.com/track/6tz7H2LGak2ePMD9NPCNFz"
@@ -4299,6 +4355,28 @@
     },
     {
       "album": {
+        "name": "premium wear",
+        "url": "https://open.spotify.com/album/3mCq1Ij05M5IpEneuQPdu8"
+      },
+      "artists": [
+        {
+          "name": "namesbliss",
+          "url": "https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM"
+        },
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "premium wear",
+      "url": "https://open.spotify.com/track/6pKJ4KJfFW1M56NhlSm77e"
+    },
+    {
+      "album": {
         "name": "Profit (More)",
         "url": "https://open.spotify.com/album/34OEApqJAjJsRSQos1dF2b"
       },
@@ -4442,7 +4520,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 153065,
       "name": "Rambunctious",
       "url": "https://open.spotify.com/track/4ydjedF1eYBuQFP6RuMrJU"
@@ -5998,7 +6076,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 270866,
       "name": "Who's Dat",
       "url": "https://open.spotify.com/track/4MDkWrmycdgiNC8wPtk3O7"

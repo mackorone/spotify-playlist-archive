@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2010s.",
-  "num_followers": 43536,
+  "num_followers": 43548,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "ATTENTION ATTENTION",
         "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 207986,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 212309,
-      "name": "Little Monster",
-      "url": "https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "1000hp",
         "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
       },
@@ -1331,34 +1315,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Going to Hell",
-        "url": "https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf"
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 224854,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
-        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 247388,
-      "name": "House of The Rising Sun",
-      "url": "https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu"
+      "duration_ms": 212309,
+      "name": "Little Monster",
+      "url": "https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1379,6 +1347,38 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
+        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 247388,
+      "name": "House of The Rising Sun",
+      "url": "https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Going to Hell",
+        "url": "https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 224854,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Concrete and Gold",
         "url": "https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Don\u2019t Want To Be Here Anymore",
-      "url": "https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "How Did We Get So Dark?",
         "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 236426,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1060gzllf4b0UETAXisR5l"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Don\u2019t Want To Be Here Anymore",
+      "url": "https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8"
     },
     {
       "added_at": "2024-07-12 15:00:09",

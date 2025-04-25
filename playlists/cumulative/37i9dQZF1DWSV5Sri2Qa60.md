@@ -2,9 +2,9 @@
 
 ### [Hot New Bands](https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60)
 
-> Where your new favourite bands are discovered\. Cover: Big Fear
+> Where your new favourite bands are discovered\. Cover: Florence Road
 
-183 songs - 10 hr 50 min
+184 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-06-14 | 2024-10-07 |
 | [Building Roads](https://open.spotify.com/track/4xjZOMTWj9ZsfZKaxCxlaD) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Building Roads](https://open.spotify.com/album/7itUe0aCfugwV54Y7MgobA) | 4:12 | 2025-03-07 |  |
 | [Carnival](https://open.spotify.com/track/1byfGV9rZiQ6JUWusNlFSm) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Carnival](https://open.spotify.com/album/6hoc9hWzAKyCzOL1TYkkgd) | 3:38 | 2024-07-12 | 2024-09-14 |
+| [Caterpillar](https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Caterpillar](https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6) | 3:37 | 2025-04-24 |  |
 | [CEASE.](https://open.spotify.com/track/1B472gBXtRLSnYW91YJzvB) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [CEASE.](https://open.spotify.com/album/22MeZuh7uiFhLz4JNj6L9f) | 3:40 | 2024-06-14 | 2024-09-07 |
 | [Charlie's Comet](https://open.spotify.com/track/2Y7Z6kTzPQFwStThi451lf) | [Mandrake Handshake](https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn) | [Charlie's Comet](https://open.spotify.com/album/5Rfey08LMXUVIPlXr3r6HH) | 4:02 | 2024-07-26 | 2024-10-07 |
 | [Cherish Me](https://open.spotify.com/track/2H9nygQI4OK0jsIlLkdhLS) | [bathhat](https://open.spotify.com/artist/2xNyA9koSMPLamMdcYvzfh) | [Cherish Me](https://open.spotify.com/album/1Kyh8FeOkcNHLPxxPnKTQx) | 2:52 | 2024-07-12 | 2024-12-13 |

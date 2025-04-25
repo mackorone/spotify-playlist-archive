@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-329 songs - 20 hr 59 min
+330 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Luz de Luna](https://open.spotify.com/track/74f3f2OeIyXFvxSs2xk5IG) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Rozalén por Chavela](https://open.spotify.com/album/25dLCScmY71x60dbg002J2) | 3:22 | 2025-02-27 |  |
 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 | 2022-09-08 | 2024-04-19 |
 | [María la portuguesa](https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 3:52 | 2022-06-09 | 2023-03-03 |
+| [Mascaritas de Cristal](https://open.spotify.com/track/7wXNrDKCtYQGqtw1GFptJ0) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 6:25 | 2025-04-24 |  |
 | [Me Gustas](https://open.spotify.com/track/7vgvrrqPEJdmy6SPPfVU6t) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Me Gustas](https://open.spotify.com/album/4f1jHRboBgEMGte3zPDdEx) | 2:47 | 2022-06-09 | 2022-07-29 |
 | [Me haces bien](https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Sea](https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO) | 3:04 | 2022-06-09 | 2025-02-28 |
 | [Me Haces Sentir](https://open.spotify.com/track/4ywBpjRtlyKNl6peJiwQlV) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [Me Haces Sentir](https://open.spotify.com/album/1qpIGwMU9Wt6RzMnmeaAjY) | 3:11 | 2024-02-29 | 2024-03-16 |
@@ -210,7 +211,7 @@
 | [No Me Canso](https://open.spotify.com/track/1OSCcrTT1lsTZ2GRs4hO59) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt) | [Universo Totémico \(Universo Abierto\)](https://open.spotify.com/album/54SuYbmBJPAvRzZP3sL175) | 4:38 | 2022-06-09 | 2022-07-03 |
 | [No Me Canso](https://open.spotify.com/track/1VPeUoMWXpYZgiVhqJTIOE) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt) | [Universo Abierto](https://open.spotify.com/album/6hLgeQhZCKNGsDGgz7oPSM) | 4:38 | 2022-11-10 | 2023-02-19 |
 | [No Me Canso \(En Directo\)](https://open.spotify.com/track/3Fr0Xm46f8C2iIzTB6z7Ey) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt), [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [7300 Días, Pt\. 3 \(En Directo\)](https://open.spotify.com/album/53R1T85J5DBStrwnxsFzzE) | 4:54 | 2023-07-10 | 2023-09-02 |
-| [No olvidarme de olvidar \(feat\. Carlos Rivera\)](https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [En la memoria de la piel \(Deluxe Version\)](https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt) | 4:07 | 2022-06-09 |  |
+| [No olvidarme de olvidar \(feat\. Carlos Rivera\)](https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [En la memoria de la piel \(Deluxe Version\)](https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt) | 4:07 | 2022-06-09 | 2025-04-25 |
 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 | 2022-06-09 |  |
 | [No Saben de Ti](https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Mi Pequeña Historia](https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz) | 3:57 | 2022-08-11 | 2023-03-25 |
 | [No se dice suerte](https://open.spotify.com/track/5mscPr5RK0ivJGDfIjFnvL) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [No se dice suerte](https://open.spotify.com/album/0mus4ElrKxyWO3b4nZzdtb) | 4:23 | 2022-11-24 | 2023-01-28 |

@@ -4,7 +4,7 @@
 
 > Listen to the future.
 
-175 songs - 9 hr 33 min
+177 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/track/6ntx8S1rMyvbydeSvNUtmJ) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/album/07CbkGl1YOymwyeWb4Nug9) | 2:48 | 2024-10-24 | 2024-12-05 |
 | [Can't tell](https://open.spotify.com/track/5KMrcmjD5t287xvHuDxzw4) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 3:00 | 2025-03-27 | 2025-04-16 |
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2024-06-27 | 2025-04-16 |
-| [CASHRULES](https://open.spotify.com/track/62L1fSACUVj8iYDnhTVMum) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [CASHRULES](https://open.spotify.com/album/5nv3k81qSs9q56Lfvo2cim) | 2:40 | 2025-04-15 |  |
+| [CASHRULES](https://open.spotify.com/track/62L1fSACUVj8iYDnhTVMum) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [CASHRULES](https://open.spotify.com/album/5nv3k81qSs9q56Lfvo2cim) | 2:38 | 2025-04-15 |  |
 | [Cemburu](https://open.spotify.com/track/3fbNkHTrMF0bAL9IV6z9dC) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Cemburu](https://open.spotify.com/album/1huyLizjNAl9LhQCgdGQgO) | 2:45 | 2024-06-27 | 2025-04-16 |
 | [Cinematic](https://open.spotify.com/track/0NEAWc8Q9QUPleQdElSCXw) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:43 | 2024-08-08 | 2024-12-05 |
 | [Cinta Berlalu.](https://open.spotify.com/track/2i8fWdcVQ8LiaTPzvcvov2) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Cinta Berlalu.](https://open.spotify.com/album/6tXIASg7IsFRWHIgvIFgP3) | 3:02 | 2024-06-27 | 2025-04-16 |
@@ -82,6 +82,7 @@
 | [half of my heart](https://open.spotify.com/track/1axeB1swjtFnZk8weaQcrN) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 3:38 | 2024-12-04 | 2025-04-16 |
 | [half of my heart](https://open.spotify.com/track/42BeZN1Am9yq6xkkuyumrG) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 3:38 | 2024-06-27 | 2024-12-05 |
 | [HASTE](https://open.spotify.com/track/4LkpLJvOYZSLgo9ZWN3kHG) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [HASTE](https://open.spotify.com/album/3dpBjcmALy8faXQ28ikOPK) | 3:00 | 2025-04-15 |  |
+| [headspace](https://open.spotify.com/track/7iYW5BO8v0Q5Lh2vG9cdTX) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [headspace](https://open.spotify.com/album/0RKtnkVRnOQwD5OBcXnFEP) | 3:08 | 2025-04-24 |  |
 | [heartache frenzy](https://open.spotify.com/track/6vZOJ4VYXyIfRSp5eftw9Z) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 3:40 | 2024-12-04 | 2025-04-16 |
 | [heartache frenzy](https://open.spotify.com/track/79Ic3LNMS0SDBcJPyihu14) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [heartache frenzy](https://open.spotify.com/album/3yygTbYVIVZgZ70E2Y3dd0) | 3:40 | 2024-06-27 | 2024-12-05 |
 | [high school boy](https://open.spotify.com/track/44P8V1OgBQH1l54gY5Buck) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [high school boy](https://open.spotify.com/album/2ORcCijIfVbm8mfSzhHhRB) | 2:54 | 2024-06-27 | 2024-12-05 |
@@ -174,6 +175,7 @@
 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 | 2024-06-27 | 2024-12-05 |
 | [what would it take?](https://open.spotify.com/track/3T9l0r98QH8BPVsqDvCH1f) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 4:10 | 2025-04-15 |  |
 | [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Aswad Anuar](https://open.spotify.com/artist/1B1M93wNXmybMqjQCcjgIR) | [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/album/50WMtF6oBYcbja0JawYF2T) | 3:32 | 2024-07-25 | 2025-04-16 |
+| [XTCY](https://open.spotify.com/track/0pnzM7eCtqfMBDhXV89T35) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [XTCY](https://open.spotify.com/album/1JtxJBcW6bAU3HI8NwfsjE) | 3:23 | 2025-04-24 |  |
 | [Ya Hayati](https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Ya Hayati](https://open.spotify.com/album/0ZfkgUy4g9y5E4pekNGyNE) | 3:29 | 2024-06-27 | 2024-12-05 |
 | [YOU](https://open.spotify.com/track/1Y3yYZKCbk9G6CiBxJ3BLT) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [YOU](https://open.spotify.com/album/7rixXHKYaXdEkeS9EIGzAu) | 2:20 | 2024-06-27 | 2024-12-05 |
 | [YOU](https://open.spotify.com/track/57FgDnAbBNRPUeebknnRn5) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [Emotions](https://open.spotify.com/album/1BzliMgMIAzl5fotON2A0T) | 2:20 | 2024-12-04 | 2025-04-16 |

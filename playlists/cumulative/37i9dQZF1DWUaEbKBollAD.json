@@ -184,7 +184,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 223561,
       "name": "All One",
       "url": "https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 155500,
       "name": "Arbor",
       "url": "https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 251125,
       "name": "Ayse",
       "url": "https://open.spotify.com/track/67dEahq24d0GdzoawwdOps"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 198580,
       "name": "Self Command - Radio Edit",
       "url": "https://open.spotify.com/track/2DKmB466iecPl7kMnrfa4i"
@@ -2251,6 +2251,28 @@
     },
     {
       "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/1bYHcpySfB2nB010FkFHWC"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224788,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/3HD3QiXD5962IrhFhCyXnd"
+    },
+    {
+      "album": {
         "name": "Sogno Infinito",
         "url": "https://open.spotify.com/album/4BFCsYT9An8sb36FltNyql"
       },
@@ -2284,6 +2306,24 @@
       "duration_ms": 231428,
       "name": "Soulstice",
       "url": "https://open.spotify.com/track/4ODwlv8IZ0PQrqgM8iVOb8"
+    },
+    {
+      "album": {
+        "name": "Ritualism EP",
+        "url": "https://open.spotify.com/album/0fxg0IWKE9wC47QNPL80uf"
+      },
+      "artists": [
+        {
+          "name": "1200 Micrograms",
+          "url": "https://open.spotify.com/artist/2opB8qXyAmLYSGEZxp7X3U"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429650,
+      "name": "Speed Freak",
+      "url": "https://open.spotify.com/track/6kjcAmDG2MM2zWUw5lyTGH"
     },
     {
       "album": {
@@ -2478,7 +2518,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 529051,
       "name": "The Power of Now - Dekel Remix",
       "url": "https://open.spotify.com/track/2xcrSYZvKbRnPKQmEdUIR5"
@@ -2518,10 +2558,28 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 217645,
       "name": "The Rave - Sped Up",
       "url": "https://open.spotify.com/track/1sa7MXOGOoRHVQ9xKJEecV"
+    },
+    {
+      "album": {
+        "name": "Music Never Stops",
+        "url": "https://open.spotify.com/album/0o26WuwLDlmmECVwqsnMDe"
+      },
+      "artists": [
+        {
+          "name": "Kos:mo",
+          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362888,
+      "name": "The Tribe - Original Mix",
+      "url": "https://open.spotify.com/track/3lHT8c3vKC3hdUrybNS617"
     },
     {
       "album": {
@@ -2794,6 +2852,64 @@
       "duration_ms": 335000,
       "name": "Warp Drive",
       "url": "https://open.spotify.com/track/6zdJnikLSW14nk8lrHcde5"
+    },
+    {
+      "album": {
+        "name": "ARTCORE DUO III",
+        "url": "https://open.spotify.com/album/09bjc0nfdh6aYopxR8G2is"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222299,
+      "name": "Warriors Of Light",
+      "url": "https://open.spotify.com/track/4TWinoKTnaa62vAW3ph80f"
+    },
+    {
+      "album": {
+        "name": "ARTCORE DUO III",
+        "url": "https://open.spotify.com/album/09bjc0nfdh6aYopxR8G2is"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201852,
+      "name": "We Dream In The Same Language",
+      "url": "https://open.spotify.com/track/6M44SpdVxr9AZ7WNhMRpPN"
+    },
+    {
+      "album": {
+        "name": "What They Call Us (\u00c2me Remix)",
+        "url": "https://open.spotify.com/album/1dMBNnRV9SC7wD5ejVRs7p"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414896,
+      "name": "What They Call Us (\u00c2me Remix)",
+      "url": "https://open.spotify.com/track/2lCDYozgN5XCv8YOeYl0kR"
     },
     {
       "album": {

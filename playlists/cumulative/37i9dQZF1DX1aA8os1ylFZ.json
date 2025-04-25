@@ -9549,6 +9549,24 @@
     },
     {
       "album": {
+        "name": "HIATUS",
+        "url": "https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214488,
+      "name": "SPEECHLESS",
+      "url": "https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf"
+    },
+    {
+      "album": {
         "name": "speed up",
         "url": "https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG"
       },

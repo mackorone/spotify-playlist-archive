@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 9842,
+  "num_followers": 9848,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADKQc2pixGG7s5Q6qEMTShU",
+  "snapshot_id": "aAgtgAAAAABNRjJ8EBeviGdFrmxBl6k3",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucha Calidad",
-        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "A Mano Dura",
-      "url": "https://open.spotify.com/track/0NLKxo7am9HmdtjrndiKJL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clase Aparte",
         "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 237540,
       "name": "Hab\u00edamos Terminado",
       "url": "https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mucha Calidad",
+        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "A Mano Dura",
+      "url": "https://open.spotify.com/track/0NLKxo7am9HmdtjrndiKJL"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Binomio de Oro Total",
-        "url": "https://open.spotify.com/album/0XsnG9Ipb9bcE5taTIbWVm"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 282107,
-      "name": "El Amor No Miente",
-      "url": "https://open.spotify.com/track/1uBfTcmu1F1NECpU0p3HMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clase Aparte",
         "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
       },
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Fiesta Con El Binomio De Oro",
-        "url": "https://open.spotify.com/album/76WWdL5GKIAP7OiSCCOeOy"
+        "name": "Binomio de Oro Total",
+        "url": "https://open.spotify.com/album/0XsnG9Ipb9bcE5taTIbWVm"
       },
       "artists": [
         {
@@ -672,9 +656,25 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 268946,
-      "name": "Cualquier Momento Es Preciso para Amar",
-      "url": "https://open.spotify.com/track/3A5hz5Nnm7juB0yrq84IoG"
+      "duration_ms": 282107,
+      "name": "El Amor No Miente",
+      "url": "https://open.spotify.com/track/1uBfTcmu1F1NECpU0p3HMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos El Vallenato",
+        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 267573,
+      "name": "Nuevo Juramento",
+      "url": "https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos El Vallenato",
-        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+        "name": "De Fiesta Con El Binomio De Oro",
+        "url": "https://open.spotify.com/album/76WWdL5GKIAP7OiSCCOeOy"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 267573,
-      "name": "Nuevo Juramento",
-      "url": "https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp"
+      "duration_ms": 268946,
+      "name": "Cualquier Momento Es Preciso para Amar",
+      "url": "https://open.spotify.com/track/3A5hz5Nnm7juB0yrq84IoG"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera De Serie",
-        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 311573,
-      "name": "Enamorado De Ti",
-      "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superior",
         "url": "https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 250933,
       "name": "Miedo Al Amor",
       "url": "https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera De Serie",
+        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 311573,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 237635,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/0F97INEkwz8j8srltTnixX"
+      "duration_ms": 295706,
+      "name": "No Vale Quererla",
+      "url": "https://open.spotify.com/track/7zZpuiZ1T8aMtyo2Edrc1E"
     },
     {
       "added_at": null,

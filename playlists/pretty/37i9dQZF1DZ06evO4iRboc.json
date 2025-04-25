@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 276279,
+  "num_followers": 276503,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADWoNNlswpajRMSKHb+/bS5",
+  "snapshot_id": "aAgtgAAAAAB+6GHPFHSnKFtJ9IL6w3bP",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Typical of Me EP",
         "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 180301,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/0R5vO904RzxDJ30yZaspQD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Typical of Me EP",
         "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 162758,
       "name": "Like the Movies",
       "url": "https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "Second Best",
-      "url": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Typical of Me EP",
         "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 164277,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/5zQR0qoA4S1Iwj2bAwW03a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "Second Best",
+      "url": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
     },
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 239308,
+      "name": "No One Knows (with Laufey)",
+      "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 239308,
-      "name": "No One Knows (with Laufey)",
-      "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
     },
     {
       "added_at": null,

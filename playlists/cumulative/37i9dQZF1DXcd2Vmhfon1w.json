@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Las Ninyas del Corro, Faenna.",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Recycled J.",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Barzel\u00f3",
+        "url": "https://open.spotify.com/album/0eTSCHBqausAV2iWuk2jn0"
+      },
+      "artists": [
+        {
+          "name": "Arce",
+          "url": "https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Barzel\u00f3",
+      "url": "https://open.spotify.com/track/0Jsgj7GfuheJ71MMAlukWn"
+    },
+    {
+      "album": {
         "name": "Bee-B\u00e9",
         "url": "https://open.spotify.com/album/5FCS4T2dL2U61yvMLe2Lkm"
       },
@@ -2162,10 +2180,32 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 179028,
       "name": "Cap\u00edtulo 2: Capit\u00e1n Fari\u00f1a",
       "url": "https://open.spotify.com/track/1tSpfwsSZQwxSVDuY1vInB"
+    },
+    {
+      "album": {
+        "name": "Cap\u00edtulo 3: Yo soy CA\u00cdN",
+        "url": "https://open.spotify.com/album/1sizHcWXIH6k1TWso2gB6Y"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/6c4WWQ2PYJlgnxtkQKqI5s"
+        },
+        {
+          "name": "Frasco de Pruna",
+          "url": "https://open.spotify.com/artist/4g6gXnhARfkkofER60jbSw"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190610,
+      "name": "Cap\u00edtulo 3: Yo soy CA\u00cdN",
+      "url": "https://open.spotify.com/track/3sDxl8N7QzZMIR42wgLqy1"
     },
     {
       "album": {
@@ -2889,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "CUANDO BEBO PIENSO EN TI",
+        "url": "https://open.spotify.com/album/0ktUyfKMSn5lvfUwp1EutX"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "CUANDO BEBO PIENSO EN TI",
+      "url": "https://open.spotify.com/track/0Qj6fjsnsvnuxgHdRDPkil"
+    },
+    {
+      "album": {
         "name": "Cura de humildad",
         "url": "https://open.spotify.com/album/08nULIhhMXnkD0ubdPnJDK"
       },
@@ -3598,7 +3656,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 175151,
       "name": "El Brillo",
       "url": "https://open.spotify.com/track/3TienUeja5ummxdmi2crSN"
@@ -3974,7 +4032,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 246949,
       "name": "En Paz",
       "url": "https://open.spotify.com/track/5JNSW2e7XKrMqJMVNHWNjj"
@@ -5131,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "Infiel",
+        "url": "https://open.spotify.com/album/5b8ZJ3f5Jh0wlMvdqyccDP"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198467,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/5uueYl6LYBFQfMI75rJyuG"
+    },
+    {
+      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/2H1nBBph1FciPPMbXEUalK"
       },
@@ -6042,7 +6118,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 147096,
       "name": "Litio",
       "url": "https://open.spotify.com/track/10YBkzqqHJM2OrOqwe2r0U"
@@ -8160,7 +8236,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 198844,
       "name": "Oro y Platino",
       "url": "https://open.spotify.com/track/04DrDbFScExRdbrgW36QTq"
@@ -8828,7 +8904,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 186724,
       "name": "Quiero tu Orgullo",
       "url": "https://open.spotify.com/track/2DCNQRIzlnJOJNKyQavq8y"
@@ -11003,6 +11079,54 @@
     },
     {
       "album": {
+        "name": "Tus Ojos",
+        "url": "https://open.spotify.com/album/58DxRMDqdzPM36avPX86Te"
+      },
+      "artists": [
+        {
+          "name": "RADE",
+          "url": "https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h"
+        },
+        {
+          "name": "3dnan",
+          "url": "https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz"
+        },
+        {
+          "name": "Ocer y Rade",
+          "url": "https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/5bbfx9QYvQPN8HW92hwXbS"
+    },
+    {
+      "album": {
+        "name": "T\u00e1cticas de Supervivencia",
+        "url": "https://open.spotify.com/album/0CmKvgxnwObfNVApYVnrNB"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183561,
+      "name": "T\u00e1cticas de Supervivencia",
+      "url": "https://open.spotify.com/track/7G0ZP8GJ6fu8SrFU2kYk6R"
+    },
+    {
+      "album": {
         "name": "t\u00fa que ves en m\u00ed",
         "url": "https://open.spotify.com/album/4fNicfMtWvawINqyNCFIy9"
       },
@@ -11414,7 +11538,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 224802,
       "name": "VOY A INTENTARLO",
       "url": "https://open.spotify.com/track/2xzwH1qZxJAOsw2ekT8sjY"
@@ -11806,6 +11930,24 @@
       "duration_ms": 168387,
       "name": "ZEUS",
       "url": "https://open.spotify.com/track/2OcGEcb1mLpgWIlfh3BeQw"
+    },
+    {
+      "album": {
+        "name": "ZIZOU",
+        "url": "https://open.spotify.com/album/3AhQKmxOAEkqZLzgNIvU1M"
+      },
+      "artists": [
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151810,
+      "name": "ZIZOU",
+      "url": "https://open.spotify.com/track/5QbkyOwTxt9KECemud7Oxe"
     },
     {
       "album": {

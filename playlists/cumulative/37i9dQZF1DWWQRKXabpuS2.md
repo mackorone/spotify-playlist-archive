@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. غلاف: فهد العمري
 
-406 songs - 1 day 3 hr 54 min
+407 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ahmed Allah Aleek](https://open.spotify.com/track/3wHwGaImG08yAIzOnh8qc4) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ahmed Allah Aleek](https://open.spotify.com/album/64pCUD9wMYdC4lQZOryvaB) | 2:26 | 2023-09-18 | 2024-04-11 |
 | [Aijrah From Ayed Album 2025](https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Aijrah From Ayed Album 2025](https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J) | 4:14 | 2025-01-31 |  |
 | [Ajeeb](https://open.spotify.com/track/7LKTbmjssPM3r1HrhmP3VA) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Ajeeb](https://open.spotify.com/album/650irPCmiDJM3NlG3RmSjA) | 3:36 | 2025-02-14 |  |
-| [Akhaf Admank](https://open.spotify.com/track/79VV7tQBOrBBmZRhtuCeSn) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Akhaf Admank](https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH) | 3:32 | 2024-07-30 |  |
+| [Akhaf Admank](https://open.spotify.com/track/79VV7tQBOrBBmZRhtuCeSn) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Akhaf Admank](https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH) | 3:32 | 2024-07-30 | 2025-04-25 |
 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 | 2023-02-24 | 2023-09-19 |
 | [Akher Dewa](https://open.spotify.com/track/5va2QPTuewBSnuelOg5KNr) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Akher Dewa](https://open.spotify.com/album/6JM8uw45QxwGoG9g3I5szu) | 4:56 | 2024-05-01 | 2025-02-01 |
 | [Akher Ensanah](https://open.spotify.com/track/2XkedYpoTNAhTqDYNCzC9O) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Akher Ensanah](https://open.spotify.com/album/4nxeckkOz5dSc61Mk0kc4V) | 2:58 | 2024-08-01 |  |
@@ -354,6 +354,7 @@
 | [حظ من شافك](https://open.spotify.com/track/2vVlibedNRJkM7xIHkMiq4) | [Faisal Al Jasem](https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT) | [حظ من شافك](https://open.spotify.com/album/62oXdDuMezhgs39J3liFYg) | 3:49 | 2023-06-30 | 2023-12-30 |
 | [حنيت](https://open.spotify.com/track/4SbeEnZSqDyHZrOruHLMjh) | [Mai Mostafa](https://open.spotify.com/artist/30anNvRIZmx6agpOWolWRI) | [حنيت](https://open.spotify.com/album/2iAFWITELlig4HQfHQmq3G) | 4:15 | 2022-01-06 | 2022-06-10 |
 | [درعية العز](https://open.spotify.com/track/5zVEy651bxerXBDB6Y93Vk) | [Rashed Al Fares](https://open.spotify.com/artist/7J900jipjzgeVmiVU3a5cf) | [درعية العز](https://open.spotify.com/album/0QmEQZpP3QEwr6fJOeMGc8) | 3:10 | 2024-02-06 | 2024-09-06 |
+| [راحت أيامه](https://open.spotify.com/track/0F7zIQlo4DFp0VGI4E2ObA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 3:59 | 2025-04-24 |  |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 | 2023-01-10 |
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-02-24 | 2022-08-13 |
 | [زلزال](https://open.spotify.com/track/0FO3XVNhGNq86mZ1uEhYvK) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 4:16 | 2023-06-06 | 2023-12-15 |

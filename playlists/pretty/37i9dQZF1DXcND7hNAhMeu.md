@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷 Kapak: Rana Türkyılmaz
+> Geleceğin seslerini dinle! Kapak: Ceren Sagu
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,107 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,143 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HAYVAN](https://open.spotify.com/track/6KhrDTJpM5sWEwwpVbFI75) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [HAYVAN](https://open.spotify.com/album/6vRLveKJhZszazyUrRJ54E) | 3:05 |
-| 2 | [cümlelerim](https://open.spotify.com/track/3GQm1FfMFmpoPyOwlo4bqL) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [cümlelerim](https://open.spotify.com/album/2GGvDWqti6JlsrRTKWsrLF) | 3:29 |
+| 2 | [bırak öleyim](https://open.spotify.com/track/16G2UlN8OFUCf5qAGNadQK) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [cümlelerim](https://open.spotify.com/album/7igC0FT4qMplTZsnMzyhyv) | 3:28 |
 | 3 | [Bırakın Arasın](https://open.spotify.com/track/2mp5AxLWjNW7WGvJ8uWddm) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bırakın Arasın](https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA) | 2:38 |
 | 4 | [Astigmat](https://open.spotify.com/track/5gf4J44vNmaqOEupZS9KXJ) | [kerem.](https://open.spotify.com/artist/3Y7BOP46zC3Tbze2TW8CQr), [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Astigmat](https://open.spotify.com/album/2pon3ie4lL3wU78c0BMuWZ) | 2:38 |
 | 5 | [İlkler Kalır](https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [İlkler Kalır](https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC) | 2:48 |
 | 6 | [çaykaram](https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:42 |
 | 7 | [Yorgun](https://open.spotify.com/track/2SYCfe2yzmgHaZUuuppvbs) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Yorgun](https://open.spotify.com/album/7xs9jllVuXbKdtyXHYqiH7) | 2:56 |
 | 8 | [Unutulur Değil Mi?](https://open.spotify.com/track/5tGp0BntYrg5aVBkUiGqhQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Unutulur Değil Mi?](https://open.spotify.com/album/16VaDufn3R9KOxKm0xFuRp) | 3:35 |
-| 9 | [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 |
-| 10 | [Ara Sıcak](https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ara Sıcak](https://open.spotify.com/album/3ymtkW72HtG3DoRJm4rD1c) | 3:36 |
-| 11 | [FARKINDA DEĞİLDİN](https://open.spotify.com/track/0hpyV1jNlhTMgyyFhD38FW) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [FARKINDA DEĞİLDİN](https://open.spotify.com/album/0thzIGrx4KCbBFpNsOHKdx) | 3:21 |
-| 12 | [Hayran](https://open.spotify.com/track/46achL0ohwWzbyC4VvNR01) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hayran](https://open.spotify.com/album/6oFOEKBQnaHhNcQTKUv7vk) | 2:12 |
-| 13 | [Bağımlıyım Tenine](https://open.spotify.com/track/31kOqM6XzCyKXMxYnhIDF9) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bağımlıyım Tenine](https://open.spotify.com/album/4Muz2oRuw0rh2j0yobqZ6L) | 2:07 |
-| 14 | [Çilekeş](https://open.spotify.com/track/14VaOiw20bPu33QIq3L8Ch) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Çilekeş](https://open.spotify.com/album/5Syb0Bg2H2EHUgPPM2UZto) | 2:19 |
-| 15 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 |
-| 16 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 |
+| 9 | [cümlelerim](https://open.spotify.com/track/3GQm1FfMFmpoPyOwlo4bqL) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [cümlelerim](https://open.spotify.com/album/2GGvDWqti6JlsrRTKWsrLF) | 3:29 |
+| 10 | [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 |
+| 11 | [Ara Sıcak](https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ara Sıcak](https://open.spotify.com/album/3ymtkW72HtG3DoRJm4rD1c) | 3:36 |
+| 12 | [FARKINDA DEĞİLDİN](https://open.spotify.com/track/0hpyV1jNlhTMgyyFhD38FW) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [FARKINDA DEĞİLDİN](https://open.spotify.com/album/0thzIGrx4KCbBFpNsOHKdx) | 3:21 |
+| 13 | [Hayran](https://open.spotify.com/track/46achL0ohwWzbyC4VvNR01) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hayran](https://open.spotify.com/album/6oFOEKBQnaHhNcQTKUv7vk) | 2:12 |
+| 14 | [Bağımlıyım Tenine](https://open.spotify.com/track/31kOqM6XzCyKXMxYnhIDF9) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bağımlıyım Tenine](https://open.spotify.com/album/4Muz2oRuw0rh2j0yobqZ6L) | 2:07 |
+| 15 | [Çilekeş](https://open.spotify.com/track/14VaOiw20bPu33QIq3L8Ch) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Çilekeş](https://open.spotify.com/album/5Syb0Bg2H2EHUgPPM2UZto) | 2:19 |
+| 16 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 |
 | 17 | [Nerdesin](https://open.spotify.com/track/333y41DcVB1R1Ly1vPNFKO) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Nerdesin](https://open.spotify.com/album/5CLxL72LeuNhfE9ijddWaP) | 3:25 |
 | 18 | [Öl İçimde](https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Öl İçimde](https://open.spotify.com/album/41SssnSpIajL67pupQYIwk) | 3:13 |
 | 19 | [N'aptım Ben Sana?](https://open.spotify.com/track/3yMa3jz5ivK0QrUUlT4Npx) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [N'aptım Ben Sana?](https://open.spotify.com/album/7FTnDptilAIZCpQ2Z6Yqj7) | 2:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 48 | [Yine Seni Severim](https://open.spotify.com/track/1cwaAXBp74JnMXBOdhLfjD) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Yine Seni Severim](https://open.spotify.com/album/0h3PL3HJJ8bw4qqSWF9gAn) | 3:13 |
 | 49 | [Durdurulmaz](https://open.spotify.com/track/5XO60bjTDzUdxPnHrnWbu8) | [Belki Biraz](https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd) | [Durdurulmaz](https://open.spotify.com/album/65lrcxD38SIHlYWYOOiIAh) | 3:42 |
 
-Snapshot ID: `aAgDVAAAAAAAKCLiPIICksuhA3siCUa6`
+Snapshot ID: `aAqpbwAAAAANhizZnlcf7XWhCKKxQGqf`

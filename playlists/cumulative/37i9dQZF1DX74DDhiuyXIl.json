@@ -950,7 +950,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 221052,
       "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
       "url": "https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 249559,
       "name": "\u4f60\u548c\u4e03\u6708\u90fd\u662f\u590f\u5929",
       "url": "https://open.spotify.com/track/2eEL7JoyrZHauIh5MUrrZD"
@@ -3228,7 +3228,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 226229,
       "name": "\u53cd\u6b63\u7ed3\u5c40\u90fd\u4e00\u6837",
       "url": "https://open.spotify.com/track/65s3ltz6fz2ykWxOXgJiTH"
@@ -4238,7 +4238,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 330000,
       "name": "\u5929\u771f\u6709\u90aa",
       "url": "https://open.spotify.com/track/1MFmvIDW11eY3Y9nlFWS26"
@@ -7572,7 +7572,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 297023,
       "name": "\u6700\u60b2\u50b7\u7684\u4e8b - \u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248 \u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240"
@@ -8698,7 +8698,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 240893,
       "name": "\u770b\u8d77\u4f86\u4e0d\u932f\u5176\u5be6\u4e5f\u9084\u597d",
       "url": "https://open.spotify.com/track/3zMmF25anSSUsnJmcYMbmF"
@@ -9002,7 +9002,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 232500,
       "name": "\u7be1\u6539",
       "url": "https://open.spotify.com/track/3e5FLHwzZr1wa8j4h9ugH3"
@@ -9038,7 +9038,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 188307,
       "name": "\u7d10\u7d04\u5230\u53f0\u5317 New York To Taipei",
       "url": "https://open.spotify.com/track/7fjtpARK9RroYk1AMb7Ybr"
@@ -9374,7 +9374,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 240218,
       "name": "\u82b1\u5b63",
       "url": "https://open.spotify.com/track/772rZdFrHPSxbh6cKAQpSS"
@@ -10581,6 +10581,24 @@
     },
     {
       "album": {
+        "name": "\u904e\u5ba2",
+        "url": "https://open.spotify.com/album/3CdPoUiJApWeFmKq5Twf7J"
+      },
+      "artists": [
+        {
+          "name": "Where Chou",
+          "url": "https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273345,
+      "name": "\u904e\u5ba2",
+      "url": "https://open.spotify.com/track/49cAB9CCM3tDo081og5kzw"
+    },
+    {
+      "album": {
         "name": "\u9053\u7406\u90fd\u61c2 (\u570b) [\u96fb\u5f71\u300a\u6f5b\u884c\u300b\u7247\u5c3e\u66f2]",
         "url": "https://open.spotify.com/album/2kNQjOO05Fd3TAJ1pYU2V1"
       },
@@ -10596,6 +10614,24 @@
       "duration_ms": 243509,
       "name": "\u9053\u7406\u90fd\u61c2 (\u570b) - \u96fb\u5f71\u300a\u6f5b\u884c\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/4gMT0UciLc7gyWVSpyqwEH"
+    },
+    {
+      "album": {
+        "name": "\u9060\u5fd7",
+        "url": "https://open.spotify.com/album/4iAzZF4rIfSxXgEGT60YQX"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u80e4\u5448",
+          "url": "https://open.spotify.com/artist/4n2cgM6PddmPcviPNe6siB"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223956,
+      "name": "\u9060\u5fd7",
+      "url": "https://open.spotify.com/track/7x8sUJomemVKf7OqEI0xey"
     },
     {
       "album": {
@@ -11208,7 +11244,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 182717,
       "name": "\u9a55\u50b2",
       "url": "https://open.spotify.com/track/3cvFL0KqLdcBoJeK8xf9yv"

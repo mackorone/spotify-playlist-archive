@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,482 likes - 105 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,537 likes - 105 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 22 | [By The Ocean](https://open.spotify.com/track/7uuDzZ9bfedUL6XTyYah9T) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [By The Ocean](https://open.spotify.com/album/4s8hwiM2MR8KrP04R9kZv4) | 2:46 |
 | 23 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 |
 | 24 | [heart wave](https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [heart wave](https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC) | 2:54 |
-| 25 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 |
-| 26 | [Nomad Sunset \(Ocean\)](https://open.spotify.com/track/4Ef0Q4BkUo04WstZrroNNR) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Nomad Sunset \(Ocean\)](https://open.spotify.com/album/22TZPHVpJdjRVfN0vgIlUL) | 3:24 |
+| 25 | [Nomad Sunset \(Ocean\)](https://open.spotify.com/track/4Ef0Q4BkUo04WstZrroNNR) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Nomad Sunset \(Ocean\)](https://open.spotify.com/album/22TZPHVpJdjRVfN0vgIlUL) | 3:24 |
+| 26 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 |
 | 27 | [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 |
 | 28 | [Waves of Serenity](https://open.spotify.com/track/04wDZI7XuCjGicazG046t9) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Waves of Serenity](https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf) | 2:21 |
 | 29 | [Santanyi](https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Santanyi](https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA) | 2:41 |
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 31 | [The Cove](https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [The Cove](https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr) | 2:01 |
 | 32 | [Solar Plexus \(528 Hz\)](https://open.spotify.com/track/3kBwKqACjykGczvkNArip8) | [Synaptc Waves](https://open.spotify.com/artist/1B6lhoVCQSa0yrnhvfNXZJ) | [Solar Plexus \(528 Hz\)](https://open.spotify.com/album/6wbgeZrLANiDDbX4In2XYl) | 2:30 |
 | 33 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 |
-| 34 | [Harmonic Waters](https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Harmonic Waters](https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob) | 2:22 |
-| 35 | [Walk Along The Ocean](https://open.spotify.com/track/5ABusCPxzgAShqK5wkInOo) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Walk Along The Ocean](https://open.spotify.com/album/28ODbPuwRuIQr5RZOL3GFp) | 2:52 |
+| 34 | [Walk Along The Ocean](https://open.spotify.com/track/5ABusCPxzgAShqK5wkInOo) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Walk Along The Ocean](https://open.spotify.com/album/28ODbPuwRuIQr5RZOL3GFp) | 2:52 |
+| 35 | [Harmonic Waters](https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Harmonic Waters](https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob) | 2:22 |
 | 36 | [Sálmur \(Sound Bath\)](https://open.spotify.com/track/5KASAZ937O4CSKQ3hYAMaB) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Sálmur \(Sound Bath\)](https://open.spotify.com/album/0ouaxJpx3JvdUdMkjKbZFM) | 3:15 |
 | 37 | [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 |
 | 38 | [Wellness](https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Wellness](https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f) | 2:45 |
 | 39 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 |
-| 40 | [Lighthouse](https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj) | [Time Sphere](https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT) | [Lighthouse](https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6) | 3:36 |
+| 40 | [Ocean](https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 2:36 |
 | 41 | [frosty mornings](https://open.spotify.com/track/1tGNzmsGGY2kFaEyHjZp9y) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [frosty mornings](https://open.spotify.com/album/2y5N4Xkpa8gvQtUmRIdUOs) | 2:23 |
-| 42 | [Ocean](https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 2:36 |
+| 42 | [Lighthouse](https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj) | [Time Sphere](https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT) | [Lighthouse](https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6) | 3:36 |
 | 43 | [By the Ocean](https://open.spotify.com/track/3wiPradzeWPto8383InaTd) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [By the Ocean](https://open.spotify.com/album/7nwYwuMy0khyxJl7hgfCE4) | 3:05 |
 | 44 | [Ocean Mist](https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Ocean Mist](https://open.spotify.com/album/713IgaOvTqGw9jUgsmyFvY) | 2:31 |
 | 45 | [Aabha \- Sound Bath](https://open.spotify.com/track/4CGYBCKiaSm5Y5oqn7xZIh) | [Amrita Ananda](https://open.spotify.com/artist/17ph9VKUlu3hc0liTAhYWP) | [Aabha \- Sound Bath](https://open.spotify.com/album/5SNx9VaBDuGycrI7lxJnfl) | 2:52 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 50 | [Waves of Daelbata](https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH) | [Eryone](https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv) | [Waves of Daelbata](https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb) | 2:48 |
 | 51 | [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 |
 | 52 | [Ocean Air](https://open.spotify.com/track/3c2e4IbJUSTrV0QlH3MXWS) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Ocean Air](https://open.spotify.com/album/47JNKaAOWcUKr7FeiJtM1y) | 2:35 |
-| 53 | [Deep Waters 432Hz](https://open.spotify.com/track/2I88iPM3OQJfzp9t9Iqd6f) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Deep Waters 432Hz](https://open.spotify.com/album/04DUTY1SOJFPjdViDnh8iZ) | 2:14 |
-| 54 | [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 |
+| 53 | [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 |
+| 54 | [Deep Waters 432Hz](https://open.spotify.com/track/2I88iPM3OQJfzp9t9Iqd6f) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Deep Waters 432Hz](https://open.spotify.com/album/04DUTY1SOJFPjdViDnh8iZ) | 2:14 |
 | 55 | [From Within](https://open.spotify.com/track/7zyc5lRXmothc3kTRi9mfr) | [Infinity Equals](https://open.spotify.com/artist/3gqTdyMEE37wzRZA9HEWTQ) | [From Within](https://open.spotify.com/album/0UZaQABB0qZ1wDFF7keDfK) | 2:40 |
 | 56 | [Sleepy Ocean Dreams](https://open.spotify.com/track/7tp4girj8neLRJI2xVERQD) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Sleepy Ocean Dreams](https://open.spotify.com/album/5oLpFsS31oeOnR8dGRfRAM) | 2:57 |
 | 57 | [Deep Cove](https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 2:41 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 65 | [Night Waves](https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Night Waves](https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV) | 3:44 |
 | 66 | [A Beautiful Morning](https://open.spotify.com/track/2hgYVIsC4Bf5mBrNUlOaUE) | [Artemis](https://open.spotify.com/artist/5QtH96QxDC56UY5ZRAxI5C) | [A Beautiful Morning](https://open.spotify.com/album/7edfrheVW25c7AfjMLQ8Ix) | 2:30 |
 | 67 | [De Cinere \(Ocean Sounds\)](https://open.spotify.com/track/5dmeWKlGuZy4i0BlhLQ8QF) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [De Cinere \(Ocean Sounds\)](https://open.spotify.com/album/3Aovt09jCbvgv0b2ps45W3) | 2:28 |
-| 68 | [Vakandi \(Sound Bath\)](https://open.spotify.com/track/1cipDwJ3Ck65zMWqpaC1Zn) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Vakandi \(Sound Bath\)](https://open.spotify.com/album/0PppRLpAnKS1i8o9Ie8GzV) | 2:30 |
-| 69 | [Art of Peace](https://open.spotify.com/track/7K8j7uqXYL8l2yj42kpYiS) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Art of Peace](https://open.spotify.com/album/0bOZmqneZzhxk0JxRIfY5X) | 2:56 |
+| 68 | [Art of Peace](https://open.spotify.com/track/7K8j7uqXYL8l2yj42kpYiS) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Art of Peace](https://open.spotify.com/album/0bOZmqneZzhxk0JxRIfY5X) | 2:56 |
+| 69 | [Vakandi \(Sound Bath\)](https://open.spotify.com/track/1cipDwJ3Ck65zMWqpaC1Zn) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Vakandi \(Sound Bath\)](https://open.spotify.com/album/0PppRLpAnKS1i8o9Ie8GzV) | 2:30 |
 | 70 | [Aethaerum](https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Aethaerum](https://open.spotify.com/album/6n5YtNCZaQFCh6PndO9IhI) | 3:06 |
 | 71 | [Breathe \(In\)](https://open.spotify.com/track/6UekpPcGc2aDL7aS6dPxJI) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Synchrony](https://open.spotify.com/album/4TpOJqxAzu1yb2DCwZcux0) | 4:08 |
-| 72 | [Cove Girl](https://open.spotify.com/track/0B0ztqfk2ZN9DQI7LzRCS0) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Cove Girl](https://open.spotify.com/album/7nHuEfaI9MaiOLK2Ysrvkh) | 2:52 |
-| 73 | [432 Hz All One](https://open.spotify.com/track/3PUqz1G8iM070GCCC64MUs) | [Stella Oceans](https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x) | [432 Hz All One](https://open.spotify.com/album/2KLtD4cSDuuPtxH764R0HV) | 2:43 |
-| 74 | [Ocean Light](https://open.spotify.com/track/5IwVSLVaXXZt9tk9YO93oN) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Ocean Light](https://open.spotify.com/album/3gPJrfsuA47xcNVhOiYivj) | 2:47 |
+| 72 | [Ocean Light](https://open.spotify.com/track/5IwVSLVaXXZt9tk9YO93oN) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Ocean Light](https://open.spotify.com/album/3gPJrfsuA47xcNVhOiYivj) | 2:47 |
+| 73 | [Cove Girl](https://open.spotify.com/track/0B0ztqfk2ZN9DQI7LzRCS0) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Cove Girl](https://open.spotify.com/album/7nHuEfaI9MaiOLK2Ysrvkh) | 2:52 |
+| 74 | [432 Hz All One](https://open.spotify.com/track/3PUqz1G8iM070GCCC64MUs) | [Stella Oceans](https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x) | [432 Hz All One](https://open.spotify.com/album/2KLtD4cSDuuPtxH764R0HV) | 2:43 |
 | 75 | [Hacienda](https://open.spotify.com/track/777BLV38yrgiI6CFh0egvo) | [Harada Mi](https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3) | [Hacienda](https://open.spotify.com/album/2TqivOnFGVlV4Lg9U6giFP) | 3:23 |
 | 76 | [Ocean Healing](https://open.spotify.com/track/49nZSk6EBugEBSfNQlkr0y) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Ocean Healing](https://open.spotify.com/album/28gd2fvoaM7XH1fJEBCnEM) | 3:32 |
 | 77 | [Coastal Route](https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Coastal Route](https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG) | 3:15 |
@@ -112,6 +112,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 102 | [Pra Ae](https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Pra Ae](https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU) | 2:17 |
 | 103 | [Ocean Swell](https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Ocean Swell](https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT) | 2:55 |
 | 104 | [Waves](https://open.spotify.com/track/3GvIP3HSvU0GqKVZkTlpHt) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [Waves](https://open.spotify.com/album/3cYUV1rWeNkGCvBI3Mlz1m) | 2:07 |
-| 105 | [Zen \(Sound Bath\)](https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Zen \(Sound Bath\)](https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT) | 3:23 |
+| 105 | [Ondas](https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Ondas](https://open.spotify.com/album/0zX9Kh9v01hlMMlumPkNyv) | 2:53 |
 
 Snapshot ID: `Z+u3xAAAAAC4xeERYJz2LuajneBkI8Xw`

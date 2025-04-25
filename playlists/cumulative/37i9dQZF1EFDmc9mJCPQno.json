@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Only cry in the rain",
+        "url": "https://open.spotify.com/album/5BenIQ2E8TFdZoAtPjUP9a"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Back in town",
+      "url": "https://open.spotify.com/track/4j7bZhhO2K33gC2ltvx8vF"
+    },
+    {
+      "album": {
         "name": "Everybody Needs a Hero",
         "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
       },

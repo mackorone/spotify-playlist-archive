@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Ain't",
-  "num_followers": 114270,
+  "num_followers": 114267,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Besties",
-        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 216757,
-      "name": "Besties",
-      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Love & Money",
         "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 229656,
       "name": "Love & Money",
       "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
+        "name": "Besties",
+        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 216757,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "duration_ms": 169850,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
         "name": "Shandy in the Graveyard",
         "url": "https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 177708,
       "name": "Shandy in the Graveyard",
       "url": "https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
-      },
-      "artists": [
-        {
-          "name": "Radio Free Alice",
-          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
-        }
-      ],
-      "duration_ms": 169850,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Ankles",
-        "url": "https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "Ankles",
-      "url": "https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 182240,
       "name": "Call It Love - Edit",
       "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Heart Attack Police",
-        "url": "https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD"
+        "name": "YOU\u2019LL HAVE TO LOSE SOMETHING",
+        "url": "https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM"
       },
       "artists": [
         {
-          "name": "Callinsick",
-          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
         }
       ],
-      "duration_ms": 176340,
-      "name": "Heart Attack Police",
-      "url": "https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o"
+      "duration_ms": 162758,
+      "name": "1/500",
+      "url": "https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "YOU\u2019LL HAVE TO LOSE SOMETHING",
-        "url": "https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "1/500",
-      "url": "https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Just A Western",
         "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 269473,
       "name": "Just A Western",
       "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
+        "name": "Heart Attack Police",
+        "url": "https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD"
+      },
+      "artists": [
+        {
+          "name": "Callinsick",
+          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
+        }
+      ],
+      "duration_ms": 176340,
+      "name": "Heart Attack Police",
+      "url": "https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "BAD GUY",
-        "url": "https://open.spotify.com/album/3hCHdkTOHV5i3Wg7PRHkbM"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 216125,
-      "name": "BAD GUY",
-      "url": "https://open.spotify.com/track/5s3FTdUcbj4tgDorkwHQBy"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Romanticism",
         "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 234234,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
+        "name": "BAD GUY",
+        "url": "https://open.spotify.com/album/3hCHdkTOHV5i3Wg7PRHkbM"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 216125,
+      "name": "BAD GUY",
+      "url": "https://open.spotify.com/track/5s3FTdUcbj4tgDorkwHQBy"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Switch Over",
-        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "Switch Over",
-      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "Horror",
         "url": "https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Since April",
-        "url": "https://open.spotify.com/album/5Qr0ATirEQjY31oFkyvhsw"
+        "name": "Switch Over",
+        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
       },
       "artists": [
         {
-          "name": "girlpuppy",
-          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
         }
       ],
-      "duration_ms": 155853,
-      "name": "Since April",
-      "url": "https://open.spotify.com/track/11hTGnist3szhkE1yWAcWk"
+      "duration_ms": 185915,
+      "name": "Switch Over",
+      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
     },
     {
       "added_at": "2025-03-27 21:54:08",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
+        "name": "Since April",
+        "url": "https://open.spotify.com/album/5Qr0ATirEQjY31oFkyvhsw"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "duration_ms": 155853,
+      "name": "Since April",
+      "url": "https://open.spotify.com/track/11hTGnist3szhkE1yWAcWk"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
         "name": "One Million Love Songs",
         "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-03-27 21:54:08",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3"
-    },
-    {
-      "added_at": "2025-03-27 21:54:08",
-      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI"
       },
@@ -1615,6 +1599,26 @@
       "duration_ms": 194611,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH"
+    },
+    {
+      "added_at": "2025-03-27 21:54:08",
+      "album": {
+        "name": "Didn't (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 153372,
+      "name": "Didn't (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI"
     }
   ],
   "unique_name": "pulp",

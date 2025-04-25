@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 74491,
+  "num_followers": 74611,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAAB/GmP8lg491+GEhvHN4gOz",
+  "snapshot_id": "aAgtgAAAAAApTOpl2PNWRwUSsjCzD9tI",
   "tracks": [
     {
       "added_at": null,
@@ -971,34 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TESTEMUNHAS DE TOKIODK",
-        "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "LeodoKick",
-          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 217872,
-      "name": "250 por rota",
-      "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
       },
@@ -1035,6 +1007,34 @@
       "duration_ms": 249230,
       "name": "Luccas Carlos",
       "url": "https://open.spotify.com/track/3d9TLnvPX2IEJ0zvkIQBNU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TESTEMUNHAS DE TOKIODK",
+        "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 217872,
+      "name": "250 por rota",
+      "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
     },
     {
       "added_at": null,
@@ -1215,38 +1215,6 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        },
-        {
-          "name": "Buccy",
-          "url": "https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT"
-        }
-      ],
-      "duration_ms": 293009,
-      "name": "X6",
-      "url": "https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4"
     }
   ],
   "unique_name": "This Is BK",

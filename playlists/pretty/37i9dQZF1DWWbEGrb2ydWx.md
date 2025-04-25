@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,130 likes - 85 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,149 likes - 85 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 40 | [Wake Up Love \(feat\. IMAN\)](https://open.spotify.com/track/3HLkL9ahiEnACmnuq8Pcwt) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 3:33 |
 | 41 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 42 | [Self To Blame](https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Kayla Blackmon](https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W) | [Self To Blame](https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY) | 4:05 |
-| 43 | [Bacardi Papi](https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Bacardi Papi](https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK) | 3:23 |
+| 43 | [BACARDI PAPI](https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Bacardi Papi](https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK) | 3:23 |
 | 44 | [Rerocc](https://open.spotify.com/track/18Oo1PEO8leO5O0tP5SFVU) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [The Blue M&M 3](https://open.spotify.com/album/4tSGP4AzRTEGzU09gmXBaS) | 3:19 |
 | 45 | [Moss \- Original Mix](https://open.spotify.com/track/6hQl8iQgN5sV0JHusvOqav) | [Dj Honesty](https://open.spotify.com/artist/4pKB4sDsrn5NZ5zcPGpMmC) | [Goodies](https://open.spotify.com/album/6NujS5mtMdf1czulOADRNH) | 6:53 |
 | 46 | [Track 9 \(feat\. Aquarius Heaven\) \- Vocal Mix](https://open.spotify.com/track/7sMYiKGd1ZPFowI9LBBZew) | [Sascha Dive](https://open.spotify.com/artist/4xSSlzl6vHXCXN2uJBgYsm), [Aquarius Heaven](https://open.spotify.com/artist/0lAjFl20uNiFMWafrHRxea) | [The Basic Collective EP Pt\. 5](https://open.spotify.com/album/5wGQ7zS3P3xHtnVFgReJkl) | 8:15 |

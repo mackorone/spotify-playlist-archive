@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,616 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,654 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 6 | [Businessman Theme](https://open.spotify.com/track/7CDtNYmYLreTJB3NCQOOz6) | [Mahesh Babu](https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK), [Puri Jagannath](https://open.spotify.com/artist/5qRAnJeG7hK5QaUm79GKhg), [Chours](https://open.spotify.com/artist/0GIOsTRn0PVodWAHcc6NkB) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 2:47 |
 | 7 | [Bhaga Bhaga](https://open.spotify.com/track/3KpBJtSOZdWTNk48O2b4m9) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Saripodhaa Sanivaaram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q) | 2:55 |
 | 8 | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/track/2zDXJrQbQW00vj3z7WX0h4) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Japhna Gold](https://open.spotify.com/artist/45qODkWGC525HRSWSrkNyp) | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/album/2iaEp2A6I9bl62SkHYm2WZ) | 0:46 |
-| 9 | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg) | 1:59 |
+| 9 | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Raghu Ram](https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj) | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg) | 1:59 |
 | 10 | [Saaho \- Theme](https://open.spotify.com/track/4nspb1LG1ABlQ6eTAO4udo) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Saaho, Vol\. 2 \(Original Background Score\)](https://open.spotify.com/album/6xRw7gpSUzP3Elh22G13Bv) | 1:26 |
 | 11 | [All Hail The Tiger \(From "Devara Part 1"\)](https://open.spotify.com/track/4vWoTjRTSwVBhfp5kbDAXg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Natalie Di Luccio](https://open.spotify.com/artist/3KMkQ4hHVUXhx7TKLhgBxT), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [All Hail The Tiger \(From "Devara Part 1"\)](https://open.spotify.com/album/2D4YarggnCqBeCRLHVcjW3) | 1:26 |
 | 12 | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM) | 1:39 |

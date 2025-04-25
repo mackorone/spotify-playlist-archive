@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Nancy Kwai
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Uchu Yurei 宇宙幽靈
 
-257 songs - 14 hr 52 min
+258 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 | 2023-04-13 | 2024-03-29 |
 | [Time Is Running](https://open.spotify.com/track/1nKZqPS4cg1gbZAdqxQEcN) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Time Is Running](https://open.spotify.com/album/3Tk9l82FUZyP6W6du57tXD) | 2:19 | 2023-07-13 | 2024-03-29 |
 | [Time Machine](https://open.spotify.com/track/027JnuX0aYpMqWjIzXAOVf) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [DatBaddie](https://open.spotify.com/artist/49Dro0WxMu6uazK7ucMFnZ) | [Time Machine](https://open.spotify.com/album/4Ypx5o8FVNnIxhalsO0jrV) | 3:21 | 2024-03-28 | 2025-03-28 |
+| [Titian](https://open.spotify.com/track/5HswInmXBZO675KkSymocx) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Titian](https://open.spotify.com/album/0pZdmmaW2lSaNrH01SlNCV) | 7:39 | 2025-04-24 |  |
 | [To be continued](https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [premiere](https://open.spotify.com/album/5gOWqjfQsYNXSSkxooHfwu) | 3:23 | 2024-02-01 | 2025-03-28 |
 | [TRIPPIN](https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [TRIPPIN](https://open.spotify.com/album/0r9CWKeNllgadGS079yej4) | 3:17 | 2023-09-29 | 2025-03-28 |
 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 | 2022-08-18 | 2023-04-14 |

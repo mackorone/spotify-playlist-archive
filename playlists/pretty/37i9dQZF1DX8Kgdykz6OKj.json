@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1448379,
+  "num_followers": 1449067,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -751,8 +751,8 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
-        "name": "Escape Music",
-        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+        "name": "Jagged Tooth Crook",
+        "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
       },
       "artists": [
         {
@@ -760,13 +760,17 @@
           "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
         },
         {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        },
+        {
+          "name": "KinKai",
+          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
         }
       ],
-      "duration_ms": 223772,
-      "name": "Got Me Thinkin' (feat. Sparkz)",
-      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
+      "duration_ms": 224374,
+      "name": "Feeling High",
+      "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
     },
     {
       "added_at": "2025-04-23 20:02:57",
@@ -843,30 +847,6 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
-        "name": "The Gout",
-        "url": "https://open.spotify.com/album/7kc4Wz5KXRw31bzCR8ema3"
-      },
-      "artists": [
-        {
-          "name": "Jimmie D",
-          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "The Gout",
-      "url": "https://open.spotify.com/track/3wImNO7NIhfZZ17wyZr5yb"
-    },
-    {
-      "added_at": "2025-04-23 20:02:57",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -927,30 +907,6 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
-        "name": "Jagged Tooth Crook",
-        "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
-      },
-      "artists": [
-        {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "IAMDDB",
-          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
-        },
-        {
-          "name": "KinKai",
-          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
-        }
-      ],
-      "duration_ms": 224374,
-      "name": "Feeling High",
-      "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
-    },
-    {
-      "added_at": "2025-04-23 20:02:57",
-      "album": {
         "name": "Simple Days",
         "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
       },
@@ -971,6 +927,50 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
+        "name": "Escape Music",
+        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 223772,
+      "name": "Got Me Thinkin' (feat. Sparkz)",
+      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
+    },
+    {
+      "added_at": "2025-04-23 20:02:57",
+      "album": {
+        "name": "The Gout",
+        "url": "https://open.spotify.com/album/7kc4Wz5KXRw31bzCR8ema3"
+      },
+      "artists": [
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        }
+      ],
+      "duration_ms": 165752,
+      "name": "The Gout",
+      "url": "https://open.spotify.com/track/3wImNO7NIhfZZ17wyZr5yb"
+    },
+    {
+      "added_at": "2025-04-23 20:02:57",
+      "album": {
         "name": "MARVIN GAYE.",
         "url": "https://open.spotify.com/album/1TtRkqZaAsVMh9vIwcxj2y"
       },
@@ -983,46 +983,6 @@
       "duration_ms": 170320,
       "name": "MARVIN GAYE.",
       "url": "https://open.spotify.com/track/03PYqIVNer7nBktg44SFDz"
-    },
-    {
-      "added_at": "2025-04-23 20:02:57",
-      "album": {
-        "name": "Hit It Once",
-        "url": "https://open.spotify.com/album/1YB7JUdshPZvJTCUDuxdzG"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 211398,
-      "name": "Hit It Once",
-      "url": "https://open.spotify.com/track/15rXHZv72o3fWrxWaNCTsQ"
-    },
-    {
-      "added_at": "2025-04-23 20:02:57",
-      "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Niko Brim",
-          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
-        }
-      ],
-      "duration_ms": 164656,
-      "name": "Raw (feat. Lil Wayne & Niko Brim)",
-      "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
     },
     {
       "added_at": "2025-04-23 20:02:57",
@@ -1083,6 +1043,46 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "added_at": "2025-04-23 20:02:57",
+      "album": {
+        "name": "Hit It Once",
+        "url": "https://open.spotify.com/album/1YB7JUdshPZvJTCUDuxdzG"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 211398,
+      "name": "Hit It Once",
+      "url": "https://open.spotify.com/track/15rXHZv72o3fWrxWaNCTsQ"
+    },
+    {
+      "added_at": "2025-04-23 20:02:57",
+      "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Niko Brim",
+          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
+        }
+      ],
+      "duration_ms": 164656,
+      "name": "Raw (feat. Lil Wayne & Niko Brim)",
+      "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
     },
     {
       "added_at": "2025-04-23 20:02:57",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
-        "name": "Tesla Tower Power",
-        "url": "https://open.spotify.com/album/3lI6tDCNmqNNpXJZZ0fNLo"
-      },
-      "artists": [
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        },
-        {
-          "name": "Futurewave",
-          "url": "https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz"
-        }
-      ],
-      "duration_ms": 162125,
-      "name": "Tesla Tower Power",
-      "url": "https://open.spotify.com/track/6lDGHbWMmi6MzcLzsAVs9D"
-    },
-    {
-      "added_at": "2025-04-23 20:02:57",
-      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
+        "name": "Tesla Tower Power",
+        "url": "https://open.spotify.com/album/3lI6tDCNmqNNpXJZZ0fNLo"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Futurewave",
+          "url": "https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz"
+        }
+      ],
+      "duration_ms": 162125,
+      "name": "Tesla Tower Power",
+      "url": "https://open.spotify.com/track/6lDGHbWMmi6MzcLzsAVs9D"
+    },
+    {
+      "added_at": "2025-04-23 20:02:57",
+      "album": {
         "name": "That Jazz",
         "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2025-04-23 20:02:57",
+      "album": {
+        "name": "NIGHTS LIKE THIS",
+        "url": "https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 127594,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
     },
     {
       "added_at": "2025-04-23 20:02:57",
@@ -1315,22 +1331,6 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
-    },
-    {
-      "added_at": "2025-04-23 20:02:57",
-      "album": {
-        "name": "NIGHTS LIKE THIS",
-        "url": "https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 127594,
-      "name": "NIGHTS LIKE THIS",
-      "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
     },
     {
       "added_at": "2025-04-23 20:02:57",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2025-04-23 20:02:57",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 216883,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2025-04-23 20:02:57",
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
       "added_at": "2025-04-23 20:02:57",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
-    },
-    {
-      "added_at": "2025-04-23 20:02:57",
-      "album": {
         "name": "Funkin' Around",
         "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
       },
@@ -1823,18 +1807,18 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
-        "name": "Quaranta (Deluxe)",
-        "url": "https://open.spotify.com/album/5WY7ylzZpMxR43miLR8WB3"
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
       },
       "artists": [
         {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
         }
       ],
-      "duration_ms": 130895,
-      "name": "Cheaters",
-      "url": "https://open.spotify.com/track/6a742CHToHxyoAghYZOYho"
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
     },
     {
       "added_at": "2025-04-23 20:02:57",
@@ -1855,6 +1839,22 @@
       "duration_ms": 413560,
       "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
       "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
+    },
+    {
+      "added_at": "2025-04-23 20:02:57",
+      "album": {
+        "name": "Quaranta (Deluxe)",
+        "url": "https://open.spotify.com/album/5WY7ylzZpMxR43miLR8WB3"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 130895,
+      "name": "Cheaters",
+      "url": "https://open.spotify.com/track/6a742CHToHxyoAghYZOYho"
     },
     {
       "added_at": "2025-04-23 20:02:57",
@@ -1979,22 +1979,26 @@
     {
       "added_at": "2025-04-23 20:02:57",
       "album": {
-        "name": "fusion.",
-        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
+        "name": "High Winds",
+        "url": "https://open.spotify.com/album/2sbm3v5x18dG7QoVHTzNUf"
       },
       "artists": [
         {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
         },
         {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Koncept Jack$on",
+          "url": "https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa"
         }
       ],
-      "duration_ms": 220797,
-      "name": "Battiti in parole",
-      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+      "duration_ms": 143685,
+      "name": "High Winds",
+      "url": "https://open.spotify.com/track/7HPDbITY0cS65MntSLdFue"
     }
   ],
   "unique_name": "Jazz Rap",

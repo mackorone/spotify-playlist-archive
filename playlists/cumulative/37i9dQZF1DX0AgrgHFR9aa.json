@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Scylla x Furax Barbarossa",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Youssoupha",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 166114,
       "name": "BORDEL",
       "url": "https://open.spotify.com/track/53i4NiZxdvUP4TYCXbXhfn"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 182093,
       "name": "Chez Polix",
       "url": "https://open.spotify.com/track/5fIt7HHNwcEZWF8DNDLSVp"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 197468,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2JcWgw4KjgmQNj4AXYe8sw"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 214528,
       "name": "GOTHAM*",
       "url": "https://open.spotify.com/track/5b4fqfj69lNlfh1Ocis8ww"
@@ -1622,6 +1622,28 @@
       "duration_ms": 133333,
       "name": "JAB",
       "url": "https://open.spotify.com/track/1dknZHOMnXtTKio1jmE6Ii"
+    },
+    {
+      "album": {
+        "name": "Jack Martin",
+        "url": "https://open.spotify.com/album/6fuJkCc2NIFheSZ2Rf81XE"
+      },
+      "artists": [
+        {
+          "name": "Martin Gal",
+          "url": "https://open.spotify.com/artist/07fDecYuCwczS0zr5RCHje"
+        },
+        {
+          "name": "Jungle Jack",
+          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172931,
+      "name": "Jack Martin",
+      "url": "https://open.spotify.com/track/39V742rhS1269G6atA2J79"
     },
     {
       "album": {
@@ -2141,6 +2163,28 @@
     },
     {
       "album": {
+        "name": "LES DEUX",
+        "url": "https://open.spotify.com/album/7sK4s7scskdO8vugFrwV8q"
+      },
+      "artists": [
+        {
+          "name": "Durden",
+          "url": "https://open.spotify.com/artist/6FmtyIjNfNWAUSbV486jxe"
+        },
+        {
+          "name": "Jewel Usain",
+          "url": "https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225696,
+      "name": "LES DEUX",
+      "url": "https://open.spotify.com/track/77XtFDw5WnZNu29e77W9rJ"
+    },
+    {
+      "album": {
         "name": "LES ENFANTS MENTENT",
         "url": "https://open.spotify.com/album/4Umt5vCol8K3X2WbMnv1QQ"
       },
@@ -2229,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Loup noir",
+        "url": "https://open.spotify.com/album/2hpxbLIZn3nzJPw5FaK8Uz"
+      },
+      "artists": [
+        {
+          "name": "Euphonik",
+          "url": "https://open.spotify.com/artist/0uRneTUgP2kyaFBDWmALuW"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162870,
+      "name": "Loup noir",
+      "url": "https://open.spotify.com/track/4ZKVvqYmWN3YDsxSKrfIBp"
+    },
+    {
+      "album": {
         "name": "LOYAL",
         "url": "https://open.spotify.com/album/7ljqJZLeyUk15vdzkIK8Bh"
       },
@@ -2262,6 +2324,24 @@
       "duration_ms": 147692,
       "name": "Madame",
       "url": "https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9"
+    },
+    {
+      "album": {
+        "name": "POURQUOI T'ES...",
+        "url": "https://open.spotify.com/album/6aeqFIQshxZ8oMPcJ9PvSp"
+      },
+      "artists": [
+        {
+          "name": "Eniah",
+          "url": "https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "MALADE",
+      "url": "https://open.spotify.com/track/5yhBAmxinEdRDtQfFHyoB9"
     },
     {
       "album": {
@@ -3032,7 +3112,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 175841,
       "name": "Ruban",
       "url": "https://open.spotify.com/track/3vwQ6xRSMX9dvolbVVRWu8"

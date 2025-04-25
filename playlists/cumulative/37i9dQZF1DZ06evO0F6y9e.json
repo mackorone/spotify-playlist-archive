@@ -353,6 +353,36 @@
     },
     {
       "album": {
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        },
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
+    },
+    {
+      "album": {
         "name": "Decide T\u00fa",
         "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
       },
@@ -1852,7 +1882,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 229651,
       "name": "Porque Te Quiero",
       "url": "https://open.spotify.com/track/0BolcY8kbXvGy9P3Q1H0Ag"

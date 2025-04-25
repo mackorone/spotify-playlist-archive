@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Fib
 
-3,166 songs - 7 day 6 hr 59 min
+3,168 songs - 7 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,6 +826,7 @@
 | [Epoch](https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d) | [Quasi Qui](https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB) | [Epoch](https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM) | 3:45 | 2022-05-11 | 2022-06-30 |
 | [Eraser](https://open.spotify.com/track/42iGxzCKOlrSpzfG0qEPF0) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Close Up](https://open.spotify.com/album/3VavrgAN7uHdOjmVuF1iM1) | 3:04 | 2023-01-11 | 2023-02-16 |
 | [Escapades](https://open.spotify.com/track/2ujZ4AR85CdlS4zeTEK3u5) | [August James](https://open.spotify.com/artist/0rDjSI5RVCPaKNcd9tUdBH) | [Warm Air](https://open.spotify.com/album/30r2UJzqOEm0zFW2vZSWrC) | 2:12 | 2023-07-26 | 2023-10-05 |
+| [Estuary of Dreams](https://open.spotify.com/track/2jlzjYKhS5DUPrra0LTrYP) | [Eunuchs](https://open.spotify.com/artist/4eJrZ6yGKOg1r0M9hnXmxU) | [Harbour Century](https://open.spotify.com/album/6lNh2JqZFhiXL7YNnblt64) | 4:29 | 2025-04-24 |  |
 | [eventually](https://open.spotify.com/track/3aZ5BnWAGP2MRAzHKHvE4J) | [Layzi](https://open.spotify.com/artist/1Osd22FCebAqWNl7q2sazx) | [eventually](https://open.spotify.com/album/4Mwdn69zKpjhdEupOXFdjb) | 2:36 | 2024-06-26 | 2024-07-18 |
 | [Every Little Thing](https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Every Little Thing](https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH) | 3:28 | 2024-05-08 | 2024-06-20 |
 | [Every Little Thing](https://open.spotify.com/track/0u4g7SYTCckp1HsyKGrv30) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [I Can Change Your Mind](https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6) | 3:28 | 2025-01-15 | 2025-03-13 |
@@ -2551,6 +2552,7 @@
 | [Stand On Yr Star](https://open.spotify.com/track/2lJNYiBECgPXmNcKpuPSaj) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [Stand On Yr Star](https://open.spotify.com/album/71Pp0Mal3JcdvIkKw42IfY) | 3:00 | 2025-03-06 |  |
 | [Star](https://open.spotify.com/track/4XoKlAEHzeBVu450sMOkSu) | [Deja Blu](https://open.spotify.com/artist/1vKMD4LElQSFvLcdqaA1EB) | [Slow Dance 22.3](https://open.spotify.com/album/5ldWnqIICLsC96tB5SEZFy) | 5:01 | 2023-02-01 | 2023-03-02 |
 | [Star Signs](https://open.spotify.com/track/5aC4aoeeahZuCDc99phOHn) | [roman around](https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY) | [Star Signs](https://open.spotify.com/album/2FHrVV45Kc7pSUFE26gtKq) | 3:58 | 2022-02-02 | 2022-02-23 |
+| [Stardoll](https://open.spotify.com/track/690xzecwSrfqj50GwMKwSQ) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [Stardoll](https://open.spotify.com/album/7eA3G6rOB8cAaJL4v9M5kp) | 3:12 | 2025-04-24 |  |
 | [Staring at the Sun](https://open.spotify.com/track/5oI9AcF4A9LGrXfj1n8Y28) | [Bedrooms](https://open.spotify.com/artist/7nC8KqfOJD2rmPeAxr7jvD) | [Changes](https://open.spotify.com/album/5RN5yiRPKCHPK4U09Q6Aoo) | 1:19 | 2024-05-22 | 2024-06-20 |
 | [Staring at the Sun](https://open.spotify.com/track/3vpUjIQ2DVi3t1LksXjJEs) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Staring at the Sun](https://open.spotify.com/album/1FmLwTEicSgFJgXr0BsBRk) | 4:03 | 2024-07-31 | 2024-10-03 |
 | [Starlight](https://open.spotify.com/track/6I7FMBBW5HTzOLQdW8S8Fj) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Starlight](https://open.spotify.com/album/178AogD4KE27DekV3bpYHX) | 4:52 | 2023-03-06 | 2023-03-29 |

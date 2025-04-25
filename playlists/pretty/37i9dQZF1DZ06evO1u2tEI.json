@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 81709,
+  "num_followers": 81716,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAACcpouIlh/pT7xFnAYWfbq0",
+  "snapshot_id": "aAgtgAAAAADlTH+pn7fWwn7zN3nhwZkY",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "No Name #3",
-      "url": "https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From a Basement on the Hill",
         "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 269360,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "No Name #3",
+      "url": "https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "Baby Britain",
-      "url": "https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From a Basement on the Hill",
         "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 238013,
       "name": "A Fond Farewell",
       "url": "https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "Baby Britain",
+      "url": "https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Oh Well, OK",
-      "url": "https://open.spotify.com/track/7AG284RTvcDG9uHt1NQIbu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 216960,
       "name": "Roman Candle",
       "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Oh Well, OK",
+      "url": "https://open.spotify.com/track/7AG284RTvcDG9uHt1NQIbu"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "I Didn't Understand",
-      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 183053,
       "name": "No Name #1",
       "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "I Didn't Understand",
+      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 147266,
       "name": "Either/Or",
       "url": "https://open.spotify.com/track/2gEGEZKBFSPajolkBb3szK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Either/Or: Expanded Edition",
-        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 117134,
-      "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed / Remastered",
-      "url": "https://open.spotify.com/track/5aRWbpGuItECDLfjw0n1Ba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 163266,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Either/Or: Expanded Edition",
+        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 117134,
+      "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed / Remastered",
+      "url": "https://open.spotify.com/track/5aRWbpGuItECDLfjw0n1Ba"
     },
     {
       "added_at": null,

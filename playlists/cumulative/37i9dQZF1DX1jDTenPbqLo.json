@@ -155,6 +155,32 @@
     },
     {
       "album": {
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/69XO9zYV3p6p26fjMExO3G"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Philippe Quint",
+          "url": "https://open.spotify.com/artist/3r87uYmq5T0Donmq8xUGPc"
+        },
+        {
+          "name": "Andrew Litton",
+          "url": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151640,
+      "name": "Adoration",
+      "url": "https://open.spotify.com/track/0Jo79j1CKMzGUAJgZMzKMT"
+    },
+    {
+      "album": {
         "name": "Bach: Goldberg Variations, BWV 988",
         "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
       },

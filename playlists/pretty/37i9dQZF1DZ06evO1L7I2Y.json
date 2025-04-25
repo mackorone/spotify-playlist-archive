@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3283,
+  "num_followers": 3286,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAAAYNxXoWXb9yxQ7r39pojNx",
+  "snapshot_id": "aAgtgAAAAACU2qIbjXKTyH9huuCae6SR",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Zarashi",
+          "url": "https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 246875,
+      "name": "Oi, Sumido",
+      "url": "https://open.spotify.com/track/05qGBQeKLqssKzG99PhZah"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc",
         "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
       },
@@ -283,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
       },
       "artists": [
         {
@@ -292,17 +316,17 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Zarashi",
-          "url": "https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE"
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
         },
         {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
         }
       ],
-      "duration_ms": 246875,
-      "name": "Oi, Sumido",
-      "url": "https://open.spotify.com/track/05qGBQeKLqssKzG99PhZah"
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "added_at": null,
@@ -351,30 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stephen King",
         "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
       },
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "POSTURADA",
+        "url": "https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "POSTURADA",
+      "url": "https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 166153,
       "name": "Porrada de Balinha",
       "url": "https://open.spotify.com/track/0ulXVWE7PD5SWI9WxQ1beB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POSTURADA",
-        "url": "https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "POSTURADA",
-      "url": "https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy"
     },
     {
       "added_at": null,
@@ -511,30 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Faz Assim",
-      "url": "https://open.spotify.com/track/0rgd774qnpXd6Gurk0dMoT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 199860,
       "name": "Fases",
       "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Faz Assim",
+      "url": "https://open.spotify.com/track/0rgd774qnpXd6Gurk0dMoT"
     },
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Ferve",
-      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sabotage 50",
         "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 234090,
       "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
       "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Ferve",
+      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
     },
     {
       "added_at": null,

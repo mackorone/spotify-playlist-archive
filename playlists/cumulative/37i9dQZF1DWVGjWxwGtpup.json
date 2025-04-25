@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : MC Menor JP",
+  "description": "Tous les hits latino du moment sont ici. Photo : J Balvin",
   "name": "Caliente",
   "tracks": [
     {
@@ -212,6 +212,28 @@
       "duration_ms": 195066,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
+    },
+    {
+      "album": {
+        "name": "AMISTAD",
+        "url": "https://open.spotify.com/album/12kivfRERofKpsDpcinrmE"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "AMISTAD",
+      "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
     },
     {
       "album": {
@@ -1109,6 +1131,32 @@
     },
     {
       "album": {
+        "name": "Cuentale",
+        "url": "https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159662,
+      "name": "Cuentale",
+      "url": "https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
       },
@@ -1383,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/5snS3fYIqN05Gg6CKssxgf"
+      },
+      "artists": [
+        {
+          "name": "Lyana",
+          "url": "https://open.spotify.com/artist/7JxGCVEB7utWxunkzzQ4zT"
+        },
+        {
+          "name": "Adryano",
+          "url": "https://open.spotify.com/artist/2UDlaOGt9VWAqsbNmsYzYk"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161785,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/4CA51u5DLzwF9rJkQ7gbLQ"
+    },
+    {
+      "album": {
         "name": "Dime Que No (feat. Lenier)",
         "url": "https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw"
       },
@@ -1450,6 +1520,28 @@
       "duration_ms": 147863,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/4LzIcYimjekMzAc0c4vf2Q"
+    },
+    {
+      "album": {
+        "name": "Dolche",
+        "url": "https://open.spotify.com/album/5xGGtkZo6N3HCmvT7LoU8c"
+      },
+      "artists": [
+        {
+          "name": "COQE",
+          "url": "https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157859,
+      "name": "Dolche",
+      "url": "https://open.spotify.com/track/25WDOCITWIg6Nfz5wjkfBY"
     },
     {
       "album": {
@@ -2380,7 +2472,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 218710,
       "name": "INSOMNIO",
       "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
@@ -2944,7 +3036,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 140000,
       "name": "Mafu",
       "url": "https://open.spotify.com/track/650XgPDMRWje8oGC17Cr45"
@@ -3910,7 +4002,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -4604,7 +4696,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 181991,
       "name": "TOA",
       "url": "https://open.spotify.com/track/7gdDVtwNZfpyymuUuNQBD8"

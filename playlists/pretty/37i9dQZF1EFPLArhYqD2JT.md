@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,443 likes - 388 songs - 19 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442 likes - 388 songs - 19 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -358,9 +358,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 348 | [If I Thought You Wouldn't Tell](https://open.spotify.com/track/1a5UovcJ1NoLpJ0G17eMOI) | [Alec Deland](https://open.spotify.com/artist/1T3qsH0rcPsfoPVC9lnVD7), [Livi Perrone](https://open.spotify.com/artist/4AiDBZy9qcLqlq8JH97RJI) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 3:09 |
 | 349 | [Two Cheers Instead Of Three](https://open.spotify.com/track/1VPpQ3JPswpx9lyYypCpNk) | [Walter Willison](https://open.spotify.com/artist/21Ahii1HXBx19BHjkZ3fRp) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:22 |
 | 350 | [I Left My Door Open And My Daddy Walked Out](https://open.spotify.com/track/3HHnYzvHrGRe6CbP5pwlR1) | [Melba Joyce](https://open.spotify.com/artist/10BhWnQxizSg0AjpgtrZ1G) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:44 |
-| 351 | [The New Moon](https://open.spotify.com/track/5eAvV2OJ8M8SbUuGua7rKA) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 4:30 |
-| 352 | [While the Band Played an American Rag](https://open.spotify.com/track/3vWCeSH4GnnLL5Timdz4oU) | [Alec Deland](https://open.spotify.com/artist/1atjbI8nPMrnfNzjmBOf3s) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 1:59 |
-| 353 | [Montmartre](https://open.spotify.com/track/25ASZbbGuIKBwqo5OTZjKF) | [Jack Corbin](https://open.spotify.com/artist/2FPCxNPoRlkKYKx2KUOMjs) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:54 |
+| 351 | [Montmartre](https://open.spotify.com/track/25ASZbbGuIKBwqo5OTZjKF) | [Jack Corbin](https://open.spotify.com/artist/2FPCxNPoRlkKYKx2KUOMjs) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:54 |
+| 352 | [The New Moon](https://open.spotify.com/track/5eAvV2OJ8M8SbUuGua7rKA) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 4:30 |
+| 353 | [While the Band Played an American Rag](https://open.spotify.com/track/3vWCeSH4GnnLL5Timdz4oU) | [Alec Deland](https://open.spotify.com/artist/1atjbI8nPMrnfNzjmBOf3s) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 1:59 |
 | 354 | [I Love to Quarrel with You](https://open.spotify.com/track/0yxQzat8Hvc4dKnFydxhGM) | [Joris De Graaf](https://open.spotify.com/artist/74hKeFZjAULbjEtRs4xsa7), [Samantha Cunha](https://open.spotify.com/artist/208ANASVZ8sR4GDiZTjqC4) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:25 |
 | 355 | [Long As I Can Take You Home](https://open.spotify.com/track/6EOsfLE4zTmhc9uYQi6umQ) | [Sal Viviano](https://open.spotify.com/artist/4TRRC4NyC0GMoT8zr4S7Uk) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:35 |
 | 356 | [Take Off a Little Bit](https://open.spotify.com/track/5FfKlKCzmVV1d5SI46HiKR) | [Fay Compton and Chorus](https://open.spotify.com/artist/49N31UNnyiB2rJupozKVHJ) | [Music Hall Revue 1912\-1918](https://open.spotify.com/album/2WSRffipOotJeWqlQKuD8u) | 3:59 |
@@ -397,4 +397,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 387 | [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 |
 | 388 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `Abvk6gAAAAC0PnCVfjIbv+20VuyuQV/Y`
+Snapshot ID: `AbvqgAAAAAD5DI5PJcuBZ2NAwIAQLjDe`

@@ -4,7 +4,7 @@
 
 > All the best instrumentals & sounds from the internet gathered in one perfect chill out playlist 🫀
 
-106 songs - 5 hr 28 min
+107 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [take a moment to breathe\. \- Instrumental](https://open.spotify.com/track/3lQmOV3OBO7O9FR7oCC8v1) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [take a moment to breathe.](https://open.spotify.com/album/22V9tEtQVgB85xG24ozhS3) | 3:38 | 2025-04-04 |  |
 | [Televangelism](https://open.spotify.com/track/6jd7Cv7yfWGTs7g89eA9Ss) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:03 | 2025-02-27 |  |
 | [The End](https://open.spotify.com/track/4A4JPfwz2Wiym25sHSm63N) | [LLow](https://open.spotify.com/artist/4zwj4Z93k8LjJMwaCw5EDh) | [The End](https://open.spotify.com/album/3kuwABiln5LHd6eVoZUanF) | 2:05 | 2025-04-23 |  |
+| [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 | 2025-04-24 |  |
 | [The Second Waltz, Op\. 99a](https://open.spotify.com/track/5W7NJWEW3mPzlePNrrn4Xb) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT) | [Strauss & Co](https://open.spotify.com/album/1CTMKJTAlF2rrHKoKa15gF) | 3:40 | 2025-02-27 |  |
 | [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 | 2025-02-27 |  |
 | [The Wanderer](https://open.spotify.com/track/26cjmliC855cIjFo5flMcp) | [Nicholas Bamberger](https://open.spotify.com/artist/5TLTbfaEnLRIEcNADIUpjc) | [The Wanderer](https://open.spotify.com/album/4ISpbA9nnTRd3qJEUerPyo) | 3:39 | 2025-04-04 |  |

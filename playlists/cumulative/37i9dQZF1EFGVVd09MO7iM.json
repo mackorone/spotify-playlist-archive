@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "All Eyes on Me",
+        "url": "https://open.spotify.com/album/0tAKfVFOX2SzLTlTsegGZm"
+      },
+      "artists": [
+        {
+          "name": "SonicHalls",
+          "url": "https://open.spotify.com/artist/2HhhsbQKUnkdjg5ZYdJkPB"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242857,
+      "name": "All Eyes on Me",
+      "url": "https://open.spotify.com/track/6AEDmWH4F72nNRxwsacXzW"
+    },
+    {
+      "album": {
         "name": "Til The Casket Drops",
         "url": "https://open.spotify.com/album/3fFlGU0k3z7wle0gp4wNrU"
       },
@@ -3762,7 +3780,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 236480,
       "name": "Dedicated (feat. R.Kelly & Austin Mahone)",
       "url": "https://open.spotify.com/track/16iHofweOVofNFKqni3QvK"

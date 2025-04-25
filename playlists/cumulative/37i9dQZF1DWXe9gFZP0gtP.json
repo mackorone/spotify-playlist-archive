@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Rise and Fall",
+        "url": "https://open.spotify.com/album/0VeztOJkluoDKOmV6I2lQn"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176850,
+      "name": "A Distant Memory",
+      "url": "https://open.spotify.com/track/6G89856OrLFPvFfcRRaTBt"
+    },
+    {
+      "album": {
         "name": "A Fair Wind",
         "url": "https://open.spotify.com/album/7rRk0WXw7gOvh2dQDTcjs4"
       },
@@ -1010,6 +1028,24 @@
       "duration_ms": 161862,
       "name": "Bring You Home",
       "url": "https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg"
+    },
+    {
+      "album": {
+        "name": "Brumae",
+        "url": "https://open.spotify.com/album/33qjJHL5eeNyIqGfTyYdAg"
+      },
+      "artists": [
+        {
+          "name": "Nebula Somni",
+          "url": "https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146632,
+      "name": "Brumae",
+      "url": "https://open.spotify.com/track/6OcnAVoL2EnBfQLhuqgevT"
     },
     {
       "album": {
@@ -2601,6 +2637,42 @@
     },
     {
       "album": {
+        "name": "Empyrean Accord",
+        "url": "https://open.spotify.com/album/3Y2kx3uBWdyKAIAkUzejq6"
+      },
+      "artists": [
+        {
+          "name": "Hibisc",
+          "url": "https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159902,
+      "name": "Empyrean Accord",
+      "url": "https://open.spotify.com/track/1vDRf6EvqoEkcCu7Z8lwrb"
+    },
+    {
+      "album": {
+        "name": "Enlightened Drift",
+        "url": "https://open.spotify.com/album/1XHLTy2qK8p1hLE1mibEg0"
+      },
+      "artists": [
+        {
+          "name": "Amber Glow",
+          "url": "https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "Enlightened Drift",
+      "url": "https://open.spotify.com/track/58Fz9k3Fkh2mZwEjhBPqlu"
+    },
+    {
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/54INztVhPtcP07CYx9dwfo"
       },
@@ -2688,6 +2760,24 @@
       "duration_ms": 205090,
       "name": "Etheral Beauty",
       "url": "https://open.spotify.com/track/5q2kDGsW09g8BClGCuYrdT"
+    },
+    {
+      "album": {
+        "name": "Etherea",
+        "url": "https://open.spotify.com/album/5Y4cJvVKbNVqShs6Ug9AO6"
+      },
+      "artists": [
+        {
+          "name": "Monte Aria",
+          "url": "https://open.spotify.com/artist/7mVQk6J9GM0K0sf1H9ueXZ"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Etherea",
+      "url": "https://open.spotify.com/track/1ch620hW0hYFvPeBhrlI0F"
     },
     {
       "album": {
@@ -2868,7 +2958,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 173786,
       "name": "Exception",
       "url": "https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4"
@@ -2976,7 +3066,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 172529,
       "name": "Extensively",
       "url": "https://open.spotify.com/track/4Qha9RxNLLahCEDGJ6SVDn"
@@ -3786,7 +3876,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 153464,
       "name": "Hills",
       "url": "https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn"
@@ -4056,7 +4146,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 176415,
       "name": "Illusions",
       "url": "https://open.spotify.com/track/3Zfw44YYpZiwITTuVvrDj8"
@@ -5262,7 +5352,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 185706,
       "name": "Meet Me At Sundown",
       "url": "https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9"
@@ -6054,7 +6144,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 189938,
       "name": "Old Faro",
       "url": "https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi"
@@ -6864,7 +6954,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 181800,
       "name": "Rekha",
       "url": "https://open.spotify.com/track/4qrNoVMU8gN61AQqU3e13U"
@@ -7170,7 +7260,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 149169,
       "name": "R\u00e9trospective",
       "url": "https://open.spotify.com/track/5SpWWXLR52XCIw8J355D7t"
@@ -7260,10 +7350,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 168111,
       "name": "Safety",
       "url": "https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs"
+    },
+    {
+      "album": {
+        "name": "Sal Fjallsins",
+        "url": "https://open.spotify.com/album/5YqnPpJlxIiclBHxsPfSBm"
+      },
+      "artists": [
+        {
+          "name": "Astra Sky",
+          "url": "https://open.spotify.com/artist/3VpKQ8XUwdGp6vQ5QQ3ZbP"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159625,
+      "name": "Sal Fjallsins",
+      "url": "https://open.spotify.com/track/4eVJ2RTbfxUcTLnSnnKUOM"
     },
     {
       "album": {
@@ -7440,7 +7548,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 124241,
       "name": "Sedang Tidur",
       "url": "https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze"
@@ -7998,7 +8106,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 156000,
       "name": "Soulful Solitude",
       "url": "https://open.spotify.com/track/7jQjXE5ZsOpzeY8lhP8oQA"

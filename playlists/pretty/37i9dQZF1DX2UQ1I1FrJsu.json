@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 117170,
+  "num_followers": 117289,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 293709,
+      "name": "Made to Fall in Love",
+      "url": "https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1AjFcFS1NcE6zB8uUCeUzK"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 293709,
-      "name": "Made to Fall in Love",
-      "url": "https://open.spotify.com/track/36h1hoNVjKcsLUH2NzGmPj"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 229853,
       "name": "Echo",
       "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -1267,18 +1267,22 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+        "name": "YoSoyMatt (feat. Hermanu)",
+        "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Hermanu",
+          "url": "https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl"
         }
       ],
-      "duration_ms": 73235,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9"
+      "duration_ms": 237600,
+      "name": "YoSoyMatt (feat. Hermanu)",
+      "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -1299,6 +1303,22 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 73235,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
         "name": "Remember My Song",
         "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
-        "name": "YoSoyMatt (feat. Hermanu)",
-        "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Hermanu",
-          "url": "https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "YoSoyMatt (feat. Hermanu)",
-      "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-04-18 04:00:47",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Bonita Applebum",
-      "url": "https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9"
-    },
-    {
-      "added_at": "2025-04-18 04:00:47",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 233095,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
+    },
+    {
+      "added_at": "2025-04-18 04:00:47",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Bonita Applebum",
+      "url": "https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9"
     },
     {
       "added_at": "2025-04-18 04:00:47",

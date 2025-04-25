@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 919 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [OTKACHALKI](https://open.spotify.com/track/1pRSvQZVxrZ2d4GPjZmlAq) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [OTKACHALKI](https://open.spotify.com/album/0wxBkakmoiGcrGov64qJZO) | 4:26 |
 | 50 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 
-Snapshot ID: `L5xXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L52reAAAAAAAAAAAAAAAAAAAAAAAAGVu`

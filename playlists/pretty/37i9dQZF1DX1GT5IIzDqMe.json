@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 97775,
+  "num_followers": 97794,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Good Life (Remastered)",
-        "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
+        "name": "SIGHT SOUND AND SPACE",
+        "url": "https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+          "name": "Jeff Mills",
+          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Good Life (Remastered)",
-      "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
+      "duration_ms": 285413,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -127,18 +119,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "SIGHT SOUND AND SPACE",
-        "url": "https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb"
+        "name": "Good Life (Remastered)",
+        "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
       },
       "artists": [
         {
-          "name": "Jeff Mills",
-          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
         }
       ],
-      "duration_ms": 285413,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN"
+      "duration_ms": 196363,
+      "name": "Good Life (Remastered)",
+      "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -211,6 +211,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Big Fun (Remastered)",
+        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Big Fun (Remastered)",
+      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Frisk",
         "url": "https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 221199,
       "name": "Into The Dark",
       "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Big Fun (Remastered)",
-        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Big Fun (Remastered)",
-      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -351,6 +351,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Pennies From Heaven (Remastered)",
+        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 198159,
+      "name": "Pennies From Heaven (Remastered)",
+      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Into The Groove",
         "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 271464,
       "name": "On A Journey",
       "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Pennies From Heaven (Remastered)",
-        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 198159,
-      "name": "Pennies From Heaven (Remastered)",
-      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -483,6 +483,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
         "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
       },
@@ -503,22 +523,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
       "artists": [
         {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
         },
         {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
         }
       ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
+      "duration_ms": 188225,
+      "name": "SoundwaveZ",
+      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -547,22 +567,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Art of Music",
-        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 320866,
-      "name": "Telekinesis",
-      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Red Room",
         "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
       },
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+        "name": "The Art of Music",
+        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "ZebrA OctobrA",
-          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 188225,
-      "name": "SoundwaveZ",
-      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
+      "duration_ms": 320866,
+      "name": "Telekinesis",
+      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -635,22 +635,6 @@
       "duration_ms": 208177,
       "name": "The Protector",
       "url": "https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Sounds",
-        "url": "https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 273832,
-      "name": "Make Me Laugh",
-      "url": "https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -719,6 +703,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 352599,
+      "name": "We All Move Together - Album Mix",
+      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Space Ibiza 2014 (25th Anniversary) [Unmixed DJ Version]",
         "url": "https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf"
       },
@@ -739,22 +743,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+        "name": "Sounds",
+        "url": "https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 352599,
-      "name": "We All Move Together - Album Mix",
-      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+      "duration_ms": 273832,
+      "name": "Make Me Laugh",
+      "url": "https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Curse Breaker / What You Need",
-        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "The Curse Breaker",
-      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 367500,
       "name": "Lightyears",
       "url": "https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "The Curse Breaker / What You Need",
+        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "The Curse Breaker",
+      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
     },
     {
       "added_at": "2023-10-26 20:41:14",

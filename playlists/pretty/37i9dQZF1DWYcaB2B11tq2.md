@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,602 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,756 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Cordero Inmolado \- Live](https://open.spotify.com/track/1vF4AjVzhyGYqy7MQRpw35) | [Kabed](https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g) | [Cordero Inmolado \(Live\)](https://open.spotify.com/album/4nHUmEs17FbQwjhm5O43RY) | 16:35 |
 | 75 | [Dañar el Jangueo](https://open.spotify.com/track/2G57GCgrChXL9CQ0yUMX7f) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Dañar el Jangueo](https://open.spotify.com/album/5Gzt5itwkQ3s2ZHICFzF0r) | 3:50 |
 | 76 | [Agnus Dei](https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL) | [Salida 7](https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv) | [Agnus Dei](https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx) | 3:49 |
-| 77 | [Le Pertenezco](https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Mauricio Alen](https://open.spotify.com/artist/2xobqRIT4uGkrZVPJjRQeY) | [Le Pertenezco](https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy) | 3:46 |
-| 78 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
+| 77 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
+| 78 | [Le Pertenezco](https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Mauricio Alen](https://open.spotify.com/artist/2xobqRIT4uGkrZVPJjRQeY) | [Le Pertenezco](https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy) | 3:46 |
 | 79 | [Mas Profundo](https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU) | [Justin Michael](https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl) | [Mas Profundo](https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu) | 5:59 |
 | 80 | [Bendecir Tu Nombre](https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Bendecir Tu Nombre](https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9) | 4:26 |
 | 81 | [Glorioso Día](https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd) | [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Glorioso Día](https://open.spotify.com/album/79lisODI2SlbY69xklS6kE) | 7:10 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 89 | [Tu Luz](https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8) | [Winicius Nathan](https://open.spotify.com/artist/0okMmUI1LhZRWZVrtHmEqU), [Kevin Mendoza](https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK) | [Tu Luz](https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad) | 3:50 |
 | 90 | [Inima Mea Va Canta](https://open.spotify.com/track/4RWLO76SLaRgXmFpKcLPyN) | [PAS](https://open.spotify.com/artist/6FAriCKEIsbXXlLdXebgXu) | [Aproape de Tine](https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ) | 3:33 |
 | 91 | [Nuestro Encuentro](https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx) | [Daniel Piedra Soto](https://open.spotify.com/artist/5S85r4Nr3HMIhM1HQqkSzF) | [Atracción](https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2) | 6:12 |
-| 92 | [Jesus En El Centro \- Live](https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 6:42 |
-| 93 | [El Milagro](https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [El Milagro](https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM) | 3:54 |
+| 92 | [El Milagro](https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [El Milagro](https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM) | 3:54 |
+| 93 | [Jesus En El Centro \- Live](https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 6:42 |
 | 94 | [Himno De Victoria](https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 4:00 |
 | 95 | [Latido](https://open.spotify.com/track/0LbNO9UA0I8EDHLwIZ3dXa) | [Comunidad Music](https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd), [Jhonny Caprini](https://open.spotify.com/artist/23bRlgh4Ej3jQ2oZKzQB9F) | [\#DesdeCasa \- Parte B](https://open.spotify.com/album/0CgtYj03PrOBNkZrdKPSal) | 3:22 |
 | 96 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 |

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125410,
+  "num_followers": 125400,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT/NLhN4Yc0+WoJgMGbes/QTs8PCHW",
+  "snapshot_id": "AAAT/iTUQOnEShjc4/zC8O07sVQHZwSl",
   "tracks": [
+    {
+      "added_at": "2025-04-24 19:39:38",
+      "album": {
+        "name": "cheemistry",
+        "url": "https://open.spotify.com/album/5euhcmT7aP4W7mrL9JWlPy"
+      },
+      "artists": [
+        {
+          "name": "Zachz Winner",
+          "url": "https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV"
+        }
+      ],
+      "duration_ms": 116404,
+      "name": "cheemistry",
+      "url": "https://open.spotify.com/track/43GqjsNEuDm8wVdJZdwLWO"
+    },
     {
       "added_at": "2025-04-23 17:13:41",
       "album": {

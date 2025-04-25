@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 465383,
+  "num_followers": 465367,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
+        "name": "Time After Time (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 219648,
+      "name": "Time After Time - Spotify Singles",
+      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+    },
+    {
+      "added_at": "2025-04-18 04:00:48",
+      "album": {
         "name": "To Emmylou",
         "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 185421,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
-    },
-    {
-      "added_at": "2025-04-18 04:00:48",
-      "album": {
-        "name": "Time After Time (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 219648,
-      "name": "Time After Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
     },
     {
       "added_at": "2025-04-18 04:00:48",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
-    },
-    {
-      "added_at": "2025-04-18 04:00:48",
-      "album": {
         "name": "Saint Cloud +3",
         "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 278456,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn"
+    },
+    {
+      "added_at": "2025-04-18 04:00:48",
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2025-04-18 04:00:48",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
-        "name": "Pine Hollow (Live)",
-        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Jolene - Live",
-      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
-    },
-    {
-      "added_at": "2025-04-18 04:00:48",
-      "album": {
         "name": "Covers, Vol. 1",
         "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 206796,
       "name": "The Safety Dance",
       "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
+    },
+    {
+      "added_at": "2025-04-18 04:00:48",
+      "album": {
+        "name": "Pine Hollow (Live)",
+        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Jolene - Live",
+      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
     },
     {
       "added_at": "2025-04-18 04:00:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
-        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
-        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Remembering Mountains",
-      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
-    },
-    {
-      "added_at": "2025-04-18 04:00:48",
-      "album": {
         "name": "By Your Side / Landslide",
         "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 266000,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
+    },
+    {
+      "added_at": "2025-04-18 04:00:48",
+      "album": {
+        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
+        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Remembering Mountains",
+      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
     },
     {
       "added_at": "2025-04-18 04:00:48",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2025-04-18 04:00:48",
-      "album": {
         "name": "Let Down",
         "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         }
       ],
-      "duration_ms": 197540,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2025-04-18 04:00:48",
@@ -1187,6 +1171,22 @@
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2025-04-18 04:00:48",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 197540,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
     },
     {
       "added_at": "2025-04-18 04:00:48",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 190110,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
-    },
-    {
-      "added_at": "2025-04-18 04:00:48",
-      "album": {
         "name": "The Age Of Worry",
         "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
@@ -1307,6 +1291,38 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
+    },
+    {
+      "added_at": "2025-04-18 04:00:48",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 267602,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1InkpT1DTMlYcCEV2HU0L1"
+    },
+    {
+      "added_at": "2025-04-18 04:00:48",
+      "album": {
         "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
         "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY"
+        "name": "Ohio / After The Gold Rush",
+        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
         }
       ],
-      "duration_ms": 267602,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1InkpT1DTMlYcCEV2HU0L1"
+      "duration_ms": 294142,
+      "name": "After The Gold Rush",
+      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
     },
     {
       "added_at": "2025-04-18 04:00:48",
@@ -1363,22 +1379,6 @@
       "duration_ms": 289186,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/1XwqNMe7dcylnzQD4w8Ctk"
-    },
-    {
-      "added_at": "2025-04-18 04:00:48",
-      "album": {
-        "name": "Ohio / After The Gold Rush",
-        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 294142,
-      "name": "After The Gold Rush",
-      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
     },
     {
       "added_at": "2025-04-18 04:00:48",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
-        "name": "Sings Kacey Musgraves",
-        "url": "https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR"
-    },
-    {
-      "added_at": "2025-04-18 04:00:48",
-      "album": {
         "name": "To Ramona",
         "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 217586,
       "name": "To Ramona",
       "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2025-04-18 04:00:48",
+      "album": {
+        "name": "Sings Kacey Musgraves",
+        "url": "https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR"
     },
     {
       "added_at": "2025-04-18 04:00:48",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2025-04-18 04:00:48",
       "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
+    },
+    {
+      "added_at": "2025-04-18 04:00:48",
+      "album": {
         "name": "true love will find you in the end (Adam's Version)",
         "url": "https://open.spotify.com/album/75NVfTQZUCSxN5388wvYK6"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 121665,
       "name": "true love will find you in the end - Adam's Version",
       "url": "https://open.spotify.com/track/1iBKUbUAvPQavSlNrGaXg5"
-    },
-    {
-      "added_at": "2025-04-18 04:00:48",
-      "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
     },
     {
       "added_at": "2025-04-18 04:00:48",

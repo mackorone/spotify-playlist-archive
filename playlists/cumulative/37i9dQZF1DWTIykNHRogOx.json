@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Vendredi sur Mer",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Marie-Flore",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 149306,
       "name": "C'est l'heure",
       "url": "https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 172000,
       "name": "Ensemble - feat. Charlotte Cardin",
       "url": "https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ"
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165378,
+      "name": "La rivi\u00e8re",
+      "url": "https://open.spotify.com/track/0MMXPraylvfvemFGDINgag"
+    },
+    {
+      "album": {
         "name": "La Romance",
         "url": "https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK"
       },
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 187390,
       "name": "Le mauvais gar\u00e7on",
       "url": "https://open.spotify.com/track/55RryZOqld0UynYHHVAiOP"
@@ -1758,6 +1776,42 @@
       "duration_ms": 174986,
       "name": "Les ogres",
       "url": "https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU"
+    },
+    {
+      "album": {
+        "name": "Si on sombre ce sera beau",
+        "url": "https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174986,
+      "name": "Les ogres",
+      "url": "https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV"
+    },
+    {
+      "album": {
+        "name": "Les ratures",
+        "url": "https://open.spotify.com/album/5n4FmzmHvPzvilS26pNZJr"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne Sio",
+          "url": "https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Les ratures",
+      "url": "https://open.spotify.com/track/3HSSGaHoHkJK4wXxr0bdQq"
     },
     {
       "album": {
@@ -2335,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Ex \u00e6quo",
+        "url": "https://open.spotify.com/album/577bgbkPYgJf71s0AeOdim"
+      },
+      "artists": [
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "Promis jur\u00e9",
+      "url": "https://open.spotify.com/track/6ybZdo0nUd5fdsuVrOUW6r"
+    },
+    {
+      "album": {
         "name": "Quelques centimes",
         "url": "https://open.spotify.com/album/3VW8z9MaYAbCxBgVJq4pSg"
       },
@@ -2888,7 +2960,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 161013,
       "name": "Violette",
       "url": "https://open.spotify.com/track/7smDg0K71zHvU7w0qRiUOG"

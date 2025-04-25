@@ -2,7 +2,7 @@
 
 ### [Keşif](https://open.spotify.com/playlist/37i9dQZF1DX9EWkqxS1pO0)
 
-> Yeni favori sanatçını keşfet ⚡23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷  Kapak: Kool Jane
+> Yeni favori sanatçını keşfet ⚡ Kapak: Kool Jane
 
 229 songs - 11 hr 27 min
 
@@ -121,7 +121,7 @@
 | [Kırlangıçlar](https://open.spotify.com/track/3H3k1XBns0Wh9MRvQcht7u) | [ENGIN](https://open.spotify.com/artist/2iINz7L7OFlJmxVndzlWEg) | [Kırlangıçlar](https://open.spotify.com/album/2Lg3sLUbFvN241rtsaAanx) | 4:32 | 2025-02-13 |  |
 | [Laleler Beyaz](https://open.spotify.com/track/2QTpa3t9Jl913GbfiTJxjQ) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [Laleler Beyaz](https://open.spotify.com/album/6QlahLGtmsSu94e6dT9Gtd) | 4:24 | 2024-11-07 | 2024-12-13 |
 | [Mahvettim](https://open.spotify.com/track/0RtzvHBV65ThWzML2a6EDA) | [Bostancı Dayı](https://open.spotify.com/artist/49R24Ako5Qa6SV3HAR06gS) | [Mahvettim](https://open.spotify.com/album/5yiS1Re5SgJ3Q9VxRF8TyT) | 3:39 | 2024-08-08 | 2024-10-28 |
-| [Manifesto](https://open.spotify.com/track/2vfWhl5oPeAjMI5JESDNXE) | [Şenay Lambaoğlu](https://open.spotify.com/artist/3TBKeKodYFrl3UaYKTcapT) | [Manifesto](https://open.spotify.com/album/3zppMe7LDeYDf9wER7yiLz) | 2:57 | 2025-02-27 |  |
+| [Manifesto](https://open.spotify.com/track/2vfWhl5oPeAjMI5JESDNXE) | [Şenay Lambaoğlu](https://open.spotify.com/artist/3TBKeKodYFrl3UaYKTcapT) | [Manifesto](https://open.spotify.com/album/3zppMe7LDeYDf9wER7yiLz) | 2:57 | 2025-02-27 | 2025-04-25 |
 | [Mazide](https://open.spotify.com/track/78Ph3Ffyp3vV0BqaBLJRXN) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Mazide](https://open.spotify.com/album/0rjCBkzUULXmudEq4vy0hi) | 3:00 | 2024-09-27 |  |
 | [MELEK MİYİM](https://open.spotify.com/track/0HSj4XkXceHcSiwKcWxc1V) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [MELEK MİYİM](https://open.spotify.com/album/6UCpFr6aaLjtHSX3GpKCKb) | 2:31 | 2024-06-20 |  |
 | [Mutluluk Bizim](https://open.spotify.com/track/7uoTayR7oZ7eo8i6qiWyKQ) | [Zeki Dizdar](https://open.spotify.com/artist/24APBiHTNXuEpwYC2jag26) | [Mutluluk Bizim](https://open.spotify.com/album/5TqdStIvA3RsxshJHx4lIi) | 3:52 | 2024-06-20 | 2024-07-20 |
@@ -162,7 +162,7 @@
 | [Sonbahar](https://open.spotify.com/track/5LcF9VX52fYgOWvkkF91Hc) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Beşer](https://open.spotify.com/album/2KoA1TjuegruChoecNXGWV) | 2:31 | 2025-03-20 |  |
 | [Sonu Gelmesin](https://open.spotify.com/track/5gy0tymPj3IxNgLeOMxKUc) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Sonu Gelmesin](https://open.spotify.com/album/2nNf7el3Hbz0EKg2nSeEfj) | 2:57 | 2024-06-20 | 2024-09-16 |
 | [Sonumu Bile Bile](https://open.spotify.com/track/3ZGgkyCgxd0UqSIgrQqlVS) | [Mertkan Erkan](https://open.spotify.com/artist/13lsQbnSpalOoAq3AbDwec) | [Sonumu Bile Bile](https://open.spotify.com/album/6BTDX0BA3yEbL3qtSnBpaW) | 3:29 | 2025-01-09 | 2025-04-21 |
-| [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 | 2024-06-20 | 2025-04-24 |
+| [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 | 2024-06-20 |  |
 | [Sosyopat Gülümseme](https://open.spotify.com/track/4WfafErZGjPuVBIEPAVlhS) | [Sla](https://open.spotify.com/artist/24STYbqPydEIyXy8ys6VWB) | [Sosyopat Gülümseme](https://open.spotify.com/album/6UZji7bUoCv3137UqlD7cY) | 2:41 | 2024-07-12 | 2024-09-28 |
 | [SPIDERMAN \[JUKED\]](https://open.spotify.com/track/5YfnpTyup77ymJp02UX9ji) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH), [Valfi](https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q) | [Parti Devam Etsin!](https://open.spotify.com/album/3NWNOwZxBUYT5nrvkbDroj) | 2:31 | 2024-12-19 | 2025-01-10 |
 | [Söyle](https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Söyle](https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S) | 2:32 | 2024-08-29 | 2024-12-18 |

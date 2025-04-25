@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > welcome to the underground\. greetings from caroline\(s\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,449 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,474 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 6 | [STAY WITH ME!](https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [STAY WITH ME!](https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J) | 3:07 |
 | 7 | [Adam & Steve](https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Adam & Steve](https://open.spotify.com/album/7yV48nbPydSyv2xod1SQLe) | 2:30 |
 | 8 | [4](https://open.spotify.com/track/3W9INBEJLZwnBZlbGHz8P2) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:59 |
-| 9 | [I Hate You, I Love You](https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I hate you, I love you](https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is) | 5:29 |
+| 9 | [I Hate You, I Love You](https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I Hate You, I Love You](https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is) | 5:29 |
 | 10 | [barefeet](https://open.spotify.com/track/3qnJMEAZ4FZr0YiHOfHSPa) | [Gal Go](https://open.spotify.com/artist/7n60wrmIBDkDk5MGXyZC0t), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [C los lentos](https://open.spotify.com/album/3rJddPnSqEFGp3ajwYvwoJ) | 2:28 |
 | 11 | [Doves](https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Doves](https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50) | 4:11 |
 | 12 | [Garden](https://open.spotify.com/track/5cICW30wJh0GNydrFw4v7d) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Garden](https://open.spotify.com/album/6AuJCBu9x0QF69P9Y8Zdfj) | 4:03 |

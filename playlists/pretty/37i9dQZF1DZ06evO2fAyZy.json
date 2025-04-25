@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 95689,
+  "num_followers": 95722,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAACzMkjg1hFhE+Qq9P0IuK5O",
+  "snapshot_id": "aAgtgAAAAADY+BKb3hzec/dvoQZXpeLI",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "We Broke Up",
-      "url": "https://open.spotify.com/track/2XkuUsSPNBS8m079N8T5zH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 200040,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "We Broke Up",
+      "url": "https://open.spotify.com/track/2XkuUsSPNBS8m079N8T5zH"
     },
     {
       "added_at": null,

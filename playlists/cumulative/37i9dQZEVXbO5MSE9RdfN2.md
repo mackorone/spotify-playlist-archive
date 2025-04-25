@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-1,446 songs - 3 day 4 hr 9 min
+1,447 songs - 3 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,7 +903,7 @@
 | [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-05-16 | 2024-05-21 |
 | [Nobody New](https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Nobody New](https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3) | 3:35 | 2025-04-22 |  |
 | [Noid](https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:44 | 2024-11-05 | 2024-11-13 |
-| [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-03-04 | 2025-04-23 |
+| [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-03-04 |  |
 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 | 2025-03-26 |  |
 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 | 2025-02-18 | 2025-03-02 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-21 | 2025-02-26 |
@@ -959,7 +959,8 @@
 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 | 2024-07-09 | 2024-07-17 |
 | [Parte & Choke \(with Ryan Castro\) \- Remix](https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m) | [Parte & Choke \(with Ryan Castro\) \[Remix\]](https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO) | 3:38 | 2025-02-12 | 2025-02-18 |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-02-22 | 2025-03-04 |
-| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-03-23 |  |
+| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY) | 1:56 | 2025-04-24 |  |
+| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-03-23 | 2025-04-25 |
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-19 | 2024-04-07 |
 | [peace u need](https://open.spotify.com/track/4A8tKYA7gwZzQ4jVwIv1sv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 5:44 | 2024-09-24 | 2024-09-29 |
 | [Peace with Pain](https://open.spotify.com/track/3bPVSzCzxrMxheZEhq62Cp) | [Jonas Conner](https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv) | [Peace with Pain](https://open.spotify.com/album/2N4Nxmkr3jORP44i5lZEiQ) | 3:00 | 2024-12-26 | 2024-12-28 |
@@ -1310,7 +1311,7 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-12 | 2024-06-19 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-13 | 2024-10-14 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-23 | 2024-08-07 |
-| [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-04-18 |  |
+| [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-04-18 | 2025-04-25 |
 | [TOXIC](https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 3:10 | 2024-12-03 | 2024-12-05 |
 | [Toxic \(Freestyle\)](https://open.spotify.com/track/3KTRve0Kx6ytMtlEWkWcgt) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [BL@CKBOX](https://open.spotify.com/artist/1IIMC4tga6PiBaEqPq2FTb) | [Toxic \(Freestyle\)](https://open.spotify.com/album/0Oy294KOfbLAq9OtJfx7qk) | 2:16 | 2024-01-29 | 2024-03-21 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-24 | 2025-01-06 |

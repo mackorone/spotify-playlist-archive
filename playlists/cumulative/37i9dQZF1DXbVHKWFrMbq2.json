@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "canciones para chillear con Paz Carrara.",
+  "description": "canciones para chillear con Javiera Mena & Santiago Motorizado.",
   "name": "pop tranqui",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 261165,
       "name": "A Running Start",
       "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
+    },
+    {
+      "album": {
+        "name": "a todo el mundo le pasa",
+        "url": "https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "a todo el mundo le pasa",
+      "url": "https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3"
     },
     {
       "album": {
@@ -1497,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "Mar de Coral",
+        "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235044,
+      "name": "Mar de Coral",
+      "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
+    },
+    {
+      "album": {
         "name": "Mariposa Azul",
         "url": "https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f"
       },
@@ -1714,7 +1754,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 174580,
       "name": "Ni 1 Complejo",
       "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
@@ -1848,7 +1888,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 221901,
       "name": "ojos de video tape",
       "url": "https://open.spotify.com/track/5uSgQfJaYDyvC2zIMshIA4"
@@ -2110,7 +2150,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 198850,
       "name": "Plegarias",
       "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
@@ -2716,6 +2756,24 @@
       "duration_ms": 200560,
       "name": "Una L\u00e1grima y Un Beso",
       "url": "https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV"
+    },
+    {
+      "album": {
+        "name": "Una Noche Contigo",
+        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193154,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
     },
     {
       "album": {

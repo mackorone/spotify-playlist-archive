@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-3,770 songs - 8 day 8 hr 51 min
+3,772 songs - 8 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,7 +884,7 @@
 | [Doublewide](https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Wait Til I Get My Money Up](https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl) | 2:38 | 2024-12-24 | 2025-01-08 |
 | [douji feva](https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [douji feva](https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5) | 1:45 | 2024-01-03 | 2024-01-24 |
 | [Dovni](https://open.spotify.com/track/7uLX9oIvIJPCykyygTkiyo) | [frozes](https://open.spotify.com/artist/6O0QqmQ8GtfyrLFltWJtFi) | [Dovni](https://open.spotify.com/album/6wpX5sAJX01MWhhptorRt8) | 2:32 | 2022-02-06 | 2022-02-23 |
-| [DOWN BAD](https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [DOWN BAD](https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC) | 2:12 | 2025-04-22 |  |
+| [DOWN BAD](https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [DOWN BAD](https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC) | 2:12 | 2025-04-22 | 2025-04-25 |
 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 | 2024-05-07 | 2024-05-10 |
 | [DOWN BY LAW](https://open.spotify.com/track/6KlvybbokGa63tRS4J3Uqh) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 3:31 | 2024-02-10 | 2024-02-14 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX) | 2:38 | 2022-02-06 | 2022-03-09 |
@@ -2475,7 +2475,8 @@
 | [Party Girl](https://open.spotify.com/track/3mMAh850QRGEZSVw6E0P9f) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/3GxgZAbZTbFfGtyg5c1oLh) | 2:19 | 2025-04-06 | 2025-04-08 |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-05-31 | 2022-07-24 |
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-08-13 | 2024-08-21 |
-| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-03-27 |  |
+| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY) | 1:56 | 2025-04-24 |  |
+| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-03-27 | 2025-04-25 |
 | [Past Lives](https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui) | [Past Lives](https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8) | 2:33 | 2023-04-30 | 2023-06-16 |
 | [Past Lives \- Sapientdreams Remix](https://open.spotify.com/track/58TzcSnsgTBVN0jytVskgn) | [Dj Agos](https://open.spotify.com/artist/2m4LlfxDioYvvjx6UWjV8U) | [Past Lives \- Sapientdreams Remix](https://open.spotify.com/album/6hUXjk7tGsBWvSYKKgbtiF) | 2:34 | 2023-02-28 | 2023-03-03 |
 | [Past Lives \- Sapientdreams Remix](https://open.spotify.com/track/6BU4Xd49WEr8AXI7M2LMEw) | [Dj Agos](https://open.spotify.com/artist/2m4LlfxDioYvvjx6UWjV8U) | [Past Lives \(Sapientdreams Remix\)](https://open.spotify.com/album/65E47oz7ARX7uXdLT988tu) | 2:34 | 2023-01-31 | 2023-03-09 |
@@ -3623,6 +3624,7 @@
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-03-28 | 2023-06-08 |
 | [Where You Are \- GRiZ Remix](https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Where You Are \(GRiZ Remix\)](https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS) | 4:00 | 2023-06-27 | 2023-07-01 |
 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 | 2023-01-28 | 2023-03-01 |
+| [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 4:45 | 2025-04-24 |  |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-17 | 2024-01-24 |
 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 | 2025-04-04 |  |
 | [WHIM WHAMIEE](https://open.spotify.com/track/0j8cFgSjGoSccjqXiN0ahN) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/59gk5YRYfqayyXH8YchodQ) | 2:22 | 2025-03-27 | 2025-04-05 |

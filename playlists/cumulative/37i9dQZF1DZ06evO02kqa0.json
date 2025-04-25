@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 262146,
       "name": "Bizet: Carmen, Act 1: \"L'amour est un oiseau rebelle\" (Habanera) [Carmen, Chorus]",
       "url": "https://open.spotify.com/track/2r1FiNXh5mDNEP8K07YRVp"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 55693,
       "name": "Bizet: Carmen, Act 1: \"Quels regardes! Quelle effronterie!\" (Carmen, Jos\u00e9)",
       "url": "https://open.spotify.com/track/0q0r8JVp4dPZBbmBUsqsgO"
@@ -1793,6 +1793,40 @@
     },
     {
       "album": {
+        "name": "Callas, Maria: Liebeslieder",
+        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Milan La Scala Chorus",
+          "url": "https://open.spotify.com/artist/09bshvKZIhLIvbHWWXlhKO"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452213,
+      "name": "Rigoletto, Act I: Gualtier Malde \u2026 Caro nome",
+      "url": "https://open.spotify.com/track/6aRbgUJAGapYx74lks2Y8O"
+    },
+    {
+      "album": {
         "name": "Maria Callas",
         "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
       },
@@ -1842,7 +1876,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 384400,
       "name": "Rossini: Il barbiere di Siviglia, Act 1: \"Una voce poco fa\" (Rosina)",
       "url": "https://open.spotify.com/track/1ywe4Q5CnMj7G1BgiMWVim"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Panguino](https://open.spotify.com/user/megustager) - 651 likes - 492 songs - 1 day 10 hr 7 min
+[Panguino](https://open.spotify.com/user/megustager) - 652 likes - 492 songs - 1 day 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

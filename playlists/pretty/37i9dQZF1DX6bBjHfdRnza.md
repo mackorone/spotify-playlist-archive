@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Yes Boone\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,485 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,551 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Losing my mind <3](https://open.spotify.com/track/3S9zQDwOt2SWxvMwdxRt1a) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [Losing my mind <3](https://open.spotify.com/album/22wkwu6ew3HcIN7rZlhIgp) | 2:14 |
 | 100 | [Dark Waters](https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Dark Waters](https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl) | 3:33 |
 
-Snapshot ID: `aAkttgAAAAD0+zXJ5WzElpKboN/+h/mS`
+Snapshot ID: `aAmzTQAAAACJugpt8YKf68mE1BzzQLzx`

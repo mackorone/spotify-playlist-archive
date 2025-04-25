@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 950213,
+  "num_followers": 950283,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Firestone (Live Acoustic Version)",
         "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 226345,
       "name": "Firestone - Live Acoustic Version",
       "url": "https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Spotify Sessions - Long Way Down",
-        "url": "https://open.spotify.com/album/3801iWIKMAQT9FRuEoJCXN"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Another Love - Live from Spotify (SXSW)",
-      "url": "https://open.spotify.com/track/0rhJ30qQSus6Ckn3hKZ6Hr"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Pretty Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 180828,
       "name": "Pretty Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Spotify Sessions - Long Way Down",
+        "url": "https://open.spotify.com/album/3801iWIKMAQT9FRuEoJCXN"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Another Love - Live from Spotify (SXSW)",
+      "url": "https://open.spotify.com/track/0rhJ30qQSus6Ckn3hKZ6Hr"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "#Acoustic",
-        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Don't Wanna Know - Acoustic Version",
-      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "I'm the One (Acoustic)",
         "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 233488,
       "name": "I'm the One - Acoustic",
       "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Don't Wanna Know - Acoustic Version",
+      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1159,22 +1159,6 @@
       "duration_ms": 211933,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Umbrella (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 178319,
-      "name": "Umbrella - Acoustic Version",
-      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Umbrella (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 178319,
+      "name": "Umbrella - Acoustic Version",
+      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Shallow",
         "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/0f3WTlkEMpF9fllyA7XVQW"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Nervous - Acoustic",
-      "url": "https://open.spotify.com/track/3ZAbCtTT1qSmJFSilUjhpr"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "She's On My Mind (Acoustics)",
         "url": "https://open.spotify.com/album/11iEgJHgXJOEnrqLkAg1pz"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 166701,
       "name": "She's On My Mind - Guitar Acoustic",
       "url": "https://open.spotify.com/track/6O2cwVw0mjWxq98rI4YfVz"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0f3WTlkEMpF9fllyA7XVQW"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Nervous - Acoustic",
+      "url": "https://open.spotify.com/track/3ZAbCtTT1qSmJFSilUjhpr"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Brandy (You're a Fine Girl)",
-        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
-      },
-      "artists": [
-        {
-          "name": "Catey Shaw",
-          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
-        }
-      ],
-      "duration_ms": 208198,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Perfect Strangers (Acoustic)",
         "url": "https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Brandy (You're a Fine Girl)",
+        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
+      },
+      "artists": [
+        {
+          "name": "Catey Shaw",
+          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
+        }
+      ],
+      "duration_ms": 208198,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "City of Stars",
         "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Dancing In The Moonlight: The Best Of Toploader",
-        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
-      },
-      "artists": [
-        {
-          "name": "Toploader",
-          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Dancing in the Moonlight - Acoustic Version",
-      "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "New Rules",
         "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 227279,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Dancing In The Moonlight: The Best Of Toploader",
+        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Dancing in the Moonlight - Acoustic Version",
+      "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Dreams (Piano Version)",
-        "url": "https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/1HrVc40jQbDRWIB9KreDti"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Blood & Rust",
         "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 202684,
       "name": "I Like Me Better - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Dreams (Piano Version)",
+        "url": "https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/1HrVc40jQbDRWIB9KreDti"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2155,6 +2155,26 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Mama (Acoustic)",
+        "url": "https://open.spotify.com/album/0AIZFcHSbXf5B7XLRaPLN5"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "duration_ms": 192277,
+      "name": "Mama - Acoustic",
+      "url": "https://open.spotify.com/track/3VOtM6x5KXZuxSzHaaf9oO"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "The Covers, Vol. 4",
         "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
       },
@@ -2255,26 +2275,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Mama (Acoustic)",
-        "url": "https://open.spotify.com/album/0AIZFcHSbXf5B7XLRaPLN5"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
-        }
-      ],
-      "duration_ms": 192277,
-      "name": "Mama - Acoustic",
-      "url": "https://open.spotify.com/track/3VOtM6x5KXZuxSzHaaf9oO"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Lift Your Spirit",
         "url": "https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg"
       },
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Send Me on My Way (Acoustic)",
+        "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 187812,
+      "name": "Send Me on My Way (Acoustic)",
+      "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0w8ZP4LJNTahWf43STWyIA"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 141142,
       "name": "Havana - Acoustic",
       "url": "https://open.spotify.com/track/6WocEbaRB9G2QEnklpIhLd"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Send Me on My Way (Acoustic)",
-        "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 187812,
-      "name": "Send Me on My Way (Acoustic)",
-      "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
     },
     {
       "added_at": "2024-07-10 07:20:21",

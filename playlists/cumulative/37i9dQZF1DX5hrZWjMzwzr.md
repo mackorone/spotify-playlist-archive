@@ -2,7 +2,7 @@
 
 ### [Popkillery 2025: Singiel Roku](https://open.spotify.com/playlist/37i9dQZF1DX5hrZWjMzwzr)
 
-> Posłuchaj wszystkich nominowanych utworów w kategorii singiel roku i zagłosuj na swoich faworytów na stronie popkiller.pl!
+> Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
 143 songs - 7 hr 29 min
 

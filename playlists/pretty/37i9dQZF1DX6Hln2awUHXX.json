@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 105798,
+  "num_followers": 105822,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -535,30 +535,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
-        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Netherlands Radio Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
-        },
-        {
-          "name": "Edo de Waart",
-          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
-        }
-      ],
-      "duration_ms": 846253,
-      "name": "Symphony in C Major: II. Andante ma non troppo, un poco maestoso",
-      "url": "https://open.spotify.com/track/63LuatqjEm6RW3i469H4W0"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Symphonies In E Major & C Major",
         "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 284600,
       "name": "Symphony In E Major, WWV 35: II. Adagio Cantabile",
       "url": "https://open.spotify.com/track/0b0Qj95orjydO2W9MIeWy3"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
+        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Netherlands Radio Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
+        },
+        {
+          "name": "Edo de Waart",
+          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
+        }
+      ],
+      "duration_ms": 846253,
+      "name": "Symphony in C Major: II. Andante ma non troppo, un poco maestoso",
+      "url": "https://open.spotify.com/track/63LuatqjEm6RW3i469H4W0"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -936,6 +936,38 @@
           "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
         },
         {
+          "name": "Bernd Weikl",
+          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
+      "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        },
+        {
+          "name": "Ben Heppner",
+          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
+        },
+        {
           "name": "Chor der Bayerischen Staatsoper",
           "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
         },
@@ -987,38 +1019,6 @@
       "duration_ms": 238106,
       "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 2: \"Johannistag! Johannistag!\" (Chor, David, Magdalena, Sachs)",
       "url": "https://open.spotify.com/track/57ZtBjJAy0KQ2Zw2YykA70"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        },
-        {
-          "name": "Ben Heppner",
-          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
-        },
-        {
-          "name": "Bernd Weikl",
-          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
-      "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1112,38 +1112,6 @@
       "added_at": "2022-06-28 08:58:25",
       "album": {
         "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Alessandra Marc",
-          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
-        },
-        {
-          "name": "Poul Elming",
-          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
-        },
-        {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Christoph von Dohn\u00e1nyi",
-          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
-        }
-      ],
-      "duration_ms": 413466,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Du bist der Lenz\"",
-      "url": "https://open.spotify.com/track/3hWo1vRyTrkS1lI4BMdcv0"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
       },
       "artists": [
@@ -1171,6 +1139,38 @@
       "duration_ms": 249265,
       "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hier bin ich, Vater\"",
       "url": "https://open.spotify.com/track/2MmgNZf4BX1iTA7zIoGOCI"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Alessandra Marc",
+          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
+        },
+        {
+          "name": "Poul Elming",
+          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Christoph von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
+        }
+      ],
+      "duration_ms": 413466,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Du bist der Lenz\"",
+      "url": "https://open.spotify.com/track/3hWo1vRyTrkS1lI4BMdcv0"
     },
     {
       "added_at": "2022-06-28 08:58:25",

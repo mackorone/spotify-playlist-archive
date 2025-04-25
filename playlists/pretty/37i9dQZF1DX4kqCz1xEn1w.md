@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,473 likes - 100 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,504 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,15 +96,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 86 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
 | 87 | [Come Alive](https://open.spotify.com/track/4QaZJfMFE8zA4qJlFJoPxh) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Come Alive](https://open.spotify.com/album/4Yltydw2uop6lwRop9OSbP) | 8:01 |
 | 88 | [Calvary's Cross](https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [This Is Jesus](https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks) | 5:17 |
-| 89 | [When I Survey the Wondrous Cross](https://open.spotify.com/track/1BD2tTkCBdUwT9FVV1kxZX) | [Sky Hymnal](https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba) | [When I Survey the Wondrous Cross](https://open.spotify.com/album/0PnXQgy18i1VJsOL9MHwgS) | 3:00 |
-| 90 | [Christ Is Risen](https://open.spotify.com/track/19nAPTRvJIAkru00EY9Eyy) | [Ghost Ship](https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931) | [Christ Is Risen](https://open.spotify.com/album/2Kl8y1D0wLHJ7Hjt2M2pvo) | 4:16 |
+| 89 | [Christ Is Risen](https://open.spotify.com/track/19nAPTRvJIAkru00EY9Eyy) | [Ghost Ship](https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931) | [Christ Is Risen](https://open.spotify.com/album/2Kl8y1D0wLHJ7Hjt2M2pvo) | 4:16 |
+| 90 | [When I Survey the Wondrous Cross](https://open.spotify.com/track/1BD2tTkCBdUwT9FVV1kxZX) | [Sky Hymnal](https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba) | [When I Survey the Wondrous Cross](https://open.spotify.com/album/0PnXQgy18i1VJsOL9MHwgS) | 3:00 |
 | 91 | [Fall Afresh](https://open.spotify.com/track/3iQdQCjHbi078GjNzsjT2p) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden \(Deluxe Edition\)](https://open.spotify.com/album/7CghLAYoxyGmUiZ10FnGPa) | 5:29 |
 | 92 | [Oh The Cross \- Live](https://open.spotify.com/track/4N2z745CqERTOBdrCjkh58) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [I Really Love You \(Live\)](https://open.spotify.com/album/4WqclX4OiJKC0eriTugFmO) | 8:31 |
 | 93 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 |
 | 94 | [We Adore You](https://open.spotify.com/track/3jNMRPHBzue94UVUGsF9d3) | [The Vigil Project](https://open.spotify.com/artist/2Qtvrlcjx83rryARiEIPeI), [Greg&Lizzy](https://open.spotify.com/artist/54xxNWktx50xuT5G2rOiZ2) | [We Adore You](https://open.spotify.com/album/0Xk4lFyKQ91MlURQwhi4Yw) | 3:13 |
 | 95 | [The Anchor \(Live\)](https://open.spotify.com/track/0NkwVfWRSsrBQlo6tE6nVA) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Greater Things](https://open.spotify.com/album/0XeC21BGINMRdZnaPQQNPx) | 6:18 |
-| 96 | [Crown Him With Many Crowns](https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [Crown Him With Many Crowns](https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU) | 4:14 |
-| 97 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
+| 96 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
+| 97 | [Crown Him With Many Crowns](https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [Crown Him With Many Crowns](https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU) | 4:14 |
 | 98 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
 | 99 | [O Lord, My Rock and My Redeemer \- Live](https://open.spotify.com/track/5EweZzmxnku4xK98c07Fqc) | [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn), [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Prayers of the Saints](https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR) | 4:06 |
 | 100 | [Heaven On Earth](https://open.spotify.com/track/5Z2ozMu3NqiHO9OpOiBCR8) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Heaven On Earth](https://open.spotify.com/album/0hT8voRUPW74O7jzcFlP2k) | 4:27 |

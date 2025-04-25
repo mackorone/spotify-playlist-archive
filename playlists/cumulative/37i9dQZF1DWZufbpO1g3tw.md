@@ -4,7 +4,7 @@
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-322 songs - 19 hr 39 min
+324 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2023-11-22 |  |
 | [Jerk It Out](https://open.spotify.com/track/0O8XCrGlVsaKnErfcTSSFU) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [39 Minutes of Bliss \(In An Otherwise Meaningless World\)](https://open.spotify.com/album/6KdlSMMpezbfNKZYd4JTbM) | 3:15 | 2023-11-22 | 2024-08-31 |
 | [La Bailadora](https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:25 | 2022-10-28 | 2023-11-23 |
+| [La Bandera](https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [La Bandera](https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit) | 2:40 | 2025-04-25 |  |
 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 | 2023-05-09 | 2023-11-23 |
 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 | 2022-10-28 | 2023-08-09 |
 | [La Borrachita](https://open.spotify.com/track/0ZcCLnZ08KwoFieg69aMzm) | [Junior Y Su Equipo](https://open.spotify.com/artist/0eBvJ4QbkiayHAgs6yuXld) | [Saturno 2000 \- La Rebajada de Los Sonideros 1962 \- 1983](https://open.spotify.com/album/3mWxWw4Op4RkL5E3GzioL4) | 2:30 | 2022-04-20 | 2022-06-01 |
@@ -230,6 +231,7 @@
 | [Para Elisa](https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX) | [Los Hermanos Zañartu](https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI) | [Enrique Delgado \(feat\. Enrique Delgado Montes\)](https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj) | 2:48 | 2021-10-20 | 2023-11-23 |
 | [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-10-25 |  |
 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 | 2022-10-28 | 2023-11-23 |
+| [Perfecta](https://open.spotify.com/track/2vboHgWzsOMBMJJwlUHnWj) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Perfecta](https://open.spotify.com/album/7ggfwJNFsBkrCRwlPswmkF) | 2:58 | 2025-04-25 |  |
 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 | 2021-10-20 | 2022-07-29 |
 | [Perros](https://open.spotify.com/track/14qnJ3HKmlKo1hwBQKJaB8) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:38 | 2023-11-22 |  |
 | [Pibe Cantina](https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 3:38 | 2023-11-22 | 2024-04-19 |

@@ -2,9 +2,9 @@
 
 ### [SA Gold](https://open.spotify.com/playlist/37i9dQZF1DXcNdPSCaTGoa)
 
-> South African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH?si=\_jgJwQqzT3Wj5C1Mwehmtg">Yvonne Chaka Chaka</a>
+> South African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli?si=2VnM\_9GqSrCkUNwtfpaCPQ">Pro Kid</a>
 
-196 songs - 16 hr 35 min
+199 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Doc Shebeleza](https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Tsholofelo \(Platinum Edition\)](https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc) | 3:51 | 2019-02-03 |  |
 | [Don't Cry \- Remastered 2024](https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Thembisile](https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML) | [Bhambatha \(Remastered 2024\)](https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE) | 3:37 | 2024-06-16 |  |
 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 | 2018-09-23 |  |
-| [Every Woman Needs A Man](https://open.spotify.com/track/7nwzQHZquNkoUAVVvbj1Ae) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [I'm Burning Up](https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3) | 6:15 | 2025-04-18 |  |
+| [Every Woman Needs A Man](https://open.spotify.com/track/7nwzQHZquNkoUAVVvbj1Ae) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [I'm Burning Up](https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3) | 6:15 | 2025-04-18 | 2025-04-25 |
 | [Fallen](https://open.spotify.com/track/0UmUpMqXmtvRGehh7vFlDV) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Es'khaleni Zone 3](https://open.spotify.com/album/5gDJL11BwbwwDDvK4wBXkI) | 5:34 | 2018-09-23 | 2022-07-29 |
 | [Fallen](https://open.spotify.com/track/5Qbsr2yaejz1ymILqtIhIh) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Es'khaleni Zone 3](https://open.spotify.com/album/0WbSDgJgcRwDTtEtudhjI4) | 5:34 | 2023-01-23 | 2023-08-18 |
 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 | 2018-09-23 |  |
@@ -133,7 +133,7 @@
 | [Picture Perfect](https://open.spotify.com/track/0hlIkI7YTpYJFMAGZKKbFW) | [Perez](https://open.spotify.com/artist/4SrJRmTXw8bKcphnkrQEAo) | [Picture Perfect](https://open.spotify.com/album/78Q5aDuPhtvKDMMjaWDlIX) | 4:05 | 2019-02-12 | 2022-07-16 |
 | [Pluto \(Remember You\)](https://open.spotify.com/track/3rl0m4eV5brBp1ER1uHUhN) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The 4th Tick \- A Clockumentary](https://open.spotify.com/album/466CzP9nhIV9C1rXd46oud) | 6:06 | 2024-03-22 |  |
 | [Pluto \(Remember You\) \- Radio Edit](https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Pluto \(Remember You\)](https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd) | 4:27 | 2018-09-23 | 2024-03-23 |
-| [Pot Belly](https://open.spotify.com/track/3mYsWA2ClF84ZLroBpreo1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Ma'cheri](https://open.spotify.com/album/19n9b6PD8x6clAdrqEXaWe) | 4:11 | 2018-09-23 |  |
+| [Pot Belly](https://open.spotify.com/track/3mYsWA2ClF84ZLroBpreo1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Ma'cheri](https://open.spotify.com/album/19n9b6PD8x6clAdrqEXaWe) | 4:11 | 2018-09-23 | 2025-04-25 |
 | [Roba Letheka](https://open.spotify.com/track/5Y3V1EP3PhEuriQnsloibv) | [Ishmael](https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08) | [Roba Letheka](https://open.spotify.com/album/6rIrhFTuKliZLJEubiBkre) | 5:39 | 2020-09-30 | 2025-04-04 |
 | [Sana Luma \(That's The Way Love Is\)](https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg) | 5:17 | 2023-01-23 | 2023-11-11 |
 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 | 2023-01-23 |  |
@@ -154,6 +154,7 @@
 | [Sondela](https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Sondelani](https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j) | 5:30 | 2023-01-23 |  |
 | [Sondela](https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [Sipho Mbele](https://open.spotify.com/artist/5zzBzuDDkT4uz1UWubvWh5) | [Sondela](https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD) | 5:30 | 2022-12-07 | 2023-06-08 |
 | [Sondela \(feat\. Zano\)](https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [ZANO](https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:34 | 2025-04-03 |  |
+| [Soweto](https://open.spotify.com/track/3mwHZLSAxPrj4SwCKvfxQA) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:16 | 2025-04-24 |  |
 | [Special Star](https://open.spotify.com/track/3XfCNErb6OHi9N0I9yZo1V) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/7LFni1AYMo1A57EOOtCH2v) | 5:53 | 2018-09-23 | 2022-05-27 |
 | [Special Star](https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3) | 5:53 | 2018-09-23 | 2022-10-15 |
 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 | 2018-09-23 | 2024-04-19 |
@@ -181,6 +182,7 @@
 | [Umoya](https://open.spotify.com/track/3T0qk4IW6gwiQVG0JRYuwl) | [Skwatta kamp](https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl) | [Mkhukhu Function](https://open.spotify.com/album/14C5e3lBmlHWuhfh10H1Og) | 4:35 | 2018-09-23 | 2022-07-29 |
 | [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta kamp](https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 | 2022-12-07 | 2024-06-29 |
 | [Umqombothi](https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [Best Of](https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd) | 4:56 | 2018-09-23 |  |
+| [Ungaphel' Umoya Son](https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:36 | 2025-04-24 |  |
 | [Vuli Ndlela](https://open.spotify.com/track/04p7jtRJdhQUB1UeQsMGBx) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:21 | 2018-09-23 | 2024-05-11 |
 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 | 2018-09-23 |  |
 | [Waar Was Jy \(Radio Mix\)](https://open.spotify.com/track/5XcPtJcbB0jguZOYltyDrW) | [Skeem](https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR) | [Waar Was Jy?: Collectors Edition](https://open.spotify.com/album/05ag40pSVE8eoLno8rmW9q) | 3:49 | 2018-09-23 | 2022-07-29 |
@@ -197,12 +199,13 @@
 | [Whistling In Tongues](https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b) | [Felix Laband](https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx) | [Dark Days Exit](https://open.spotify.com/album/0xidl5zSn40qpO8RDej05m) | 7:51 | 2019-02-12 | 2022-11-20 |
 | [Wonderful Life](https://open.spotify.com/track/7yL2pYvu2CmbRMsPKHKd5J) | [Thabo Mdluli](https://open.spotify.com/artist/5XOF9NqTF9TdBDKciCnHKZ) | [Wonderful Life](https://open.spotify.com/album/2EzZFAc6qzsNZI04ZxsUWJ) | 3:41 | 2018-09-23 | 2025-04-04 |
 | [World in Union](https://open.spotify.com/track/5wJDPbRPw9IR8bEDl6717a) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO) | 3:49 | 2019-02-03 | 2022-07-07 |
+| [Wozobona](https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:10 | 2025-04-24 |  |
 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 | 2019-02-03 |  |
 | [Y\-Tjukuja](https://open.spotify.com/track/7k6fhiKtfldICruY5AdKpb) | [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [DJ Bucks](https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J) | [Our Father](https://open.spotify.com/album/0OoSrujq3IhCnsd8Et9ktL) | 5:09 | 2018-09-23 | 2023-06-19 |
 | [Y\-Tjukuja](https://open.spotify.com/track/2V63tXAalMiOveSc3pRLJp) | [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [DJ Bucks](https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J) | [Our Father](https://open.spotify.com/album/1dI9dADANjMtU5qfwkjbzc) | 5:10 | 2023-01-23 | 2024-04-19 |
 | [Yehlisan'umoya Ma Africa](https://open.spotify.com/track/0axBrl3OJbqYoYBMBQ1ZIp) | [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Urbanzulu](https://open.spotify.com/album/27Nh3R2uDfwuje1HJtjS7o) | 5:25 | 2019-02-12 | 2024-05-10 |
 | [Zabalaza](https://open.spotify.com/track/0pKIVNpVSFRxGF7TJ6vubs) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Zabalaza: Project B](https://open.spotify.com/album/2pwF2yxPiB1sHMkJcDNRnD) | 6:47 | 2019-02-03 | 2022-07-24 |
-| [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 | 2024-03-22 |  |
+| [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 | 2024-03-22 | 2025-04-25 |
 | [Zandisile](https://open.spotify.com/track/3RZevm4NTP6UFNpdR5JWzq) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Zandisile](https://open.spotify.com/album/1Zg3W11SiHfbzQVFiWgTBB) | 6:02 | 2024-03-22 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: The Down Troddence
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Haniya Nafisa
 
-314 songs - 20 hr 17 min
+315 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Nilavaay](https://open.spotify.com/track/6Phcevl6TcQp1C4AaNN3XC) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Tushar Budhwani](https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq) | [Nilavaay](https://open.spotify.com/album/389PSOIUt1WCZiEa0TBuMR) | 3:27 | 2024-06-28 | 2025-02-21 |
 | [Nin Mukham](https://open.spotify.com/track/5saGm4ThnJxgtliYLUIdYV) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Nin Mukham](https://open.spotify.com/album/065esGl1GbCWdqSgU2kq51) | 4:20 | 2023-05-18 | 2023-07-28 |
 | [Nin Peru Entha](https://open.spotify.com/track/0FyKI6iz2TOmoIRrg4RRdJ) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Geethiyaa Varman](https://open.spotify.com/artist/2E9wl9bV29g6klARlECHsy) | [Nin Peru Entha](https://open.spotify.com/album/671on1d6WwmQn6GUDuy3lc) | 4:12 | 2024-06-07 | 2024-10-01 |
+| [Ninnullam](https://open.spotify.com/track/6wddmTvb3rh5xv0qVafxPU) | [Favas Fazin](https://open.spotify.com/artist/7F3MFMJcy1eBbeD6Mq3KAc) | [In Search of Love](https://open.spotify.com/album/2UVh4d257okhn0wjbAXnRz) | 3:40 | 2025-04-24 |  |
 | [NISHANI](https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa) | [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [NISHANI](https://open.spotify.com/album/5YGg7k9HioYHeUDJtms8k7) | 2:48 | 2024-06-14 |  |
 | [NIZHAL](https://open.spotify.com/track/0QcDTA18Y2xsgBz3HBxefL) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [NIZHAL](https://open.spotify.com/album/0sxwiQKE0wbXnY00pe73sv) | 4:05 | 2025-04-11 |  |
 | [Nizhalaay](https://open.spotify.com/track/556HeEIoL40Dp6ciUcZ2Pf) | [Dins George](https://open.spotify.com/artist/6l460ivmL177cdAsVzQz1Q) | [Nizhalaay](https://open.spotify.com/album/5IopDVaCsbGr5PinWfdq9D) | 4:40 | 2024-08-20 | 2025-04-22 |
@@ -218,7 +219,7 @@
 | [Ormayil](https://open.spotify.com/track/3vYG4K2MrDfgmSbV5CV7KQ) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shyam K.P](https://open.spotify.com/artist/2tUQLPa6kPvPg3FC42fXB9) | [Ormayil](https://open.spotify.com/album/3BwC7P2DHy1JSOI6fzVbin) | 3:08 | 2024-11-29 | 2025-04-08 |
 | [Oru Cringe Paattu](https://open.spotify.com/track/3JK51mWe4OqFYYtGCoHQ47) | [Aswin Vijay](https://open.spotify.com/artist/0zMErY9KjDWU5yc9OxX8k9) | [Oru Cringe Paattu](https://open.spotify.com/album/2bdXMLyeBEYM8CfadPCtfo) | 3:35 | 2024-09-30 | 2025-02-12 |
 | [Oru January](https://open.spotify.com/track/0YuwGkDbm0RzREWYaAfPfP) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD) | [Oru January](https://open.spotify.com/album/1PVGkTGupgo1USnoeYfYuM) | 4:42 | 2023-09-12 | 2024-05-25 |
-| [Oru Mazhayude](https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Oru Mazhayude](https://open.spotify.com/album/6vit2xHQjwGBYo5wIUG4R8) | 3:00 | 2024-05-07 |  |
+| [Oru Mazhayude](https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Oru Mazhayude](https://open.spotify.com/album/6vit2xHQjwGBYo5wIUG4R8) | 3:00 | 2024-05-07 | 2025-04-25 |
 | [Pa Pe Po...](https://open.spotify.com/track/3SBRVu9lB1QE1ji8BuPNtn) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Pa Pe Po…](https://open.spotify.com/album/2A74441osOofLBpnQucu2F) | 4:38 | 2023-11-17 | 2024-02-19 |
 | [Paarvai](https://open.spotify.com/track/2N9dBikRpIheV21JWCbgmN) | [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa), [Christopher](https://open.spotify.com/artist/0GRIRWJz1BV0WuL92LnCJQ), [Mahenth](https://open.spotify.com/artist/5YXgranKlBWMHBN5EG9F6Z) | [Paarvai](https://open.spotify.com/album/0y3yvEPxCUYQYCuLnGBOxr) | 3:28 | 2024-06-28 | 2025-03-22 |
 | [Paattu](https://open.spotify.com/track/77sckVjf0h9oNyrGi7jIT7) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [Meenakshi Krishna](https://open.spotify.com/artist/5RfM3LYItqRdk1yAcdFfou) | [Paattu](https://open.spotify.com/album/45lcm2jQOdd0XNubzRPtaj) | 2:48 | 2024-11-07 |  |

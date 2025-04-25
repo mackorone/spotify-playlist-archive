@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 70734,
+  "num_followers": 70764,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADiPSHXUbUS947rndZlxCPJ",
+  "snapshot_id": "aAgtgAAAAAAWNL8pvoiIQx3u+O0pzhcu",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
-        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
       "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 185400,
-      "name": "Mama, You Been on My Mind - Live at Philharmonic Hall, New York, NY - October 1964",
-      "url": "https://open.spotify.com/track/48p7zj5Ief2UIzbNWAMfPN"
+      "duration_ms": 216133,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx"
     },
     {
       "added_at": null,
@@ -575,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
+        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
       },
       "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 216133,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx"
+      "duration_ms": 185400,
+      "name": "Mama, You Been on My Mind - Live at Philharmonic Hall, New York, NY - October 1964",
+      "url": "https://open.spotify.com/track/48p7zj5Ief2UIzbNWAMfPN"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Love Minus Zero/No Limit",
+      "url": "https://open.spotify.com/track/0qH1dPZj1eSnU6nCUZF9VD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
         "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
       },
@@ -759,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baez Sings Dylan",
-        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
       "artists": [
         {
@@ -768,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 164533,
-      "name": "Love Minus Zero/No Limit",
-      "url": "https://open.spotify.com/track/0qH1dPZj1eSnU6nCUZF9VD"
+      "duration_ms": 223733,
+      "name": "East Virginia",
+      "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 190973,
       "name": "Plaisir D' Amour",
       "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "East Virginia",
-      "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
     },
     {
       "added_at": null,

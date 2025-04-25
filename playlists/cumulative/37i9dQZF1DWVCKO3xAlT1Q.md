@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-80 songs - 3 hr 56 min
+81 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-02-28 |  |
 | [SAND](https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO) | [SABA](https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW) | [SAND](https://open.spotify.com/album/4qvil8kYuHLOnW327paleO) | 3:00 | 2024-05-11 | 2025-03-01 |
 | [Scared of Heights](https://open.spotify.com/track/0Vsjlru86RuL55GX5LsnF3) | [Hera Björk](https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5) | [Scared of Heights](https://open.spotify.com/album/1xY1K8eiKsbZPUcSAr9epd) | 3:03 | 2024-05-11 | 2025-03-01 |
-| [SERVING KANT](https://open.spotify.com/track/7IAtKdU3e9wZFC8Cd8TLr1) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING KANT](https://open.spotify.com/album/2Jir3xrdLJ34ZLY9lgzCRw) | 2:59 | 2025-04-22 |  |
+| [SERVING \- Eurovision Official Version](https://open.spotify.com/track/2lide7NEaVQGRtiHm61uCW) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING](https://open.spotify.com/album/3bnzrOEyxpuUauqASHwGoR) | 2:59 | 2025-04-24 |  |
+| [SERVING KANT](https://open.spotify.com/track/7IAtKdU3e9wZFC8Cd8TLr1) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING KANT](https://open.spotify.com/album/2Jir3xrdLJ34ZLY9lgzCRw) | 2:59 | 2025-04-22 | 2025-04-25 |
 | [Shh](https://open.spotify.com/track/3mwqwFYIrO8hE3YBN8gk14) | [Theo Evan](https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj) | [Shh](https://open.spotify.com/album/1WygObqWaky2zQhDJ5rUz8) | 2:57 | 2025-03-14 |  |
 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 | 2025-02-28 |  |
 | [SURVIVOR](https://open.spotify.com/track/4FqL1MlFQ67DipYCbmHzj8) | [PARG](https://open.spotify.com/artist/2tm0hthZZUgjJ4c8jzbZ4K) | [SURVIVOR](https://open.spotify.com/album/5WtJnnQy8iMz2ucyO6g4DZ) | 2:58 | 2025-03-24 |  |

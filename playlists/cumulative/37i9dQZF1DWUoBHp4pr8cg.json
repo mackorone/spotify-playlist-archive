@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Priddy Prince, Riky Rick, Quavo and more.",
+  "description": "Only the hottest Hip Hop from K.O, Young Stunna, Priddy Prince, Riky Rick, Quavo and more.",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 130358,
       "name": "BOOM BAP",
       "url": "https://open.spotify.com/track/39BZe4t1oLnIcBa1rNndcy"
@@ -5161,6 +5161,28 @@
     },
     {
       "album": {
+        "name": "Pharadise",
+        "url": "https://open.spotify.com/album/1jdo2X5GsN9bVFd41g6nNN"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242926,
+      "name": "Pharadise (feat. Young Stunna)",
+      "url": "https://open.spotify.com/track/2t66w9rIC1SQBYDlgQv7rS"
+    },
+    {
+      "album": {
         "name": "PISSED OFF",
         "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
       },
@@ -6346,7 +6368,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 217056,
       "name": "SOULLESS",
       "url": "https://open.spotify.com/track/57sUoOeMObVoDOyyalnpUh"
@@ -7050,6 +7072,28 @@
       "duration_ms": 322746,
       "name": "THAT'S WASSUP (feat. Thato Saul, YoungstaCPT, Tyson Sybateli & ZRi.)",
       "url": "https://open.spotify.com/track/320Y857NSRG3QtS9ggTG8E"
+    },
+    {
+      "album": {
+        "name": "BENNi HUNNiD$",
+        "url": "https://open.spotify.com/album/4gJGtfshq1DNAo2EeogLzF"
+      },
+      "artists": [
+        {
+          "name": "BENJAMIN",
+          "url": "https://open.spotify.com/artist/5vGBEOddwhwgvzoHIbl1ji"
+        },
+        {
+          "name": "NOTBENJAMIN",
+          "url": "https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "THE BOM BOM $ONG",
+      "url": "https://open.spotify.com/track/403S8h2sFaTrpwRWGJHbt8"
     },
     {
       "album": {

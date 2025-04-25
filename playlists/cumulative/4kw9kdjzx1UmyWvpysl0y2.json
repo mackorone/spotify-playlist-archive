@@ -2999,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "cheemistry",
+        "url": "https://open.spotify.com/album/5euhcmT7aP4W7mrL9JWlPy"
+      },
+      "artists": [
+        {
+          "name": "Zachz Winner",
+          "url": "https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116404,
+      "name": "cheemistry",
+      "url": "https://open.spotify.com/track/43GqjsNEuDm8wVdJZdwLWO"
+    },
+    {
+      "album": {
         "name": "Sorcerer\u2019s Symphony",
         "url": "https://open.spotify.com/album/1ajS5QuEOLZXMVG7TG9twW"
       },

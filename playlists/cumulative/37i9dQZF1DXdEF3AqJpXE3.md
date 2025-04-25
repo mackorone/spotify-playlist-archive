@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: 李佳歡, Sherman Zhuo
+> The best tracks from the world of music\. Cover: Ariana Grande
 
 433 songs - 23 hr 23 min
 

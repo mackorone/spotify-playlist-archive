@@ -4,7 +4,7 @@
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 19 min
+80 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [I Gotta Feeling \- FMIF Remix; Edit](https://open.spotify.com/track/6HiLX5aXSQekfFTlGdENKc) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [FMIF](https://open.spotify.com/artist/1PwGtc3brzQeXr9D08ff5F) | [One More Love](https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n) | 3:54 | 2024-05-10 |  |
 | [Imma Be](https://open.spotify.com/track/0oJMv049q8hEkes9w0L1J4) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:17 | 2023-07-28 |  |
 | [Joints & Jam](https://open.spotify.com/track/0O3nYVLoS46oBxV19w1xaN) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Behind The Front](https://open.spotify.com/album/4nxUuXwV9awZCltuoXhCSt) | 3:35 | 2024-06-16 | 2024-06-23 |
+| [Joints & Jam](https://open.spotify.com/track/1oPxTBaK2Hjtmwd7ICWHbK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Behind The Front](https://open.spotify.com/album/6bwBeiWNQu2g3yaa3yNpgz) | 3:35 | 2025-04-25 |  |
 | [Just Can’t Get Enough](https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 3:39 | 2023-07-28 |  |
 | [L.O.V.E.](https://open.spotify.com/track/4Je05kXIyUbODEoTAmWufc) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:57 | 2023-08-02 | 2023-08-07 |
 | [Let's Get It Started \- Spike Mix](https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:37 | 2023-07-28 |  |
@@ -77,7 +78,7 @@
 | [The Boogie That Be](https://open.spotify.com/track/12bZwKgVax8ibhwfiPgkQT) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 5:12 | 2023-10-01 | 2024-07-24 |
 | [The Time \(Dirty Bit\)](https://open.spotify.com/track/7vWFaMq63AwkFDhS2OAg5u) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning \(Deluxe\)](https://open.spotify.com/album/0BkpKcHw606at6Y2cp8kdE) | 5:07 | 2023-07-28 |  |
 | [They Don't Want Music](https://open.spotify.com/track/4d1bLoK77pR9N6giV6spVB) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 6:46 | 2023-08-08 | 2024-07-24 |
-| [TODO BUENO](https://open.spotify.com/track/4FldXs1bcL6WUrpOcENkfD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:50 | 2023-07-28 |  |
+| [TODO BUENO](https://open.spotify.com/track/4FldXs1bcL6WUrpOcENkfD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:50 | 2023-07-28 | 2025-04-25 |
 | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu) | 3:38 | 2024-05-12 |  |
 | [TONTA LOVE](https://open.spotify.com/track/6OqyEdTrKOLRa4MDLNO34U) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:50 | 2024-05-27 | 2024-05-28 |
 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 | 2023-07-28 |  |

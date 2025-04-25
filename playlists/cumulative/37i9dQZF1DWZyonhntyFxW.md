@@ -4,7 +4,7 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أرسينيك وأبو الأنوار
 
-388 songs - 19 hr 3 min
+389 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Double Face](https://open.spotify.com/track/0NvYDGanr7AUEmynCDhfIN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Double Face](https://open.spotify.com/album/2YbDf25DxNHXRnP5wm9G2i) | 3:00 | 2022-05-10 | 2022-06-21 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-05-12 |
 | [DÉJÀ VU](https://open.spotify.com/track/0merm849HwHiuIIAU0Nb9T) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [PRJKTBLUBEAM](https://open.spotify.com/album/0rJxCuUYsfbFQZomCBLWtc) | 2:39 | 2024-08-15 | 2025-04-18 |
+| [EH EL ARF DAH](https://open.spotify.com/track/6fIebGHXTAQ3jtairsQkPs) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EH EL ARF DAH](https://open.spotify.com/album/6aBAf4qEuRN6TSyfx0hUxM) | 2:11 | 2025-04-24 |  |
 | [El 3asefa](https://open.spotify.com/track/6AunR7FkXRm1EEEdWYFLWg) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/0pET0nC1WwLXIjlOXKW54v) | 2:29 | 2023-05-11 | 2023-06-04 |
 | [El 3asefa](https://open.spotify.com/track/665TwdtuLDvcosWE631uEL) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/6lH9q9RdXfuewaVEu2et8A) | 2:35 | 2023-06-03 | 2023-06-28 |
 | [EL ASEMA](https://open.spotify.com/track/7xGbfFIhE3fNwS9Djjjq7P) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 6:18 | 2023-02-13 | 2023-07-11 |
@@ -244,7 +245,7 @@
 | [NAPALM](https://open.spotify.com/track/4EG5yjXnXCDcjBxOfKXNez) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0u5zDTS7Rj4xt7gocRJ8KO) | 2:24 | 2022-07-06 | 2022-08-24 |
 | [Narcos](https://open.spotify.com/track/3EVvQT3vvXiBHOQwbMJMEZ) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Narcos](https://open.spotify.com/album/6vXFlldjH89AZJ1uFWcAG5) | 2:52 | 2022-05-10 | 2022-11-08 |
 | [Nargasa](https://open.spotify.com/track/6C3b22RiVowlAiv0aDHvRl) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Nargasa](https://open.spotify.com/album/6auK24zM4t5RIKPC6cI17y) | 2:33 | 2022-05-10 | 2022-07-29 |
-| [NATARQA](https://open.spotify.com/track/361FgPnhdBh4y4l4uIuKW9) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:01 | 2024-09-05 |  |
+| [NATARQA](https://open.spotify.com/track/361FgPnhdBh4y4l4uIuKW9) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:01 | 2024-09-05 | 2025-04-25 |
 | [Nazel 3la Fo2](https://open.spotify.com/track/3IFoNqQxGwzfauWaVOyVtT) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Hassan Yasser](https://open.spotify.com/artist/2mloSlGnOrhM9IZdnroyiR) | [Nazel 3la Fo2](https://open.spotify.com/album/5UM8e0qUtiTcvWjya3AHMG) | 2:21 | 2024-12-06 |  |
 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 | 2023-05-04 | 2024-04-10 |
 | [Negm](https://open.spotify.com/track/1PXtsjfRF9gTo49aKHvSky) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Negm](https://open.spotify.com/album/3ULU5GSdofZzkRbm4YQvbr) | 3:40 | 2023-07-17 | 2023-08-18 |

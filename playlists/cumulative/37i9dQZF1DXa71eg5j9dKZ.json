@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Prospa ",
+  "description": "The home for alternative electronic music. Cover: Kelly Lee Owens",
   "name": "Altar",
   "tracks": [
     {
@@ -12845,6 +12845,28 @@
     },
     {
       "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/6hpP8LO620i29PHC3NQDSd"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149138,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/6pNcL961TXLN8wtpmlnnsY"
+    },
+    {
+      "album": {
         "name": "Dopa La Vita / Mand\u00e9",
         "url": "https://open.spotify.com/album/7FESkU8kbkDSGaGhXUjWHu"
       },
@@ -19772,7 +19794,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2025 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,749 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081,958 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 8 | [What The Hell Just Happened?](https://open.spotify.com/track/0z64zsYHTmiTyddbFJ1S6y) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [What The Hell Just Happened?](https://open.spotify.com/album/71KjEbRzpreoPULoJdMcjT) | 2:56 |
 | 9 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 |
 | 10 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
-| 11 | [SERVING KANT](https://open.spotify.com/track/7IAtKdU3e9wZFC8Cd8TLr1) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING KANT](https://open.spotify.com/album/2Jir3xrdLJ34ZLY9lgzCRw) | 2:59 |
+| 11 | [SERVING \- Eurovision Official Version](https://open.spotify.com/track/2lide7NEaVQGRtiHm61uCW) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING](https://open.spotify.com/album/3bnzrOEyxpuUauqASHwGoR) | 2:59 |
 | 12 | [Tutta L'Italia](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 |
 | 13 | [Laika Party](https://open.spotify.com/track/5PZnJ8GErvuiCo7wKKtpKo) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Laika Party](https://open.spotify.com/album/44LjhJDVICLc7cgAgQ9nTX) | 3:00 |
 | 14 | [Zjerm](https://open.spotify.com/track/34ozWcKZQ0RvV9td8EHfXO) | [Shkodra Elektronike](https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD) | [Zjerm](https://open.spotify.com/album/6yelOhQls6XqW9y4bxVkXK) | 3:04 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 36 | [Mila](https://open.spotify.com/track/30ivP0TxQ9owZotAbhbiGt) | [Princ](https://open.spotify.com/artist/06NQCNZajDFb15rJLcotRc) | [Mila](https://open.spotify.com/album/0mOdQScFDTA144bk5nt8AX) | 2:58 |
 | 37 | [Freedom \- Eurovision 2025 \- Georgia](https://open.spotify.com/track/5mjD2U1w6217p73LC9MEht) | [Mariam Shengelia](https://open.spotify.com/artist/57UpwmCYjUyIaKUWOO2gV3) | [Freedom \(Eurovision 2025 \- Georgia\)](https://open.spotify.com/album/1qDquxaoZDp77B9tr4WT2q) | 2:50 |
 
-Snapshot ID: `aAdXCAAAAAAjgyVkWavBNIkbTO/tSZyV`
+Snapshot ID: `aAoaEQAAAAAvVK8bLbFhb/pFnwCP5Bc6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 
 > las rolitas más perritas de la temporada\. Alemán y Netón Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,293 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,289 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 4 | [Por Esos Ojos](https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Por Esos Ojos](https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp) | 3:08 |
 | 5 | [Rata De Dos Patas](https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Taco Placero](https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh) | 3:38 |
 | 6 | [En El Próximo Big Bang](https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [En El Próximo Big Bang](https://open.spotify.com/album/7cQgKOmoMOPit6b0NPaR3I) | 3:03 |
-| 7 | [7 Dias](https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [7 Dias](https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4) | 3:00 |
+| 7 | [7 DIAS](https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [7 DIAS](https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4) | 3:00 |
 | 8 | [Daytona](https://open.spotify.com/track/1aOpfe9bFkKY175YQmNOjf) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [Daytona](https://open.spotify.com/album/03NuIj4ZTS7DAoUf1smCS2) | 3:28 |
 | 9 | [XQTECE?](https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Omarcito Glock](https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD), [Zalo La Z](https://open.spotify.com/artist/0kBypOF0SIMAhMYaNb4Etn), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [XQTECE?](https://open.spotify.com/album/2e5r2q49amYBcZBPDnxAoK) | 3:54 |
 | 10 | [Cada Noche](https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Cada Noche](https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy) | 3:41 |

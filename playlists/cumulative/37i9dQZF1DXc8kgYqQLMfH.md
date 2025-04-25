@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,212 songs - 1 day 22 hr 12 min
+1,213 songs - 1 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -955,6 +955,7 @@
 | [sleepless at midnight](https://open.spotify.com/track/46bzC2sW7wbouJdM9sAfUr) | [harrylofi](https://open.spotify.com/artist/5kketA9XnMDFtJsDFLUVtf) | [sleepless at midnight](https://open.spotify.com/album/0ehbI8mUoyvM8rASDHeLPj) | 3:18 | 2022-09-02 | 2023-05-20 |
 | [Sleepless Night](https://open.spotify.com/track/19E1JLs1HA9og77YVVLenA) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sleepless Night](https://open.spotify.com/album/2FNYt7n2wRQNS6Rf8RpEnk) | 1:49 | 2022-04-08 | 2022-12-10 |
 | [Sleepless Nostalgia](https://open.spotify.com/track/5BLkWFjzHWcdLb822MtiHk) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [Sleepless Nostalgia](https://open.spotify.com/album/1UMbD2w6ReXXlEptz1djbN) | 2:11 | 2025-03-14 |  |
+| [Sleepy](https://open.spotify.com/track/4v9KEGLhXkYhjF9jQ02zkx) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Sleepy](https://open.spotify.com/album/06Wl7qlvluEo7G6nvMR4HE) | 3:15 | 2025-04-24 |  |
 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 | 2023-09-08 |  |
 | [Slip Away](https://open.spotify.com/track/6oEh8d3WukF1lrnpQXFc4Q) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Slip Away](https://open.spotify.com/album/4qC8X21h5i2pPpkul8RSIk) | 2:10 | 2022-11-11 | 2023-04-12 |
 | [SLOOW](https://open.spotify.com/track/4aQuZpR31avqV3AWT984U9) | [Seame](https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU) | [SLOOW](https://open.spotify.com/album/61raSx86T7PWDAbXfW6L8u) | 2:03 | 2024-07-19 | 2024-07-27 |
@@ -1215,7 +1216,7 @@
 | [Yambula](https://open.spotify.com/track/4ecmvloQdEjcx1a85qhHe1) | [Elengi](https://open.spotify.com/artist/3wCEfYsM06yRGxVUgvnuAZ) | [Yambula](https://open.spotify.com/album/3OMuwO9VZvWQ3InylSXOLz) | 1:54 | 2021-11-10 | 2022-09-03 |
 | [Yellow Mornings](https://open.spotify.com/track/2RUqbOHOiHEytATL8ia66F) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [The View From The Tree House](https://open.spotify.com/album/59QF8BGS1UOX1l0NsluIYe) | 2:01 | 2022-09-16 | 2023-10-06 |
 | [Yoga](https://open.spotify.com/track/75UOrI1wOhL7BoDq0IqEMf) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [Rubber Plant](https://open.spotify.com/album/5vdfLPKSeOM4IxT0m5M9ol) | 2:54 | 2021-11-10 | 2022-07-22 |
-| [You](https://open.spotify.com/track/03ykJsoDNnn1jgeaxGn0ns) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [You](https://open.spotify.com/album/0RRcNpITS5zDRUCfr4iHVi) | 1:57 | 2025-03-14 |  |
+| [You](https://open.spotify.com/track/03ykJsoDNnn1jgeaxGn0ns) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [You](https://open.spotify.com/album/0RRcNpITS5zDRUCfr4iHVi) | 1:57 | 2025-03-14 | 2025-04-25 |
 | [You Can Have It](https://open.spotify.com/track/1xTo1SwN5FswdeBXyq9Xfa) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [You Can Have It](https://open.spotify.com/album/1aaqe1wHZzy9dO9Altzn3U) | 1:36 | 2023-03-16 |  |
 | [Your Eyes](https://open.spotify.com/track/1kR1zMHBceL0bhbtGnyrkP) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Your Eyes](https://open.spotify.com/album/3koTAiq6tJJg5usPYNiKDf) | 2:06 | 2024-03-22 |  |
 | [yours](https://open.spotify.com/track/40jnfHn8DfFbTY09IWQm9u) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [yours](https://open.spotify.com/album/2FIeWVhDmSt2R4JRPskb7Q) | 2:29 | 2021-11-10 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,442 likes - 142 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,449 likes - 142 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 65 | [Sexy Sandpeople](https://open.spotify.com/track/3Se2k2m7Oggp4qGOnaJcTe) | [Tusken Raiders](https://open.spotify.com/artist/34Q0hlvXYVAdxOc4ZW1O2B) | [Bantha Trax](https://open.spotify.com/album/1q5wjXFnt9wLpoS1H9Db3C) | 8:19 |
 | 66 | [What's Your Name \- MJ Cole Master Mix](https://open.spotify.com/track/0M04JeBYNckwHre2nhSspE) | [Angel Lee](https://open.spotify.com/artist/6YsPooXQ3GkUqekaanW6A5), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [What's Your Name?](https://open.spotify.com/album/466jd8ndHAU5SmG5EHOB0m) | 6:01 |
 | 67 | [Coolo](https://open.spotify.com/track/7G7CveTF706x0PYxnpDsM5) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:07 |
-| 68 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/5mM0WWPQ0rSjBqSvY4JsuR) | [James K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Blinkmoth \(July Mix\)](https://open.spotify.com/album/0FxHgSpMi30Sgb3n7Ii2Aj) | 7:03 |
+| 68 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/5mM0WWPQ0rSjBqSvY4JsuR) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Blinkmoth \(July Mix\)](https://open.spotify.com/album/0FxHgSpMi30Sgb3n7Ii2Aj) | 7:03 |
 | 69 | [TWISTER](https://open.spotify.com/track/6odMDJS3pHVgLFfz9Jm8Vr) | [JIALING](https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24), [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [WHISTLE TIP](https://open.spotify.com/album/0NATJ07aahlz8b2jMMjLOz) | 4:05 |
 | 70 | [Break Free](https://open.spotify.com/track/7KIRJCAKHhzT4HC3uYXVui) | [ESP](https://open.spotify.com/artist/0G2H8XIsqcdI5GJrYdRRPa) | [Promise](https://open.spotify.com/album/1AB5RwolXS6pQYrwFsc9kL) | 2:18 |
 | 71 | [Round Echoes](https://open.spotify.com/track/2dt0EHVSlmyCglfvO0IEQ1) | [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Read Round City EP](https://open.spotify.com/album/5w0O9zV5SL87WR0x0atVq3) | 6:11 |

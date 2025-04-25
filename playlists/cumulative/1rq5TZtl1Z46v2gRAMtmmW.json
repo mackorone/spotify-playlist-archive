@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Alma\u2019s Cove",
+        "url": "https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234248,
+      "name": "Alma's Cove",
+      "url": "https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq"
+    },
+    {
+      "album": {
         "name": "Always Been",
         "url": "https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs"
       },

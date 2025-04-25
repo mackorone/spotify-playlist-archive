@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GALCHANIE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BOWKYLION, NONT TANONT",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Hotel Lobby",
+        "url": "https://open.spotify.com/album/6V1DgWqsW0A09jYNKH8PW6"
+      },
+      "artists": [
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200425,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/5ZwO6yhqNgne3juzRbHgDB"
+    },
+    {
+      "album": {
         "name": "I Just Wanna Know",
         "url": "https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO"
       },
@@ -274,6 +292,28 @@
       "duration_ms": 226470,
       "name": "I Just Wanna Know",
       "url": "https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7"
+    },
+    {
+      "album": {
+        "name": "Just For You",
+        "url": "https://open.spotify.com/album/0lrjJZPK1RTqGVMNyz3rhB"
+      },
+      "artists": [
+        {
+          "name": "BADMIXY",
+          "url": "https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1"
+        },
+        {
+          "name": "JEEP",
+          "url": "https://open.spotify.com/artist/3SHZIwDKgpVv86LfYJNGy2"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Just For You",
+      "url": "https://open.spotify.com/track/1rHCpL5fzMrHwhFA5rk6wO"
     },
     {
       "album": {
@@ -898,7 +938,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 263253,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e32\u0e14\u0e2b\u0e27\u0e31\u0e07",
       "url": "https://open.spotify.com/track/4n8TKmRLfD82RWnhb6HMNw"
@@ -1096,7 +1136,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 249230,
       "name": "\u0e08\u0e33\u0e19\u0e19",
       "url": "https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X"
@@ -1418,6 +1458,28 @@
       "duration_ms": 299126,
       "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 (Lost)",
       "url": "https://open.spotify.com/track/23uoBOUwFdh8bKlv6FUDuc"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
+        "url": "https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
+      "url": "https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT"
     },
     {
       "album": {
@@ -1937,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
+        "url": "https://open.spotify.com/album/0m2tnO0TVcf6tfiYVofY59"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250231,
+      "name": "\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
+      "url": "https://open.spotify.com/track/6UONhODhp5Yz51rL0gcxMU"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e1b\u0e01\u0e31\u0e1a\u0e1f\u0e49\u0e32 (Original Soundtrack \"\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c 4KINGS II\") [feat. D Gerrard]",
         "url": "https://open.spotify.com/album/1M9XGBJ9uHtnRaSxjmfHGn"
       },
@@ -2224,7 +2304,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 248048,
       "name": "\u0e2a\u0e32\u0e23\u0e34\u0e01\u0e32\u0e25\u0e34\u0e49\u0e19\u0e17\u0e2d\u0e07 (Smooth-talker)",
       "url": "https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr"
@@ -2900,7 +2980,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 245000,
       "name": "\u0e43\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e19\u0e32\u0e22 \u0e01\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e1a\u0e48\u0e32\u0e27",
       "url": "https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO"

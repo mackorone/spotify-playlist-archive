@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 205086,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
@@ -3256,6 +3256,24 @@
       "duration_ms": 137460,
       "name": "Noe mere",
       "url": "https://open.spotify.com/track/4kShoXoqe2QniNPnLNHyT4"
+    },
+    {
+      "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156367,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt"
     },
     {
       "album": {

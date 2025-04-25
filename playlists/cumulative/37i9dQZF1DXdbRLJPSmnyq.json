@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: RADWIMPS",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: AKASAKI",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
@@ -2862,7 +2862,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 226557,
       "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 165000,
       "name": "\u30d3\u30d3\u30c7\u30d0",
       "url": "https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv"
@@ -3350,6 +3350,24 @@
       "duration_ms": 207187,
       "name": "\u4e8c\u5ea6\u5bdd",
       "url": "https://open.spotify.com/track/38Ypb7FJIGVovqqQO2Yu5S"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
+        "url": "https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259877,
+      "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
+      "url": "https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W"
     },
     {
       "album": {
@@ -3757,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
+        "url": "https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ"
+      },
+      "artists": [
+        {
+          "name": "AiScReam",
+          "url": "https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262105,
+      "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
+      "url": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
+    },
+    {
+      "album": {
         "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
         "url": "https://open.spotify.com/album/4z3h8ucXGzCkhEWhIlkvTZ"
       },
@@ -3844,6 +3880,24 @@
       "duration_ms": 270705,
       "name": "\u6674\u308b",
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+    },
+    {
+      "album": {
+        "name": "\u6700&\u5f37",
+        "url": "https://open.spotify.com/album/77f7VBVt5VRwWyP4nUdswe"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "\u6700&\u5f37",
+      "url": "https://open.spotify.com/track/6vblHjZAX1mKmCCSbZfAET"
     },
     {
       "album": {

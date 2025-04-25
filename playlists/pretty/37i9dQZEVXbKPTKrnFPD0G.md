@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,847 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,867 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA) | 2:28 |
 | 50 | [Carita Triste](https://open.spotify.com/track/4AXgx8dQgAxPnMGzydsitJ) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Carita Triste](https://open.spotify.com/album/7GhIHmYSFDqCY1oW21hTca) | 2:36 |
 
-Snapshot ID: `L5xXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L52reAAAAAAAAAAAAAAAAAAAAAAAAGVu`

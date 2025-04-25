@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: ENHYPEN\)
 
-1,270 songs - 2 day 20 hr 54 min
+1,271 songs - 2 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Freeze Tag](https://open.spotify.com/track/7CAZZTBrcyRj3PjENWOdBZ) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [UP2U](https://open.spotify.com/album/5javnnBjbP0ObEZafZtc7k) | 3:02 | 2022-11-24 | 2023-01-18 |
 | [FREQUENCY \- Korean Version](https://open.spotify.com/track/6a6jytQm8K7FNgPM1xrwEb) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [FREQUENCY \- The 6th Mini Album](https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K) | 2:40 | 2024-11-25 | 2025-03-13 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-20 | 2023-08-04 |
-| [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/track/6IxBnLGaM1bykNV9g2OxC3) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/album/448X9wJCby4Sqdb6fxlH3d) | 3:09 | 2025-04-08 |  |
+| [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/track/6IxBnLGaM1bykNV9g2OxC3) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/album/448X9wJCby4Sqdb6fxlH3d) | 3:09 | 2025-04-08 | 2025-04-25 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 | 2022-10-15 |
 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 | 2023-01-31 | 2023-04-07 |
 | [G.B.T.B.](https://open.spotify.com/track/2snmVNiCZjld3lKI7BTQId) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [FACE US](https://open.spotify.com/album/2lgJVzhHmVMV2ga4eDVGtx) | 3:04 | 2020-10-13\* | 2021-01-11 |
@@ -684,6 +684,7 @@
 | [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 | 2021-03-18 | 2021-07-01 |
 | [Lovesick Girls](https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 3:12 | 2020-10-13\* | 2021-03-25 |
 | [LTNS](https://open.spotify.com/track/6yb0WXBl0zuabg0sd4HKga) | [DK](https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF) | [LTNS](https://open.spotify.com/album/4zOvnmkhhITTtuXTZuMjGm) | 3:42 | 2024-02-07 | 2024-03-26 |
+| [Lucky=One](https://open.spotify.com/track/0KUXg1wu5jnK5YzvF6cryR) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Lucky=One](https://open.spotify.com/album/1Evh1hzbbUwjBHFoaVQLBq) | 3:14 | 2025-04-24 |  |
 | [Lullaby](https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Lullaby](https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc) | 3:49 | 2024-03-14 | 2024-05-02 |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-01-24 | 2022-04-09 |
 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 | 2023-09-01 | 2023-09-22 |

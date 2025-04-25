@@ -1101,6 +1101,44 @@
     },
     {
       "album": {
+        "name": "Navidad Para Ti",
+        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
+      },
+      "artists": [
+        {
+          "name": "Angel Montoya",
+          "url": "https://open.spotify.com/artist/2z176UA0TCYX0tghkNY5rH"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        },
+        {
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "Cano Aguilar",
+          "url": "https://open.spotify.com/artist/4ZhDghRBMxjJplCuPD7QrK"
+        },
+        {
+          "name": "Mart\u00edn Valenzuela",
+          "url": "https://open.spotify.com/artist/7s8O4Wwkn8yaBojSMc2jaL"
+        },
+        {
+          "name": "Enrique Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7MsupxPkPXAHLRwnGOBohh"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258266,
+      "name": "La Navidad De Los Pobres",
+      "url": "https://open.spotify.com/track/6FNzFFuODTAakMuGs6PJ0y"
+    },
+    {
+      "album": {
         "name": "Navidad Fiesta Universal",
         "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
       },
@@ -2120,7 +2158,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 170469,
       "name": "Santa Llegara",
       "url": "https://open.spotify.com/track/0TTTxVBINwKVx5GeGtFTDR"

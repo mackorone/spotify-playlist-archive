@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Raim Laode
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Galdive
 
-1,079 songs - 2 day 16 hr 47 min
+1,083 songs - 2 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [1\-800\-hot\-n\-fun](https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:53 | 2024-09-18 | 2024-10-23 |
 | [10 Minutes](https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [Stylish…](https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b) | 3:56 | 2024-04-11 | 2024-06-06 |
 | [157 \- Midnight Serenade Version](https://open.spotify.com/track/3iL9rpmwJjwZ84kh0WCB4n) | [Midnight Serenade](https://open.spotify.com/artist/54W9oHAP8OcFEkPgzm8Os2) | [157 \(Midnight Serenade Version\)](https://open.spotify.com/album/2HWGVhzVwZFtSuqhlcGe7q) | 3:21 | 2025-02-07 | 2025-03-08 |
+| [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-04-24 |  |
 | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:47 | 2024-10-23 | 2024-12-13 |
 | [2112](https://open.spotify.com/track/5Gxwk3TSekI4GVMpFvPBEc) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [What Do You Really Know?](https://open.spotify.com/album/7gOhCvJD152GWf16fhs7Gp) | 5:56 | 2024-12-23 | 2025-01-24 |
 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2023-09-21 | 2023-10-20 |
@@ -428,6 +429,7 @@
 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 | 2023-05-11 | 2023-06-09 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2023-04-26 | 2023-09-01 |
 | [in the stars](https://open.spotify.com/track/798s1KJWQglhZoKLUF9p7D) | [Sami Rose](https://open.spotify.com/artist/2NLhDrmuSI9K1SHfwmqNXL) | [in the stars](https://open.spotify.com/album/0mPY19kYRyEMP1IOk06k5j) | 3:45 | 2023-06-01 | 2023-08-19 |
+| [IN YOUR EYES](https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 | 2025-04-24 |  |
 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-03-26 | 2024-06-06 |
 | [intro \(end of the world\) \- extended](https://open.spotify.com/track/5BBkvXH2jYROUzKIB7WX7S) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 2:41 | 2025-04-18 |  |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2024-07-30 | 2024-08-29 |
@@ -585,6 +587,7 @@
 | [Menghargai Kata Rindu](https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Menghargai Kata Rindu](https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au) | 4:11 | 2023-06-15 | 2023-08-04 |
 | [Menghargai Kata Rindu](https://open.spotify.com/track/76YPh9yAEC3SGjNx7DPllu) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Menghargai Kata Rindu](https://open.spotify.com/album/6ooqkzQocUCQWpBktDXNOT) | 4:13 | 2023-06-15 | 2023-08-04 |
 | [Mengikhlaskan Hati \- From "Cinta Dalam Ikhlas"](https://open.spotify.com/track/0jxs2RQT6Prc98XS0nlGAY) | [Abun Sungkar](https://open.spotify.com/artist/0z8E9l6pAppXnNEUhfb9Fy) | [Mengikhlaskan Hati \(From "Cinta Dalam Ikhlas"\)](https://open.spotify.com/album/0HLCvLIWH1XdsBNDOFjodf) | 3:59 | 2024-12-03 | 2024-12-28 |
+| [Menunggu Cinta](https://open.spotify.com/track/0ZSt7rN9ILFOL23axrgfAJ) | [Aqeela Calista](https://open.spotify.com/artist/5viTsV4BwI62jNF7ERhK4r) | [Menunggu Cinta](https://open.spotify.com/album/4ecnKnN2cmEjuFaRrJKEx0) | 3:29 | 2025-04-24 |  |
 | [Menunggu Giliran](https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Sebelum Merayakan](https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si) | 3:38 | 2025-02-07 |  |
 | [Menunggumu](https://open.spotify.com/track/4Pob03jnmgS65WbiM1Jof9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Second Chance](https://open.spotify.com/album/2QqFeMX7L0PjVPQoYEHJs4) | 3:45 | 2023-08-24 | 2023-11-26 |
 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 | 2023-03-29 | 2023-07-22 |
@@ -812,7 +815,7 @@
 | [semua lagu cinta terdengar sama](https://open.spotify.com/track/63VnhcHMnTPCcd24oVajL6) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:58 | 2025-03-21 |  |
 | [Semua Orang Pernah Sakit Hati](https://open.spotify.com/track/0lAwrV80YlQCGeqPtMIQjB) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Selamat Datang di Ujung Dunia](https://open.spotify.com/album/1I30JEs4UfRnYz0pzkKJpg) | 3:20 | 2025-01-02 | 2025-01-24 |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-08-28 | 2024-10-23 |
-| [Seoul City](https://open.spotify.com/track/3pY2M4k9BSk7ulLBSV0tcX) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:44 | 2025-03-26 | 2025-04-10 |
+| [Seoul City](https://open.spotify.com/track/3pY2M4k9BSk7ulLBSV0tcX) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:44 | 2025-03-26 |  |
 | [Separuh Aku](https://open.spotify.com/track/0OVcoOK5WVvE6D9CXkopa9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:26 | 2023-07-27 | 2023-08-23 |
 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2023-08-18 | 2023-12-02 |
 | [Separuh Nafas](https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 3:42 | 2023-08-24 | 2023-12-22 |
@@ -845,6 +848,7 @@
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-03-28 | 2024-05-22 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-07-26 | 2024-08-08 |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-04-13 | 2023-05-12 |
+| [Snacks & Wine](https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Snacks & Wine](https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI) | 3:30 | 2025-04-24 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-03-23 | 2023-05-12 |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-04-11 | 2024-05-03 |
 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-03-14 | 2024-04-19 |

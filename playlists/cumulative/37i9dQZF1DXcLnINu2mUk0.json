@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Satiro ",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MAR, Sleepytheprince",
   "name": "Seda",
   "tracks": [
     {
@@ -966,6 +966,28 @@
       "duration_ms": 223695,
       "name": "Aquece",
       "url": "https://open.spotify.com/track/5h63JxV3NF4zmK8SE5ihuc"
+    },
+    {
+      "album": {
+        "name": "AQUI AGORA",
+        "url": "https://open.spotify.com/album/5xSA6tJSFi9a6uzkl30tRq"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY"
+        },
+        {
+          "name": "SleepyThePrince",
+          "url": "https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "AQUI AGORA",
+      "url": "https://open.spotify.com/track/5061WxcutGInYsobzvTXEk"
     },
     {
       "album": {
@@ -11372,7 +11394,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 155000,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs"

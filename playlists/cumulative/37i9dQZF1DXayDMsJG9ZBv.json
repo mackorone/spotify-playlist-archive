@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Miley Cyrus",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: HANA",
   "name": "Hot Hits Japan: \u6d0b\u697d&\u90a6\u697d\u30d2\u30c3\u30c4",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 167038,
       "name": "doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/7FgkqIH50E6masvuz4EOPy"
@@ -3140,6 +3140,32 @@
       "duration_ms": 239720,
       "name": "Garden Of Eden",
       "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "album": {
+        "name": "GBAD (Number_i Remix)",
+        "url": "https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187398,
+      "name": "GBAD (Number_i Remix)",
+      "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
     },
     {
       "album": {
@@ -4470,6 +4496,24 @@
       "duration_ms": 207128,
       "name": "IN_MY_HEAD",
       "url": "https://open.spotify.com/track/0goYIHlWef73ZG6lNlrJ15"
+    },
+    {
+      "album": {
+        "name": "Invincible (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155495,
+      "name": "Invincible - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
     },
     {
       "album": {
@@ -5840,7 +5884,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -6910,7 +6954,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 194653,
       "name": "PLAYER 1",
       "url": "https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm"
@@ -7186,7 +7230,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 187586,
       "name": "ReawakeR (feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/4u8StBMFVwcS6f1GiKoJfV"
@@ -9501,6 +9545,24 @@
     },
     {
       "album": {
+        "name": "TWILIGHT!!!",
+        "url": "https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "TWILIGHT!!!",
+      "url": "https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc"
+    },
+    {
+      "album": {
         "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
         "url": "https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa"
       },
@@ -11178,7 +11240,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 242163,
       "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3SjRQkgA5VdldUK6WKy9O7"
@@ -11725,6 +11787,24 @@
     },
     {
       "album": {
+        "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
+        "url": "https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259877,
+      "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
+      "url": "https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W"
+    },
+    {
+      "album": {
         "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
         "url": "https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf"
       },
@@ -12044,6 +12124,42 @@
       "duration_ms": 276918,
       "name": "\u5e7e\u5104\u5149\u5e74",
       "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
+    },
+    {
+      "album": {
+        "name": "\u5f98\u5f8a",
+        "url": "https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191075,
+      "name": "\u5f98\u5f8a",
+      "url": "https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb"
+    },
+    {
+      "album": {
+        "name": "\u5fae\u71b1\u9b54",
+        "url": "https://open.spotify.com/album/79tn2ImqRFgvcJtLlOtdl2"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216700,
+      "name": "\u5fae\u71b1\u9b54",
+      "url": "https://open.spotify.com/track/7guT1V4QGvfUafWOX8NiYI"
     },
     {
       "album": {
@@ -12512,7 +12628,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 152871,
       "name": "\u7206\u901f\u8ad6\u7406ness",
       "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
@@ -12877,6 +12993,24 @@
     },
     {
       "album": {
+        "name": "\u8cdc\u7269",
+        "url": "https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288323,
+      "name": "\u8cdc\u7269",
+      "url": "https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv"
+    },
+    {
+      "album": {
         "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
         "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
       },
@@ -12888,7 +13022,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 205984,
       "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
       "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
@@ -12964,6 +13098,24 @@
       "duration_ms": 235543,
       "name": "\u98a8\u795e",
       "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
+    },
+    {
+      "album": {
+        "name": "\u9a19\u30b7\u611b - Damashiai",
+        "url": "https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "\u9a19\u30b7\u611b - Damashiai",
+      "url": "https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR"
     },
     {
       "album": {

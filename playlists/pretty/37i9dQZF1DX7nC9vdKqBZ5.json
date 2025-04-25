@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1516219,
+  "num_followers": 1516222,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Quem Sabe",
         "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 173858,
       "name": "Quem Sabe",
       "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 145304,
+      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Linguagem N\u00e3o Verbal",
-        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Linguagem N\u00e3o Verbal",
-      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "GUPE - PP sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K"
       },
@@ -1135,22 +1119,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Outra Vez (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W"
+        "name": "Linguagem N\u00e3o Verbal",
+        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
       },
       "artists": [
         {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
         }
       ],
-      "duration_ms": 189548,
-      "name": "Outra Vez - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7w2v2vIrCjjJ59taHu3wa2"
+      "duration_ms": 201500,
+      "name": "Linguagem N\u00e3o Verbal",
+      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1167,6 +1147,26 @@
       "duration_ms": 226714,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Outra Vez (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        }
+      ],
+      "duration_ms": 189548,
+      "name": "Outra Vez - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7w2v2vIrCjjJ59taHu3wa2"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Peu Canta Ivete",
+        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
+      },
+      "artists": [
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "duration_ms": 243179,
+      "name": "Quando a Chuva Passar",
+      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Peu Canta Ivete",
-        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
-      },
-      "artists": [
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 243179,
-      "name": "Quando a Chuva Passar",
-      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1475,34 +1475,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Novo Ciclo",
-        "url": "https://open.spotify.com/album/3Uayj41Ce88zsnjXajnGG2"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Cabelera",
-          "url": "https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        }
-      ],
-      "duration_ms": 230107,
-      "name": "Novo Ciclo",
-      "url": "https://open.spotify.com/track/5HhcXOota042Ync4U2OCfc"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Nois T\u00e1 Alto - Ac\u00fastico",
         "url": "https://open.spotify.com/album/4C3o0QG8RQMxuVYYBVut6u"
       },
@@ -1539,22 +1511,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
       },
@@ -1571,6 +1527,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
       },
@@ -1583,6 +1555,50 @@
       "duration_ms": 138750,
       "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Novo Ciclo",
+        "url": "https://open.spotify.com/album/3Uayj41Ce88zsnjXajnGG2"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Cabelera",
+          "url": "https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 230107,
+      "name": "Novo Ciclo",
+      "url": "https://open.spotify.com/track/5HhcXOota042Ync4U2OCfc"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 203625,
       "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Morena (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Morena (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
     },
     {
       "added_at": "2024-08-02 18:37:00",

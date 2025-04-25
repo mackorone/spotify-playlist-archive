@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Nandy
+> What is your love language? Say it in Swahili\.  Cover: Harmonize
 
-290 songs - 16 hr 20 min
+292 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ananipenda](https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Ananipenda](https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl) | 3:35 | 2023-04-13 | 2024-03-21 |
 | [Ananipenda \(feat\. Soge Culebra, Marioo\) \- Remix](https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Ananipenda \(feat\. Soge Culebra, Marioo\) \[Remix\]](https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0) | 4:49 | 2024-02-22 | 2024-05-17 |
 | [Angel & Demon](https://open.spotify.com/track/1qc2kAS8FbSUpA6p9Iqy3G) | [Kivumbi King](https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Angel & Demon](https://open.spotify.com/album/2lP03gWGjSZvi5QqADbDY3) | 2:53 | 2024-02-01 | 2024-04-19 |
-| [Angelina](https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Angelina](https://open.spotify.com/album/5DBiiNf0QT2FlKqwY508ag) | 2:40 | 2024-11-29 |  |
+| [Angelina](https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Angelina](https://open.spotify.com/album/5DBiiNf0QT2FlKqwY508ag) | 2:40 | 2024-11-29 | 2025-04-25 |
 | [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 | 2023-04-28 |
 | [Asali](https://open.spotify.com/track/1ESx7xzHyvDKBmUyekxPX1) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW) | [Asali](https://open.spotify.com/album/0zh3eIYe8YSRbO9vS87hfS) | 3:41 | 2024-12-19 | 2025-01-31 |
 | [Asante](https://open.spotify.com/track/5neSB7IERvhjSIDlIBjNbd) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Asante](https://open.spotify.com/album/5ddcMxbS1XXkRgt5ds6BLi) | 3:24 | 2024-01-25 | 2024-06-01 |
@@ -152,6 +152,7 @@
 | [Mtamu](https://open.spotify.com/track/39zxgTFeHYMp7Ajx92amxm) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:08 | 2024-03-14 | 2024-03-22 |
 | [Mtasubiri \(feat\. Zuchu\)](https://open.spotify.com/track/3qaaPsFYzSb7OGUeXClpND) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 3:26 | 2024-03-14 | 2024-03-22 |
 | [Mtima](https://open.spotify.com/track/6YswmXBwQNySnGWeFKH0WF) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Mtima](https://open.spotify.com/album/4Lnyw7ZJuIIxeSf1WhTM0K) | 3:44 | 2023-07-13 | 2023-11-10 |
+| [Mtoto](https://open.spotify.com/track/6bAE1iw1u8Anq9n5xZBATc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Mtoto](https://open.spotify.com/album/4f2P52GDpccJmGPVQBu4bW) | 3:19 | 2025-04-24 |  |
 | [Muhibu](https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Muhibu](https://open.spotify.com/album/20ZD3JWpTUb4VUPPVNkvvZ) | 3:13 | 2024-11-15 |  |
 | [Mwambieni](https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Mwambieni](https://open.spotify.com/album/5KWJSzOB7rysi3VT90lTAJ) | 3:00 | 2022-05-26 | 2023-03-10 |
 | [My Babe](https://open.spotify.com/track/29qNcVV0QERBR5c6TSBEvv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers III](https://open.spotify.com/album/4d2U5waYnl1NwFs0aQ5fhL) | 4:13 | 2023-05-11 | 2024-01-26 |
@@ -293,8 +294,9 @@
 | [Wote](https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Love Season](https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg) | 3:10 | 2025-02-06 |  |
 | [Yako Wapi](https://open.spotify.com/track/3EIGn3wZiw5PZw66eHwBuq) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Yako Wapi](https://open.spotify.com/album/6RCoSr3PynLjqURiK99QRK) | 3:35 | 2025-01-23 |  |
 | [Yes I Do](https://open.spotify.com/track/4EWsq94xq3M1I4rXZMdEni) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Yes I Do](https://open.spotify.com/album/1I47crfo4NzhbAxlO4Vfng) | 3:39 | 2024-10-17 |  |
+| [Yeye](https://open.spotify.com/track/54DJmNdE1KwaFNIjxSohY2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Yeye](https://open.spotify.com/album/6q8mOZ3fOVmPyrlQZ4kLTM) | 2:57 | 2025-04-24 |  |
 | [You \(feat\. Yammi\)](https://open.spotify.com/track/4XTcVh6TLERIw3BcA4sX2D) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [You \(feat\. Yammi\)](https://open.spotify.com/album/6yWJogn1gsms4cAXPE6b7x) | 3:30 | 2024-03-14 | 2024-03-22 |
-| [You Better Go](https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [You Better Go](https://open.spotify.com/album/6uVWT5KW2uov5KNYHpM4Mj) | 3:19 | 2024-08-29 |  |
+| [You Better Go](https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [You Better Go](https://open.spotify.com/album/6uVWT5KW2uov5KNYHpM4Mj) | 3:19 | 2024-08-29 | 2025-04-25 |
 | [Yule \- Remix](https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yule \(Remix\)](https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e) | 3:11 | 2024-06-07 | 2024-12-06 |
 | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Dadiposlim](https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy) | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou) | 3:30 | 2024-02-15 |  |
 | [Zoba](https://open.spotify.com/track/6x3liByFkS6SWGUWHUKsjL) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Zoba](https://open.spotify.com/album/5uML55NyKv8bCQRHhROyqh) | 3:36 | 2024-05-30 | 2024-11-01 |

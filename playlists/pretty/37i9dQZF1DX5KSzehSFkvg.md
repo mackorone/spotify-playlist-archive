@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs hits de la pop maghrébine\. Cover: Lazaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,266 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,310 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Allo Doctor](https://open.spotify.com/track/1njTOLN0cJSTGPTH3mNElO) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Allo Doctor](https://open.spotify.com/album/7LXkPXjAdBby2vyfA4wySk) | 2:41 |
 | 2 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
-| 3 | [Love](https://open.spotify.com/track/3Jet2WFgU8NlW7J4xZHa7s) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Love](https://open.spotify.com/album/4djU41ryFZF6OzAgFuuEI4) | 2:57 |
-| 4 | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/track/0yWEVGMfGyRB5pMaX58mxA) | [Alejandro](https://open.spotify.com/artist/4VCCzXIV0wB8YFq0X71YW7) | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/album/1E60O2evMgJowlnL1Yvc0i) | 3:50 |
-| 5 | [Mab9itich Chérie](https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mab9itich Chérie](https://open.spotify.com/album/2kHcDM7QiYmdQnuLoEnOaR) | 4:05 |
-| 6 | [Walidia](https://open.spotify.com/track/6lMibyYmZ1TrpXOMdzdetu) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Walidia](https://open.spotify.com/album/1olBJn1wRmpQxVSdprcr6f) | 3:06 |
+| 3 | [Walidia](https://open.spotify.com/track/6lMibyYmZ1TrpXOMdzdetu) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Walidia](https://open.spotify.com/album/1olBJn1wRmpQxVSdprcr6f) | 3:06 |
+| 4 | [Love](https://open.spotify.com/track/3Jet2WFgU8NlW7J4xZHa7s) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Love](https://open.spotify.com/album/4djU41ryFZF6OzAgFuuEI4) | 2:57 |
+| 5 | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/track/0yWEVGMfGyRB5pMaX58mxA) | [Alejandro](https://open.spotify.com/artist/4VCCzXIV0wB8YFq0X71YW7) | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/album/1E60O2evMgJowlnL1Yvc0i) | 3:50 |
+| 6 | [Mab9itich Chérie](https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mab9itich Chérie](https://open.spotify.com/album/2kHcDM7QiYmdQnuLoEnOaR) | 4:05 |
 | 7 | [Midaliya](https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Midaliya](https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO) | 2:33 |
 | 8 | [ACH HADA](https://open.spotify.com/track/1t2a3jcK6TltYE1ffwY41M) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [ACH HADA](https://open.spotify.com/album/7EF7iYQTdubslHmEjUA81z) | 2:42 |
 | 9 | [Qalbi Mat](https://open.spotify.com/track/1K20jbq0sXDO1u9TCLr2mx) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [Qalbi Mat](https://open.spotify.com/album/1PdikDexUiEZ8Y0LKn4QAO) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 |
 | 50 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 |
 
-Snapshot ID: `aAU/BgAAAADWJs5M/TK2oqJs0gDIXq9s`
+Snapshot ID: `aAqhGQAAAAAZm23ec96GiomSnhKTh3fF`

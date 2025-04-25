@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAAAgPoEJmg34q3wQSNQfZWYP",
+  "snapshot_id": "aAgtgAAAAAANwuSaFjjZT6cKgorB+/db",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 235740,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As Incr\u00edveis Hist\u00f3rias De: Underground Superhero Vs o Terr\u00edvel Ladr\u00e3o de Loops (Deluxe)",
         "url": "https://open.spotify.com/album/3yZh6sqDa0RQzQgwciIhZa"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 181727,
       "name": "Abaixo do Radar",
       "url": "https://open.spotify.com/track/3avSwfBE4PjSLBMUGQ0jXi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 235740,
-      "name": "V\u00edcio",
-      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
-        "url": "https://open.spotify.com/album/5U1zfJbVLAGHq6DfYCCkUH"
-      },
-      "artists": [
-        {
-          "name": "Thiago Elni\u00f1o",
-          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 205515,
-      "name": "Os Pretinho Bem",
-      "url": "https://open.spotify.com/track/3zMrFioc8zQT7F5XPfyu4N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yin & Yang (feat. T\u00e1ssia Reis)",
         "url": "https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 202402,
       "name": "Yin & Yang",
       "url": "https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
+        "url": "https://open.spotify.com/album/5U1zfJbVLAGHq6DfYCCkUH"
+      },
+      "artists": [
+        {
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 205515,
+      "name": "Os Pretinho Bem",
+      "url": "https://open.spotify.com/track/3zMrFioc8zQT7F5XPfyu4N"
     },
     {
       "added_at": null,
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Vida de Atriz",
+      "url": "https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siento por Ciento (Remix)",
         "url": "https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 207709,
       "name": "Siento Por Ciento - Remix",
       "url": "https://open.spotify.com/track/3F9jxW2QPwwlbcoV9AAixI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Vida de Atriz",
-      "url": "https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V"
     }
   ],
   "unique_name": "This Is Tassia Reis",

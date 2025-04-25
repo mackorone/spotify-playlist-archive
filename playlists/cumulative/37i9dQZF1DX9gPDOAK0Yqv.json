@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 217920,
       "name": "365",
       "url": "https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 211653,
       "name": "Another World - Kevin de Vries & SLVR Remix",
       "url": "https://open.spotify.com/track/70hIxHhQLcxmqwxfcYkoUf"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 182769,
       "name": "Balance",
       "url": "https://open.spotify.com/track/6av0iLsryrg6TC0kV0NSyq"
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 305806,
       "name": "Cymatics",
       "url": "https://open.spotify.com/track/0rV1f31U0L4BJpQzCfweBF"
@@ -4170,7 +4170,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 288115,
       "name": "Find A Way - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/4KoCo18Zg02uv72tyofFKf"
@@ -4608,7 +4608,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 260307,
       "name": "Friends - ARTBAT Remix",
       "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
@@ -5120,7 +5120,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 215040,
       "name": "Greece 2000 - KREAM Remix",
       "url": "https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A"
@@ -5414,7 +5414,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 175182,
       "name": "Heaven Knows - Andrea Botez & biskuwi Remix",
       "url": "https://open.spotify.com/track/1HpHLhlsqTyeX5CyYFFMYD"
@@ -5552,7 +5552,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 192380,
       "name": "Hey Boy Hey Girl - ARTBAT Remix",
       "url": "https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv"
@@ -7236,7 +7236,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 182769,
       "name": "Light The Fire",
       "url": "https://open.spotify.com/track/56uH091R7C1GoP6XLjF4St"
@@ -7492,7 +7492,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 180967,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/0Kq7h4oCX5s2YYESHRxgwn"
@@ -8306,7 +8306,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 147844,
       "name": "Morenita - Marco Generani Remix",
       "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
@@ -8816,7 +8816,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 192480,
       "name": "No Salio - Radio Edit",
       "url": "https://open.spotify.com/track/0Mbeyl4xsXLh4UGTs2jgVm"
@@ -11276,7 +11276,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 202204,
       "name": "She The Last One",
       "url": "https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK"
@@ -12194,6 +12194,28 @@
       "duration_ms": 223137,
       "name": "Sun Will Rise",
       "url": "https://open.spotify.com/track/026NUefvu7f2tdEqTRXT8J"
+    },
+    {
+      "album": {
+        "name": "Sweet Disposition (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/5OPFryeZlyPtGluGjGKWbG"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Sweet Disposition - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/0NInmbZliZg9hCrw5HgDuf"
     },
     {
       "album": {
@@ -14642,7 +14664,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 235248,
       "name": "Where Are You Tonight",
       "url": "https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8"

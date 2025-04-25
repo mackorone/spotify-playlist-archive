@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Fito P\u00e1ez en portada. ",
-  "num_followers": 1002879,
+  "num_followers": 1002881,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-03-28 06:00:19",
       "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 220795,
+      "name": "La Izquierda de la Noche",
+      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
+    },
+    {
+      "added_at": "2025-03-28 06:00:19",
+      "album": {
         "name": "La Kaguama",
         "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 193170,
       "name": "La Kaguama",
       "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
-    },
-    {
-      "added_at": "2025-03-28 06:00:19",
-      "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 220795,
-      "name": "La Izquierda de la Noche",
-      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
     },
     {
       "added_at": "2025-03-28 06:00:19",

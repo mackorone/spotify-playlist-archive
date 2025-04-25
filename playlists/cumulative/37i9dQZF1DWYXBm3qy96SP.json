@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: OneRepublic",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Sleep Token",
   "name": "Rock The World",
   "tracks": [
     {
@@ -6430,6 +6430,24 @@
       "duration_ms": 204553,
       "name": "DAMAGED (feat. Spencer Charnas)",
       "url": "https://open.spotify.com/track/4sdt6nAj3tqNzAnddR0meb"
+    },
+    {
+      "album": {
+        "name": "Damocles",
+        "url": "https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264836,
+      "name": "Damocles",
+      "url": "https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx"
     },
     {
       "album": {
@@ -19195,6 +19213,24 @@
     },
     {
       "album": {
+        "name": "Peacefield",
+        "url": "https://open.spotify.com/album/5ccZHgmVJ244iMulDie7BB"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340796,
+      "name": "Peacefield",
+      "url": "https://open.spotify.com/track/6C2I1PHUAzAl7kSvMSe8zj"
+    },
+    {
+      "album": {
         "name": "Penny Sleeps",
         "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
       },
@@ -21558,7 +21594,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 130043,
       "name": "Seth Cohen",
       "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
@@ -23026,7 +23062,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"

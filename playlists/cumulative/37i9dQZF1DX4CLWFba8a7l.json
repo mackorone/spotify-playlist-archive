@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 217997,
       "name": "1 DAY 2 LATE",
       "url": "https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 189966,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "BALCONY",
+        "url": "https://open.spotify.com/album/0OwTqwcUlQbjVMKe7FvLof"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205239,
+      "name": "BALCONY",
+      "url": "https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f"
+    },
+    {
+      "album": {
         "name": "Sunday Sadness",
         "url": "https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc"
       },
@@ -374,7 +392,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 243087,
       "name": "Beginner",
       "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
@@ -410,7 +428,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Benny",
       "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
@@ -907,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Cutting Room Floor",
+        "url": "https://open.spotify.com/album/3XnV4AL4NCEbyKqACQzdYD"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212312,
+      "name": "Cutting Room Floor",
+      "url": "https://open.spotify.com/track/5ridM2vq6tqVyggQKi192B"
+    },
+    {
+      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/5kJrtkLnvsAZq70QU5PyPd"
       },
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 264646,
       "name": "empty pages",
       "url": "https://open.spotify.com/track/4pBcuAcQJLLhTtPgEgkcaY"
@@ -1500,7 +1536,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 149142,
       "name": "FINGERTIPS",
       "url": "https://open.spotify.com/track/7bXsZsdN7cMvjnJiyUHk56"
@@ -1554,10 +1590,28 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 213258,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
+    },
+    {
+      "album": {
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "album": {
@@ -1624,6 +1678,32 @@
       "duration_ms": 205116,
       "name": "Givin' It Up",
       "url": "https://open.spotify.com/track/7JlwEzDrrUCQyqS4bun7cG"
+    },
+    {
+      "album": {
+        "name": "GO DUMB",
+        "url": "https://open.spotify.com/album/79tyRWEbkDzOi4sotZUf0A"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Brodinski",
+          "url": "https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172504,
+      "name": "GO DUMB",
+      "url": "https://open.spotify.com/track/1ghvfEhXbOQSLHEt08qX8g"
     },
     {
       "album": {
@@ -2032,7 +2112,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 167307,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/4Drglu14K2DPKmUBCmQzoC"
@@ -2086,7 +2166,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 184334,
       "name": "Just Like North",
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
@@ -2354,7 +2434,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 239769,
       "name": "Love at First Sight - Spotify Singles",
       "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
@@ -2376,6 +2456,24 @@
       "duration_ms": 273291,
       "name": "Love Heart Cheat Code",
       "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
+    },
+    {
+      "album": {
+        "name": "Love You Still",
+        "url": "https://open.spotify.com/album/1tsfKTRuEzjvqGQnzX9XOU"
+      },
+      "artists": [
+        {
+          "name": "Holy Holy",
+          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233002,
+      "name": "Love You Still",
+      "url": "https://open.spotify.com/track/0TgIQaoJL7rxGSPjW1AKgq"
     },
     {
       "album": {
@@ -2502,7 +2600,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 180661,
       "name": "Movie Scene",
       "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
@@ -2574,7 +2672,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 187433,
       "name": "Nack Nostalgia",
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
@@ -2788,7 +2886,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 200248,
       "name": "One Bad Day",
       "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
@@ -2940,7 +3038,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 169304,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW"
@@ -3012,7 +3110,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 195486,
       "name": "Peripheral Lover",
       "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
@@ -3048,7 +3146,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-16",
+      "date_removed": null,
       "duration_ms": 291153,
       "name": "Please Don't Move To Melbourne",
       "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
@@ -3066,7 +3164,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 134295,
       "name": "Pocket Rocket",
       "url": "https://open.spotify.com/track/0EmJ7H6NmylmtmXh0x9xxJ"
@@ -3240,7 +3338,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
@@ -3598,7 +3696,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 192647,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
@@ -3620,6 +3718,32 @@
       "duration_ms": 225198,
       "name": "Southerly",
       "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
+    },
+    {
+      "album": {
+        "name": "Speed Dating",
+        "url": "https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1"
+      },
+      "artists": [
+        {
+          "name": "DJ Sugarush",
+          "url": "https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX"
+        },
+        {
+          "name": "Jai Piccone",
+          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
+        },
+        {
+          "name": "Hotel Rubio",
+          "url": "https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "Speed Dating",
+      "url": "https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0"
     },
     {
       "album": {
@@ -3890,6 +4014,28 @@
       "duration_ms": 222704,
       "name": "Tastes Like Forever",
       "url": "https://open.spotify.com/track/33xgQAHpWcbY8B45sakPCn"
+    },
+    {
+      "album": {
+        "name": "Tears Dry Tonight",
+        "url": "https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Tears Dry Tonight",
+      "url": "https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ"
     },
     {
       "album": {
@@ -4168,7 +4314,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
@@ -4490,7 +4636,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 171351,
       "name": "What You've Lost",
       "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
@@ -4580,7 +4726,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 147846,
       "name": "You're Still Mine",
       "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
@@ -4616,7 +4762,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 250493,
       "name": "Your Favourite Birthday",
       "url": "https://open.spotify.com/track/7HGBBo2v44h9qFRAovytYL"

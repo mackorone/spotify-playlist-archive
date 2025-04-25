@@ -6,23 +6,27 @@
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAlemZXeADtFws7hvei7bkumOlt9+MZ",
+  "snapshot_id": "AAAlfyVbN684QEkGLHugEe6oSnd8YtjT",
   "tracks": [
     {
-      "added_at": "2025-04-11 08:51:23",
+      "added_at": "2025-04-24 23:05:37",
       "album": {
-        "name": "Bad B",
-        "url": "https://open.spotify.com/album/0zpf6Mkc9v127iGORp26wA"
+        "name": "Feed The Fire",
+        "url": "https://open.spotify.com/album/79isL27aZp2fspAxFGXs56"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
         }
       ],
       "duration_ms": 153346,
-      "name": "Bad B",
-      "url": "https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq"
+      "name": "Feed The Fire",
+      "url": "https://open.spotify.com/track/3cuOlVmoIPNNDY98qyi8pV"
     },
     {
       "added_at": "2025-04-04 16:29:19",
@@ -83,6 +87,38 @@
       "duration_ms": 165230,
       "name": "One Wish",
       "url": "https://open.spotify.com/track/7u9E3xd7bjWHO6qCfvgcoH"
+    },
+    {
+      "added_at": "2025-04-11 08:51:23",
+      "album": {
+        "name": "Bad B",
+        "url": "https://open.spotify.com/album/0zpf6Mkc9v127iGORp26wA"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "Bad B",
+      "url": "https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq"
+    },
+    {
+      "added_at": "2025-04-24 23:11:26",
+      "album": {
+        "name": "Litty",
+        "url": "https://open.spotify.com/album/0TcdUMebuTSqRQirqd8ph8"
+      },
+      "artists": [
+        {
+          "name": "Blake Russ",
+          "url": "https://open.spotify.com/artist/3RnKX0pQ5RlG6yZHla8DGh"
+        }
+      ],
+      "duration_ms": 214218,
+      "name": "Litty",
+      "url": "https://open.spotify.com/track/22M3ZdXhlQ1TOlaDAf5D1x"
     },
     {
       "added_at": "2025-04-18 10:28:50",

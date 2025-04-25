@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 106308,
+  "num_followers": 106323,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADwGpFemUY9dLDrEshgTwCm",
+  "snapshot_id": "aAgtgAAAAACE6uw+OzKpzoOhoKVZY2Pr",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortune Teller Blues",
-        "url": "https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Sammy Hagar",
-          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
-        }
-      ],
-      "duration_ms": 382072,
-      "name": "Fortune Teller Blues",
-      "url": "https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sloe Gin",
         "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 377360,
       "name": "Mind\u2019s Eye",
       "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortune Teller Blues",
+        "url": "https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+        }
+      ],
+      "duration_ms": 382072,
+      "name": "Fortune Teller Blues",
+      "url": "https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live at Radio City Music Hall",
+        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 338771,
+      "name": "One Less Cross to Bear - Live Version",
+      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joe Bonamassa Live from the Royal Albert Hall",
         "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 344853,
       "name": "Further On Up the Road - Live",
       "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Radio City Music Hall",
-        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 338771,
-      "name": "One Less Cross to Bear - Live Version",
-      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Mr. Fantasy",
-        "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
-      },
-      "artists": [
-        {
-          "name": "Dave Mason",
-          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 274081,
-      "name": "Dear Mr. Fantasy",
-      "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beacon Theatre - Live from New York",
         "url": "https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 341466,
       "name": "I'll Take Care of You",
       "url": "https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Mr. Fantasy",
+        "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
+      },
+      "artists": [
+        {
+          "name": "Dave Mason",
+          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 274081,
+      "name": "Dear Mr. Fantasy",
+      "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
     },
     {
       "added_at": null,

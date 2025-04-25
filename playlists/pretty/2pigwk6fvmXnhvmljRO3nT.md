@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,943 songs - 18 day 1 hr 47 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,971 songs - 18 day 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6951,5 +6951,33 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6941 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 |
 | 6942 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 |
 | 6943 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 |
+| 6944 | [SEXY DANCE](https://open.spotify.com/track/4ZxtydSHCl0eZ9a9CWtOIF) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [AN INSATIABLE HIGH](https://open.spotify.com/album/0vwbjXHNUq65nNaz2Vxjmd) | 5:52 |
+| 6945 | [SWEET AGNES](https://open.spotify.com/track/7j4bFMTP32A7fmLaco0PRV) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [TAKANAKA](https://open.spotify.com/album/6yFKbGAkjgnjQjfttbCAkW) | 4:40 |
+| 6946 | [Comes and Goes 와리가리](https://open.spotify.com/track/7ppOWC1tLH7dryAau647oQ) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/3LFJXdeGkEQKNrVjaOeUpy) | 3:48 |
+| 6947 | [Swapping Socks](https://open.spotify.com/track/4gZvom1pzzbkoe6soKRYJL) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:38 |
+| 6948 | [Alka Tale](https://open.spotify.com/track/1A4aC0KMMmPsR1v2RTsmhj) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Summer Pockets Original SoundTrack](https://open.spotify.com/album/5f430S14cud6XqMtFQ910l) | 4:49 |
+| 6949 | [White Loneliness](https://open.spotify.com/track/5aDKF7SXmPTK43ywKkGxOP) | [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Summer Pockets Original SoundTrack](https://open.spotify.com/album/5f430S14cud6XqMtFQ910l) | 2:49 |
+| 6950 | [Slowtime](https://open.spotify.com/track/3pqSUnc3Inyyw9DOCcCrOC) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Taro Lover](https://open.spotify.com/album/6V5FYtARyYiYBQ1QkSTjAx) | 2:50 |
+| 6951 | [Bury the Light](https://open.spotify.com/track/0FcS0Cpz3tK1DLXIzr6iL2) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [Devil May Cry 5 Special Edition Vergil's Rebirth Sound Selection](https://open.spotify.com/album/0xmupOFcrSRBIolFIozXQm) | 9:40 |
+| 6952 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
+| 6953 | [TELESCOPE](https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1) | [TWXN](https://open.spotify.com/artist/0lZ2oIRdMsQfFEPmOa3YyL), [LL Clawz](https://open.spotify.com/artist/0o7iCloKX9GUlm2mdPFNQm), [507KAZ](https://open.spotify.com/artist/5QnWJJjxPlTSN59B8yJoOk) | [Project YVL](https://open.spotify.com/album/2NSzFWptxM2TsHbGtDE2dr) | 2:23 |
+| 6954 | [Easter Sunday](https://open.spotify.com/track/5aDZOMeCa6VuKJSENFsuGx) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Dyn\-O\-Mite](https://open.spotify.com/album/4NIsKATEssBSrAl40JlZs5) | 2:02 |
+| 6955 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 |
+| 6956 | [moonlight](https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:39 |
+| 6957 | [Honeymoon Avenue](https://open.spotify.com/track/5SmXEPnevlRjBPWBG7oKIi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 5:39 |
+| 6958 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 |
+| 6959 | [Moon & Stars \(feat\. Maggie Lindemann\)](https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 3:07 |
+| 6960 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
+| 6961 | [POINT ME TO IT \(feat\. Lil Yachty, Camo!\)](https://open.spotify.com/track/594MueE2n17NeaZYiGdhYP) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:14 |
+| 6962 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 |
+| 6963 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
+| 6964 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
+| 6965 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
+| 6966 | [Third Coast](https://open.spotify.com/track/5ta1fZrCY7b98YNJqNN3H8) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 2:36 |
+| 6967 | [Bad Bitty](https://open.spotify.com/track/0aY6eYWRY2qAQJJ8SzL68Y) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Coming Out Party](https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz) | 1:42 |
+| 6968 | [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 |
+| 6969 | [As the World Caves In](https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:38 |
+| 6970 | [Droppin Jewels](https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:38 |
+| 6971 | [Red Moon](https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Red Moon](https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob) | 2:51 |
 
-Snapshot ID: `AAAFbYG5PmMR8GPcWneTHWQ2xwb9435U`
+Snapshot ID: `AAAFixUpNnDlKXwZANdMuCNMVOOLiWco`

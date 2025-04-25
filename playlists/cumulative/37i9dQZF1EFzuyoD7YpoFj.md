@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-439 songs - 23 hr 21 min
+440 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,8 @@
 | [The Cocotte](https://open.spotify.com/track/7oSwEGKB1EFISGthtWyiP5) | [Performances By Famous Artists](https://open.spotify.com/artist/235XUDTs7PKPOSf4OrrWjX), [Taken From Kic Cd 7136](https://open.spotify.com/artist/2efQ4HtaNhguJIxloaJ4dg) | [Porter, Cole \- Cole Porter In The 1930s's Volume 1](https://open.spotify.com/album/5XNqbZPMTYxrVSpU9foKNK) | 2:44 | 2024-07-24 |  |
 | [The Crew Song](https://open.spotify.com/track/06otCdjIpLWYGC2mD67KfN) | [John Mcmartin](https://open.spotify.com/artist/6lpPLbDpXX20IEZyluDqxY) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:28 | 2024-07-24 |  |
 | [The Dance Sequence](https://open.spotify.com/track/3qBqSqRi3X90EEatwo3tTb) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 4:55 | 2024-07-24 |  |
-| [The Day Is My Enemy](https://open.spotify.com/track/0GY5jNV1xaucN73VzOROum) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Day Is My Enemy](https://open.spotify.com/album/2oVLEYxxpkKHEwTJ2ww2jm) | 4:24 | 2024-07-24 |  |
+| [The Day Is My Enemy](https://open.spotify.com/track/0GY5jNV1xaucN73VzOROum) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Day Is My Enemy](https://open.spotify.com/album/2oVLEYxxpkKHEwTJ2ww2jm) | 4:24 | 2024-07-24 | 2025-04-25 |
+| [The Day Is My Enemy](https://open.spotify.com/track/2GPoj9AFNBHkCPCK69OlaA) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Day Is My Enemy](https://open.spotify.com/album/38wNbhb705u4rNxAEAD7h3) | 4:25 | 2025-04-24 |  |
 | [The Extra Man](https://open.spotify.com/track/5EQvtVMJO3vvi0NldcKn90) | [Alec Deland](https://open.spotify.com/artist/1T3qsH0rcPsfoPVC9lnVD7) | [Chip Deffaa's My Man: Songs of Gay Love, Lust, Loss, And Longing...](https://open.spotify.com/album/1UkxPhynW5HPhPANlVx9Mm) | 2:38 | 2024-07-24 |  |
 | [The Great Indoors](https://open.spotify.com/track/0u1uRVKfve9KSZlzvCh0w1) | [Mylinda Hull](https://open.spotify.com/artist/1hDfv7NCl7pTS3KH0GaTKN), [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter's The New Yorkers \(2017 Encores! Cast Recording\)](https://open.spotify.com/album/6yWoHW2MUkfK2BJXViduHi) | 3:11 | 2024-07-24 |  |
 | [The Grotto](https://open.spotify.com/track/4q98RXShlnhFhtWt0YTJm1) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:05 | 2024-07-24 |  |

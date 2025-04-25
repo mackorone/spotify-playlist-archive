@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 285553,
+  "num_followers": 285956,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAAB4+0v2NJctOuqVFdumX1n/",
+  "snapshot_id": "aAgtgAAAAABk2z/4fTV8I+Wwnur7hM1q",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena Amiga",
-        "url": "https://open.spotify.com/album/2vsBYqJOX1faG1HdNgYUv9"
+        "name": "todo me vale madre",
+        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
       },
       "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 236231,
-      "name": "Buena Amiga",
-      "url": "https://open.spotify.com/track/68B0WKS8He5yv8k4m2cjRH"
+      "duration_ms": 176382,
+      "name": "todo me vale madre",
+      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
     },
     {
       "added_at": null,
@@ -627,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "todo me vale madre",
-        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
+        "name": "Buena Amiga",
+        "url": "https://open.spotify.com/album/2vsBYqJOX1faG1HdNgYUv9"
       },
       "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 176382,
-      "name": "todo me vale madre",
-      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
+      "duration_ms": 236231,
+      "name": "Buena Amiga",
+      "url": "https://open.spotify.com/track/68B0WKS8He5yv8k4m2cjRH"
     },
     {
       "added_at": null,

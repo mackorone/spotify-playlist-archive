@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,986 songs - 3 day 4 hr 51 min
+1,988 songs - 3 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2 much sunscreen](https://open.spotify.com/track/2VY0jOVqbYaYaGMatQDnwQ) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [2 much sunscreen](https://open.spotify.com/album/4gPIb5MQ53FxokEes4oY4H) | 2:18 | 2022-11-11 | 2023-04-21 |
 | [2 steps behind](https://open.spotify.com/track/3yVQ38n3SvAVzgCW00ltVc) | [R\. Kei](https://open.spotify.com/artist/4sQLc1Xp2p3ij01ApmgQdr) | [2 steps behind](https://open.spotify.com/album/1DK0bxMTDMe2N3duHCshyk) | 2:56 | 2024-05-13 | 2024-08-10 |
 | [280](https://open.spotify.com/track/7Dw01bYupNW7yKAwo4Yzx3) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | ['99](https://open.spotify.com/album/3WVWIjOfJ3jHyfFR8pCedL) | 3:16 | 2021-12-07 | 2022-05-20 |
+| [3 AM](https://open.spotify.com/track/1Fc0apFTrqXZGqerg8EKeZ) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [3 AM](https://open.spotify.com/album/6fl3GBwGZcMiSvUpTgpHU5) | 2:33 | 2025-04-24 |  |
 | [35mm](https://open.spotify.com/track/1194YStqBdRk65zZ35cUKN) | [spicy 2una](https://open.spotify.com/artist/6NhAapXo2kbcvPVmAyTm48) | [sentient cacti](https://open.spotify.com/album/2ChMdOdljodE0E8rqraUFg) | 2:40 | 2021-12-07 | 2022-04-08 |
 | [3pm in rio](https://open.spotify.com/track/5QjijJAuTsnBf0rN8i0qON) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:34 | 2021-12-07 | 2022-07-01 |
 | [5.50 Am](https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [5.50 Am](https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r) | 2:02 | 2025-02-28 |  |
@@ -380,6 +381,7 @@
 | [Creek](https://open.spotify.com/track/24lu4bbwxA8OCxn7pvl6aX) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Creek](https://open.spotify.com/album/17CTrhI1JV89loCBPo4Mge) | 1:43 | 2022-08-12 | 2024-04-13 |
 | [Crestone](https://open.spotify.com/track/7krjREoicbTMB4gx3xxwLB) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Crestone](https://open.spotify.com/album/0AL4T93NfHuZMS8899nZtx) | 1:53 | 2022-04-08 | 2022-07-15 |
 | [Crinkle Cut](https://open.spotify.com/track/0ZBTWvV6fzGiTnQ1tAYt6m) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [Crinkle Cut](https://open.spotify.com/album/1APBTEuaU8G1xofe63AbGx) | 2:44 | 2021-12-07 | 2022-09-10 |
+| [crispy](https://open.spotify.com/track/296PtyBwDRi5dLobxeLxWW) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [crispy](https://open.spotify.com/album/5B9gshRopEWYswsesszmpc) | 2:06 | 2025-04-24 |  |
 | [crocodileteeth](https://open.spotify.com/track/5Rp86RZTmqiyE78JNt0wWg) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [crocodileteeth](https://open.spotify.com/album/0Uw8xYaT9ITRYcXFTIdRrY) | 2:36 | 2021-12-07 | 2023-02-18 |
 | [Crooked Elements](https://open.spotify.com/track/5wDyrEC8BJXmozhiFZv6Tt) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Crooked Elements](https://open.spotify.com/album/6apAf9cz0ZiBlQLcNsRSXq) | 1:59 | 2021-12-07 | 2022-07-01 |
 | [Cross Road Blues](https://open.spotify.com/track/5VdrmDi6cY8UJ9iKxBaTup) | [Klein](https://open.spotify.com/artist/4bh0Upum1zi9jsuSfmPUs0) | [Cross Road Blues](https://open.spotify.com/album/6ywivcMtrRcfjwD8ISaAHU) | 1:19 | 2022-08-05 | 2022-08-12 |
@@ -731,7 +733,7 @@
 | [H2](https://open.spotify.com/track/7iYqMLHl1Zh0gz6Y8iyNL8) | [Hattab](https://open.spotify.com/artist/4aCqYW11Zvpjawk15DtF0e) | [Nellie](https://open.spotify.com/album/3MtM9rvIbjHpIxRAlkLrRP) | 1:57 | 2021-12-07 | 2022-05-13 |
 | [Half Light](https://open.spotify.com/track/7wKp9THGLEsCRLm8Btccgx) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [In the Garden](https://open.spotify.com/album/4GnHKzBoHdWxr0s64TgQaw) | 2:20 | 2022-07-29 | 2022-10-14 |
 | [Halftime Wrap](https://open.spotify.com/track/7Cm9xjpK8OFT5frvvxjsXN) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Halftime Wrap](https://open.spotify.com/album/0azV7vabpGWe2dWudRRkjM) | 1:48 | 2023-04-20 | 2023-09-29 |
-| [Halls](https://open.spotify.com/track/3ivfzucSEXqJjS79y9sTs7) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Halls](https://open.spotify.com/album/6lBVxCgig2IIX2SczQSIW4) | 1:50 | 2022-12-02 |  |
+| [Halls](https://open.spotify.com/track/3ivfzucSEXqJjS79y9sTs7) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Halls](https://open.spotify.com/album/6lBVxCgig2IIX2SczQSIW4) | 1:50 | 2022-12-02 | 2025-04-25 |
 | [Ham On Rye](https://open.spotify.com/track/1YHe10629RcHU4qusWR9b1) | [Worn Tape](https://open.spotify.com/artist/6BohbICG26xpKvK0bXezmx) | [Ham On Rye](https://open.spotify.com/album/3kmS2l0JQwzlbcnR0S1hEV) | 2:04 | 2023-02-17 |  |
 | [hamachi](https://open.spotify.com/track/3DuX8d1egpdvOyEtlULZVB) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [hamachi](https://open.spotify.com/album/76QSMgkFkRvtFieLq4qItM) | 2:09 | 2021-12-07 | 2022-09-10 |
 | [Hammer](https://open.spotify.com/track/5tLMIpf7vZrIuRZPdh243H) | [Loyla Lo](https://open.spotify.com/artist/64Xx19yQZ3j5RzbTIG7Yl7) | [Sun Study](https://open.spotify.com/album/3vWeMRKNEpdkaJJPEDcFJX) | 1:43 | 2021-12-07 | 2022-09-10 |

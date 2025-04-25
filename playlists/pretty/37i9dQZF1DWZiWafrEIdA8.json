@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 10804,
+  "num_followers": 10817,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 201510,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "The Firstfruit - The 1st Album",
         "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 159066,
       "name": "Raincouver",
       "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -339,26 +339,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5"
-      },
-      "artists": [
-        {
-          "name": "YOUNG POSSE",
-          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
-        },
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 187939,
-      "name": "COLD (feat.10CM)",
-      "url": "https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Welcome to the Kicako House",
         "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
@@ -383,6 +363,26 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 165700,
+      "name": "Goodbye (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
         "name": "Bucket List",
         "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
       },
@@ -403,22 +403,22 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5"
       },
       "artists": [
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
         },
         {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 165700,
-      "name": "Goodbye (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
+      "duration_ms": 187939,
+      "name": "COLD (feat.10CM)",
+      "url": "https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
+        "name": "More ASH",
+        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
       },
@@ -559,26 +575,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Action!",
-        "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 190812,
-      "name": "Action! (Feat. GRAY)",
-      "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -603,22 +599,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "More ASH",
-        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Wifey",
         "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
@@ -639,30 +619,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Between Sat & Sun",
-        "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Black Heart (feat. Leellamarz, BE'O)",
-      "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
       },
@@ -675,6 +631,26 @@
       "duration_ms": 197938,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "Action!",
+        "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 190812,
+      "name": "Action! (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -719,22 +695,26 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+        "name": "Between Sat & Sun",
+        "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
       },
       "artists": [
         {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         },
         {
-          "name": "\ucfe0\uae30 (Coogie)",
-          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
         }
       ],
-      "duration_ms": 168640,
-      "name": "Shawty (feat. Coogie)",
-      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+      "duration_ms": 235893,
+      "name": "Black Heart (feat. Leellamarz, BE'O)",
+      "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -775,6 +755,26 @@
       "duration_ms": 199281,
       "name": "Shut Up & Groove",
       "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "\ucfe0\uae30 (Coogie)",
+          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Shawty (feat. Coogie)",
+      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -879,6 +879,26 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 210158,
+      "name": "Jenga (feat. Gaeko)",
+      "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 249317,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "After a few summers (My love X TOIL, Gist)",
         "url": "https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA"
       },
@@ -947,22 +947,22 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
         },
         {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         }
       ],
-      "duration_ms": 210158,
-      "name": "Jenga (feat. Gaeko)",
-      "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
+      "duration_ms": 249317,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -987,18 +987,22 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 231973,
-      "name": "Like Me",
-      "url": "https://open.spotify.com/track/6CgtxMNf4JQpgUuDT62CJQ"
+      "duration_ms": 186019,
+      "name": "Candy (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

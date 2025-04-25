@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Shiki
 
-384 songs - 23 hr 1 min
+386 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [dằm trong tim](https://open.spotify.com/track/1QwSqNlknVSTdmmtjsOGM9) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Hương Mùa Hè](https://open.spotify.com/album/1w74ARpNNB3ybFNhs4qWmV) | 3:50 | 2022-08-04 | 2022-09-12 |
 | [Dịu Dàng Em Đến](https://open.spotify.com/track/63q4o5Nh1ykbhdo4rKEW9c) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Dịu Dàng Em Đến](https://open.spotify.com/album/7EDzv1QVhowskAgwxtx3HT) | 3:05 | 2022-05-27 | 2022-12-19 |
 | [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 4:41 | 2022-11-26 | 2024-03-08 |
+| [Em Còn Nhớ Anh Không \- Remastered](https://open.spotify.com/track/7q1qYSyRkGT4ZaCc2ZQihP) | [Hoàng Tôn](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f), [Koo](https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq) | [Em Còn Nhớ Anh Không \(Remastered\)](https://open.spotify.com/album/0XTxzgpmtvXu1B1vJ2dKJt) | 4:11 | 2025-04-25 |  |
 | [Em iu](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Em iu](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:59 | 2023-07-09 | 2023-07-22 |
 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 | 2022-05-27 | 2025-01-24 |
 | [Em Không Sai, Chúng Ta Sai](https://open.spotify.com/track/3yWacnoBnM0lrzLmXAk44d) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Em Không Sai, Chúng Ta Sai](https://open.spotify.com/album/0Uy5VeJI1AD0HyEsNveMpc) | 4:51 | 2025-02-10 |  |
@@ -162,6 +163,7 @@
 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 | 2023-03-08 | 2024-04-19 |
 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj) | 4:04 | 2023-03-08 | 2024-08-01 |
 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 | 2023-02-20 | 2023-05-03 |
+| [Kỵ Sĩ Và Ánh Sao](https://open.spotify.com/track/62oJI8qLl1kFx77NQiCFo7) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [THEATER OF DREAMS \(Volume 4\)](https://open.spotify.com/album/3E21KthaeTgJgTWrqkME9t) | 3:26 | 2025-04-25 |  |
 | [LA BÀN](https://open.spotify.com/track/5G8D7sPL8mUhrNOm5jC3Sm) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [LA BÀN](https://open.spotify.com/album/2CbMaILGMALRPOZmayjiYD) | 3:06 | 2024-10-23 | 2024-11-28 |
 | [LALALA](https://open.spotify.com/track/7wagvml4x04xVfppCRgyxX) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:13 | 2024-05-26 | 2024-06-17 |
 | [Lan Man](https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Lan Man](https://open.spotify.com/album/2PjMmcp2KpR1dwcs0oExSx) | 3:36 | 2023-04-27 | 2024-08-01 |

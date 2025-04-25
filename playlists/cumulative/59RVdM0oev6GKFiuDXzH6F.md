@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-965 songs - 2 day 1 hr 19 min
+967 songs - 2 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Mamacita \(feat\. LexBlaze\)](https://open.spotify.com/track/3BDaQ8OZwJxRvnrMDJssCL) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Mamacita \(feat\. LexBlaze\)](https://open.spotify.com/album/4pfc04gBI21kH3UULpk7xU) | 2:52 | 2023-03-31 | 2023-12-23 |
 | [Mami Mami](https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Mami Mami](https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85) | 2:01 | 2023-05-01 | 2023-05-24 |
 | [Man On The Internet](https://open.spotify.com/track/1uhpwRggf9AaJws3idWFPF) | [Ex Music](https://open.spotify.com/artist/4UdV3xkQivY94241kmSshU), [Boy Acuff](https://open.spotify.com/artist/2qxZ69Xo2jUsgf0liEv4sM) | [Man On The Internet](https://open.spotify.com/album/7C7FAWzlJ6zqAFY0BvI0AV) | 2:35 | 2025-01-10 |  |
+| [Manta](https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Manta](https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5) | 4:07 | 2025-04-24 |  |
 | [Mantra](https://open.spotify.com/track/29ZGQEhZM8Je7AqoKiwKtr) | [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv) | [Mantra](https://open.spotify.com/album/5Lu4terQtT6PBeuLnb4WBo) | 2:55 | 2023-05-18 | 2023-12-14 |
 | [Maracuya](https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Maracuya](https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp) | 2:50 | 2023-05-25 | 2023-12-23 |
 | [Marching Soldiers](https://open.spotify.com/track/7biX9nC4aBCFhBIlKZi5ek) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Marching Soldiers](https://open.spotify.com/album/347t6fEb5nYm2t0Dp7W8p9) | 3:03 | 2024-11-15 | 2025-01-09 |
@@ -955,6 +956,7 @@
 | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9) | 3:08 | 2023-11-03 | 2024-09-26 |
 | [Xanadu \(Lizzy Wang Remix\)](https://open.spotify.com/track/4iOont4lQXZEE9GqlBGpER) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp) | [Xanadu \(Lizzy Wang Remix\)](https://open.spotify.com/album/31WmuJsHgNxislVF0v4ZCJ) | 2:24 | 2023-02-12 | 2023-04-13 |
 | [Yapper](https://open.spotify.com/track/1aFtQBA3Gxn7he9sFxSCG1) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Addiction / Yapper](https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr) | 3:09 | 2024-09-09 | 2025-01-09 |
+| [Yima](https://open.spotify.com/track/74ctwrNG6tk0W2OtBsgxsU) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Yima](https://open.spotify.com/album/0A9v2FUubSROjutXm7O2Kr) | 3:54 | 2025-04-24 |  |
 | [Yo Quiero Una Nena \(Jay Ancor Remix Edit\)](https://open.spotify.com/track/1xluv5FchDYdKpw9itf1IX) | [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Jay Ancor](https://open.spotify.com/artist/5ibxpJ4mhEDkiAc7vIqznM) | [Yo Quiero Una Nena \(Jay Ancor Remix Edit\)](https://open.spotify.com/album/3L9fX2WSj83lukTEH6ABEy) | 3:15 | 2023-09-01 | 2023-12-23 |
 | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB) | [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J) | 3:18 | 2023-10-13 | 2025-01-09 |
 | [Yo Quiero Una Nena \- Jay Ancor Remix](https://open.spotify.com/track/2XP8LHk7dEu8OTMp98ICpW) | [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Jay Ancor](https://open.spotify.com/artist/5ibxpJ4mhEDkiAc7vIqznM) | [Yo Quiero Una Nena \(Jay Ancor Remix\)](https://open.spotify.com/album/4DMEV5gT81Iw0t9KNdcb8J) | 5:32 | 2023-08-29 | 2023-09-26 |

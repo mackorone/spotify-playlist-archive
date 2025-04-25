@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: Ochungulo Family
+> Only the hottest Gengetone coming out of Kenya\. Cover: Mejja
 
-437 songs - 23 hr 25 min
+438 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Amsha Simba](https://open.spotify.com/track/0gN1EJ0zugTJje0bT2kasF) | [Queen Dillah](https://open.spotify.com/artist/6Lbw6Ow1smJKEQpNKcKGVj), [Katapillah](https://open.spotify.com/artist/4apoEJxjBuAUWkl8Jesdlj) | [Amsha Simba](https://open.spotify.com/album/6Mp15MphwjEzyNppPJeZYO) | 2:48 | 2022-03-10 | 2022-03-30 |
 | [ANAPIGA PIC](https://open.spotify.com/track/2D6A847d0AXOWhIBMGkycc) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [ANAPIGA PIC](https://open.spotify.com/album/2fJiKbGJTmUrOtIRGafMCy) | 4:00 | 2024-03-29 | 2024-08-23 |
 | [Angela](https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:57 | 2022-11-24 | 2023-03-25 |
-| [Angela \- Remix](https://open.spotify.com/track/6dsJk2F3gaCFmpHawBAg3t) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Angela \(Remix\)](https://open.spotify.com/album/3R0Izl0KAG58L6RtxvBZ58) | 3:16 | 2023-03-23 |  |
+| [Angela \- Remix](https://open.spotify.com/track/6dsJk2F3gaCFmpHawBAg3t) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Angela \(Remix\)](https://open.spotify.com/album/3R0Izl0KAG58L6RtxvBZ58) | 3:16 | 2023-03-23 | 2025-04-25 |
 | [ANGUKA NAYO](https://open.spotify.com/track/4WuxxGa7qAMBpNFFyHsLlE) | [From The Hood Music](https://open.spotify.com/artist/40DnLKC6FCKwUjxBtQR1a0), [Wadaglizke](https://open.spotify.com/artist/4ekM2KeOiAJ5KzPUkxaTTZ) | [ANGUKA NAYO](https://open.spotify.com/album/3HWqTYcW19gYAjNUUfhPwm) | 3:15 | 2024-07-08 |  |
 | [Apewe Mic](https://open.spotify.com/track/1ihwva2Geog94pHxDUinYq) | [Seska](https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ) | [Sugarcane](https://open.spotify.com/album/0Uf3m96SQ0l1ZejwD17YDD) | 3:01 | 2022-09-22 | 2023-03-25 |
 | [Aroma](https://open.spotify.com/track/3JUlWwEE1F1sa8aHalyBCH) | [Bussa J](https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd) | [Aroma](https://open.spotify.com/album/64YiygXtvR7rw1KmkoMeOd) | 2:47 | 2022-11-17 | 2023-09-01 |
@@ -433,6 +433,7 @@
 | [Wezere Wezere](https://open.spotify.com/track/7zAI8S0CIYFB7o2dbmMkpm) | [Storyteller Sam](https://open.spotify.com/artist/2fPoc0IkxF7Y64uDy1O99x), [K Chucky](https://open.spotify.com/artist/2yNPp1ubU29iO9S4lR1Zeh) | [Wezere Wezere](https://open.spotify.com/album/7ts7zOpqZMExAxTVcn27pc) | 3:35 | 2024-07-18 | 2024-12-07 |
 | [Whips Za Zakayo](https://open.spotify.com/track/2ys1XyP4s3uHAUpDjgNeGu) | [ItsDeco](https://open.spotify.com/artist/70Y7KimRLLx8N6ekMAiTas), [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y) | [Whips Za Zakayo](https://open.spotify.com/album/0jZclNA5oQaYEbVPqU0YYr) | 2:36 | 2024-07-11 | 2025-04-18 |
 | [Wivu](https://open.spotify.com/track/3E8paT7Cseo3B1vZlXlMku) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Dyana Cods](https://open.spotify.com/artist/08FxyxXRNIzwlndIhyu5Vr) | [Wivu](https://open.spotify.com/album/7AsYZfFmKs7nyXjM5ZBkGo) | 2:46 | 2023-11-30 | 2024-05-03 |
+| [Ya Mwisho](https://open.spotify.com/track/3kPRTSWMLdtAUE9anlD4Z1) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Ya Mwisho](https://open.spotify.com/album/64G7L9zx8qDgipMWK8INXo) | 3:16 | 2025-04-24 |  |
 | [Yea Yea Yea](https://open.spotify.com/track/4lD2nTM6ldiZe76QRHH0V5) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Yea Yea Yea](https://open.spotify.com/album/0Awx0OJ8SIMY98fLYB7ztT) | 3:15 | 2022-01-20 | 2022-01-28 |
 | [Yega Master \(feat\. Ucho\)](https://open.spotify.com/track/4TeBKOiJxNhU1iiCWziVYq) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Ucho](https://open.spotify.com/artist/6J9QXMUjA6sOoKXT1gZFQl) | [Yega Master \(feat\. Ucho\)](https://open.spotify.com/album/2sYqas6cknrMXwC2rhWYPd) | 2:43 | 2023-11-30 | 2024-08-09 |
 | [Yout Mkora](https://open.spotify.com/track/6TvJ7Rmloh0wpO1xpHrnrx) | [Blvck Queen](https://open.spotify.com/artist/1pBKd3CUJk3aO8sfevp59z), [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Yout Mkora](https://open.spotify.com/album/7J2ULXeKQIJ3cLIPdpteFi) | 2:51 | 2024-02-29 | 2024-11-15 |

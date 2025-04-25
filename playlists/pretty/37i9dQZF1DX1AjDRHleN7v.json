@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 374419,
+  "num_followers": 374543,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-04-19 15:00:16",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER",
-        "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Ficar de Leve",
-      "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
-    },
-    {
-      "added_at": "2025-04-19 15:00:16",
-      "album": {
         "name": "Onda",
         "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 189480,
       "name": "Na minha cabe\u00e7a",
       "url": "https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T"
+    },
+    {
+      "added_at": "2025-04-19 15:00:16",
+      "album": {
+        "name": "TUDO VAI SER COMO DEVE SER",
+        "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Ficar de Leve",
+      "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
     },
     {
       "added_at": "2025-04-19 15:00:16",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-04-19 15:00:16",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
-    },
-    {
-      "added_at": "2025-04-19 15:00:16",
-      "album": {
         "name": "Filho do Mar",
         "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
+    },
+    {
+      "added_at": "2025-04-19 15:00:16",
+      "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2025-04-19 15:00:16",

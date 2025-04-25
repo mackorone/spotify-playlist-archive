@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Kenia OS, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,906 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,848 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 4 | [UN TRIO](https://open.spotify.com/track/6i6PpqE9lA5eMYTJX57ZhD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [UN TRIO](https://open.spotify.com/album/3zAkWZlz7sa6cuzUlAXCF8) | 2:37 |
 | 5 | [Hija de Papi](https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Hija de Papi](https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj) | 3:04 |
 | 6 | [Dentro De La Disco](https://open.spotify.com/track/1fyIGx1bGNlywDMybF6aJD) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Dentro De La Disco](https://open.spotify.com/album/50WeyzONmjgiV9K7q4CrNk) | 2:58 |
-| 7 | [APIADATE DE MI](https://open.spotify.com/track/1U3Hsgej5ba3gBcb6m9cxk) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [APIADATE DE MI](https://open.spotify.com/album/7psXQ9Q3eYqVPQu2OJKNxZ) | 2:42 |
+| 7 | [APIÁDATE DE MI](https://open.spotify.com/track/1U3Hsgej5ba3gBcb6m9cxk) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [APIÁDATE DE MI](https://open.spotify.com/album/7psXQ9Q3eYqVPQu2OJKNxZ) | 2:42 |
 | 8 | [Hace Rato](https://open.spotify.com/track/27TNmLkmsU9uCNrJn9ELp3) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Hace Rato](https://open.spotify.com/album/7rC6N6wuSAjAXfaJ9Vjx8e) | 2:35 |
 | 9 | [Te extraño bb](https://open.spotify.com/track/2lx4ERMUBS5XH9FSEf2RX0) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te extraño bb](https://open.spotify.com/album/2zGo1N5ktB9y6qvupvosWC) | 3:32 |
 | 10 | [MALEDUCADO](https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [MALEDUCADO](https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM) | 2:39 |

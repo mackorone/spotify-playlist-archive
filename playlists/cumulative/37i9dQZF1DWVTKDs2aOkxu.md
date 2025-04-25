@@ -2,9 +2,9 @@
 
 ### [The Indie List](https://open.spotify.com/playlist/37i9dQZF1DWVTKDs2aOkxu)
 
-> The best indie music of the moment\. Cover: Fontaines D.C.
+> The best indie music of the moment\. Cover: Gigi Perez
 
-454 songs - 1 day 2 hr 34 min
+458 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-24 | 2025-02-21 |
 | [As Good As It Gets](https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:02 | 2024-11-01 | 2025-02-14 |
 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 | 2025-02-14 |  |
+| [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-24 |  |
 | [Attachment Theory](https://open.spotify.com/track/0iYTLa5yW6BsexECkr2qzT) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Attachment Theory](https://open.spotify.com/album/2pfXsWVHFTMoruJpEDpBA8) | 2:48 | 2025-01-10 | 2025-03-14 |
 | [Baby Blue](https://open.spotify.com/track/13vRJ8LDVH73EFLuZXz8co) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Baby Blue](https://open.spotify.com/album/2oq55O8NF6o5FJoi1AWx6U) | 4:10 | 2024-06-27 | 2024-09-06 |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-03 |  |
@@ -131,6 +132,7 @@
 | [Doomsday](https://open.spotify.com/track/5lDEyYqBrVn7eQTIVgx5sx) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Doomsday](https://open.spotify.com/album/3fs8sgCGTX3vs9JmyFYCBS) | 3:48 | 2025-02-21 |  |
 | [Double](https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Double](https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA) | 3:02 | 2024-06-27 | 2024-09-21 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-06-27 | 2024-07-05 |
+| [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-24 |  |
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2024-12-26 | 2025-03-28 |
 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 | 2025-02-21 |  |
 | [Driver](https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Driver](https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg) | 4:12 | 2024-09-12 | 2024-11-01 |
@@ -428,6 +430,7 @@
 | [Truth](https://open.spotify.com/track/6f7duf2up9giRj5V0XtFKW) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:43 | 2025-03-28 |  |
 | [TV Car Chase](https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [TV Car Chase](https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn) | 4:44 | 2024-07-11 | 2024-08-16 |
 | [Two Times](https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Two Times](https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm) | 3:46 | 2025-02-21 | 2025-04-04 |
+| [Tyrants](https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Tyrants](https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW) | 3:14 | 2025-04-24 |  |
 | [U R MINE](https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [U R MINE](https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7) | 3:11 | 2024-07-11 | 2024-08-16 |
 | [Under My Skin](https://open.spotify.com/track/2YL1nqQAZbiJFey1mwVCXu) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Under My Skin](https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG) | 3:32 | 2024-09-26 | 2025-01-17 |
 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 | 2024-09-12 | 2025-01-10 |
@@ -442,6 +445,7 @@
 | [We Don't Need to Do Forever](https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 2:36 | 2024-11-15 | 2024-11-29 |
 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 | 2024-10-03 | 2024-11-01 |
 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 | 2024-10-03 | 2025-01-17 |
+| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-24 |  |
 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 | 2024-08-20 | 2024-12-13 |
 | [What's On Your Mind](https://open.spotify.com/track/4bYN94V6umKkho9258LMBF) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [What's On Your Mind](https://open.spotify.com/album/0RMpKhfiK1wAK1BwqxffQJ) | 3:28 | 2024-11-01 | 2025-01-17 |
 | [When I Wake Up I'm Sad](https://open.spotify.com/track/5xT3wvyIlD1H2pxAJjMYTV) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [When I Wake Up I'm Sad](https://open.spotify.com/album/1KS7kJbZUASitLCrZ3vnbG) | 4:27 | 2024-11-15 | 2025-02-07 |

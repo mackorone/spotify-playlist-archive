@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: M Lisa
 
-250 songs - 12 hr 28 min
+251 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-07-04 | 2024-07-19 |
 | [Benim İlacım Yok](https://open.spotify.com/track/1pprdlPFEZsefdPSflJT2P) | [Ceren Gündoğdu](https://open.spotify.com/artist/2t6i0lQOkrmuIInzYZFM90) | [Işık Olur Gözlerin](https://open.spotify.com/album/0Nnm6fSQdcq2WDbEdAFawF) | 3:33 | 2025-02-20 | 2025-02-28 |
 | [Beyaz Sayfalar](https://open.spotify.com/track/35LBdRgHxGQ232UmkzbBIe) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Beyaz Sayfalar](https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP) | 2:31 | 2025-02-27 |  |
-| [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-12-19 |  |
+| [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-12-19 | 2025-04-25 |
 | [Bi Mani Yoksa](https://open.spotify.com/track/67RsgVh1I4rYqNqRmyW3JS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bi Mani Yoksa](https://open.spotify.com/album/2DtIUWEBco0tXVNkHFlrMN) | 3:14 | 2025-03-06 |  |
 | [Bi Polar](https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Bi Polar](https://open.spotify.com/album/4av9zmQcpcbMsewBcZnDKa) | 3:12 | 2024-07-04 | 2024-10-18 |
 | [Bi Sal Gideyim](https://open.spotify.com/track/0tfDoNxb20jitxnVIbvuq9) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Bi Sal Gideyim](https://open.spotify.com/album/4an6rlKTkhoJuFQx4jmrUZ) | 2:38 | 2025-01-09 | 2025-04-23 |
@@ -189,6 +189,7 @@
 | [Saygımdan](https://open.spotify.com/track/69cGGsyc5A7OJRkjsUxWho) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Saygımdan](https://open.spotify.com/album/6DwNrHS0A2WjDU4qJwpBjh) | 4:11 | 2025-03-13 |  |
 | [Saymadım Bu Kaçıncı Şişe Dibi](https://open.spotify.com/track/3pCR88j8n7Uicla4t4kf3j) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Saymadım Bu Kaçıncı Şişe Dibi](https://open.spotify.com/album/1lnrlK1FQcSO1XylzVnvxQ) | 2:34 | 2025-03-20 | 2025-04-04 |
 | [Sağ Salim](https://open.spotify.com/track/4luMMabCTC0UJgdH7sQCRK) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [AKKOR](https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G) | 4:39 | 2024-11-07 | 2025-02-18 |
+| [Seni Bana Vermediler](https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Seni Bana Vermediler](https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj) | 2:55 | 2025-04-17 |  |
 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 | 2024-11-14 |  |
 | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 | 2024-07-25 |  |
 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 | 2024-08-20 |

@@ -904,6 +904,24 @@
     {
       "album": {
         "name": "Baloba!",
+        "url": "https://open.spotify.com/album/0uz0GTlSvmnwBCrb9RpWMI"
+      },
+      "artists": [
+        {
+          "name": "Africando",
+          "url": "https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310800,
+      "name": "A\u00efcha",
+      "url": "https://open.spotify.com/track/1D5K2ShaIeKvTW0G1LkOAU"
+    },
+    {
+      "album": {
+        "name": "Baloba!",
         "url": "https://open.spotify.com/album/36mduXduOxss6KOtG7yuqI"
       },
       "artists": [
@@ -5052,7 +5070,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 204280,
       "name": "Kaalai",
       "url": "https://open.spotify.com/track/51JOTU8OWBWMXGsHgB4CMe"

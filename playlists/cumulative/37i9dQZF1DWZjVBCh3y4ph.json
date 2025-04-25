@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : L\u00c9A CHURROS",
+  "description": "Les hits zouk du moment. Photo : Meryl",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -646,6 +646,32 @@
       "duration_ms": 161715,
       "name": "Coll\u00e9",
       "url": "https://open.spotify.com/track/1PbmgY7RtdguwYVi4su4u1"
+    },
+    {
+      "album": {
+        "name": "Come Back To Me (feat. Kayos KF & DJ Keishawn)",
+        "url": "https://open.spotify.com/album/3qxI9eHBXqfldgOr75nOBW"
+      },
+      "artists": [
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
+        },
+        {
+          "name": "Kayos KF",
+          "url": "https://open.spotify.com/artist/6sAVp1U2N61SR2o6BtAwMC"
+        },
+        {
+          "name": "DJ Keishawn",
+          "url": "https://open.spotify.com/artist/0NXDvLMKfwZAhyblSeA8Um"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249512,
+      "name": "Come Back To Me (feat. Kayos KF & DJ Keishawn)",
+      "url": "https://open.spotify.com/track/4meLnWTjgOmpls5FSsmu6k"
     },
     {
       "album": {
@@ -3554,7 +3580,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 252117,
       "name": "R\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/0SHEQGXUj2WRJg7HJIiduJ"
@@ -3769,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "Sinc\u00e8re",
+        "url": "https://open.spotify.com/album/42nh6iUDm7Ys7w2vJDujaB"
+      },
+      "artists": [
+        {
+          "name": "Manise",
+          "url": "https://open.spotify.com/artist/7lmDLnNHkUvxWJCpqDtdf9"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161721,
+      "name": "Sinc\u00e8re",
+      "url": "https://open.spotify.com/track/1VFrQv1FNV5ruhAO2oNWc7"
+    },
+    {
+      "album": {
         "name": "SIWO",
         "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
       },
@@ -3784,6 +3828,28 @@
       "duration_ms": 229491,
       "name": "SIWO",
       "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
+    },
+    {
+      "album": {
+        "name": "Endemik",
+        "url": "https://open.spotify.com/album/59ZSS6nE51W1pJAgGJOsVO"
+      },
+      "artists": [
+        {
+          "name": "Sika Rlion",
+          "url": "https://open.spotify.com/artist/2bk4OvULWozcTHC7EMhKaA"
+        },
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209184,
+      "name": "Solide",
+      "url": "https://open.spotify.com/track/0WsgDerk2mtfVSYs4ubpYM"
     },
     {
       "album": {
@@ -3912,7 +3978,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 175124,
       "name": "Sp\u00e9ciale",
       "url": "https://open.spotify.com/track/18e6XXh8hUe5ioMOxOvzxJ"
@@ -4844,7 +4910,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 173720,
       "name": "\u00c7a va, \u00e7a vient",
       "url": "https://open.spotify.com/track/6yGVmoCCXeXcR1oHMKRYEe"

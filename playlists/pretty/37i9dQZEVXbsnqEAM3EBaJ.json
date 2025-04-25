@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACtEgefnO1ATMeCkkLEgJ7d",
+  "snapshot_id": "AAAAAAAAAADv991dCuN000xkLVxduX3S",
   "tracks": [
     {
       "added_at": "2025-04-18 04:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "ghoulstart",
-        "url": "https://open.spotify.com/album/4sDRcqGcM7o5qZ0eaJPeYj"
-      },
-      "artists": [
-        {
-          "name": "Ram Jam",
-          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
-        }
-      ],
-      "duration_ms": 99944,
-      "name": "ghoulstart",
-      "url": "https://open.spotify.com/track/0livin4NsPUWmr2C9eFIra"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Unbending (Mystic Festival Anthem 2025)",
         "url": "https://open.spotify.com/album/7HZN0A7uCS4FvtQMJ6OH67"
       },
@@ -71,22 +55,6 @@
       "duration_ms": 219093,
       "name": "Unbending - Mystic Festival Anthem 2025",
       "url": "https://open.spotify.com/track/0iPkEFbEGFPgJBWznPdLIG"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -107,6 +75,22 @@
       "duration_ms": 211735,
       "name": "Abracadabra - Gesaffelstein Remix",
       "url": "https://open.spotify.com/track/17sOAutZqK3xM5O6Cc2pMj"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -179,22 +163,6 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Sofa (Of My Lethargy)",
-        "url": "https://open.spotify.com/album/6UTxEJFPtfnXpe1gWVEAe6"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 237981,
-      "name": "Sofa (Of My Lethargy) - Radio Edit",
-      "url": "https://open.spotify.com/track/6A8TMpLQL4a6pCFPDYkyg6"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
         "name": "Deepest",
         "url": "https://open.spotify.com/album/2cJJEC1xUABOEwqCFEWXpc"
       },
@@ -211,6 +179,22 @@
       "duration_ms": 284685,
       "name": "Deepest - Edit",
       "url": "https://open.spotify.com/track/369TCZPg5fhG0z3PqFCZ8z"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Sofa (Of My Lethargy)",
+        "url": "https://open.spotify.com/album/6UTxEJFPtfnXpe1gWVEAe6"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 237981,
+      "name": "Sofa (Of My Lethargy) - Radio Edit",
+      "url": "https://open.spotify.com/track/6A8TMpLQL4a6pCFPDYkyg6"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -295,6 +279,26 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
+        "name": "Black Betty",
+        "url": "https://open.spotify.com/album/7DSXr9vHTFdDXq7JH7068E"
+      },
+      "artists": [
+        {
+          "name": "Exit 59",
+          "url": "https://open.spotify.com/artist/0fpFE1iGej6IHMC42N75fp"
+        },
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "duration_ms": 284307,
+      "name": "Black Betty - Version A",
+      "url": "https://open.spotify.com/track/5ttGZSzvltPsXssj8HhGTQ"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
         "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
         "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
       },
@@ -323,54 +327,6 @@
       "duration_ms": 291706,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/0jsdJ36JFwadIMScIewxj5"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Trigger Discipline",
-        "url": "https://open.spotify.com/album/7AWqFKgSfA1mS4hmYXSNIV"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 232321,
-      "name": "Trigger Discipline",
-      "url": "https://open.spotify.com/track/3juGcDx9vNMNEPr6QeF5A5"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "The Squirrely Years Revisited",
-        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Revenge - Squirrely Version",
-      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -407,6 +363,54 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
+        "name": "Trigger Discipline",
+        "url": "https://open.spotify.com/album/7AWqFKgSfA1mS4hmYXSNIV"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 232321,
+      "name": "Trigger Discipline",
+      "url": "https://open.spotify.com/track/3juGcDx9vNMNEPr6QeF5A5"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "The Squirrely Years Revisited",
+        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Revenge - Squirrely Version",
+      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
         "name": "Lvciferaeon",
         "url": "https://open.spotify.com/album/1PRrNHVsKzyj1dp16wtoDd"
       },
@@ -419,22 +423,6 @@
       "duration_ms": 256226,
       "name": "Lvciferaeon",
       "url": "https://open.spotify.com/track/2j6iypUWoFMCzc0QEp1dkd"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Enough Is Enough",
-        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -455,18 +443,18 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+        "name": "Enough Is Enough",
+        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 225840,
-      "name": "A Million Suns",
-      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
+      "duration_ms": 169133,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -483,6 +471,22 @@
       "duration_ms": 200089,
       "name": "There's No Future In Optimism",
       "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "A Million Suns",
+      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -535,18 +539,34 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Lovers And Strangers",
-        "url": "https://open.spotify.com/album/5emYXgiOkx4oIXNxwyqtWi"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
       },
       "artists": [
         {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 497458,
-      "name": "Lovers and Strangers - Extended Remix",
-      "url": "https://open.spotify.com/track/62Zab7sX0w23Ep6g0VGrOw"
+      "duration_ms": 200440,
+      "name": "Sleep Now In The Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7m6GmsvljjPqLPhEHBuwmE"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 241833,
+      "name": "The Seeker - Unedited Version / Steven Wilson Stereo Mix",
+      "url": "https://open.spotify.com/track/4LfAPBYpVBTaAJ5R3C0PQf"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -643,50 +663,18 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7m6GmsvljjPqLPhEHBuwmE"
+        "name": "Lovers And Strangers",
+        "url": "https://open.spotify.com/album/5emYXgiOkx4oIXNxwyqtWi"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
         }
       ],
-      "duration_ms": 241833,
-      "name": "The Seeker - Unedited Version / Steven Wilson Stereo Mix",
-      "url": "https://open.spotify.com/track/4LfAPBYpVBTaAJ5R3C0PQf"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Sleep Now In The Fire - Spotify Singles",
-      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
-    },
-    {
-      "added_at": "2025-04-18 04:00:00",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 220660,
-      "name": "Love Is War",
-      "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
+      "duration_ms": 497458,
+      "name": "Lovers and Strangers - Extended Remix",
+      "url": "https://open.spotify.com/track/62Zab7sX0w23Ep6g0VGrOw"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -703,6 +691,22 @@
       "duration_ms": 199685,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/4mhBl7hPzQjvXGdMGpbUQa"
+    },
+    {
+      "added_at": "2025-04-18 04:00:00",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 220660,
+      "name": "Love Is War",
+      "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
     },
     {
       "added_at": "2025-04-18 04:00:00",
@@ -903,8 +907,8 @@
     {
       "added_at": "2025-04-18 04:00:00",
       "album": {
-        "name": "Now or Never (Muzik Junkies & AROCK Remix)",
-        "url": "https://open.spotify.com/album/7wI8TpkCWRTwmnzZNjUDTj"
+        "name": "Now Or Never (TropKillaz Remix)",
+        "url": "https://open.spotify.com/album/0f5Fhl4ZgbGtWwtxGofKqa"
       },
       "artists": [
         {
@@ -916,17 +920,13 @@
           "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         },
         {
-          "name": "Muzik Junkies",
-          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
-        },
-        {
-          "name": "AROCK",
-          "url": "https://open.spotify.com/artist/47pIWqTVLta4q0qlPELe3o"
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
         }
       ],
-      "duration_ms": 129373,
-      "name": "Now Or Never (Muzik Junkies & AROCK Remix)",
-      "url": "https://open.spotify.com/track/75TTdx97yvwuxHnk96BqQD"
+      "duration_ms": 156115,
+      "name": "Now Or Never (Tropkillaz Remix)",
+      "url": "https://open.spotify.com/track/77v7Nm5MP87Ale71TTxQJE"
     },
     {
       "added_at": "2025-04-18 04:00:00",

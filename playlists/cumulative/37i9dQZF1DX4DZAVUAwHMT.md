@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Black Honey
+> The UK's biggest rock playlist\. Cover: Viagra Boys
 
-926 songs - 2 day 3 hr 21 min
+929 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Love Me When You're Angry](https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Ziey Kizzy](https://open.spotify.com/artist/2lVHX4G8SuMo5EiZ403UAo) | [Love Me When You’re Angry](https://open.spotify.com/album/72wwJzOHf2Lu9pq6L3IRRc) | 3:24 | 2024-06-27 | 2024-07-19 |
 | [Love Trap](https://open.spotify.com/track/5T3WzOr1qHO9RYsuMJC6UN) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Love Trap](https://open.spotify.com/album/52rmgq7Ah95kNSemFMV3Zc) | 2:40 | 2025-02-14 |  |
 | [LOVE U ANYWAY](https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [LOVE U ANYWAY](https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf) | 2:56 | 2024-05-09 | 2024-06-01 |
+| [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-24 |  |
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-06-08 | 2023-10-06 |
 | [Machine Gun Sun](https://open.spotify.com/track/6vK6s0a2DQGspBEn3ziYDm) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/3TRit8ULz8ee627BzuPSb5) | 2:53 | 2024-07-18 | 2024-08-09 |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2023-01-13 | 2023-02-17 |
@@ -870,6 +871,7 @@
 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 | 2023-03-08 | 2023-03-09 |
 | [Victim](https://open.spotify.com/track/6HVukYjftyc9qD2XDsFlzk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Victim / The Bear](https://open.spotify.com/album/1pmdl1AYc4lglNYjqexpDA) | 3:44 | 2023-09-14 | 2023-10-13 |
 | [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Vienna \(Everything’s Fine\)](https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ) | 2:57 | 2024-09-26 | 2024-10-11 |
+| [Vigilantes](https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Vigilantes](https://open.spotify.com/album/1F0QxXNCGOWbfBhUM1Ej6m) | 4:00 | 2025-04-24 |  |
 | [Voodoo Science](https://open.spotify.com/track/06krSNKYuVOzGxzwqsWegk) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Voodoo Science](https://open.spotify.com/album/0C83LlAVD0nAhM1wn5aGFS) | 3:09 | 2023-01-27 | 2023-03-31 |
 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-02-07 |  |
 | [Waiting On A Twist Of Fate](https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Waiting On A Twist Of Fate](https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8) | 2:46 | 2024-02-23 | 2024-06-14 |
@@ -880,6 +882,7 @@
 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-20 | 2023-04-14 |
 | [WARZ0NE](https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WARZ0NE](https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn) | 2:38 | 2024-02-16 | 2024-03-29 |
 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 | 2024-06-20 | 2024-10-04 |
+| [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 | 2025-04-24 |  |
 | [Waves](https://open.spotify.com/track/06JGsU2snVzhic3RegsYXx) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Waves](https://open.spotify.com/album/3bVrHlVSUVUss3doxEXu6j) | 3:14 | 2023-11-10 | 2024-01-09 |
 | [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 | 2024-10-17 | 2024-11-15 |
 | [way of the exploding dickhead](https://open.spotify.com/track/2uj3wowGsEy0edsc9jIFod) | [Mclusky](https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE) | [way of the exploding dickhead / unpopular parts of a pig](https://open.spotify.com/album/4LAsvG39DQSSIYMGl26pZF) | 2:48 | 2025-02-14 |  |

@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Serge Beynaud
+> African dance party music from the continent to Paris\. Photo : Kedjevara
 
-233 songs - 12 hr 58 min
+234 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [C'Gaté](https://open.spotify.com/track/277fdzfakixEtX2Cerfuaa) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Toto le Banzou](https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh), [Arii](https://open.spotify.com/artist/62QwKcRFb9gwWH5YsUTY5N) | [C'Gaté](https://open.spotify.com/album/4W9Muvhr4Ju9BzyEzqtx2j) | 3:01 | 2024-09-19 |  |
 | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM) | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ) | 3:58 | 2023-07-27 | 2024-04-12 |
 | [Cabri Mort \- Remix](https://open.spotify.com/track/6oMr9YN0oodyAnR8lfiHZ2) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Cabri Mort \(Remix\)](https://open.spotify.com/album/2wEh88diaPfNN7VAJ0plXC) | 2:59 | 2022-05-26 | 2023-04-14 |
-| [Calculatrice](https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Calculatrice](https://open.spotify.com/album/1pQi43kOfpPTlgZRiRMvN8) | 3:45 | 2024-04-25 |  |
+| [Calculatrice](https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Calculatrice](https://open.spotify.com/album/1pQi43kOfpPTlgZRiRMvN8) | 3:45 | 2024-04-25 | 2025-04-25 |
 | [Caléçon](https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Coco Argentée](https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe) | [Caléçon](https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In) | 3:28 | 2021-12-20 | 2022-05-27 |
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 | 2022-06-10 |
 | [Chauffer le moteur](https://open.spotify.com/track/3S6HETWwfANztUu4Bn5mk9) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Chauffer le moteur](https://open.spotify.com/album/57EyQk4TpucFXj8yeMdCX3) | 2:47 | 2023-05-18 | 2023-11-24 |
@@ -133,6 +133,7 @@
 | [Kindotila \- Remix](https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ) | [Yvane Kouame](https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kindotila \(Remix\)](https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L) | 2:41 | 2023-01-05 | 2023-05-19 |
 | [Kiniwara](https://open.spotify.com/track/0G6pdgRWKkgcTudR5gYqmv) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kiniwara](https://open.spotify.com/album/5xhHfQT7gG3l5Y8VD0ufv1) | 2:51 | 2023-06-29 | 2023-11-10 |
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 | 2022-08-12 |
+| [Korotoumou](https://open.spotify.com/track/6P5FxeaDrBJUC0cVFWyjgd) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Korotoumou](https://open.spotify.com/album/0UdRLJ4ow70maxJ1LutisP) | 2:36 | 2025-04-24 |  |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
 | [Kulumba](https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Kulumba](https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s) | 3:27 | 2022-01-21 | 2022-08-26 |
 | [L'ARGENT](https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'ARGENT](https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS) | 3:52 | 2023-02-23 | 2024-07-12 |

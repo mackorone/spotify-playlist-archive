@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-838 songs - 1 day 12 hr 22 min
+839 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Always Feel](https://open.spotify.com/track/3YIu4iBTh7Z4pK7HEyaXkk) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb), [Miravo](https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9) | [Always Feel](https://open.spotify.com/album/1KthQdUwlMXeePRv88o7T1) | 2:15 | 2024-09-20 | 2024-11-05 |
 | [Am I Wrong](https://open.spotify.com/track/61OmKun000CfhTX4HQmi7y) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Am I Wrong](https://open.spotify.com/album/51oeYhjdcaZycyZycAAibW) | 2:29 | 2025-04-04 |  |
 | [Am I Wrong \(feat\. ØJM\)](https://open.spotify.com/track/2k4ZnVMn89EmlHYKY6K3Jk) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER), [ØJM](https://open.spotify.com/artist/17HfisxoHc4oPg4fVizsQo) | [Am I Wrong \(feat\. ØJM\)](https://open.spotify.com/album/7zt7kMU3b6Ue3lyyGWqOoa) | 3:09 | 2024-05-14 | 2024-07-29 |
+| [Am I Wrong For This](https://open.spotify.com/track/7wQllV8Y8QlCo8fj9N3lFM) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Am I Wrong For This](https://open.spotify.com/album/1eSVsKnlEtggIZuNXE0qU6) | 2:07 | 2025-04-24 |  |
 | [Angel Face Disaster](https://open.spotify.com/track/4o3KCsVVSDOmyp0tTYyw8S) | [Besso](https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ), [Charlie Besso](https://open.spotify.com/artist/0ZD6XaZ97qhpiN4t0xdnJ6), [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ) | [Angel Face Disaster](https://open.spotify.com/album/3jonmw2qK26V8cButEMhUe) | 2:44 | 2024-08-02 | 2025-02-15 |
 | [Another Love](https://open.spotify.com/track/7dTsAhklIRJhId49ayybZx) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Another Love](https://open.spotify.com/album/0xOTDrruNGZiRnCcWOup9D) | 2:44 | 2023-12-03 |  |
 | [Another Night](https://open.spotify.com/track/5fc1tca544MPaPJ1ng7Q8T) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Spagbo](https://open.spotify.com/artist/2EZUOnMtEkQv06k5fkbKTJ), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Another Night](https://open.spotify.com/album/3V4qu83f9ZoDOe1uvQ6tUy) | 2:57 | 2024-02-25 | 2024-04-16 |

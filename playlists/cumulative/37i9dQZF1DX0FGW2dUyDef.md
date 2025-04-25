@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷  Kapak: BLOK3 x Ati242
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: BLOK3 x Ati242
 
 137 songs - 7 hr 2 min
 

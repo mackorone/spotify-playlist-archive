@@ -2,9 +2,9 @@
 
 ### [האלטרנטיב של ישראל](https://open.spotify.com/playlist/37i9dQZF1DX41IYVoQd4Sa)
 
-> מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : שקל וגלעד כהנא
+> מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : נגה ארז
 
-222 songs - 13 hr 4 min
+223 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All The Way](https://open.spotify.com/track/5G3Tdxnfgi8vqtHConYJWM) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7), [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj), [Lala Tamar](https://open.spotify.com/artist/10f7DRewxOc63etYN3tevr), [ALIZA](https://open.spotify.com/artist/1DhQpHcfmYxhIKtKfxTYMX) | [All The Way](https://open.spotify.com/album/67g4rxomqOhlcelsPVfT4g) | 4:19 | 2024-09-05 | 2024-10-06 |
 | [Another Life](https://open.spotify.com/track/5ehKFubjMlzscWxQOZXU1Y) | [Metropolin](https://open.spotify.com/artist/2CH9N0ISuyCkZ2q3XEY2V0), [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7) | [Another Life](https://open.spotify.com/album/5q3coMph1VFaQTZliJZJIA) | 3:32 | 2024-06-27 | 2024-07-27 |
 | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP) | 2:59 | 2024-07-18 | 2025-03-21 |
+| [Beautiful Soul](https://open.spotify.com/track/19J2rmuJ7bsaoFt9RknsgS) | [Ido Maimon](https://open.spotify.com/artist/57N91pDyMWcNFvzDbsh4QJ), [Loren Noyman](https://open.spotify.com/artist/0Tlit4MACMKpkoYKr0HYXp) | [Special Delivery](https://open.spotify.com/album/7h4P1b3NEvQKqNAPu5d70K) | 3:55 | 2025-04-24 |  |
 | [Better Off Alone](https://open.spotify.com/track/5FY3zsxqoZ9gOrEly5bzQD) | [Everybody Knows](https://open.spotify.com/artist/6cEMCUWebXAjzjBB0A97Px) | [Better Off Alone](https://open.spotify.com/album/3tZZMNGhg6trvBSt1KIbLR) | 2:34 | 2024-11-07 | 2024-11-22 |
 | [Big Wolf](https://open.spotify.com/track/5oyh5aHumv5soKCDA1f9B5) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [A Knight’s Tale](https://open.spotify.com/album/5vWYUCEKVEUj8KBnTIbcwX) | 2:33 | 2025-01-30 | 2025-04-15 |
 | [Bitter Moon \- ירח מר](https://open.spotify.com/track/3FSLyEUXnmUKPJU93ACRdD) | [Sababa 5](https://open.spotify.com/artist/4MAzZqdLNuFniumG9Sbjiu), [Inbal Nur Dekel](https://open.spotify.com/artist/4wvCC23R66HD61NZn2ogG0) | [Bitter Moon \- י​ר​ח מר](https://open.spotify.com/album/14cViBa8h1qQTXKPwuUoiS) | 4:16 | 2024-11-07 | 2025-01-06 |
@@ -162,7 +163,7 @@
 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 | 2024-06-27 | 2024-08-10 |
 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 | 2024-07-25 |  |
 | [לגלגל את זה הלאה](https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [אירוע מתגלגל](https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF) | 4:19 | 2025-02-13 |  |
-| [להיות לבד \- בארבי Live](https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שירים מדלת אל דלת \(בארבי Live\)](https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp) | 3:40 | 2024-09-05 |  |
+| [להיות לבד \- בארבי Live](https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שירים מדלת אל דלת \(בארבי Live\)](https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp) | 3:40 | 2024-09-05 | 2025-04-25 |
 | [לחזור הביתה](https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [לחסד וגאולה המשך ישר](https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8) | 4:17 | 2024-09-12 | 2025-03-21 |
 | [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 | 2024-06-27 | 2024-09-06 |
 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 | 2024-06-27 | 2025-02-11 |
@@ -209,7 +210,7 @@
 | [צ'ופ צ'ופ](https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T) | [סלון קורטינה](https://open.spotify.com/artist/4c2Lkr9QFX5ifjlLKgFd5o), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [צ'ופ צ'ופ](https://open.spotify.com/album/5ZciqquzRfFvGev2NZhwgs) | 2:37 | 2024-07-04 | 2024-08-02 |
 | [צעיף](https://open.spotify.com/track/4ahE0ztGegKkWDgqpzuhaT) | [כולם חוץ ממי שחסר](https://open.spotify.com/artist/0tmNnAb9w9IHsgQNxtjcHU), [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [כולם חוץ ממי שחסר](https://open.spotify.com/album/35Cjvys0ijxMsgKGHPj22H) | 3:03 | 2024-12-19 | 2025-01-17 |
 | [קהלת פרק ט׳](https://open.spotify.com/track/0v8xvuvOzRC5Y6S351PLLN) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [קהלת פרק ט׳](https://open.spotify.com/album/13Gu91gVZ6j4llq2Fi6M4B) | 3:08 | 2024-11-14 | 2025-01-01 |
-| [קומי אורי Kumi Ori](https://open.spotify.com/track/4i6v0i4BrvbMevPY2Qwh5n) | [Orka](https://open.spotify.com/artist/694axYJ7pjeqqmZOl6NALd) | [קומי אורי Kumi Ori](https://open.spotify.com/album/06NWZGpy4LHAAajTtMiTjU) | 3:52 | 2025-03-20 |  |
+| [קומי אורי Kumi Ori](https://open.spotify.com/track/4i6v0i4BrvbMevPY2Qwh5n) | [Orka](https://open.spotify.com/artist/694axYJ7pjeqqmZOl6NALd) | [קומי אורי Kumi Ori](https://open.spotify.com/album/06NWZGpy4LHAAajTtMiTjU) | 3:52 | 2025-03-20 | 2025-04-25 |
 | [קשה לאהוב](https://open.spotify.com/track/7BNMlLhlsC1BejJU0IBOGU) | [Reines Girls](https://open.spotify.com/artist/2qW8QMeCVtQWaQNFFAIVgu) | [קשה לאהוב](https://open.spotify.com/album/1ozEtDSxEsVJWnEU0utXEY) | 3:52 | 2024-12-19 | 2025-01-10 |
 | [שבתות וחגים](https://open.spotify.com/track/2st7mVorFZpOBrZEzeIt7a) | [Eran Tzur](https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY), [Korin Allal](https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7) | [סימנים מקדימים](https://open.spotify.com/album/3mPB7mDLvFypbUpMDX7FEd) | 4:25 | 2025-02-20 |  |
 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [Yehuda Eder](https://open.spotify.com/artist/1q9k9hbLjVHv5XLEroG1am), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 | 2024-06-27 | 2025-03-21 |

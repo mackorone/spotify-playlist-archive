@@ -4,7 +4,7 @@
 
 > Certified R&B hits\. Cover: kwn
 
-173 songs - 9 hr 3 min
+174 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Ocean Drive](https://open.spotify.com/track/2n7RgVuhj9oT6iaAZN0Oa2) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Ocean Drive](https://open.spotify.com/album/0UZ64CPmniIULvZDBrM4iI) | 2:18 | 2023-10-27 | 2023-11-17 |
 | [On and On \- A COLORS SHOW](https://open.spotify.com/track/4CAKzOiTux9ieNyZznlIUZ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [On and On \- A COLORS SHOW](https://open.spotify.com/album/4fv7ronHSZtBVNBfYT7LoD) | 2:47 | 2023-12-11 | 2024-01-26 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-10-13 | 2025-04-11 |
+| [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 |  |
 | [One Bad Decision \(feat\. Ella Mai & Roddy Ricch\)](https://open.spotify.com/track/1hMQH0ZPAgfyRWRhpQYtEW) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [One Bad Decision \(feat\. Ella Mai & Roddy Ricch\)](https://open.spotify.com/album/1oh2ZKuIJrJmH6rsEAgfqF) | 3:46 | 2024-07-26 | 2024-11-22 |
 | [One Night Stand](https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [One Night Stand](https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4) | 4:16 | 2024-03-22 | 2024-04-19 |
 | [Out Of Luck \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/6t2QMkSZRKsg0PXUb3wV4c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:58 | 2025-04-11 |  |
@@ -152,7 +153,7 @@
 | [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-10-13 | 2023-10-28 |
 | [SUNSET BLVD](https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SUNSET BLVD](https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig) | 2:39 | 2024-07-26 | 2024-11-22 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-10-13 | 2025-04-11 |
-| [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 | 2024-07-26 |  |
+| [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 | 2024-07-26 | 2025-04-25 |
 | [Tell Nobody](https://open.spotify.com/track/2tVDJV4m7XhHR1JO4DQQKR) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Tell Nobody](https://open.spotify.com/album/4ywZzKzeST3zTSCwd3UN7X) | 2:49 | 2023-11-24 | 2024-02-10 |
 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-04-25 |  |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-10-13 | 2023-10-28 |

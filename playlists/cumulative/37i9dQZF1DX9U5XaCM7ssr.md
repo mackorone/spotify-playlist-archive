@@ -4,7 +4,7 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-202 songs - 14 hr 3 min
+203 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 | 2022-11-28 | 2023-05-04 |
 | [Bahaya](https://open.spotify.com/track/45FQZlkNDDHg4pzyjiLQkc) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bahaya](https://open.spotify.com/album/4MidcEabYlfTGK6LGMzpSY) | 4:20 | 2023-09-28 | 2023-11-14 |
 | [Bawa Dia Kembali](https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:46 | 2024-07-23 | 2024-09-03 |
-| [Belum Beruntung](https://open.spotify.com/track/1zTRRWl7y8C80WNr4ysljk) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Belum Beruntung](https://open.spotify.com/album/6rgtBSOGEORZH2obJTqOFm) | 3:39 | 2025-04-14 |  |
+| [Belum Beruntung](https://open.spotify.com/track/1zTRRWl7y8C80WNr4ysljk) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Belum Beruntung](https://open.spotify.com/album/6rgtBSOGEORZH2obJTqOFm) | 3:39 | 2025-04-14 | 2025-04-25 |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2022-11-28 | 2023-01-10 |
 | [Berpisah Lebih Indah](https://open.spotify.com/track/5OhSbOu2OuOBlcqT5XR6Xc) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Berpisah Lebih Indah](https://open.spotify.com/album/2Jb8niTzCRPmE1WaNeJNTz) | 3:57 | 2022-11-28 | 2023-10-25 |
 | [Berselang](https://open.spotify.com/track/3e6sQo9DXuqNDLWibQ7zBi) | [Agseisa](https://open.spotify.com/artist/3HB7NpAUWsKvbuw0MQiR53) | [Berselang](https://open.spotify.com/album/4zHpspczwUPgzHqa4ehQJE) | 4:17 | 2023-06-23 | 2023-06-27 |
@@ -200,6 +200,7 @@
 | [Terendap Laraku](https://open.spotify.com/track/75oKENo18qceQGUKA7fZGc) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [NaFF](https://open.spotify.com/album/1L71H6xIQtJTpL0rf3W4wN) | 5:09 | 2025-03-24 |  |
 | [Tergariskan](https://open.spotify.com/track/5ojHPGLl3ZjE6ikmUqoeHA) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Tergariskan](https://open.spotify.com/album/6Hed4MpnhCfLIJ6uDMOskA) | 4:10 | 2025-02-03 | 2025-02-18 |
 | [Terlalu Cinta](https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Yang Terpilih](https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A) | 4:08 | 2024-11-22 | 2025-01-06 |
+| [Terlupakan](https://open.spotify.com/track/2gpeYCyGm0UzxdjFYSQlhg) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Ombak Melankolia](https://open.spotify.com/album/3tUlp1dHxXKiMLGd06rle0) | 6:35 | 2025-04-25 |  |
 | [Ternyata Hanya Kamu](https://open.spotify.com/track/1Cm9rVxlCWgGqB3Y3kmJCh) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Ternyata Hanya Kamu](https://open.spotify.com/album/1H0CPGh2BWcQMJ2t8tbOgV) | 4:44 | 2022-11-28 | 2023-04-21 |
 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 | 2024-11-22 |  |
 | [Tertawan Hati](https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo) | 3:57 | 2023-09-28 | 2024-04-19 |

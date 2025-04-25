@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,577 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,647 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 16 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 17 | [Mann Mera](https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ) | 3:20 |
 | 18 | [Aashiq Tera](https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG) | [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Mudassar Aziz](https://open.spotify.com/artist/7h2iyGbQUPE8V8tATDSOAM) | [Happy Bhag Jayegi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms) | 4:54 |
-| 19 | [Dil Tu Jaan Tu](https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Dil Tu Jaan Tu](https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx) | 3:57 |
-| 20 | [Malang Sajna](https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Malang Sajna](https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf) | 2:41 |
+| 19 | [Malang Sajna](https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Malang Sajna](https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf) | 2:41 |
+| 20 | [Dil Tu Jaan Tu](https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Dil Tu Jaan Tu](https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx) | 3:57 |
 | 21 | [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:49 |
 | 22 | [Qaafirana](https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 5:41 |
 | 23 | [Agar Tum Saath Ho \(From "Tamasha"\)](https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Forever With Arijit Singh](https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T) | 5:41 |

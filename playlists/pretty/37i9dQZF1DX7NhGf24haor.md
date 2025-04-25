@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 ### [Hardstyle Adrenaline! 2025](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Weekly new Hardstyle releases! Cover: Sub Zero Project & Dual Damage
+> Weekly new Hardstyle releases! Cover: Radical Redemption, Rebelion & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,203 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,269 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stardust](https://open.spotify.com/track/5k0I0O8eom23uHoVCNB2eG) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Stardust](https://open.spotify.com/album/494YGoOA14ie9mM7RnDgR6) | 3:23 |
-| 2 | [Rebel or Redeem](https://open.spotify.com/track/0AJFoiDPSkGPleUAljfqm1) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Rebel or Redeem](https://open.spotify.com/album/3Fp0HIEF4G5BjbPnPAbWup) | 2:42 |
+| 1 | [Rebel or Redeem](https://open.spotify.com/track/0AJFoiDPSkGPleUAljfqm1) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Rebel or Redeem](https://open.spotify.com/album/3Fp0HIEF4G5BjbPnPAbWup) | 2:42 |
+| 2 | [Stardust](https://open.spotify.com/track/5k0I0O8eom23uHoVCNB2eG) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Stardust](https://open.spotify.com/album/494YGoOA14ie9mM7RnDgR6) | 3:23 |
 | 3 | [Beautiful](https://open.spotify.com/track/2V8eLJgrZdBfAjCALtUGGf) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Beautiful](https://open.spotify.com/album/3UizaV21tIa7dw2SYUNnru) | 3:27 |
 | 4 | [Somebody That I Used To Know](https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Somebody That I Used To Know](https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy) | 4:02 |
 | 5 | [Wir Sind Ravers](https://open.spotify.com/track/6tMudQ0Rlld3SvOy4TgpJN) | [Roy Dest](https://open.spotify.com/artist/0TBHlw1ktz3YQvFkYpm55Q), [Yellow Pvnk](https://open.spotify.com/artist/5ciuRoDCYAgWi8a5go0GC8) | [Wir Sind Ravers](https://open.spotify.com/album/26qpu7FhmQ9myY4jLgBT0r) | 2:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Time Of Our Lives](https://open.spotify.com/track/57BBNJBNGjTZAO9KUeFHMs) | [Digital Madness](https://open.spotify.com/artist/5G1EFKlxqENrQJnQ1sWKzl) | [Time Of Our Lives](https://open.spotify.com/album/0cy0DUCuHigKlYntWU9kwy) | 2:31 |
 | 100 | [Music Made Addict \(Prophet's Defqon 2K22 Edit\) \- Mixed Cut](https://open.spotify.com/track/1YYz28doSEaxmHxIOfgEgE) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [The Hardstyle Archive \(Remixes & Edits\)](https://open.spotify.com/album/20wb9fXptg5jOdvOGc7CrZ) | 2:41 |
 
-Snapshot ID: `aAF59QAAAABaFNme1GE7leFNrVEG+2yr`
+Snapshot ID: `aAq0hgAAAAAT2SAXbJiG5k6nuBe3g39m`

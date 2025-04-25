@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,953 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,956 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 59 | [Metaphobia](https://open.spotify.com/track/4VS8SYb0xooX1bqpiGkkHa) | [Trashlagoon](https://open.spotify.com/artist/2Ceq5nkABzryK0OkaQYtzg) | [Blue Empire](https://open.spotify.com/album/7D1fMrSNcIKyoHyb4Q5VQU) | 5:01 |
 | 60 | [Generator](https://open.spotify.com/track/3FV2AQ5XPCCXqHvalR7SMA) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Generator EP](https://open.spotify.com/album/0fjFfo4fjXex8kNyEu4CZ0) | 4:57 |
 | 61 | [1607](https://open.spotify.com/track/2hzjtQhPMjXtEW95JR4So3) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Noah Becker](https://open.spotify.com/artist/4UE2HkQLGxOkKldlRLMorR), [Selassie](https://open.spotify.com/artist/58QJmBAZsQDVkQKD0vs65C) | [1607](https://open.spotify.com/album/1SFqiOLkT79aQwwdkLzfVf) | 4:44 |
-| 62 | [Feels Like \- Original Mix](https://open.spotify.com/track/3II14nc55BkPP3oPhvPAth) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Feels Like](https://open.spotify.com/album/4UzfEp5EV758wJCimBvM0I) | 6:33 |
+| 62 | [Feels Like \- Original Mix](https://open.spotify.com/track/3II14nc55BkPP3oPhvPAth) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Feels Like](https://open.spotify.com/album/4UzfEp5EV758wJCimBvM0I) | 6:33 |
 | 63 | [On & On \(Again\)](https://open.spotify.com/track/7Mno6NjdI9b71hBLCmZomi) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [On & On \(Again\) \[Edit\]](https://open.spotify.com/album/6icyrehEsAbRwrnVPvGn5u) | 4:48 |
 | 64 | [Only For A Moment \- Extended Mix](https://open.spotify.com/track/05LShItfKTTVjm9NEV14Ii) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Only For A Moment](https://open.spotify.com/album/5iJ6aK5fHpQfyG7MqYIZRp) | 6:42 |
 | 65 | [I Just Want To Love You](https://open.spotify.com/track/5g7Sh1pm9VFPckt6c99tOd) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:50 |

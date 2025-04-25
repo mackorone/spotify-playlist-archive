@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,836 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,886 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 13 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 |
 | 14 | [Carry It](https://open.spotify.com/track/0xziaVX2PIOfLC1FNNzNT9) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Stemz](https://open.spotify.com/artist/5jY4YgP5Ub1MMCgMhjY4Mp) | [Carry It](https://open.spotify.com/album/4hMtnF3yR9VPYyAHbyU0C8) | 4:18 |
 | 15 | [Mind My Business](https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Mind My Business](https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1) | 1:59 |
-| 16 | [Too Real](https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Too Real](https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR) | 3:06 |
+| 16 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 |
 | 17 | [Savannah Grass](https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0) | 2:59 |
-| 18 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 |
+| 18 | [Too Real](https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Too Real](https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR) | 3:06 |
 | 19 | [Jump](https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [1 On 1](https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy) | 3:34 |
 | 20 | [Overdue](https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Overdue](https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3) | 2:57 |
 | 21 | [Like Yuh Self](https://open.spotify.com/track/1gzoAtrRQlcrRHgRc9K4OC) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Like Yuh Self](https://open.spotify.com/album/3CRTmP0iyWPAsG54CkxUO5) | 2:56 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 67 | [Bam Bam](https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Bam Bam](https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W) | 2:47 |
 | 68 | [Carry On](https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2) | 3:57 |
 | 69 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
-| 70 | [Long Live Soca](https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Long Live Soca](https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd) | 3:45 |
-| 71 | [Vagabond](https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Vagabond](https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz) | 3:58 |
+| 70 | [Vagabond](https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Vagabond](https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz) | 3:58 |
+| 71 | [Long Live Soca](https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Long Live Soca](https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd) | 3:45 |
 | 72 | [Feel It](https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Optimus Productionstt](https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1) | [Feel It](https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF) | 3:00 |
 | 73 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 74 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
 | 75 | [Leh Go](https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm) | 3:23 |
 | 76 | [Carnival Jumbie](https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [The Carnival Jumbies Experiment](https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga) | 2:38 |
 | 77 | [Mas Go Play](https://open.spotify.com/track/6sGDRMlfRR4czucvMo8Wu1) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Mas Go Play](https://open.spotify.com/album/3wm5DmlWD4sFyRcujrXVa1) | 2:51 |
-| 78 | [Sak Pasé](https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA), [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe), [Khiomal Nurse](https://open.spotify.com/artist/7qvcDCo5D5so7VA5hGzSUE) | [Kool Under Fire](https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp) | 4:23 |
-| 79 | [Allez](https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Allez](https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax) | 3:38 |
+| 78 | [Allez](https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Allez](https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax) | 3:38 |
+| 79 | [Sak Pasé](https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA), [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe), [Khiomal Nurse](https://open.spotify.com/artist/7qvcDCo5D5so7VA5hGzSUE) | [Kool Under Fire](https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp) | 4:23 |
 | 80 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 |
 | 81 | [DAP \(Drink and Party\)](https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [DAP \(Drink and Party\)](https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq) | 2:49 |
 | 82 | [Hulk](https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Get Soca 2018](https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc) | 3:07 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 87 | [Never Again](https://open.spotify.com/track/5RuFeFXb4fmGiNyxedd34J) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happy Daze Riddim](https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb) | 3:51 |
 | 88 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
 | 89 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
-| 90 | [Soak It Good](https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Soak It Good](https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD) | 3:02 |
-| 91 | [Jumbo Jet](https://open.spotify.com/track/6DI66fsIkq3gHmcIcM88Rg) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:53 |
+| 90 | [Jumbo Jet](https://open.spotify.com/track/6DI66fsIkq3gHmcIcM88Rg) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:53 |
+| 91 | [Soak It Good](https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Soak It Good](https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD) | 3:02 |
 | 92 | [Hall of Fame](https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Hall of Fame](https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB) | 3:37 |
 | 93 | [Search Party](https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Search Party](https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g) | 3:26 |
 | 94 | [How ah Livin](https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [How ah Livin](https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj) | 3:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 97 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
 | 98 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
 | 99 | [Coffee](https://open.spotify.com/track/7l7N33CHWxmPl2v6D69jS8) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coffee](https://open.spotify.com/album/7lKoacDvRqyrPpQI8IaEts) | 3:08 |
-| 100 | [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 |
+| 100 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
 
 Snapshot ID: `Z6SMvwAAAABNdIwq0Led3xvrP5AuPS6K`

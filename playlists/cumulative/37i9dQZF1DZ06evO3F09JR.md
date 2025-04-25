@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-161 songs - 17 hr 23 min
+162 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [From the Wilds](https://open.spotify.com/track/1J6vdUJvzgZmifMEqQaLD7) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 2:38 | 2024-02-24 |  |
 | [Gira](https://open.spotify.com/track/1MGEh1lHT8IIqdi0eAh4Cy) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 1](https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K) | 5:12 | 2025-02-05 | 2025-02-09 |
 | [Gloria](https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 1](https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K) | 4:53 | 2024-08-24 |  |
+| [Grigio](https://open.spotify.com/track/4m9fsS1W9PcOCyR0HVpyvc) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Movimento](https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A) | 5:24 | 2025-04-25 |  |
 | [Heart of the Volcano](https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 0:57 | 2022-06-17 |  |
 | [Heartless Places \- AC Mix](https://open.spotify.com/track/3FyGaiHmDnucWM0sKZBv55) | [Kite](https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Heartless Places \(AC Mix\)](https://open.spotify.com/album/4POuIK7eh7LKJLUWeQnxnE) | 7:05 | 2025-03-23 |  |
 | [Hydra](https://open.spotify.com/track/4O8FJIzm4sVtbs7bKvbN1j) | [Roll the Dice](https://open.spotify.com/artist/64Ub5tUgRolfKc6HgoSEzv), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Hydra](https://open.spotify.com/album/3qABNj1U8xKRORwWRkLEuw) | 6:01 | 2022-05-29 | 2025-03-23 |
@@ -158,7 +159,7 @@
 | [To Live Another Day](https://open.spotify.com/track/0uDw3vdZfUWIejxagpJEnC) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 0:55 | 2022-10-09 |  |
 | [Utopia](https://open.spotify.com/track/4WMpCrohpDg6X9CP0zKcVh) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 0:57 | 2022-05-29 | 2022-10-13 |
 | [V](https://open.spotify.com/track/4CAT7ZFz2yBqPPmcIAbVLe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 9:01 | 2024-10-07 | 2025-04-11 |
-| [VALVOLE](https://open.spotify.com/track/6c2SU7hu7LQY6sw0uXxm9a) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VALVOLE](https://open.spotify.com/album/4d2MgjrV36FQncmJASxk2G) | 37:54 | 2025-02-23 |  |
+| [VALVOLE](https://open.spotify.com/track/6c2SU7hu7LQY6sw0uXxm9a) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VALVOLE](https://open.spotify.com/album/4d2MgjrV36FQncmJASxk2G) | 37:54 | 2025-02-23 | 2025-04-25 |
 | [Variabile](https://open.spotify.com/track/5PsnswibVBgIH5OMTeTIqT) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 7:32 | 2025-02-10 | 2025-02-11 |
 | [VERDE](https://open.spotify.com/track/5ea8mvk7bTU7tUqCEWuRbn) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u) | 5:02 | 2022-06-26 | 2022-06-28 |
 | [VERDE](https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 5:02 | 2022-05-29 | 2025-02-22 |

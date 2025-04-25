@@ -4,12 +4,12 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-108 songs - 9 hr 39 min
+109 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abba Padre \(En Vivo\)](https://open.spotify.com/track/6ICi7NpKmDPhe1PLEPC2t3) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:51 | 2022-09-14 |  |
-| [Abre los Cielos](https://open.spotify.com/track/0V6OZi6A5UuMHnNhORBIAo) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 4:06 | 2024-01-29 |  |
+| [Abre los Cielos](https://open.spotify.com/track/0V6OZi6A5UuMHnNhORBIAo) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 4:06 | 2024-01-29 | 2025-04-25 |
 | [Acércame A Ti \(En Vivo\)](https://open.spotify.com/track/7uKphMA9O0zmwCkIvHgAZ1) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Dios de Generaciones \(En Vivo\)](https://open.spotify.com/album/3ycy75nDasNRthHk2cqei5) | 8:10 | 2025-02-10 |  |
 | [Amamos Tu Presencia](https://open.spotify.com/track/0WQIkqhtJBYnHBE3xMg9M7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 11:15 | 2022-09-14 | 2022-11-19 |
 | [Asombrado Estoy De Tí](https://open.spotify.com/track/3wj8VGnWpF7OrvrCxcNuwO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 1:38 | 2022-09-14 | 2022-10-13 |
@@ -25,6 +25,7 @@
 | [Cuando Pienso \(En Vivo\)](https://open.spotify.com/track/0FMCuTrcs0ZmPjez4cIc34) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 2:25 | 2022-09-14 | 2022-10-12 |
 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 | 2022-09-14 |  |
 | [Digno de Adorar](https://open.spotify.com/track/0SJjnHs6rZwXBJgERsbJd4) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Digno de Adorar](https://open.spotify.com/album/02PTqHXwlOhC2783iojG7t) | 11:06 | 2025-04-15 |  |
+| [Dios de Generaciones \(Remix\)](https://open.spotify.com/track/71oMc2QCBRKIxEFjNuSZEz) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq) | [Miel San Marcos Remix](https://open.spotify.com/album/0NnmpFx4yqYA78vV55FMfC) | 3:21 | 2025-04-25 |  |
 | [Dios en Casa](https://open.spotify.com/track/5EkAXS5cUl4WPgyq8lOXSW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 4:52 | 2022-09-14 | 2023-04-30 |
 | [Dios Es Más Grande](https://open.spotify.com/track/61nCXpmkNR2c196EaZhYgx) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Dios Es Más Grande](https://open.spotify.com/album/76T2IpejzH8cRehny18FeY) | 8:25 | 2022-09-14 | 2024-12-08 |
 | [Dios Está Aqui \(En Vivo\)](https://open.spotify.com/track/5X5nNbkEKKb4Ew1ZWvw6V6) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 7:01 | 2022-09-14 | 2023-06-29 |

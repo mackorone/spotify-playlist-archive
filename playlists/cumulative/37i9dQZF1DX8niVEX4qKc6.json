@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Amanece (a Pepe Mujica)",
+        "url": "https://open.spotify.com/album/2xPQysNWJoN1R5obe7as9o"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Claudius Rieth",
+          "url": "https://open.spotify.com/artist/1pK9vA4nXMSwQtKE7vq2Nm"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232318,
+      "name": "Amanece (A Pepe Mujica)",
+      "url": "https://open.spotify.com/track/2HZBmHn8uajdtUWQt7MR5E"
+    },
+    {
+      "album": {
         "name": "Canciones para escuchar en el r\u00edo",
         "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
       },
@@ -682,7 +704,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 221651,
       "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
       "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
@@ -1305,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "Es Broma, En Serio",
+        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Es Broma, En Serio",
+      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
+    },
+    {
+      "album": {
         "name": "Escorpio (Acoustic Version)",
         "url": "https://open.spotify.com/album/5sU9af4bNsE96gZVXrXBjl"
       },
@@ -1566,10 +1610,28 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 277733,
       "name": "Hermoza From Heaven",
       "url": "https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09"
+    },
+    {
+      "album": {
+        "name": "Hipnotica (Sesi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2pgtbgZHb9R4ahQk1OnPr2"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124066,
+      "name": "If I Fell - Sesi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0OCek8se6CLmlwWm41v9ri"
     },
     {
       "album": {
@@ -3678,7 +3740,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 165503,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"

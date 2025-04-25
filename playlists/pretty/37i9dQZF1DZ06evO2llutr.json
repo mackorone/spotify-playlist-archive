@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 553700,
+  "num_followers": 553945,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAAAj+7dY6Kt40yXqS+RX9XJN",
+  "snapshot_id": "aAgtgAAAAACBQx/8qT+Knn/Ij6JrBgFp",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarah's Place (feat. Noah Kahan)",
-        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+        "name": "Dear Miss",
+        "url": "https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 214056,
-      "name": "Sarah's Place (feat. Noah Kahan)",
-      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+      "duration_ms": 189729,
+      "name": "Dear Miss",
+      "url": "https://open.spotify.com/track/17epPYISlrms9BG2REiwi8"
     },
     {
       "added_at": null,
@@ -263,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Miss",
-        "url": "https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB"
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 189729,
-      "name": "Dear Miss",
-      "url": "https://open.spotify.com/track/17epPYISlrms9BG2REiwi8"
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
       "added_at": null,

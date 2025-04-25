@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: Sophie Straat",
+  "description": "indie & indiepop in het Nederlands. Cover: MEROL & Elmer",
   "name": "indie.nl",
   "tracks": [
+    {
+      "album": {
+        "name": "23.45",
+        "url": "https://open.spotify.com/album/4b0W64Ivrfy3aJgztXW1E9"
+      },
+      "artists": [
+        {
+          "name": "puntjudith",
+          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197360,
+      "name": "23.45",
+      "url": "https://open.spotify.com/track/19y3TK5V9b7MZEe5qTKCY1"
+    },
     {
       "album": {
         "name": "30 plusser in de discotheek",
@@ -514,7 +532,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 156112,
       "name": "David Bowie/Beckham",
       "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
@@ -1048,6 +1066,28 @@
       "duration_ms": 184576,
       "name": "haat",
       "url": "https://open.spotify.com/track/0Nkdy8Lb6KBPcxeIGHRMYs"
+    },
+    {
+      "album": {
+        "name": "Hart In Brand",
+        "url": "https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Hart In Brand",
+      "url": "https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx"
     },
     {
       "album": {
@@ -2083,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Nacht Apotheker",
+        "url": "https://open.spotify.com/album/2VoxUYuf8QQ9a8QZVGjtd0"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175890,
+      "name": "Nacht Apotheker",
+      "url": "https://open.spotify.com/track/2kxmQtPX7XccmrRsnXBTTd"
+    },
+    {
+      "album": {
         "name": "Nachtblind",
         "url": "https://open.spotify.com/album/0kt0qZG6FOggm8MN9Zbc40"
       },
@@ -2332,7 +2390,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 206590,
       "name": "platland",
       "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
@@ -2362,6 +2420,28 @@
       "duration_ms": 191453,
       "name": "PRADA STELEN",
       "url": "https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG"
+    },
+    {
+      "album": {
+        "name": "Prinses Pil",
+        "url": "https://open.spotify.com/album/2R5Dy2a0uemGmppzhYGfgS"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        },
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163197,
+      "name": "Prinses Pil",
+      "url": "https://open.spotify.com/track/1WrwcIHLBhnXY459ybsY6p"
     },
     {
       "album": {
@@ -2412,7 +2492,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 155586,
       "name": "Rotonde",
       "url": "https://open.spotify.com/track/03jAxbMjwKuxlsgYaqT1Bt"
@@ -3142,7 +3222,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 211186,
       "name": "Wildernis",
       "url": "https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ"

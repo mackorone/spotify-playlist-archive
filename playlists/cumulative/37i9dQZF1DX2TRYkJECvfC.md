@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-592 songs - 2 day 1 hr 8 min
+593 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2021-12-08 | 2022-02-22 |
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-02-17 | 2025-01-11 |
 | [My Lullaby for You](https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Bara Nova](https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf) | [Cyberpunk 2077: Radio, Vol\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX) | 5:34 | 2021-12-08 | 2022-02-22 |
-| [Nations](https://open.spotify.com/track/2kXI85SNOUCRgF1jhivhWg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Kasiope Pt\. 2](https://open.spotify.com/album/3bXLzJmYkiXcNDtTgA7j87) | 8:43 | 2024-04-12 |  |
+| [Nations](https://open.spotify.com/track/2kXI85SNOUCRgF1jhivhWg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Kasiope Pt\. 2](https://open.spotify.com/album/3bXLzJmYkiXcNDtTgA7j87) | 8:43 | 2024-04-12 | 2025-04-25 |
 | [Natural Consequence](https://open.spotify.com/track/6aAIl1SKNgDGcZXlh841N6) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV) | [Catching A Whisper](https://open.spotify.com/album/0MCLZBM9I2Fx81ddskf4Zz) | 4:27 | 2021-12-08 | 2022-07-28 |
 | [Need Some Space](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need Some Space](https://open.spotify.com/album/5QPa9SE7V6Hhuaho9UKOKc) | 2:22 | 2024-09-20 |  |
 | [Never \(Colyn Remix\)](https://open.spotify.com/track/701hEuWyG1EZepbD5Qiu3r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Four \(Remixes Deluxe\)](https://open.spotify.com/album/2fgej64OiBlYJdX6wMc7eb) | 3:37 | 2023-10-28 | 2024-04-13 |
@@ -424,6 +424,7 @@
 | [Reminds Me Of Her](https://open.spotify.com/track/51m6hGfXZwpx9YBbcryUpD) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Reminds Me Of Her](https://open.spotify.com/album/3cpziZcx5ENSn60NopxwT0) | 6:25 | 2021-12-08 | 2023-07-02 |
 | [Renaissance](https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Renaissance](https://open.spotify.com/album/7wENbWzIAZEOmj2a7m4mlZ) | 7:39 | 2021-12-08 |  |
 | [Renaissance \- Manuel Riva Remix](https://open.spotify.com/track/6kiVi4iXhooHmaty1G5vV5) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Renaissance \(Manuel Riva Remix\)](https://open.spotify.com/album/0InymYk58sowWFJCdLDk1Q) | 3:46 | 2021-12-08 | 2023-01-06 |
+| [Rest Round Here](https://open.spotify.com/track/2VyMyhZrDDh5e5N9kIX87N) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Rest Round Here](https://open.spotify.com/album/0kvwck16ZQJvB9WOWdcZD4) | 3:55 | 2025-04-11 |  |
 | [Resurface](https://open.spotify.com/track/4ztZ2DZsuwUbaeQdvpY78Z) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Resurface](https://open.spotify.com/album/3M73zMomIlYvJfsqoIPmOl) | 7:33 | 2021-12-08 | 2022-02-22 |
 | [Rewind](https://open.spotify.com/track/3KOdeL8kLUYBpM10XMZ2iy) | [Lorenzo De Blanck](https://open.spotify.com/artist/3Px9ffXH2SBEcJWr5fSojM) | [Rewind](https://open.spotify.com/album/387eFJ2wv7ctzaNg645oET) | 6:35 | 2021-12-08 | 2022-07-29 |
 | [Ride](https://open.spotify.com/track/00aNyosmX1zpR0TjJV0Dte) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Drown](https://open.spotify.com/album/4Y7YibFvq0L8ZJTgwgg0dH) | 7:15 | 2022-05-03 | 2023-01-06 |

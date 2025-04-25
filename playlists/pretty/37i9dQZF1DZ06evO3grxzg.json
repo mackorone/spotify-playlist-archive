@@ -1,33 +1,13 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233939,
+  "num_followers": 233954,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAAC8NDrPO4lcitVSgNDp0wQC",
+  "snapshot_id": "aAgtgAAAAAC0ifW3S2C63FJ5fBH5lfXa",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Es Para Siempre",
-        "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 195060,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 183693,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/0cS0bJ0oBylj3TFtz6x9pC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Es Para Siempre",
+        "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 195060,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "T.A.C.O.",
-      "url": "https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
         "url": "https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 244800,
       "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
       "url": "https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "T.A.C.O.",
+      "url": "https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Un Beso",
-        "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "A Un Beso",
-      "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atrevete A So\u00f1ar",
         "url": "https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 230440,
       "name": "Mundo De Caramelo",
       "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Un Beso",
+        "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "A Un Beso",
+      "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
     },
     {
       "added_at": null,

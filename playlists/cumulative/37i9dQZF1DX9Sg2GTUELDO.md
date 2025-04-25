@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 陳明憙 Jocelyn Chan
+> 感受女聲力量。Cover: Jocelyn 陳明憙
 
-482 songs - 1 day 4 hr 43 min
+483 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [呼吸有害](https://open.spotify.com/track/4t53NE3uBLkTwW9rUgiHC8) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [呼吸有害](https://open.spotify.com/album/3He2V83TzOwwyrdCJTeJeR) | 3:12 | 2024-06-27 |  |
 | [咖啡 鴛鴦 奶茶](https://open.spotify.com/track/7aqI5ATOG8piRo9KUcg1cS) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [咖啡 鴛鴦 奶茶](https://open.spotify.com/album/0vPYjgjYouCbseFYCOLg6S) | 3:47 | 2024-10-24 |  |
 | [咩事](https://open.spotify.com/track/2Q9QnlFaOAoY7PzjIObMVx) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [咩事](https://open.spotify.com/album/19a5KI8996iapH0hAAU6ug) | 3:12 | 2024-10-31 |  |
+| [哀傷和愛上算不算同音字](https://open.spotify.com/track/4kIuEUKjGdEcNXf7RxsByr) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [哀傷和愛上算不算同音字](https://open.spotify.com/album/5XPEwc5dNQNnmJUHxBFYgv) | 3:22 | 2025-04-24 |  |
 | [哀傷的作者](https://open.spotify.com/track/70kyyZ3E9L2s6v7VRm2SKw) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [4891](https://open.spotify.com/album/4AUjutEcpzppUrcGgPWogs) | 3:31 | 2024-06-27 |  |
 | [哭泣健康指南](https://open.spotify.com/track/28uHoC2GJULmTcFTnkJFb9) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [哭泣健康指南](https://open.spotify.com/album/6694y89ReLyXxCWhonU9O8) | 4:06 | 2024-06-27 |  |
 | [唱到痛的情歌](https://open.spotify.com/track/0q7RTQxeqcR3ADu5r9KY3t) | [Jade Kwan](https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4) | [唱到痛的情歌](https://open.spotify.com/album/7aqhLgMWp7Hdj8hDYT8gKX) | 4:46 | 2024-06-27 |  |

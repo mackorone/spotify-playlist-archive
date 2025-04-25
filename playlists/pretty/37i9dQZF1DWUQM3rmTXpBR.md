@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Jadal
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,255 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,283 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 3 | [thank you, goodnight](https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:22 |
 | 4 | [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 |
 | 5 | [Wedyan](https://open.spotify.com/track/2ZMnK8KvLqOhEBpTbO8Cps) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Wedyan](https://open.spotify.com/album/01g17OR42wlw32RNUyfdpz) | 3:25 |
-| 6 | [Ya Zarif](https://open.spotify.com/track/5lBPn6PmXqe52OXIaXxnjS) | [Sleiman Damien](https://open.spotify.com/artist/3jJQ6M3FJdbJxY6DopJ73W), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Ya Zarif](https://open.spotify.com/album/1oOf332OXrB1PoRMVco0zV) | 1:59 |
+| 6 | [Ya Zarif](https://open.spotify.com/track/5lBPn6PmXqe52OXIaXxnjS) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg), [Sleiman Damien](https://open.spotify.com/artist/3jJQ6M3FJdbJxY6DopJ73W) | [Ya Zarif](https://open.spotify.com/album/1oOf332OXrB1PoRMVco0zV) | 1:59 |
 | 7 | [Malek Ya Denia](https://open.spotify.com/track/4zZAu2TTFlUhxL7TpHx0J5) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Malek Ya Denia](https://open.spotify.com/album/5VDBuXrHcccQCA2ykvm8Sa) | 3:18 |
 | 8 | [Lw Bs](https://open.spotify.com/track/04vLfXyzK8LKCYlx0GRLen) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lw Bs](https://open.spotify.com/album/7nxUA2AWsiBIIP8dnvKn4i) | 3:24 |
 | 9 | [Nerga3 Le Awel Yom](https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Red Bull Sika](https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66) | 3:00 |

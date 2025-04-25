@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-445 songs - 1 day 7 hr 55 min
+446 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Symbol IV : Earth](https://open.spotify.com/track/6kbss4tmwNu4bYrAfpR51J) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Symbol IV : Earth](https://open.spotify.com/album/5nw2QyglfMgxWyVD6AS2aw) | 3:59 | 2024-07-09 | 2025-02-05 |
 | [Takin' my Heart](https://open.spotify.com/track/47tG1WSeUrz0aEKFoTbxc6) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Invincible Fighter](https://open.spotify.com/album/2etZzaMSi3pY0SISeNziWA) | 4:46 | 2022-06-23 | 2022-06-26 |
 | [TARINAI](https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TARINAI/トレモロアイズ](https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I) | 3:39 | 2024-07-16 | 2025-03-21 |
+| [TARINAI](https://open.spotify.com/track/07qmAUS6Vt9HhaQeGLvLAP) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 3:39 | 2025-04-03 |  |
 | [Tear Drops](https://open.spotify.com/track/7aPl1DIA0XeMu9yqXNUOH8) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL) | 3:38 | 2022-06-23 | 2022-10-02 |
 | [That is How I Roll!](https://open.spotify.com/track/2rUfkE2dKqc3x4Rk0B25nO) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 3:59 | 2022-06-23 | 2022-06-30 |
 | [That Is How I Roll!](https://open.spotify.com/track/2Kuv5okNDlV19y81tkiqdp) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [That Is How I Roll!](https://open.spotify.com/album/1S6QsRtMbeb3p5JFO7zhKc) | 3:59 | 2022-05-17 | 2022-06-25 |
@@ -443,7 +444,7 @@
 | [閃光](https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 3:38 | 2022-09-20 | 2023-09-11 |
 | [開けたらDream!](https://open.spotify.com/track/44JqljlFHyeWreCloOEEAT) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Photograph](https://open.spotify.com/album/4N721OcjQQhZtB9wtzhxGY) | 5:09 | 2022-05-17 | 2022-07-29 |
 | [陽だまりロードナイト](https://open.spotify.com/track/2262UaXBRWNfxRhUL7qiOY) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Re:birth day](https://open.spotify.com/album/41Nxeik18dByDZe9jOBkBs) | 4:49 | 2022-05-17 | 2022-07-04 |
-| [雨上がり、キミと](https://open.spotify.com/track/1MIHgXHAeXc7jgrMh1xabo) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:25 | 2025-02-25 |  |
+| [雨上がり、キミと](https://open.spotify.com/track/1MIHgXHAeXc7jgrMh1xabo) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:25 | 2025-02-25 | 2025-04-25 |
 | [雨上がりの夢](https://open.spotify.com/track/0qwLal0qRdLuLlCpbCJabF) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR) | 2:55 | 2022-05-17 |  |
 | [雨上がりの夢](https://open.spotify.com/track/2d14KGRep1k9dPlTSM2kn8) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/6QLlnhussxhVSmUBvyKbBh) | 2:55 | 2022-06-23 | 2022-10-02 |
 | [雨上がりの夢](https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 2:55 | 2022-09-20 | 2024-04-19 |

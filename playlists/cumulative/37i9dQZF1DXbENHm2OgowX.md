@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-152 songs - 13 hr 18 min
+153 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,13 +95,14 @@
 | [My Blood Still Whispers](https://open.spotify.com/track/2z5V3tZIVIybDqlGa8uHVe) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Coma Waering](https://open.spotify.com/album/2HFgZ2MeCZKxPFrBGY2ulz) | 4:27 | 2022-02-11 | 2022-03-18 |
 | [My Body Betrayed Me](https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 5:02 | 2022-02-11 | 2023-01-10 |
 | [New Dawn Fades \- 2007 Remaster](https://open.spotify.com/track/5EabbLQZbdhCqG6aK9PFLU) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 4:51 | 2022-02-11 | 2023-01-10 |
+| [Night Sculpture \- Deconstructed](https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Bolted \(Deconstructed\)](https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG) | 1:31 | 2025-04-24 |  |
 | [No One Is Ever Going to Want Me](https://open.spotify.com/track/4McullpiOd45TwEHlOISgs) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 8:06 | 2022-02-11 |  |
 | [Nocturnes & Meditations](https://open.spotify.com/track/0HZtIDdqIP8up1Zg3kG1Ou) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Nocturnes & Meditations](https://open.spotify.com/album/5NfQwn3QkXyixhFmAliqWj) | 5:46 | 2022-09-12 | 2022-11-10 |
 | [Part](https://open.spotify.com/track/03cSAXCu8hzINJuF6D0YBA) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:57 | 2022-11-09 | 2024-09-07 |
 | [Perpetual Care](https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e) | [Vile Karimi](https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL) | [Womb Trails](https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG) | 3:20 | 2023-01-09 |  |
 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 | 2022-07-08 | 2024-04-19 |
 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 | 2022-03-18 | 2022-07-29 |
-| [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 | 2022-11-09 |  |
+| [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 | 2022-11-09 | 2025-04-25 |
 | [Providence](https://open.spotify.com/track/35MghvJDcBxKqb1VHL6ePy) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 29:02 | 2022-02-11 | 2023-01-10 |
 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 | 2022-02-11 | 2023-01-10 |
 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 | 2025-03-14 |  |

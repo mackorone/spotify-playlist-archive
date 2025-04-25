@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-531 songs - 1 day 6 hr 26 min
+533 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [Plage](https://open.spotify.com/track/6jPNXRnTy37ADxbihf56rM) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:50 | 2023-02-23 | 2024-04-19 |
 | [Plan B](https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Plan B](https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd) | 3:05 | 2023-02-23 |  |
 | [Playlist](https://open.spotify.com/track/4MfcEgAhzIzkNfBuacn6zT) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:19 | 2024-03-21 | 2024-04-19 |
-| [Pool Party Pictures](https://open.spotify.com/track/4yQR6QjTtypwjNld6WW9Jn) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Pool Party Pictures](https://open.spotify.com/album/4pQwS0wLN2lnEecuFQg6mk) | 3:06 | 2024-11-08 |  |
+| [Pool Party Pictures](https://open.spotify.com/track/4yQR6QjTtypwjNld6WW9Jn) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Pool Party Pictures](https://open.spotify.com/album/4pQwS0wLN2lnEecuFQg6mk) | 3:06 | 2024-11-08 | 2025-04-25 |
 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 | 2024-05-31 | 2024-12-21 |
 | [Put A Little Hurt On Me](https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Deluxe\)](https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM) | 2:47 | 2025-01-09 |  |
 | [Queen of Elba](https://open.spotify.com/track/1e402nE03yvaw6YFruqc25) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ) | 3:56 | 2023-04-25 | 2024-02-27 |
@@ -371,6 +371,7 @@
 | [Run Till Dark \(with Now United\) \(Acoustic\)](https://open.spotify.com/track/72cVxEf5RtQ9lXS9Cbqlkq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Run Till Dark \(with Now United\) \(Acoustic\)](https://open.spotify.com/album/2bY6IW9LnylPDRRMMfsLIN) | 2:33 | 2023-05-18 | 2023-11-02 |
 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 | 2024-03-26 |  |
 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2023-02-23 | 2023-04-07 |
+| [Say Goodbye](https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Say Goodbye](https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV) | 3:04 | 2025-04-24 |  |
 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 | 2023-02-23 |  |
 | [Seatbelts](https://open.spotify.com/track/5LpNNr02dABUYZ6ofq0xkY) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Seatbelts](https://open.spotify.com/album/7dx3bn5pvZnNwVA1Gptpll) | 3:47 | 2023-02-23 |  |
 | [Second Hand Lover](https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Horizon](https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC) | 3:34 | 2023-02-23 |  |
@@ -506,13 +507,14 @@
 | [Waves](https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D) | 2:54 | 2023-02-23 | 2023-04-26 |
 | [We're All Going Home](https://open.spotify.com/track/5cXq69EbEhTaWE7lUTOwsK) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [We're All Going Home](https://open.spotify.com/album/5zZjrDAnqhbeslF6OCGqE7) | 3:04 | 2023-02-23 |  |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2024-03-19 |  |
+| [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 | 2025-04-24 |  |
 | [weed & videogames](https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [weed & videogames](https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr) | 3:03 | 2024-04-04 |  |
 | [What A Day](https://open.spotify.com/track/2w9aX8tFMSkkGxgdKg31zx) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/17ScPzQxVtLXiCr1T1POvU) | 3:46 | 2023-08-17 | 2024-03-22 |
 | [What A Day](https://open.spotify.com/track/3GHsGDZ0wyEZyGEIK6PcgT) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/3zQ9BOb67wGJtXjjZWGXmn) | 3:46 | 2023-02-23 | 2023-08-18 |
 | [What I Got](https://open.spotify.com/track/78nJ82Er1YBR1GfOwa11Mt) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [What I Got](https://open.spotify.com/album/4gsWBDBphJW4eJcFfQYjZd) | 3:08 | 2023-02-23 | 2023-04-26 |
 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 | 2024-03-21 |  |
 | [When Summer Ends](https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk) | [Makelove](https://open.spotify.com/artist/2BkUVGLsgklRhOsWt4VRKY) | [When Summer Ends](https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk) | 3:31 | 2023-02-23 |  |
-| [When We First Met](https://open.spotify.com/track/5Ck86xT1yXsPRi1vRUTECa) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [When We First Met](https://open.spotify.com/album/31CRztMM1ptaxOPfcqDohf) | 3:15 | 2023-04-25 |  |
+| [When We First Met](https://open.spotify.com/track/5Ck86xT1yXsPRi1vRUTECa) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [When We First Met](https://open.spotify.com/album/31CRztMM1ptaxOPfcqDohf) | 3:15 | 2023-04-25 | 2025-04-25 |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2023-02-23 | 2023-07-15 |
 | [When You're Gone](https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:24 | 2023-04-06 | 2023-04-26 |
 | [Whenever](https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Whenever](https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr) | 2:35 | 2024-03-13 |  |

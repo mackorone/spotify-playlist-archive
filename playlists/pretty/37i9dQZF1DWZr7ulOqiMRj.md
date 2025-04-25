@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla</a>'s favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,717 likes - 56 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,743 likes - 56 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yeah](https://open.spotify.com/track/025TJ5zbSn3OI7I3UGQuOJ) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [1010 / Yeah](https://open.spotify.com/album/3wtI4VJKKcnMA4urwS53WR) | 5:21 |
-| 2 | [Garden \- Calibre Remix](https://open.spotify.com/track/6HRa9FtX8ifjQmA3XFBXan) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Garden \(Calibre Remix\)](https://open.spotify.com/album/6xPaNRGXlr2L0brkk8ab8N) | 5:58 |
+| 2 | [Garden \- Calibre Remix](https://open.spotify.com/track/6HRa9FtX8ifjQmA3XFBXan) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Garden \(Calibre Remix\)](https://open.spotify.com/album/6xPaNRGXlr2L0brkk8ab8N) | 5:58 |
 | 3 | [Jalek](https://open.spotify.com/track/1KmTNL1mjpRs348Togepgg) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Contemplation \- EP](https://open.spotify.com/album/2YLS6o909jNqBo9DbYrrl9) | 5:53 |
 | 4 | [CAVE \- Partiboi69 & X CLUB\. Remix](https://open.spotify.com/track/3G8v8bUaefnLn5BRWSSb1i) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [CAVE \(Partiboi69 & X CLUB\. Remix\)](https://open.spotify.com/album/4o1KIagUFPxvmvsObnRLvT) | 3:11 |
 | 5 | [Toys](https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Toys](https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN) | 4:20 |

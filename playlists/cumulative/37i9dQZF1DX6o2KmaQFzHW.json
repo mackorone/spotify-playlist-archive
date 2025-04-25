@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Cl\u00e1sicos de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino",
+  "description": "Lo mejor del folclore nacional \ud83d\udcf8  Sele Vera",
   "name": "FOLCLORE ARGENTINO",
   "tracks": [
     {
@@ -558,6 +558,28 @@
       "duration_ms": 255680,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
+    },
+    {
+      "album": {
+        "name": "BELLASOMBRA (En Vivo Estadio Delmi)",
+        "url": "https://open.spotify.com/album/2Sp7pUDKBJM03ynpwmnaDl"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287500,
+      "name": "BELLASOMBRA - En Vivo Estadio Delmi",
+      "url": "https://open.spotify.com/track/1343dT0E8DwR7aOJSxl9hU"
     },
     {
       "album": {
@@ -2056,7 +2078,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 127330,
       "name": "Hasta un nuevo amanecer",
       "url": "https://open.spotify.com/track/7xsX0z0DVr2XA8tS9ZHj5q"
@@ -3251,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "Latinaje",
+        "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170553,
+      "name": "Me Toc\u00f3 Perder",
+      "url": "https://open.spotify.com/track/0PVDEaIjTCC7NDeLfnxQi4"
+    },
+    {
+      "album": {
         "name": "Mi Chica de Pueblo",
         "url": "https://open.spotify.com/album/4U34xyInaGSd9nI7JI76PN"
       },
@@ -3270,7 +3310,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 154034,
       "name": "Mi Chica de Pueblo",
       "url": "https://open.spotify.com/track/3A0tMwY1oES0QvmdgUIIbk"
@@ -3332,6 +3372,24 @@
       "duration_ms": 254960,
       "name": "Milonga Del Solitario",
       "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
+    },
+    {
+      "album": {
+        "name": "No saber de ti",
+        "url": "https://open.spotify.com/album/4oa60ZayATHVLj8cCJxbik"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286270,
+      "name": "No saber de ti",
+      "url": "https://open.spotify.com/track/2b0UgHgZIz8rDEZLI1P7ob"
     },
     {
       "album": {
@@ -3940,7 +3998,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 194023,
       "name": "Soledad de Espinelero - Edici\u00f3n 2025",
       "url": "https://open.spotify.com/track/2c1jDkMqkgj4F6aWXA8oh9"

@@ -1,15 +1,15 @@
 {
   "description": " \u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u063a\u0644\u0627\u0641: \u0641\u0647\u062f \u0627\u0644\u0639\u0645\u0631\u064a",
-  "num_followers": 39615,
+  "num_followers": 39626,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAjVEAAAAAD5YY8KH7CzwQZ/qCck/EPz",
+  "snapshot_id": "aAoNMQAAAABXn3cgsHG8Cq7iGFiX+IeR",
   "tracks": [
     {
-      "added_at": "2025-04-17 04:46:50",
+      "added_at": "2025-04-24 10:06:41",
       "album": {
         "name": "\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0645\u0631\u0634\u062f \u0662\u0660\u0662\u0665",
         "url": "https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1"
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
         }
       ],
-      "duration_ms": 173924,
-      "name": "\u0627\u0646\u0627 \u0645\u0645\u062a\u0646",
-      "url": "https://open.spotify.com/track/4zBo8hbgHlS4P4LQNowTsJ"
+      "duration_ms": 239061,
+      "name": "\u0631\u0627\u062d\u062a \u0623\u064a\u0627\u0645\u0647",
+      "url": "https://open.spotify.com/track/0F7zIQlo4DFp0VGI4E2ObA"
     },
     {
       "added_at": "2025-04-23 11:54:56",
@@ -135,6 +135,22 @@
       "duration_ms": 172000,
       "name": "La Habibi",
       "url": "https://open.spotify.com/track/59oMFuaoYUGYm6Vq9zQclY"
+    },
+    {
+      "added_at": "2025-04-17 04:46:50",
+      "album": {
+        "name": "\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0645\u0631\u0634\u062f \u0662\u0660\u0662\u0665",
+        "url": "https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "duration_ms": 173924,
+      "name": "\u0627\u0646\u0627 \u0645\u0645\u062a\u0646",
+      "url": "https://open.spotify.com/track/4zBo8hbgHlS4P4LQNowTsJ"
     },
     {
       "added_at": "2025-04-23 11:54:56",
@@ -795,22 +811,6 @@
       "duration_ms": 364205,
       "name": "Estihala",
       "url": "https://open.spotify.com/track/2n1P5qkG1rbOLWbPi3ZlmG"
-    },
-    {
-      "added_at": "2025-04-10 19:44:16",
-      "album": {
-        "name": "Akhaf Admank",
-        "url": "https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH"
-      },
-      "artists": [
-        {
-          "name": "Shamma Hamdan",
-          "url": "https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2"
-        }
-      ],
-      "duration_ms": 212473,
-      "name": "Akhaf Admank",
-      "url": "https://open.spotify.com/track/79VV7tQBOrBBmZRhtuCeSn"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

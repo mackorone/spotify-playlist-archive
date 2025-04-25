@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Cachirula &  LOOJAN en portada. ",
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Los Dareyes de la Sierra & Neton Vega en portada. ",
   "name": "\u00c9xitos M\u00e9xico",
   "tracks": [
     {
@@ -287,7 +287,7 @@
     },
     {
       "album": {
-        "name": "7 Dias",
+        "name": "7 DIAS",
         "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
       "artists": [
@@ -304,7 +304,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180688,
-      "name": "7 Dias",
+      "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
     },
     {
@@ -1984,6 +1984,28 @@
       "duration_ms": 163057,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
+    },
+    {
+      "album": {
+        "name": "Boneless",
+        "url": "https://open.spotify.com/album/3nPgilvMmwz5AjXZ8XBj4B"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173618,
+      "name": "Boneless",
+      "url": "https://open.spotify.com/track/1RYO67KLXoKM5hTpMevbaN"
     },
     {
       "album": {
@@ -4788,7 +4810,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 178666,
       "name": "El Karma - Live",
       "url": "https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv"
@@ -4996,7 +5018,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 285226,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/0u7u1vVxQHagcqOK1lANhL"
@@ -9741,6 +9763,28 @@
     },
     {
       "album": {
+        "name": "Mundo De Mentiras",
+        "url": "https://open.spotify.com/album/1WibFwPtIWbthLfdVRTZfY"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204578,
+      "name": "Mundo De Mentiras",
+      "url": "https://open.spotify.com/track/5IXRUPpju9wyT3XJFDohiv"
+    },
+    {
+      "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -10988,7 +11032,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 247637,
       "name": "Panas",
       "url": "https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8"
@@ -11271,7 +11315,7 @@
     },
     {
       "album": {
-        "name": "Perdido",
+        "name": "PERDIDO",
         "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
       },
       "artists": [
@@ -11284,7 +11328,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156470,
-      "name": "Perdido",
+      "name": "PERDIDO",
       "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
     },
     {
@@ -14315,6 +14359,24 @@
     },
     {
       "album": {
+        "name": "80'z",
+        "url": "https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103520,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"
+    },
+    {
+      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -16421,6 +16483,32 @@
     },
     {
       "album": {
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194805,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
+    },
+    {
+      "album": {
         "name": "Ya No Estoy Dolido",
         "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
       },
@@ -16880,7 +16968,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 216050,
       "name": "\u00c9l No Es Tuyo",
       "url": "https://open.spotify.com/track/1Ob7BoZlmwL5itaJAScc1I"

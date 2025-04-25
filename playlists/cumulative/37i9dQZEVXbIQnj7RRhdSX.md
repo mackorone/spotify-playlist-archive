@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-2,408 songs - 5 day 3 hr 12 min
+2,409 songs - 5 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-03-12 | 2022-10-26 |
 | [AUTODISTRUTTIVO](https://open.spotify.com/track/2Cl4rHXsRDsbyi97X6tdZL) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [ODIO LA SAD](https://open.spotify.com/album/2bKT4j63K9goJmoMac8ltg) | 3:08 | 2024-04-07 | 2024-04-10 |
 | [AUTODISTRUTTIVO](https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [AUTODISTRUTTIVO](https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q) | 3:09 | 2024-02-08 | 2024-04-02 |
+| [Autostima](https://open.spotify.com/track/3yNaZIeDu08fNHm4EOdjDQ) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Autostima](https://open.spotify.com/album/1hMyx7jjaESnoYbWwsYAXO) | 2:50 | 2025-04-24 |  |
 | [AUTOSTOP](https://open.spotify.com/track/4HvJWN6BCKb9oWQk1eRRsv) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:09 | 2022-11-05 | 2022-11-11 |
 | [AUTOSTOP](https://open.spotify.com/track/5VHCKZj4U8B2uxgV1ep0pI) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [AUTOSTOP](https://open.spotify.com/album/08axqrdrj5kYIBJt3nLQ3Y) | 3:09 | 2022-10-29 | 2022-11-06 |
 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 | 2023-03-25 | 2023-04-16 |
@@ -1205,7 +1206,7 @@
 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 | 2024-12-14 |  |
 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 | 2022-06-18 | 2022-09-18 |
 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 | 2022-07-02 | 2023-02-10 |
-| [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 | 2025-02-13 |  |
+| [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 | 2025-02-13 | 2025-04-25 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-18 | 2023-02-11 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-10 | 2024-12-28 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-12-10 | 2023-12-30 |

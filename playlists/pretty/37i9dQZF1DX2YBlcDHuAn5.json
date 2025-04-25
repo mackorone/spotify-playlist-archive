@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 32553,
+  "num_followers": 32550,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-04-17 22:00:09",
       "album": {
-        "name": "How Did We Get To Goodbye",
-        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 279138,
-      "name": "How Did We Get To Goodbye",
-      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
-    },
-    {
-      "added_at": "2025-04-17 22:00:09",
-      "album": {
         "name": "Acoustic.Blues.Club",
         "url": "https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 391654,
       "name": "Out On Gin",
       "url": "https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE"
+    },
+    {
+      "added_at": "2025-04-17 22:00:09",
+      "album": {
+        "name": "How Did We Get To Goodbye",
+        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 279138,
+      "name": "How Did We Get To Goodbye",
+      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
     },
     {
       "added_at": "2025-04-17 22:00:09",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-04-17 22:00:09",
       "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
-    },
-    {
-      "added_at": "2025-04-17 22:00:09",
-      "album": {
         "name": "Chase My Heart Away (Hero)",
         "url": "https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 209963,
       "name": "Chase My Heart Away (Hero)",
       "url": "https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP"
+    },
+    {
+      "added_at": "2025-04-17 22:00:09",
+      "album": {
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     },
     {
       "added_at": "2025-04-17 22:00:09",

@@ -4,7 +4,7 @@
 
 > 
 
-950 songs - 1 day 22 hr 47 min
+951 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -772,6 +772,7 @@
 | [SoHo Freestyle](https://open.spotify.com/track/4fs8ivWpMFLziD20LglPmZ) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Two Piece Tour Pack](https://open.spotify.com/album/7ACNmhUl7NLo0Gn4WPaE4A) | 3:34 | 2024-05-01 | 2024-11-06 |
 | [Solitaires \(feat\. Travis Scott\)](https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:25 | 2024-12-30 |  |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2022-09-20 | 2023-05-09 |
+| [Sorry 4 The Wait](https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 2:36 | 2025-04-24 |  |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-10-08 | 2024-11-06 |
 | [Sorry Not Sorry](https://open.spotify.com/track/2MXjCVgXp2EQKONatP3wGK) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 3:36 | 2025-02-26 |  |
 | [SOS](https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR) | 3:21 | 2024-04-27 | 2024-11-06 |

@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan gems in one playlist\. Cover: Daddy Andre
+> Homegrown Ugandan gems in one playlist\. Cover: Senté
 
-406 songs - 20 hr 52 min
+411 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Dont\-Stopp](https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9) | 2:54 | 2023-08-25 | 2023-10-13 |
 | [Dorah](https://open.spotify.com/track/4mta6obIQ4j7hkyVFscBwn) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Care Fahim](https://open.spotify.com/artist/2SMKkx0HYuo4xf3YiX08k5) | [Dorah](https://open.spotify.com/album/5LWMDoSQwKTasHfxYwT5D5) | 3:29 | 2022-09-09 | 2022-12-02 |
 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 | 2023-11-17 | 2024-08-09 |
+| [Dundoo](https://open.spotify.com/track/6nw6RlpoasKa550s5iY1z8) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Dundoo](https://open.spotify.com/album/4yp5bpj3XWi2rLaDZgubFH) | 2:54 | 2025-04-24 |  |
 | [Egaali](https://open.spotify.com/track/2izhiX09OPZG4xsvd7pkt1) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:46 | 2024-03-15 | 2024-04-06 |
 | [Ehe! Mbembe](https://open.spotify.com/track/3IMrIcwacZsvOmDhwNU8hJ) | [Okkama](https://open.spotify.com/artist/4iY1eCPJKRNBIv1TT3tp5y), [cute](https://open.spotify.com/artist/2TqIBtTZo5VpFewD2Xpq5M) | [Ehe! Mbembe](https://open.spotify.com/album/7puvfo9WzukZ5v6gYQ4Lvm) | 3:19 | 2024-12-13 |  |
 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 | 2023-07-13 | 2024-05-04 |
@@ -141,6 +142,7 @@
 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 | 2023-01-12 | 2023-02-11 |
 | [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 | 2023-01-12 | 2023-06-12 |
 | [Geza Bugeza](https://open.spotify.com/track/5fZzENyrqSsaxlUdMEjYpH) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Chronicles Of A Woman](https://open.spotify.com/album/3aZbRfKKvhnPtuYgaEdxSD) | 2:20 | 2023-01-12 | 2023-01-21 |
+| [GHOST TOWN ROAD](https://open.spotify.com/track/3ZKjSQSC5EYcqebSM44Nwy) | [Bowman Aremwaki](https://open.spotify.com/artist/2YoIFtQ3oep6z6p5z7j1Dh) | [GHOST TOWN ROAD](https://open.spotify.com/album/0QRgoCNVjFYzK4ZBhBbdYA) | 4:08 | 2025-04-24 |  |
 | [Gimme](https://open.spotify.com/track/0nEAcURklA0PX2hqmzyDlf) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:13 | 2024-03-15 | 2024-04-06 |
 | [Glory To The King](https://open.spotify.com/track/5hjIkgoGSlKlip1L0t3FyL) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Glory To The King](https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2) | 2:30 | 2023-03-03 | 2023-04-05 |
 | [Goodbye](https://open.spotify.com/track/77ecdnlCJILdoNzRUZiH5T) | [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Goodbye](https://open.spotify.com/album/6QOMmikqhoWYgeo3nxT2XD) | 3:24 | 2024-07-18 | 2024-12-06 |
@@ -153,6 +155,7 @@
 | [Hooked \- Radio Edit](https://open.spotify.com/track/7DMW3nH4tB10ybyaOa45in) | [Kyle Simbwa](https://open.spotify.com/artist/4sOo09fZMkwujtUh9PU4Nn) | [Hooked \(Radio Edit\)](https://open.spotify.com/album/2r1lCVrMGtBvXz43uYYSJC) | 2:32 | 2024-10-03 | 2025-03-07 |
 | [HURTS LIKE HEAVEN](https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 4:09 | 2024-10-03 |  |
 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 | 2022-07-22 | 2023-11-02 |
+| [I don't go](https://open.spotify.com/track/6L2LGrJdDx8DHMtyijhfAk) | [Jenva](https://open.spotify.com/artist/4uF42Z3U3gdQIwrDzZPvT3), [Tee J](https://open.spotify.com/artist/2KC4q2DkXcvCtx4jMEuck8) | [I don't go](https://open.spotify.com/album/4gBXgywu0ZaXTuZHKLzHBi) | 2:35 | 2025-04-24 |  |
 | [I Need Your Love](https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [I Need Your Love](https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb) | 2:49 | 2022-05-27 | 2022-11-22 |
 | [It's OK](https://open.spotify.com/track/6SBSTfARlJBhsRfM2PyZv9) | [Uthman Music](https://open.spotify.com/artist/7buCEVAcbogrYQk2ygdJtz) | [It's OK](https://open.spotify.com/album/4PWYKui3UPV0qKRErAh8qX) | 1:09 | 2022-05-12 | 2022-10-08 |
 | [Jangu](https://open.spotify.com/track/6SH9CY4Y1hz0speevfiyf8) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Jangu](https://open.spotify.com/album/2qhg9LLpnmxyzu0FVnsXSJ) | 3:07 | 2024-03-15 | 2024-04-06 |
@@ -365,6 +368,7 @@
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 | 2023-03-20 |
 | [TEACH ME](https://open.spotify.com/track/14Tcb1m5MQL8Glsm76pDmF) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [TEACH ME](https://open.spotify.com/album/3zipPMhfcRzyGaLLC4jQzf) | 3:05 | 2024-11-22 |  |
 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 | 2023-01-13 |
+| [Temptation](https://open.spotify.com/track/6ALJy5vDLQtgR4rq6OtKt2) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym) | [Temptation](https://open.spotify.com/album/39wpH4KJw7aTQX0WHilIJD) | 3:36 | 2025-04-24 |  |
 | [Ten Over 10](https://open.spotify.com/track/3WUrKiGFCB64hHJFGPa7bt) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Ten Over 10 \(Producer Edition\)](https://open.spotify.com/album/5qe99ztflopyhcStRxZHkE) | 3:22 | 2023-04-21 | 2024-04-08 |
 | [Tewekweka \| An Xpressions UG Session](https://open.spotify.com/track/6GtnIoNdSZFiBQ9RfTBYGl) | [XpressionsUG](https://open.spotify.com/artist/3KzKyuWGLRUYlCKrG5O7l5), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Tewekweka \| An Xpressions UG Session](https://open.spotify.com/album/1pSGVnCffm5YwXctqIrdem) | 2:46 | 2023-04-07 | 2023-07-01 |
 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 | 2022-05-12 | 2024-04-06 |
@@ -391,6 +395,7 @@
 | [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 | 2023-11-10 | 2024-04-11 |
 | [Udongo \(Save Soil\)](https://open.spotify.com/track/59BPZ3xZSqL70xUngfRXJf) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Reazyla](https://open.spotify.com/artist/7GtTV6RYcXvgp6mQ0ZQfhG) | [Udongo \(Save Soil\)](https://open.spotify.com/album/4TJhR6aU5qMlMoyntJGSiz) | 2:56 | 2022-05-12 | 2022-09-02 |
 | [UG Party](https://open.spotify.com/track/3h8qB9c9T5cwkgiwIrvRjF) | [Lukas Blacc](https://open.spotify.com/artist/5tXsoJIgKCCzvGawhVNCel), [Nutty Neithan](https://open.spotify.com/artist/2OvQ8hSCoty5MBYDt1kvKw) | [UG Party](https://open.spotify.com/album/5ws0rkRBqpeh1arKRXuqDk) | 2:43 | 2024-09-26 | 2024-11-23 |
+| [Up Up & Away](https://open.spotify.com/track/6GdLdaP2FBNHRvmGbR5BnQ) | [I\-Blade](https://open.spotify.com/artist/0ZtJYd6DVTab3LqeSGKApU), [Mxlan A](https://open.spotify.com/artist/6LkjLHSfHPvN8g9LMLsBL3) | [Up Up & Away](https://open.spotify.com/album/3a4lJ6gqI6hHo7VwkFLAS4) | 2:58 | 2025-04-24 |  |
 | [Vibe Yo \- Remix](https://open.spotify.com/track/13Snix6AbfTC8ProjfSR1X) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Ziza Bafana](https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3) | [Vibe Yo \(Remix\)](https://open.spotify.com/album/1QInb3GdYbabj7GrkZzdMQ) | 2:58 | 2023-03-18 | 2023-04-01 |
 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 | 2023-02-03 | 2023-12-10 |
 | [Wakikuba](https://open.spotify.com/track/4qBvBJ1HcZN4PYJV0Z1pEF) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Wakikuba](https://open.spotify.com/album/0WTiRdax3GmbI0EpPgccUq) | 3:03 | 2024-02-23 |  |

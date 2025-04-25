@@ -4,13 +4,13 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-106 songs - 6 hr 42 min
+108 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Air Concret](https://open.spotify.com/track/7tHtgCV6r5Q61Len2RWuXB) | [Luciano Supervielle](https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC) | [Bajofondo Tango Club Presenta A Supervielle](https://open.spotify.com/album/6USPX5kkLVt8bXHw4DS0rl) | 1:21 | 2023-08-04 | 2024-04-19 |
 | [Al Vacío](https://open.spotify.com/track/6pop1Zy75gRGx4946x3ZGY) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Al Vacío](https://open.spotify.com/album/28xoCj2zTxQJnQQg7lBqHY) | 3:34 | 2023-08-04 | 2024-06-13 |
-| [Amor de Madrugada](https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Amor de Madrugada](https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW) | 2:11 | 2024-11-04 |  |
+| [Amor de Madrugada](https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Amor de Madrugada](https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW) | 2:11 | 2024-11-04 | 2025-04-25 |
 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 | 2023-08-04 |  |
 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 | 2023-11-24 | 2025-04-23 |
 | [Bye Mom](https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:43 | 2023-08-04 | 2024-04-19 |
@@ -42,6 +42,7 @@
 | [La Del Subte](https://open.spotify.com/track/2jH02gTgXEd8Uac7gMu22d) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:37 | 2023-08-04 |  |
 | [La Gloria](https://open.spotify.com/track/2442ZJTb6I1AnuBu7AQqEs) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Tango 3.0](https://open.spotify.com/album/5iPPI8CcvZYhaf34VQC9P5) | 3:47 | 2023-11-24 | 2024-04-19 |
 | [La Gloria](https://open.spotify.com/track/450mTC6yBia1bnYIvkOlxG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP), [Victor Hugo Morales](https://open.spotify.com/artist/3ZnvtDHj0Wn6u3d1cm8cxz) | [Tango 3.0](https://open.spotify.com/album/3rII5jVhcZdgz4itaYn7vX) | 3:47 | 2023-11-24 |  |
+| [La Guitarra](https://open.spotify.com/track/1FTWPu5d8ocf1JoDqAYYXw) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Guitarra](https://open.spotify.com/album/4g5Bw0aRcMUnrhhQlY5lFC) | 3:38 | 2025-04-25 |  |
 | [La Milonga](https://open.spotify.com/track/5ObJaXEtpdxxkU4K6FrcTg) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Mas Alla Del Sur](https://open.spotify.com/album/73bcUROeKMvqzGHAiwO73F) | 3:28 | 2023-08-04 |  |
 | [La Milonga Del Senor Blanco](https://open.spotify.com/track/3bOV8ki6LJMWauukDTllD4) | [Bassa](https://open.spotify.com/artist/4Yenm93sqAuPEt2xHG5DBC) | [Berlin Tango](https://open.spotify.com/album/0BusGskU7khU5LU1fJqina) | 4:37 | 2023-08-04 | 2024-04-19 |
 | [La Rosca \- Versión Remasterizada 2008](https://open.spotify.com/track/2ssFUjK5KdjiaeaI2yiGv7) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Marcha Del Golazo Solitario](https://open.spotify.com/album/2QbQpUf9KGyExi87PPRUsX) | 4:29 | 2023-08-04 |  |
@@ -84,7 +85,7 @@
 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 | 2023-11-24 | 2025-02-26 |
 | [Regina](https://open.spotify.com/track/4HJaTZTBxNZ7kxZExuMMDr) | [Electrocutango](https://open.spotify.com/artist/2cj1R53AEPGh3hNvipWs0i) | [Felino](https://open.spotify.com/album/2fCOloYpBVq62UjAz24FhS) | 5:43 | 2023-08-04 |  |
 | [Rg](https://open.spotify.com/track/63he9ulZGKrfFrWa1mTYgI) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [Summer Tango](https://open.spotify.com/album/1XDSxgEXFdtUMPxL5dXLpj) | 3:38 | 2024-11-04 | 2025-01-27 |
-| [Roberto](https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:33 | 2023-08-04 |  |
+| [Roberto](https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:33 | 2023-08-04 | 2025-04-25 |
 | [Santa Maria \(Del Buen Ayre\)](https://open.spotify.com/track/3sPkMFWk9zi5LAA0T1qvpc) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 5:57 | 2023-08-04 | 2024-04-19 |
 | [Santa María \(del Buen Ayre\)](https://open.spotify.com/track/65MDo5mxRY45IHpyVkLEU5) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La revancha del tango](https://open.spotify.com/album/2riLhxE3UzS3evEXAwjEJq) | 5:57 | 2023-11-24 |  |
 | [Sin Rumbo](https://open.spotify.com/track/6WGeW1Ooa2dndzIGwXCVFW) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Otros Aires](https://open.spotify.com/album/24uMVkq4ni8tDFHwva5e8p) | 3:53 | 2023-08-04 | 2024-04-19 |
@@ -112,6 +113,7 @@
 | [Zorzal](https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l) | 3:09 | 2023-11-24 |  |
 | [Zorzal](https://open.spotify.com/track/2V0t69gkStN7xlQYasKBWs) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/7q9qy6hx44b9sTXNygcEA6) | 3:09 | 2023-08-04 | 2023-11-06 |
 | [Zorzal](https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Campo](https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw) | 3:09 | 2023-10-26 | 2024-04-19 |
+| [Ódiame](https://open.spotify.com/track/1gmFHuhCkXY1jGmscYdvIJ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 2:53 | 2025-04-25 |  |
 | [Будем танцевать \- Listo Pa'Bailar \[1\]](https://open.spotify.com/track/71h9qwhopTUJ1KR7cNdbHo) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Будем танцевать \(Listo Pa'Bailar \[1\]\)](https://open.spotify.com/album/5eB3Ory8Dspo7D8RVhAPiv) | 3:54 | 2023-11-24 |  |
 | [アシタカセッ記](https://open.spotify.com/track/42pzzZb0NIjKQ7zD0kqJ2y) | [Ryota Komatsu](https://open.spotify.com/artist/5fH8ci69hA3hPR7yCzrKdr) | [天空のバンドネオン〜タンゴでスタジオジブリ〜](https://open.spotify.com/album/1mt5kvGTc3FwaB5NCZcFRe) | 3:04 | 2023-08-04 | 2024-04-19 |
 

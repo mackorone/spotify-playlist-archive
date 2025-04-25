@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "SERVING",
+        "url": "https://open.spotify.com/album/3bnzrOEyxpuUauqASHwGoR"
+      },
+      "artists": [
+        {
+          "name": "Miriana Conte",
+          "url": "https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "SERVING - Eurovision Official Version",
+      "url": "https://open.spotify.com/track/2lide7NEaVQGRtiHm61uCW"
+    },
+    {
+      "album": {
         "name": "SERVING KANT",
         "url": "https://open.spotify.com/album/2Jir3xrdLJ34ZLY9lgzCRw"
       },
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 179538,
       "name": "SERVING KANT",
       "url": "https://open.spotify.com/track/7IAtKdU3e9wZFC8Cd8TLr1"

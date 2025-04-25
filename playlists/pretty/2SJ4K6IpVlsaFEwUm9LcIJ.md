@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,969 likes - 80 songs - 5 hr 5 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,972 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 79 | [Angel in Disguise](https://open.spotify.com/track/6PQTUESsPMNcDAg2LEmxh7) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:48 |
 | 80 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 |
 
-Snapshot ID: `AAAMTAca0xfg0RlwuRXIeFLyxOYP9v+3`
+Snapshot ID: `AAAMTuH/4CNJ3RLumwxFnSlvOlKwFxJD`

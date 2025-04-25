@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > 
 
-[subspace smoking crack](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 241 likes - 178 songs - 5 hr 43 min
+[subspace smoking crack](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 242 likes - 179 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,5 +186,6 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 176 | [WIN WIN WIN \- Instrumental](https://open.spotify.com/track/3dzrZUMKDhNMrBe3VBS2qG) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [WIN WIN WIN](https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN) | 2:52 |
 | 177 | [Tell me!!](https://open.spotify.com/track/0pLAxdzTL52Q4g9RvTb3Fl) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:13 |
 | 178 | [Stay true](https://open.spotify.com/track/5R9Pt8Phy3yaTeEsfzS4GA) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 4:08 |
+| 179 | [LUV3 SICK!!](https://open.spotify.com/track/2MJasRtiBZPIlQ6qzmsRPN) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LUV3 SICK!!](https://open.spotify.com/album/4oyYg9nbAUKndr8gsfqYj7) | 3:20 |
 
-Snapshot ID: `AAAAg8rq/d3ClqoioYN123goQ2/r6XLM`
+Snapshot ID: `AAAAhDGWFsCybbcEG0O4ompjArI7ZR/C`

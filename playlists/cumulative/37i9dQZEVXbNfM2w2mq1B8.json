@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "AMG Isteria",
       "url": "https://open.spotify.com/track/0uoFYncPoFjOb7uU33yyl0"
@@ -6594,7 +6594,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 170769,
       "name": "Dale Baby",
       "url": "https://open.spotify.com/track/1zK1hzNzGlKcVKdxkp0Rcv"
@@ -7170,7 +7170,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 223384,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/39MFfPxlelYKyxRjzO0yC9"
@@ -15890,7 +15890,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-10",
+      "date_removed": null,
       "duration_ms": 245840,
       "name": "Kato Tebe Vtori Nyama",
       "url": "https://open.spotify.com/track/3LzpgBBMv6aFmUYu7dfdhg"
@@ -20446,7 +20446,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-17",
+      "date_removed": null,
       "duration_ms": 225601,
       "name": "Mrasnica",
       "url": "https://open.spotify.com/track/1LXRWQeHY486xZVgl3uJ4x"
@@ -22988,6 +22988,24 @@
     {
       "album": {
         "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY"
+    },
+    {
+      "album": {
+        "name": "PASSO BEM SOLTO",
         "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
       },
       "artists": [
@@ -22998,7 +23016,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
@@ -27386,7 +27404,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -32768,7 +32786,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 234145,
       "name": "Vidimo Dovolni",
       "url": "https://open.spotify.com/track/3AwhGBVvv4Jwf3gabCodXA"
@@ -35488,7 +35506,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 198139,
       "name": "\u0411\u0438\u0442\u043a\u043e\u0439\u043d \u043a\u044e\u0447\u0435\u043a",
       "url": "https://open.spotify.com/track/2TKc0nGOVXS2ECxQGAMsZd"
@@ -36256,7 +36274,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 223561,
       "name": "\u0414\u0440\u0443\u0433\u0430 \u043b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/4Zgi5K7G6WeC686JliBgch"
@@ -36872,7 +36890,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 168800,
       "name": "\u0417\u0438\u0433-\u0437\u0430\u0433",
       "url": "https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC"
@@ -37958,7 +37976,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 160879,
       "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
       "url": "https://open.spotify.com/track/3AyQkHqh5cENWthtwRL6oS"
@@ -39036,7 +39054,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 175483,
       "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/3fEpl8LU6WyIuE3C9P6pfI"
@@ -40078,7 +40096,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 172235,
       "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
       "url": "https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4"
@@ -40464,7 +40482,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 185915,
       "name": "\u0423\u0430\u0443",
       "url": "https://open.spotify.com/track/2PEv2iMFRRJrGbPPE1Lqfw"
@@ -40660,7 +40678,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 221243,
       "name": "\u0427\u0430\u043b\u0433\u0430",
       "url": "https://open.spotify.com/track/0yUj55Q6bb9r9wFaSV2Mql"

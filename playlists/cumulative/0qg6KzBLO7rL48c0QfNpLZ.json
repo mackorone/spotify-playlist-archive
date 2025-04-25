@@ -839,6 +839,32 @@
     },
     {
       "album": {
+        "name": "Am I Wrong For This",
+        "url": "https://open.spotify.com/album/1eSVsKnlEtggIZuNXE0qU6"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127363,
+      "name": "Am I Wrong For This",
+      "url": "https://open.spotify.com/track/7wQllV8Y8QlCo8fj9N3lFM"
+    },
+    {
+      "album": {
         "name": "Amounted To This",
         "url": "https://open.spotify.com/album/7currnc9FXANMZFBxmMh0n"
       },
@@ -14026,7 +14052,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 183996,
       "name": "Not Lonely",
       "url": "https://open.spotify.com/track/7zT7SKTVcD2o26TYHg8YES"

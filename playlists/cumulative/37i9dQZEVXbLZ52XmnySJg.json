@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho (From \"Tamasha\")",
       "url": "https://open.spotify.com/track/6kYoY0PhBelP64UMnhsEZx"
@@ -5442,7 +5442,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 260536,
       "name": "Dil Diyan Gallan",
       "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
@@ -7832,7 +7832,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 194857,
       "name": "Heeriye (feat. Arijit Singh)",
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
@@ -9816,7 +9816,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 236933,
       "name": "Jeene Laga Hoon",
       "url": "https://open.spotify.com/track/3t3wsY5IdLVzB9WidegJSU"
@@ -9920,7 +9920,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 277600,
       "name": "Jhol - Acoustic",
       "url": "https://open.spotify.com/track/3F3difXqjmx6tfA4JmaKAj"
@@ -16599,6 +16599,32 @@
     },
     {
       "album": {
+        "name": "Pal Pal (with Talwiinder)",
+        "url": "https://open.spotify.com/album/47HV1rQNbrAPcv15zgbTHy"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Pal Pal (with Talwiinder)",
+      "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2"
+    },
+    {
+      "album": {
         "name": "Pal Pal Dil Ke Paas- Title Track (From \"Pal Pal Dil Ke Paas\")",
         "url": "https://open.spotify.com/album/0C9FXcECAeepJhmuvETNe1"
       },
@@ -17090,7 +17116,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 250158,
       "name": "Pehle Bhi Main",
       "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
@@ -19858,7 +19884,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"

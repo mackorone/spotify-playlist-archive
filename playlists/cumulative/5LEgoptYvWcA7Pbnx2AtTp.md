@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-169 songs - 9 hr 32 min
+170 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Razzmatazz](https://open.spotify.com/track/3UhhRDkHWz7D28BkejHzqI) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 4:18 | 2022-05-13 |  |
 | [Rebel Yell](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:48 | 2024-09-16 |  |
 | [Redesign Your Logo](https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [The Fump, Vol\. 20: March \- April 2010](https://open.spotify.com/album/795ErcyPhr0Trsq0a4SauM) | 4:19 | 2025-01-21 |  |
+| [Rock Lobster](https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 6:49 | 2025-04-25 |  |
 | [Romantic & Jackass](https://open.spotify.com/track/08jK6BtUUrg25ncEM0orLP) | [Russian Village Boys](https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD) | [Kiss My Peace](https://open.spotify.com/album/2BKG4VnINAbyFd1cjiYdZS) | 3:44 | 2022-05-12 |  |
 | [Ruler of Everything](https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:42 | 2023-12-09 |  |
 | [Second Boys Will Be First Choice \(Radio Version\)](https://open.spotify.com/track/7tOjifyNGd0iHaNrsPHaSD) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:15 | 2023-01-07 |  |

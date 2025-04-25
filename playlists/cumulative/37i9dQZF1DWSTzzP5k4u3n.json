@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Vesterinen Yhtyeineen.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Pate Mustaj\u00e4rvi.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
+    {
+      "album": {
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/6Q0191JtzXUHhBEvxj3xXK"
+      },
+      "artists": [
+        {
+          "name": "Lemmenpyssyt",
+          "url": "https://open.spotify.com/artist/64wPnE2wkh7LbEkOUGmaP8"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "(T\u00e4m\u00e4 ei ole) Rakkauslaulu",
+      "url": "https://open.spotify.com/track/6b75A0EYxHT0df8kXJDDqN"
+    },
     {
       "album": {
         "name": "10 Hyv\u00e4\u00e4",
@@ -1369,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Huuhkaimen laulu",
+        "url": "https://open.spotify.com/album/4fpz71mEguBMRBSybdz8BC"
+      },
+      "artists": [
+        {
+          "name": "Kihara",
+          "url": "https://open.spotify.com/artist/42xmX69HsbHPURilPte1cG"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341706,
+      "name": "Huuhkaimen laulu",
+      "url": "https://open.spotify.com/track/0JdRT1vidwqzDhdVeHDXBj"
+    },
+    {
+      "album": {
         "name": "Huutoja",
         "url": "https://open.spotify.com/album/4rWCVAAca8AzMpHjRj9XOa"
       },
@@ -1998,7 +2034,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 226071,
       "name": "Kaikki mit\u00e4 m\u00e4 tarviin",
       "url": "https://open.spotify.com/track/0P3Ngf7UITIZROsAOWmhkQ"
@@ -2402,6 +2438,24 @@
       "duration_ms": 240769,
       "name": "Kiinni pid\u00e4n susta",
       "url": "https://open.spotify.com/track/1qnO39kSLufBc0OkHkf9rc"
+    },
+    {
+      "album": {
+        "name": "Kiitos kutsusta",
+        "url": "https://open.spotify.com/album/0u7IGteKBLnOUm5WUntHyO"
+      },
+      "artists": [
+        {
+          "name": "PIMEE",
+          "url": "https://open.spotify.com/artist/0IDEQvvWfj2E7sPTXqBGit"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Kiitos kutsusta",
+      "url": "https://open.spotify.com/track/3tiSxPsANJqHQNL4Iqai2H"
     },
     {
       "album": {
@@ -2975,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Lasipalatsi",
+        "url": "https://open.spotify.com/album/1oIemitjIcARr4dBbWEJ9h"
+      },
+      "artists": [
+        {
+          "name": "Krypta",
+          "url": "https://open.spotify.com/artist/4zRDU0LpP6xtY3Owx6ttMl"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251348,
+      "name": "Lasipalatsi",
+      "url": "https://open.spotify.com/track/6rFjlvQDwemt0u7q4aSCh5"
+    },
+    {
+      "album": {
         "name": "Lasiprinsessa",
         "url": "https://open.spotify.com/album/27wTlDJkFUzbSpmO60C3od"
       },
@@ -3159,6 +3231,24 @@
     },
     {
       "album": {
+        "name": "Lintumies ja Alhambra",
+        "url": "https://open.spotify.com/album/6lhttwkGbO1TOVbPXQ9hfm"
+      },
+      "artists": [
+        {
+          "name": "Freud Marx Engels & Jung Revisited",
+          "url": "https://open.spotify.com/artist/0owW1hbDW7GQkXXfTN4pLv"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237633,
+      "name": "Lintumies ja Alhambra",
+      "url": "https://open.spotify.com/track/5uH2zcNYu1WH4Bmq1K3rm2"
+    },
+    {
+      "album": {
         "name": "Lippissukupolven joutsenlaulu",
         "url": "https://open.spotify.com/album/1eUKEKs1dn1OE5kYbZPLrM"
       },
@@ -3188,7 +3278,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 223875,
       "name": "Lohtulaulu",
       "url": "https://open.spotify.com/track/7jm1wsdoB1aUllnaejdmTH"
@@ -3876,6 +3966,24 @@
       "duration_ms": 220026,
       "name": "M\u00e4 en muutu miksik\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/5b1LCRyAG5Hqav7cDOyy5M"
+    },
+    {
+      "album": {
+        "name": "M\u00e4 Osaan Lent\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/04kxUSMhX5MIqNDXy1rOqW"
+      },
+      "artists": [
+        {
+          "name": "KIMBE",
+          "url": "https://open.spotify.com/artist/5LIMapfAf5mgfAMoMjYeFA"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182109,
+      "name": "M\u00e4 Osaan Lent\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/58hFxG9vEp5y3ZyPqUa1YQ"
     },
     {
       "album": {
@@ -4994,7 +5102,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 221440,
       "name": "Rosvonportaat",
       "url": "https://open.spotify.com/track/2f52VaZVEnkowrrL57G3CC"
@@ -5146,6 +5254,24 @@
       "duration_ms": 148905,
       "name": "Samat kledjut",
       "url": "https://open.spotify.com/track/0HnyePUQDN2GkgBan3OABF"
+    },
+    {
+      "album": {
+        "name": "Sanoja vailla",
+        "url": "https://open.spotify.com/album/1VT79cHQGtefc2tDHSqQ8s"
+      },
+      "artists": [
+        {
+          "name": "Tuomisto",
+          "url": "https://open.spotify.com/artist/6Ja3gBQxiggMYisHdetaxm"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Sanoja vailla",
+      "url": "https://open.spotify.com/track/2ZadMkpRqesQmpyyhwgDyI"
     },
     {
       "album": {
@@ -5470,7 +5596,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 213658,
       "name": "Soita mulle huomenna",
       "url": "https://open.spotify.com/track/1AdsatOl5IVhyBCm8RiSwt"
@@ -6414,7 +6540,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 170133,
       "name": "Ullakolla",
       "url": "https://open.spotify.com/track/5a5yd2MwwWzAscQdotwW9W"
@@ -6493,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Vaikee voittaa (jollei viitsi koittaa)",
+        "url": "https://open.spotify.com/album/6qJNYMtP70JTJQUbwoqFoI"
+      },
+      "artists": [
+        {
+          "name": "Tiisu",
+          "url": "https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186410,
+      "name": "Vaikee voittaa (jollei viitsi koittaa)",
+      "url": "https://open.spotify.com/track/2IiddvoKy87vaUihFDhw0c"
+    },
+    {
+      "album": {
         "name": "Vaikket mun vieress\u00e4 oo",
         "url": "https://open.spotify.com/album/6n6TekylgP32kru2tDwMjj"
       },
@@ -6540,7 +6684,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 230364,
       "name": "Valkoinen Hevonen",
       "url": "https://open.spotify.com/track/2O0swjKPZoQprTA0ilVK1C"
@@ -6634,6 +6778,28 @@
       "duration_ms": 157818,
       "name": "Verivala",
       "url": "https://open.spotify.com/track/63wjcCy16aXLDK9G1t7lNP"
+    },
+    {
+      "album": {
+        "name": "Verta peiliss\u00e4",
+        "url": "https://open.spotify.com/album/6ZmweFACaPNpOgwSZy7qt4"
+      },
+      "artists": [
+        {
+          "name": "Mylly",
+          "url": "https://open.spotify.com/artist/5yQnFFxqVqCMi0JbgrhdvC"
+        },
+        {
+          "name": "Radioactive Pineapple",
+          "url": "https://open.spotify.com/artist/1Crptcv8dKKDNNfIWZLj7s"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138285,
+      "name": "Verta peiliss\u00e4",
+      "url": "https://open.spotify.com/track/4foK7PjkZSd2RVoYm9Zsa2"
     },
     {
       "album": {

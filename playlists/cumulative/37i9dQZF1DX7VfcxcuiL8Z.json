@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Turnstile",
+  "description": "The best in new rock. Cover: Fool Nelson",
   "name": "Rock Out.",
   "tracks": [
+    {
+      "album": {
+        "name": "77 (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173842,
+      "name": "77 - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+    },
     {
       "album": {
         "name": "92 Purebred",
@@ -344,6 +366,42 @@
       "duration_ms": 186866,
       "name": "Aunque duela",
       "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
+    },
+    {
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL"
+      },
+      "artists": [
+        {
+          "name": "Fool Nelson",
+          "url": "https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208938,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV"
+    },
+    {
+      "album": {
+        "name": "BALCONY",
+        "url": "https://open.spotify.com/album/0OwTqwcUlQbjVMKe7FvLof"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205239,
+      "name": "BALCONY",
+      "url": "https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f"
     },
     {
       "album": {
@@ -790,7 +848,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 213459,
       "name": "Chantilly",
       "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
@@ -1032,6 +1090,24 @@
       "duration_ms": 184417,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
+    },
+    {
+      "album": {
+        "name": "Damocles",
+        "url": "https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264836,
+      "name": "Damocles",
+      "url": "https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx"
     },
     {
       "album": {
@@ -1436,7 +1512,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 193368,
       "name": "Exceptional",
       "url": "https://open.spotify.com/track/5HCwsAQT7hnBdIefIettuq"
@@ -2414,7 +2490,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 216742,
       "name": "Is This A Robbery",
       "url": "https://open.spotify.com/track/0Qpk2lc8yEQK1xayGwQWWa"
@@ -2764,7 +2840,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 238514,
       "name": "Light Up The Path",
       "url": "https://open.spotify.com/track/0fuvxtyhFjrWFJYxg6fFUq"
@@ -2912,6 +2988,42 @@
       "duration_ms": 183573,
       "name": "Loud Bark",
       "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
+    },
+    {
+      "album": {
+        "name": "Love to Death",
+        "url": "https://open.spotify.com/album/5yeGMj1vnXgSGjrkIdaMWL"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213822,
+      "name": "Love to Death",
+      "url": "https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv"
+    },
+    {
+      "album": {
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     },
     {
       "album": {
@@ -3770,7 +3882,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 235534,
       "name": "Parched",
       "url": "https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T"
@@ -3788,7 +3900,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 169304,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW"
@@ -4312,7 +4424,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 146677,
       "name": "SLEEP WHEN I'M DEAD",
       "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
@@ -4842,7 +4954,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 226909,
       "name": "The End",
       "url": "https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk"
@@ -5299,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "Unshatter",
+        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
+    },
+    {
+      "album": {
         "name": "Up From the Bottom",
         "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
       },
@@ -5336,6 +5466,42 @@
       "duration_ms": 214826,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3jESXgVdq4COa7QrbUAL0T"
+    },
+    {
+      "album": {
+        "name": "V.I.S.",
+        "url": "https://open.spotify.com/album/3QJDKsdfBMlx3LI6GNgMdd"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225053,
+      "name": "V.I.S.",
+      "url": "https://open.spotify.com/track/2EUp86hKB1fsdr3Mf5y2dN"
+    },
+    {
+      "album": {
+        "name": "Vacant",
+        "url": "https://open.spotify.com/album/0KPxVyGRUWO5QmUURudSFA"
+      },
+      "artists": [
+        {
+          "name": "Awaken I Am",
+          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222168,
+      "name": "Vacant",
+      "url": "https://open.spotify.com/track/71OEyQke0CiQ9I4rHNqtuo"
     },
     {
       "album": {

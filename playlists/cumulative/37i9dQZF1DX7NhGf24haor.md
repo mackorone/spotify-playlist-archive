@@ -2,7 +2,7 @@
 
 ### [Hardstyle Adrenaline! 2025](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Weekly new Hardstyle releases! Cover: Sub Zero Project & Dual Damage
+> Weekly new Hardstyle releases! Cover: Radical Redemption, Rebelion & Nolz
 
 1,444 songs - 3 day 4 hr 42 min
 

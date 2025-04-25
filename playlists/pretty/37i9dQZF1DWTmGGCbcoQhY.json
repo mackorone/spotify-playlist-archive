@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1355575,
+  "num_followers": 1355727,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 305253,
+      "name": "\u00c1ngel Malvado",
+      "url": "https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 230133,
       "name": "Coraz\u00f3n Adolorido",
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 290089,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
         }
       ],
-      "duration_ms": 305253,
-      "name": "\u00c1ngel Malvado",
-      "url": "https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p"
+      "duration_ms": 290089,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Ilusi\u00f3n y M\u00e1s Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9"
-      },
-      "artists": [
-        {
-          "name": "Cuerdas De Venezuela",
-          "url": "https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Palabras No",
         "url": "https://open.spotify.com/album/6nyVwXMNI2h6NdbpKB11av"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 249234,
       "name": "Palabras No",
       "url": "https://open.spotify.com/track/75LiifjwTF6cpyVILANf4q"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Ilusi\u00f3n y M\u00e1s Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9"
+      },
+      "artists": [
+        {
+          "name": "Cuerdas De Venezuela",
+          "url": "https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 331000,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 235853,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 331000,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Que Te Vaya Mal",
-        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kachimba",
-          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
-        }
-      ],
-      "duration_ms": 327253,
-      "name": "Ven a Mi",
-      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Ya No Me Perteneces",
         "url": "https://open.spotify.com/album/4MIY2d9KNaW3IZxQ5eVFZ2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 269063,
       "name": "Ya No Me Perteneces",
       "url": "https://open.spotify.com/track/48L8HvDBfUHndCSewBMT2L"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Que Te Vaya Mal",
+        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kachimba",
+          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+        }
+      ],
+      "duration_ms": 327253,
+      "name": "Ven a Mi",
+      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Negrita",
-      "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Lo Mas Ka-Bron Sonidero",
         "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 300906,
       "name": "Soy Maraquero",
       "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Negrita",
+      "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Fake Lover",
         "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1175,6 +1175,38 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Con La Sangre Caliente",
+        "url": "https://open.spotify.com/album/48H3NQ2HyK70AqjOryHbnX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Perla Colombiana",
+          "url": "https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Melina",
+      "url": "https://open.spotify.com/track/7A6PWUkZNultYJO6ejZ11k"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "No Puedo Olvidarte Cumbia Rosa",
         "url": "https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n"
       },
@@ -1191,22 +1223,6 @@
       "duration_ms": 285799,
       "name": "No Puedo Olvidarte Cumbia Rosa",
       "url": "https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Con La Sangre Caliente",
-        "url": "https://open.spotify.com/album/48H3NQ2HyK70AqjOryHbnX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Perla Colombiana",
-          "url": "https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "Melina",
-      "url": "https://open.spotify.com/track/7A6PWUkZNultYJO6ejZ11k"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1239,22 +1255,6 @@
       "duration_ms": 260928,
       "name": "Amor T\u00f3xico",
       "url": "https://open.spotify.com/track/62y5VJHI9Y5udjRmtrW85E"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Black Power",
+        "url": "https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0"
+      },
+      "artists": [
+        {
+          "name": "Black Power",
+          "url": "https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O"
+        }
+      ],
+      "duration_ms": 267551,
+      "name": "Ya No Me Perteneces",
+      "url": "https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "Disco De Oro - Cumbia",
         "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 180012,
       "name": "Cumbia Barulera",
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Black Power",
-        "url": "https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0"
-      },
-      "artists": [
-        {
-          "name": "Black Power",
-          "url": "https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O"
-        }
-      ],
-      "duration_ms": 267551,
-      "name": "Ya No Me Perteneces",
-      "url": "https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1855,18 +1855,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/4FhJUozm8iSdIDobne1KHN"
+        "name": "Tonto Carino",
+        "url": "https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
+        },
+        {
+          "name": "Janeth Guadalupe",
+          "url": "https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/74Z5qPgObksbUqTLsMetwO"
+      "duration_ms": 299284,
+      "name": "Estupido (feat. Janeth Guadalupe)",
+      "url": "https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1903,18 +1907,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Exitos Sonideros, Vol. 1",
-        "url": "https://open.spotify.com/album/10vSYmCwnxyQXCeMtq6a92"
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/4FhJUozm8iSdIDobne1KHN"
       },
       "artists": [
         {
-          "name": "Sonideros de MEX USA",
-          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 224104,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/10UiP7h6szsk0CitFO8NM2"
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/74Z5qPgObksbUqTLsMetwO"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1951,6 +1955,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Exitos Sonideros, Vol. 1",
+        "url": "https://open.spotify.com/album/10vSYmCwnxyQXCeMtq6a92"
+      },
+      "artists": [
+        {
+          "name": "Sonideros de MEX USA",
+          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
+        }
+      ],
+      "duration_ms": 224104,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/10UiP7h6szsk0CitFO8NM2"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
@@ -1967,22 +1987,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Tonto Carino",
-        "url": "https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX"
       },
       "artists": [
         {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        },
-        {
-          "name": "Janeth Guadalupe",
-          "url": "https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq"
+          "name": "Efr\u00e9n David",
+          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
         }
       ],
-      "duration_ms": 299284,
-      "name": "Estupido (feat. Janeth Guadalupe)",
-      "url": "https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN"
+      "duration_ms": 271786,
+      "name": "Abandonado",
+      "url": "https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -2031,22 +2047,6 @@
       "duration_ms": 213744,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX"
-      },
-      "artists": [
-        {
-          "name": "Efr\u00e9n David",
-          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
-        }
-      ],
-      "duration_ms": 271786,
-      "name": "Abandonado",
-      "url": "https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh"
     },
     {
       "added_at": "2024-07-04 23:21:37",

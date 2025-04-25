@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: NDX A.K.A",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Happy Asmara, Gilga Sahid",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -3587,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "Lanang Tenan",
+        "url": "https://open.spotify.com/album/5hqjpYvyKarkxa5twuWAVq"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303039,
+      "name": "Lanang Tenan",
+      "url": "https://open.spotify.com/track/7cTa9Ba6N6N8DxccW1ydeG"
+    },
+    {
+      "album": {
         "name": "Langganan Kleru (Cover)",
         "url": "https://open.spotify.com/album/6Dt3EM50CpMHVVS8HVSxAU"
       },
@@ -3742,7 +3760,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 324000,
       "name": "Lestari",
       "url": "https://open.spotify.com/track/366rUE2UP4FKDA9D5h9uuv"
@@ -7816,7 +7834,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 267670,
       "name": "Sing Tego",
       "url": "https://open.spotify.com/track/3xI4biFLAk4FjQDfeQ85jL"
@@ -8838,6 +8856,28 @@
       "duration_ms": 346444,
       "name": "Wegah Pisah",
       "url": "https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW"
+    },
+    {
+      "album": {
+        "name": "Wegah Tukaran",
+        "url": "https://open.spotify.com/album/2Al2i35sxvyvh4mYpckR7m"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        },
+        {
+          "name": "Gilga Sahid",
+          "url": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285380,
+      "name": "Wegah Tukaran",
+      "url": "https://open.spotify.com/track/5UWfUp4bpgwLxrV4zYsbLf"
     },
     {
       "album": {

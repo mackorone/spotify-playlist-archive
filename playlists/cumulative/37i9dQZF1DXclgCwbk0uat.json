@@ -1445,6 +1445,32 @@
     },
     {
       "album": {
+        "name": "CHERRY",
+        "url": "https://open.spotify.com/album/6aCPwKRdjP9K5GMUcCCmds"
+      },
+      "artists": [
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204248,
+      "name": "CHERRY",
+      "url": "https://open.spotify.com/track/4NiAD7L3ztGSxyS7muc2hf"
+    },
+    {
+      "album": {
         "name": "YTSQS",
         "url": "https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1"
       },
@@ -1504,7 +1530,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 174412,
       "name": "CHIKA MALA",
       "url": "https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm"
@@ -1548,7 +1574,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 134778,
       "name": "CHINGON",
       "url": "https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct"
@@ -1754,6 +1780,28 @@
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "album": {
+        "name": "Comernos",
+        "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Comernos",
+      "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
     },
     {
       "album": {
@@ -7880,7 +7928,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -8362,7 +8410,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 200526,
       "name": "Resentia",
       "url": "https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb"
@@ -9047,6 +9095,24 @@
     },
     {
       "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
+    },
+    {
+      "album": {
         "name": "El Asere de Aseres",
         "url": "https://open.spotify.com/album/2uLjoKjhHdm6iZaovBuQE7"
       },
@@ -9088,7 +9154,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 163200,
       "name": "Sola Suelta Soltera",
       "url": "https://open.spotify.com/track/2TsQ2eMg44sEqvbLwjzWrA"

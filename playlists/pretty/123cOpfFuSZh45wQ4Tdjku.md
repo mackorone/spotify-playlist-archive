@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 978 likes - 372 songs - 18 hr 9 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 980 likes - 395 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -380,5 +380,28 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 370 | [Swimming](https://open.spotify.com/track/5lu7LUHl5noJuDG1ax4Ke1) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 1:22 |
 | 371 | [Coming To An End](https://open.spotify.com/track/4BUgHn6aLK5FuGqNN98Wie) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 1:58 |
 | 372 | [Day 30](https://open.spotify.com/track/20ybLwal4LgFSj4OT1SySE) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 2:14 |
+| 373 | [Adler The Eagle](https://open.spotify.com/track/5AwCCt1ZZbyHjp3ujqjr77) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 2:56 |
+| 374 | [Pocari Roo](https://open.spotify.com/track/1mfJEeRg3TEp12EZVhRllY) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:31 |
+| 375 | [Mark's Barks](https://open.spotify.com/track/78IHITBEFOS1J7qsAbkjGb) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 2:54 |
+| 376 | [Frankie x](https://open.spotify.com/track/6NibLABbjTVawkjQVF9UYq) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:51 |
+| 377 | [Odin Wolf](https://open.spotify.com/track/3OKEMAbZjp2TAio4O6UNoS) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:47 |
+| 378 | [JayJay](https://open.spotify.com/track/3RBZeFw260x4gmlYYk45bm) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 4:29 |
+| 379 | [Kona Fuzzbutt](https://open.spotify.com/track/0P5CACBfwS8ivoZvVcj8hO) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 4:30 |
+| 380 | [Icey Wolf](https://open.spotify.com/track/44ww3JKgZ6Ls4T58TXRGEr) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 4:38 |
+| 381 | [Corey Coyote](https://open.spotify.com/track/4SZrVZzVhjuBFVMsjPZXZ5) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:56 |
+| 382 | [Aim for the Stars](https://open.spotify.com/track/2Rg4DyJReqFUQzK6KsZovB) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Aim for the Stars](https://open.spotify.com/album/5vfQLGxeAEVVOyNQTxYvf8) | 2:44 |
+| 383 | [Adventure](https://open.spotify.com/track/1sTRydZyL0qqETjsp2JTZy) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Adventure](https://open.spotify.com/album/45N4MD0Js2CMKMV4JYSqyG) | 4:01 |
+| 384 | [Night Ride](https://open.spotify.com/track/4RcJ5hCE72qy1fnpOfcob8) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Night Ride](https://open.spotify.com/album/6kWuB2kRlfXH8ccmhawWss) | 2:59 |
+| 385 | [If I Was There](https://open.spotify.com/track/7ibI9cceboRF5HOnQEQtNH) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [If I Was There](https://open.spotify.com/album/7wBBM4aSlSACuAzm6zn0Zj) | 3:29 |
+| 386 | [Light](https://open.spotify.com/track/1QmCTxRddtJ2Hrn502bume) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Light](https://open.spotify.com/album/1URLKSGOw08tFUxH4GeKR0) | 3:37 |
+| 387 | [City Nights](https://open.spotify.com/track/2MQU83NUQFVSRFel22Hmp6) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Tundra Fox Music](https://open.spotify.com/album/5Mes2PsdAWigtNwpYE2wpv) | 2:21 |
+| 388 | [In Your Rain](https://open.spotify.com/track/1BWZJDDjnV0trlwD2wx19j) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [In Your Rain](https://open.spotify.com/album/4ZokxoM8A4uMm5E9i3yIBM) | 3:28 |
+| 389 | [Swinging Under The Stars](https://open.spotify.com/track/1c1FCwWrBH8A0PX3C0k50N) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8), [RGD Recording Studios](https://open.spotify.com/artist/1JeiziCH5knC2yiV1NkZK6) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 3:04 |
+| 390 | [Goodnight For Now](https://open.spotify.com/track/3u9b0gYCyQEu3CiTKJYEQY) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 3:37 |
+| 391 | [Tough Winters](https://open.spotify.com/track/61BnD8er42c9NVaBFv0q2X) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 3:41 |
+| 392 | [Gone Away](https://open.spotify.com/track/2Q4BM6mCDIqadoG6T8kKSy) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 1:28 |
+| 393 | [Scintilla Sempiternal](https://open.spotify.com/track/6I44DYyObfRaxsIbAkqFvx) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 0:49 |
+| 394 | [What's It Like Having A Hometown?](https://open.spotify.com/track/1Sh6AZpMkX6RoLpsZqLnSN) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 1:52 |
+| 395 | [Parasol](https://open.spotify.com/track/6sIBSE9I3zWB4CszqP8HM6) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 2:51 |
 
-Snapshot ID: `AAABpkjUhS0fbp3lzEWPISd1wpfeNHK0`
+Snapshot ID: `AAABvZvADZankdz0L5fTFAajJtKy3iy7`

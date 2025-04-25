@@ -4,7 +4,7 @@
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-57 songs - 3 hr 58 min
+58 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Midsummer Night's Dream: Nocturne, Op\. 61 No\. 7](https://open.spotify.com/track/50BudDA5jAJAULFU4tqHQ9) | [Tim Thorpe](https://open.spotify.com/artist/5jalqI4moemzPYFKEhZrph) | [Midsummer](https://open.spotify.com/album/0y5eFKRKERwyqIwm4u0UMn) | 5:43 | 2025-03-28 |  |
 | [Adagio in C Major for Glass Harmonica, K\. 356 \(Transcr\. for Piano\)](https://open.spotify.com/track/3Bw8tNViGRpU5apRbgdNE9) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [MOZART: Piano Works 3](https://open.spotify.com/album/3kHdBZKRhA6ZSDIi3iM5DS) | 2:31 | 2025-03-07 |  |
 | [Adagio in E Flat \(Arr\. Ólafsson from String Quintet No\. 3 in G Minor, K\. 516\)](https://open.spotify.com/track/1pcsXJHyzP8YXVOMH3Noox) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Mozart: Adagio in E Flat \(Arr\. Ólafsson from String Quintet No\. 3 in G Minor, K\. 516\)](https://open.spotify.com/album/2I4kned3lywzMzR6WcNgoo) | 8:04 | 2021-09-27 |  |
+| [Adoration](https://open.spotify.com/track/0Jo79j1CKMzGUAJgZMzKMT) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Philippe Quint](https://open.spotify.com/artist/3r87uYmq5T0Donmq8xUGPc), [Andrew Litton](https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn) | [Milestones](https://open.spotify.com/album/69XO9zYV3p6p26fjMExO3G) | 2:31 | 2025-04-24 |  |
 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 | 2021-09-27 |  |
 | [Bagatelles I\-XIII: Bagatelle III](https://open.spotify.com/track/766z8SbSmEmkprAFF4ff6A) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [The Messenger \(Extended Version\)](https://open.spotify.com/album/0KHFzKj2JJAojWJGh1scpL) | 4:26 | 2021-09-27 |  |
 | [Bluebird](https://open.spotify.com/track/1dWxSS2a93X4XVfs1mSYkB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:24 | 2021-09-27 |  |

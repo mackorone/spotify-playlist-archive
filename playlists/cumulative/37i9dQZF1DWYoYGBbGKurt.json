@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "3 AM",
+        "url": "https://open.spotify.com/album/6fl3GBwGZcMiSvUpTgpHU5"
+      },
+      "artists": [
+        {
+          "name": "London Lighthouse",
+          "url": "https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153425,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/1Fc0apFTrqXZGqerg8EKeZ"
+    },
+    {
+      "album": {
         "name": "sentient cacti",
         "url": "https://open.spotify.com/album/2ChMdOdljodE0E8rqraUFg"
       },
@@ -7089,6 +7107,24 @@
     },
     {
       "album": {
+        "name": "crispy",
+        "url": "https://open.spotify.com/album/5B9gshRopEWYswsesszmpc"
+      },
+      "artists": [
+        {
+          "name": "Breezonic",
+          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "crispy",
+      "url": "https://open.spotify.com/track/296PtyBwDRi5dLobxeLxWW"
+    },
+    {
+      "album": {
         "name": "crocodileteeth",
         "url": "https://open.spotify.com/album/0Uw8xYaT9ITRYcXFTIdRrY"
       },
@@ -13830,7 +13866,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 110000,
       "name": "Halls",
       "url": "https://open.spotify.com/track/3ivfzucSEXqJjS79y9sTs7"

@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Sof\u00eda \u00c1lvez.",
-  "num_followers": 26836,
+  "num_followers": 26841,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/1GAh1A5U9gi8BZSsfb2GBx"
+      },
+      "artists": [
+        {
+          "name": "Dos M\u00e1s Uno",
+          "url": "https://open.spotify.com/artist/7MhvLP9XRGrcNo167nTZWh"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/2RbCzyjatT607S4Q8uDEkg"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 275551,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/1GAh1A5U9gi8BZSsfb2GBx"
-      },
-      "artists": [
-        {
-          "name": "Dos M\u00e1s Uno",
-          "url": "https://open.spotify.com/artist/7MhvLP9XRGrcNo167nTZWh"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/2RbCzyjatT607S4Q8uDEkg"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "El Fr\u00edo Que Nos Convoca",
-        "url": "https://open.spotify.com/album/3qPpRCeozpveMhiCIwqknF"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 282057,
-      "name": "Menos Mal Que Estamos Juntes",
-      "url": "https://open.spotify.com/track/7KQdRMbcIbe6sASxtvmjkI"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Los Ojos del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 231038,
       "name": "Barquito de Papel",
       "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "El Fr\u00edo Que Nos Convoca",
+        "url": "https://open.spotify.com/album/3qPpRCeozpveMhiCIwqknF"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 282057,
+      "name": "Menos Mal Que Estamos Juntes",
+      "url": "https://open.spotify.com/track/7KQdRMbcIbe6sASxtvmjkI"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Vals de la Luna (Vivo en Madrid)",
-        "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Liniers",
-          "url": "https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb"
-        }
-      ],
-      "duration_ms": 245482,
-      "name": "Vals de la Luna (Vivo en Madrid)",
-      "url": "https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Arrullito",
         "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Vals de la Luna (Vivo en Madrid)",
+        "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Liniers",
+          "url": "https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb"
+        }
+      ],
+      "duration_ms": 245482,
+      "name": "Vals de la Luna (Vivo en Madrid)",
+      "url": "https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
         "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 367388,
       "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
       "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Falso de amor",
-        "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
-      },
-      "artists": [
-        {
-          "name": "Catalina y Las Bordonas de Oro",
-          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
-        },
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 212911,
-      "name": "Falso de amor",
-      "url": "https://open.spotify.com/track/0NZTon5imI2pfTZIEts5Wy"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1355,42 +1335,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Sampa",
-        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
+        "name": "Falso de amor",
+        "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
       },
       "artists": [
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+          "name": "Catalina y Las Bordonas de Oro",
+          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
         },
         {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
         }
       ],
-      "duration_ms": 269540,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "Qui\u00e9n da M\u00e1s?",
-        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
-      },
-      "artists": [
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 272010,
-      "name": "Qui\u00e9n da M\u00e1s?",
-      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
+      "duration_ms": 212911,
+      "name": "Falso de amor",
+      "url": "https://open.spotify.com/track/0NZTon5imI2pfTZIEts5Wy"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1431,6 +1391,46 @@
       "duration_ms": 216766,
       "name": "As\u00ed Sea",
       "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Qui\u00e9n da M\u00e1s?",
+        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
+      },
+      "artists": [
+        {
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 272010,
+      "name": "Qui\u00e9n da M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Sampa",
+        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        }
+      ],
+      "duration_ms": 269540,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 237078,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 237078,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1671,22 +1671,6 @@
       "duration_ms": 222006,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 274748,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1767,6 +1751,26 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
+      },
+      "artists": [
+        {
+          "name": "Valen Bonetto",
+          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
+        },
+        {
+          "name": "Brenda Martin",
+          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
+        }
+      ],
+      "duration_ms": 216645,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "La Mariposa",
         "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
       },
@@ -1787,22 +1791,18 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh"
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
       },
       "artists": [
         {
-          "name": "Valen Bonetto",
-          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
-        },
-        {
-          "name": "Brenda Martin",
-          "url": "https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI"
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
         }
       ],
-      "duration_ms": 216645,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
+      "duration_ms": 274748,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
     },
     {
       "added_at": "2025-04-11 03:00:08",

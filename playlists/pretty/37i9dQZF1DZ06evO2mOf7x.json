@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 45809,
+  "num_followers": 45815,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAAD7ibV7BJdNpgbDpz0neDx2",
+  "snapshot_id": "aAgtgAAAAAA5e3WHf0cX878pVqgjHF97",
   "tracks": [
     {
       "added_at": null,
@@ -282,15 +282,11 @@
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 239031,
-      "name": "El Consejo",
-      "url": "https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo"
+      "duration_ms": 189309,
+      "name": "Que Poca",
+      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
     },
     {
       "added_at": null,
@@ -410,11 +406,15 @@
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 189309,
-      "name": "Que Poca",
-      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
+      "duration_ms": 239031,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 295209,
-      "name": "Rompiendo Cadenas - Original mix",
-      "url": "https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi"
+      "duration_ms": 203546,
+      "name": "Te Llevaste - Original mix",
+      "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gente Gacha",
-        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 175285,
-      "name": "Gente Gacha",
-      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
+      "duration_ms": 224666,
+      "name": "Los Besos No Se Dan En La Camisa",
+      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
     },
     {
       "added_at": null,
@@ -844,15 +844,15 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 203546,
-      "name": "Te Llevaste - Original mix",
-      "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
+      "duration_ms": 295209,
+      "name": "Rompiendo Cadenas - Original mix",
+      "url": "https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Los Besos No Se Dan En La Camisa",
-      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "added_at": null,

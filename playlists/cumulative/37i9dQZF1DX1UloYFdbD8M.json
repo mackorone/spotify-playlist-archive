@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: The Down Troddence",
+  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Haniya Nafisa",
   "name": "Malayalam Indie",
   "tracks": [
     {
@@ -4139,6 +4139,24 @@
     },
     {
       "album": {
+        "name": "In Search of Love",
+        "url": "https://open.spotify.com/album/2UVh4d257okhn0wjbAXnRz"
+      },
+      "artists": [
+        {
+          "name": "Favas Fazin",
+          "url": "https://open.spotify.com/artist/7F3MFMJcy1eBbeD6Mq3KAc"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Ninnullam",
+      "url": "https://open.spotify.com/track/6wddmTvb3rh5xv0qVafxPU"
+    },
+    {
+      "album": {
         "name": "NISHANI",
         "url": "https://open.spotify.com/album/5YGg7k9HioYHeUDJtms8k7"
       },
@@ -4472,7 +4490,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 180352,
       "name": "Oru Mazhayude",
       "url": "https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh"

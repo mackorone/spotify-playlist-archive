@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,949 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,986 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 64 | [Got Your Six](https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:38 |
 | 65 | [Drinkin' Smokin' Cheatin'](https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Big Day in a Small Town](https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl) | 2:57 |
 | 66 | [Django and Jimmie](https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Django and Jimmie](https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG) | 2:53 |
-| 67 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 |
-| 68 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 |
+| 67 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 |
+| 68 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 |
 | 69 | [Whole Lotta Highway \(With A Million Miles to Go\)](https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Way Out West](https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB) | 3:18 |
 | 70 | [Time After Time \- Live from Spotify NYC](https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Spotify Sessions](https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf) | 5:29 |
 | 71 | [Hanging up My Heart](https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Old Yellow Moon](https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE) | 2:52 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 87 | [Place in My Heart](https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Place in My Heart](https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS) | 5:13 |
 | 88 | [Barbeque](https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [The Party Never Ends](https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc) | 4:42 |
 | 89 | [36 Cents](https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [36 ¢](https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV) | 4:24 |
-| 90 | [Brand New Me](https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [High Life](https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ) | 4:15 |
-| 91 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |
-| 92 | [I'll Get Away](https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Let It Go](https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0) | 4:08 |
-| 93 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 |
+| 90 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |
+| 91 | [Brand New Me](https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [High Life](https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ) | 4:15 |
+| 92 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 |
+| 93 | [I'll Get Away](https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Let It Go](https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0) | 4:08 |
 | 94 | [Can't Be There Today](https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Can't Be There Today](https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8) | 3:44 |
 | 95 | [New York City](https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Robby Hecht](https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4) | 3:41 |
 | 96 | [Every Pilgrim Needs a Highway](https://open.spotify.com/track/0AsSPcTKgY81UnorV87EJa) | [Craig Market](https://open.spotify.com/artist/6FhgZHX7TCADlFAnBawzov), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Nowhere to Hide](https://open.spotify.com/album/2ffD2tYaD8wcbnsgOudUtA) | 3:32 |

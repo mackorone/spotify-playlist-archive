@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "4\u00d74\u00d7U",
       "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 227578,
       "name": "At fifty years",
       "url": "https://open.spotify.com/track/6tSOpeiaHghF4qTr7WPQ0Q"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 165361,
       "name": "Dis Jou O\u00eb",
       "url": "https://open.spotify.com/track/4EprqQU8UwkxKBVtK2LTh3"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 201653,
       "name": "Feather In My Hat (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 175026,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 237142,
       "name": "Inside Our Pockets",
       "url": "https://open.spotify.com/track/2qtHjW1t7D51USeXVTxXpb"
@@ -1974,6 +1974,28 @@
       "duration_ms": 228546,
       "name": "Man of the Year",
       "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
+    },
+    {
+      "album": {
+        "name": "Margarita (Radio Edit)",
+        "url": "https://open.spotify.com/album/2wslTLywJE0GpGS0PKZkpB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Angel",
+          "url": "https://open.spotify.com/artist/47SWGmsz29f3rlBH0qXr0w"
+        },
+        {
+          "name": "Rocking Horse",
+          "url": "https://open.spotify.com/artist/3BXcquYnU1qZCRbE7IczLn"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218476,
+      "name": "Margarita - Radio Edit",
+      "url": "https://open.spotify.com/track/1UxThsYEDHx9uizqppUGgi"
     },
     {
       "album": {
@@ -2278,6 +2300,46 @@
       "duration_ms": 223528,
       "name": "Only One",
       "url": "https://open.spotify.com/track/0zuHx7BApuI7dCMaHjhWiF"
+    },
+    {
+      "album": {
+        "name": "Ons Lewe Net Een Keer",
+        "url": "https://open.spotify.com/album/1BSTOeLYWb5wh8t4SSGSpV"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176256,
+      "name": "Ons Lewe Net Een Keer",
+      "url": "https://open.spotify.com/track/5GgWWVgpPfX9qFHtZ1TNU2"
+    },
+    {
+      "album": {
+        "name": "Oomblik Soos Die",
+        "url": "https://open.spotify.com/album/2TdR8vBcLjjj7iQd7610Q4"
+      },
+      "artists": [
+        {
+          "name": "Jean-Marc Meyer",
+          "url": "https://open.spotify.com/artist/1O9OQlD0broyuOyj8JpDER"
+        },
+        {
+          "name": "Johnny Davids",
+          "url": "https://open.spotify.com/artist/4O4Ocahhc56ogjs3KY9qLN"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223373,
+      "name": "Oomblik Soos Die",
+      "url": "https://open.spotify.com/track/0t2SYaJel18i9Th9zmkLUm"
     },
     {
       "album": {
@@ -2661,6 +2723,28 @@
     },
     {
       "album": {
+        "name": "Soft Hands (Radio Edit)",
+        "url": "https://open.spotify.com/album/2Cs8Re60eIahwWgz3iIusz"
+      },
+      "artists": [
+        {
+          "name": "Joanna Field",
+          "url": "https://open.spotify.com/artist/6BiMnCvdjowUm6YGF9rIEf"
+        },
+        {
+          "name": "Rocking Horse",
+          "url": "https://open.spotify.com/artist/3BXcquYnU1qZCRbE7IczLn"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164392,
+      "name": "Soft Hands - Radio Edit",
+      "url": "https://open.spotify.com/track/2plzIlWmZ0raldA6ju97gn"
+    },
+    {
+      "album": {
         "name": "Solitary Tracks",
         "url": "https://open.spotify.com/album/6T3CK6Nzy6QTpT9jmVuWH7"
       },
@@ -2968,7 +3052,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 169997,
       "name": "Tipsy (A Bar Song)",
       "url": "https://open.spotify.com/track/0Lg0yTMmkccINBc6FrDDRU"
@@ -3134,7 +3218,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 214440,
       "name": "Well Well Whiskey",
       "url": "https://open.spotify.com/track/5E7LPTMQcsjr9R7WOCNcCE"

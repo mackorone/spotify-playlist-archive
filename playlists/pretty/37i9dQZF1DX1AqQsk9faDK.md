@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Aline Barros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,803 likes - 25 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,818 likes - 25 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 3 | [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 |
 | 4 | [Mary, Did You Know?](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:23 |
 | 5 | [Jesus, o Plano Perfeito \(Live\)](https://open.spotify.com/track/6q88mQ6PWg8XpaQ3fZc1I8) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Canto de Sião \(Live At Amnon Beach Kineret, Galiléia, Israel / 2013\)](https://open.spotify.com/album/40S6Cdby8iPb9DIA4PIm3k) | 7:26 |
-| 6 | [Tu és + Águas Purificadoras \- Ao Vivo](https://open.spotify.com/track/5QbtKOsjbEGkx0GMiQGBZt) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Débora Rabelo](https://open.spotify.com/artist/422QvLrp4rn4VaTnb810uJ), [Hamilton Rabelo](https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/0RQmJsjyVrI8sUuKIKwQSC) | 7:56 |
+| 6 | [Tu és + Águas Purificadoras \- Ao Vivo](https://open.spotify.com/track/5QbtKOsjbEGkx0GMiQGBZt) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Hamilton Rabelo](https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/0RQmJsjyVrI8sUuKIKwQSC) | 7:56 |
 | 7 | [Mensagem: Luz da Esperança](https://open.spotify.com/episode/1eGm9Q2oO9nHak4HuymDU2) | [Fé Pelo Ouvir](https://open.spotify.com/show/7deJgKqsrxtJ6M7KHfRmHK) | [Fé Pelo Ouvir](https://open.spotify.com/album/7deJgKqsrxtJ6M7KHfRmHK) | 1:11 |
 | 8 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 |
 | 9 | [Esperança](https://open.spotify.com/track/3Uf6AP6Y6tNf6L8mc4BqgV) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Imafe Music](https://open.spotify.com/artist/7uONDs2xgEa45I088HwX56), [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC), [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Esperança](https://open.spotify.com/album/08NJB7Pr0r7sv7nAKinTCR) | 3:52 |

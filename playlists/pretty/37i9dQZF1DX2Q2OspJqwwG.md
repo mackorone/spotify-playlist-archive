@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,232 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,245 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 96 | [Spania](https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Spania](https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc) | 2:39 |
 | 97 | [Vorba Francezului \- From "Buzz House" The Movie](https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Vorba Francezului \(From "Buzz House" The Movie\)](https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6) | 2:39 |
 | 98 | [Taramul interzis](https://open.spotify.com/track/1wAfxPzDicgCr70eTTY1Lr) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Taramul interzis](https://open.spotify.com/album/5CqQHsNVSPFpkBGCAwh4Ud) | 2:50 |
-| 99 | [LIKE ME](https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg) | [MGEE](https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC) | [LIKE ME](https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef) | 2:23 |
-| 100 | [Las\-o așa](https://open.spotify.com/track/0I0hHI96Gl0Q7xE3EWeZLG) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Las\-o așa](https://open.spotify.com/album/2flsDPjDVpyrv62IByLCcj) | 2:46 |
+| 99 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 |
+| 100 | [LIKE ME](https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg) | [MGEE](https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC) | [LIKE ME](https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef) | 2:23 |
 
 Snapshot ID: `aAkWxQAAAABGZPuw+4iHQocvadu7QfEi`

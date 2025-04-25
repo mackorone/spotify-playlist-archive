@@ -1,6 +1,6 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 197038,
+  "num_followers": 197045,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -416,7 +416,7 @@
           "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
         },
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
+          "name": "TEED",
           "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/04ib8lMhGT6avUwxcT2CDE"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "LODATO",
+          "url": "https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv"
+        },
+        {
+          "name": "Janice Robinson",
+          "url": "https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd"
         }
       ],
-      "duration_ms": 151160,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7"
+      "duration_ms": 172800,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/0IPYNDq06pcjd2lybZKNPo"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/04ib8lMhGT6avUwxcT2CDE"
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR"
       },
       "artists": [
         {
-          "name": "LODATO",
-          "url": "https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv"
-        },
-        {
-          "name": "Janice Robinson",
-          "url": "https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/0IPYNDq06pcjd2lybZKNPo"
+      "duration_ms": 151160,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Spitting Off the Edge of the World",
-        "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "Spitting Off the Edge of the World",
-      "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 238019,
       "name": "Sirens (feat. Caroline Polachek)",
       "url": "https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Spitting Off the Edge of the World",
+        "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Sorry I'm Not Sorry",
-        "url": "https://open.spotify.com/album/6oA2zIq7PK3XtfTsJ3yYZr"
-      },
-      "artists": [
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Whiney",
-          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
-        }
-      ],
-      "duration_ms": 214042,
-      "name": "Sorry I'm Not Sorry",
-      "url": "https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "READY4DEM",
         "url": "https://open.spotify.com/album/5vdRPZLNiSdQbZKAkmRiEE"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 262346,
       "name": "READY4DEM",
       "url": "https://open.spotify.com/track/6vFjgISjK4fwJYPnMt8zAX"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Sorry I'm Not Sorry",
+        "url": "https://open.spotify.com/album/6oA2zIq7PK3XtfTsJ3yYZr"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        }
+      ],
+      "duration_ms": 214042,
+      "name": "Sorry I'm Not Sorry",
+      "url": "https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx"
     },
     {
       "added_at": "2023-01-25 16:56:24",

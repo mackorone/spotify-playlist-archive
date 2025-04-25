@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 258433,
+  "num_followers": 258529,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,22 @@
     {
       "added_at": "2025-04-18 04:00:44",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        {
+          "name": "Dan Heath",
+          "url": "https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P"
         }
       ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
+      "duration_ms": 205333,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/1luDTOkUqKMQ8gQvB3U3gO"
     },
     {
       "added_at": "2025-04-18 04:00:44",
@@ -523,6 +527,22 @@
       "duration_ms": 195384,
       "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
+    },
+    {
+      "added_at": "2025-04-18 04:00:44",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
     },
     {
       "added_at": "2025-04-18 04:00:44",
@@ -559,26 +579,6 @@
       "duration_ms": 229155,
       "name": "Without",
       "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
-    },
-    {
-      "added_at": "2025-04-18 04:00:44",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        },
-        {
-          "name": "Dan Heath",
-          "url": "https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/1luDTOkUqKMQ8gQvB3U3gO"
     },
     {
       "added_at": "2025-04-18 04:00:44",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-04-18 04:00:44",
       "album": {
-        "name": "Pura",
-        "url": "https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c"
-      },
-      "artists": [
-        {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Pura",
-      "url": "https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA"
-    },
-    {
-      "added_at": "2025-04-18 04:00:44",
-      "album": {
         "name": "Within and Without",
         "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 287720,
       "name": "Eyes Be Closed",
       "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
+    },
+    {
+      "added_at": "2025-04-18 04:00:44",
+      "album": {
+        "name": "Pura",
+        "url": "https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Pura",
+      "url": "https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA"
     },
     {
       "added_at": "2025-04-18 04:00:44",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-04-18 04:00:44",
       "album": {
+        "name": "To You EP",
+        "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 342604,
+      "name": "Lonely Romance",
+      "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
+    },
+    {
+      "added_at": "2025-04-18 04:00:44",
+      "album": {
         "name": "Been Such a Long Time (Luke Alessi Remixes)",
         "url": "https://open.spotify.com/album/1ygb2SakGO4F333VZEpkoo"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2025-04-18 04:00:44",
       "album": {
-        "name": "To You EP",
-        "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 342604,
-      "name": "Lonely Romance",
-      "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
-    },
-    {
-      "added_at": "2025-04-18 04:00:44",
-      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-04-18 04:00:44",
       "album": {
-        "name": "Encores 2",
-        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
-    },
-    {
-      "added_at": "2025-04-18 04:00:44",
-      "album": {
         "name": "no world",
         "url": "https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 221306,
       "name": "the place",
       "url": "https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN"
+    },
+    {
+      "added_at": "2025-04-18 04:00:44",
+      "album": {
+        "name": "Encores 2",
+        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
     },
     {
       "added_at": "2025-04-18 04:00:44",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-04-18 04:00:44",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 262827,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
-    },
-    {
-      "added_at": "2025-04-18 04:00:44",
-      "album": {
         "name": "Ambivalence Avenue",
         "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 238640,
       "name": "lovers\u2019 carvings",
       "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
+    },
+    {
+      "added_at": "2025-04-18 04:00:44",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "added_at": "2025-04-18 04:00:44",
@@ -1503,6 +1503,38 @@
     {
       "added_at": "2025-04-18 04:00:44",
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 596773,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
+    },
+    {
+      "added_at": "2025-04-18 04:00:44",
+      "album": {
+        "name": "Sabresonic",
+        "url": "https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA"
+      },
+      "artists": [
+        {
+          "name": "The Sabres Of Paradise",
+          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Smokebelch II - Beatless Mix",
+      "url": "https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ"
+    },
+    {
+      "added_at": "2025-04-18 04:00:44",
+      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
       },
@@ -1539,38 +1571,6 @@
       "duration_ms": 132306,
       "name": "Emerald and Stone",
       "url": "https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl"
-    },
-    {
-      "added_at": "2025-04-18 04:00:44",
-      "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 596773,
-      "name": "Immunity",
-      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
-    },
-    {
-      "added_at": "2025-04-18 04:00:44",
-      "album": {
-        "name": "Sabresonic",
-        "url": "https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA"
-      },
-      "artists": [
-        {
-          "name": "The Sabres Of Paradise",
-          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Smokebelch II - Beatless Mix",
-      "url": "https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ"
     },
     {
       "added_at": "2025-04-18 04:00:44",

@@ -1,13 +1,33 @@
 {
-  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/5YrV8AJDPqlKLq8DCzTy4T?si=RN75fd_iRIGWAxi8g4FBpA\">uDulasi Magubane</a>",
-  "num_followers": 192928,
+  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg?si=9irtkBtMTSS292J3f_t4ew\">Sminofu</a> & <a href=\"https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=ofQ6fp07T6CthU19JmDU-g\">Zee Nxumalo</a>",
+  "num_followers": 193063,
   "original_name": "Bhinca Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAGn/QAAAAAnXwYk5Tf2bxLBSPGKI6Vn",
+  "snapshot_id": "aAq0jQAAAABzPd3KFJc7bXX5rNqQ1G4Q",
   "tracks": [
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Sajola Kamnandi",
+        "url": "https://open.spotify.com/album/7mXvm4Rf4JTepqsSMhYPJO"
+      },
+      "artists": [
+        {
+          "name": "Sminofu",
+          "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        }
+      ],
+      "duration_ms": 254778,
+      "name": "Sajola Kamnandi",
+      "url": "https://open.spotify.com/track/2QVyLdd8FNg33pm5qfju1g"
+    },
     {
       "added_at": "2025-04-18 01:16:45",
       "album": {
@@ -47,26 +67,6 @@
     {
       "added_at": "2025-04-18 01:16:45",
       "album": {
-        "name": "iMalini iNyoka???",
-        "url": "https://open.spotify.com/album/6CNsUqNftKc0ppW3nyyUtv"
-      },
-      "artists": [
-        {
-          "name": "uDulasi Magubane",
-          "url": "https://open.spotify.com/artist/5YrV8AJDPqlKLq8DCzTy4T"
-        },
-        {
-          "name": "Sminofu",
-          "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Ngisoshabeni (feat. Sminofu)",
-      "url": "https://open.spotify.com/track/7Hn7cwTrjzLQRExBW2TDGX"
-    },
-    {
-      "added_at": "2025-04-18 01:16:45",
-      "album": {
         "name": "Impisi Iyalaya (Deleted)",
         "url": "https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT"
       },
@@ -97,40 +97,20 @@
       "url": "https://open.spotify.com/track/0fzMIBpjLCRJuO7aI0p6Hw"
     },
     {
-      "added_at": "2025-04-18 01:16:45",
+      "added_at": "2025-04-24 22:00:45",
       "album": {
-        "name": "Dankie Nkulunkulu",
-        "url": "https://open.spotify.com/album/5roh2GIpGCkpxZFk31IbyU"
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/0whjCAjxrHgpDBdngBhv1U"
       },
       "artists": [
         {
-          "name": "Umlabalaba",
-          "url": "https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY"
+          "name": "LIMIT NALA",
+          "url": "https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY"
         }
       ],
-      "duration_ms": 287755,
-      "name": "Ulimenemene",
-      "url": "https://open.spotify.com/track/1QITFX3ky8436INEk0khrM"
-    },
-    {
-      "added_at": "2025-04-18 01:16:45",
-      "album": {
-        "name": "Sengize Ngamthola",
-        "url": "https://open.spotify.com/album/0xNTVdgtDwuo5D4FxjJqeS"
-      },
-      "artists": [
-        {
-          "name": "AMASINAMUVA AMASHA",
-          "url": "https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV"
-        },
-        {
-          "name": "Kele",
-          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
-        }
-      ],
-      "duration_ms": 361714,
-      "name": "Sengize Ngamthola",
-      "url": "https://open.spotify.com/track/6U6mnSkN3dWoY0H0k1Og2M"
+      "duration_ms": 537652,
+      "name": "Kulate Kulate",
+      "url": "https://open.spotify.com/track/7u70HF9iJZnjTOJKewmuez"
     },
     {
       "added_at": "2025-04-18 01:16:45",
@@ -203,6 +183,42 @@
       "duration_ms": 293877,
       "name": "Awuhlabe Kabili",
       "url": "https://open.spotify.com/track/5nVQ2bPZjV9wlD2hboLe6l"
+    },
+    {
+      "added_at": "2025-04-18 01:16:45",
+      "album": {
+        "name": "Sengize Ngamthola",
+        "url": "https://open.spotify.com/album/0xNTVdgtDwuo5D4FxjJqeS"
+      },
+      "artists": [
+        {
+          "name": "AMASINAMUVA AMASHA",
+          "url": "https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV"
+        },
+        {
+          "name": "Kele",
+          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
+        }
+      ],
+      "duration_ms": 361714,
+      "name": "Sengize Ngamthola",
+      "url": "https://open.spotify.com/track/6U6mnSkN3dWoY0H0k1Og2M"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Sizesiguge",
+        "url": "https://open.spotify.com/album/4r0xxU4MBpXVrNOcJRfUEI"
+      },
+      "artists": [
+        {
+          "name": "MENZI MUSIC",
+          "url": "https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q"
+        }
+      ],
+      "duration_ms": 303856,
+      "name": "Sizesiguge",
+      "url": "https://open.spotify.com/track/0JtMOvqqZCNl5DySXS2BE4"
     },
     {
       "added_at": "2025-04-18 01:16:45",
@@ -305,6 +321,22 @@
       "url": "https://open.spotify.com/track/79r4mAwHBAB1x5QnImlUM6"
     },
     {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "duration_ms": 293537,
+      "name": "Ngewala",
+      "url": "https://open.spotify.com/track/1VyiNL81AtyBvf7EVycnip"
+    },
+    {
       "added_at": "2025-04-18 01:16:45",
       "album": {
         "name": "Uyihlo nonyoko",
@@ -363,6 +395,22 @@
     {
       "added_at": "2025-04-18 01:16:45",
       "album": {
+        "name": "Dankie Nkulunkulu",
+        "url": "https://open.spotify.com/album/5roh2GIpGCkpxZFk31IbyU"
+      },
+      "artists": [
+        {
+          "name": "Umlabalaba",
+          "url": "https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY"
+        }
+      ],
+      "duration_ms": 287755,
+      "name": "Ulimenemene",
+      "url": "https://open.spotify.com/track/1QITFX3ky8436INEk0khrM"
+    },
+    {
+      "added_at": "2025-04-18 01:16:45",
+      "album": {
         "name": "Amathambo Kagogo",
         "url": "https://open.spotify.com/album/5PyObQsvE3RD87LD6N4C35"
       },
@@ -381,6 +429,26 @@
       "url": "https://open.spotify.com/track/3yCMDYGNMwtQtBmeny6aPL"
     },
     {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "SILENT TREATMENT",
+        "url": "https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh"
+      },
+      "artists": [
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        },
+        {
+          "name": "Sne Ntuli",
+          "url": "https://open.spotify.com/artist/7a3R5VMZYPhutTAMipMBAc"
+        }
+      ],
+      "duration_ms": 291418,
+      "name": "BENG'DAKIWE",
+      "url": "https://open.spotify.com/track/4Hv4Gwl4awcQzzazJ054Vg"
+    },
+    {
       "added_at": "2025-04-18 01:16:45",
       "album": {
         "name": "Angidlali Nezingane",
@@ -395,22 +463,6 @@
       "duration_ms": 240316,
       "name": "Imali Yento Yami",
       "url": "https://open.spotify.com/track/1RdESnfu29G7qrT3GTNK3K"
-    },
-    {
-      "added_at": "2025-04-18 01:16:45",
-      "album": {
-        "name": "SILENT TREATMENT",
-        "url": "https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh"
-      },
-      "artists": [
-        {
-          "name": "Inkos'yamagcokama",
-          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
-        }
-      ],
-      "duration_ms": 247797,
-      "name": "SILENT TREATMENT",
-      "url": "https://open.spotify.com/track/4vmG60pBtnvREzkx9vcN0j"
     },
     {
       "added_at": "2025-04-18 01:16:45",
@@ -435,18 +487,22 @@
     {
       "added_at": "2025-04-18 01:16:45",
       "album": {
-        "name": "Alingeni",
-        "url": "https://open.spotify.com/album/2NCLT1NSdnD5BlKYZT0ije"
+        "name": "iMalini iNyoka???",
+        "url": "https://open.spotify.com/album/6CNsUqNftKc0ppW3nyyUtv"
       },
       "artists": [
         {
-          "name": "Ntencane",
-          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
+          "name": "uDulasi Magubane",
+          "url": "https://open.spotify.com/artist/5YrV8AJDPqlKLq8DCzTy4T"
+        },
+        {
+          "name": "Sminofu",
+          "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
         }
       ],
-      "duration_ms": 268840,
-      "name": "Imizi Yobaba",
-      "url": "https://open.spotify.com/track/7AAZlyNmveOi5BRPbxFApQ"
+      "duration_ms": 234000,
+      "name": "Ngisoshabeni (feat. Sminofu)",
+      "url": "https://open.spotify.com/track/7Hn7cwTrjzLQRExBW2TDGX"
     },
     {
       "added_at": "2025-04-18 01:16:45",
@@ -471,26 +527,34 @@
     {
       "added_at": "2025-04-18 01:16:45",
       "album": {
-        "name": "iAttention (feat. Inkos'yamagcokama & Ashantiey)",
-        "url": "https://open.spotify.com/album/2Z7UEzd0BEVdcJ29bpjfHI"
+        "name": "SILENT TREATMENT",
+        "url": "https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh"
       },
       "artists": [
         {
-          "name": "Zwide",
-          "url": "https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ"
-        },
-        {
           "name": "Inkos'yamagcokama",
           "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
-        },
-        {
-          "name": "Ashantiey",
-          "url": "https://open.spotify.com/artist/5Y27ZPdDBCA7vofb3xXKpk"
         }
       ],
-      "duration_ms": 260303,
-      "name": "iAttention (feat. Inkos'yamagcokama & Ashantiey)",
-      "url": "https://open.spotify.com/track/4zb5lmp4fKXkB6fENFp2h5"
+      "duration_ms": 247797,
+      "name": "SILENT TREATMENT",
+      "url": "https://open.spotify.com/track/4vmG60pBtnvREzkx9vcN0j"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "MUNHU WUN'WE TSENA",
+        "url": "https://open.spotify.com/album/6IhLHOsNgQWjmNKOB3drP2"
+      },
+      "artists": [
+        {
+          "name": "MR POST",
+          "url": "https://open.spotify.com/artist/3Opg7lHePdQNELBye7dkwN"
+        }
+      ],
+      "duration_ms": 292714,
+      "name": "MUNHU WUN'WE TSENA",
+      "url": "https://open.spotify.com/track/2zbjp5Ye9hvSevr6xP4hic"
     },
     {
       "added_at": "2025-04-18 01:16:45",
@@ -519,6 +583,22 @@
     {
       "added_at": "2025-04-18 01:16:45",
       "album": {
+        "name": "Alingeni",
+        "url": "https://open.spotify.com/album/2NCLT1NSdnD5BlKYZT0ije"
+      },
+      "artists": [
+        {
+          "name": "Ntencane",
+          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Imizi Yobaba",
+      "url": "https://open.spotify.com/track/7AAZlyNmveOi5BRPbxFApQ"
+    },
+    {
+      "added_at": "2025-04-18 01:16:45",
+      "album": {
         "name": "Intombi Ayinikwa'imali",
         "url": "https://open.spotify.com/album/6chhFI9kCmwG7wBSoZmIWk"
       },
@@ -539,6 +619,30 @@
     {
       "added_at": "2025-04-18 01:16:45",
       "album": {
+        "name": "iAttention (feat. Inkos'yamagcokama & Ashantiey)",
+        "url": "https://open.spotify.com/album/2Z7UEzd0BEVdcJ29bpjfHI"
+      },
+      "artists": [
+        {
+          "name": "Zwide",
+          "url": "https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ"
+        },
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        },
+        {
+          "name": "Ashantiey",
+          "url": "https://open.spotify.com/artist/5Y27ZPdDBCA7vofb3xXKpk"
+        }
+      ],
+      "duration_ms": 260303,
+      "name": "iAttention (feat. Inkos'yamagcokama & Ashantiey)",
+      "url": "https://open.spotify.com/track/4zb5lmp4fKXkB6fENFp2h5"
+    },
+    {
+      "added_at": "2025-04-18 01:16:45",
+      "album": {
         "name": "Emabhukwini Amafa",
         "url": "https://open.spotify.com/album/34aIyCyXYvuscSo4LjAdym"
       },
@@ -555,6 +659,22 @@
       "duration_ms": 305449,
       "name": "Umeqiselo",
       "url": "https://open.spotify.com/track/7hdOzJv2HNhbQ3TYFelg8Z"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "duration_ms": 271856,
+      "name": "Ubasela ama-Ex",
+      "url": "https://open.spotify.com/track/5Z41KRKlonoT7McWnIPCrY"
     },
     {
       "added_at": "2025-04-18 01:16:45",
@@ -753,6 +873,22 @@
       "url": "https://open.spotify.com/track/15Bz72dEexfEuWTF5sZJjv"
     },
     {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/0whjCAjxrHgpDBdngBhv1U"
+      },
+      "artists": [
+        {
+          "name": "LIMIT NALA",
+          "url": "https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY"
+        }
+      ],
+      "duration_ms": 271673,
+      "name": "Ngihlanya Ngempela",
+      "url": "https://open.spotify.com/track/3Omsswpz3xz1gYZ7iegmmy"
+    },
+    {
       "added_at": "2025-04-18 01:16:45",
       "album": {
         "name": "Ngeke Ungiphathe",
@@ -835,6 +971,22 @@
       "duration_ms": 283557,
       "name": "Abafana Badlala Ngathi",
       "url": "https://open.spotify.com/track/2MS5BhgzvMg4frVGhxYuwJ"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "duration_ms": 299937,
+      "name": "Washonaphi",
+      "url": "https://open.spotify.com/track/5hKahvWd7ELDHgaoMl5m96"
     },
     {
       "added_at": "2025-04-18 01:16:45",
@@ -925,24 +1077,20 @@
       "url": "https://open.spotify.com/track/5uCxT0vTqqJSgjUgZCBSmJ"
     },
     {
-      "added_at": "2025-04-18 01:16:45",
+      "added_at": "2025-04-24 22:00:45",
       "album": {
-        "name": "Ngibeke ngaphezulu",
-        "url": "https://open.spotify.com/album/18iAcED7ZigdxyT1M9FIrA"
+        "name": "Sizesiguge",
+        "url": "https://open.spotify.com/album/4r0xxU4MBpXVrNOcJRfUEI"
       },
       "artists": [
         {
-          "name": "Luve Dubazane",
-          "url": "https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi"
-        },
-        {
-          "name": "Siphesihle Zulu-Dludla",
-          "url": "https://open.spotify.com/artist/4WLxtg19BodfropUsRZ4Id"
+          "name": "MENZI MUSIC",
+          "url": "https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q"
         }
       ],
-      "duration_ms": 175882,
-      "name": "Ngibeke ngaphezulu",
-      "url": "https://open.spotify.com/track/3bRxzFF8pq8RpVQTUpM5Bo"
+      "duration_ms": 224365,
+      "name": "Kudala Ngakhuleka",
+      "url": "https://open.spotify.com/track/0gj0vMgVm7an7RVi6gBxRh"
     },
     {
       "added_at": "2025-04-18 01:16:45",
@@ -1027,6 +1175,22 @@
       "duration_ms": 294582,
       "name": "Emendweni (Official Audio)",
       "url": "https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "duration_ms": 229485,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/7Ejxa1MQT8DlsdQSoxP7Wq"
     },
     {
       "added_at": "2025-04-18 01:16:45",

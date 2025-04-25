@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: シャッポ Chappo
 
-2,356 songs - 6 day 3 hr 8 min
+2,357 songs - 6 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [AUGHOST](https://open.spotify.com/track/3CIC4Hhu4OTH8o5Qx3BB7b) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [koizumi kyoko](https://open.spotify.com/artist/3eNfif7D047aRloRtNn4sL) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6hvYxf47rTGD9q1FFlAp89) | 4:37 | 2024-03-07 | 2024-03-13 |
 | [AUGHOST](https://open.spotify.com/track/3v4FtGIzDeWESUYg1q092k) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6ffbWXYFwz2c8yfFjVOceR) | 4:37 | 2024-03-07 | 2024-03-09 |
 | [Aura](https://open.spotify.com/track/4RcHvfKNRsF23MaL1oPJTZ) | [Masaya Kudo](https://open.spotify.com/artist/2Jw7yBPDAHziuP4rQf0dEX) | [View from the window](https://open.spotify.com/album/0iQmiTEWmnTHA8FmMManGC) | 3:48 | 2023-06-20 | 2023-06-28 |
+| [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 | 2025-04-24 |  |
 | [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [B.B.M\. \(feat\. PinocchioP\)](https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68) | 3:06 | 2024-10-08 | 2024-11-27 |
 | [BABY END](https://open.spotify.com/track/7vIMvvEMQu2Su8qyHrUtPQ) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [BABY END](https://open.spotify.com/album/0dwHmTKqojEP054Y8SoZiZ) | 4:40 | 2023-08-22 | 2023-09-09 |
 | [Baby So in Love](https://open.spotify.com/track/1tLmk8MxJuLMXNv654c6A5) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 3:43 | 2023-05-02 | 2023-05-24 |
@@ -1226,7 +1227,7 @@
 | [Still Dreaming](https://open.spotify.com/track/6I22fRk15SGhKaLTaqo2hp) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP2](https://open.spotify.com/album/3l4Os3DBXtlGCWLWRoJbft) | 4:28 | 2024-10-15 | 2024-11-24 |
 | [Still Remember](https://open.spotify.com/track/09LIZF2fpKHNTmAwokmj6O) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 4:41 | 2024-09-03 | 2024-10-18 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-03-01 |
-| [Strange Cherry Red](https://open.spotify.com/track/2LmsLo5A6UWdH6y8JIzbin) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [Weird Dreams](https://open.spotify.com/album/2Jx2rjAN8m3ciX01J4rzCy) | 4:33 | 2025-04-01 |  |
+| [Strange Cherry Red](https://open.spotify.com/track/2LmsLo5A6UWdH6y8JIzbin) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [Weird Dreams](https://open.spotify.com/album/2Jx2rjAN8m3ciX01J4rzCy) | 4:33 | 2025-04-01 | 2025-04-25 |
 | [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 | 2023-11-12 | 2023-11-27 |
 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 | 2023-10-31 | 2024-09-04 |
 | [strong zero gravity](https://open.spotify.com/track/701I1Uyx6gLciKwRfuhSJR) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [strong zero gravity](https://open.spotify.com/album/7dv9fz7OJTyH5UpwvIkzLy) | 4:13 | 2023-01-12 | 2023-01-18 |

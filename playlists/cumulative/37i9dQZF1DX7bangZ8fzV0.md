@@ -2,15 +2,16 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=qM5YtP52QTCe54I\-KN03Cg">Bobby Van Jaarsveld</a> en <a href="https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=l8x5Gi5qQXa3jfHiLe9YqQ">Irene\-Louise Van Wyk</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=5E7M0TMXRR2r60CuEAlLEQ">Riaan Benadé</a> en <a href="https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=XXAWBmfvTKOXvYpAdhh9zA">Ricus Nel</a>
 
-274 songs - 15 hr 10 min
+279 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#23](https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl) | [Lisie Basson](https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR) | [\#23](https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2) | 2:42 | 2023-05-04 | 2023-09-16 |
 | [10 Uit 10](https://open.spotify.com/track/0Y8MPTdUEx4HKVSJKLu4Wl) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Die Onbekende](https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc) | 3:56 | 2022-11-10 | 2023-01-06 |
 | [110](https://open.spotify.com/track/0du9AbEce0kooBH5I6suvG) | [Margot](https://open.spotify.com/artist/3mNS0vt7TNS7yL6wfaksKf) | [110](https://open.spotify.com/album/26xPlVpw1qJcexaviUjYTU) | 3:09 | 2022-08-25 | 2022-10-07 |
+| [308](https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [308](https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY) | 2:47 | 2025-04-24 |  |
 | [Afrika Son](https://open.spotify.com/track/6AmJU5Rtf7vXcubCYJitGa) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Afrika Son](https://open.spotify.com/album/2AeonSEurMMMp7nfCKoRg2) | 2:50 | 2022-09-01 | 2022-10-21 |
 | [Afrikaans is Alles](https://open.spotify.com/track/3eeGal6kEMlUaPnxY7bTtJ) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Afrikaans is Alles](https://open.spotify.com/album/6L81naBshdxYFpIBllKhGj) | 3:53 | 2023-03-09 | 2023-04-28 |
 | [Als Is Okay](https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Als Is Okay](https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb) | 3:01 | 2023-11-16 | 2024-07-05 |
@@ -104,10 +105,12 @@
 | [Hey Jy](https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Hey Jy](https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC) | 3:20 | 2023-08-03 | 2023-11-03 |
 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 | 2022-08-02 | 2024-05-10 |
 | [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 | 2022-11-04 |
+| [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 | 2025-04-24 |  |
 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 | 2024-11-14 | 2025-04-11 |
 | [Hou Bene Hou](https://open.spotify.com/track/3OtXZRDaPgr9w3NO84Um3X) | [Nolene](https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o) | [Hou Bene Hou](https://open.spotify.com/album/4kmNdny53K7oNhsJHAliYl) | 3:35 | 2024-04-26 | 2024-07-05 |
 | [Hy Jy Jy](https://open.spotify.com/track/6XFuQdgV9LU2ss1jcF6Ogg) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Hy Jy Jy](https://open.spotify.com/album/036REkipFi8J0yHsuMQ8Aj) | 3:17 | 2024-04-11 | 2024-07-27 |
 | [Hy's 'n Lekker Ou](https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf](https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd) | 3:16 | 2023-05-04 | 2023-06-16 |
+| [Iemand Soos Jy](https://open.spotify.com/track/298k3iGimVSsClUG9KolBF) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Klein Dingetjies](https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI) | 2:57 | 2025-04-24 |  |
 | [Ik Ben Een Afrikaander](https://open.spotify.com/track/6qqq4BVds5A4py5kwBgw2p) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Ik Ben Een Afrikaander](https://open.spotify.com/album/6ltCW6g9GHM3Q234qeF3V0) | 3:21 | 2024-10-10 | 2025-02-28 |
 | [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 |  |
 | [Inge 2](https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Almal Gly](https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX) | 3:41 | 2023-08-17 |  |
@@ -247,6 +250,7 @@
 | [Sêra Sê Ja!](https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sêra Sê Ja!](https://open.spotify.com/album/1Hky0XfrgZQSSyDBx3LB2V) | 3:24 | 2023-04-27 | 2023-06-23 |
 | [Tannie Katesbes](https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Tannie Katesbes](https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N) | 3:00 | 2023-10-26 | 2024-11-01 |
 | [Tassies Pak](https://open.spotify.com/track/6OoOPgl7o8OsbtzbW3ApE9) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Tassies Pak](https://open.spotify.com/album/7lh58VBSO1h1QldbP3C157) | 4:05 | 2023-06-15 | 2023-09-22 |
+| [Te Min, Teveel](https://open.spotify.com/track/7oJ22L0BCvRKu8nuOr1ZLS) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Te Min, Teveel](https://open.spotify.com/album/11C89xnWe760siWpcJPirS) | 2:30 | 2025-04-24 |  |
 | [Teiken](https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Teiken](https://open.spotify.com/album/5iMH0jDldXRETC2gJJYHag) | 3:05 | 2024-04-26 | 2024-05-17 |
 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 | 2021-07-01 | 2024-04-19 |
 | [Tekkies Brand](https://open.spotify.com/track/6iMPMrSlrIi272VQgvqCCF) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/5OS8Fu5s3oOGv58FO7kE2c) | 3:28 | 2024-02-15 |  |
@@ -271,6 +275,7 @@
 | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-12-28 | 2024-12-23 |
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |
+| [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 | 2025-04-24 |  |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-04 |
 | [Wat nou?](https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Wat nou?](https://open.spotify.com/album/1Jj5WCIH5SQXLKTfJ3VLwM) | 2:38 | 2023-07-13 | 2023-12-15 |
 | [Wes Kaap](https://open.spotify.com/track/3vdDLTqgBb9ro7p3K0h6MI) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [God Kan](https://open.spotify.com/album/26qfyYjiOZDdHj2c5uR20y) | 2:35 | 2024-12-12 | 2025-02-21 |

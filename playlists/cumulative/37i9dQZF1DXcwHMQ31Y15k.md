@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: NDX A.K.A
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Happy Asmara, Gilga Sahid
 
-471 songs - 1 day 15 hr 20 min
+473 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Lamunan](https://open.spotify.com/track/1iY32hEqhRWFvgu1WokDmo) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Lamunan](https://open.spotify.com/album/0PWkZzZeAMyFxZ1I7QSwPt) | 5:39 | 2024-02-08 | 2025-01-11 |
 | [Lamunan](https://open.spotify.com/track/3qcJp9jySepnPFWY2LyLNZ) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS) | [Lamunan](https://open.spotify.com/album/0wTA1S91a9PDRMbKC11zch) | 5:04 | 2024-06-10 |  |
 | [Lamunan](https://open.spotify.com/track/3lpjgJcdIjw6WVVzeGlCMT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Lamunan](https://open.spotify.com/album/7lNUodq1wzj8Oc8ocoy9E9) | 4:10 | 2024-03-08 | 2024-08-16 |
+| [Lanang Tenan](https://open.spotify.com/track/7cTa9Ba6N6N8DxccW1ydeG) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lanang Tenan](https://open.spotify.com/album/5hqjpYvyKarkxa5twuWAVq) | 5:03 | 2025-04-25 |  |
 | [Langganan Kleru \- Cover](https://open.spotify.com/track/6cDrGW9pKEq52SebLnfI8V) | [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Langganan Kleru \(Cover\)](https://open.spotify.com/album/6Dt3EM50CpMHVVS8HVSxAU) | 5:15 | 2023-10-20 | 2024-01-12 |
 | [Langsung Tak Lamare](https://open.spotify.com/track/47y2sLaMzKX8bxA7jOZllu) | [Pulung Agustanto](https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ) | [DISKOJAWA](https://open.spotify.com/album/2Iw7DLb0poBl5a3sbiBk3d) | 5:12 | 2025-01-30 | 2025-03-14 |
 | [LDR](https://open.spotify.com/track/0e3bJ0Tn5uOwT6vf618sTs) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [LDR](https://open.spotify.com/album/5zAb03GyKz471c7cGmijfc) | 5:06 | 2024-05-30 | 2024-10-11 |
@@ -203,7 +204,7 @@
 | [LDR \- Acoustic](https://open.spotify.com/track/7p6TgnqoZXExcao4JHwZfc) | [Restianade](https://open.spotify.com/artist/7A9lPm8R65nJT5ujGJzy5I) | [LDR \(Acoustic\)](https://open.spotify.com/album/4O1qHuKhVTAigJSFoe8j53) | 4:00 | 2024-05-24 |  |
 | [Lemah Teles](https://open.spotify.com/track/5c8Yuef8DL7Okp8Y9KhJMK) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Lemah Teles](https://open.spotify.com/album/4PlE7GG0LpXSEEN1B5tuqK) | 6:16 | 2022-05-26 | 2023-08-11 |
 | [Lengo Lan Banyu](https://open.spotify.com/track/7hGRnpcfRRqZjmbEaBJVEK) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Lengo Lan Banyu](https://open.spotify.com/album/24FEvuzz1HYxNZcxVIttZo) | 5:34 | 2023-03-09 | 2023-08-11 |
-| [Lestari](https://open.spotify.com/track/366rUE2UP4FKDA9D5h9uuv) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Lestari](https://open.spotify.com/album/6SUrSfTw8mThtc9WjeDmqv) | 5:24 | 2024-10-11 |  |
+| [Lestari](https://open.spotify.com/track/366rUE2UP4FKDA9D5h9uuv) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Lestari](https://open.spotify.com/album/6SUrSfTw8mThtc9WjeDmqv) | 5:24 | 2024-10-11 | 2025-04-25 |
 | [Lestari](https://open.spotify.com/track/2LgpMo9GCSXo95KtUpMQ7C) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Lestari](https://open.spotify.com/album/3FMH1kNsf24utY6UIv4KEY) | 5:43 | 2024-07-05 | 2024-12-27 |
 | [LESTARI](https://open.spotify.com/track/64IJVgigFpLz4ofPk8DVc0) | [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [LESTARI](https://open.spotify.com/album/7c1wv3yXdOce3AhHfn6R3H) | 4:52 | 2024-05-16 |  |
 | [Lewung](https://open.spotify.com/track/3G9p9hvHgKsWpA8WvWm9hC) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Lewung](https://open.spotify.com/album/7CKolTfNRvDQ95EBLHLVXT) | 7:34 | 2024-11-07 |  |
@@ -412,7 +413,7 @@
 | [Sinarengan](https://open.spotify.com/track/05JCo2qLuSp6Tm4yzqh95Z) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Bella Bonita](https://open.spotify.com/artist/3K6JJtWNTBwQudEUuKYLQI) | [Sinarengan](https://open.spotify.com/album/0pjz8ygNmSBbsZaGGyUYKw) | 5:33 | 2025-03-13 |  |
 | [Sinarengan](https://open.spotify.com/track/1YOczwofxo6MxtkjPBYdNV) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa), [Vayz Luluk](https://open.spotify.com/artist/06tdPZ6UdL8otCWSe7YRpU), [Mama Lela Team](https://open.spotify.com/artist/5Ef1Uls0WU05zjMeZrGGgA) | [Sinarengan](https://open.spotify.com/album/3bReLQYWR9ODah0x2QeY76) | 5:21 | 2025-04-17 |  |
 | [SING BISO](https://open.spotify.com/track/1MrU4LSCrw5D3W1fCh1McQ) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [SING BISO](https://open.spotify.com/album/5TBQZJeEyA99kMpzXvlcCW) | 3:50 | 2024-07-11 | 2024-11-22 |
-| [Sing Tego](https://open.spotify.com/track/3xI4biFLAk4FjQDfeQ85jL) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Sing Tego](https://open.spotify.com/album/5oouN5giEltNiD8YqHuJZk) | 4:27 | 2025-02-13 |  |
+| [Sing Tego](https://open.spotify.com/track/3xI4biFLAk4FjQDfeQ85jL) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Sing Tego](https://open.spotify.com/album/5oouN5giEltNiD8YqHuJZk) | 4:27 | 2025-02-13 | 2025-04-25 |
 | [Sinyal Tresna \- From Collabonation](https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sinyal Tresna \(From Collabonation\)](https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ) | 4:41 | 2022-07-21 | 2023-08-11 |
 | [Sinyal Tresno](https://open.spotify.com/track/1a3eBx0pLNJ0bfI2NMm59p) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Sinyal Tresno](https://open.spotify.com/album/1CXnJCfzX2TxG76pAJrjvO) | 4:50 | 2023-02-09 | 2023-08-11 |
 | [Slintutan](https://open.spotify.com/track/2hIpy1PYEdUoiC9dgwOgqS) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Slintutan](https://open.spotify.com/album/6vOSYOXlg5TsFA3FdLQMuX) | 6:06 | 2025-01-16 | 2025-03-14 |
@@ -466,6 +467,7 @@
 | [Wayahe Hiling](https://open.spotify.com/track/5DO6h6YjA9531IA8B0ahBa) | [Endank Soekamti](https://open.spotify.com/artist/0sde8hCXe4RhPihKuFmxhk), [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Wayahe Hiling](https://open.spotify.com/album/2jwNOfR7Jv9UcmozbFrvib) | 4:34 | 2022-05-26 | 2023-08-11 |
 | [Wegah Kelangan](https://open.spotify.com/track/4Ocy0ZrGjryg45Yt7ssO9o) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Best Of Dd Star Record, Vol\. 1](https://open.spotify.com/album/2aBLOGlucQJdTWZti4eYdb) | 4:40 | 2022-05-26 | 2022-08-26 |
 | [Wegah Pisah](https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Wegah Pisah](https://open.spotify.com/album/2BJBjYSdy3bqsvBn6mWlUl) | 5:46 | 2022-05-26 | 2023-08-11 |
+| [Wegah Tukaran](https://open.spotify.com/track/5UWfUp4bpgwLxrV4zYsbLf) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Wegah Tukaran](https://open.spotify.com/album/2Al2i35sxvyvh4mYpckR7m) | 4:45 | 2025-04-25 |  |
 | [Wes Tatas](https://open.spotify.com/track/1eqJbOz1dIztx3W88CaRbM) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/52LPJku9cYjXiBmASI7Yzz) | 4:07 | 2023-12-08 | 2024-03-09 |
 | [Wes Tatas](https://open.spotify.com/track/6g6tlaJKQWsL6Ysrt6anxs) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/0st0wABUWgfiEPkF3fPhsz) | 4:07 | 2023-05-19 | 2023-12-09 |
 | [Widodari](https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Widodari](https://open.spotify.com/album/43jrtZTMIedkZMxTpfWCxa) | 4:56 | 2022-05-26 | 2023-07-14 |

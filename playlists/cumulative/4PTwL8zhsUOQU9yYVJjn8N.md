@@ -4,7 +4,7 @@
 
 > 
 
-178 songs - 5 hr 43 min
+179 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [LOSE LOSE LOSE](https://open.spotify.com/track/5pgw9c91m8MrdU2R7t0DAX) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LOSE LOSE LOSE](https://open.spotify.com/album/4nT5Eq450S1xfQ37dpAGjP) | 1:28 | 2023-12-05 |  |
 | [LOSE LOSE LOSE \- Instrumental](https://open.spotify.com/track/2Oe5A9qBQrwRSqYlRRANBr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LOSE LOSE LOSE](https://open.spotify.com/album/4nT5Eq450S1xfQ37dpAGjP) | 1:28 | 2023-12-05 |  |
 | [luv u FUREVR!!!](https://open.spotify.com/track/41VoSLujxqqwkKeZobMepl) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40), [Kittydog](https://open.spotify.com/artist/2dWMzprBJEneePM7aWGsDv) | [luv u FUREVR!!!](https://open.spotify.com/album/3wanIvSKYzsw6Pf2fbQMo1) | 2:30 | 2024-04-11 |  |
+| [LUV3 SICK!!](https://open.spotify.com/track/2MJasRtiBZPIlQ6qzmsRPN) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LUV3 SICK!!](https://open.spotify.com/album/4oyYg9nbAUKndr8gsfqYj7) | 3:20 | 2025-04-24 |  |
 | [mango girl](https://open.spotify.com/track/5ep9A7M2LHIQxMCngAO83H) | [Draffish](https://open.spotify.com/artist/0q2jrVdnsi8XIYgr532dSP), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [wish](https://open.spotify.com/album/1S9ik9FsIIsR0Ayt8lSAWg) | 1:27 | 2024-05-27 |  |
 | [MAX LVL FIXATED!!](https://open.spotify.com/track/2bZb9Zfw2mvjnwnbeqA36G) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [MAX LVL FIXATED!!](https://open.spotify.com/album/2TjEZDDEujxCQ5w8Mr88h6) | 1:18 | 2024-03-08 |  |
 | [MAX LVL FIXATED!! \- Instrumental](https://open.spotify.com/track/7FDHTZOYU8uW27CJuWFaMK) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [MAX LVL FIXATED!!](https://open.spotify.com/album/2TjEZDDEujxCQ5w8Mr88h6) | 1:18 | 2024-03-08 |  |

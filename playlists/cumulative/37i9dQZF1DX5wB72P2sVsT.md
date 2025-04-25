@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> David Guetta x Sia au top des bangers dance/electro du moment !
+> TR3NACRIA au top des bangers dance/electro du moment !
 
 255 songs - 11 hr 42 min
 

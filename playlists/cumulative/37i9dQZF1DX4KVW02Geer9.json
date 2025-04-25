@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u9ed2\u7530\u5353\u4e5f",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Joe Armon-Jones",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -288,6 +288,32 @@
       "duration_ms": 269813,
       "name": "Another New Day - Little Big Beat Studio Live Session",
       "url": "https://open.spotify.com/track/1hh06VO8rHnqp6sFRvkziz"
+    },
+    {
+      "album": {
+        "name": "Another Place (feat. Greentea Peng & Wu-Lu)",
+        "url": "https://open.spotify.com/album/16d9GYvZjejijFjzelydzg"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        },
+        {
+          "name": "Wu-Lu",
+          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383506,
+      "name": "Another Place - feat. Greentea Peng & Wu-Lu",
+      "url": "https://open.spotify.com/track/5iCYvkgXKa0v9BEjoRAfTy"
     },
     {
       "album": {
@@ -1930,6 +1956,24 @@
       "duration_ms": 199381,
       "name": "Full Speed",
       "url": "https://open.spotify.com/track/0ZcN9Vx5j4exYEyAlThwKa"
+    },
+    {
+      "album": {
+        "name": "Gadabout Season",
+        "url": "https://open.spotify.com/album/6dqczzcOgNJro0Nv3rB9FS"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285567,
+      "name": "Gadabout Season",
+      "url": "https://open.spotify.com/track/3CbgZjjdLxd1tr5p4Gt6Q9"
     },
     {
       "album": {
@@ -3698,7 +3742,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 141111,
       "name": "O Ca\u00e7ador de Estrelas",
       "url": "https://open.spotify.com/track/2PgfdaEv5pK58Q2knP9oxm"
@@ -4259,6 +4303,24 @@
     },
     {
       "album": {
+        "name": "Weirdo",
+        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291931,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
+    },
+    {
+      "album": {
         "name": "Season of Harvest",
         "url": "https://open.spotify.com/album/0YVmA9eRSljgbIj4kAjFXF"
       },
@@ -4318,7 +4380,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 194678,
       "name": "Should've Been You",
       "url": "https://open.spotify.com/track/2oLADoIPrqnGoRC4q7xHgO"
@@ -4530,7 +4592,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 285533,
       "name": "Sounds of the City",
       "url": "https://open.spotify.com/track/73U6Stme3UKPWD6P3kFpMT"

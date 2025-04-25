@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Selfi Yamma",
+  "description": "Dendang Dangdut teratas. Cover: Andin",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Heningan Malam Sunyi",
+        "url": "https://open.spotify.com/album/1s8ci2zRR7ZG9lGEx22WfA"
+      },
+      "artists": [
+        {
+          "name": "Cut Rani Auliza",
+          "url": "https://open.spotify.com/artist/56MsGGbdOtGbcSoOKc5N7V"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "Heningan Malam Sunyi",
+      "url": "https://open.spotify.com/track/6A6WPNSgB8zPa7nop1eek5"
+    },
+    {
+      "album": {
         "name": "Hepi Betul",
         "url": "https://open.spotify.com/album/78Ib3br5KAIAtvWK6tYhYj"
       },
@@ -2938,6 +2956,24 @@
       "duration_ms": 300000,
       "name": "Perlahan",
       "url": "https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb"
+    },
+    {
+      "album": {
+        "name": "Pesta Meriah",
+        "url": "https://open.spotify.com/album/3oJp9DsXiKVpd4gUrSFdLF"
+      },
+      "artists": [
+        {
+          "name": "Andin",
+          "url": "https://open.spotify.com/artist/3iwFJew3OUpZGxUHK4mXj1"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267333,
+      "name": "Pesta Meriah",
+      "url": "https://open.spotify.com/track/05hKQZy4zRFVe6o38fBbq6"
     },
     {
       "album": {

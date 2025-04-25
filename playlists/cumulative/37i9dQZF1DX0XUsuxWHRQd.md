@@ -4,7 +4,7 @@
 
 > Music from Playboi Carti, JID and Yeat.
 
-2,360 songs - 5 day 2 hr 11 min
+2,361 songs - 5 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1780,6 +1780,7 @@
 | [Shimmy \(with Doja Cat\)](https://open.spotify.com/track/2z4eJOcmzeopzffNpor4vt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Funeral \(Deluxe\)](https://open.spotify.com/album/49zB39sak50ghwZMwHQqQ0) | 2:48 | 2020-05-30 | 2020-06-05 |
 | [Shit Crazy \(feat\. BIG30\)](https://open.spotify.com/track/2Kr11rtij0QQAaX6T5e4WB) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Shit Crazy \(feat\. BIG30\)](https://open.spotify.com/album/565iLNRY3CjV3RBQmRB5dc) | 2:42 | 2021-04-30 | 2021-05-22 |
 | [Shmunk \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:49 | 2023-02-24 | 2023-05-13 |
+| [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2025-04-24 |  |
 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 | 2023-10-19 | 2023-10-21 |
 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 | 2022-09-30 | 2022-12-10 |
 | [Shordie \(with Gunna\)](https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:56 | 2022-10-07 | 2023-01-14 |

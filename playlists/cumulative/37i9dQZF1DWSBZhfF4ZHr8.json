@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Marguerite",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Charles Dor\u00e9",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 165326,
       "name": "Abuelito",
       "url": "https://open.spotify.com/track/0ErYFIfaBolQss5NKdvdhC"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 155409,
       "name": "BABY",
       "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
@@ -814,6 +814,24 @@
       "duration_ms": 174586,
       "name": "Dans tes yeux",
       "url": "https://open.spotify.com/track/7edwJhO0eZpCMtfj3wcXuv"
+    },
+    {
+      "album": {
+        "name": "De l'or sur tes doigts",
+        "url": "https://open.spotify.com/album/2xndNSOprEsjyGoemVgo6D"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222466,
+      "name": "De l'or sur tes doigts",
+      "url": "https://open.spotify.com/track/2G6aZJ8ucftHam37rA16ln"
     },
     {
       "album": {
@@ -1709,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Je pars mais je reste",
+        "url": "https://open.spotify.com/album/0kDJiwDaDXUhhmXAFL06qu"
+      },
+      "artists": [
+        {
+          "name": "Charles Dor\u00e9",
+          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "Je pars mais je reste",
+      "url": "https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4"
+    },
+    {
+      "album": {
         "name": "Je pense \u00e0 vous",
         "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
       },
@@ -1727,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Je t'accuse",
+        "url": "https://open.spotify.com/album/5AV57sv3V86WhdZhUTrdEh"
+      },
+      "artists": [
+        {
+          "name": "Suzane",
+          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169102,
+      "name": "Je t'accuse",
+      "url": "https://open.spotify.com/track/4QPBfQaSKEw56Vvo0i2XsL"
+    },
+    {
+      "album": {
         "name": "L'album de la promo 2024",
         "url": "https://open.spotify.com/album/7LXBJT1FsiJaudUCY2rHZQ"
       },
@@ -1742,6 +1796,66 @@
       "duration_ms": 207573,
       "name": "Je t'aimais, je t'aime, je t'aimerai (Charles, Ebony, Emma & Marine)",
       "url": "https://open.spotify.com/track/4B0pjx0g6xnGLSfMag56EL"
+    },
+    {
+      "album": {
+        "name": "Lamomali Totem",
+        "url": "https://open.spotify.com/album/4VJJRtcT8tGXwxGkHq51Hy"
+      },
+      "artists": [
+        {
+          "name": "Lamomali",
+          "url": "https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF"
+        },
+        {
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Oxmo Puccino",
+          "url": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Balla Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/315I2IHM3SKeXen5SdTerA"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201217,
+      "name": "Je t'aime",
+      "url": "https://open.spotify.com/track/4qGzHySKdaIZGGTUy6um9z"
+    },
+    {
+      "album": {
+        "name": "Jusqu'\u00e0 l'Os",
+        "url": "https://open.spotify.com/album/0QyVZfw0eKVvqDOAY37QNZ"
+      },
+      "artists": [
+        {
+          "name": "June The Girl",
+          "url": "https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165435,
+      "name": "Jusqu'\u00e0 l'Os",
+      "url": "https://open.spotify.com/track/6pfEffhUGyMoeFbw2ETRbV"
     },
     {
       "album": {
@@ -2078,6 +2192,24 @@
       "duration_ms": 183093,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0fONeo4QwEvZHnDxb0NLOJ"
+    },
+    {
+      "album": {
+        "name": "Le chasseur (les oies sauvages)",
+        "url": "https://open.spotify.com/album/5gIOVSF7UD8dLDARFlwsUT"
+      },
+      "artists": [
+        {
+          "name": "TIMEO",
+          "url": "https://open.spotify.com/artist/0pNMzsxbYpuf2bxg1nQWZl"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165774,
+      "name": "Le chasseur (les oies sauvages)",
+      "url": "https://open.spotify.com/track/7hxjcHXqqLx3T2zI3RAZxQ"
     },
     {
       "album": {
@@ -2638,7 +2770,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 189725,
       "name": "Me Enamore",
       "url": "https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0"
@@ -3104,6 +3236,24 @@
       "duration_ms": 154659,
       "name": "Pas banale",
       "url": "https://open.spotify.com/track/6VpQQAEE1RvA1lMrzdMYMM"
+    },
+    {
+      "album": {
+        "name": "Pas d'amour",
+        "url": "https://open.spotify.com/album/7usC7IUjKjVnCetlmjHFUY"
+      },
+      "artists": [
+        {
+          "name": "Cenzo",
+          "url": "https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160823,
+      "name": "Pas d'amour",
+      "url": "https://open.spotify.com/track/1iDb5lwBCf664RyzyxBi9X"
     },
     {
       "album": {
@@ -4086,6 +4236,24 @@
       "duration_ms": 171053,
       "name": "Trop t\u00f4t",
       "url": "https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc"
+    },
+    {
+      "album": {
+        "name": "Tu l'oublieras",
+        "url": "https://open.spotify.com/album/4Cy87m6AZhLspaJMww5smv"
+      },
+      "artists": [
+        {
+          "name": "Princesse",
+          "url": "https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154969,
+      "name": "Tu l'oublieras",
+      "url": "https://open.spotify.com/track/6aaTiVuGVBENAhGgl6O1zN"
     },
     {
       "album": {

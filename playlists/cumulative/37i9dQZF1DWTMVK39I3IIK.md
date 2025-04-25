@@ -2,14 +2,14 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸   Angående Mig
+> de skarpeste knive i dansk musik  📸   Karla Korsbak
 
-200 songs - 10 hr 31 min
+201 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Dag Er Vi 1 Minde](https://open.spotify.com/track/2VNuO7HSYgqtkxlzfnFtZd) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [1 Dag Er Vi 1 Minde](https://open.spotify.com/album/44WAdOT7BNFzQuz71Zuw1y) | 3:30 | 2024-07-04 | 2024-07-29 |
-| [1000 Hænder](https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [1000 Hænder](https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z) | 3:05 | 2024-06-27 | 2025-04-19 |
+| [1000 Hænder](https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [1000 Hænder](https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z) | 3:05 | 2024-06-27 |  |
 | [4\. sal](https://open.spotify.com/track/0c4Wvo36qvLm1G2GzIhWY3) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [4\. sal](https://open.spotify.com/album/6QXbMT5OaF07K6AcDc8SZK) | 2:39 | 2025-02-13 | 2025-02-23 |
 | [A thousand lies](https://open.spotify.com/track/3g0lxrU7wv7j64QLAt2Krc) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [A thousand lies](https://open.spotify.com/album/11xRSNFhiIlci4YT9rXrBc) | 4:11 | 2025-02-20 |  |
 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 | 2025-02-20 | 2025-03-28 |
@@ -39,7 +39,7 @@
 | [Dagdrømmeri](https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Dagdrømmeri](https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK) | 3:08 | 2024-12-06 |  |
 | [Dans I Morgen \(feat\. Wads\)](https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Wads](https://open.spotify.com/artist/3WpiiMu5szsvN2jSBHCxNu) | [Dans I Morgen](https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7) | 3:12 | 2024-06-27 |  |
 | [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2024-06-27 | 2025-01-24 |
-| [Dele Af Mig](https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Dele Af Mig](https://open.spotify.com/album/38MJIeGsUGnQyk6y74tAga) | 2:47 | 2025-02-20 |  |
+| [Dele Af Mig](https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Dele Af Mig](https://open.spotify.com/album/38MJIeGsUGnQyk6y74tAga) | 2:47 | 2025-02-20 | 2025-04-25 |
 | [Dem, Vi Plejede At Være](https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Dem, Vi Plejede At Være](https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm) | 5:38 | 2024-06-27 | 2025-02-07 |
 | [Den Udødelige Historie](https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Den Udødelige Historie](https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I) | 2:32 | 2024-08-29 | 2024-10-05 |
 | [Det er din kærlighed](https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Det er din kærlighed](https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0) | 3:47 | 2024-06-27 | 2025-02-07 |
@@ -87,6 +87,7 @@
 | [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2024-06-27 |  |
 | [Heaven](https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dear Space](https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp) | 3:22 | 2024-06-27 | 2024-11-29 |
 | [Helt](https://open.spotify.com/track/7vuUVW3lImv40lkgqJz4iQ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 4:06 | 2025-03-21 | 2025-03-28 |
+| [Hen til det](https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Hen til det](https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp) | 2:51 | 2025-04-24 |  |
 | [Heyday](https://open.spotify.com/track/1po5B6oPIyVe4WNWo95jds) | [Polite](https://open.spotify.com/artist/58dZjH0389m3MlcYkoRDui) | [Heyday](https://open.spotify.com/album/5eRNMrOvUDNkYgLN5Dm4uP) | 3:31 | 2025-04-10 | 2025-04-18 |
 | [HJEM FRA MÅNEN \(feat\. PRISMA\)](https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2), [PRISMA](https://open.spotify.com/artist/5b02TpKt4S8eb9f7Smg8Au) | [DRØMMEHUG](https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV) | 2:48 | 2024-10-10 |  |
 | [Hjertet På Gaden](https://open.spotify.com/track/62EPQ5REuZwGqWoRsPP5Bx) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Hjertet På Gaden](https://open.spotify.com/album/1C6wKGnTdXN5yzDIxllZsR) | 5:12 | 2024-11-14 |  |
@@ -108,7 +109,7 @@
 | [Ingenting Er Én Ting](https://open.spotify.com/track/1TX8I69pBbZBWjFOUFQFrX) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/2kLhXQO7TXZNp2fuLrhcRa) | 3:11 | 2025-03-21 | 2025-04-24 |
 | [Ingenting Er Én Ting](https://open.spotify.com/track/2RopGxa0f9Ep4K72j9SSpq) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/6BmaXJE7BbK7oCJdgkJcsV) | 3:11 | 2025-03-20 | 2025-03-22 |
 | [Jaloux](https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Jaloux](https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW) | 2:37 | 2024-06-27 | 2024-10-30 |
-| [Jeg håber du er træt](https://open.spotify.com/track/4M7fc1XGQ52TYBOuQyVsyR) | [Angående Mig](https://open.spotify.com/artist/7bPVeep0ZjTQUyWx9m1xup) | [Jeg håber du er træt](https://open.spotify.com/album/7F1Oob5IkKadRfsSVESxXG) | 2:51 | 2025-04-17 |  |
+| [Jeg håber du er træt](https://open.spotify.com/track/4M7fc1XGQ52TYBOuQyVsyR) | [Angående Mig](https://open.spotify.com/artist/7bPVeep0ZjTQUyWx9m1xup) | [Jeg håber du er træt](https://open.spotify.com/album/7F1Oob5IkKadRfsSVESxXG) | 2:51 | 2025-04-17 | 2025-04-25 |
 | [JEG TOG FEJL](https://open.spotify.com/track/16HT5c4HSKErYQYPClyAUb) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [JEG TOG FEJL](https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo) | 2:57 | 2024-06-27 | 2024-07-15 |
 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 | 2024-06-27 | 2024-09-07 |
 | [Keep Forgetting](https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Keep Forgetting](https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj) | 2:53 | 2024-08-29 | 2024-12-17 |
@@ -157,13 +158,13 @@
 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 | 2025-01-23 |  |
 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 | 2024-10-24 |  |
 | [Sang Til Min Mor](https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Sang Til Min Mor](https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll) | 2:52 | 2024-09-26 | 2024-11-02 |
-| [Scare Me](https://open.spotify.com/track/46A26fgcPCP6gVAn3Q9uDQ) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Scare Me](https://open.spotify.com/album/13SewIUseHQmyBg6RHTIkK) | 2:30 | 2025-04-17 |  |
+| [Scare Me](https://open.spotify.com/track/46A26fgcPCP6gVAn3Q9uDQ) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Scare Me](https://open.spotify.com/album/13SewIUseHQmyBg6RHTIkK) | 2:30 | 2025-04-17 | 2025-04-25 |
 | [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 | 2024-06-27 | 2025-04-12 |
 | [Se Mig Før Jeg Glemmer Hvem Jeg Er](https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 4:01 | 2024-10-24 | 2024-11-29 |
 | [Ser I Mig Nu](https://open.spotify.com/track/5vUPHxD3j8UHXXcZwNgm63) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ser I Mig Nu](https://open.spotify.com/album/6R5lKOetm0GTwtvP5msPpY) | 2:05 | 2025-01-16 | 2025-01-24 |
 | [Sidste Gang \(feat\. Silvia\)](https://open.spotify.com/track/1oPn5TXceV3wB58jKxLMkJ) | [Josie Amadonna](https://open.spotify.com/artist/1OkuTIe9TmyBFKMmlAyJLR), [Silvia](https://open.spotify.com/artist/10hzpfut54PK26giA9Mm3X) | [Sidste Gang \(feat\. Silvia\)](https://open.spotify.com/album/0KkoMqyodpwPncrqMGLDbz) | 2:39 | 2025-01-09 | 2025-01-24 |
 | [Sidste År](https://open.spotify.com/track/27aVuXVBHVGcCPc8NH1KoH) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Sidste År](https://open.spotify.com/album/6DE2GW3cUXFGvkmFikTpMf) | 3:22 | 2025-01-09 | 2025-04-17 |
-| [Siger Det Ik'](https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Siger Det Ik'](https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8) | 2:48 | 2024-06-27 | 2025-04-11 |
+| [Siger Det Ik'](https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Siger Det Ik'](https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8) | 2:48 | 2024-06-27 |  |
 | [Smelter Under Månen](https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Smelter Under Månen](https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE) | 3:18 | 2024-06-27 | 2025-01-24 |
 | [Smilet kommer nemt](https://open.spotify.com/track/23IPxqC6fLmkLBFUWb16mK) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Smilet kommer nemt](https://open.spotify.com/album/5HcOxZ8hnlLZ8OhWOEi8D4) | 2:42 | 2025-01-09 | 2025-03-16 |
 | [Sol Gennem Regn](https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Sol Gennem Regn](https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385) | 2:53 | 2024-06-27 | 2024-11-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá que tá viral no seu feed sabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,711 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,701 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 9 | [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/track/3xmIlL2CHBf9bwVU9g1oNI) | [Toca dos Hits](https://open.spotify.com/artist/4NWi1whEq7e8X2oAtcTTpZ) | [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/album/0tqaBiRR3qT3NQ2T8goA0B) | 4:22 |
 | 10 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 11 | [Bonde das Oncinhas](https://open.spotify.com/track/1iGlVlQlv3Vkrkn6BiHOkB) | [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Bonde das Oncinhas](https://open.spotify.com/album/2mx36vqw1wmVpLGbd3mv49) | 1:32 |
-| 12 | [Poison Hoodtrap](https://open.spotify.com/track/0iGX6iLilxlBXgcQEqfYhr) | [Yunmaho](https://open.spotify.com/artist/3rOCaO21OZT7Q2pLs1joqq) | [Poison Hoodtrap](https://open.spotify.com/album/2iq79qINKf7Gmhll7roP5K) | 1:46 |
+| 12 | [Poison Hoodtrap](https://open.spotify.com/track/0iGX6iLilxlBXgcQEqfYhr) | [Yunmaho](https://open.spotify.com/artist/3rOCaO21OZT7Q2pLs1joqq) | [Poison Hoodtrap](https://open.spotify.com/album/2iq79qINKf7Gmhll7roP5K) | 1:42 |
 | 13 | [Trap do Trepa Trepa](https://open.spotify.com/track/4tQ2pmiCv31TGk9lGj9GvN) | [Luisa Perisse](https://open.spotify.com/artist/5WMThepiqhPMJj8ElEUzVw), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Corth](https://open.spotify.com/artist/5aN0ELTsxHwqyBJRKCt6bj) | [Trap do Trepa Trepa](https://open.spotify.com/album/7n8p1NjBJ6OiDmWzByVliZ) | 1:37 |
 | 14 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 15 | [Tu Xera](https://open.spotify.com/track/3Sd5jsryYBah9GPAdVfsrA) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [Tu Xera](https://open.spotify.com/album/0jBodMyOYxuMCLVMRYxV4Z) | 2:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 60495,
+  "num_followers": 60506,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADySXeZosQOgbQFokK27b7G",
+  "snapshot_id": "aAgtgAAAAABQnES80TU97tMlM8+BehBk",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia De Mis Manos (En Vivo)",
-        "url": "https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG"
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
       "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 232597,
-      "name": "La Historia De Mis Manos (En Vivo)",
-      "url": "https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT"
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": null,
@@ -211,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
+        "name": "La Historia De Mis Manos (En Vivo)",
+        "url": "https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG"
       },
       "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 220653,
-      "name": "Me Rindo",
-      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
+      "duration_ms": 232597,
+      "name": "La Historia De Mis Manos (En Vivo)",
+      "url": "https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT"
     },
     {
       "added_at": null,

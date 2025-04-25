@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: caroline\(s\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,871 likes - 128 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,866 likes - 128 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 |
 | 2 | [I Punched Through The Wall](https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:08 |
 | 3 | [Call It Easy \- Edit](https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Call It Easy](https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1) | 4:24 |
-| 4 | [I Hate You, I Love You](https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I hate you, I love you](https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is) | 5:29 |
+| 4 | [I Hate You, I Love You](https://open.spotify.com/track/38BVN8bbBl2iG9LwdVuk80) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I Hate You, I Love You](https://open.spotify.com/album/2vzhcD56kRhXSgVw6Yl8is) | 5:29 |
 | 5 | [Won't Give Up](https://open.spotify.com/track/7dQ8Zd3AIAVqw2lxrelBlk) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Won't Give Up](https://open.spotify.com/album/0ZlAgFug8p4lNkliTNX1OI) | 2:51 |
 | 6 | [Sequence Of Voices](https://open.spotify.com/track/5MvxKOp6Dm44goQYzGK2gJ) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Sequence Of Voices](https://open.spotify.com/album/36chJr3Y6r5I0Kw1hSwHmy) | 3:33 |
 | 7 | [Zarigani](https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Zarigani](https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc) | 4:33 |

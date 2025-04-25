@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,404 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,405 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 40 | [Big Guwap \(feat\. Young Scooter\)](https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:04 |
 | 41 | [Bread Crumbs \(feat\. Young Thug & Vl Deck\)](https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Vl Deck](https://open.spotify.com/artist/52qUXaQE08gum6TfK6zyT1) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:10 |
 | 42 | [Medellin \(feat\. Young Scooter\)](https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Young Jefe](https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q) | 3:33 |
-| 43 | [What I Rap About](https://open.spotify.com/track/7i6Qx4BODHO6XPX6fGxmHL) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 3:06 |
+| 43 | [U Ain't No Hustla](https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 |
 | 44 | [Birds Take a Bath](https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Astronaut Status](https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA) | 4:24 |
 | 45 | [Both Sides \(feat\. Future & Young Thug\)](https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:27 |
-| 46 | [U Ain't No Hustla](https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 |
+| 46 | [What I Rap About](https://open.spotify.com/track/7i6Qx4BODHO6XPX6fGxmHL) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 3:06 |
 | 47 | [How Can I Not \(feat\. Young Scooter\)](https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 3:58 |
-| 48 | [Life Support](https://open.spotify.com/track/6ccAG3Mvu2qPtfqTjvt2VF) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 4:10 |
-| 49 | [Trap Slow](https://open.spotify.com/track/2rRrYmgUJataikDTcSJkQ3) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 2:57 |
-| 50 | [Can't Handle Me \- feat\. Young Scooter](https://open.spotify.com/track/2jZuZtEzTQRliWvgRw6Ela) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [East Atlanta Memphis](https://open.spotify.com/album/4wIWqqDGcwWLG15GxVYWpc) | 4:39 |
+| 48 | [Trap Slow](https://open.spotify.com/track/2rRrYmgUJataikDTcSJkQ3) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 2:57 |
+| 49 | [Can't Handle Me \- feat\. Young Scooter](https://open.spotify.com/track/2jZuZtEzTQRliWvgRw6Ela) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [East Atlanta Memphis](https://open.spotify.com/album/4wIWqqDGcwWLG15GxVYWpc) | 4:39 |
+| 50 | [Life Support](https://open.spotify.com/track/6ccAG3Mvu2qPtfqTjvt2VF) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 4:10 |
 
-Snapshot ID: `aAbcAAAAAADyTULnxD1V0Bt4SNYeGi3k`
+Snapshot ID: `aAgtgAAAAABbhEfQxmcj+mJWhesftFp8`

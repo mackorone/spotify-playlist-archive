@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Si la rompe est\u00e1 ac\u00e1. Foto: Luck Ra.",
+  "description": "<a href=\"spotify:artist:6w3SkAHYPsQ1bxV7VDlG5y\">Cazzu</a> presenta <a href=\"spotify:album:6ilEhVQVT7DnbBjDMBnzNs\">Latinaje</a>",
   "name": "\u00c9xitos Argentina",
   "tracks": [
     {
@@ -134,6 +134,28 @@
       "duration_ms": 151441,
       "name": "30 GRADOS",
       "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224469,
+      "name": "33",
+      "url": "https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG"
     },
     {
       "album": {
@@ -1124,6 +1146,24 @@
       "duration_ms": 275862,
       "name": "BBY BOO - REMIX",
       "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
+    },
+    {
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
       "album": {
@@ -2204,7 +2244,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 150000,
       "name": "Cosa Linda",
       "url": "https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi"
@@ -2690,7 +2730,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 240435,
       "name": "Desp\u00f3jate Vol.2",
       "url": "https://open.spotify.com/track/6ViJgiKfyqfs52x2pGhuPF"
@@ -3382,7 +3422,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 148200,
       "name": "En Otra Vida - Versi\u00f3n Cuarteto",
       "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
@@ -3780,7 +3820,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 126705,
       "name": "FINGI DEMENCIA",
       "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
@@ -4873,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "PARADISO",
+        "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220755,
+      "name": "La Forma de Estar Solo",
+      "url": "https://open.spotify.com/track/4QeJ4rDjV4lZtZ4Xyj0exO"
+    },
+    {
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -5844,6 +5902,24 @@
       "duration_ms": 190928,
       "name": "Mala M\u00eda",
       "url": "https://open.spotify.com/track/7FfQ2E4LqvwKKOyKXyC2L2"
+    },
+    {
+      "album": {
+        "name": "Latinaje",
+        "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190894,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU"
     },
     {
       "album": {
@@ -7467,6 +7543,24 @@
     },
     {
       "album": {
+        "name": "Pa las girlas",
+        "url": "https://open.spotify.com/album/5yGeyYQfUhdQUvk0yVTVkY"
+      },
+      "artists": [
+        {
+          "name": "Mattei",
+          "url": "https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150578,
+      "name": "Pa las girlas",
+      "url": "https://open.spotify.com/track/7dCGkDZgWIDSZyxInMkdIv"
+    },
+    {
+      "album": {
         "name": "Pa Tra Rkt",
         "url": "https://open.spotify.com/album/51C7H8yHGV88GdxGtipO04"
       },
@@ -7686,7 +7780,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 172800,
       "name": "Pa\u00b4Que Te Acuerdes | CROSSOVER #8",
       "url": "https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo"
@@ -8186,7 +8280,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 166241,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV"
@@ -8726,6 +8820,24 @@
       "duration_ms": 170624,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/7LknbZPcWVDMb6VLDI01MY"
+    },
+    {
+      "album": {
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200526,
+      "name": "Resentia",
+      "url": "https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb"
     },
     {
       "album": {
@@ -9299,6 +9411,36 @@
     },
     {
       "album": {
+        "name": "Si No Es Muy Tarde - Versi\u00f3n Cumbia",
+        "url": "https://open.spotify.com/album/1J9z1luYGjltxRgf8izM3C"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Ezequiel Y La Clave",
+          "url": "https://open.spotify.com/artist/74CIXR2mbIKC3gRYZQqKdY"
+        },
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196559,
+      "name": "Si No Es Muy Tarde - Versi\u00f3n Cumbia",
+      "url": "https://open.spotify.com/track/4KRlNVLHn2ZgGvpjnga31N"
+    },
+    {
+      "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
@@ -9564,7 +9706,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 142000,
       "name": "SUAVEMENTE",
       "url": "https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N"
@@ -9980,6 +10122,32 @@
       "duration_ms": 160000,
       "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
       "url": "https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa"
+    },
+    {
+      "album": {
+        "name": "Tiene",
+        "url": "https://open.spotify.com/album/2ZVvRVuoh9lnke6EO9zDdt"
+      },
+      "artists": [
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Tiene",
+      "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
     },
     {
       "album": {
@@ -10522,7 +10690,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 160750,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"

@@ -1,6 +1,6 @@
 {
   "description": "For those whose year was full of angst and anger #SpotifyWrapped",
-  "num_followers": 117901,
+  "num_followers": 117904,
   "original_name": "Songs To Rage To In 2023",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
-        "name": "PORTALS",
-        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 246294,
-      "name": "EVIL",
-      "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
         "name": "Rumours (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 288786,
       "name": "Silver Springs - 2004 Remaster",
       "url": "https://open.spotify.com/track/2Y8BloifAHEn6GproQgPs7"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 246294,
+      "name": "EVIL",
+      "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
     },
     {
       "added_at": "2023-11-29 12:29:47",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
-        "name": "MID AIR",
-        "url": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 168006,
-      "name": "tenTHIRTYseven",
-      "url": "https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 215680,
       "name": "Venom",
       "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
+        "name": "MID AIR",
+        "url": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 168006,
+      "name": "tenTHIRTYseven",
+      "url": "https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR"
     },
     {
       "added_at": "2023-11-29 12:29:47",
@@ -656,7 +656,7 @@
       },
       "artists": [
         {
-          "name": "Beauty School Dropout",
+          "name": "BEAUTY SCHOOL DROPOUT",
           "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         },
         {

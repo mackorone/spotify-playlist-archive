@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Panchiko",
-  "num_followers": 93174,
+  "num_followers": 93184,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        },
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 240629,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
-    },
-    {
-      "added_at": "2025-04-04 09:31:29",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 206463,
       "name": "You (feat. Hermanos Guti\u00e9rrez)",
       "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
+    },
+    {
+      "added_at": "2025-04-04 09:31:29",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 240629,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
     },
     {
       "added_at": "2025-04-04 09:31:29",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
-        "name": "Ankles",
-        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "Ankles",
-      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
-    },
-    {
-      "added_at": "2025-04-04 09:31:29",
-      "album": {
         "name": "Leon",
         "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 247666,
       "name": "Panther City",
       "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
+    },
+    {
+      "added_at": "2025-04-04 09:31:29",
+      "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
     },
     {
       "added_at": "2025-04-04 09:31:29",
@@ -499,22 +499,6 @@
       "duration_ms": 250973,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
-    },
-    {
-      "added_at": "2025-04-04 09:31:29",
-      "album": {
-        "name": "Best Guess",
-        "url": "https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 240364,
-      "name": "Best Guess",
-      "url": "https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU"
     },
     {
       "added_at": "2025-04-04 09:31:29",
@@ -599,6 +583,22 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
+        "name": "Best Guess",
+        "url": "https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU"
+    },
+    {
+      "added_at": "2025-04-04 09:31:29",
+      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
-        "name": "The Forest Is The Path (Extended Edition)",
-        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 179122,
-      "name": "This Is The Silence",
-      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
-    },
-    {
-      "added_at": "2025-04-04 09:31:29",
-      "album": {
         "name": "There's Always Gonna Be Something",
         "url": "https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 242878,
       "name": "There\u2019s Always Gonna Be Something",
       "url": "https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD"
+    },
+    {
+      "added_at": "2025-04-04 09:31:29",
+      "album": {
+        "name": "The Forest Is The Path (Extended Edition)",
+        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 179122,
+      "name": "This Is The Silence",
+      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
     },
     {
       "added_at": "2025-04-04 09:31:29",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
+    },
+    {
+      "added_at": "2025-04-04 09:31:29",
+      "album": {
         "name": "Bell",
         "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
       },
@@ -967,42 +983,6 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
-        "name": "Lucid Girl",
-        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Lucid Girl",
-      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
-    },
-    {
-      "added_at": "2025-04-04 09:31:29",
-      "album": {
-        "name": "Baby Brazil feat. Las Palabras",
-        "url": "https://open.spotify.com/album/3pvzgOeKcyPUOmAsaVB5tH"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Las Palabras",
-          "url": "https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls"
-        }
-      ],
-      "duration_ms": 226887,
-      "name": "Baby Brazil feat. Las Palabras",
-      "url": "https://open.spotify.com/track/4J5zalm3Wa04SZ9g3wy1s1"
-    },
-    {
-      "added_at": "2025-04-04 09:31:29",
-      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 243455,
       "name": "Earthstar",
       "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+    },
+    {
+      "added_at": "2025-04-04 09:31:29",
+      "album": {
+        "name": "Baby Brazil feat. Las Palabras",
+        "url": "https://open.spotify.com/album/3pvzgOeKcyPUOmAsaVB5tH"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Las Palabras",
+          "url": "https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls"
+        }
+      ],
+      "duration_ms": 226887,
+      "name": "Baby Brazil feat. Las Palabras",
+      "url": "https://open.spotify.com/track/4J5zalm3Wa04SZ9g3wy1s1"
     },
     {
       "added_at": "2025-04-04 09:31:29",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
-        "name": "Stones Throw",
-        "url": "https://open.spotify.com/album/7fa2eM6t127lSiQwSbJXID"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 213372,
-      "name": "Stones Throw",
-      "url": "https://open.spotify.com/track/1RsbQnbk4ZFYDhfgp3IAYY"
-    },
-    {
-      "added_at": "2025-04-04 09:31:29",
-      "album": {
         "name": "Headliner",
         "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 192000,
       "name": "Headliner",
       "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "added_at": "2025-04-04 09:31:29",
+      "album": {
+        "name": "Stones Throw",
+        "url": "https://open.spotify.com/album/7fa2eM6t127lSiQwSbJXID"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 213372,
+      "name": "Stones Throw",
+      "url": "https://open.spotify.com/track/1RsbQnbk4ZFYDhfgp3IAYY"
     },
     {
       "added_at": "2025-04-04 09:31:29",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/6AuJCBu9x0QF69P9Y8Zdfj"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/5cICW30wJh0GNydrFw4v7d"
+    },
+    {
+      "added_at": "2025-04-04 09:31:29",
+      "album": {
         "name": "An Artist Is An Artist",
         "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/6AuJCBu9x0QF69P9Y8Zdfj"
+        "name": "Rafters",
+        "url": "https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov"
       },
       "artists": [
         {
-          "name": "Maria Somerville",
-          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
         }
       ],
-      "duration_ms": 243280,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/5cICW30wJh0GNydrFw4v7d"
+      "duration_ms": 187686,
+      "name": "Rafters",
+      "url": "https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r"
     },
     {
       "added_at": "2025-04-04 09:31:29",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
-        "name": "Rafters",
-        "url": "https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov"
-      },
-      "artists": [
-        {
-          "name": "Antony Szmierek",
-          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
-        }
-      ],
-      "duration_ms": 187686,
-      "name": "Rafters",
-      "url": "https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r"
-    },
-    {
-      "added_at": "2025-04-04 09:31:29",
-      "album": {
         "name": "I Wanna Live With You",
         "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 174943,
       "name": "I Wanna Live With You",
       "url": "https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW"
+    },
+    {
+      "added_at": "2025-04-04 09:31:29",
+      "album": {
+        "name": "All In The Game",
+        "url": "https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM"
+      },
+      "artists": [
+        {
+          "name": "Moreish Idols",
+          "url": "https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "All In The Game",
+      "url": "https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f"
     },
     {
       "added_at": "2025-04-04 09:31:29",
@@ -1611,34 +1627,18 @@
     {
       "added_at": "2025-04-04 09:31:29",
       "album": {
-        "name": "All In The Game",
-        "url": "https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM"
+        "name": "Stonefly",
+        "url": "https://open.spotify.com/album/0dn2T6cE7b9XMO3gYrTLd9"
       },
       "artists": [
         {
-          "name": "Moreish Idols",
-          "url": "https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP"
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
         }
       ],
-      "duration_ms": 231080,
-      "name": "All In The Game",
-      "url": "https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f"
-    },
-    {
-      "added_at": "2025-04-04 09:31:29",
-      "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Vintage",
-      "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
+      "duration_ms": 217320,
+      "name": "Stonefly",
+      "url": "https://open.spotify.com/track/05O8KklNXxbVYKRUkOKiOD"
     }
   ],
   "unique_name": "The Listening Post",

@@ -2,9 +2,9 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Johnny Drille & Fireboy DML
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Runtown
 
-750 songs - 1 day 12 hr 55 min
+751 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Digest](https://open.spotify.com/track/6Q9KwZkFtTKLAAB8iOTpbZ) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Digest](https://open.spotify.com/album/7y5e3W5HAauq6oES8aJtbk) | 2:26 | 2024-07-26 | 2024-11-16 |
 | [Distance](https://open.spotify.com/track/5CqoCjBdBTTsVrf6aZOP3t) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [Distance](https://open.spotify.com/album/1mzN3IVisdj5OSEkVW0rD3) | 2:56 | 2024-02-23 | 2024-04-05 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2021-10-14 | 2022-05-20 |
+| [Do Me](https://open.spotify.com/track/2m8yLRwDDjKh3CWSTLqEdN) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Do Me](https://open.spotify.com/album/6lB1CgMDQFEzikW59ng0Hj) | 2:24 | 2025-04-24 |  |
 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 | 2024-03-07 |
 | [Do You](https://open.spotify.com/track/5vy09xIeMnSBMzSMFORP4G) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Do You](https://open.spotify.com/album/1j6xa8mWcw6FdKzRIkRmkg) | 2:16 | 2021-10-14 | 2022-03-01 |
 | [Doing Me](https://open.spotify.com/track/4optsmphrYWvFh027612MA) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Migz](https://open.spotify.com/artist/2ofat3YqNTinjd9GPgl7lV), [Ariel](https://open.spotify.com/artist/5sZBnbApV6GuQTOPx8xTD7) | [Feels Like Home \(Mixtape Vol.1\)](https://open.spotify.com/album/6iplwWv18qHohOXMh4Leff) | 3:14 | 2023-10-20 | 2023-11-03 |
@@ -252,7 +253,7 @@
 | [For You](https://open.spotify.com/track/3225yFOItlcXiJOl2hURor) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [For You](https://open.spotify.com/album/2a6u7lATbFmzWrDvW1g8mt) | 3:45 | 2024-03-01 | 2024-03-29 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-24 | 2023-05-20 |
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2021-10-14 | 2023-07-20 |
-| [Forever](https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Forever](https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS) | 2:39 | 2024-10-25 |  |
+| [Forever](https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Forever](https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS) | 2:39 | 2024-10-25 | 2025-04-25 |
 | [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-28 | 2024-08-16 |
 | [Forgiveness](https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9) | 3:20 | 2024-10-18 | 2025-01-07 |
 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2023-09-29 | 2023-10-18 |

@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-400 songs - 20 hr 51 min
+401 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [350 hz Brown Noise](https://open.spotify.com/track/63gKkvOi8RbSOL7ACaeGli) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Static Noises For Studying](https://open.spotify.com/album/72hSwLR9D9pb4x38mguWhM) | 3:12 | 2022-01-07 | 2022-12-17 |
 | [500 hz](https://open.spotify.com/track/2hqX5Ex3zuwo9Rv9LuB1jk) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Brown Noise](https://open.spotify.com/album/18I59FrYZxXwKZyg9IfQRr) | 3:16 | 2022-01-07 | 2022-12-17 |
 | [89 hz Band Q brown noise](https://open.spotify.com/track/5sEbUxmIkJ5R7LgXwJd0iv) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:33 | 2022-06-14 | 2023-10-27 |
-| [A Dampened Rumble](https://open.spotify.com/track/3LTXCe2HwYDRCE1D96KlMO) | [Inside Rest](https://open.spotify.com/artist/63hZGAk9B5wnxqgrAxQX1m) | [A Dampened Rumble](https://open.spotify.com/album/3lxXN8Kx8rz6fPd9PGmZzT) | 3:28 | 2022-12-16 |  |
+| [A Dampened Rumble](https://open.spotify.com/track/3LTXCe2HwYDRCE1D96KlMO) | [Inside Rest](https://open.spotify.com/artist/63hZGAk9B5wnxqgrAxQX1m) | [A Dampened Rumble](https://open.spotify.com/album/3lxXN8Kx8rz6fPd9PGmZzT) | 3:28 | 2022-12-16 | 2025-04-25 |
 | [Abundant Brown Noise](https://open.spotify.com/track/4urad775yq5bhYEf7LNoS2) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Abundant Brown Noise](https://open.spotify.com/album/3B3TSP9WL509iVgqjrvWHz) | 3:46 | 2023-01-20 |  |
 | [Air Brown Noise](https://open.spotify.com/track/3CxwPRLZfKCikwxD1p2hIz) | [Larnac HD](https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ) | [Air White Noise](https://open.spotify.com/album/1r3fQtUshFNDtBsuGprNuJ) | 1:33 | 2022-01-07 | 2022-06-08 |
 | [Air Noise](https://open.spotify.com/track/7hRfJQpVX4kzPGPCvKImwL) | [Sit Back Relax](https://open.spotify.com/artist/3SKwyv6qJSexnm9ZKpmOR6) | [Air Noise](https://open.spotify.com/album/3AijgHMUpMh8M8yQTmWtQQ) | 2:13 | 2022-01-07 | 2022-06-15 |
@@ -255,6 +255,7 @@
 | [Driven filter brown noise](https://open.spotify.com/track/6hKqsJicHX06lWUBSr1MV2) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:21 | 2022-06-14 |  |
 | [Earthbound Escape \- Brown Noise](https://open.spotify.com/track/71nMqDrRcA5uvnWchBrga1) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Earthbound Escape \(Brown Noise\)](https://open.spotify.com/album/3GYwh1whAzsk7uAV0bU2Gj) | 2:44 | 2023-06-28 |  |
 | [Ease into Brown Noise](https://open.spotify.com/track/5KSGNGftdNQVeVIuBo8rzh) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Ease into Brown Noise](https://open.spotify.com/album/5pHWBm5h3lVTwauigCTJtj) | 4:37 | 2024-07-26 | 2024-12-12 |
+| [Ebony Daydream](https://open.spotify.com/track/1lFYTl2G1hoIjyJx03DeKt) | [Star Chip](https://open.spotify.com/artist/0SNUW83ddh5jMBM6ghqbQg) | [Ebony Daydream](https://open.spotify.com/album/2LnB9kD14CxtBkoDgWlQpr) | 4:03 | 2025-02-25 |  |
 | [Embraced & Calmed By Brown Noise](https://open.spotify.com/track/5lTrWAYysWzbXrLTHY05ZC) | [Desi Eskil](https://open.spotify.com/artist/4vDXxjHGMDyOaPyUdRXfQj) | [Embraced & Calmed By Brown Noise](https://open.spotify.com/album/1eMek1Mb8fo05hOcbrawrr) | 2:20 | 2022-10-26 |  |
 | [Embraced by Brown Noise](https://open.spotify.com/track/4NK4LdWL7OnIRmpCZUFquY) | [Wave Function](https://open.spotify.com/artist/5TmtTvTKlNSsT3zK9c1swm) | [Embraced by Brown Noise](https://open.spotify.com/album/05KL6f0GySBUFzJVPUoznh) | 3:52 | 2022-01-07 | 2022-12-17 |
 | [Endless Brown Noise](https://open.spotify.com/track/5YJBWioj7Qc7pyjlYyqBkJ) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol II](https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j) | 2:16 | 2023-10-26 |  |

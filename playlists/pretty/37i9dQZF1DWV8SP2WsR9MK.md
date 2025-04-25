@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,142 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,189 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 66 | [Ralph's Piano Waltz](https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 4:52 |
 | 67 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
 | 68 | [You'd Be So Nice To Come Home To \- alt\. take](https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 7:27 |
-| 69 | [Freedom Dance](https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Heritage](https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy) | 4:40 |
-| 70 | [Let's Say We Did](https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Time On My Hands](https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92) | 4:27 |
+| 69 | [Let's Say We Did](https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Time On My Hands](https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92) | 4:27 |
+| 70 | [Freedom Dance](https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Heritage](https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy) | 4:40 |
 | 71 | [Rambler](https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Rambler](https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC) | 8:12 |
 | 72 | [Have You Met Miss Jones?](https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Artistry Of Tal Farlow](https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO) | 4:56 |
 | 73 | [Brooklyn Sometimes](https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Deep Song](https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8) | 8:22 |

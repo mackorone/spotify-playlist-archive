@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 
 > Chill to the familiar classical pieces featured in award\-winning films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,847 likes - 82 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,898 likes - 82 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prélude in E minor, Op\. 28, No\. 4](https://open.spotify.com/track/1Xf4sNtMKc1xiUhuIPAUg2) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janusz Olejniczak](https://open.spotify.com/artist/0MeUJOSv5a75mNQzh266Ay) | [The Pianist \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wzrKpVf1i1ef4HxabBU83) | 2:26 |
 | 2 | [Canon and Gigue in D Major, P\. 37: I\. Canon](https://open.spotify.com/track/0oYhNbyAunVTXJTodfZQ3t) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Bernhard Güller](https://open.spotify.com/artist/6tMw5y4zf34W31fxDjl1vy) | [Romanza](https://open.spotify.com/album/3TMdQ73xCI3Ip8FQ9hQXF7) | 4:45 |
-| 3 | [Cavalleria rusticana: Intermezzo](https://open.spotify.com/track/6wKkWFhgOPKgiE360T6NNs) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Domingo Hindoyan](https://open.spotify.com/artist/2feNtcJ1uaxCQFDqv4zajg), [Royal Liverpool Philharmopnic Orchestra](https://open.spotify.com/artist/6cE6l2zY3xSJFbGQmMZDXc) | [Cavalleria rusticana: Intermezzo](https://open.spotify.com/album/4QzroossnF0SqsfH2jIQFp) | 4:03 |
+| 3 | [Cavalleria rusticana: Intermezzo](https://open.spotify.com/track/6wKkWFhgOPKgiE360T6NNs) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Domingo Hindoyan](https://open.spotify.com/artist/2feNtcJ1uaxCQFDqv4zajg) | [Cavalleria rusticana: Intermezzo](https://open.spotify.com/album/4QzroossnF0SqsfH2jIQFp) | 4:03 |
 | 4 | [Piano Concerto No\. 1 in E minor, Op\. 11: 2\. Romance \(Larghetto\)](https://open.spotify.com/track/4czfzwEfUJ8Qx52pYfOOUj) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Krystian Zimerman](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz), [Polish Festival Orchestra](https://open.spotify.com/artist/0whBNs0jVwzSnC5hWKRv8Y) | [Chopin: Piano Concertos Nos.1 & 2](https://open.spotify.com/album/6VihhA5em01r0pkom28mNb) | 12:35 |
 | 5 | [Vois sur ton chemin](https://open.spotify.com/track/3I5MKaK5Xy9K5Rmj3vbpbP) | [Les Choristes](https://open.spotify.com/artist/6s1VTGxfEMRIsYyOJbd6VN) | [The Chorus \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4e3TLpoJx9IZQcgTrqO4cm) | 2:16 |
 | 6 | [Ave Maria](https://open.spotify.com/track/7jkV6uU9wKgczd7UjS6Rdv) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Ave Maria](https://open.spotify.com/album/1L9knhxczvNe1TNnOcYoYC) | 4:46 |

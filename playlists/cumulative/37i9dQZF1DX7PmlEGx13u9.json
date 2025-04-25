@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Why Not More?",
+        "url": "https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267833,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx"
+    },
+    {
+      "album": {
         "name": "One Bad Decision (feat. Ella Mai & Roddy Ricch)",
         "url": "https://open.spotify.com/album/1oh2ZKuIJrJmH6rsEAgfqF"
       },
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 148467,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"

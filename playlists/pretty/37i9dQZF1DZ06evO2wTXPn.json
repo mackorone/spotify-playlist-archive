@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31523,
+  "num_followers": 31525,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAADqptXlQRr49DdqFsZeY5g9",
+  "snapshot_id": "aAgtgAAAAABs0PZOEv3w91NxyIC54OQ2",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "10 Veces Mejor",
+      "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "unas ac\u00fasticas",
         "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 202573,
       "name": "Somos Instantes - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "10 Veces Mejor",
-      "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Amanec\u00ed Nublado",
-      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Amanec\u00ed Nublado",
+      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mujer Perfecta",
         "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 218573,
       "name": "La Mujer Perfecta",
       "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Lolis",
-      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 252285,
       "name": "Leyenda",
       "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Lolis",
+      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1al",
-        "url": "https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Se\u00f1al",
-      "url": "https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 165106,
       "name": "Jodido Sin Ti",
       "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1al",
+        "url": "https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Se\u00f1al",
+      "url": "https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io"
     },
     {
       "added_at": null,

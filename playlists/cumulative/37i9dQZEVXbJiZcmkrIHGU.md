@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-3,305 songs - 6 day 17 hr 10 min
+3,306 songs - 6 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2282,7 +2282,8 @@
 | [PASS AUF](https://open.spotify.com/track/7JAx138Rw3k7L1rUIgnNqh) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [HARAGA](https://open.spotify.com/album/3V3AIKtUap0JXwWP4QKaUp) | 3:26 | 2023-05-20 | 2023-07-23 |
 | [Pass auf mich auf](https://open.spotify.com/track/7uE01G1fJXS1Wd0S0xfgSi) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz) | [Pass auf mich auf](https://open.spotify.com/album/6Hn2C1lgrVavkOLtPqfqPk) | 2:27 | 2023-04-15 | 2023-04-17 |
 | [Pass Nicht Rein \(feat\. Longus Mongus\)](https://open.spotify.com/track/4BJFxsT7mhUcAvwedWddEG) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [In Liebe, Ion](https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE) | 3:00 | 2022-06-25 | 2022-06-27 |
-| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-04-03 |  |
+| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY) | 1:56 | 2025-04-24 |  |
+| [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-04-03 | 2025-04-25 |
 | [Patek](https://open.spotify.com/track/6XI8wXGHEUY6uXSv7edABZ) | [Ghetto Phénomène](https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Patek](https://open.spotify.com/album/0zmcpG174daUh9HWh5acU7) | 2:42 | 2023-05-27 | 2023-05-30 |
 | [PAY PER VIEW \(feat\. Luciano, Murda & K\-Trap\)](https://open.spotify.com/track/3PqybhlwkLebhuQpAnTdmL) | [DJ JEEZY](https://open.spotify.com/artist/6Ql5ZUhTCAn62skkbRJWCq), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [PAY PER VIEW \(feat\. Luciano, Murda & K\-Trap\)](https://open.spotify.com/album/6dc7nDuZ7996UGqsG4knwC) | 2:55 | 2023-09-02 | 2023-09-04 |
 | [Pazifik](https://open.spotify.com/track/2qTdn4tIHLIDpIPTs04anW) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/4ClLMXLQ8xuiAviOLSfHHu) | 3:01 | 2024-09-21 | 2024-09-29 |

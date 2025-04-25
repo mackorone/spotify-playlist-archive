@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-309 songs - 14 hr 36 min
+311 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Everything's okay](https://open.spotify.com/track/2SZ2yUWp0iHGFetUo5MJay) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Everything's okay](https://open.spotify.com/album/0eXgqijm4ijx968hQbO3uG) | 3:07 | 2023-01-24 | 2023-05-20 |
 | [Far Away](https://open.spotify.com/track/7l1XV19coB7tAqnpuU3oHf) | [Divine Moments](https://open.spotify.com/artist/4rK7cbO86S7SvbdVdSNhKf) | [Far Away](https://open.spotify.com/album/1loIi1focCClaqBK1gScgK) | 2:17 | 2023-05-19 |  |
 | [Feeling](https://open.spotify.com/track/3Mny81g2sohJnkeG2Cesdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Feeling](https://open.spotify.com/album/2Ab67ekl6XZJxzjNKbLrmh) | 2:16 | 2023-05-19 |  |
+| [Fields Above](https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Fields Above](https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth) | 2:33 | 2025-04-24 |  |
 | [Finally Home](https://open.spotify.com/track/0AkcaCZBjywy5bNnIR310e) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Gentle Evening Rain](https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ) | 2:24 | 2023-01-24 | 2024-07-17 |
 | [Flod](https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Flod](https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5) | 2:42 | 2025-02-10 |  |
 | [Flowing Calm](https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Flowing Calm](https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS) | 2:28 | 2023-09-01 |  |
@@ -161,6 +162,7 @@
 | [Lost in the Moment](https://open.spotify.com/track/17FsAMOBtY4ybQf8SzSkyq) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Lost in the Moment](https://open.spotify.com/album/5hzELwW13sWrdWVJmMtzzz) | 2:31 | 2023-03-13 | 2024-07-17 |
 | [Lumen](https://open.spotify.com/track/6a6UnuMT3YJrlxztbFIikY) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Lumen](https://open.spotify.com/album/3P3CK8RLhKMxk0To92N8yb) | 2:37 | 2024-03-05 |  |
 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 | 2023-01-24 | 2023-12-19 |
+| [Lyricon](https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Lyricon](https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1) | 3:12 | 2025-04-24 |  |
 | [Magnetic Aura](https://open.spotify.com/track/6UDgvopTCbgF94i54HRuXB) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Magnetic Aura](https://open.spotify.com/album/0ucppkG6frtTW2LVZGvBBB) | 3:02 | 2024-03-05 |  |
 | [Martello](https://open.spotify.com/track/7KWk7mL21m0YbkeJUdm1TM) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [Martello](https://open.spotify.com/album/3H979kln0g82N8otZE71ec) | 2:41 | 2023-09-01 |  |
 | [Masterwort](https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Masterwort](https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h) | 2:02 | 2023-03-13 | 2024-08-23 |
@@ -176,7 +178,7 @@
 | [Midnight](https://open.spotify.com/track/06sSsDhDSjhMXF9Y65CfWc) | [Bergdahl](https://open.spotify.com/artist/2imD2tcPPvJrdB8qzu1fqU) | [Midnight](https://open.spotify.com/album/4vEVnCGo8rzZQLCbKJrQ1S) | 2:47 | 2025-02-10 |  |
 | [Mindful Forest Bath](https://open.spotify.com/track/35x6uwew7SRMbPafBOzJ3l) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Mindful Forest Bath](https://open.spotify.com/album/01l9JfJsCLYmDGjlsNWxZN) | 2:56 | 2023-12-18 |  |
 | [Mindful Movement](https://open.spotify.com/track/09ueGKqwkpHXhAQjMbCrOL) | [Waves of Life](https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd) | [Mindful Movement](https://open.spotify.com/album/1lXseNRj9i3E24O1DfEQQQ) | 3:15 | 2023-11-18 |  |
-| [Moonlight Dolphin](https://open.spotify.com/track/5axYEK74QBwkyAdQjNd5DT) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [Moonlight Dolphin](https://open.spotify.com/album/3YN2cBhWqzcQfFP5nZaJwx) | 3:44 | 2025-04-11 |  |
+| [Moonlight Dolphin](https://open.spotify.com/track/5axYEK74QBwkyAdQjNd5DT) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [Moonlight Dolphin](https://open.spotify.com/album/3YN2cBhWqzcQfFP5nZaJwx) | 3:44 | 2025-04-11 | 2025-04-25 |
 | [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 | 2023-04-06 | 2024-11-12 |
 | [Mosaic Patterns](https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Mosaic Patterns](https://open.spotify.com/album/4GdPy1i4mgFy8eFW2JCmot) | 2:53 | 2023-03-13 | 2025-04-02 |
 | [Motion](https://open.spotify.com/track/5Y3GhXRH3wfUGzsq8IAfQA) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Motion](https://open.spotify.com/album/1S2gpUQc7spDKkgly5pws3) | 2:39 | 2025-02-26 |  |
@@ -261,7 +263,7 @@
 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 | 2024-12-20 |  |
 | [Silva](https://open.spotify.com/track/5MMZaDi79Qma47pWO6Uotv) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Silva](https://open.spotify.com/album/5BlwN0E9wy8Ky4DvYcbaJk) | 2:28 | 2024-06-03 |  |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-02-13 | 2024-07-17 |
-| [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 |  |
+| [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 | 2025-04-25 |
 | [Skoog](https://open.spotify.com/track/51Z0L8e5Wk1EUHfHHBY8lu) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Skoog](https://open.spotify.com/album/73Jo8b1BCPoWAVetF4H52N) | 3:27 | 2024-12-04 |  |
 | [Skyflow](https://open.spotify.com/track/42yRPwqN8zHcaOj6tsyGS8) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Skyflow](https://open.spotify.com/album/01rre0E5ZuPhFZ0v9FJ2ob) | 2:51 | 2025-02-10 |  |
 | [Slow Stream](https://open.spotify.com/track/43slau8Y2GhKBA3itVEvlz) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Slow Stream](https://open.spotify.com/album/3ZowFm97ZG9gFRpFxty9eQ) | 3:24 | 2025-04-01 |  |

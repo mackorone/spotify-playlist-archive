@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,323 songs - 11 day 13 hr 20 min
+7,324 songs - 11 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1430,7 +1430,7 @@
 | [Crazy Love](https://open.spotify.com/track/57pur3MoSCX7raelUCpiAK) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Crazy Love](https://open.spotify.com/album/4k72z9GeyqEkRD7jtE6lTI) | 1:48 | 2023-12-08 |  |
 | [Cream](https://open.spotify.com/track/7gKStrOOATphBtfbQnfah4) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Cream](https://open.spotify.com/album/1o0aV2wUBEKtZr2UUy89bA) | 2:12 | 2023-11-24 |  |
 | [CREAM](https://open.spotify.com/track/3hEUtaQZbmXOWlHfiIE3lk) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [CREAM](https://open.spotify.com/album/0xL2eVoJ8WWSxGBuDvnwKv) | 2:24 | 2023-02-13 | 2023-10-06 |
-| [Creamy](https://open.spotify.com/track/5M5IxzAJjoYCYBZvzSKloT) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Kylan](https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp) | [Creamy](https://open.spotify.com/album/5dvZGvNfmjDvKmNGGNmgc8) | 2:18 | 2025-02-16 | 2025-04-20 |
+| [Creamy](https://open.spotify.com/track/5M5IxzAJjoYCYBZvzSKloT) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Kylan](https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp) | [Creamy](https://open.spotify.com/album/5dvZGvNfmjDvKmNGGNmgc8) | 2:18 | 2025-02-16 |  |
 | [Creamy](https://open.spotify.com/track/7IfMQ5d4iqkWS9febmotaK) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Creamy](https://open.spotify.com/album/6vyyzBsHfajV2rro5QOWGF) | 1:57 | 2022-10-28 | 2023-02-28 |
 | [Creepy Stairs](https://open.spotify.com/track/4oNXTcasIk8toQWO4ZU3Iu) | [Knutsson](https://open.spotify.com/artist/7zd7f1aUNK2re5cDXIoObQ) | [Creepy Stairs](https://open.spotify.com/album/321xLnOX4IskNg8aIEb632) | 1:52 | 2020-10-28 | 2021-10-20 |
 | [Crema](https://open.spotify.com/track/7IvvJS3KzogD6hbjS8ucN2) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Crema](https://open.spotify.com/album/5eUGVHoI5xxapnhCk3I2Qu) | 2:29 | 2023-08-17 | 2023-09-19 |
@@ -1485,7 +1485,7 @@
 | [Curls](https://open.spotify.com/track/12Qc8qZtUTwpi4Fm4pa4V0) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Curls](https://open.spotify.com/album/1R1vKcp4nGN4xGnU0DvIf8) | 2:46 | 2021-02-15 | 2022-03-12 |
 | [Curls](https://open.spotify.com/track/2ECNr4Li4S3wgmhlgzzDnz) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Curls](https://open.spotify.com/album/0XR83mn0IyWx3sFn1mp6YK) | 2:45 | 2022-11-25 | 2023-02-14 |
 | [Currents](https://open.spotify.com/track/14EIN2a94afMwsLe60SyPv) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [Currents](https://open.spotify.com/album/1blPnl6EZOKznld3FTN9WS) | 3:01 | 2022-07-29 | 2022-11-11 |
-| [curry stew](https://open.spotify.com/track/2ofE44gibHiNgvpsA3btuD) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [curry stew](https://open.spotify.com/album/5kcTMY8GlsXQlGxlF24NYd) | 2:20 | 2024-09-27 |  |
+| [curry stew](https://open.spotify.com/track/2ofE44gibHiNgvpsA3btuD) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [curry stew](https://open.spotify.com/album/5kcTMY8GlsXQlGxlF24NYd) | 2:20 | 2024-09-27 | 2025-04-25 |
 | [Curtis](https://open.spotify.com/track/1UAjBK0H7OFZy1dxxnW95B) | [Hike Willis](https://open.spotify.com/artist/1PWLabHIW3qul5FYx9TG9I) | [Curtis](https://open.spotify.com/album/0VbZxSS8ieynrZiXMPLUme) | 1:07 | 2024-02-16 | 2024-11-01 |
 | [Curve](https://open.spotify.com/track/35bSqW8LExij5iRfq3cYu8) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Curve](https://open.spotify.com/album/37rudORbdb2z5mqA9ECLWY) | 1:54 | 2023-11-10 | 2024-10-16 |
 | [Cut Blue](https://open.spotify.com/track/5D5z2jGcd3ckGdsGlnWaA8) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [Cut Blue](https://open.spotify.com/album/2tTETR7nRSosdmscgsYIY7) | 2:12 | 2024-06-07 | 2025-03-22 |
@@ -3461,6 +3461,7 @@
 | [Lauras peace](https://open.spotify.com/track/0sFE57ZBcVM4kbv4atsTJv) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Lauras peace](https://open.spotify.com/album/1cwDpNxgqJqxk3FPfYpHzJ) | 2:11 | 2022-11-25 | 2024-05-25 |
 | [Lava Lamp](https://open.spotify.com/track/14luCq1meYz3UBAUlvCQSL) | [Lowely](https://open.spotify.com/artist/1E7U9zav6CjfcRuD5UEG8e) | [Lava Lamp](https://open.spotify.com/album/3FDShzUYjuBYKM3JItswZC) | 2:25 | 2023-08-17 | 2024-02-02 |
 | [Lavender](https://open.spotify.com/track/481JBcZ46p8KjsKDQQbySy) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Two Halves](https://open.spotify.com/album/2WgE8e8F0Gj3E2iu7vKi92) | 3:09 | 2021-08-22 | 2022-03-21 |
+| [Lavender](https://open.spotify.com/track/6j79ooTbS03fX3PAqaQHN1) | [parrow](https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI) | [Lavender](https://open.spotify.com/album/0PHxi4jjX2fhqwp8KyEPu3) | 2:09 | 2025-04-18 |  |
 | [Lavender Clouds](https://open.spotify.com/track/3jfPTjVuN8UpKdhMdZXQYK) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Lavender Clouds](https://open.spotify.com/album/1KY4y4WJZzKg2eGjHBCItm) | 2:08 | 2021-12-17 | 2022-07-01 |
 | [Lavender Fields](https://open.spotify.com/track/5UZVXKI4RnciPJ9TJLnwMS) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Lavender Fields](https://open.spotify.com/album/3mLN1mp2jhMVpCrkjAbp9Y) | 1:54 | 2021-07-04 | 2022-03-12 |
 | [Law](https://open.spotify.com/track/3mZUDIEuYz8BhUKRIkoo0l) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90), [Daniel Rothwell](https://open.spotify.com/artist/64eUBUiUyfcumFUfTidK1S) | [Isla](https://open.spotify.com/album/1GFOzUsWVabkvRSsg8hIpk) | 2:24 | 2019-11-29 | 2021-07-17 |
@@ -3594,7 +3595,7 @@
 | [limelight](https://open.spotify.com/track/2D6U1ScmjRJ5QLrYhMCQDe) | [Louis Loux](https://open.spotify.com/artist/4TSSTLGRVNcu07DrrYni5V) | [limelight](https://open.spotify.com/album/5yMQnvnMglKwQ7V9pVALVX) | 2:24 | 2023-11-24 | 2024-11-16 |
 | [Limesoda](https://open.spotify.com/track/40WdB4RLRa1CXY2TbPUVme) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Limesoda](https://open.spotify.com/album/7e8I6tBHuXuGExlgyqeFJ7) | 2:22 | 2022-11-11 | 2023-11-24 |
 | [liminal spaces](https://open.spotify.com/track/29gOaTqO4WCYfkJcN4MPk8) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [liminal spaces](https://open.spotify.com/album/1CrLzxoJRfm8FdafJCTDcx) | 1:50 | 2022-05-27 | 2022-10-21 |
-| [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 |  |
+| [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 | 2025-04-25 |
 | [Lincoln Heights](https://open.spotify.com/track/2kyZaqz0Z9GNOgBFX1SJ3t) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Locales](https://open.spotify.com/album/52bdxIEU01DgDltwHP6uJq) | 2:07 | 2019-06-22 | 2020-10-21 |
 | [Line Up](https://open.spotify.com/track/2FlZNgXtSCwLlKFn4oFwpN) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Line Up](https://open.spotify.com/album/4eMLxo5RURtljMVWe83OJV) | 1:48 | 2023-03-24 | 2023-04-13 |
 | [Linger](https://open.spotify.com/track/1HOPPkllDcvWExNFdyH8nC) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Linger](https://open.spotify.com/album/1gMPhyJOTUKT9yiHJkWgzZ) | 2:35 | 2022-11-18 | 2022-12-16 |

@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: The La Planta & Salastkbron.
 
-632 songs - 1 day 7 hr 18 min
+633 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [30 de Abril](https://open.spotify.com/track/7ktzr4HmARUVlIrCtb80xP) | [Los Bonnitos](https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH) | [30 de Abril](https://open.spotify.com/album/53HVi4vaMEnhHsUuBNrg9F) | 3:02 | 2021-12-23 | 2022-07-08 |
 | [A Chillar a Otra Parte \- Remix](https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [A Chillar a Otra Parte \(Remix\)](https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50) | 3:38 | 2023-04-18 | 2023-07-20 |
 | [A llorar a otra parte](https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [A llorar a otra parte](https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH) | 2:36 | 2023-05-12 | 2023-11-18 |
-| [A PRUEBA DE BALAS](https://open.spotify.com/track/0T3BndJOoSWYkPXcPLMH9B) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [A PRUEBA DE BALAS](https://open.spotify.com/album/0oaPAjkswlNaZHAfamcO5L) | 2:42 | 2024-03-08 |  |
+| [A PRUEBA DE BALAS](https://open.spotify.com/track/0T3BndJOoSWYkPXcPLMH9B) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [A PRUEBA DE BALAS](https://open.spotify.com/album/0oaPAjkswlNaZHAfamcO5L) | 2:42 | 2024-03-08 | 2025-04-25 |
 | [A Puros Likes](https://open.spotify.com/track/5hoL8J4IVIKyKwjkQXhKy4) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [KINGTO](https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ) | [A Puros Likes](https://open.spotify.com/album/5fbvqG99ukVwuhPhTB0guE) | 2:35 | 2025-04-11 |  |
 | [A un centímetro](https://open.spotify.com/track/2Dy5GZwGgR2Kvtnxq9LDc0) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u) | [A un centímetro](https://open.spotify.com/album/0DjuAxI9D8cdYyLJqCultW) | 3:08 | 2023-11-17 | 2023-11-23 |
 | [A un Milimetro de Ti](https://open.spotify.com/track/3qRPjSJ3hj4m26EpGeKLfs) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [A un Milimetro de Ti](https://open.spotify.com/album/3c5Wa5hlkWQAKWqsdoDOWm) | 2:08 | 2022-06-10 | 2022-06-18 |
@@ -247,6 +247,7 @@
 | [La Difícil](https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Difícil](https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ) | 2:25 | 2022-03-25 | 2024-06-28 |
 | [La Foto](https://open.spotify.com/track/2uRo9meMZUiellRCmE4osu) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Chiara Scanzerra](https://open.spotify.com/artist/3ycdNHDlAbsOcgoVUTN3ec) | [La Foto](https://open.spotify.com/album/0AnhGG26unK4mTzFXYCr7k) | 2:08 | 2022-01-07 | 2022-08-09 |
 | [La Gira](https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [La Gira](https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft) | 3:14 | 2023-01-13 | 2024-03-02 |
+| [La Guerra](https://open.spotify.com/track/4qdch3FXFL4IEoDwAgswKV) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [La Guerra](https://open.spotify.com/album/2krMcCgoXgCWVUVF5F2VNk) | 2:01 | 2025-04-25 |  |
 | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/track/3IxVP7vjukxmjk1T9gZ7kf) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/album/6pc3Ttq5xewStsRuE1ErIs) | 2:36 | 2022-01-03 | 2022-07-28 |
 | [La Mejor Version de Mi](https://open.spotify.com/track/0pwXUemxF0MAxHLByqQcO5) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [La Mejor Version de Mi](https://open.spotify.com/album/4sBpf2QiY1jFTSYB7kcWwV) | 1:52 | 2021-12-23 | 2022-07-29 |
 | [La Miel de tus Labios](https://open.spotify.com/track/3EDxQ3gLqiwZ8huUV7C7iw) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Debora](https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk) | [La Miel de tus Labios](https://open.spotify.com/album/3QevNj68ma5ZlME2WVUmoM) | 3:10 | 2024-03-22 | 2024-03-30 |

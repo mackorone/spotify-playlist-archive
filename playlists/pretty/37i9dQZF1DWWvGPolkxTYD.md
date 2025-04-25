@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,081 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,081 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 19 | [Why](https://open.spotify.com/track/6vGSyzb1zzqIh2ESfB6t9h) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Sound of Istanbul, Vol\. 1](https://open.spotify.com/album/2uePgfeIfc4lRFuoK21RoA) | 5:25 |
 | 20 | [Ourakjoutyoun \(Joy\) \(Lebanon\)](https://open.spotify.com/track/305gXVEe581fZ93X3qmTBo) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Music of the Middle East \- Iran, Syria, Iraq, Egypt, Turkey, Armenia, Lebanon à](https://open.spotify.com/album/7gH8Q7FboKsxqpfTbXWElF) | 2:56 |
 | 21 | [Hawâna](https://open.spotify.com/track/3vZMUscHIQW7gVDKyOyrd6) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 4:20 |
-| 22 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
-| 23 | [The Persian Nightingale](https://open.spotify.com/track/4Qllk9fsTYK9qJpWrC6uVq) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Persian Nightingale](https://open.spotify.com/album/1FUgOS4nYegLdaFAu3wmZH) | 3:13 |
+| 22 | [The Persian Nightingale](https://open.spotify.com/track/4Qllk9fsTYK9qJpWrC6uVq) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Persian Nightingale](https://open.spotify.com/album/1FUgOS4nYegLdaFAu3wmZH) | 3:13 |
+| 23 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
 | 24 | [Houzam](https://open.spotify.com/track/4KNQ4FKu452FMENduv7WzE) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:08 |
 | 25 | [Monagah \(Prayer\)](https://open.spotify.com/track/3XlalwVyxZNa6otxJyUj3n) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:31 |
 | 26 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 30 | [Aman Avcı Vurma Beni \- Turkey](https://open.spotify.com/track/3seIC3w5tl74L5CwUMtzU2) | [Ismail Ounal](https://open.spotify.com/artist/3n3Whufi84YqBH5BA6YnP9) | [Oriental Guitar \- Turkish & Arabic Instrumental Music](https://open.spotify.com/album/3YShnla4X4oKouDTJH9JKl) | 1:45 |
 | 31 | [Aridda wal noor](https://open.spotify.com/track/7Itre0ipPz3XVU9nx85SXv) | [Bashir Abdel Aal](https://open.spotify.com/artist/1LUP5tRXvMB3Oc9YFUnfMe), [Ivor Goldberg](https://open.spotify.com/artist/5cgyJ65fkE9qRAQxwCgzvj), [George Dergham](https://open.spotify.com/artist/0w2t7XcxtOVGc9rkPsmbtw) | [Bashir Abdel Aal: Master of Arabian Flute](https://open.spotify.com/album/5WiJ9bzESeuDxa0P6MmSt1) | 3:02 |
 | 32 | [The Road to Sahara](https://open.spotify.com/track/3374nqNtSOSDlM9nQUCMyI) | [Kader Fahem](https://open.spotify.com/artist/6lnsLih5OIO8EALCg5vqoS), [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [The Road to Sahara](https://open.spotify.com/album/0zf0KF6c7igAW53uEuUT5n) | 4:29 |
-| 33 | [iSVEÇ BAHARI](https://open.spotify.com/track/0qInJsghBH20hwv1yQkaUr) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 3:30 |
-| 34 | [El\-Fagr \(Dawn\)](https://open.spotify.com/track/0JSAqiLstBIkWDs9n5ho4D) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 7:01 |
+| 33 | [El\-Fagr \(Dawn\)](https://open.spotify.com/track/0JSAqiLstBIkWDs9n5ho4D) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 7:01 |
+| 34 | [iSVEÇ BAHARI](https://open.spotify.com/track/0qInJsghBH20hwv1yQkaUr) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 3:30 |
 | 35 | [Oriental Dreams](https://open.spotify.com/track/5UgcKwDo470y2ghbPWKIfp) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Arabian Lounge Club, Volume 1](https://open.spotify.com/album/1BlKY7n0H4GODaNqcm6jJN) | 4:06 |
 | 36 | [Laytaka](https://open.spotify.com/track/2H4qZ7sfSWZBbEVzlyGTCL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [À l'ombre des mots \(Avec la voix de Mahmoud Darwich\)](https://open.spotify.com/album/4gyFm0eNM9D9vi6A1gFgZR) | 6:07 |
 | 37 | [Meçhul](https://open.spotify.com/track/4btMC5zessMUb1G9JUTT6q) | [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Dünya, Vol\. 1 \(Gün Doğumu\)](https://open.spotify.com/album/2Qocr6xEdeOsTOFGzTdTw9) | 7:39 |
 | 38 | [Reve](https://open.spotify.com/track/0GPJZn4NGP4I06LK9Pfqvd) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Reve](https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4) | 6:05 |
 | 39 | [Hilal As Sabá](https://open.spotify.com/track/7GqdEUaekycg98zQWpBONf) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ) | [Maquamat Zíryáb \- Desde El Eúfrates Al Guadalquivir](https://open.spotify.com/album/1mLFGodMEuv4TqazLXlZaq) | 8:11 |
-| 40 | [Imminent Journey](https://open.spotify.com/track/6fgXqK3T2JWc4K9K43zOe4) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Yara](https://open.spotify.com/album/23j6IQwXCryKrnxwnctIr1) | 1:21 |
+| 40 | [Saraab](https://open.spotify.com/track/3h8o05iiD3UPk1XnVZEGAw) | [Simon Shaheen & Qantara](https://open.spotify.com/artist/5icxoRHqg9mlYQcplv43zX) | [Blue Flame](https://open.spotify.com/album/01cMpGepKd4bWFzJse5mIb) | 4:37 |
 
 Snapshot ID: `Z7RO2wAAAABC3nZz27zVcVwcs1XR1lhd`

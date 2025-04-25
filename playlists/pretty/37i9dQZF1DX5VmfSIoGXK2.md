@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > smooth, healing, soulful 🌱 the best of Jazz House, featuring dublon
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,600 likes - 95 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,079 likes - 95 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

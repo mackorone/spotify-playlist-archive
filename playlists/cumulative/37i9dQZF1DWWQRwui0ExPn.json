@@ -27744,7 +27744,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 138795,
       "name": "Creamy",
       "url": "https://open.spotify.com/track/5M5IxzAJjoYCYBZvzSKloT"
@@ -28830,7 +28830,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 140000,
       "name": "curry stew",
       "url": "https://open.spotify.com/track/2ofE44gibHiNgvpsA3btuD"
@@ -67215,6 +67215,24 @@
     },
     {
       "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/0PHxi4jjX2fhqwp8KyEPu3"
+      },
+      "artists": [
+        {
+          "name": "parrow",
+          "url": "https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129782,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/6j79ooTbS03fX3PAqaQHN1"
+    },
+    {
+      "album": {
         "name": "Lavender Clouds",
         "url": "https://open.spotify.com/album/1KY4y4WJZzKg2eGjHBCItm"
       },
@@ -69820,7 +69838,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 157297,
       "name": "Limitless 8",
       "url": "https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N"

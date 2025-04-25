@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Artie 5ive sulla cover della playlist pi\u00f9 grande in Italia! \ud83c\udfc6",
+  "description": "Ultimo sulla cover della playlist pi\u00f9 grande in Italia! \ud83c\udfc6",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Comuni Mortali",
+        "url": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177348,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM"
+    },
+    {
+      "album": {
         "name": "Amore Disperato",
         "url": "https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924"
       },
@@ -312,7 +330,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 188918,
       "name": "Amore Disperato",
       "url": "https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1"

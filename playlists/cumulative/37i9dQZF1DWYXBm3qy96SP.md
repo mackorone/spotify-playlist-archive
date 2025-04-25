@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: OneRepublic
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: Sleep Token
 
-1,556 songs - 3 day 17 hr 34 min
+1,558 songs - 3 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 | 2023-08-17 | 2023-08-19 |
 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-17 | 2024-04-14 |
 | [DAMAGED \(feat\. Spencer Charnas\)](https://open.spotify.com/track/4sdt6nAj3tqNzAnddR0meb) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [GODMODE](https://open.spotify.com/album/5AmqfOFEafBEzrAkglVioB) | 3:24 | 2023-10-26 | 2023-11-03 |
+| [Damocles](https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Damocles](https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw) | 4:24 | 2025-04-25 |  |
 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-05 | 2023-12-10 |
 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2023-10-19 | 2024-01-05 |
 | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk) | 4:52 | 2024-02-22 | 2024-03-01 |
@@ -1033,6 +1034,7 @@
 | [ParaNoia](https://open.spotify.com/track/5G9amsIn2lFbIbx628vDFk) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [ParaNoia](https://open.spotify.com/album/53Dya4cEvTYgXDScEkawx3) | 3:26 | 2023-10-19 | 2023-10-27 |
 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 | 2023-03-16 | 2023-03-25 |
 | [Pavlove](https://open.spotify.com/track/6PzQE81zHTaJkuoyhGcXlK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/21mNCl1z482tKpGKv13iig) | 3:33 | 2023-12-07 | 2023-12-15 |
+| [Peacefield](https://open.spotify.com/track/6C2I1PHUAzAl7kSvMSe8zj) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5ccZHgmVJ244iMulDie7BB) | 5:40 | 2025-04-25 |  |
 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 | 2024-04-18 | 2024-04-26 |
 | [people are the enemy](https://open.spotify.com/track/5MBp4svXIK3qHw9xMM9ZRp) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [people are the enemy](https://open.spotify.com/album/3XnkMXav9Tp4SJspgw3zD9) | 2:09 | 2024-01-18 | 2024-01-26 |
 | [perfect feeling](https://open.spotify.com/track/23XZguFmK2fovXqbwSGdCi) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [about time](https://open.spotify.com/album/1CHjDka3l88hNQQtQc3SnQ) | 2:56 | 2024-02-22 | 2024-03-01 |
@@ -1161,7 +1163,7 @@
 | [Self Love](https://open.spotify.com/track/5w6LtMQ9mCrw8Rh8wFaZOO) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Self Love](https://open.spotify.com/album/5u4cNUGjbYNT0k4SCjAQUC) | 3:21 | 2024-01-25 | 2024-01-27 |
 | [Self\-Destruct](https://open.spotify.com/track/29ffs4yVqnGEzwCazHzJrd) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Self\-Destruct](https://open.spotify.com/album/7uMAqt7XYA49zcwAhLT4wk) | 2:53 | 2023-03-16 | 2023-03-25 |
 | [Sentiments](https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm) | [Nape](https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N) | [Sentiments](https://open.spotify.com/album/5svu4CMAw8VYFyF6nxswfr) | 3:11 | 2024-07-28 | 2024-09-13 |
-| [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 | 2024-12-12 |  |
+| [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 | 2024-12-12 | 2025-04-25 |
 | [Settle Petal](https://open.spotify.com/track/0OZzJeWYjfzyaUfjuib2qb) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Settle Petal](https://open.spotify.com/album/0El6znNor6mJmklSEJU07W) | 3:06 | 2023-11-23 | 2023-11-25 |
 | [Settle Petal](https://open.spotify.com/track/6bChyygWt38QX2rOuPNzvw) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Settle Petal](https://open.spotify.com/album/15sV58RWILYvlgPXkOOTfy) | 3:06 | 2023-11-23 | 2023-12-01 |
 | [Seven Out](https://open.spotify.com/track/6Mt6czdOmbc2vheLs4HDI4) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Seven Out](https://open.spotify.com/album/4Qc5eqPw7BSQdoqyT3LSo5) | 2:56 | 2024-01-11 | 2024-01-19 |
@@ -1241,7 +1243,7 @@
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2023-07-21 |
 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-24 | 2023-09-29 |
 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2023-10-26 | 2024-01-19 |
-| [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-04-18 |  |
+| [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-04-18 | 2025-04-25 |
 | [STARS \-English version\-](https://open.spotify.com/track/2XqDmEUf99PrBrEFPeLdZt) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS \-English version\-](https://open.spotify.com/album/0YbtYiFcdrWcDevayvfZkQ) | 3:34 | 2023-09-07 | 2023-09-15 |
 | [Start You Up](https://open.spotify.com/track/1kWksxjnYIwNzQHJbiGoJz) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Start You Up](https://open.spotify.com/album/3aCwK9ulRCIr4WJ0CW5J9O) | 3:03 | 2024-01-18 | 2024-01-26 |
 | [State of Mind](https://open.spotify.com/track/2Ftlh25YMK6Oa6SYgGksyQ) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [State of Mind](https://open.spotify.com/album/1E7ZBG8OObQVi9zqh9WKLT) | 3:41 | 2023-10-19 | 2023-10-27 |

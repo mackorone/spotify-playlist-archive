@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 34232,
+  "num_followers": 34236,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAbcAAAAAAAMVhvMPm2EB6TStzEWjAcP",
+  "snapshot_id": "aAgtgAAAAADeI3AaJ3vKXj6U+Ms/uSCy",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 162946,
-      "name": "Same Old Story - 2005 Remaster",
-      "url": "https://open.spotify.com/track/0MzZh977KEwxcqgs7lPAGJ"
+      "duration_ms": 171906,
+      "name": "Peaceful Day - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6n7NLrONaFUBHXKQZfYdxH"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 171906,
-      "name": "Peaceful Day - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6n7NLrONaFUBHXKQZfYdxH"
+      "duration_ms": 162946,
+      "name": "Same Old Story - 2005 Remaster",
+      "url": "https://open.spotify.com/track/0MzZh977KEwxcqgs7lPAGJ"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Get A Life - 2005 Remaster",
+      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ollie Ollie Oxen Free",
         "url": "https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "Get A Life - 2005 Remaster",
-      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Ashes",
-        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
       "artists": [
         {
@@ -460,25 +460,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 161573,
-      "name": "Something to Change",
-      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "My God",
-      "url": "https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L"
+      "duration_ms": 97840,
+      "name": "Pennywise - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From The Ashes",
+        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 161573,
+      "name": "Something to Change",
+      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 97840,
-      "name": "Pennywise - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
+      "duration_ms": 168000,
+      "name": "My God",
+      "url": "https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 146333,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/2WD64H3EBdbIisfP34X0ea"
+      "duration_ms": 195280,
+      "name": "X Generation",
+      "url": "https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 195280,
-      "name": "X Generation",
-      "url": "https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1"
+      "duration_ms": 146333,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/2WD64H3EBdbIisfP34X0ea"
     },
     {
       "added_at": null,

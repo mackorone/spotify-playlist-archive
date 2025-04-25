@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-677 songs - 1 day 15 hr 51 min
+678 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [Más o Menos Bien](https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/33szFJNdxgVGQa518rOohL) | 4:13 | 2022-06-03 |  |
 | [Más O Menos Bien](https://open.spotify.com/track/0W6BJElrcM7ZXXiq8VtvSg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 4:13 | 2022-07-15 | 2022-08-13 |
 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 | 2022-09-30 | 2023-10-27 |
-| [Nada Más](https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Habla Sola / Nada Más](https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T) | 3:54 | 2024-02-02 |  |
+| [Nada Más](https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Habla Sola / Nada Más](https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T) | 3:54 | 2024-02-02 | 2025-04-25 |
 | [Nadie Duerma](https://open.spotify.com/track/7Abe3NiiJJaj7NTEQAaCeG) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Nadie Duerma](https://open.spotify.com/album/1GOWdMTp1ZciwipwKs7RHc) | 4:46 | 2023-06-09 | 2023-10-27 |
 | [Nadie Quiere Hablar](https://open.spotify.com/track/3GHt0v7k5YhCPRbNOSwPzj) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Nadie Quiere Hablar](https://open.spotify.com/album/6bSTUMI6pYCAXnw3mXcAiy) | 2:20 | 2022-07-01 | 2022-07-22 |
 | [Nadie va a decidir por vos](https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Nuevos miedos \- Nadie va a decidir por vos](https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN) | 3:41 | 2023-07-28 | 2024-07-13 |
@@ -568,6 +568,7 @@
 | [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-12 | 2023-10-27 |
 | [Será](https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Será](https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV) | 3:06 | 2024-03-14 |  |
 | [She Feels the Soul](https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB) | [The Otherness](https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs) | [Lmirl](https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA) | 2:44 | 2022-12-23 | 2023-04-21 |
+| [SIEGAS](https://open.spotify.com/track/38ByK1gWksi44m3FFCSieq) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Edu Morote](https://open.spotify.com/artist/5NBXx6FZv0qBTuBcDfQYLQ) | [SIEGAS](https://open.spotify.com/album/642cHQa1Ml3pZ7MEkYAOsf) | 3:02 | 2025-04-25 |  |
 | [siempre es para siempre](https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64) | [Feli Ruiz](https://open.spotify.com/artist/4uptLcxRqdhbxwAfRt6ra5) | [siempre es para siempre](https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW) | 3:23 | 2024-09-05 |  |
 | [Sigo Dando Amor](https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Sigo Dando Amor](https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu) | 4:41 | 2022-06-03 | 2023-06-10 |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-06-03 | 2023-10-27 |

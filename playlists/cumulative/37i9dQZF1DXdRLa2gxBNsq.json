@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-14",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli"
@@ -1231,6 +1231,46 @@
     },
     {
       "album": {
+        "name": "DnD",
+        "url": "https://open.spotify.com/album/6AcRp4y0OgpPqKR66y0YUR"
+      },
+      "artists": [
+        {
+          "name": "MORDIERON AL PERRO",
+          "url": "https://open.spotify.com/artist/0LL216CeMBXA2Arfmh6z6f"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116350,
+      "name": "DnD",
+      "url": "https://open.spotify.com/track/2YFYAYgPbo74J6wTfoFvQ2"
+    },
+    {
+      "album": {
+        "name": "Don de Gentes",
+        "url": "https://open.spotify.com/album/0lKo2r1xkSLic09lWCbY5H"
+      },
+      "artists": [
+        {
+          "name": "Malos Vicios",
+          "url": "https://open.spotify.com/artist/3CC52A7QKNPvnXnjykRo4x"
+        },
+        {
+          "name": "Ni por favor ni ostias",
+          "url": "https://open.spotify.com/artist/3ECXcpeE3Hl981IZEszU0g"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Don de Gentes",
+      "url": "https://open.spotify.com/track/5lAP82kfLoBEr2jwjFtWPI"
+    },
+    {
+      "album": {
         "name": "A Frontline Compilation",
         "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
       },
@@ -1492,7 +1532,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 139969,
       "name": "El M\u00e1s Gremlin de Montilla",
       "url": "https://open.spotify.com/track/5bvz0zijssCwb0TzYdA4I4"
@@ -2460,7 +2500,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 109597,
       "name": "Jodido Personaje",
       "url": "https://open.spotify.com/track/2iFc20fGuhs4U0AhHM6YQY"
@@ -2637,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "La Gente Sale a Divertirse",
+        "url": "https://open.spotify.com/album/7mY7oFu1Gf6lLuJbgO887K"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129866,
+      "name": "La Gente Sale a Divertirse",
+      "url": "https://open.spotify.com/track/5AptynwS8pv2wZP23Y8cUk"
+    },
+    {
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -2670,7 +2728,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 199261,
       "name": "La Hoguera",
       "url": "https://open.spotify.com/track/10StxJmx2jfh3oZaHTNNDl"
@@ -2962,7 +3020,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 155469,
       "name": "Love the Antros",
       "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
@@ -3226,7 +3284,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 136312,
       "name": "Modo telonio",
       "url": "https://open.spotify.com/track/5tfte94JCoJBvlXRkCQtTL"
@@ -4165,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Putos Nazis",
+        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137963,
+      "name": "Putos Nazis",
+      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
+    },
+    {
+      "album": {
         "name": "Gente de Bien",
         "url": "https://open.spotify.com/album/6fxxDhr98JYsoI1Zp86wcT"
       },
@@ -4682,7 +4758,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 110066,
       "name": "Todas las Cartas",
       "url": "https://open.spotify.com/track/3wlyWadE04nw4Q0FURpaFW"
@@ -4704,6 +4780,24 @@
       "duration_ms": 57840,
       "name": "Todos Mis Enemigos Se Llaman Cayetano",
       "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
+    },
+    {
+      "album": {
+        "name": "Tonto Seguro",
+        "url": "https://open.spotify.com/album/6hpw1fJKU9lwaHXO8hZCeg"
+      },
+      "artists": [
+        {
+          "name": "Sartenazo Cerebral",
+          "url": "https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83452,
+      "name": "Tonto Seguro",
+      "url": "https://open.spotify.com/track/4RSAqCCEwc0nMjyaIentNZ"
     },
     {
       "album": {
@@ -4758,7 +4852,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 207680,
       "name": "Tras los Muros",
       "url": "https://open.spotify.com/track/4974yc4yYt5YAFnrcguCgP"
@@ -5054,7 +5148,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 192301,
       "name": "VUELVES A EMPEZAR",
       "url": "https://open.spotify.com/track/1PdBu7fvXTftvE4M25ncv8"

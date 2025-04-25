@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Chris Lake, Amber Mark
 
-1,018 songs - 2 day 10 hr 15 min
+1,021 songs - 2 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Bad Whine \- Edit](https://open.spotify.com/track/3fLXoRPwq0ULBdSbM3sWA4) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Bad Whine](https://open.spotify.com/album/3fEmPsSWohcjPXbBR5XElB) | 3:32 | 2023-12-01 | 2024-04-05 |
 | [Badman](https://open.spotify.com/track/7Mip4WGDkzN2R3su1GtMju) | [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5) | [Badman EP](https://open.spotify.com/album/6UKwu6K14TczkEzgkCPTOh) | 3:41 | 2022-08-11 | 2022-10-01 |
 | [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-01-20 | 2023-04-07 |
+| [Baiana](https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana](https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE) | 1:56 | 2025-04-24 |  |
 | [Ballo](https://open.spotify.com/track/24QACMi7RvevNfpkEoS18p) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Ballo](https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK) | 3:11 | 2024-07-18 | 2025-02-21 |
 | [Bang](https://open.spotify.com/track/2nQ8IRyTMH0JO6MNvr1Nsq) | [Waze](https://open.spotify.com/artist/0Pe4Z3QAZI9ZEAoqwoWbvZ), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Bang](https://open.spotify.com/album/5mtTCps7w1BxcDQSU5j2x5) | 2:23 | 2024-10-18 | 2025-03-28 |
 | [BANG BANG](https://open.spotify.com/track/4TZaceVVtIEtHOx8w8KkJV) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [BANG BANG](https://open.spotify.com/album/2IKf2bBeD3RF178UUTC3ZA) | 3:13 | 2025-04-17 |  |
@@ -843,6 +844,7 @@
 | [Strange Faces](https://open.spotify.com/track/4lc1MN5O98ZPoEVnREVBrz) | [Hayley Zalassi](https://open.spotify.com/artist/6CkWYOPGB6vgMNjXAYRfav), [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [Strange Faces](https://open.spotify.com/album/35oKTmccKcrR2RqizXr60N) | 6:04 | 2022-12-16 | 2023-04-07 |
 | [Strong](https://open.spotify.com/track/3bVrJvRNReqbE2Ow5txo4n) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Strong](https://open.spotify.com/album/2Auo5VfZ8S8p10J6u5bFbV) | 3:36 | 2023-08-03 | 2023-12-22 |
 | [Stuck To You](https://open.spotify.com/track/2VYV3nqn842QN7Gr6K1KwW) | [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z) | [Stuck To You](https://open.spotify.com/album/0I4n1gW6NINVoVEffzueFd) | 2:51 | 2025-02-28 |  |
+| [Sungazing \- Electronic Mix](https://open.spotify.com/track/0H72o8QdyYc57jNkvYwfAX) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [Alexa Sunshine Rose](https://open.spotify.com/artist/1EicV0pIrtOsnszBgno6SB) | [Sungazing \(Electronic Mix\)](https://open.spotify.com/album/4h1vw2FoXuoCPFrMu3wZpg) | 4:07 | 2025-04-24 |  |
 | [Sunglasses](https://open.spotify.com/track/1Ump2Izmbp9bdEJtkTClgl) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunglasses](https://open.spotify.com/album/69iTohGWGa451agVzIFJbC) | 3:03 | 2024-05-10 | 2024-12-06 |
 | [Sunshine 2025](https://open.spotify.com/track/5uTjgnvttrNUfVFETRJ8TP) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Tomaz](https://open.spotify.com/artist/3GXiP6aI7feec8YTvLJfwf), [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Sunshine 2025](https://open.spotify.com/album/6EOLwD4dOgXcZ3G4QpYwtC) | 3:38 | 2025-03-07 |  |
 | [Sunsleeper](https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Sunsleeper](https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M) | 3:42 | 2023-02-24 | 2023-08-04 |
@@ -987,6 +989,7 @@
 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-03-01 | 2024-04-19 |
 | [We R Bass](https://open.spotify.com/track/3aVqtzLdnboGMRxngBIKPQ) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [YSD](https://open.spotify.com/album/50gTjS3P6RMiJ7pERaAEIF) | 2:56 | 2024-03-01 | 2024-06-21 |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-01-19 | 2024-05-10 |
+| [Weevin'](https://open.spotify.com/track/7sdqp7tkgw8MbH9xlvBHeG) | [Van Damn](https://open.spotify.com/artist/3saUCw9rxdrL4Bn7pGolNO) | [Weevin'](https://open.spotify.com/album/3j0l3vqVOhq63fYXicWVCr) | 2:35 | 2025-04-24 |  |
 | [Welcome To The People](https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Welcome To The People](https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF) | 2:40 | 2021-12-17 | 2022-04-02 |
 | [What I Need](https://open.spotify.com/track/4Hr7Rkc7Ng4g0g14gkgGwx) | [RETNA](https://open.spotify.com/artist/4GlYRE9Z9Uuo22oMUlWRAz), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [What I Need](https://open.spotify.com/album/5npp6s0QfeM3bubLrePZVa) | 2:54 | 2022-07-06 | 2022-09-23 |
 | [What The Fuzz](https://open.spotify.com/track/3DoCfzpIUtiWLDq6UuDzJo) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [What The Fuzz](https://open.spotify.com/album/7aVFZnhyP80ux9p9pmKdec) | 3:02 | 2025-04-10 |  |

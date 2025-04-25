@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 24273,
+  "num_followers": 24313,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Dos Soneros... Una Historia",
+        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 397493,
+      "name": "Que Manera De Quererte - Live Version",
+      "url": "https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "40 Aniversario: EN VIVO",
         "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 393810,
       "name": "Sonido Bestial",
       "url": "https://open.spotify.com/track/1FVahOIncroD7JyUrEslTm"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Dos Soneros... Una Historia",
-        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Que Manera De Quererte - Live Version",
-      "url": "https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK"
     },
     {
       "added_at": "2024-09-24 20:35:55",

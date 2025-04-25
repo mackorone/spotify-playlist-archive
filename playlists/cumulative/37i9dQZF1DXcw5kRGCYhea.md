@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-213 songs - 10 hr 53 min
+214 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-15 | 2024-08-23 |
 | [Gelato](https://open.spotify.com/track/2mb3iYJxuKBkRNSit6taT5) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Gelato](https://open.spotify.com/album/4GLsm6Gs0DcqMYDrleYbOo) | 2:58 | 2024-12-30 |  |
 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 | 2024-10-11 |  |
-| [H'TARI](https://open.spotify.com/track/32BCg5KsxQsGZLjXPnJu5h) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ) | [H'TARI](https://open.spotify.com/album/6wLgx3quBbSXht5TIpUez7) | 3:35 | 2024-08-02 |  |
+| [H'TARI](https://open.spotify.com/track/32BCg5KsxQsGZLjXPnJu5h) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ) | [H'TARI](https://open.spotify.com/album/6wLgx3quBbSXht5TIpUez7) | 3:35 | 2024-08-02 | 2025-04-25 |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-01 | 2024-08-31 |
 | [Hakayet](https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO) | 2:38 | 2024-08-23 | 2024-12-11 |
 | [HALAL & HARAM](https://open.spotify.com/track/2TPRpTpZrdWErCbMi0M93t) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [HALAL & HARAM](https://open.spotify.com/album/1U3LMEoy7y5kew4H2vy4tK) | 3:30 | 2024-07-26 | 2024-08-28 |
@@ -194,6 +194,7 @@
 | [SOUVENIRS](https://open.spotify.com/track/5pNwLjcuTBaEzkAmf02K1O) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/2l7QacmzidqEGvYq0lu4v9) | 3:10 | 2024-08-27 | 2024-08-31 |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-10 | 2024-11-28 |
 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 | 2024-12-10 |  |
+| [Story](https://open.spotify.com/track/4GlUBqfPOLCPirtduhOkwz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Story](https://open.spotify.com/album/2IgwHozPjSJEPYzqs2vTS8) | 3:06 | 2025-04-24 |  |
 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-07-06 | 2024-12-11 |
 | [TAGHAZOUT](https://open.spotify.com/track/7yEsnGST85zjPEbDGEoMaJ) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt), [Aziz Ozouss](https://open.spotify.com/artist/5F8YjfBPMkIBUjeYByzC1K) | [TAGHAZOUT](https://open.spotify.com/album/41GRsxsRdLnlhN06bTH2VM) | 3:28 | 2024-05-10 | 2024-05-18 |
 | [Ti RIRI](https://open.spotify.com/track/1IjFRytMHtnZlB0hsropac) | [Hustle](https://open.spotify.com/artist/1L5bAK9LJyz4ef1QIn1n1N) | [Ti RIRI](https://open.spotify.com/album/1aMM9FxV9p9ApIGge4m3od) | 2:23 | 2024-11-19 | 2024-12-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,589 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,638 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 2 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
 | 3 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 |
 | 4 | [Getafe](https://open.spotify.com/track/43Pgt36ri9xbuHXbUgcDjR) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO](https://open.spotify.com/album/0TzL09QzzlXkbUxK3hIqzo) | 4:27 |
-| 5 | [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 |
-| 6 | [Luna](https://open.spotify.com/track/6GIWJrb6waDyG2VBbqwz2X) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [Luna](https://open.spotify.com/album/3zHPs7oUe2fxD0zWxiHrv2) | 2:02 |
+| 5 | [Luna](https://open.spotify.com/track/6GIWJrb6waDyG2VBbqwz2X) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [Luna](https://open.spotify.com/album/3zHPs7oUe2fxD0zWxiHrv2) | 2:02 |
+| 6 | [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 |
 | 7 | [BETTER FOR US](https://open.spotify.com/track/5c3WOzGExvNb6JZ5dWpMxg) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SAV!OR](https://open.spotify.com/album/15QrrCTSgLqBsj692zEViZ) | 2:51 |
 | 8 | [No Complaints](https://open.spotify.com/track/0E7vM9JTF6RQ0Mb7cZmP8V) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:50 |
 | 9 | [Ungrateful](https://open.spotify.com/track/5a7nQfwZ5106lAi0bxGvRc) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:34 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 58 | [Versus](https://open.spotify.com/track/3nn8JqoGuZhk7pqDV1NjWQ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Versus](https://open.spotify.com/album/7Enc3p8PWn4TgvG0lJmLZn) | 4:01 |
 | 59 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
 
-Snapshot ID: `aAYPiAAAAAC8WP8pZ3ULznAci7e77LB0`
+Snapshot ID: `aArepgAAAADs3z93EQYusIyV4wrKRYxg`

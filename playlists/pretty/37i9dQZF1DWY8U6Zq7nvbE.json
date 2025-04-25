@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2431814,
+  "num_followers": 2431767,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
-      },
-      "artists": [
-        {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
-        }
-      ],
-      "duration_ms": 182952,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "Hands To Myself",
         "url": "https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 189600,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "duration_ms": 182952,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "Call Me Maybe - Acoustic",
         "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 210473,
       "name": "Call Me Maybe - Acoustic",
       "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Never Gonna Give You Up - Acoustic",
-        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
-      },
-      "artists": [
-        {
-          "name": "Nelly Hope",
-          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
-        }
-      ],
-      "duration_ms": 217848,
-      "name": "Never Gonna Give You Up - Acoustic",
-      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "You Raise Me Up",
         "url": "https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 140617,
       "name": "You Raise Me Up",
       "url": "https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Never Gonna Give You Up - Acoustic",
+        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "duration_ms": 217848,
+      "name": "Never Gonna Give You Up - Acoustic",
+      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Here I Go Again - Acoustic EP",
-        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
       },
       "artists": [
         {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+          "name": "Mia Rainn",
+          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
         }
       ],
-      "duration_ms": 252307,
-      "name": "Here I Go Again - Acoustic",
-      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
+      "duration_ms": 206101,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
+        "name": "Here I Go Again - Acoustic EP",
+        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
       },
       "artists": [
         {
-          "name": "Mia Rainn",
-          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
         }
       ],
-      "duration_ms": 206101,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
+      "duration_ms": 252307,
+      "name": "Here I Go Again - Acoustic",
+      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
+        "name": "WHAT THE HELL ARE WE DYING FOR?",
+        "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
+      },
+      "artists": [
+        {
+          "name": "Macy Ellen",
+          "url": "https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "WHAT THE HELL ARE WE DYING FOR?",
+      "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
         "name": "The Scientist",
         "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 197850,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
-        "name": "WHAT THE HELL ARE WE DYING FOR?",
-        "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
-      },
-      "artists": [
-        {
-          "name": "Macy Ellen",
-          "url": "https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "WHAT THE HELL ARE WE DYING FOR?",
-      "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
-      },
-      "artists": [
-        {
-          "name": "Water and Salt",
-          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
-        }
-      ],
-      "duration_ms": 242011,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "Taste",
         "url": "https://open.spotify.com/album/0DUrfU6HigN6VulouqEGzt"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 189574,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1xUN5ZZ7pJySj9pa9UiWpZ"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
+      },
+      "artists": [
+        {
+          "name": "Water and Salt",
+          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
+        }
+      ],
+      "duration_ms": 242011,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
-      },
-      "artists": [
-        {
-          "name": "Sarah Close",
-          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 254871,
       "name": "Lose You To Love Me - Acoustic",
       "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Close",
+          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
     },
     {
       "added_at": "2025-03-17 13:49:19",

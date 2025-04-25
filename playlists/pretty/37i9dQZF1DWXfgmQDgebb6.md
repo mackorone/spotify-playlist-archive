@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 30 | [OH MESS](https://open.spotify.com/track/2RtjsWYPQg9oJsDFFTOB25) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [OH MESS](https://open.spotify.com/album/2MPImNQGP8bJL62rhcAp3H) | 3:16 |
 | 31 | [BENTLEY 2](https://open.spotify.com/track/3Lye9n9zKVuJyB51jmp8EL) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 2](https://open.spotify.com/album/4fSn71IKAOVVu5ujvYG46a) | 4:13 |
 | 32 | [BLEACHING \(feat\. Crush\)](https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 4:04 |
-| 33 | [Koalified](https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM) | [KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Koalified](https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi) | 2:56 |
+| 33 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 | 34 | [stuck in my head](https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:49 |
-| 35 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
+| 35 | [Koalified](https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM) | [KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Koalified](https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi) | 2:56 |
 | 36 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
 | 37 | [Elon Musk](https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Elon Musk](https://open.spotify.com/album/5hYLSv0CrAddV2sOXtKV7h) | 1:46 |
 | 38 | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/track/3MtaDHBUCkfge8xExxyiQL) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [MAN1AC](https://open.spotify.com/artist/4YNvQXYW6XewBzHcWgsXrS), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/album/0ZYEIvgcYlfGWdOFCr7KV6) | 4:11 |

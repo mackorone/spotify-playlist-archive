@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Josh Baker, Omar+
+> The UK's biggest dance playlist! Cover: FISHER
 
-662 songs - 1 day 10 hr 31 min
+663 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-04-29 | 2022-08-05 |
 | [22 Love](https://open.spotify.com/track/64S5EzF4dYoRWpwbkWLE0R) | [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [22 Love](https://open.spotify.com/album/5Y5KPWlPEZnNghuf1bQtMD) | 2:17 | 2022-07-28 | 2022-11-11 |
 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 | 2022-06-23 | 2022-09-09 |
-| [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-03 |  |
+| [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-03 | 2025-04-25 |
 | [99 Degrees](https://open.spotify.com/track/7EafWuZIL2L0TWAUueBZSd) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [99 Degrees](https://open.spotify.com/album/2cmGrBYepfMbcHvMp93c3K) | 2:35 | 2022-07-14 | 2022-09-23 |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2021-11-19 | 2022-01-14 |
 | [About You](https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [About You](https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId) | 3:38 | 2022-03-18 | 2022-06-17 |
@@ -35,6 +35,7 @@
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-01-12 | 2024-11-29 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-06 | 2022-11-11 |
 | [All Day \(feat\. Nonô\)](https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [All Day \(feat\. Nonô\)](https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ) | 3:02 | 2022-03-08 | 2022-03-10 |
+| [All I Know](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know](https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf) | 2:56 | 2025-04-24 |  |
 | [ALL MY PEOPLE](https://open.spotify.com/track/0r56lpZulrcqJxi0kA9wM2) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [ALL MY PEOPLE](https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB) | 4:28 | 2024-11-08 |  |
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-10 | 2023-06-23 |
 | [All Of Me \(Do For Love\)](https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [All Of Me \(Do For Love\)](https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk) | 2:24 | 2023-04-27 | 2023-08-18 |

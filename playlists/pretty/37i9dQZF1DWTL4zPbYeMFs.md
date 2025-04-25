@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > Music, laughter and happiness all around on your special day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,716 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,780 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 32 | [Mahiye Jinna Sohna](https://open.spotify.com/track/0Jiaz0O4AqnJICa9PxHhaR) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:01 |
 | 33 | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2) | 4:13 |
 | 34 | [Kaun Tujhe](https://open.spotify.com/track/5T2ZZiBMDGh3TZDUbxg4rV) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [M.S.Dhoni \- The Untold Story](https://open.spotify.com/album/0UuTH5r9tyFJ2tqnvc1wWm) | 4:01 |
-| 35 | [Dil To Bachcha Hai](https://open.spotify.com/track/3EFGRGsshk0NWidcXfhKvw) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Ishqiya](https://open.spotify.com/album/6w5XtnPBTeOUFvwGi93lgB) | 5:33 |
-| 36 | [Ambarsariya](https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Fukrey](https://open.spotify.com/album/5PWhrKKFYTMnutQ4x5DqHd) | 4:08 |
+| 35 | [Ambarsariya](https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Fukrey](https://open.spotify.com/album/5PWhrKKFYTMnutQ4x5DqHd) | 4:08 |
+| 36 | [Dil To Bachcha Hai](https://open.spotify.com/track/3EFGRGsshk0NWidcXfhKvw) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Ishqiya](https://open.spotify.com/album/6w5XtnPBTeOUFvwGi93lgB) | 5:33 |
 | 37 | [Laung Da Lashkara](https://open.spotify.com/track/5pQODzb8j3xMQ1qvrQXJvo) | [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Jassi](https://open.spotify.com/artist/0QicOPoGCIHxlRFG0I4r9H) | [Patiala House](https://open.spotify.com/album/1DgIFH0yAPRPGBeCiJBvDv) | 5:04 |
 | 38 | [Saathiya](https://open.spotify.com/track/78KKYDENYsw6jYfuEZsqJl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Saathiya](https://open.spotify.com/album/6BJPcgCN37gDKtPh7gmJ3p) | 5:57 |
 | 39 | [My Dil Goes Mmmm](https://open.spotify.com/track/3Uv8BQFN3bQfhkregyMbnx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Gayatri Iyer](https://open.spotify.com/artist/6dgPKPKtpOXxPpMe8STn1N), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Salaam Namaste](https://open.spotify.com/album/2IENY924rGfG14TIQIdZFr) | 7:32 |

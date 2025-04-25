@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,363 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,393 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 70 | [Everybody Wins](https://open.spotify.com/track/6YZTTcD1W9vGNGw8Yzicgt) | [Dried Spider](https://open.spotify.com/artist/6KG5xGfyTD22KGnHreO6ek) | [Everything Is Touching](https://open.spotify.com/album/6EQvfcntkKiIWIOBkSrjE8) | 3:49 |
 | 71 | [Into The Heart Of The Matter](https://open.spotify.com/track/47vEVNzMFiwZTeodkIosyi) | [The Zenmenn](https://open.spotify.com/artist/07wydlLRa4ovoB9JT1fmSh), [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [Hidden Gem](https://open.spotify.com/album/2u9You8FK196oeaE3cVnBF) | 6:06 |
 | 72 | [Pretend Lovers](https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:13 |
-| 73 | [Dance My Pain Away](https://open.spotify.com/track/2sZrEIyHRqzEB4sBw8X9Jh) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 2:07 |
+| 73 | [Dance My Pain Away](https://open.spotify.com/track/2sZrEIyHRqzEB4sBw8X9Jh) | [Rod Lee](https://open.spotify.com/artist/4aOWkQEvWtJHiXuvjYgxJE) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 2:07 |
 | 74 | [Hey Policeman!](https://open.spotify.com/track/0JjwQLQDrCEVYYafRBSQvs) | [Intrinsic Trance](https://open.spotify.com/artist/4GzfeCFpkeW3iPDSHwa4Jj) | [Psychemagik Presents Magik Cyrkles](https://open.spotify.com/album/42NgJC6J91ndKnuxQRJQHz) | 3:16 |
 | 75 | [Automatic](https://open.spotify.com/track/0uoHVRsDwVHtzYLMvRkxtC) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Automatic](https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q) | 8:41 |
 | 76 | [Out Of Your League](https://open.spotify.com/track/4qdbCACEpbFWIpKSMa2fZC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 2:20 |

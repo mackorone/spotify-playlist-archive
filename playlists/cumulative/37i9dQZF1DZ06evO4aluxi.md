@@ -4,7 +4,7 @@
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 39 min
+87 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Surrender All](https://open.spotify.com/track/3QdmGbD6vy0WH5AsgwafRu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Rock Of Ages...Hymns & Faith](https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi) | 2:37 | 2023-09-25 | 2024-02-27 |
 | [I Will Remember You](https://open.spotify.com/track/76crWZqaiFzlTPGzNtT4w1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 5:00 | 2023-04-02 |  |
 | [I'm With You \(Ruth & Naomi\)](https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 4:14 | 2023-04-02 | 2025-04-09 |
+| [If I Could See \(What The Angels See\) \- 2025 Remaster](https://open.spotify.com/track/41Kc8HCeZ3A15cn5zAnP14) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 3:56 | 2025-04-25 |  |
 | [In A Little While](https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:22 | 2023-04-02 |  |
 | [It Is Well With My Soul/The River's Gonna Keep On Rolling \- Medley](https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:54 | 2023-04-02 |  |
 | [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1Kkv4S73lfJkTcTyTnYIJh) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Hope: Songs Inspired By The Message And Mission Of Billy Graham](https://open.spotify.com/album/7HaZB4XQOdq1JEn17ImDGx) | 4:26 | 2023-04-02 | 2024-08-08 |
@@ -84,7 +85,7 @@
 | [Thy Word](https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:20 | 2023-04-02 |  |
 | [Thy Word](https://open.spotify.com/track/2CzFh0q2eO1xBRyB7IsFbm) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tranquility](https://open.spotify.com/album/1uOZiApWGltQPqdd4dIAwC) | 3:59 | 2024-04-15 | 2024-08-27 |
 | [Trees We'll Never See](https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Trees We'll Never See](https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E) | 4:07 | 2023-04-02 | 2024-07-11 |
-| [Trees We'll Never See \- 2025 Remaster](https://open.spotify.com/track/0K8WlmlJH688TSXqHq6ch6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 4:06 | 2025-04-11 |  |
+| [Trees We'll Never See \- 2025 Remaster](https://open.spotify.com/track/0K8WlmlJH688TSXqHq6ch6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 4:06 | 2025-04-11 | 2025-04-25 |
 | [We Believe In God](https://open.spotify.com/track/4u09rUwk4uT9oHvtWNLXah) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Songs From The Loft](https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv) | 3:42 | 2024-03-25 | 2024-07-27 |
 | [What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art \- Medley](https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:30 | 2023-04-02 |  |
 | [What We've Come Here For](https://open.spotify.com/track/5gRatGnYFj6v6FauVNR8yC) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Songs From The Loft](https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv) | 2:29 | 2024-05-10 | 2024-05-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 316388,
+  "num_followers": 316422,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Lovestruck",
-        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
-      },
-      "artists": [
-        {
-          "name": "Mona Yim",
-          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
-        },
-        {
-          "name": "Strath",
-          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Lovestruck",
-      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Cloudline (Parra for Cuva Reimagination)",
         "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 296981,
       "name": "Cloudline (Parra for Cuva Reimagination)",
       "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
     },
     {
       "added_at": "2024-08-09 18:28:29",

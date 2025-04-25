@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-664 songs - 1 day 7 hr 33 min
+665 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [FADE AWAY](https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [FADE AWAY](https://open.spotify.com/album/5NpiYMXcL0jr4JCh3WDpHb) | 2:48 | 2024-02-16 | 2024-03-22 |
 | [Fakosi](https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Fakosi](https://open.spotify.com/album/50K8OYdwAczPTxrEYoZCmB) | 2:45 | 2023-11-24 | 2023-12-26 |
 | [Falling](https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Falling/Unleash](https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz) | 2:09 | 2024-10-25 | 2024-11-22 |
-| [FAR AWAY](https://open.spotify.com/track/5JLVtRVBfLjfysl4EMI8l2) | [Alté](https://open.spotify.com/artist/7lOjbAzTHP7PVJvK8zqyYW) | [FAR AWAY](https://open.spotify.com/album/634QDSXxfJhzrUaw6sWJhQ) | 2:53 | 2025-03-31 |  |
+| [FAR AWAY](https://open.spotify.com/track/5JLVtRVBfLjfysl4EMI8l2) | [Alté](https://open.spotify.com/artist/7lOjbAzTHP7PVJvK8zqyYW) | [FAR AWAY](https://open.spotify.com/album/634QDSXxfJhzrUaw6sWJhQ) | 2:53 | 2025-03-31 | 2025-04-25 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-05-23 |
 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 | 2024-05-31 | 2025-02-25 |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-29 | 2025-04-01 |
@@ -327,6 +327,7 @@
 | [Jericho](https://open.spotify.com/track/7papu4e31nzof4krM4DEnr) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Jericho](https://open.spotify.com/album/0l4BFdcbPircI7ZguRkQYU) | 2:33 | 2024-10-04 | 2024-10-22 |
 | [JEWO](https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [JEWO](https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW) | 3:05 | 2024-12-16 | 2025-02-13 |
 | [Jigga \(feat\. Khaid\)](https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jigga \(feat\. Khaid\)](https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1) | 2:19 | 2024-03-15 | 2024-10-07 |
+| [JIGGY BABE](https://open.spotify.com/track/0Ru9b0shNHpsuzYEBASTr0) | [Czin](https://open.spotify.com/artist/2ckSZ9t62jqXhWVfwyCXOY), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [JIGGY BABE](https://open.spotify.com/album/6HanH23bCjueMAbKa4JWsl) | 2:18 | 2025-04-18 |  |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-08-10 | 2024-06-28 |
 | [Jo Vibe](https://open.spotify.com/track/2n0lV8WqaH0WjIciYI2hoA) | [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp), [Peller](https://open.spotify.com/artist/15XozhfjHU6UR9zImk8znI) | [Jo Vibe](https://open.spotify.com/album/3hMl15L73JW8ozQVsQzX9j) | 2:10 | 2025-01-29 |  |
 | [Jogo](https://open.spotify.com/track/1FvYnYoGgA4VSCCQYoyYLB) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Jogo](https://open.spotify.com/album/1OBCMQSmPvSFbajPbc2eG8) | 2:40 | 2024-07-26 | 2024-09-07 |
@@ -425,7 +426,7 @@
 | [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 | 2025-04-11 |  |
 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 | 2023-10-13 | 2024-05-27 |
 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 | 2025-03-14 |  |
-| [MVP](https://open.spotify.com/track/0NEVYvt0Evz01fy43n29R2) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [MVP](https://open.spotify.com/album/7D4R7vF5RsHLebaC00iR1Z) | 2:02 | 2025-04-04 |  |
+| [MVP](https://open.spotify.com/track/0NEVYvt0Evz01fy43n29R2) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [MVP](https://open.spotify.com/album/7D4R7vF5RsHLebaC00iR1Z) | 2:02 | 2025-04-04 | 2025-04-25 |
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-11 |  |
 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-03-28 |  |
 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 | 2023-06-23 | 2023-09-29 |
@@ -559,7 +560,7 @@
 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 | 2023-09-14 | 2023-09-29 |
 | [SHE LIKE IGBO](https://open.spotify.com/track/4G6GeId2tVeACOpPSBKT1L) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 1:18 | 2022-10-30 | 2022-11-11 |
 | [SHE LIKE IGBO](https://open.spotify.com/track/6Dleq7tjYht5tF4Ki2r5Mk) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 1:18 | 2022-10-30 | 2022-12-03 |
-| [SHISHI](https://open.spotify.com/track/4Mnc9lGRf3C7oYPgbUiEzu) | [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp) | [SHISHI](https://open.spotify.com/album/6ChmRhbgUh53zXJhDxMPtX) | 2:20 | 2025-04-04 | 2025-04-17 |
+| [SHISHI](https://open.spotify.com/track/4Mnc9lGRf3C7oYPgbUiEzu) | [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp) | [SHISHI](https://open.spotify.com/album/6ChmRhbgUh53zXJhDxMPtX) | 2:20 | 2025-04-04 |  |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-06-23 | 2022-12-09 |
 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2023-05-11 | 2023-11-25 |
 | [Single Again \(feat\. Ruger\) \- Remix](https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Single Again \(feat\. Ruger\) \[Remix\]](https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w) | 3:56 | 2023-10-13 | 2023-11-09 |

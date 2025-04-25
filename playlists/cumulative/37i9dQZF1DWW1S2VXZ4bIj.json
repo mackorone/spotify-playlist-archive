@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32, \u0e2a\u0e22\u0e32\u0e42\u0e21",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 233142,
       "name": "2AM (\u0e04\u0e38\u0e13\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e21\u0e32\u0e01\u0e46\u0e21\u0e31\u0e49\u0e22?)",
       "url": "https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 210000,
       "name": "Bad Shawty",
       "url": "https://open.spotify.com/track/4O3J4WqPNqZP9Fib5ztyvj"
@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/7bRumRaEIgUBnHiwiORk6J"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159192,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/0jLunknItK9AujRCUYkVhn"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -724,7 +742,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -858,6 +876,28 @@
       "duration_ms": 229000,
       "name": "Faded",
       "url": "https://open.spotify.com/track/0B8qRHYzge3cngxYMtBwPB"
+    },
+    {
+      "album": {
+        "name": "Faded (Special Version)",
+        "url": "https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI"
+      },
+      "artists": [
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Faded - Special Version",
+      "url": "https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR"
     },
     {
       "album": {
@@ -1143,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Hurry up!",
+        "url": "https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        },
+        {
+          "name": "7Vibes",
+          "url": "https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163879,
+      "name": "Hurry up!",
+      "url": "https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq"
+    },
+    {
+      "album": {
         "name": "i confess",
         "url": "https://open.spotify.com/album/7GKaoGhCA4LBmwRxnsMTdz"
       },
@@ -1328,6 +1390,24 @@
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "album": {
+        "name": "Living Death",
+        "url": "https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258823,
+      "name": "Living Death",
+      "url": "https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId"
     },
     {
       "album": {
@@ -2605,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "TOXIQUE",
+        "url": "https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "TOXIQUE",
+      "url": "https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m"
+    },
+    {
+      "album": {
         "name": "TRAFFIC",
         "url": "https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT"
       },
@@ -2782,6 +2880,24 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "album": {
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
       "album": {
@@ -3629,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d (Lost and Found)",
+        "url": "https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200076,
+      "name": "\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d (Lost and Found)",
+      "url": "https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz"
+    },
+    {
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e04\u0e19\u0e40\u0e01\u0e48\u0e32 (Let Me Try Again)",
         "url": "https://open.spotify.com/album/5rJUY4kiAfnL5ppIZjOk5S"
       },
@@ -3828,7 +3962,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 213951,
       "name": "\u0e0b\u0e36\u0e21\u0e0b\u0e31\u0e1a (DOUBTLESS)",
       "url": "https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn"
@@ -4277,6 +4411,28 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
+        "url": "https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
+      "url": "https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32\u0e02\u0e2d\u0e1a\u0e43\u0e08\u0e08\u0e23\u0e34\u0e07\u0e46",
         "url": "https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg"
       },
@@ -4350,7 +4506,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 323200,
       "name": "\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e2b\u0e25\u0e31\u0e1a\u0e15\u0e32 (Lucid Dream)",
       "url": "https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4"
@@ -4660,7 +4816,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 212369,
       "name": "\u0e1c\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e23\u0e34\u0e48\u0e21 (\u0e0a\u0e39\u0e49\u0e23\u0e31\u0e01)",
       "url": "https://open.spotify.com/track/0mHD9bPUsI3qbKZzMpxXFh"
@@ -5807,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e2a\u0e35\u0e48\u0e21\u0e38\u0e21\u0e0b\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/4iaw84IODSsCDRCYDMjKDn"
+      },
+      "artists": [
+        {
+          "name": "Palmy",
+          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e2a\u0e35\u0e48\u0e21\u0e38\u0e21\u0e0b\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/6iKeFZjXrC4Up3z460iARH"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e40\u0e25\u0e47\u0e01 (Wishful)",
         "url": "https://open.spotify.com/album/0ptiLoehWeONMaAlbo4ukW"
       },
@@ -6194,7 +6368,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 232131,
       "name": "\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e42\u0e14\u0e22\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e34\u0e20\u0e32\u0e1e",
       "url": "https://open.spotify.com/track/5xEtdOxQ3z18NWmDhG98N5"
@@ -6580,7 +6754,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 261652,
       "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c (Rain wedding) [From \"\u0e27\u0e34\u0e21\u0e32\u0e19\u0e2b\u0e19\u0e32\u0e21\"]",
       "url": "https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl"
@@ -7120,7 +7294,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 177609,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e16\u0e39\u0e01\u0e23\u0e31\u0e01 (never been loved)",
       "url": "https://open.spotify.com/track/6EHTNEbeyTwkOm4dMrLsdQ"

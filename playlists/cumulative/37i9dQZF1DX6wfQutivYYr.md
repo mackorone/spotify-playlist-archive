@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Artie 5ive sulla cover della playlist più grande in Italia! 🏆
+> Ultimo sulla cover della playlist più grande in Italia! 🏆
 
-193 songs - 10 hr 3 min
+194 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [ALTROVE](https://open.spotify.com/track/5mTuGUq93D6eAOeJApPi8J) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ALTROVE](https://open.spotify.com/album/7wFYcHirgNsa5mSV0yK72r) | 3:25 | 2024-06-28 | 2025-01-11 |
 | [Alé \(feat\. Capo Plaza\)](https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:20 | 2024-06-28 | 2024-11-05 |
 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 | 2025-02-24 |  |
-| [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 | 2024-10-07 |  |
+| [AMOR](https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Mortali](https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5) | 2:57 | 2025-04-24 |  |
+| [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 | 2024-10-07 | 2025-04-25 |
 | [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 | 2025-02-20 |  |
 | [Anno Fantastico \(feat\. Shiva, Tony Boy\)](https://open.spotify.com/track/4PBn4zkgReSPmM41RYijJM) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Anno Fantastico \(feat\. Shiva, Tony Boy\)](https://open.spotify.com/album/6rIpx3OnZ7Jt0HW22Abx0Y) | 3:05 | 2025-03-24 |  |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-13 |  |

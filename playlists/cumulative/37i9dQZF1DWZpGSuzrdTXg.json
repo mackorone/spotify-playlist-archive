@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242584,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
+    },
+    {
+      "album": {
         "name": "Boat",
         "url": "https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS"
       },
@@ -838,7 +856,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 206791,
       "name": "Correct Me If I'm Wrong - Single Version",
       "url": "https://open.spotify.com/track/3ve82BOHCZr40vEPa1vGUU"
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 208419,
       "name": "How To Be Friends",
       "url": "https://open.spotify.com/track/0D1sMqzCYbhrruYPONJ3kS"
@@ -1806,6 +1824,24 @@
       "duration_ms": 212522,
       "name": "It Happens Either Way",
       "url": "https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20"
+    },
+    {
+      "album": {
+        "name": "Joke's on Me",
+        "url": "https://open.spotify.com/album/7hJmL2HKwdUQk5iS3aigNq"
+      },
+      "artists": [
+        {
+          "name": "Sven Ross",
+          "url": "https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Joke's on Me",
+      "url": "https://open.spotify.com/track/0ZdXnKEN0y9HNFTd9waatN"
     },
     {
       "album": {
@@ -2348,7 +2384,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 163226,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R"
@@ -2597,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "One Day (Piano Version)",
+        "url": "https://open.spotify.com/album/5Y16vhEmM5BLd7GDaMT4iV"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "One Day - Piano Version",
+      "url": "https://open.spotify.com/track/49rZnIxw8WcMy8NGv99M71"
+    },
+    {
+      "album": {
         "name": "Deena & Jim",
         "url": "https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun"
       },
@@ -2814,7 +2868,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 259329,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2"
@@ -2966,6 +3020,24 @@
       "duration_ms": 172182,
       "name": "Slow - live from the van",
       "url": "https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz"
+    },
+    {
+      "album": {
+        "name": "Slow Down Angel",
+        "url": "https://open.spotify.com/album/1jDQMWgYous5cCNHqB4bHb"
+      },
+      "artists": [
+        {
+          "name": "Robin Storm",
+          "url": "https://open.spotify.com/artist/3fZXZxVDGmf9HeSNzOZklx"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176871,
+      "name": "Slow Down Angel",
+      "url": "https://open.spotify.com/track/0r3khWto7EKEYo9DCwHe2K"
     },
     {
       "album": {

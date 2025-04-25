@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "giuse the lizia in cover di indie italia con la sua canzone che \u00e8 una canzone dei cani!!!",
+  "description": "C'\u00e8 Carl Brave in cover di Indie Italia ed \u00e8 subito amarcord  \ud83c\udf03",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 185364,
       "name": "+1",
       "url": "https://open.spotify.com/track/4h8hAunpmncl15Xy6qDPAg"
+    },
+    {
+      "album": {
+        "name": "+G",
+        "url": "https://open.spotify.com/album/3csTJOx4fJDsNjyCyus6q0"
+      },
+      "artists": [
+        {
+          "name": "Teseghella",
+          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "+G",
+      "url": "https://open.spotify.com/track/3vJj2OQR5tfipyOboYt2VN"
     },
     {
       "album": {
@@ -485,6 +503,42 @@
     },
     {
       "album": {
+        "name": "NOTTI BRAVE AMARCORD",
+        "url": "https://open.spotify.com/album/2eA4hR2JvFIH64t62rmB1J"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "BAR S. CALISTO",
+      "url": "https://open.spotify.com/track/4MuMKlFB6W9QAqSpXZf85n"
+    },
+    {
+      "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW"
+      },
+      "artists": [
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129644,
+      "name": "basta",
+      "url": "https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU"
+    },
+    {
+      "album": {
         "name": "Futuri Possibili",
         "url": "https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD"
       },
@@ -562,7 +616,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 175000,
       "name": "Buio",
       "url": "https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ"
@@ -1136,7 +1190,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 305550,
       "name": "Distratta",
       "url": "https://open.spotify.com/track/37dylnfUvikMtKmgbbjtss"
@@ -1679,6 +1733,28 @@
     },
     {
       "album": {
+        "name": "Piccola abitante di Saturno",
+        "url": "https://open.spotify.com/album/0UQpvfjR1GJ7XnMI4ZRpmg"
+      },
+      "artists": [
+        {
+          "name": "Legno",
+          "url": "https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy"
+        },
+        {
+          "name": "Gio Evan",
+          "url": "https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150652,
+      "name": "Girotondo (feat. Gio Evan)",
+      "url": "https://open.spotify.com/track/4MVYJcHU7fFaZz0fALp4fc"
+    },
+    {
+      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/5AYVsYQIJRgxdDTOGxrVFL"
       },
@@ -1849,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "La Maccaia",
+        "url": "https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4"
+      },
+      "artists": [
+        {
+          "name": "Gaia Banfi",
+          "url": "https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209428,
+      "name": "Il lungoriva di Genova",
+      "url": "https://open.spotify.com/track/6QZsLOzlZfGqpGqXKOw2Bb"
+    },
+    {
+      "album": {
         "name": "In Memoria Di",
         "url": "https://open.spotify.com/album/1lwUJdcej4UlbTFVyyShUF"
       },
@@ -1882,6 +1976,24 @@
       "duration_ms": 240000,
       "name": "Il morso di Tyson",
       "url": "https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5"
+    },
+    {
+      "album": {
+        "name": "NOTTI BRAVE AMARCORD",
+        "url": "https://open.spotify.com/album/2eA4hR2JvFIH64t62rmB1J"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "IL PRIMO TAKE",
+      "url": "https://open.spotify.com/track/3RNmrzkZ1AMGvjHIlvF57x"
     },
     {
       "album": {
@@ -2174,7 +2286,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 164262,
       "name": "LA MACCHINA",
       "url": "https://open.spotify.com/track/3Shhi6otR1WYLtgwMCWjF8"
@@ -3006,7 +3118,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 223626,
       "name": "Occhi da gangster (feat. Frah Quintale)",
       "url": "https://open.spotify.com/track/5ASwFYU1BsLv7UvkE5JShM"
@@ -3560,7 +3672,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 216961,
       "name": "Pi\u00f9 in alto",
       "url": "https://open.spotify.com/track/0jZdbJ5BUzJRLhSUvaehum"
@@ -4014,7 +4126,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 179600,
       "name": "Sigarette",
       "url": "https://open.spotify.com/track/6rnQ5HHy4OrjSsM0xlEI4u"

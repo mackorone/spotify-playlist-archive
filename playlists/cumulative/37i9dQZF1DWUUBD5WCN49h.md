@@ -2,9 +2,9 @@
 
 ### [Sizzlers ](https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h)
 
-> New and emerging R&B, afropop and Alternative tracks\. Cover: Layefa
+> New and emerging R&B, afropop and Alternative tracks\. Cover: Sam Opuku
 
-1,239 songs - 2 day 11 hr 38 min
+1,240 songs - 2 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1230,6 +1230,7 @@
 | [Yes Man](https://open.spotify.com/track/0ubSevtIKpsMbuSdPQAUfo) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Yes Man](https://open.spotify.com/album/3wn0w7eJJd52doQgthOjr1) | 2:48 | 2024-08-30 | 2024-10-26 |
 | [Yoruba Demon](https://open.spotify.com/track/24XUKCOaMqHJbVm350wGDD) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Yoruba Demon](https://open.spotify.com/album/4hJAQ68RUNCu6pb3mrWYc0) | 2:13 | 2022-09-16 | 2022-11-26 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 | 2023-01-20 |
+| [You](https://open.spotify.com/track/2Dp05IkVTwzg89CW8j5KyG) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [You](https://open.spotify.com/album/2c6vUE0YGOPqPXJeY5gHN6) | 3:17 | 2025-04-25 |  |
 | [You](https://open.spotify.com/track/2RVPCblaYQ8YqLvYPaWPDe) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [You](https://open.spotify.com/album/6zFeUoGJCEjFgH8pmxtcxm) | 2:51 | 2023-08-10 | 2023-11-24 |
 | [You & Me](https://open.spotify.com/track/18I3rpK2S7RaYR4bj51Q3f) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [You & Me](https://open.spotify.com/album/1GDz2GV0QoWL43QoDe8TC7) | 2:43 | 2024-11-22 | 2025-03-22 |
 | [You Don't Want Me](https://open.spotify.com/track/0ZfgnAmVY5AGG6pSwPAPrm) | [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk) | [You Don't Want Me](https://open.spotify.com/album/6tCFYmrg7RnGvvFG3L9hoL) | 2:55 | 2023-03-30 | 2023-04-15 |

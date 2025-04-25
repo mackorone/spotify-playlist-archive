@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "EH EL ARF DAH",
+        "url": "https://open.spotify.com/album/6aBAf4qEuRN6TSyfx0hUxM"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131566,
+      "name": "EH EL ARF DAH",
+      "url": "https://open.spotify.com/track/6fIebGHXTAQ3jtairsQkPs"
+    },
+    {
+      "album": {
         "name": "El 3asefa",
         "url": "https://open.spotify.com/album/0pET0nC1WwLXIjlOXKW54v"
       },
@@ -4844,7 +4862,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 121621,
       "name": "NATARQA",
       "url": "https://open.spotify.com/track/361FgPnhdBh4y4l4uIuKW9"

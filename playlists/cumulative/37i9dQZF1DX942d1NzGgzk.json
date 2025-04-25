@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B in the UK. Cover: Leah Music",
+  "description": "The latest of R&B in the UK. Cover: Shamiya Battles",
   "name": "R&B UK",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 204447,
       "name": "AAA",
       "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
@@ -564,10 +564,28 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 200500,
       "name": "AUCTION",
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/4WbNR7vcKMrVIfKCu1u9ao"
+      },
+      "artists": [
+        {
+          "name": "Shamiya Battles",
+          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/1rQeZ0Tpmm78r2zfjunoiV"
     },
     {
       "album": {
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 165106,
       "name": "Check",
       "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 212571,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/6FVxPZcVkOFmNITqXZfQgR"
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 228188,
       "name": "GOOD4U",
       "url": "https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 142651,
       "name": "i know",
       "url": "https://open.spotify.com/track/6HWsd6fqeamiFulSQhxKsD"
@@ -2982,7 +3000,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 130841,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS"
@@ -3044,6 +3062,24 @@
       "duration_ms": 191998,
       "name": "I'll Still Be Here",
       "url": "https://open.spotify.com/track/49nMhwc4XFYhUsl9BDZEBq"
+    },
+    {
+      "album": {
+        "name": "Love Language 2",
+        "url": "https://open.spotify.com/album/0gnQ7bzwd67CHRPmcuWavE"
+      },
+      "artists": [
+        {
+          "name": "Enigma",
+          "url": "https://open.spotify.com/artist/1p33V6IQmus6qSftQL0HCV"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "I'm Sure",
+      "url": "https://open.spotify.com/track/0CNp4DbUZ6yBzQVnF6jCZY"
     },
     {
       "album": {
@@ -4234,7 +4270,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 158713,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb"
@@ -4863,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "Only Mine",
+        "url": "https://open.spotify.com/album/7rSvl5GQvprf8k0s6xQGVa"
+      },
+      "artists": [
+        {
+          "name": "Nyah Grace",
+          "url": "https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179268,
+      "name": "Only Mine",
+      "url": "https://open.spotify.com/track/4EMC2wUflNi4Gcwu2rfURq"
+    },
+    {
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/1flhhR75WdB4QAjkLA7gb8"
       },
@@ -5420,7 +5474,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 151820,
       "name": "Regular Girl",
       "url": "https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq"
@@ -5598,6 +5652,24 @@
       "duration_ms": 144947,
       "name": "Saving All My Love",
       "url": "https://open.spotify.com/track/5vijUtaUAzI4vIl2ZrIBAN"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5SYYTJQ4GlOYClsXEvGEJL"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/7tnjGSvjYDPXyLtEwttSM1"
     },
     {
       "album": {
@@ -6164,7 +6236,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 151788,
       "name": "Suns Out",
       "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
@@ -6276,7 +6348,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 148467,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
@@ -6884,7 +6956,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 266953,
       "name": "Wanna Know",
       "url": "https://open.spotify.com/track/4DlFEmR9aTXJ0VsREeimrM"
@@ -7064,7 +7136,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 183264,
       "name": "Where Have You Been All My Life?",
       "url": "https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r"

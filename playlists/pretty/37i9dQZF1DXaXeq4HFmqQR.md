@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Mamma Soul en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,420 likes - 35 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,419 likes - 35 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 11 | [Canción para Acunar](https://open.spotify.com/track/72vh5bshCrmUNZ1ijYfrDf) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 3:24 |
 | 12 | [Eternamente](https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Fe](https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym) | 3:14 |
 | 13 | [Cariño Malo](https://open.spotify.com/track/2A8IWW4doAylJMntiYO7VY) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc) | [Cariño Malo](https://open.spotify.com/album/1Py0xymBaKzMvbAFi9I5ug) | 3:27 |
-| 14 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/16cTFZsb1ELjU7TfsKBmwg) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 2:49 |
-| 15 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
+| 14 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
+| 15 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/16cTFZsb1ELjU7TfsKBmwg) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 2:49 |
 | 16 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 |
 | 17 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
 | 18 | [Arauco Tiene una Pena](https://open.spotify.com/track/5VEn738GxQ0CGF3c0zpu6p) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Canciones Reencontradas en París](https://open.spotify.com/album/1ps5BA5hN2pCCtDFVZF341) | 2:57 |

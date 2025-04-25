@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 115147,
+  "num_followers": 115185,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
+        "name": "Best of The Black President",
+        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 591706,
+      "name": "Water No Get Enemy - Edit",
+      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
         "name": "Love & Death",
         "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 182226,
       "name": "Pata Pata",
       "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Best of The Black President",
-        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 591706,
-      "name": "Water No Get Enemy - Edit",
-      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
     },
     {
       "added_at": "2025-03-14 05:25:23",
@@ -651,18 +651,22 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
-        "name": "Daddy Lumba Essentials",
-        "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
       },
       "artists": [
         {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
         }
       ],
-      "duration_ms": 337606,
-      "name": "Theresa",
-      "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     }
   ],
   "unique_name": "Classic Afropop",

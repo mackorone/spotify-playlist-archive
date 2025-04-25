@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 125282,
+  "num_followers": 125326,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "If U Seek Amy",
-      "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "If U Seek Amy",
+      "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -331,38 +331,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Femme Fatale (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Evacuate The Dancefloor",
-        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Evacuate The Dancefloor - Radio Edit",
-      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
       },
@@ -383,6 +351,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Evacuate The Dancefloor",
+        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Evacuate The Dancefloor - Radio Edit",
+      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Hook Me Up",
         "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 255360,
       "name": "Untouched",
       "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Daddy AF",
-        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "Daddy AF",
-      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "A Joyful Noise",
         "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 211853,
       "name": "Move in the Right Direction",
       "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Daddy AF",
+        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Daddy AF",
+      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
     },
     {
       "added_at": "2024-06-02 21:23:10",

@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "AZOUL V3",
+        "url": "https://open.spotify.com/album/197mIxNXShd34q7VU71Him"
+      },
+      "artists": [
+        {
+          "name": "KALIL",
+          "url": "https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "AZOUL V3",
+      "url": "https://open.spotify.com/track/7mB6gUSK0aPPisiUA3czNV"
+    },
+    {
+      "album": {
         "name": "Baadek Bizakerti",
         "url": "https://open.spotify.com/album/5CGX6rOvDdKLcB7usNXyNH"
       },

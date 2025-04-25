@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Nandy",
+  "description": "What is your love language? Say it in Swahili.  Cover: Harmonize",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 160561,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he"
@@ -2882,6 +2882,24 @@
       "duration_ms": 224158,
       "name": "Mtima",
       "url": "https://open.spotify.com/track/6YswmXBwQNySnGWeFKH0WF"
+    },
+    {
+      "album": {
+        "name": "Mtoto",
+        "url": "https://open.spotify.com/album/4f2P52GDpccJmGPVQBu4bW"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "Mtoto",
+      "url": "https://open.spotify.com/track/6bAE1iw1u8Anq9n5xZBATc"
     },
     {
       "album": {
@@ -5651,6 +5669,24 @@
     },
     {
       "album": {
+        "name": "Yeye",
+        "url": "https://open.spotify.com/album/6q8mOZ3fOVmPyrlQZ4kLTM"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177889,
+      "name": "Yeye",
+      "url": "https://open.spotify.com/track/54DJmNdE1KwaFNIjxSohY2"
+    },
+    {
+      "album": {
         "name": "You (feat. Yammi)",
         "url": "https://open.spotify.com/album/6yWJogn1gsms4cAXPE6b7x"
       },
@@ -5684,7 +5720,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 199306,
       "name": "You Better Go",
       "url": "https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC"

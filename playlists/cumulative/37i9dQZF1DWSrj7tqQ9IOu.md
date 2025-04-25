@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Emma Hoet
+> The best French indie tracks right now\. Cover : Cocoon
 
-622 songs - 1 day 9 hr 49 min
+625 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Antidote](https://open.spotify.com/track/6hfyg01cT0psERGwblYKs0) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [By Your Side](https://open.spotify.com/album/4lfxrZaJHbw7kbE6yZ2arb) | 3:54 | 2022-09-29 | 2022-10-14 |
 | [Anxiété](https://open.spotify.com/track/57TlKdK0nSo1kB5bzi8qAh) | [Adam Berry](https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh) | [Anxiété](https://open.spotify.com/album/0vfhsdTScYIuFwpDEoe87L) | 2:59 | 2022-12-15 | 2023-01-27 |
 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF) | 5:09 | 2024-06-06 | 2025-01-17 |
-| [Appetizers](https://open.spotify.com/track/3L5C901twUu9wlv3J0yhO8) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Appetizers](https://open.spotify.com/album/5J6A3C8tve2lfP0k7JqEYy) | 3:10 | 2025-01-16 |  |
+| [Appetizers](https://open.spotify.com/track/3L5C901twUu9wlv3J0yhO8) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Appetizers](https://open.spotify.com/album/5J6A3C8tve2lfP0k7JqEYy) | 3:10 | 2025-01-16 | 2025-04-25 |
 | [Apportez\-moi un thé](https://open.spotify.com/track/4jF75m5oNgToVIuaD8Y1OA) | [Adam Berry](https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh) | [t.](https://open.spotify.com/album/1VaVsd2DSaXP5oZW80qoQH) | 2:15 | 2023-04-06 | 2023-10-13 |
 | [Arrivera](https://open.spotify.com/track/29htxu76IzvAi8n4HY0fMG) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Arrivera](https://open.spotify.com/album/2mJxHIrImmrJOi9tYvTuku) | 3:03 | 2022-01-20 | 2022-01-28 |
 | [Asking for More](https://open.spotify.com/track/2S5EDLiPJL0gJ9eJfiwCbq) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Asking for More](https://open.spotify.com/album/2T0givNGiaaU9GCp051hgn) | 2:52 | 2024-11-21 | 2025-02-07 |
@@ -162,7 +162,7 @@
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 | 2022-04-29 |
 | [en plein vol](https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [en plein vol](https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt) | 3:06 | 2023-01-12 | 2023-02-03 |
 | [en rosalie](https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs](https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS) | 2:39 | 2024-02-29 |  |
-| [En vrai](https://open.spotify.com/track/2aAYsxF5yduOVldQzknCpO) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [En vrai](https://open.spotify.com/album/6dmXR1JeDIw2M1unYt7fQZ) | 4:22 | 2024-11-07 |  |
+| [En vrai](https://open.spotify.com/track/2aAYsxF5yduOVldQzknCpO) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [En vrai](https://open.spotify.com/album/6dmXR1JeDIw2M1unYt7fQZ) | 4:22 | 2024-11-07 | 2025-04-25 |
 | [Encore](https://open.spotify.com/track/2rD2lLV55Pr6xvzI67MY8L) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Encore](https://open.spotify.com/album/5YIj0XNQpAzJTYlXBXgd2M) | 3:19 | 2024-02-23 | 2024-03-22 |
 | [Encore \(with Páula from PPJ\)](https://open.spotify.com/track/326FEEW0jNEs2iNTdfAD9B) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [PRIMADONNA COLLECTION](https://open.spotify.com/album/79pgJ3q3Q83lsdGrMFn6Y9) | 3:27 | 2023-06-01 | 2023-06-23 |
 | [Enfant star](https://open.spotify.com/track/5q33mH9sEEdZJyK51d66tu) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Club de cœur](https://open.spotify.com/album/2PSSIPFERBItM5RSZ3EZ62) | 2:31 | 2023-01-12 | 2023-06-09 |
@@ -261,6 +261,7 @@
 | [J'aime les filles](https://open.spotify.com/track/3N6mpmEgjqRIMNDkucHMJz) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [J'aime les filles](https://open.spotify.com/album/15KiBmF3enU5CukG3mO6gy) | 3:17 | 2022-09-01 | 2022-09-30 |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-06-15 | 2023-11-03 |
 | [j'attends](https://open.spotify.com/track/23I9xqbbq8ii3SK59VoeuQ) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [j'attends](https://open.spotify.com/album/0lernxYMPwdcFGvEDv3att) | 3:26 | 2022-12-01 | 2023-01-13 |
+| [J'irai en enfer](https://open.spotify.com/track/3mp3NJnyDVifpqxKapntf1) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Malabar Princess](https://open.spotify.com/album/4ocV7Sx1zDfOq5jR5KhagL) | 3:34 | 2025-04-24 |  |
 | [Jamais les mêmes](https://open.spotify.com/track/0pTlR1MBae9DSvYTI8falu) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Jamais les mêmes](https://open.spotify.com/album/5G49O3DzRaNZ5htXu3XhM9) | 2:56 | 2023-02-16 | 2023-03-03 |
 | [Je continue à danser](https://open.spotify.com/track/6kotvODHgeUcffIZGRwkqe) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Je continue à danser](https://open.spotify.com/album/4gfmldrRM32UOyG4FZ9Kbr) | 3:11 | 2023-01-05 | 2023-06-02 |
 | [Je ne t'appartiens pas](https://open.spotify.com/track/4BHHWZKuwXCD4ipP8WhFhD) | [Toboggan](https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG) | [Je ne t'appartiens pas](https://open.spotify.com/album/4GN8F1jaywulz1Y88JkdEc) | 2:37 | 2022-11-17 | 2022-12-02 |
@@ -360,6 +361,7 @@
 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-07 | 2024-06-07 |
 | [Meguro](https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Meguro](https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz) | 3:24 | 2021-12-16 | 2022-03-25 |
 | [Memories \(with Olivia Merilahti\)](https://open.spotify.com/track/6yAjRkafLkS95M2HeM2Y0O) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [PrimaDonna vol\. 2](https://open.spotify.com/album/3SQpwXGk9dcI22c0jJsoQv) | 3:25 | 2023-04-06 | 2023-10-06 |
+| [MERCI](https://open.spotify.com/track/37mhGNcHKR9EStOcfT01j0) | [Pierre Guénard](https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX) | [VOLTIGE](https://open.spotify.com/album/0mMqOjEJehHs6XR3FkGDAQ) | 3:32 | 2025-04-24 |  |
 | [MICHAEL](https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [MICHAEL](https://open.spotify.com/album/668jOGhZKeBUlvAWoDXWee) | 3:38 | 2025-02-13 |  |
 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 | 2024-07-04 | 2025-02-21 |
 | [MIEL](https://open.spotify.com/track/0ZEf0aUGqB1HFKMdy2OLdp) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [L'autre moi](https://open.spotify.com/album/3t1YXwlIa0caYvSG6Yk6h5) | 2:55 | 2025-02-06 |  |
@@ -388,7 +390,7 @@
 | [Mélodie](https://open.spotify.com/track/5esdfdUwMWquRFyw8TVTfu) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Mélodie](https://open.spotify.com/album/03ljfzL4wjXWqXYPZ3eQc8) | 3:29 | 2024-11-07 | 2025-01-31 |
 | [Mélodie \(with DORA\)](https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Mélodie \(with DORA\)](https://open.spotify.com/album/2scI9aMrYO9fkaIba8tUhn) | 3:36 | 2023-03-02 | 2023-03-18 |
 | [Métaphores](https://open.spotify.com/track/3DBt3IOapmTsIV5QWfOje0) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Métaphores](https://open.spotify.com/album/12awGrBjFIJcRWGGrTqGAJ) | 3:21 | 2024-01-11 | 2024-02-02 |
-| [Navy Blue](https://open.spotify.com/track/1mlyu8XFuu1iHqMZ2IaZB7) | [Jade Lux](https://open.spotify.com/artist/6b6SsFJXGT6KCDPcI1trW5) | [Navy Blue](https://open.spotify.com/album/6EPXWoxJqROrra0R8SUAoj) | 3:55 | 2025-03-27 |  |
+| [Navy Blue](https://open.spotify.com/track/1mlyu8XFuu1iHqMZ2IaZB7) | [Jade Lux](https://open.spotify.com/artist/6b6SsFJXGT6KCDPcI1trW5) | [Navy Blue](https://open.spotify.com/album/6EPXWoxJqROrra0R8SUAoj) | 3:55 | 2025-03-27 | 2025-04-25 |
 | [Ne t'en fais pas](https://open.spotify.com/track/3WOrCrgJX1Wz09tBRODBP4) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Ne t'en fais pas](https://open.spotify.com/album/0t4iqjZlEERcP27LBQpMvJ) | 3:13 | 2024-02-01 | 2024-07-05 |
 | [Never Be The Same Again](https://open.spotify.com/track/0KEM91LS41CerPQRop8FaP) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Never Be The Same Again](https://open.spotify.com/album/3laWOTgQfRtBB0cCTIxigl) | 2:11 | 2024-08-01 | 2024-11-22 |
 | [Never Get Old](https://open.spotify.com/track/2JMSqKjWQYBhmWG8yWj7DE) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/4hhy0wVU3ktRB7Siiikk29) | 2:44 | 2023-06-01 | 2023-07-31 |
@@ -429,6 +431,7 @@
 | [Palmiers rivières](https://open.spotify.com/track/7ySvklbmgkHsyrWwcHzY2U) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Palmiers rivières](https://open.spotify.com/album/77MDV4dCwp4U5ctsl6K5gL) | 2:53 | 2023-09-14 | 2024-08-23 |
 | [Pampa](https://open.spotify.com/track/2JHWd0U5QENovcGYjwsE1g) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Pampa](https://open.spotify.com/album/3fhGVkv2gwWWqibMwPcDHN) | 3:22 | 2022-04-21 | 2022-09-09 |
 | [Paraiso](https://open.spotify.com/track/11kPRHkZCTgudM8Xyr1KXu) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Paraiso](https://open.spotify.com/album/3XzAkdhEehbZ38bOhHbloj) | 3:17 | 2023-03-02 | 2023-03-25 |
+| [Parallel Lines](https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [What We Leave Behind](https://open.spotify.com/album/5glE2xnhRJnkan4lHWgXJt) | 2:42 | 2025-04-24 |  |
 | [Paris](https://open.spotify.com/track/1NqHsocjKaEmyjKhXJbIk8) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Paris](https://open.spotify.com/album/0hzxwjmrSYnUIhaQElBQMj) | 2:44 | 2022-12-22 | 2023-03-25 |
 | [Paris cyclone](https://open.spotify.com/track/6RWkgGCxCCZxZplgL2CHsn) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/4vSFzEL2EvWRK02kaGwC4N) | 2:51 | 2023-10-12 | 2023-11-17 |
 | [Paris en août](https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Paris en août](https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA) | 3:30 | 2021-12-16 | 2022-01-14 |

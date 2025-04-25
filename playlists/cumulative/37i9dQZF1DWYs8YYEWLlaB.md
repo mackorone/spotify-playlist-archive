@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> Viral, trend ve yükselenler\. 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷 Kapak: manifest
+> viral, trend ve yükselenler\.  Kapak: manifest
 
 145 songs - 7 hr 33 min
 

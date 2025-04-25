@@ -2,7 +2,7 @@
 
 ### [Rap in deep](https://open.spotify.com/playlist/37i9dQZF1DX0Na9FTYame5)
 
-> Deutschrap für die emotions\. Cover: Florentina, FOURTY
+> Deutschrap für die emotions\. Cover: CIVO
 
 206 songs - 9 hr 20 min
 

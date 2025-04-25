@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Serge Beynaud",
+  "description": "African dance party music from the continent to Paris. Photo : Kedjevara",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-25",
       "duration_ms": 225628,
       "name": "Calculatrice",
       "url": "https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX"
@@ -2572,6 +2572,28 @@
       "duration_ms": 188444,
       "name": "Kong",
       "url": "https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp"
+    },
+    {
+      "album": {
+        "name": "Korotoumou",
+        "url": "https://open.spotify.com/album/0UdRLJ4ow70maxJ1LutisP"
+      },
+      "artists": [
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        },
+        {
+          "name": "3xdavs",
+          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156585,
+      "name": "Korotoumou",
+      "url": "https://open.spotify.com/track/6P5FxeaDrBJUC0cVFWyjgd"
     },
     {
       "album": {
