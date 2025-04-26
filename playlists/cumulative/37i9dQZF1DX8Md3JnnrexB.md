@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-342 songs - 23 hr 59 min
+343 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Let's Stay Together](https://open.spotify.com/track/4wASBXZ15QVnypp0SY8Jhm) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/488Go22EFOlEyE2VwnLAFV) | 3:19 | 2022-01-20 | 2022-07-29 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2022-05-11 | 2023-10-12 |
 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 | 2021-12-13 | 2022-02-05 |
-| [Let's Wait Awhile](https://open.spotify.com/track/3333YXdcyths5CB8v28dZj) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:37 | 2022-01-03 |  |
+| [Let's Wait Awhile](https://open.spotify.com/track/3333YXdcyths5CB8v28dZj) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:37 | 2022-01-03 | 2025-04-26 |
 | [Look Who's Lonely Now](https://open.spotify.com/track/7JDjez3DXn7dhEwCQYVdnX) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Windsong](https://open.spotify.com/album/32YyTpcXjKX63IG2slJqrS) | 3:38 | 2021-12-13 | 2022-07-29 |
 | [Lost Without You](https://open.spotify.com/track/6BOJ0nczgHMiklqraMDfMv) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [Heaven](https://open.spotify.com/album/10dbzUrxRpxkot3QENMGFV) | 4:14 | 2022-01-03 | 2023-04-21 |
 | [Love](https://open.spotify.com/track/6eQIk2NX87pMrMQ9lpWZUD) | [City Limits](https://open.spotify.com/artist/4ZSMbwCpSHFmHheHHVU98x) | [Circles](https://open.spotify.com/album/7whWeslKir8S7gwBaijm9h) | 4:23 | 2021-12-13 | 2022-07-28 |
@@ -263,6 +263,7 @@
 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 | 2022-01-03 |  |
 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 | 2021-12-13 | 2023-08-16 |
 | [Share My Love](https://open.spotify.com/track/5xctkHBCfAYg1cmbFU2dBK) | [Magnum Force](https://open.spotify.com/artist/0OSV27fVq0YUYKEafCXlLi) | [Share My Love](https://open.spotify.com/album/1EgFfEPWPBJcVqVgk1RU5n) | 6:24 | 2021-12-13 | 2022-07-27 |
+| [She Keeps Calling](https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [She Keeps Calling](https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO) | 2:23 | 2025-04-25 |  |
 | [Shining Star](https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [After Midnight \(Expanded Version\)](https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ) | 4:41 | 2022-01-03 |  |
 | [Show & Tell](https://open.spotify.com/track/7eRT4SS9oJH6L9FyOzndRW) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Listen To Me](https://open.spotify.com/album/5NZSlAHmuK1l2W0yinDDHN) | 3:29 | 2024-01-16 | 2024-04-19 |
 | [Show and Tell \- Rerecorded](https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Al Wilson](https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR) | 3:31 | 2022-01-05 |  |
@@ -329,7 +330,7 @@
 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 | 2021-12-13 |  |
 | [Wish That You Were Mine](https://open.spotify.com/track/19mXqYcLHY716cN53T1d1E) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [There's No Me Without You \(Expanded Edition\)](https://open.spotify.com/album/6nGP2C8BMkIqnVyPzXSUFr) | 4:20 | 2022-01-20 | 2024-01-17 |
 | [Wishing on a Star](https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [In Full Bloom](https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk) | 4:51 | 2021-12-13 | 2025-01-29 |
-| [With You I'm Born Again](https://open.spotify.com/track/58GhFs15VYJJHfSk99AZN7) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5), [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Billy Preston & Syreeta \(Expanded Edition\)](https://open.spotify.com/album/2GAD8e7SJ79yfRblYuGfP0) | 3:39 | 2022-01-03 |  |
+| [With You I'm Born Again](https://open.spotify.com/track/58GhFs15VYJJHfSk99AZN7) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5), [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Billy Preston & Syreeta \(Expanded Edition\)](https://open.spotify.com/album/2GAD8e7SJ79yfRblYuGfP0) | 3:39 | 2022-01-03 | 2025-04-26 |
 | [Wonderful Tonight](https://open.spotify.com/track/5hBEqzQ2az9kDXRXJTDCZw) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:42 | 2022-01-03 | 2023-02-22 |
 | [Work to Do](https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Brother, Brother, Brother](https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA) | 3:12 | 2022-01-03 |  |
 | [You Are Everything](https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf) | 2:54 | 2022-01-05 |  |

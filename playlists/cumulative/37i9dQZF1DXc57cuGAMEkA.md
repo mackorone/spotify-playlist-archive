@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック  Vaundy, Linkin Park, imase, d4vd,  Kali Uchis, and more!
 
-9,305 songs - 21 day 16 hr 9 min
+9,306 songs - 21 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-09 | 2025-01-17 |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-09 | 2023-02-17 |
 | [Amen](https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen](https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw) | 3:30 | 2023-12-14 | 2023-12-22 |
+| [Amen](https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:17 | 2025-04-24 |  |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-25 | 2023-06-02 |
 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 | 2025-02-06 | 2025-02-14 |
 | [American Dream](https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [American Dream](https://open.spotify.com/album/0pq5HLaL15cX8fEh7DTTvw) | 2:25 | 2024-11-01 | 2024-11-08 |
@@ -9271,7 +9272,7 @@
 | [違和感の向こうで](https://open.spotify.com/track/52tA6ZHBS8rljCoYAYaapO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [違和感の向こうで](https://open.spotify.com/album/5bkhgZ6uVAZQqfqwEffrv2) | 4:21 | 2024-05-16 | 2024-05-24 |
 | [遠ざかる犬](https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遠ざかる犬](https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd) | 4:19 | 2023-01-29 | 2023-02-03 |
 | [遠恋歌](https://open.spotify.com/track/0RAUNsi6rVBsfi3mt9oAf2) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [遠恋歌](https://open.spotify.com/album/6zu0d4mm0cwqRtySSxyfuq) | 3:29 | 2023-10-19 | 2023-11-11 |
-| [遠慮のかたまり](https://open.spotify.com/track/1ERBa1lztPWTvWVk2PXVw8) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [遠慮のかたまり](https://open.spotify.com/album/6YYKfd75y5vKL1pK0EtHCE) | 2:37 | 2025-04-24 |  |
+| [遠慮のかたまり](https://open.spotify.com/track/1ERBa1lztPWTvWVk2PXVw8) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [遠慮のかたまり](https://open.spotify.com/album/6YYKfd75y5vKL1pK0EtHCE) | 2:37 | 2025-04-24 |  |
 | [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 | 2023-10-12 | 2023-10-23 |
 | [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 | 2023-04-06 | 2023-04-14 |
 | [金パンパンのジーンズ](https://open.spotify.com/track/31qVxllzSev7Ap1ASoU0no) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [King Of Everything](https://open.spotify.com/album/6STIGUizJUhGprqXZBJL04) | 3:01 | 2023-01-29 | 2023-02-03 |
@@ -9281,7 +9282,7 @@
 | [鈴々](https://open.spotify.com/track/6IfLdaA77asZvofXazYibP) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [星巡り、君に金星](https://open.spotify.com/album/3NsnN2tlsf5jrqB9Qj2CMS) | 3:15 | 2024-01-11 | 2024-01-19 |
 | [鎌倉STYLE](https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [鎌倉STYLE](https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W) | 3:20 | 2024-07-18 | 2024-07-27 |
 | [雑稿 pt.1](https://open.spotify.com/track/2wGuwgs832MAV9XUecAvF0) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [雑稿 pt.1](https://open.spotify.com/album/3BmGJLBUzNVqeDHJq8WBhC) | 3:23 | 2023-09-07 | 2023-09-09 |
-| [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [カネコアヤノ](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 | 2025-04-24 |  |
+| [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 | 2025-04-24 |  |
 | [雨](https://open.spotify.com/track/3WF4xKoNIXnRDnYLzcZrwX) | [Linus](https://open.spotify.com/artist/5xkIt3pe76h4JgWeKpKm4L) | [雨](https://open.spotify.com/album/0FyehWewAPWBZsClAlpvAM) | 3:37 | 2023-05-25 | 2023-06-02 |
 | [雨](https://open.spotify.com/track/5cvN2iAlXgvnoILev43kxQ) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [雨](https://open.spotify.com/album/64gdAj02fyPA1YBadRot51) | 3:43 | 2024-08-23 | 2024-08-30 |
 | [雨粒と花火](https://open.spotify.com/track/5B5TwL6lTyFkQn0KAiiPyI) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [雨粒と花火](https://open.spotify.com/album/6rx0CQBXsSIqkHXwwDrcp3) | 4:03 | 2024-07-18 | 2024-07-27 |

@@ -7343,6 +7343,28 @@
     },
     {
       "album": {
+        "name": "Barco a la Deriva",
+        "url": "https://open.spotify.com/album/1SvNOOWJFbHXFgNOR9iZmV"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        },
+        {
+          "name": "Sergio Aguero",
+          "url": "https://open.spotify.com/artist/5db93tys5tfZfnlMYyVc25"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224469,
+      "name": "Barco a la Deriva",
+      "url": "https://open.spotify.com/track/1HX1lE5S72KOFstvZBa4AB"
+    },
+    {
+      "album": {
         "name": "Basta de Jugar",
         "url": "https://open.spotify.com/album/4DivYjZqWyEUsU6IyjsGJQ"
       },
@@ -59136,7 +59158,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 199800,
       "name": "Se Puede",
       "url": "https://open.spotify.com/track/7tIKEUsDhA8T4CAKI6j2vz"

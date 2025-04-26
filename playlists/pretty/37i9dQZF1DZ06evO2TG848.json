@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 22653,
+  "num_followers": 22662,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAgtgAAAAABiVdTpaI671DZVIKjF5nVF",
+  "snapshot_id": "aAl/AAAAAACGY4Zj21DG0uGdsfOzZzfC",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 112546,
-      "name": "The Wings",
-      "url": "https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz"
+      "duration_ms": 163479,
+      "name": "Left Behind (Together)",
+      "url": "https://open.spotify.com/track/46MXNACYPdyqfGvkaptf2Z"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 163479,
-      "name": "Left Behind (Together)",
-      "url": "https://open.spotify.com/track/46MXNACYPdyqfGvkaptf2Z"
+      "duration_ms": 112546,
+      "name": "The Wings",
+      "url": "https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz"
     },
     {
       "added_at": null,
@@ -903,6 +903,38 @@
       "duration_ms": 91480,
       "name": "Opening",
       "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "Lago Fr\u00edas",
+      "url": "https://open.spotify.com/track/4zce2MGBnswuQl9vqrGwgN"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

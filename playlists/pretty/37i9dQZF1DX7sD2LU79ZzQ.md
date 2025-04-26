@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Dere
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,971 likes - 101 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,132 likes - 101 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

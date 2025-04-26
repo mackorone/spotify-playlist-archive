@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-196 songs - 22 hr 1 min
+197 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Ya Allah Ya Rehman](https://open.spotify.com/track/7MXYMRDNVXJg9euepwFmpS) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 10:47 | 2024-09-21 |  |
 | [Ya Gaus Ya Meeran](https://open.spotify.com/track/6cA7JGt2iP1Euus9ArO9IF) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 9:32 | 2024-09-21 |  |
 | [Ya Nabi](https://open.spotify.com/track/1KZAeHjpdAP54WFXecMdGj) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Ya Nabi](https://open.spotify.com/album/4PssxHy2Gc54Tx8rQOiNqG) | 3:03 | 2022-06-21 | 2022-10-25 |
+| [Ye Rang](https://open.spotify.com/track/7cM0mHXDVmyBjWHzLqlwZh) | [Quaid Ahmed](https://open.spotify.com/artist/1UyH5bHkguI8ufisAClFLJ), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ) | [Ye Rang](https://open.spotify.com/album/1cM92PlMSWbqwRhRhglrS9) | 3:15 | 2025-04-25 |  |
 | [Yeh Jo Halka Halka Suroor Hai](https://open.spotify.com/track/3nsG910SMV4odWqxMKqGRS) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [30 Greatest Hits Nusrat Fateh Ali Khan and Sabri Brothers](https://open.spotify.com/album/0bGcGPQfXs78eUEgJ2XfHp) | 23:14 | 2022-08-02 | 2022-10-25 |
 | [Zihal E Miskin](https://open.spotify.com/track/2tkaoCKZzlORo0rgu05SLA) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Adil Mansoor](https://open.spotify.com/artist/43QMyHpr3TE9pml9jYHpXl), [Ameer Khusru](https://open.spotify.com/artist/1tD31KaLQ9cOKlKCa7DQyI) | [Zihal E Miskin](https://open.spotify.com/album/6vaoawmWLkMHlNO4Fg6OHc) | 5:54 | 2024-01-12 | 2024-06-22 |
 

@@ -5454,7 +5454,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 231016,
       "name": "Con otra",
       "url": "https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ"
@@ -15890,7 +15890,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 106971,
       "name": "MONTAGEM TOMADA - Ultra Slowed",
       "url": "https://open.spotify.com/track/2UbycaWEBLUF8S9eOdfQKO"
@@ -21907,6 +21907,36 @@
     },
     {
       "album": {
+        "name": "Si No Es Muy Tarde - Versi\u00f3n Cumbia",
+        "url": "https://open.spotify.com/album/1J9z1luYGjltxRgf8izM3C"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Ezequiel Y La Clave",
+          "url": "https://open.spotify.com/artist/74CIXR2mbIKC3gRYZQqKdY"
+        },
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196559,
+      "name": "Si No Es Muy Tarde - Versi\u00f3n Cumbia",
+      "url": "https://open.spotify.com/track/4KRlNVLHn2ZgGvpjnga31N"
+    },
+    {
+      "album": {
         "name": "Canta Vallenato Homenaje a los Compositores, Vol. 3",
         "url": "https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw"
       },
@@ -25450,7 +25480,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 161119,
       "name": "T\u00f3came (feat. Dillom)",
       "url": "https://open.spotify.com/track/0hrrIKyJYc5BNLOn6zsCE6"

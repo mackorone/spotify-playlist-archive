@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "someday.",
+        "url": "https://open.spotify.com/album/2kF3JmPOQuZPJr3vldagaB"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "someday.",
+      "url": "https://open.spotify.com/track/735q2A0WjM11tZNlXfwlC4"
+    },
+    {
+      "album": {
         "name": "Soul Mates",
         "url": "https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T"
       },
@@ -1538,6 +1556,24 @@
       "duration_ms": 105875,
       "name": "Traffic Lights",
       "url": "https://open.spotify.com/track/4OZIK5553fVfj68nP7fiMQ"
+    },
+    {
+      "album": {
+        "name": "Ultimo",
+        "url": "https://open.spotify.com/album/7cK8rxHPtgIYcp417wQg2V"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155778,
+      "name": "Ultimo",
+      "url": "https://open.spotify.com/track/1eiVzLJEZ9Fn3ubDec4Vnm"
     },
     {
       "album": {

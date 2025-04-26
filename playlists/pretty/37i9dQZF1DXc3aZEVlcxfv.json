@@ -1,12 +1,12 @@
 {
   "description": "I am blessed!",
-  "num_followers": 8933,
+  "num_followers": 9164,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aArQ0gAAAABvkhyLvTGFBtKrkaP89Pin",
+  "snapshot_id": "aAtNbgAAAABrhgg0yiAGdcWS2iHP4VDk",
   "tracks": [
     {
       "added_at": "2025-04-25 00:01:22",
@@ -239,6 +239,26 @@
       "duration_ms": 210457,
       "name": "Cares For Me",
       "url": "https://open.spotify.com/track/1ltaiIIWxulnxWPmcYF9p9"
+    },
+    {
+      "added_at": "2025-04-25 08:53:02",
+      "album": {
+        "name": "Crucified with Christ",
+        "url": "https://open.spotify.com/album/4Np1aIre6LHC81eOl5fXad"
+      },
+      "artists": [
+        {
+          "name": "Theo Milford",
+          "url": "https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD"
+        },
+        {
+          "name": "Larry Vaughn II",
+          "url": "https://open.spotify.com/artist/6i8nm4T2RcdcgmkcX7KSHX"
+        }
+      ],
+      "duration_ms": 413098,
+      "name": "Crucified with Christ",
+      "url": "https://open.spotify.com/track/29TdK4PqgMc20n5rwOZnle"
     },
     {
       "added_at": "2025-02-14 00:01:09",

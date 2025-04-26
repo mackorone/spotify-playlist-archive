@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Novel Fergus
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Uchu Yurei 宇宙幽靈
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,152 likes - 110 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,151 likes - 110 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [thinkin about you](https://open.spotify.com/track/5PTebRG9klL5KU2eHf9f8c) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [thinkin about you](https://open.spotify.com/album/6qxuCkj2abDmL4KWh0F7gh) | 2:56 |
 | 2 | [no expectation](https://open.spotify.com/track/6lm8oHO5OST27oU1UDBSMk) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [no expectation](https://open.spotify.com/album/00HmmKxUfcIIk6aQL5i07S) | 4:06 |
-| 3 | [方和向](https://open.spotify.com/track/3fJwYWrWhX0G7NpYXXc78S) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v) | [方和向](https://open.spotify.com/album/402dJiVh9AcA4FayAOgkbm) | 4:08 |
-| 4 | [Titian](https://open.spotify.com/track/5HswInmXBZO675KkSymocx) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Titian](https://open.spotify.com/album/0pZdmmaW2lSaNrH01SlNCV) | 7:39 |
-| 5 | [時不與我](https://open.spotify.com/track/4IGtwq0nqpgzkM2koIRXIV) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [時不與我](https://open.spotify.com/album/10n4PIOBMg6qsxwQfYCQbq) | 2:58 |
-| 6 | [HKG](https://open.spotify.com/track/3146nqEIiusAEGcFxsHMyP) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [TAHITI](https://open.spotify.com/artist/18hBb9LiOSU4mstErGGIfM) | [HKG](https://open.spotify.com/album/0huDSWaS852bt2S60AA14s) | 2:44 |
-| 7 | [No sugar ⊹ ࣪ ˖](https://open.spotify.com/track/0sTsKFqoTVJSgqrRR858Yj) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [No sugar ⊹ ࣪ ˖](https://open.spotify.com/album/74MJycWxyaBPLd4b1E2YYv) | 2:31 |
-| 8 | [餘光](https://open.spotify.com/track/06QauBbFnDBsQGVq1uOwU2) | [楊智遠](https://open.spotify.com/artist/3z1plF2EanRX8DWiJ24jbU) | [餘光](https://open.spotify.com/album/6ACsITQffM5yoeJ2WiNWqA) | 5:16 |
-| 9 | [斷線](https://open.spotify.com/track/2v4naQglKacbiTKO2Ly7RW) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [斷線](https://open.spotify.com/album/1KRuDLI7VWP7HbcsPLLCHl) | 4:22 |
-| 10 | [Casanova](https://open.spotify.com/track/5ZWOOF94lbY7aYvznpt1TH) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [Casanova](https://open.spotify.com/album/3xlFSSSWab0A4kjaIxFucK) | 2:30 |
-| 11 | [make a move \(feat\. CHANKA\)](https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [make a move \(feat\. CHANKA\)](https://open.spotify.com/album/3ayaPhJLmTMPsmbgnAhqlS) | 3:27 |
+| 3 | [Titian](https://open.spotify.com/track/5HswInmXBZO675KkSymocx) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Titian](https://open.spotify.com/album/0pZdmmaW2lSaNrH01SlNCV) | 7:39 |
+| 4 | [時不與我](https://open.spotify.com/track/4IGtwq0nqpgzkM2koIRXIV) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [時不與我](https://open.spotify.com/album/10n4PIOBMg6qsxwQfYCQbq) | 2:58 |
+| 5 | [HKG](https://open.spotify.com/track/3146nqEIiusAEGcFxsHMyP) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [TAHITI](https://open.spotify.com/artist/18hBb9LiOSU4mstErGGIfM) | [HKG](https://open.spotify.com/album/0huDSWaS852bt2S60AA14s) | 2:44 |
+| 6 | [No sugar ⊹ ࣪ ˖](https://open.spotify.com/track/0sTsKFqoTVJSgqrRR858Yj) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [No sugar ⊹ ࣪ ˖](https://open.spotify.com/album/74MJycWxyaBPLd4b1E2YYv) | 2:31 |
+| 7 | [餘光](https://open.spotify.com/track/06QauBbFnDBsQGVq1uOwU2) | [楊智遠](https://open.spotify.com/artist/3z1plF2EanRX8DWiJ24jbU) | [餘光](https://open.spotify.com/album/6ACsITQffM5yoeJ2WiNWqA) | 5:16 |
+| 8 | [斷線 \- Live Version](https://open.spotify.com/track/2v4naQglKacbiTKO2Ly7RW) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [斷線 \(Live Version\)](https://open.spotify.com/album/1KRuDLI7VWP7HbcsPLLCHl) | 4:22 |
+| 9 | [Casanova](https://open.spotify.com/track/5ZWOOF94lbY7aYvznpt1TH) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [Casanova](https://open.spotify.com/album/3xlFSSSWab0A4kjaIxFucK) | 2:30 |
+| 10 | [make a move \(feat\. CHANKA\)](https://open.spotify.com/track/6n0m6HskU72buMlHnLjfuh) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [make a move \(feat\. CHANKA\)](https://open.spotify.com/album/3ayaPhJLmTMPsmbgnAhqlS) | 3:27 |
+| 11 | [方和向](https://open.spotify.com/track/3fJwYWrWhX0G7NpYXXc78S) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v) | [方和向](https://open.spotify.com/album/402dJiVh9AcA4FayAOgkbm) | 4:08 |
 | 12 | [Centuries](https://open.spotify.com/track/4jN3sOY5Ie7N2gJg69eI74) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [Centuries](https://open.spotify.com/album/1CzGE2ha6P0u2l1YE1ng2K) | 2:55 |
 | 13 | [Trophy Wife In Training](https://open.spotify.com/track/54jeGbYpBkovKhxsYykFgE) | [ARI LEE](https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7) | [Trophy Wife In Training](https://open.spotify.com/album/65R2Eh8r1NgQFdUWnyKMbf) | 2:49 |
 | 14 | [紐約到台北 New York To Taipei](https://open.spotify.com/track/7fjtpARK9RroYk1AMb7Ybr) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [紐約到台北 New York To Taipei](https://open.spotify.com/album/4XavoBIykVl8AaJCi4sY1h) | 3:08 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 109 | [Streets of Helsinki](https://open.spotify.com/track/5Nuje8nvNyMTr1rV73ZmtY) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [Streets of Helsinki](https://open.spotify.com/album/7wocbT7ZB498TXgICEPrjQ) | 4:01 |
 | 110 | [綠島炸雞脾 Green Island Fried Chicken Leg \- Live at NTK](https://open.spotify.com/track/165o8sxURI9AvNtW23WUUp) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [牛頭角現場 Live at Ngau Tau Kok](https://open.spotify.com/album/2jgYOrxoPHh668hMB41gup) | 5:16 |
 
-Snapshot ID: `aApv+wAAAACU8EGjejN1QybwJyDSBvmW`
+Snapshot ID: `aAsI8gAAAAD86/+5t8hToi4Bhw4GJOK4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa paluun tehnyt Tiisu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,583 likes - 82 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,594 likes - 82 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 9 | [Minä ja kuu](https://open.spotify.com/track/2ODjk1AMq1UmauuxyTJYi3) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [Minä ja kuu](https://open.spotify.com/album/6M0dimKuPiLf2IKiw7jwcP) | 4:09 |
 | 10 | [Pahat tavat](https://open.spotify.com/track/6sniQycPpkszFlnk7QgJVN) | [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Pahat tavat](https://open.spotify.com/album/19W0WirLkEj7c2fJbB6xIN) | 2:57 |
 | 11 | [Lasipalatsi](https://open.spotify.com/track/6rFjlvQDwemt0u7q4aSCh5) | [Krypta](https://open.spotify.com/artist/4zRDU0LpP6xtY3Owx6ttMl) | [Lasipalatsi](https://open.spotify.com/album/1oIemitjIcARr4dBbWEJ9h) | 4:11 |
-| 12 | [Kuumeisen unta](https://open.spotify.com/track/0Hmp3uiHMsvpYgj0RXkFkR) | [Janne Laurila Double Denim](https://open.spotify.com/artist/7L8aM3nGyHWgbYTSA73Jkx) | [Kuumeisen unta](https://open.spotify.com/album/5CBMSBe8VRDAPZhqdeqcCo) | 3:00 |
+| 12 | [Kuumeisen unta](https://open.spotify.com/track/0Hmp3uiHMsvpYgj0RXkFkR) | [Janne Laurila Double Denim](https://open.spotify.com/artist/7L8aM3nGyHWgbYTSA73Jkx), [Janne Laurila](https://open.spotify.com/artist/3ASfmUvEt4pae0FMEbJFcU) | [Kuumeisen unta](https://open.spotify.com/album/5CBMSBe8VRDAPZhqdeqcCo) | 3:00 |
 | 13 | [Kaikki](https://open.spotify.com/track/6Y2Uece6jhbUllTUXnymkA) | [Kirsikkapuu](https://open.spotify.com/artist/0e9IBdj2kYHrIMUb5vvrXb) | [Kaikki](https://open.spotify.com/album/1szL1yGImlxB0ID16bfHnq) | 2:52 |
 | 14 | [Yks muista](https://open.spotify.com/track/5BejtDzb0Y0SiU368CNmxm) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Yks muista](https://open.spotify.com/album/3gg37qn7NWSLNJLBN6XFiT) | 2:48 |
 | 15 | [Sunday, Sunday](https://open.spotify.com/track/2rGgBq1U7MTE5RX50Ob0av) | [Pastis](https://open.spotify.com/artist/7FfiiGVEj2XvMjC4U4L4Yk) | [Sunday, Sunday / Into the Wild](https://open.spotify.com/album/1weFlEsWm1tgDK4HPpZk2G) | 3:04 |

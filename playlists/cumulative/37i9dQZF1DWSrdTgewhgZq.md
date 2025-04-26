@@ -2,9 +2,9 @@
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> Hey, Quavo and Lil Baby<br/>that's DOPE!
+> Hey, Yeat<br/>that's DOPE!
 
-375 songs - 20 hr 2 min
+379 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [I'm The Type](https://open.spotify.com/track/24zmKlJp1LlIRpagSbMaRY) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [chief wuk](https://open.spotify.com/artist/2Hm8pRagdhRNFBbCiGaJEI), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 2:36 | 2023-11-17 | 2024-09-21 |
 | [Ice Storm](https://open.spotify.com/track/6EQjDqHtjwOdueofGsJjhH) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [North Vol\. 2](https://open.spotify.com/album/29ViDgMA62axNx2WOABMjG) | 2:02 | 2024-05-31 | 2025-03-08 |
 | [ILL WHAT I BLEED](https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [ILL WHAT I BLEED](https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH) | 2:53 | 2023-10-27 | 2024-07-27 |
+| [Image and Style](https://open.spotify.com/track/4BGirMwkClgjnoWe0qbYpb) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [SUKU of Ward 21](https://open.spotify.com/artist/3X3vwCoOyOMUlecMoYqb4P), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl) | [Image and Style](https://open.spotify.com/album/1uhwpHm5AFHdJRsYCsLwgO) | 3:15 | 2025-04-25 |  |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-07-01 | 2024-04-19 |
 | [In Da Club](https://open.spotify.com/track/6Bentip3gtofhOzUXhL6sG) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Skiing Workout Mix](https://open.spotify.com/album/4QT1dg8zQoHuXF2HZbWWEB) | 3:13 | 2022-10-12 | 2022-11-13 |
 | [In Da Club](https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:13 | 2022-02-15 |  |
@@ -206,6 +207,7 @@
 | [Metallic 5's](https://open.spotify.com/track/1FswwGm9noeepfDqPxDygo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [Metallic 5's](https://open.spotify.com/album/4AZEzSBfQTDClCA2P4wUZS) | 3:12 | 2023-03-03 | 2023-06-17 |
 | [MHM](https://open.spotify.com/track/0VU7ZfZnuAhs9mcKLUUC61) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Head Melodies](https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj) | 2:27 | 2023-12-22 | 2024-02-13 |
 | [MHM](https://open.spotify.com/track/1lDNSytOBbE1cbFFUc95Km) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [MHM](https://open.spotify.com/album/36EeKYE6dFXKqtNdyye3xk) | 2:27 | 2023-05-19 | 2023-12-24 |
+| [MICHIGAN](https://open.spotify.com/track/6k1cc8PaQCA0HUVImhYBcn) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MICHIGAN](https://open.spotify.com/album/1Tju3BMSIKB61FBSZWM5n7) | 2:57 | 2025-04-25 |  |
 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 | 2021-12-24 | 2023-11-25 |
 | [Mini Birki](https://open.spotify.com/track/1DvTZSxTgY7UqHknm5YDaK) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [The World Changed On Me](https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60) | 2:50 | 2024-12-27 |  |
 | [Minimum Wage](https://open.spotify.com/track/2J3XiLFW6yiqoKpOukbbpR) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Minimum Wage](https://open.spotify.com/album/2Pcfs8BmHGXKsIcs8cJomT) | 2:18 | 2023-11-21 | 2024-06-22 |
@@ -330,6 +332,7 @@
 | [Terry Davis](https://open.spotify.com/track/5CxvjoDRlsRZeYxJgvvzU1) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Terry Davis](https://open.spotify.com/album/3doyvjswVMNHImDkyllMt5) | 3:13 | 2023-02-16 | 2023-06-17 |
 | [That's How We Ballin](https://open.spotify.com/track/5sdR0TcYhm3u8yf0jFYuOb) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [That's How We Ballin](https://open.spotify.com/album/3y1PAIiDfFHmt4KooBsZ4j) | 3:21 | 2023-11-10 | 2023-11-18 |
 | [The 3](https://open.spotify.com/track/6giD2A87haOvdcQ9cP8Blb) | [3 Melancholy Gypsys](https://open.spotify.com/artist/2EbeblguQabGEEYWYtY2CR) | [The 3](https://open.spotify.com/album/1erbcWmsiCfGjkUSCjAQ94) | 3:25 | 2023-02-16 | 2023-06-17 |
+| [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 | 2025-04-25 |  |
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2021-12-24 | 2023-11-25 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-26 |
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2022-03-01 | 2024-05-07 |
@@ -378,6 +381,7 @@
 | [WOOD GRAIN](https://open.spotify.com/track/2SpSjKIMihCOvLa3PPX8X8) | [JoshSimmons](https://open.spotify.com/artist/0JFppXf80RNwxZ2nrtdh4H) | [DEMO](https://open.spotify.com/album/5Hnz6AleCKnjDMlPXu3s2F) | 2:51 | 2023-02-16 | 2024-02-13 |
 | [Words2LiveBy \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk) | [El Cousteau](https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Words2LiveBy \(feat\. Earl Sweatshirt\)](https://open.spotify.com/album/7BKRDai83KpPU96CA586gV) | 2:16 | 2024-11-01 |  |
 | [WOW \(with A$AP Rocky\)](https://open.spotify.com/track/2RWlRSi9TthgUka2yrLnrD) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 4:34 | 2024-01-12 | 2024-02-13 |
+| [WRK](https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [WRK](https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu) | 3:14 | 2025-04-25 |  |
 | [WYD](https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [WYD](https://open.spotify.com/album/08PRxcK4bHMKg6PVObT6r9) | 3:21 | 2023-02-16 | 2023-10-28 |
 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-02-16 | 2024-12-07 |
 | [You \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2XVP3DdkGwD4hizFF3x7SU) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [You \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/1Jwk84ITKfAo7FCfOk6DR7) | 3:04 | 2023-10-23 | 2024-03-05 |

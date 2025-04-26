@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 129748,
       "name": "Feels Like Yesterday",
       "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
@@ -5020,7 +5020,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 180244,
       "name": "Lola",
       "url": "https://open.spotify.com/track/3GEofXwdmgFEadz59JngCw"
@@ -5042,6 +5042,28 @@
       "duration_ms": 153002,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/6ZK9plJc7ahA9ML8Q6IRww"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3XBjXhBMft2KXJGw7dkbTt"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni"
+        },
+        {
+          "name": "Lovers Hifi",
+          "url": "https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125463,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3KmawJyuKs4oQTOL7GsZex"
     },
     {
       "album": {
@@ -6480,7 +6502,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 157723,
       "name": "Oyster Jam",
       "url": "https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre"
@@ -7185,6 +7207,24 @@
     },
     {
       "album": {
+        "name": "Salas",
+        "url": "https://open.spotify.com/album/0uiCkl5On1IKHBojSJLRlZ"
+      },
+      "artists": [
+        {
+          "name": "Khutko",
+          "url": "https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Salas",
+      "url": "https://open.spotify.com/track/680qjjb79taiA5VDRnVZgr"
+    },
+    {
+      "album": {
         "name": "Rooted",
         "url": "https://open.spotify.com/album/27aLFjlNOPW91txHLPSOQF"
       },
@@ -7806,6 +7846,28 @@
       "duration_ms": 144000,
       "name": "Soul Garden",
       "url": "https://open.spotify.com/track/0FsVyKGM2epSKXiEd5wtAe"
+    },
+    {
+      "album": {
+        "name": "Space Gospel",
+        "url": "https://open.spotify.com/album/0EVoWAVQvovMgNgYejHDMV"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "Baen Mow",
+          "url": "https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Space Gospel",
+      "url": "https://open.spotify.com/track/1HoZNfRNN8Veom30Gbpa78"
     },
     {
       "album": {

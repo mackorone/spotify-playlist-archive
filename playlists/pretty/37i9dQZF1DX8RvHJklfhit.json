@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 204010,
+  "num_followers": 204053,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
-      },
-      "artists": [
-        {
-          "name": "MKRNI",
-          "url": "https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Inercia",
-      "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Uno Dos (feat. Jaden Smith)",
         "url": "https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 170125,
       "name": "Uno Dos (feat. Jaden Smith)",
       "url": "https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
+      },
+      "artists": [
+        {
+          "name": "MKRNI",
+          "url": "https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Inercia",
+      "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Drooling",
-        "url": "https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu"
-      },
-      "artists": [
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 219794,
-      "name": "Drooling",
-      "url": "https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 186598,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Drooling",
+        "url": "https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 219794,
+      "name": "Drooling",
+      "url": "https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ"
     },
     {
       "added_at": "2024-07-12 18:08:37",

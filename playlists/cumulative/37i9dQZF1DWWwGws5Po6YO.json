@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-09",
-  "description": "The women at the forefront of ambient and experimental music. Cover: LI YILEI",
+  "description": "The women at the forefront of ambient and experimental music. Cover: JakoJako",
   "name": "Women of Ambient",
   "tracks": [
+    {
+      "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
     {
       "album": {
         "name": "Whatever The Weather",
@@ -463,6 +481,24 @@
     },
     {
       "album": {
+        "name": "A Requiem",
+        "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181831,
+      "name": "Bandorai",
+      "url": "https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi"
+    },
+    {
+      "album": {
         "name": "Bassin Bleu",
         "url": "https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB"
       },
@@ -582,7 +618,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 351493,
       "name": "Berceuse for a Star Child",
       "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
@@ -898,7 +934,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 184986,
       "name": "Circular",
       "url": "https://open.spotify.com/track/3YUPQcXGenybP2gi5985oB"
@@ -934,7 +970,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 381496,
       "name": "Composition Of Flowers (Excerpt)",
       "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
@@ -1130,10 +1166,50 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 194004,
       "name": "Dark green",
       "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
+    },
+    {
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/2GlDx3myOwcCARNtUTJkXr"
+      },
+      "artists": [
+        {
+          "name": "Yana Couto",
+          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
+        },
+        {
+          "name": "OS.SO",
+          "url": "https://open.spotify.com/artist/5O11auA9UW7ZBACNBMBsBu"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167125,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4oDNWNDEQIVvwyadCsf2oH"
+    },
+    {
+      "album": {
+        "name": "Daze",
+        "url": "https://open.spotify.com/album/0tEFjxJYRjTKiAtgwCDWxL"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316362,
+      "name": "Daze",
+      "url": "https://open.spotify.com/track/0SWk7y3ZP2VHEHSN7gSi7I"
     },
     {
       "album": {
@@ -1156,7 +1232,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 228000,
       "name": "Deep Dream - Patricia Wolf Remix",
       "url": "https://open.spotify.com/track/25JI36KSR7RaJ7zbA1Tnwp"
@@ -1396,10 +1472,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 405570,
       "name": "fountainhead",
       "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1CAFe3VkRa3QErqb1SgmEH"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418487,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5relEzd6zHW4duiUhwVFdS"
     },
     {
       "album": {
@@ -1515,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "T\u1ebft 41",
+        "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319554,
+      "name": "Gi\u00f3",
+      "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
+    },
+    {
+      "album": {
         "name": "Grafts",
         "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
       },
@@ -1598,7 +1710,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 352000,
       "name": "Hope Dealers",
       "url": "https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02"
@@ -1879,6 +1991,42 @@
     },
     {
       "album": {
+        "name": "Keep Pulling Me In",
+        "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372430,
+      "name": "Keep Pulling Me In",
+      "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
+    },
+    {
+      "album": {
+        "name": "Kumquat",
+        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196296,
+      "name": "Kumquat",
+      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+    },
+    {
+      "album": {
         "name": "Eurybia",
         "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
       },
@@ -2017,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Duality Pt 2 Peace",
+        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
+      },
+      "artists": [
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265480,
+      "name": "Let Love Be",
+      "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
+    },
+    {
+      "album": {
         "name": "One Universal Breath",
         "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
       },
@@ -2086,7 +2252,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
@@ -2407,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "Nautilus",
+        "url": "https://open.spotify.com/album/6y5jxntskslORAq3cg7pdH"
+      },
+      "artists": [
+        {
+          "name": "Zuzanna Ca\u0142ka",
+          "url": "https://open.spotify.com/artist/3Ab9GXGh3yVM8Ax7W7ekDK"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294485,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/0VW9g4cdRdChF7vxwEqPgE"
+    },
+    {
+      "album": {
         "name": "Micro Macro",
         "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
@@ -2602,6 +2786,24 @@
       "duration_ms": 600386,
       "name": "Raw Silk Uncut Wood",
       "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
+    },
+    {
+      "album": {
+        "name": "Redwood Resonance",
+        "url": "https://open.spotify.com/album/5hr45RQZOrpK63LuIP6dgX"
+      },
+      "artists": [
+        {
+          "name": "Dianna Lopez",
+          "url": "https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Redwood Resonance",
+      "url": "https://open.spotify.com/track/4yyZnLXwIcoAILsFL3OaHr"
     },
     {
       "album": {
@@ -2830,7 +3032,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 1792000,
       "name": "Sino Algo Que Produce Sombras?",
       "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
@@ -3058,7 +3260,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 161194,
       "name": "Spell I: Let the Waves In",
       "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
@@ -3076,7 +3278,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 402893,
       "name": "Spring Becomes You, Spring Becomes New",
       "url": "https://open.spotify.com/track/61RH8QNue95wskWg0Ynxne"
@@ -3709,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "Garden Studies",
+        "url": "https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId"
+      },
+      "artists": [
+        {
+          "name": "Ami Kusakari",
+          "url": "https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Under the soil",
+      "url": "https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17"
+    },
+    {
+      "album": {
         "name": "Planetary Music : Tokyo Yoga Sleep Meditation 001",
         "url": "https://open.spotify.com/album/6U5pCWnuIcxvnM0Jzc8RgB"
       },
@@ -3850,7 +4070,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 218505,
       "name": "Winter into Spring",
       "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"

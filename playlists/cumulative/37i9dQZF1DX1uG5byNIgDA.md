@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-427 songs - 23 hr 22 min
+428 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Maybe 어쩌면 우리는](https://open.spotify.com/track/4OD37S64mGB3wpz6m3ZzdI) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [The Face of Summer 여름의 민낯](https://open.spotify.com/album/0e32YikNghPPNt0i4bzvgm) | 3:15 | 2022-03-23 | 2022-04-18 |
 | [meanings!](https://open.spotify.com/track/4VHsZqeNb9I9bIq5wgfDb6) | [DOF2D](https://open.spotify.com/artist/43K46m9kGWG6LH1gjGa1it) | [We Don't Have To Cry](https://open.spotify.com/album/4JuHBqEHQJpjKA3cHXj0rW) | 3:16 | 2021-12-28 | 2022-01-12 |
 | [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 | 2023-08-24 | 2024-03-28 |
-| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-24 |  |
+| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-24 | 2025-04-26 |
 | [Miss You](https://open.spotify.com/track/2Q6vn3Pz85m9ttt9mOm5qZ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Miss You](https://open.spotify.com/album/01Ko1HQowbmrPM3awKqZsP) | 2:52 | 2022-04-04 | 2022-04-21 |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2021-12-06 | 2024-03-28 |
 | [Mixtape : OH](https://open.spotify.com/track/4SG1tUCousFCmPeayNNelN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : OH](https://open.spotify.com/album/4ETs8IH0JzWfjv8OWql58f) | 3:32 | 2021-12-06 | 2022-07-29 |
@@ -399,6 +399,7 @@
 | [VOYAGER](https://open.spotify.com/track/5RFmdm8haNptn9Mqo7ABZ5) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/6kuHLDgEDuujwmq4DTxot8) | 3:11 | 2022-03-23 | 2022-07-17 |
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-01-11 | 2022-07-19 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-07-04 | 2024-03-28 |
+| [Wait On Me](https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 3:13 | 2025-04-25 |  |
 | [WANT \(feat\. Q THE TRUMPET\)](https://open.spotify.com/track/3i077utdeWTvbkpJf2OjYr) | [OVCOCO](https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght), [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [WANT \(feat\. Q THE TRUMPET\)](https://open.spotify.com/album/23DTCECWN0O50B33gVIbKl) | 3:09 | 2022-03-23 | 2022-04-13 |
 | [Warning \(Feat\. lIlBOI\)](https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:28 | 2021-12-06 | 2022-07-28 |
 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 | 2021-12-06 | 2022-08-16 |

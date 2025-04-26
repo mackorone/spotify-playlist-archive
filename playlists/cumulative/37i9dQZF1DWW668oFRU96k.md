@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: CYRIL x James Blunt
 
-1,785 songs - 3 day 18 hr 42 min
+1,786 songs - 3 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,6 +693,7 @@
 | [Highway Ride](https://open.spotify.com/track/70XTs7L1GH4x3Mov3fvFcO) | [HHMR](https://open.spotify.com/artist/2eN8PMfAKIjSjofnVW6jIO), [JWoods](https://open.spotify.com/artist/11nR613J6p08w9aLqaT6yq), [Emily Fox](https://open.spotify.com/artist/3zNUFQRdfC7BaVWzR9gJ99) | [Highway Ride](https://open.spotify.com/album/5eQccDasvvGgmjnPb1LBy7) | 3:18 | 2023-02-16 | 2023-03-10 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-14 | 2023-10-13 |
 | [Himalaya](https://open.spotify.com/track/6jUdm6vlTbiqEuzCcCkEoq) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Himalaya](https://open.spotify.com/album/7zzq5fe5RxidA8L36MuaCy) | 3:03 | 2024-12-12 | 2025-01-17 |
+| [Hold Me](https://open.spotify.com/track/6a3h9lyZUXS9E6uPGvpBgA) | [Sofnn.](https://open.spotify.com/artist/74cfytXyTcYRNjSTmfGJC7) | [Hold Me](https://open.spotify.com/album/0j48s3GMXgFKipjhspoQyb) | 2:56 | 2025-04-24 |  |
 | [Hold Me Tight](https://open.spotify.com/track/7KBy269iiwoiod6DB8HBOD) | [Sloppy Disk](https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n) | [So Sloppy Vol.1](https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41) | 5:17 | 2023-11-02 | 2023-12-08 |
 | [Hold On](https://open.spotify.com/track/5gSsEgOMT5yb7EkcK3szup) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Hold On](https://open.spotify.com/album/4RaukH9AWEZgYPpNNMFeRc) | 2:54 | 2023-04-20 | 2023-05-26 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-14 | 2025-01-17 |

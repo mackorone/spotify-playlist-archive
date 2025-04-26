@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Rael
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,862 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,858 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 61 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 |
 | 62 | [Dispara](https://open.spotify.com/track/73U0LScJh4nV901IJqbVDS) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Jade.](https://open.spotify.com/artist/4gwfGCGuOO6FEbIKMDg3mV), [Karen Fialho](https://open.spotify.com/artist/24cnkMLmyXSRmdPKkGTYVq) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 2:56 |
 | 63 | [Localização](https://open.spotify.com/track/5QfVNjigAYJ5k585D3bdpL) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Localização](https://open.spotify.com/album/4nHJtZDehFW2uIFVLYMmDy) | 2:51 |
-| 64 | [Eterno Esquema](https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Eterno Esquema](https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB) | 2:13 |
-| 65 | [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 |
+| 64 | [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 |
+| 65 | [Eterno Esquema](https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Eterno Esquema](https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB) | 2:13 |
 | 66 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 67 | [Lambuza](https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Lambuza](https://open.spotify.com/album/3lkdT7kXzvkSK92omtZnpk) | 2:52 |
 | 68 | [Golpe](https://open.spotify.com/track/08ZMOYMV4PK54Vb4XuiVYN) | [Emovy](https://open.spotify.com/artist/5Fhn5tGcRvKPO6XmDw1wHA) | [Golpe](https://open.spotify.com/album/5zEnp2Q439CV7RhDYe8oqW) | 2:23 |

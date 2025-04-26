@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 
 > Our editors' favorite Afro House tracks of 2024\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,880 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,022 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 | 23 | [Karibu](https://open.spotify.com/track/4oBXxS2vGRFQkAJCtDOhFI) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/0q7npq36aBv8f5C2SZzhbJ) | 4:02 |
 | 24 | [YAWA \(Man On A Mission\)](https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0) | [Édel](https://open.spotify.com/artist/71FZZiU3aazM8r1Bm1NkCu), [Zani \(BR\)](https://open.spotify.com/artist/3fbmi6cCWN51a18gaMIKAW) | [YAWA \(Man On A Mission\)](https://open.spotify.com/album/2SsOg3Zq94tH970LaDjah5) | 3:45 |
 | 25 | [Back On 74 \- Rework](https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT) | [Betical](https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z), [Arper](https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq) | [Back On 74 \(Rework\)](https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W) | 5:40 |
-| 26 | [More Than You Know \- Mont Rouge Remix](https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4) | [More Than You Know \(Mont Rouge Remix\)](https://open.spotify.com/album/2xcHnccKBW1goMln303boT) | 6:45 |
+| 26 | [More Than You Know \- Mont Rouge Remix](https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4) | [More Than You Know \(Mont Rouge Remix\)](https://open.spotify.com/album/2xcHnccKBW1goMln303boT) | 6:45 |
 | 27 | [Bo Bom](https://open.spotify.com/track/2V5h4oenUhCeWXsJualNd7) | [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm) | [Bo Bom](https://open.spotify.com/album/3rACKliAGAZreFE1lXuBXZ) | 4:18 |
 | 28 | [Girl With The Tattoo \[Wakyin Remix\]](https://open.spotify.com/track/0Vo1vtDZgMVD1qras4UPTI) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ) | [Girl With The Tattoo](https://open.spotify.com/album/3cnIbhL4QYRzF9wQf53lkW) | 3:35 |
 | 29 | [Privity \- Extented Version](https://open.spotify.com/track/6wR6WdlYHHWPbsq7MHye02) | [Anthony Godfather](https://open.spotify.com/artist/1CYqCVVCerhOIUu6gmGpP8), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Privity \(Extented Version\)](https://open.spotify.com/album/1dND1YOVxq16W6mrEnJxBn) | 6:35 |

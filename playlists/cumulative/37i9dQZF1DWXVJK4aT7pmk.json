@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "3,13",
+        "url": "https://open.spotify.com/album/2v8u8nllQmZhvSzW0cjb12"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        },
+        {
+          "name": "Geet",
+          "url": "https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "3,13",
+      "url": "https://open.spotify.com/track/3VaJjYo7tSJ88BY8zXPaqf"
+    },
+    {
+      "album": {
         "name": "410",
         "url": "https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe"
       },
@@ -503,6 +529,28 @@
     },
     {
       "album": {
+        "name": "BACKLASH",
+        "url": "https://open.spotify.com/album/2RkPZfb697jIKJlwWXEiMM"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "BACKLASH",
+      "url": "https://open.spotify.com/track/0xc2yPEA9mijAN6T1Jq4Z3"
+    },
+    {
+      "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p"
       },
@@ -642,7 +690,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 172800,
       "name": "Buckle Up",
       "url": "https://open.spotify.com/track/54AudvSPbqmll6GcLKjBlY"
@@ -704,7 +752,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 144155,
       "name": "Chandigarh Ka Chokra",
       "url": "https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb"
@@ -1588,7 +1636,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
@@ -2706,6 +2754,24 @@
       "duration_ms": 181500,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0"
+    },
+    {
+      "album": {
+        "name": "Supreme",
+        "url": "https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178244,
+      "name": "Supreme",
+      "url": "https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob"
     },
     {
       "album": {

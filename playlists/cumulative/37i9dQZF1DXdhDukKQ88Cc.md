@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-321 songs - 13 hr 51 min
+322 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Sprite & Vodka \(feat\. Gilli & KESI\)](https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:15 | 2024-03-21 | 2024-10-04 |
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 | 2023-12-14 |
 | [Stadig](https://open.spotify.com/track/4SZKRF8WukFPVgkH6cZsMC) | [Ankerstjerne](https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d) | [Stadig](https://open.spotify.com/album/72vierIDfoapRJKqdPrVT5) | 2:02 | 2024-05-09 | 2024-05-13 |
+| [Stafet](https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Stafet](https://open.spotify.com/album/6ArGpxENQEFyUSgmlsp1EP) | 2:25 | 2025-04-25 |  |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 | 2024-04-05 |
 | [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 | 2024-02-08 | 2024-10-04 |
 | [Steve O](https://open.spotify.com/track/2x355lU17q5QEemPuj2eba) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Steve O](https://open.spotify.com/album/0F9k9AE4Mbm19VpveE8grZ) | 2:09 | 2025-04-10 |  |

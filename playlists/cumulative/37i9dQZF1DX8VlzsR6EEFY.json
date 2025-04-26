@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Juan Freer y Los Esquivel en portada.",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Plan de Escape en portada.",
   "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
   "tracks": [
     {
@@ -850,6 +850,32 @@
       "duration_ms": 205606,
       "name": "Canci\u00f3n",
       "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
+    },
+    {
+      "album": {
+        "name": "Canc\u00fan",
+        "url": "https://open.spotify.com/album/1QmQtaygrsuGEoUI9HFYF7"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176774,
+      "name": "Canc\u00fan",
+      "url": "https://open.spotify.com/track/4o8ChSWgnRDR7W60W51CtJ"
     },
     {
       "album": {
@@ -2243,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Hoy Muere un Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/4gOC7CWtrF0TIvKBOaHiBE"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163655,
+      "name": "Hoy Muere un Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/2pOkxxJxSTzMbbASfFWoVM"
+    },
+    {
+      "album": {
         "name": "Hubi\u00e9ramos",
         "url": "https://open.spotify.com/album/1xwButzEr6n5GRwaxIe7yv"
       },
@@ -2530,7 +2574,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 168514,
       "name": "La Dama",
       "url": "https://open.spotify.com/track/0g7reTogQTQ3PRUQR4x8Hw"
@@ -3308,7 +3352,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 182647,
       "name": "Mata Problema",
       "url": "https://open.spotify.com/track/77y9hQmtoYCvZ7Z0XmMxax"
@@ -3330,7 +3374,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 177366,
       "name": "Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/6yh4phrNduhMduSKHdW626"
@@ -3396,7 +3440,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 209085,
       "name": "Me Mata, Me Salva",
       "url": "https://open.spotify.com/track/03WxIlAuyGQRBoD2VXuqGx"
@@ -3600,7 +3644,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 166948,
       "name": "Mi Tiempo",
       "url": "https://open.spotify.com/track/3bJuYzQZ82bcXqEEur6UgT"
@@ -4159,6 +4203,46 @@
     },
     {
       "album": {
+        "name": "Versi\u00f3n Actualizada",
+        "url": "https://open.spotify.com/album/50YaqXciMFkvBf8I9G3TDz"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/2QhGVNa4lqUVHaXOlF5TZF"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/5ALh1nWcNmSEOe3y0D1aVE"
+      },
+      "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240561,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/274qOOTUIIZTgccG1xlbm9"
+    },
+    {
+      "album": {
         "name": "Cumbia A Toda Banda",
         "url": "https://open.spotify.com/album/5WUcha1RgCXnyI1JIIiAnC"
       },
@@ -4686,7 +4770,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 180216,
       "name": "ROSITA FRESITA",
       "url": "https://open.spotify.com/track/6JUUP8MdQXxqZTVbR9CQH8"
@@ -4882,6 +4966,24 @@
       "duration_ms": 228484,
       "name": "Sigo Adelante",
       "url": "https://open.spotify.com/track/5qimhhDW64vHa3NKCFa4YW"
+    },
+    {
+      "album": {
+        "name": "Sigo Vivo",
+        "url": "https://open.spotify.com/album/3lm9z9Dmci1VrFHBeEANxf"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191243,
+      "name": "Sigo Vivo",
+      "url": "https://open.spotify.com/track/7rPC4wLWe8A1puq0sJUaCI"
     },
     {
       "album": {
@@ -5396,6 +5498,32 @@
       "duration_ms": 174000,
       "name": "Tu Perfume",
       "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
+    },
+    {
+      "album": {
+        "name": "TU PNDXO",
+        "url": "https://open.spotify.com/album/0A06cH1KbzX2sk4uADn3yE"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "TU PNDXO",
+      "url": "https://open.spotify.com/track/1AXFCykDcwuGRh6mRdivL7"
     },
     {
       "album": {

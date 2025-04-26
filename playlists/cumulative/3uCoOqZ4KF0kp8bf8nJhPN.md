@@ -4,7 +4,7 @@
 
 > 
 
-156 songs - 6 hr 4 min
+157 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [kms.](https://open.spotify.com/track/0p6SOaPNDKyUGIBKzfqHaS) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:39 | 2025-04-04 |  |
 | [Kroxxxxroad](https://open.spotify.com/track/2GFE1Ukk6NS03ZpPihDtvB) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kroxxxxroad](https://open.spotify.com/album/5ZensT6l0BKw6k2pQ9m9R5) | 1:13 | 2025-04-10 | 2025-04-12 |
 | [Kurxxed Emeraldz](https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kurxxed Emeraldz](https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy) | 1:01 | 2024-12-31 |  |
+| [last friday night pluggnb](https://open.spotify.com/track/0Qgxzih4OdQOm5yaTrNBcN) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [MANDUMÈ](https://open.spotify.com/artist/6U3p7T8XoU9X4IJuRxQPqg) | [last friday night pluggnb](https://open.spotify.com/album/6uD2Tgnlqos5q7za04Ekmj) | 1:27 | 2025-04-25 |  |
 | [Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:49 | 2025-03-25 |  |
 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 | 2025-03-11 |  |
 | [Look At How Ur Bleeding](https://open.spotify.com/track/0LfQBk8YbKaEV3vhxQTMAw) | [CALDER](https://open.spotify.com/artist/3rfH5SRk6ekMfiBZ5KVYw9), [recycleBin](https://open.spotify.com/artist/1qB8BJOcuJuNQw0cPy5RZ2), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [Look At How Ur Bleeding](https://open.spotify.com/album/5v2gGwDWevaDG1c3dnkRUt) | 1:58 | 2025-04-04 |  |

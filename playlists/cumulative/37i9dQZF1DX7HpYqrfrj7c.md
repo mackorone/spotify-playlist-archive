@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-86 songs - 4 hr 26 min
+88 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [San Francisco Knights \(Instrumental\)](https://open.spotify.com/track/31xZVD02zeo37iR93FRRGv) | [Thes One](https://open.spotify.com/artist/6G69CndLxnRxLdy8MVLNmG) | [10 Years of Thes One](https://open.spotify.com/album/623wsoLB2FtwXyV6dWY9R6) | 3:50 | 2024-06-24 |  |
 | [She Said \- Remix Instrumental](https://open.spotify.com/track/1VPWK4FEOmwLP6jHVmAj1p) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:30 | 2024-06-24 |  |
 | [Shoulder to colder](https://open.spotify.com/track/1zzmBoPpnfGKSwEVFLv3c5) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Shoulder to colder](https://open.spotify.com/album/5uertrWYBsmpYV0II5hcO8) | 2:08 | 2024-06-24 |  |
+| [someday.](https://open.spotify.com/track/735q2A0WjM11tZNlXfwlC4) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [someday.](https://open.spotify.com/album/2kF3JmPOQuZPJr3vldagaB) | 2:07 | 2025-04-25 |  |
 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2024-06-24 |  |
 | [Spacedrift](https://open.spotify.com/track/5AcyS8n7riLQhPK1xBGS7c) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#1](https://open.spotify.com/album/5SHaxd7oNOl4mHnv4dp1Ko) | 2:54 | 2024-06-24 |  |
 | [Summertime](https://open.spotify.com/track/79MSVviX2SqqLS6murFaYB) | [tape joe](https://open.spotify.com/artist/6t74VJqVmYEY5V2be6sz9K), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Summertime](https://open.spotify.com/album/3QfHGlmwMjOtY78hmNcuhq) | 3:35 | 2024-06-24 |  |
@@ -90,6 +91,7 @@
 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 | 2024-06-24 |  |
 | [Tour Stories \- Instrumental](https://open.spotify.com/track/71UYIUEqgChcl8gBAOrrGI) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [Tour Stories](https://open.spotify.com/album/5x2FrDwXcD3rftOgRxCjmW) | 4:45 | 2025-02-07 |  |
 | [Traffic Lights](https://open.spotify.com/track/4OZIK5553fVfj68nP7fiMQ) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Cassette Sound](https://open.spotify.com/album/4rvr89nsFSzdMyCrC1rMyg) | 1:45 | 2024-06-24 |  |
+| [Ultimo](https://open.spotify.com/track/1eiVzLJEZ9Fn3ubDec4Vnm) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Ultimo](https://open.spotify.com/album/7cK8rxHPtgIYcp417wQg2V) | 2:35 | 2025-04-25 |  |
 | [Underground's My Style](https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef) | [Beatmaschine](https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi) | [Basement Boom](https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy) | 3:26 | 2024-06-24 |  |
 | [Where I'm Coming From \- Instrumental](https://open.spotify.com/track/3XXZgmqPvywvV64ZolnAsS) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Cool Classic Jazzstrumentals \(Volume One\)](https://open.spotify.com/album/5QjyX5NN59cQAdkGTJkd4m) | 4:55 | 2024-06-24 |  |
 | [Without A Doubt \- Salaam's Instrumental](https://open.spotify.com/track/6xTaxuMvkwei3jUvURKALP) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [Without A Doubt](https://open.spotify.com/album/1R5aQuxBBfgZCWpJdNwM0L) | 4:26 | 2024-08-21 |  |

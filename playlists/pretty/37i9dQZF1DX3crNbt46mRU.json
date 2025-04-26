@@ -1,12 +1,12 @@
 {
-  "description": "This week's top new releases, including Nemo (pictured),  Benson Boone and more.",
-  "num_followers": 43881,
+  "description": "This week's top new releases, including Nemo, Lorde,  Benson Boone and more.",
+  "num_followers": 43988,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAq0jgAAAACTju20aT8ClvDwqQ1/szZY",
+  "snapshot_id": "aAsf7gAAAADnXY27Z5GlM5e30471jAuQ",
   "tracks": [
     {
       "added_at": "2025-04-24 22:00:46",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-04-24 22:00:46",
       "album": {
+        "name": "Not My Problem",
+        "url": "https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u"
+    },
+    {
+      "added_at": "2025-04-24 22:00:46",
+      "album": {
         "name": "Herzinfarkt",
         "url": "https://open.spotify.com/album/40uTvwcPefXFNLd4mw8IfA"
       },
@@ -1099,6 +1115,26 @@
       "duration_ms": 177323,
       "name": "Du",
       "url": "https://open.spotify.com/track/1rIUCm8zaroQzOCJeXNWGK"
+    },
+    {
+      "added_at": "2025-04-24 22:00:46",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
       "added_at": "2025-04-24 22:00:46",
@@ -1704,7 +1740,7 @@
           "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
         }
       ],
-      "duration_ms": 177795,
+      "duration_ms": 176780,
       "name": "Kichta Walk",
       "url": "https://open.spotify.com/track/5RXP4YWkiOfmOPAk4MofWz"
     },

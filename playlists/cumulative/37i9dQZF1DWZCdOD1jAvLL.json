@@ -3061,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Contorted",
+        "url": "https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Contorted",
+      "url": "https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84"
+    },
+    {
+      "album": {
         "name": "Counting",
         "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
       },
@@ -3358,6 +3376,24 @@
       "duration_ms": 163636,
       "name": "Dark & Danger",
       "url": "https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx"
+    },
+    {
+      "album": {
+        "name": "Death By Love",
+        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Death By Love",
+      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
     },
     {
       "album": {
@@ -7386,7 +7422,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 131970,
       "name": "I Only Smoke When I Drink - Badger Remix",
       "url": "https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1"
@@ -14698,7 +14734,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 251904,
       "name": "Sweet Disposition - John Summit & Silver Panda Remix",
       "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"

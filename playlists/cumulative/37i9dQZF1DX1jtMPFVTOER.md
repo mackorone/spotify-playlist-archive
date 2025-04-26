@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-604 songs - 1 day 12 hr 8 min
+605 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Down This Path](https://open.spotify.com/track/0lpVYjvv6KxqIK2tzjxURU) | [Edmund Paquin](https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh), [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [Owen Chow](https://open.spotify.com/artist/5KINTUf4vKBPacOKbjV7R7) | [Down This Path](https://open.spotify.com/album/47pnzCgYCKlZpp5MfzDAQW) | 3:22 | 2022-09-16 | 2023-09-09 |
 | [Down to Earth](https://open.spotify.com/track/3nwRDFiDJZlXhpfGZifdTo) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Erameld](https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N) | [Down to Earth](https://open.spotify.com/album/2O9bYMKmR7Nkuo1mvFvJkc) | 1:57 | 2022-07-29 | 2023-03-25 |
 | [Down to Earth](https://open.spotify.com/track/7oOSDG6vMNZSuEwcIdB8Hy) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Erameld](https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N) | [Down to Earth](https://open.spotify.com/album/4smcIFiMaa5cnFpLIwX4OB) | 1:57 | 2022-07-29 | 2022-10-13 |
-| [Down With The King](https://open.spotify.com/track/5odKJTIElEOAjL2R4d1Gax) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Down With the King](https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X) | 4:26 | 2024-01-05 |  |
+| [Down With The King](https://open.spotify.com/track/5odKJTIElEOAjL2R4d1Gax) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Down With the King](https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X) | 4:26 | 2024-01-05 | 2025-04-26 |
 | [Down With The King \(Ft\. Darryl “DMC” McDaniels\)](https://open.spotify.com/track/6fRRMWaGPldndWzMjQOALz) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Darryl "DMC" McDaniels](https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn) | [Down With The King \(Ft\. Darryl “DMC” McDaniels\)](https://open.spotify.com/album/67kEGuphCnWK8bI55m8K24) | 4:26 | 2024-08-16 |  |
 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 | 2021-11-12 | 2022-05-17 |
 | [Drones \(feat\. Kendrick Lamar, Snoop Dogg, Ty Dolla $ign & James Fauntleroy\)](https://open.spotify.com/track/3zdsJOO5FIAgukJUMgboV8) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [DRONES](https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa) | 4:25 | 2021-11-12 | 2022-08-27 |
@@ -260,6 +260,7 @@
 | [If I Had A Diary](https://open.spotify.com/track/0WPiAaK6iE3XoBtLxpsII6) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU) | [If I Had A Diary](https://open.spotify.com/album/0Fxc9UxsoWWAFucDWtLPiG) | 3:07 | 2023-03-03 | 2023-05-06 |
 | [If I Pray](https://open.spotify.com/track/6JOzu3tXKj3zj3Ieuz3qgU) | [GR3G](https://open.spotify.com/artist/074OZlAWHVEVUIpLmRjyjq) | [Wasted Talent](https://open.spotify.com/album/6wth8qkkWxKdmxpXpVs4Oz) | 3:26 | 2022-06-10 | 2022-11-12 |
 | [If Possible](https://open.spotify.com/track/6Mnam5P5Y6HANmqQGXPgHS) | [Wilma Vritra](https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT), [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [VRITRA](https://open.spotify.com/artist/2p13eHCal7qrUX1r0Hb7T7) | [Grotto](https://open.spotify.com/album/12betAHniGpAyDzg4ty8ER) | 2:35 | 2022-05-06 | 2022-09-24 |
+| [ILIKEU](https://open.spotify.com/track/0e2De20YDshejQNatfivQx) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [ILIKEU](https://open.spotify.com/album/5l4P7UoxB6WCF8Sbx29Y82) | 3:37 | 2025-04-25 |  |
 | [Imagine That](https://open.spotify.com/track/4of2R3xAsBXGr5QZxF3bag) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Imagine That](https://open.spotify.com/album/569WNyO5TCXAmsdEGJ8RLx) | 3:19 | 2022-04-01 | 2022-10-22 |
 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 | 2022-02-04 | 2022-04-02 |
 | [In The Fire](https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [In The Fire](https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE) | 3:57 | 2024-04-19 | 2024-08-03 |

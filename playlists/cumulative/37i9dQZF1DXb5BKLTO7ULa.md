@@ -4,7 +4,7 @@
 
 > Nieuwe muziek van Froukje & S10, Lorde, Noano & Jonna Fraser, MEROL & Elmer en meer...
 
-10,724 songs - 23 day 8 hr 32 min
+10,726 songs - 23 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [Ambitie](https://open.spotify.com/track/33qXQjK3fMqQbvpvYP4G3l) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Ambitie](https://open.spotify.com/album/0TcyQcLvIC8091URsFYMSe) | 2:18 | 2024-06-06 | 2024-06-14 |
 | [Amcaoğli](https://open.spotify.com/track/5j5s4youFgUZhTObrk8r8D) | [Umut Timur](https://open.spotify.com/artist/650blPhpj24aloFTk941L3), [Ferhat](https://open.spotify.com/artist/3kHOGAbWBbtrs9LaCxLGNC) | [Aperitif](https://open.spotify.com/album/4OSDJSmvOIWiWRdfoU7hI3) | 2:01 | 2023-04-27 | 2023-05-05 |
 | [Amen](https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen](https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw) | 3:30 | 2023-12-14 | 2023-12-22 |
+| [Amen](https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:17 | 2025-04-25 |  |
 | [America](https://open.spotify.com/track/3zz8cJC15lXm4P0UOFTDkP) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [America](https://open.spotify.com/album/4gtK6deZDNm7hhR2bKY2F8) | 3:33 | 2023-04-20 | 2023-04-28 |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-25 | 2023-06-02 |
 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 | 2025-02-06 | 2025-02-14 |
@@ -1318,7 +1319,8 @@
 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-08-17 | 2023-08-25 |
 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 | 2023-04-27 | 2023-05-05 |
 | [Bordeelsluipers](https://open.spotify.com/track/1Dgu3HkhSs7Uwjoeek1c1O) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Bordeelsluipers](https://open.spotify.com/album/4k8Y6Wp0Kvlh1BdGzWFzf6) | 1:32 | 2025-04-17 | 2025-04-25 |
-| [Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/5C6pN8pgjLsyIIaziZmpBN) | 1:58 | 2025-04-24 |  |
+| [Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/5C6pN8pgjLsyIIaziZmpBN) | 1:58 | 2025-04-24 | 2025-04-26 |
+| [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 | 2025-04-25 |  |
 | [Borderline](https://open.spotify.com/track/6fIuBlJqwNxc5Mtm0L1Av3) | [Inge van Calkar](https://open.spotify.com/artist/58a6e3KpWCZoIkPvbBv5RP) | [Borderline](https://open.spotify.com/album/6V2zvShm7I3QupghOvmIsL) | 3:23 | 2025-03-27 | 2025-04-04 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-25 | 2024-05-03 |
 | [Bored](https://open.spotify.com/track/6RPIcksFhn8yeAQgVeRBte) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Get In Loser/Bored \- A Super Over Double Feature](https://open.spotify.com/album/1Xez6OzIKFRT3PcMyjOgQL) | 3:12 | 2023-08-17 | 2023-08-25 |
@@ -3603,7 +3605,7 @@
 | [Glaube Feitosa](https://open.spotify.com/track/4tTw3jDM4xLn5yCi2s2xK6) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4) | [Glaube Feitosa](https://open.spotify.com/album/5i9E6xc9Dnym1mPUG6Zp55) | 2:09 | 2024-01-04 | 2024-01-12 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-27 | 2025-04-04 |
 | [Glimlach](https://open.spotify.com/track/1afTlfRCu5cMYOJWoFoXe1) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Glimlach](https://open.spotify.com/album/0sp4L9XfnB46QDVXSK4e0w) | 2:27 | 2024-06-20 | 2024-06-28 |
-| [Glock](https://open.spotify.com/track/5QhCPvsFz5wPgyY2Ma7P5G) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Glock](https://open.spotify.com/album/0BeWas5ijg35snEpWMtMrD) | 2:20 | 2025-04-24 |  |
+| [Glock](https://open.spotify.com/track/5QhCPvsFz5wPgyY2Ma7P5G) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Glock](https://open.spotify.com/album/0BeWas5ijg35snEpWMtMrD) | 2:20 | 2025-04-24 |  |
 | [Gloeien](https://open.spotify.com/track/6SRbUAMpKHSRAJ6XpZERJy) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Gloeien](https://open.spotify.com/album/72LoblAQvzkBIeGgg4Wb5y) | 3:58 | 2024-06-20 | 2024-06-28 |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:36 | 2025-04-10 | 2025-04-18 |
 | [Glory](https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Glory](https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO) | 2:44 | 2023-06-01 | 2023-06-09 |

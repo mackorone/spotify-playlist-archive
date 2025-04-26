@@ -4,7 +4,7 @@
 
 > PH vibin' cover: jikamarie, Skusta Clee
 
-329 songs - 18 hr 20 min
+330 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Call Me What You Want](https://open.spotify.com/track/1f4q0lAXGTPqCouPcJnzDM) | [Elise Huang](https://open.spotify.com/artist/7BpTHJjMVI0B2WFeO2UYTi) | [Call Me What You Want](https://open.spotify.com/album/4WpXRpo6b5PkTynEsGWQnG) | 2:40 | 2024-08-30 |  |
 | [Can't Get Enough](https://open.spotify.com/track/3qR1Oq85MWKg3rzeihX4S9) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Can't Get Enough](https://open.spotify.com/album/18mwJUJcczlGwT2tDej41c) | 2:44 | 2022-10-12 | 2023-07-29 |
 | [Care 4 U](https://open.spotify.com/track/2K25Ikj36LCLdBsdiCGZKB) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Care 4 U](https://open.spotify.com/album/6IWLcBDoDKXXeUy1TrtXQw) | 2:06 | 2025-02-27 |  |
+| [Care 4 U](https://open.spotify.com/track/4CRhhz480Sqkyg98mgEaJL) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Beautiful Girls](https://open.spotify.com/album/5a5HVIQt2cGlZFGD7eNLCT) | 2:06 | 2025-04-25 |  |
 | [Cavite's Poison](https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Cavite's Poison](https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj) | 3:31 | 2024-05-08 | 2024-08-24 |
 | [cherry soda](https://open.spotify.com/track/3Ge1rIdxXfPqnC6AzJlHsz) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/1T3Qwd52WDENjeUMxbysZg) | 3:35 | 2022-12-14 | 2023-07-29 |
 | [cherry soda](https://open.spotify.com/track/6wLYxlMsuGoARoRhDy52y3) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/5uW4MpBBGO9yYeBTcBFdjx) | 3:35 | 2022-10-12 | 2023-01-08 |

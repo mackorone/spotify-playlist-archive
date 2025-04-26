@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > to the people who look at the stars and wish 🧚‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,656 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,655 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 2 | [September Instrumental \- Sped Up](https://open.spotify.com/track/5lWVVBCgHMXHHIKLf4qam8) | [Goomp](https://open.spotify.com/artist/0osA8WHktzmv6QnWfbUyha) | [September](https://open.spotify.com/album/3eBdgqFSGoOiik4VWEI8iQ) | 2:25 |
 | 3 | [yeti](https://open.spotify.com/track/4dT8XbhKwQez5lxYCKq0L5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 4:12 |
 | 4 | [Fairy Fountain](https://open.spotify.com/track/3uhGWxwYdkwzI9vHITtaza) | [Super Guitar Bros](https://open.spotify.com/artist/2WosnSaZPybvQfyGUvD3NX) | [Ocarina of Time](https://open.spotify.com/album/0oCRqcXxOyKQsIjOvDfeQB) | 1:03 |
-| 5 | [Luminary \- Slowed Down](https://open.spotify.com/track/6cWLRE5YPIhuajRVgawuQK) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Luminary](https://open.spotify.com/album/2jUVowzF4Qk8IvMEWxXk6E) | 3:32 |
+| 5 | [Luminary \(Slowed Down\)](https://open.spotify.com/track/6cWLRE5YPIhuajRVgawuQK) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Luminary](https://open.spotify.com/album/2jUVowzF4Qk8IvMEWxXk6E) | 3:32 |
 | 6 | [Where's My Love \- Piano and Viola Version](https://open.spotify.com/track/0L1jqLRKdzZYXQWatvdFi3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me \(Piano & Strings\)](https://open.spotify.com/album/2ukMZuGD1JcHgD3ngDWNhA) | 3:44 |
 | 7 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
 | 8 | [Fairytale \(Violin\)](https://open.spotify.com/track/1YFA2vnDRM6NtZlh0U3kRq) | [Dramatic Violin](https://open.spotify.com/artist/7xFAkXgK99h0nlTo1kHagi) | [Fairytale \(Violin\)](https://open.spotify.com/album/5IpSg9YahGaMNaTi38lKoZ) | 2:38 |

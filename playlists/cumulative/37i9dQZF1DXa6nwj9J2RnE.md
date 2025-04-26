@@ -4,7 +4,7 @@
 
 > edgy en met karakter\. cover: Winne
 
-195 songs - 10 hr 17 min
+196 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Hard](https://open.spotify.com/track/1ei3aZ5fgpR1h1Uh8PEqEF) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Vjèze Fur](https://open.spotify.com/artist/6iaamBjhb34BzRviFSZliq) | [DSM\-5](https://open.spotify.com/album/19uIH7hAeTHUEKKqQPahPe) | 1:37 | 2024-06-21 | 2024-10-18 |
 | [Hard Work](https://open.spotify.com/track/5erRk2eskp3Ns8pfOEtbxq) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Hard Work](https://open.spotify.com/album/5iCijpR8CvLw1ftF7M71k1) | 2:35 | 2023-02-23 | 2023-05-12 |
 | [Heimwee](https://open.spotify.com/track/6DvGnoj1obKohgqvrdy53r) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/2bPEPy5vcX1GoBShp2xblg) | 3:34 | 2024-02-15 | 2024-05-18 |
-| [het mag ook eens stil zijn](https://open.spotify.com/track/65ksmDOUjUvSiky8MRpnma) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS), [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9) | [het mag ook eens stil zijn](https://open.spotify.com/album/58PcHZcFJS46s1JxKD2iWt) | 2:32 | 2024-06-13 |  |
+| [het mag ook eens stil zijn](https://open.spotify.com/track/65ksmDOUjUvSiky8MRpnma) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS), [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9) | [het mag ook eens stil zijn](https://open.spotify.com/album/58PcHZcFJS46s1JxKD2iWt) | 2:32 | 2024-06-13 | 2025-04-26 |
 | [Het Valt Niet Uit De Lucht](https://open.spotify.com/track/58imytk9xaRuOmyyMDPXlz) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Valt Niet Uit De Lucht](https://open.spotify.com/album/5r3l8KL9HprbvEvOOPGzZm) | 2:04 | 2024-10-17 | 2025-03-29 |
 | [HOSSELAAR](https://open.spotify.com/track/4lZts0FFxJ8l8p5EcFVRi3) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [de vluGtlaan](https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4) | 2:45 | 2025-02-28 |  |
 | [I Don't Care Tonight](https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [I Don't Care Tonight](https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3) | 3:48 | 2023-05-26 | 2024-06-01 |
@@ -112,7 +112,8 @@
 | [MEISJE IN WIT](https://open.spotify.com/track/4HQBvGxtBz3R0C7gcUsVH0) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [MEISJE IN WIT](https://open.spotify.com/album/53Qe59ywnVMSrmOo9ofV3U) | 2:22 | 2023-03-31 | 2024-05-18 |
 | [MENSEN \(ZOALS WIJ\)](https://open.spotify.com/track/70kKaMHh92fiWfElpJSMLj) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [2 SCHORPIOENEN / MENSEN ZOALS WIJ](https://open.spotify.com/album/1LOXaDwD16CU5WVcrcDD9t) | 3:12 | 2024-05-31 | 2025-03-13 |
 | [met de tijd](https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa) | [Sandor Dayala](https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69), [TJ](https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu) | [met de tijd](https://open.spotify.com/album/59XkvhOOonvoAZkgnHYCSg) | 2:38 | 2023-12-01 | 2024-11-29 |
-| [Mexican Mule](https://open.spotify.com/track/0x8UNO5jrfgzkg9fxSdcKJ) | [Jong Louis](https://open.spotify.com/artist/5zgkHKzkko4hE6CmPyxd7c), [Jimmy De Ville](https://open.spotify.com/artist/0vrn3Hsu2D0gekGf3Q94i4), [Alphie](https://open.spotify.com/artist/4PI1vCgLkIXoWUJqBcCmt3), [Meezy F](https://open.spotify.com/artist/4dfwfwxqZ29Y6wHw5ILDYm) | [Huilen In De Rokersruimte](https://open.spotify.com/album/4xnKLvwiSiEibu83ZhQt8C) | 4:04 | 2024-10-17 |  |
+| [Mevrouw Falix](https://open.spotify.com/track/2AzM1sosGpBoTtZgv8qqxt) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4), [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Mevrouw Falix](https://open.spotify.com/album/1ULUaczMoHrhT6Yml8BHzW) | 2:46 | 2025-04-25 |  |
+| [Mexican Mule](https://open.spotify.com/track/0x8UNO5jrfgzkg9fxSdcKJ) | [Jong Louis](https://open.spotify.com/artist/5zgkHKzkko4hE6CmPyxd7c), [Jimmy De Ville](https://open.spotify.com/artist/0vrn3Hsu2D0gekGf3Q94i4), [Alphie](https://open.spotify.com/artist/4PI1vCgLkIXoWUJqBcCmt3), [Meezy F](https://open.spotify.com/artist/4dfwfwxqZ29Y6wHw5ILDYm) | [Huilen In De Rokersruimte](https://open.spotify.com/album/4xnKLvwiSiEibu83ZhQt8C) | 4:04 | 2024-10-17 | 2025-04-26 |
 | [Naar Huis](https://open.spotify.com/track/0rtrS9Otk69zunOBU9Rc8k) | [Amèl](https://open.spotify.com/artist/2dl0KJ2w556Fc4IdSqyECG), [gaeven](https://open.spotify.com/artist/6Ch33DiBLqG1xvAB94pyHI) | [Naar Huis](https://open.spotify.com/album/128LnqopArpHVqenQ4KfeD) | 2:45 | 2025-03-28 |  |
 | [No Control](https://open.spotify.com/track/0iLvu7hCQfd5gt5pdd3hj2) | [Lilian Hak](https://open.spotify.com/artist/3h5PRBvE4jKVjXZq1cqMqH) | [No Control](https://open.spotify.com/album/04LCjxpQJP69yCB5ZPMHvz) | 2:54 | 2024-05-09 | 2024-11-15 |
 | [Nog Steeds Dezelfde](https://open.spotify.com/track/0F4hPNXDZHw79Vxxxklcl6) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Nog Steeds Dezelfde](https://open.spotify.com/album/2BJ4ZpdRnUagLr4xRfNgmQ) | 3:39 | 2023-09-22 | 2024-06-26 |

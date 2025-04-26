@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-409 songs - 22 hr 10 min
+410 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [FEELING GUD](https://open.spotify.com/track/0suLmBuEbatdochI4tHduq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [FEELING GUD](https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC) | 3:10 | 2021-11-19 | 2024-09-21 |
 | [Fever Dream](https://open.spotify.com/track/7nBFYnnuzZdqc6FN0elfl6) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Fever Dream](https://open.spotify.com/album/6Tj0ZOuQ5lxwtLgwQjErfE) | 3:44 | 2021-11-19 | 2022-01-08 |
 | [Fight Back](https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Fight Back](https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75) | 3:02 | 2021-11-19 | 2024-04-13 |
-| [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 | 2024-11-08 |  |
+| [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 | 2024-11-08 | 2025-04-26 |
 | [Flat Line](https://open.spotify.com/track/2JmbEZudT2eA3kUp5nXGZf) | [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [All Killer No Filler EP](https://open.spotify.com/album/7HjEb7HP68bpVclylWutsl) | 2:24 | 2022-05-06 | 2023-01-21 |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-13 | 2024-03-02 |
 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 | 2024-03-01 |  |
@@ -140,6 +140,7 @@
 | [Gawdam](https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8) | [Gawdam](https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj) | 2:36 | 2021-11-19 | 2022-01-08 |
 | [Get Right](https://open.spotify.com/track/53Xsyg5W3LkxOJglyq1l5o) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Get Right](https://open.spotify.com/album/0xejpMLCWbCVEHPivvoQGH) | 2:38 | 2021-11-19 | 2022-01-08 |
 | [GET SMACKED](https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [GET SMACKED](https://open.spotify.com/album/4fxtTnPxoJpfL2z9FgFZ2j) | 3:40 | 2025-03-14 |  |
+| [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 | 2025-04-25 |  |
 | [GO OFF!](https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Harvey](https://open.spotify.com/artist/137IOw31ZNn88coEW3Ypt5) | [GO OFF!](https://open.spotify.com/album/7y9Mkw8lpYZ6NolcbEL1oI) | 2:53 | 2024-12-03 | 2025-01-15 |
 | [Gravity](https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Gravity](https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD) | 6:04 | 2021-11-19 | 2022-12-03 |
 | [Grenade](https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Grenade](https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL) | 4:08 | 2023-04-28 | 2023-09-20 |

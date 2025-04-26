@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Nari Nari Naduma Murari
 
-287 songs - 18 hr 38 min
+288 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Sundari](https://open.spotify.com/track/33Zy0FUe3RqtX2FiOTwNi8) | [S\. Anant Srikar](https://open.spotify.com/artist/5KbUgwaQNMhwUJpk5FBttL), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Prem Kumar](https://open.spotify.com/album/4l0keSHITPujswycxN5uYu) | 3:00 | 2023-07-26 | 2023-09-10 |
 | [Suttamla Soosi](https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sri Harsha Emani](https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit) | [Gangs Of Godavari](https://open.spotify.com/album/1Qr5Gq4WF1uaiIZkKIKgNN) | 3:22 | 2023-08-16 | 2025-02-01 |
 | [Teliyadhe](https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Teliyadhe](https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt) | 4:01 | 2024-03-18 | 2025-02-20 |
+| [Thanu \(From "Hit \- 3"\) \(Telugu\)](https://open.spotify.com/track/4FsuiOBLNk6pEtFalGC11G) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raghav](https://open.spotify.com/artist/4HAeiRB2mbaO8qQBGzVP4o) | [Thanu \(From "Hit \- 3"\) \(Telugu\)](https://open.spotify.com/album/0jYL225WYxSjutjcKDc8KJ) | 4:08 | 2025-04-25 |  |
 | [Tholi Tholiga \(From "Janakiram"\)](https://open.spotify.com/track/0S6WMIucenxU1SvRTA73qi) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Tholi Tholiga \(From "Janakiram"\) \- Single](https://open.spotify.com/album/0PxHjTPAkkn0qjhqBZ4W3T) | 4:59 | 2022-07-08 | 2023-04-25 |
 | [Timeless Love \(From "Custody"\)](https://open.spotify.com/track/3e55Z7GQ32shpEwrnd6Jjz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Timeless Love \(From "Custody"\)](https://open.spotify.com/album/3u7j59HpPiG3XUcdvUeshr) | 4:10 | 2023-04-24 | 2023-05-20 |
 | [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/track/6gUj1HpLEN7qqJCFUWM2Zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/album/149ne0QeNg5tfsGbs9Cu6b) | 4:12 | 2023-04-24 | 2023-05-27 |

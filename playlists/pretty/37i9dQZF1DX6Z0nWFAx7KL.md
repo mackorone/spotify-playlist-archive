@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy dance music
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,572 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,573 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 22 | [In This Life](https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [In This Life](https://open.spotify.com/album/3rlvFy9cXkI3Dq5lj7P7nA) | 2:41 |
 | 23 | [Voices](https://open.spotify.com/track/4qjvWTRuEXI3eiRQgIbh96) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Voices](https://open.spotify.com/album/3jiuqMGhcLNUOsKGegQdwO) | 2:07 |
 | 24 | [Young Folks](https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf) | [Young Folks](https://open.spotify.com/album/5jplgAkT3cHlmsvVKPcDlT) | 3:15 |
-| 25 | [You & Me](https://open.spotify.com/track/4uf8L5rd9P03zMtPqkxgcC) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [You & Me](https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4) | 2:28 |
-| 26 | [Messy](https://open.spotify.com/track/5bxTXHVddTlCcvPy1YdlNM) | [REWIND BE KIND](https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo) | [Messy](https://open.spotify.com/album/2tIl7vsgtOgdrGoN9jemW6) | 4:22 |
+| 25 | [Messy](https://open.spotify.com/track/5bxTXHVddTlCcvPy1YdlNM) | [REWIND BE KIND](https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo) | [Messy](https://open.spotify.com/album/2tIl7vsgtOgdrGoN9jemW6) | 4:22 |
+| 26 | [You & Me](https://open.spotify.com/track/4uf8L5rd9P03zMtPqkxgcC) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [You & Me](https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4) | 2:28 |
 | 27 | [Hold Me Tight](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ), [Xiam](https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84), [Rukid](https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a) | [Hold Me Tight](https://open.spotify.com/album/40k7bDPnaMfxP2FLqrd039) | 2:18 |
 | 28 | [Sandcastles](https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Sandcastles](https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk) | 2:18 |
 | 29 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 49 | [Red](https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Red](https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q) | 2:50 |
 | 50 | [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 |
 | 51 | [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 |
-| 52 | [Calling Back](https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [DAHR](https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f) | [Calling Back](https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm) | 5:05 |
-| 53 | [Jazz Trumpet](https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Jazz Trumpet](https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb) | 2:00 |
+| 52 | [Jazz Trumpet](https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Jazz Trumpet](https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb) | 2:00 |
+| 53 | [Calling Back](https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [DAHR](https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f) | [Calling Back](https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm) | 5:05 |
 | 54 | [Elsewhere](https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Reconnect](https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG) | 3:13 |
 | 55 | [Dance Of Love](https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Wave94](https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO) | [Dance Of Love](https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h) | 2:27 |
 | 56 | [Late Summer](https://open.spotify.com/track/3COQYxU8yIBa3oBOnM6EN0) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [Late Summer](https://open.spotify.com/album/6OSd4iI6NTYLl0FHebISnG) | 2:04 |
 | 57 | [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 |
 | 58 | [Mad World](https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Mad World](https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT) | 3:24 |
 | 59 | [Running Away](https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Running Away](https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ) | 3:27 |
-| 60 | [Iawah](https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Iawah](https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt) | 2:21 |
+| 60 | [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 |
 
 Snapshot ID: `aAq0fwAAAACQAhd60GADlxyRCAogG/Sl`

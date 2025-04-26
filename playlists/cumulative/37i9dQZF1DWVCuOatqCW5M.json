@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Akshath, Faridkot, Madhubanti Bagchi and more. ",
+  "description": "Latest music from Aparshakti Khurana, Afsana Khan, Shreya Jain and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 163554,
       "name": "Ahista",
       "url": "https://open.spotify.com/track/0SLMQa8gdZQIIlTsUbM3s5"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 215076,
       "name": "Angels For Each Other",
       "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
@@ -5346,7 +5346,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 208281,
       "name": "Chhora Pardesi",
       "url": "https://open.spotify.com/track/3HEofNqegMCevv6TqRyeQK"
@@ -8881,6 +8881,24 @@
     },
     {
       "album": {
+        "name": "First Sight Wala Love",
+        "url": "https://open.spotify.com/album/29rCN9Ef5YCpaa7eYB1bAP"
+      },
+      "artists": [
+        {
+          "name": "Aparshakti Khurana",
+          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158078,
+      "name": "First Sight Wala Love",
+      "url": "https://open.spotify.com/track/0WSO9J0fZ17EJ1DfT2rWVa"
+    },
+    {
+      "album": {
         "name": "Fiza",
         "url": "https://open.spotify.com/album/0Q0En0xu0BWTQWjRt9eQgk"
       },
@@ -9394,6 +9412,32 @@
       "duration_ms": 164116,
       "name": "Gir Ke Uth Padenge Hum",
       "url": "https://open.spotify.com/track/3HHjwIdGW6eMVfv6x5sOLy"
+    },
+    {
+      "album": {
+        "name": "Golden Hours",
+        "url": "https://open.spotify.com/album/6haCEVvfOApScP6ojK8TMW"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Rajakumari",
+          "url": "https://open.spotify.com/artist/6nHobQinpHfJYQfUx9dj4x"
+        },
+        {
+          "name": "Nirmaan",
+          "url": "https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Golden Hours",
+      "url": "https://open.spotify.com/track/2cMm0tsAERdYXr4Jzdr0oK"
     },
     {
       "album": {
@@ -14176,7 +14220,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 154105,
       "name": "Kab Aur Kaise",
       "url": "https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO"
@@ -15404,6 +15448,28 @@
       "duration_ms": 218453,
       "name": "Khatam",
       "url": "https://open.spotify.com/track/0yYpk1ihHyyjRgZxz5EhIO"
+    },
+    {
+      "album": {
+        "name": "Khaula Ishq",
+        "url": "https://open.spotify.com/album/1n02dVvBOb8HCmgk9z1aoM"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Irfan Siddiqui",
+          "url": "https://open.spotify.com/artist/4s8DyR2k1eh2fBJt86M43K"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239996,
+      "name": "Khaula Ishq",
+      "url": "https://open.spotify.com/track/4lCzEbt9ZryXjTt9zUu6Hb"
     },
     {
       "album": {
@@ -17405,6 +17471,24 @@
     },
     {
       "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/5AZ1akg0I4hvqNGT036Kkg"
+      },
+      "artists": [
+        {
+          "name": "Akull",
+          "url": "https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210659,
+      "name": "Love & Light",
+      "url": "https://open.spotify.com/track/5KzNPA2iuR6wXDcwIkmf8t"
+    },
+    {
+      "album": {
         "name": "Love Note",
         "url": "https://open.spotify.com/album/1Ay9m3wFymygsyusr2H7fK"
       },
@@ -19012,6 +19096,32 @@
       "duration_ms": 255095,
       "name": "Mera Intezaar Karna",
       "url": "https://open.spotify.com/track/5CYPfBQfYjAxUyE9ETZtei"
+    },
+    {
+      "album": {
+        "name": "Mera Ranjha Beparwa",
+        "url": "https://open.spotify.com/album/2JiiHCcRwNIxEjfCrxpjrH"
+      },
+      "artists": [
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        },
+        {
+          "name": "Kanwar Iqbal",
+          "url": "https://open.spotify.com/artist/6U20dBUUdQB1zKhjXWhM4P"
+        },
+        {
+          "name": "Dronark",
+          "url": "https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Mera Ranjha Beparwa",
+      "url": "https://open.spotify.com/track/13Y4PZCUnTdiRr7rMNjGTR"
     },
     {
       "album": {
@@ -21653,6 +21763,32 @@
     },
     {
       "album": {
+        "name": "Pani Warga",
+        "url": "https://open.spotify.com/album/4TtJCKtzGo1WtZREVo5odl"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176938,
+      "name": "Pani Warga",
+      "url": "https://open.spotify.com/track/5ERZYoEUzjLFf7h56b6IPH"
+    },
+    {
+      "album": {
         "name": "Pankhida",
         "url": "https://open.spotify.com/album/0G8gjUeBTwFXLR5IWu5N5N"
       },
@@ -23320,7 +23456,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 228386,
       "name": "Rangreza",
       "url": "https://open.spotify.com/track/0PO3CJpN4CjP5uF5gSUCq4"
@@ -23822,7 +23958,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 240000,
       "name": "Roshni",
       "url": "https://open.spotify.com/track/761MooPTj7HQW9nxI1KaZo"
@@ -27178,7 +27314,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 158064,
       "name": "Tera Mera Pyaar",
       "url": "https://open.spotify.com/track/3XmKj1xFPz6eOT2uYpFBzW"
@@ -29256,6 +29392,32 @@
       "duration_ms": 241476,
       "name": "Tu Hii To",
       "url": "https://open.spotify.com/track/7IOvVy5KChrDKWlX5Foeet"
+    },
+    {
+      "album": {
+        "name": "tu ishq hai",
+        "url": "https://open.spotify.com/album/5lBiq9azRqrhJRfGiwJKec"
+      },
+      "artists": [
+        {
+          "name": "Mann Taneja",
+          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
+        },
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "Arhaan Hussain",
+          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "tu ishq hai",
+      "url": "https://open.spotify.com/track/07SloKOY1LJDuMhZyhg5R7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,487 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 7 | [La Llorona](https://open.spotify.com/track/5fBcRH4CnYTaFMQtM0JtSl) | [Alanna Ubach](https://open.spotify.com/artist/2QIv0RotNtHfzzp1jzJsJ4), [Antonio Sol](https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:45 |
 | 8 | [Pollito Amarillito](https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 1](https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH) | 1:47 |
 | 9 | [Chumbala Cachumbala](https://open.spotify.com/track/6wD3hbMqosHMbhZpgXkqVu) | [Luli Pampín](https://open.spotify.com/artist/2s5oIH7jW68tUafw6zs2y6) | [Bienvenidos \(Juega, Aprende, Baila Canciones Infantiles Con Luli Pampín\)](https://open.spotify.com/album/09igXCXQKwsdYuT1uDPiv7) | 3:03 |
-| 10 | [Ratón Vaquero](https://open.spotify.com/track/6oUGuBl910hSHMaxdSTlSE) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Cri Cri Por El Mundo](https://open.spotify.com/album/6yWbg1K1DRMmKqaMtKQA4g) | 3:03 |
-| 11 | [Yo Tengo Una Casita](https://open.spotify.com/track/70bgmwEzdGMNaUcX7joN4D) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [El Patio de Mi Casa](https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN) | 1:43 |
+| 10 | [Yo Tengo Una Casita](https://open.spotify.com/track/70bgmwEzdGMNaUcX7joN4D) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [El Patio de Mi Casa](https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN) | 1:43 |
+| 11 | [Ratón Vaquero](https://open.spotify.com/track/6oUGuBl910hSHMaxdSTlSE) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Cri Cri Por El Mundo](https://open.spotify.com/album/6yWbg1K1DRMmKqaMtKQA4g) | 3:03 |
 | 12 | [El Mundo es mi Familia](https://open.spotify.com/track/5tsiVaup3IdqXrqItieZLY) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 0:50 |
 | 13 | [Libre Soy \- Single Version](https://open.spotify.com/track/0WXKTj2Lfa8zOgK4l7u32M) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:43 |
 | 14 | [El Auto De Papá](https://open.spotify.com/track/66Z2LsDkNBc2rCWTqcOcB6) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 3:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Mamma Soul en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,419 likes - 35 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,422 likes - 35 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 12 | [Eternamente](https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Fe](https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym) | 3:14 |
 | 13 | [Cariño Malo](https://open.spotify.com/track/2A8IWW4doAylJMntiYO7VY) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc) | [Cariño Malo](https://open.spotify.com/album/1Py0xymBaKzMvbAFi9I5ug) | 3:27 |
 | 14 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
-| 15 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/16cTFZsb1ELjU7TfsKBmwg) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 2:49 |
-| 16 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 |
+| 15 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 |
+| 16 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/16cTFZsb1ELjU7TfsKBmwg) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 2:49 |
 | 17 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
 | 18 | [Arauco Tiene una Pena](https://open.spotify.com/track/5VEn738GxQ0CGF3c0zpu6p) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Canciones Reencontradas en París](https://open.spotify.com/album/1ps5BA5hN2pCCtDFVZF341) | 2:57 |
 | 19 | [Proverbios](https://open.spotify.com/track/5PqnqnJjlby6TQb05jwxG0) | [Javiera & Los Imposibles](https://open.spotify.com/artist/6IEAyaXCPxZoPtCAYZXOxz) | [La Suerte](https://open.spotify.com/album/3nkzokTijxaORG4srJc2bO) | 4:02 |
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 23 | [Tu Isla](https://open.spotify.com/track/3gDgHQ0o6d4QFGh8Uo1jSF) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6) | [Tu Isla](https://open.spotify.com/album/78d7xBJ5aj3JHBCHJObniR) | 4:42 |
 | 24 | [Barquito de Papel](https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi) | [Los Ojos del Corazón](https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b) | 3:51 |
 | 25 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
-| 26 | [Permiso](https://open.spotify.com/track/1hs8eutktH2210mudKOo2Z) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Aurora](https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx) | 4:12 |
-| 27 | [Colibrí](https://open.spotify.com/track/0EKGAB37A6Pi3Sc59jUATI) | [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV) | [Del otro lado](https://open.spotify.com/album/0CxTT7EJUX7xluQQyBL1Au) | 2:47 |
+| 26 | [Colibrí](https://open.spotify.com/track/0EKGAB37A6Pi3Sc59jUATI) | [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV) | [Del otro lado](https://open.spotify.com/album/0CxTT7EJUX7xluQQyBL1Au) | 2:47 |
+| 27 | [Permiso](https://open.spotify.com/track/1hs8eutktH2210mudKOo2Z) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Aurora](https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx) | 4:12 |
 | 28 | [Casamiento De Negros](https://open.spotify.com/track/0ppf8X4havPtqk8ZOLXGDD) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [La Jardinera Y Su Canto](https://open.spotify.com/album/5Vm4xbtl5wrwwEvaDk2C16) | 1:44 |
 | 29 | [Quédate](https://open.spotify.com/track/3M5qMSodsDSWslchOSqTD5) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Claroscuro](https://open.spotify.com/album/0BJVfmQhzjNLJuupXUzRQ5) | 3:16 |
 | 30 | [Huaynito de Amor](https://open.spotify.com/track/4p6Qm5fkbJaedDg1U3020S) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 2:28 |
 | 31 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
-| 32 | [La culpa](https://open.spotify.com/track/7zXinGDq0pdDD7dZ6TORbs) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La culpa](https://open.spotify.com/album/2lsItjwkRiLurSvlcy0691) | 5:30 |
-| 33 | [Canción Sencilla](https://open.spotify.com/track/1ceJvEoUjmq0MaM6kOIZh9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Los Muertos](https://open.spotify.com/album/1LispKb3uy0Xs9Ta8zPvik) | 4:36 |
-| 34 | [LLORAR](https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf) | [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [LLORAR](https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M) | 3:58 |
+| 32 | [Ser jazmín, ser golondrina](https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Aurora](https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx) | 3:18 |
+| 33 | [La culpa](https://open.spotify.com/track/7zXinGDq0pdDD7dZ6TORbs) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La culpa](https://open.spotify.com/album/2lsItjwkRiLurSvlcy0691) | 5:30 |
+| 34 | [Canción Sencilla](https://open.spotify.com/track/1ceJvEoUjmq0MaM6kOIZh9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Los Muertos](https://open.spotify.com/album/1LispKb3uy0Xs9Ta8zPvik) | 4:36 |
 | 35 | [Hey](https://open.spotify.com/track/4Uz9sUqZcQ2FzzZU0z0dCu) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [antípoda](https://open.spotify.com/album/5IXkix5iqHaASwKMFqz7Nf) | 3:12 |
 
 Snapshot ID: `Z+yoTQAAAACSYHnLcO5LrDFC7JTe9xa9`

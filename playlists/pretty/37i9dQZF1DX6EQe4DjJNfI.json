@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Rael",
-  "num_followers": 177862,
+  "num_followers": 177858,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-04-05 18:46:07",
       "album": {
+        "name": "Louco inconsequente",
+        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
+      },
+      "artists": [
+        {
+          "name": "Kid Lovi",
+          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
+        }
+      ],
+      "duration_ms": 198728,
+      "name": "Louco inconsequente",
+      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
+    },
+    {
+      "added_at": "2025-04-05 18:46:07",
+      "album": {
         "name": "Eterno Esquema",
         "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 133564,
       "name": "Eterno Esquema",
       "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2025-04-05 18:46:07",
-      "album": {
-        "name": "Louco inconsequente",
-        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
-      },
-      "artists": [
-        {
-          "name": "Kid Lovi",
-          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
-        }
-      ],
-      "duration_ms": 198728,
-      "name": "Louco inconsequente",
-      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
     },
     {
       "added_at": "2025-04-05 18:46:07",

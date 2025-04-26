@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 30351,
+  "num_followers": 30356,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAgtgAAAAABOpD370ZmUe6DnU+xhd+oe",
+  "snapshot_id": "aAl/AAAAAABJCYuILRXgB7PyLScgvcau",
   "tracks": [
     {
       "added_at": null,
@@ -1335,8 +1335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border Lord",
-        "url": "https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO"
+        "name": "This Old Road",
+        "url": "https://open.spotify.com/album/7sLlrcE7ECO5LEHfrBrxU8"
       },
       "artists": [
         {
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 154013,
-      "name": "Gettin' By, High and Strange",
-      "url": "https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J"
+      "duration_ms": 224280,
+      "name": "Thank You for a Life",
+      "url": "https://open.spotify.com/track/3WGn1HhbtON4FIYVin8IEU"
     },
     {
       "added_at": null,
@@ -1371,8 +1371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Old Road",
-        "url": "https://open.spotify.com/album/7sLlrcE7ECO5LEHfrBrxU8"
+        "name": "Border Lord",
+        "url": "https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 224280,
-      "name": "Thank You for a Life",
-      "url": "https://open.spotify.com/track/3WGn1HhbtON4FIYVin8IEU"
+      "duration_ms": 154013,
+      "name": "Gettin' By, High and Strange",
+      "url": "https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

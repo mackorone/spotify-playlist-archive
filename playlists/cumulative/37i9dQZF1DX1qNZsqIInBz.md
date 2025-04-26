@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-219 songs - 9 hr 37 min
+220 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Angel](https://open.spotify.com/track/2fuyypeK7fMoQlps83Q9K1) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Angel](https://open.spotify.com/album/0ZJf5EajMpqKbUGeE6Sj4N) | 3:18 | 2023-03-10 | 2023-09-09 |
 | [Angel of Death](https://open.spotify.com/track/7MtVdKpPuufNUOQrJB31uI) | [DarkTerror](https://open.spotify.com/artist/2o4YQX4hxBZaZKA6KbUtWo) | [Angel of Death](https://open.spotify.com/album/3Mi42mgHpgZKtJuU0x3sJ3) | 2:48 | 2022-10-10 | 2023-02-25 |
 | [Antarctica](https://open.spotify.com/track/70vSSq0cTXUQzJD9fgtiCb) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Antarctica](https://open.spotify.com/album/1oWEYEC46CHtNyWkhayjtz) | 3:51 | 2023-01-06 | 2023-06-10 |
+| [archangel \- Slowed](https://open.spotify.com/track/0ZYOD9MHcg51Z0ZJ4axhb5) | [DJ Anemia](https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [archangel \(Slowed\)](https://open.spotify.com/album/5iARmzSSFYnDi5tnu5TCCN) | 3:06 | 2025-04-25 |  |
 | [Aria Math](https://open.spotify.com/track/0QeYTfxC3BchP1Hzn5HGPd) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Aria Math](https://open.spotify.com/album/4hIpj10UfZXzkhbocSxDXh) | 4:05 | 2022-12-16 |  |
 | [Ascension](https://open.spotify.com/track/655HUrteca32fCVbWCHe0b) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627), [Cowbell Christ](https://open.spotify.com/artist/1U1JvyVp0OJeyQowx6HOlm) | [Ascension](https://open.spotify.com/album/1sQ5onguS8iW0SfZb6WSoZ) | 2:00 | 2022-10-10 |  |
 | [AURA](https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [AURA](https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1) | 1:55 | 2024-08-16 |  |
@@ -113,7 +114,7 @@
 | [LAST SUMMER](https://open.spotify.com/track/18HmibGhzrtpOJjF7shVvB) | [7ACE](https://open.spotify.com/artist/66ymtDmx7RDJ6qoIflhBBj) | [LAST SUMMER](https://open.spotify.com/album/31TdY8uhStMWgpSFGYfAXz) | 2:25 | 2022-10-10 | 2022-12-17 |
 | [LIBERTY](https://open.spotify.com/track/3jc2Sb5wbUqDIirFGRjcXd) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [LIBERTY](https://open.spotify.com/album/54npb8AVC4EgN3Y7tokAKu) | 2:44 | 2022-10-10 | 2023-06-24 |
 | [LIGHTS XFF](https://open.spotify.com/track/1hxhlE5DUTZTcToXlCDTSk) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LIGHTS XFF](https://open.spotify.com/album/285Vwbiv1lPB5hjFHUra02) | 2:20 | 2022-10-10 | 2024-01-27 |
-| [look around](https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [look around](https://open.spotify.com/album/7mRzNvTeo13aKg3NWPOMVY) | 2:07 | 2022-10-10 |  |
+| [look around](https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [look around](https://open.spotify.com/album/7mRzNvTeo13aKg3NWPOMVY) | 2:07 | 2022-10-10 | 2025-04-26 |
 | [Lost Generation](https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [HEARTIXE](https://open.spotify.com/artist/6Gl15cYrIWazH6VTDKCcCk) | [Lost Generation](https://open.spotify.com/album/7gztQGFnpztN5N2rR4rnwm) | 2:44 | 2022-10-10 | 2023-10-21 |
 | [lost my way.](https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [lost my way.](https://open.spotify.com/album/4vdFAzl8OXWKlBrnVoV8WX) | 2:06 | 2024-03-10 |  |
 | [Lost Orion](https://open.spotify.com/track/3arscwcDkbfPtFUBXVVmt6) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/1D7xOjPYBLdkSnJzkQQSGf) | 3:06 | 2023-03-10 | 2024-04-19 |

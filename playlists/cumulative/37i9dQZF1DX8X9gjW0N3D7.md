@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: Stéphanie Boulay
+> De la musique québécoise pour tous les goûts\. Photo: Cœur De Pirate
 
-154 songs - 8 hr 18 min
+155 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Béatrice](https://open.spotify.com/track/5w4TBVGa5PM9dWV9Xm7l8W) | [Major\-Moran](https://open.spotify.com/artist/1G9UzmqlFkUfFF7Fa4rVPh) | [Béatrice](https://open.spotify.com/album/3idJJWSIWD8dLHD4JpoGPQ) | 2:59 | 2025-01-17 |  |
 | [C'est comme ça](https://open.spotify.com/track/3rDAYokpKb7ImopqqFP41N) | [Fuso](https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh), [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Leela](https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi) | 2:37 | 2024-06-28 | 2024-07-27 |
 | [C'est fou](https://open.spotify.com/track/3Bo4ypaffja0u05JaMnJRD) | [Ima](https://open.spotify.com/artist/1yTWSP7tR6gp2vkstO7VI7) | [C'est fou](https://open.spotify.com/album/4w2xWFs5uSvafEZlJbst3r) | 2:53 | 2025-02-28 |  |
-| [C'est pire et c'est mieux](https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [C'est pire et c'est mieux](https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8) | 3:16 | 2024-06-28 |  |
+| [C'est pire et c'est mieux](https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [C'est pire et c'est mieux](https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8) | 3:16 | 2024-06-28 | 2025-04-26 |
 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 | 2024-06-28 | 2024-09-28 |
 | [Caroline](https://open.spotify.com/track/4j12U6gGJEFTubkBPGU95l) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Caroline](https://open.spotify.com/album/1OV6TDTQOfIqR0rfFx9s4p) | 2:42 | 2025-02-07 | 2025-03-15 |
 | [Cavale](https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cavale](https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3) | 3:43 | 2025-04-11 |  |
@@ -57,6 +57,7 @@
 | [I Lost My Baby](https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [I Lost My Baby](https://open.spotify.com/album/1tdEkNNmgbYuRnGLthjNdl) | 2:13 | 2024-06-28 | 2024-07-19 |
 | [Idiot](https://open.spotify.com/track/6CnnCExCfjAZcjmVWSv8fL) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Royaume](https://open.spotify.com/album/4aP35HIeabWoSciYT7UBDi) | 3:57 | 2024-06-28 | 2024-08-24 |
 | [Il faut que je migre](https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [Il faut que je migre](https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em) | 3:00 | 2024-06-28 | 2024-08-17 |
+| [Imprudences](https://open.spotify.com/track/7y9gFcoaAmuO1hsFsakQKI) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Imprudences](https://open.spotify.com/album/3PEbqGoks0gX4m9JuKLz0F) | 3:18 | 2025-04-25 |  |
 | [Insolente](https://open.spotify.com/track/1WpuopwHKPAb2dnOxLtjqP) | [Les Chiens De Ruelles](https://open.spotify.com/artist/4cgHDMFVZHOSFUOKEPbXAG) | [BTDT](https://open.spotify.com/album/6eWpV9tyWqUzpIHxPPNgIF) | 3:44 | 2024-08-16 |  |
 | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT) | 2:52 | 2024-06-28 |  |
 | [J'aurais jamais pensé](https://open.spotify.com/track/6NTKE7COb1sqx2hyYrMM5y) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Tout ce que l’aube promet](https://open.spotify.com/album/3RJCD7qNl3cN3QLb0DYeA1) | 3:48 | 2025-03-14 |  |

@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 165000,
       "name": "Bella Notte",
       "url": "https://open.spotify.com/track/5bNvn5G0TOs1N27Z48muK1"
@@ -2845,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152600,
+      "name": "Triton's Kingdom",
+      "url": "https://open.spotify.com/track/3MKAx3DwH7UrYgg5CMHgYi"
+    },
+    {
+      "album": {
         "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
         "url": "https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx"
       },
@@ -3004,6 +3022,24 @@
       "duration_ms": 167693,
       "name": "Waiting for the Lights - From \"Tangled\"/Score",
       "url": "https://open.spotify.com/track/0OAnOHYJxsMtMTZ6vf14xh"
+    },
+    {
+      "album": {
+        "name": "Waiting On A Wish (From \"Snow White\") [Arr. Piano]",
+        "url": "https://open.spotify.com/album/0qvVgRvvWrlnnRgkC4sgns"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123801,
+      "name": "Waiting On A Wish (From \"Snow White\") [Arr. Piano]",
+      "url": "https://open.spotify.com/track/3TxcP4t4ot8DZgmFCRCjpF"
     },
     {
       "album": {

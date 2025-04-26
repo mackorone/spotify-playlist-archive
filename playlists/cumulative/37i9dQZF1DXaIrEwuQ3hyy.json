@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 267100,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 234812,
       "name": "Fantasy (with Raveena)",
       "url": "https://open.spotify.com/track/6g8cxooV9l2dluphzZyJDg"
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 245000,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/113xf7t4qNM7038YJvauik"
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 176142,
       "name": "save myself",
       "url": "https://open.spotify.com/track/2mqgFt9mypTriVwkXzDeJW"
@@ -3298,6 +3298,24 @@
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+    },
+    {
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/3MGqemm1cVenEj5shRfnbe"
+      },
+      "artists": [
+        {
+          "name": "Felicia Eisenhut",
+          "url": "https://open.spotify.com/artist/59iuiRjF8ICAQZDJPpiptY"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337001,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/2btJw4JSAxBMGVrjAg6PX0"
     },
     {
       "album": {
@@ -4248,7 +4266,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"

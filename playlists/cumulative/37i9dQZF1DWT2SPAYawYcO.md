@@ -2,9 +2,9 @@
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from Lorde, Benson Boone, CYRIL, d4vd, Alison Wonderland and more!
+> Brand new music from Lorde, Shaboozey, Benson Boone, CYRIL, d4vd, Alison Wonderland and more!
 
-8,335 songs - 18 day 19 hr 50 min
+8,338 songs - 18 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [AMAMA](https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA) | 3:10 | 2024-03-28 | 2024-04-05 |
 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-09 | 2025-01-17 |
 | [Ambrosia](https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Ambrosia](https://open.spotify.com/album/6liLrRZ18eTnyKwKKdlhYB) | 3:06 | 2023-10-12 | 2023-10-20 |
+| [Amen](https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:17 | 2025-04-25 |  |
 | [AMEN](https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [AMEN](https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV) | 2:39 | 2023-08-31 | 2023-09-08 |
 | [Amen For The Weekend](https://open.spotify.com/track/6n95Js3BFd0ZRtggQTxS00) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Amen For The Weekend](https://open.spotify.com/album/1L1XwefPhYYJ9c8cYlfREb) | 2:59 | 2024-11-21 | 2024-11-29 |
 | [America](https://open.spotify.com/track/63LVOsdT7bB52kCzNLsEPn) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:23 | 2024-04-25 | 2024-05-03 |
@@ -4828,6 +4829,7 @@
 | [Money & My Vices](https://open.spotify.com/track/5T3t7QWuDW56R7Q5BYqICU) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Money & My Vices](https://open.spotify.com/album/7ILctsUA1yKzXlEAGlp78G) | 1:57 | 2023-08-31 | 2023-09-08 |
 | [MONEY AND VIBES](https://open.spotify.com/track/6XH5Uqo3d0cvBv0dv9Jwh8) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [MONEY AND VIBES](https://open.spotify.com/album/7s4VOuuo8CvJ5VLCmpBU8P) | 2:02 | 2023-10-19 | 2023-12-16 |
 | [Money Coming My Way](https://open.spotify.com/track/5s6KKvr41m02j8yJDqHh6h) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Money Coming My Way](https://open.spotify.com/album/1BUbmqH856frYyuh4kN59H) | 3:03 | 2023-06-23 | 2023-06-30 |
+| [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-04-25 |  |
 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 | 2024-02-22 | 2024-03-01 |
 | [Money Reserve](https://open.spotify.com/track/5p1rsEcknj2hGS0q3lFrlb) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Money Reserve](https://open.spotify.com/album/67MKmAYMm6bBVdjiVDkuh0) | 2:51 | 2025-03-06 | 2025-03-14 |
 | [money!](https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [money!](https://open.spotify.com/album/6Uww2b9MjkQPye3NRfJueW) | 2:30 | 2024-08-08 | 2024-08-16 |
@@ -4842,7 +4844,7 @@
 | [Moonbeam](https://open.spotify.com/track/16dV5lHiij57TY1avLe199) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Moonbeam](https://open.spotify.com/album/382DFwpEGZB4BhWhvhWyDm) | 2:14 | 2023-07-20 | 2023-07-28 |
 | [Moonbeam](https://open.spotify.com/track/4iqDxaSt5ThBqn6UGmBYL9) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Moonbeam](https://open.spotify.com/album/3zA0ZsKnPQDgA9r66cS6we) | 2:14 | 2023-08-03 | 2023-08-11 |
 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 | 2024-05-23 | 2024-06-01 |
-| [Moonglade](https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Moonglade](https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB) | 5:04 | 2025-04-24 |  |
+| [Moonglade](https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Moonglade](https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB) | 4:34 | 2025-04-24 |  |
 | [Moonlight](https://open.spotify.com/track/0tNKQB9jfD9vHOJlV9yvg1) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Moonlight](https://open.spotify.com/album/6IHfJm4FRah8YHY8PMVOJd) | 2:54 | 2024-06-13 | 2024-06-21 |
 | [Moonlight Boulevard](https://open.spotify.com/track/3hhVBN2zD27rBfjFGZHGKb) | [Safire](https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB), [Gus Heavy](https://open.spotify.com/artist/0eTc2PqSavOSL6U4NJfIIf), [Duos](https://open.spotify.com/artist/3y3cP8KosU5HyEJoHIsKnZ) | [Moonlight Boulevard](https://open.spotify.com/album/3nMiDqdPW0l8Sk6UmsfHRy) | 4:44 | 2024-12-12 | 2024-12-20 |
 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-03 | 2024-10-11 |
@@ -8004,6 +8006,7 @@
 | [When You Walked Into The Room](https://open.spotify.com/track/2sDQsJlSp9AZ9msGol5PMM) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t) | [When You Walked Into The Room](https://open.spotify.com/album/383wnELpfR8TZoQ48Tx7U1) | 3:34 | 2023-07-20 | 2023-07-28 |
 | [WHEN YOU'RE DONE BREAKING MY HEART](https://open.spotify.com/track/4VnBXYRSypUYd4kngIMdmL) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [WHEN YOU'RE DONE BREAKING MY HEART](https://open.spotify.com/album/259wrf5pg5yvdsiZpeRQ6a) | 2:12 | 2024-09-12 | 2024-09-20 |
 | [when you're here](https://open.spotify.com/track/5eUhdrNOmnyHXwYREBYxUm) | [JÄMO](https://open.spotify.com/artist/5BatmKqX0n63qHXQTcKoPr) | [when you're here](https://open.spotify.com/album/4VK3DUlBvrR4AYR4Lq3HDo) | 2:53 | 2024-11-14 | 2024-11-22 |
+| [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 | 2025-04-25 |  |
 | [Where Am I](https://open.spotify.com/track/5W8bRGf3O28LPkrs5QpLQq) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Where Am I](https://open.spotify.com/album/5uDFwqVOiXiPQQsdDrEkxz) | 3:57 | 2023-10-05 | 2023-10-13 |
 | [Where Do I Go](https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Alpharock](https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Where Do I Go](https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q) | 2:18 | 2024-11-07 | 2024-11-15 |
 | [Where Do We Go From Here](https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Where Do We Go From Here](https://open.spotify.com/album/13yQEoJ6hDD560qMei009H) | 2:48 | 2023-06-23 | 2023-06-30 |

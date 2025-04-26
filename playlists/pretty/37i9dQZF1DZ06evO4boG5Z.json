@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 28972,
+  "num_followers": 28971,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAgtgAAAAADEHYbfj1U259s1lk4R1mWD",
+  "snapshot_id": "aAl/AAAAAAABYfdIVygdx8ebbnJLpSOw",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Kemp",
-      "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
+      "duration_ms": 176493,
+      "name": "Olympic",
+      "url": "https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On A Plate",
-        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 176493,
-      "name": "Olympic",
-      "url": "https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm"
+      "duration_ms": 206080,
+      "name": "Kemp",
+      "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Random I Am",
-      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 171920,
       "name": "Farewell My Hell",
       "url": "https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Random I Am",
+      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On A Plate",
-        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "Friends 'Til the End",
-      "url": "https://open.spotify.com/track/00cjb9ge4OJllcoUN8l1jm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 176453,
       "name": "Ray",
       "url": "https://open.spotify.com/track/2WbxknLnzzrg2C1l3tivqc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "Friends 'Til the End",
+      "url": "https://open.spotify.com/track/00cjb9ge4OJllcoUN8l1jm"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 153466,
-      "name": "The Story Of My Life",
-      "url": "https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4"
+      "duration_ms": 126893,
+      "name": "Vulcan Ears",
+      "url": "https://open.spotify.com/track/5N3LmVCqLneS7NkmDwozXZ"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 126893,
-      "name": "Vulcan Ears",
-      "url": "https://open.spotify.com/track/5N3LmVCqLneS7NkmDwozXZ"
+      "duration_ms": 153466,
+      "name": "The Story Of My Life",
+      "url": "https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 119946,
-      "name": "Autopilot Mode",
-      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 119946,
+      "name": "Autopilot Mode",
+      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Same Old Tunes",
         "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 220973,
       "name": "Diznee Time",
       "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 132333,
-      "name": "Mooseman's Jukebox",
-      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
     },
     {
       "added_at": null,
@@ -660,9 +644,25 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 168808,
-      "name": "Yanny & Laurel",
-      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
+      "duration_ms": 166093,
+      "name": "For Yesterday",
+      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 132333,
+      "name": "Mooseman's Jukebox",
+      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
       "duration_ms": 79533,
       "name": "Silent Suicide",
       "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 112733,
-      "name": "Fazil's Friend",
-      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
     },
     {
       "added_at": null,
@@ -724,9 +708,25 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 166093,
-      "name": "For Yesterday",
-      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
+      "duration_ms": 168808,
+      "name": "Yanny & Laurel",
+      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 112733,
+      "name": "Fazil's Friend",
+      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 98426,
-      "name": "Domestic Subway",
-      "url": "https://open.spotify.com/track/54lIoeGRSmMGExbgCsgVo7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 187276,
       "name": "Sour Days",
       "url": "https://open.spotify.com/track/2i27IazgPge4Q08c6YYhk0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 98426,
+      "name": "Domestic Subway",
+      "url": "https://open.spotify.com/track/54lIoeGRSmMGExbgCsgVo7"
     }
   ],
   "unique_name": "This Is Millencolin",

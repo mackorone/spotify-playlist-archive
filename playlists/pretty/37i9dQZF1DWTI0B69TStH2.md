@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Posłuchaj niezależnych artystów, którzy wystąpią na <a href="spotify:playlist:37i9dQZF1DX1k6A2wTsXkD">Next Fest</a> w Poznaniu oraz innych wschodzących artystów! Cover: <a href="spotify:artist:57IyKKJVTloFrwrTBnnqGA">Klaudia Daliva</a>, <a href="spotify:artist:14RpuKZYyyikmsRU3zPoWz">maks.tachasiuk</a>, <a href="spotify:artist:5lCEddkyXfytjFWsUlviEo">Mlecze</a>, <a href="spotify:artist:6bXkQoRLIyuiEdKa1PUyt6">Fida</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,003 likes - 150 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,054 likes - 150 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 51 | [Czerwiec](https://open.spotify.com/track/0tG7vIswPf2QsBdswAgujm) | [Jan Wieteska](https://open.spotify.com/artist/7h4515SjHOj0zz1oPQDFPW) | [Czerwiec](https://open.spotify.com/album/61eNYJlzrKQeTtVZSv8pcP) | 2:43 |
 | 52 | [Tokio](https://open.spotify.com/track/42djEgTLY49nmkVv9IFang) | [VHS](https://open.spotify.com/artist/68PIzmw7Ox2zjxmnfwHi1G) | [Tokio](https://open.spotify.com/album/7zsiJiyua0MW4c1Pl8vVum) | 3:13 |
 | 53 | [Toast](https://open.spotify.com/track/6KN84ccARqDrMSqhzOtVYx) | [TOM PIGMENT](https://open.spotify.com/artist/2Y0XnClqugqbVaHhgZIu3x) | [Toast](https://open.spotify.com/album/6LbcuYDck0k1jBTktkIntX) | 4:20 |
-| 54 | [ISKRA](https://open.spotify.com/track/1cLrb7pvU3n9qVlNJF3eWj) | [Kopka](https://open.spotify.com/artist/1brxDyHOtA3f5CHRmgCmhJ) | [ISKRA](https://open.spotify.com/album/75CuGhSv32LInCbmcpWyNK) | 3:53 |
+| 54 | [ISKRA](https://open.spotify.com/track/1cLrb7pvU3n9qVlNJF3eWj) | [Kopka](https://open.spotify.com/artist/1brxDyHOtA3f5CHRmgCmhJ), [Marcin Ułanowski](https://open.spotify.com/artist/0E8eqERhuwyUVQztQEo0L8), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [ISKRA](https://open.spotify.com/album/75CuGhSv32LInCbmcpWyNK) | 3:53 |
 | 55 | [czemu excel jest płatny?](https://open.spotify.com/track/6WyEvSPrwsrr4RwKyEeu95) | [H x eZ](https://open.spotify.com/artist/7KWuQS6nKUFGPFZZTpse8T), [horoba](https://open.spotify.com/artist/0xyGq2RR4XeLHdri0KETZf), [ewentualny Złodziej](https://open.spotify.com/artist/14Tz9CHanLSPdBJPZgikGJ) | [czemu excel jest płatny?](https://open.spotify.com/album/2YqD8e5qSScMCAom1RSYn3) | 2:58 |
 | 56 | [mała, daj sobie na luz](https://open.spotify.com/track/11Kim6INx9R8HnpMXQQFpG) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [mała, daj sobie na luz](https://open.spotify.com/album/5jiJ70OENZN67N012ADkPM) | 2:31 |
 | 57 | [widok 16](https://open.spotify.com/track/5HlEZaPRlp8Yij3OVzqQU7) | [świtała](https://open.spotify.com/artist/0fP7Egec8F7B72aatTrLPQ) | [agrarna ep](https://open.spotify.com/album/34Yrs8phZ5VeAkjpnU7Wpp) | 2:53 |

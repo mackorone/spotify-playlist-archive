@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-874 songs - 1 day 23 hr 57 min
+881 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Affection Reflection](https://open.spotify.com/track/4Bom6DRearLyhau93DsSt3) | [Lhaw](https://open.spotify.com/artist/3UwfNxtuc0VZg4YniqFgnI) | [Affection Reflection](https://open.spotify.com/album/3IAEw6178vpkPKJZajvtZ0) | 3:13 | 2022-01-21 | 2023-07-14 |
 | [Afrodeziac](https://open.spotify.com/track/42c7uR5Uz4piO3okWVQMFC) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO), [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Caelitum](https://open.spotify.com/album/5uve47bzEqwQY9RnUiT4HP) | 5:00 | 2020-12-24 | 2021-02-04 |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2021-11-08 | 2023-07-22 |
+| [Afternoon](https://open.spotify.com/track/171H5E5SQdQVP9iANgBSes) | [Phil Axes](https://open.spotify.com/artist/0VFWh6K23ZImXW9loa6ciu) | [Afternoon](https://open.spotify.com/album/4wApAHkhmgGwjIx2fqGefT) | 2:02 | 2025-04-25 |  |
 | [Afternoon in Stereo](https://open.spotify.com/track/0cqWk8s2KJglPnuojyhYCQ) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Afternoon in Stereo](https://open.spotify.com/album/4H25UhNaAxBmNdSmfxJSXa) | 3:04 | 2020-04-03\* | 2020-10-27 |
 | [Afterwave](https://open.spotify.com/track/4PlyNPjqjniNO5WLvuOfeJ) | [Scoobadive](https://open.spotify.com/artist/3jR9KEaFl4oXjElgnvG2Bd) | [Afterwave](https://open.spotify.com/album/6az6DQdYHWgjuQxtp7eQqK) | 2:56 | 2022-06-10 | 2024-09-28 |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2021-11-08 | 2024-11-16 |
@@ -287,6 +288,7 @@
 | [free](https://open.spotify.com/track/0O4dDUo1KGQ8xUHHUM91lL) | [Wilmer Woo](https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk) | [free](https://open.spotify.com/album/4hz19Jb4GM7Mr5CgU1PtM1) | 2:38 | 2023-01-20 |  |
 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-05-20 | 2023-01-07 |
 | [Freedom Banner](https://open.spotify.com/track/4CRHD77j69bAf9D7ikl7qQ) | [Gea](https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU) | [Freedom Banner](https://open.spotify.com/album/6zH54laZSKfWgwqHSVxGQT) | 2:29 | 2025-01-24 |  |
+| [frsh pow](https://open.spotify.com/track/0KQvfKa48pbZRx0ZJLPoZs) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [frsh pow](https://open.spotify.com/album/4ig4XXAqt6C0RJ20eSqx2f) | 2:02 | 2025-04-25 |  |
 | [futon](https://open.spotify.com/track/2j04G1Sp53KRgGP9HsinXY) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [futon](https://open.spotify.com/album/2lBJ6T09RAVtLttuQz30va) | 3:17 | 2022-11-25 | 2023-01-07 |
 | [Galapagos](https://open.spotify.com/track/76JW85MUlRqIognI5ga7HZ) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Galapagos](https://open.spotify.com/album/0LmIHeXvmqUJrFZH8l2Gq4) | 2:42 | 2024-05-11 |  |
 | [Garden](https://open.spotify.com/track/2iGZlVQzrSSqfQjUebJ0Qf) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Garden](https://open.spotify.com/album/558o76jGzsoU2lUf27jzz0) | 3:17 | 2020-05-22 | 2020-07-10 |
@@ -332,6 +334,7 @@
 | [Heavy Wish](https://open.spotify.com/track/3yZ9HqGcPmJElydRYDPdNY) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Heavy Wish](https://open.spotify.com/album/1pY9mh46YEBv5hAUYnozJa) | 2:10 | 2023-10-13 | 2025-03-22 |
 | [Hey Love](https://open.spotify.com/track/1AfZ66laB3o8sgaNnWcuPI) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [Hey Love / Precarious](https://open.spotify.com/album/6GjkILNGTM5zt1Ks0MoDfT) | 3:35 | 2022-11-25 | 2025-01-25 |
 | [Highlands](https://open.spotify.com/track/1jmSozSHBSDo3MzHdUVpWt) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Highlands](https://open.spotify.com/album/6k8jzUy9YBR5dw6yyexbqA) | 2:02 | 2023-02-17 |  |
+| [Hold Me](https://open.spotify.com/track/0m4MTgPQlHKmqtmlwFv8P6) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Hold Me](https://open.spotify.com/album/2pe9ZYIcVACdMJDclfNhcP) | 2:38 | 2025-04-25 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2021-10-06 | 2022-07-01 |
 | [Hold U](https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Hold U](https://open.spotify.com/album/1vXChZQ7cOhiFjsHqAGJng) | 2:35 | 2021-09-22 | 2024-11-30 |
 | [Home.Finally](https://open.spotify.com/track/0nYfa6KoT3LXMc6eFNR8UP) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Home.Finally](https://open.spotify.com/album/5CwbB05IOwWzIisyPNVT8U) | 2:41 | 2022-06-24 | 2022-07-01 |
@@ -345,6 +348,7 @@
 | [I ADORE U](https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [I ADORE U](https://open.spotify.com/album/5xnqBY02HrPts7DQlfXtnK) | 4:02 | 2022-05-10 | 2022-07-08 |
 | [I Know](https://open.spotify.com/track/0BIM3gGtCwD0YTqxDGnNgT) | [Illumia](https://open.spotify.com/artist/3g79aLcgoTfoQTUrsiyPtC) | [Winter Selections 03](https://open.spotify.com/album/3m3sGoHbH0xI84V9PvUeBR) | 4:14 | 2020-04-03\* | 2020-04-14 |
 | [I Lost You but I Got HBO](https://open.spotify.com/track/5pNInkBWfWgYf05f0Gq7Va) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 3:07 | 2020-04-03\* | 2020-04-07 |
+| [I Miss You](https://open.spotify.com/track/41z1UiFOpU9rI0ZGE1NloI) | [crayg](https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg) | [I Miss You](https://open.spotify.com/album/2Y91B51eaKObr0Og2zIgSr) | 2:37 | 2025-04-25 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2020-12-09 | 2022-04-15 |
 | [i SEE u DanCin](https://open.spotify.com/track/49tPsezrSnuzAhwasEPwvY) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [i SEE u DanCin](https://open.spotify.com/album/67CtGUpvw9BJRWbH9JrRUy) | 6:11 | 2022-12-16 | 2023-03-25 |
 | [I Will Never Forget You](https://open.spotify.com/track/2xzs9kG0mrIjpj8119bqqp) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [We Are on Our Way](https://open.spotify.com/album/26AtOGT8UraqnSOJSKDq41) | 2:58 | 2020-04-03\* | 2021-01-05 |
@@ -431,6 +435,7 @@
 | [Lol Over You](https://open.spotify.com/track/3WnsqyQchQ5gdc6AxWG9Wk) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lol Over You](https://open.spotify.com/album/5xNwSY1JpyQVN0V08TRMLr) | 3:28 | 2022-07-22 | 2022-07-29 |
 | [Lola](https://open.spotify.com/track/7tTL846SbtFK05waG77G0B) | [iugou](https://open.spotify.com/artist/6TcP3000og43MzgtTbIkvv) | [Lola](https://open.spotify.com/album/7EeHCYJmcrBeCM8eKXWeRa) | 6:21 | 2021-06-16 | 2021-09-22 |
 | [london ting](https://open.spotify.com/track/6ntkRKn539gB5ZM4IhLcDo) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [london ting](https://open.spotify.com/album/1PobQ0VZSMEWnYXniw4AJh) | 2:26 | 2022-11-25 | 2024-09-28 |
+| [Lonely](https://open.spotify.com/track/2ipDDqlaPr70NlKyLHNkPc) | [Flower City](https://open.spotify.com/artist/5ODtSBWuOOQ3MtSWuXe2Yp) | [Lonely](https://open.spotify.com/album/4hQEfdanPMa5GJJIuoYLRB) | 1:56 | 2025-04-25 |  |
 | [Lonely Hour](https://open.spotify.com/track/560p69yXiFLwFW8uXQN6uI) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [After Midnyte](https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny) | 3:04 | 2020-04-03\* | 2021-01-05 |
 | [Lonely Sky](https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Lonely Sky](https://open.spotify.com/album/4yJ7x7yvZxizG13L1a2gAE) | 3:47 | 2024-12-13 |  |
 | [Longe Gone](https://open.spotify.com/track/0OQjCfhFysOkJsikZ9xt5R) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Longe Gone](https://open.spotify.com/album/4UD5Y7m1vQZ4KRpDJAptt0) | 4:03 | 2022-10-07 | 2023-06-24 |
@@ -631,6 +636,7 @@
 | [Rooftop](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Rooftop](https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o) | 3:10 | 2021-04-15 | 2022-08-19 |
 | [Rooftop Sun](https://open.spotify.com/track/4fLYOLtxiGkeWy9lSzYLk6) | [Mads Nielsen Stolt](https://open.spotify.com/artist/1F9o7boqKQEWTQRIorbiR4) | [Rooftop Sun](https://open.spotify.com/album/7otFqV5bvG65ADW65pk6Eg) | 2:40 | 2023-05-22 |  |
 | [Rooftops](https://open.spotify.com/track/6XiT6sPw9rpKjOEdvgL2y3) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Rooftops](https://open.spotify.com/album/6cDoiRHQF3nfqlE7l4e1Wj) | 2:36 | 2021-04-15 | 2022-09-23 |
+| [Rouge](https://open.spotify.com/track/4aH9sKvabc91FNC7uQV2EO) | [Jordan Moon](https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1) | [Rouge](https://open.spotify.com/album/6CQD3WmQUGYec6dj1OzXA9) | 2:44 | 2025-04-25 |  |
 | [Rumsa](https://open.spotify.com/track/009HpPIOSK2N0cWoS78jyQ) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 2:45 | 2021-06-02 | 2022-09-23 |
 | [Rung](https://open.spotify.com/track/22x9QfhMz3VHpupWk0F1Tt) | [Owen Ni](https://open.spotify.com/artist/2MmrSvDip3ZAMG8GYwRyYk), [rhythmrobot](https://open.spotify.com/artist/2SoUEIeMw1icFbdv4b1a81) | [Crate Diggin' / Rung](https://open.spotify.com/album/4SIVh8m5VFVdM28mOHGxRa) | 5:31 | 2021-03-18 | 2021-03-25 |
 | [Safari](https://open.spotify.com/track/2sVWZpx2SYdy5zsCbNt93g) | [David Bume](https://open.spotify.com/artist/1eqMf09fOHETYtHLfTITCv) | [Safari](https://open.spotify.com/album/6wL1ZfIwEDzrsQGpP5ixXf) | 3:16 | 2020-11-11 | 2021-09-22 |
@@ -672,6 +678,7 @@
 | [Shadowdoom](https://open.spotify.com/track/0AGSlvLptBUmNxqo2HBTdC) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Shadowdoom](https://open.spotify.com/album/5KOlOg5drL7dCfcqGt9ftV) | 2:25 | 2022-01-21 | 2025-03-08 |
 | [Shadows \- Glizzinger Edit](https://open.spotify.com/track/71SMntwtq5ddzffP7RO2po) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Shadows \- Glizzinger Edit](https://open.spotify.com/album/17aQXGOQLHfg72KYwOe8yp) | 3:40 | 2021-11-08 | 2022-07-01 |
 | [shake up](https://open.spotify.com/track/3l5NJqRefs82iuDAEcBXPO) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [shake up](https://open.spotify.com/album/3HfxkGekHiZPMipEg5j5s9) | 2:43 | 2022-11-25 | 2025-01-11 |
+| [Shanghai](https://open.spotify.com/track/5tbyORxtKTPjYBqfNVWS41) | [Les Trouble](https://open.spotify.com/artist/0J5Be1SrvRoeVtSRLU1yvH) | [Shanghai](https://open.spotify.com/album/2nGyRkDgnxVqHk3LIzW3tS) | 2:40 | 2025-04-25 |  |
 | [Shards Of Life](https://open.spotify.com/track/2tFgVcr1uH7vPPvZm9YI3W) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [The Space Mechanic](https://open.spotify.com/album/1h8W3O0B3EoEuKiw436mrg) | 3:15 | 2020-04-03\* | 2020-07-22 |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2021-06-02 | 2025-01-25 |
 | [Shine](https://open.spotify.com/track/0srUlmUhUIHJla8CNZtAe2) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Shine](https://open.spotify.com/album/2RJOdfkNsQ95A2e8gbz911) | 3:04 | 2022-07-01 | 2024-12-14 |
@@ -789,7 +796,7 @@
 | [The Flower Thief](https://open.spotify.com/track/1se6rSnqTnmkLQIqk9F6x0) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [The Flower Thief](https://open.spotify.com/album/2Rn3VEGSYIlglxyIY6jW9O) | 2:59 | 2023-05-26 |  |
 | [The Hills](https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [The Hills / True Fours](https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp) | 2:40 | 2023-01-06 |  |
 | [The man from Belvedere](https://open.spotify.com/track/1FejRJLhghkDcEEoxDpA6s) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [The man from Belvedere](https://open.spotify.com/album/3gl6i7N9soagDkaOrImZVk) | 2:54 | 2022-07-29 | 2024-08-31 |
-| [The Next Morning](https://open.spotify.com/track/19HMYmoV0N0mZh8HuR0uae) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [The Next Morning](https://open.spotify.com/album/2rT4qP0xxhTpow4brUeUau) | 3:03 | 2025-01-10 |  |
+| [The Next Morning](https://open.spotify.com/track/19HMYmoV0N0mZh8HuR0uae) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [The Next Morning](https://open.spotify.com/album/2rT4qP0xxhTpow4brUeUau) | 3:03 | 2025-01-10 | 2025-04-26 |
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2021-04-29 | 2022-07-08 |
 | [The Rhythm \- Chill out Mix](https://open.spotify.com/track/3aZ9YHMB4mWRdMgYTl1GRo) | [Filt Stop](https://open.spotify.com/artist/65fByPGipTQSq60gmurTaO) | [The Rhythm \(Chill out Mix\)](https://open.spotify.com/album/56bElNqMjpm18oloLKKFcm) | 3:10 | 2021-04-29 | 2022-08-05 |
 | [The Rhythm Section](https://open.spotify.com/track/728uaKQI7UyB6q1f1A4jdH) | [Here we go!](https://open.spotify.com/artist/58X3mn1Nur7Oo4XHdCYHnl) | [The Rhythm Section](https://open.spotify.com/album/0eYmfB2FzX9LbkqcvevxSW) | 3:55 | 2021-11-08 | 2022-01-22 |

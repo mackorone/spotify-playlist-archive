@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Joe Armon-Jones",
+  "description": "The best from Britain's vibrant scene. Cover: Emma-Jean Thackray",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -6162,7 +6162,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 291279,
       "name": "Jela Kubwa Na Viboko",
       "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
@@ -8049,6 +8049,24 @@
     },
     {
       "album": {
+        "name": "Where We're Calling From",
+        "url": "https://open.spotify.com/album/1qoedtHskQaRmtVLswk7N7"
+      },
+      "artists": [
+        {
+          "name": "Orchard",
+          "url": "https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248432,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5NLxA4kDzcKlKgYLpQ3DSZ"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/2iBo5HpWM0CJB7r9UT6nJI"
       },
@@ -8366,7 +8384,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 214727,
       "name": "My Way (Come Over)",
       "url": "https://open.spotify.com/track/1BumTTRy5W6yldlfyjprmD"
@@ -10322,6 +10340,24 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
+    },
+    {
+      "album": {
+        "name": "Weirdo",
+        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291931,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
     },
     {
       "album": {

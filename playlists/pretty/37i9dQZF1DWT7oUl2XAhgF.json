@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 361230,
+  "num_followers": 361299,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/iT0QAAAADM520xT1VIZWvldvjhmSma",
+  "snapshot_id": "aAsI6QAAAAAhXSBHw8dB1au0YXbl1dfb",
   "tracks": [
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Flower Moon",
+        "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "Flower Moon",
+      "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
+    },
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
@@ -23,6 +43,38 @@
       "duration_ms": 194992,
       "name": "Just As Long As We're Together",
       "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
+    },
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Good To Be Here",
+        "url": "https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 240468,
+      "name": "Something Bout You",
+      "url": "https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv"
+    },
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Punchin'",
+        "url": "https://open.spotify.com/album/24nNZxJjjObwnTf0sqXvmU"
+      },
+      "artists": [
+        {
+          "name": "MT Jones",
+          "url": "https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m"
+        }
+      ],
+      "duration_ms": 189911,
+      "name": "Punchin'",
+      "url": "https://open.spotify.com/track/6dDgxIyzALkKPtSQRFmX3P"
     },
     {
       "added_at": "2025-04-04 04:00:13",
@@ -589,22 +641,6 @@
       "url": "https://open.spotify.com/track/0Wa2qkfYlHDfx1iGKTaCuU"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Rocking My Boat",
-        "url": "https://open.spotify.com/album/0KEbI9xxTx7us0RRFwm8lM"
-      },
-      "artists": [
-        {
-          "name": "MT Jones",
-          "url": "https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m"
-        }
-      ],
-      "duration_ms": 162522,
-      "name": "Rocking My Boat",
-      "url": "https://open.spotify.com/track/5iJtFfrTB0W8GXPPA0Nc28"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Sugar Me Up",
@@ -979,22 +1015,6 @@
       "duration_ms": 292824,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/0Ya0RaQ2OOpwNR3oTxAuBt"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Be My Own Man",
-        "url": "https://open.spotify.com/album/1Eboy7GftOfgKfFofBdW6O"
-      },
-      "artists": [
-        {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
-        }
-      ],
-      "duration_ms": 225344,
-      "name": "Be My Own Man",
-      "url": "https://open.spotify.com/track/5wOthUe5Zx1FdIB9GSFvBd"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1463,26 +1483,6 @@
       "duration_ms": 194832,
       "name": "Self Revolution",
       "url": "https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "I'm Comin' Home To You",
-        "url": "https://open.spotify.com/album/1J5DfEBCaIxpDRBZl0Slwm"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Stella Angelico",
-          "url": "https://open.spotify.com/artist/3qZl6vkduvtusEc6dnSwGz"
-        }
-      ],
-      "duration_ms": 211669,
-      "name": "I'm Comin' Home To You",
-      "url": "https://open.spotify.com/track/2RHV6ehfb8JnyXugVy7D4E"
     },
     {
       "added_at": "2023-11-10 05:01:00",

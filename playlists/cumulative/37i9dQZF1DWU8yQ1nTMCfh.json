@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: shego",
+  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Aterciopelados",
   "name": "Rock Total",
   "tracks": [
     {
@@ -2024,6 +2024,24 @@
       "duration_ms": 253600,
       "name": "F\u00fatbol Rock",
       "url": "https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP"
+    },
+    {
+      "album": {
+        "name": "Genes Rebeldes",
+        "url": "https://open.spotify.com/album/3bLNYtp9nMBnQrW85P3If6"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228081,
+      "name": "Genes Rebeldes",
+      "url": "https://open.spotify.com/track/21Wc5F2CLsh9fngtepqnGF"
     },
     {
       "album": {
@@ -4620,7 +4638,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 183441,
       "name": "Qu\u00e9date un Momento",
       "url": "https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA"

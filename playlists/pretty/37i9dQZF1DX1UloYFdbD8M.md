@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Haniya Nafisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,857 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,887 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [illaathath](https://open.spotify.com/track/6JwLV8XjJg2tXawz8owSwn) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0) | [illaathath](https://open.spotify.com/album/3TXnjQbQO1aoFgCJaUsdZy) | 3:04 |
 | 2 | [Krishna Krishna \- House of Saraswati](https://open.spotify.com/track/2mgfZWIJKV4s6rCAAQVNma) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Krishna Krishna \(House of Saraswati\)](https://open.spotify.com/album/7nw7toDdqStNzJ2jBVrWMI) | 3:41 |
 | 3 | [Chaliye Rani](https://open.spotify.com/track/1MkV4LbxSmW0S9mP2DoPAk) | [Himna Hilari](https://open.spotify.com/artist/1VVEKPxaTnYrNeO1dKp9vT), [Hinitha Hilary](https://open.spotify.com/artist/5qfJ6kEOLgOveQ4T1Zec0O), [Ebin Pallichan](https://open.spotify.com/artist/5adupl0QWDO9lNgtKss4sZ) | [Chaliye Rani](https://open.spotify.com/album/5XCeIqWUVCfwwMHGhtZ2wi) | 2:04 |
-| 4 | [Thaane Thaniye Thammil](https://open.spotify.com/track/6ingVU9wCdStE9VpaLyfAr) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Thaane Thaniye Thammil](https://open.spotify.com/album/3Vu2WYHiYCsWYVXk9KNdNb) | 3:22 |
-| 5 | [Ninnullam](https://open.spotify.com/track/6wddmTvb3rh5xv0qVafxPU) | [Favas Fazin](https://open.spotify.com/artist/7F3MFMJcy1eBbeD6Mq3KAc) | [In Search of Love](https://open.spotify.com/album/2UVh4d257okhn0wjbAXnRz) | 3:40 |
+| 4 | [Kurumulaku](https://open.spotify.com/track/5NQeWPrbqmZT63u0Zx0tyU) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Kurumulaku](https://open.spotify.com/album/5xKzpwO123l51uDepXDX7m) | 4:20 |
+| 5 | [Thaane Thaniye Thammil](https://open.spotify.com/track/6ingVU9wCdStE9VpaLyfAr) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Thaane Thaniye Thammil](https://open.spotify.com/album/3Vu2WYHiYCsWYVXk9KNdNb) | 3:22 |
 | 6 | [Hridayam](https://open.spotify.com/track/3dP8bympjd6bjXnvDp1mVr) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Hridayam](https://open.spotify.com/album/0BNMDoYVh5kJhlD0YeFrqI) | 4:22 |
 | 7 | [Ejjathi \- From "Ayaktihis"](https://open.spotify.com/track/0APH1Jj5zZCC75WxTpCzbr) | [The Down Troddence](https://open.spotify.com/artist/6hTZfnBN0lBS9Q5LqeMbNX) | [Ejjathi \(From "Ayaktihis"\)](https://open.spotify.com/album/5lgPxMNps0pcGuuIQ0iX1T) | 4:46 |
 | 8 | [RECALL](https://open.spotify.com/track/0EqwSQvoGXY4a9ZHCLCU43) | [46FLOW](https://open.spotify.com/artist/3zQt5tn7i7l07bJ5AplrtB) | [RECALL](https://open.spotify.com/album/2GntIHvmMUKhKnupgPqk3K) | 3:10 |
@@ -79,9 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 69 | [Pande](https://open.spotify.com/track/4YRVb6Ppv2zTN9obOzmDSZ) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Pande](https://open.spotify.com/album/7ymtCchQnro2Bc4c1v2TDc) | 3:13 |
 | 70 | [Thaaram](https://open.spotify.com/track/3QqOii384lMY23m4Ydh4Rb) | [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y), [Shemitha Balan](https://open.spotify.com/artist/0mMfj4RosvfkM2v36QnSeu) | [Thaaram](https://open.spotify.com/album/3Tz4czE10QKNPgyEVBFEl3) | 3:27 |
 | 71 | [Mulchedi](https://open.spotify.com/track/1sHRRpWdvPmT1XQR3WEtMq) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [Mulchedi](https://open.spotify.com/album/1yqxit57iKEBkN13lZb7Oe) | 3:56 |
-| 72 | [BHAAVAM](https://open.spotify.com/track/0tbRl9AXpgaT8EQLmAEWdh) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [BHAAVAM](https://open.spotify.com/album/5Le5NUhFAZ65gKlxOSWe55) | 5:23 |
-| 73 | [Arutharuthu](https://open.spotify.com/track/2d40W8qyOzFRRlINyDZSwI) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/4RWpgYfWPwxuTlUnwpE18I) | 4:27 |
-| 74 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 |
-| 75 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 |
+| 72 | [Oru Mazhayude](https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Oru Mazhayude](https://open.spotify.com/album/6vit2xHQjwGBYo5wIUG4R8) | 3:00 |
+| 73 | [BHAAVAM](https://open.spotify.com/track/0tbRl9AXpgaT8EQLmAEWdh) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [BHAAVAM](https://open.spotify.com/album/5Le5NUhFAZ65gKlxOSWe55) | 5:23 |
+| 74 | [Arutharuthu](https://open.spotify.com/track/2d40W8qyOzFRRlINyDZSwI) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/4RWpgYfWPwxuTlUnwpE18I) | 4:27 |
+| 75 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 |
+| 76 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 |
 
-Snapshot ID: `aAo3CAAAAADIIe3FXMUi20HOE8xTtm/T`
+Snapshot ID: `aAsypAAAAAAIJ326mROtChOe6sMiWtYg`

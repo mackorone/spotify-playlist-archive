@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Lorde✨
 
-1,819 songs - 4 day 2 hr 15 min
+1,820 songs - 4 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1132,6 +1132,7 @@
 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 | 2023-03-30 | 2023-05-26 |
 | [not far from home](https://open.spotify.com/track/2xvQEblvw1zud9H6egIIu6) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [honey,](https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R) | 2:45 | 2024-11-21 | 2025-01-24 |
 | [Not Like This \(feat\. ZHU\)](https://open.spotify.com/track/4RNamHqD0iRXPqr2NNVJUs) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Not Like This \(feat\. ZHU\)](https://open.spotify.com/album/4tNAMvShlw1tTeIEND9TOm) | 3:26 | 2023-07-13 | 2023-08-04 |
+| [Not My Problem](https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Not My Problem](https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD) | 2:55 | 2025-04-24 |  |
 | [Not Puzzled](https://open.spotify.com/track/2nlxCjjmE46CRKlan1zWmv) | [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [Ceòl\-Mìn](https://open.spotify.com/artist/3KzLA61a8mXxalWPEzhOWv) | [Not Puzzled](https://open.spotify.com/album/7uAGlRfx37aJiwMpwVZr0n) | 3:39 | 2022-12-15 | 2023-02-03 |
 | [Not There](https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An) | 3:22 | 2022-11-03 | 2022-11-25 |
 | [Not Today](https://open.spotify.com/track/1SZsYBh7WbcGGt2gUT4vHx) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Not Today](https://open.spotify.com/album/3ox0xiZ6HzyaqJGIOtDQGA) | 2:32 | 2024-09-26 | 2024-10-04 |

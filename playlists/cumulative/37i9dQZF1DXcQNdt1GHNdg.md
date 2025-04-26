@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-207 songs - 10 hr 1 min
+208 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Jee La Leya](https://open.spotify.com/track/4IK66CIBMmtZ4mDpLzo4U6) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jee La Leya](https://open.spotify.com/album/4XBFEzjFChMDCkxSEPmo5x) | 2:55 | 2024-11-28 | 2024-12-11 |
 | [Jigra](https://open.spotify.com/track/4PlWvbhxBHxUbeAKyX5rVh) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:37 | 2023-07-18 | 2024-01-31 |
 | [Jinni Jatt Di](https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Jinni Jatt Di](https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0) | 2:42 | 2024-09-19 | 2024-10-09 |
+| [Kaim](https://open.spotify.com/track/0NTkmAMoSNWQ8cFVZEFrKB) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [I "M" Possible](https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43) | 3:03 | 2025-04-25 |  |
 | [Kanka De Ohle](https://open.spotify.com/track/04q9KIf4RgMyBHH5FmJIOU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/0umKWUtsijnA7OU35IxCxY) | 3:30 | 2024-10-08 | 2024-10-26 |
 | [Kdo'n Nachana](https://open.spotify.com/track/0l3ZWOShe5Mmkj4brGAi57) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Bhadauria](https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0) | 3:08 | 2024-12-03 | 2025-01-17 |
 | [Kehar](https://open.spotify.com/track/5G82r4EkL411mLie4ABcTc) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Kehar](https://open.spotify.com/album/5AmcI4eEVmB1VXWI59mLVP) | 1:43 | 2024-09-05 | 2024-09-17 |
@@ -167,7 +168,7 @@
 | [Ragde](https://open.spotify.com/track/6xLL74gaBomkzTvXmZLIEb) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Ragde](https://open.spotify.com/album/697aEI4GlUznHZeZYHT5ZQ) | 2:11 | 2024-06-10 | 2024-07-02 |
 | [Rank 1](https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:59 | 2023-07-18 | 2024-04-19 |
 | [Rank 1](https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Never Before](https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh) | 2:59 | 2024-04-06 | 2025-02-19 |
-| [Reckless](https://open.spotify.com/track/4nzpmVBjHny6Iw42ZO1AvL) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:38 | 2025-01-22 |  |
+| [Reckless](https://open.spotify.com/track/4nzpmVBjHny6Iw42ZO1AvL) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:38 | 2025-01-22 | 2025-04-26 |
 | [Revenge](https://open.spotify.com/track/7uSpLsbpnwk0XTC1nLlpG2) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Isajan](https://open.spotify.com/artist/1ZAwMkiDj1MgIGdtEjf0xv) | [Revenge](https://open.spotify.com/album/5BPoxXx4RiQ9jIV2XdA5Xg) | 2:55 | 2025-03-26 |  |
 | [Richie Rich](https://open.spotify.com/track/5OxAMzahUJ6vfpKe1sMSO4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [In Your Thoughts](https://open.spotify.com/album/6YAIfEP5AwiMV7pFt6gVGg) | 3:02 | 2024-08-23 | 2024-10-25 |
 | [RODE COLLEGE \- From "Rode College"](https://open.spotify.com/track/3YacK9PyNjxmYWkTDg4N1R) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Matte Ala](https://open.spotify.com/artist/7kFGiiWwaSc4lu1C22TH7a), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix) | [RODE COLLEGE \(From "Rode College"\)](https://open.spotify.com/album/1thGIzOKI2h1OLyQLN9RzB) | 2:52 | 2024-06-03 | 2024-06-11 |

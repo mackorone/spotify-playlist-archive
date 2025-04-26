@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "This is what folk sounds like en espa\u00f1ol. Cover: Kevin Kaarl",
+  "description": "This is what folk sounds like en espa\u00f1ol. Cover: Gonza Silva",
   "name": "Latin Folk",
   "tracks": [
     {
@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Luces de bengala",
+        "url": "https://open.spotify.com/album/40mdyXPVKvGinpTommcy3h"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165715,
+      "name": "Luces de bengala",
+      "url": "https://open.spotify.com/track/7F2wex0mYEbekHkmCuaUMy"
+    },
+    {
+      "album": {
         "name": "Luch\u00edn",
         "url": "https://open.spotify.com/album/2pz5K8WJlwSCMxpVNZHxRB"
       },
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 200447,
       "name": "Volver a El Salvador",
       "url": "https://open.spotify.com/track/4TKPRfKgv1t3pFD7lFNbxX"

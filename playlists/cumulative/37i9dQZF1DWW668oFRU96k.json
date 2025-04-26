@@ -15359,6 +15359,24 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/0j48s3GMXgFKipjhspoQyb"
+      },
+      "artists": [
+        {
+          "name": "Sofnn.",
+          "url": "https://open.spotify.com/artist/74cfytXyTcYRNjSTmfGJC7"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/6a3h9lyZUXS9E6uPGvpBgA"
+    },
+    {
+      "album": {
         "name": "So Sloppy Vol.1",
         "url": "https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41"
       },

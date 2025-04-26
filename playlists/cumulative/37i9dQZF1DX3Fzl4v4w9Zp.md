@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Julien Baker & TORRES
 
-782 songs - 2 day 0 hr 5 min
+785 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 | 2025-02-07 |  |
 | [Music City USA](https://open.spotify.com/track/5ihYhdTD821QxrVkb4OSAh) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Music City USA](https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY) | 3:02 | 2021-12-17 | 2022-05-14 |
 | [My Cleveland Heart](https://open.spotify.com/track/5V0XUXOFHrNckBWd0W43ii) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [My Cleveland Heart](https://open.spotify.com/album/0FeTw0ViiTbLogPSCEpCTG) | 3:20 | 2021-12-17 | 2022-06-04 |
+| [My Darling My Dear](https://open.spotify.com/track/74B59u2Q87CZ2IJFKirdpM) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [My Darling My Dear](https://open.spotify.com/album/2otFFJsMi2j3dG0pB1sUNI) | 3:58 | 2025-04-25 |  |
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2021-12-17 | 2023-02-18 |
 | [My House](https://open.spotify.com/track/1GK1suy5mFoPJ9mLDzGh1l) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [My House](https://open.spotify.com/album/7E9DaMnIXsxzZWRULufWh4) | 2:35 | 2024-01-12 | 2024-02-17 |
 | [My Sister in Jesus Christ](https://open.spotify.com/track/5SQgTu7aPw85eoknZtRRyT) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Crying, Laughing, Waving, Smiling](https://open.spotify.com/album/3ntym5POcjk2mOfZ2XNLte) | 3:53 | 2023-09-22 | 2024-02-24 |
@@ -527,6 +528,7 @@
 | [Problem](https://open.spotify.com/track/0F0ROYKhiZhAKioVBOoy8V) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Problem](https://open.spotify.com/album/1rf3nCQFBJgwNZMO66H4lz) | 3:54 | 2023-04-14 | 2024-03-02 |
 | [Problems](https://open.spotify.com/track/4WBs7J0btTQLsER9ouXW2I) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [In Plain Sight](https://open.spotify.com/album/1NqOgn6HZ66DjFPmkdtzgu) | 3:58 | 2022-02-22 | 2023-04-15 |
 | [Prodigal Daughter](https://open.spotify.com/track/6oNmOMYzjES85AH0EJ786u) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Prodigal Daughter](https://open.spotify.com/album/3UZahzjPGglQRjZQPaZEFZ) | 3:42 | 2021-12-17 | 2022-02-23 |
+| [Progress of Man \(Bitcoin & Cattle\)](https://open.spotify.com/track/5kyFUvN9MgbqyybaqkLC16) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Progress of Man \(Bitcoin & Cattle\)](https://open.spotify.com/album/22tFCbaKQln02zqGJSD4ui) | 4:05 | 2025-04-25 |  |
 | [Promise Rings](https://open.spotify.com/track/5JaHVcRCP2pBAYIes1VrjK) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 4:14 | 2022-05-13 | 2023-04-29 |
 | [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 | 2021-12-17 | 2022-12-03 |
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-07 | 2024-07-06 |
@@ -760,6 +762,7 @@
 | [Winter's Come and Gone \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:49 | 2023-11-17 | 2024-08-24 |
 | [Wise River](https://open.spotify.com/track/4vWyfagrb0TMBLrdm0ppT9) | [Kitchen Dwellers](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31) | [Wise River](https://open.spotify.com/album/6mO5zwMf0C8msEZSP8P05P) | 3:53 | 2022-02-04 | 2022-06-18 |
 | [Wish for You](https://open.spotify.com/track/3vcWkX0FKNN2bMuFVsSCVi) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Wish for You](https://open.spotify.com/album/0QgUjMT60yrIhWhEppXHkg) | 3:24 | 2022-01-21 | 2022-05-14 |
+| [Witness](https://open.spotify.com/track/0APSWmgckFsFCFiuaSgvsG) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Witness](https://open.spotify.com/album/4SsiVEBoXebdMlPizGEZHS) | 3:19 | 2025-04-25 |  |
 | [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 | 2023-11-17 | 2024-07-06 |
 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2023-12-15 | 2024-04-19 |
 | [Wonderland](https://open.spotify.com/track/7oFBgQjVnW81PX2ng3dbPX) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Wonderland](https://open.spotify.com/album/2eOMCujYnEq1BljEmyZJkB) | 3:34 | 2024-02-16 | 2025-02-26 |

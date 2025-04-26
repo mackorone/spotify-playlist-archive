@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-357 songs - 1 day 0 hr 38 min
+360 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Silkroad](https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [The Journey](https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2) | 4:33 | 2025-04-15 |  |
 | [Skip Step](https://open.spotify.com/track/76OCNJ5CEWrjtArdXpQGgg) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 3:04 | 2025-04-15 |  |
 | [Sleepless Nights](https://open.spotify.com/track/6w3uDPSOPNW0hQSDj7iZnn) | [Malia Laura](https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG) | [Love Over Tout](https://open.spotify.com/album/3D86dx7VuFstA1HlDcf8AD) | 3:36 | 2025-04-15 |  |
+| [Slice of Life](https://open.spotify.com/track/3185kLO1tTWITnTpb0cTF5) | [Larnell Lewis](https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U) | [Slice of Life](https://open.spotify.com/album/4Tk5zEdFgawVtTuSTtL2zu) | 5:14 | 2025-04-25 |  |
 | [Slow Burn](https://open.spotify.com/track/7MoxYLJ0lxygI69GaKUVtA) | [Alastair Greene](https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn) | [Standing out Loud](https://open.spotify.com/album/2x4DekzvgHQOVBCkxl4ArJ) | 2:48 | 2025-04-15 |  |
 | [Sonata](https://open.spotify.com/track/1HaxHt5z9IquVp2BZmJGam) | [Frank O'Sullivan](https://open.spotify.com/artist/3oFNtbR76HTFCPwO5QKEhZ) | [Sanctuary](https://open.spotify.com/album/2hMER1ulU7yHxnIS0Dhss4) | 2:56 | 2025-04-15 |  |
 | [Sonata](https://open.spotify.com/track/6Bz9i3Tgz78aXjls3EnX1O) | [Frank O'Sullivan](https://open.spotify.com/artist/3oFNtbR76HTFCPwO5QKEhZ) | [Act Three](https://open.spotify.com/album/4aX6rbXVRgSRZ8HSSukADD) | 2:56 | 2024-04-16 | 2025-04-16 |
@@ -328,7 +329,7 @@
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2025-04-15 |  |
 | [The Returner](https://open.spotify.com/track/4jYZSSA45xDLnQvIUConFB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/2rzetXorcdU2BH86aoqHmw) | 3:50 | 2025-04-15 |  |
 | [The Solitary Seeker](https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [The Solitary Seeker](https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN) | 6:08 | 2024-04-16 | 2025-04-16 |
-| [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/14XtWs8A52pLTz6YBvwKam) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T) | [The Sun Song \(Precious Energy\)](https://open.spotify.com/album/34CGlYugBENoeQ6eCvMdWV) | 4:15 | 2025-04-15 |  |
+| [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/14XtWs8A52pLTz6YBvwKam) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T), [Logan Butler](https://open.spotify.com/artist/7A57mikbdnFdDUWj0jEs6U), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv) | [The Sun Song \(Precious Energy\)](https://open.spotify.com/album/34CGlYugBENoeQ6eCvMdWV) | 4:15 | 2025-04-15 |  |
 | [the sun, the sky](https://open.spotify.com/track/1ExSoWvj4jMhVJdmre9lCV) | [Ambre Ciel](https://open.spotify.com/artist/33ZTmzZfwF05EqmpxweL2v) | [the sun, the sky](https://open.spotify.com/album/72PIcoYmLhakiFkp6lrFBg) | 5:12 | 2025-04-15 |  |
 | [The Tower](https://open.spotify.com/track/5tH2qe9ZNeIpto9dxk4ufx) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:36 | 2024-04-16 | 2025-04-16 |
 | [The Valley](https://open.spotify.com/track/4zY786ytjaoeTb2VGI1Jxs) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W) | [FO\(U\)RTH](https://open.spotify.com/album/6Mom4L0l4IAjZickevYnYK) | 4:45 | 2024-04-16 | 2025-04-16 |
@@ -347,6 +348,8 @@
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 | 2024-04-16 | 2025-04-16 |
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 3:58 | 2025-04-15 |  |
 | [Vagabond](https://open.spotify.com/track/0N2XjZD4UiRnEKM4I79FU2) | [Papagroove](https://open.spotify.com/artist/1GqYLGpfT909cmQ3HK4zL2) | [Y'annonce beau!](https://open.spotify.com/album/09b14GTE0hiudWqxXatnXi) | 5:47 | 2025-04-15 |  |
+| [Velours](https://open.spotify.com/track/6qelWJZgIv9woWtbOfrktP) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Métropole](https://open.spotify.com/album/6v9pAnvJZdoFK4A8xZC3Ui) | 4:16 | 2025-04-25 |  |
+| [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2025-04-25 |  |
 | [Walking Man](https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4) | [YAMA//SATO](https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1) | [Walking Man](https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd) | 3:04 | 2024-04-16 | 2025-04-16 |
 | [We Go Again](https://open.spotify.com/track/1wwNaXc795mdzPCeeK3zkp) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Intra\-I](https://open.spotify.com/album/6Px8YAjvVSlADuUJIF4DF6) | 4:22 | 2025-04-15 |  |
 | [Whatchu Say ?](https://open.spotify.com/track/7tQMicAWu1534kt3F3NaQp) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [INTRUSIVE THOUGHTS](https://open.spotify.com/album/0lotJjrNQNvyIyJpFUfivv) | 2:38 | 2025-04-15 |  |

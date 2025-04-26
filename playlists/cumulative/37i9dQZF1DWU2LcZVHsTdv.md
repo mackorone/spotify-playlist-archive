@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-274 songs - 16 hr 40 min
+275 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Church Pew](https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/7lWtYUVYwsWT7iTtOR192c) | 3:59 | 2023-07-14 |  |
 | [Churches and Bars](https://open.spotify.com/track/5rdrGT068PeZfY1J32mcDn) | [Bear Bailey](https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz) | [Churches and Bars](https://open.spotify.com/album/5TcFStrKOcmhxwrqihFBqa) | 3:18 | 2022-09-09 |  |
 | [Climb My Way to Heaven \(and Cory Asbury\)](https://open.spotify.com/track/0X6rZaz9IhOPsjLgDk3f5f) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Climb My Way to Heaven \(and Cory Asbury\)](https://open.spotify.com/album/09hZnQxjUy2LLL1oSMXpXx) | 3:25 | 2024-03-08 |  |
+| [Come Jesus Come](https://open.spotify.com/track/4vmQAoHIdNzaUp94XD62E9) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Come Jesus Come](https://open.spotify.com/album/6YKWF9Q2UyHEFBB1xctZLI) | 4:51 | 2025-04-25 |  |
 | [Country Boy's Prayer](https://open.spotify.com/track/2Pnw07JGKNZYta0UrHox5X) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:44 | 2022-08-26 |  |
 | [Cowboy Amen](https://open.spotify.com/track/59jOEV2zHNXIIDWxoJ20Bh) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Cowboy Amen](https://open.spotify.com/album/3UzARTHtTqFD3ffs4X2ToZ) | 2:44 | 2023-02-10 |  |
 | [Craig](https://open.spotify.com/track/6YmWSu43kuuKGoYYgHrb1r) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:10 | 2022-05-06 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-609 songs - 1 day 5 hr 38 min
+610 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Acessório de Cama](https://open.spotify.com/track/7lsyTf2VvkzFTOaY26FUKA) | [Matheus Lima](https://open.spotify.com/artist/0nBll0dWP4GryX3mruRjZT), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Todos os Ritmos](https://open.spotify.com/album/5m8AlhEt3oGMRjKz3WG0C0) | 3:25 | 2023-12-30 |  |
 | [Acompanhante de Luxo \- Ao Vivo](https://open.spotify.com/track/5GFZCIr6vpa2e6HG6DfY8p) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Acompanhante de Luxo \(Ao Vivo\)](https://open.spotify.com/album/6wMQT86L1sjHhQdjUJgdQx) | 2:42 | 2023-12-30 |  |
 | [Acorda Pra Não Chorar \- Ao Vivo](https://open.spotify.com/track/4zI5D90WOw3wxEaK999iCy) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83), [Laluna & Vinicius](https://open.spotify.com/artist/1Edy3ypdwcgzyekzwaPkMM) | [Em São Paulo \(Ao Vivo\)](https://open.spotify.com/album/1sevLY6jmhDMnK96HmkdgG) | 3:25 | 2023-12-30 | 2024-12-20 |
+| [Acorda pra Não Chorar \- Ao Vivo](https://open.spotify.com/track/1vMXpuUT7WPZSu6K8tS9e1) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83), [Laluna & Vinícius](https://open.spotify.com/artist/2jzKdpvOZIJmNVhdmJcy1H) | [Fátima Leão \(Ao Vivo\)](https://open.spotify.com/album/4aAAo4TMNKoNbJVI3WRBtC) | 3:26 | 2025-04-25 |  |
 | [Agora](https://open.spotify.com/track/6GIyHERNueurRclzAG3r0r) | [Pablo](https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK) | [É Só Dizer Que Sim](https://open.spotify.com/album/4KngrxmbT1fr7Tkdqo1Sei) | 3:36 | 2023-12-30 |  |
 | [Aguá na Boca](https://open.spotify.com/track/05Rd9b2AUzIHG4kr1cjQcl) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Na Batida do PPA](https://open.spotify.com/album/7faQ69cIPvlWgYKuEpNdaA) | 2:31 | 2023-12-30 |  |
 | [Ai Baby](https://open.spotify.com/track/1Amags7U4Uk2Udfl8C4MOK) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Ai Baby](https://open.spotify.com/album/1Tcar8g07UQZ2BdwKEgmFB) | 3:12 | 2023-12-30 |  |

@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-360 songs - 1 day 3 hr 7 min
+361 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Canción de Cuna](https://open.spotify.com/track/4RcDjycBOjdXrt11dT3lAD) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 5:28 | 2022-06-24 | 2023-10-07 |
 | [Canción de Cuna \(En Vivo en River 2018\)](https://open.spotify.com/track/7raRsE5GFPYG8vRMm9woXK) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 5:28 | 2022-04-01 | 2022-07-29 |
 | [Canción de Despedida \- En Vivo](https://open.spotify.com/track/4QyS8CrvzLGDkDfisZxRae) | [CAE](https://open.spotify.com/artist/1GC9IVqOiXNuWi7UYgPLgC) | [CAE Rocklover En Vivo en el Ópera](https://open.spotify.com/album/0ZuTVr3dZTjdfPjTnsBpwK) | 4:25 | 2022-06-10 | 2022-07-01 |
+| [Cangrejal \- En vivo en Buenos Aires](https://open.spotify.com/track/2MGdjlnJGR1Gs2YPMjZlG1) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Cangrejal \(En vivo en Buenos Aires\)](https://open.spotify.com/album/28v5ZhSGNumRiKXcCgwCXT) | 4:01 | 2025-04-25 |  |
 | [Capricho \(En Vivo Luna Park 2006\)](https://open.spotify.com/track/2w4RdnyrpxJA0xvVsZHInx) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Luces \(En Vivo Luna Park 2006\)](https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z) | 2:44 | 2022-04-01 | 2023-07-30 |
 | [Carismático \(En Vivo Luna Park 2006\)](https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Luces \(En Vivo Luna Park 2006\)](https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z) | 2:43 | 2022-04-01 |  |
 | [Carol \(En Vivo en el Hipódromo\)](https://open.spotify.com/track/5MUErlwfsEmFAVVKRVDzvF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Caballos de Noche Vivos en el Hipódromo](https://open.spotify.com/album/5PZyL6tp27t1ZXy86aO10w) | 3:15 | 2022-04-01 | 2022-07-28 |
@@ -102,7 +103,7 @@
 | [Desde Lejos No Se Ve \- En Vivo](https://open.spotify.com/track/0dQnYqZuIFrj3Sn38Fjg7Q) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve](https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz) | 3:56 | 2023-12-22 | 2024-04-19 |
 | [Desde Lejos No Se Ve \- En Vivo](https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 3:56 | 2022-04-01 | 2024-01-04 |
 | [Desde Lejos No Se Ve \- En Vivo en River 2018](https://open.spotify.com/track/55O0ykD2QyWj5TZwG2VJuT) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Rz8GNFfkBkWauaPRK8QPw) | 4:10 | 2022-04-01 | 2022-07-23 |
-| [Difícil De Entender \- En Vivo](https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Difícil De Entender \(En Vivo\)](https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8) | 5:38 | 2024-03-21 |  |
+| [Difícil De Entender \- En Vivo](https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Difícil De Entender \(En Vivo\)](https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8) | 5:38 | 2024-03-21 | 2025-04-26 |
 | [Donde Vamos](https://open.spotify.com/track/2s4FbgZH1PS2c6DawiE6up) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Mancha 360](https://open.spotify.com/album/4lmRIta1CJWESEv4EA9laV) | 4:42 | 2022-04-01 | 2022-07-28 |
 | [Dorado y Púrpura \- En Vivo](https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [En Vivo En El Emergente 02.06.2023](https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl) | 10:17 | 2023-08-31 | 2024-08-16 |
 | [Déjate Llevar \- En Vivo](https://open.spotify.com/track/6NmBulAzho0LziJ7uWND7q) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Una Noche de Rock en Medallo \(En Vivo\)](https://open.spotify.com/album/3D9lOWSIxUG37alYDOACB3) | 3:46 | 2022-06-24 | 2022-07-29 |

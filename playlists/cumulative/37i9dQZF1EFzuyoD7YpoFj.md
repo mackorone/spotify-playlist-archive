@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-440 songs - 23 hr 26 min
+441 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [The Law](https://open.spotify.com/track/2BmUV89Lac3uczBg7jRWmj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 3:48 | 2024-07-24 |  |
 | [The Laziest Gal In Town](https://open.spotify.com/track/6ANXBK3HVFEnBjw0UqjrwH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Broadway\-Blues\-Ballads](https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J) | 2:16 | 2024-07-24 |  |
 | [The Leader Of A Big\-Time Band](https://open.spotify.com/track/06XUS485sSCfjXvti3Jp4C) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Empire Brass](https://open.spotify.com/artist/5fFFbl2ufejefn1aJZox5z) | [Empire Brass In Japan \(Live at Hitomi Commemoration Auditorium, 1986\)](https://open.spotify.com/album/3CshDhCfmThWIrQA3YKrlL) | 1:48 | 2024-07-24 |  |
+| [The New Yorkers: Love for Sale](https://open.spotify.com/track/7mznEsmnTKFMNoN1604nlf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn), [Jean\-Louis Rassinfosse](https://open.spotify.com/artist/50m2KVom2r1LcmDxWWkieg) | [Baker, Chet: Sesjun Radio Shows](https://open.spotify.com/album/6nt4IeZbGAR0EkI4148hCS) | 12:11 | 2025-04-25 |  |
 | [The Ritz Roll and Rock](https://open.spotify.com/track/1gu0OMIllqEM8ozrzyJ6Ty) | [Fred Astaire \(performer\), The MGM Studio Chorus](https://open.spotify.com/artist/5WJ0grrC4TlglvEZQoZaFJ) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 3:35 | 2024-07-24 |  |
 | [The Tale of an Oyster \(From "Fifty Million Frenchmen"\) \[Live\]](https://open.spotify.com/track/4NQPcdtIHVPQzrPgPsVcmF) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Sophie Daneman](https://open.spotify.com/artist/3RdfskyRcHeTULV9IrH6FG), [Julius Drake](https://open.spotify.com/artist/3uCTdq9rOnPCAlJMc4OzGn) | [Oxford Lieder Live](https://open.spotify.com/album/52DNvh2nPnpIu9nWbOzS0c) | 3:15 | 2024-07-24 |  |
 | [The Tale of the Oyster](https://open.spotify.com/track/1unklhCEg2sOraisyjedC5) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Sarah Fox](https://open.spotify.com/artist/1IuNnayUYZdbclZTLqdijS), [James Burton](https://open.spotify.com/artist/2RAajwxQybgx0iIibcGHLo) | [The Cole Porter Songbook](https://open.spotify.com/album/6PNkhsKP6u3qreme9ZFPGJ) | 2:56 | 2024-07-24 |  |

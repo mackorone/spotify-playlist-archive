@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,782 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,784 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 | 59 | [Any song](https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Any song](https://open.spotify.com/album/7LYZM7I172wUjIKjCnxuAQ) | 3:47 |
 | 60 | [Deviation](https://open.spotify.com/track/6GmhZmhssEDCW9gSC6oDqz) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Purple Heart](https://open.spotify.com/album/50zXa5ZUy6undYjdVKUSSS) | 4:02 |
 | 61 | [HANGANG](https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [HANGANG](https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg) | 3:20 |
-| 62 | [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 |
+| 62 | [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 |
 | 63 | [Curated by Park Sung Hoon](https://open.spotify.com/track/0rk3oatAupEjST9I94Qgmd) | [Not Others](https://open.spotify.com/artist/7gAFa9eIYVgs5KTKXYl7BW) | [Not Others audio liners](https://open.spotify.com/album/142it3I6v0EUt97ZUbxPMr) | 0:53 |
 | 64 | [Try](https://open.spotify.com/track/221PQiYwFVxVWvY1kpYhtN) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [1/24](https://open.spotify.com/album/5gcChxYyrOXbI27SVjreej) | 4:23 |
 | 65 | [출국](https://open.spotify.com/track/2VSFXn3CvX3ZJXeJEkalHC) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [다중인격자](https://open.spotify.com/album/3AYmdPL0hv4zDfVj1uZ55t) | 4:34 |

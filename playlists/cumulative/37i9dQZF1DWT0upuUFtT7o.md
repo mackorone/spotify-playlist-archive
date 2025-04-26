@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Fib
 
-3,168 songs - 7 day 7 hr 6 min
+3,169 songs - 7 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1343,6 +1343,7 @@
 | [I Thought I Could Be Alone](https://open.spotify.com/track/6AeN6ulWEY8j83QpypLFMF) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [I Thought I Could Be Alone](https://open.spotify.com/album/6fl6DiBDOurxqWj3Yo9Co4) | 4:40 | 2023-06-21 | 2023-07-26 |
 | [I Used To](https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC) | [Cdubz](https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH) | [I Used To](https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR) | 3:06 | 2025-02-12 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2021-12-01 | 2022-01-13 |
+| [i wanna](https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [i wanna](https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i) | 2:19 | 2025-04-25 |  |
 | [I Wanna Feel Good Naked](https://open.spotify.com/track/0FFp3UtslIjNPY1Z8VBTEy) | [Ava Beathard](https://open.spotify.com/artist/7hwnSMEIzb8Ry5i69tubcu) | [I Wanna Feel Good Naked](https://open.spotify.com/album/0w9rQWBLFuXrfrlpSyqRYY) | 3:46 | 2023-05-10 | 2023-06-15 |
 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 | 2025-02-26 |  |
 | [I want it bad](https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I want it bad](https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1) | 2:32 | 2023-04-19 | 2023-05-31 |

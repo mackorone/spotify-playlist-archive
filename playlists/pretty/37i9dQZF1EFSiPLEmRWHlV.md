@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 103 | [All I Need](https://open.spotify.com/track/4JNfSaTt2RgXddGPjLvS87) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [All I Need](https://open.spotify.com/album/5ayP5H34Jl6fvr1kIUqLl2) | 3:34 |
 | 104 | [You Could Be The One](https://open.spotify.com/track/0VOL1UznKwKTTbAqNsG3pM) | [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Extrapolate EP](https://open.spotify.com/album/3g9sgL0uyNptqTgNowIF3R) | 3:15 |
 | 105 | [Tell Me Where](https://open.spotify.com/track/338rDlKC6cSQ1hT3scDyrK) | [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [Puzzles](https://open.spotify.com/album/2tRCZOp6egFlp7ZINBNuaW) | 3:55 |
-| 106 | [Faith In You](https://open.spotify.com/track/0LAcW6CIofoZO6s7mL9ziT) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Faith In You & It Ain’t Over](https://open.spotify.com/album/3erx7l9SWRzrMlh9GVBGr9) | 3:12 |
-| 107 | [Right Direction](https://open.spotify.com/track/0thgGzOsrXtd4LvmbvOyx4) | [Gok Wan](https://open.spotify.com/artist/6QZpNKFFfeDnT0mC2yxszE) | [Right Direction](https://open.spotify.com/album/0SjCHCGfMup38P8YhMQPOS) | 3:34 |
+| 106 | [Right Direction](https://open.spotify.com/track/0thgGzOsrXtd4LvmbvOyx4) | [Gok Wan](https://open.spotify.com/artist/6QZpNKFFfeDnT0mC2yxszE) | [Right Direction](https://open.spotify.com/album/0SjCHCGfMup38P8YhMQPOS) | 3:34 |
+| 107 | [Faith In You](https://open.spotify.com/track/0LAcW6CIofoZO6s7mL9ziT) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Faith In You & It Ain’t Over](https://open.spotify.com/album/3erx7l9SWRzrMlh9GVBGr9) | 3:12 |
 | 108 | [Forever](https://open.spotify.com/track/6nMvkTsBjuShwRbLcgVwwE) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:18 |
 | 109 | [Forever](https://open.spotify.com/track/3AiyGGOgTyx6QmzQUrXJeO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Forever](https://open.spotify.com/album/1t96mIM5YRX4sowjHXRt9I) | 2:53 |
 | 110 | [When the Night Is Over](https://open.spotify.com/track/3u5JhMHnFrkNlROhDYgqSP) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:37 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 130 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 131 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AbvqlQAAAACSlw6DaJyVsdzZniEvvxR1`
+Snapshot ID: `AbvwNAAAAABS+UMljoBRsSUgns6WVZMA`

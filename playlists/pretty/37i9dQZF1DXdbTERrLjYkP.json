@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: ALINA",
-  "num_followers": 217968,
+  "num_followers": 217983,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAKyfAAAAAAtJamoFI7ruDZYXB5/+XkN",
+  "snapshot_id": "aAsI5gAAAADWo+EVSORbdsaTl5+Ez6Bb",
   "tracks": [
     {
       "added_at": "2025-04-14 17:52:38",
@@ -23,6 +23,38 @@
       "duration_ms": 202226,
       "name": "i know, i know, i know",
       "url": "https://open.spotify.com/track/3HXGdQXb9XTDD1IqFWkSNc"
+    },
+    {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "Dead to Me",
+        "url": "https://open.spotify.com/album/6woedm7sddInNxQnBUkpl3"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "duration_ms": 245750,
+      "name": "Dead to Me",
+      "url": "https://open.spotify.com/track/5wU0L66juJ5gq71LUOux37"
+    },
+    {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "Never Rains in London",
+        "url": "https://open.spotify.com/album/5pNPyd0822zHgeSXCEQfaB"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "duration_ms": 142594,
+      "name": "Never Rains in London",
+      "url": "https://open.spotify.com/track/79dary3nhptdWjD33KnHLg"
     },
     {
       "added_at": "2025-04-18 04:00:56",
@@ -439,22 +471,6 @@
       "duration_ms": 216133,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l"
-    },
-    {
-      "added_at": "2025-03-07 05:00:33",
-      "album": {
-        "name": "think about it",
-        "url": "https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "think about it",
-      "url": "https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW"
     },
     {
       "added_at": "2025-03-07 05:00:33",
@@ -923,22 +939,6 @@
       "duration_ms": 212021,
       "name": "The Alchemist",
       "url": "https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2tCI9Q09eijRBaqiVF2M7e"
-      },
-      "artists": [
-        {
-          "name": "LDYA",
-          "url": "https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c"
-        }
-      ],
-      "duration_ms": 160754,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2IyLA43MRICilLudwDPgBz"
     },
     {
       "added_at": "2024-12-13 05:00:37",

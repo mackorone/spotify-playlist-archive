@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "Belt it out. Cover: Nichelle Lewis in The Wiz",
+  "description": "Belt it out. Cover: Audra McDonald in \"Gypsy\"",
   "name": "Broadway Belts",
   "tracks": [
     {
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 410600,
       "name": "One Second and a Million Miles",
       "url": "https://open.spotify.com/track/3UQKDBuIhaCSkRzFyB43Ph"
@@ -1304,6 +1304,28 @@
       "duration_ms": 209186,
       "name": "River Deep - Mountain High",
       "url": "https://open.spotify.com/track/2YfGw6FHk2pzQJ3mxNi9sI"
+    },
+    {
+      "album": {
+        "name": "Gypsy Starring Audra McDonald (2024 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5PA6UdeWgZ5B3308hc7X0S"
+      },
+      "artists": [
+        {
+          "name": "Audra McDonald",
+          "url": "https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli"
+        },
+        {
+          "name": "Gypsy 2024 Broadway Company",
+          "url": "https://open.spotify.com/artist/026ZtmUJxea729DcQpyMTC"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305597,
+      "name": "Rose's Turn",
+      "url": "https://open.spotify.com/track/0VCqanO64Shc6RKBCuPfr1"
     },
     {
       "album": {

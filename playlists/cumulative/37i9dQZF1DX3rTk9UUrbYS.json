@@ -836,7 +836,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 455232,
       "name": "Chapter VIII",
       "url": "https://open.spotify.com/track/7pQb6gNEWKQTppuWczIDyk"
@@ -1654,6 +1654,28 @@
       "duration_ms": 383500,
       "name": "Hog's Grease",
       "url": "https://open.spotify.com/track/2l5vthaApfEQRVvbKgUjWw"
+    },
+    {
+      "album": {
+        "name": "Homage",
+        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480251,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/06pig4VFnQNUsJ1C8TjkEP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: LHARA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,732 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,741 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 39 | [AL LAO MÍA](https://open.spotify.com/track/67JXyo8hpBWIgaTRz90gru) | [Benja](https://open.spotify.com/artist/4sOxGIPiUAHzWv2mfZCmAq) | [AL LAO MÍA](https://open.spotify.com/album/3tNTeFFfEQ1n57Nen0wwqX) | 3:10 |
 | 40 | [VOLANDO \(el daddy de mis issues\)](https://open.spotify.com/track/4XVpdASi1ntHRwijZq2tUb) | [Kadriana Massri](https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz) | [VOLANDO \(el daddy de mis issues\)](https://open.spotify.com/album/3TyF6OaGtpvcUg8Scjw7OY) | 3:02 |
 | 41 | [DAME LOVE](https://open.spotify.com/track/4EExxmhQMn8AglZk0Ga62s) | [Luques](https://open.spotify.com/artist/1vylSGSaqmyZkj3Ci4TFR6), [marta pardo](https://open.spotify.com/artist/7pjnPT6y5HImwLfstxW5iQ), [Salty3r](https://open.spotify.com/artist/2xMf3T0fvZXJ6EGZimtWdv) | [DAME LOVE](https://open.spotify.com/album/79Lb9ZhouuAhgYPZwbhrNd) | 2:05 |
-| 42 | [ON MY MIND](https://open.spotify.com/track/3jBkOvOBf1STmgqyDxszab) | [Ana Ruiz](https://open.spotify.com/artist/54ZoJKNSqlR07LKYPixZxu), [Elio P](https://open.spotify.com/artist/5Y6fAohN31HeUaX2ARj1UN) | [ON MY MIND](https://open.spotify.com/album/0AypVi5GrgKNW6Rh1PeUDA) | 3:54 |
+| 42 | [ON MY MIND](https://open.spotify.com/track/3jBkOvOBf1STmgqyDxszab) | [Ana Ruiz](https://open.spotify.com/artist/54ZoJKNSqlR07LKYPixZxu), [Elio P](https://open.spotify.com/artist/0eFzMQkgfJBEEpWBpmk1EB) | [ON MY MIND](https://open.spotify.com/album/0AypVi5GrgKNW6Rh1PeUDA) | 3:54 |
 | 43 | [Cena de Vaso](https://open.spotify.com/track/3AZo2K0yODK6yQmZNw7jMv) | [Los Mecha Corta](https://open.spotify.com/artist/42At2Pog9LK2IRvqd5uW1P) | [Haciendo Ruido](https://open.spotify.com/album/3x3Laj9EpWUakCEyYfvmde) | 4:04 |
 | 44 | [El bucle](https://open.spotify.com/track/0PBR3Gfcr2lIONazIqPtUO) | [Señor Pi](https://open.spotify.com/artist/0yNUkQVMuQ0ZJF0QAJPsTn) | [El bucle](https://open.spotify.com/album/4oi2cW16RrFhuYXNmBa4uH) | 3:08 |
 | 45 | [Frío](https://open.spotify.com/track/01M7syZsD5jKzxvRwkGbr7) | [Junuh](https://open.spotify.com/artist/3jk18pWbnjYScL2kKHYmv5) | [Frío](https://open.spotify.com/album/2Az9VtMDyaEzw5ijdJ3mtC) | 2:30 |

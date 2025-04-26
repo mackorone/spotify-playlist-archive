@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Ares.
 
-876 songs - 1 day 17 hr 41 min
+877 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Dice](https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Dice](https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk) | 3:00 | 2024-09-12 | 2024-10-18 |
 | [Digimon \(feat\. FUGE\)](https://open.spotify.com/track/13egElvTPEVqqYuQINluzd) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Digimon \(feat\. FUGE\)](https://open.spotify.com/album/5GMrG4vtOB5hX7y0gRlKEH) | 2:34 | 2025-03-20 | 2025-03-28 |
 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 | 2024-11-14 | 2025-02-28 |
-| [DJ \(feat\. SomBadi\)](https://open.spotify.com/track/2gy7wfMimlYzMUWwWCX1iy) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo), [SomBadi](https://open.spotify.com/artist/1j0UMs2eqsn464CiW1odZk) | [DJ \(feat\. SomBadi\)](https://open.spotify.com/album/3U9UiGjikFNlRFjtkF6MF1) | 2:38 | 2025-03-06 |  |
+| [DJ \(feat\. SomBadi\)](https://open.spotify.com/track/2gy7wfMimlYzMUWwWCX1iy) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo), [SomBadi](https://open.spotify.com/artist/1j0UMs2eqsn464CiW1odZk) | [DJ \(feat\. SomBadi\)](https://open.spotify.com/album/3U9UiGjikFNlRFjtkF6MF1) | 2:38 | 2025-03-06 | 2025-04-26 |
 | [DNA](https://open.spotify.com/track/3pcwjQGRMsc9Q1zX0BQ2z2) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [DNA](https://open.spotify.com/album/2BD6tw7q1we7e7uleDNIK9) | 2:40 | 2023-11-09 | 2024-02-23 |
 | [Do This For Fun](https://open.spotify.com/track/1Wq1XDIOOqtnIp8s4jN85u) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Do This For Fun](https://open.spotify.com/album/2ISKOwa9s4B9Ul1uzzmtae) | 2:36 | 2024-02-09 | 2024-03-15 |
 | [Down With Me](https://open.spotify.com/track/19jIH6vZtyZU96Azs9Y6oT) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Down With Me](https://open.spotify.com/album/2U7oD3b2tWUfWyZ7OFfAHA) | 3:06 | 2023-11-23 | 2023-12-15 |
@@ -130,6 +130,7 @@
 | [Ei ne vaa, miten ne vois?](https://open.spotify.com/track/4e3rLsc7MVJrW8szRcvd9i) | [Valentin](https://open.spotify.com/artist/2U0XZostSwDFbAltZ59Liz), [MICO](https://open.spotify.com/artist/5iFl2NzO1jhazisWe6Xczl), [Gracias](https://open.spotify.com/artist/2GRNS6DnefxBzYSZXDc6ij) | [Lowtti](https://open.spotify.com/album/0Bjex2YIeQEspVwiP0nR2C) | 3:24 | 2024-03-21 | 2024-04-05 |
 | [Ei Oo Easy Living](https://open.spotify.com/track/2WVN7hfbdBXZwDleh2AA7k) | [Matara](https://open.spotify.com/artist/5REEWLr2Pv2JBoXUkVbM9M), [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9), [One Ghost](https://open.spotify.com/artist/21Fx9f6WDNgeDawEM238YE) | [Ei Oo Easy Living](https://open.spotify.com/album/7gZT25WGbU26DLuyQ9AVpS) | 3:22 | 2024-02-29 | 2024-03-08 |
 | [Ei oo enää meit](https://open.spotify.com/track/46bqUeYsiyYED0DSKNGFQd) | [BIMI](https://open.spotify.com/artist/5o5lDAHXkNPWOLEjDzLoka) | [Ei oo enää meit](https://open.spotify.com/album/5x0z3cHrgrw4dxAFcu59JJ) | 3:07 | 2023-11-09 | 2023-11-24 |
+| [Ei Rakkaut](https://open.spotify.com/track/1kWFPp9sMxfKNobdlebdRW) | [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Ei Rakkaut](https://open.spotify.com/album/2ke0tkFzyeuBMpuUenWGLg) | 3:08 | 2025-04-25 |  |
 | [Ei tipu \- Legacy RMX](https://open.spotify.com/track/5zQE5aCCp57GwTPngvf9AX) | [SOFA](https://open.spotify.com/artist/3m4Gp2fnwvV3LfYC2xhCvu), [satu](https://open.spotify.com/artist/0fvfbRyjT4wCwKmn2n9FDx), [Valma](https://open.spotify.com/artist/1ihObRKW6VPnFqCbZ3kBzi), [Adikia](https://open.spotify.com/artist/7K6DxJUiPwbMtWkantnPRz), [Mon\-Sala](https://open.spotify.com/artist/563RJHQJRgjoBBSehPAY5Q), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Ei tipu \(Legacy RMX\)](https://open.spotify.com/album/5oJshg3rJ2Nj1NuIxA4oA2) | 2:42 | 2023-11-16 | 2023-12-01 |
 | [Ei tänää](https://open.spotify.com/track/2HoMv4IByvh1vpWzlWgm16) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [NEVERSELLOUT](https://open.spotify.com/album/0bMpFBfJWWVb3t8vIw2h44) | 2:03 | 2024-10-17 | 2024-12-06 |
 | [Ei!](https://open.spotify.com/track/3HpnuengHvZaMsBU5Yw7AP) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Ei!](https://open.spotify.com/album/2ia9QcMBPOgnxkgDMVz0ZJ) | 2:32 | 2024-03-21 | 2024-04-26 |

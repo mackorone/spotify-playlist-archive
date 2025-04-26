@@ -4757,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1jtleXgBwqCJGqWBPorJgX"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158452,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/7LgljzzT4CGyJ7Fv8qwWJO"
+    },
+    {
+      "album": {
         "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
         "url": "https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44"
       },
@@ -6394,6 +6412,32 @@
       "duration_ms": 211240,
       "name": "Transcending",
       "url": "https://open.spotify.com/track/0sQrvjaZYDi3uZmi6mY1hO"
+    },
+    {
+      "album": {
+        "name": "Women",
+        "url": "https://open.spotify.com/album/1shDfOdDsRt71G51CmNsod"
+      },
+      "artists": [
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Vienna Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2nJZffRcm3WDa74FSkYYOb"
+        },
+        {
+          "name": "Irene Delgado-Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241183,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/0w8AtUiGnz0Khf5AZOPLu4"
     },
     {
       "album": {

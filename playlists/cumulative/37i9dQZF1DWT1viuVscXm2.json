@@ -3005,6 +3005,28 @@
     },
     {
       "album": {
+        "name": "La Guerra",
+        "url": "https://open.spotify.com/album/2krMcCgoXgCWVUVF5F2VNk"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121370,
+      "name": "La Guerra",
+      "url": "https://open.spotify.com/track/4qdch3FXFL4IEoDwAgswKV"
+    },
+    {
+      "album": {
         "name": "La Luna y T\u00fa",
         "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
       },

@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-330 songs - 21 hr 5 min
+331 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 | 2022-09-08 | 2023-03-03 |
 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 | 2022-06-09 |  |
 | [El Breve Espacio en Que No Estas](https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Querido Pablo](https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh) | 4:02 | 2022-06-09 |  |
+| [El Desdén](https://open.spotify.com/track/4vkOSMwNg0GQLDFykvcFbQ) | [Santiago Auserón](https://open.spotify.com/artist/1QnWFj4XbwMBRss56Jk63W), [Vaggelis Tzeretas](https://open.spotify.com/artist/6NujmW4jK0unbe2q9sqSke), [Thodoris Karellas](https://open.spotify.com/artist/6Ttiu9jWHoeUf8BjSqvURL) | [El Desdén](https://open.spotify.com/album/1F4xb7hf7pexnzmxeNbIbH) | 3:29 | 2025-04-25 |  |
 | [El Hilo Rojo](https://open.spotify.com/track/05m3jXQci3RgN2DzWrPeNy) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [El Hilo Rojo](https://open.spotify.com/album/4SF1Z5cqPSf14wrsKUWRoi) | 3:22 | 2023-11-08 | 2024-01-20 |
 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 | 2022-06-09 |  |
 | [El Mar](https://open.spotify.com/track/6PHcN9K5GQE5BZEsHz7eze) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [El Mar](https://open.spotify.com/album/1AM8igySA38ynWhzHNy38X) | 3:59 | 2023-04-20 | 2023-06-25 |
@@ -136,7 +137,7 @@
 | [Interludio para mi Julita](https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Interludio para mi Julita](https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH) | 1:29 | 2023-08-10 | 2023-09-15 |
 | [Isla Mujeres](https://open.spotify.com/track/18uARsQnALp0MbkEXbR99v) | [Javier Ruibal](https://open.spotify.com/artist/2BGKgfF1cNY6KyfTfS3sVE) | [Las Damas Primero](https://open.spotify.com/album/4kg5YpAPT65X9ci6QVQl5t) | 4:46 | 2022-06-09 | 2022-07-28 |
 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 | 2022-06-30 | 2022-09-15 |
-| [L'estaca](https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa) | [Lluis Llach](https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0) | [Les Seves Primeres Cançons](https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke) | 2:24 | 2024-05-21 |  |
+| [L'estaca](https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa) | [Lluis Llach](https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0) | [Les Seves Primeres Cançons](https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke) | 2:24 | 2024-05-21 | 2025-04-26 |
 | [La Belleza](https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:53 | 2022-06-09 | 2025-04-23 |
 | [La Cara Amable del Mundo](https://open.spotify.com/track/5Ay3mcEIMGxYIIerQtO3Sh) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Abrazo](https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18) | 3:58 | 2024-04-25 | 2024-10-04 |
 | [la corriente](https://open.spotify.com/track/3wFJRE20CNfzL0CqRj45Vn) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 2:55 | 2022-06-09 | 2022-07-29 |

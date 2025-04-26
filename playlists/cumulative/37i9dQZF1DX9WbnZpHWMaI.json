@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "2011",
+        "url": "https://open.spotify.com/album/2BAazPbKqWC2V8HbcINUdg"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269583,
+      "name": "2011",
+      "url": "https://open.spotify.com/track/1yR8bzEUw1hNCwdl0oXXWV"
+    },
+    {
+      "album": {
         "name": "24 Hours in Paris - Miranda\u2019s Version",
         "url": "https://open.spotify.com/album/2HWi3HtsNZ6kJw8P8vUSIe"
       },
@@ -1785,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Contorted",
+        "url": "https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Contorted",
+      "url": "https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/3jnpd2ZYm4g1uSiOsJPSVZ"
       },
@@ -2700,7 +2736,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 140625,
       "name": "Everywhere (I wanna be with you)",
       "url": "https://open.spotify.com/track/2lh1prYnrU9tL843C6rzSq"
@@ -3571,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "FTRW!",
+        "url": "https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251322,
+      "name": "FTRW!",
+      "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
+    },
+    {
+      "album": {
         "name": "Full Speed (feat. Aviella)",
         "url": "https://open.spotify.com/album/1go08O7spIyibPNIb3lGF4"
       },
@@ -4088,7 +4142,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 169846,
       "name": "Grindhouse",
       "url": "https://open.spotify.com/track/7ewecejRd83t9kq8gJEuPS"
@@ -4132,6 +4186,28 @@
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
+        "name": "Gums (feat. Glitch Gum)",
+        "url": "https://open.spotify.com/album/7IUhFAO0XSgRcl6IGGD5Ol"
+      },
+      "artists": [
+        {
+          "name": "Cosette",
+          "url": "https://open.spotify.com/artist/0bwL6Ymce4gQ5uIxNSryAf"
+        },
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213854,
+      "name": "Gums (feat. Glitch Gum)",
+      "url": "https://open.spotify.com/track/6P2XSKXSn0r5pajy8hfJaX"
     },
     {
       "album": {
@@ -5390,7 +5466,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 212926,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2oKFozpMCSlgRUgzI63TlZ"
@@ -9902,7 +9978,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 170769,
       "name": "True Religion",
       "url": "https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M"

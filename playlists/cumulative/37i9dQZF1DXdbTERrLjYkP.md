@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: ALINA
 
-846 songs - 1 day 21 hr 14 min
+848 songs - 1 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 | 2022-07-08 | 2023-04-09 |
 | [Days and Dimes](https://open.spotify.com/track/2ZBbTaqtCYpfnhERuNBRv9) | [Todd Lewis Kramer](https://open.spotify.com/artist/1gzDIi8maUpe3aJ2XTZFIJ) | [Days and Dimes](https://open.spotify.com/album/46fF7PxBuHkvxYiishoI93) | 3:52 | 2023-11-10 | 2024-02-03 |
 | [days i've cried this year](https://open.spotify.com/track/40adPYtUTFHUUrJMn6IovJ) | [priyana](https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ) | [days i've cried this year](https://open.spotify.com/album/35Tf51SMXwuBH6ruqtLvmj) | 4:10 | 2024-09-27 | 2025-03-15 |
+| [Dead to Me](https://open.spotify.com/track/5wU0L66juJ5gq71LUOux37) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Dead to Me](https://open.spotify.com/album/6woedm7sddInNxQnBUkpl3) | 4:05 | 2025-04-25 |  |
 | [Dear Conformity](https://open.spotify.com/track/5ZVhUnbjXkhod15W9lYkLn) | [Lorelei Marcell](https://open.spotify.com/artist/3JUdBypm7CxRBcQRdTucgK) | [Dear Conformity](https://open.spotify.com/album/1xlJNntrxa4SvCGhRsfPwz) | 3:17 | 2024-05-31 | 2024-12-14 |
 | [December](https://open.spotify.com/track/5auXfNefGlbDshn2LRddWx) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [December](https://open.spotify.com/album/2fFk1GSqpz5w34ffUWShRN) | 2:21 | 2022-12-23 | 2023-04-01 |
 | [DECLINED](https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [DECLINED](https://open.spotify.com/album/0BVDq72SfkUvDv11NuLyHP) | 4:16 | 2022-04-29 | 2022-10-29 |
@@ -331,7 +332,7 @@
 | [Holding You](https://open.spotify.com/track/4usJx7T935Bw61ALK915Xe) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY) | [Holding You](https://open.spotify.com/album/7u0hcPOpSjU77LF7xDC3pH) | 2:51 | 2023-02-24 | 2023-08-12 |
 | [Holy Place](https://open.spotify.com/track/4hXkYDNE8j7JCJG3gzZD4C) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [Holy Place](https://open.spotify.com/album/0CkxO3XjDHito2dkzS6kxn) | 3:02 | 2023-04-28 | 2023-08-19 |
 | [Home](https://open.spotify.com/track/3TvT76690Fsqbdnx2uzOB3) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Home](https://open.spotify.com/album/1rBYvlZe1eyLbpJLYnRcCO) | 3:27 | 2024-12-13 | 2025-04-19 |
-| [Home](https://open.spotify.com/track/2IyLA43MRICilLudwDPgBz) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Home](https://open.spotify.com/album/2tCI9Q09eijRBaqiVF2M7e) | 2:40 | 2024-12-20 |  |
+| [Home](https://open.spotify.com/track/2IyLA43MRICilLudwDPgBz) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Home](https://open.spotify.com/album/2tCI9Q09eijRBaqiVF2M7e) | 2:40 | 2024-12-20 | 2025-04-26 |
 | [Hope Is a Scary Thing](https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Hope Is a Scary Thing](https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu) | 2:48 | 2024-04-26 | 2024-10-19 |
 | [hope ur doing good](https://open.spotify.com/track/5Se5rp7mZFuAa3zMTYn6Lc) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [the way i see it](https://open.spotify.com/album/18T0b0AmEnzfzvOtuXzXv9) | 3:25 | 2022-11-18 | 2023-01-21 |
 | [Hope You're Well](https://open.spotify.com/track/6EyNnSOJY4KgAU1cxqQDO8) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Hope You're Well](https://open.spotify.com/album/4Cp8eaPfgMH2VAyZrCznkZ) | 3:28 | 2022-11-04 | 2023-02-04 |
@@ -540,6 +541,7 @@
 | [NEED ME](https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [NEED ME](https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus) | 3:43 | 2024-05-24 | 2024-08-03 |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-06-23 |
 | [Never Knew](https://open.spotify.com/track/00yBeMYfB9QGKN1GdvtBqQ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Never Knew](https://open.spotify.com/album/0QJBhVPWMLTwLu3tOMDTuP) | 2:42 | 2024-11-01 | 2025-04-05 |
+| [Never Rains in London](https://open.spotify.com/track/79dary3nhptdWjD33KnHLg) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Never Rains in London](https://open.spotify.com/album/5pNPyd0822zHgeSXCEQfaB) | 2:22 | 2025-04-25 |  |
 | [New Friend](https://open.spotify.com/track/6ypdHshYFvRKxwvk3gV2TC) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 3:38 | 2023-11-24 | 2024-04-06 |
 | [New Name to Heartbreak](https://open.spotify.com/track/65AxjXcLId94KrLHXAU0Kb) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [New Name to Heartbreak](https://open.spotify.com/album/5WK6X2lUucPMPm6IfIGM0i) | 3:34 | 2023-06-12 | 2023-11-11 |
 | [new year](https://open.spotify.com/track/0uqc00wyYU4ikXuVFDaqux) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [new year](https://open.spotify.com/album/4qPaD8Ab0uIFXL24s1ypgc) | 2:15 | 2022-02-18 | 2022-03-26 |
@@ -746,7 +748,7 @@
 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 | 2022-12-23 | 2023-02-25 |
 | [The Way It Was Before](https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [The Way It Was Before](https://open.spotify.com/album/21WzCHmaKB5boZZdxf4jRN) | 3:00 | 2022-01-28 | 2022-04-29 |
 | [Things That Fall](https://open.spotify.com/track/44gcQBCYmUk2c3LU37SYHM) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Things That Fall](https://open.spotify.com/album/0wvEMYuE2QyCP2oWPiRsEf) | 2:55 | 2023-09-01 | 2023-11-11 |
-| [think about it](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 | 2025-03-07 |  |
+| [think about it](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 | 2025-03-07 | 2025-04-26 |
 | [Think I Wanna See You Again](https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Think I Wanna See You Again](https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay) | 2:28 | 2024-09-06 | 2024-10-26 |
 | [Thinking Of Her](https://open.spotify.com/track/4Xfi3MOi2UMx0vJAePqr2A) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Thinking Of Her](https://open.spotify.com/album/7FbH0Gs0LAx17e3fA7T3Bo) | 3:27 | 2022-08-26 | 2022-12-24 |
 | [this house is not a home](https://open.spotify.com/track/7CKDmTfTBNp6cezLioRqRs) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [this house is not a home](https://open.spotify.com/album/4sfBi3CDkc1y3k5MiReoLJ) | 2:38 | 2022-01-14 | 2022-09-03 |

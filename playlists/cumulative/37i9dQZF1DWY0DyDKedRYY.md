@@ -4,7 +4,7 @@
 
 > The most exciting new music on our radar, featuring Gigi Perez
 
-1,014 songs - 2 day 4 hr 50 min
+1,015 songs - 2 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Art House](https://open.spotify.com/track/2GkjgiuBawwpL48d0TGQEL) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/1ysnBkxshLq1mn6dftQowP) | 2:57 | 2023-05-08 | 2023-08-31 |
 | [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 | 2024-04-12 | 2024-06-01 |
 | [ask nicely](https://open.spotify.com/track/68OIt2OeIvgOsCe33vUk1b) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [little rainbows after death](https://open.spotify.com/album/5ednC9gleIZMb3kvACgitR) | 2:39 | 2024-12-04 | 2025-01-18 |
+| [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-25 |  |
 | [Attachments \(feat\. Coi Leray\)](https://open.spotify.com/track/4nyRXQQkM69kmaxiyCKMCr) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Attachments \(feat\. Coi Leray\)](https://open.spotify.com/album/6CMpc5ukVsV1HJUWwLMHBJ) | 2:51 | 2021-12-01 | 2022-04-09 |
 | [AVAILABLE FOR ME](https://open.spotify.com/track/00zYQC93zNeHzUfzVZgKdx) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [AVAILABLE FOR ME](https://open.spotify.com/album/473MMS4WsNJL5o7B2RJBNr) | 2:21 | 2024-10-01 | 2024-12-05 |
 | [Avísame \(with Nohemy\)](https://open.spotify.com/track/07uB4aCMcWWwYZw64TRQZJ) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Avísame \(with Nohemy\)](https://open.spotify.com/album/3nHPUsHILfc0zHjoFjHc8c) | 3:25 | 2022-04-08 | 2022-05-18 |

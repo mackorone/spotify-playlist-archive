@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف: كاظم الساهر
 
-313 songs - 18 hr 23 min
+314 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Al Aalam \- العالم](https://open.spotify.com/track/3eeuuyevY7qDLgkmXJ0jWQ) | [Ahmad Abdelsalam](https://open.spotify.com/artist/1QThzrcDgt4b9X8cUCqsbs) | [Al Aalam \(العالم\)](https://open.spotify.com/album/0F3f3ckOIpBXnLHhX1tAbm) | 3:08 | 2023-09-29 | 2025-04-14 |
 | [Al Denya Weyai](https://open.spotify.com/track/5OnU0QQN3eHoJt1Pdh7ymC) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q) | [Al Denya Weyai](https://open.spotify.com/album/67hoqYlplP6KJYmr9ajfvW) | 3:11 | 2025-04-16 |  |
 | [Al Farasha](https://open.spotify.com/track/7MsVIDqNpBdHtDD5BmMZHL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Al Farasha](https://open.spotify.com/album/3Q8tXahgguSwK5uQYXZ7hF) | 3:11 | 2022-09-30 | 2023-02-07 |
-| [Al Ghyab](https://open.spotify.com/track/1czSHzAKbN3ToYbOLlZBjb) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Al Ghyab](https://open.spotify.com/album/57qvqoNwNlpi5DAg0g3FSE) | 4:40 | 2023-09-29 |  |
+| [Al Ghyab](https://open.spotify.com/track/1czSHzAKbN3ToYbOLlZBjb) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Al Ghyab](https://open.spotify.com/album/57qvqoNwNlpi5DAg0g3FSE) | 4:40 | 2023-09-29 | 2025-04-26 |
 | [Al Hob Ihtmam](https://open.spotify.com/track/7qj9jTyc59xB1JmhsFohA0) | [Adnan Braysem](https://open.spotify.com/artist/6tCa22NbsZWw3dmQF0Ac08) | [Al Hob Ihtmam](https://open.spotify.com/album/2q7wM4nFdJAGK2Yxv5pm9E) | 3:03 | 2022-02-11 | 2022-06-09 |
 | [Al Kaaen Al Khyali](https://open.spotify.com/track/0EMIL4R3HQyZkCnIw8DT07) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Al Kaaen Al Khyali](https://open.spotify.com/album/2V5GC1ERTCwPPxcvkZEqHl) | 2:37 | 2022-05-13 | 2022-12-24 |
 | [Al Lahja \- اللهجة](https://open.spotify.com/track/6YlUqBfdYjfAIOD56lqR26) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Al Lahja \(اللهجة\)](https://open.spotify.com/album/3V0G68ATxV8w7Zs5eOKEqi) | 2:38 | 2022-06-30 | 2023-04-05 |
@@ -254,6 +254,7 @@
 | [Takheth Al Aqel](https://open.spotify.com/track/19lnl3mSePtp1ic4SLCGwe) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takheth Al Aqel](https://open.spotify.com/album/48sJulWc8sXuzgL5aTbOH9) | 3:40 | 2022-06-02 | 2022-10-14 |
 | [Tammeni Aleik](https://open.spotify.com/track/07w6Wpbcn1CyQY8SwTcg7K) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Tammeni Aleik](https://open.spotify.com/album/79GYIpfuKlcQxfhyhjFhML) | 3:55 | 2024-09-21 |  |
 | [Tareekh El Aeshq](https://open.spotify.com/track/4D5WPY40ZlT8zfvC2xBHRp) | [Youssef Al Hanin](https://open.spotify.com/artist/1KWTTrDrafD1zHPpo0Tkwc) | [Tareekh El Aeshq](https://open.spotify.com/album/4va0YWP9VmX3XgcpMbtCC5) | 3:26 | 2021-12-23 | 2022-03-15 |
+| [Tari Al Gheyab](https://open.spotify.com/track/2yRibXTd6Zoiy6E4hqtHyB) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Tari Al Gheyab](https://open.spotify.com/album/3mskLOBEt1aaiCaM1d5m9b) | 5:29 | 2025-04-25 |  |
 | [Tayer](https://open.spotify.com/track/7MMA03eVKCA6CN6vEtwhYE) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Tayer](https://open.spotify.com/album/1fixBUrMw8tC8zE0wnfysh) | 3:56 | 2024-11-23 |  |
 | [Taztafzene](https://open.spotify.com/track/1bd28jYLaKNuuGfrtbbgCj) | [Mossa Elias](https://open.spotify.com/artist/4D5c9fsSG4qt0JEyJNZ269) | [Taztafzene](https://open.spotify.com/album/0G3beLDgPS6HdC0CCfQIPC) | 2:42 | 2021-12-23 | 2022-03-12 |
 | [Teba](https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS) | 4:10 | 2022-04-05 | 2022-07-20 |

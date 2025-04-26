@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos el 2 de Noviembre en el bosque para la séptima edición del Hipnosis! 👁️🌳🏕️ Compra tus boletos <a href="https://www.hipnosismx.com/"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,402 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,401 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 8 | [Ce matin\-là](https://open.spotify.com/track/7yieArGOFIdoGJv1V8hDr2) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:39 |
 | 9 | [Cometh The Storm](https://open.spotify.com/track/6W0VHHL8OPOFWUFDCZ7kJI) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Cometh The Storm](https://open.spotify.com/album/6p9Ia4q3Vrep9dFshfWFTU) | 6:11 |
 | 10 | [Café Collonge](https://open.spotify.com/track/7bUn1hQq8BbJk9RE4S5Sf5) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/4rUTEX2s54Ls9Co09BMbCv) | 2:05 |
-| 11 | [Carreta Furacão](https://open.spotify.com/track/4p1971NZaeGcf5BOidrx7R) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Carreta Furacão](https://open.spotify.com/album/3WDtUS2r2CasNc1MoEisMy) | 6:47 |
-| 12 | [Disco Dino](https://open.spotify.com/track/2fwxOcgU4mZYomAD6bCStZ) | [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Polymood](https://open.spotify.com/album/43jf6TiIKBsUkYcXbcaXlN) | 5:48 |
+| 11 | [Disco Dino](https://open.spotify.com/track/2fwxOcgU4mZYomAD6bCStZ) | [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Polymood](https://open.spotify.com/album/43jf6TiIKBsUkYcXbcaXlN) | 5:48 |
+| 12 | [Carreta Furacão](https://open.spotify.com/track/4p1971NZaeGcf5BOidrx7R) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Carreta Furacão](https://open.spotify.com/album/3WDtUS2r2CasNc1MoEisMy) | 6:47 |
 | 13 | [Slomo](https://open.spotify.com/track/0KYOthr76o5GlmYLEfp9OX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 6:53 |
 | 14 | [M.E.X.I.C.O.](https://open.spotify.com/track/1yYhKkqxIAJM6fH3oDbe7p) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Midnight Boom](https://open.spotify.com/album/3X8OMpgoNyMvOEZSKvDjbh) | 1:39 |
 | 15 | [Witness Protection](https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Witness](https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl) | 4:09 |
 | 16 | [Brother In the Wind](https://open.spotify.com/track/5hHT01wTlyNyXcg4ITmm4e) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Blessed Black Wings](https://open.spotify.com/album/2Fez8YmdKDD9732QTBeJzt) | 5:40 |
 | 17 | [Uga Buga](https://open.spotify.com/track/2vZWCXzDSVGEgJKspXjh0O) | [Demencia Infantil](https://open.spotify.com/artist/1ONfyqqsW6Y86ioE8iLoMg) | [Uga Buga](https://open.spotify.com/album/0tqmRtr1LlJB1iqXUKbLu5) | 5:26 |
 | 18 | [Le voyage de Pénélope](https://open.spotify.com/track/2AFttonwFsCFpC6Cos9pcZ) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:10 |
-| 19 | [Our Bodies Weren't Wrong](https://open.spotify.com/track/3FocMwesNwyFbNl3abYX5J) | [ADULT.](https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC) | [Becoming Undone](https://open.spotify.com/album/4msHrvIuGrBAL76i6i6LCx) | 3:39 |
-| 20 | [Más de una Vez](https://open.spotify.com/track/6rvklHauZKOO5DIAGIDYxx) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB) | 4:39 |
+| 19 | [Más de una Vez](https://open.spotify.com/track/6rvklHauZKOO5DIAGIDYxx) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB) | 4:39 |
+| 20 | [Our Bodies Weren't Wrong](https://open.spotify.com/track/3FocMwesNwyFbNl3abYX5J) | [ADULT.](https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC) | [Becoming Undone](https://open.spotify.com/album/4msHrvIuGrBAL76i6i6LCx) | 3:39 |
 | 21 | [Vapour \- Live from South Channel Island](https://open.spotify.com/track/5xXgz2vZDsYQLILFtSQyMI) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Live from South Channel Island](https://open.spotify.com/album/4YrrCUUCI1hoyG649xybYR) | 4:34 |
 | 22 | [Tahoultine](https://open.spotify.com/track/6ikkdRNriROjtjVAkqTdpL) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afelan](https://open.spotify.com/album/1CcRxrJSx8aOUHxReHHEod) | 5:31 |
 | 23 | [Electricide](https://open.spotify.com/track/2JvWDwCrz2binZ6zKsNh96) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Electricide B/W Chalice](https://open.spotify.com/album/6imHs7KJU1dnSIZoifZe5P) | 3:36 |

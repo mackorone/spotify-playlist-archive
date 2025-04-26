@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: Our Shame \(凹與山\)
 
-427 songs - 1 day 2 hr 1 min
+428 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 | 2024-12-05 |  |
 | [No Escape](https://open.spotify.com/track/6GRjTnlquPIRQsUC0Qfti0) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb) | [No Escape](https://open.spotify.com/album/02WRHy1TKcMtHNmx5wEJyp) | 2:24 | 2025-02-13 | 2025-04-04 |
 | [no expectation](https://open.spotify.com/track/6lm8oHO5OST27oU1UDBSMk) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [no expectation](https://open.spotify.com/album/00HmmKxUfcIIk6aQL5i07S) | 4:06 | 2025-04-24 |  |
+| [Not Again](https://open.spotify.com/track/6vL8IVsPgoPW7GDwkFe7do) | [Echo Ding](https://open.spotify.com/artist/277E4w40LYIfxhx9e3130N), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Not Again](https://open.spotify.com/album/7AvWCsaA9gcy8tGHbfjmQz) | 2:50 | 2025-04-24 |  |
 | [Not4U \(A\_LIVE PASS Session\)](https://open.spotify.com/track/0BiIzoPONZILYyD4XZhkXo) | [Edelyn](https://open.spotify.com/artist/70Bc8yYTfXV3n8AtUH6xZG) | [Not4U \(A\_LIVE PASS Session\)](https://open.spotify.com/album/61lCpEzYELyoQnZ98nDQdN) | 8:27 | 2024-01-25 | 2024-02-16 |
 | [Nothing ever stops me](https://open.spotify.com/track/7IUwvUe5oa4nGu1aXgiyc6) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Nothing ever stops me](https://open.spotify.com/album/7ucQfaR9dGgMgjztL3hOdN) | 4:00 | 2024-09-19 | 2024-10-18 |
 | [Nothing Shaped Hearts](https://open.spotify.com/track/4wEgu6sCB96TB1SSUNTFkh) | [Super Napkin](https://open.spotify.com/artist/5zqQabBzjxOyA0VkIRjPZw) | [Nothing is Diamond, Diamond is Wrong](https://open.spotify.com/album/3ny1FFWk6PQF98kodYn9WQ) | 3:48 | 2024-03-21 | 2024-04-12 |

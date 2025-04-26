@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 133 songs - 5 hr 20 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 134 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,6 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 131 | [grey.](https://open.spotify.com/track/5IGCyJsxjhC3Y050ONc9Kx) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:39 |
 | 132 | [don'twasteurtimeonme.](https://open.spotify.com/track/11HdoXtPilCaCGTnIu1HvU) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 3:02 |
 | 133 | [hbo.](https://open.spotify.com/track/341d4xN6OfiZxCNe55f19K) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:22 |
+| 134 | [last friday night pluggnb](https://open.spotify.com/track/0Qgxzih4OdQOm5yaTrNBcN) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [MANDUMÈ](https://open.spotify.com/artist/6U3p7T8XoU9X4IJuRxQPqg) | [last friday night pluggnb](https://open.spotify.com/album/6uD2Tgnlqos5q7za04Ekmj) | 1:27 |
 
-Snapshot ID: `AAAEgHaTV3IlV+uTAWIglz7lBjzNKzco`
+Snapshot ID: `AAAEgyL7MP91nDooKKtlahTGQAPKuB5r`

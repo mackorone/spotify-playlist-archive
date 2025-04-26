@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Ryan Castro y Peso Pluma en portada",
+  "description": "Shawty lo que necesitas es darle flow. El Malilla en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -674,6 +674,28 @@
       "duration_ms": 204897,
       "name": "AMIGA",
       "url": "https://open.spotify.com/track/37Q98j1xECmF8FDH8NHVlx"
+    },
+    {
+      "album": {
+        "name": "AMISTAD",
+        "url": "https://open.spotify.com/album/12kivfRERofKpsDpcinrmE"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "AMISTAD",
+      "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
     },
     {
       "album": {
@@ -3177,6 +3199,32 @@
     },
     {
       "album": {
+        "name": "Cuentale",
+        "url": "https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159662,
+      "name": "Cuentale",
+      "url": "https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6"
+    },
+    {
+      "album": {
         "name": "Cuerpecito",
         "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
       },
@@ -5360,7 +5408,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 149826,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z"
@@ -10375,6 +10423,28 @@
     },
     {
       "album": {
+        "name": "Mundo De Mentiras",
+        "url": "https://open.spotify.com/album/1WibFwPtIWbthLfdVRTZfY"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204578,
+      "name": "Mundo De Mentiras",
+      "url": "https://open.spotify.com/track/5IXRUPpju9wyT3XJFDohiv"
+    },
+    {
+      "album": {
         "name": "Mxfix G5",
         "url": "https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN"
       },
@@ -12369,6 +12439,28 @@
     },
     {
       "album": {
+        "name": "PIDA LO QUE QUIERA MAMI - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7Dlm8O7WcrSuY3OKtPE7BK"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207035,
+      "name": "PIDA LO QUE QUIERA MAMI - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0PAqSz4d5lJfAscDDmIxzX"
+    },
+    {
+      "album": {
         "name": "Piedritas En Los Dientes",
         "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
       },
@@ -13246,7 +13338,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 178604,
       "name": "Quiero Recordar",
       "url": "https://open.spotify.com/track/1qU4vGtdBeDjuOVS5b3fDF"
@@ -15216,7 +15308,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 164298,
       "name": "Somos Panas",
       "url": "https://open.spotify.com/track/2v0fcD72T9xXtKkLgtxtaF"
@@ -15348,7 +15440,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 205727,
       "name": "SUELTA (feat. Omar Courtz)",
       "url": "https://open.spotify.com/track/4bMvbL9C59KX4198rAxBEP"

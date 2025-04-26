@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,835 songs - 3 day 23 hr 14 min
+1,836 songs - 3 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1530,7 +1530,7 @@
 | [Swishers](https://open.spotify.com/track/7zIwP1iP2CdyEeP3PB8ie9) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Swishers](https://open.spotify.com/album/0pOCk5fpyULfYKqDbpCOtC) | 3:24 | 2021-12-16 | 2022-01-06 |
 | [Symfoni](https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Symfoni](https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI) | 2:58 | 2023-03-23 | 2023-10-06 |
 | [Synd om dig](https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5) | [Malin Christin](https://open.spotify.com/artist/7yf7WsRvoRDq5va1SKGgBa) | [Synd om dig](https://open.spotify.com/album/3k2w8Li8JZC47hql6XnLSs) | 2:58 | 2022-02-26 | 2022-07-24 |
-| [Säg det](https://open.spotify.com/track/6R6ZXK8m5JyJWrQCakbwjH) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Säg det](https://open.spotify.com/album/0a2rtVARvImwnhf4DLRQaL) | 3:16 | 2025-03-07 |  |
+| [Säg det](https://open.spotify.com/track/6R6ZXK8m5JyJWrQCakbwjH) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Säg det](https://open.spotify.com/album/0a2rtVARvImwnhf4DLRQaL) | 3:16 | 2025-03-07 | 2025-04-26 |
 | [Säg det som du menar det](https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Säg det som du menar det](https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst) | 2:20 | 2022-04-07 | 2023-01-29 |
 | [Säg förlåt](https://open.spotify.com/track/5foAcyMDMeFa4mMDwJUmqh) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Säg förlåt](https://open.spotify.com/album/2XGRSqqJKWNQn7KIgwSMdU) | 4:02 | 2024-03-07 | 2024-04-19 |
 | [Säg nåt](https://open.spotify.com/track/2OoTbhFGNQ8iYfrQa5CuIw) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Säg nåt](https://open.spotify.com/album/7LgWrBIe8VFX0yRdpRxG09) | 3:06 | 2025-01-16 |  |
@@ -1625,6 +1625,7 @@
 | [Toxic Som Mig](https://open.spotify.com/track/7mWsekctZ2EtxDIc29diPv) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Toxic Som Mig](https://open.spotify.com/album/5BDR0gDGqKPw2dECdSiCRX) | 2:31 | 2024-01-11 | 2024-03-15 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-04-03 |  |
 | [Tracksuit Pants](https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Tracksuit Pants](https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G) | 2:59 | 2023-09-21 | 2024-01-19 |
+| [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 |  |
 | [Trasiga Skor](https://open.spotify.com/track/2oui1x8hu3GY3FQDxFADbe) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Xpensive](https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe) | [Trasiga Skor](https://open.spotify.com/album/3DI1AW6MIBUL1pgDRAsBew) | 2:33 | 2024-05-09 | 2024-06-07 |
 | [Travelling Forever](https://open.spotify.com/track/2eRsu0g5PEwXJv9twUxkvX) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Travelling Forever](https://open.spotify.com/album/6kSkerlxdIHSdO5PzJ2Qd7) | 3:42 | 2024-04-18 | 2024-04-28 |
 | [TRENCH](https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TRENCH](https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK) | 3:13 | 2023-11-23 | 2024-02-04 |

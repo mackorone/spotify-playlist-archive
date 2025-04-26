@@ -1,13 +1,29 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 30889,
+  "num_followers": 30896,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9ZgAAAACtb2RSfb0o2mmf3b8ALlaz",
+  "snapshot_id": "aAsI8AAAAAArllXzlQlhZju7UFSh8q76",
   "tracks": [
+    {
+      "added_at": "2025-04-25 04:00:48",
+      "album": {
+        "name": "Fantasy Real",
+        "url": "https://open.spotify.com/album/2shJcxEgmM67UkN3vkzOPh"
+      },
+      "artists": [
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Fantasy Real",
+      "url": "https://open.spotify.com/track/6EGnk5IocEC3yibrCVy3NO"
+    },
     {
       "added_at": "2025-03-07 05:00:22",
       "album": {
@@ -479,22 +495,6 @@
       "duration_ms": 273080,
       "name": "(I Don't Need A) New Girl",
       "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "What Ever It May Be (Diamond Cut)",
-        "url": "https://open.spotify.com/album/369LanidLMx9Q1G40wKfhl"
-      },
-      "artists": [
-        {
-          "name": "Diamond Cafe",
-          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "What Ever It May Be (Diamond Cut)",
-      "url": "https://open.spotify.com/track/4KzIYex4b4zPXKZxyzM97K"
     },
     {
       "added_at": "2023-06-30 04:01:00",

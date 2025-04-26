@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6905,
+  "num_followers": 6908,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Elle \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        },
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
       },
@@ -1775,22 +1795,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Elle \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
+        "name": "Quand il est seul",
+        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
       },
       "artists": [
         {
-          "name": "Parazar",
-          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
-        },
-        {
-          "name": "Salimo",
-          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+          "name": "T\u00e9m\u00e9 Tan",
+          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Ailleurs",
-      "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
+      "duration_ms": 207868,
+      "name": "un grand plat de riz",
+      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1823,22 +1839,6 @@
       "duration_ms": 244200,
       "name": "Le monde est fou",
       "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Quand il est seul",
-        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9m\u00e9 Tan",
-          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
-        }
-      ],
-      "duration_ms": 207868,
-      "name": "un grand plat de riz",
-      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Pour l'amour du geste II",
-        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
-      },
-      "artists": [
-        {
-          "name": "20Some",
-          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
-        }
-      ],
-      "duration_ms": 126179,
-      "name": "Pour l'amour du geste II",
-      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "O\u00f9 est pass\u00e9 mon contour",
         "url": "https://open.spotify.com/album/14179pvxliO47am5SkoCLw"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 181994,
       "name": "O\u00f9 est pass\u00e9 mon contour",
       "url": "https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Pour l'amour du geste II",
+        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "duration_ms": 126179,
+      "name": "Pour l'amour du geste II",
+      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
     },
     {
       "added_at": "2024-06-19 20:38:05",

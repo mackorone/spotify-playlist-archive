@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats for feel\-good vibes and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,079 likes - 218 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,188 likes - 218 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 47 | [mighty fine](https://open.spotify.com/track/6mRQfIW4Z9Kgiz469aaMbk) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [mighty fine](https://open.spotify.com/album/6cUYQS3spIKTw2lDkOO2Pr) | 1:54 |
 | 48 | [Sandbar](https://open.spotify.com/track/1nDvGmBhWuYOX2rlexBOio) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Sandbar](https://open.spotify.com/album/1wK7uQ22a2oPpIYMqCmDB9) | 2:08 |
 | 49 | [Contradiction](https://open.spotify.com/track/3nrVp8K0z41teo8ZNy9hcL) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Contradiction](https://open.spotify.com/album/4heLrM3LzAW0CKwC5gDHOJ) | 2:10 |
-| 50 | [Blueprint](https://open.spotify.com/track/169dFaaRhrYcp5VnuDYVnc) | [Odd Shapes](https://open.spotify.com/artist/7u2gQnpI4PGGcY4PvIe1Xj) | [Blueprint](https://open.spotify.com/album/3jOy2hhdZJUksTsdPJsCnF) | 2:35 |
+| 50 | [Blueprint](https://open.spotify.com/track/169dFaaRhrYcp5VnuDYVnc) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Blueprint](https://open.spotify.com/album/3jOy2hhdZJUksTsdPJsCnF) | 2:35 |
 | 51 | [act n' chill](https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [act n' chill](https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1) | 2:12 |
 | 52 | [Swell](https://open.spotify.com/track/2NDAiSSorPzaQ7i5sx4dDI) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Just One More Thing](https://open.spotify.com/album/0OjE95D7HmdIY5VghaCRhx) | 1:48 |
 | 53 | [Sparky](https://open.spotify.com/track/4DHcrAP5xGkdH4PIK3uXqK) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [Sparky](https://open.spotify.com/album/4tBhjkO30UmDThAeoqCOSq) | 2:23 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 217 | [Rush Hour](https://open.spotify.com/track/4lv69NLbpOU0A2EACI4bEg) | [Lo\-Five](https://open.spotify.com/artist/3K8s2AFPmTDnzEkSfXDoTi) | [lofi cafe](https://open.spotify.com/album/5VFel9xgsCTME5frlsDRPn) | 2:38 |
 | 218 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `Z9IFXwAAAABXS7shgkFhG47Zk8pKbOGe`
+Snapshot ID: `aAuDMAAAAAA/B+WQHhv12AFSzB2XtGLw`

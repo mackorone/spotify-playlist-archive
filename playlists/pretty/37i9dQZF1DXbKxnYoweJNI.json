@@ -1,6 +1,6 @@
 {
   "description": "\u7121\u8ad6\u98a8\u683c\u6c23\u5473\uff0c\u7368\u7acb\u53ea\u554f\u97f3\u6a02\u81ea\u4e3b\uff0c\u5531\u4f5c\u8868\u73fe\u6e05\u6e05\u695a\u695a\uff01Cover: 163 braces",
-  "num_followers": 61691,
+  "num_followers": 61740,
   "original_name": "\u7368\u7acb\u6700\u524d\u7dda",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
       "duration_ms": 178000,
       "name": "Alice My Girl (feat. JOYCE \u5c31\u4ee5\u65af)",
       "url": "https://open.spotify.com/track/35Hy60xJLRrRHGA5nV9AMV"
+    },
+    {
+      "added_at": "2025-04-24 16:00:30",
+      "album": {
+        "name": "Not Again",
+        "url": "https://open.spotify.com/album/7AvWCsaA9gcy8tGHbfjmQz"
+      },
+      "artists": [
+        {
+          "name": "Echo Ding",
+          "url": "https://open.spotify.com/artist/277E4w40LYIfxhx9e3130N"
+        },
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        }
+      ],
+      "duration_ms": 170415,
+      "name": "Not Again",
+      "url": "https://open.spotify.com/track/6vL8IVsPgoPW7GDwkFe7do"
     },
     {
       "added_at": "2025-04-24 16:00:30",
@@ -419,7 +439,7 @@
     {
       "added_at": "2025-04-24 16:00:30",
       "album": {
-        "name": "\u65b7\u7dda",
+        "name": "\u65b7\u7dda (Live Version)",
         "url": "https://open.spotify.com/album/1KRuDLI7VWP7HbcsPLLCHl"
       },
       "artists": [
@@ -429,7 +449,7 @@
         }
       ],
       "duration_ms": 262190,
-      "name": "\u65b7\u7dda",
+      "name": "\u65b7\u7dda - Live Version",
       "url": "https://open.spotify.com/track/2v4naQglKacbiTKO2Ly7RW"
     },
     {

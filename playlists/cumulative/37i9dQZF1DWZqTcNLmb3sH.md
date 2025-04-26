@@ -2,7 +2,7 @@
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : Avanirabekittu
+> Check out the latest hits from Sandalwood!<br/>Cover : Firefly
 
 1,578 songs - 4 day 0 hr 16 min
 

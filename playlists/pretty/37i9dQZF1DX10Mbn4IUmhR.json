@@ -1,6 +1,6 @@
 {
   "description": "All the South African and global pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT?si=z0ZFR4gFTXKbyQumY7trlA\"> Nafeesisboujee</a>",
-  "num_followers": 3013,
+  "num_followers": 3020,
   "original_name": "i <3 pop",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-04-24 22:02:08",
       "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 123818,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/3LW6Jspv9YSUAkbhvmdujl"
+    },
+    {
+      "added_at": "2025-04-24 22:02:08",
+      "album": {
         "name": "Rose Gold",
         "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 171001,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls"
-    },
-    {
-      "added_at": "2025-04-24 22:02:08",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 123818,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/3LW6Jspv9YSUAkbhvmdujl"
     },
     {
       "added_at": "2025-04-24 22:02:08",
@@ -959,22 +959,18 @@
     {
       "added_at": "2025-04-24 22:02:08",
       "album": {
-        "name": "the place i use to hide",
-        "url": "https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z"
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
       "artists": [
         {
-          "name": "Yum Yuck",
-          "url": "https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE"
-        },
-        {
-          "name": "Melting Resonance",
-          "url": "https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 200480,
-      "name": "the place i use to hide",
-      "url": "https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my"
+      "duration_ms": 237809,
+      "name": "At The Beach, In Every Life",
+      "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
     },
     {
       "added_at": "2025-04-24 22:02:08",

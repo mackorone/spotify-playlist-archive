@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN y Envidia Kotxina.
 
-285 songs - 14 hr 26 min
+287 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Algo Se Tuerce](https://open.spotify.com/track/1aq2koct6YoMKfSpM45nCD) | [Casual Kids](https://open.spotify.com/artist/6Du1nUi00XM60WEBK4LqEz), [Odio Kronico](https://open.spotify.com/artist/2lbPbsEKtHvu3mIhep5870) | [Algo Se Tuerce](https://open.spotify.com/album/6WsgjkUck2yh7jmVSLStut) | 2:38 | 2025-02-27 | 2025-03-14 |
 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 | 2023-12-08 |  |
 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 | 2023-12-08 | 2024-04-19 |
-| [Amanece](https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI) | 3:32 | 2025-03-27 |  |
+| [Amanece](https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI) | 3:32 | 2025-03-27 | 2025-04-26 |
 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 | 2024-11-21 |  |
 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 | 2023-12-08 |  |
 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 | 2023-12-08 |  |
@@ -48,6 +48,7 @@
 | [Cagaos](https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy) | [Colapso](https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e) | [Cagaos](https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K) | 2:37 | 2024-05-09 | 2024-07-30 |
 | [Camela or Die 2.0](https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camela or Die 2.0](https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb) | 2:59 | 2023-12-08 | 2024-08-17 |
 | [Carmina](https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Carmina](https://open.spotify.com/album/0kT3ZFANXGHBowR2akMNg5) | 1:28 | 2024-02-08 | 2024-05-10 |
+| [Carnets de Punk](https://open.spotify.com/track/4RxLQ2KJwc4wWzsqXrpls4) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2) | [Carnets de Punk](https://open.spotify.com/album/4FjpSTt120gOFef0tQxn3y) | 2:31 | 2025-04-24 |  |
 | [Cenizas del Capitalismo](https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Delicias de una Falsa Democracia](https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg) | 2:32 | 2023-12-08 | 2024-04-19 |
 | [Cien Colores](https://open.spotify.com/track/6pEb4CdkThMdqD0g0MXSik) | [La Inquisición](https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ) | [Cien Colores](https://open.spotify.com/album/6PgFqXwfJPQcJ5gQlK2V4L) | 2:50 | 2024-09-26 | 2025-02-14 |
 | [Contra el Mar](https://open.spotify.com/track/7MF0JmLAmM3HczGPc1YVYz) | [Presión](https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI) | [Contra el Mar](https://open.spotify.com/album/6JlX6G26bdreUH3t6Q21LK) | 3:19 | 2024-07-12 | 2024-07-30 |
@@ -168,7 +169,7 @@
 | [Lola](https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1) | 3:40 | 2023-12-08 | 2024-04-19 |
 | [Lola](https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/3yPZHsg4nV3oH8ZZsxiwPD) | 3:40 | 2024-09-26 | 2025-04-07 |
 | [Los Chicos No Están Bien](https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Los Chicos No Están Bien](https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8) | 3:22 | 2024-10-03 |  |
-| [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 | 2024-07-12 |  |
+| [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 | 2024-07-12 | 2025-04-26 |
 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 | 2023-12-08 |  |
 | [Maldito Diablo](https://open.spotify.com/track/5QrdnEBmuq3D9QIBfmAC9l) | [A Granel](https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M) | [Maldito Diablo](https://open.spotify.com/album/5q1CMadsFjRRZNnl4Arkdi) | 2:57 | 2025-01-09 | 2025-02-08 |
 | [Mama, Come, Ríe, Traga](https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Mama, Come, Ríe, Traga](https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K) | 2:52 | 2025-02-13 |  |
@@ -187,6 +188,7 @@
 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 | 2023-12-08 | 2024-04-19 |
 | [Mundo Muerto](https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [EtsaiakEroak](https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6) | [Mundo Muerto](https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei) | 2:37 | 2024-08-16 | 2025-01-04 |
 | [Mártir en Prisión](https://open.spotify.com/track/3c4FJdR3vgWqsMJiqu9Mqt) | [A Granel](https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M) | [Apaga y Vámonos](https://open.spotify.com/album/39r6Qd8zBeDEmYhwcyzxIW) | 2:41 | 2025-01-16 | 2025-02-08 |
+| [Nada es Suficiente](https://open.spotify.com/track/2rZmxb5wBFO7kxJ54IjqGL) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Nada es Suficiente](https://open.spotify.com/album/2NhOhtZPrHXlMrT38vMyvA) | 3:32 | 2025-04-24 |  |
 | [Nada que me haga resurgir](https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Nada que me haga resurgir](https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI) | 3:07 | 2024-05-23 | 2025-02-14 |
 | [Narco](https://open.spotify.com/track/64I6KsFDkGNg639k69Yt4D) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Narco](https://open.spotify.com/album/6C6NaXzXrBnAHaa9orpiFS) | 1:04 | 2024-09-13 | 2024-12-13 |
 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 | 2023-12-08 |  |

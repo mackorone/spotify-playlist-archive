@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> Snakehips and DijahSB's got that big energy.
+> PinkPantheress' got that big energy.
 
-482 songs - 23 hr 52 min
+483 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 | 2024-09-13 | 2024-11-09 |
 | [Gyal Clown](https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gyal Clown](https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h) | 2:16 | 2023-12-01 | 2024-01-20 |
 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 | 2024-03-29 | 2024-05-18 |
-| [Hard To Say](https://open.spotify.com/track/4kh0xxyueJwvLia6wRPAA3) | [Dampé](https://open.spotify.com/artist/4NvFxGMQzU0xJjAEMR5R9i), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Hard To Say](https://open.spotify.com/album/3NSfYqayrDD1CAgw3qhBRb) | 3:17 | 2025-04-04 |  |
+| [Hard To Say](https://open.spotify.com/track/4kh0xxyueJwvLia6wRPAA3) | [Dampé](https://open.spotify.com/artist/4NvFxGMQzU0xJjAEMR5R9i), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Hard To Say](https://open.spotify.com/album/3NSfYqayrDD1CAgw3qhBRb) | 3:17 | 2025-04-04 | 2025-04-26 |
 | [Hatin on Me](https://open.spotify.com/track/6swmJkUuSvIVs7SgBAzufv) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Real Rap B\*\*\*\*](https://open.spotify.com/album/24BlqiVfMDly6VLwxA6OA1) | 3:24 | 2023-12-01 | 2024-05-18 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-10 | 2024-06-29 |
 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 | 2024-04-19 | 2025-04-19 |
@@ -405,6 +405,7 @@
 | [Squad Up](https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Squad Up](https://open.spotify.com/album/1S2JXFkTAuO1OYBF1uvwvj) | 2:46 | 2024-02-02 | 2024-03-23 |
 | [Stand Up](https://open.spotify.com/track/2tbM222PBUYPSSlRJpjkBa) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Stand Up](https://open.spotify.com/album/7cHNUQEtCX6y7xPnNtV1Rl) | 2:05 | 2024-01-05 | 2024-01-27 |
 | [Standing Up To The Wind](https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:18 | 2024-07-12 | 2024-08-24 |
+| [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-25 |  |
 | [Steve Harvey](https://open.spotify.com/track/3uFLBg3x1B9xQb1iCuWNRk) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Steve Harvey](https://open.spotify.com/album/7fNNdIF9yktKGe0ro8Bl4U) | 2:26 | 2024-05-03 | 2024-07-13 |
 | [Stick Up](https://open.spotify.com/track/1Humc1T8KHmkftPWvnsUyy) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Stick Up](https://open.spotify.com/album/7a7I2LsYQRjRt5M7RVy5My) | 2:04 | 2024-02-16 | 2024-05-18 |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2023-08-18 | 2024-03-30 |

@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-220 songs - 20 hr 9 min
+221 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 | 2022-07-08 |  |
 | [Give It What You Can](https://open.spotify.com/track/5rdV2FwCetBCDvu4oVYXdG) | [Toyesauce](https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Tony Hall](https://open.spotify.com/artist/21tPI5y2Lu6ICtF37gMFCW), [George Porter Jr.](https://open.spotify.com/artist/2tITVdAW99hgiobsmJ05ss), [Anjelika Jelly Joseph](https://open.spotify.com/artist/2nuE9rQG1CdFcI2VtoEFJt), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Big Sam](https://open.spotify.com/artist/5xRZIf6Wipoqt9n9UKe1BV), [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D) | [Give It What You Can](https://open.spotify.com/album/5sqINGQpxDe0nkMCte7KLc) | 4:49 | 2024-05-03 |  |
 | [Gloaming Way](https://open.spotify.com/track/2Ek92VVHn8Cu0XOwFwjtOF) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Gloaming Way](https://open.spotify.com/album/2QNz2AaoIRejCJlK7avDJa) | 5:06 | 2024-03-01 |  |
+| [Good Time Traveler](https://open.spotify.com/track/5PWBJZETHPB33nE79koXSC) | [The River Arkansas](https://open.spotify.com/artist/6BZ3TrPgaAk0hqAbQrumgo) | [Tin Years](https://open.spotify.com/album/5FbX1qmfZJelh7uERCxaOZ) | 5:12 | 2025-04-25 |  |
 | [Green River \(Single Edit\)](https://open.spotify.com/track/1bPxp5gqRJdhMzQQ8kPJWV) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Green River \(Single Edit\)](https://open.spotify.com/album/2MYhnWrZZvtBK0DkQ3suxO) | 4:08 | 2022-09-23 | 2023-07-15 |
 | [Growing Your Hands Back](https://open.spotify.com/track/2iQeEYuZvG1j0wVeNJbZtD) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Silver Saturdays](https://open.spotify.com/album/3IbrPiWeBaAf3d1S9RX7Oh) | 4:45 | 2023-03-03 | 2025-01-18 |
 | [Hard Pass](https://open.spotify.com/track/22PBp11W9lqbdO5XwYk0f7) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Hard Pass](https://open.spotify.com/album/6gAU4TmksTNEDGzXzNTgQb) | 4:12 | 2024-02-02 | 2024-03-09 |
@@ -217,7 +218,7 @@
 | [Water Level](https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Arise](https://open.spotify.com/album/4gpAq0kaZMRURC4mn8zBGm) | 6:09 | 2022-10-28 | 2024-02-10 |
 | [We Push Mountains](https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [Dangermuffin](https://open.spotify.com/album/2y4DRNJCI177adj2JME16M) | 4:25 | 2024-08-02 |  |
 | [Weeknight Revival](https://open.spotify.com/track/5GrPSvu8FuPiYITxj3LDOW) | [Lucky Gallops](https://open.spotify.com/artist/3HHY9PnBoxmGUQBHasbGtt), [Caveman::Beta](https://open.spotify.com/artist/21PE7CMxuh99lWEkp0udZs) | [Weeknight Revival](https://open.spotify.com/album/2Z36IOgQMrFSgV8MDaGQtl) | 7:29 | 2022-10-07 |  |
-| [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 |  |
+| [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 | 2025-04-26 |
 | [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 | 2022-09-09 |  |
 | [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 | 2023-06-10 |
 | [Windy Mountain](https://open.spotify.com/track/2xI02rsOKrOV54hoXtOout) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Windy Mountain](https://open.spotify.com/album/6IWKeq29VXjgWmKbCdhRs2) | 5:28 | 2024-02-23 |  |

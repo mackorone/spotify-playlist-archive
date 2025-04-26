@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Ares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,686 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,702 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 34 | [Luotui](https://open.spotify.com/track/4yS9DtA071UWfANL19iSwR) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Luotui](https://open.spotify.com/album/7I3MvufdcG1sI82L7HY3sU) | 2:57 |
 | 35 | [Minä ja mun peiba](https://open.spotify.com/track/7hMbt4gmzTde9JyriJKMCj) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [Minä ja mun peiba](https://open.spotify.com/album/5mL7XyIQruxs1Qb1zid0S0) | 2:32 |
 | 36 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
-| 37 | [Kuka on vastuus?](https://open.spotify.com/track/2NO3NqzOQqtlOgQY4URkMC) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Kuka on vastuus?](https://open.spotify.com/album/5H3b6G0Zdf9yKMfDdWjFRY) | 2:32 |
-| 38 | [Makaveli](https://open.spotify.com/track/7IJgJoEffBKC2h4RBhejm3) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Makaveli](https://open.spotify.com/album/7kJfXEZquDpzjNcmN5MX33) | 2:36 |
-| 39 | [Poika Perkele \(feat\. ibe\)](https://open.spotify.com/track/5DhUGbUyEEYLBoxRus5awE) | [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Poika Perkele \(feat\. ibe\)](https://open.spotify.com/album/2hNQHGIMEMOx4DoKMuFXRl) | 2:36 |
-| 40 | [Sää](https://open.spotify.com/track/0jnj6osDTF4J4jQybVBBTf) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Sää](https://open.spotify.com/album/4gGnftjWThwuSZ9Imen4CD) | 2:55 |
-| 41 | [Mietitkö sä mua](https://open.spotify.com/track/6AYQ3CQePkIRZ6ouD3BF5c) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Mietitkö sä mua](https://open.spotify.com/album/4OYNKIuDMncidwWHfaHXaU) | 2:44 |
-| 42 | [Sinä päivänä](https://open.spotify.com/track/1aYoqplFeeWtjbaeL7p49G) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [Sinä päivänä](https://open.spotify.com/album/2gs8XGMX77w3n4OqggGyLZ) | 2:35 |
-| 43 | [Paras virhe](https://open.spotify.com/track/1pNnC5KyzcAyMcIBJXgUBU) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Paras virhe](https://open.spotify.com/album/2By3JFuQSEAPTJmIs7G1aQ) | 3:02 |
-| 44 | [Elämä kantaa sua](https://open.spotify.com/track/0jYRN6OZ4CbJd37zpW9cyE) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Maailman reunalla](https://open.spotify.com/album/01Rm1ME5b9Hc9UaimHFXCI) | 3:15 |
-| 45 | [Jiihaa](https://open.spotify.com/track/1yUcUd0oZ5wZZmKj0LmqrK) | [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Jiihaa](https://open.spotify.com/album/7JU8ZzL385P0HKTHE6mLiG) | 2:43 |
-| 46 | [FISKARS](https://open.spotify.com/track/2qeAvgItscBNa4ThS8lt6P) | [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [FISKARS](https://open.spotify.com/album/4gBdHtdt84y02ahPDOAQIU) | 2:29 |
-| 47 | [Soita mulle](https://open.spotify.com/track/2Mi2vA7DOMJk80mJIHyJ4N) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Soita mulle](https://open.spotify.com/album/2sMdAWOawJutUfa9axCHCS) | 2:41 |
-| 48 | [Parikymppisii](https://open.spotify.com/track/1W4G6W0krHTQTxOvt6MeIe) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB), [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ), [Will\-Jam](https://open.spotify.com/artist/5EFzpM1UFYM1uJqH6bEnq8) | [Parikymppisii](https://open.spotify.com/album/2C3PEDHQokDewe6opJU8wT) | 2:56 |
-| 49 | [DJ \(feat\. SomBadi\)](https://open.spotify.com/track/2gy7wfMimlYzMUWwWCX1iy) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo), [SomBadi](https://open.spotify.com/artist/1j0UMs2eqsn464CiW1odZk) | [DJ \(feat\. SomBadi\)](https://open.spotify.com/album/3U9UiGjikFNlRFjtkF6MF1) | 2:38 |
+| 37 | [Ei Rakkaut](https://open.spotify.com/track/1kWFPp9sMxfKNobdlebdRW) | [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Ei Rakkaut](https://open.spotify.com/album/2ke0tkFzyeuBMpuUenWGLg) | 3:08 |
+| 38 | [Kuka on vastuus?](https://open.spotify.com/track/2NO3NqzOQqtlOgQY4URkMC) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Kuka on vastuus?](https://open.spotify.com/album/5H3b6G0Zdf9yKMfDdWjFRY) | 2:32 |
+| 39 | [Makaveli](https://open.spotify.com/track/7IJgJoEffBKC2h4RBhejm3) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Makaveli](https://open.spotify.com/album/7kJfXEZquDpzjNcmN5MX33) | 2:36 |
+| 40 | [Poika Perkele \(feat\. ibe\)](https://open.spotify.com/track/5DhUGbUyEEYLBoxRus5awE) | [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Poika Perkele \(feat\. ibe\)](https://open.spotify.com/album/2hNQHGIMEMOx4DoKMuFXRl) | 2:36 |
+| 41 | [Sää](https://open.spotify.com/track/0jnj6osDTF4J4jQybVBBTf) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Sää](https://open.spotify.com/album/4gGnftjWThwuSZ9Imen4CD) | 2:55 |
+| 42 | [Mietitkö sä mua](https://open.spotify.com/track/6AYQ3CQePkIRZ6ouD3BF5c) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Mietitkö sä mua](https://open.spotify.com/album/4OYNKIuDMncidwWHfaHXaU) | 2:44 |
+| 43 | [Sinä päivänä](https://open.spotify.com/track/1aYoqplFeeWtjbaeL7p49G) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [Sinä päivänä](https://open.spotify.com/album/2gs8XGMX77w3n4OqggGyLZ) | 2:35 |
+| 44 | [Paras virhe](https://open.spotify.com/track/1pNnC5KyzcAyMcIBJXgUBU) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Paras virhe](https://open.spotify.com/album/2By3JFuQSEAPTJmIs7G1aQ) | 3:02 |
+| 45 | [Elämä kantaa sua](https://open.spotify.com/track/0jYRN6OZ4CbJd37zpW9cyE) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Maailman reunalla](https://open.spotify.com/album/01Rm1ME5b9Hc9UaimHFXCI) | 3:15 |
+| 46 | [Jiihaa](https://open.spotify.com/track/1yUcUd0oZ5wZZmKj0LmqrK) | [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Jiihaa](https://open.spotify.com/album/7JU8ZzL385P0HKTHE6mLiG) | 2:43 |
+| 47 | [FISKARS](https://open.spotify.com/track/2qeAvgItscBNa4ThS8lt6P) | [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [FISKARS](https://open.spotify.com/album/4gBdHtdt84y02ahPDOAQIU) | 2:29 |
+| 48 | [Soita mulle](https://open.spotify.com/track/2Mi2vA7DOMJk80mJIHyJ4N) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Soita mulle](https://open.spotify.com/album/2sMdAWOawJutUfa9axCHCS) | 2:41 |
+| 49 | [Parikymppisii](https://open.spotify.com/track/1W4G6W0krHTQTxOvt6MeIe) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB), [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ), [Will\-Jam](https://open.spotify.com/artist/5EFzpM1UFYM1uJqH6bEnq8) | [Parikymppisii](https://open.spotify.com/album/2C3PEDHQokDewe6opJU8wT) | 2:56 |
 | 50 | [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/track/5Ai7hFGfIvdNYLbELNJgaL) | [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9), [TonoSlono](https://open.spotify.com/artist/4vmB7mrarI55VXlMRZWMNq), [DJ Ibusal](https://open.spotify.com/artist/5qVgYJUrdxe6jJIBqG6djX) | [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/album/5OHmRYJZPqr6TxGkrxH7hZ) | 3:30 |
 
-Snapshot ID: `aAqmkwAAAADMDTsd6gIbweSOVndkgdlV`
+Snapshot ID: `aAsxIAAAAAB/3JsNmWX9qr5uBf1/i1nQ`

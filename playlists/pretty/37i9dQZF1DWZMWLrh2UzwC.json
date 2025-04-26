@@ -1,12 +1,12 @@
 {
   "description": "New music from KRU, Lorde, d4vd, Elizabeth Tan, and more!",
-  "num_followers": 65685,
+  "num_followers": 65751,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aApgIQAAAAAyvP9hzYBfLYwkzFm/+WJW",
+  "snapshot_id": "aAsmTAAAAAB5QUGFZuE0d5JfpxRbEjuS",
   "tracks": [
     {
       "added_at": "2025-04-24 16:00:33",
@@ -279,6 +279,22 @@
       "duration_ms": 180565,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/4vMaUYpkdmOKPzqLnQsBx6"
+    },
+    {
+      "added_at": "2025-04-25 04:01:03",
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 165668,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr"
     },
     {
       "added_at": "2025-04-24 16:00:33",
@@ -689,6 +705,26 @@
       "url": "https://open.spotify.com/track/1XW9zp8BY4DJbpiQhJYKc6"
     },
     {
+      "added_at": "2025-04-25 04:01:03",
+      "album": {
+        "name": "Money On Money (feat. Future)",
+        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Money On Money (feat. Future)",
+      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
+    },
+    {
       "added_at": "2025-04-24 16:00:33",
       "album": {
         "name": "\u85af\u9905\u4e4b\u6b4c",
@@ -719,6 +755,22 @@
       "duration_ms": 225631,
       "name": "\u7661\u60c5\u6688\u8239\u4ed4",
       "url": "https://open.spotify.com/track/6gQxAyQipWUhobGyC24k7P"
+    },
+    {
+      "added_at": "2025-04-24 16:00:33",
+      "album": {
+        "name": "\u9cf4\u8b1d\u4f60\u800c\u4e0d\u60f3\u8aaa\u5f8c\u6094",
+        "url": "https://open.spotify.com/album/3guvrmZNuIUd05FAubwHAN"
+      },
+      "artists": [
+        {
+          "name": "Kelly Chen",
+          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
+        }
+      ],
+      "duration_ms": 200372,
+      "name": "\u9cf4\u8b1d\u4f60\u800c\u4e0d\u60f3\u8aaa\u5f8c\u6094",
+      "url": "https://open.spotify.com/track/6d7mg44kvlPRNRgSbrYMrK"
     },
     {
       "added_at": "2025-04-24 16:00:33",
@@ -875,6 +927,58 @@
       "duration_ms": 185663,
       "name": "Summer Air",
       "url": "https://open.spotify.com/track/2o0zs9w6yWJfK4bD6h6jhf"
+    },
+    {
+      "added_at": "2025-04-24 16:00:33",
+      "album": {
+        "name": "Not Again",
+        "url": "https://open.spotify.com/album/7AvWCsaA9gcy8tGHbfjmQz"
+      },
+      "artists": [
+        {
+          "name": "Echo Ding",
+          "url": "https://open.spotify.com/artist/277E4w40LYIfxhx9e3130N"
+        },
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        }
+      ],
+      "duration_ms": 170415,
+      "name": "Not Again",
+      "url": "https://open.spotify.com/track/6vL8IVsPgoPW7GDwkFe7do"
+    },
+    {
+      "added_at": "2025-04-24 16:00:33",
+      "album": {
+        "name": "X-Dreams",
+        "url": "https://open.spotify.com/album/7loYu7kad3nWDIgGbqewqv"
+      },
+      "artists": [
+        {
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+        }
+      ],
+      "duration_ms": 204861,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/6jtahhWFnTocDmYgyJzS1k"
+    },
+    {
+      "added_at": "2025-04-25 06:06:04",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3kfm2jMiEhsWLwgCjjHHEg"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "duration_ms": 152542,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2aSsPrNGZOZ0nKQ2hcX4oC"
     },
     {
       "added_at": "2025-04-24 16:00:33",
@@ -1263,7 +1367,7 @@
     {
       "added_at": "2025-04-24 16:00:33",
       "album": {
-        "name": "\u65b7\u7dda",
+        "name": "\u65b7\u7dda (Live Version)",
         "url": "https://open.spotify.com/album/1KRuDLI7VWP7HbcsPLLCHl"
       },
       "artists": [
@@ -1273,7 +1377,7 @@
         }
       ],
       "duration_ms": 262190,
-      "name": "\u65b7\u7dda",
+      "name": "\u65b7\u7dda - Live Version",
       "url": "https://open.spotify.com/track/2v4naQglKacbiTKO2Ly7RW"
     },
     {
@@ -1547,6 +1651,42 @@
     {
       "added_at": "2025-04-24 16:00:33",
       "album": {
+        "name": "GOSHA",
+        "url": "https://open.spotify.com/album/3QDX7qBj7vKzQpbh87JuYH"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "GOSHA (Feat. Karencici)",
+      "url": "https://open.spotify.com/track/27RGq3Oi81AqPBUwj73mfs"
+    },
+    {
+      "added_at": "2025-04-24 16:00:33",
+      "album": {
+        "name": "0 Word",
+        "url": "https://open.spotify.com/album/64zxGylu41lbsCLhJZLerA"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "duration_ms": 222480,
+      "name": "0",
+      "url": "https://open.spotify.com/track/1kPUBzQTAxvKN6rbLBAGA2"
+    },
+    {
+      "added_at": "2025-04-24 16:00:33",
+      "album": {
         "name": "\uc9c0\uad6c\uc778?",
         "url": "https://open.spotify.com/album/0dfMgz5MoFoUKmolr6UAsL"
       },
@@ -1579,6 +1719,22 @@
       "duration_ms": 156306,
       "name": "\uadf8\ub807\uac8c \ub410\uc5b4 It just happened",
       "url": "https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm"
+    },
+    {
+      "added_at": "2025-04-24 16:00:33",
+      "album": {
+        "name": "The Dreamest",
+        "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "How have you been",
+      "url": "https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1"
     },
     {
       "added_at": "2025-04-24 16:00:33",
@@ -1647,6 +1803,22 @@
       "duration_ms": 208044,
       "name": "Fake Nice (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/5KcdtJsVc2X36iBOV8S3Zt"
+    },
+    {
+      "added_at": "2025-04-25 04:01:03",
+      "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/2vSANlvNVEfUl0maUcNeoD"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/0gBfHrAHah7hoyWiOHSNia"
     },
     {
       "added_at": "2025-04-24 16:00:33",

@@ -2,9 +2,9 @@
 
 ### [alt.ph](https://open.spotify.com/playlist/37i9dQZF1DX6oLdwrroY56)
 
-> pinoy alternative music \. Cover: Mayonnaise
+> pinoy alternative music \. Cover: ena mori
 
-175 songs - 11 hr 16 min
+178 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Lara](https://open.spotify.com/track/6tI7QZCy2hZ9Gk2re6sB4P) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Lara](https://open.spotify.com/album/0zfXAtSmSitgJayVujagFB) | 3:45 | 2023-11-10 | 2025-01-17 |
 | [Lia](https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 4:20 | 2024-09-27 |  |
 | [Lia](https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Lia](https://open.spotify.com/album/4gptphn7spep2ULaykVZLp) | 4:20 | 2024-07-12 | 2025-01-17 |
-| [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-19 |  |
+| [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-19 | 2025-04-26 |
 | [Lilly's Child](https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Lilly's Child](https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E) | 2:24 | 2023-10-13 | 2024-02-10 |
+| [little sunny baby](https://open.spotify.com/track/2DLIiAWaKquMARkg1k6RpG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [little sunny baby](https://open.spotify.com/album/5j9LCrE1Pfu23acGv9nXR4) | 2:11 | 2025-04-25 |  |
 | [Live Your Life \(2025\)](https://open.spotify.com/track/6ozec3Smt66vQKmDso6DVn) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [B\-sides & Rarities, Vol\. II](https://open.spotify.com/album/4nLhhipkDMXbUQrjRGJtpB) | 4:27 | 2025-04-16 |  |
 | [Liwanag](https://open.spotify.com/track/2Xvp6TOLEoYL7xBxMpCqfH) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Liwanag](https://open.spotify.com/album/3qzGyBXcGla1MjSGS9GuhS) | 5:24 | 2024-11-06 |  |
 | [Lumang Gunita](https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Lumang Gunita](https://open.spotify.com/album/4YyUobyOK37XTX41efmYnJ) | 4:03 | 2024-07-12 | 2024-11-07 |
@@ -92,6 +93,7 @@
 | [Mamamatay Yata Kong Single](https://open.spotify.com/track/6AwEWeF4oHJJiAaQAZcYsl) | [Eugene Layug](https://open.spotify.com/artist/7CUYtujDPCHjQokiG7L9F5) | [Mamamatay Yata Kong Single](https://open.spotify.com/album/2llKjpVAaBKjIn7S6yPC71) | 4:45 | 2023-10-13 | 2023-10-28 |
 | [Manila Bay](https://open.spotify.com/track/4FnCntyvK3yXlhxRD0Kepc) | [flu](https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R) | [Time & Pace](https://open.spotify.com/album/023N0ahL3qb90oQw29uhLQ) | 3:53 | 2024-10-18 |  |
 | [Mas Gusto Kita](https://open.spotify.com/track/0Fz4n1CHMWRoJOViHFKCXV) | [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Mas Gusto Kita](https://open.spotify.com/album/1Tqdtyo89IGVfIQA5fCMDB) | 3:22 | 2024-06-03 | 2025-02-06 |
+| [Master of Arts in Relaying Information Through Exaggerated Storytelling \(MARITES\)](https://open.spotify.com/track/3Fn5euASkhm1atRBeJYL8S) | [FNG Fun N Games](https://open.spotify.com/artist/4VRV74YZ7ptNFYhTAhFma7) | [Master of Arts in Relaying Information Through Exaggerated Storytelling \(MARITES\)](https://open.spotify.com/album/0stDA2tziXwHYmQSmxD9BF) | 3:19 | 2025-04-25 |  |
 | [Maybe I'm Tired](https://open.spotify.com/track/0VitHidyjeTDL2CMqcEz39) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Maybe I'm Tired](https://open.spotify.com/album/7bdjNftzZui98rywpJsluk) | 3:37 | 2024-05-03 | 2024-08-31 |
 | [Meet Again](https://open.spotify.com/track/6q10bmTD8bI5dS1mdpx18o) | [KREY](https://open.spotify.com/artist/2qsKmvV47a1XIRQizWZUzy) | [Meet Again](https://open.spotify.com/album/3S3mNFrGgNAvWfFkLGNoZ7) | 3:47 | 2025-04-10 |  |
 | [Miscom](https://open.spotify.com/track/45EVGLu8wUvJynnl9J21W1) | [Pinkmen](https://open.spotify.com/artist/6XNIDeowERJg7IRUiAsDrU) | [Miscom](https://open.spotify.com/album/6aTDzfvas4SHkdFkFhdb7E) | 5:40 | 2023-11-18 | 2024-04-27 |
@@ -109,6 +111,7 @@
 | [October](https://open.spotify.com/track/2FLcvttJzDNFmAyRyikgc9) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [October](https://open.spotify.com/album/1l35MLMhL5L2EDrllIASY3) | 3:52 | 2024-10-18 |  |
 | [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-12 | 2025-04-17 |
 | [Oh, Irog](https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Oh, Irog](https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY) | 4:56 | 2025-02-14 |  |
+| [Paano Tayo](https://open.spotify.com/track/42EXYGjRYIv9qFcej1BUXC) | [End Street](https://open.spotify.com/artist/1tDu9QYGiRTIVCnw5tn2pE) | [Paano Tayo](https://open.spotify.com/album/1OwOrNjmoRpCDXCd37cx0m) | 3:13 | 2025-04-25 |  |
 | [Pagsisisi](https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Pagsisisi](https://open.spotify.com/album/130CxcfouohfD4K1SlSKfe) | 3:57 | 2025-03-06 |  |
 | [Pakiusap](https://open.spotify.com/track/6CyRHuzI8LcX1qtWtHaUPM) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Pakiusap](https://open.spotify.com/album/12JXkOGXbf1GPDJYdBvxeL) | 2:55 | 2023-10-13 | 2023-11-19 |
 | [Panaginip](https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [Panaginip](https://open.spotify.com/album/2pM7n3p62ktsiAD5zYz0YO) | 5:07 | 2023-10-13 | 2025-01-17 |
@@ -122,7 +125,7 @@
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-10-13 | 2024-02-10 |
 | [Paulit\-Ulit \(Sorry Na\)](https://open.spotify.com/track/7eUOsa6RfxYWV34ey5U2HI) | [CHELLY](https://open.spotify.com/artist/7nTSu9SOc12DLKLFktzIHJ) | [Paulit\-Ulit \(Sorry Na\)](https://open.spotify.com/album/0zmgAKDkDThn3Ika0rXULC) | 3:30 | 2023-10-13 | 2024-02-10 |
 | [Pessimist](https://open.spotify.com/track/5sbbdNVTJJQtn2tdprM10H) | [POP MONEY WORLDWIDE](https://open.spotify.com/artist/0E3yLyIpFoe2rznq1IsRPj), [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0), [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK), [GRE!](https://open.spotify.com/artist/0chN87LPw5RqChtuYbmQwQ) | [Pessimist](https://open.spotify.com/album/4CJNUGpXOnx4y39eovTDfn) | 2:11 | 2024-10-18 |  |
-| [Pillow](https://open.spotify.com/track/5sPCkfro9nUpKLM04LX7jp) | [POP MONEY WORLDWIDE](https://open.spotify.com/artist/0E3yLyIpFoe2rznq1IsRPj), [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0), [Carrot Mayor](https://open.spotify.com/artist/5s7aEasAPVKh5b7kwRiykk) | [Pillow](https://open.spotify.com/album/055Hvov2rOVus107OstKMO) | 2:31 | 2024-07-19 |  |
+| [Pillow](https://open.spotify.com/track/5sPCkfro9nUpKLM04LX7jp) | [POP MONEY WORLDWIDE](https://open.spotify.com/artist/0E3yLyIpFoe2rznq1IsRPj), [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0), [Carrot Mayor](https://open.spotify.com/artist/5s7aEasAPVKh5b7kwRiykk) | [Pillow](https://open.spotify.com/album/055Hvov2rOVus107OstKMO) | 2:31 | 2024-07-19 | 2025-04-26 |
 | [Pinapangarap Ko](https://open.spotify.com/track/0ICei6ceMmzZfazpviavbn) | [LYNDE](https://open.spotify.com/artist/6ynab8zRwxH5J3EBWnWAc4) | [Pinapangarap Ko](https://open.spotify.com/album/63U1GIzvNwaTbBKv0YwGCJ) | 3:48 | 2023-10-13 | 2025-01-17 |
 | [Please Don't Stay](https://open.spotify.com/track/5F0Srwhpjpqt1KxyI1cDy1) | [Three Legged Men PH](https://open.spotify.com/artist/6Ef0AJQePmfx2cB3vo5vEe) | [Please Don't Stay](https://open.spotify.com/album/43zGzmF8jcqYpZTgru1Nh1) | 4:38 | 2023-10-13 | 2023-11-11 |
 | [Please Lang](https://open.spotify.com/track/2A5fNbbIB1sUfUcYX5dkG2) | [SOS](https://open.spotify.com/artist/6sYQTuRBvPAaQ9Ba5ca1Yc) | [Please Lang](https://open.spotify.com/album/0yGy7FQrViz5Ck8T9VS5Al) | 4:01 | 2023-11-18 | 2025-01-17 |
@@ -178,7 +181,7 @@
 | [VIP](https://open.spotify.com/track/5SGgxgsbinITYDcJaOFw59) | [The Nomads](https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt) | [VIP](https://open.spotify.com/album/72A7ORj2vQe0AI1c3cQaHi) | 3:49 | 2024-06-21 | 2024-08-31 |
 | [Wag Ka na lang Kumagat](https://open.spotify.com/track/4ffysjVPRZqPOvXJdYrubM) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5) | [Wag Ka na lang Kumagat](https://open.spotify.com/album/60M6IFtgfHemdMR76ONLeT) | 3:28 | 2025-02-14 |  |
 | [Wag Naman](https://open.spotify.com/track/7BkZPPgzeuDMIoa44OPe8e) | [The Cohens](https://open.spotify.com/artist/5x3ZUgvYdLryFxvI4n1F1G) | [Wag Naman](https://open.spotify.com/album/65pOeGMiizBrW6NCBQHYBa) | 2:32 | 2024-04-26 | 2024-09-17 |
-| [wagnamuna](https://open.spotify.com/track/6UmMczHfLTjZa81JShbl82) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [wagnamuna](https://open.spotify.com/album/0bPxuKS1QWyc43bCBbk31e) | 2:45 | 2024-07-19 |  |
+| [wagnamuna](https://open.spotify.com/track/6UmMczHfLTjZa81JShbl82) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [wagnamuna](https://open.spotify.com/album/0bPxuKS1QWyc43bCBbk31e) | 2:45 | 2024-07-19 | 2025-04-26 |
 | [Walang Label](https://open.spotify.com/track/5mcQZiopXnczEKf6OM4HWC) | [Eugene Layug](https://open.spotify.com/artist/7CUYtujDPCHjQokiG7L9F5) | [Walang Label](https://open.spotify.com/album/0qFt3vATFczRlwVGbZHbZO) | 4:15 | 2024-06-28 | 2025-04-17 |
 | [WHERE IS THE L?E](https://open.spotify.com/track/3CR1mWThIKsALVzoSOBo9V) | [Franciskoe](https://open.spotify.com/artist/73s6RRWrA8DakmvmS4o8ae) | [WHERE IS THE L?E](https://open.spotify.com/album/1gn16qBOLYLe0mmtBc3tU8) | 2:49 | 2023-10-13 | 2024-04-27 |
 | [Yakap](https://open.spotify.com/track/6dlW7m78wKau9ZRqPLAUJA) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Yakap](https://open.spotify.com/album/2GXphqBra81VhHhrmwAN3G) | 4:28 | 2024-06-03 | 2025-02-06 |

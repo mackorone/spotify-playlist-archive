@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Carol Biazin
 
-383 songs - 18 hr 13 min
+385 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Cancelaram o Carnaval](https://open.spotify.com/track/3gUs7mbRVLaGAKOcSuUHXU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Cancelaram o Carnaval](https://open.spotify.com/album/7qkynGkf30AuUc7jbPaedY) | 2:21 | 2022-03-18 | 2022-06-04 |
 | [Canoa](https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Canoa](https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D) | 2:57 | 2023-10-13 | 2023-11-25 |
 | [Capa De Revista](https://open.spotify.com/track/0PNwMRlZgwoWVe0idfGQPH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:22 | 2024-12-27 |  |
+| [Carta Marcada](https://open.spotify.com/track/1Ts6QC1fpuzULRbhFP4rCz) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [As Pequenas Grandes Coisas](https://open.spotify.com/album/2NHq83Hm0jiwfxe4M6yvHL) | 2:34 | 2025-04-25 |  |
 | [Cavalgada](https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Cavalgada](https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ) | 2:01 | 2022-08-26 | 2022-12-24 |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-08 | 2023-12-01 |
 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 | 2024-03-08 | 2024-05-18 |
@@ -185,7 +186,7 @@
 | [Língua dos Anjos](https://open.spotify.com/track/0AgluK6lXqHzjgTLkXMjlg) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [PORCELANA](https://open.spotify.com/album/4o1zqfzFJCsgIstBtZXlx3) | 2:14 | 2024-05-17 | 2024-07-19 |
 | [Macetada](https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY) | [PITAYAS](https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R) | [PITAYAS](https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk) | 2:49 | 2022-05-06 | 2022-07-02 |
 | [Macetar](https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Macetar](https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v) | 1:54 | 2022-12-02 | 2023-10-07 |
-| [Mais Raro](https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Mais Raro](https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF) | 3:00 | 2025-02-07 |  |
+| [Mais Raro](https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Mais Raro](https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF) | 3:00 | 2025-02-07 | 2025-04-26 |
 | [Mais Um Voo](https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mais Um Voo](https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U) | 3:14 | 2023-10-13 | 2023-11-18 |
 | [MALA MEMO](https://open.spotify.com/track/0BuzkHsZ50ZsMLIgoq1ZUQ) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:16 | 2023-02-03 | 2023-04-02 |
 | [MALA MEMO](https://open.spotify.com/track/2RBgpZ7VODWZUjr0onXIzW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:16 | 2023-03-31 | 2023-04-28 |
@@ -208,7 +209,7 @@
 | [Melhor Não](https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Frio e Vento](https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z) | 3:33 | 2024-10-18 | 2025-02-01 |
 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 | 2022-01-14 | 2022-02-12 |
 | [Meninos e Meninas](https://open.spotify.com/track/5B1skkpiljQOQLAmANiaDa) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:41 | 2022-08-05 |  |
-| [Mensagem](https://open.spotify.com/track/27su4WAMySZobigAAuXdHt) | [Bea Duarte](https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe) | [Mensagem](https://open.spotify.com/album/4ftEmz8W1OXaaD6WuJsC8D) | 3:31 | 2025-01-31 |  |
+| [Mensagem](https://open.spotify.com/track/27su4WAMySZobigAAuXdHt) | [Bea Duarte](https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe) | [Mensagem](https://open.spotify.com/album/4ftEmz8W1OXaaD6WuJsC8D) | 3:31 | 2025-01-31 | 2025-04-26 |
 | [MENTA COM CHÁ](https://open.spotify.com/track/6eIH1kXMmK1jcc1H2P5YF2) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:30 | 2023-03-31 | 2023-08-16 |
 | [Meu Amor](https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Meu Amor](https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ) | 2:41 | 2022-03-04 | 2022-07-19 |
 | [MEU CORAÇÃO](https://open.spotify.com/track/0oyuAkoiMPNbeewVTa0t1z) | [VOID](https://open.spotify.com/artist/163Bo6wArUPNbzbTAgmbJQ) | [MEU CORAÇÃO](https://open.spotify.com/album/1MlmxhNB8HRbB2Rir0h4fi) | 2:10 | 2025-01-31 | 2025-03-01 |
@@ -228,6 +229,7 @@
 | [Na Sequência](https://open.spotify.com/track/4tIBDrshxn6PC5pjTkTeBG) | [Daya Luz](https://open.spotify.com/artist/1VmZ0enkE7FIlIHotMbtPo), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Na Sequência](https://open.spotify.com/album/7irLIvxC3LQpYRRlVh8siU) | 2:40 | 2022-01-14 | 2022-02-05 |
 | [NA TUA CABEÇA](https://open.spotify.com/track/7Mu4XSS2eqoUUrWDkJjQJD) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Tara e Tal](https://open.spotify.com/album/6Qj13mDyBZod5IYTUbTLOp) | 3:40 | 2024-04-12 | 2024-06-15 |
 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 | 2022-01-14 | 2022-02-19 |
+| [nada sério](https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [nada sério](https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV) | 2:46 | 2025-04-25 |  |
 | [Nem Me Convidou](https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [Nem Me Convidou](https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz) | 2:07 | 2024-09-16 | 2024-10-19 |
 | [Nem Solteiro, Nem Casado](https://open.spotify.com/track/4RIwJFIllGROj3yvCFPBik) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Nem Solteiro, Nem Casado](https://open.spotify.com/album/26OJEhbmdahqJqYT20YLxT) | 2:25 | 2022-01-29 | 2022-02-12 |
 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 | 2022-01-14 | 2023-02-04 |

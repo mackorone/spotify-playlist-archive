@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Javiera Mena y Santiago Motorizado
+> Todo el sonido indie de Chile\. Foto:Ciudad Nómade.
 
-530 songs - 1 day 7 hr 43 min
+531 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-15 | 2022-07-27 |
 | [Secreto de cuatro paredes \- Acoustic](https://open.spotify.com/track/7xjBDln5bwCNcqWpGzYk3Y) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP), [MemoDz](https://open.spotify.com/artist/36oVDZLr9ROLk0pTLwRmUj) | [Secreto de cuatro paredes \(Acoustic\)](https://open.spotify.com/album/2daH3BSfGuBwS6dQeAjPR3) | 2:13 | 2022-04-15 | 2022-07-21 |
 | [Selva Negra](https://open.spotify.com/track/05554ATgymiSkXHLdpGl5d) | [Grace Caracol](https://open.spotify.com/artist/0OGNY2wV1dPmSv01JKrpoL) | [Selva Negra](https://open.spotify.com/album/3JNSwB2kvBmxzlEAk08HJU) | 3:05 | 2022-04-15 | 2022-07-28 |
+| [Sentir para Sanar](https://open.spotify.com/track/2bZmhBPdgcwtvheYHm8H03) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Sentir para Sanar](https://open.spotify.com/album/0MLh7QecBbb4oCMx0mg3Pe) | 3:48 | 2025-04-25 |  |
 | [Ser Humano](https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Ser Humano](https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk) | 3:16 | 2023-08-04 | 2023-09-12 |
 | [Señalame la Fiesta](https://open.spotify.com/track/4wtgP5t1NxtekekW5XzDZ7) | [Jardín Mojado](https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx) | [Señalame la Fiesta](https://open.spotify.com/album/5mOUWi6KEYRkPQdMIA4YT4) | 3:49 | 2022-06-10 | 2023-04-01 |
 | [Señorita \- Proux Remix](https://open.spotify.com/track/3xXdBWoyum0dxoNPEBoXPO) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Señorita \(Proux Remix\)](https://open.spotify.com/album/1ZQR6O6yvDGqCtm5qhUk1G) | 2:59 | 2024-08-30 |  |

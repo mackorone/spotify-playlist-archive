@@ -4,7 +4,7 @@
 
 > Lull your little ones to sleep with piano music.
 
-722 songs - 22 hr 6 min
+726 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Home On The Range](https://open.spotify.com/track/6bYGIgGhnbb6yEppV4ztWE) | [Danny Tanners](https://open.spotify.com/artist/6FVDjERbUK3UMQuuKPAWwL) | [Home On The Range](https://open.spotify.com/album/54xe53ksw9Y9Us3wBLM4Aw) | 3:49 | 2021-10-07 | 2022-07-01 |
 | [Home Sweet Home](https://open.spotify.com/track/6nOJUgNCKLCbd29mc2ONrh) | [Joelle O'Connor](https://open.spotify.com/artist/7oyDtkckEvUfpxwot9O3xn) | [Home Sweet Home](https://open.spotify.com/album/5ZQpQWyS5DFKvLBGCxwEFy) | 1:53 | 2021-10-07 | 2024-03-29 |
 | [Home Sweet Home](https://open.spotify.com/track/7zi4cejvZlNOJ4L3zShTpk) | [Ogden Enqvist](https://open.spotify.com/artist/3pml5NZSx75ZmuwnWW3JXO) | [Home Sweet Home](https://open.spotify.com/album/7uueMgRzpjlLUdzcLqWoLF) | 1:30 | 2024-11-08 | 2025-03-05 |
+| [Horizon of Dreams](https://open.spotify.com/track/45YaGyuLCbPaPpOE08IDXd) | [Francis Luna](https://open.spotify.com/artist/3sjCpfI70lOKlEUBv0xrtQ) | [Horizon of Dreams](https://open.spotify.com/album/4SiGtVKw75SCNGCKM4DonR) | 1:42 | 2025-04-25 |  |
 | [Hot Cross Buns](https://open.spotify.com/track/5EvSBms5sdJTxdyFMRGscp) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [Hot Cross Buns](https://open.spotify.com/album/6JPA3A5DMco7CTzky0JXtO) | 1:04 | 2021-10-07 | 2023-02-10 |
 | [Hot Crossed Buns](https://open.spotify.com/track/4YRARpkUow9hauMEKnCtPF) | [Isabella Williamson](https://open.spotify.com/artist/1LUTewDZjAIhrRTDYaQTmt) | [Hot Crossed Buns](https://open.spotify.com/album/7myac7QFp8VcJ4xDt7pdE6) | 1:29 | 2021-10-07 | 2023-01-13 |
 | [How Much Is That Doggie In The Window?](https://open.spotify.com/track/3r2L8VNe1f2zrob401d6K1) | [Tom Abott](https://open.spotify.com/artist/4Mxad1PBRHlkgCRhpKhTbf) | [How Much Is That Doggie In The Window?](https://open.spotify.com/album/5Lb6JFr7virY0Pp3nROzbo) | 2:08 | 2024-03-01 |  |
@@ -310,6 +311,7 @@
 | [Itsy, Bitsy, Spider](https://open.spotify.com/track/6TPoXdkGtObr0WUQiwoLlF) | [Ella Grayce](https://open.spotify.com/artist/0xlgMD86mCmI7gBsW2V94o) | [Itsy, Bitsy, Spider](https://open.spotify.com/album/7BAoh1fA9fXuc1Rt6HEKoB) | 1:32 | 2024-07-19 | 2025-03-05 |
 | [I’m A Little Teapot](https://open.spotify.com/track/1g018zlZlQXBUw6FYvexxU) | [Lindsay Felan](https://open.spotify.com/artist/2IYSQrJKkRaNmPk0oOxbwZ) | [I’m A Little Teapot](https://open.spotify.com/album/3WeqrWBZ70iY3VKz0FNOGH) | 1:28 | 2022-07-27 | 2024-05-04 |
 | [Jack and Jill](https://open.spotify.com/track/4kdgBw3FKnPwo6W2VzP4zg) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Jack and Jill](https://open.spotify.com/album/2bttGrUetauxvBu9dDlFlU) | 1:39 | 2023-12-22 |  |
+| [Jellybean Dreams](https://open.spotify.com/track/7CZbJbtK9fVzYHf0o9axsk) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Jellybean Dreams](https://open.spotify.com/album/1OmotoMFFP5YEOP4z0HE8T) | 1:43 | 2025-04-25 |  |
 | [John Blund](https://open.spotify.com/track/3TptFEpWAROx6OhMIoEnJr) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [John Blund](https://open.spotify.com/album/3Hf2K2RsfxUiMmXS2X1i4R) | 2:01 | 2025-02-14 |  |
 | [John Brown's Song](https://open.spotify.com/track/2V9YbhqLsxC7Llpb6e1CS7) | [Claire Pasteur](https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy) | [John Brown's Song](https://open.spotify.com/album/6SecsP3G8PkZ8STwhLpdbB) | 1:51 | 2023-10-20 | 2024-05-24 |
 | [John Brown's Song](https://open.spotify.com/track/0SjsIzJkZfDU7wlcdklEFR) | [Gregory Oberle](https://open.spotify.com/artist/4MxqhahGRT4BPz1PilXGeu) | [Yankee Doodle](https://open.spotify.com/album/7dmp93YWenoMivq7iSLT8j) | 3:05 | 2021-10-07 | 2022-10-29 |
@@ -347,6 +349,7 @@
 | [Little Juniper Tree](https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Little Juniper Tree](https://open.spotify.com/album/1F0uOct26s41A46zw0jwom) | 1:01 | 2023-10-20 | 2025-03-05 |
 | [Little Lady Bird](https://open.spotify.com/track/6xOH1jKAX6XcMKR4w5XEy4) | [Cats meow](https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy) | [Little Lady Bird](https://open.spotify.com/album/7qPygS88Yken4LaSNrjSdg) | 2:11 | 2024-11-15 |  |
 | [Little Miss Muffet](https://open.spotify.com/track/0nyqo64CI34PQ8ro08xRcf) | [Maureen Dubose](https://open.spotify.com/artist/0LGtUk1yFtNM99TX7JS01N) | [I Had a Little Nut Tree](https://open.spotify.com/album/1CvizaIIDVXxdFSXNkhIuq) | 0:52 | 2021-10-07 | 2022-03-18 |
+| [Little Miss Sunshine](https://open.spotify.com/track/2Grl65Cu4KlHfioza8Hlhf) | [Fab Greenwich](https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg) | [Little Miss Sunshine](https://open.spotify.com/album/0kGIlPmaCtd9o2ZS0BhMvI) | 1:53 | 2025-04-25 |  |
 | [Little pony](https://open.spotify.com/track/3Qyy4PT4gWJVedjM31t2gE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Little pony](https://open.spotify.com/album/0Grvlj3TuPZu0QZrRxeC9a) | 1:18 | 2024-05-03 |  |
 | [Little Robin Redbreast](https://open.spotify.com/track/6rCqiXs9GaZCG2tvCHxL5E) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [Little Robin Redbreast](https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso) | 1:25 | 2021-10-07 | 2023-01-13 |
 | [Little Spring Song](https://open.spotify.com/track/2AtS0OYVTIBxRRgWGioJrl) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Little Spring Song](https://open.spotify.com/album/6QrQoAvanfAf6HRGxjT7xA) | 2:09 | 2024-07-08 |  |
@@ -463,6 +466,7 @@
 | [Our Little Munchkin](https://open.spotify.com/track/0xYb6F0HWQMwHUYspMsiqT) | [Brock Golding](https://open.spotify.com/artist/6Z2j0jtKxRuwTBJDF9Bven) | [Our Little Munchkin](https://open.spotify.com/album/7h2CjUXrV2frE8H4IhoL3T) | 2:01 | 2021-10-07 | 2024-03-29 |
 | [Our Little Sandman](https://open.spotify.com/track/2503WM2PCCscHWQcr0xBjg) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Our Little Sandman](https://open.spotify.com/album/6oQZqafqOJCYPaXDcYMgJP) | 1:06 | 2023-12-08 | 2025-03-05 |
 | [Over The River And Through The Woods](https://open.spotify.com/track/7sVzX9PWTOJEX6QDWPm6U2) | [Penelope Lang](https://open.spotify.com/artist/384BZ30OneQUlMKtjHTVIf) | [Zip\-A\-Dee\-Doo\-Dah](https://open.spotify.com/album/40DkJu7Ucdoj25THYEybUl) | 2:15 | 2021-10-07 | 2022-10-29 |
+| [Pancake Friends](https://open.spotify.com/track/5rlXkgZJPZdeKHJhIC7OdR) | [David Finnegan](https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0) | [Pancake Friends](https://open.spotify.com/album/2euhvwQSPiInKRdgOiZMU3) | 1:56 | 2025-04-25 |  |
 | [Pat That Little Tummy](https://open.spotify.com/track/7kRjbBrr078BJ1kbCHQOQJ) | [Graham Lullington](https://open.spotify.com/artist/0eFEGw7eoz5CUwfvssyzjK) | [Pat That Little Tummy](https://open.spotify.com/album/1OhzR4YfoRto3mCWq3QD2R) | 1:33 | 2024-01-19 |  |
 | [Pat\-a\-cake](https://open.spotify.com/track/2DODM9LlrVPsm3CB5wCyEu) | [Sophie Eichmann](https://open.spotify.com/artist/2kzsfr4PAIwyoSPrBq9Xdx) | [The farmer in the dell](https://open.spotify.com/album/6odz7oeiLNgklTnDTx0psg) | 1:09 | 2021-10-07 | 2022-10-08 |
 | [Peace At Last](https://open.spotify.com/track/24m5S5142ix00vPzBBmfET) | [Jacqueline Doolan](https://open.spotify.com/artist/0cBODOysIrpp4MFjr5MaEM) | [Peace At Last](https://open.spotify.com/album/2rjLJ9x4hfGHicKBHEh1wh) | 1:40 | 2021-10-07 | 2024-03-29 |

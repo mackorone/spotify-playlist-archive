@@ -9491,6 +9491,28 @@
     },
     {
       "album": {
+        "name": "Gone Forever",
+        "url": "https://open.spotify.com/album/7qofrU0BKWcy7n8PMYGqxg"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128994,
+      "name": "Gone Forever",
+      "url": "https://open.spotify.com/track/2V5mm4VjIuiiA7bJMJ5wvI"
+    },
+    {
+      "album": {
         "name": "Gone Tomorrow",
         "url": "https://open.spotify.com/album/3u25jj4B4cqGqxEsPRFmZO"
       },

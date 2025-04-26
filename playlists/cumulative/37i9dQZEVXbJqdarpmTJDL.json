@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 249290,
       "name": "All In",
       "url": "https://open.spotify.com/track/7aDXIXo9BMrEo5nFSsX8Qd"
@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 239999,
       "name": "BBQ-3",
       "url": "https://open.spotify.com/track/3T3ZrIPTp7GJ6LwypshG3T"
@@ -13146,7 +13146,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 154480,
       "name": "ETSI DE GINETE",
       "url": "https://open.spotify.com/track/5sQVqxvMimtLqi6p1d9tby"
@@ -15318,7 +15318,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 151898,
       "name": "GANGSTA",
       "url": "https://open.spotify.com/track/2fduNRNDHBMVBtOX4bZNvX"
@@ -20090,7 +20090,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 155166,
       "name": "KAPOTE",
       "url": "https://open.spotify.com/track/5URFlr95zjPSDpKdZTpTBi"
@@ -29204,7 +29204,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 207225,
       "name": "Nyxterides",
       "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
@@ -30718,7 +30718,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 217386,
       "name": "PADOU",
       "url": "https://open.spotify.com/track/27GSRTfL7fEnLAEr3fB5YX"
@@ -30944,7 +30944,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 210000,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"
@@ -35369,6 +35369,24 @@
     },
     {
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/215wMynYbIsRpMHg86UIzg"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178089,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/73KYTCSbVlj5E02qWj8DPF"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
@@ -39544,7 +39562,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 303333,
       "name": "THE DEAL",
       "url": "https://open.spotify.com/track/28ooJkbDOGToXhO1NRoBhQ"

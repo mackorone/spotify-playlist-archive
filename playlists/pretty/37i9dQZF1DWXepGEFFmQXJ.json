@@ -1,6 +1,6 @@
 {
   "description": "The cream of today's country crop. Cover: Sam Barber",
-  "num_followers": 426573,
+  "num_followers": 426635,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "aApD7AAAAAA0LLkbSwFjbkGeZHvLW+C4",
   "tracks": [
+    {
+      "added_at": "2025-04-24 14:00:12",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+    },
     {
       "added_at": "2025-04-24 14:00:12",
       "album": {

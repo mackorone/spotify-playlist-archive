@@ -4,7 +4,7 @@
 
 > rusowsky & Ralphie Choo, Feid y más novedades de la semana.
 
-1,862 songs - 3 day 22 hr 34 min
+1,863 songs - 3 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1016,6 +1016,7 @@
 | [ME DUELES](https://open.spotify.com/track/0kbLkNGtMKLXoPO7vzRRZr) | [María Gil](https://open.spotify.com/artist/6gieFk9ohXw04swsw2mIq7), [Raul Nadal](https://open.spotify.com/artist/74I1LpMHsJjGuTRIna9m7e) | [ME DUELES](https://open.spotify.com/album/5CMOhCSM6RCaQ9RrEChTyO) | 3:11 | 2024-10-11 | 2024-10-18 |
 | [Me Enamoré](https://open.spotify.com/track/5MzUueggb7cFpR2NpWUbIx) | [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC), [RIFISOUL](https://open.spotify.com/artist/45bEt8NEILygekiRTbsBhz) | [Me Enamoré](https://open.spotify.com/album/2xdZnnJUCW7seCOfx0yhA1) | 2:51 | 2024-12-19 | 2025-01-03 |
 | [me encantó estar equivocada](https://open.spotify.com/track/0NbFdhynlllsedOW7EyzQf) | [Miriam Rodríguez](https://open.spotify.com/artist/3E3qsTzCvTX13A1Zrw7Wnf) | [me encantó estar equivocada](https://open.spotify.com/album/3v431BDBQG2bIhACTdsvt4) | 2:38 | 2024-12-19 | 2025-01-03 |
+| [me extrañas? :\(](https://open.spotify.com/track/5wQ9Z8tq72XozbpoxA2hqi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [me extrañas? :\(](https://open.spotify.com/album/4NdO2JUQYoZOQctoPecAOn) | 3:27 | 2025-04-24 |  |
 | [ME FUI](https://open.spotify.com/track/1V4PaizC9qH8DHViEiJCtX) | [$kyhook](https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ME FUI](https://open.spotify.com/album/6RA7bXxfDK91BUmVqlRf4H) | 3:04 | 2024-11-01 | 2024-11-08 |
 | [Me Grita](https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI) | [Me Grita](https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX) | 3:52 | 2025-02-13 | 2025-02-21 |
 | [me gustaria volver](https://open.spotify.com/track/6IWrPiDxeCgqRATGWnbmUf) | [CLODIX](https://open.spotify.com/artist/5JjVP5Vjl9kbgeAqXoQn37), [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [me gustaria volver](https://open.spotify.com/album/0rk3iCAQh9xUhSUmjn0PAl) | 3:25 | 2024-11-28 | 2024-12-06 |

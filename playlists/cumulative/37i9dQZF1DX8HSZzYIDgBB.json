@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol Indie-Tropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Bomba Est\u00e9reo y Rawayana en portada.",
+  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Feid en portada.",
   "name": "tropic.alt",
   "tracks": [
     {
@@ -1439,6 +1439,32 @@
     },
     {
       "album": {
+        "name": "Cumbia Bajo El Sol",
+        "url": "https://open.spotify.com/album/23ydkdlfQVdMaREayHcCE4"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "Aluna Project",
+          "url": "https://open.spotify.com/artist/1TSrXgFaXo6Vd5lZle9XM8"
+        },
+        {
+          "name": "IZADOR\u00c4",
+          "url": "https://open.spotify.com/artist/1rPvh2OggGcSpB8iBaTksJ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Cumbia Bajo El Sol",
+      "url": "https://open.spotify.com/track/1AOwWFdeZeAxN5ay2EEavb"
+    },
+    {
+      "album": {
         "name": "El Mirador",
         "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
       },
@@ -1725,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "EP Remixes",
+        "url": "https://open.spotify.com/album/4cvFTgC7APXimqteteoGj4"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Distintos - Remix",
+      "url": "https://open.spotify.com/track/5DXitUebX2lxzQAosHtQUe"
+    },
+    {
+      "album": {
         "name": "Donde",
         "url": "https://open.spotify.com/album/74w3nm7wWosixhYgX3X9iv"
       },
@@ -1740,7 +1788,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 187625,
       "name": "Donde",
       "url": "https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM"
@@ -1802,7 +1850,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 323916,
       "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
       "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
@@ -2126,7 +2174,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 216346,
       "name": "En el Temblor (feat. Chico Mann)",
       "url": "https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW"
@@ -3712,7 +3760,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 159133,
       "name": "Me Hiciste Quedar Mal",
       "url": "https://open.spotify.com/track/440BwaPaJ1FsW2tCxdN6ea"
@@ -4979,6 +5027,28 @@
     },
     {
       "album": {
+        "name": "PIDA LO QUE QUIERA MAMI - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7Dlm8O7WcrSuY3OKtPE7BK"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207035,
+      "name": "PIDA LO QUE QUIERA MAMI - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0PAqSz4d5lJfAscDDmIxzX"
+    },
+    {
+      "album": {
         "name": "Piedras del Sol",
         "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
       },
@@ -5078,7 +5148,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 181914,
       "name": "Porque Yo",
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
@@ -6421,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Un amor que se demora",
+        "url": "https://open.spotify.com/album/5uLOuTQoADaJCWwVlxqJcy"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220322,
+      "name": "Un amor que se demora",
+      "url": "https://open.spotify.com/track/7lGwvwJMddywIX0VfJLI1F"
+    },
+    {
+      "album": {
         "name": "Belmont",
         "url": "https://open.spotify.com/album/797ZnganZpmTHcULejYwDt"
       },
@@ -6552,7 +6640,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 158780,
       "name": "Volver\u00e1s a Llamar",
       "url": "https://open.spotify.com/track/5EAASyevtYMrgegzHmfuG5"

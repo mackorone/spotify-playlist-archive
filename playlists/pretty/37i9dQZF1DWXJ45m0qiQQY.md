@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 
 > chilling beats for haunted vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,508 likes - 78 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,515 likes - 78 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 | 42 | [Ghost Town](https://open.spotify.com/track/0KHzbBCmalKbNEBUJsDIU2) | [Trix.](https://open.spotify.com/artist/6sX3XCMLJp33YwlYcm5SNF), [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO) | [Trick or Treat?](https://open.spotify.com/album/3XPbg1KbHdfJS6klfUgE6i) | 1:40 |
 | 43 | [Casper's Labyrinth](https://open.spotify.com/track/7reiBbBG2c1BZEirO0Wo3h) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd) | [Trick or Treat?](https://open.spotify.com/album/3XPbg1KbHdfJS6klfUgE6i) | 2:17 |
 | 44 | [Crackling](https://open.spotify.com/track/3ih5XZhO7lwIpYhlvfbGYq) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Haunted Castle](https://open.spotify.com/album/5vCLiCBjKuMTdPW9mdjXg0) | 2:15 |
-| 45 | [Graveyard Chill](https://open.spotify.com/track/6aKK9PvHTyZRlF1UYc0iK3) | [Odd Shapes](https://open.spotify.com/artist/7u2gQnpI4PGGcY4PvIe1Xj) | [Graveyard Chill](https://open.spotify.com/album/13B5yiBoAuooEB9TLgrLsS) | 2:46 |
+| 45 | [Graveyard Chill](https://open.spotify.com/track/6aKK9PvHTyZRlF1UYc0iK3) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Graveyard Chill](https://open.spotify.com/album/13B5yiBoAuooEB9TLgrLsS) | 2:46 |
 | 46 | [danse macabre \(lofi dance of death\)](https://open.spotify.com/track/3wLEddhwsyMpHHBv51exFb) | [d\_lab](https://open.spotify.com/artist/53RFVNVMxFNuttWgYSZ483) | [danse macabre \(lofi dance of death\)](https://open.spotify.com/album/37kt6mjmQUpo99FYoWGBYu) | 2:00 |
 | 47 | [I Miss Trick or Treating](https://open.spotify.com/track/1uH1IeLoBJRE0nRl57MFD4) | [Emily Ferrell](https://open.spotify.com/artist/5x7pyLivwcOHwPVTLbi912) | [Halloween Lofi Mix](https://open.spotify.com/album/55ffi0bKs20tUQt97KRffP) | 2:25 |
 | 48 | [Spooky Forest](https://open.spotify.com/track/0q7iO29wLtAFdolXFtCNR4) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [A Lofi Chill Halloween](https://open.spotify.com/album/6qGsZqAsyOerkRALDUlE9U) | 2:00 |

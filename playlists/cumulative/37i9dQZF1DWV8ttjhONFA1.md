@@ -2,7 +2,7 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Mica Sotera con Hipnótica.
+> El nuevo sonido argentino lo encontrás acá\. Foto: Mica Sotera & Hipnótica.
 
 357 songs - 19 hr 30 min
 
@@ -260,7 +260,7 @@
 | [Otro Día +](https://open.spotify.com/track/4HNFl3MYMT66JxtIGRDCCg) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [Otro Día +](https://open.spotify.com/album/374Vy9hEfXobyxWgwvHFCj) | 2:03 | 2024-07-26 | 2024-08-31 |
 | [PAHPAHPAH](https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [PAHPAHPAH](https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt) | 2:11 | 2024-03-08 | 2024-04-06 |
 | [Palabras](https://open.spotify.com/track/2j5RzSlt5pXvb2KWjF5pK0) | [Galean](https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8), [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [Del otro lado de la vidriera](https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP) | 3:30 | 2024-09-06 | 2025-01-11 |
-| [Panamericana](https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve al punto de partida](https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW) | 3:15 | 2024-05-24 |  |
+| [Panamericana](https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve al punto de partida](https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW) | 3:15 | 2024-05-24 | 2025-04-26 |
 | [Papito Barloa](https://open.spotify.com/track/6ZNkAcje0hYiuSPL5oklE1) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Papito Barloa](https://open.spotify.com/album/6XdDsxZReYWAWGrxotjkGx) | 3:14 | 2023-12-15 | 2024-04-06 |
 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-12-15 | 2024-01-20 |
 | [PARAISO](https://open.spotify.com/track/2W5fiXSkXIvmbvHsNjqJTD) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [PARAISO](https://open.spotify.com/album/4ICOWYS8pohhyp1T725LIr) | 2:16 | 2024-08-30 | 2024-10-26 |

@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 92466,
       "name": "13 Pieces for Piano, Op. 76: Elegiaco, No. 10",
       "url": "https://open.spotify.com/track/1fz5D2xY8W4CUXicAhvG5D"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 197200,
       "name": "Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
       "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 253413,
       "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 301586,
       "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
       "url": "https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD"
@@ -3882,6 +3882,36 @@
       "duration_ms": 644272,
       "name": "Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto",
       "url": "https://open.spotify.com/track/4rrrn8OLrttq7r9RgNXalU"
+    },
+    {
+      "album": {
+        "name": "Mozart: Piano Concertos Nos. 20 & 21",
+        "url": "https://open.spotify.com/album/6CA92VxwdlPHgtNwCkJHcS"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Friedrich Gulda",
+          "url": "https://open.spotify.com/artist/2sjOsPGCavFqNIgpCoy2hJ"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467546,
+      "name": "Piano Concerto No. 21 in C Major, K. 467: II. Andante",
+      "url": "https://open.spotify.com/track/2JJ6BzUI5LpRa0gmBPSG7k"
     },
     {
       "album": {
@@ -4734,7 +4764,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 363973,
       "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": II. Romanze: Andante",
       "url": "https://open.spotify.com/track/7JAX6pO5DuIXQC68mCO6H8"
@@ -5084,6 +5114,32 @@
       "duration_ms": 174266,
       "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO"
+    },
+    {
+      "album": {
+        "name": "Songs from the Arc of Life",
+        "url": "https://open.spotify.com/album/2M5Ld3m3sIZcquMo7zMKIR"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/0xT2UAggBzSsJqve5tuq7X"
     },
     {
       "album": {
@@ -5724,7 +5780,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 374493,
       "name": "\u00c9tude No. 12: Unveiled",
       "url": "https://open.spotify.com/track/7hiOEDPwMUjMbvfuQF9dOY"

@@ -2,9 +2,9 @@
 
 ### [Broadway Belts](https://open.spotify.com/playlist/37i9dQZF1DXdqsF7GMD33N)
 
-> Belt it out\. Cover: Nichelle Lewis in The Wiz
+> Belt it out\. Cover: Audra McDonald in "Gypsy"
 
-89 songs - 5 hr 42 min
+90 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,11 +64,12 @@
 | [No Good Deed \- From "Wicked" Original Broadway Cast Recording/2003](https://open.spotify.com/track/55dcu9Iz7r58VEmTqk4LP4) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) | [Wicked \(Original Broadway Cast Recording / Deluxe Edition\)](https://open.spotify.com/album/1woCvthHJakakroP6dXNxs) | 3:31 | 2023-06-12 |  |
 | [On My Own](https://open.spotify.com/track/6cs44cWPd4652NlIrzRqNx) | [Frances Ruffelle](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) | [Les Misérables \(Original 1985 London Cast Recording\)](https://open.spotify.com/album/6czYnhVAHQF0UiAilCvFMP) | 3:59 | 2023-06-12 | 2024-04-19 |
 | [On My Own](https://open.spotify.com/track/0whLBafLYqsuFouLM2ZT9O) | [Les Misérables\-Original London Cast](https://open.spotify.com/artist/7EzZtsaDuv0EecScnO7wrh) | [Les Miserables \(The Original London Cast Recording\)](https://open.spotify.com/album/4h0K87rOHZXeuOqeXAsah8) | 3:59 | 2023-06-12 |  |
-| [One Second and a Million Miles](https://open.spotify.com/track/3UQKDBuIhaCSkRzFyB43Ph) | [Steven Pasquale](https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I), [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [The Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7r7TxhWB6tZHc3aPlMjaup) | 6:50 | 2023-06-12 |  |
+| [One Second and a Million Miles](https://open.spotify.com/track/3UQKDBuIhaCSkRzFyB43Ph) | [Steven Pasquale](https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I), [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [The Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7r7TxhWB6tZHc3aPlMjaup) | 6:50 | 2023-06-12 | 2025-04-26 |
 | [One Second and a Million Miles](https://open.spotify.com/track/3R13NfIKxrVYbFledWhoXY) | [Steven Pasquale](https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I), [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3LaPdSklCPjDDz9etyDvIb) | 6:50 | 2023-06-12 | 2024-04-19 |
 | [Out Tonight](https://open.spotify.com/track/32EGs7iNClnt5idKSkaqVA) | [Daphne Rubin\-Vega](https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR) | [The Best Of Rent](https://open.spotify.com/album/1HsvK3RNYq8I61Orf6OQ8D) | 3:48 | 2023-06-12 |  |
 | [Pulled](https://open.spotify.com/track/6W6mfGp42e0npejwRfK5Mt) | [Krysta Rodriguez](https://open.spotify.com/artist/7achJdkPpg7LVBU4ZvdlZA), [Adam Riegler](https://open.spotify.com/artist/4qOQ9LvXXcjqQGEA5ccuwD) | [The Addams Family \(Original Cast Recording\)](https://open.spotify.com/album/11oSgc7tukNbysMv0nOpW3) | 2:59 | 2023-06-12 | 2025-04-19 |
 | [River Deep \- Mountain High](https://open.spotify.com/track/2YfGw6FHk2pzQJ3mxNi9sI) | [Adrienne Warren](https://open.spotify.com/artist/6Fa9ZDsa97z3apsVwp4KMC), [Tina: The Tina Turner Musical Original London Company](https://open.spotify.com/artist/5WLqdm01xNiarxqIaoPTKt) | [Tina: The Tina Turner Musical \(Original Cast Recording\)](https://open.spotify.com/album/2RElyIqIsej16k08yLEBiX) | 3:29 | 2023-06-12 |  |
+| [Rose's Turn](https://open.spotify.com/track/0VCqanO64Shc6RKBCuPfr1) | [Audra McDonald](https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli), [Gypsy 2024 Broadway Company](https://open.spotify.com/artist/026ZtmUJxea729DcQpyMTC) | [Gypsy Starring Audra McDonald \(2024 Broadway Cast Recording\)](https://open.spotify.com/album/5PA6UdeWgZ5B3308hc7X0S) | 5:05 | 2025-04-25 |  |
 | [Santa Fe](https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:12 | 2023-06-12 |  |
 | [She Used to Be Mine](https://open.spotify.com/track/7CBrUf50mf2IqcRZla38by) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 4:20 | 2023-06-12 |  |
 | [Show Off](https://open.spotify.com/track/2pMas1kINft5X1tz1dm9AR) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), ['The Drowsy Chaperone' Original Broadway Cast](https://open.spotify.com/artist/6WnYGqfmqjmRIIO6FZdmHo) | [The Drowsy Chaperone \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1xV9B2D7B2rW9HaGcYWlkH) | 4:41 | 2023-06-12 |  |

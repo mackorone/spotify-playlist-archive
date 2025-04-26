@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-405 songs - 18 hr 42 min
+412 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Cassie](https://open.spotify.com/track/3eBVTlnu9DZ6dPWCJN5Fyz) | [Pink Oak](https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO) | [1979](https://open.spotify.com/album/70GFb2bW6tyYF7KqDJ8QfL) | 3:07 | 2022-05-27 |  |
 | [Casual](https://open.spotify.com/track/04vbqTabvnBVNS529gCjr7) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Casual](https://open.spotify.com/album/34WYto1C7tTFFiyolKmtDW) | 2:58 | 2022-09-02 |  |
 | [Catcher in the rye](https://open.spotify.com/track/1MjAqFdbI32eabt6lufWfy) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Catcher in the rye](https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd) | 3:52 | 2021-04-26\* | 2022-08-19 |
+| [Catching Up With My Breath](https://open.spotify.com/track/2rZYvvEgUgYGH6B6fZYj1g) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Catching Up With My Breath](https://open.spotify.com/album/5GEduN1QsT99aCG3L66fFs) | 2:36 | 2025-04-25 |  |
 | [Cemetary Breeze](https://open.spotify.com/track/4CyazQG7Ykpez2hgXMLk5y) | [Mars Door](https://open.spotify.com/artist/0zlmopuNDAnww43YNoojnA) | [Prime Rib](https://open.spotify.com/album/7cPxxvCezOeKDP0k9RQFfi) | 2:49 | 2022-10-28 |  |
 | [Cerezas](https://open.spotify.com/track/7KRCzYQS3c8F6orM4TYldU) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Cerezas](https://open.spotify.com/album/0u9XeMFBx74nEQ4hNRrCPA) | 1:29 | 2021-04-26\* | 2022-05-14 |
 | [Change of Times](https://open.spotify.com/track/61qUb62uXGpRSuBfbX47Sj) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Help Me](https://open.spotify.com/album/2EvPz82tplsBt8d2H6rRj0) | 2:58 | 2022-01-27 | 2025-02-21 |
@@ -169,6 +170,7 @@
 | [Hunter](https://open.spotify.com/track/4DjwdB1x3jgUk1alcouL3g) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Hunter](https://open.spotify.com/album/3lkCHgz92YIYwDVLkVGlQw) | 2:27 | 2022-06-24 |  |
 | [Hyper Glow](https://open.spotify.com/track/2vc6rsNIQzFH7J2tkytUzp) | [Bahtar](https://open.spotify.com/artist/4n53TzoRFhYOjUHMFHBm7d) | [Hyper Glow](https://open.spotify.com/album/4ig598umqe4Ee9zQhevBVQ) | 2:07 | 2025-03-21 |  |
 | [I Can't Quit](https://open.spotify.com/track/7i1hH7B5B00wSvydWeahTN) | [Anno Domini Beats](https://open.spotify.com/artist/7zyB5bod57okoaZHfLw3BP), [Beats By Dillin](https://open.spotify.com/artist/2uUiUwzgBC8V5OAbNskTrG) | [Beats By Dillin, Vol\. 5](https://open.spotify.com/album/6Pd00u7UkMBkjFzXN5gu3C) | 3:33 | 2022-04-22 | 2022-07-22 |
+| [I Really Like The You That You Are](https://open.spotify.com/track/5xcnrvC1E5OlZBkbFnE6K5) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [I Really Like The You That You Are](https://open.spotify.com/album/4zhbtsbmuZkngz80SLqQ1r) | 3:10 | 2025-04-25 |  |
 | [I See it Coming](https://open.spotify.com/track/48Xm5taNqpo0JoeWToC3RR) | [Moni Section](https://open.spotify.com/artist/7JRvm5GQzBVLrq7nqFgUpS) | [I See it Coming](https://open.spotify.com/album/6sNaXLan0jNEamLBKjmr0N) | 1:40 | 2021-04-26\* | 2022-05-14 |
 | [I'm Here](https://open.spotify.com/track/1aHAXehB7uQ044J4QVOXkb) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [I'm Here](https://open.spotify.com/album/3WdjV92wxOwTjwmALXKdj0) | 3:42 | 2022-09-30 |  |
 | [I've Fallen Down](https://open.spotify.com/track/5AFwBhBRuRyNvaFNiF7j9x) | [Dada Schism](https://open.spotify.com/artist/5Rw9ji4Ou4OecPAdmUbxoP) | [I've Fallen Down](https://open.spotify.com/album/09gen7ATLlIBEesipZzgUt) | 2:32 | 2025-02-07 |  |
@@ -205,6 +207,7 @@
 | [Life on Hold](https://open.spotify.com/track/5BLgn3YW4egzpgV1q5oPTP) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [Life on Hold](https://open.spotify.com/album/49uY4hBP3tRDggvjz8RiYp) | 2:20 | 2022-07-29 | 2022-12-24 |
 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 | 2021-04-26\* | 2022-07-29 |
 | [Light Colors](https://open.spotify.com/track/57icLTnAu0LHPOsdmfOhjF) | [IntoVerted](https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT) | [Light Colors](https://open.spotify.com/album/5myEgExIXQPG6fKTGbd0On) | 2:48 | 2021-11-10 | 2022-10-29 |
+| [lilja](https://open.spotify.com/track/2APv5JlP1VXAxvFaQpDKbK) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [lilja](https://open.spotify.com/album/4IBHQXKDfFzJVwxonoZbYt) | 3:18 | 2025-04-25 |  |
 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 | 2021-11-10 |  |
 | [Lone Time](https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/7w2GVmp5BY8pxCZSvcEiM3) | 3:50 | 2021-04-26\* | 2021-08-26 |
 | [Long Way Home](https://open.spotify.com/track/4MPS8kSzTiVFhgv9MDJncU) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Long Way Home](https://open.spotify.com/album/7808T5V1eWDOc5vGKtqcB9) | 2:37 | 2023-01-06 |  |
@@ -239,6 +242,7 @@
 | [My Own Way](https://open.spotify.com/track/3yxYRedMKqrNDxKmoUfSXa) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [My Own Way](https://open.spotify.com/album/5b3GfF8Uy6p4AZSZAzOEcI) | 2:55 | 2025-02-20 |  |
 | [My Treasure](https://open.spotify.com/track/2VMVr3w3VkbQzj5oAiN3ws) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [Moods](https://open.spotify.com/album/3oT7U6gyD3mvDz92R8RqOG) | 2:00 | 2021-04-26\* | 2021-04-28 |
 | [Na Estrada](https://open.spotify.com/track/4OV49soNqpXsTLWyON0wOd) | [Condnash](https://open.spotify.com/artist/6zKxYviwG1S3rpbIzcOc3P), [Beatmology](https://open.spotify.com/artist/371X0EF8wqSvR4g8bZf0p9) | [Na Estrada](https://open.spotify.com/album/0Im85kZFOeGSWDNQLZGbAG) | 1:17 | 2023-01-20 | 2024-02-14 |
+| [Need You](https://open.spotify.com/track/4uFVmPRT6WkQ9NDklEP7vo) | [Triple Notice](https://open.spotify.com/artist/5COnDTR85vmKxA3DHbJ3Rv) | [Need You](https://open.spotify.com/album/0x7irAq6Y89XfBAXdfqUMN) | 2:39 | 2025-04-25 |  |
 | [Needless to Say](https://open.spotify.com/track/2L564Gg8T5QvE3I9qc4Okr) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Needless to Say](https://open.spotify.com/album/7ooLEVtJYscAdXs1dZGHJz) | 3:07 | 2021-04-26\* | 2022-04-22 |
 | [New Life](https://open.spotify.com/track/26vTevxFBa9h0i5013tTef) | [Griefcake](https://open.spotify.com/artist/7eIwiNtHsGoC9N9b0bvUU0) | [New Life](https://open.spotify.com/album/7vJWTQKgKWG333yoWVsG8Y) | 2:36 | 2023-01-20 |  |
 | [Night Trip](https://open.spotify.com/track/3GB3fTglT3cGErykWWqQwx) | [Kezz Beats](https://open.spotify.com/artist/6UfsrHXyOdIVCWnv4YSou3) | [Night Trip](https://open.spotify.com/album/2cegZ7un7PvEEbSMI6qpyU) | 2:26 | 2021-07-09 | 2022-07-15 |
@@ -288,6 +292,7 @@
 | [Recenseo](https://open.spotify.com/track/6QdHlBTs0Rme9cn9EYFSc0) | [Humblebee](https://open.spotify.com/artist/43DaGVXzvghYrfrHK4eP3m) | [Occasus](https://open.spotify.com/album/1ddz02kStcLhxFiizCK1lP) | 2:49 | 2021-04-26\* | 2021-06-18 |
 | [red reflections](https://open.spotify.com/track/2HXbCeN1K3jxvvPSYZPOUp) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [kaleidoscopes](https://open.spotify.com/album/4GSUMxsOfySGzYumuJ9i8P) | 2:53 | 2021-11-10 | 2022-07-22 |
 | [Redemption Art](https://open.spotify.com/track/36029vUr50awRBW4ZkGc59) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Redemption Art](https://open.spotify.com/album/6G15IbO6nTl1Ay9GcBf9VM) | 2:47 | 2023-01-06 |  |
+| [Reflections](https://open.spotify.com/track/4MqAHt4YgvZIvrH4hxStuV) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Reflections](https://open.spotify.com/album/5JaZV9i4afZ8ioYwQlJltl) | 3:07 | 2025-04-25 |  |
 | [Regardless](https://open.spotify.com/track/47ycT8Rnhz6nQ54eJND3II) | [trabbey](https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [Regardless](https://open.spotify.com/album/5msAk3rbAcG0NjJf8LDoBQ) | 2:39 | 2022-04-22 | 2022-08-19 |
 | [Resilience](https://open.spotify.com/track/3atOrSKWvssPpQxI7mnbNJ) | [makers mask](https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9) | [Resilience](https://open.spotify.com/album/0TJ4K36wXB3tFXTHTKXVsf) | 2:48 | 2025-03-21 |  |
 | [Riddle Box](https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Riddle Box](https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk) | 2:58 | 2024-01-19 |  |
@@ -376,6 +381,7 @@
 | [Trapped](https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb) | 3:53 | 2022-07-29 | 2024-04-19 |
 | [Tratoria](https://open.spotify.com/track/3IX30GXLumSoisqM3qUHAZ) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 1:49 | 2022-05-20 | 2024-02-14 |
 | [Trippier](https://open.spotify.com/track/4bT3N5SidnYnydelbL3FVL) | [Stanz Vanz](https://open.spotify.com/artist/01swNkzCEWNS1bFpINjuAN) | [Trippier](https://open.spotify.com/album/6JO4wwfTK87vMPGkub8XWf) | 3:35 | 2021-08-26 | 2024-12-07 |
+| [U&ME](https://open.spotify.com/track/5vzoqXVh33TvjdIVUvfM0g) | [Zima Green](https://open.spotify.com/artist/5PfWHrm5gbxBjqvKqSSomG) | [U&ME](https://open.spotify.com/album/52yqcXhD5IyvFB0FbDHrE4) | 3:45 | 2025-04-25 |  |
 | [Under Blue](https://open.spotify.com/track/7CEycuhaJ8aR9fJlRIlt2u) | [Mooshy](https://open.spotify.com/artist/25CodL66ToRkp4p6b86S5I) | [Under Blue](https://open.spotify.com/album/2OEPCvtFSVgaQzVDcqGX61) | 2:27 | 2022-12-23 |  |
 | [Underlying Cause](https://open.spotify.com/track/42eEBz1XT0b0uvZDZPisyL) | [Experia](https://open.spotify.com/artist/5NTXP9El0Kk8oAEIaKZZfZ) | [Underlying Cause](https://open.spotify.com/album/38Lsf8bDz8BsQ0zzNUzEwn) | 3:10 | 2025-02-07 |  |
 | [Unfaithful](https://open.spotify.com/track/0PhO372l28G96GYTAIguhO) | [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Unfaithful](https://open.spotify.com/album/4lAcr0NSO9OF06inxnKITz) | 2:36 | 2022-06-17 | 2022-07-29 |
@@ -386,6 +392,7 @@
 | [Vermilion](https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Vermilion](https://open.spotify.com/album/4XBG6OzeLRBakz8V8WVDxI) | 2:49 | 2021-10-14 |  |
 | [very tired](https://open.spotify.com/track/3Bkird1s4oFtscCyYU2xCA) | [foxwedding](https://open.spotify.com/artist/0DHLXYQowVvc8oQxp5Lrk3) | [very tired](https://open.spotify.com/album/1qfvdxgGiJGPEFkK4QbRQw) | 1:48 | 2023-01-20 | 2023-09-06 |
 | [Vintage Love](https://open.spotify.com/track/7vLlbkZYFLbwLearl7zYIB) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Lo\-fi Radio](https://open.spotify.com/album/26xbX5jZTUU7QsrEN8U16C) | 1:19 | 2021-04-26\* | 2021-09-10 |
+| [Visionary](https://open.spotify.com/track/0XkVZEVCIQGT7TxlPeB6tp) | [NxCxF](https://open.spotify.com/artist/4Hm3wX5niVGJ8BZ7j4SaCK) | [Visionary](https://open.spotify.com/album/5b49YW0wudV51P3XdQKr4M) | 2:24 | 2025-04-25 |  |
 | [Waiting](https://open.spotify.com/track/61PZO6qSaGjqfllC5gu4Hn) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Waiting](https://open.spotify.com/album/7IK9cKeVVbjEsUueOXS2OE) | 3:12 | 2025-01-08 |  |
 | [Wake Me Down](https://open.spotify.com/track/79aprJyclqwjKTQsIfa4dz) | [Qushy](https://open.spotify.com/artist/156wti6EEtzclFPBm50lUH) | [Wake Me Down](https://open.spotify.com/album/342JtGixJ0SUY0hi7WFjTO) | 2:21 | 2021-04-26\* | 2022-05-14 |
 | [Walk 2 Run](https://open.spotify.com/track/0uLwamsTv8ng3vFXEf5W2e) | [Mayden Blue](https://open.spotify.com/artist/75UHJrQHVWVIi1fM8TlRpf) | [Voyager](https://open.spotify.com/album/5AzdlqZP2nq2ugxzsuu26D) | 3:51 | 2021-08-26 | 2021-10-14 |

@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-159 songs - 9 hr 49 min
+160 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Every Word \- Radio Edit](https://open.spotify.com/track/145kUDDfoiTzNGVPvem4Xm) | [Darryl Jordan](https://open.spotify.com/artist/07rLy29kxUhgrXwXL8p7jt), [Giman](https://open.spotify.com/artist/75nakAajlHkjK1yMhNPoB1), [Chic\_Ago](https://open.spotify.com/artist/2O0TP0gKFhi1L3T6m2BJXG) | [Every Word](https://open.spotify.com/album/0liZQlGjXRohYLNk5jkquK) | 4:06 | 2021-07-26 | 2023-12-16 |
 | [Fantasize](https://open.spotify.com/track/3WjC4OFDrnX7AVyZTsVLne) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:19 | 2021-07-26 | 2023-08-26 |
 | [Fantasy](https://open.spotify.com/track/2K5cF4TM3vH1eaX0eqXfzZ) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Three O Five](https://open.spotify.com/album/3qDqVrsNkV0tVSUxzjqs5f) | 4:04 | 2023-08-04 |  |
+| [Fantasy Real](https://open.spotify.com/track/6EGnk5IocEC3yibrCVy3NO) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [Fantasy Real](https://open.spotify.com/album/2shJcxEgmM67UkN3vkzOPh) | 3:08 | 2025-04-25 |  |
 | [Fool 4 U \- E\. Live Remix](https://open.spotify.com/track/3FIFRSHy5Wz9wNiiQSwO3b) | [E da Boss](https://open.spotify.com/artist/2yG3IyJmbk63oqFlHHVGLL), [Ishtar](https://open.spotify.com/artist/3c8qkOKulbMnNWlEY1XZvW), [E\. Live](https://open.spotify.com/artist/0HB3DYw6dUNqE9wFm6edkT) | [Fool 4 U \(E\. Live Remix\)](https://open.spotify.com/album/5GFXXFXIjbcq4Bt5MPj2Hr) | 4:00 | 2023-09-08 |  |
 | [Fool For You](https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L) | 2:55 | 2021-07-26 |  |
 | [Fool For You](https://open.spotify.com/track/4cFn7EyvJU4x0xJ34R2d6d) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/3eHSZLaNryhqzy0d5dUaOH) | 2:55 | 2021-07-26 | 2024-04-19 |
@@ -159,7 +160,7 @@
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-07-08 |  |
 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 | 2021-07-26 | 2024-04-19 |
 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 | 2021-07-26 |  |
-| [What Ever It May Be \(Diamond Cut\)](https://open.spotify.com/track/4KzIYex4b4zPXKZxyzM97K) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [What Ever It May Be \(Diamond Cut\)](https://open.spotify.com/album/369LanidLMx9Q1G40wKfhl) | 3:59 | 2023-05-26 |  |
+| [What Ever It May Be \(Diamond Cut\)](https://open.spotify.com/track/4KzIYex4b4zPXKZxyzM97K) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [What Ever It May Be \(Diamond Cut\)](https://open.spotify.com/album/369LanidLMx9Q1G40wKfhl) | 3:59 | 2023-05-26 | 2025-04-26 |
 | [What U Want](https://open.spotify.com/track/3AeYrDBrSlVJtDyxhiZMpg) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [What U Want](https://open.spotify.com/album/16l9UyWdSuNBbbaca9nPA9) | 3:40 | 2023-01-13 |  |
 | [Why Do I Do \(La Felix Remix\) \[feat\. Jason Gaffner\]](https://open.spotify.com/track/2sUKbuWG7ueFa93Sti3Svr) | [Sam Padrul](https://open.spotify.com/artist/6G6wGudDVkxMg6SaCF0bdF), [Jason Gaffner](https://open.spotify.com/artist/6neAZyHgBG8SyAaIdLpRBe) | [Why Do I Do \(The Remixes\)](https://open.spotify.com/album/0JASYasDsRGpNVcKfKNop5) | 3:52 | 2021-07-26 |  |
 | [Y.A.T.O.](https://open.spotify.com/track/18hqHOOqRJc27Eg6xLQt8l) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Y.A.T.O.](https://open.spotify.com/album/4uLjZRhLYU7yQHleJAvyzI) | 3:40 | 2024-03-29 |  |

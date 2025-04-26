@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Panguino](https://open.spotify.com/user/megustager) - 652 likes - 492 songs - 1 day 10 hr 7 min
+[Panguino](https://open.spotify.com/user/megustager) - 654 likes - 501 songs - 1 day 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -500,5 +500,14 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 490 | [Pray for +++++](https://open.spotify.com/track/4z7hXHQ3isbT5vm5GuQaym) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Pray for +++++](https://open.spotify.com/album/4MT5hXU20ertKcjkarMGcn) | 3:54 |
 | 491 | [Still Alive \(feat\. WaMi\)](https://open.spotify.com/track/3Ap7L7YAH8Ejax4j1hgjCv) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol) | [Still Alive \(feat\. WaMi\)](https://open.spotify.com/album/1JsbLzloqC4ewSj2rzvDgO) | 2:59 |
 | 492 | [Drive Impact](https://open.spotify.com/track/7M5ybu78eKG5uvONmQH9Kn) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Drive Impact](https://open.spotify.com/album/1CBAEw3bIp8BKZM77jXsju) | 2:28 |
+| 493 | [Don't be silly](https://open.spotify.com/track/6aCSl4su90Kyx7PioZaiWH) | [Avenge Trekkies](https://open.spotify.com/artist/4a6spjtgiulE3YnKZ7836b) | [ISACCA 2](https://open.spotify.com/album/3KCjtu0UFcyHB4a29sdHY0) | 4:56 |
+| 494 | [Chain Reaction](https://open.spotify.com/track/1iLlRAPNa0VDj89MeyQcDj) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Kamikaze](https://open.spotify.com/artist/6QzshKdtq6NS0Jac1nMn6I) | [Supermax](https://open.spotify.com/album/35XgR3Tg1pZnu8SBEu3eVM) | 5:23 |
+| 495 | [Inexorable Angel](https://open.spotify.com/track/4ixnG3Bqf69uv8BPGTWt7C) | [kanoryo](https://open.spotify.com/artist/6nFyBgKgu44RIgJEzLxWwr) | [Cruel Wounds](https://open.spotify.com/album/5eMgD9hxqA37sV6OJHl6QK) | 4:01 |
+| 496 | [Psyber YAKUZA](https://open.spotify.com/track/12Pbqa28U7Pw2uOpL6panS) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Source of Creation](https://open.spotify.com/album/25QZ1ttaOP6bS7OUYtJ44f) | 4:10 |
+| 497 | [Reverse](https://open.spotify.com/track/5gg4pcBg9M5meRkBDKSyFb) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [Japanese Stream Hardcore Vol.5](https://open.spotify.com/album/0rkTL9lKpjJKMdRQaQXBEk) | 5:21 |
+| 498 | [Hardface](https://open.spotify.com/track/034Cd9CZPSOvofqdNoirci) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [Nightmare Crisis](https://open.spotify.com/album/5lwls1iLujSwpp8QHKDVW8) | 4:58 |
+| 499 | [Ghost](https://open.spotify.com/track/6MPv73U1k6fsjsJ8m8Ld3Q) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [IRREPARABLE HARDCORE IS BACK 2 鳳雷蘖華 ～ホウライゲッカ～](https://open.spotify.com/album/4lrzI4S5ghiPY8tWYni66C) | 3:49 |
+| 500 | [EdgE of xtAsiE](https://open.spotify.com/track/1cIae1DhPfifIuzIV49DPJ) | [kenta\-v.ez.](https://open.spotify.com/artist/4cN1VW0tv2952s0ywPjQU6) | [Japanese Stream Hardcore Vol.5](https://open.spotify.com/album/0rkTL9lKpjJKMdRQaQXBEk) | 4:58 |
+| 501 | [Divineness](https://open.spotify.com/track/5RpkyjazrAGLmrAZwRdkPR) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Japanese Stream Hardcore Vol.5](https://open.spotify.com/album/0rkTL9lKpjJKMdRQaQXBEk) | 5:14 |
 
-Snapshot ID: `AAACSlbGgH4RE+uwpk6VNsR5CqI9h9b0`
+Snapshot ID: `AAACU0T26p+k/1UgfPtm7eQo6lXMLcXt`

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin Van Buuren &amp; Sam Grey
 
-1,375 songs - 3 day 1 hr 17 min
+1,376 songs - 3 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Going On](https://open.spotify.com/track/2kZwVd0bmdCIQelHBWiDs6) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Going On](https://open.spotify.com/album/0XMHqRK39lC1ce7Rm0Y4CZ) | 2:26 | 2023-02-09 | 2023-06-23 |
 | [Gold](https://open.spotify.com/track/1AFZzulpCuxiJNqaUjmP1O) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK), [Belle Humble](https://open.spotify.com/artist/5Uh9Oco0Khv18UvTo2PucM) | [Gold](https://open.spotify.com/album/5ktG7pHxnHdBmnldXsrNpa) | 3:07 | 2022-09-08 | 2022-09-30 |
 | [Golden Dub](https://open.spotify.com/track/1mp48OS0HJgC7oEzazz0EG) | [ODF](https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu) | [Golden Dub](https://open.spotify.com/album/7mMv8y2f5PQ6h0jW4bgrVl) | 2:37 | 2024-08-22 | 2025-04-04 |
+| [Gone Forever](https://open.spotify.com/track/2V5mm4VjIuiiA7bJMJ5wvI) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [Gone Forever](https://open.spotify.com/album/7qofrU0BKWcy7n8PMYGqxg) | 2:08 | 2025-04-25 |  |
 | [Gone Tomorrow](https://open.spotify.com/track/0ge3ZUDEvyPZvd13VoVd0H) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Gone Tomorrow](https://open.spotify.com/album/3u25jj4B4cqGqxEsPRFmZO) | 2:23 | 2022-09-23 | 2023-01-13 |
 | [Good Feeling](https://open.spotify.com/track/19UMqlpHqBE28hie0nwYOl) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Armada Music Year Mix 2022, Vol\. 1](https://open.spotify.com/album/71medK8B0OS8y3wz95AFEi) | 2:49 | 2022-12-08 | 2023-02-10 |
 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 | 2022-06-09 | 2022-12-09 |

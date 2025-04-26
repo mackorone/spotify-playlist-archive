@@ -4,7 +4,7 @@
 
 > mostly furry
 
-391 songs - 19 hr 13 min
+392 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [If I Was There](https://open.spotify.com/track/7ibI9cceboRF5HOnQEQtNH) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [If I Was There](https://open.spotify.com/album/7wBBM4aSlSACuAzm6zn0Zj) | 3:29 | 2025-04-24 |  |
 | [In The Light](https://open.spotify.com/track/1jFB7QVvVvncHpmRtOLIBb) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [In The Light](https://open.spotify.com/album/4SjQ4AdG3TpiGDdVjeXrfl) | 2:57 | 2025-02-14 |  |
 | [In Your Rain](https://open.spotify.com/track/1BWZJDDjnV0trlwD2wx19j) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [In Your Rain](https://open.spotify.com/album/4ZokxoM8A4uMm5E9i3yIBM) | 3:28 | 2025-04-24 |  |
+| [INFAMOUS](https://open.spotify.com/track/1HgS8I7Nv49l11BJpf9j25) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [INFAMOUS](https://open.spotify.com/album/503ZXvyBTF4zuNLlR4aVon) | 2:36 | 2025-04-25 |  |
 | [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 | 2024-02-07 |  |
 | [Inside of Every Demon Is a Rainbow \(From "Hazbin Hotel"\)](https://open.spotify.com/track/08WXtVwEf7rxDDguYQrPmc) | [Elsie Lovelock](https://open.spotify.com/artist/2FwUfnGsFBk5lOEMdtl7bN) | [Inside of Every Demon Is a Rainbow \(From "Hazbin Hotel"\)](https://open.spotify.com/album/2FgZCcIha9lPeNW3iQT18u) | 1:38 | 2024-05-14 |  |
 | [Instinct](https://open.spotify.com/track/7luszGFPSI7zq5ItmhTk21) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:16 | 2023-11-18 |  |
@@ -339,7 +340,7 @@
 | [The Fur Life](https://open.spotify.com/track/3aoFXdArNt0iJDqZ6MkNRu) | [Cyberhound](https://open.spotify.com/artist/0B15suDyWUUrMTXJNUJ5gH) | [New Life](https://open.spotify.com/album/0CPoj89NAJHG7ZjP0G6he1) | 4:03 | 2024-01-08 |  |
 | [The Imposter](https://open.spotify.com/track/1WtexFNVh80COQeLM8dN8H) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [The Imposter](https://open.spotify.com/album/4iGt3JAFqaz03oiQnpwPxA) | 1:57 | 2024-05-15 |  |
 | [The Knife Dance](https://open.spotify.com/track/4SmJGbHa758iMCjg7PZM5l) | [AJ Dispirito](https://open.spotify.com/artist/3GCo22R8vSTHqSP5mYM1E7) | [Murder Drones Volume 1 \(Original Webseries Soundtrack\)](https://open.spotify.com/album/5xTdDsYkHJSrat1PsnCGG1) | 1:11 | 2024-06-17 |  |
-| [The Library](https://open.spotify.com/track/5kl9IJlQuFjoaxsmNFy2NW) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:36 | 2024-12-24 |  |
+| [The Library](https://open.spotify.com/track/5kl9IJlQuFjoaxsmNFy2NW) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:36 | 2024-12-24 | 2025-04-26 |
 | [The Shark](https://open.spotify.com/track/1lm54EgMfCwFKATamXEcDh) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:36 | 2024-12-24 |  |
 | [The Singing Dog](https://open.spotify.com/track/4RvDAJlSiZFe6OXZaZj8qb) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:23 | 2023-11-18 |  |
 | [The Squid Dog](https://open.spotify.com/track/5gNnMZJRHIUo0ww4yD6P06) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:36 | 2024-12-24 |  |

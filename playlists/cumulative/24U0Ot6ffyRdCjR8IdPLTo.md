@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-382 songs - 20 hr 58 min
+384 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Glass on the Shelf](https://open.spotify.com/track/0coaS3vPUhouAAWWhZtXYx) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Glass on the Shelf](https://open.spotify.com/album/31ig3AL64lmrzBDbuTRdJa) | 3:40 | 2023-08-15 | 2023-08-29 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2023-08-15 | 2023-08-29 |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-08-28 | 2025-01-19 |
+| [Godspeed](https://open.spotify.com/track/2nrUtbYTSqCqVIsuqdhuim) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [I Am Digital, I Am Divine](https://open.spotify.com/album/1x83gHUZAFBw28GmqaCTtm) | 3:07 | 2025-04-25 |  |
 | [Good Stuff \- Babeheaven Remix](https://open.spotify.com/track/29TjpLNz9eidzNIFDIwovJ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Good Stuff \(Babeheaven Remix\)](https://open.spotify.com/album/4o8zvIc25D4Tv7UiqThv3D) | 4:00 | 2021-12-06 | 2023-08-16 |
 | [Grace](https://open.spotify.com/track/5KEgyKlPVrdD2GXIJsWtSq) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Grace](https://open.spotify.com/album/4ZwIy5IK6CDm5hWlNk2SBg) | 2:42 | 2021-12-06 | 2023-08-16 |
 | [Green](https://open.spotify.com/track/5Qbbt2pFCtK1TURRKyc44t) | [Abraham Marder](https://open.spotify.com/artist/1mWBfXz6jucW65OnB7ZJsz) | [Green \(An Original Song from the Motion Picture “Sound of Metal”\)](https://open.spotify.com/album/3fpm5s5FAe2FnAbHTuTXt5) | 4:27 | 2021-12-06 | 2023-08-16 |
@@ -200,7 +201,7 @@
 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 | 2025-02-17 |  |
 | [Lying](https://open.spotify.com/track/1GsFAbxNUsYIrqY1p5gOgD) | [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Lying](https://open.spotify.com/album/1M0c54SpS4tyuPC54ftu3T) | 2:10 | 2023-08-15 | 2025-02-18 |
 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 | 2023-08-28 | 2024-12-14 |
-| [Marble Arch](https://open.spotify.com/track/21zKWP33iPQYuCWIWipRhk) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Marble Arch](https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG) | 3:11 | 2025-03-21 |  |
+| [Marble Arch](https://open.spotify.com/track/21zKWP33iPQYuCWIWipRhk) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Marble Arch](https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG) | 3:11 | 2025-03-21 | 2025-04-26 |
 | [Marry Me](https://open.spotify.com/track/67euMkmJYS9ywPTsCt7krD) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Diary of Me](https://open.spotify.com/album/41O0uehAu0n6jqG4RTrL2u) | 4:05 | 2021-12-06 | 2023-08-16 |
 | [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 | 2024-06-14 | 2025-02-18 |
 | [Maybe Don't \(feat\. JP Saxe\) \- HONNE Remix](https://open.spotify.com/track/11MUf3KmUWkwGGT0nHgv7g) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Maybe Don't \(feat\. JP Saxe\) \[HONNE Remix\]](https://open.spotify.com/album/1wxjjTywtdnvsa1GCNUy1M) | 2:55 | 2021-12-06 | 2023-08-16 |
@@ -309,6 +310,7 @@
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-28 | 2023-10-07 |
 | [Stains](https://open.spotify.com/track/7yCZNi9rvhRUkuvN7kqYsr) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Stains](https://open.spotify.com/album/5NXk9SSME4rxNK809ODU1e) | 2:53 | 2023-08-28 | 2024-06-15 |
 | [stardust](https://open.spotify.com/track/5eBhZmoWwGhAPj80u4HWLB) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [stardust](https://open.spotify.com/album/3hRgPtGcjUUPmlWtH5cSHT) | 3:50 | 2025-02-17 |  |
+| [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-25 |  |
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-09-22 | 2024-12-14 |
 | [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 | 2023-08-15 | 2023-08-29 |
 | [Stranger](https://open.spotify.com/track/6bka0NlfgkLUFwcrFLwQYm) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Stranger](https://open.spotify.com/album/7qD6w06kURXtU4WmeRKK6x) | 2:28 | 2024-02-09 | 2025-02-18 |

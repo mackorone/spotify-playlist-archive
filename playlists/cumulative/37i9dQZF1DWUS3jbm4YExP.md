@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-779 songs - 2 day 7 hr 27 min
+780 songs - 2 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Gueta](https://open.spotify.com/track/5pvFJSec5bmKEpd2Tqs9nn) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H) | [Gueta \(feat\. Nitai Hershkovits, Nomok, Amir Bresler & Sefi Zisling\)](https://open.spotify.com/album/2USulCoijgTECfEEoWJ2NO) | 4:25 | 2021-10-06 | 2022-04-20 |
 | [Gun Metal Grey](https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 3:16 | 2021-10-06 | 2024-04-19 |
 | [Gun Metal Grey](https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Gun Metal Grey](https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ) | 3:16 | 2021-10-06 | 2023-03-27 |
+| [Guzleme](https://open.spotify.com/track/5sQeMmLk6u0fzwdF7q21Ij) | [Romano](https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl) | [Guzleme](https://open.spotify.com/album/57GR3YEACu0bpSLCu6GVFw) | 2:53 | 2025-04-25 |  |
 | [Gwadloup](https://open.spotify.com/track/7ikYwcWf1gwqJiMCAPg7NS) | [Edmony Krater](https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF) | [African Acid Is the Future \- Ambiance II](https://open.spotify.com/album/5ApV1y3Ks7IayzCbtHnK2G) | 7:39 | 2021-10-06 | 2022-05-08 |
 | [Gyae Su](https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC) | 4:12 | 2021-10-06 | 2024-04-19 |
 | [Gyae Su](https://open.spotify.com/track/4dqT5slEDm4TCG8TKako0t) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/0vI4coIOAGzhLZRAIcDKHL) | 4:12 | 2021-10-06 | 2022-04-17 |
@@ -737,7 +738,7 @@
 | [Verde](https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 3:22 | 2021-10-06 |  |
 | [Vision 9](https://open.spotify.com/track/5UEvuAF0uXVHZ2hIY0uzhH) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Vision 9](https://open.spotify.com/album/3BpxJkpmH9yNYqLLcshcU9) | 7:19 | 2021-10-06 | 2022-07-28 |
 | [Vlinders](https://open.spotify.com/track/03jcvnZBur8sF2pZ3A1Ni6) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [kokon](https://open.spotify.com/album/2zckcXgFYNW53mXVfKlwLK) | 2:43 | 2023-05-22 | 2023-07-25 |
-| [Voulez Vous](https://open.spotify.com/track/4c0S9uhGublmkcgeUhC1yT) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Voulez Vous](https://open.spotify.com/album/5yqNOJhoE5q6NLqBNa6Cg8) | 3:55 | 2024-02-09 |  |
+| [Voulez Vous](https://open.spotify.com/track/4c0S9uhGublmkcgeUhC1yT) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Voulez Vous](https://open.spotify.com/album/5yqNOJhoE5q6NLqBNa6Cg8) | 3:55 | 2024-02-09 | 2025-04-26 |
 | [Voy de Aquí Pa'allá](https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ) | 3:08 | 2022-03-11 | 2022-04-15 |
 | [Vérité](https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Oko Ebombo](https://open.spotify.com/artist/0nxkDLU7KQX931VkQqaGwJ) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 3:50 | 2021-10-06 | 2024-04-28 |
 | [Waile](https://open.spotify.com/track/2SQ1RHD0v47oggTFmR68q1) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/2cYQVweVo4ZuMgIB40YRxl) | 5:15 | 2022-09-30 | 2022-11-22 |

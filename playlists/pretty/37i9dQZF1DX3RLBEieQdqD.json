@@ -1,13 +1,37 @@
 {
-  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Karen Lizarazo y Luis Alfonso",
-  "num_followers": 146881,
+  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Paola Jara,  Arelys Henao y Francy",
+  "num_followers": 146946,
   "original_name": "Ranchenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/j+sgAAAAD0dF9mtLxmWM1K2WY4BjBi",
+  "snapshot_id": "aAs0mAAAAABnJqRKx4glYIJdn/uYtlvp",
   "tracks": [
+    {
+      "added_at": "2025-04-25 07:07:04",
+      "album": {
+        "name": "Entre Tres",
+        "url": "https://open.spotify.com/album/4wGZbVvcruRcSUkz7sO4Ys"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 185010,
+      "name": "Entre Tres",
+      "url": "https://open.spotify.com/track/30Hg8iU4qa3jF4bHWFuntU"
+    },
     {
       "added_at": "2025-03-21 05:46:29",
       "album": {
@@ -63,6 +87,22 @@
       "duration_ms": 298706,
       "name": "Sin Medir Distancias",
       "url": "https://open.spotify.com/track/1p3kQIzyl2NKeJ45uDQw4G"
+    },
+    {
+      "added_at": "2025-04-25 07:07:04",
+      "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/7zkCZgGHkGyzBfLCoTastp"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/1bygAjLggvdiFzDdBX155d"
     },
     {
       "added_at": "2025-03-21 05:46:29",
@@ -121,6 +161,22 @@
       "url": "https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h"
     },
     {
+      "added_at": "2025-04-25 07:07:04",
+      "album": {
+        "name": "Am\u00e9",
+        "url": "https://open.spotify.com/album/1zwhYXkqsGpFHTFoCA5dmY"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "Am\u00e9",
+      "url": "https://open.spotify.com/track/0Ld2aKtIASbu5EFl3rRcIp"
+    },
+    {
       "added_at": "2025-03-21 05:46:29",
       "album": {
         "name": "Lo M\u00e1s Importante Es El Amor",
@@ -159,66 +215,6 @@
       "duration_ms": 221311,
       "name": "El DM",
       "url": "https://open.spotify.com/track/4kqg2zepbSejpGMbQY58gy"
-    },
-    {
-      "added_at": "2025-03-21 05:46:29",
-      "album": {
-        "name": "Regional Live by Yohan Usuga (Vol. 1)",
-        "url": "https://open.spotify.com/album/1dnpBJLW8JpBwlkNvpZ4El"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso",
-          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
-        },
-        {
-          "name": "Yohan Usuga",
-          "url": "https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ"
-        }
-      ],
-      "duration_ms": 144606,
-      "name": "Cacho x Cacho",
-      "url": "https://open.spotify.com/track/4u4gK0RrCosD5WdraNv4GH"
-    },
-    {
-      "added_at": "2025-01-24 20:09:39",
-      "album": {
-        "name": "Vallenatos Norte\u00f1os",
-        "url": "https://open.spotify.com/album/3xlj3HAr3M7qtkC6hhDqgY"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Angelina Victoria",
-          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
-        },
-        {
-          "name": "Vallenatos Norte\u00f1os",
-          "url": "https://open.spotify.com/artist/6XfjRUwgJpsY7UfUdIjc98"
-        }
-      ],
-      "duration_ms": 239900,
-      "name": "Ni\u00e9game Tres Veces",
-      "url": "https://open.spotify.com/track/4k583rCTuvPRyavFnlfguz"
-    },
-    {
-      "added_at": "2025-03-21 05:46:29",
-      "album": {
-        "name": "El Ni\u00f1o del Barrio",
-        "url": "https://open.spotify.com/album/1iYbnwi0y6IUfUCA4YWBzm"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso",
-          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
-        }
-      ],
-      "duration_ms": 136022,
-      "name": "El Ni\u00f1o del Barrio",
-      "url": "https://open.spotify.com/track/1AeXahQor3fgffkLy5yuZg"
     },
     {
       "added_at": "2024-11-29 05:36:50",

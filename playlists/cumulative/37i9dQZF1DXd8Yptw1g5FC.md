@@ -4,7 +4,7 @@
 
 > Selin x Sertab Erener ve haftanın en iyi çıkışları!
 
-938 songs - 1 day 23 hr 46 min
+939 songs - 1 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -864,7 +864,7 @@
 | [Yavrum](https://open.spotify.com/track/1yDIb9iFXv3XcSvf0GUQjg) | [Ezgi Kosa](https://open.spotify.com/artist/6fuRfSBoGP6XYSQa0eY1Jz) | [Yavrum](https://open.spotify.com/album/5Qui3lkdRy2DJb8sQhdIM6) | 2:37 | 2025-04-10 | 2025-04-18 |
 | [Yağmur olsam](https://open.spotify.com/track/0vNBOUXM4DpXLiCqlAsuoZ) | [Kubilay Kaya](https://open.spotify.com/artist/6kYPCxuSAog3cu8iwQnilK), [Meral Polat](https://open.spotify.com/artist/7ppr3YMiNbvuba753DH7k8) | [Yağmur olsam](https://open.spotify.com/album/6CVnsbeYX5mJVeBBgDv1ED) | 2:36 | 2025-04-17 | 2025-04-25 |
 | [yağmurlar](https://open.spotify.com/track/13r9BzCVg9Cj6GD9mvJkB1) | [Eytan](https://open.spotify.com/artist/3rtgZpxBTGp6NWtLMDvvEO) | [yağmurlar](https://open.spotify.com/album/65HtZKkX3lQW1uZXxHJzNm) | 2:04 | 2025-04-24 |  |
-| [Yaşa ya da Öl](https://open.spotify.com/track/1VKeZpLkCPLJIV2Dav2nWf) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [Kuty \- Yaşa ya da Öl](https://open.spotify.com/album/5DunYc0tmy1gVRw3zWbsQ0) | 2:00 | 2025-04-24 |  |
+| [Yaşa ya da Öl](https://open.spotify.com/track/1VKeZpLkCPLJIV2Dav2nWf) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [Yaşa ya da Öl](https://open.spotify.com/album/5DunYc0tmy1gVRw3zWbsQ0) | 2:00 | 2025-04-24 |  |
 | [Yaşamak](https://open.spotify.com/track/4uCViuHO6N7JLss097U7Jk) | [Ayaz Kaplı](https://open.spotify.com/artist/2f0EKdKutjbTcz6kPR9z7i), [Kaplan](https://open.spotify.com/artist/5NpMXRQGV9IpcGfuT8n5qt) | [Yaşamak](https://open.spotify.com/album/4UuwrSudkWwS8SYfrNdbGa) | 2:15 | 2025-04-03 | 2025-04-11 |
 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 | 2025-04-10 | 2025-04-18 |
 | [Yek Dova](https://open.spotify.com/track/5vb1HqhQ2roInwNz4Edcqc) | [Cansever](https://open.spotify.com/artist/4i6eVyyyPdSryQCzO7GK0K) | [Yek Dova](https://open.spotify.com/album/5NVumvZGu7kdazGtDHGZ76) | 5:36 | 2025-03-20 | 2025-03-28 |
@@ -884,7 +884,7 @@
 | [Yoksun Zaten](https://open.spotify.com/track/7JcHCvMm663ZSnhjkpbTNh) | [İbrahim Başaran](https://open.spotify.com/artist/0ZPemGtCG1EcUlmmwJyJWk) | [Yoksun Zaten](https://open.spotify.com/album/0TrVxLqNCgIte7umDKzcwk) | 3:08 | 2025-02-27 | 2025-03-07 |
 | [Yol](https://open.spotify.com/track/4EuL67kJsu0wlVZF2w87hn) | [Knock Out](https://open.spotify.com/artist/7m4MegoOzuTPWeNk8paI1z), [Kiddy](https://open.spotify.com/artist/79bH6fRyhLfkcp8q5TFetv), [RASH](https://open.spotify.com/artist/7HePKGjMU8Eofq2Bp65pLX), [Kuşku](https://open.spotify.com/artist/453qhJfLPmhF8OjgsyvL84) | [Yol](https://open.spotify.com/album/68NEYI6ZTSapZMaKsU5M4q) | 3:06 | 2025-04-03 | 2025-04-11 |
 | [Yol Var](https://open.spotify.com/track/4AX0DHzKP0BTkt0Ia4iCN5) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx), [Öge471](https://open.spotify.com/artist/0aS9UPqODEOPZaUT0cWYMw) | [Yol Var](https://open.spotify.com/album/6kGuDW4UkgnSM7XLRiAFOw) | 2:29 | 2025-03-27 | 2025-04-04 |
-| [Yola Devam](https://open.spotify.com/track/1jTQrIRZUJAfUMdRHu3s5E) | [Beril Raperin](https://open.spotify.com/artist/7LjdSdCRrPRUEUSy5ChO6G), [Batuhan Sarı](https://open.spotify.com/artist/4SMOu4uWYqJiMnXBNWxXKi) | [Yola Devam](https://open.spotify.com/album/3C9E5oYJ0HF2kZlxUMcN4p) | 2:32 | 2025-04-24 |  |
+| [Yola Devam](https://open.spotify.com/track/1jTQrIRZUJAfUMdRHu3s5E) | [Beril Raperin](https://open.spotify.com/artist/7LjdSdCRrPRUEUSy5ChO6G) | [Yola Devam](https://open.spotify.com/album/3C9E5oYJ0HF2kZlxUMcN4p) | 2:32 | 2025-04-24 |  |
 | [Yolculuk Nereye?](https://open.spotify.com/track/4MkFsFaz0TN9BKIcbnysRK) | [Taş Kağıt Makas](https://open.spotify.com/artist/3XmqOy6FTEkvvm0fDz11Oe) | [Yolculuk Nereye?](https://open.spotify.com/album/594t3j5npHzK2U0w3GFSqF) | 2:53 | 2025-04-03 | 2025-04-11 |
 | [Yolumdan Ettin](https://open.spotify.com/track/42NUzdt7DuAtSTcPcM9ljT) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Yolumdan Ettin](https://open.spotify.com/album/2czYQWydB9CGDKm6Ur06c7) | 3:25 | 2025-02-20 | 2025-02-28 |
 | [Yolun Sonunda](https://open.spotify.com/track/3D7VC2AO6fdVlIt2NyOjsy) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [Yolun Sonunda](https://open.spotify.com/album/20v9knveCQoniqFEdUYeFL) | 3:41 | 2025-02-27 | 2025-03-07 |
@@ -932,6 +932,7 @@
 | [Özgürlük](https://open.spotify.com/track/19oVO1hFQBqrum2bmHBqvC) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Özgürlük](https://open.spotify.com/album/1H2JdnSioGeGGgnxfyT0rN) | 3:03 | 2025-03-06 | 2025-03-14 |
 | [Üfle](https://open.spotify.com/track/4IAwD8rrCyOkPK8Hhevnx8) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Üfle](https://open.spotify.com/album/3SDpON6JzGJY6dd2McE3bK) | 3:21 | 2025-04-24 |  |
 | [Üstümüze Basmışlar](https://open.spotify.com/track/08KIW7J3cH4AgyYd1TwG2s) | [Vugar](https://open.spotify.com/artist/2wO0b4hd99sGYcy3K4ySku) | [Üstümüze Basmışlar](https://open.spotify.com/album/60cHUSYEW2SSrwlqKL4wnb) | 3:05 | 2025-02-20 | 2025-02-28 |
+| [Üzmez Mi](https://open.spotify.com/track/0ZZNPJmRZQbmgEoRqdzCX0) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Üzmez Mi](https://open.spotify.com/album/2u0rYl94jXONQLwX97FTb2) | 2:30 | 2025-04-25 |  |
 | [Üzüldüğüm Zamanlarda](https://open.spotify.com/track/12lZ76ibE7cuD2kIR8D89i) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Üzüldüğüm Zamanlarda](https://open.spotify.com/album/4odY0LnC5NAf2fc8kSCjlH) | 3:07 | 2025-02-27 | 2025-03-07 |
 | [şafakta bi cuckolddum](https://open.spotify.com/track/4O32DkGG9zzgaOEubiqWdi) | [Orkundk](https://open.spotify.com/artist/6D4pFxSoZkmJJnFUtSkWum) | [şafakta bi cuckolddum](https://open.spotify.com/album/2qUfo3QUulXjroThxpBhZw) | 2:44 | 2025-04-10 | 2025-04-18 |
 | [ŞAHANE](https://open.spotify.com/track/4DYsweyIYLFV51MPOD2zLD) | [Göksu](https://open.spotify.com/artist/6y4JUCgFq7gjI79Luurhyq) | [ŞAHANE](https://open.spotify.com/album/1luTmIUkTvwRNE3t44CDZW) | 2:21 | 2025-04-17 | 2025-04-25 |

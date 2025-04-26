@@ -2,7 +2,7 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Novel Fergus
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Uchu Yurei 宇宙幽靈
 
 1,397 songs - 3 day 6 hr 55 min
 
@@ -1168,7 +1168,7 @@
 | [新しい夢](https://open.spotify.com/track/6EiynkTuHZlV4pZNDa0gVs) | [乙女シンドリーム](https://open.spotify.com/artist/1Efsbqw7CE223XEihVWRFU) | [新しい夢/恋のおまじない我愛你](https://open.spotify.com/album/3YMFOov3nRBGTnyHj99NIC) | 3:47 | 2022-10-06 | 2023-03-18 |
 | [新的世界 New World](https://open.spotify.com/track/6a3lZEaqHnRoda9XBON1Ue) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy), [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [新的世界 New World](https://open.spotify.com/album/4RadJm3zCzJkD9D0jObPs0) | 2:41 | 2022-09-08 | 2023-01-06 |
 | [斷片](https://open.spotify.com/track/1NePC0gOQc0MbnSBKO6PdG) | [Jinson Ip](https://open.spotify.com/artist/43OJvTW9eyOp6TP6NACtqZ) | [斷片](https://open.spotify.com/album/6EEFMpifrXRGEX948OOJGy) | 4:02 | 2023-11-30 | 2024-02-02 |
-| [斷線](https://open.spotify.com/track/2v4naQglKacbiTKO2Ly7RW) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [斷線](https://open.spotify.com/album/1KRuDLI7VWP7HbcsPLLCHl) | 4:22 | 2025-04-24 |  |
+| [斷線 \- Live Version](https://open.spotify.com/track/2v4naQglKacbiTKO2Ly7RW) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [斷線 \(Live Version\)](https://open.spotify.com/album/1KRuDLI7VWP7HbcsPLLCHl) | 4:22 | 2025-04-24 |  |
 | [方和向](https://open.spotify.com/track/3fJwYWrWhX0G7NpYXXc78S) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v) | [方和向](https://open.spotify.com/album/402dJiVh9AcA4FayAOgkbm) | 4:08 | 2025-04-17 |  |
 | [日出的缺口](https://open.spotify.com/track/7ap3XCfO7Wr5iO4K45sqrk) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [日出的缺口](https://open.spotify.com/album/0f2AGfQ2LZwnjUmbvqY9as) | 3:16 | 2022-10-20 | 2023-03-18 |
 | [日前](https://open.spotify.com/track/7B01stoklzmVRdEHLYQHCI) | [惡夢扭蛋](https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt) | [日前](https://open.spotify.com/album/5crgKrXM275zPH5T7YjNdc) | 3:35 | 2024-05-16 | 2024-11-15 |

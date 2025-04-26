@@ -1,13 +1,45 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Aziya",
-  "num_followers": 426296,
+  "description": "Dark, hard hitting pop. Cover: Cloudy June",
+  "num_followers": 426297,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAKE9gAAAACnTYOFUI3Ve2vviVpPabN+",
+  "snapshot_id": "aAsI5gAAAACZLId7opC/31I6lsdjJpI2",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:00:22",
+      "album": {
+        "name": "if jesus saw what we did last night",
+        "url": "https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "if jesus saw what we did last night",
+      "url": "https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL"
+    },
+    {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "you should be scared",
+        "url": "https://open.spotify.com/album/3dzY3s9OZBgrfqjqs6oHgh"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 134640,
+      "name": "you should be scared",
+      "url": "https://open.spotify.com/track/0TdQSyR07a1aDdY4I8C52T"
+    },
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
@@ -39,22 +71,6 @@
       "duration_ms": 152249,
       "name": "I'M NOT SCARED",
       "url": "https://open.spotify.com/track/44aXDy69XdxDgOxULxKIl3"
-    },
-    {
-      "added_at": "2025-02-21 05:00:22",
-      "album": {
-        "name": "if jesus saw what we did last night",
-        "url": "https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "if jesus saw what we did last night",
-      "url": "https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL"
     },
     {
       "added_at": "2025-04-04 04:00:32",
@@ -783,22 +799,6 @@
       "duration_ms": 197257,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U"
-    },
-    {
-      "added_at": "2025-01-10 05:00:16",
-      "album": {
-        "name": "Die Young",
-        "url": "https://open.spotify.com/album/3i7soTWcu0mqsaDRjnKNEb"
-      },
-      "artists": [
-        {
-          "name": "Caroline Reilly",
-          "url": "https://open.spotify.com/artist/24dtiWBrm1YPudlKmi2A4E"
-        }
-      ],
-      "duration_ms": 182776,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/2r1LYYOgHiAKiBgNIdPVHQ"
     },
     {
       "added_at": "2024-11-26 21:23:53",

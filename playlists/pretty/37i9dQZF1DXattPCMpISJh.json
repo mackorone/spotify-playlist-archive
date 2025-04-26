@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 137464,
+  "num_followers": 137508,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAHOYQAAAABkOCo6d9+xSE/gKzA2701N",
+  "snapshot_id": "aAsI7QAAAADtwb1CbrgOV561pILFQ3mD",
   "tracks": [
     {
       "added_at": "2025-03-07 05:00:21",
@@ -39,6 +39,22 @@
       "duration_ms": 183750,
       "name": "Waste No Time",
       "url": "https://open.spotify.com/track/5FC5usNqCax1dFzRKW1aOR"
+    },
+    {
+      "added_at": "2025-04-25 04:00:45",
+      "album": {
+        "name": "Right To Rhythm",
+        "url": "https://open.spotify.com/album/0GJQBqDAIRx4w9XBSf8RGx"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "duration_ms": 192833,
+      "name": "Right To Rhythm",
+      "url": "https://open.spotify.com/track/4ZmVyNyhSdUZL1aXflrFAb"
     },
     {
       "added_at": "2025-04-18 04:00:33",
@@ -1159,34 +1175,6 @@
       "duration_ms": 221744,
       "name": "Children (What Time It Is)",
       "url": "https://open.spotify.com/track/62mKCfQX5J2nnEq8lSwuOX"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Missing You (Michael Gray Remix)",
-        "url": "https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi"
-      },
-      "artists": [
-        {
-          "name": "Artful",
-          "url": "https://open.spotify.com/artist/1VFA40Lt5TiFr0qWoWNQfw"
-        },
-        {
-          "name": "Ridney",
-          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
-        },
-        {
-          "name": "Terri Walker",
-          "url": "https://open.spotify.com/artist/0x8TJV6fy1BwsZUpHJC13S"
-        },
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
-        }
-      ],
-      "duration_ms": 179037,
-      "name": "Missing You - Michael Gray Remix",
-      "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
     },
     {
       "added_at": "2023-11-17 05:01:00",

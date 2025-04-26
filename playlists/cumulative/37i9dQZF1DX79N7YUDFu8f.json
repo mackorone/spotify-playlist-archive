@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/6nbxkRFx3GeRGK84ToSHsr"
+      },
+      "artists": [
+        {
+          "name": "Sisy Fos",
+          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237077,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/687mduwpvKdFn06IHOl1fM"
+    },
+    {
+      "album": {
         "name": "Be Around",
         "url": "https://open.spotify.com/album/4Pkfukw7ZE1DenjeTg4eQo"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 195773,
       "name": "Be Around",
       "url": "https://open.spotify.com/track/7o1sqyqK6IgzU30vTj2nyy"
@@ -788,7 +806,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 183955,
       "name": "Don't You",
       "url": "https://open.spotify.com/track/57qbmijYidoNcaLkT9zXQJ"
@@ -1092,6 +1110,28 @@
       "duration_ms": 277504,
       "name": "From Up Here",
       "url": "https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf"
+    },
+    {
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/4WHaeKXeNf93PZXhTomq9u"
+      },
+      "artists": [
+        {
+          "name": "RAPHA",
+          "url": "https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW"
+        },
+        {
+          "name": "Looping Sessions",
+          "url": "https://open.spotify.com/artist/6oomHOCNWr4HxwPw9LVz47"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220330,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/7FAs7aZKElmNxxhfEXH2vq"
     },
     {
       "album": {
@@ -3949,6 +3989,24 @@
     },
     {
       "album": {
+        "name": "Strongest Girl",
+        "url": "https://open.spotify.com/album/6V6ikokpSTTqRoa0ZySpTu"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207469,
+      "name": "Strongest Girl",
+      "url": "https://open.spotify.com/track/4kjgZBKYqcawEEPrKVMleZ"
+    },
+    {
+      "album": {
         "name": "Sunday Smile",
         "url": "https://open.spotify.com/album/1f6eML7QLTmlI5lyMPsblL"
       },
@@ -4738,7 +4796,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 136416,
       "name": "When Times Get Rough",
       "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"

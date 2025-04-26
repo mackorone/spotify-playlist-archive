@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-307 songs - 18 hr 58 min
+308 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Make That Change](https://open.spotify.com/track/176TfrKxalkOzOcSG1Mhyw) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Make That Change](https://open.spotify.com/album/2MjTzcFBoxPTWKrIB3iQAW) | 4:40 | 2022-10-21 | 2024-02-10 |
 | [Mess It Up \- Purple Disco Machine Remix](https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 3:35 | 2023-11-17 |  |
 | [Messie](https://open.spotify.com/track/36IHDOzNRDPltiZTYCbuwa) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [Messie](https://open.spotify.com/album/56tFnMDVp2wNef1zSmME0H) | 3:51 | 2025-02-07 |  |
-| [Missing You \- Michael Gray Remix](https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet) | [Artful](https://open.spotify.com/artist/1VFA40Lt5TiFr0qWoWNQfw), [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Terri Walker](https://open.spotify.com/artist/0x8TJV6fy1BwsZUpHJC13S), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Missing You \(Michael Gray Remix\)](https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi) | 2:59 | 2023-03-31 |  |
+| [Missing You \- Michael Gray Remix](https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet) | [Artful](https://open.spotify.com/artist/1VFA40Lt5TiFr0qWoWNQfw), [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Terri Walker](https://open.spotify.com/artist/0x8TJV6fy1BwsZUpHJC13S), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Missing You \(Michael Gray Remix\)](https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi) | 2:59 | 2023-03-31 | 2025-04-26 |
 | [Move](https://open.spotify.com/track/1mEen9l4C0Kq6gYBGARXoS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Drama Queen](https://open.spotify.com/album/0kMmfTz3OwAh73dSCN3FpW) | 2:44 | 2023-05-12 | 2024-04-19 |
 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Move](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 | 2023-05-12 |  |
 | [Move Me](https://open.spotify.com/track/7mNrHt87k4uLY6rtODEAvO) | [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [Maddam Mya](https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP) | [Move Me](https://open.spotify.com/album/3uzf0QnjYIXsb0jqIe1VCI) | 5:28 | 2023-04-07 |  |
@@ -230,6 +230,7 @@
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-28 | 2022-12-17 |
 | [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 | 2022-04-15 | 2023-10-07 |
 | [Right Back at Ya](https://open.spotify.com/track/6RCgjcZT39HqpPwiRGVPUY) | [Suki Soul](https://open.spotify.com/artist/51jCman0L3GDINLe3phz7t), [Leroy](https://open.spotify.com/artist/5vkZtKhcby3JzDaSkTQnCt) | [Right Back at Ya](https://open.spotify.com/album/5vaWj1ydB4XP1vkNOmc4PO) | 3:40 | 2024-02-09 |  |
+| [Right To Rhythm](https://open.spotify.com/track/4ZmVyNyhSdUZL1aXflrFAb) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Right To Rhythm](https://open.spotify.com/album/0GJQBqDAIRx4w9XBSf8RGx) | 3:12 | 2025-04-25 |  |
 | [Riviera](https://open.spotify.com/track/6XCKim7nYMo1JeSn6RrE8j) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Riviera](https://open.spotify.com/album/2oOkCQpBeEPRwdsbU7ILa7) | 2:49 | 2023-03-10 | 2023-07-01 |
 | [Rock With Me](https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Rock With Me](https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM) | 2:44 | 2022-07-08 | 2024-04-19 |
 | [San Frandiscothèque](https://open.spotify.com/track/08ke1gT4ktBBYfOhjlyISp) | [Wu Am I](https://open.spotify.com/artist/4EDxGYZZDNlYg4z7Y5HfyV), [Freddie](https://open.spotify.com/artist/6AiidoqL85n3AcQhXvrkoK) | [San Frandiscothèque](https://open.spotify.com/album/5yjijjmDH8REk56oT5WsCk) | 3:48 | 2021-07-30 | 2022-09-03 |

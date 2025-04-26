@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: ZO ZAZZ\(조째즈\)\)
 
-324 songs - 21 hr 8 min
+325 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [TT](https://open.spotify.com/track/1nMbZ9OsVNSLEyijI80EST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:32 | 2021-03-11 | 2022-02-18 |
 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 | 2021-03-11 | 2022-02-18 |
 | [Up & Down](https://open.spotify.com/track/5p1PL2Gz532ziKatpyjSNh) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Up & Down](https://open.spotify.com/album/7eXi3jZrvfqIfW3dDSl9Jt) | 3:09 | 2021-03-11 | 2022-02-18 |
+| [Uphill \(Live\)](https://open.spotify.com/track/2g3Jlni0sgiYB49kyw1gRg) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2015 Yoon Jong Shin](https://open.spotify.com/album/7Ko3ObwCWCvcHFTgLm0cWg) | 4:49 | 2025-04-25 |  |
 | [VVS](https://open.spotify.com/track/7Igh1mqghlHz5dimfQV85G) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Munchman](https://open.spotify.com/artist/7u2Nz7Bj2vbCps9AH5q6do), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Show Me the Money 9 Episode 1](https://open.spotify.com/album/6kMyOivhnaVCAfTw3ikjpB) | 5:35 | 2022-02-17 |  |
 | [VVS \(Feat\. JUSTHIS\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/2Zr0bYRHwWXi7eM2wuE6Aj) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Munchman](https://open.spotify.com/artist/7u2Nz7Bj2vbCps9AH5q6do), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Show Me the Money 9 Episode 1](https://open.spotify.com/album/70FWnBesejYnRifMGqbdxu) | 5:35 | 2022-02-23 | 2024-04-19 |
 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 | 2021-03-11 | 2022-02-18 |

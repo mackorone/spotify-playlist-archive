@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Teto e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Danilo e Davi e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -3243,6 +3243,32 @@
     },
     {
       "album": {
+        "name": "Direto do Alto Vol 1",
+        "url": "https://open.spotify.com/album/0wgdS0PTpAeNjkjQfBIqUK"
+      },
+      "artists": [
+        {
+          "name": "Dj Aguilar",
+          "url": "https://open.spotify.com/artist/1QywhHFJc6ix4XLDOUQVNE"
+        },
+        {
+          "name": "Dj Tchouzen",
+          "url": "https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy"
+        },
+        {
+          "name": "MC Marlon PH",
+          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112907,
+      "name": "Deixa Eu Mandar Meu Passinho",
+      "url": "https://open.spotify.com/track/1uYHfa5rjM1oUpKgst7U8F"
+    },
+    {
+      "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/0aN9m8iDUE1Khh5qL6Aj4q"
       },
@@ -3738,7 +3764,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 120937,
       "name": "Discreto",
       "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
@@ -9764,7 +9790,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 111044,
       "name": "Porsche Azul",
       "url": "https://open.spotify.com/track/5vT4pYzoIJHEZhkBx2BgOU"
@@ -10600,6 +10626,24 @@
       "duration_ms": 174937,
       "name": "Rol\u00ea",
       "url": "https://open.spotify.com/track/25141FAgU1OmwoC9W2i5E3"
+    },
+    {
+      "album": {
+        "name": "Manifesto Musical 2 (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183758,
+      "name": "Rom\u00e2ntico - Ao Vivo",
+      "url": "https://open.spotify.com/track/708yXS1fLm1gAXFyIQxtX2"
     },
     {
       "album": {

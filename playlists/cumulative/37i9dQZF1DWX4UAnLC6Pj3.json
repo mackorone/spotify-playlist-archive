@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Moy Bobadilla y Grupo Firme en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Espinoza Paz en portada.",
   "name": "Banda 2025",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 206000,
       "name": "4X4",
       "url": "https://open.spotify.com/track/2YmmgLpbAFNj7oJZ85ouCt"
+    },
+    {
+      "album": {
+        "name": "A Casi Nada",
+        "url": "https://open.spotify.com/album/240SlU1GGy3vb9QNJXbl8X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206260,
+      "name": "A Casi Nada",
+      "url": "https://open.spotify.com/track/03VoNjlOYSQ5Cg3iqWvQvw"
     },
     {
       "album": {
@@ -580,7 +598,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 148212,
       "name": "Aqui",
       "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 158813,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 138839,
       "name": "El Amor No Existe",
       "url": "https://open.spotify.com/track/05iyuBjH0VKipzIGRuDQUp"
@@ -2709,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "El Payaso",
+        "url": "https://open.spotify.com/album/1IDb4xJUubJpvtp9oqCnQE"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199276,
+      "name": "El Payaso",
+      "url": "https://open.spotify.com/track/01jyuuM0sA6EkRVqemjDyY"
+    },
+    {
+      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -2830,6 +2866,24 @@
       "duration_ms": 217434,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
+    },
+    {
+      "album": {
+        "name": "El Rey del Despecho",
+        "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234215,
+      "name": "El Pr\u00f3ximo Viernes",
+      "url": "https://open.spotify.com/track/28OJgDZ7mzzNfydnixtrVE"
     },
     {
       "album": {
@@ -3080,7 +3134,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 196750,
       "name": "Entre Golpes y Besos - En Vivo",
       "url": "https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x"
@@ -3510,7 +3564,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 133480,
       "name": "Gente Corriente",
       "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
@@ -3624,7 +3678,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 185514,
       "name": "Hola Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
@@ -3667,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1AAAdHHXc3qD0gjyjjrVtw"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205824,
+      "name": "Hoy perdemos",
+      "url": "https://open.spotify.com/track/0Ym9BCEtwqL1e5aBpVCyic"
+    },
+    {
+      "album": {
         "name": "Hablando Claro",
         "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
@@ -3696,7 +3768,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 162000,
       "name": "Ilusi\u00f3n 98",
       "url": "https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl"
@@ -4352,7 +4424,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 394587,
       "name": "Libro Abierto / Qu\u00e9 Se Te Olvid\u00f3 (En Vivo)",
       "url": "https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S"
@@ -6592,7 +6664,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 188266,
       "name": "Que Te Trague La Tierra",
       "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
@@ -7014,7 +7086,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 194634,
       "name": "Se Cans\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
@@ -7311,6 +7383,28 @@
     },
     {
       "album": {
+        "name": "Sin Miedo al \u00c9xito",
+        "url": "https://open.spotify.com/album/2R0Tuws9nwlxzrLwc7iLgm"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "Sin Miedo al \u00c9xito",
+      "url": "https://open.spotify.com/track/7MKkqXp6jE9IFoqe0gFKmm"
+    },
+    {
+      "album": {
         "name": "Soldado Ca\u00eddo",
         "url": "https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm"
       },
@@ -7402,7 +7496,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 189506,
       "name": "Soltero Para Rato",
       "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
@@ -7820,7 +7914,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 239377,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
@@ -8524,6 +8618,24 @@
       "duration_ms": 215106,
       "name": "Una Noche Cualquiera",
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+    },
+    {
+      "album": {
+        "name": "Uno Que Me Quiera",
+        "url": "https://open.spotify.com/album/312EqmC6gLFhohmIggI9iZ"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198635,
+      "name": "Uno Que Me Quiera",
+      "url": "https://open.spotify.com/track/0a4cj4UFXkPs32DBMP3kcc"
     },
     {
       "album": {

@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 151978,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/3ICy1GAnWag1jZ8IPRu4pY"
@@ -3436,6 +3436,28 @@
     {
       "album": {
         "name": "Dizzy",
+        "url": "https://open.spotify.com/album/16X9sXXSFBsGt29wDteYj0"
+      },
+      "artists": [
+        {
+          "name": "Miriam Cooper",
+          "url": "https://open.spotify.com/artist/2QBcmdWm0u9p6rDOJP1z2X"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153818,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/26NY8ZTbqkoBOZPgNWeMh7"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
         "url": "https://open.spotify.com/album/3Neq7HYDQDDJ0DOpzddNXr"
       },
       "artists": [
@@ -5606,6 +5628,28 @@
       "duration_ms": 184000,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/6a2gAUujHlkvpsGQU9UK6s"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/2bBd0JDFKOoy55VRnr5Lmm"
+      },
+      "artists": [
+        {
+          "name": "Heard Right",
+          "url": "https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl"
+        },
+        {
+          "name": "Elliot Vast",
+          "url": "https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210125,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/5hsOpbjgHD0dsFPLxxAAyM"
     },
     {
       "album": {
@@ -10805,6 +10849,32 @@
     },
     {
       "album": {
+        "name": "Mj & Peter",
+        "url": "https://open.spotify.com/album/4EuIoeFw4thnUweD26T9f4"
+      },
+      "artists": [
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Josh Reflex",
+          "url": "https://open.spotify.com/artist/00VzYlg9s04mj3d8oOth4P"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134745,
+      "name": "Mj & Peter",
+      "url": "https://open.spotify.com/track/4TMJBJnOorXI673tUtRJGY"
+    },
+    {
+      "album": {
         "name": "Moi Lolita",
         "url": "https://open.spotify.com/album/15HzRZBcOabZ0chCz2jUhS"
       },
@@ -12208,6 +12278,24 @@
       "duration_ms": 140995,
       "name": "Only At Night",
       "url": "https://open.spotify.com/track/1asABsxDVUpK7iF7ELSRFI"
+    },
+    {
+      "album": {
+        "name": "Only Us",
+        "url": "https://open.spotify.com/album/0Q7CHtFnknIDlRplfLOoy9"
+      },
+      "artists": [
+        {
+          "name": "ENVOL",
+          "url": "https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "Only Us",
+      "url": "https://open.spotify.com/track/3K1MapNENokJiM7hEKPVFY"
     },
     {
       "album": {
@@ -17228,7 +17316,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 163902,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/4rZInku37XsXiHg8Px4smI"

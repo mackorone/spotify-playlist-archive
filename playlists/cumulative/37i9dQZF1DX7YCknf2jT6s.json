@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Adrian Younge",
+  "description": "New jazz for open minds. Cover: Brandee Younger",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Rhythm, Melody and Harmony",
+        "url": "https://open.spotify.com/album/76iISZ0E026WTuARiTsbKL"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396035,
+      "name": "Ami's Dance",
+      "url": "https://open.spotify.com/track/6grxCw2w7dCPLGaouf2CXX"
+    },
+    {
+      "album": {
         "name": "Amor Enfeiti\u00e7ado",
         "url": "https://open.spotify.com/album/3a8zP6BnJb4dj6X827OdAt"
       },
@@ -1920,6 +1938,32 @@
       "duration_ms": 127866,
       "name": "Another Chance (feat. Jeff Bradshaw & The Origin Band)",
       "url": "https://open.spotify.com/track/5CiTbfWPMr4lJvas3v2nCm"
+    },
+    {
+      "album": {
+        "name": "Another Place (feat. Greentea Peng & Wu-Lu)",
+        "url": "https://open.spotify.com/album/16d9GYvZjejijFjzelydzg"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        },
+        {
+          "name": "Wu-Lu",
+          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383506,
+      "name": "Another Place - feat. Greentea Peng & Wu-Lu",
+      "url": "https://open.spotify.com/track/5iCYvkgXKa0v9BEjoRAfTy"
     },
     {
       "album": {
@@ -7234,7 +7278,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 332796,
       "name": "Cured and Seasoned",
       "url": "https://open.spotify.com/track/10KiENSIfqeQaSIfjPUeKD"
@@ -12079,6 +12123,24 @@
     },
     {
       "album": {
+        "name": "Gadabout Season",
+        "url": "https://open.spotify.com/album/6dqczzcOgNJro0Nv3rB9FS"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285567,
+      "name": "Gadabout Season",
+      "url": "https://open.spotify.com/track/3CbgZjjdLxd1tr5p4Gt6Q9"
+    },
+    {
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/6T87ZRG43EaW12n4lkyItO"
       },
@@ -12350,7 +12412,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 198028,
       "name": "Ghostly Shade Of Pale",
       "url": "https://open.spotify.com/track/6X9KZ50P2TpqY19z0OIpax"
@@ -13625,6 +13687,28 @@
     },
     {
       "album": {
+        "name": "Homage",
+        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480251,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/06pig4VFnQNUsJ1C8TjkEP"
+    },
+    {
+      "album": {
         "name": "Motherland Journey",
         "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
       },
@@ -13876,7 +13960,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 412847,
       "name": "House of Jade",
       "url": "https://open.spotify.com/track/72nSsPHdQVZwjWKK5wM3dM"
@@ -18568,7 +18652,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 251514,
       "name": "Love in the Garden",
       "url": "https://open.spotify.com/track/6oVCNH8wItq4dwERDsSCw1"
@@ -19546,7 +19630,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 269155,
       "name": "Medallion",
       "url": "https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC"
@@ -21758,6 +21842,36 @@
       "duration_ms": 397066,
       "name": "Noam",
       "url": "https://open.spotify.com/track/3HYHagZGinnjSfdDPOTgAg"
+    },
+    {
+      "album": {
+        "name": "Nolite Opus",
+        "url": "https://open.spotify.com/album/5XKHoExW15vm1Jr4WdAOtJ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Prasad",
+          "url": "https://open.spotify.com/artist/2s1FC3t4KRatwMqBrrTkjo"
+        },
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
+        },
+        {
+          "name": "Rejoicer",
+          "url": "https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk"
+        },
+        {
+          "name": "Jimi Prasad Orchestra",
+          "url": "https://open.spotify.com/artist/6liLn1iLVDGnyE3Cprb97m"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588375,
+      "name": "Nolite Opus",
+      "url": "https://open.spotify.com/track/0omSk7lD4y2dRS3slBe5Kq"
     },
     {
       "album": {
@@ -24096,7 +24210,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 282562,
       "name": "Pickles",
       "url": "https://open.spotify.com/track/4ZylM8818hpzl7Y1ilOJU2"
@@ -27240,6 +27354,28 @@
       "duration_ms": 430240,
       "name": "Seven Years Ago",
       "url": "https://open.spotify.com/track/5CQmhQqbVbEPiRHbvBP0df"
+    },
+    {
+      "album": {
+        "name": "SEVENFOLD",
+        "url": "https://open.spotify.com/album/60soXD5j9EQQoPBaTbmqol"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        },
+        {
+          "name": "Tyler Gauldin",
+          "url": "https://open.spotify.com/artist/0zkTQamZ2Vp5GYsoFUzJnU"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243898,
+      "name": "SEVENFOLD",
+      "url": "https://open.spotify.com/track/4UzlG1zarO3agn28JnH6yK"
     },
     {
       "album": {
@@ -30754,7 +30890,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 381800,
       "name": "TAXI",
       "url": "https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq"
@@ -33202,6 +33338,24 @@
       "duration_ms": 219782,
       "name": "There Is This Thing",
       "url": "https://open.spotify.com/track/6Dd2qLs8ElSYBRJdZbUARM"
+    },
+    {
+      "album": {
+        "name": "They",
+        "url": "https://open.spotify.com/album/082CgbDuWksg2aRMaMkgB7"
+      },
+      "artists": [
+        {
+          "name": "Eric Scott Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251986,
+      "name": "They",
+      "url": "https://open.spotify.com/track/1AqqCVcDaF2HfexU8khxaD"
     },
     {
       "album": {

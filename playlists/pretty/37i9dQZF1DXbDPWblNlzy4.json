@@ -1,13 +1,33 @@
 {
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Morat & Camilo",
-  "num_followers": 65992,
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Andr\u00e9s Cepeda",
+  "num_followers": 66011,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/mQXwAAAAAb15ZsyXhsCsS4rYvyniw0",
+  "snapshot_id": "aAtSrgAAAAA9rNBBz3rtDzhzqgoFa5ET",
   "tracks": [
+    {
+      "added_at": "2025-04-25 09:15:26",
+      "album": {
+        "name": "BOGOT\u00c1",
+        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 228562,
+      "name": "Una Flor",
+      "url": "https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh"
+    },
     {
       "added_at": "2025-04-11 21:57:51",
       "album": {
@@ -53,6 +73,22 @@
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
     },
     {
+      "added_at": "2025-04-25 09:15:26",
+      "album": {
+        "name": "Una Noche Contigo",
+        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193154,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
+    },
+    {
       "added_at": "2025-04-11 21:57:51",
       "album": {
         "name": "Vino Ros\u00e9",
@@ -67,6 +103,26 @@
       "duration_ms": 157758,
       "name": "Vino Ros\u00e9",
       "url": "https://open.spotify.com/track/4d7BNubjTRsyd5zCK3SJCl"
+    },
+    {
+      "added_at": "2025-04-25 09:15:26",
+      "album": {
+        "name": "Yo Jurar\u00e9",
+        "url": "https://open.spotify.com/album/6WK40xeKl43KrMPVDUcyFS"
+      },
+      "artists": [
+        {
+          "name": "Vale Garz\u00f3n",
+          "url": "https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ"
+        },
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
+        }
+      ],
+      "duration_ms": 175662,
+      "name": "Yo Jurar\u00e9",
+      "url": "https://open.spotify.com/track/7KXYHnbv4tA0AhYhNbhbND"
     },
     {
       "added_at": "2025-04-11 21:57:51",
@@ -447,22 +503,6 @@
     {
       "added_at": "2025-04-11 21:57:51",
       "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 191465,
-      "name": "Amor A Mitad",
-      "url": "https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf"
-    },
-    {
-      "added_at": "2025-04-11 21:57:51",
-      "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
       },
@@ -499,22 +539,6 @@
       "duration_ms": 115007,
       "name": "Querida Yo",
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
-    },
-    {
-      "added_at": "2025-04-11 21:57:51",
-      "album": {
-        "name": "\u00bfEs En Serio?",
-        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 193342,
-      "name": "\u00bfEs En Serio?",
-      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
     },
     {
       "added_at": "2025-04-11 21:57:51",
@@ -843,26 +867,6 @@
       "duration_ms": 187865,
       "name": "Ni\u00f1o Yo Te Am\u00e9",
       "url": "https://open.spotify.com/track/2WqlC0I8UXKGDqO5IBvrgc"
-    },
-    {
-      "added_at": "2025-04-11 21:57:51",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
     },
     {
       "added_at": "2025-04-11 21:57:51",

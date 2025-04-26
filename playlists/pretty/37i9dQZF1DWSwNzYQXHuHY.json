@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10988,
+  "num_followers": 10994,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-04-22 02:47:40",
       "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/7hX2fO4JjrObIF3u33pKM6"
-      },
-      "artists": [
-        {
-          "name": "OuiOui",
-          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
-        },
-        {
-          "name": "Wilcox",
-          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Thinkin' bout you",
-      "url": "https://open.spotify.com/track/21DduanRJyq1KNV4h1DyWH"
-    },
-    {
-      "added_at": "2025-04-22 02:47:40",
-      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 227506,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
+    },
+    {
+      "added_at": "2025-04-22 02:47:40",
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/7hX2fO4JjrObIF3u33pKM6"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        },
+        {
+          "name": "Wilcox",
+          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Thinkin' bout you",
+      "url": "https://open.spotify.com/track/21DduanRJyq1KNV4h1DyWH"
     },
     {
       "added_at": "2025-04-22 02:47:40",

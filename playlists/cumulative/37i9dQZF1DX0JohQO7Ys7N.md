@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Maya Amolo & Ywaya Tajiri
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
 
-266 songs - 14 hr 53 min
+267 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Jane](https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Jane](https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i) | 2:57 | 2024-03-28 | 2025-01-17 |
 | [Jioni](https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Jioni](https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD) | 3:54 | 2023-10-12 | 2025-01-31 |
 | [Kama Wee](https://open.spotify.com/track/78wPzvhmbDQfFce0lmntj7) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Miss Kuria](https://open.spotify.com/artist/1S6ZwQApF4OfFpelqSepUi) | [Odes by Queens](https://open.spotify.com/album/3eTbgi6s1WKIjSfDq5TJPh) | 3:35 | 2021-12-28 | 2023-04-07 |
-| [Kesho](https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Kesho](https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK) | 2:37 | 2023-05-26 |  |
+| [Kesho](https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Kesho](https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK) | 2:37 | 2023-05-26 | 2025-04-26 |
 | [Kesho Kutwa](https://open.spotify.com/track/2dBLmn1DGGxKwmCnLICUxz) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Ethanal Fire](https://open.spotify.com/album/3F3ebk0jko0faxvASqBo91) | 4:12 | 2025-02-13 | 2025-02-21 |
 | [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 | 2021-12-28 |  |
 | [Kimbiza](https://open.spotify.com/track/5TJ1BbqzcX1XVtFvHR98mD) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/6ABgs6XJzcvk7uxlpF6TKs) | 3:14 | 2023-09-07 | 2023-11-17 |
@@ -147,6 +147,7 @@
 | [Maovu](https://open.spotify.com/track/5aBy7xqkQ7UzSXe9jLNmD3) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 3:48 | 2024-11-07 |  |
 | [Marry U Twice](https://open.spotify.com/track/7Fct3aClhWyZjF600Hz7Kw) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [With Love, Charisma](https://open.spotify.com/album/4j0s1s8NsDwqvCNxBoZLVa) | 3:37 | 2025-02-13 | 2025-02-21 |
 | [Mbali \- Stripped Version](https://open.spotify.com/track/1XCI64DmbFXhxXKTWqILgG) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Mbali \(Stripped Version\)](https://open.spotify.com/album/6rVwUsa69ADOMkAH6ZOPx8) | 3:20 | 2023-02-23 | 2023-03-25 |
+| [Mbuzi](https://open.spotify.com/track/6jmELmAu5xIfRAaaOsyDat) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Mbuzi](https://open.spotify.com/album/0gNuPgiVwa6B0fWQqj8ELm) | 3:09 | 2025-04-25 |  |
 | [Mema](https://open.spotify.com/track/2FxMPsrwAuC6CS9G33U8Qr) | [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL) | [Safari \- Journey Of 1000 Songs](https://open.spotify.com/album/28TW5zkQtpNv5Bz3Qn81HG) | 3:40 | 2025-01-30 |  |
 | [Memory Lane](https://open.spotify.com/track/74JVJp8ChK3rHbtY5dity4) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Memory Lane](https://open.spotify.com/album/6nii6T6T0MseXxmH0NjCCW) | 3:26 | 2023-06-16 | 2024-08-09 |
 | [MiiYa](https://open.spotify.com/track/3gA42BhHhRnItB1Iiwck5I) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [MiiYa](https://open.spotify.com/album/6XU9fyoSPL0SbsMw32lDEf) | 4:17 | 2024-11-21 |  |

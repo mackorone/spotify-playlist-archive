@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> Wekelijkse update met Hollands en volks\. Cover: Kimberly Fransens
+> Wekelijkse update met Hollands en volks\. Cover: Jari Hellegers
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,882 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,941 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Voor Jouw Sorry](https://open.spotify.com/track/12sYI0teAFpEhoyHyao05M) | [Jovano](https://open.spotify.com/artist/0Bfd9G3e2gGKQHqQ5FBkQT) | [Voor Jouw Sorry](https://open.spotify.com/album/77xheE0ZobmmAaspl7SuPV) | 2:44 |
 | 70 | [Door Tot De Kater Komt](https://open.spotify.com/track/3e63pj2xlCrnUUUMh8cL3P) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Door Tot De Kater Komt](https://open.spotify.com/album/1cc61bYlWdhOmN6klkUHUM) | 2:57 |
 
-Snapshot ID: `aAq0jwAAAADu8Uw0glOdRe5/Mm9sNeh8`
+Snapshot ID: `aAtOMAAAAACEgh5Hln/qf5fRGWBkjTWH`

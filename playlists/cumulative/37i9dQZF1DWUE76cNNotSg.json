@@ -1729,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "Collect 200",
+        "url": "https://open.spotify.com/album/3wgNFsGLpAFDFIKsce1EKe"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170476,
+      "name": "Collect 200",
+      "url": "https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6"
+    },
+    {
+      "album": {
         "name": "Pacifico",
         "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
       },
@@ -6268,7 +6286,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 132903,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz"
@@ -9214,7 +9232,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 165535,
       "name": "Sunshine in my Pocket - Sunset Version",
       "url": "https://open.spotify.com/track/4OkbaLuOTGAwQ4sybiBcve"
@@ -11136,6 +11154,28 @@
       "duration_ms": 234239,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/7ubkcbI0UvHUuKzeJbHNGY"
+    },
+    {
+      "album": {
+        "name": "you loved me like a fool",
+        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214638,
+      "name": "you loved me like a fool",
+      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
     },
     {
       "album": {

@@ -124,9 +124,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 114 | [Hangover](https://open.spotify.com/track/5asegb19C7iaWFyx63UKj8) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [While You Wait](https://open.spotify.com/album/78GlZJUM3ehtYtWTxaFXT4) | 3:24 |
 | 115 | [Up And Away](https://open.spotify.com/track/3L2MUXAQ2FWM9pH0AZBZvE) | [Banned Of St Trinian's](https://open.spotify.com/artist/3YuNeoJH0vX1OCG5pmO6LU) | [Up And Away](https://open.spotify.com/album/2wfogcpJdLod7mXHGNpgqv) | 3:42 |
 | 116 | [Delete It \- Edit](https://open.spotify.com/track/7JbxK2WFeH0WGpV2c1nDTb) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Delete It \(Edit\)](https://open.spotify.com/album/6uG2d0AEFABsFwU1fSfCEi) | 2:26 |
-| 117 | [Sophie](https://open.spotify.com/track/49o7kcMGl6cu6vAvEf6pNt) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 2:55 |
-| 118 | [Crazy Fool](https://open.spotify.com/track/0GcIT8YyochQj6IqDZPCCp) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:37 |
-| 119 | [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 |
+| 117 | [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 |
+| 118 | [Sophie](https://open.spotify.com/track/49o7kcMGl6cu6vAvEf6pNt) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 2:55 |
+| 119 | [Crazy Fool](https://open.spotify.com/track/0GcIT8YyochQj6IqDZPCCp) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:37 |
 | 120 | [Ghost](https://open.spotify.com/track/5bEaYySrMGO82K3ZHqlM8T) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 2:54 |
 | 121 | [Stressed Out](https://open.spotify.com/track/3lsDtg0uBxpnYegN6DXcrA) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:02 |
 | 122 | [2nd Nature](https://open.spotify.com/track/6HxJmedXOuP3jomJguAsJF) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:42 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 176 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 177 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbvqlAAAAAAHj5Q9OKj9fGB2DM7BsP8i`
+Snapshot ID: `AbvwNAAAAAAhGveYKrZQlCIJ+VzG7zd2`

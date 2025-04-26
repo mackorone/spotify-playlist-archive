@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 Marilina Bertoldi.",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 El Zar.",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -64,6 +64,28 @@
       "duration_ms": 207658,
       "name": "33",
       "url": "https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224469,
+      "name": "33",
+      "url": "https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG"
     },
     {
       "album": {
@@ -521,6 +543,28 @@
     },
     {
       "album": {
+        "name": "Bancate ese defecto",
+        "url": "https://open.spotify.com/album/6SpkP6BeW6jw22HQ8av0gg"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        },
+        {
+          "name": "LUKIAN",
+          "url": "https://open.spotify.com/artist/5zKwmTSKHIc2oul3glT8s8"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319927,
+      "name": "Bancate ese defecto",
+      "url": "https://open.spotify.com/track/5VoeA0AKKnAvJBIRoOowDF"
+    },
+    {
+      "album": {
         "name": "Bigote",
         "url": "https://open.spotify.com/album/45lR1Wb5koRQjb0P0WoRkL"
       },
@@ -658,7 +702,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 138597,
       "name": "Buena Vida",
       "url": "https://open.spotify.com/track/0m4uBVdlN7w7UF3EUwl5p1"
@@ -1396,7 +1440,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 250282,
       "name": "Dale Angelito",
       "url": "https://open.spotify.com/track/3oEGswg4NkoxtoDyDshBCn"
@@ -2137,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Emperifollada",
+        "url": "https://open.spotify.com/album/7wCx93YaatqRUTEe3UepzJ"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206542,
+      "name": "Emperifollada",
+      "url": "https://open.spotify.com/track/4IDCH18zDc3UuzWEGiZ60e"
+    },
+    {
+      "album": {
         "name": "En este barco",
         "url": "https://open.spotify.com/album/5udDSHfYBJMpvQ6O6ZufQu"
       },
@@ -2362,7 +2424,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 231274,
       "name": "Ese Lugar de Ninguna Parte",
       "url": "https://open.spotify.com/track/4Ll0B5IkgX3tmuAhNlZD3g"
@@ -2478,7 +2540,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 292758,
       "name": "Este Lugar",
       "url": "https://open.spotify.com/track/5xdyRUBcNEzNwOC0WocapT"
@@ -2756,7 +2818,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 233760,
       "name": "Gris Analg\u00e9sico",
       "url": "https://open.spotify.com/track/68OwDpAxaUgrh3J1nR1hYq"
@@ -3348,6 +3410,24 @@
       "duration_ms": 220318,
       "name": "La Era Del Drag\u00f3n",
       "url": "https://open.spotify.com/track/0Vmb4M1Ianl3hxYOOwUUja"
+    },
+    {
+      "album": {
+        "name": "PARADISO",
+        "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220755,
+      "name": "La Forma de Estar Solo",
+      "url": "https://open.spotify.com/track/4QeJ4rDjV4lZtZ4Xyj0exO"
     },
     {
       "album": {
@@ -4186,7 +4266,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 132223,
       "name": "L\u00cdO",
       "url": "https://open.spotify.com/track/0vCeL7Xa9lySZYp3zDjRCe"
@@ -4813,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "LA RED",
+        "url": "https://open.spotify.com/album/0bMuaS8RADa8I71hKOCuqM"
+      },
+      "artists": [
+        {
+          "name": "Alter Vu",
+          "url": "https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219637,
+      "name": "No Se Amarguen",
+      "url": "https://open.spotify.com/track/4A9PMFmGUWShmy5gEr5VtI"
+    },
+    {
+      "album": {
         "name": "No Tengo",
         "url": "https://open.spotify.com/album/3l3Pp0CTPk3SNToZzX2fEu"
       },
@@ -5248,7 +5346,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 271071,
       "name": "Perdido en Buenos Aires",
       "url": "https://open.spotify.com/track/101sToXKkcLpZKmnri9XH2"
@@ -6381,6 +6479,28 @@
     },
     {
       "album": {
+        "name": "PARADISO",
+        "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215003,
+      "name": "Todo al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/3lSmVDh4KW7Qtouy0rklWe"
+    },
+    {
+      "album": {
         "name": "Todo Cambia",
         "url": "https://open.spotify.com/album/71QDqQiuKYbBIOI4HJ83nZ"
       },
@@ -6864,6 +6984,24 @@
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f"
+    },
+    {
+      "album": {
+        "name": "VOLARTE",
+        "url": "https://open.spotify.com/album/3w8lu7ivYH9MrfYRADNuoR"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285978,
+      "name": "VOLARTE",
+      "url": "https://open.spotify.com/track/3QA1SyAH2S9L4mHCfnSJra"
     },
     {
       "album": {

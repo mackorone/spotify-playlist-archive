@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125400,
+  "num_followers": 125384,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT/iTUQOnEShjc4/zC8O07sVQHZwSl",
+  "snapshot_id": "AAAUA/H3EenovycH3ZlBUzOPFU52AFJ6",
   "tracks": [
+    {
+      "added_at": "2025-04-25 17:09:45",
+      "album": {
+        "name": "Surge",
+        "url": "https://open.spotify.com/album/2BgT3BAKshSa5T98Q5rZds"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        }
+      ],
+      "duration_ms": 220137,
+      "name": "Surge",
+      "url": "https://open.spotify.com/track/1rBcquk3vLXxSvDl0JSeTY"
+    },
+    {
+      "added_at": "2025-04-25 19:15:23",
+      "album": {
+        "name": "Golden Leaves (Sarah Watson Rework)",
+        "url": "https://open.spotify.com/album/6Yb3jJODGIeUL8WApnKhSt"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Golden Leaves - Sarah Watson Rework",
+      "url": "https://open.spotify.com/track/2GwHBZRnbyXBxdsCbeexho"
+    },
     {
       "added_at": "2025-04-24 19:39:38",
       "album": {

@@ -24331,6 +24331,24 @@
     },
     {
       "album": {
+        "name": "i wanna",
+        "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
+      },
+      "artists": [
+        {
+          "name": "sweet93",
+          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "i wanna",
+      "url": "https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7"
+    },
+    {
+      "album": {
         "name": "I Wanna Feel Good Naked",
         "url": "https://open.spotify.com/album/0w9rQWBLFuXrfrlpSyqRYY"
       },

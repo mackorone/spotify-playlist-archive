@@ -22901,6 +22901,24 @@
     },
     {
       "album": {
+        "name": "Ei Rakkaut",
+        "url": "https://open.spotify.com/album/2ke0tkFzyeuBMpuUenWGLg"
+      },
+      "artists": [
+        {
+          "name": "NCO",
+          "url": "https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188141,
+      "name": "Ei Rakkaut",
+      "url": "https://open.spotify.com/track/1kWFPp9sMxfKNobdlebdRW"
+    },
+    {
+      "album": {
         "name": "Ei syd\u00e4nt\u00e4 saa",
         "url": "https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt"
       },

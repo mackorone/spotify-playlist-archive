@@ -1,13 +1,49 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 242210,
+  "num_followers": 242196,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N3gAAAAAj/urBET/YZdylVSUnkQ2D",
+  "snapshot_id": "aAsI8wAAAACODZxIPfxg9sHLgOCt1een",
   "tracks": [
+    {
+      "added_at": "2025-04-25 04:00:50",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 286856,
+      "name": "T.H.",
+      "url": "https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs"
+    },
+    {
+      "added_at": "2025-04-25 04:00:50",
+      "album": {
+        "name": "Enchant\u00e9 (Deluxe)",
+        "url": "https://open.spotify.com/album/004mHpvzRDHFewA52MlMfe"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Lighthouse - Deluxe Version",
+      "url": "https://open.spotify.com/track/7ewgjiZ8K52fYZZ1eJTm8Q"
+    },
     {
       "added_at": "2025-02-14 05:00:14",
       "album": {
@@ -1695,42 +1731,6 @@
       "duration_ms": 166890,
       "name": "911",
       "url": "https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "All She Wanna Do",
-        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 195715,
-      "name": "All She Wanna Do (with Saweetie)",
-      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/0hyC7gk2eOkycUlKTBKqdz"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 188619,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/4FQXpCIENqhNKlfX4WZApJ"
     },
     {
       "added_at": "2022-09-02 04:02:00",

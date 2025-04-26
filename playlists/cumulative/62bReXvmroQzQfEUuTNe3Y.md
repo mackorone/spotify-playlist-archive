@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-472 songs - 1 day 2 hr 30 min
+473 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Friends](https://open.spotify.com/track/7y0G3FtjhA2gC2xZECbHpD) | [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Friends](https://open.spotify.com/album/7cOWdU3tn5ckqb3rGIR7K2) | 4:34 | 2021-05-08 | 2023-04-15 |
 | [Friendships](https://open.spotify.com/track/3S2XkZJH5P3AqYk8ChYsWB) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Friendships](https://open.spotify.com/album/06j3MO1vx9EJQzY6nbqqZK) | 4:02 | 2021-12-15 | 2022-08-06 |
 | [Gemini](https://open.spotify.com/track/71ubEHUyawsJZ6wJPPLEtL) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Gemini](https://open.spotify.com/album/3O0vQgXbfj9krf3mh5cope) | 2:44 | 2022-01-07 | 2023-04-22 |
+| [Get Close](https://open.spotify.com/track/5Iu5ajMYXdV8z9fJ5XimwD) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [AMRV](https://open.spotify.com/artist/5WpmtJpvwQB4HJqYGEQr5V) | [Get Close](https://open.spotify.com/album/5spPNRHqk73ywB3Ip41DVe) | 3:02 | 2025-04-25 |  |
 | [Get Down Saturday Night](https://open.spotify.com/track/6eXKCcEqAU4eJLfDgh8sfG) | [Gorgon Breath](https://open.spotify.com/artist/3NNV3EiqQ63gCWXGt5jMCO), [Monartt](https://open.spotify.com/artist/5ABls0cOLH2fiOLy1Dgb4k), [Eliza](https://open.spotify.com/artist/6eBonJaPKRFJ6wdNkppylP) | [Get Down Saturday Night](https://open.spotify.com/album/6U20fA3e0M2bW85LTdgcW6) | 2:18 | 2021-12-23 |  |
 | [Ghost \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/5ZIJUowkhcLukruA52sfDI) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Distinction EP](https://open.spotify.com/album/0xiqgV5gVnjsKVWpBqXyaO) | 3:37 | 2020-09-13\* | 2021-10-23 |
 | [Girls Come By](https://open.spotify.com/track/4HHFAQ2jIuDxViIhKG0VTj) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv), [Kyle Pearce](https://open.spotify.com/artist/1e5T955wZa6GSsBXgm4hlR) | [Girls Come By](https://open.spotify.com/album/6APuHfgE3OdgE8bAS2s0ik) | 2:39 | 2021-06-04 | 2021-09-18 |

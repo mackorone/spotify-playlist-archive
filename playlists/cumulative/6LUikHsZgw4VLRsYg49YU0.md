@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-254 songs - 14 hr 50 min
+256 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Lazarus](https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o) | 5:17 | 2025-04-11 |  |
 | [Let You Down](https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Let You Down](https://open.spotify.com/album/5lFDNl6WwhLIIl15kyWGxw) | 3:47 | 2022-10-13 | 2022-12-10 |
 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-01-12 |  |
+| [Looking for you \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/3ysBocf0RtB8GTbY9ftlww) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [POP STEP](https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX) | [Looking for you \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/5kBqjIUnQnCfgqKuyTT1YH) | 1:50 | 2025-04-25 |  |
 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 | 2022-12-09 | 2024-04-13 |
 | [Lost My Mind \- Mom N Dad Remix](https://open.spotify.com/track/3zBTpyRyYnWIs1urlTXuuJ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Mom N Dad](https://open.spotify.com/artist/1pIDhGVK4FmhaEZc3anyHC) | [Lost My Mind \(Remixes\)](https://open.spotify.com/album/2oeXXaXqL3sGbnFqWeoXAc) | 3:57 | 2022-02-18 | 2022-12-10 |
 | [love theme](https://open.spotify.com/track/6ZHO6Mbg1MHsq2L0RYlPON) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 4:30 | 2024-12-13 |  |
@@ -171,6 +172,7 @@
 | [The Cruel Angel's Thesis <TV\. Size Version>](https://open.spotify.com/track/1FgSwJSeTq4MnemMcfqpoW) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [NEON GENESIS EVANGELION II \(Original Soundtrack\)](https://open.spotify.com/album/6o1pux1ryskKRd4LX3c3AC) | 1:33 | 2023-01-27 | 2025-04-12 |
 | [The Demon Lord](https://open.spotify.com/track/4oeX8OfCAPqHqL7abInWEh) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Series Soundtrack\)](https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1) | 3:10 | 2024-10-18 |  |
 | [The Everlasting Guilty Crown](https://open.spotify.com/track/76jRSSkd4pLwUflgwSeuB0) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 5:25 | 2022-12-09 | 2023-12-14 |
+| [The Girl of Apothecary](https://open.spotify.com/track/52V161i8oX9uAIuejjb329) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries Season 2 \(Original Anime Soundtrack\)](https://open.spotify.com/album/3SsDRyAwhIn8qdzh9pldgp) | 2:08 | 2025-04-25 |  |
 | [The Joker's Rhapsody](https://open.spotify.com/track/2Ej7kbzsqYIGiZB0lJHibP) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [Suicide Squad Isekai \(Original Series Soundtrack\)](https://open.spotify.com/album/2xnR1m98SM92yNm4GIVT3U) | 3:04 | 2024-08-02 |  |
 | [The Roundhouse](https://open.spotify.com/track/3e4B1vU34QgwjVlWcykToT) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Pokémon Detective Pikachu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jE5ifgXfepCiYc9pEZFHg) | 1:50 | 2022-02-18 | 2022-12-10 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2023-01-13 | 2024-10-12 |
@@ -255,7 +257,7 @@
 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-05-10 |  |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2022-12-09 | 2025-04-12 |
 | [誰我為](https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [誰我為](https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf) | 4:29 | 2024-05-10 |  |
-| [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-01-17 |  |
+| [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-01-17 |  |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2023-01-06 | 2024-07-13 |
 | [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 | 2023-12-08 |  |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-07 |  |

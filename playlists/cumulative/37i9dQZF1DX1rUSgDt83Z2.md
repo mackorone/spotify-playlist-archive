@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem 🇳🇱
 
-157 songs - 8 hr 8 min
+158 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bang Alleen Te Blijven](https://open.spotify.com/track/0OCZpLuFQz3H3eowjX7ho4) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Bang Alleen Te Blijven](https://open.spotify.com/album/3pboEsYZAqlrkCgASC0JLY) | 3:25 | 2024-11-04 | 2025-04-04 |
 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 | 2025-03-01 |  |
 | [Belangrijk](https://open.spotify.com/track/6QJFBH8HpTzTVVNE7Crbh2) | [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Belangrijk](https://open.spotify.com/album/0KpvKRZa46wgvsDtXlVCTt) | 3:54 | 2024-07-22 | 2024-11-22 |
+| [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 | 2025-04-25 |  |
 | [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 | 2025-02-20 |  |
 | [Brandende Zee](https://open.spotify.com/track/2Z9qbGSmIaIZEZeEfAjAUt) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Brandende Zee](https://open.spotify.com/album/19ijVBynplq41Q4ra9fVhf) | 3:49 | 2024-06-24 | 2024-11-22 |
 | [Brussel](https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB) | [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Brussel](https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z) | 2:50 | 2024-12-02 | 2025-04-14 |
@@ -140,7 +141,7 @@
 | [The Ones We Seek](https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Ones We Seek](https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc) | 4:34 | 2024-08-29 | 2025-01-11 |
 | [The Story Ain't Over Yet](https://open.spotify.com/track/0FFzjVyx9nfRxl9QpBvH68) | [Zen Link](https://open.spotify.com/artist/4iTOzQGkd3SdaJcTE6Mn6F) | [The Story Ain't Over Yet](https://open.spotify.com/album/5M65FcMQe2v0Ev5ZJltFKn) | 3:43 | 2024-06-24 | 2024-07-12 |
 | [Thuis & Vliegen](https://open.spotify.com/track/4QU7b7cffYGrzVk0jayBeA) | [VOS](https://open.spotify.com/artist/0l8iUSzBzrpKtRAa8norAw) | [Thuis & Vliegen](https://open.spotify.com/album/4qLWvDi7OaLGMpkfQdxIzw) | 2:29 | 2024-07-25 | 2024-12-13 |
-| [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 | 2024-10-24 |  |
+| [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 | 2024-10-24 | 2025-04-26 |
 | [Tikkie Voor De Tranen](https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tikkie Voor De Tranen](https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm) | 2:35 | 2024-06-24 | 2025-04-11 |
 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 | 2024-12-12 |  |
 | [Tussen Jou en Mij](https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6) | [Willem & Jan](https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tussen Jou en Mij](https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm) | 2:58 | 2025-02-27 |  |

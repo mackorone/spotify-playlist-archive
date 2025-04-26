@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,344 likes - 119 songs - 5 hr 57 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,345 likes - 123 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,5 +127,9 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 117 | [License To Be Bad](https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [License To Be Bad](https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g) | 3:06 |
 | 118 | [Speak To Me \- Edit](https://open.spotify.com/track/1C1RzCVqek17m7rszNg3mr) | [Snow N Stuff](https://open.spotify.com/artist/6wIX9hW2uQAVv190xXV9mA) | [Speak To Me](https://open.spotify.com/album/3zifCl5R2DaZGEmrPNUM1N) | 3:45 |
 | 119 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
+| 120 | [Talk](https://open.spotify.com/track/5RgqLIWWb1ceLM01BORkez) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO) | [Talk](https://open.spotify.com/album/1L4dKn2nbO7JCNfZbtoEmh) | 2:18 |
+| 121 | [Feel The Love \(Pride Anthem 2025\)](https://open.spotify.com/track/4CVlaXv9huD30ej1FRZrfg) | [Darling Peter](https://open.spotify.com/artist/4O90Cf3lov9pVYyp6N5kVi), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Feel The Love \(Pride Anthem 2025\)](https://open.spotify.com/album/125ngQTOTFMIowcWMGD8Wv) | 3:00 |
+| 122 | [Ain't Giving Up](https://open.spotify.com/track/6k7Gulll7LORCyYtsMRmzG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Ain't Giving Up](https://open.spotify.com/album/4xB2B29DYF0k48uBo6hhnr) | 2:25 |
+| 123 | [Tell Me Where U Go](https://open.spotify.com/track/1w3RoHeA7eVvNSCNdtsZPf) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Tell Me Where U Go \(Clean\)](https://open.spotify.com/album/4MU4Tt17c9sTDbBxx2FFMV) | 3:02 |
 
-Snapshot ID: `AAAKSSVg3juivfy3goYjJPgpFQ1q0Zlt`
+Snapshot ID: `AAAKTe9yrGTkUDCfVwncuTizZNslhqTc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Uchu Yurei 宇宙幽靈
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,329 likes - 34 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,333 likes - 34 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

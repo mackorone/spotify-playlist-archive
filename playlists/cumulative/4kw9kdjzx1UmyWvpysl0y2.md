@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-967 songs - 2 day 6 hr 36 min
+969 songs - 2 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Going Under](https://open.spotify.com/track/4b3tHFus0ulksoyDpSrGYY) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Going Under](https://open.spotify.com/album/18qd9Qz8xCZzTnsWnHkp7v) | 2:41 | 2025-03-31 |  |
 | [Golden](https://open.spotify.com/track/6jMonGirFrktmZJtzL9p1v) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Golden](https://open.spotify.com/album/0qwAAkozsllq8QcGddgi24) | 3:34 | 2023-03-08 | 2023-05-31 |
 | [Golden Leaves](https://open.spotify.com/track/4kgAtYwG7vkQIiJ6BaUvzZ) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Golden Leaves](https://open.spotify.com/album/2d0pcvKiUVCjUe9f4zSp2x) | 3:07 | 2023-10-10 | 2024-01-26 |
+| [Golden Leaves \- Sarah Watson Rework](https://open.spotify.com/track/2GwHBZRnbyXBxdsCbeexho) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Golden Leaves \(Sarah Watson Rework\)](https://open.spotify.com/album/6Yb3jJODGIeUL8WApnKhSt) | 1:44 | 2025-04-25 |  |
 | [Good Feeling](https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Good Feeling](https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK) | 3:22 | 2021-12-06 | 2022-03-11 |
 | [Good For Me](https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Good For Me](https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR) | 2:56 | 2022-06-27 | 2022-09-09 |
 | [Good Times](https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:24 | 2022-10-27 | 2023-01-10 |
@@ -804,6 +805,7 @@
 | [Sun \- Angara Mix](https://open.spotify.com/track/6F4luCQcD7bwlHXX2XhPa5) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy) | [Sun \(The Remixes\)](https://open.spotify.com/album/3htJohEasfEYdfKZ3E7EIb) | 3:12 | 2024-12-17 | 2025-03-26 |
 | [Sunflowers](https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [Sunflowers](https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4) | 3:32 | 2023-02-24 | 2023-05-18 |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
+| [Surge](https://open.spotify.com/track/1rBcquk3vLXxSvDl0JSeTY) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Surge](https://open.spotify.com/album/2BgT3BAKshSa5T98Q5rZds) | 3:40 | 2025-04-25 |  |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |
 | [SWEAT!](https://open.spotify.com/track/6Qab7nnQ1JLtpvSvkzB07q) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [SWEAT!](https://open.spotify.com/album/3cKyGMHm0XKQN5Bvx4l0Vu) | 2:39 | 2024-11-22 | 2025-03-04 |
 | [Sweetheart](https://open.spotify.com/track/5RNmbFUSiWxdLq8SiJhQXu) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Equals](https://open.spotify.com/album/2yobtVPdvXpjv5oYzCX46V) | 3:22 | 2024-10-22 | 2025-01-29 |

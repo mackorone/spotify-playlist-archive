@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 43072,
+  "num_followers": 43102,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
+        "name": "Darling - Focus",
+        "url": "https://open.spotify.com/album/7Ef8FXjbmBIq38AYmrdzCq"
+      },
+      "artists": [
+        {
+          "name": "Boi Chase",
+          "url": "https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Darling - Focus",
+      "url": "https://open.spotify.com/track/59klPCK4zRYws4adUXJkYg"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
         "name": "Vex For U (feat. Fireboy DML & Ayo Maff)",
         "url": "https://open.spotify.com/album/6yhDNq8JsOA3fd8xW4JgPB"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 185739,
       "name": "Vex For U (feat. Fireboy DML & Ayo Maff)",
       "url": "https://open.spotify.com/track/6wN5G9LhuljafQRHzb4K6s"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
-        "name": "Darling - Focus",
-        "url": "https://open.spotify.com/album/7Ef8FXjbmBIq38AYmrdzCq"
-      },
-      "artists": [
-        {
-          "name": "Boi Chase",
-          "url": "https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Darling - Focus",
-      "url": "https://open.spotify.com/track/59klPCK4zRYws4adUXJkYg"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
+        "name": "GOD DESIGN",
+        "url": "https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "GOD DESIGN",
+      "url": "https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
         "name": "Fall In Love (feat. Ayo Jay)",
         "url": "https://open.spotify.com/album/6Df2qCBg6t8oSSpqWkb5pE"
       },
@@ -591,42 +611,6 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "GOD DESIGN",
-        "url": "https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "GOD DESIGN",
-      "url": "https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
-        "name": "Love & Hustle",
-        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 180612,
-      "name": "Princess Treatment",
-      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
         "name": "Forever Getting It (FGI)",
         "url": "https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 149192,
       "name": "Don\u2019t Bother Me (feat. Monaky)",
       "url": "https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "Love & Hustle",
+        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 180612,
+      "name": "Princess Treatment",
+      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "Innocent (feat. Fireboy DML)",
-        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Innocent (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
         "name": "NUMBER ONE (feat. Minz)",
         "url": "https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 243744,
       "name": "NUMBER ONE (feat. Minz)",
       "url": "https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "Innocent (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Innocent (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
+        "name": "Maradona",
+        "url": "https://open.spotify.com/album/43l7zSy9bqfrBYBaNWhc9P"
+      },
+      "artists": [
+        {
+          "name": "Agatchu",
+          "url": "https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "Maradona",
+      "url": "https://open.spotify.com/track/0FSEqwIBzMOI6R5n8E6Cxx"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
         "name": "Bere Mi (Reimagined)",
         "url": "https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 177963,
       "name": "Bere Mi (Reimagined)",
       "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
-        "name": "Maradona",
-        "url": "https://open.spotify.com/album/43l7zSy9bqfrBYBaNWhc9P"
-      },
-      "artists": [
-        {
-          "name": "Agatchu",
-          "url": "https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "Maradona",
-      "url": "https://open.spotify.com/track/0FSEqwIBzMOI6R5n8E6Cxx"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
+        "name": "Choco Milo",
+        "url": "https://open.spotify.com/album/5jngcep59Rk5mfytsXPvgz"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 116976,
+      "name": "Choco Milo",
+      "url": "https://open.spotify.com/track/3nIWHeSpBwBM09Fi0VDxgF"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
         "name": "ROZEY",
         "url": "https://open.spotify.com/album/02boWZX3nExhtEQlXP0eA4"
       },
@@ -1071,6 +1091,22 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
+        "name": "Falling/Unleash",
+        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
         "name": "London Girl",
         "url": "https://open.spotify.com/album/2uyF33o6b18qEYofn0wUju"
       },
@@ -1087,22 +1123,6 @@
       "duration_ms": 134791,
       "name": "London Girl",
       "url": "https://open.spotify.com/track/16gePMnstRp7cVNeHTT7cP"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
-        "name": "Falling/Unleash",
-        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "Choco Milo",
-        "url": "https://open.spotify.com/album/5jngcep59Rk5mfytsXPvgz"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        }
-      ],
-      "duration_ms": 116976,
-      "name": "Choco Milo",
-      "url": "https://open.spotify.com/track/3nIWHeSpBwBM09Fi0VDxgF"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 159294,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/0qlOwDeWucIUd6XFbdw6So"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 175257,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 159294,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "Wetin (Remix)",
-        "url": "https://open.spotify.com/album/1tDDrZpSeQuI3CWNhYhfkE"
+        "name": "Te Nu Mo",
+        "url": "https://open.spotify.com/album/3o798fSJdqlQZ0o5OA57MB"
       },
       "artists": [
         {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        },
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Mizzle",
+          "url": "https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd"
         }
       ],
-      "duration_ms": 120170,
-      "name": "Wetin - Remix",
-      "url": "https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT"
+      "duration_ms": 175161,
+      "name": "Te Nu Mo",
+      "url": "https://open.spotify.com/track/0oyZYjXFFwUhwyDDfxGdU1"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1323,18 +1319,42 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "Te Nu Mo",
-        "url": "https://open.spotify.com/album/3o798fSJdqlQZ0o5OA57MB"
+        "name": "Wetin (Remix)",
+        "url": "https://open.spotify.com/album/1tDDrZpSeQuI3CWNhYhfkE"
       },
       "artists": [
         {
-          "name": "Mizzle",
-          "url": "https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd"
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 175161,
-      "name": "Te Nu Mo",
-      "url": "https://open.spotify.com/track/0oyZYjXFFwUhwyDDfxGdU1"
+      "duration_ms": 120170,
+      "name": "Wetin - Remix",
+      "url": "https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT"
+    },
+    {
+      "added_at": "2025-04-18 00:01:31",
+      "album": {
+        "name": "JIGGY BABE",
+        "url": "https://open.spotify.com/album/6HanH23bCjueMAbKa4JWsl"
+      },
+      "artists": [
+        {
+          "name": "Czin",
+          "url": "https://open.spotify.com/artist/2ckSZ9t62jqXhWVfwyCXOY"
+        },
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 138010,
+      "name": "JIGGY BABE",
+      "url": "https://open.spotify.com/track/0Ru9b0shNHpsuzYEBASTr0"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1391,22 +1411,22 @@
     {
       "added_at": "2025-04-18 00:01:31",
       "album": {
-        "name": "JIGGY BABE",
-        "url": "https://open.spotify.com/album/6HanH23bCjueMAbKa4JWsl"
+        "name": "Days Pass By",
+        "url": "https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP"
       },
       "artists": [
         {
-          "name": "Czin",
-          "url": "https://open.spotify.com/artist/2ckSZ9t62jqXhWVfwyCXOY"
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
         },
         {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 138010,
-      "name": "JIGGY BABE",
-      "url": "https://open.spotify.com/track/0Ru9b0shNHpsuzYEBASTr0"
+      "duration_ms": 146666,
+      "name": "Days Pass By",
+      "url": "https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn"
     },
     {
       "added_at": "2025-04-18 00:01:31",
@@ -1431,26 +1451,6 @@
       "duration_ms": 178048,
       "name": "Obianuju",
       "url": "https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y"
-    },
-    {
-      "added_at": "2025-04-18 00:01:31",
-      "album": {
-        "name": "Days Pass By",
-        "url": "https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP"
-      },
-      "artists": [
-        {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Days Pass By",
-      "url": "https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn"
     },
     {
       "added_at": "2025-04-18 00:01:31",

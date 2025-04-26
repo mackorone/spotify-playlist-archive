@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Girls",
+        "url": "https://open.spotify.com/album/5a5HVIQt2cGlZFGD7eNLCT"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Care 4 U",
+      "url": "https://open.spotify.com/track/4CRhhz480Sqkyg98mgEaJL"
+    },
+    {
+      "album": {
         "name": "Cavite's Poison",
         "url": "https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj"
       },

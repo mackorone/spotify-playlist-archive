@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Michelle Maciel",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: \u00c1ngela Aguilar ",
   "name": "Mariachi 2025",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 328301,
       "name": "A Mi Manera - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
       "url": "https://open.spotify.com/track/5uHGmZtbFPrrkzY0rrQtQm"
@@ -2259,6 +2259,24 @@
     },
     {
       "album": {
+        "name": "De Rey A Rey (En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024)",
+        "url": "https://open.spotify.com/album/4C6CdEZgz7f80AoFvYMYib"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171365,
+      "name": "El Rey - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
+      "url": "https://open.spotify.com/track/5a1K8Y2DUYBtfsCnmpIhaX"
+    },
+    {
+      "album": {
         "name": "El Tenampa",
         "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
       },
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 153665,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
@@ -3244,6 +3262,24 @@
       "duration_ms": 211319,
       "name": "La Dinast\u00eda Fern\u00e1ndez - La Derrota / Volver, Volver",
       "url": "https://open.spotify.com/track/25iwxsxU8XN3bX14JQWiKr"
+    },
+    {
+      "album": {
+        "name": "SE\u00d1ORA HITS",
+        "url": "https://open.spotify.com/album/5SLkeWgZdIPK7eGpHav19F"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196934,
+      "name": "La Gata Bajo La Lluvia",
+      "url": "https://open.spotify.com/track/4w1jKE1NhrfkEct3sWCABv"
     },
     {
       "album": {
@@ -4469,6 +4505,24 @@
     },
     {
       "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153216,
+      "name": "Nadie Se Va Como Lleg\u00f3",
+      "url": "https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf"
+    },
+    {
+      "album": {
         "name": "Navajas En El Viento",
         "url": "https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj"
       },
@@ -5512,7 +5566,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 140662,
       "name": "Pinocho",
       "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"

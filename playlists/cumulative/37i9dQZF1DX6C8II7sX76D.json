@@ -825,6 +825,28 @@
     },
     {
       "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5C6pN8pgjLsyIIaziZmpBN"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc"
+    },
+    {
+      "album": {
         "name": "Boy's a liar",
         "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
       },
@@ -1414,6 +1436,24 @@
       "duration_ms": 243176,
       "name": "Demons - Massane Remix",
       "url": "https://open.spotify.com/track/5f4qquwjZzEXIdua2FId7b"
+    },
+    {
+      "album": {
+        "name": "Digital Daydream - Romantic Robot Version",
+        "url": "https://open.spotify.com/album/4SbJcX2ooPIgdKdFF9jc3u"
+      },
+      "artists": [
+        {
+          "name": "Chitra",
+          "url": "https://open.spotify.com/artist/0oCJl7BO8pwud69vMicBRr"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218647,
+      "name": "Digital Daydream - Romantic Robot Version",
+      "url": "https://open.spotify.com/track/3bcMVbS5BtXNOsG2AzS3IB"
     },
     {
       "album": {
@@ -2648,7 +2688,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 159528,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU"
@@ -2928,7 +2968,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 283638,
       "name": "Jubel",
       "url": "https://open.spotify.com/track/2mpsKeLCbdXkwEpZRNi4XD"
@@ -4680,7 +4720,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
@@ -5020,7 +5060,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 178330,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB"
@@ -5046,10 +5086,28 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 179016,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
+    },
+    {
+      "album": {
+        "name": "She's A Bad Mama Jama",
+        "url": "https://open.spotify.com/album/2MgqRp7d0yT7fbvHY3RF8t"
+      },
+      "artists": [
+        {
+          "name": "Si\u00e2n Owen",
+          "url": "https://open.spotify.com/artist/3V078Un8f8Q8RPfCM78wA1"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144394,
+      "name": "She's A Bad Mama Jama",
+      "url": "https://open.spotify.com/track/3zuL8wnCbFPlZ5wH2EFn0P"
     },
     {
       "album": {
@@ -5462,7 +5520,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 69201,
       "name": "sweet rally",
       "url": "https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ"
@@ -5568,6 +5626,24 @@
       "duration_ms": 140952,
       "name": "TECHNO + TEQUILA",
       "url": "https://open.spotify.com/track/2gTdxzXSycGUJVgqbDouIh"
+    },
+    {
+      "album": {
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124864,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
       "album": {

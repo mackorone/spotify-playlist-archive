@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop\.  Cover: Calum Hood
+> a little indie, a little pop\.  Cover: Litany
 
-1,318 songs - 2 day 17 hr 38 min
+1,319 songs - 2 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1227,6 +1227,7 @@
 | [Vegas](https://open.spotify.com/track/0ifi3MckihGQoCd0XwwklQ) | [NIKI DEMAR](https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5) | [Vegas](https://open.spotify.com/album/0l2Lz3rJGok4qsx1QRFojj) | 3:14 | 2024-07-26 | 2024-10-19 |
 | [Velvet Connection](https://open.spotify.com/track/1dJt5Ax1sdC6ltKFHGgXIQ) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Velvet Connection](https://open.spotify.com/album/1YQRJ6RrgTTIxMcqVHCmYk) | 2:59 | 2024-08-09 | 2024-10-19 |
 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 | 2024-06-21 | 2024-08-17 |
+| [Vertigo](https://open.spotify.com/track/3jowQzeDQU4dIAKQg7ahXh) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sadgirl](https://open.spotify.com/album/4zWfJm5YZnk7ML3mRRi0Xo) | 2:53 | 2025-04-25 |  |
 | [VICIOUS](https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [VICIOUS](https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv) | 2:12 | 2023-02-10 | 2024-04-27 |
 | [Video Games \- Spotify Singles](https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Video Games \(Spotify Singles\)](https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL) | 3:09 | 2024-09-20 | 2025-01-25 |
 | [Videotape \(with Evangelia\)](https://open.spotify.com/track/7lKASOohLedcNxoXEmoKCF) | [good job nicky](https://open.spotify.com/artist/2dFtLleECB8O3QgW40cuuY), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Videotape \(with Evangelia\)](https://open.spotify.com/album/4gwlxWSU2UWhjXmNxXZcrH) | 3:18 | 2023-11-24 | 2024-01-05 |
@@ -1263,7 +1264,7 @@
 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 | 2025-04-11 |  |
 | [what never lived](https://open.spotify.com/track/5smSt2cCnzsyeWcSjIMQq3) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [what never lived](https://open.spotify.com/album/1Gtl6W5pDIdlcsD2wscbC0) | 3:32 | 2025-01-31 | 2025-04-12 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-03-15 | 2024-06-01 |
-| [What The Hell Do We Do Now?](https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [What The Hell Do We Do Now?](https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0) | 3:13 | 2025-01-31 |  |
+| [What The Hell Do We Do Now?](https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [What The Hell Do We Do Now?](https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0) | 3:13 | 2025-01-31 | 2025-04-26 |
 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 | 2024-10-04 | 2025-02-08 |
 | [What We Wanted](https://open.spotify.com/track/5GjQuycV1lNwXWOPNx62U0) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [What We Wanted](https://open.spotify.com/album/4olIbtgqWVhl3yQN7xp5Qb) | 2:48 | 2024-04-26 | 2024-06-01 |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 | 2022-08-13 |

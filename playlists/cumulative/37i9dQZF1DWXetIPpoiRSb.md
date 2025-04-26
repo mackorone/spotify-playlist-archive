@@ -4,7 +4,7 @@
 
 > the home of pop's evolutionary spirit ± cover: zara larsson
 
-1,712 songs - 3 day 14 hr 6 min
+1,714 songs - 3 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [god complex](https://open.spotify.com/track/0DKzJ57P5U7hGlyntNOzk2) | [ALBI.](https://open.spotify.com/artist/64GJf2NeiXg0ZxbJSq9Uqb) | [god complex](https://open.spotify.com/album/7kEDPyroJCXtUHk9CQ2ke2) | 2:03 | 2025-03-14 | 2025-03-21 |
 | [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2021-12-04 | 2022-02-26 |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-08 | 2022-02-05 |
+| [Goddess of Orange County](https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [Goddess of Orange County](https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx) | 2:54 | 2025-04-24 |  |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-06 | 2024-01-19 |
 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 | 2024-09-05 | 2025-01-24 |
 | [Godspeed](https://open.spotify.com/track/2nrUtbYTSqCqVIsuqdhuim) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [I Am Digital, I Am Divine](https://open.spotify.com/album/1x83gHUZAFBw28GmqaCTtm) | 3:07 | 2025-04-24 |  |
@@ -887,6 +888,7 @@
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-21 | 2022-03-26 |
 | [Lights Down](https://open.spotify.com/track/39RjOeRS1wwbJ3Ya1XuZsv) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [CECE](https://open.spotify.com/album/2srEXvWETNxPbjLgG8B1k1) | 3:13 | 2021-10-08 | 2022-01-29 |
 | [Like 1999](https://open.spotify.com/track/3aHYf6AXlWujDG9CzzT95i) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Like 1999](https://open.spotify.com/album/6CQwJn7tvfUKi4U85zuEu8) | 2:24 | 2021-02-13 | 2021-04-10 |
+| [Like A Star](https://open.spotify.com/track/7mMi0mUPohV2X0nNsCeH57) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Like A Star](https://open.spotify.com/album/5Pb8ViifCseDip08mLNnsT) | 2:46 | 2025-04-24 |  |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-24 | 2023-06-23 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-14 |  |
 | [Like No One's Watching](https://open.spotify.com/track/1ijN5LBIyxoC2iIEaI618m) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Like No One's Watching](https://open.spotify.com/album/0GzzTN57dj5dJj2RTJ2Em3) | 3:16 | 2025-04-10 |  |

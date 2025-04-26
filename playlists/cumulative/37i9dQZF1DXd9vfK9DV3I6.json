@@ -4587,6 +4587,24 @@
     },
     {
       "album": {
+        "name": "Opa",
+        "url": "https://open.spotify.com/album/7AO9lx2lwoyeaaOh4icaOF"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405916,
+      "name": "Opa",
+      "url": "https://open.spotify.com/track/4gOMUti3d3zMpCfOGkHlAC"
+    },
+    {
+      "album": {
         "name": "Orient Express",
         "url": "https://open.spotify.com/album/75atJZdj78b77e6u29N10h"
       },
@@ -5134,7 +5152,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 283659,
       "name": "Samra",
       "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"

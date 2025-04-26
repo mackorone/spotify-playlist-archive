@@ -1,12 +1,12 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Arcy Drive",
-  "num_followers": 833767,
+  "num_followers": 833776,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAHOcwAAAABiCRFSV3EsqoMFH//hYaDl",
+  "snapshot_id": "aAsI9AAAAABHNB/IxRsJYnpan90TvdYk",
   "tracks": [
     {
       "added_at": "2025-04-18 04:00:51",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
+      "added_at": "2025-04-25 04:00:52",
+      "album": {
+        "name": "Moonglade",
+        "url": "https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 274609,
+      "name": "Moonglade",
+      "url": "https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a"
+    },
+    {
       "added_at": "2025-04-18 04:00:51",
       "album": {
         "name": "The Pit",
@@ -39,6 +55,134 @@
       "duration_ms": 194387,
       "name": "Lights Fall",
       "url": "https://open.spotify.com/track/1W8cWE4mphc5mmCqaRhACZ"
+    },
+    {
+      "added_at": "2025-04-25 04:00:52",
+      "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/6ZYFQTxkwpg0A1wTTTjRU8"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/6xErF43Ru9Y0r21iHWaj0J"
+    },
+    {
+      "added_at": "2025-04-25 04:00:52",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 193182,
+      "name": "Just Around the Corner",
+      "url": "https://open.spotify.com/track/5Mxmje3T8MAEGBnIEl0k1b"
+    },
+    {
+      "added_at": "2025-04-25 04:00:52",
+      "album": {
+        "name": "Tyrants",
+        "url": "https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Tyrants",
+      "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"
+    },
+    {
+      "added_at": "2025-04-25 04:00:52",
+      "album": {
+        "name": "she came for a sweet time",
+        "url": "https://open.spotify.com/album/1vanujSCrZTGKwCEUOo1zY"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 259413,
+      "name": "she came for a sweet time",
+      "url": "https://open.spotify.com/track/2385kaeJicfgBSN3q7mpPR"
+    },
+    {
+      "added_at": "2025-04-25 04:00:52",
+      "album": {
+        "name": "Natural Pleasure",
+        "url": "https://open.spotify.com/album/5tJQnCPddwUupM2qXrpVUK"
+      },
+      "artists": [
+        {
+          "name": "BRONCHO",
+          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
+        }
+      ],
+      "duration_ms": 206246,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/4cYvM8q9V6HTEayIBHuP1W"
+    },
+    {
+      "added_at": "2025-04-25 04:00:52",
+      "album": {
+        "name": "V.I.S.",
+        "url": "https://open.spotify.com/album/3QJDKsdfBMlx3LI6GNgMdd"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "V.I.S.",
+      "url": "https://open.spotify.com/track/2EUp86hKB1fsdr3Mf5y2dN"
+    },
+    {
+      "added_at": "2025-04-25 04:00:52",
+      "album": {
+        "name": "Everything Must Go",
+        "url": "https://open.spotify.com/album/7mYw7l4p7Q3W9N1aLSWXZF"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 355136,
+      "name": "Everything Must Go",
+      "url": "https://open.spotify.com/track/0R6RPFA9f9aid6X3GsWDJ3"
+    },
+    {
+      "added_at": "2025-04-25 04:00:52",
+      "album": {
+        "name": "There's A Part I Can't Get Back",
+        "url": "https://open.spotify.com/album/5uUzR5yxA9A549EMuwv45i"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 242001,
+      "name": "There's A Part I Can't Get Back",
+      "url": "https://open.spotify.com/track/1dZcRgX7UjJWNFAdtr8vRv"
     },
     {
       "added_at": "2025-03-14 04:00:17",
@@ -119,22 +263,6 @@
       "duration_ms": 205373,
       "name": "Through My Teeth",
       "url": "https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx"
-    },
-    {
-      "added_at": "2025-04-18 04:00:51",
-      "album": {
-        "name": "Think I Pass",
-        "url": "https://open.spotify.com/album/7nZeEwyNnGZCBTyUWKWjoj"
-      },
-      "artists": [
-        {
-          "name": "BRONCHO",
-          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
-        }
-      ],
-      "duration_ms": 192537,
-      "name": "Think I Pass",
-      "url": "https://open.spotify.com/track/1M1Jn1lvGAA0n6GEj4hTvQ"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -1523,138 +1651,6 @@
       "duration_ms": 247190,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "You Are The Morning",
-        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
-      },
-      "artists": [
-        {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
-        }
-      ],
-      "duration_ms": 276437,
-      "name": "Guy Fawkes Tesco Dissociation",
-      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
-        "name": "Coinstar",
-        "url": "https://open.spotify.com/album/5ORhiFwRmcZHR29pmfsmMr"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Coinstar",
-      "url": "https://open.spotify.com/track/5YzeGgjdR0F8c208WH2FpF"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Leash (Babygirl Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Leash (Babygirl Original Soundtrack)",
-      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
-        "name": "My Head Is Not My Friend",
-        "url": "https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "My Head Is Not My Friend",
-      "url": "https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
-        "name": "Body Moves",
-        "url": "https://open.spotify.com/album/4Fj3iiuCy0UgxCkx6NZPOK"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 207722,
-      "name": "Body Moves",
-      "url": "https://open.spotify.com/track/22W7cxdI8GqHLZflKp0HQp"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "ROCKMAN",
-        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 179370,
-      "name": "ROCKMAN",
-      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "SHELL ( OF A MAN )",
-        "url": "https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 219294,
-      "name": "SHELL ( OF A MAN )",
-      "url": "https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Defense",
-        "url": "https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27"
-      },
-      "artists": [
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        },
-        {
-          "name": "Cindy Lee",
-          "url": "https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA"
-        }
-      ],
-      "duration_ms": 275120,
-      "name": "Defense",
-      "url": "https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy"
     }
   ],
   "unique_name": "Today's Indie Rock",

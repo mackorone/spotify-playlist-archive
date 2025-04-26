@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: Sam Barber
 
-936 songs - 2 day 3 hr 7 min
+937 songs - 2 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Always A Girl](https://open.spotify.com/track/4F8U3Cw66IbVQs4Y0MkTUo) | [Will Day](https://open.spotify.com/artist/6eUZAV9XRJh0Tzn7EGYJcw) | [Always A Girl](https://open.spotify.com/album/3KEV0EgwXWn3koQyFTMRh7) | 3:08 | 2023-01-19 | 2023-05-05 |
 | [Always Gonna Be](https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Always Gonna Be](https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa) | 2:52 | 2023-08-03 | 2024-02-10 |
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-07-11 | 2025-01-03 |
+| [Amen](https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:17 | 2025-04-24 |  |
 | [Amen For The Weekend](https://open.spotify.com/track/6n95Js3BFd0ZRtggQTxS00) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Amen For The Weekend](https://open.spotify.com/album/1L1XwefPhYYJ9c8cYlfREb) | 2:59 | 2024-11-21 | 2025-04-11 |
 | [America](https://open.spotify.com/track/63LVOsdT7bB52kCzNLsEPn) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:23 | 2024-04-26 | 2024-06-01 |
 | [American Dream Truck](https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 3:33 | 2021-12-30 | 2022-03-18 |

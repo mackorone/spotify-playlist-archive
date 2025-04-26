@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-138 songs - 7 hr 22 min
+139 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Onde Anda \- French Version \- Acoustic](https://open.spotify.com/track/3uy0p6o4ZEb5Oyom4zg337) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Onde Anda \(French Version \- Acoustic\)](https://open.spotify.com/album/4JvVLOqRPa2C1lpX7RxAFi) | 3:00 | 2023-06-02 | 2023-12-02 |
 | [Overdrive \(feat\. Norma Jean Martine\) \- Acoustic Version](https://open.spotify.com/track/2C48i664TyRtr77PBzW6cS) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\) \[Acoustic Version\]](https://open.spotify.com/album/2NDVKadwJzVmaA0TMXzP3G) | 2:07 | 2024-02-08 |  |
 | [Peaches \- Acoustic](https://open.spotify.com/track/1ChZ4mrSLP8HImCY6IyImf) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Peaches \(Acoustic\)](https://open.spotify.com/album/3qfz0iDhRYXa0VFccGM8VY) | 3:10 | 2022-12-21 | 2023-12-09 |
+| [Prayer in C](https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Prayer in C](https://open.spotify.com/album/2uHBOdq5JJ3oL7I0orLqM3) | 2:42 | 2025-04-25 |  |
 | [Premier amour \- Version acoustique](https://open.spotify.com/track/1BxPyaqHGCAPUlfqtn5vuK) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour \(Version acoustique\)](https://open.spotify.com/album/1jRDvSPXUSi725IrT6FkvR) | 3:09 | 2023-03-09 | 2023-09-27 |
 | [Prière de n'pas déranger \- Version piano](https://open.spotify.com/track/49pmLBvYq7slpQQjsuFxaF) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Prière de n'pas déranger \(Version piano\)](https://open.spotify.com/album/5BFisdchY6mCytDAoCMBF6) | 3:35 | 2025-01-03 | 2025-01-10 |
 | [Rescue Me \- Acoustic](https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me \(Acoustic\)](https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ) | 2:44 | 2024-04-12 |  |
@@ -121,7 +122,7 @@
 | [Secret \- sad orchestra](https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Secret \(sad orchestra\)](https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0) | 3:08 | 2023-11-20 |  |
 | [Selfish Love \(with Selena Gomez\) \- Acoustic Mix](https://open.spotify.com/track/4Am0QoksGA70r4ZdsgV2Y9) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Selfish Love \(with Selena Gomez\) EP](https://open.spotify.com/album/5gaTlwqxtq9ciRVqgOfusR) | 2:49 | 2022-12-21 | 2024-02-09 |
 | [Shivers \- Acoustic Version](https://open.spotify.com/track/7BiRw4sgXQMyNx8nPltnQr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers \(Acoustic Version\)](https://open.spotify.com/album/1CM3OBIxS9yzSiIAOW0gIF) | 3:26 | 2022-12-21 | 2023-06-03 |
-| [Si seulement..\. \- Guitare / voix](https://open.spotify.com/track/13RezTtAB3j8w8C9h1oRsI) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/5WeG2R2qrK0vfJBfMR9Vap) | 2:56 | 2024-11-14 |  |
+| [Si seulement..\. \- Guitare / voix](https://open.spotify.com/track/13RezTtAB3j8w8C9h1oRsI) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/5WeG2R2qrK0vfJBfMR9Vap) | 2:56 | 2024-11-14 | 2025-04-26 |
 | [SNAP \- Acoustic](https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:28 | 2023-06-16 | 2025-01-04 |
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 | 2022-12-21 | 2024-03-15 |
 | [Strangers \- sad acoustic version](https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK) | 3:04 | 2023-10-26 | 2024-04-19 |

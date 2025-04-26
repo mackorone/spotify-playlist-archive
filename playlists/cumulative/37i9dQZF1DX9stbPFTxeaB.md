@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-120 songs - 7 hr 54 min
+121 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [Riot](https://open.spotify.com/track/0tAXV5rJfrMcqTOPNzv9og) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Riot](https://open.spotify.com/album/2PSA0hNLqgBVBOa0lciwPt) | 5:02 | 2020-08-21 |  |
 | [Sailin' shoes](https://open.spotify.com/track/7i3Nj3LFRVSyn4dzYzAVVu) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Influence](https://open.spotify.com/album/3iUPd1kl1Nqh2AtgsgXgdF) | 3:22 | 2020-08-21 | 2024-04-19 |
 | [Sailin' Shoes](https://open.spotify.com/track/5oQmwbutn2Y9QoFKT0h31v) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Influence](https://open.spotify.com/album/4LVZlwxt0KopNFeAjh6ScO) | 3:23 | 2020-08-21 |  |
-| [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 | 2020-08-21 |  |
+| [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 | 2020-08-21 | 2025-04-26 |
 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 | 2020-08-21 |  |
+| [Sinner](https://open.spotify.com/track/5EuPTSDxwAckd50UNz8wpb) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Sinner](https://open.spotify.com/album/1dJW6qGl7Y5WfNoAKIxp2m) | 4:13 | 2025-04-25 |  |
 | [Soul On Fire](https://open.spotify.com/track/2w7Lhu2qyIcqkBveFELEOT) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/3IO7IyvePsQ08yDtkQWVHL) | 3:44 | 2020-08-21 | 2022-10-20 |
 | [Soul On Fire](https://open.spotify.com/track/4Ebvh7oe6LJ0QdLtIOiaU5) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/4JmMDp8VhVBMGe18RhdbbG) | 3:44 | 2020-08-21 |  |
 | [Soul On Fire](https://open.spotify.com/track/4Qq0xEgR45Lf7iGpv6t0vD) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/5doTWaDPG8coY3SR6SQQc3) | 3:44 | 2020-08-21 | 2024-04-19 |

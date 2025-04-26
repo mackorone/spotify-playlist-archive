@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0co3Pmn6g8CSCydynqPi7f"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5kR8mAWFPLsQsUQlLCNKZt"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5KJCpe9JburdcTRSjHGxL7"
       },
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 202500,
       "name": "Cumana",
       "url": "https://open.spotify.com/track/79k8FGmVYfV5iXcs3mvqFc"
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 181875,
       "name": "Do It All - Radio Edit",
       "url": "https://open.spotify.com/track/5O58Oniu6trSIPCJwNpsoE"
@@ -4988,7 +5006,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 136363,
       "name": "Just Do It",
       "url": "https://open.spotify.com/track/0eqa1ZYTJEDJy1UHIpTelr"
@@ -5046,7 +5064,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 221220,
       "name": "Kick",
       "url": "https://open.spotify.com/track/4jwgVADO9NWXrNZ4YCspe0"
@@ -6028,7 +6046,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 210909,
       "name": "Mezcal Bounce",
       "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
@@ -6386,6 +6404,28 @@
       "duration_ms": 454000,
       "name": "N NIGHT",
       "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
+    },
+    {
+      "album": {
+        "name": "Naughty EP",
+        "url": "https://open.spotify.com/album/1eCLceyBG646JO0fSTQxBj"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        },
+        {
+          "name": "Mishell",
+          "url": "https://open.spotify.com/artist/3kCsXVpVs1ZhLnIVkNzdHJ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Naaa",
+      "url": "https://open.spotify.com/track/1lrTUc2KrChD5rVCRnQ976"
     },
     {
       "album": {
@@ -6917,6 +6957,24 @@
     },
     {
       "album": {
+        "name": "One Wish",
+        "url": "https://open.spotify.com/album/3Y4bISRO7LD505ifa0WuXj"
+      },
+      "artists": [
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "One Wish",
+      "url": "https://open.spotify.com/track/7u9E3xd7bjWHO6qCfvgcoH"
+    },
+    {
+      "album": {
         "name": "Pullpush",
         "url": "https://open.spotify.com/album/03jAXUbLmJzZaVHzK8fwHB"
       },
@@ -7430,7 +7488,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 191985,
       "name": "Pump This Party",
       "url": "https://open.spotify.com/track/2S2WlomEUoG5KWSSWQxhs5"
@@ -8789,6 +8847,24 @@
     },
     {
       "album": {
+        "name": "Something Like Dis!",
+        "url": "https://open.spotify.com/album/0EG3Lwsbm9rC0mrwfYc9rm"
+      },
+      "artists": [
+        {
+          "name": "CAIT",
+          "url": "https://open.spotify.com/artist/2NK3AFtGh3TPvyhljur0nU"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351080,
+      "name": "Something Like Dis!",
+      "url": "https://open.spotify.com/track/4bBFihYVFp1U2dCqJVtatX"
+    },
+    {
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/3ilL1rqFRKvSYKLuUrUEPX"
       },
@@ -8880,6 +8956,24 @@
       "duration_ms": 385511,
       "name": "Space Is The Place",
       "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
+    },
+    {
+      "album": {
+        "name": "spontaneous combustion!",
+        "url": "https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B"
+      },
+      "artists": [
+        {
+          "name": "Jay Crusoe",
+          "url": "https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342790,
+      "name": "spontaneous combustion!",
+      "url": "https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX"
     },
     {
       "album": {
@@ -9028,7 +9122,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 364000,
       "name": "Still Trusttt",
       "url": "https://open.spotify.com/track/1kE0B65Zqg2yijQV3ABJYq"
@@ -9360,7 +9454,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 190843,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/3ygH2nvLQw388rGh0yxBKq"
@@ -10341,6 +10435,24 @@
     },
     {
       "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/7yK0APRBg3VWBebZ5Y81SY"
+      },
+      "artists": [
+        {
+          "name": "FIRZA",
+          "url": "https://open.spotify.com/artist/2DqvLV42W3Tq4ObYoAxz4B"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223269,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/474Ch3lurYss2Ci8tX9zJy"
+    },
+    {
+      "album": {
         "name": "U Won't See Me",
         "url": "https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7"
       },
@@ -10857,6 +10969,24 @@
     },
     {
       "album": {
+        "name": "What You Say EP",
+        "url": "https://open.spotify.com/album/0Y3fdVxgQ9Aoh8Nw1Nw1ZA"
+      },
+      "artists": [
+        {
+          "name": "Marsolo",
+          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311168,
+      "name": "What You Say",
+      "url": "https://open.spotify.com/track/2aOlGcKkcYYLABhtLDAvqn"
+    },
+    {
+      "album": {
         "name": "What's Your Name",
         "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
       },
@@ -11228,6 +11358,24 @@
       "duration_ms": 273750,
       "name": "Xplain",
       "url": "https://open.spotify.com/track/17kxWsI8f7T1UEcboHmm9a"
+    },
+    {
+      "album": {
+        "name": "Yalla Habibi",
+        "url": "https://open.spotify.com/album/2Ug29UHBsikpysJlpSZS2s"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Yalla Habibi",
+      "url": "https://open.spotify.com/track/7gghABdext1rWaAr6U508t"
     },
     {
       "album": {

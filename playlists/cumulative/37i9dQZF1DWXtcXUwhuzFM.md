@@ -4,7 +4,7 @@
 
 > Uutta musiikkia costeelta, KIKIltä & Mikael Gabrielilta, Lordelta, Portion Boysilta ja Jami Faltinilta & ibeltä.
 
-5,627 songs - 12 day 10 hr 3 min
+5,628 songs - 12 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1182,6 +1182,7 @@
 | [Ei periksi ikinä](https://open.spotify.com/track/34SjVtEtnYzFdbBwQSV2eS) | [Joniveli](https://open.spotify.com/artist/6H6ATP3FGWryNEYxLluUtL) | [Ei periksi ikinä](https://open.spotify.com/album/4tiyPc0ihh0KsOa4hrBxyZ) | 3:20 | 2024-10-03 | 2024-10-11 |
 | [Ei puhuta enää](https://open.spotify.com/track/5jRJRbKzSWZQtW5ZtitRW9) | [Modem](https://open.spotify.com/artist/7CQG9lCRpxkuALUS2wbTia) | [Miten täällä voi elää?](https://open.spotify.com/album/0tXkF0oIujY97ah0f63neX) | 3:51 | 2024-10-24 | 2024-11-01 |
 | [Ei rakkaus mua varten oo \(Vain elämää kausi 15\)](https://open.spotify.com/track/1IXRTae88I3UzJAufBJZvf) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Ei rakkaus mua varten oo \(Vain elämää kausi 15\)](https://open.spotify.com/album/1FTroXTCwAOvUCsOgIEGRj) | 4:06 | 2024-11-15 | 2024-11-22 |
+| [Ei Rakkaut](https://open.spotify.com/track/1kWFPp9sMxfKNobdlebdRW) | [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Ei Rakkaut](https://open.spotify.com/album/2ke0tkFzyeuBMpuUenWGLg) | 3:08 | 2025-04-25 |  |
 | [Ei sydäntä saa](https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Ei sydäntä saa](https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt) | 3:11 | 2024-07-11 | 2024-07-19 |
 | [Ei tuu jouluu ilman rauhaa](https://open.spotify.com/track/0doGgLino7Ul1Fm4MA8GZ4) | [Pilven Piirtäjät](https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t), [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Ei tuu jouluu ilman rauhaa](https://open.spotify.com/album/5n3OuiUQ7jnBYba5X5HRKI) | 3:58 | 2024-11-21 | 2024-11-29 |
 | [Ei tänää](https://open.spotify.com/track/2HoMv4IByvh1vpWzlWgm16) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [NEVERSELLOUT](https://open.spotify.com/album/0bMpFBfJWWVb3t8vIw2h44) | 2:03 | 2024-10-17 | 2024-10-25 |

@@ -2,9 +2,9 @@
 
 ### [New Music Friday Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX3crNbt46mRU)
 
-> This week's top new releases, including Nemo \(pictured\),  Benson Boone and more.
+> This week's top new releases, including Nemo, Lorde,  Benson Boone and more.
 
-17,261 songs - 35 day 19 hr 38 min
+17,263 songs - 35 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -897,6 +897,7 @@
 | [ambulanz](https://open.spotify.com/track/0MurLXPVOup92Ukgor0u5e) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ambulanz](https://open.spotify.com/album/0B2wWB5VGO34EbZWNBG6n9) | 2:56 | 2024-05-23 | 2024-06-01 |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-09 | 2023-02-17 |
 | [Amen](https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen](https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw) | 3:30 | 2023-12-14 | 2023-12-22 |
+| [Amen](https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:17 | 2025-04-24 |  |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-25 | 2023-06-02 |
 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 | 2025-02-06 | 2025-02-14 |
 | [American Dream](https://open.spotify.com/track/2XmkX75czcI3KwZfvuvkPx) | [Oda Loves You](https://open.spotify.com/artist/1SPo0Gb7MLOZRbrpnj4ybr) | [American Dream](https://open.spotify.com/album/2byLuldZbRlXBHQyAVR3AZ) | 3:33 | 2024-01-04 | 2024-01-12 |
@@ -8262,7 +8263,7 @@
 | [Khalifa's Home](https://open.spotify.com/track/6ROTA3lkjQudJ9i7kAvXqT) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Khalifa's Home](https://open.spotify.com/album/3om460mPhxDHzYRN25nEI4) | 2:48 | 2024-10-17 | 2024-10-25 |
 | [Khudahafiz](https://open.spotify.com/track/3hAWqy63tz29SFXNFCpA1D) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [22:22](https://open.spotify.com/album/2rANbjz8DsJtm6dqJMegNv) | 2:22 | 2024-06-27 | 2024-07-05 |
 | [KI \(KEINE INTELLIGENZ\)](https://open.spotify.com/track/69WnPkGaAvGHZC0Uh4ypA9) | [Marsimoto](https://open.spotify.com/artist/6jL3G5P8rxfUamkyqmRJNU) | [KI \(KEINE INTELLIGENZ\)](https://open.spotify.com/album/4PZAfknYz4hOwmC75OtJYl) | 3:14 | 2024-04-18 | 2024-04-26 |
-| [Kichta Walk](https://open.spotify.com/track/5RXP4YWkiOfmOPAk4MofWz) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Kichta Walk](https://open.spotify.com/album/3KXJ9hNm7ze8X8eLgHfgpx) | 2:57 | 2025-04-24 |  |
+| [Kichta Walk](https://open.spotify.com/track/5RXP4YWkiOfmOPAk4MofWz) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Kichta Walk](https://open.spotify.com/album/3KXJ9hNm7ze8X8eLgHfgpx) | 2:56 | 2025-04-24 |  |
 | [Kick It With You](https://open.spotify.com/track/5XeT6esdcC700dngtrumkx) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Kick It With You](https://open.spotify.com/album/4OU9Lmrl0X8gUZ259HuljR) | 3:32 | 2025-04-04 | 2025-04-11 |
 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 | 2025-01-02 | 2025-01-10 |
 | [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2022-12-08 | 2022-12-16 |
@@ -11001,6 +11002,7 @@
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-14 | 2023-12-19 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-15 | 2023-12-22 |
 | [Not My Friend](https://open.spotify.com/track/5ZiaqFHaF4vp6YDkVytfiI) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Not My Friend](https://open.spotify.com/album/48rQvziFjf7mDz1ql1HPuf) | 2:37 | 2023-04-20 | 2023-04-28 |
+| [Not My Problem](https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Not My Problem](https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD) | 2:55 | 2025-04-24 |  |
 | [Not Okay](https://open.spotify.com/track/4D7Sr61C1k4asXF3p5kkOS) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Not Okay](https://open.spotify.com/album/0VDyeTb2RyWuxYhgWZWtuP) | 2:49 | 2023-09-15 | 2023-09-22 |
 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh) | 2:35 | 2022-08-05 | 2022-08-12 |
 | [Not Ready To Love Me](https://open.spotify.com/track/5tR0JxxKaiH8nbpvxYdjlC) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Smalltown Boy Deluxe](https://open.spotify.com/album/7G9fBXqmBesyxtHgLexOG2) | 3:07 | 2025-04-10 | 2025-04-18 |

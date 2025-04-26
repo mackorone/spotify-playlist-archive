@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Música sin etiquetas.<br/>📷 Juan Campodónico & Zeballos
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,911 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,905 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 7 | [Mañana](https://open.spotify.com/track/4PsxrLdMFaaYbZn8unq6t4) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Mañana](https://open.spotify.com/album/1xWpnekynuyo6vEKcHMgSi) | 3:26 |
 | 8 | [LLAMALO](https://open.spotify.com/track/3me7U2dhWEi62XjrOxMWff) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [LLAMALO](https://open.spotify.com/album/03TDobVXdHnd7T8JMfXhgd) | 2:57 |
 | 9 | [un tiro](https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:34 |
-| 10 | [Veneno](https://open.spotify.com/track/3u25jJHH7zuhsh4gCO7kf0) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ahora que te gusta el Rock](https://open.spotify.com/album/6HgMAQiz2FbvgoeuQ9kKgl) | 2:44 |
+| 10 | [Veneno](https://open.spotify.com/track/3u25jJHH7zuhsh4gCO7kf0) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ahora Que Te Gusta El Rock](https://open.spotify.com/album/6HgMAQiz2FbvgoeuQ9kKgl) | 2:44 |
 | 11 | [Bonsai](https://open.spotify.com/track/072yPZOZLx9HmR3pdEhNwn) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:08 |
 | 12 | [Costumbres Argentinas](https://open.spotify.com/track/4UnFhfC8IecX4iulGDE5W5) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Costumbres Argentinas](https://open.spotify.com/album/5HuDHspsc6Km4gEH1HabDS) | 3:05 |
 | 13 | [Viaje de Ida](https://open.spotify.com/track/6NxIfPSFv9ZFTaptcnGEUU) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Viaje de Ida](https://open.spotify.com/album/5DdMn4yexdusfpW05ddQnR) | 3:11 |

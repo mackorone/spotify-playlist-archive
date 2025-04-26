@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Puro Suco, BEATDOMK",
+  "description": "boom bap renasce todo dia. Foto: FBC",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 150892,
       "name": "4Shared",
       "url": "https://open.spotify.com/track/1FtxkSEWNOwtdorukGFriM"
@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 201496,
       "name": "El\u00f3quio",
       "url": "https://open.spotify.com/track/06dSlUE4pHZGAoHU7DyDV8"
@@ -7252,7 +7252,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 197834,
       "name": "Libertando Mentes",
       "url": "https://open.spotify.com/track/3b7mY3kwBNuKOJBzYT3RZ1"
@@ -7516,6 +7516,40 @@
       "duration_ms": 208875,
       "name": "Luz e Trevas",
       "url": "https://open.spotify.com/track/4vzP9dGLaWZ6COdokYOMWP"
+    },
+    {
+      "album": {
+        "name": "MAAT",
+        "url": "https://open.spotify.com/album/5x6yxTaMj9qb9x5u90wyds"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246107,
+      "name": "MAAT",
+      "url": "https://open.spotify.com/track/7IKiC1BaSvThBivwwa0fkC"
     },
     {
       "album": {
@@ -9967,6 +10001,40 @@
     },
     {
       "album": {
+        "name": "OUTRA REALIDADE",
+        "url": "https://open.spotify.com/album/0HmLrWoCZvc4d2Cz0cB4Jq"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Cris SNJ",
+          "url": "https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf"
+        },
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Nega Gizza",
+          "url": "https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy"
+        },
+        {
+          "name": "DJ Negrito",
+          "url": "https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264274,
+      "name": "OUTRA REALIDADE",
+      "url": "https://open.spotify.com/track/28DVvFIEB1NAYcxKL65oMl"
+    },
+    {
+      "album": {
         "name": "Mbaraet\u00e9",
         "url": "https://open.spotify.com/album/2dmdMkuFDqx8dJnPqi7Wkv"
       },
@@ -11880,7 +11948,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 172000,
       "name": "Rimas Tradicionais de Inhoaiba",
       "url": "https://open.spotify.com/track/3gICjLgcchCS2rCI3uvBgE"
@@ -14614,7 +14682,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 300196,
       "name": "Viva - Transamaz\u00f4nica",
       "url": "https://open.spotify.com/track/08v6FRPd8214z7cwKFXF7d"
@@ -14740,6 +14808,44 @@
       "duration_ms": 230413,
       "name": "Volta por Cima",
       "url": "https://open.spotify.com/track/5g5IenKtBZJiyGYGuTFgjA"
+    },
+    {
+      "album": {
+        "name": "Volta \u00e0s Aulas",
+        "url": "https://open.spotify.com/album/62oXKqT0PH8m7qbVNXrDmI"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+        },
+        {
+          "name": "Dougnow",
+          "url": "https://open.spotify.com/artist/2qO980bLuBOI3XFp0FyuOW"
+        },
+        {
+          "name": "Rodrigo Ogi",
+          "url": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Volta \u00e0s Aulas",
+      "url": "https://open.spotify.com/track/1LJZmHVSY4O0o9egOUhQKU"
     },
     {
       "album": {

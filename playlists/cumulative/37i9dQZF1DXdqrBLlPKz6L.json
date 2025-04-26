@@ -382,7 +382,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 243923,
       "name": "Cellphone",
       "url": "https://open.spotify.com/track/2pAuWlwPCIWNGtp3TrdoHT"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 232941,
       "name": "Que Fue",
       "url": "https://open.spotify.com/track/7FXuCVl6Wf5LuqkagnafUQ"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 184068,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1ZQnUiFdrK4sxIJwBtiU1J"
@@ -2242,6 +2242,28 @@
       "duration_ms": 176083,
       "name": "Tinbo",
       "url": "https://open.spotify.com/track/5rd5rSUOMrA150vKFbpGHA"
+    },
+    {
+      "album": {
+        "name": "El Barbero",
+        "url": "https://open.spotify.com/album/2NbypnA6iR4aFMw4lqCSE7"
+      },
+      "artists": [
+        {
+          "name": "Elniko Arias",
+          "url": "https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR"
+        },
+        {
+          "name": "Juancho Valencia",
+          "url": "https://open.spotify.com/artist/2bptZEfEQ68RipspwZH40F"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172979,
+      "name": "Tiradera",
+      "url": "https://open.spotify.com/track/1DDYPex616cNjk4oHz7XA3"
     },
     {
       "album": {

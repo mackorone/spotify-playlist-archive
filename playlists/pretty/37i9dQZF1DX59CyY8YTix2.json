@@ -999,22 +999,6 @@
     {
       "added_at": "2025-04-15 15:00:24",
       "album": {
-        "name": "\u3042\u306e\u306d\u3001",
-        "url": "https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR"
-      },
-      "artists": [
-        {
-          "name": "POLKADOT STINGRAY",
-          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "\u3042\u306e\u306d\u3001",
-      "url": "https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W"
-    },
-    {
-      "added_at": "2025-04-15 15:00:24",
-      "album": {
         "name": "\u6c42\u4e16\u4e3b",
         "url": "https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2025-04-15 15:00:24",
       "album": {
-        "name": "Debris",
-        "url": "https://open.spotify.com/album/3s0NegKIyNZbvXrH4oRxDT"
+        "name": "\u3042\u306e\u306d\u3001",
+        "url": "https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR"
       },
       "artists": [
         {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+          "name": "POLKADOT STINGRAY",
+          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
         }
       ],
-      "duration_ms": 272177,
-      "name": "Debris",
-      "url": "https://open.spotify.com/track/7cISTRx3D4mmIfn2MPDvzQ"
+      "duration_ms": 218000,
+      "name": "\u3042\u306e\u306d\u3001",
+      "url": "https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W"
     },
     {
       "added_at": "2025-04-15 15:00:24",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2025-04-15 15:00:24",
       "album": {
+        "name": "Debris",
+        "url": "https://open.spotify.com/album/3s0NegKIyNZbvXrH4oRxDT"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 272177,
+      "name": "Debris",
+      "url": "https://open.spotify.com/track/7cISTRx3D4mmIfn2MPDvzQ"
+    },
+    {
+      "added_at": "2025-04-15 15:00:24",
+      "album": {
         "name": "Re:\u7d50\u675f\u30d0\u30f3\u30c9",
         "url": "https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 219280,
       "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
       "url": "https://open.spotify.com/track/3lG2lpAVirM0df8pMMUP1P"
-    },
-    {
-      "added_at": "2025-04-15 15:00:24",
-      "album": {
-        "name": "GOLDEN BUDDY (feat. \u304f\u308b\u307e)",
-        "url": "https://open.spotify.com/album/6b6lvud6lpyUkay9YreLIq"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        },
-        {
-          "name": "\u304f\u308b\u307e",
-          "url": "https://open.spotify.com/artist/2A9KcnzAkVOiKKCE4VJJEf"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "GOLDEN BUDDY (feat. \u304f\u308b\u307e)",
-      "url": "https://open.spotify.com/track/5wpOZzvsXpZyM6yblEMRv9"
     },
     {
       "added_at": "2025-04-15 15:00:24",
@@ -1131,6 +1111,26 @@
     {
       "added_at": "2025-04-15 15:00:24",
       "album": {
+        "name": "GOLDEN BUDDY (feat. \u304f\u308b\u307e)",
+        "url": "https://open.spotify.com/album/6b6lvud6lpyUkay9YreLIq"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        },
+        {
+          "name": "\u304f\u308b\u307e",
+          "url": "https://open.spotify.com/artist/2A9KcnzAkVOiKKCE4VJJEf"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "GOLDEN BUDDY (feat. \u304f\u308b\u307e)",
+      "url": "https://open.spotify.com/track/5wpOZzvsXpZyM6yblEMRv9"
+    },
+    {
+      "added_at": "2025-04-15 15:00:24",
+      "album": {
         "name": "A8\u756a\u51fa\u53e3",
         "url": "https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 215748,
       "name": "A8\u756a\u51fa\u53e3",
       "url": "https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx"
+    },
+    {
+      "added_at": "2025-04-15 15:00:24",
+      "album": {
+        "name": "27:00",
+        "url": "https://open.spotify.com/album/4GuACkRMfgEcZDcMnK5zT9"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 208955,
+      "name": "27:00",
+      "url": "https://open.spotify.com/track/5EWrGH4sJSacwZtB2o9A10"
     },
     {
       "added_at": "2025-04-15 15:00:24",
@@ -1207,22 +1223,6 @@
       "duration_ms": 222753,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
-    },
-    {
-      "added_at": "2025-04-15 15:00:24",
-      "album": {
-        "name": "27:00",
-        "url": "https://open.spotify.com/album/4GuACkRMfgEcZDcMnK5zT9"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 208955,
-      "name": "27:00",
-      "url": "https://open.spotify.com/track/5EWrGH4sJSacwZtB2o9A10"
     }
   ],
   "unique_name": "She Rocks",

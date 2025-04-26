@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Ara Johari
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,339 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,366 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 19 | [Jahat \- From "Pabila Dia Tersenyum"](https://open.spotify.com/track/1i4u2g3SXpWB3uEfs6Nlvx) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Jahat \(From "Pabila Dia Tersenyum"\)](https://open.spotify.com/album/4BXb8lrnsrouxgTVOc2qLX) | 3:17 |
 | 20 | [Hijab Rindu](https://open.spotify.com/track/1rb3QqlRtKqLOecqhnfyj8) | [Black Hanifah](https://open.spotify.com/artist/0PDGnVNduk5dCW4m47ls3d) | [Hijab Rindu](https://open.spotify.com/album/5Id1pVSdoY2giuqJuhVyXj) | 4:17 |
 | 21 | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/4mLazr37b1WXxiV0BDvTpb) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/6i5nZ5PvK5aqU27SaTsjad) | 4:41 |
-| 22 | [Romantisa \- Piano Version \(Gadis Masa\)](https://open.spotify.com/track/6Ynu1SMNaG35VH27vblZZY) | [Perry](https://open.spotify.com/artist/6xmUouQAgFHw0sIiIdBf0L), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Romantisa \[Piano Version \(Gadis Masa\)\]](https://open.spotify.com/album/25kdz30dq7uuZKt3rC2yhs) | 5:17 |
+| 22 | [Romantisa \- Piano Version \(OST Gadis Masa\)](https://open.spotify.com/track/6Ynu1SMNaG35VH27vblZZY) | [Perry](https://open.spotify.com/artist/6xmUouQAgFHw0sIiIdBf0L), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Romantisa \[Piano Version \(OST Gadis Masa\)\]](https://open.spotify.com/album/25kdz30dq7uuZKt3rC2yhs) | 5:17 |
 | 23 | [Di Balik Pertanda](https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Di Balik Pertanda](https://open.spotify.com/album/76H7wY4u8vwdDjJFYhDqbj) | 3:36 |
 | 24 | [Mencintaimu \- \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/track/2gsRMFzelZuRQo8r11RsLr) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mencintaimu \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/album/0TzkM6DQnhO5jydrJu2IyK) | 4:54 |
 | 25 | [Hening Rindu](https://open.spotify.com/track/78407B74rCuif4YYE4SRUv) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Hening Rindu](https://open.spotify.com/album/1cPlyNOK1dziSnIkjNweS4) | 3:56 |

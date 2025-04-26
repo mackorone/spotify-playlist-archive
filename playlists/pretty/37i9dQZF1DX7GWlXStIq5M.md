@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Ananda, Elana Dara
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,771 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,757 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 52 | [Cítrico](https://open.spotify.com/track/1clwNGtQGMLKjTRFjfkZxY) | [Ana Morais](https://open.spotify.com/artist/7h2iWQdQSLt2BzbdKFSUg6) | [Cítrico](https://open.spotify.com/album/2QO820M8LgRuuc5XSnXO1P) | 2:44 |
 | 53 | [Água de Coco](https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:21 |
 | 54 | [Are You Listening](https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Used To Feel](https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3) | 3:13 |
-| 55 | [Não Posso](https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Não Posso](https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP) | 2:27 |
-| 56 | [PornStar](https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 3:08 |
+| 55 | [PornStar](https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 3:08 |
+| 56 | [Não Posso](https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Não Posso](https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP) | 2:27 |
 | 57 | [Eu te odeio](https://open.spotify.com/track/0IVob1bQGOvDHYz0KuSTtG) | [Dri](https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g) | [Eu te odeio](https://open.spotify.com/album/4bYDEYdCNcBMkI3lOBR9ER) | 2:31 |
 | 58 | [Pós Love](https://open.spotify.com/track/29irNwrelJMk8wublGdvXg) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa), [Bahia Baby](https://open.spotify.com/artist/7rwAj9PJhdlGmVQTz6GTd7) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:47 |
 | 59 | [Sonhei com Você](https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Sonhei com Você](https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX) | 4:21 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 66 | [Assome](https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 3:00 |
 | 67 | [Encontros](https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp) | [C.L](https://open.spotify.com/artist/6w1Vg5lVWY3g8woAEz60uq), [Karol Fernandez](https://open.spotify.com/artist/29QuZBNZlNEtU5CYyBlRZP) | [Encontros](https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj) | 3:21 |
 | 68 | [ÁGUA DE COCO](https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS) | [ÁGUA DE COCO](https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE) | 2:14 |
-| 69 | [Favorito](https://open.spotify.com/track/4JJL1d9aXoFQHFWyn6CpAH) | [Carol Juno](https://open.spotify.com/artist/0ZzpPeTJVwnXQxopS34zSB) | [Favorito](https://open.spotify.com/album/39j4rGhnwQVVKAvoJ8twQh) | 2:31 |
-| 70 | [F.O.D.A.](https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [F.O.D.A.](https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm) | 2:59 |
-| 71 | [Ainda Tenho Fé](https://open.spotify.com/track/66YWu9JvG60I365bc87wWo) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Ainda Tenho Fé](https://open.spotify.com/album/1fvpViBj5r2t6BDOqWdLFZ) | 1:49 |
+| 69 | [Ainda Tenho Fé](https://open.spotify.com/track/66YWu9JvG60I365bc87wWo) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Ainda Tenho Fé](https://open.spotify.com/album/1fvpViBj5r2t6BDOqWdLFZ) | 1:49 |
+| 70 | [Favorito](https://open.spotify.com/track/4JJL1d9aXoFQHFWyn6CpAH) | [Carol Juno](https://open.spotify.com/artist/0ZzpPeTJVwnXQxopS34zSB) | [Favorito](https://open.spotify.com/album/39j4rGhnwQVVKAvoJ8twQh) | 2:31 |
+| 71 | [F.O.D.A.](https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [F.O.D.A.](https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm) | 2:59 |
 | 72 | [BAILA](https://open.spotify.com/track/4cAiOVTFCvEzzlxKNXbzWu) | [Giovanna](https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA), [Chiara](https://open.spotify.com/artist/1Yx4WtuPLiaCilNXYavaAe) | [BAILA](https://open.spotify.com/album/5KwNkyLuja4FqqrQ9M8chO) | 3:11 |
 | 73 | [Bora pra praia](https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih), [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [BORABAEZ](https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj) | [Bora pra praia](https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa) | 3:48 |
 | 74 | [Mensagem](https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Zi](https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup) | [Mensagem](https://open.spotify.com/album/3jrQ89guzyabS1ms7U8xXy) | 2:28 |

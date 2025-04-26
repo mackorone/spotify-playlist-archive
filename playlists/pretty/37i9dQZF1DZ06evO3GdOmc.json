@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 41537,
+  "num_followers": 41561,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAgtgAAAAABgYRxUr0wfGZ5nbM4UvhQ+",
+  "snapshot_id": "aAl/AAAAAABs7n3yj7dBOLB+n6H30FgZ",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Your Love Is Extravagant",
+      "url": "https://open.spotify.com/track/45odkrz6e8NWiM8vdJrgZi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 268666,
       "name": "Does Anybody Hear Her",
       "url": "https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Your Love Is Extravagant",
-      "url": "https://open.spotify.com/track/45odkrz6e8NWiM8vdJrgZi"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Jesus at a Distance",
-      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 191466,
       "name": "Healer",
       "url": "https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Jesus at a Distance",
+      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
     },
     {
       "added_at": null,

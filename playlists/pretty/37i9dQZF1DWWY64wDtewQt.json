@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9836117,
+  "num_followers": 9841862,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/lCjAAAAACZm+g+BdYg08vN0SCR+DER",
+  "snapshot_id": "aAuW6wAAAADrwB0O9o8FGg19wyrXm/Ni",
   "tracks": [
     {
       "added_at": "2025-02-28 15:27:21",
@@ -117,6 +117,38 @@
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
+      "added_at": "2024-03-29 15:57:27",
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
+    },
+    {
+      "added_at": "2025-04-02 03:12:09",
+      "album": {
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "duration_ms": 71392,
+      "name": "MONTAGEM TOMADA",
+      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
+    },
+    {
       "added_at": "2025-02-28 15:27:21",
       "album": {
         "name": "MTG - RITMO ZELDA",
@@ -137,40 +169,28 @@
       "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
     },
     {
-      "added_at": "2024-07-05 13:50:01",
+      "added_at": "2025-03-21 14:02:34",
       "album": {
-        "name": "X-SLIDE",
-        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
+        "name": "MONTAGEM LADRAO",
+        "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
       },
       "artists": [
         {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
         },
         {
-          "name": "808iuli",
-          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
-        }
-      ],
-      "duration_ms": 79452,
-      "name": "X-SLIDE",
-      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
-    },
-    {
-      "added_at": "2024-03-29 15:57:27",
-      "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        },
         {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+          "name": "Itamar Mc",
+          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
         }
       ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
+      "duration_ms": 75240,
+      "name": "MONTAGEM LADRAO",
+      "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
     },
     {
       "added_at": "2024-07-12 15:05:31",
@@ -209,28 +229,24 @@
       "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
-      "added_at": "2025-03-21 14:02:34",
+      "added_at": "2024-07-05 13:50:01",
       "album": {
-        "name": "MONTAGEM LADRAO",
-        "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
+        "name": "X-SLIDE",
+        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
       },
       "artists": [
         {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
         },
         {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        },
-        {
-          "name": "Itamar Mc",
-          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
+          "name": "808iuli",
+          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
         }
       ],
-      "duration_ms": 75240,
-      "name": "MONTAGEM LADRAO",
-      "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
+      "duration_ms": 79452,
+      "name": "X-SLIDE",
+      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
       "added_at": "2024-03-22 16:01:00",
@@ -497,6 +513,42 @@
       "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
     },
     {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "TRALALERO TRALALA FUNK",
+        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
+      },
+      "artists": [
+        {
+          "name": "DJ Raulipues",
+          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        }
+      ],
+      "duration_ms": 117901,
+      "name": "TRALALERO TRALALA FUNK",
+      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
+    },
+    {
+      "added_at": "2024-07-12 15:05:31",
+      "album": {
+        "name": "NEXT!",
+        "url": "https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5"
+      },
+      "artists": [
+        {
+          "name": "NCTS",
+          "url": "https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG"
+        }
+      ],
+      "duration_ms": 99692,
+      "name": "NEXT!",
+      "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
+    },
+    {
       "added_at": "2023-07-21 09:05:00",
       "album": {
         "name": "Automotivo Bibi Fogosa",
@@ -519,22 +571,6 @@
       "duration_ms": 129776,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
-    },
-    {
-      "added_at": "2024-07-12 15:05:31",
-      "album": {
-        "name": "NEXT!",
-        "url": "https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5"
-      },
-      "artists": [
-        {
-          "name": "NCTS",
-          "url": "https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG"
-        }
-      ],
-      "duration_ms": 99692,
-      "name": "NEXT!",
-      "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -571,26 +607,6 @@
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
-    },
-    {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
-        "name": "TRALALERO TRALALA FUNK",
-        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
-      },
-      "artists": [
-        {
-          "name": "DJ Raulipues",
-          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
-        },
-        {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        }
-      ],
-      "duration_ms": 117901,
-      "name": "TRALALERO TRALALA FUNK",
-      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
     },
     {
       "added_at": "2023-12-08 15:15:57",
@@ -713,6 +729,30 @@
       "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
     },
     {
+      "added_at": "2025-04-25 14:06:35",
+      "album": {
+        "name": "MONTAGEM BAIL\u00c3O",
+        "url": "https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ"
+      },
+      "artists": [
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
+        },
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        }
+      ],
+      "duration_ms": 103727,
+      "name": "MONTAGEM BAIL\u00c3O",
+      "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
+    },
+    {
       "added_at": "2024-08-30 14:16:34",
       "album": {
         "name": "FUNK UNIVERSO",
@@ -727,22 +767,6 @@
       "duration_ms": 127500,
       "name": "FUNK UNIVERSO",
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
-    },
-    {
-      "added_at": "2025-04-02 03:12:09",
-      "album": {
-        "name": "MONTAGEM TOMADA",
-        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
-      },
-      "artists": [
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        }
-      ],
-      "duration_ms": 71392,
-      "name": "MONTAGEM TOMADA",
-      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
     },
     {
       "added_at": "2023-06-09 13:51:36",
@@ -1197,6 +1221,30 @@
       "url": "https://open.spotify.com/track/0KCRlnAviErdAu6JcjKZJs"
     },
     {
+      "added_at": "2025-04-25 14:06:35",
+      "album": {
+        "name": "Montagem Solar Atmosfera",
+        "url": "https://open.spotify.com/album/3Iz4fcwWN3Uf5KESTQwrsY"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        },
+        {
+          "name": "TOKYOPHILE",
+          "url": "https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n"
+        },
+        {
+          "name": "MC MN",
+          "url": "https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Montagem Solar Atmosfera",
+      "url": "https://open.spotify.com/track/1tBsFgHlgn9oCUXxlXlTaw"
+    },
+    {
       "added_at": "2022-11-11 07:32:56",
       "album": {
         "name": "Scopin",
@@ -1391,82 +1439,6 @@
       "duration_ms": 212000,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
-    },
-    {
-      "added_at": "2025-04-11 16:25:48",
-      "album": {
-        "name": "DIGITAL KILL SHIT",
-        "url": "https://open.spotify.com/album/7KxZEK8lms9dbimiIlCcQP"
-      },
-      "artists": [
-        {
-          "name": "DEATHPIXIE",
-          "url": "https://open.spotify.com/artist/5uzPIJDzWAujemRDKiJMRj"
-        },
-        {
-          "name": "RezaDead",
-          "url": "https://open.spotify.com/artist/0x9bzpifUdZFBQw7R1UWPT"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "DIGITAL KILL SHIT",
-      "url": "https://open.spotify.com/track/0yJvpQi8Aw6BWFhT5C7bt7"
-    },
-    {
-      "added_at": "2024-08-09 12:00:00",
-      "album": {
-        "name": "O Melhor no Que Faz 3.0 [Slowed]",
-        "url": "https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN"
-      },
-      "artists": [
-        {
-          "name": "DJ BRYAN 7",
-          "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
-        },
-        {
-          "name": "DJIEGO",
-          "url": "https://open.spotify.com/artist/4ziGmZKhRvzoP0De6vcXGt"
-        },
-        {
-          "name": "Maxximo Dj",
-          "url": "https://open.spotify.com/artist/12PDaXrPNMYQsQLnSnDaSS"
-        },
-        {
-          "name": "Mc M4",
-          "url": "https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "O Melhor no Que Faz 3.0 [Slowed]",
-      "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
-    },
-    {
-      "added_at": "2024-07-12 15:05:31",
-      "album": {
-        "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
-        "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
-      },
-      "artists": [
-        {
-          "name": "DJ MAXZZ",
-          "url": "https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T"
-        },
-        {
-          "name": "DJ JL3 DA ZN",
-          "url": "https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu"
-        },
-        {
-          "name": "DJ CD 011",
-          "url": "https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 144359,
-      "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
-      "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
     },
     {
       "added_at": "2024-11-22 15:19:47",
@@ -1753,6 +1725,26 @@
       "url": "https://open.spotify.com/track/3cjg55upztjI5bIsBQqSN1"
     },
     {
+      "added_at": "2025-04-11 16:25:48",
+      "album": {
+        "name": "DIGITAL KILL SHIT",
+        "url": "https://open.spotify.com/album/7KxZEK8lms9dbimiIlCcQP"
+      },
+      "artists": [
+        {
+          "name": "DEATHPIXIE",
+          "url": "https://open.spotify.com/artist/5uzPIJDzWAujemRDKiJMRj"
+        },
+        {
+          "name": "RezaDead",
+          "url": "https://open.spotify.com/artist/0x9bzpifUdZFBQw7R1UWPT"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "DIGITAL KILL SHIT",
+      "url": "https://open.spotify.com/track/0yJvpQi8Aw6BWFhT5C7bt7"
+    },
+    {
       "added_at": "2023-07-07 17:01:13",
       "album": {
         "name": "Mexican Phonk Eki",
@@ -1843,22 +1835,6 @@
       "duration_ms": 126942,
       "name": "ECOS DO ABISMO - Super Slowed",
       "url": "https://open.spotify.com/track/0lZSad8ojli0h9SAwcyIS5"
-    },
-    {
-      "added_at": "2024-06-07 14:46:33",
-      "album": {
-        "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
-        "url": "https://open.spotify.com/album/03GXBC2T6YdaBZo754wYlH"
-      },
-      "artists": [
-        {
-          "name": "TOKYOPHILE",
-          "url": "https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n"
-        }
-      ],
-      "duration_ms": 109668,
-      "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
-      "url": "https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ"
     },
     {
       "added_at": "2024-09-06 15:23:15",

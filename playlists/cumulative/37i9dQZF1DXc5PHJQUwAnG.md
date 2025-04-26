@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ\_MX](https://open.spotify.com/playlist/37i9dQZF1DXc5PHJQUwAnG)
 
-> Bienvenidx a la trampa mexa\. Krusha G en portada.
+> Bienvenidx a la trampa mexa\. Adán Cruz en portada.
 
-360 songs - 17 hr 2 min
+362 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [MODA](https://open.spotify.com/track/1BkmWvkK5yBYO3SCtlYnug) | [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [MODA](https://open.spotify.com/album/7L2kxysmqemVvfsVxufpek) | 2:17 | 2025-03-07 |  |
 | [MONOPSYCHO](https://open.spotify.com/track/1RvNIXRus8PEkc8nhBji1D) | [Kill the Clowns](https://open.spotify.com/artist/7KczDuPvlKEo8nQCpa8my8), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [CIRCUS](https://open.spotify.com/album/1RKKNHSeD6HuG15HevvGbe) | 2:46 | 2023-09-23 | 2023-11-11 |
 | [Motivos](https://open.spotify.com/track/3MtXfPjTXCuH3DN5J1Mf2W) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Motivos](https://open.spotify.com/album/6wgKeewwbZPcH8lCBqN4HS) | 3:40 | 2023-06-09 | 2023-07-01 |
+| [Mucha Weed](https://open.spotify.com/track/5jCrXCRwLPqGf8d8Zr4Inw) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Mundo Marihuana](https://open.spotify.com/album/15MAIBFmZZZG2jfuws4CIW) | 2:57 | 2025-04-25 |  |
 | [MUCHOS QUIEREN](https://open.spotify.com/track/66T9g1MoOM13m8pZWZAx5P) | [UZI THE BRAIN](https://open.spotify.com/artist/6tAM0ouJVub5aL3zv4IFa8), [ODK Beats](https://open.spotify.com/artist/0tXFrC3U9B1VEqwLhIX4D4) | [MUCHOS QUIEREN](https://open.spotify.com/album/66FzrtFKEwpVSiI5XbGCgL) | 3:14 | 2024-03-15 | 2024-04-06 |
 | [Murakami](https://open.spotify.com/track/1jmdK9JZnYkbfGj3Iddb63) | [Babyohikari](https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW), [Kid Pingo](https://open.spotify.com/artist/1UolXIm81Cap8uxy2f8aJ1), [Alexvn](https://open.spotify.com/artist/49eC39QwBTS0cxf9AJASe4), [Siko](https://open.spotify.com/artist/638Qcb1Tj0Trk3kbzjhI9C) | [Murakami](https://open.spotify.com/album/6uuOMTfSt4xASuOkNOLzUB) | 2:54 | 2023-06-09 | 2023-12-16 |
 | [Muñeca de lego](https://open.spotify.com/track/5Q7yF13xbkKXh2f5rrgYdK) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [BAD BITCHES](https://open.spotify.com/album/2RtCDcpElT5bmoyhRK0Dyt) | 2:35 | 2023-11-10 | 2024-05-18 |
@@ -248,6 +249,7 @@
 | [No Me Quieren](https://open.spotify.com/track/3p1Ai6RRQm30uf2oOgWqQ6) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [No Me Quieren](https://open.spotify.com/album/0sLgMiJoybUIcM2pk0neay) | 3:11 | 2024-01-12 |  |
 | [No me retracto](https://open.spotify.com/track/06F1xerME9zW3bZMP4RweE) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [No me retracto](https://open.spotify.com/album/3gRQFlAerNzf009idHlF92) | 2:21 | 2023-06-09 | 2024-05-18 |
 | [No MMS Wey](https://open.spotify.com/track/7jI8whEGdhLacH4eUDDyVe) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Ion Mazzi](https://open.spotify.com/artist/0ClbnfnbDSELmq41YZe7HD) | [No MMS Wey](https://open.spotify.com/album/3nAj3Bezey8Y1Jm3MqPDof) | 3:30 | 2025-03-28 |  |
+| [No Quiero Fama](https://open.spotify.com/track/1rNTYIwb2jiRvePjgyO5gF) | [Jan Glack](https://open.spotify.com/artist/0Vg3WP6VS3IuKYwvnGsJFh), [SORKI](https://open.spotify.com/artist/7o6GKsh3DbgdZVv3wi989P) | [No Quiero Fama](https://open.spotify.com/album/70dJYhRCIRqPjW7ydGWTpo) | 2:55 | 2025-04-25 |  |
 | [No Se Tu \- S10](https://open.spotify.com/track/3kGbJwQoCeG1asWwRmlVdD) | [Interface](https://open.spotify.com/artist/7MTsoppc8uObq6H28nH0rd), [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [SESIONES EN RAMEN, Vol.1](https://open.spotify.com/album/17et1U7WDaz9JrBBsUZeXZ) | 2:50 | 2024-02-26 | 2024-03-30 |
 | [No Tenemos](https://open.spotify.com/track/2LeR9iy4D7LBlnmEGVjUjF) | [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7) | [No Tenemos](https://open.spotify.com/album/2dwY987hvC3V3fNUHdRrrm) | 2:34 | 2024-11-15 |  |
 | [No Wifi](https://open.spotify.com/track/5uxDbCFArvfMZhnjWhqr3e) | [Eipi](https://open.spotify.com/artist/3YmwvG9OoPyAMoCRrcTUMl), [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ) | [No Wifi](https://open.spotify.com/album/2w7hFfi61OtEQK8dlWWhCu) | 2:31 | 2023-06-09 | 2023-10-23 |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 237513,
       "name": "Agaracha",
       "url": "https://open.spotify.com/track/42WBHKFN8h7bNkNKTG6KoY"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 199944,
       "name": "Daily II",
       "url": "https://open.spotify.com/track/3WGasSM3lLRvq4nPi5LUGk"
@@ -3794,6 +3794,24 @@
       "duration_ms": 778285,
       "name": "I PREVAIL - Live",
       "url": "https://open.spotify.com/track/05e71J5stPJGlANXswQDDu"
+    },
+    {
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/3si2ZG6aSbZsUbBBJvYsaL"
+      },
+      "artists": [
+        {
+          "name": "Deborah Dworshipper",
+          "url": "https://open.spotify.com/artist/4f4co0txflmBMkp8I1p7n0"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/30hiXQJloRoZHDccMf50TQ"
     },
     {
       "album": {
@@ -9130,7 +9148,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 190000,
       "name": "Watching All over Me",
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"

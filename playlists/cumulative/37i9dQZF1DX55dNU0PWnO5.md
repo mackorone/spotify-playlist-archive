@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-433 songs - 1 day 2 hr 8 min
+434 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Crumbs](https://open.spotify.com/track/7fsFSCGoDfOfBE5gco8NAM) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Between Planets](https://open.spotify.com/album/1HXAyDt5jwwKPyi0tlH5WQ) | 1:33 | 2023-09-29 | 2024-09-07 |
 | [Cryogen](https://open.spotify.com/track/0UwQljCILorlIvAh4KqOzd) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Noah Denton](https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd), [Jonathan Berroa](https://open.spotify.com/artist/034NSOjlm8ldyogY85O7v0), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Noah Wise](https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb), [Jean\-loup Siaut](https://open.spotify.com/artist/7kQ6pzESf0Nv5XELxoHyjn) | [Cryogen](https://open.spotify.com/album/7HCgZIwVVZn7AQvslT5Wq9) | 3:22 | 2022-03-25 | 2023-08-19 |
 | [Crystal Clouds](https://open.spotify.com/track/32Iny8TkYR3Anz4jmc4qK8) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:09 | 2022-01-14 | 2025-03-01 |
+| [Curse](https://open.spotify.com/track/3AoAsTcpog6RxtXBafmVdD) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Curse](https://open.spotify.com/album/05AmwFGfopX9CCcVEdqqsD) | 3:05 | 2025-04-25 |  |
 | [CYPReSSES](https://open.spotify.com/track/17vwQOObhFSyQ4oGSqlisH) | [LADAISLE](https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r) | [CYPReSSES](https://open.spotify.com/album/2ieCq7tU69L7NkfCRKa3jC) | 3:18 | 2021-04-02 | 2022-07-29 |
 | [Daily Stroll](https://open.spotify.com/track/2G5EwHX39hSGhQkTCubRR1) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Josh Howard](https://open.spotify.com/artist/4oXjAccvs9FQnAbP0OZvKC) | [Daily Stroll](https://open.spotify.com/album/3ZIxKuIOCNAltIR9BhRjMB) | 2:09 | 2021-09-10 | 2022-07-29 |
 | [Dance Desire](https://open.spotify.com/track/1kDLuI1oC6XSvaNpAqFGkv) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Aspects](https://open.spotify.com/album/7hkJZ6OcdqRRFotfnz0fWt) | 3:54 | 2021-03-26 |  |
@@ -142,7 +143,7 @@
 | [Event Horizon](https://open.spotify.com/track/2atQCpkWypd5udIH44jeZW) | [JZZPLSN](https://open.spotify.com/artist/43dLnx1uxeGzDna4It4ZBS), [The Calle Stenman Quintet](https://open.spotify.com/artist/33HmwOuCQt9l75KLBR557Y), [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Event Horizon](https://open.spotify.com/album/2Q6rIISCqrxSMfbKTvIWKu) | 3:41 | 2022-06-10 |  |
 | [Existential Being](https://open.spotify.com/track/0GSc04FDZiOY7DVJ3Ya1z8) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Virtual Essence](https://open.spotify.com/album/6lTeR0g2ksvePonTWXQ0U8) | 2:38 | 2022-01-28 | 2022-07-29 |
 | [Exoplanet](https://open.spotify.com/track/6j1ChNSkJNqz8xgbXCS2xW) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Bubby Lewis](https://open.spotify.com/artist/2foDHsfpet3NNYdYhfK8Fc), [Ian Roller](https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn) | [Natural Resolve](https://open.spotify.com/album/3Cx9pTCk3Mif9TGYCXM1k2) | 2:16 | 2024-03-29 |  |
-| [Expedition](https://open.spotify.com/track/5xCeDshnYgGftDALYye1EQ) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Expedition](https://open.spotify.com/album/42rnoZ9GP4PYb31JO4vvd4) | 2:50 | 2023-05-12 |  |
+| [Expedition](https://open.spotify.com/track/5xCeDshnYgGftDALYye1EQ) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Expedition](https://open.spotify.com/album/42rnoZ9GP4PYb31JO4vvd4) | 2:50 | 2023-05-12 | 2025-04-26 |
 | [Extra Life](https://open.spotify.com/track/2uDVeER8QitZUXQfUu9eVU) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Gianluca Pellerito](https://open.spotify.com/artist/6aV2vnPLlORDtjoaMg1zTJ) | [Extra Life](https://open.spotify.com/album/13M2Y8Kpqlo40he5J3GkY1) | 3:03 | 2024-05-24 |  |
 | [FallsLake](https://open.spotify.com/track/55PDDJb5I9VMP50hcu2O0e) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Benny Bock](https://open.spotify.com/artist/0whJ2FDPMvAL5DQaEox7RD), [Hans P\. Kjorstad](https://open.spotify.com/artist/5GUQyp5KqMspjfP1cuHtnc) | [FallsLake](https://open.spotify.com/album/3LJ5SPEuf0Iuw87Gsna7nZ) | 4:22 | 2024-11-01 |  |
 | [Figures](https://open.spotify.com/track/6Rh95LODQfId7hlJcheddl) | [Blossum](https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4) | [Figures](https://open.spotify.com/album/6zoX5kJVZ6EaPtuUuyVpJc) | 2:32 | 2023-07-14 |  |

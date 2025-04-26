@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech, Omar Courtz",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -1330,6 +1330,32 @@
       "duration_ms": 229252,
       "name": "Cabr\u00f3n",
       "url": "https://open.spotify.com/track/78Sic9yPWUuX89sDiPTZjH"
+    },
+    {
+      "album": {
+        "name": "Callao",
+        "url": "https://open.spotify.com/album/6jVLTpsEz1XACI8C2NPMDc"
+      },
+      "artists": [
+        {
+          "name": "Roazter",
+          "url": "https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Callao",
+      "url": "https://open.spotify.com/track/1qfoVO97S7uNUgOgEy0LDw"
     },
     {
       "album": {
@@ -3495,6 +3521,32 @@
     },
     {
       "album": {
+        "name": "GEISHA",
+        "url": "https://open.spotify.com/album/3Ut5xSrHzI0vQQAYOLVUxo"
+      },
+      "artists": [
+        {
+          "name": "Sami Boy",
+          "url": "https://open.spotify.com/artist/1ESd6ktTBrYTTACNlfHB8Q"
+        },
+        {
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s"
+        },
+        {
+          "name": "wvltz",
+          "url": "https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153210,
+      "name": "GEISHA",
+      "url": "https://open.spotify.com/track/5iFML2Wpk68F3gALxmk6vo"
+    },
+    {
+      "album": {
         "name": "Girasoles",
         "url": "https://open.spotify.com/album/2KX2f1NYIUAWJ6jpzZP6ed"
       },
@@ -4862,7 +4914,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 134996,
       "name": "Limited Edition",
       "url": "https://open.spotify.com/track/1jD2amqeDzRokqt36egynu"
@@ -5249,6 +5301,36 @@
     },
     {
       "album": {
+        "name": "Mambo Rambo",
+        "url": "https://open.spotify.com/album/1jBpN2aZj7Fv3GZ1x6eXLT"
+      },
+      "artists": [
+        {
+          "name": "Elty",
+          "url": "https://open.spotify.com/artist/4dlXeMiq59ilk4DUppR5rf"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Kenzyntb",
+          "url": "https://open.spotify.com/artist/6diDtBLcg8iLQADb9XHq1v"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154628,
+      "name": "Mambo Rambo",
+      "url": "https://open.spotify.com/track/6iVkAeGX1hBW1SgWYK5PTC"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf"
       },
@@ -5305,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Mas Nah",
+        "url": "https://open.spotify.com/album/3XH58psRtA1vqINRqXIoCZ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Mas Nah",
+      "url": "https://open.spotify.com/track/4V8ICQvf7NnB5yRjVLIPIl"
+    },
+    {
+      "album": {
         "name": "El de la 13",
         "url": "https://open.spotify.com/album/6nsnGe7s1rqHAusbBl683c"
       },
@@ -5334,7 +5434,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 120000,
       "name": "Me Emputa",
       "url": "https://open.spotify.com/track/221UmIknb84l0i9SdFAejc"
@@ -6818,7 +6918,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 240964,
       "name": "ori\u00f3N",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -6904,6 +7004,28 @@
       "duration_ms": 169999,
       "name": "OTRA VEZ",
       "url": "https://open.spotify.com/track/2RPqEf96kt2YdW2HNsP9Pc"
+    },
+    {
+      "album": {
+        "name": "LYRICIST",
+        "url": "https://open.spotify.com/album/46jeotYq3WtdTiWw3EXOTA"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204995,
+      "name": "Otro",
+      "url": "https://open.spotify.com/track/1x001OO7aCDBcsmHkIN8Gc"
     },
     {
       "album": {
@@ -8276,6 +8398,24 @@
       "duration_ms": 213078,
       "name": "San Andr\u00e9s",
       "url": "https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T"
+    },
+    {
+      "album": {
+        "name": "SAN BLAS",
+        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148906,
+      "name": "san blaS",
+      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
     },
     {
       "album": {
@@ -9675,6 +9815,28 @@
     },
     {
       "album": {
+        "name": "Tu Ganaste",
+        "url": "https://open.spotify.com/album/0ySg7Ahqt05QemtV8eloer"
+      },
+      "artists": [
+        {
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
+        },
+        {
+          "name": "El Ita",
+          "url": "https://open.spotify.com/artist/5I6G99ziCgs4IRvmGcHw8a"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187987,
+      "name": "Tu Ganaste",
+      "url": "https://open.spotify.com/track/06DTz01RCDz3gsT5KPdfyD"
+    },
+    {
+      "album": {
         "name": "Tu Loco",
         "url": "https://open.spotify.com/album/0t9xJs4Z8Po09tdPwg05xi"
       },
@@ -10184,7 +10346,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 192000,
       "name": "VA Y VEN",
       "url": "https://open.spotify.com/track/1hFp2ACjxK8VOxZudxrsZd"
@@ -10394,7 +10556,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 216555,
       "name": "Viste",
       "url": "https://open.spotify.com/track/7kXRxruvOhbxcWfBelfR5O"
@@ -10472,7 +10634,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 154430,
       "name": "Watermelon (Something)",
       "url": "https://open.spotify.com/track/1GOJlfelKEJWRPLoXFqoSD"
@@ -10732,7 +10894,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 161860,
       "name": "Yeyesita",
       "url": "https://open.spotify.com/track/1zpeVOZpkZ7K3ubaG6PZE4"

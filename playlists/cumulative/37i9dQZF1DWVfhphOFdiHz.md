@@ -2,9 +2,9 @@
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Bops and LGBTQIA+ artists only\. Cover: Lucy Dacus
+> Bops and LGBTQIA+ artists only\. Cover: Bells Larsen
 
-225 songs - 12 hr 3 min
+226 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Pink Cheetah Print Slip](https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Pink Cheetah Print Slip](https://open.spotify.com/album/4gqxim6w1bqZSNOjIJPP6s) | 1:47 | 2024-08-09 | 2025-02-08 |
 | [Play A Part](https://open.spotify.com/track/6QleDIe4FB5CbgL2ytcTjH) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Play A Part](https://open.spotify.com/album/3msKu3UeQoQGu2jjvUaP0S) | 2:54 | 2024-08-09 |  |
 | [Play With Fire \(feat\. Frances Forever\)](https://open.spotify.com/track/7LyGoh4umDLZgIlLYSzO1t) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Play With Fire \(feat\. Frances Forever\)](https://open.spotify.com/album/75mqQgjafxqZIwypeugZwK) | 3:56 | 2023-12-15 | 2024-07-13 |
-| [Poison Ivy](https://open.spotify.com/track/12WuczKwW50dTrbcowpg22) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Poison Ivy](https://open.spotify.com/album/1O1JwZNjn74kKGIeG6DpEC) | 3:01 | 2023-12-15 |  |
+| [Poison Ivy](https://open.spotify.com/track/12WuczKwW50dTrbcowpg22) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Poison Ivy](https://open.spotify.com/album/1O1JwZNjn74kKGIeG6DpEC) | 3:01 | 2023-12-15 | 2025-04-26 |
 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/2xMXcyYMzhMTr75P8tPyy6) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/album/62EtcLFwwSuxQoQbrYlN7m) | 3:42 | 2023-12-15 | 2024-05-14 |
 | [Potential](https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Potential](https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O) | 2:57 | 2024-06-09 |  |
 | [Pretty](https://open.spotify.com/track/4HQjjJIZnysvN2lxSj1oOt) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pretty](https://open.spotify.com/album/0p0uvSSSnejW1Dpv94bE1c) | 3:26 | 2024-06-17 |  |
@@ -173,6 +173,7 @@
 | [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 | 2024-04-05 |  |
 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 | 2024-08-09 |  |
 | [QUE PASÓ](https://open.spotify.com/track/6HAPQ70OHzZ5QRfeoBUHkf) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [QUE PASÓ](https://open.spotify.com/album/5aFewLfeXMZKYFFYcPejso) | 2:25 | 2023-12-15 | 2024-06-05 |
+| [Questions](https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Questions](https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU) | 4:25 | 2025-04-25 |  |
 | [Rainbow Sweater](https://open.spotify.com/track/6eaICYjC9Ve8CwjsfQ1frR) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Rainbow Sweater](https://open.spotify.com/album/5f0mRp3G0J4hXTLHncGNZ5) | 2:47 | 2023-12-15 | 2024-02-03 |
 | [real feel](https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:22 | 2024-06-17 |  |
 | [Rebloom](https://open.spotify.com/track/3g0DRFppjlQ7aR8zjaCi0y) | [Maybel](https://open.spotify.com/artist/4vyc9XRUivKWefuHRepSQh) | [Rebloom](https://open.spotify.com/album/0jEhm2qPyBx2sMr9RuWlcM) | 3:21 | 2023-12-15 | 2024-06-10 |

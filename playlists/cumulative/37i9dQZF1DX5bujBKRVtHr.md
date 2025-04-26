@@ -34,7 +34,7 @@
 | [Snowflake](https://open.spotify.com/track/42Nb6Fbkcl5HutwdoE7IJF) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [With All My Heart](https://open.spotify.com/album/1MFN0JrE64TkeRjxMIntg3) | 4:46 | 2024-11-23 |  |
 | [STOP](https://open.spotify.com/track/4Ra12xZQOiwSSYjUNcvyBZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:48 | 2024-11-23 |  |
 | [talking to myself](https://open.spotify.com/track/0sSyDptzNXHBODOssLukZT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [relationshit](https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2) | 3:21 | 2024-11-23 |  |
-| [what the hell](https://open.spotify.com/track/5Sjy8Jt9eNRUYazvizrU1G) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Beyond](https://open.spotify.com/album/0vpemSo6U9XITuxXKA7lSj) | 3:17 | 2024-11-23 |  |
+| [what the hell](https://open.spotify.com/track/5Sjy8Jt9eNRUYazvizrU1G) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Beyond](https://open.spotify.com/album/0vpemSo6U9XITuxXKA7lSj) | 3:17 | 2024-11-23 |  |
 | [yours](https://open.spotify.com/track/24ISyrkOgpc0IodIEUokog) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [yours](https://open.spotify.com/album/0qtekNG39nfP3Os1iKpDLH) | 2:45 | 2024-11-23 |  |
 
 \*This playlist was first scraped on 2024-11-24. Prior content cannot be recovered.

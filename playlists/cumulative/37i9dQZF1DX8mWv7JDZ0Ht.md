@@ -2,7 +2,7 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Bruna Magalhães
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Math Basso, Cynthia Luz
 
 808 songs - 1 day 16 hr 22 min
 

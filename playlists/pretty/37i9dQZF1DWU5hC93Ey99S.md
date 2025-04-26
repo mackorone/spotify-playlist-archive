@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,184 likes - 496 songs - 1 day 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,284 likes - 496 songs - 1 day 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 145 | [all night on my own](https://open.spotify.com/track/4hd01RIHFRlBLh0sfOyjT2) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [all night on my own](https://open.spotify.com/album/6xbEGQEczwqCG7g9sqvq50) | 2:12 |
 | 146 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 |
 | 147 | [find u](https://open.spotify.com/track/25LzzeXYBRlb2svW7tq7NS) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X), [Jukaa](https://open.spotify.com/artist/0htf47H48mOHETJeWErDUb) | [find u](https://open.spotify.com/album/0QORzhl36RhOqt59EwFfw2) | 3:23 |
-| 148 | [Sun Is Shining \- Lavern Remix / Radio Edit](https://open.spotify.com/track/5CXXMmHH2TKFCEEwlYJCyX) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Sun Is Shining \(Lavern Remix\)](https://open.spotify.com/album/3H5P7ALs2EXXImKOb2UeOC) | 3:08 |
+| 148 | [Sun Is Shining \- Lavern Remix / Radio Edit](https://open.spotify.com/track/5CXXMmHH2TKFCEEwlYJCyX) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Sun Is Shining \(Lavern Remix\)](https://open.spotify.com/album/3H5P7ALs2EXXImKOb2UeOC) | 3:08 |
 | 149 | [Higher](https://open.spotify.com/track/6LbA4zFOqvuHx3Zn1FyLiR) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Higher](https://open.spotify.com/album/0laWiilr8KsdXWT2n2HAjW) | 2:26 |
 | 150 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 |
 | 151 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |

@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : נגה ארז
 
-223 songs - 13 hr 8 min
+224 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [My Baby Won't Laugh \- From "Butterfly Kiss" Soundtrack](https://open.spotify.com/track/6c0KDQ3bUfuPrA6reRbPGk) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [My Baby Won't Laugh \(From "Butterfly Kiss" Soundtrack\)](https://open.spotify.com/album/7KgGi8iL8Asy3Q18ycG93Q) | 4:04 | 2024-11-28 | 2025-01-30 |
 | [My Favorite](https://open.spotify.com/track/2qZe91uEYF5ALh5M7Nm7XX) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Work In Progress](https://open.spotify.com/artist/7pHBxGkkgqsCGVALLT6EMp) | [Work in Progress](https://open.spotify.com/album/2vN8V0sPEQZNd3ylKuxmTH) | 3:34 | 2024-12-05 | 2025-04-06 |
 | [Not in Vain \- In A Box III Version](https://open.spotify.com/track/5Yc2fKkRskvU7l2f8gRiHh) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [In A Box III: Acoustic Recordings](https://open.spotify.com/album/28FLk4QDTvSQWJoSS6NNoM) | 4:44 | 2024-06-27 | 2024-07-27 |
+| [Not My Problem](https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Not My Problem](https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD) | 2:55 | 2025-04-24 |  |
 | [Nouvelle vie](https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Odelly](https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx) | [Nouvelle vie](https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX) | 2:50 | 2024-08-01 | 2024-09-20 |
 | [Ocean view](https://open.spotify.com/track/3gOT9DepPBYMzgAqZsDL8J) | [Shelly Perel](https://open.spotify.com/artist/7A8NMpDvHEMt4NJgx83xWp), [Golde](https://open.spotify.com/artist/5ptEKxOfcTaQkgUa2CT059) | [Patience and Stuff](https://open.spotify.com/album/4tOhbVzUnfcLYXR7XNfyKf) | 3:33 | 2024-11-28 | 2024-12-13 |
 | [OMG KEN \- The Minister Remix](https://open.spotify.com/track/1LdT9tLHWClYxxAqc1Ahni) | [The Minister](https://open.spotify.com/artist/3StP2rZZl7pb1hJ7fIViD0), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [FÜTGASM, Vol\. 1](https://open.spotify.com/album/6LECPYxaNLh5s6nR7ItJ3b) | 4:23 | 2024-11-21 | 2024-11-29 |

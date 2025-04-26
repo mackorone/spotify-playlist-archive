@@ -3113,6 +3113,28 @@
     },
     {
       "album": {
+        "name": "Feel The Beat",
+        "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
+      },
+      "artists": [
+        {
+          "name": "Drop The Cheese",
+          "url": "https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ"
+        },
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Feel The Beat",
+      "url": "https://open.spotify.com/track/5LKDemoQgpHqJ199IZnfoa"
+    },
+    {
+      "album": {
         "name": "feel U luv Me",
         "url": "https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY"
       },
@@ -4168,7 +4190,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"

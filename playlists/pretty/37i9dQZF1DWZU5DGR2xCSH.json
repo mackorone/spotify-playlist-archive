@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1144959,
+  "num_followers": 1144928,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario (2019 Remasterizado)",
-        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 265312,
-      "name": "Viernes, 3AM - 2019 Remasterizado",
-      "url": "https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Acariciando Lo Aspero",
         "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 354746,
       "name": "Ala Delta",
       "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario (2019 Remasterizado)",
+        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 265312,
+      "name": "Viernes, 3AM - 2019 Remasterizado",
+      "url": "https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Time Fate Love (Remastered 2019)",
+        "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
+      },
+      "artists": [
+        {
+          "name": "Luca Prodan",
+          "url": "https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI"
+        }
+      ],
+      "duration_ms": 257694,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/5XGWakb6O2GIQem0pIBMxH"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Obras Cumbres",
         "url": "https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 195573,
       "name": "Los Viejos Vinagres",
       "url": "https://open.spotify.com/track/1im6qBIKkKI74toy5Htaur"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Demoliendo Hoteles",
-      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

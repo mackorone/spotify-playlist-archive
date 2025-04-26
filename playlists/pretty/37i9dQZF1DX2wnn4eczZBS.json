@@ -1,12 +1,12 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: MEROL & Elmer",
-  "num_followers": 10237,
+  "num_followers": 10244,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAq0fwAAAAB2ugL8n/Uhs/8Sg4RZNDFM",
+  "snapshot_id": "aAsvYwAAAAAvtFUOSPO4KM4AbJshkcGS",
   "tracks": [
     {
       "added_at": "2025-04-24 22:00:31",
@@ -183,18 +183,18 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Wolken",
-        "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
+        "name": "2 HIGH 2 SOCIETY",
+        "url": "https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE"
       },
       "artists": [
         {
-          "name": "Flaire",
-          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
         }
       ],
-      "duration_ms": 205758,
-      "name": "Wolken",
-      "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
+      "duration_ms": 199466,
+      "name": "Spookstad",
+      "url": "https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -247,24 +247,8 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "2 HIGH 2 SOCIETY",
-        "url": "https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Spookstad",
-      "url": "https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
-        "name": "De Tijd",
-        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
+        "name": "Wolken",
+        "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
       },
       "artists": [
         {
@@ -272,9 +256,9 @@
           "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
         }
       ],
-      "duration_ms": 213336,
-      "name": "De Tijd",
-      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
+      "duration_ms": 205758,
+      "name": "Wolken",
+      "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -331,6 +315,22 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
+        "name": "Vrijplaats",
+        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        }
+      ],
+      "duration_ms": 233579,
+      "name": "Het Is Genoeg",
+      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
         "name": "voor alles bang / h-e-l-p",
         "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
       },
@@ -347,18 +347,18 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Vrijplaats",
-        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
+        "name": "De Tijd",
+        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
       },
       "artists": [
         {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
         }
       ],
-      "duration_ms": 233579,
-      "name": "Het Is Genoeg",
-      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
+      "duration_ms": 213336,
+      "name": "De Tijd",
+      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
+        "name": "Drijfzand",
+        "url": "https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 178547,
+      "name": "Drijfzand",
+      "url": "https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
         "name": "Eclips",
         "url": "https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 169604,
       "name": "Vlinder",
       "url": "https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
-        "name": "Drijfzand",
-        "url": "https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 178547,
-      "name": "Drijfzand",
-      "url": "https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Eerste Date",
-        "url": "https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi"
-      },
-      "artists": [
-        {
-          "name": "LE MOTAT",
-          "url": "https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Eerste Date",
-      "url": "https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
         "name": "Het Outro",
         "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 200223,
       "name": "Het Outro",
       "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
+        "name": "Eerste Date",
+        "url": "https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi"
+      },
+      "artists": [
+        {
+          "name": "LE MOTAT",
+          "url": "https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Eerste Date",
+      "url": "https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
-        "name": "Zieke Wereld",
-        "url": "https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p"
-      },
-      "artists": [
-        {
-          "name": "ANNE",
-          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "Zieke Wereld",
-      "url": "https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
         "name": "Zonder Naam",
         "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 157253,
       "name": "Ballenbak",
       "url": "https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
+        "name": "Zieke Wereld",
+        "url": "https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "Zieke Wereld",
+      "url": "https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC"
     },
     {
       "added_at": "2025-04-24 22:00:31",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-04-24 22:00:31",
       "album": {
+        "name": "Naamloze Liefde",
+        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
+      },
+      "artists": [
+        {
+          "name": "Roos Blufpand",
+          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
+        }
+      ],
+      "duration_ms": 157752,
+      "name": "Nieuw Begin",
+      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
+    },
+    {
+      "added_at": "2025-04-24 22:00:31",
+      "album": {
         "name": "Spijbelaar",
         "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 222506,
       "name": "Symptomen",
       "url": "https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs"
-    },
-    {
-      "added_at": "2025-04-24 22:00:31",
-      "album": {
-        "name": "Naamloze Liefde",
-        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
-      },
-      "artists": [
-        {
-          "name": "Roos Blufpand",
-          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
-        }
-      ],
-      "duration_ms": 157752,
-      "name": "Nieuw Begin",
-      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
     },
     {
       "added_at": "2025-04-24 22:00:31",

@@ -2,7 +2,7 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> Wekelijkse update met Hollands en volks\. Cover: Kimberly Fransens
+> Wekelijkse update met Hollands en volks\. Cover: Jari Hellegers
 
 292 songs - 14 hr 19 min
 

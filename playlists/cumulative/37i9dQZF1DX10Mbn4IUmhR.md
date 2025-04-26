@@ -4,7 +4,7 @@
 
 > All the South African and global pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT?si=z0ZFR4gFTXKbyQumY7trlA"> Nafeesisboujee</a>
 
-403 songs - 21 hr 43 min
+404 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-02-20 | 2025-03-21 |
 | [ARE YOU THERE](https://open.spotify.com/track/7KsrRVn3SuQxZ3oo3DNfYH) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [ARE YOU THERE](https://open.spotify.com/album/43SRVg55fLBXrBJb9TsdNi) | 2:48 | 2024-06-27 | 2024-07-27 |
 | [ashes & rust](https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent iii](https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3) | 4:02 | 2024-11-15 | 2025-01-24 |
+| [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-24 |  |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-07-11 | 2024-11-22 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-04 |  |
 | [Back in the Day](https://open.spotify.com/track/0b8XiWav4wIZClvoxC2ptM) | [Nina Brand](https://open.spotify.com/artist/52xuRtfsFW0C8aBeDjc86a) | [Back in the Day](https://open.spotify.com/album/7CoECeuiiMHAxmV2W7vuM2) | 3:19 | 2025-03-13 | 2025-04-18 |
@@ -351,7 +352,7 @@
 | [The End](https://open.spotify.com/track/42fMohrkvO2T9xEj5TQTTY) | [Sarah Leigh](https://open.spotify.com/artist/6AG4GBfdIqR4XRGz7LteeJ) | [The End](https://open.spotify.com/album/7zh18JD5fyKQgP9Lhg566E) | 2:56 | 2024-08-15 | 2024-11-22 |
 | [The First and Last of the Perfect Parties](https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [The First and Last of the Perfect Parties](https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2) | 4:08 | 2025-04-17 |  |
 | [The Last Goodbye](https://open.spotify.com/track/2hXMAR5vGgK4LzVORy6VJP) | [Darren Scharneck](https://open.spotify.com/artist/60gNiJdb4q1gsu8NvyZjQV) | [The Last Goodbye](https://open.spotify.com/album/1zfLP1s2WzUyaM36b38wIw) | 3:22 | 2024-10-10 | 2024-10-19 |
-| [the place i use to hide](https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my) | [Yum Yuck](https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE), [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod) | [the place i use to hide](https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z) | 3:20 | 2025-04-10 |  |
+| [the place i use to hide](https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my) | [Yum Yuck](https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE), [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod) | [the place i use to hide](https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z) | 3:20 | 2025-04-10 | 2025-04-26 |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2025-03-20 | 2025-04-11 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-27 | 2024-07-12 |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2025-03-20 |  |

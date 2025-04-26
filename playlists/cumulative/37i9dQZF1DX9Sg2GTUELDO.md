@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Jocelyn 陳明憙
+> 感受女聲力量。Cover: Kelly 陳慧琳
 
-483 songs - 1 day 4 hr 47 min
+484 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [風邪](https://open.spotify.com/track/78u0tNt6KQTZxFdRouyiMO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Rage in Peace](https://open.spotify.com/album/0O4LuYlUBi5TluPnj5Gtr7) | 3:08 | 2024-06-27 |  |
 | [驚魂曲](https://open.spotify.com/track/22CDC9USMhIpJYwZrfSsoT) | [徐嘉蔚 Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3) | [驚魂曲](https://open.spotify.com/album/0MmTZTmVITLCGDmYjuvGl8) | 3:20 | 2024-06-27 |  |
 | [魔鬼在身邊](https://open.spotify.com/track/7Bw2aggmSvFv3kp9351afV) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [魔鬼在身邊](https://open.spotify.com/album/7znSODf2pGH9Z660wEPWKE) | 2:53 | 2024-06-27 |  |
+| [鳴謝你而不想說後悔](https://open.spotify.com/track/6d7mg44kvlPRNRgSbrYMrK) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [鳴謝你而不想說後悔](https://open.spotify.com/album/3guvrmZNuIUd05FAubwHAN) | 3:20 | 2025-04-25 |  |
 | [黃言](https://open.spotify.com/track/5jkIfMIETS9BMXuzeRG6ei) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [黃言](https://open.spotify.com/album/3kIgpRB4QyYRkuiWlLLazd) | 3:44 | 2024-06-27 |  |
 | [龍鳳登場](https://open.spotify.com/track/0CUPPEJlwTU49VjvDVdtEv) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [龍鳳登場](https://open.spotify.com/album/1VauvqwFFfLaXls36lob8y) | 2:56 | 2024-06-27 |  |
 

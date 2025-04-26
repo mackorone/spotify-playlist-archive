@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Sammy Arriaga
 
-197 songs - 10 hr 50 min
+198 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/track/6pNeLrBdPEkUG3f1jbrMG9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/album/6UheMHszVb1bG2O5AB7lkI) | 3:09 | 2021-12-10 |  |
 | [Love Like This \(En Vivo\)](https://open.spotify.com/track/2kBfjUDQOmboQUOykPhaZg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/0JuvcIJT6XRYurUSUOT4FC) | 3:38 | 2024-04-12 | 2024-04-19 |
 | [Love Like This \- En Vivo](https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:38 | 2023-09-29 |  |
+| [LOW ROAD \- SPANISH VERSION](https://open.spotify.com/track/0Gk6S8LHNwCj9mUOZVryYD) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [ALTERNATE VERSIONS](https://open.spotify.com/album/0GnbxvjgEGZ8cbWkmjHIbE) | 2:57 | 2025-04-25 |  |
 | [Luz Prendida](https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luz Prendida](https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C) | 2:53 | 2023-07-28 |  |
 | [Made For This](https://open.spotify.com/track/62rjdkhu3J2U0QNJ6F7wQh) | [Hayley Orrantia](https://open.spotify.com/artist/6Ba7gb6RPgcbbWCQY7N8Dx) | [Made For This](https://open.spotify.com/album/4MpYNH0tUSt3eQoYAwvFmi) | 3:55 | 2021-12-10 | 2023-04-22 |
 | [Made Me Cry](https://open.spotify.com/track/4BHiDQEOsguauSBmNyQZPv) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Made Me Cry](https://open.spotify.com/album/5X1C3UxSZamJ2Kc6iMILq4) | 3:24 | 2022-02-11 | 2024-04-10 |

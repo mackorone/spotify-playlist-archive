@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Noga Erez
 
-1,326 songs - 3 day 3 hr 57 min
+1,327 songs - 3 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [not far from home](https://open.spotify.com/track/2xvQEblvw1zud9H6egIIu6) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [honey,](https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R) | 2:45 | 2024-11-21 | 2024-12-06 |
 | [Not Feeling Up](https://open.spotify.com/track/5RclCv6JSxogJpe4E662cP) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Not Feeling Up](https://open.spotify.com/album/3YYy7afHR8wnhEHfuuEAId) | 3:02 | 2025-01-23 | 2025-02-21 |
 | [Not Important Right?](https://open.spotify.com/track/40ty56tBaYFNnQ8Ro9rl8N) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [From Under My Bed](https://open.spotify.com/album/11fLiF8LUer6zRMHQDAdgX) | 2:11 | 2025-04-17 |  |
+| [Not My Problem](https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Not My Problem](https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD) | 2:55 | 2025-04-24 |  |
 | [Not Rick](https://open.spotify.com/track/2fKTWv3t5tOVve6bXmZ4sE) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Not Rick](https://open.spotify.com/album/0hrsV7BZ9aESzEdA496hX5) | 2:52 | 2024-07-25 | 2024-08-09 |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-25 | 2024-08-23 |
 | [Nothing \- Demo](https://open.spotify.com/track/2qaRXeJ4LIHOP6Qx47ayAj) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Nothing \(Demo\)](https://open.spotify.com/album/6pflBpxNeZbtKR5ESYCdYC) | 1:52 | 2024-08-08 | 2024-08-23 |

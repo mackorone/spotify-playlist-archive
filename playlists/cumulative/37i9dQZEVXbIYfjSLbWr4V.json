@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-17",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -5704,7 +5704,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 166809,
       "name": "Who (Shibuyakei Remix)",
       "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"
@@ -6260,6 +6260,28 @@
       "duration_ms": 129756,
       "name": "\u0411\u043e\u0431\u0440",
       "url": "https://open.spotify.com/track/3M7TcCC5bdrgLZeYms1x3Y"
+    },
+    {
+      "album": {
+        "name": "\u0431\u043e\u043b\u0435\u043d",
+        "url": "https://open.spotify.com/album/4c08DJJF9efR9xB43Y8bGg"
+      },
+      "artists": [
+        {
+          "name": "dope17",
+          "url": "https://open.spotify.com/artist/4RsF5SpJb2R481UMri1VT3"
+        },
+        {
+          "name": "mapt0v",
+          "url": "https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88093,
+      "name": "\u0431\u043e\u043b\u0435\u043d",
+      "url": "https://open.spotify.com/track/4HiXhD2daY4ca5nr977V4e"
     },
     {
       "album": {
@@ -7246,7 +7268,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 233816,
       "name": "\u0417\u0430\u043c\u0438\u0433\u0430\u0435\u0442 \u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/3I9YWeC9pFZDI2wsvkXfor"
@@ -7762,7 +7784,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 122033,
       "name": "\u043a\u0445\u043c-\u043a\u0445\u043c",
       "url": "https://open.spotify.com/track/2Br49Z6ckGKdcnDGLj2L8q"
@@ -9138,7 +9160,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 179540,
       "name": "\u041f\u043e\u0435\u0437\u0434\u0430",
       "url": "https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS"

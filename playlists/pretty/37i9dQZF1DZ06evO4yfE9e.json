@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2291,
+  "num_followers": 2294,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAgtgAAAAAAJZBrOeS/Kr24Sp4BuZlse",
+  "snapshot_id": "aAl/AAAAAABuFmqEQYtUn6hYDmd4WHJy",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mozart",
-        "url": "https://open.spotify.com/album/2uCwKi5lViWMVTCCwp2JwL"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 97272,
-      "name": "Mozart",
-      "url": "https://open.spotify.com/track/4EISOJDYezvr8UtIeOy3sj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
       },
@@ -251,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trillion$ (feat. bludnymph)",
-        "url": "https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q"
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/2uCwKi5lViWMVTCCwp2JwL"
       },
       "artists": [
-        {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
-        },
         {
           "name": "bludnymph",
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 123681,
-      "name": "Trillion$ (feat. bludnymph)",
-      "url": "https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m"
+      "duration_ms": 97272,
+      "name": "Mozart",
+      "url": "https://open.spotify.com/track/4EISOJDYezvr8UtIeOy3sj"
     },
     {
       "added_at": null,
@@ -291,6 +271,26 @@
       "duration_ms": 224541,
       "name": "Praise",
       "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trillion$ (feat. bludnymph)",
+        "url": "https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 123681,
+      "name": "Trillion$ (feat. bludnymph)",
+      "url": "https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m"
     },
     {
       "added_at": null,

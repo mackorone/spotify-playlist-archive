@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 658656,
+  "num_followers": 658665,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Coming Up (Remastered)",
-        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Beautiful Ones (Remastered)",
-      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Ready To Go",
         "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 301533,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Coming Up (Remastered)",
+        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Beautiful Ones (Remastered)",
+      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Best of Babybird",
+        "url": "https://open.spotify.com/album/7AHO6a0Xt8U95Rsf5CVXM3"
+      },
+      "artists": [
+        {
+          "name": "Babybird",
+          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "You're Gorgeous",
+      "url": "https://open.spotify.com/track/44OnyhrKWViHX8aHnMk0PU"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Urban Hymns",
         "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
       },
@@ -919,30 +935,6 @@
       "duration_ms": 305066,
       "name": "The Drugs Don't Work",
       "url": "https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        },
-        {
-          "name": "George Drakoulias",
-          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
-        },
-        {
-          "name": "David Bianco",
-          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -979,6 +971,30 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        },
+        {
+          "name": "George Drakoulias",
+          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
+        },
+        {
+          "name": "David Bianco",
+          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Attack of the Grey Lantern",
         "url": "https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 271106,
       "name": "Wide Open Space",
       "url": "https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Best of Babybird",
-        "url": "https://open.spotify.com/album/7AHO6a0Xt8U95Rsf5CVXM3"
-      },
-      "artists": [
-        {
-          "name": "Babybird",
-          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "You're Gorgeous",
-      "url": "https://open.spotify.com/track/44OnyhrKWViHX8aHnMk0PU"
     },
     {
       "added_at": "2024-03-18 22:10:08",

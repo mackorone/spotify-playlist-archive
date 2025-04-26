@@ -2973,6 +2973,32 @@
     },
     {
       "album": {
+        "name": "INFAMOUS",
+        "url": "https://open.spotify.com/album/503ZXvyBTF4zuNLlR4aVon"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "YonKaGor",
+          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
+        },
+        {
+          "name": "Stephanafro",
+          "url": "https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156102,
+      "name": "INFAMOUS",
+      "url": "https://open.spotify.com/track/1HgS8I7Nv49l11BJpf9j25"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh"
       },
@@ -6474,7 +6500,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 96007,
       "name": "The Library",
       "url": "https://open.spotify.com/track/5kl9IJlQuFjoaxsmNFy2NW"

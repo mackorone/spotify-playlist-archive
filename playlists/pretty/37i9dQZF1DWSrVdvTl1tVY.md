@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Chris Lake, Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,944 likes - 103 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,999 likes - 103 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

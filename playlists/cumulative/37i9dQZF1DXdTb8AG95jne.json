@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc138\uc774\uc218\ubbf8) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Glen Check) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 196293,
       "name": "Do You Think Of Me?",
       "url": "https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL"
@@ -5499,6 +5499,24 @@
     },
     {
       "album": {
+        "name": "X-Dreams",
+        "url": "https://open.spotify.com/album/3yEhqq1L8LShxaJgje45rY"
+      },
+      "artists": [
+        {
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204861,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/5DXHofLQmL5USn6kjRhtnC"
+    },
+    {
+      "album": {
         "name": "21' Archive",
         "url": "https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6"
       },
@@ -7254,7 +7272,7 @@
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
+          "name": "sunwoojunga",
           "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],

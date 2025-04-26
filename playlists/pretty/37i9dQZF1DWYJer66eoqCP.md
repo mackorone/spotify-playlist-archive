@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 
 > Listen to the soundtracks of Disney+'s original drama Call It Love\. \(디즈니+ 오리지널 드라마 사랑이라 말해요의 사운드 트랙들을 즐겨보세요!\) You can also listen to 15 songs personally selected by actor Kim Young\-kwang\. \(김영광 배우가 직접 선정한 15곡도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,009 likes - 28 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,012 likes - 28 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 | 5 | [Message from Sung Jun](https://open.spotify.com/track/5vmqkgdwkme8Hw3A9zzCbj) | [Sung Jun](https://open.spotify.com/artist/4TA1EI7YIzmJtcYIQewq7T) | [Call It Love Audio Liner](https://open.spotify.com/album/5BshmR87OmG5rqw9n2o2EL) | 0:35 |
 | 6 | [What Can I Do](https://open.spotify.com/track/5dfhtNngJw3RT9SGJpvRrS) | [Hyunji](https://open.spotify.com/artist/217Bgl8C5FrkhSkbrYavSh) | [Call It Love, Part 2 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/3By4oNGxWYD3dQKmaaGLef) | 3:55 |
 | 7 | [Message from Ahn Heeyeon](https://open.spotify.com/track/4jjZb6OnOkx7k0f3kHAzCl) | [Ahn Heeyeon](https://open.spotify.com/artist/5j5f5eerN2nZjlOidzcHJU) | [Call It Love Audio Liner](https://open.spotify.com/album/5BshmR87OmG5rqw9n2o2EL) | 0:46 |
-| 8 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
+| 8 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
 | 9 | [Message from Kim Yewon](https://open.spotify.com/track/2d7v8v5tB6VA9lmKa9TBkd) | [Kim Yewon](https://open.spotify.com/artist/2mxGQrnsNy5Rot4OGpID4n) | [Call It Love Audio Liner](https://open.spotify.com/album/5BshmR87OmG5rqw9n2o2EL) | 0:47 |
 | 10 | [Moon Song](https://open.spotify.com/track/30B8ilL5WhF2bsUjIEu5lM) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 3:18 |
 | 11 | [Love Without Pain](https://open.spotify.com/track/114JstNdrTd5rsVce9lrpQ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Call It Love, Part 4 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp) | 3:38 |

@@ -1,13 +1,29 @@
 {
-  "description": "The best new dance music by independent artists and labels, featuring Yes Boone. Artwork by Rewina Beshue.",
-  "num_followers": 198551,
+  "description": "The best new dance music by independent artists and labels, featuring Surusinghe. Artwork by Rewina Beshue.",
+  "num_followers": 198596,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAmzTQAAAACJugpt8YKf68mE1BzzQLzx",
+  "snapshot_id": "aAvbagAAAAACvl4t3S9pIa+hR9L5YHHj",
   "tracks": [
+    {
+      "added_at": "2025-04-25 18:58:50",
+      "album": {
+        "name": "FTRW!",
+        "url": "https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "duration_ms": 251322,
+      "name": "FTRW!",
+      "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
+    },
     {
       "added_at": "2025-04-09 17:39:45",
       "album": {
@@ -25,24 +41,20 @@
       "url": "https://open.spotify.com/track/2OqZZYaBBprhRor4wqKXa8"
     },
     {
-      "added_at": "2025-04-23 18:13:10",
+      "added_at": "2025-04-25 18:58:50",
       "album": {
-        "name": "Do It",
-        "url": "https://open.spotify.com/album/00OTCansoVGdiA2UXYjXKB"
+        "name": "Feel The Same",
+        "url": "https://open.spotify.com/album/33PKFeLmCxfXZcRaLPKfs1"
       },
       "artists": [
         {
-          "name": "BAVHU",
-          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
-        },
-        {
-          "name": "Kadyn Webster",
-          "url": "https://open.spotify.com/artist/42abFOJZ5WSapkfhsFrO1J"
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/7td690UTGcq7Fvonz5QgB1"
+      "duration_ms": 115238,
+      "name": "Feel The Same",
+      "url": "https://open.spotify.com/track/2IuWL6gGz4Xch9STYdFxm2"
     },
     {
       "added_at": "2025-04-11 04:00:35",
@@ -95,86 +107,6 @@
     {
       "added_at": "2025-04-23 18:13:10",
       "album": {
-        "name": "LET'S GO B$NG!/FICOU BRABA",
-        "url": "https://open.spotify.com/album/6e6rrZ7NwsW2ApiEYpVMqR"
-      },
-      "artists": [
-        {
-          "name": "Milion",
-          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
-        }
-      ],
-      "duration_ms": 213011,
-      "name": "LET'S GO B$NG!",
-      "url": "https://open.spotify.com/track/7GogUHBpHyJ3OH6uIAYtp1"
-    },
-    {
-      "added_at": "2025-04-11 04:00:35",
-      "album": {
-        "name": "RED RAVE",
-        "url": "https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP"
-      },
-      "artists": [
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        }
-      ],
-      "duration_ms": 171363,
-      "name": "SIDE2SIDE",
-      "url": "https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN"
-    },
-    {
-      "added_at": "2025-01-21 20:16:13",
-      "album": {
-        "name": "Where Have You Been",
-        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
-      },
-      "artists": [
-        {
-          "name": "REESE",
-          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
-    },
-    {
-      "added_at": "2025-04-18 05:11:16",
-      "album": {
-        "name": "The Whistle / My Team",
-        "url": "https://open.spotify.com/album/142SZCqFfk2OgKTTHZVaCi"
-      },
-      "artists": [
-        {
-          "name": "Pedroz",
-          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "The Whistle",
-      "url": "https://open.spotify.com/track/3TRXeDAZOatRruDIqPom6u"
-    },
-    {
-      "added_at": "2025-04-18 05:11:16",
-      "album": {
-        "name": "Latinos en Nueva York EP",
-        "url": "https://open.spotify.com/album/1Jp9ylIDzDVVmIXLz2cX9R"
-      },
-      "artists": [
-        {
-          "name": "ALOT",
-          "url": "https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV"
-        }
-      ],
-      "duration_ms": 149048,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/4EaNaFmx33V6Satk0FJnBa"
-    },
-    {
-      "added_at": "2025-04-23 18:13:10",
-      "album": {
         "name": "Had To",
         "url": "https://open.spotify.com/album/3nnFjN401E51sEorhPCMVI"
       },
@@ -213,6 +145,138 @@
       "url": "https://open.spotify.com/track/5gV08IdTyWZhfbyOo2guSY"
     },
     {
+      "added_at": "2025-04-23 18:13:10",
+      "album": {
+        "name": "LET'S GO B$NG!/FICOU BRABA",
+        "url": "https://open.spotify.com/album/6e6rrZ7NwsW2ApiEYpVMqR"
+      },
+      "artists": [
+        {
+          "name": "Milion",
+          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
+        }
+      ],
+      "duration_ms": 213011,
+      "name": "LET'S GO B$NG!",
+      "url": "https://open.spotify.com/track/7GogUHBpHyJ3OH6uIAYtp1"
+    },
+    {
+      "added_at": "2025-04-25 18:58:50",
+      "album": {
+        "name": "What\u2019s The Time?",
+        "url": "https://open.spotify.com/album/2mHaeLDA0V0OACGwCB4UvP"
+      },
+      "artists": [
+        {
+          "name": "8181 Enzo",
+          "url": "https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR"
+        }
+      ],
+      "duration_ms": 147513,
+      "name": "What\u2019s The Time?",
+      "url": "https://open.spotify.com/track/6MPbKYHzzsckli9qZ5S3Kk"
+    },
+    {
+      "added_at": "2025-04-11 04:00:35",
+      "album": {
+        "name": "RED RAVE",
+        "url": "https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "duration_ms": 171363,
+      "name": "SIDE2SIDE",
+      "url": "https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN"
+    },
+    {
+      "added_at": "2025-01-21 20:16:13",
+      "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
+      },
+      "artists": [
+        {
+          "name": "REESE",
+          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
+    },
+    {
+      "added_at": "2025-04-25 18:58:50",
+      "album": {
+        "name": "Global Vision",
+        "url": "https://open.spotify.com/album/05M9Jt6WSAJvKcpQopQKlT"
+      },
+      "artists": [
+        {
+          "name": "Amour Propre",
+          "url": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
+        },
+        {
+          "name": "Ramyen",
+          "url": "https://open.spotify.com/artist/6qro4zFLmWn0Vsu4XOX8I2"
+        }
+      ],
+      "duration_ms": 292279,
+      "name": "Global Vision",
+      "url": "https://open.spotify.com/track/0KaANauI3OAZDjake6TAJU"
+    },
+    {
+      "added_at": "2025-04-18 05:11:16",
+      "album": {
+        "name": "The Whistle / My Team",
+        "url": "https://open.spotify.com/album/142SZCqFfk2OgKTTHZVaCi"
+      },
+      "artists": [
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "The Whistle",
+      "url": "https://open.spotify.com/track/3TRXeDAZOatRruDIqPom6u"
+    },
+    {
+      "added_at": "2025-04-18 05:11:16",
+      "album": {
+        "name": "Latinos en Nueva York EP",
+        "url": "https://open.spotify.com/album/1Jp9ylIDzDVVmIXLz2cX9R"
+      },
+      "artists": [
+        {
+          "name": "ALOT",
+          "url": "https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV"
+        }
+      ],
+      "duration_ms": 149048,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/4EaNaFmx33V6Satk0FJnBa"
+    },
+    {
+      "added_at": "2025-04-25 18:58:50",
+      "album": {
+        "name": "Collect 200",
+        "url": "https://open.spotify.com/album/3wgNFsGLpAFDFIKsce1EKe"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Collect 200",
+      "url": "https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6"
+    },
+    {
       "added_at": "2025-03-21 15:54:40",
       "album": {
         "name": "Gotta Move",
@@ -249,6 +313,26 @@
       "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
     },
     {
+      "added_at": "2025-04-25 18:58:50",
+      "album": {
+        "name": "DIE TIEFE",
+        "url": "https://open.spotify.com/album/2GKnhscZ3Rk2Q97y605240"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
+          "name": "Flash Gea",
+          "url": "https://open.spotify.com/artist/0bKc2cidr688jnhiPtgFEL"
+        }
+      ],
+      "duration_ms": 139867,
+      "name": "DIE TIEFE",
+      "url": "https://open.spotify.com/track/10OEP8sjV27U8uDG6n9ZC6"
+    },
+    {
       "added_at": "2025-04-18 05:11:16",
       "album": {
         "name": "Where Were You?",
@@ -279,6 +363,26 @@
       "duration_ms": 185714,
       "name": "What Would It Profit",
       "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
+    },
+    {
+      "added_at": "2025-04-23 18:13:10",
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/00OTCansoVGdiA2UXYjXKB"
+      },
+      "artists": [
+        {
+          "name": "BAVHU",
+          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
+        },
+        {
+          "name": "Kadyn Webster",
+          "url": "https://open.spotify.com/artist/42abFOJZ5WSapkfhsFrO1J"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/7td690UTGcq7Fvonz5QgB1"
     },
     {
       "added_at": "2025-04-11 04:00:35",
@@ -1481,54 +1585,6 @@
       "url": "https://open.spotify.com/track/50Emba1ptzsajP7aS3TRfY"
     },
     {
-      "added_at": "2025-02-21 05:00:45",
-      "album": {
-        "name": "EPTWO",
-        "url": "https://open.spotify.com/album/6mUU1dCL75PGEqQrMuvpHm"
-      },
-      "artists": [
-        {
-          "name": "Dom Dias",
-          "url": "https://open.spotify.com/artist/68ptFxNNKKJOxy7Y8x5K0B"
-        }
-      ],
-      "duration_ms": 122880,
-      "name": "AIRPLANE",
-      "url": "https://open.spotify.com/track/2SQxQNQE9MkcKft4i3ZdPp"
-    },
-    {
-      "added_at": "2025-02-26 20:11:47",
-      "album": {
-        "name": "P Power",
-        "url": "https://open.spotify.com/album/5vgwUctmCAXT1JCQSRZ5kz"
-      },
-      "artists": [
-        {
-          "name": "Stef Davidse",
-          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
-        }
-      ],
-      "duration_ms": 310794,
-      "name": "P Power",
-      "url": "https://open.spotify.com/track/2VVJAGlI3uYCE3yM1FnRsN"
-    },
-    {
-      "added_at": "2025-03-21 15:54:40",
-      "album": {
-        "name": "Our Aside",
-        "url": "https://open.spotify.com/album/0VhQNlLqSWNmey7mZ33KMj"
-      },
-      "artists": [
-        {
-          "name": "Theobuntu",
-          "url": "https://open.spotify.com/artist/04MHB9Bmmoz4MKwtyxUWYb"
-        }
-      ],
-      "duration_ms": 171875,
-      "name": "Our Aside",
-      "url": "https://open.spotify.com/track/2rY9bJ89ULrnifxxinYUz4"
-    },
-    {
       "added_at": "2025-03-07 05:00:41",
       "album": {
         "name": "Forest",
@@ -1563,54 +1619,6 @@
       "duration_ms": 196421,
       "name": "Pesad\u00e3o",
       "url": "https://open.spotify.com/track/5e43krT4xSgcaFvnxNC00J"
-    },
-    {
-      "added_at": "2025-03-12 20:03:32",
-      "album": {
-        "name": "Knock Me Off My Feet",
-        "url": "https://open.spotify.com/album/6bFii1gM3LCd2ZMF5DN8f5"
-      },
-      "artists": [
-        {
-          "name": "Tom Hayton",
-          "url": "https://open.spotify.com/artist/1376yHxGWUcr1UfPNp7jMv"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Knock Me off My Feet",
-      "url": "https://open.spotify.com/track/0QjnefNFhZOSQ1QpAsStRR"
-    },
-    {
-      "added_at": "2025-03-14 04:00:26",
-      "album": {
-        "name": "HIGHER",
-        "url": "https://open.spotify.com/album/1alwGF6CHQD76eWuEioStj"
-      },
-      "artists": [
-        {
-          "name": "Marlus",
-          "url": "https://open.spotify.com/artist/6KZ0uwdg2CfmlADa1rkUmJ"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "HIGHER",
-      "url": "https://open.spotify.com/track/2bSwV9e11V7rE2tXT2ka1y"
-    },
-    {
-      "added_at": "2025-03-07 05:00:41",
-      "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5yPEKzoF9ir3F9XbwtH5Te"
-      },
-      "artists": [
-        {
-          "name": "V. Christie",
-          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/4ABrByvdgKYhhKbYFmpRW3"
     },
     {
       "added_at": "2025-02-14 05:00:40",

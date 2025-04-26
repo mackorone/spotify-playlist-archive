@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,093 likes - 84 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,139 likes - 84 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 49 | [More](https://open.spotify.com/track/3oQijSJAzZsR90SfW4tQBm) | [Ida Maria](https://open.spotify.com/artist/2MCUVoI9J8LEqtHvf3X5ln) | [More](https://open.spotify.com/album/3ujjv9SEtIifVo2EDAY8FY) | 2:48 |
 | 50 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 |
 | 51 | [Roar Like Thunder](https://open.spotify.com/track/2504SqP5lMZIiRKoTkvPUN) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Roar Like Thunder](https://open.spotify.com/album/75D9FDdpYuEj7dp1hMhKIM) | 3:07 |
-| 52 | [Creatures of Chaos](https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Creatures of Chaos](https://open.spotify.com/album/417069DxvdXoov1vxICCNs) | 3:20 |
+| 52 | [Creatures of Chaos](https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Creatures of Chaos](https://open.spotify.com/album/417069DxvdXoov1vxICCNs) | 3:19 |
 | 53 | [Just Too Much](https://open.spotify.com/track/0nLGyEeOsErcTyBcEQIu8s) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [The End Will Show Us How](https://open.spotify.com/album/0tQNVwSxVYCwaEa8HfHCd4) | 3:46 |
 | 54 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 |
 | 55 | [Lilac](https://open.spotify.com/track/0jsdJ36JFwadIMScIewxj5) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Lilac](https://open.spotify.com/album/2bx6qA19Jk5JbHyAzXLYno) | 4:51 |

@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "100K",
+        "url": "https://open.spotify.com/album/2xUHD9X9ZLP8LqPBNojCai"
+      },
+      "artists": [
+        {
+          "name": "Chawo",
+          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153417,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/7eG0GWinCxj5w1SA7MRXxQ"
+    },
+    {
+      "album": {
         "name": "141 Schneeschieber",
         "url": "https://open.spotify.com/album/2GZNwgfI6WJZS280yzGQeO"
       },
@@ -22404,7 +22422,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 145696,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
@@ -25427,6 +25445,28 @@
     },
     {
       "album": {
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "In\u00e9 Plemen\u00e1",
+      "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
+    },
+    {
+      "album": {
         "name": "In\u00e9 Plemen\u00e1",
         "url": "https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV"
       },
@@ -25442,7 +25482,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 188936,
       "name": "In\u00e9 Plemen\u00e1",
       "url": "https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr"
@@ -41440,7 +41480,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 139357,
       "name": "Party Girl",
       "url": "https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX"
@@ -47177,6 +47217,28 @@
     },
     {
       "album": {
+        "name": "Say My Name (Sub Focus Remix)",
+        "url": "https://open.spotify.com/album/5DE66vw3jDlI0K2odEo8sm"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Say My Name - Sub Focus Remix",
+      "url": "https://open.spotify.com/track/4FgVnU3X6rcmnd5ujsfoK6"
+    },
+    {
+      "album": {
         "name": "2 RUFF, Vol. 1",
         "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
       },
@@ -48222,7 +48284,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 181224,
       "name": "Shake It To The Max (FLY) - Kalash & Maureen Remix",
       "url": "https://open.spotify.com/track/6J9aDPnmDkiPAxWhwLV8Zr"
@@ -50218,6 +50280,32 @@
       "duration_ms": 198786,
       "name": "Social Path",
       "url": "https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d"
+    },
+    {
+      "album": {
+        "name": "Sofia the First",
+        "url": "https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52866,
+      "name": "Sofia the First Main Title Theme - From \"Sofia the First\"",
+      "url": "https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT"
     },
     {
       "album": {
@@ -57255,6 +57343,24 @@
     },
     {
       "album": {
+        "name": "Slovensk\u00e9 Sproston\u00e1rodn\u00ed P\u00edsni\u010dky",
+        "url": "https://open.spotify.com/album/3V9DSEZNEmJzWGfm2s8jOZ"
+      },
+      "artists": [
+        {
+          "name": "Ludova muzika Olsiakovci",
+          "url": "https://open.spotify.com/artist/6gbwqQrefVHDkOwvaoNnYN"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77160,
+      "name": "V Pondelok Doma Nebudem",
+      "url": "https://open.spotify.com/track/5dB0EyD31ym9GQpccvqwuo"
+    },
+    {
+      "album": {
         "name": "V riti",
         "url": "https://open.spotify.com/album/7DIy99LChAdxlmTlosaNkQ"
       },
@@ -58114,7 +58220,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 108923,
       "name": "VOLKSWAGEN FUNK - super slowed",
       "url": "https://open.spotify.com/track/4WFgUkgd1gCHBFwgZ1Dj8K"

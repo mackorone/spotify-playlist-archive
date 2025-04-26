@@ -845,6 +845,28 @@
     },
     {
       "album": {
+        "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/6YKWF9Q2UyHEFBB1xctZLI"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291196,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/4vmQAoHIdNzaUp94XD62E9"
+    },
+    {
+      "album": {
         "name": "We Were Cowboys",
         "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
       },

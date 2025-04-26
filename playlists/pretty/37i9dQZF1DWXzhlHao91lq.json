@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73631,
+  "num_followers": 73627,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
+        "name": "A Study of Losses",
+        "url": "https://open.spotify.com/album/78tXJfTs54x8GO5aq4rbVE"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 206356,
+      "name": "Villa Sacchetti",
+      "url": "https://open.spotify.com/track/3imSNF31ZSYcLdM7zbGDBd"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
         "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
         "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 202835,
       "name": "rainbow",
       "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
-        "name": "A Study of Losses",
-        "url": "https://open.spotify.com/album/78tXJfTs54x8GO5aq4rbVE"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 206356,
-      "name": "Villa Sacchetti",
-      "url": "https://open.spotify.com/track/3imSNF31ZSYcLdM7zbGDBd"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -515,18 +515,22 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+        "name": "Breaking Into Acting",
+        "url": "https://open.spotify.com/album/2qXpq3oE0EZB9LMmckSxbb"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        },
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+      "duration_ms": 214093,
+      "name": "Breaking Into Acting",
+      "url": "https://open.spotify.com/track/6SxRzxiueXTwb7K07i9Ga3"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -547,6 +551,22 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
         "name": "Six Feet Apart",
         "url": "https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 173705,
       "name": "Six Feet Apart",
       "url": "https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
-        "name": "Breaking Into Acting",
-        "url": "https://open.spotify.com/album/2qXpq3oE0EZB9LMmckSxbb"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        },
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Breaking Into Acting",
-      "url": "https://open.spotify.com/track/6SxRzxiueXTwb7K07i9Ga3"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 180994,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 206100,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV"
-      },
-      "artists": [
-        {
-          "name": "Leanne & Naara",
-          "url": "https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI"
-        }
-      ],
-      "duration_ms": 259665,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
         "name": "Standing on the Fault Line",
         "url": "https://open.spotify.com/album/2QRDinotGiaDwxV5aZ7e4I"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Honest Man",
-        "url": "https://open.spotify.com/album/40JBrBKlMu5ENJPnCGflAP"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV"
       },
       "artists": [
         {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+          "name": "Leanne & Naara",
+          "url": "https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI"
         }
       ],
-      "duration_ms": 229493,
-      "name": "Honest Man",
-      "url": "https://open.spotify.com/track/725idQDxyOq1atgCsutMrS"
+      "duration_ms": 259665,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -1043,6 +1027,22 @@
       "duration_ms": 251819,
       "name": "Don't Stop Believing",
       "url": "https://open.spotify.com/track/2cPPd2bGMjuxUcYPA2Y7fh"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
+        "name": "Honest Man",
+        "url": "https://open.spotify.com/album/40JBrBKlMu5ENJPnCGflAP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Honest Man",
+      "url": "https://open.spotify.com/track/725idQDxyOq1atgCsutMrS"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
         "name": "dishonesty",
         "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 179216,
       "name": "dishonesty",
       "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+    },
+    {
+      "added_at": "2025-04-21 02:46:43",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2025-04-21 02:46:43",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/2upoNqPCO7A76AJnFLLigT"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
+      "duration_ms": 237029,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/79NgV7tDGLl02w769mlryw"
     },
     {
       "added_at": "2025-04-21 02:46:43",
@@ -1275,22 +1291,6 @@
       "duration_ms": 249066,
       "name": "Sitting Room",
       "url": "https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb"
-    },
-    {
-      "added_at": "2025-04-21 02:46:43",
-      "album": {
-        "name": "Sometimes It's Something, Sometimes It's Nothing at All",
-        "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

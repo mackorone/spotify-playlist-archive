@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-287 songs - 18 hr 25 min
+288 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Islas Canarias](https://open.spotify.com/track/0hRCdpKyqN25UFexMue0Pp) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 3:10 | 2024-07-12 | 2024-12-14 |
 | [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 | 2024-04-19 | 2024-11-23 |
 | [It’s Just Like Falling Asleep](https://open.spotify.com/track/0N4WBR930pFq8xog7jvTZN) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Everything Changes, Nothing Ends](https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO) | 3:05 | 2024-11-29 | 2025-02-01 |
+| [It’s Just Like Falling Asleep \- Tagavaka Remix](https://open.spotify.com/track/5ESDqEsdwBwEWzCwxed7yE) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Everything Changes, Nothing Ends \(Remixes\)](https://open.spotify.com/album/6gtYPyG3E3fHASBm4mUaAR) | 3:33 | 2025-04-25 |  |
 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 | 2023-12-08 | 2024-11-30 |
 | [January 25th](https://open.spotify.com/track/0xLHax5yY9RdTZL0AkAWrl) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Everything Changes, Nothing Ends](https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO) | 7:16 | 2024-11-29 | 2024-12-07 |
 | [Joy Paradox](https://open.spotify.com/track/0jtYpBdQgmlOJzuwUyFVyB) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 4:33 | 2024-11-01 |  |
@@ -223,7 +224,7 @@
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2024-10-18 |  |
 | [Satisfied \- Ambient Reprise](https://open.spotify.com/track/4vNW3T8XMgXltqrSxNnykV) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \(The Remixes\)](https://open.spotify.com/album/7zEKaM5PDUm8GfEk1Lzt0b) | 3:15 | 2025-01-17 |  |
 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 | 2024-08-23 | 2025-01-18 |
-| [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 | 2024-01-12 |  |
+| [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 | 2024-01-12 | 2025-04-26 |
 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 | 2025-01-14 |  |
 | [shimmering like you taught me](https://open.spotify.com/track/2mAj7esKn9QtZwjzKKAyow) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [shimmering like you taught me](https://open.spotify.com/album/1eBMSN2GVwskDKeBKUcuYa) | 2:44 | 2024-07-19 | 2024-08-17 |
 | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/track/2gHvMuXWRWs1E3hGhba4Vl) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/album/2fb2A2HtNR5dUvFpai1Pmv) | 4:38 | 2023-12-08 | 2024-01-20 |

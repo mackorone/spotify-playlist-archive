@@ -1,13 +1,45 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 47334,
+  "num_followers": 47386,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9ZTgAAAABnvdhbarOae0wZtMOUvoLh",
+  "snapshot_id": "aAsI6QAAAABApXUTUE0v1BE74KLPcDiB",
   "tracks": [
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "See Red",
+        "url": "https://open.spotify.com/album/4tQ1NxFt9xnkglAlalC8sx"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 123956,
+      "name": "See Red",
+      "url": "https://open.spotify.com/track/60vDLd0xrkO70FzmoIwlDX"
+    },
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Precious Child",
+        "url": "https://open.spotify.com/album/1lccqWh19drTKyPHvaqwRn"
+      },
+      "artists": [
+        {
+          "name": "Adam Wakefield",
+          "url": "https://open.spotify.com/artist/6vVB9hUpiPCp5SWAYwSzUt"
+        }
+      ],
+      "duration_ms": 262529,
+      "name": "Poor No More",
+      "url": "https://open.spotify.com/track/6EwJ0WKcu1NGRkJS649ZVk"
+    },
     {
       "added_at": "2025-04-04 04:00:14",
       "album": {

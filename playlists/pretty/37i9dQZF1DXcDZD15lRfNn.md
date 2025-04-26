@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 
 > Looking for a singer who dominated an era in the Korean music industry and then disappeared, aka 'SUGAR MAN'\. This is the official playlist of JTBC <Sugar Man>\. \(대한민국 가요계의 한 시대를 풍미했다가 사라진 가수, 일명 '슈가맨 \(SUGAR MAN\)'을 찾아갑니다\. JTBC 슈가맨의 오피셜 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,263 likes - 24 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,264 likes - 24 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 | 10 | [Life itself will let you know 아빠의 말씀 \(Feat\. Sarang\)](https://open.spotify.com/track/7uj0uRAGFwEh2oGqbwyTqC) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Kim Kanghoon 김강훈](https://open.spotify.com/artist/6fBkmzyV6LlI9t3Ja0LTe0), [Sarang](https://open.spotify.com/artist/3dvlk58vxfToLIvhzt1ZvZ) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.5](https://open.spotify.com/album/30hK3PWwqyl26YIZUYfb1p) | 3:12 |
 | 11 | [Just like a falling star 별이 진다네](https://open.spotify.com/track/4xJDPtASqjwQWVizjUpNyy) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.6](https://open.spotify.com/album/0T2PfmhpiyITNPehSJ24ug) | 3:25 |
 | 12 | [Y \- Prod\. AVIN](https://open.spotify.com/track/1tnLVHs5Ff5eiqf1uIWfLG) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.6](https://open.spotify.com/album/0T2PfmhpiyITNPehSJ24ug) | 4:18 |
-| 13 | [THE WORLD IS A MAGIC 세상은 요지경](https://open.spotify.com/track/5SYoasCYRwnII6sF6Ac8yh) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.7](https://open.spotify.com/album/0zqnPomhmszHXFf3eMYo5k) | 4:28 |
+| 13 | [THE WORLD IS A MAGIC 세상은 요지경](https://open.spotify.com/track/5SYoasCYRwnII6sF6Ac8yh) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.7](https://open.spotify.com/album/0zqnPomhmszHXFf3eMYo5k) | 4:28 |
 | 14 | [woman dreams of a man 여자는 남자를 꿈꾸게 해](https://open.spotify.com/track/2aa94JKRuHz6FK5Oyny5Tw) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.7](https://open.spotify.com/album/0zqnPomhmszHXFf3eMYo5k) | 4:15 |
 | 15 | [Show](https://open.spotify.com/track/6rUDyzoRnBanKXvaflVLiA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.8](https://open.spotify.com/album/4hmSr1S0TtDjjHlvE0BREP) | 3:11 |
 | 16 | [Our little promise 슬픈 언약식](https://open.spotify.com/track/3DG0tZM4lI1ZlltOEdqIEh) | [Kim Feel](https://open.spotify.com/artist/6oR7m22sIO1t7o8h7bnwNW) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.8](https://open.spotify.com/album/4hmSr1S0TtDjjHlvE0BREP) | 4:29 |

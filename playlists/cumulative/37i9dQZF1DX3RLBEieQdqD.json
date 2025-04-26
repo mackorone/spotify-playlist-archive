@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Karen Lizarazo y Luis Alfonso",
+  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Paola Jara,  Arelys Henao y Francy",
   "name": "Ranchenato",
   "tracks": [
     {
@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Am\u00e9",
+        "url": "https://open.spotify.com/album/1zwhYXkqsGpFHTFoCA5dmY"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206410,
+      "name": "Am\u00e9",
+      "url": "https://open.spotify.com/track/0Ld2aKtIASbu5EFl3rRcIp"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Abajo",
         "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
       },
@@ -608,7 +626,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 144606,
       "name": "Cacho x Cacho",
       "url": "https://open.spotify.com/track/4u4gK0RrCosD5WdraNv4GH"
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 136022,
       "name": "El Ni\u00f1o del Barrio",
       "url": "https://open.spotify.com/track/1AeXahQor3fgffkLy5yuZg"
@@ -1732,6 +1750,32 @@
       "duration_ms": 168116,
       "name": "Entre Copa y Copa",
       "url": "https://open.spotify.com/track/3eYFUlQKXEDMNMyFJd91nJ"
+    },
+    {
+      "album": {
+        "name": "Entre Tres",
+        "url": "https://open.spotify.com/album/4wGZbVvcruRcSUkz7sO4Ys"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185010,
+      "name": "Entre Tres",
+      "url": "https://open.spotify.com/track/30Hg8iU4qa3jF4bHWFuntU"
     },
     {
       "album": {
@@ -2673,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/7zkCZgGHkGyzBfLCoTastp"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192213,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/1bygAjLggvdiFzDdBX155d"
+    },
+    {
+      "album": {
         "name": "De Regreso al Dolor",
         "url": "https://open.spotify.com/album/5RIKYvJcZknT4zBYZJxFfV"
       },
@@ -2786,7 +2848,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 239900,
       "name": "Ni\u00e9game Tres Veces",
       "url": "https://open.spotify.com/track/4k583rCTuvPRyavFnlfguz"

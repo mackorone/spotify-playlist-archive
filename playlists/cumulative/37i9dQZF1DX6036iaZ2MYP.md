@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover:  Tiwa Savage
 
-748 songs - 1 day 11 hr 40 min
+749 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Girlfriend \(feat\. Tayc\)](https://open.spotify.com/track/2zrvFZHDSxreEJoQx4BRGm) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Girlfriend \(feat\. Tayc\)](https://open.spotify.com/album/68Gsi5EWwLNh7lj5Jw6S9V) | 2:50 | 2025-04-24 |  |
 | [GIRLS WANNA HAVE FUN](https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [GIRLS WANNA HAVE FUN](https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof) | 3:28 | 2024-07-18 | 2024-10-04 |
 | [Gnangami \(feat\. Zaho\)](https://open.spotify.com/track/1eccZ1DVgqm21c22LWCPfD) | [MC One](https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Conquérant](https://open.spotify.com/album/5ZugaEbZZ9HPpmcebdozXZ) | 2:36 | 2024-05-16 | 2024-06-14 |
+| [Go](https://open.spotify.com/track/2Tw42tx08KllFychkyizuX) | [Elijah](https://open.spotify.com/artist/2crUidRAjPCfAPMRk9WQcy) | [Go](https://open.spotify.com/album/4XRyYxXy8ne8Jj8AQUntRG) | 2:24 | 2025-04-24 |  |
 | [God Bless](https://open.spotify.com/track/7F4UEZZwn4hE0u1g3STeUD) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [God Bless / Doku](https://open.spotify.com/album/66U39Bnl5YbAb2kyyFvWBD) | 1:56 | 2025-02-20 | 2025-03-28 |
 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 | 2024-08-29 | 2024-09-27 |
 | [GoGo](https://open.spotify.com/track/2lfiR09w0PJQzk9Z3UR9Or) | [Sergio Alejandro](https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ) | [GoGo](https://open.spotify.com/album/6vsVwLAS3JYJouIZpXwTac) | 2:30 | 2024-08-22 | 2024-09-20 |

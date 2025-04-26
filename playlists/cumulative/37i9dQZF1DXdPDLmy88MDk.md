@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-177 songs - 10 hr 49 min
+178 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Enigma](https://open.spotify.com/track/4tiKvBdGo2KVVUazCIfWOE) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Enigma](https://open.spotify.com/album/0sqAkaZowvfKs9C9HJM9uW) | 3:58 | 2021-11-19 |  |
 | [Enigma](https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [The Vasulka Effect: Music for the Motion Picture](https://open.spotify.com/album/6BciCC7yejXpGpVE4oq4Bg) | 3:58 | 2022-05-11 | 2024-04-19 |
 | [Evening Light](https://open.spotify.com/track/0WXWiXfd4V6MCkBkrUV0NK) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Evening Light](https://open.spotify.com/album/1Ky1QmifzrNmlaUtprdyBX) | 2:21 | 2022-09-19 |  |
+| [Expanded View](https://open.spotify.com/track/20SsPVIMLxV68siltg1lr8) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Expanded View](https://open.spotify.com/album/2LiyqT4tBewOT4RXL8uB8d) | 3:08 | 2025-04-25 |  |
 | [Flow State Vestida 4](https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [Flow State Vestida 4](https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE) | 3:49 | 2021-11-19 |  |
 | [Flower Duet \- Goldmund Rework](https://open.spotify.com/track/3x5EerSpxWhkSvLKQ87U2S) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Scott Moore](https://open.spotify.com/artist/3k5d36mzom5r3bYb2ZBI3E), [Emily Pisaturo](https://open.spotify.com/artist/2s0fOzYaGHBDTbKTmY1rLm) | [Flower Duet \(Goldmund Rework\)](https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY) | 2:47 | 2022-09-19 |  |
 | [Fonteyn](https://open.spotify.com/track/29Lh7uFWh8jAOSTlOtdrqh) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [Fonteyn](https://open.spotify.com/album/2mTN8awDjOCGKRxYJwNEnG) | 2:39 | 2022-09-19 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - YUNG DSA",
+  "description": "India's Rap Scene. Cover - Shubh",
   "name": "RAP 91",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 256488,
       "name": "Aayiram Aura",
       "url": "https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1"
@@ -1192,6 +1192,28 @@
       "duration_ms": 174000,
       "name": "Chal Bombay",
       "url": "https://open.spotify.com/track/6AooRgSRDzbCYL4NZ4RCjU"
+    },
+    {
+      "album": {
+        "name": "Champagini (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/6ku33EXLIvrxSPSet3xTfM"
+      },
+      "artists": [
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116296,
+      "name": "Champagini - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/5K2mySnr02sfLS3MMJZICc"
     },
     {
       "album": {
@@ -2466,6 +2488,24 @@
       "duration_ms": 179169,
       "name": "House Of Lies",
       "url": "https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL"
+    },
+    {
+      "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f"
     },
     {
       "album": {
@@ -4638,7 +4678,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 166666,
       "name": "Regions",
       "url": "https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC"
@@ -5129,6 +5169,24 @@
     },
     {
       "album": {
+        "name": "Supreme",
+        "url": "https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178244,
+      "name": "Supreme",
+      "url": "https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob"
+    },
+    {
+      "album": {
         "name": "MONOPOLY MOVES",
         "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
       },
@@ -5302,7 +5360,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 239110,
       "name": "The One (From \"Retro\")",
       "url": "https://open.spotify.com/track/2m3QwNw6Xe4s8MfapdTbWo"

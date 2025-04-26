@@ -1893,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "DA DA DA",
+        "url": "https://open.spotify.com/album/6BqQ0NgA85BDf5lNtXoXob"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138355,
+      "name": "DA DA DA",
+      "url": "https://open.spotify.com/track/0edVUyI6gmCfm4Ka6YxSDt"
+    },
+    {
+      "album": {
         "name": "Danke Schoen",
         "url": "https://open.spotify.com/album/1kwJPORCIZEZ57iE9mziXZ"
       },
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"

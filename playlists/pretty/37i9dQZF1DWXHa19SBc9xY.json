@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 109858,
+  "num_followers": 109898,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-04-18 06:04:44",
       "album": {
-        "name": "Caf\u00e9 Da MaLu",
-        "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
-      },
-      "artists": [
-        {
-          "name": "MaLu",
-          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Farol Das Estrelas",
-      "url": "https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA"
-    },
-    {
-      "added_at": "2025-04-18 06:04:44",
-      "album": {
         "name": "\u00c1gua Salgada",
         "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 201558,
       "name": "\u00c1gua Salgada",
       "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
+    },
+    {
+      "added_at": "2025-04-18 06:04:44",
+      "album": {
+        "name": "Caf\u00e9 Da MaLu",
+        "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
+      },
+      "artists": [
+        {
+          "name": "MaLu",
+          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Farol Das Estrelas",
+      "url": "https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA"
     },
     {
       "added_at": "2025-04-18 06:04:44",
@@ -467,18 +467,22 @@
     {
       "added_at": "2025-04-18 06:04:44",
       "album": {
-        "name": "Magn\u00e9tica",
-        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
+        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
       },
       "artists": [
         {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 196056,
-      "name": "Magn\u00e9tica",
-      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
+      "duration_ms": 202500,
+      "name": "VEJA BABY - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
     },
     {
       "added_at": "2025-04-18 06:04:44",
@@ -507,22 +511,18 @@
     {
       "added_at": "2025-04-18 06:04:44",
       "album": {
-        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
+        "name": "Magn\u00e9tica",
+        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
         }
       ],
-      "duration_ms": 202500,
-      "name": "VEJA BABY - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
+      "duration_ms": 196056,
+      "name": "Magn\u00e9tica",
+      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
     },
     {
       "added_at": "2025-04-18 06:04:44",
@@ -867,30 +867,6 @@
     {
       "added_at": "2025-04-18 06:04:44",
       "album": {
-        "name": "Coisa Mais Linda",
-        "url": "https://open.spotify.com/album/1VSbHxrlJdkwsanhiSCPuY"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        },
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Coisa Mais Linda",
-      "url": "https://open.spotify.com/track/2xCN1ZiUbeYNnSl7Gin8c8"
-    },
-    {
-      "added_at": "2025-04-18 06:04:44",
-      "album": {
         "name": "Vai sacudir, vai abalar",
         "url": "https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 140210,
       "name": "Vai sacudir, vai abalar",
       "url": "https://open.spotify.com/track/0NCo0U5CIPaclauxTLWZkG"
+    },
+    {
+      "added_at": "2025-04-18 06:04:44",
+      "album": {
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/1VSbHxrlJdkwsanhiSCPuY"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        },
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Coisa Mais Linda",
+      "url": "https://open.spotify.com/track/2xCN1ZiUbeYNnSl7Gin8c8"
     },
     {
       "added_at": "2025-04-18 06:04:44",

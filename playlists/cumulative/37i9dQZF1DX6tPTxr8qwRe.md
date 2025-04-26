@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Aziya
+> Dark, hard hitting pop\. Cover: Cloudy June
 
-881 songs - 1 day 16 hr 40 min
+882 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Did It Hurt?](https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Did It Hurt?](https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD) | 2:44 | 2022-12-02 | 2023-05-06 |
 | [did it hurt?](https://open.spotify.com/track/4NUEtHceMHws1GfgAelmAB) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:09 | 2022-05-20 | 2022-09-24 |
 | [Die Trying](https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Die Trying](https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR) | 2:55 | 2024-04-05 | 2024-05-18 |
-| [Die Young](https://open.spotify.com/track/2r1LYYOgHiAKiBgNIdPVHQ) | [Caroline Reilly](https://open.spotify.com/artist/24dtiWBrm1YPudlKmi2A4E) | [Die Young](https://open.spotify.com/album/3i7soTWcu0mqsaDRjnKNEb) | 3:02 | 2025-01-10 |  |
+| [Die Young](https://open.spotify.com/track/2r1LYYOgHiAKiBgNIdPVHQ) | [Caroline Reilly](https://open.spotify.com/artist/24dtiWBrm1YPudlKmi2A4E) | [Die Young](https://open.spotify.com/album/3i7soTWcu0mqsaDRjnKNEb) | 3:02 | 2025-01-10 | 2025-04-26 |
 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 | 2025-01-10 |  |
 | [DIGITAL BABE](https://open.spotify.com/track/0j7il6QUxW1bc9h3otA2Qb) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [DIGITAL BABE](https://open.spotify.com/album/1XNIu6K8tW9LyfvIK9kWfa) | 2:29 | 2024-05-24 | 2024-06-29 |
 | [DIRT](https://open.spotify.com/track/4yecHdRmT62mztymihKxYK) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [DIRT](https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD) | 2:15 | 2024-03-22 | 2024-06-01 |
@@ -883,6 +883,7 @@
 | [You are what you fear in me.](https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me.](https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh) | 2:24 | 2024-12-06 |  |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 | 2023-06-03 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-09 |
+| [you should be scared](https://open.spotify.com/track/0TdQSyR07a1aDdY4I8C52T) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [you should be scared](https://open.spotify.com/album/3dzY3s9OZBgrfqjqs6oHgh) | 2:14 | 2025-04-25 |  |
 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-02-07 |  |
 | [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 | 2023-10-27 | 2024-01-27 |
 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 | 2023-09-22 | 2023-11-11 |

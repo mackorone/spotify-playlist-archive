@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 394506,
       "name": "Bird of Paradise: Part 2",
       "url": "https://open.spotify.com/track/0cdhRIV9fPas3MVK0Ln2HB"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 398733,
       "name": "Coming",
       "url": "https://open.spotify.com/track/6eINOLaSeuRVdkxZcgRVnj"
@@ -806,6 +806,28 @@
       "duration_ms": 425440,
       "name": "Conversation with the Sirocco",
       "url": "https://open.spotify.com/track/4RFcJpJZt6NorK6jLAK2kM"
+    },
+    {
+      "album": {
+        "name": "The Lion's Throne",
+        "url": "https://open.spotify.com/album/5gHeA1IYYEDZoGMPoNgmjP"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Amelia Cuni",
+          "url": "https://open.spotify.com/artist/7caCvnanZCHvcoPslDOGkW"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1125720,
+      "name": "Crazy World",
+      "url": "https://open.spotify.com/track/4cscooZxVMyPEqbV3OSw07"
     },
     {
       "album": {
@@ -2950,7 +2972,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 50142,
       "name": "Sanguine Cherry",
       "url": "https://open.spotify.com/track/5DRTBcoHrx4YM5uO5M1lFi"

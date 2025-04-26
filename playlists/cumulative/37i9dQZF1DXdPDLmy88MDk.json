@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Expanded View",
+        "url": "https://open.spotify.com/album/2LiyqT4tBewOT4RXL8uB8d"
+      },
+      "artists": [
+        {
+          "name": "Lisa Kriegler",
+          "url": "https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188569,
+      "name": "Expanded View",
+      "url": "https://open.spotify.com/track/20SsPVIMLxV68siltg1lr8"
+    },
+    {
+      "album": {
         "name": "Flow State Vestida 4",
         "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
       },

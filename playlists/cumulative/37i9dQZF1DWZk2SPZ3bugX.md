@@ -4,7 +4,7 @@
 
 > 🍾
 
-218 songs - 12 hr 50 min
+219 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Get It At Home](https://open.spotify.com/track/1PgQKktANGj96jDspXkZCq) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Saint Motel & the Symphony in the Sky](https://open.spotify.com/album/7gVcYqFmfM8s0zA8ND7JWa) | 3:30 | 2025-02-14 |  |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-27 |  |
 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 | 2022-12-08 | 2023-01-28 |
-| [Grim Generation](https://open.spotify.com/track/4USnWN7PzU3LT04l2qwXpo) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 3:20 | 2023-07-28 |  |
+| [Grim Generation](https://open.spotify.com/track/4USnWN7PzU3LT04l2qwXpo) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 3:20 | 2023-07-28 | 2025-04-26 |
 | [Had Enough](https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Had Enough](https://open.spotify.com/album/1MK61U71q2xC6VXFR8D4X2) | 3:31 | 2024-09-20 |  |
 | [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 | 2025-02-20 | 2025-03-14 |
 | [Heal Tomorrow](https://open.spotify.com/track/3h7eMylOrv17N8f1RlTom0) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4), [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [A la folie](https://open.spotify.com/album/7G1A4q4iZs7nqKeORKHlW2) | 3:36 | 2022-12-08 | 2023-09-23 |
@@ -188,6 +188,7 @@
 | [Straight To The Morning \- Myd Remix](https://open.spotify.com/track/3KLXqJ0Syps75zQbMxE3xE) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Straight To The Morning \(Myd Remix\)](https://open.spotify.com/album/3twoTcse5NGocRQ1zcupQo) | 3:26 | 2022-12-08 | 2023-06-10 |
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2023-03-24 |  |
 | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/track/5IWO7pAg0tfthWbgicUahc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/album/6CKfs5bseJw5KZH2WBw7La) | 3:35 | 2025-02-20 |  |
+| [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-04-25 |  |
 | [Sup](https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Sup](https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex) | 3:40 | 2025-02-27 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2022-12-08 | 2023-03-25 |
 | [The Edge of Light](https://open.spotify.com/track/35cYKUPuED9RTI2GaQI3dl) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Golden Bay](https://open.spotify.com/album/4AlegZ2nupO33LjHg09HuW) | 3:58 | 2025-01-16 |  |

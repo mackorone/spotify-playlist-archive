@@ -5795,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/4XRyYxXy8ne8Jj8AQUntRG"
+      },
+      "artists": [
+        {
+          "name": "Elijah",
+          "url": "https://open.spotify.com/artist/2crUidRAjPCfAPMRk9WQcy"
+        }
+      ],
+      "date_added": "2025-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144190,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Tw42tx08KllFychkyizuX"
+    },
+    {
+      "album": {
         "name": "God Bless / Doku",
         "url": "https://open.spotify.com/album/66U39Bnl5YbAb2kyyFvWBD"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: St\u00e9phanie Boulay",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: C\u0153ur De Pirate",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 196572,
       "name": "C'est pire et c'est mieux",
       "url": "https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF"
@@ -944,6 +944,24 @@
       "duration_ms": 180880,
       "name": "Il faut que je migre",
       "url": "https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p"
+    },
+    {
+      "album": {
+        "name": "Imprudences",
+        "url": "https://open.spotify.com/album/3PEbqGoks0gX4m9JuKLz0F"
+      },
+      "artists": [
+        {
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "Imprudences",
+      "url": "https://open.spotify.com/track/7y9gFcoaAmuO1hsFsakQKI"
     },
     {
       "album": {

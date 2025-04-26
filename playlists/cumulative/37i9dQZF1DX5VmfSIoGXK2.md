@@ -4,7 +4,7 @@
 
 > smooth, healing, soulful 🌱 the best of Jazz House, featuring dublon
 
-100 songs - 6 hr 57 min
+102 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Flipper](https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Pink Wax](https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird) | 4:05 | 2025-03-14 |  |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2025-02-21 |  |
 | [fourth wave](https://open.spotify.com/track/4QsWMsZWAMgztjfmY4WdQg) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [fourth wave](https://open.spotify.com/album/7hzttSqPCyCw9q2senJNpt) | 4:24 | 2025-03-28 |  |
+| [Good Morning Neighbours \- slowya.roll Version](https://open.spotify.com/track/71eHv6q1iiNYi2FdJV2joi) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Good Morning Neighbours \(slowya.roll Version\)](https://open.spotify.com/album/6dO3NuUEwaVhyQT5TU5RcC) | 5:16 | 2025-04-25 |  |
 | [Have You Ever Dream Of Nancy Plenozas ?](https://open.spotify.com/track/0TSIg2HyR7W715x9gU6D7s) | [Soufflé Caramel](https://open.spotify.com/artist/4mGvEsQqmeRz8uJHHFLxnp) | [Club de Jazz 2](https://open.spotify.com/album/3LYgCnIkzryxXCS5EHLIVz) | 9:30 | 2025-02-21 |  |
 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 | 2025-02-21 |  |
 | [high vibrations](https://open.spotify.com/track/0gr9ny9UGmMdrBV1ivgnGb) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [high vibrations](https://open.spotify.com/album/7icKH7oDXCA2m6V6tks0XO) | 5:35 | 2025-03-21 |  |
@@ -98,7 +99,7 @@
 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2025-02-21 |  |
 | [Tess](https://open.spotify.com/track/4g2IofvpR6XcrX9I1Rui3J) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Tess](https://open.spotify.com/album/1SpgeROLMxyyyeBEXeu2Es) | 3:32 | 2025-02-21 |  |
 | [The Road is Long](https://open.spotify.com/track/6QZPF2qAWRlKcvWksumlZh) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg), [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8) | [The Road is Long](https://open.spotify.com/album/0gHCl3TDVNHxR1FA6FPq5t) | 7:29 | 2025-02-21 |  |
-| [tres palmas](https://open.spotify.com/track/3Das5N4gqRSDDyoyxrTZpq) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [tres palmas](https://open.spotify.com/album/2doAeZEmDlWabXhhaiAql5) | 3:04 | 2025-02-28 |  |
+| [tres palmas](https://open.spotify.com/track/3Das5N4gqRSDDyoyxrTZpq) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [tres palmas](https://open.spotify.com/album/2doAeZEmDlWabXhhaiAql5) | 3:04 | 2025-02-28 | 2025-04-26 |
 | [Tryin' Find A Way \- Club Mix](https://open.spotify.com/track/5dUMhESneKFO2owCLbVKJ8) | [Tim Deluxe](https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0) | [The Radicle \(Expanded Edition\)](https://open.spotify.com/album/0eersZ0Zl9dLM7vOIP76Ur) | 7:06 | 2025-02-21 |  |
 | [TTT](https://open.spotify.com/track/6gDDaGM8zIscNdtbWESvWl) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y) | [TTT](https://open.spotify.com/album/1q280272UJuxhZHwk7hqEs) | 3:21 | 2025-02-21 |  |
 | [Uniformity](https://open.spotify.com/track/3uymbwKNDGhYixRDqwiuIK) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg), [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Uniformity](https://open.spotify.com/album/6SVlABHyASsXV4Lm56xZeH) | 2:50 | 2025-04-18 |  |
@@ -107,6 +108,7 @@
 | [We and The Sea](https://open.spotify.com/track/65B61dm7yda9zq0DE6QZCO) | [S\-Pazz](https://open.spotify.com/artist/1ffTeCgQT9dcVyl4Cm3M0L) | [We and The Sea](https://open.spotify.com/album/4PEoNVQo1eFLtJUEVPfRmD) | 5:24 | 2025-02-21 |  |
 | [We Can Make It Happen](https://open.spotify.com/track/4lrCbQ95wplebijZj2PnCk) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY) | [Live Or Die By Love](https://open.spotify.com/album/5MfghNciw5uWTAtcdh5fO2) | 4:32 | 2025-02-21 | 2025-03-22 |
 | [we still wanna dance](https://open.spotify.com/track/1NqKuaIJkJXB7yxYLNyKyR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [we still wanna dance](https://open.spotify.com/album/0vBGL6ey5Qg1FY1eksUwc7) | 7:37 | 2025-04-18 |  |
-| [Why they fly.](https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Why they fly.](https://open.spotify.com/album/41Fvn0ICyKC4Kuvu9ZRuWQ) | 1:44 | 2025-02-28 |  |
+| [Why they fly.](https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Why they fly.](https://open.spotify.com/album/41Fvn0ICyKC4Kuvu9ZRuWQ) | 1:44 | 2025-02-28 | 2025-04-26 |
+| [Would appear to be jazz.](https://open.spotify.com/track/7zM1h1j8HCCj7y27NC0J4t) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/2tdNyBAIoCMhXwAJtAO8vH) | 2:39 | 2025-04-25 |  |
 
 \*This playlist was first scraped on 2025-02-26. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Akanksha Bhandari, Garvit-Priyansh  and other exciting artists.",
+  "description": "Naye Indie gaano ka khazana, featuring Mali,  Utsavi Jha and other exciting artists.",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1652,6 +1652,24 @@
       "duration_ms": 192631,
       "name": "Azaad Hai",
       "url": "https://open.spotify.com/track/1wPiRQPePFdSpoXyhC8p95"
+    },
+    {
+      "album": {
+        "name": "Azaadiyaan",
+        "url": "https://open.spotify.com/album/4xYa74HKErhh2aiYfb6R5s"
+      },
+      "artists": [
+        {
+          "name": "Satyajeet Jena",
+          "url": "https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164673,
+      "name": "Azaadiyaan",
+      "url": "https://open.spotify.com/track/49rpWJuutmONIykAI2gBAv"
     },
     {
       "album": {
@@ -5234,6 +5252,24 @@
       "duration_ms": 120610,
       "name": "Dosti",
       "url": "https://open.spotify.com/track/5FHDfn7vcwoTHC24gUZILO"
+    },
+    {
+      "album": {
+        "name": "Dr. Dust",
+        "url": "https://open.spotify.com/album/1MPDxGKwalR6AMWYfinmEE"
+      },
+      "artists": [
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170037,
+      "name": "Dr. Dust",
+      "url": "https://open.spotify.com/track/5jwH0EthUxAtaYJ83bqKfS"
     },
     {
       "album": {
@@ -12037,6 +12073,24 @@
     },
     {
       "album": {
+        "name": "Maan Jao",
+        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154616,
+      "name": "Maan Jao",
+      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
+    },
+    {
+      "album": {
         "name": "Maddham",
         "url": "https://open.spotify.com/album/2Ka2P9lZXZFN7EP48dVLH0"
       },
@@ -15588,7 +15642,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 181856,
       "name": "Raazdaariyan",
       "url": "https://open.spotify.com/track/28q4tY4XwtYiOuTBIS7ehw"
@@ -15884,7 +15938,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 225283,
       "name": "Raza",
       "url": "https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G"
@@ -20652,7 +20706,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 229106,
       "name": "Uska Pata",
       "url": "https://open.spotify.com/track/7es4VRgmTZ8dmuiz1Mm5HO"

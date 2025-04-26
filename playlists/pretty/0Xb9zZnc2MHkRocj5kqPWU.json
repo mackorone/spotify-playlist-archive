@@ -1,13 +1,37 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 61915,
+  "num_followers": 61913,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAH7r3apq1o1vUJuJOw0sG2xrG9zM4E",
+  "snapshot_id": "AAAH8Llz9bJmach1zII3w7rrXlVyvAz9",
   "tracks": [
+    {
+      "added_at": "2025-04-25 17:03:08",
+      "album": {
+        "name": "Women",
+        "url": "https://open.spotify.com/album/1shDfOdDsRt71G51CmNsod"
+      },
+      "artists": [
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Vienna Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2nJZffRcm3WDa74FSkYYOb"
+        },
+        {
+          "name": "Irene Delgado-Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9"
+        }
+      ],
+      "duration_ms": 241183,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/0w8AtUiGnz0Khf5AZOPLu4"
+    },
     {
       "added_at": "2025-04-08 13:52:05",
       "album": {
@@ -39,6 +63,22 @@
       "duration_ms": 276000,
       "name": "Piano Sonata in A major",
       "url": "https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF"
+    },
+    {
+      "added_at": "2025-04-25 17:03:27",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1jtleXgBwqCJGqWBPorJgX"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 158452,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/7LgljzzT4CGyJ7Fv8qwWJO"
     },
     {
       "added_at": "2025-03-12 12:40:51",

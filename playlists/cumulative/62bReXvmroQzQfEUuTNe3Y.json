@@ -2577,6 +2577,28 @@
     },
     {
       "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/5spPNRHqk73ywB3Ip41DVe"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "AMRV",
+          "url": "https://open.spotify.com/artist/5WpmtJpvwQB4HJqYGEQr5V"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182389,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/5Iu5ajMYXdV8z9fJ5XimwD"
+    },
+    {
+      "album": {
         "name": "Get Down Saturday Night",
         "url": "https://open.spotify.com/album/6U20fA3e0M2bW85LTdgcW6"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 12423,
+  "num_followers": 12443,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAgtgAAAAADwIYZA5QUKF4u6WOJ9fqVf",
+  "snapshot_id": "aAl/AAAAAABCUxUU63RN0Xg9g1OCbA7e",
   "tracks": [
     {
       "added_at": null,
@@ -548,13 +548,13 @@
           "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
         },
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         }
       ],
-      "duration_ms": 194338,
-      "name": "Camarim",
-      "url": "https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0"
+      "duration_ms": 164941,
+      "name": "P\u00f3dio",
+      "url": "https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk"
     },
     {
       "added_at": null,
@@ -676,13 +676,13 @@
           "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 164941,
-      "name": "P\u00f3dio",
-      "url": "https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk"
+      "duration_ms": 194338,
+      "name": "Camarim",
+      "url": "https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0"
     },
     {
       "added_at": null,
@@ -883,6 +883,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoota (feat. Lourena & Ebony)",
+        "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 212580,
+      "name": "Shoota (feat. Lourena & Ebony)",
+      "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 169590,
+      "name": "Flat",
+      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Dia \u00c9 Hoje",
         "url": "https://open.spotify.com/album/0Kk44oAU5n6vR6eEFEh41O"
       },
@@ -919,54 +967,6 @@
       "duration_ms": 353907,
       "name": "Que Dia \u00c9 Hoje",
       "url": "https://open.spotify.com/track/02byVHeKRX0Vj5Vl4rbeu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 169590,
-      "name": "Flat",
-      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoota (feat. Lourena & Ebony)",
-        "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
-      },
-      "artists": [
-        {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 212580,
-      "name": "Shoota (feat. Lourena & Ebony)",
-      "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
     },
     {
       "added_at": null,

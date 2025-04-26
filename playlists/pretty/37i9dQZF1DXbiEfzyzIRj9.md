@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,138 likes - 99 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,142 likes - 99 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 31 | [Battle Isn’t Over \- D’n’B Version](https://open.spotify.com/track/3BVPJz8sK8Bf22DNbVURTC) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Horseman](https://open.spotify.com/artist/6072oVyIFCVwPcftVNWF1z) | [Battle Isn't Over \(D’n’B Version\)](https://open.spotify.com/album/1oQoOLMelPHOCvIh71dJa8) | 3:43 |
 | 32 | [Mircrostoma](https://open.spotify.com/track/7EAPSbSK2PW9sNsQvSJ9qx) | [Fetus](https://open.spotify.com/artist/4fb3tegVhFiF0C8hFWMCBA) | [Fish, Fished, Fishing EP](https://open.spotify.com/album/3qeSoPtRyPfqj74UKPn3cq) | 3:29 |
 | 33 | [Get Loose](https://open.spotify.com/track/16DBKyIHIPdKnQbQZkNdKG) | [Cheetah](https://open.spotify.com/artist/57VZ8RtFU9P9iZr9LHg4OD), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Get Loose](https://open.spotify.com/album/2j2BNY5MwsZAv3g6UzIkMq) | 2:36 |
-| 34 | [Dance In The Sunlight \(feat\. Bandit\)](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight \(feat\. Bandit\)](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 |
+| 34 | [Dance In The Sunlight](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 |
 | 35 | [NIPPON](https://open.spotify.com/track/5lqIFwOhmlbS9BjVnQW14Y) | [DONGROSSO](https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [NIPPON](https://open.spotify.com/album/5JVo9WMICO0pL0h5Tud8iO) | 3:25 |
 | 36 | [Weekend](https://open.spotify.com/track/1oRGVcXV3iiVAkGDQy1zF5) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Weekend](https://open.spotify.com/album/30r8Ed5TkC6n0m1XyKIhCc) | 3:08 |
 | 37 | [Lose Control \- Mr\. Belt & Wezol Remix](https://open.spotify.com/track/17S6tWhuubeLz3rdIrx7Xs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Lose Control \(Mr\. Belt & Wezol Remix\)](https://open.spotify.com/album/6DiFzBG67jAXxHxIEFXvgf) | 2:40 |

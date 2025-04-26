@@ -1,13 +1,45 @@
 {
-  "description": "The best in blues right now. Cover: Bobby Rush & Kenny Wayne Shepherd",
-  "num_followers": 139167,
+  "description": "The best in blues right now. Cover: Southern Avenue",
+  "num_followers": 139179,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/iT0AAAAAB/mX5rMOwxmYkkF1tPsRmz",
+  "snapshot_id": "aAsI6QAAAABPJtZDXdxJDZ+GnOFRP+nc",
   "tracks": [
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0IMJyZewJS5Lj2WHBG23J3"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 187316,
+      "name": "Long Is The Road",
+      "url": "https://open.spotify.com/track/5XQOSllj9gEysxv5qxIqtv"
+    },
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Big Women",
+        "url": "https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Big Women",
+      "url": "https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD"
+    },
     {
       "added_at": "2025-04-11 04:00:16",
       "album": {
@@ -251,22 +283,6 @@
       "duration_ms": 247426,
       "name": "Shake This Ground",
       "url": "https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
-        "name": "Rum Boogie",
-        "url": "https://open.spotify.com/album/4bfuTpL2T1fDU8xMyGgzCx"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 197922,
-      "name": "Rum Boogie",
-      "url": "https://open.spotify.com/track/5FBfO62TdPOvZcZTFxK36b"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -1691,22 +1707,6 @@
       "duration_ms": 218466,
       "name": "The Squirrel Juice Blues",
       "url": "https://open.spotify.com/track/221lZ6bk3a8w3JyAztN0KW"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Savoy",
-        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
     },
     {
       "added_at": "2023-06-02 04:01:00",

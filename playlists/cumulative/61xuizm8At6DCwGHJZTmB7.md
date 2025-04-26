@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-611 songs - 2 day 11 hr 28 min
+612 songs - 2 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Come Unto Jesus \- Live](https://open.spotify.com/track/1CBpznEyoCahhqWVnkndg7) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6), [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt) | [Come Unto Jesus \(Live\)](https://open.spotify.com/album/18CEAqPWpWuiSnqwJKfSBa) | 4:44 | 2024-03-01 | 2025-03-21 |
 | [Coming Awake](https://open.spotify.com/track/4IrBvohq6d8lm9JBimp0rZ) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Coming Awake](https://open.spotify.com/album/0RhmEZXAUjVkLwWdcTqksh) | 3:57 | 2022-02-17 | 2022-03-16 |
 | [Communion \- Live](https://open.spotify.com/track/66zwB70pTK6JQXGZV65sV3) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 6:20 | 2022-03-15 | 2023-01-05 |
+| [Consider Him \- Live](https://open.spotify.com/track/0yqqeDcVDTvVHi1Vp0pz2G) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [1350 \(Live\)](https://open.spotify.com/album/1GTvVA3HOCDDEnW27RV52Z) | 5:32 | 2025-04-25 |  |
 | [Cost](https://open.spotify.com/track/76EOlDLVllndaO7K6klhRC) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Jessie\-Rose Rayner](https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU), [Bradley Riddle](https://open.spotify.com/artist/52dEgQZjyA9H9YPAgQo2eD) | [Cost](https://open.spotify.com/album/27iqOsbhDpAdkRG9sAC8zD) | 3:54 | 2025-03-20 |  |
 | [Courage](https://open.spotify.com/track/58y4DnZTVDvmYtyyol313d) | [One Voice INT Music](https://open.spotify.com/artist/6c6GqErJ4d8zV8EjLIQAe7), [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [The Remnant](https://open.spotify.com/album/0uwcpx4eLY6bEUlPMoE8EH) | 5:58 | 2025-03-28 |  |
 | [Covered By The Blood \- Live](https://open.spotify.com/track/2cRg97KMU2c1H40omy8rKN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Covered By The Blood \(Live\)](https://open.spotify.com/album/66yQEX1xivwEPM0nVAoc5Z) | 7:12 | 2025-02-07 |  |

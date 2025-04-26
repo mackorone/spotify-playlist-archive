@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Jeff Satur
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,580 likes - 158 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,579 likes - 158 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

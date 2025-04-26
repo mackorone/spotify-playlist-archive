@@ -2125,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "Baggy Weather",
+        "url": "https://open.spotify.com/album/17HRPsJZBYroplPKv1ntbg"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128514,
+      "name": "Balmart",
+      "url": "https://open.spotify.com/track/6Xku2nydxzGM8VZpWXQqdz"
+    },
+    {
+      "album": {
         "name": "Bando Kid",
         "url": "https://open.spotify.com/album/3MJXXZKLhyhbnvNSYy44Xw"
       },
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 136891,
       "name": "Barry",
       "url": "https://open.spotify.com/track/3z5hvnhC1rksnJNKR7rvqX"
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 166000,
       "name": "Beach Sounds & Oceans",
       "url": "https://open.spotify.com/track/7tgx6rXT338Kb4QMc6QMoj"
@@ -7924,7 +7942,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 174182,
       "name": "FIJI (feat. Cruza)",
       "url": "https://open.spotify.com/track/6HubPIhCjRxkwR2zJa2ZLB"
@@ -8376,6 +8394,28 @@
       "duration_ms": 268806,
       "name": "FOCUSED",
       "url": "https://open.spotify.com/track/3IdXc5Yfz1pdsv5NfbKldV"
+    },
+    {
+      "album": {
+        "name": "Baggy Weather",
+        "url": "https://open.spotify.com/album/17HRPsJZBYroplPKv1ntbg"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/0phAKXa5y3ZIE4Wb7NR0wg"
     },
     {
       "album": {
@@ -12776,6 +12816,28 @@
       "duration_ms": 210125,
       "name": "Legal Sins",
       "url": "https://open.spotify.com/track/513IPuqvC7V8XHTbIe6EWw"
+    },
+    {
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6NApC58gMXPhhxAtLtnU4F"
+      },
+      "artists": [
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
+        },
+        {
+          "name": "Evil Genius",
+          "url": "https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226032,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/0CBuxD5ejwDce1nOOmPeBu"
     },
     {
       "album": {
@@ -17720,7 +17782,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 126286,
       "name": "Prezzy",
       "url": "https://open.spotify.com/track/0UuitBLrIpiwrsNbysf3L8"
@@ -19277,6 +19339,36 @@
     },
     {
       "album": {
+        "name": "Same Shit (feat. dj gummy bear)",
+        "url": "https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185205,
+      "name": "Same Shit (feat. dj gummy bear)",
+      "url": "https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF"
+    },
+    {
+      "album": {
         "name": "Some People Scream, Some People Talk",
         "url": "https://open.spotify.com/album/5CVZBLsQKpTNmjjq1xmQJW"
       },
@@ -20773,6 +20865,24 @@
     },
     {
       "album": {
+        "name": "square one",
+        "url": "https://open.spotify.com/album/7jUyQYzlSYmHKjNSkV5LRN"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159092,
+      "name": "square one",
+      "url": "https://open.spotify.com/track/2e3dJat3mFqwPWEF7lQaHu"
+    },
+    {
+      "album": {
         "name": "STILL (Five & A F*** You) [Deluxe]",
         "url": "https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8"
       },
@@ -22070,7 +22180,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 162461,
       "name": "THE CATS CRYING OUTSIDE MY WINDOW SOUND LIKE THE END OF THE WORLD",
       "url": "https://open.spotify.com/track/5DZO5f38Kg0yzR9yW7nejh"
@@ -23092,7 +23202,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 147533,
       "name": "TYG (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/5zkT8awQHaG8JKlaSun1lB"
@@ -24916,6 +25026,24 @@
       "duration_ms": 88000,
       "name": "wyha",
       "url": "https://open.spotify.com/track/3Crgm2QJ8gYI2QDH7BlWb1"
+    },
+    {
+      "album": {
+        "name": "The Good The Bad The Dollar Menu",
+        "url": "https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "XXXL Tee",
+      "url": "https://open.spotify.com/track/2R4zCGSZCB9c3BK8B4Ohjg"
     },
     {
       "album": {

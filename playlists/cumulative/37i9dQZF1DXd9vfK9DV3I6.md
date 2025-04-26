@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-308 songs - 22 hr 31 min
+309 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [One Soul](https://open.spotify.com/track/5XEKlpUuuHepI2RvpXtNv3) | [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Nikos Giouletzis](https://open.spotify.com/artist/0SPLdwEwKSVDbsOhGzPSwc) | [One Soul](https://open.spotify.com/album/2iIXpEJRl9OMInxVfHlala) | 3:56 | 2022-06-27 | 2023-03-18 |
 | [One Soul](https://open.spotify.com/track/2UpdWyiHg8gDDPTDKh8k4P) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Nikos Giouletzis](https://open.spotify.com/artist/0SPLdwEwKSVDbsOhGzPSwc) | [One Soul](https://open.spotify.com/album/00vxM8qbchIRJZzSEiP3Id) | 3:56 | 2021-02-22 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/0qibsqCSPmacinQXUT8swR) | [Manda](https://open.spotify.com/artist/3Zd5lZmsC7lqZPXHBqNUSe), [Nesco](https://open.spotify.com/artist/3j0OYwICzUpiw4VAp6ivuD), [ZADI](https://open.spotify.com/artist/1FgRT0ZNs5kubsp4XqjhPA) | [Only You](https://open.spotify.com/album/3KN4rQchOIqlXmKrMPNOG1) | 3:18 | 2021-09-08 | 2022-12-19 |
+| [Opa](https://open.spotify.com/track/4gOMUti3d3zMpCfOGkHlAC) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Opa](https://open.spotify.com/album/7AO9lx2lwoyeaaOh4icaOF) | 6:45 | 2025-04-18 |  |
 | [Orient Express](https://open.spotify.com/track/7tYOJVJoptDjtBvE1fHwfU) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Orient Express](https://open.spotify.com/album/75atJZdj78b77e6u29N10h) | 4:20 | 2022-10-15 | 2023-03-18 |
 | [Orient Spirit](https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI), [Doan](https://open.spotify.com/artist/0gENmAfzCZPPRrL6zoIPZC) | [Orient Spirit](https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m) | 2:27 | 2023-02-04 |  |
 | [Origin](https://open.spotify.com/track/1519QNTFdjIgk7YWYOw59y) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Origin](https://open.spotify.com/album/6hnpvDAwZAokcIjPRli0wE) | 3:54 | 2022-02-24 | 2023-03-18 |
@@ -253,7 +254,7 @@
 | [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2022-02-24 |  |
 | [Sakaratou Achiqin](https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Mawal Lotfi](https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda) | [Sakaratou Achiqin](https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh) | 2:19 | 2020-10-18\* |  |
 | [Salat Ala Nabina \- Radio Edit](https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Salat Ala Nabina](https://open.spotify.com/album/2kGHqtp9WEhUeYrCQjjzDq) | 3:38 | 2020-10-18\* | 2023-08-19 |
-| [Samra](https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4) | [Mostafa Akmal](https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3) | [Samra](https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl) | 4:43 | 2021-07-31 |  |
+| [Samra](https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4) | [Mostafa Akmal](https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3) | [Samra](https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl) | 4:43 | 2021-07-31 | 2025-04-26 |
 | [Sapana](https://open.spotify.com/track/6Lug1sWzQOhfySNlsmDNkI) | [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ), [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Buddha Bar \(by Sahalé & Ravin\)](https://open.spotify.com/album/4mlRC23hzJ2jl4ajkidikX) | 4:44 | 2023-09-11 |  |
 | [Schhh](https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Schhh](https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1) | 3:05 | 2020-10-18\* | 2023-12-09 |
 | [Schhh \(feat\. Irina Rimes\)](https://open.spotify.com/track/5OUdPlYOMsAxozx02nsnj0) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Schhh \(feat\. Irina Rimes\)](https://open.spotify.com/album/7pkAN4GdpvAqbowYk3lelp) | 3:05 | 2023-12-04 | 2024-04-19 |

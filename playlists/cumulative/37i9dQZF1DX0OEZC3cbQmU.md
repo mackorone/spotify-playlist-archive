@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-164 songs - 16 hr 58 min
+165 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 8:38 | 2022-09-02 | 2024-12-07 |
 | [Ele é Exaltado \- Acústico](https://open.spotify.com/track/5Z1bAuX0pHETilmLlmUoFa) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Lukas Agustinho \(Acústico\)](https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b) | 2:19 | 2023-03-17 |  |
 | [Em Fervente Oração \- Acústico](https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Em Fervente Oração \(Acústico\)](https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx) | 4:53 | 2022-09-02 | 2023-02-07 |
-| [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 | 2022-09-02 |  |
+| [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 | 2022-09-02 | 2025-04-26 |
 | [Era Deus](https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Era Deus](https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp) | 4:45 | 2022-09-02 |  |
 | [Escape](https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Escape](https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj) | 4:33 | 2025-04-14 |  |
 | [Escape / Nunca Pare de Lutar](https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9) | [Jadson Moreno](https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23) | [Escape / Nunca Pare de Lutar](https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q) | 9:25 | 2024-11-22 |  |
@@ -72,6 +72,7 @@
 | [Eu Te Vejo Em Tudo](https://open.spotify.com/track/4HBaK1oMKuH6KYEVCJq1pg) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Davi Passamani](https://open.spotify.com/artist/4vdrXRQmJwXZHXp1DifI0w), [Helena Albernaz](https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7) | [Eu Te Vejo Em Tudo](https://open.spotify.com/album/3abAqWvfPR7m9nqfSjnAfh) | 5:46 | 2024-01-05 |  |
 | [Eu Tenho uma Promessa](https://open.spotify.com/track/1QeiFzV3c26r6k9g6s5iFY) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Tenho uma Promessa](https://open.spotify.com/album/29IH8z7nCBUzWPsf2Z4iVc) | 4:31 | 2024-06-21 |  |
 | [Eu Tenho Você](https://open.spotify.com/track/7HLxTNn9psg9mipna5QjIC) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Eu Tenho Você](https://open.spotify.com/album/0BepCUYcUCobNvuZ7IaSN8) | 6:34 | 2022-09-02 |  |
+| [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex) | [Incendiários](https://open.spotify.com/artist/2jEIa3BLL1ZFailXlZGm0x), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T) | 7:51 | 2025-04-25 |  |
 | [Faz Morada](https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9) | [Mc João Igor](https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO), [Jean braguioly](https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l) | [Faz Morada](https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa) | 4:48 | 2025-04-14 |  |
 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-02 | 2023-09-02 |
 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 | 2024-07-19 |  |

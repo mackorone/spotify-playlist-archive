@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 78520,
+  "num_followers": 78526,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
-        "name": "Typisk Norsk",
-        "url": "https://open.spotify.com/album/3jJRA4yW5Kq85AsvDqb3pb"
-      },
-      "artists": [
-        {
-          "name": "Gitarkameratene",
-          "url": "https://open.spotify.com/artist/6eaBTqHxAaeyCvAgBsqVs9"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Ryktet Forteller",
-      "url": "https://open.spotify.com/track/4axzeEnJdc01LFopSSa686"
-    },
-    {
-      "added_at": "2025-04-10 22:00:11",
-      "album": {
         "name": "Ka Du H\u00e5pa P\u00e5",
         "url": "https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 209408,
       "name": "Ka Du H\u00e5pa P\u00e5",
       "url": "https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX"
+    },
+    {
+      "added_at": "2025-04-10 22:00:11",
+      "album": {
+        "name": "Typisk Norsk",
+        "url": "https://open.spotify.com/album/3jJRA4yW5Kq85AsvDqb3pb"
+      },
+      "artists": [
+        {
+          "name": "Gitarkameratene",
+          "url": "https://open.spotify.com/artist/6eaBTqHxAaeyCvAgBsqVs9"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Ryktet Forteller",
+      "url": "https://open.spotify.com/track/4axzeEnJdc01LFopSSa686"
     }
   ],
   "unique_name": "Norske viser",

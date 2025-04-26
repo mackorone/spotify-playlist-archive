@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bujBKRVtHr.md) - [plain]
 
 > Listen to the soundtracks of Face Me\. \(페이스 미의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543 likes - 28 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,550 likes - 28 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bujBKRVtHr.md) - [plain]
 | 19 | [STOP](https://open.spotify.com/track/4Ra12xZQOiwSSYjUNcvyBZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:48 |
 | 20 | [Killer](https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:18 |
 | 21 | [Empty Syndrome](https://open.spotify.com/track/1LO0w5SRoUHeGnbpL29SMr) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Empty Syndrome](https://open.spotify.com/album/4HHxrzlj0LZ9B3wpFWUC3c) | 4:12 |
-| 22 | [what the hell](https://open.spotify.com/track/5Sjy8Jt9eNRUYazvizrU1G) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Beyond](https://open.spotify.com/album/0vpemSo6U9XITuxXKA7lSj) | 3:17 |
+| 22 | [what the hell](https://open.spotify.com/track/5Sjy8Jt9eNRUYazvizrU1G) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Beyond](https://open.spotify.com/album/0vpemSo6U9XITuxXKA7lSj) | 3:17 |
 | 23 | [NO PAIN](https://open.spotify.com/track/4N5PLI3puPr62sGcJbkiFL) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/63Z0hWI9rtD9tCik8Snh0k) | 3:39 |
 | 24 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 |
 | 25 | [In the end we’re just](https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [In the end we’re just](https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl) | 2:58 |

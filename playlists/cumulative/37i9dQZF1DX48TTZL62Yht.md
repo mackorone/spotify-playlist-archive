@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: Doechii
+> The tracks you just keep pulling up\. Cover: BigXthaPlug
 
 804 songs - 1 day 17 hr 31 min
 

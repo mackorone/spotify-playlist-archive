@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 410352,
+  "num_followers": 410343,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "House Again",
-        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
-      },
-      "artists": [
-        {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
-        }
-      ],
-      "duration_ms": 202290,
-      "name": "House Again",
-      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Long Live Cowgirls (with Cody Johnson)",
         "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 184746,
       "name": "Long Live Cowgirls (with Cody Johnson)",
       "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 202290,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Missin' Tonight",
-        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
-      },
-      "artists": [
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 170154,
-      "name": "Missin' Tonight",
-      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "Missin' Tonight",
+        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 170154,
+      "name": "Missin' Tonight",
+      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -635,6 +619,22 @@
       "duration_ms": 264456,
       "name": "Hello Shitty Day",
       "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Starting Over Again",
-        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 179645,
-      "name": "Starting Over Again",
-      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Settle for a Beer (with Triston Marez)",
-        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
+        "name": "Starting Over Again",
+        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 174327,
-      "name": "Settle for a Beer (with Triston Marez)",
-      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
+      "duration_ms": 179645,
+      "name": "Starting Over Again",
+      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1323,38 +1323,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "The Droptines",
-        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "Crossing Lines",
-        "url": "https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Crossing Lines",
-      "url": "https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Never Again One More Time",
         "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
@@ -1375,6 +1343,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
+        "name": "Crossing Lines",
+        "url": "https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Crossing Lines",
+      "url": "https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
         "name": "Horseback",
         "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 212720,
       "name": "Horseback",
       "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "The Droptines",
+        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
+        "name": "Life Behind Bars",
+        "url": "https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT"
+      },
+      "artists": [
+        {
+          "name": "Vandoliers",
+          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "Life Behind Bars",
+      "url": "https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
         "name": "Hit The Hay Runnin'",
         "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Life Behind Bars",
-        "url": "https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT"
-      },
-      "artists": [
-        {
-          "name": "Vandoliers",
-          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "Life Behind Bars",
-      "url": "https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
       },
@@ -1631,26 +1631,6 @@
       "duration_ms": 179613,
       "name": "Starts in a Bar",
       "url": "https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "Country Round Here Tonight (feat. Justin Moore)",
-        "url": "https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        },
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 223679,
-      "name": "Country Round Here Tonight (feat. Justin Moore)",
-      "url": "https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1675,6 +1655,26 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Country Round Here Tonight (feat. Justin Moore)",
+        "url": "https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        },
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 223679,
+      "name": "Country Round Here Tonight (feat. Justin Moore)",
+      "url": "https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ"
     },
     {
       "added_at": "2025-04-18 04:06:12",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: Rohit Maan, DONNI\u00a3 & Nyn Music",
+  "description": "Best of Haryanvi Hip-Hop! Cover: Krish Rao",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -1364,6 +1364,28 @@
       "duration_ms": 187298,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/3iEFn2t4LQtZx52VO0FHJg"
+    },
+    {
+      "album": {
+        "name": "Cash Cash",
+        "url": "https://open.spotify.com/album/4s9fLpsGNYr0OlD8oJRvbS"
+      },
+      "artists": [
+        {
+          "name": "Krish Rao",
+          "url": "https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl"
+        },
+        {
+          "name": "Jai",
+          "url": "https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139248,
+      "name": "Cash Cash",
+      "url": "https://open.spotify.com/track/4M60JVJPqNzIkJy4V6Jfi1"
     },
     {
       "album": {
@@ -3708,10 +3730,44 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 222148,
       "name": "Hookless (feat. Aman Mangali Aala & Manish Gaat) [From Death Row Haryana 3]",
       "url": "https://open.spotify.com/track/2xChtuoHSs4uaTrt2Goi6X"
+    },
+    {
+      "album": {
+        "name": "Death Row Haryana 3",
+        "url": "https://open.spotify.com/album/2JJBtIQW0xqNXtfAvsr1K6"
+      },
+      "artists": [
+        {
+          "name": "Summy",
+          "url": "https://open.spotify.com/artist/3iMwDt7uEy7NQhojR3o4Dz"
+        },
+        {
+          "name": "RC Magnum",
+          "url": "https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT"
+        },
+        {
+          "name": "Mani Rana",
+          "url": "https://open.spotify.com/artist/3BRj60pF5wpSEF0Y5nbX9H"
+        },
+        {
+          "name": "Aman Mangali Aala",
+          "url": "https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR"
+        },
+        {
+          "name": "Manish Gaat",
+          "url": "https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222148,
+      "name": "Hookless (feat. Aman Mangali Aala & Manish Gaat) [From Death Row Haryana 3]",
+      "url": "https://open.spotify.com/track/4ZEUpQtSnNov0PKa10NmMo"
     },
     {
       "album": {
@@ -3864,7 +3920,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 173333,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/6L7EJzsVd50jBakdBHFDC4"

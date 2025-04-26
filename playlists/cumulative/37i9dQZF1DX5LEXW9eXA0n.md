@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 신용재\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 권진아\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,451 songs - 3 day 21 hr 57 min
+1,452 songs - 3 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2021-12-23 | 2022-07-08 |
 | [How did we](https://open.spotify.com/track/5MstaTKdwp6gVpaEFfvZrP) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Hello](https://open.spotify.com/album/2aCYxRu2ETq1u3MlR4c86z) | 3:52 | 2022-01-03 | 2022-06-14 |
 | [How have you been](https://open.spotify.com/track/2HVku0IEbTB41iQvAJKQuJ) | [Kim Sol](https://open.spotify.com/artist/2ZXy5pIbcsRpQSdJ7ORUdb) | [How have you been](https://open.spotify.com/album/6nESHbjPc2o0YzWj9zh5bq) | 3:01 | 2023-01-11 | 2023-02-25 |
+| [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 | 2025-04-25 |  |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-20 | 2023-02-25 |
 | [How Many Times Can We Say Goodbye](https://open.spotify.com/track/4xeUPkI5r5aHwziwlYXvS0) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [How Many Times Can We Say Goodbye](https://open.spotify.com/album/1wr3C63SlJ3P67iICQKfob) | 4:26 | 2023-01-11 | 2023-02-15 |
 | [How Much I Love You](https://open.spotify.com/track/55tsR9WU9Rtl8eLKTz242N) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [How Much I Love You](https://open.spotify.com/album/5NpyatjHKN1GJur16L3dfR) | 3:37 | 2024-01-29 | 2024-06-18 |
@@ -603,7 +604,7 @@
 | [INCOMPLETE](https://open.spotify.com/track/1YI04hmMPhmcutJm1bpp0c) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [\[Vol.51\] You Hee yul's Sketchbook : 28th Voice 'Sketchbook X YOUNHA'](https://open.spotify.com/album/4opF5I4YD6RE1qzSFAMK4D) | 4:32 | 2022-03-29 | 2022-04-15 |
 | [Indeed, It Was Love](https://open.spotify.com/track/6ghLeCbuqka7yOEkaQDdDA) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Ordinary Grace](https://open.spotify.com/album/48CdV9kVXIXXNEvcUV3qmJ) | 4:10 | 2024-12-02 |  |
 | [Independence](https://open.spotify.com/track/1323131baOYufSSG8ScKDU) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [Independence](https://open.spotify.com/album/0r5dJpQ2WHSDP6wttXUmmM) | 3:22 | 2022-03-31 | 2022-06-28 |
-| [Insomnia](https://open.spotify.com/track/6RZv3rIkz0Us99p5OdK0vE) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Insomnia](https://open.spotify.com/album/6d6tKjuz54ICfRGbB5tYXV) | 3:29 | 2024-10-25 |  |
+| [Insomnia](https://open.spotify.com/track/6RZv3rIkz0Us99p5OdK0vE) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Insomnia](https://open.spotify.com/album/6d6tKjuz54ICfRGbB5tYXV) | 3:29 | 2024-10-25 | 2025-04-26 |
 | [Introduce me a good person](https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1PHttHhnBSqPClsqZrPp8z) | 3:03 | 2021-12-20 | 2022-07-05 |
 | [Is anybody home?](https://open.spotify.com/track/44wd4Ys1LLt85pI7wjwQja) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Is anybody home?](https://open.spotify.com/album/574CFNbs5NLms9QpResxfB) | 2:38 | 2022-03-29 | 2022-04-07 |
 | [Is It Bearable?](https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ) | [Monni](https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb) | [Is It Bearable?](https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q) | 3:38 | 2023-04-26 | 2023-09-12 |

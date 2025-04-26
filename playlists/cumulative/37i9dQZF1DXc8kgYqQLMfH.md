@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,213 songs - 1 day 22 hr 16 min
+1,214 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [19](https://open.spotify.com/track/6p347KMUUvTqTfQmRX8TIk) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [19](https://open.spotify.com/album/6LNUtRzdna1vmq3oGmMuab) | 2:46 | 2022-09-16 | 2023-10-06 |
 | [2 unreal](https://open.spotify.com/track/3UCygC7JAMINFBr2fQL91x) | [heavy tone](https://open.spotify.com/artist/7E4tM3LfCNhRISIXPPprFE) | [2 unreal](https://open.spotify.com/album/61lwGB5uZ3W8FQk233sGHE) | 2:10 | 2021-11-10 | 2022-07-22 |
 | [2.05am](https://open.spotify.com/track/05tYZqMR7vcjyZr57Vxn6y) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [2.05am](https://open.spotify.com/album/2ZN7gvIcWxomdsqecufEWe) | 3:50 | 2024-06-05 |  |
+| [3 AM](https://open.spotify.com/track/1Fc0apFTrqXZGqerg8EKeZ) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [3 AM](https://open.spotify.com/album/6fl3GBwGZcMiSvUpTgpHU5) | 2:33 | 2025-04-24 |  |
 | [305 sky](https://open.spotify.com/track/3gIJheKHSVrhs5EkxHdNpA) | [Rory Callum](https://open.spotify.com/artist/25DH1fXhuHYG3JDDydqbpY) | [305 sky](https://open.spotify.com/album/3iPp8nXQprbUgcYZP89fKy) | 2:01 | 2021-11-10 | 2022-10-08 |
 | [4am](https://open.spotify.com/track/7rcjGfeuIseoe4fgaP9r78) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [4am](https://open.spotify.com/album/4avUNfmB4btjnI77Bw5t3R) | 2:05 | 2022-11-11 | 2023-08-04 |
 | [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 | 2024-07-26 | 2025-03-15 |
@@ -85,7 +86,7 @@
 | [Astral Projection](https://open.spotify.com/track/5JpOdFmdumMpJ6WYovtLt4) | [forest.io](https://open.spotify.com/artist/0VJePSpgCmiXyZXJuM1qNM), [Audiorealm](https://open.spotify.com/artist/6CxmksukboadF6WqD1KuE1) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:53 | 2022-12-16 | 2023-03-18 |
 | [At Ease](https://open.spotify.com/track/643ygflRTKiZFZd626f7jR) | [droemsk](https://open.spotify.com/artist/1BCaWmZ5a7IMTP5EFSPkfL), [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n) | [At Ease](https://open.spotify.com/album/3RFhA80PjKe46KuJr5Cm3C) | 2:56 | 2022-12-16 | 2023-08-04 |
 | [Aura](https://open.spotify.com/track/4CM1loeQHmVpQQbqAHfz9N) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Aura](https://open.spotify.com/album/0mmiqgEMX3yvKH04dFSa2q) | 2:11 | 2022-11-25 |  |
-| [Autumn Haze](https://open.spotify.com/track/4mZxtbtBIEAyhif5WaXA9q) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Autumn Haze](https://open.spotify.com/album/1X5Pl4XgeUHlUr0SQLp9ao) | 2:03 | 2023-07-13 |  |
+| [Autumn Haze](https://open.spotify.com/track/4mZxtbtBIEAyhif5WaXA9q) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Autumn Haze](https://open.spotify.com/album/1X5Pl4XgeUHlUr0SQLp9ao) | 2:03 | 2023-07-13 | 2025-04-26 |
 | [Autumn Lies](https://open.spotify.com/track/56Trob6SO6aJt6GLNACrfq) | [States Of Matter](https://open.spotify.com/artist/0zL5nus6xyjc2UbkjBgxaz) | [Seaweather](https://open.spotify.com/album/6Md6MVyHr8AlBayPkYSoB6) | 2:54 | 2022-01-27 | 2023-04-28 |
 | [Aviato](https://open.spotify.com/track/1cEdLUmlJNXQoazp48jxVg) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Aviato](https://open.spotify.com/album/4DBH0MPVET1AFcds7LSVcu) | 2:08 | 2022-10-01 |  |
 | [awareness](https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [awareness](https://open.spotify.com/album/0YErBks7Y3JioAcB3RHZDd) | 2:12 | 2021-11-10 | 2022-05-20 |
@@ -198,7 +199,7 @@
 | [Cold Breeze](https://open.spotify.com/track/1vhYXAKylvmoBAeWVMnXVg) | [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Cold Breeze](https://open.spotify.com/album/6hTlSMabr9DBUhUfDdQoeO) | 2:25 | 2022-10-28 | 2023-09-26 |
 | [Cold Pillows](https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn) | [Tailwinds](https://open.spotify.com/artist/6W50Jtaz33gA5opvEA0q0g) | [Softer](https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf) | 3:20 | 2021-11-10 | 2023-03-02 |
 | [Colorful Leaves](https://open.spotify.com/track/56zclYajeHI9U3KDWmFwwE) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Colorful Leaves](https://open.spotify.com/album/3xCpC0Mda19tESAUFUnO2t) | 1:50 | 2021-11-10 | 2022-09-03 |
-| [comeback!](https://open.spotify.com/track/1dpsUbVZVsSqeHU9LIXpsU) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [comeback!](https://open.spotify.com/album/4Bq3HgXr0hUdO0st01IVsf) | 2:17 | 2023-07-13 | 2025-01-18 |
+| [comeback!](https://open.spotify.com/track/1dpsUbVZVsSqeHU9LIXpsU) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [comeback!](https://open.spotify.com/album/4Bq3HgXr0hUdO0st01IVsf) | 2:17 | 2023-07-13 |  |
 | [Comfortable](https://open.spotify.com/track/4tReGzA7E6SRrqmWhUbnvu) | [Red Lekk](https://open.spotify.com/artist/5luaCdQ4VxA8NcuLTu5Y89) | [Comfortable](https://open.spotify.com/album/43y8tCWXbrSwXjqglWt0Yt) | 2:18 | 2022-12-09 | 2024-05-14 |
 | [Composure](https://open.spotify.com/track/7hCe1hmwNJX9eSbsAPU4kF) | [Node Park](https://open.spotify.com/artist/3BHFkHYwu4ZxfghindI4WO) | [Composure](https://open.spotify.com/album/4Uqz908hYJevgGm2Q0PhKp) | 2:30 | 2023-01-20 |  |
 | [Concrete](https://open.spotify.com/track/1RzoLQJAzGjqpzUDZFuhUV) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Concrete](https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke) | 1:15 | 2021-11-10 | 2022-06-10 |
@@ -645,7 +646,7 @@
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2021-11-10 | 2022-08-19 |
 | [Making Pizza](https://open.spotify.com/track/3v65mSFX4hY7l0JveBQjNa) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Making Pizza](https://open.spotify.com/album/0Td6eNByAw6kBfB47t576G) | 1:51 | 2022-06-24 | 2022-09-03 |
 | [Mallet Dreams](https://open.spotify.com/track/4FyekCqwBwaFRWCLvL4Or4) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [Mallet Dreams](https://open.spotify.com/album/2TluPmCV8AGpmyrg62Rwkb) | 1:42 | 2023-03-16 | 2023-10-06 |
-| [Mansion Of Sizz](https://open.spotify.com/track/1U0jroBry8iTfYt73P9ET0) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [Lofi City](https://open.spotify.com/album/4LVapYHIAJc5s8V9yyKgc2) | 2:24 | 2022-10-28 |  |
+| [Mansion Of Sizz](https://open.spotify.com/track/1U0jroBry8iTfYt73P9ET0) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [Lofi City](https://open.spotify.com/album/4LVapYHIAJc5s8V9yyKgc2) | 2:24 | 2022-10-28 | 2025-04-26 |
 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 | 2021-11-10 | 2023-03-02 |
 | [mariposas](https://open.spotify.com/track/2OEiGdcYERflPWGTau38WC) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [sunday mornings](https://open.spotify.com/album/1kd235cgVh0bdUEsx2wDlB) | 2:24 | 2021-11-10 | 2022-10-01 |
 | [Markwood](https://open.spotify.com/track/1IlgyO5jzXby1OYeEl8lL1) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Markwood](https://open.spotify.com/album/1WUZxQa3ZqMrA1ifSOwr13) | 3:12 | 2024-05-13 | 2024-07-19 |

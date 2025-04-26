@@ -1,12 +1,12 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: Ed Sheeran",
-  "num_followers": 938760,
+  "num_followers": 938790,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAHOeAAAAABu4SYkVOquuIyxDpNCfSTz",
+  "snapshot_id": "aAsI5gAAAAC1YXT/gGXXKYMILoxNjo79",
   "tracks": [
     {
       "added_at": "2025-04-04 07:47:17",
@@ -39,6 +39,22 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
       "added_at": "2025-04-18 04:00:56",
@@ -77,6 +93,22 @@
       "url": "https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4"
     },
     {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "Heart By Heart",
+        "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Heart By Heart",
+      "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
+    },
+    {
       "added_at": "2025-03-28 04:00:39",
       "album": {
         "name": "YIPPEE-KI-YAY.",
@@ -113,20 +145,24 @@
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
-      "added_at": "2025-04-18 04:00:56",
+      "added_at": "2025-04-25 04:00:38",
       "album": {
-        "name": "Neon Nuptials",
-        "url": "https://open.spotify.com/album/5gLCetbR72Zt6IRWE1gk82"
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
       "artists": [
         {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 224736,
-      "name": "Neon Nuptials",
-      "url": "https://open.spotify.com/track/3fUUyQlxRXgMM9Es9kGl3w"
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
       "added_at": "2025-04-04 07:47:17",
@@ -193,22 +229,6 @@
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
-      "added_at": "2025-04-18 04:00:56",
-      "album": {
-        "name": "Invincible (from Kaiju No. 8)",
-        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 155495,
-      "name": "Invincible - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
-    },
-    {
       "added_at": "2025-02-14 05:00:39",
       "album": {
         "name": "Nice To Meet You (feat. Lainey Wilson)",
@@ -229,6 +249,22 @@
       "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
     },
     {
+      "added_at": "2025-04-18 04:00:56",
+      "album": {
+        "name": "Invincible (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 155495,
+      "name": "Invincible - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
+    },
+    {
       "added_at": "2025-04-04 07:47:17",
       "album": {
         "name": "Silver Lining",
@@ -243,6 +279,22 @@
       "duration_ms": 197533,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"
+    },
+    {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2025-04-11 04:00:27",
@@ -297,6 +349,38 @@
       "url": "https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K"
     },
     {
+      "added_at": "2025-04-11 04:00:27",
+      "album": {
+        "name": "I WILL.",
+        "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "World At My Feet",
+      "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
+    },
+    {
+      "added_at": "2025-04-18 04:00:56",
+      "album": {
+        "name": "Neon Nuptials",
+        "url": "https://open.spotify.com/album/5gLCetbR72Zt6IRWE1gk82"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 224736,
+      "name": "Neon Nuptials",
+      "url": "https://open.spotify.com/track/3fUUyQlxRXgMM9Es9kGl3w"
+    },
+    {
       "added_at": "2025-04-04 07:47:17",
       "album": {
         "name": "All The Way (feat. Bailey Zimmerman)",
@@ -331,22 +415,6 @@
       "duration_ms": 242446,
       "name": "The Bend",
       "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
-    },
-    {
-      "added_at": "2025-04-11 04:00:27",
-      "album": {
-        "name": "I WILL.",
-        "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 171391,
-      "name": "World At My Feet",
-      "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
     },
     {
       "added_at": "2025-03-21 04:01:01",
@@ -809,38 +877,6 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2025-04-04 07:47:17",
-      "album": {
-        "name": "The Flood",
-        "url": "https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 269720,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm"
-    },
-    {
-      "added_at": "2025-03-21 18:57:27",
-      "album": {
-        "name": "WE BOTH KNOW",
-        "url": "https://open.spotify.com/album/10T9X06HIc2hBiJF5cYehb"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 192719,
-      "name": "WE BOTH KNOW",
-      "url": "https://open.spotify.com/track/4VtUKIoFUZBPjlC8LTutWL"
-    },
-    {
       "added_at": "2025-02-21 05:00:34",
       "album": {
         "name": "So Close To What",
@@ -893,26 +929,6 @@
       "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
     },
     {
-      "added_at": "2025-03-07 05:00:37",
-      "album": {
-        "name": "With You (with Sofia Camara)",
-        "url": "https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        },
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 188876,
-      "name": "With You (with Sofia Camara)",
-      "url": "https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67"
-    },
-    {
       "added_at": "2025-02-03 03:55:04",
       "album": {
         "name": "Moon Music",
@@ -927,26 +943,6 @@
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
-    },
-    {
-      "added_at": "2025-02-03 03:55:04",
-      "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Holy Ground (feat. Jessie Murph)",
-      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
     },
     {
       "added_at": "2025-02-28 05:00:40",
@@ -967,22 +963,6 @@
       "duration_ms": 118000,
       "name": "NOTHING ELSE",
       "url": "https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459"
-    },
-    {
-      "added_at": "2025-03-07 05:00:37",
-      "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 169331,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
     },
     {
       "added_at": "2025-02-03 03:55:04",

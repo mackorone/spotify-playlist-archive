@@ -2,9 +2,9 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> MARINA is a main pop girl emergency 🆘
+> Addison is the main pop girl emergency 🆘
 
-1,263 songs - 2 day 15 hr 19 min
+1,264 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [BAD POSITION](https://open.spotify.com/track/053RPxRYGZXuoPleZEwbfd) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BAD POSITION](https://open.spotify.com/album/0vKib6orNSh7ke5dUK88Aa) | 3:17 | 2023-10-13 | 2024-01-05 |
 | [BAD POSITION](https://open.spotify.com/track/13slL7BOVQZY4MVncvQK9Q) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:17 | 2023-10-13 | 2023-10-20 |
 | [Bambola](https://open.spotify.com/track/5RTtx4D4w29MlufofiIikv) | [toka](https://open.spotify.com/artist/4iXfHZIKHblaqytMwQhHua), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bambola](https://open.spotify.com/album/4yuvVNeV3g2eavxqmut25m) | 2:28 | 2024-05-10 | 2024-11-09 |
-| [Bands On Me](https://open.spotify.com/track/4jqgGpOWlZvP67YJVH1UB4) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Icon Baby](https://open.spotify.com/album/4TkpauLcNunQAfg0WdsLPK) | 2:31 | 2025-03-28 |  |
+| [Bands On Me](https://open.spotify.com/track/4jqgGpOWlZvP67YJVH1UB4) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Icon Baby](https://open.spotify.com/album/4TkpauLcNunQAfg0WdsLPK) | 2:31 | 2025-03-28 | 2025-04-26 |
 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C) | 3:08 | 2022-04-08 | 2022-06-04 |
 | [Barbie Doll](https://open.spotify.com/track/5aKlUXjfgFUpJfWNvXH2IW) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Barbie Doll](https://open.spotify.com/album/4PHqoOCjJKy3FuFxskhDAc) | 2:05 | 2023-08-18 | 2023-10-07 |
 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-06-09 | 2023-09-16 |
@@ -795,7 +795,7 @@
 | [My Only Dream Is To Be Loved](https://open.spotify.com/track/6z1dZbCFtcpEfxv8lQ0FW8) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [Girlie Pop: Encore](https://open.spotify.com/album/1Zf8vlF2PYYCuxXhmfNSUN) | 3:00 | 2024-09-27 | 2024-10-12 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2024-12-23 | 2024-12-27 |
 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 | 2024-08-16 | 2024-08-31 |
-| [NADA](https://open.spotify.com/track/4ZPLvqNmLrLIFVHUxFojrd) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:11 | 2025-03-28 |  |
+| [NADA](https://open.spotify.com/track/4ZPLvqNmLrLIFVHUxFojrd) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:11 | 2025-03-28 | 2025-04-26 |
 | [NAILS](https://open.spotify.com/track/67qVRmg2JynkOZ5olduLAd) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [NAILS](https://open.spotify.com/album/6xNOhGAMlLrxbg0yV7gRNu) | 2:51 | 2022-05-27 | 2022-07-09 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-25 | 2022-07-02 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-14 | 2024-10-19 |
@@ -1216,6 +1216,7 @@
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 | 2022-10-15 |
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-06-23 | 2023-11-11 |
 | [What Now](https://open.spotify.com/track/2HJkS5r8Qzf6kCxVzBgRJ3) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [What Now](https://open.spotify.com/album/115Wn7jhMjCTmkeuDNi9Nt) | 3:21 | 2022-08-26 |  |
+| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-25 |  |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-19 | 2024-06-15 |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2022-02-15 | 2022-04-23 |
 | [When the Night Is Over](https://open.spotify.com/track/6MT5cB34ohwDJ42oiz91Xj) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [When the Night Is Over](https://open.spotify.com/album/3wGif16iUd5BmihjRmmll9) | 3:06 | 2024-04-26 | 2024-05-18 |

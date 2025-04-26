@@ -1,13 +1,33 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 61634,
+  "num_followers": 61645,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/iT0AAAAAC8qg1hqNZhhS8Ty9asd8U2",
+  "snapshot_id": "aAsI6QAAAACQzzrvt6ytBv2mB95c/6qU",
   "tracks": [
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Homage",
+        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 480251,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/06pig4VFnQNUsJ1C8TjkEP"
+    },
     {
       "added_at": "2025-04-11 04:00:16",
       "album": {
@@ -1815,26 +1835,6 @@
       "duration_ms": 212416,
       "name": "Talvez Certamente",
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Chapter VIII",
-        "url": "https://open.spotify.com/album/6SwxV9Scrfz8AohAZBkMkm"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        },
-        {
-          "name": "Chad Fowler",
-          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
-        }
-      ],
-      "duration_ms": 455232,
-      "name": "Chapter VIII",
-      "url": "https://open.spotify.com/track/7pQb6gNEWKQTppuWczIDyk"
     },
     {
       "added_at": "2021-09-06 14:10:17",

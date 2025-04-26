@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Tyreek McDole\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,330 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,358 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bonds](https://open.spotify.com/track/4HJOa7TWVCO0T9zrB4TUDO) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [Obey](https://open.spotify.com/artist/3LfwSfIGvAU8IsST3mEl7S), [Milye](https://open.spotify.com/artist/27KnUptbEwPYfjC1KMKK9P), [Fo1006](https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f), [Woojinee](https://open.spotify.com/artist/5VrBgtUUMPP1yGE6mIPUNu) | [Bonds](https://open.spotify.com/album/2GXIMdZn8jv2AHB9Ocb7Ad) | 3:32 |
 | 2 | [The Drumbledrone](https://open.spotify.com/track/563LFrcKou0FiKUaZ5nR0C) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl), [Gwilym Simcock](https://open.spotify.com/artist/6oXieOD3dHfCCmmy96W2eR) | [Big Visit](https://open.spotify.com/album/1rHjReNt80DP3nZGgsgrSn) | 6:39 |
-| 3 | [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/14XtWs8A52pLTz6YBvwKam) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T) | [The Sun Song \(Precious Energy\)](https://open.spotify.com/album/34CGlYugBENoeQ6eCvMdWV) | 4:15 |
+| 3 | [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/14XtWs8A52pLTz6YBvwKam) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T), [Logan Butler](https://open.spotify.com/artist/7A57mikbdnFdDUWj0jEs6U), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv) | [The Sun Song \(Precious Energy\)](https://open.spotify.com/album/34CGlYugBENoeQ6eCvMdWV) | 4:15 |
 | 4 | [Fickle](https://open.spotify.com/track/5AhPkv3zSizBpobL7rrUoS) | [Mulvey's Medicine](https://open.spotify.com/artist/2QV1dWwfQMQXiZZMFFWnqC) | [Fickle](https://open.spotify.com/album/5w1QpsbDyKy7HQvEh8TOYT) | 6:08 |
 | 5 | [Boundaries](https://open.spotify.com/track/4iDRc7gJ4Uvhrn5r0sMHKy) | [Poppy Daniels](https://open.spotify.com/artist/5p4U401vBELQ6nbYLJHm3Z) | [Boundaries](https://open.spotify.com/album/5UQ6npLAKutJFaJfp9CAIV) | 4:37 |
 | 6 | [The Teacher \- Revisited](https://open.spotify.com/track/5LdWK4c9Zu5R5VI8yAK14x) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Teacher \(Revisited\)](https://open.spotify.com/album/18ITbuxyCg2telbJt4f7uG) | 6:07 |

@@ -4,7 +4,7 @@
 
 > Only the best Tech House \| Find the mix series on SoundCloud: Bassline Therapy Radio
 
-637 songs - 1 day 9 hr 27 min
+638 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2024-10-20 | 2025-01-13 |
 | [Voice Machine](https://open.spotify.com/track/3qGegN5LcHC2gYV6IsDusb) | [HeyDoc!](https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB) | [Voice Machine](https://open.spotify.com/album/74sGDyM908xhzHMkfnyr7S) | 4:05 | 2024-06-23 | 2024-08-20 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2024-02-05 | 2024-06-24 |
+| [VOLUME](https://open.spotify.com/track/0fixvezuCebtWtPePYGAMh) | [Soul Saturation](https://open.spotify.com/artist/7z529bqQyJFGNNEkgvu3b1) | [VOLUME](https://open.spotify.com/album/364KcD4I0rPyFSGD02E8nR) | 3:25 | 2025-04-25 |  |
 | [Voodoo](https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Voodoo](https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7) | 3:05 | 2025-03-09 |  |
 | [VSCO Girl](https://open.spotify.com/track/0KIrc2e6NZEQOMhKhzf1JE) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [VSCO Girl](https://open.spotify.com/album/3QLNIvwH0JN3Guk1Ivn93i) | 3:10 | 2025-02-03 | 2025-04-12 |
 | [Waiting Here For You \- Radio Edit](https://open.spotify.com/track/3YLkDnGaJFP8oV6dallBED) | [DJ Henny](https://open.spotify.com/artist/6ttovwPi96CeR7S69Uj2rw) | [Waiting Here For You \(Radio Edit\)](https://open.spotify.com/album/7stlqWpsXM8u2fAa5PbMd7) | 4:16 | 2024-06-23 | 2024-08-20 |

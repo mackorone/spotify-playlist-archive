@@ -2,9 +2,9 @@
 
 ### [New Music Friday France](https://open.spotify.com/playlist/37i9dQZF1DX742okrrpwah)
 
-> Jul, David Guetta, Benson Boon et Charles Doré au top des nouveautés de la semaine !
+> Jul, David Guetta, Benson Boone et Charles Doré au top des nouveautés de la semaine !
 
-4,418 songs - 9 day 14 hr 12 min
+4,419 songs - 9 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Amar Pela Metade \(Aimer À Moitié\)](https://open.spotify.com/track/56NoXkahPdeKwnGzq2VTGe) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Amar Pela Metade / Aimer À Moitié](https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu) | 3:06 | 2024-09-20 | 2024-09-27 |
 | [AMAZED \(feat\. Jewel Usain\)](https://open.spotify.com/track/5Sk49kBjtWnBLvKSgiBKoH) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L), [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6) | [AMAZING](https://open.spotify.com/album/4Ds6LOa7iuNyt0C6wWgFyH) | 3:10 | 2025-02-07 | 2025-02-14 |
 | [Amazing Grace](https://open.spotify.com/track/43RN0F4crBoN8Uv4YrRKUG) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Bosco Soundtrack](https://open.spotify.com/artist/4vkkMvu0BYvfIsioM7U7w6) | [Amazing Grace](https://open.spotify.com/album/1kXYVUHCOO5rYsW5kWGXBu) | 3:11 | 2024-09-05 | 2024-09-13 |
+| [Amen](https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:17 | 2025-04-24 |  |
 | [American Dream](https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [American Dream](https://open.spotify.com/album/0pq5HLaL15cX8fEh7DTTvw) | 2:25 | 2024-10-31 | 2024-11-08 |
 | [AMERICAN SCUMBAG](https://open.spotify.com/track/5Ccd3PCgN0Qv3g5v92NoCI) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [AMERICAN SCUMBAG](https://open.spotify.com/album/3Y943OXrJcUwOnjd0tLygn) | 3:05 | 2024-06-27 | 2024-07-05 |
 | [Amertume](https://open.spotify.com/track/5gq6AxT0hDXKkfjsupliAz) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Amertume](https://open.spotify.com/album/7q3XF5A9rc8IzGBSb6JUlX) | 3:41 | 2024-06-27 | 2024-07-05 |

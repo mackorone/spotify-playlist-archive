@@ -1,13 +1,61 @@
 {
-  "description": "The best of modern blues rock. Cover: Samantha Fish",
-  "num_followers": 234676,
+  "description": "The best of modern blues rock. Cover: Joe Bonamassa",
+  "num_followers": 234754,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAHOYQAAAAALFNtFM2pX1kYMyrVSC1eJ",
+  "snapshot_id": "aAsI6QAAAABKNwwRop16Ce1B0h9Ob4yW",
   "tracks": [
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9"
+    },
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Paper Doll",
+        "url": "https://open.spotify.com/album/0Gp2WizYQ34bXTL5vA85Fq"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 193575,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/743vRLLefFlohxNA7XRxQE"
+    },
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Big Women",
+        "url": "https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Big Women",
+      "url": "https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD"
+    },
     {
       "added_at": "2025-04-18 04:00:33",
       "album": {
@@ -31,22 +79,6 @@
       "duration_ms": 264000,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/1YypSwQhC86QYatXNrikAV"
-    },
-    {
-      "added_at": "2025-04-04 04:00:13",
-      "album": {
-        "name": "Can Ya Handle The Heat?",
-        "url": "https://open.spotify.com/album/1OVvAY4Xa0sAIPVtej7K8S"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 174430,
-      "name": "Can Ya Handle The Heat?",
-      "url": "https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP"
     },
     {
       "added_at": "2025-04-18 04:00:33",
@@ -403,22 +435,6 @@
       "duration_ms": 287666,
       "name": "Savior With A Razor (feat. Slash)",
       "url": "https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Better The Devil You Know",
-        "url": "https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 281214,
-      "name": "Better The Devil You Know",
-      "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 255071,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/0Xt2U98SY4qyd2ZTU8nOsE"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 238799,
-      "name": "She Gets Me High",
-      "url": "https://open.spotify.com/track/0H8Pm02RYzcMA5FeAVF1ZI"
     },
     {
       "added_at": "2020-10-16 04:02:00",

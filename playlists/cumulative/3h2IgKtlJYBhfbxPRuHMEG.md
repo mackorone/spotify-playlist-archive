@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Mary Droppinz
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-166 songs - 9 hr 22 min
+167 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Check This](https://open.spotify.com/track/2DIKCVLxEwCInD7apxfMVH) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Onzeker Kraft Vol\. 1.5](https://open.spotify.com/album/6jU5BRvsHFuEmIt00ePEwV) | 2:59 | 2024-07-26 | 2024-11-09 |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-12-01 |  |
 | [Collect Call \- Adventure Club Remix](https://open.spotify.com/track/4mDhR5nTFXmHdZxMBmaZrm) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Collect Call \(Adventure Club Remix\)](https://open.spotify.com/album/5SoxPgdiY1o9nlK37v6h3V) | 3:28 | 2024-04-26 | 2024-05-04 |
+| [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 | 2025-04-25 |  |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-12-01 |  |
 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4U8yrkTPcJLOfK142vcYCv) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting Remixes](https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM) | 3:34 | 2024-02-09 | 2024-11-09 |
 | [Crazy For You](https://open.spotify.com/track/57Elml5okghj2O3JfbVb8P) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Crazy For You](https://open.spotify.com/album/4X8mqO3wKWuNCLnEADDtjn) | 3:51 | 2023-12-01 |  |
@@ -58,7 +59,7 @@
 | [Digital Night Drive](https://open.spotify.com/track/4NTkICndpBrjwZLwNofVBQ) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [Digital Night Drive](https://open.spotify.com/album/0jvggA0QufnaIbh4S0as91) | 4:28 | 2024-11-29 |  |
 | [Dirty Talk](https://open.spotify.com/track/1b4WGUgsfdiJYStI6W1mo4) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [Dirty Talk](https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm) | 2:55 | 2023-12-01 | 2025-03-15 |
 | [Do It To It \- Sub Focus Remix](https://open.spotify.com/track/4z78eVQBoMHg1e4XGp4rMj) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Sub Focus Remix\)](https://open.spotify.com/album/2nHx69FlthuA68GBIjjXuP) | 3:14 | 2023-12-01 |  |
-| [Dooms Dive](https://open.spotify.com/track/4SW0IfMrQ4UuW1LMfeBChC) | [K.D.A.P.](https://open.spotify.com/artist/1NShLHrgna15CWNJAQDoom), [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Influences](https://open.spotify.com/album/42f1guaKkopBy81cZpxEA5) | 5:25 | 2023-12-01 |  |
+| [Dooms Dive](https://open.spotify.com/track/4SW0IfMrQ4UuW1LMfeBChC) | [K.D.A.P.](https://open.spotify.com/artist/1NShLHrgna15CWNJAQDoom), [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Influences](https://open.spotify.com/album/42f1guaKkopBy81cZpxEA5) | 5:25 | 2023-12-01 | 2025-04-26 |
 | [Drift](https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Drift](https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN) | 4:08 | 2023-12-01 |  |
 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 | 2025-04-19 |  |
 | [Drum Beats Go Like](https://open.spotify.com/track/4bW4m8LzKoaqwF8sCI37wn) | [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN) | [Drum Beats Go Like](https://open.spotify.com/album/0Ed341Woml6O3DJJsALmmN) | 3:36 | 2024-05-17 | 2024-11-09 |

@@ -655,6 +655,28 @@
     },
     {
       "album": {
+        "name": "Good Morning Neighbours (slowya.roll Version)",
+        "url": "https://open.spotify.com/album/6dO3NuUEwaVhyQT5TU5RcC"
+      },
+      "artists": [
+        {
+          "name": "Basement Membrane",
+          "url": "https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL"
+        },
+        {
+          "name": "Slowya.roll",
+          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316712,
+      "name": "Good Morning Neighbours - slowya.roll Version",
+      "url": "https://open.spotify.com/track/71eHv6q1iiNYi2FdJV2joi"
+    },
+    {
+      "album": {
         "name": "Club de Jazz 2",
         "url": "https://open.spotify.com/album/3LYgCnIkzryxXCS5EHLIVz"
       },
@@ -1764,7 +1786,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 184952,
       "name": "tres palmas",
       "url": "https://open.spotify.com/track/3Das5N4gqRSDDyoyxrTZpq"
@@ -1946,10 +1968,28 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 104615,
       "name": "Why they fly.",
       "url": "https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC"
+    },
+    {
+      "album": {
+        "name": "Would appear to be jazz.",
+        "url": "https://open.spotify.com/album/2tdNyBAIoCMhXwAJtAO8vH"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159021,
+      "name": "Would appear to be jazz.",
+      "url": "https://open.spotify.com/track/7zM1h1j8HCCj7y27NC0J4t"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5VmfSIoGXK2"

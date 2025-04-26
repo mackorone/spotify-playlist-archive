@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: lxni Artwork: Isu Kim\n",
-  "num_followers": 65501,
+  "num_followers": 65535,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aApgHwAAAABv1LXjKSciGVtAqGgXA376",
+  "snapshot_id": "aAsMdwAAAABcEuV7V+ei2qo9YqZW7x9i",
   "tracks": [
     {
       "added_at": "2025-04-24 16:00:31",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-04-24 16:00:31",
       "album": {
-        "name": "Gumamellow",
-        "url": "https://open.spotify.com/album/1d1aFcAhIJzWPwvU9BAhaL"
-      },
-      "artists": [
-        {
-          "name": "CIANNE",
-          "url": "https://open.spotify.com/artist/1rMEmTsfFHLTfgvyhXrZ6B"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Layag",
-      "url": "https://open.spotify.com/track/4IVsE1Pev7CeAOeXPuZ3wR"
-    },
-    {
-      "added_at": "2025-04-24 16:00:31",
-      "album": {
         "name": "Dante",
         "url": "https://open.spotify.com/album/1wHnbMqMiFSZDfHIL58uFz"
       },
@@ -87,6 +71,38 @@
       "duration_ms": 236615,
       "name": "Dante",
       "url": "https://open.spotify.com/track/2Cah9eAbelReWzXyASCDNJ"
+    },
+    {
+      "added_at": "2025-04-25 04:15:51",
+      "album": {
+        "name": "helena",
+        "url": "https://open.spotify.com/album/0ner1U2seYZmOyNDqIrhZ1"
+      },
+      "artists": [
+        {
+          "name": "Milkboyz",
+          "url": "https://open.spotify.com/artist/4tVvMedi4cpHVxaUHfwLdY"
+        }
+      ],
+      "duration_ms": 182685,
+      "name": "helena",
+      "url": "https://open.spotify.com/track/1WyYz3qCSW6kWVE6B3r69b"
+    },
+    {
+      "added_at": "2025-04-24 16:00:31",
+      "album": {
+        "name": "Gumamellow",
+        "url": "https://open.spotify.com/album/1d1aFcAhIJzWPwvU9BAhaL"
+      },
+      "artists": [
+        {
+          "name": "CIANNE",
+          "url": "https://open.spotify.com/artist/1rMEmTsfFHLTfgvyhXrZ6B"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Layag",
+      "url": "https://open.spotify.com/track/4IVsE1Pev7CeAOeXPuZ3wR"
     },
     {
       "added_at": "2025-04-24 16:00:31",
@@ -1683,22 +1699,6 @@
       "duration_ms": 190216,
       "name": "Pale Moonlight",
       "url": "https://open.spotify.com/track/6wEjh3zSBV2eQoG7l5RpZO"
-    },
-    {
-      "added_at": "2025-04-17 16:00:34",
-      "album": {
-        "name": "Love Calling",
-        "url": "https://open.spotify.com/album/2hBs7ZgmXUoHyYniIHSVcQ"
-      },
-      "artists": [
-        {
-          "name": "Uncle Bob's Funky Seven Club",
-          "url": "https://open.spotify.com/artist/0UBLpatgPJe2v1theY0ftp"
-        }
-      ],
-      "duration_ms": 297321,
-      "name": "Love Calling",
-      "url": "https://open.spotify.com/track/0N46OWZIrVmwYJo9NJ17NJ"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

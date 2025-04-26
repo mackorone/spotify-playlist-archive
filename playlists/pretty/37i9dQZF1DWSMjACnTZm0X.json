@@ -1,6 +1,6 @@
 {
   "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS?si=zB5Yt39aTUmPPs2CC5-bZg\">Summer Walker</a>, <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=ODYUO-AxRxqrQRgbMg371w\">DJ Maphorisa</a>, <a href=\"https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i?si=MPQG0uQrSCOrK8C4NUjq9w\">Xduppy</a>",
-  "num_followers": 17872,
+  "num_followers": 17873,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,38 @@
     {
       "added_at": "2025-04-24 22:00:45",
       "album": {
+        "name": "Yebo",
+        "url": "https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        }
+      ],
+      "duration_ms": 263683,
+      "name": "Yebo",
+      "url": "https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
         "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
         "url": "https://open.spotify.com/album/6KH9tRewOOHORoyJanRN0e"
       },
@@ -887,38 +919,6 @@
       "duration_ms": 358550,
       "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
-    },
-    {
-      "added_at": "2025-04-24 22:00:45",
-      "album": {
-        "name": "Yebo",
-        "url": "https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0"
-      },
-      "artists": [
-        {
-          "name": "TxC",
-          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Djy Biza",
-          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
-        },
-        {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
-        }
-      ],
-      "duration_ms": 263683,
-      "name": "Yebo",
-      "url": "https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB"
     },
     {
       "added_at": "2025-04-24 22:00:45",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-04-24 22:00:45",
       "album": {
-        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 172628,
-      "name": "Awuke",
-      "url": "https://open.spotify.com/track/34tPKVY4UNq8kkR3OKhAGk"
-    },
-    {
-      "added_at": "2025-04-24 22:00:45",
-      "album": {
         "name": "A king was Born",
         "url": "https://open.spotify.com/album/1u7owfhVuxJfEkOyjMcl0o"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 322403,
       "name": "Yey 2.0",
       "url": "https://open.spotify.com/track/3HgddH7pSKltHv2FQ6XViy"
+    },
+    {
+      "added_at": "2025-04-24 22:00:45",
+      "album": {
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/34tPKVY4UNq8kkR3OKhAGk"
     }
   ],
   "unique_name": "Amapiano to the World",

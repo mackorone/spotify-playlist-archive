@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Men I Trust
+> La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,597 likes - 101 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,603 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Landkeeper](https://open.spotify.com/track/199B05lG6hBgawhiiY12Ct) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 3:44 |
-| 2 | [Beaux yeux](https://open.spotify.com/track/10JgZbQ9rStUkJcUB0SY5R) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Beaux yeux](https://open.spotify.com/album/71vGN5WKF17AZOuJA5BKpT) | 2:20 |
-| 3 | [Ari](https://open.spotify.com/track/6pE3yQ8dBQNDOdUs7dMnsa) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [Ari](https://open.spotify.com/album/6oW6cEZMm901BlM7CznAtI) | 2:26 |
-| 4 | [Fixe](https://open.spotify.com/track/0Ytu2GKTYlI2Gu32AYK1P4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages III](https://open.spotify.com/album/0O8l1A1rZ2TO5eZ3wqjPoU) | 2:55 |
+| 1 | [I.W.Y.B.](https://open.spotify.com/track/67C2lngm6JPNsKTprUz3KO) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:14 |
+| 2 | [The Landkeeper](https://open.spotify.com/track/199B05lG6hBgawhiiY12Ct) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 3:44 |
+| 3 | [Beaux yeux](https://open.spotify.com/track/10JgZbQ9rStUkJcUB0SY5R) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Beaux yeux](https://open.spotify.com/album/71vGN5WKF17AZOuJA5BKpT) | 2:20 |
+| 4 | [Ari](https://open.spotify.com/track/6pE3yQ8dBQNDOdUs7dMnsa) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [Ari](https://open.spotify.com/album/6oW6cEZMm901BlM7CznAtI) | 2:26 |
 | 5 | [Rouge Blanc](https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Rouge Blanc](https://open.spotify.com/album/6bfCe5L8ncyo5vbGat4o3Z) | 3:19 |
 | 6 | [PROLLY US](https://open.spotify.com/track/0MrC4TPiI18N38Ga7Cl4qO) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Chèlbè](https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p) | 2:31 |
 | 7 | [Too Much](https://open.spotify.com/track/2FZ2Mz0gZHQkwYP8yJ2bqs) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Star People](https://open.spotify.com/album/42MsLv5bRCtL7fnZuilczx) | 2:46 |
-| 8 | [Prière quotidienne](https://open.spotify.com/track/6FtHH6oqAz7G5swH7kvYyw) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:23 |
-| 9 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 |
-| 10 | [Chérie](https://open.spotify.com/track/7jpaoqNDH8X6bLdLPpcXG0) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Vésuve](https://open.spotify.com/album/1qqDZpdmL5miAVBYOWiNds) | 4:40 |
-| 11 | [Fiou](https://open.spotify.com/track/27IRQ055RStNgQshuVR7yx) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Fiou \- Chronique d'une vie de merde](https://open.spotify.com/album/37hElmGl09vwW226nnA97R) | 2:49 |
-| 12 | [I.W.Y.B.](https://open.spotify.com/track/67C2lngm6JPNsKTprUz3KO) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:14 |
+| 8 | [Fixe](https://open.spotify.com/track/0Ytu2GKTYlI2Gu32AYK1P4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages III](https://open.spotify.com/album/0O8l1A1rZ2TO5eZ3wqjPoU) | 2:55 |
+| 9 | [Prière quotidienne](https://open.spotify.com/track/6FtHH6oqAz7G5swH7kvYyw) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:23 |
+| 10 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 |
+| 11 | [Chérie](https://open.spotify.com/track/7jpaoqNDH8X6bLdLPpcXG0) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Vésuve](https://open.spotify.com/album/1qqDZpdmL5miAVBYOWiNds) | 4:40 |
+| 12 | [Fiou](https://open.spotify.com/track/27IRQ055RStNgQshuVR7yx) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Fiou \- Chronique d'une vie de merde](https://open.spotify.com/album/37hElmGl09vwW226nnA97R) | 2:49 |
 | 13 | [Hearts Working Overtime](https://open.spotify.com/track/6UxS0LH8kL3UQ91QTQjw01) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Hearts Working Overtime](https://open.spotify.com/album/5eA3zrRbb9OiyQc9YValBm) | 3:00 |
 | 14 | [La montagne](https://open.spotify.com/track/06EJqWXMilZGmSrHApSs4e) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Du soleil dans l’oeil](https://open.spotify.com/album/4WaP4xIVuZcUhJM2yXCdIe) | 3:26 |
 | 15 | [Waterloo](https://open.spotify.com/track/5kDJT0508bFo7SavgVdrmQ) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Waterloo](https://open.spotify.com/album/2agLSCe0DyK5e6hAuTMai1) | 2:51 |
@@ -108,6 +108,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 98 | [Celui qui attend](https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Baloney suicide](https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b) | 2:02 |
 | 99 | [Seul](https://open.spotify.com/track/2peGnmfed1wADMPsG05EGo) | [Chapeaux pointus](https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt) | [Seul](https://open.spotify.com/album/05qQ20faez845KfgBMURfG) | 3:46 |
 | 100 | [Coca Cola](https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Coca cola](https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t) | 4:06 |
-| 101 | [SOFT LIFE](https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [SOFT LIFE](https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH) | 3:25 |
 
-Snapshot ID: `aAHOawAAAAAyN83L6+HK6+JXgWrCMOoO`
+Snapshot ID: `aAsI5wAAAABTu0laznM7IL1c8YzG1Hw0`

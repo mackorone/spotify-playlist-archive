@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-123 songs - 9 hr 5 min
+126 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Freak\-a\-Zoid](https://open.spotify.com/track/42UpH9fz5utv8tkvOgh5Qb) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [No Parking on the Dance Floor](https://open.spotify.com/album/67v1yz3SGvFEnQeTO8H6jP) | 8:05 | 2020-09-18 |  |
 | [Freak\-A\-Zoid \- Reboot](https://open.spotify.com/track/5p1qlJbZVirHNJbNzwG6Zy) | [Calloway](https://open.spotify.com/artist/3MKSm2U72NzNdxRjMhzyHh) | [Freak\-A\-Zoid \(Reboot\)](https://open.spotify.com/album/5l3bOFkCwff9VtB5CF04F4) | 2:12 | 2025-03-21 |  |
 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 | 2020-09-18 |  |
+| [Funk U Want \- Radio Mix](https://open.spotify.com/track/2e86TLBFqtJ832t8ej4Zvy) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [Funk U Want](https://open.spotify.com/album/2yWMpygjzrNyWwhMvtp9zo) | 2:47 | 2025-04-25 |  |
 | [Funkadelic Sound](https://open.spotify.com/track/6EqhL2LqkxKvl238nvt3rK) | [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My Time](https://open.spotify.com/album/2WmBBecj0WTxRe1rAvraxG) | 3:22 | 2020-09-18 |  |
 | [Funkadelic Sound](https://open.spotify.com/track/4Nh2oQHhRcVy16qYbRQ2Fw) | [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My Time](https://open.spotify.com/album/0m5koUYDRGH9y53Kv9v9kV) | 3:22 | 2020-09-18 | 2024-04-19 |
 | [Gangsta Boogaloos Theme](https://open.spotify.com/track/6RQWNvjlYtkaOhvyeho5EO) | [The Sleepers RecordZ](https://open.spotify.com/artist/7t71EyKcDTtGXsmxvb9aRM), [Swan](https://open.spotify.com/artist/4086cCCZGcWiIaReEpe7aO) | [The Way of Street Dance, Vol.2](https://open.spotify.com/album/5gSqPcXEzKlwANSYylkxU0) | 4:02 | 2020-09-18 | 2024-04-19 |
@@ -83,6 +84,7 @@
 | [More Than A Lover \- Remix](https://open.spotify.com/track/0YzS2vJwkzvoHHhjCzbNx2) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Help 2.0](https://open.spotify.com/album/3uAuno5UPTQSyRUOEYwxS2) | 3:21 | 2020-09-18 | 2024-04-19 |
 | [More Than a Lover Remix \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/2Hkikbq9geAVPYcSg740p1) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Help 2.0](https://open.spotify.com/album/6ovRbwijSiDwYB8H5eg52M) | 3:21 | 2020-09-18 |  |
 | [Music Sounds Better With You](https://open.spotify.com/track/7kn8s9JWYb8SyQkxiww9Kb) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Music Sounds Better With You](https://open.spotify.com/album/7ggrCSNzeqPGUgdc11WTKn) | 3:21 | 2023-02-03 |  |
+| [Nasty Disco](https://open.spotify.com/track/1JQaE58p6cHyJsSqG3YP8h) | [Da Lukas](https://open.spotify.com/artist/20yglF8snDfJjVnkEHSOtP) | [Nasty Disco](https://open.spotify.com/album/7JiA2zOWxg41xzwWemozIU) | 7:07 | 2025-04-25 |  |
 | [Not Into You](https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/5JG9GZ1BSc223HhQAAHbCX) | 2:37 | 2022-01-26 |  |
 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 | 2020-09-18 |  |
 | [One in a Million](https://open.spotify.com/track/6SJE4fUu2kzFYedVrBYYDE) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [One in a Million](https://open.spotify.com/album/225DEm4UQydHlN3xIhmiBU) | 2:46 | 2024-08-09 |  |
@@ -114,6 +116,7 @@
 | [Time Runners](https://open.spotify.com/track/7cHpy9RziRJcB7sJzkVl3G) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Spectrum](https://open.spotify.com/album/37kg8ppSvrlXOR88u2fvNB) | 4:21 | 2020-09-18 |  |
 | [Too Late](https://open.spotify.com/track/463ciDPJsnDzuzEqnsU63c) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Voyage 1](https://open.spotify.com/album/5bRcZmrU98mH2ii0vbSPqV) | 3:09 | 2022-07-08 |  |
 | [Treasure \- Cover](https://open.spotify.com/track/7e0QtmkcaWUZMKZ1vV2VnS) | [Neighbors Complain](https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT) | [Made in Street 2 \(Live Covers\)](https://open.spotify.com/album/31I6U15zlGiCa4OC82JZxe) | 4:23 | 2021-11-26 |  |
+| [U know It's Real \(feat\. MKY & MC Magic\)](https://open.spotify.com/track/6EfwUqfYp8vbpjTSwlJpm1) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX), [MC Magic](https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1) | [U Know It's Real \(feat\. MKY & MC Magic\)](https://open.spotify.com/album/6wAb5vCCOnmW8q50hIl9VK) | 3:39 | 2025-04-25 |  |
 | [Waste Your Heart](https://open.spotify.com/track/0rhaAXJdGr3Xx5tXJXWbmY) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Waste Your Heart](https://open.spotify.com/album/6pRKFEApm5Dvx1pfjqdhKo) | 5:26 | 2024-08-23 |  |
 | [We are the Jonzun Crew](https://open.spotify.com/track/47P4iI2RAFDY2WqK7h9iUN) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/2kdKsa0iKJ98bOBSAKpgJp) | 6:23 | 2020-09-18 |  |
 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 | 2020-09-18 | 2024-04-19 |

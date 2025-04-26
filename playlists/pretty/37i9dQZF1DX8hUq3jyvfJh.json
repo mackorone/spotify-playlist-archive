@@ -1,6 +1,6 @@
 {
   "description": "Escute Rachel Reis e mais mulheres incr\u00edveis no volume m\u00e1ximo! co-curada por Rachel Reis.",
-  "num_followers": 188761,
+  "num_followers": 188753,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-04-02 18:05:28",
       "album": {
+        "name": "Megalomania",
+        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 159637,
+      "name": "Pelo Avesso",
+      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
+    },
+    {
+      "added_at": "2025-04-02 18:05:28",
+      "album": {
         "name": "Feij\u00e3o Com Arroz",
         "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2025-04-02 18:05:28",
       "album": {
-        "name": "Megalomania",
-        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 159637,
-      "name": "Pelo Avesso",
-      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
-    },
-    {
-      "added_at": "2025-04-02 18:05:28",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-04-02 18:05:28",
       "album": {
-        "name": "Ensolarada",
-        "url": "https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7"
-      },
-      "artists": [
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 175659,
-      "name": "Ensolarada",
-      "url": "https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd"
-    },
-    {
-      "added_at": "2025-04-02 18:05:28",
-      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 190133,
       "name": "Saudosismo",
       "url": "https://open.spotify.com/track/6rMp4peGqo1zaT8ErytHgd"
+    },
+    {
+      "added_at": "2025-04-02 18:05:28",
+      "album": {
+        "name": "Ensolarada",
+        "url": "https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 175659,
+      "name": "Ensolarada",
+      "url": "https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd"
     },
     {
       "added_at": "2025-04-02 18:05:28",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Luis Alfonso Partida El Yaki, Jessie Uribe",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Alejandro Fern\u00e1ndez ",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 233000,
       "name": "Adoro - En Vivo",
       "url": "https://open.spotify.com/track/3Xvs9kdtHg54DU2BGZyl32"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 137506,
       "name": "Aguanta Corazon",
       "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 243174,
       "name": "Andamos Borrachos Todos (En Vivo)",
       "url": "https://open.spotify.com/track/26RIz2v42u2m0lsozLMq0p"
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
@@ -1594,6 +1594,28 @@
       "duration_ms": 176000,
       "name": "Con Tu Imagen - En Vivo",
       "url": "https://open.spotify.com/track/5FCYH1HTFDUx9P1wArWQTd"
+    },
+    {
+      "album": {
+        "name": "Con Zapatos De Tac\u00f3n / Rebota (En Vivo)",
+        "url": "https://open.spotify.com/album/0XUZOgp5BinYccLCt4AqtO"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252076,
+      "name": "Con Zapatos De Tac\u00f3n / Rebota - En Vivo",
+      "url": "https://open.spotify.com/track/1uiZfhwVqhy4c8IqZ4szGJ"
     },
     {
       "album": {
@@ -1888,7 +1910,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 262597,
       "name": "C\u00f3mo Este Loco (En Vivo)",
       "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
@@ -2113,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "Desvelado (En Vivo)",
+        "url": "https://open.spotify.com/album/6LJAgDBVTLgv5YFyX7uCbs"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326253,
+      "name": "Desvelado - En Vivo",
+      "url": "https://open.spotify.com/track/22ygsTxbazCWHhloEsEFU7"
+    },
+    {
+      "album": {
         "name": "Dile a Tu Orgullo (En Vivo)",
         "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
       },
@@ -2234,7 +2278,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 245183,
       "name": "Due\u00f1o De Ti - En vivo",
       "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
@@ -2256,6 +2300,24 @@
       "duration_ms": 187143,
       "name": "Edgar Guzman - En Vivo",
       "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde California",
+        "url": "https://open.spotify.com/album/7C2SOT6noxXEf0vGrhC2Iy"
+      },
+      "artists": [
+        {
+          "name": "La Reunion Nortena",
+          "url": "https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137160,
+      "name": "Ego\u00edsta - En Vivo",
+      "url": "https://open.spotify.com/track/1ABvqI9uaaCD48cR6wuWUe"
     },
     {
       "album": {
@@ -2982,7 +3044,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 173250,
       "name": "El Comando del Diablo - En Vivo",
       "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
@@ -3040,7 +3102,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 184874,
       "name": "El Corrido Del Piyi (LDLG)",
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
@@ -3675,6 +3737,28 @@
     },
     {
       "album": {
+        "name": "El Muchacho Alegre (En Vivo)",
+        "url": "https://open.spotify.com/album/3sbKyXJmvGxhzyVyXJOZUl"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183293,
+      "name": "El Muchacho Alegre (En Vivo)",
+      "url": "https://open.spotify.com/track/5Be3wsPCaICO4AVggp9ZuM"
+    },
+    {
+      "album": {
         "name": "Morir y Existir En Vivo",
         "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
@@ -3966,6 +4050,42 @@
       "duration_ms": 159390,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
+    },
+    {
+      "album": {
+        "name": "Desde El Rancho (En Vivo)",
+        "url": "https://open.spotify.com/album/0oJhCKiGVH2O3hKkUKTZaI"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226899,
+      "name": "El Reniego - En Vivo",
+      "url": "https://open.spotify.com/track/6v5uRKeNKMkZCJIbs980GY"
+    },
+    {
+      "album": {
+        "name": "De Rey A Rey (En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024)",
+        "url": "https://open.spotify.com/album/4C6CdEZgz7f80AoFvYMYib"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171365,
+      "name": "El Rey - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
+      "url": "https://open.spotify.com/track/5a1K8Y2DUYBtfsCnmpIhaX"
     },
     {
       "album": {
@@ -4542,7 +4662,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 285099,
       "name": "En Peligro De Extinci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/05XsyYp1IcgytBG4YLCceR"
@@ -4568,6 +4688,24 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+    },
+    {
+      "album": {
+        "name": "Entre Caballos y Corrales (En Vivo)",
+        "url": "https://open.spotify.com/album/7hSR3H3oXuTQF2O3CCUigg"
+      },
+      "artists": [
+        {
+          "name": "Pancho Uresti",
+          "url": "https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130570,
+      "name": "Entre Caballos y Corrales - En Vivo",
+      "url": "https://open.spotify.com/track/26tcOqeFwDZemUtirkqDqC"
     },
     {
       "album": {
@@ -4662,7 +4800,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 203066,
       "name": "Eres un encanto - En vivo",
       "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
@@ -5008,7 +5146,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 160501,
       "name": "Gente Del Flaco (En Vivo)",
       "url": "https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM"
@@ -5280,7 +5418,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 187205,
       "name": "Innecesario (En Vivo)",
       "url": "https://open.spotify.com/track/52PWWFebDtCFyInPfDCKqT"
@@ -5484,6 +5622,24 @@
       "duration_ms": 161075,
       "name": "Kikil Caro - En Vivo",
       "url": "https://open.spotify.com/track/2oQSkBN2ug0pLvOkHqtt3J"
+    },
+    {
+      "album": {
+        "name": "Kikil Caro (En Vivo)",
+        "url": "https://open.spotify.com/album/4Rd4iC3UKogidcojXdw3BF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140074,
+      "name": "Kikil Caro - En Vivo",
+      "url": "https://open.spotify.com/track/2gcJ3i0yKAVxo6iJBUH5Ws"
     },
     {
       "album": {
@@ -5712,6 +5868,24 @@
       "duration_ms": 182984,
       "name": "La Cosecha del Charapo - En Vivo",
       "url": "https://open.spotify.com/track/5VrzZPIqU2NNPtZLTQTzc1"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Jap\u00f3n",
+        "url": "https://open.spotify.com/album/4FiBgMRgQyISIGjRnns2Zk"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195318,
+      "name": "La Culebra - En Vivo",
+      "url": "https://open.spotify.com/track/2MVXJYMd4CKYTRpAhVj2vT"
     },
     {
       "album": {
@@ -7164,7 +7338,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 163877,
       "name": "Margarita Margarita (En Vivo)",
       "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
@@ -7784,6 +7958,24 @@
       "duration_ms": 162500,
       "name": "No Me Falten Al Respeto (En Vivo)",
       "url": "https://open.spotify.com/track/3emzOQZynRBtP3DVFg8xJA"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Fuerte Sinaloa",
+        "url": "https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "No Mencionan - En Vivo",
+      "url": "https://open.spotify.com/track/34HBavLUR8qMkjk5hBGW1x"
     },
     {
       "album": {
@@ -8457,6 +8649,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde El Rancho 2",
+        "url": "https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237749,
+      "name": "Que Lloro - En Vivo",
+      "url": "https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh"
+    },
+    {
+      "album": {
         "name": "Despegando el Vuelo (En vivo)",
         "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
       },
@@ -8574,6 +8784,28 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
+        "name": "De Los Cuentos De Verdad (En Vivo)",
+        "url": "https://open.spotify.com/album/7IoVArEUqmY8vQQyecsXRG"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179114,
+      "name": "Quiero Brillar - En Vivo",
+      "url": "https://open.spotify.com/track/6e84rgR4vlwl5ICUUUVb0f"
     },
     {
       "album": {
@@ -8708,7 +8940,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 176089,
       "name": "Rosones - En Vivo",
       "url": "https://open.spotify.com/track/6TVycsgDIVIEaQZORMnA4G"
@@ -8744,7 +8976,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 194634,
       "name": "Se Cans\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
@@ -8969,6 +9201,24 @@
     },
     {
       "album": {
+        "name": "Si Yo Fuera Ladr\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/0VgIRWUIwvZJgDinnixYRG"
+      },
+      "artists": [
+        {
+          "name": "Danny Morales",
+          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Si Yo Fuera Ladr\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/5EIY8y9cSOuJAWp8eV8Kcb"
+    },
+    {
+      "album": {
         "name": "Duetos Del Rancho Para El Mundo",
         "url": "https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0"
       },
@@ -9174,6 +9424,24 @@
       "duration_ms": 293000,
       "name": "Son las dos de la ma\u00f1ana/ Piquetes de hormiga",
       "url": "https://open.spotify.com/track/1Xm6yUpCiLGWO0FX7zwoyq"
+    },
+    {
+      "album": {
+        "name": "Sonrisa de Revista (En Vivo)",
+        "url": "https://open.spotify.com/album/5AyTIGp5wpK35aXumRWIcj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170780,
+      "name": "Sonrisa de Revista (En Vivo)",
+      "url": "https://open.spotify.com/track/44LMHPEirwRVvMNINyBd9d"
     },
     {
       "album": {
@@ -9610,6 +9878,24 @@
       "duration_ms": 182181,
       "name": "Traketeando - En Vivo",
       "url": "https://open.spotify.com/track/6hKJLUCgTWYt989CLMbxOW"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Jap\u00f3n",
+        "url": "https://open.spotify.com/album/3B3F4aBBUJbiky3m8C3g7p"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336192,
+      "name": "Triste Recuerdo / Te Ofrezco Un Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/5g24cf34NdPK5fPi9eQDh3"
     },
     {
       "album": {

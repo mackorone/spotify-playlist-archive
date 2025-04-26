@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Yoona Kim
 
-2,037 songs - 4 day 23 hr 26 min
+2,038 songs - 4 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1367,6 +1367,7 @@
 | [Rolling](https://open.spotify.com/track/6Avp5CoeXEzoaE1jpbhLSs) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA) | [Rolling](https://open.spotify.com/album/49iXXCdyYpKulqDp3BbOBi) | 3:11 | 2022-02-07 | 2022-02-15 |
 | [Rolling](https://open.spotify.com/track/7lCIPZCXGkm7xXRRLUwn14) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA) | [Rolling](https://open.spotify.com/album/4iB73n0vVBKhMHK32GtYHc) | 3:11 | 2022-02-14 | 2023-01-06 |
 | [rooftop](https://open.spotify.com/track/05GPwXksBDtLJD05kOATdE) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [rooftop](https://open.spotify.com/album/6eaeLYUT6KEBL4oMVHjIkf) | 3:32 | 2022-08-26 | 2022-09-01 |
+| [Rose Colored Glasses](https://open.spotify.com/track/3CKTjDs1ikibda8PAQMG9n) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [Rose Colored Glasses](https://open.spotify.com/album/59v2P8oQIFdycGKdSLM4Fp) | 3:41 | 2025-04-24 |  |
 | [ROTTEN PAST](https://open.spotify.com/track/0l4d906zMtqjwqgxTScrxx) | [Yung Sir](https://open.spotify.com/artist/5h8dcWamwJV3pclqPD9bs1), [Tảo](https://open.spotify.com/artist/4OLVT2ze3KQevQ1Qa8RULp) | [ROTTEN PAST](https://open.spotify.com/album/3oO5tGCMBDjZUOjVuvH3gv) | 3:17 | 2022-06-22 | 2022-07-01 |
 | [RUA TIEN](https://open.spotify.com/track/3vblOvivOpXOC50gwDYgog) | [Anh Rồng](https://open.spotify.com/artist/6QwHC6CRkFfpwGYEzFsTsK) | [RUA TIEN](https://open.spotify.com/album/2mrwt9q0FTElDGtefINkQy) | 2:38 | 2024-08-06 | 2024-08-23 |
 | [Run Dis Street 2](https://open.spotify.com/track/6xVV6favDPwygLsKhrL7kP) | [Vsplifff](https://open.spotify.com/artist/0VoZgCD5fTS8JDmMPu0bX3), [MinhLai](https://open.spotify.com/artist/3L2ohE2NX2W5hAauL16VuQ), [Pineradise](https://open.spotify.com/artist/6HvmfMAIgsbkg9u9KE3Zut) | [Run Dis Street 2](https://open.spotify.com/album/2NhwwkyEVfPr9U3tl102aP) | 2:34 | 2023-10-03 | 2023-11-13 |

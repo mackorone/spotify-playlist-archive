@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 220733,
       "name": "2080",
       "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 143315,
       "name": "At Night (feat. Kuzi)",
       "url": "https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK"
@@ -372,6 +372,28 @@
       "duration_ms": 199920,
       "name": "Be there",
       "url": "https://open.spotify.com/track/7k9sKYkyH1wLeOVC3C5zsa"
+    },
+    {
+      "album": {
+        "name": "One Bad Night",
+        "url": "https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "Bedtime Story (feat. GEMINI)",
+      "url": "https://open.spotify.com/track/0dx3adSBZqWmGGcgNxxSiA"
     },
     {
       "album": {
@@ -896,7 +918,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 210893,
       "name": "Cry For Love",
       "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
@@ -2390,7 +2412,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
@@ -2430,7 +2452,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 201510,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
@@ -2718,6 +2740,28 @@
       "duration_ms": 144750,
       "name": "Lost (Feat. Chan)",
       "url": "https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
       "album": {
@@ -3712,7 +3756,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 168093,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y"

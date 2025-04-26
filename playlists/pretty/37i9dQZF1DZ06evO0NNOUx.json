@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 84725,
+  "num_followers": 85164,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAgtgAAAAACePPqPw3+np9sittMpctuj",
+  "snapshot_id": "aAl/AAAAAAD5ORva1Zg53kljCZAAkegV",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALL THE TIME",
-        "url": "https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "ALL THE TIME",
-      "url": "https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven On My Mind (with Forrest Frank)",
         "url": "https://open.spotify.com/album/2WoMWt180K0lhKten85CfK"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 181590,
       "name": "Heaven On My Mind (with Forrest Frank)",
       "url": "https://open.spotify.com/track/6CfSsoolc9zgQRyMLddP3L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nostalgia Pack",
+        "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        }
+      ],
+      "duration_ms": 207017,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/58ijtNiLXPW6d24WmoMCAP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BEAUTIFUL AS EVER",
         "url": "https://open.spotify.com/album/1S0dSacfIUmAoJOqRXe1GY"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 225888,
       "name": "BEAUTIFUL AS EVER",
       "url": "https://open.spotify.com/track/3sJVDXa0efAR4Eykjw75j5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nostalgia Pack",
-        "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        }
-      ],
-      "duration_ms": 207017,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/58ijtNiLXPW6d24WmoMCAP"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8"
-      },
-      "artists": [
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nostalgia Pack",
         "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 206194,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/5KKzX8oO0W8K93M4is7wqO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8"
+      },
+      "artists": [
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0"
     },
     {
       "added_at": null,

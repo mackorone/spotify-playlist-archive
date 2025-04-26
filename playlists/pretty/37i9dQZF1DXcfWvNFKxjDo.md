@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Caro van Ee
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,327 likes - 96 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,493 likes - 96 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

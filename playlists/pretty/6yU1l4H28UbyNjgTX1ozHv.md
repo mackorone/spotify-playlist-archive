@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,060 likes - 137 songs - 7 hr 18 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,062 likes - 137 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 22 | [I'm Yours \- Acoustic](https://open.spotify.com/track/5BAzqh3hnJxerXAANSYTle) | [Gavern](https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt) | [I'm Yours \(Acoustic\)](https://open.spotify.com/album/4FHbQeG5jGIlIWzvxIkimh) | 2:22 |
 | 23 | [Nothing's Gonna Stop Us Now \- Acoustic](https://open.spotify.com/track/24RPVHtPO71yC3TPPJlYBs) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Nothing's Gonna Stop Us Now \(Acoustic\)](https://open.spotify.com/album/140HsR9epNAx6aHV2S936F) | 3:07 |
 | 24 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 |
-| 25 | [Don't Dream It's Over](https://open.spotify.com/track/4VFM638fhpRTmkyJ69fSWE) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Don't Dream It's Over](https://open.spotify.com/album/5rxtBTtwKhso4luWXRjj8t) | 3:27 |
+| 25 | [Drops of Jupiter](https://open.spotify.com/track/6tq7RIjiez8WkGE9LVFfPF) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Drops of Jupiter](https://open.spotify.com/album/4HiTD3yyQzgjbacLpZI4mN) | 3:38 |
 | 26 | [Viva La Vida \- Acoustic](https://open.spotify.com/track/5MglzGLNOwOhQkOyk95Fg9) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Viva La Vida \(Acoustic\)](https://open.spotify.com/album/7H9o1ODOGd05qUVRz2N7zl) | 2:53 |
 | 27 | [Let's Stay Together \- Acoustic](https://open.spotify.com/track/2BUbXK85KECrYtSWEzoxFM) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Let's Stay Together \(Acoustic\)](https://open.spotify.com/album/1YfNCzcnrr7nbQGvttzpkb) | 3:02 |
 | 28 | [Say Something \- Live from Spotify NYC](https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Spotify Sessions](https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t) | 4:03 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 38 | [Halo \- Acoustic](https://open.spotify.com/track/4TOYAE8zIoTnPGbgLiErwq) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Halo \(Acoustic\)](https://open.spotify.com/album/4l2YP0vLmML7jh34CvRzGn) | 3:24 |
 | 39 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 |
 | 40 | [Lovely Day \- Acoustic Live Session](https://open.spotify.com/track/01pPSz0tquPLuIze7UHjsd) | [Rosie Holloway](https://open.spotify.com/artist/4eWiocR8XDrooQ0LAMMV3m), [STABAL](https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf) | [Lovely Day \(Acoustic Live Session\)](https://open.spotify.com/album/3HDbFrRgCE6MHA4jWXZLDi) | 2:47 |
-| 41 | [You Are Not Alone \- Acoustic](https://open.spotify.com/track/4uHUIPYbU9ZFXnPcKYwPRv) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Are Not Alone \(Acoustic\)](https://open.spotify.com/album/0Q1migL2N2PEP3nAR57vTy) | 2:24 |
+| 41 | [When You Tell Me That You Love Me \- Acoustic](https://open.spotify.com/track/4A2x6Jg0wWWGWuJlfxAEtb) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [When You Tell Me That You Love Me \(Acoustic\)](https://open.spotify.com/album/3thN2aaHH4brFr3qq8hshH) | 3:10 |
 | 42 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 |
 | 43 | [Drops of Jupiter \- Acoustic](https://open.spotify.com/track/41Mw2D2PZpuIBGbAwQOE5L) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Drops of Jupiter \(Acoustic\)](https://open.spotify.com/album/1Ezpx8ekXRMKbhREQ0lnKq) | 2:49 |
 | 44 | [Against All Odds \- Acoustic](https://open.spotify.com/track/0Y1KPA4rxDDgbupSjHJyGe) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Against All Odds \(Acoustic\)](https://open.spotify.com/album/1eE0hgn59NGe5auS2kRQO0) | 3:17 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 136 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 137 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAFyv63Nt+dhgTHQ1vmDL1YuX/JMMEQ`
+Snapshot ID: `AAAFzqTdqV5DGS9Sv/lsaahbHK/wSSpr`

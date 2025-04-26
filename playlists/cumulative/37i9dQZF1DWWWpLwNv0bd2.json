@@ -4745,6 +4745,32 @@
     },
     {
       "album": {
+        "name": "Pollatha Paarvai (From \"Kadukka\")",
+        "url": "https://open.spotify.com/album/2NSQvRHJde8FXtvaEXFWiB"
+      },
+      "artists": [
+        {
+          "name": "Kevin D'costa",
+          "url": "https://open.spotify.com/artist/11m2LnJnChht9JbeiRIAmv"
+        },
+        {
+          "name": "Nilavai Parthiban",
+          "url": "https://open.spotify.com/artist/76DgiC0BO4ZBx7dM5EVbEt"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225170,
+      "name": "Pollatha Paarvai (From \"Kadukka\")",
+      "url": "https://open.spotify.com/track/5scqH3Hlnls7VnylMdbmbN"
+    },
+    {
+      "album": {
         "name": "Aneethi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2u1lMoLC0x8N06974LzwwB"
       },
@@ -5316,7 +5342,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 260134,
       "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
       "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"

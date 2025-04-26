@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: SENNA
 
-449 songs - 1 day 1 hr 42 min
+450 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [6 Inch LED Screen](https://open.spotify.com/track/0PRxZfA5bUIRiHCEWPVXpM) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [6 Inch LED Screen](https://open.spotify.com/album/0lzOXZ0ywI0G4NowpURSrf) | 2:40 | 2024-08-19 | 2024-08-23 |
 | [60 Ways to Forget People](https://open.spotify.com/track/0x5gbbBiPs9pr6gMLgrerX) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [60 Ways to Forget People](https://open.spotify.com/album/6ee6HzKPVb3JSkqavLMwIR) | 2:47 | 2025-04-17 | 2025-04-25 |
 | [7 Minutes in Hell](https://open.spotify.com/track/0n59ZBDoWijyJezvnA13cl) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [7 Minutes in Hell](https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX) | 3:06 | 2024-07-18 | 2025-04-14 |
+| [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 | 2025-04-25 |  |
 | [A Brand New God](https://open.spotify.com/track/1tMJAI8SdpPee1dG1eFUVb) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [BAD STAR](https://open.spotify.com/album/0RPj9cZzlISaA1b6JJrUrr) | 3:32 | 2025-04-24 |  |
 | [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 | 2024-06-27 | 2025-01-11 |
 | [About You Now](https://open.spotify.com/track/0SOlypW312QaAxErOZRw4A) | [Catapults](https://open.spotify.com/artist/1kgH8UtIKcjH6fuUj1DnFG) | [About You Now](https://open.spotify.com/album/1MfjEpJmDyCJxA970kyy5U) | 3:50 | 2024-07-25 | 2024-08-02 |
@@ -167,7 +168,7 @@
 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 | 2024-06-27 | 2025-04-23 |
 | [Glow](https://open.spotify.com/track/5zNuAohaWACcMlA8EXXnnW) | [APOC](https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN) | [Glow](https://open.spotify.com/album/1QWbceyYYltrC8dsEGaOEg) | 3:26 | 2024-10-03 | 2024-10-11 |
 | [God Gets You Back](https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [God Gets You Back](https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD) | 6:40 | 2024-09-19 | 2024-09-27 |
-| [Gods Of Rock N Roll](https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Gods Of Rock N Roll](https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf) | 5:16 | 2025-02-13 |  |
+| [Gods Of Rock N Roll](https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Gods Of Rock N Roll](https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf) | 5:16 | 2025-02-13 | 2025-04-26 |
 | [GOING PLACES](https://open.spotify.com/track/6Cg9KS7mamFAA0UYrlnLYI) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [GOING PLACES](https://open.spotify.com/album/6TyCueMW56lTdTihls5zVY) | 2:56 | 2024-09-12 | 2024-09-20 |
 | [Going Under](https://open.spotify.com/track/595wNiuyUoaBsGY4lIm7WI) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Going Under](https://open.spotify.com/album/39sTquleWB80szwh7NY5MI) | 2:19 | 2024-11-28 | 2024-12-06 |
 | [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 | 2024-10-10 | 2024-11-01 |

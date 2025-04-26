@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\.  ELENA ROSE, Camilo & Los Ángeles Azules.
 
-3,754 songs - 9 day 1 hr 11 min
+3,755 songs - 9 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [BANDIDO](https://open.spotify.com/track/5aQtcr0PfEtk4FZCz5rLdV) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [BANDIDO](https://open.spotify.com/album/4Uxwy5W4okv49Oe7qXI2Wq) | 4:14 | 2023-07-14 | 2023-08-19 |
 | [Bandido](https://open.spotify.com/track/0MMS8TSvVyKk4SASvX5tUl) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi), [El Galle](https://open.spotify.com/artist/7oS04sb6dK1Xf4nE8BUxmV), [KE Animal](https://open.spotify.com/artist/5M5D3L2jhAPqEGktl9jdAJ) | [Bandido](https://open.spotify.com/album/4FpmgQ11oIhxv7RC9G3AdK) | 3:41 | 2022-10-14 | 2022-10-29 |
 | [Barbie Truchita](https://open.spotify.com/track/4XM3SxTK3a2FPRp9CxCjB1) | [Nandy Versátil](https://open.spotify.com/artist/3GwoCpFbjTgpIVbNikSfFr) | [Barbie Truchita](https://open.spotify.com/album/0ZhltdoXgZLpCT0M0T5wwj) | 3:07 | 2023-08-11 | 2023-08-19 |
+| [Barco a la Deriva](https://open.spotify.com/track/1HX1lE5S72KOFstvZBa4AB) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv), [Sergio Aguero](https://open.spotify.com/artist/5db93tys5tfZfnlMYyVc25) | [Barco a la Deriva](https://open.spotify.com/album/1SvNOOWJFbHXFgNOR9iZmV) | 3:44 | 2025-04-25 |  |
 | [Basta de Jugar](https://open.spotify.com/track/3J4iy8bc9nCebnbfJS6h5a) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Basta de Jugar](https://open.spotify.com/album/4DivYjZqWyEUsU6IyjsGJQ) | 2:54 | 2024-02-16 | 2024-02-24 |
 | [Basta Ya](https://open.spotify.com/track/5LpobtWokaLmZW87M52tgL) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Basta Ya](https://open.spotify.com/album/6DOxLq4YiYcq815ABk5PB8) | 3:02 | 2023-05-19 | 2023-06-24 |
 | [Basura](https://open.spotify.com/track/4GwnWB1Z1XZIPMW1C6ulyR) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Basura](https://open.spotify.com/album/7g8S9Vqy3eiKpKmpFjVtSf) | 3:28 | 2024-05-31 | 2024-06-08 |
@@ -2888,7 +2889,7 @@
 | [Se Me Subió a la Cabeza](https://open.spotify.com/track/5DPGJa7K4dTByJG9BF1t7r) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Se Me Subió a la Cabeza](https://open.spotify.com/album/1xq8nEeT1blmO9zm9TjSQN) | 2:09 | 2025-01-24 | 2025-02-15 |
 | [Se me va la voz / Normal](https://open.spotify.com/track/717a02PPNnSexxZySWaG9t) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Se me va la voz / Normal](https://open.spotify.com/album/3lEPODcqZx2MNFj1xbXAd8) | 4:02 | 2023-03-10 | 2023-04-09 |
 | [Se Mueve Mueve](https://open.spotify.com/track/70Wj1E3aWN9QqwJkVrZezB) | [Grupo BerEn](https://open.spotify.com/artist/5vUV1XcukkTR0eXG2gOxWh) | [Se Mueve Mueve](https://open.spotify.com/album/2J1K6ymip5Xews97RfA0U1) | 3:14 | 2024-08-02 | 2024-08-10 |
-| [Se Puede](https://open.spotify.com/track/7tIKEUsDhA8T4CAKI6j2vz) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Se Puede](https://open.spotify.com/album/6V9Hhje0yxT2qhCmR2l5FA) | 3:19 | 2025-03-28 |  |
+| [Se Puede](https://open.spotify.com/track/7tIKEUsDhA8T4CAKI6j2vz) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Se Puede](https://open.spotify.com/album/6V9Hhje0yxT2qhCmR2l5FA) | 3:19 | 2025-03-28 | 2025-04-26 |
 | [Se Que Me Enamoro](https://open.spotify.com/track/0gtPqvFAY3CxvvpcFhQy2q) | [Sudor Marika](https://open.spotify.com/artist/0RA00V1O1yXoBBJTV0S7xQ), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Se Que Me Enamoro](https://open.spotify.com/album/7GSWLHae2Fhw5e3szhf7yx) | 2:58 | 2022-11-04 | 2022-11-12 |
 | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu) | [Los Amantes](https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U) | 6:55 | 2022-12-02 | 2022-12-17 |
 | [Se Quedo Sola](https://open.spotify.com/track/5TkS7rZGZockjx4qMW3Y1Q) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Se Quedo Sola](https://open.spotify.com/album/05twB7gDsvKAmCdY5AKJ3a) | 3:15 | 2023-01-20 | 2023-01-28 |

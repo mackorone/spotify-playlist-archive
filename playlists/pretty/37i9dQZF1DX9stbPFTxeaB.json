@@ -1,13 +1,29 @@
 {
   "description": "Blues, but funky. Or funk, but bluesy. Cover: Kenny Wayne Shepherd",
-  "num_followers": 840843,
+  "num_followers": 840858,
   "original_name": "Funky Heavy Bluesy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZowtCgAAAADlJwNMw6GPoQvD8JBTlMAp",
+  "snapshot_id": "aAsI6QAAAAB2EB3vdB7IvU0xzzvxN66J",
   "tracks": [
+    {
+      "added_at": "2025-04-25 04:00:41",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1dJW6qGl7Y5WfNoAKIxp2m"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/5EuPTSDxwAckd50UNz8wpb"
+    },
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
@@ -835,22 +851,6 @@
       "duration_ms": 312200,
       "name": "Highway Jones",
       "url": "https://open.spotify.com/track/4No7vBUnNaJ76hOCMiWr5l"
-    },
-    {
-      "added_at": "2020-08-21 04:01:00",
-      "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz"
     },
     {
       "added_at": "2020-08-21 04:01:00",

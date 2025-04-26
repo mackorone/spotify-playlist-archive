@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Bobby Rush & Kenny Wayne Shepherd
+> The best in blues right now\. Cover: Southern Avenue
 
-458 songs - 1 day 6 hr 43 min
+460 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Big Grey Sky](https://open.spotify.com/track/58oEh6arIVp6WWUDiTnBun) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Big Grey Sky](https://open.spotify.com/album/19Unzw1ncj6JqxPGPBkXbP) | 4:28 | 2023-10-13 |  |
 | [Big Legged Man](https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [One Foot In The Groove](https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD) | 4:25 | 2022-09-30 | 2024-05-25 |
 | [Big Legged Woman](https://open.spotify.com/track/00TKSt0hEavnD9JnNmJ66E) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Big Legged Woman](https://open.spotify.com/album/2uOWCYOp5q5NHUqtn3yhQI) | 4:08 | 2025-02-21 | 2025-03-15 |
+| [Big Women](https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Big Women](https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt) | 4:59 | 2025-04-25 |  |
 | [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 | 2021-11-12 | 2022-04-23 |
 | [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 | 2023-10-13 | 2023-11-18 |
 | [Black Mountain Blues](https://open.spotify.com/track/1D2tVcQFbPmJP9FAjGkvJV) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Black Mountain Blues](https://open.spotify.com/album/2gKdg1viykgX8jVJrvR71l) | 5:08 | 2021-04-23 | 2022-04-23 |
@@ -66,7 +67,7 @@
 | [Broken](https://open.spotify.com/track/3dhamjUEZo7psHbg8w4pRJ) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Broken](https://open.spotify.com/album/2wPwMww3vLuD5vh5a0krZw) | 4:50 | 2024-01-26 | 2024-03-02 |
 | [Burn](https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [Burn](https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O) | 4:20 | 2023-08-18 | 2023-10-28 |
 | [Burn Bright](https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Sons](https://open.spotify.com/album/7cIZqD2nH2CXlAGG1jrNP6) | 3:06 | 2020-12-14 | 2022-02-26 |
-| [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 | 2023-04-28 |  |
+| [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 | 2023-04-28 | 2025-04-26 |
 | [Call Me King](https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Call Me King](https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp) | 2:54 | 2022-04-08 | 2024-03-23 |
 | [Can't Catch My Breath](https://open.spotify.com/track/5tqlcXaIjnvtUERP2V9kGL) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Can't Catch My Breath](https://open.spotify.com/album/0mHQDQgf1KUIJmGzG9pwdv) | 5:37 | 2025-03-21 |  |
 | [Can't Fix The World](https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [Can't Fix The World](https://open.spotify.com/album/4JeL7F0hiycVVfYfkMOKIB) | 4:15 | 2024-04-12 |  |
@@ -239,6 +240,7 @@
 | [Livin' It Up Down In Texas](https://open.spotify.com/track/56fMChBQ4TlnX9E56WsyUT) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Livin' It Up Down In Texas](https://open.spotify.com/album/36RkaLXpxXqJOgyoFARRCE) | 4:45 | 2025-01-17 |  |
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-03-18 | 2022-05-28 |
 | [Lonely Avenue](https://open.spotify.com/track/5jRgIkHMRIMlBs2lACAW3X) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lonely Avenue](https://open.spotify.com/album/5Od0yKVTCCqgVGRl3EDA0M) | 4:55 | 2022-01-07 | 2022-01-22 |
+| [Long Is The Road](https://open.spotify.com/track/5XQOSllj9gEysxv5qxIqtv) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Family](https://open.spotify.com/album/0IMJyZewJS5Lj2WHBG23J3) | 3:07 | 2025-04-25 |  |
 | [Long Road Ahead](https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Long Road Ahead](https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2) | 3:22 | 2023-08-25 |  |
 | [Look Out Highway](https://open.spotify.com/track/2vw3MrmC1QEbpXyeg0Mlls) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Look Out Highway](https://open.spotify.com/album/3WSqIS1UNydFqI8zjtQ6t7) | 3:31 | 2025-02-28 | 2025-04-12 |
 | [Look What I’ve Become](https://open.spotify.com/track/2YjMliKzi6Ywcj1DhtPmxM) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Look What I’ve Become](https://open.spotify.com/album/6Q7E6gda7FzxvuzRV63kAR) | 5:16 | 2025-04-11 |  |
@@ -314,7 +316,7 @@
 | [Roll On Buddy](https://open.spotify.com/track/716inKAgvoukiftOCG4l6l) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Roll On Buddy](https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM) | 3:23 | 2024-08-23 |  |
 | [Rooster](https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Rooster](https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM) | 4:51 | 2023-12-01 |  |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-04-30 | 2022-02-26 |
-| [Rum Boogie](https://open.spotify.com/track/5FBfO62TdPOvZcZTFxK36b) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Rum Boogie](https://open.spotify.com/album/4bfuTpL2T1fDU8xMyGgzCx) | 3:17 | 2025-01-31 |  |
+| [Rum Boogie](https://open.spotify.com/track/5FBfO62TdPOvZcZTFxK36b) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Rum Boogie](https://open.spotify.com/album/4bfuTpL2T1fDU8xMyGgzCx) | 3:17 | 2025-01-31 | 2025-04-26 |
 | [Runaway \- Radio Edit](https://open.spotify.com/track/3voGGhiHlPTZ9tG7WYt69Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Runaway \(Radio Edit\)](https://open.spotify.com/album/3TBFyqswoBMZgHAJT8uaoK) | 3:31 | 2025-01-31 |  |
 | [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 | 2023-09-15 |  |
 | [Running Away](https://open.spotify.com/track/6hGu0MWwR53eJbHCAZgWii) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Running Away](https://open.spotify.com/album/33lwlkjQC8xLyI4W7YgCTI) | 4:54 | 2024-05-31 |  |

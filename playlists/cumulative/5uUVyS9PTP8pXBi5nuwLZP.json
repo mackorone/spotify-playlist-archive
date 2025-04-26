@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 220000,
       "name": "'Tis The Season For Love (Xmas)",
       "url": "https://open.spotify.com/track/0MjQQqCW93TxkttEWbxWDq"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 204504,
       "name": "130:5 Hope",
       "url": "https://open.spotify.com/track/03sp8Ekb5vdsLkP7P2FXLO"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 163920,
       "name": "A toi ma joie",
       "url": "https://open.spotify.com/track/6MenMsXkDFX2gQn1VfGzwx"
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 180919,
       "name": "Allein unter Millionen",
       "url": "https://open.spotify.com/track/1rW9F7A9yUWQGNkbavt2FY"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 155471,
       "name": "Bad",
       "url": "https://open.spotify.com/track/0RHySqi7y8AqCNLZf4cMal"
@@ -4018,7 +4018,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 209864,
       "name": "Biere pressen",
       "url": "https://open.spotify.com/track/7ITgbkTc8cPSGf6gwo2XvE"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 181000,
       "name": "Big Yellow Moon",
       "url": "https://open.spotify.com/track/0Ccj1mV8Di1KLn1sIHehhC"
@@ -4846,7 +4846,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 188000,
       "name": "Breakup",
       "url": "https://open.spotify.com/track/0vaR6LIHIflqIkUXoU8oBo"
@@ -5074,7 +5074,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 128119,
       "name": "Burn.",
       "url": "https://open.spotify.com/track/5mkrs6WGR1XYItEsy2HS13"
@@ -5418,7 +5418,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 192000,
       "name": "Ca fait longtemps remake",
       "url": "https://open.spotify.com/track/1dSOWu2Iim2fyhMVd2Ftgp"
@@ -5458,7 +5458,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 204006,
       "name": "Cae la noche",
       "url": "https://open.spotify.com/track/6UXhPuN4oF7xRr8dAlQD2Q"
@@ -5996,7 +5996,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 317701,
       "name": "Cascades",
       "url": "https://open.spotify.com/track/3oGbrjRQwEuB6r36Tl8QIg"
@@ -6076,6 +6076,24 @@
       "duration_ms": 227735,
       "name": "Caveno",
       "url": "https://open.spotify.com/track/5GkpthNoVH2ZGF1oa112Lp"
+    },
+    {
+      "album": {
+        "name": "Ce soir",
+        "url": "https://open.spotify.com/album/49LZI1mBrg3nyBdWvmfccf"
+      },
+      "artists": [
+        {
+          "name": "Manon-Sarah",
+          "url": "https://open.spotify.com/artist/6sO0L89L6NuuvwzSDOw4Qx"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181186,
+      "name": "Ce soir",
+      "url": "https://open.spotify.com/track/2zLMjkrkTG10gOvwSKCSBN"
     },
     {
       "album": {
@@ -6456,7 +6474,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 188474,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/7fSecaBGUKwsAhPTA2tu1h"
@@ -8056,7 +8074,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 240000,
       "name": "Define Me",
       "url": "https://open.spotify.com/track/2S6n4UkRYx05EpmXoviqhI"
@@ -8577,6 +8595,24 @@
     },
     {
       "album": {
+        "name": "Dinosaurs Dinosaurs",
+        "url": "https://open.spotify.com/album/24qqltQ8Uvm6iH2bvQHOgt"
+      },
+      "artists": [
+        {
+          "name": "AndyRoo and the AndyRooniverse",
+          "url": "https://open.spotify.com/artist/5gQ4gkyBC0GIejN8C8orBM"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "Dinosaurs Dinosaurs",
+      "url": "https://open.spotify.com/track/0FdeF8Poox34Je05xgG6Sp"
+    },
+    {
+      "album": {
         "name": "Dios Lo Har\u00e1",
         "url": "https://open.spotify.com/album/4i25v9JDzeKTGcLPG04MGG"
       },
@@ -8714,7 +8750,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 161677,
       "name": "Doh Wah Love (Raw)",
       "url": "https://open.spotify.com/track/6lgdMaGSSZJsJf4em9lj3C"
@@ -9240,7 +9276,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 218947,
       "name": "Dufte",
       "url": "https://open.spotify.com/track/0xMErynfuCypzmA0HmpVvM"
@@ -11298,7 +11334,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 240000,
       "name": "Fearless Harmony 396 Hz",
       "url": "https://open.spotify.com/track/7oikZ1PIVZ5kF3nFT6EE8R"
@@ -14196,7 +14232,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 214291,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/7cgzn5OjK1SlI0y61iNUcy"
@@ -17359,6 +17395,24 @@
     },
     {
       "album": {
+        "name": "King of Kings-Christmas Edition",
+        "url": "https://open.spotify.com/album/24pucNPXnUQwJXxYiTJqnr"
+      },
+      "artists": [
+        {
+          "name": "Corey Weaver",
+          "url": "https://open.spotify.com/artist/6ZkezlPOHOC4HMGbEZPbOO"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217810,
+      "name": "King of Kings-Christmas Edition",
+      "url": "https://open.spotify.com/track/3SqmPvsStLOhANoXCoirj9"
+    },
+    {
+      "album": {
         "name": "King Solomon",
         "url": "https://open.spotify.com/album/5rbqwrfnQkIJlExpA56kgN"
       },
@@ -17972,7 +18026,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 165773,
       "name": "Las ganas me ganan",
       "url": "https://open.spotify.com/track/1lOSfpmlEMDNPt9xgw1efF"
@@ -20052,7 +20106,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 178449,
       "name": "Mario Style",
       "url": "https://open.spotify.com/track/4UkESAPf2wicV63gp9uUYF"
@@ -20524,7 +20578,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 157945,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7o3PKedvCAOikC26QRImvD"
@@ -20978,7 +21032,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 79294,
       "name": "mine only <3 - Sped Up",
       "url": "https://open.spotify.com/track/1zi0qbgH9HElOdmYzvBhoc"
@@ -23072,10 +23126,28 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 135925,
       "name": "Nocturne nr. 1",
       "url": "https://open.spotify.com/track/3zZj8VfPXkVpNBCueL6UNN"
+    },
+    {
+      "album": {
+        "name": "Coldwired",
+        "url": "https://open.spotify.com/album/7MxoVtaBZurUq812KNypNR"
+      },
+      "artists": [
+        {
+          "name": "Dauden i M\u00f8rke",
+          "url": "https://open.spotify.com/artist/0JGZtDsDLO9GuxQcpaiJj5"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320173,
+      "name": "Norr\u00f8n Seier",
+      "url": "https://open.spotify.com/track/6rNxRx2apqmwG8ji1NM6Yh"
     },
     {
       "album": {
@@ -25398,7 +25470,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 251250,
       "name": "puzzle",
       "url": "https://open.spotify.com/track/7n23zvPmDAX1IGOtOUzIgE"
@@ -25814,7 +25886,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 267676,
       "name": "Reawakening",
       "url": "https://open.spotify.com/track/02ZhsxTHginy3O2o4V6Jwj"
@@ -27495,6 +27567,24 @@
     },
     {
       "album": {
+        "name": "Sexybody",
+        "url": "https://open.spotify.com/album/7dUgaDCOMmg5G1qwTtVn26"
+      },
+      "artists": [
+        {
+          "name": "Max Meezy",
+          "url": "https://open.spotify.com/artist/3b5tlpEHBsus9heftXYt0k"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130168,
+      "name": "Sexybody",
+      "url": "https://open.spotify.com/track/6cllB8LI87stOJbApKJJXI"
+    },
+    {
+      "album": {
         "name": "Se\u00f1ales Ancestrales",
         "url": "https://open.spotify.com/album/4diUe9HH87SM6Hdc0t6PRD"
       },
@@ -27564,7 +27654,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 222799,
       "name": "Shadows of Martial Law - Azuran Drake Remix",
       "url": "https://open.spotify.com/track/2I8ntgKzKdRvvRp0bHOb3n"
@@ -28852,7 +28942,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 302405,
       "name": "Stellar Wars Reborn (Original Soundtrack)",
       "url": "https://open.spotify.com/track/17FGC3IftaVapBVcWDQBG9"
@@ -30766,7 +30856,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 244008,
       "name": "The One",
       "url": "https://open.spotify.com/track/03ZV4UhsyJoPwvEi1P5GMI"
@@ -30890,7 +30980,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 140575,
       "name": "The Reality Of Sisters",
       "url": "https://open.spotify.com/track/0PUkh5BgFLRQK37ff9Rroi"
@@ -31442,6 +31532,24 @@
       "duration_ms": 265470,
       "name": "Thursday Night",
       "url": "https://open.spotify.com/track/7wiVEMwgseQsSHSW35GEMJ"
+    },
+    {
+      "album": {
+        "name": "Illusions of Grandeur",
+        "url": "https://open.spotify.com/album/5UptSgqVcvyyAjHu3KRLHc"
+      },
+      "artists": [
+        {
+          "name": "Monet Black",
+          "url": "https://open.spotify.com/artist/6uFHjkotxLvvxebklCpjHR"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123611,
+      "name": "Tiana",
+      "url": "https://open.spotify.com/track/1j7CldYSKJO2eSibpLOrmm"
     },
     {
       "album": {
@@ -32022,7 +32130,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 179744,
       "name": "Tout s'arrange",
       "url": "https://open.spotify.com/track/2ljnhNS8HCG1jyiX3BS8QV"
@@ -33326,6 +33434,24 @@
       "duration_ms": 143000,
       "name": "VECHNAYA SKAZKA",
       "url": "https://open.spotify.com/track/23swBka3GkJUdyVsmXGrwg"
+    },
+    {
+      "album": {
+        "name": "Vem Comigo Dan\u00e7ar",
+        "url": "https://open.spotify.com/album/3jiFcgjxz0IOvz0Gie81tW"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Campos",
+          "url": "https://open.spotify.com/artist/046spDllFBO8GDQp1wY1v9"
+        }
+      ],
+      "date_added": "2025-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140480,
+      "name": "Vem Comigo Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/1gT8WQ0nDme9PGrpE3nbBt"
     },
     {
       "album": {
@@ -35826,7 +35952,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 136133,
       "name": "\u200e\u5f37\u98a8\u30aa\u30fc\u30eb\u30d0\u30c3\u30af - \u30d4\u30a2\u30cever.",
       "url": "https://open.spotify.com/track/4FQU3j94nI4JYqJ5lExkGq"

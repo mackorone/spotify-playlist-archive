@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
-  "num_followers": 147832,
+  "num_followers": 147812,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "SATELLITE",
-        "url": "https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW"
-      },
-      "artists": [
-        {
-          "name": "LEE DAE HWI",
-          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
-        },
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        }
-      ],
-      "duration_ms": 165486,
-      "name": "SATELLITE",
-      "url": "https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Christmas Gift",
         "url": "https://open.spotify.com/album/48DteS8oPnYiwJsA0aM9Dv"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 165493,
       "name": "Christmas Gift (feat. Ashley Alisha & Sonny Zero)",
       "url": "https://open.spotify.com/track/3c1Dp25RwHWmTuqx5jHMW4"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "SATELLITE",
+        "url": "https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW"
+      },
+      "artists": [
+        {
+          "name": "LEE DAE HWI",
+          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
+        },
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "duration_ms": 165486,
+      "name": "SATELLITE",
+      "url": "https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "Sweater (Orchestral Version)",
+        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 237161,
+      "name": "Sweater - Orchestral Version",
+      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 227460,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "Sweater (Orchestral Version)",
-        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 237161,
-      "name": "Sweater - Orchestral Version",
-      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
-      },
-      "artists": [
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 118705,
-      "name": "Santa, Give Me What I Need",
-      "url": "https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI"
       },
@@ -1759,22 +1743,6 @@
       "duration_ms": 205782,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "APRIL 3rd Mini Album 'Prelude'",
-        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
-      },
-      "artists": [
-        {
-          "name": "APRIL",
-          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
-        }
-      ],
-      "duration_ms": 185354,
-      "name": "Snowman (Special Ver.)",
-      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1795,6 +1763,38 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 118705,
+      "name": "Santa, Give Me What I Need",
+      "url": "https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "APRIL 3rd Mini Album 'Prelude'",
+        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "duration_ms": 185354,
+      "name": "Snowman (Special Ver.)",
+      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "MIDNIGHT CHRISTMAS",
         "url": "https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13"
       },
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "the collective soul and unconscious: snowy night",
-        "url": "https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 213042,
-      "name": "snowy night",
-      "url": "https://open.spotify.com/track/7ajApbhtm75giJ9Sj6qRnO"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Jingle Bell Love",
         "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 154989,
       "name": "Jingle Bell Love",
       "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Movie Winter",
+        "url": "https://open.spotify.com/album/34q66uq3KaL6CTlqDmTvyc"
+      },
+      "artists": [
+        {
+          "name": "Tarin",
+          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Movie Winter",
+      "url": "https://open.spotify.com/track/0P00r0hbz9yKs4DtBCzqVu"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

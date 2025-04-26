@@ -1,12 +1,12 @@
 {
   "description": "Break up songs, the best cure for a broken heart!",
-  "num_followers": 443624,
+  "num_followers": 443596,
   "original_name": "Breakup Songs \ud83d\udc94",
   "owner": {
     "name": "Filtr Norway",
     "url": "https://open.spotify.com/user/sonymusic"
   },
-  "snapshot_id": "AAAHfDlVvptqKw4VJ9SesyRbAiJjaTvl",
+  "snapshot_id": "AAAHfvWGoIOy08iWt1ytpAVSsE/A4cK4",
   "tracks": [
     {
       "added_at": "2025-03-26 10:09:24",
@@ -55,6 +55,38 @@
       "duration_ms": 230073,
       "name": "Constellations - Piano Version",
       "url": "https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X"
+    },
+    {
+      "added_at": "2025-04-25 08:39:44",
+      "album": {
+        "name": "PISCES",
+        "url": "https://open.spotify.com/album/7nktQKQFOMkh40iOTOzzBS"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 180565,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/4vMaUYpkdmOKPzqLnQsBx6"
+    },
+    {
+      "added_at": "2025-04-25 08:34:30",
+      "album": {
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": "2025-04-10 22:23:01",

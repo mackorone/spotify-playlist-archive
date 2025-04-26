@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance a la antig\u00fcita con Tufic en portada.",
+  "description": "Romance a la antig\u00fcita con Susana Zabaleta en portada.",
   "name": "Boleros Pop",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 189285,
       "name": "A\u00fan Me Sigo Encontrando",
       "url": "https://open.spotify.com/track/7Mmrk9FtkiKLpBMietviFf"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 196614,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 218814,
       "name": "Desde mi habitaci\u00f3n",
       "url": "https://open.spotify.com/track/2DZ66IRklQUZ4SFLS18dym"
@@ -4427,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "Pecado Mortal",
+        "url": "https://open.spotify.com/album/05VKz27OjRtcTGw1QtW2MP"
+      },
+      "artists": [
+        {
+          "name": "Susana Zabaleta",
+          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187264,
+      "name": "Pecado Mortal",
+      "url": "https://open.spotify.com/track/4r0gvUdP6KabudCSirhxj5"
+    },
+    {
+      "album": {
         "name": "Pensando en Ti",
         "url": "https://open.spotify.com/album/3kB1sI0LNPuCy37KclNQnS"
       },
@@ -6291,6 +6309,24 @@
     },
     {
       "album": {
+        "name": "Un amor que se demora",
+        "url": "https://open.spotify.com/album/5uLOuTQoADaJCWwVlxqJcy"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220322,
+      "name": "Un amor que se demora",
+      "url": "https://open.spotify.com/track/7lGwvwJMddywIX0VfJLI1F"
+    },
+    {
+      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -6336,6 +6372,28 @@
       "duration_ms": 246000,
       "name": "Un D\u00eda a la Vez",
       "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
+    },
+    {
+      "album": {
+        "name": "BOGOT\u00c1",
+        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228562,
+      "name": "Una Flor",
+      "url": "https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Men I Trust
+> La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
 580 songs - 1 day 9 hr 12 min
 
@@ -490,7 +490,7 @@
 | [Sirens feat\. KALLITECHNIS](https://open.spotify.com/track/1bFgz7ALuVIYDx7cjX9mPH) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Dapapa](https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 2:51 | 2022-03-25 | 2022-06-11 |
 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 | 2024-10-04 |  |
 | [SO DIFFERENT NOW](https://open.spotify.com/track/7vVsFIYEfHRZbBsVs1XGe4) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [SO DIFFERENT NOW](https://open.spotify.com/album/6OpPZcTKTFomxZbych3lE9) | 2:33 | 2024-10-04 | 2024-10-26 |
-| [SOFT LIFE](https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [SOFT LIFE](https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH) | 3:25 | 2023-10-27 |  |
+| [SOFT LIFE](https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [SOFT LIFE](https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH) | 3:25 | 2023-10-27 | 2025-04-26 |
 | [Soleil cendre](https://open.spotify.com/track/2m5p3PHZfiFLWEaeSO8Byw) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Soleil cendre](https://open.spotify.com/album/4v5b5MhX9GAaBXZjFYM65s) | 2:43 | 2022-03-25 | 2022-10-01 |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-03-25 | 2023-03-04 |
 | [Son Mad](https://open.spotify.com/track/2ajJIOv9mRekNm1wIfMxi6) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Son Mad](https://open.spotify.com/album/5ofh151AVkCnjXPaxDPGyG) | 2:07 | 2024-06-14 | 2024-09-14 |

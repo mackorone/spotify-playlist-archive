@@ -4,7 +4,7 @@
 
 > I am blessed!
 
-268 songs - 18 hr 41 min
+269 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Counting my Blessings \(African Remix\) \(feat\. Seph Schlueter\)](https://open.spotify.com/track/4OLl3p8VKCJRwP2a0Bxp8U) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting my Blessings \(African Remix\) \(feat\. Seph Schlueter\)](https://open.spotify.com/album/2qshb9oWrRvrZ6ibyS6iLn) | 3:16 | 2025-01-24 | 2025-02-28 |
 | [Covenant](https://open.spotify.com/track/2dHsmrbMPq88m3fwVA5Hlk) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [VERSES, Vol\. 2](https://open.spotify.com/album/0JF6vL0sJeAERjLlwpdLY8) | 8:49 | 2025-03-21 |  |
 | [Covenant Keeping God](https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Covenant Keeping God](https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp) | 13:56 | 2025-02-28 |  |
+| [Crucified with Christ](https://open.spotify.com/track/29TdK4PqgMc20n5rwOZnle) | [Theo Milford](https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD), [Larry Vaughn II](https://open.spotify.com/artist/6i8nm4T2RcdcgmkcX7KSHX) | [Crucified with Christ](https://open.spotify.com/album/4Np1aIre6LHC81eOl5fXad) | 6:53 | 2025-04-25 |  |
 | [CSOG \(Certified Son Of God\)](https://open.spotify.com/track/2pFzTy71AG4kL2jizsLgjv) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [CSOG \(Certified Son Of God\)](https://open.spotify.com/album/5DHiGpJ3EWO9JNCWiim9ts) | 2:34 | 2025-01-24 | 2025-02-28 |
 | [Daily](https://open.spotify.com/track/3zfBfWwXSioHSj1EPA2Bxw) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Daily](https://open.spotify.com/album/7k0hyp9g3BTqxhtr5QMr9u) | 2:57 | 2024-12-13 |  |
 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 | 2024-09-27 | 2025-02-28 |

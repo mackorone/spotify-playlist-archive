@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 186596,
+  "num_followers": 186625,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
-        "name": "At the Door",
-        "url": "https://open.spotify.com/album/1Ll3nI3EXTc2cwjNAP2N3M"
-      },
-      "artists": [
-        {
-          "name": "ILYICH",
-          "url": "https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5"
-        },
-        {
-          "name": "Takuya Nakamura",
-          "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH"
-        }
-      ],
-      "duration_ms": 122762,
-      "name": "At the Door",
-      "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
         "name": "shy (interlude)",
         "url": "https://open.spotify.com/album/6tjsWKgUkWSplfj03caxOr"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 57600,
       "name": "shy (interlude)",
       "url": "https://open.spotify.com/track/3hcCMlJbGqgjIcbE7N1R9b"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
+        "name": "At the Door",
+        "url": "https://open.spotify.com/album/1Ll3nI3EXTc2cwjNAP2N3M"
+      },
+      "artists": [
+        {
+          "name": "ILYICH",
+          "url": "https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5"
+        },
+        {
+          "name": "Takuya Nakamura",
+          "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH"
+        }
+      ],
+      "duration_ms": 122762,
+      "name": "At the Door",
+      "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
+      },
+      "artists": [
+        {
+          "name": "Emahoy Tsege Mariam Gebru",
+          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
+        }
+      ],
+      "duration_ms": 208484,
+      "name": "Ready to Leave",
+      "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
         "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
         "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
+        "name": "punk cake",
+        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
       },
       "artists": [
         {
-          "name": "Emahoy Tsege Mariam Gebru",
-          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
         }
       ],
-      "duration_ms": 208484,
-      "name": "Ready to Leave",
-      "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
+      "duration_ms": 142000,
+      "name": "14 Rue d'Abbeville",
+      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -499,22 +515,6 @@
       "duration_ms": 192283,
       "name": "Snapdragon",
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
-        "name": "punk cake",
-        "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
-      },
-      "artists": [
-        {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "14 Rue d'Abbeville",
-      "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
+        "name": "Waiting pt 1",
+        "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
+      },
+      "artists": [
+        {
+          "name": "Jane Paknia",
+          "url": "https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM"
+        }
+      ],
+      "duration_ms": 132318,
+      "name": "Waiting pt 1",
+      "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
         "name": "Whispering Ln",
         "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 320044,
       "name": "Moonlit Whispers",
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
-        "name": "Walks",
-        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
-      },
-      "artists": [
-        {
-          "name": "Group Listening",
-          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "New Brighton",
-      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -735,18 +735,18 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
-        "name": "Waiting pt 1",
-        "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
+        "name": "Walks",
+        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
       },
       "artists": [
         {
-          "name": "Jane Paknia",
-          "url": "https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM"
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
         }
       ],
-      "duration_ms": 132318,
-      "name": "Waiting pt 1",
-      "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
+      "duration_ms": 204586,
+      "name": "New Brighton",
+      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
-        "name": "Old Age",
-        "url": "https://open.spotify.com/album/3ebtbu8s9W9a4AUP5T6feh"
-      },
-      "artists": [
-        {
-          "name": "1100",
-          "url": "https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6"
-        },
-        {
-          "name": "AMIANGELIKA",
-          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
-        }
-      ],
-      "duration_ms": 236444,
-      "name": "Old Age",
-      "url": "https://open.spotify.com/track/7mr020BsS8ucWUoyn1EqM3"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
         "name": "Espuma de Mar ~ remixes",
         "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
       },
@@ -943,34 +923,22 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "Old Age",
+        "url": "https://open.spotify.com/album/3ebtbu8s9W9a4AUP5T6feh"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "6\u00b0C",
-      "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
-        "name": "AMB001-008",
-        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
-      },
-      "artists": [
+          "name": "1100",
+          "url": "https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6"
+        },
         {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+          "name": "AMIANGELIKA",
+          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
         }
       ],
-      "duration_ms": 363353,
-      "name": "AMB001",
-      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
+      "duration_ms": 236444,
+      "name": "Old Age",
+      "url": "https://open.spotify.com/track/7mr020BsS8ucWUoyn1EqM3"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -987,6 +955,38 @@
       "duration_ms": 272137,
       "name": "GITA IN TRAM",
       "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "6\u00b0C",
+      "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
+        "name": "Somehow (Abstracts)",
+        "url": "https://open.spotify.com/album/197EySELias6OhJBihHHbi"
+      },
+      "artists": [
+        {
+          "name": "Derek Simpson",
+          "url": "https://open.spotify.com/artist/7qyN87BH8AmA498RL3K21d"
+        }
+      ],
+      "duration_ms": 231157,
+      "name": "222 (Abstract)",
+      "url": "https://open.spotify.com/track/2wLZTUR3o3zJB54TMpt7q3"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
-        "name": "Somehow (Abstracts)",
-        "url": "https://open.spotify.com/album/197EySELias6OhJBihHHbi"
+        "name": "AMB001-008",
+        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
       },
       "artists": [
         {
-          "name": "Derek Simpson",
-          "url": "https://open.spotify.com/artist/7qyN87BH8AmA498RL3K21d"
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
         }
       ],
-      "duration_ms": 231157,
-      "name": "222 (Abstract)",
-      "url": "https://open.spotify.com/track/2wLZTUR3o3zJB54TMpt7q3"
+      "duration_ms": 363353,
+      "name": "AMB001",
+      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
-        "name": "The Scrollkeeper",
-        "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
-      },
-      "artists": [
-        {
-          "name": "Heith",
-          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
-        }
-      ],
-      "duration_ms": 285738,
-      "name": "The Scrollkeeper",
-      "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
         "name": "Cero",
         "url": "https://open.spotify.com/album/67mzZB3Tacqcr0gD52Dtfu"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 230852,
       "name": "Tres",
       "url": "https://open.spotify.com/track/2xGt7oyNvPCt9I2XuhB33n"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
+        "name": "The Scrollkeeper",
+        "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
+      },
+      "artists": [
+        {
+          "name": "Heith",
+          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
+        }
+      ],
+      "duration_ms": 285738,
+      "name": "The Scrollkeeper",
+      "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
-        "name": "BORNE WORLD",
-        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/0lJ98gQLU5pxDzDXBAzXLf"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
         "name": "The 39 Steps",
         "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 235530,
       "name": "Hizo",
       "url": "https://open.spotify.com/track/4W3Gdxl6tqbxVKAsc7FGrC"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
+        "name": "BORNE WORLD",
+        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/0lJ98gQLU5pxDzDXBAzXLf"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
+        "name": "part of u",
+        "url": "https://open.spotify.com/album/5cMSNDgNhAXFS88W2gnB0X"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 157623,
+      "name": "part of u",
+      "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
         "name": "Pordeno Me",
         "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
       },
@@ -1303,6 +1319,22 @@
     {
       "added_at": "2025-04-24 16:02:45",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 173525,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
         "name": "Parallels II",
         "url": "https://open.spotify.com/album/2CgGBhkNOTqQ3mliQzC0Tf"
       },
@@ -1331,22 +1363,6 @@
       "duration_ms": 199894,
       "name": "Echo Drift",
       "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 173525,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -1403,22 +1419,6 @@
       "duration_ms": 229602,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
-        "name": "part of u",
-        "url": "https://open.spotify.com/album/5cMSNDgNhAXFS88W2gnB0X"
-      },
-      "artists": [
-        {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
-        }
-      ],
-      "duration_ms": 157623,
-      "name": "part of u",
-      "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -1483,6 +1483,26 @@
       "duration_ms": 424180,
       "name": "I Am Here and Now",
       "url": "https://open.spotify.com/track/7ubSeCP13u6DnlswYIQ6yh"
+    },
+    {
+      "added_at": "2025-04-24 16:02:45",
+      "album": {
+        "name": "Frog Raag",
+        "url": "https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn"
+      },
+      "artists": [
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        },
+        {
+          "name": "Will Epstein",
+          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
+        }
+      ],
+      "duration_ms": 286550,
+      "name": "VI",
+      "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
     },
     {
       "added_at": "2025-04-24 16:02:45",
@@ -1611,26 +1631,6 @@
       "duration_ms": 708927,
       "name": "2033",
       "url": "https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA"
-    },
-    {
-      "added_at": "2025-04-24 16:02:45",
-      "album": {
-        "name": "Frog Raag",
-        "url": "https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn"
-      },
-      "artists": [
-        {
-          "name": "Evan Shornstein",
-          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
-        },
-        {
-          "name": "Will Epstein",
-          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
-        }
-      ],
-      "duration_ms": 286550,
-      "name": "VI",
-      "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
     },
     {
       "added_at": "2025-04-24 16:02:45",

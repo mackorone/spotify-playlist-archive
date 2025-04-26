@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,520 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,526 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 46 | [Stockholmsyndrom](https://open.spotify.com/track/5O7iVLIvjKyvbwEszD2s7W) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n), [kinGeorg](https://open.spotify.com/artist/59cLv915L34mbq87Wr2M8L) | [Stockholmsyndrom](https://open.spotify.com/album/1do99KJQo48UJEShpMiRUz) | 4:44 |
 | 47 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 |
 | 48 | [Eg glemmer deg aldri](https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Eg Glemmer Deg Aldri](https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ) | 2:58 |
-| 49 | [Ryktet Forteller](https://open.spotify.com/track/4axzeEnJdc01LFopSSa686) | [Gitarkameratene](https://open.spotify.com/artist/6eaBTqHxAaeyCvAgBsqVs9) | [Typisk Norsk](https://open.spotify.com/album/3jJRA4yW5Kq85AsvDqb3pb) | 3:42 |
-| 50 | [Ka Du Håpa På](https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Ka Du Håpa På](https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9) | 3:29 |
+| 49 | [Ka Du Håpa På](https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Ka Du Håpa På](https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9) | 3:29 |
+| 50 | [Ryktet Forteller](https://open.spotify.com/track/4axzeEnJdc01LFopSSa686) | [Gitarkameratene](https://open.spotify.com/artist/6eaBTqHxAaeyCvAgBsqVs9) | [Typisk Norsk](https://open.spotify.com/album/3jJRA4yW5Kq85AsvDqb3pb) | 3:42 |
 
 Snapshot ID: `Z/g/awAAAABGFOgwh7enC+EhpbnWe3+R`

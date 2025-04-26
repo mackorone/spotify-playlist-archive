@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 108722,
+  "num_followers": 108836,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -115,18 +115,26 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Laho",
-        "url": "https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ"
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Laho",
-      "url": "https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy"
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -151,26 +159,18 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
+        "name": "Laho",
+        "url": "https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 206948,
-      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
+      "duration_ms": 144000,
+      "name": "Laho",
+      "url": "https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -483,22 +483,18 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Awuke",
-        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 172628,
-      "name": "Awuke",
-      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
+      "duration_ms": 142758,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -523,18 +519,22 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 142758,
-      "name": "Most Wanted",
-      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -1027,6 +1027,34 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
+        "name": "More Money",
+        "url": "https://open.spotify.com/album/7GhS00b7rtMwgzOk3ziLd8"
+      },
+      "artists": [
+        {
+          "name": "Chief Priest",
+          "url": "https://open.spotify.com/artist/6lfliZYawVWgwCtWdmVXzE"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "duration_ms": 158184,
+      "name": "More Money",
+      "url": "https://open.spotify.com/track/6OJoBP3xyn6bHdsyEsQ6Jk"
+    },
+    {
+      "added_at": "2025-04-18 00:01:25",
+      "album": {
         "name": "Conse (feat. Fatboy E & Smada)",
         "url": "https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC"
       },
@@ -1071,34 +1099,6 @@
       "duration_ms": 179070,
       "name": "Ifineme",
       "url": "https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC"
-    },
-    {
-      "added_at": "2025-04-18 00:01:25",
-      "album": {
-        "name": "More Money",
-        "url": "https://open.spotify.com/album/7GhS00b7rtMwgzOk3ziLd8"
-      },
-      "artists": [
-        {
-          "name": "Chief Priest",
-          "url": "https://open.spotify.com/artist/6lfliZYawVWgwCtWdmVXzE"
-        },
-        {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
-        },
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        },
-        {
-          "name": "Hyce",
-          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
-        }
-      ],
-      "duration_ms": 158184,
-      "name": "More Money",
-      "url": "https://open.spotify.com/track/6OJoBP3xyn6bHdsyEsQ6Jk"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
+        "name": "Reason 2 Japa",
+        "url": "https://open.spotify.com/album/0xoYbMUYlLRuWg5NEYAg8M"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Reason 2 Japa",
+      "url": "https://open.spotify.com/track/25oHQt2nwWQ6ILjkwZRRIy"
+    },
+    {
+      "added_at": "2025-04-18 00:01:25",
+      "album": {
         "name": "My Dealer (Remix)",
         "url": "https://open.spotify.com/album/6SmlSpxgf52VpjjlCRxZZX"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 184108,
       "name": "Rub Minds",
       "url": "https://open.spotify.com/track/1NsWQNlrgM3XP6bgwvKfu9"
-    },
-    {
-      "added_at": "2025-04-18 00:01:25",
-      "album": {
-        "name": "Reason 2 Japa",
-        "url": "https://open.spotify.com/album/0xoYbMUYlLRuWg5NEYAg8M"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Reason 2 Japa",
-      "url": "https://open.spotify.com/track/25oHQt2nwWQ6ILjkwZRRIy"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Joy Is Coming",
-        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Joy Is Coming",
-      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
-    },
-    {
-      "added_at": "2025-04-18 00:01:25",
-      "album": {
         "name": "Bodycon",
         "url": "https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 159720,
       "name": "Bodycon",
       "url": "https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx"
+    },
+    {
+      "added_at": "2025-04-18 00:01:25",
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
     },
     {
       "added_at": "2025-04-18 00:01:25",
@@ -1463,22 +1463,22 @@
     {
       "added_at": "2025-04-18 00:01:25",
       "album": {
-        "name": "Innocent (feat. Fireboy DML)",
-        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
+        "name": "NUMBER ONE (feat. Minz)",
+        "url": "https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 172631,
-      "name": "Innocent (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
+      "duration_ms": 243744,
+      "name": "NUMBER ONE (feat. Minz)",
+      "url": "https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

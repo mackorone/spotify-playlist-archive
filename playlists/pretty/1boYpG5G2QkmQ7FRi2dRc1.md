@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 288,751 likes - 35 songs - 1 hr 47 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 288,736 likes - 35 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 20 | [PUT IT DOWN](https://open.spotify.com/track/2kqKsdnfgTraa9v4adnadN) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [PUT IT DOWN](https://open.spotify.com/album/3JRrnfWD4LmLXUDbeNLsyu) | 2:10 |
 | 21 | [Are You In?](https://open.spotify.com/track/75RWvdK6iawjliJUpXdzxw) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Are You In?](https://open.spotify.com/album/4mFpFXxYbJ2V0pZROtWUwq) | 2:37 |
 | 22 | [Do It Like Me](https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 3:15 |
-| 23 | [Dance In The Sunlight \(feat\. Bandit\)](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight \(feat\. Bandit\)](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 |
+| 23 | [Dance In The Sunlight](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 |
 | 24 | [Mirror's Edge](https://open.spotify.com/track/456tPmLLrNb6ZRTeyS2h80) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [POiSON ANNA](https://open.spotify.com/artist/1qC3BErhNjJ0AP7Ddg4YfD) | [Mirror's Edge](https://open.spotify.com/album/7kVHEGvxMaOlnandC0faCR) | 3:57 |
 | 25 | [On My Mind](https://open.spotify.com/track/215yTFYiso730QX9rHC7TU) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [On My Mind](https://open.spotify.com/album/7FOvAtVUDnpExRKfUR4G5A) | 3:27 |
 | 26 | [Perfect Dark](https://open.spotify.com/track/2zhYQ22ldzP2zasdDc5AWm) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Perfect Dark](https://open.spotify.com/album/2zMVpBPG8a1nG2gD44Ixjf) | 2:31 |

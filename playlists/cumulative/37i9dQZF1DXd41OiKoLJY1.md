@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: lxni Artwork: Isu Kim
 
-3,150 songs - 7 day 16 hr 48 min
+3,151 songs - 7 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1103,6 +1103,7 @@
 | [Heavy](https://open.spotify.com/track/5gRhmW5NTCVg7j82SuNxwx) | [Liam Cloud](https://open.spotify.com/artist/1SZ7B7pfCIbUrqAlT5pqyQ) | [Heavy](https://open.spotify.com/album/0d5IT60vFefXjugxgfYaPY) | 4:16 | 2024-08-23 | 2024-09-20 |
 | [Heavy Hearts & Smiles](https://open.spotify.com/track/4TmzhpjbNL9Fw8LvLT9umH) | [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0) | [Heavy Hearts & Smiles](https://open.spotify.com/album/0COwxD7KONHAqpJ8c9sk90) | 2:54 | 2025-04-03 |  |
 | [Heist](https://open.spotify.com/track/4mhsJPagXm5aJKZxvsJtJ3) | [St3r10](https://open.spotify.com/artist/7oeyEGN0XiJUynY5Zit8Gu), [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [Dreams With You](https://open.spotify.com/album/462b3fI4HY7fNpzFyZNhgY) | 3:56 | 2024-06-06 | 2024-07-05 |
+| [helena](https://open.spotify.com/track/1WyYz3qCSW6kWVE6B3r69b) | [Milkboyz](https://open.spotify.com/artist/4tVvMedi4cpHVxaUHfwLdY) | [helena](https://open.spotify.com/album/0ner1U2seYZmOyNDqIrhZ1) | 3:02 | 2025-04-25 |  |
 | [Helena](https://open.spotify.com/track/5Ml4o1vp5NUoUAThVcNnGQ) | [Sulo](https://open.spotify.com/artist/5Kde9C1W95QXMCiR0W86rn) | [Talaarawan](https://open.spotify.com/album/5CapqrJEepJUPGribbYJev) | 6:24 | 2024-03-21 | 2024-05-03 |
 | [Hello](https://open.spotify.com/track/5ps7q5sYaKwDalFTcIIidZ) | [totâ](https://open.spotify.com/artist/7lR4az0FXjQsoLUf6UiBq3) | [Hello](https://open.spotify.com/album/6kmNRy2NOGDHrXxLRspvCY) | 5:10 | 2024-01-11 | 2024-02-16 |
 | [Hello Vegas](https://open.spotify.com/track/1I5ir36i4MUQclxp9PWZB9) | [february bank](https://open.spotify.com/artist/69dHAdz8lUpJir75KFfdlY) | [Hello Vegas](https://open.spotify.com/album/6900aefLceRVtvlhjRZX9B) | 4:03 | 2022-08-11 | 2023-01-13 |
@@ -1644,7 +1645,7 @@
 | [Lost In Time](https://open.spotify.com/track/5AsQ5xODUOuBc4FKDz02Kw) | [Teresa Suydam](https://open.spotify.com/artist/71MnE4kBYYcoM1yiNTdi0b) | [Lost In Time](https://open.spotify.com/album/7BxTlh9ZuUcn5uxF7k9qR2) | 4:38 | 2023-08-10 | 2023-09-01 |
 | [LOVE](https://open.spotify.com/track/4aBp0UGwzDJgn7qrkPV2iw) | [PLAN B](https://open.spotify.com/artist/1DFnRiFfABRQzsYINMux60) | [LOVE](https://open.spotify.com/album/4TSFNL2fY5e6w1oV2xQjrk) | 3:15 | 2022-04-14 | 2022-05-06 |
 | [Love Alarmism](https://open.spotify.com/track/1gwHn8tFbdESaev9AX7WSu) | [Carlo Mesina](https://open.spotify.com/artist/7GBWVhprM1BFq53jworKnp) | [Love Alarmism](https://open.spotify.com/album/4qRWW6vdJtjfBRveHDuVzJ) | 4:19 | 2023-06-15 | 2023-06-30 |
-| [Love Calling](https://open.spotify.com/track/0N46OWZIrVmwYJo9NJ17NJ) | [Uncle Bob's Funky Seven Club](https://open.spotify.com/artist/0UBLpatgPJe2v1theY0ftp) | [Love Calling](https://open.spotify.com/album/2hBs7ZgmXUoHyYniIHSVcQ) | 4:57 | 2025-02-27 |  |
+| [Love Calling](https://open.spotify.com/track/0N46OWZIrVmwYJo9NJ17NJ) | [Uncle Bob's Funky Seven Club](https://open.spotify.com/artist/0UBLpatgPJe2v1theY0ftp) | [Love Calling](https://open.spotify.com/album/2hBs7ZgmXUoHyYniIHSVcQ) | 4:57 | 2025-02-27 | 2025-04-26 |
 | [LOVE DIARY \- Page 1: Contentment](https://open.spotify.com/track/2w7iul07zm0KUzT4kZO6ZZ) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa), [Jo$h](https://open.spotify.com/artist/2WLHdtgNOvCzFd47N5bkiP) | [LOVE DIARY \(Page 1: Contentment\)](https://open.spotify.com/album/4DcgLE5Vi0gkXwMsTwvMEu) | 4:21 | 2023-08-24 | 2023-09-22 |
 | [Love Don't Wait](https://open.spotify.com/track/0oDzobQ15L4kGDM0RsOmhr) | [Kasper Daylen](https://open.spotify.com/artist/45WBf4M9037qMw0iwq9iCc), [tuneron](https://open.spotify.com/artist/4TyMl1Bv5BGyDSc2MCbGB8), [NOTXQIL](https://open.spotify.com/artist/3GVamIEO07L6AolqEJrfIe) | [Love Don't Wait](https://open.spotify.com/album/1cJfm0wqRn2C9iz3VkFgN7) | 4:31 | 2022-06-16 | 2022-07-29 |
 | [Love Drunk](https://open.spotify.com/track/5Y91KEv2ayl59beaAl892q) | [Kat Jaranilla](https://open.spotify.com/artist/6jH3n7EE4IYALcTS2bWs3s) | [Love Drunk](https://open.spotify.com/album/4TePh4JOrRahbnKi6JeO13) | 3:59 | 2023-08-17 | 2023-09-15 |

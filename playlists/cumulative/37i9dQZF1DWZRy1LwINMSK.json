@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de Lleflight.",
+  "description": "La casa del trap chileno al mando de KUINA.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "Confianza",
+        "url": "https://open.spotify.com/album/4iHuREHIFuAaFBAB8McYx6"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Confianza",
+      "url": "https://open.spotify.com/track/7CquxKxAKutufMzvMI7s7Z"
+    },
+    {
+      "album": {
         "name": "EL NI\u00d1O BENDITO",
         "url": "https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja"
       },
@@ -1142,7 +1164,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 207333,
       "name": "Dale Tu Kolin",
       "url": "https://open.spotify.com/track/40n3urD4QnPkPi7kSlk7kx"
@@ -2126,7 +2148,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 240253,
       "name": "Hablamos Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
@@ -3970,7 +3992,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 153253,
       "name": "Norty",
       "url": "https://open.spotify.com/track/41WenSWfGMM2moyuFtKwAK"
@@ -5475,6 +5497,28 @@
     },
     {
       "album": {
+        "name": "TONINI",
+        "url": "https://open.spotify.com/album/53QbHt39FFQ8O27HrWlnCr"
+      },
+      "artists": [
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132373,
+      "name": "TONINI",
+      "url": "https://open.spotify.com/track/0rYGGxF4VitfzCyw3zmhlN"
+    },
+    {
+      "album": {
         "name": "Top Ten",
         "url": "https://open.spotify.com/album/44lcbclj4zdVnwgwFaKcM9"
       },
@@ -5996,7 +6040,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 176743,
       "name": "Viva Los ShiShi",
       "url": "https://open.spotify.com/track/2OKvnIShlUE7G5b6eff9CP"

@@ -4,7 +4,7 @@
 
 > 
 
-951 songs - 1 day 22 hr 49 min
+953 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 | 2024-06-05 | 2024-11-06 |
 | [Light It Up](https://open.spotify.com/track/41mzryVlFLlz6b1BCtJAjx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:29 | 2023-11-29 | 2024-03-05 |
 | [Like Him \(feat\. Lola Young\)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:38 | 2024-11-05 |  |
+| [Like I Love You](https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:43 | 2025-04-25 |  |
 | [Like Me \(feat\. Kevin Gates and Stroke tha Don\)](https://open.spotify.com/track/2v2bCAheJHzMGsqT1oxCxp) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Stroke Tha Don](https://open.spotify.com/artist/4GZkKCpdq61U2k0Yeiu00F) | [38 Baby](https://open.spotify.com/album/2O8EgP8trTkKflc5qtXyrl) | 4:16 | 2022-06-17 | 2023-03-21 |
 | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/track/19DxfiuqUiuAB2QtDkgTPj) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/album/2F3ecFWb26F4F67H1ChUJk) | 2:13 | 2023-02-28 | 2023-05-09 |
 | [Like Spike](https://open.spotify.com/track/4KY57NMk1n64RQmnkd7OHZ) | [CHASETHEMONEY](https://open.spotify.com/artist/1OuuJcg5OofM36OyEzoB2X), [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Like Spike](https://open.spotify.com/album/00ilJ2EvWO9HSIQWq8xTLX) | 1:47 | 2025-01-07 |  |
@@ -742,6 +743,7 @@
 | [Serious Shit](https://open.spotify.com/track/521qLebnOvsIOtJKhQvGmi) | [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Mista Thug Isolation](https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb) | 3:36 | 2024-04-23 | 2024-11-06 |
 | [Seven Million \(feat\. Future\)](https://open.spotify.com/track/6j0teRL3WdExzqmy334sh5) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:02 | 2024-12-23 |  |
 | [Sexual Healing](https://open.spotify.com/track/4PxqfF3aezYRkheYir1T5g) | [Grailed](https://open.spotify.com/artist/5wgXWK6qGrFD6uAFENCLXo) | [Sexual Healing](https://open.spotify.com/album/1Uo1cBKWEQdHUXoe7WYW82) | 2:33 | 2022-12-15 | 2024-11-06 |
+| [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 | 2025-04-25 |  |
 | [Sh\*t Sad](https://open.spotify.com/track/48GihjnmhKG9a6wbKJC6MF) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 3:14 | 2024-10-23 |  |
 | [Shade](https://open.spotify.com/track/3vpocwyn0RvKzeXo1tzSrW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:02 | 2024-02-21 | 2024-04-24 |
 | [Shame On The Devil](https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Shame On The Devil](https://open.spotify.com/album/4uQDzFAaXpBDBIkwhJQo8T) | 3:25 | 2024-05-21 | 2024-11-06 |

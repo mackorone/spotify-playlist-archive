@@ -4,7 +4,7 @@
 
 > Playlist
 
-591 songs - 1 day 11 hr 1 min
+592 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Pale Blue Dot](https://open.spotify.com/track/7bLIf5jLgRYJLgdI1v1Cok) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Caper](https://open.spotify.com/album/6ZNqwyJkgq7af0nvWNNTsz) | 3:40 | 2024-11-14 |  |
 | [Papi's Wishing Wheel](https://open.spotify.com/track/6DMwnXNVm8Jn3pBWAi9M4T) | [The Zenmenn](https://open.spotify.com/artist/07wydlLRa4ovoB9JT1fmSh), [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3) | [Mansions and Millions Mixtape, Vol\. 5](https://open.spotify.com/album/4AVGsM48okxacZncIZnrV8) | 3:24 | 2023-10-25 |  |
 | [Paris in the Heart](https://open.spotify.com/track/0TLkkq6r7T0dCV73bHMsZd) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [Paris in the Heart](https://open.spotify.com/album/0PhkoCDaoJVFZesiPXvzpX) | 3:33 | 2023-10-25 |  |
+| [Party Punisher](https://open.spotify.com/track/44iPoPJSrtD50F81vUWUk0) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [Party Punisher](https://open.spotify.com/album/3UfySeTIspsj2DFSZsKWx3) | 3:23 | 2025-04-25 |  |
 | [Passion Flower](https://open.spotify.com/track/2u4qyAl8Mhvz023yU4XEKG) | [Pasiflorez](https://open.spotify.com/artist/1AoUutm6HXbWfMIvdF9QIm) | [Passion Flower](https://open.spotify.com/album/7zOE5ULHKnMUP3DaPaSd16) | 3:25 | 2023-10-25 |  |
 | [Past Life](https://open.spotify.com/track/4cRffBYU4iYJ7DCSGiDZK3) | [Coral Pink](https://open.spotify.com/artist/4tBONWiDXvYt42kbXueDdY) | [Past Life](https://open.spotify.com/album/42uK9yhMRHcoYvktX43p5y) | 3:56 | 2023-10-25 |  |
 | [Pawns](https://open.spotify.com/track/4gjt4fvbif0RIu3ifEbXbe) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 2:47 | 2023-10-25 |  |

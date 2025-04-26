@@ -4193,6 +4193,24 @@
     },
     {
       "album": {
+        "name": "I Am The Future",
+        "url": "https://open.spotify.com/album/6gHZPgoxaigaATAmyFU6y5"
+      },
+      "artists": [
+        {
+          "name": "Jacaranda",
+          "url": "https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "I Am The Future",
+      "url": "https://open.spotify.com/track/5OApmelG95UKLMeLDRTZZy"
+    },
+    {
+      "album": {
         "name": "I Am Woman",
         "url": "https://open.spotify.com/album/2zyPeQvdKUTL8VycWoXHOP"
       },

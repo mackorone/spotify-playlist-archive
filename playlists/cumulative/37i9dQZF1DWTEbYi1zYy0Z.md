@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-508 songs - 1 day 11 hr 56 min
+509 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Absolutely!](https://open.spotify.com/track/1HNnwy8YxzS3lQo062OJ0n) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg), [Kyle Schroeder](https://open.spotify.com/artist/0bMyCP9f8RvsY6Oe8LkiRC) | [Absolutely!](https://open.spotify.com/album/3hMTyoSx31EbQ5TKx883f5) | 3:42 | 2024-02-16 |  |
 | [Affirmation \(feat\. Tony Terry\)](https://open.spotify.com/track/3rtX3etPKWkFttflEePOgY) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Tony Terry](https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1) | [Affirmation \(feat\. Tony Terry\)](https://open.spotify.com/album/1h53j1u4uzF4QQOc6r33WN) | 5:20 | 2021-05-21 | 2022-03-10 |
 | [After Party](https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [After Party](https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4) | 3:50 | 2022-09-23 | 2023-06-24 |
+| [All For You \(feat\. Walter Beasley\) \- Radio Edit](https://open.spotify.com/track/5a76unheMGhjq1eDMcQ7z7) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [All for You \(feat\. Walter Beasley\) \[Radio Edit\]](https://open.spotify.com/album/6MdTFdgWikxM32dHFu0inb) | 3:49 | 2025-04-25 |  |
 | [All Love](https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [All Love](https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8) | 3:12 | 2023-01-27 | 2024-06-08 |
 | [All That Matters](https://open.spotify.com/track/2ZNUhtOKwuwK7Ec138C9Dk) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [All That Matters](https://open.spotify.com/album/4EhyShIfNF7T6WKym6BzXN) | 4:37 | 2021-06-25 | 2022-09-17 |
 | [Alma de Lisbon \- Radio Version](https://open.spotify.com/track/11CGam8X4wwtXBdu6D8jfk) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Kelvin Wooten](https://open.spotify.com/artist/40zNVI046o2WME1SsGI9ih) | [Alma de Lisbon \(Radio Version\)](https://open.spotify.com/album/1VTGJ0VAPefmivnxtb59U9) | 5:28 | 2025-04-04 |  |
@@ -169,7 +170,7 @@
 | [For The Cool In You](https://open.spotify.com/track/3w948fDr5ERQEFn3TmGHOj) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Promise](https://open.spotify.com/album/5pUlgSSkbZdyzglBJiRy2p) | 4:29 | 2023-03-17 | 2024-04-19 |
 | [For the Cool in You](https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [For the Cool in You](https://open.spotify.com/album/1J8nWBTEHq9puOzkK5Dnly) | 4:30 | 2023-03-17 | 2023-07-11 |
 | [For The Cool In You](https://open.spotify.com/track/6lcZYupfafKV55hB2R2sCi) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [For the Cool in You](https://open.spotify.com/album/4lNQ45FU2TpTJAPgXSHnev) | 4:30 | 2023-03-17 | 2024-08-24 |
-| [Foreplay](https://open.spotify.com/track/2IlRDMMruJWUHrMr4b1vzl) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3) | [Foreplay](https://open.spotify.com/album/2z8agb6cD8BozTL49Mx5Ap) | 4:23 | 2024-04-19 |  |
+| [Foreplay](https://open.spotify.com/track/2IlRDMMruJWUHrMr4b1vzl) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3) | [Foreplay](https://open.spotify.com/album/2z8agb6cD8BozTL49Mx5Ap) | 4:23 | 2024-04-19 | 2025-04-26 |
 | [Forever](https://open.spotify.com/track/3etLxAosogqfbvsLyBh58S) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Forever](https://open.spotify.com/album/6LvqB0xOeML6cyQdw33y1O) | 5:16 | 2022-03-18 | 2023-07-29 |
 | [Forever My Love](https://open.spotify.com/track/7xfV7C26Jb4Ka5l4tGtXfq) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Forever My Love](https://open.spotify.com/album/07UH7uQ4IIxni6J14U1juu) | 3:09 | 2022-03-18 | 2023-07-08 |
 | [Forever Together](https://open.spotify.com/track/1GH50Go52ia1z82l7AZalJ) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Forever Together](https://open.spotify.com/album/5YI2HY4c5vDxTrDkNysfGu) | 4:16 | 2023-08-25 | 2024-03-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. My Morning Jacket en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. The Lumineers  en portada.",
   "name": "Indielandia",
   "tracks": [
     {
@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237809,
+      "name": "At The Beach, In Every Life",
+      "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
+    },
+    {
+      "album": {
         "name": "Memory Of A Day",
         "url": "https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 210773,
       "name": "Blue Embers",
       "url": "https://open.spotify.com/track/1I3qnpna2lLZeTk2B06bih"
@@ -1198,6 +1216,28 @@
       "duration_ms": 157906,
       "name": "BORN TO LOSE",
       "url": "https://open.spotify.com/track/5xtRAIRKyiaeX8BrHkxdj1"
+    },
+    {
+      "album": {
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236022,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri"
     },
     {
       "album": {
@@ -1839,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Compass Will Fracture",
+        "url": "https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Compass Will Fracture",
+      "url": "https://open.spotify.com/track/63IqeRT97jGa1zIORhXCM2"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4vLb4rjKhWOcrW4xFKm4iK"
       },
@@ -2436,7 +2494,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 207933,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3CMUT3yFtwmdSjv4gOj3yl"
@@ -2834,6 +2892,28 @@
       "duration_ms": 170754,
       "name": "Fainted Love",
       "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
+    },
+    {
+      "album": {
+        "name": "Fake Nice (feat. Kevin Kaarl)",
+        "url": "https://open.spotify.com/album/324GNFC8aQ3DpoVQVnrp82"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        },
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208044,
+      "name": "Fake Nice (feat. Kevin Kaarl)",
+      "url": "https://open.spotify.com/track/5KcdtJsVc2X36iBOV8S3Zt"
     },
     {
       "album": {
@@ -3347,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "God Loves Weirdos",
+        "url": "https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189411,
+      "name": "God Loves Weirdos",
+      "url": "https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3"
+    },
+    {
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/4uVyqBkVvpMGlw7sspEFX4"
       },
@@ -3550,6 +3648,24 @@
       "duration_ms": 237266,
       "name": "Hang In There",
       "url": "https://open.spotify.com/track/6AVxU4b0LAUVG1jkc6HFaN"
+    },
+    {
+      "album": {
+        "name": "happiness (live)",
+        "url": "https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208180,
+      "name": "happiness - live",
+      "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
     },
     {
       "album": {
@@ -3932,7 +4048,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 189500,
       "name": "I See You",
       "url": "https://open.spotify.com/track/2h221a2GnqG8d149BiCgFu"
@@ -4572,7 +4688,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 231490,
       "name": "Leaveyourlove",
       "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
@@ -4858,7 +4974,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 230744,
       "name": "Love",
       "url": "https://open.spotify.com/track/6Fn3HQPcm2DtgIfEIPeKys"
@@ -5067,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "Mascara",
+        "url": "https://open.spotify.com/album/65JEDCxGI5ajk3TkfgL4EL"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136153,
+      "name": "Mascara",
+      "url": "https://open.spotify.com/track/1534vlcyiYVm7xvkrAvUka"
+    },
+    {
+      "album": {
         "name": "May Ninth",
         "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
       },
@@ -5154,7 +5288,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 249166,
       "name": "Melodramatic Fanatic",
       "url": "https://open.spotify.com/track/6kJB0UAaSCnFCJMRc5nVze"
@@ -5270,7 +5404,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 192753,
       "name": "More More More",
       "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
@@ -5504,7 +5638,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 99207,
       "name": "new benz",
       "url": "https://open.spotify.com/track/7sIZaWPOGDHD0ZameBt7Wv"
@@ -6238,7 +6372,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 167823,
       "name": "Potion",
       "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
@@ -6616,7 +6750,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
@@ -7191,6 +7325,24 @@
     },
     {
       "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/4eRtgOsveRqHt8wAZXQI1E"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254619,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/3bMb5IjD0tKWKn7A11ulwg"
+    },
+    {
+      "album": {
         "name": "Ask That God (Deluxe)",
         "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
       },
@@ -7318,7 +7470,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-26",
       "duration_ms": 282459,
       "name": "Spike Island",
       "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
@@ -7482,6 +7634,24 @@
       "duration_ms": 206563,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
+    },
+    {
+      "album": {
+        "name": "Sugar Mountain",
+        "url": "https://open.spotify.com/album/3P7ZwzzLmDouKiP82hDuKp"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303018,
+      "name": "Sugar Mountain",
+      "url": "https://open.spotify.com/track/5Jt7FHiODNrKfzs82dhvSO"
     },
     {
       "album": {
@@ -7760,6 +7930,28 @@
       "duration_ms": 286350,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/29oH20WCU0mVO3SwfIaaib"
+    },
+    {
+      "album": {
+        "name": "Tell me I never knew that",
+        "url": "https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279051,
+      "name": "Tell me I never knew that",
+      "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
     },
     {
       "album": {
@@ -8500,6 +8692,24 @@
       "duration_ms": 181745,
       "name": "Until We Meet Again",
       "url": "https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere"
+    },
+    {
+      "album": {
+        "name": "V.I.S.",
+        "url": "https://open.spotify.com/album/3QJDKsdfBMlx3LI6GNgMdd"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225053,
+      "name": "V.I.S.",
+      "url": "https://open.spotify.com/track/2EUp86hKB1fsdr3Mf5y2dN"
     },
     {
       "album": {

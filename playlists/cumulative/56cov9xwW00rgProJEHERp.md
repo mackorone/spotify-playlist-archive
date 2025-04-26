@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-250 songs - 14 hr 23 min
+253 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Call Me If You Miss Me](https://open.spotify.com/track/3LWYsVIye7sFfYTL3s9ksO) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Call Me If You Miss Me](https://open.spotify.com/album/1XTodZ2bafoeNTgWnm4RNg) | 3:13 | 2025-03-07 |  |
 | [Call U After Rehab](https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Call U After Rehab](https://open.spotify.com/album/0M6TR9ql8OlGDpZQDNMyJq) | 2:58 | 2023-12-08 | 2024-07-27 |
 | [Can I Shower At Yours \- Acoustic](https://open.spotify.com/track/3g8dWhBV9qCftjFocTxLUP) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours \(Acoustic\)](https://open.spotify.com/album/5mlOM2LUgvbPCZzNNmarHx) | 2:24 | 2023-12-08 | 2024-01-20 |
+| [Carousel](https://open.spotify.com/track/6xErF43Ru9Y0r21iHWaj0J) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Carousel](https://open.spotify.com/album/6ZYFQTxkwpg0A1wTTTjRU8) | 3:27 | 2025-04-25 |  |
 | [Chemical](https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Chemical](https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu) | 4:07 | 2024-10-04 |  |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-14 | 2025-02-08 |
 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 | 2023-12-08 | 2024-07-27 |
@@ -51,6 +52,7 @@
 | [Daddy's a Psycho](https://open.spotify.com/track/653QfGDLMG60iM9RHBWKJB) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 4:19 | 2023-12-08 | 2024-05-25 |
 | [Daisy](https://open.spotify.com/track/0WoWLQX3MHAXaZogJspeZ4) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/7k4wACRSBft1L7IgbbjupL) | 3:37 | 2024-10-18 | 2025-03-22 |
 | [Dance All Over Me \- Acoustic](https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Dance All Over Me \(Acoustic\)](https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME) | 3:34 | 2023-12-08 | 2024-03-09 |
+| [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 | 2025-04-25 |  |
 | [Daydream](https://open.spotify.com/track/32pXMjwyuQaau2jgf6BTua) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Daydream](https://open.spotify.com/album/5AWER3YK1Wi9HZ1FjfHRmo) | 2:26 | 2024-04-26 | 2024-05-25 |
 | [Derrière le jour](https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Derrière le jour](https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu) | 3:31 | 2024-01-19 | 2024-07-13 |
 | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/album/5AiC1ESCiFpZcDxSWylVeB) | 4:08 | 2025-02-07 |  |
@@ -256,6 +258,7 @@
 | [Wood Knot](https://open.spotify.com/track/1RDm9ypgsDjqPz57CtLc1t) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Moneyball](https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi) | 4:21 | 2025-03-21 |  |
 | [You and What You Do](https://open.spotify.com/track/0VdhXIvSTN4C4aP1h8T5VR) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [You and What You Do](https://open.spotify.com/album/2ka9wk9kIVIpWN9DqRCQvH) | 3:32 | 2024-08-23 |  |
 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-12-08 | 2024-01-20 |
+| [You Love You](https://open.spotify.com/track/6nYzUeU2RKW4X5cbPvnclO) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [You Love You](https://open.spotify.com/album/7gup7q8DB1d7Y8hS5SV0pZ) | 3:03 | 2025-04-25 |  |
 | [your wedding](https://open.spotify.com/track/22iySIndsx0HLE4aqN28IV) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:36 | 2024-11-15 | 2025-02-22 |
 | [Zinfandel](https://open.spotify.com/track/7oL3fy8uP294kcfCgGB5Od) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Zinfandel](https://open.spotify.com/album/0HO2hDB9adfH9iLuPb3UWf) | 3:39 | 2024-06-21 | 2024-07-20 |
 

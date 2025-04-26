@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,553 likes - 184 songs - 11 hr 33 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,547 likes - 184 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 17 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
 | 18 | [Home Improvement](https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Home Improvement](https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK) | 2:55 |
 | 19 | [Casanova \- From Beyond The Abyss](https://open.spotify.com/track/6pvdo88IZIAQWfr5HafNRa) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Casanova \(From Beyond The Abyss\)](https://open.spotify.com/album/5ypY8X5KX7aGi2PuJVGz1G) | 3:44 |
-| 20 | [Creatures of Chaos](https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Creatures of Chaos](https://open.spotify.com/album/417069DxvdXoov1vxICCNs) | 3:20 |
+| 20 | [Creatures of Chaos](https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Creatures of Chaos](https://open.spotify.com/album/417069DxvdXoov1vxICCNs) | 3:19 |
 | 21 | [Nothing Left](https://open.spotify.com/track/711OrRL5PGxPS6fJGVxs8f) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void EP](https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd) | 4:27 |
 | 22 | [Upright Destined Mongol \- Live at Glastonbury](https://open.spotify.com/track/3BJdlHZDQbEKskhdn0pF7r) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The HU Live At Glastonbury](https://open.spotify.com/album/28ytxeelhWVunLrrNrAaUV) | 4:52 |
 | 23 | [Guilty \(feat\. DL of Bad Wolves\)](https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Guilty \(feat\. DL of Bad Wolves\)](https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE) | 2:59 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 183 | [SOS \- Alternative Version](https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:38 |
 | 184 | [Guerrilla Radio](https://open.spotify.com/track/1lenAyuxQejwcsgLQtGqPV) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:23 |
 
-Snapshot ID: `AAAIq4dNytdmQrVgk7ZIIRWsxCxXvTvH`
+Snapshot ID: `AAAIrC0R+Ic1yrmRlMQYBRqjSW+59sWr`

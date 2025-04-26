@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 163 braces
 
-2,055 songs - 4 day 23 hr 33 min
+2,056 songs - 4 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [no expectation](https://open.spotify.com/track/6lm8oHO5OST27oU1UDBSMk) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [no expectation](https://open.spotify.com/album/00HmmKxUfcIIk6aQL5i07S) | 4:06 | 2025-04-24 |  |
 | [No Pressure](https://open.spotify.com/track/4IAJGeRF7okkM511u82Smf) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [No Pressure](https://open.spotify.com/album/1x3NZmSQF1TIRxGkOJNvpn) | 2:48 | 2024-10-31 | 2024-11-29 |
 | [No Signal](https://open.spotify.com/track/6pNSRt9vMNpufjmBIZMLQU) | [Hello Nico](https://open.spotify.com/artist/7x9dgKNOqskk2exnmjOEKo) | [Plan B：如果回來，我們一起看海](https://open.spotify.com/album/5BkVQHa1hyuZJGVQYlZZdh) | 3:30 | 2024-09-12 | 2024-10-04 |
+| [Not Again](https://open.spotify.com/track/6vL8IVsPgoPW7GDwkFe7do) | [Echo Ding](https://open.spotify.com/artist/277E4w40LYIfxhx9e3130N), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Not Again](https://open.spotify.com/album/7AvWCsaA9gcy8tGHbfjmQz) | 2:50 | 2025-04-24 |  |
 | [Not Average](https://open.spotify.com/track/78G9uDuA7eMri0LWIzttip) | [Denzel Cheng](https://open.spotify.com/artist/6HdMvBWAXWnxX5LEWlgluN) | [Not Average](https://open.spotify.com/album/5AzRrA0bC16l6Q5RiyvF57) | 2:50 | 2024-09-19 | 2024-10-11 |
 | [Nothing ever stops me](https://open.spotify.com/track/6QzUlsc7K5iyY9lCEjUKOx) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD), [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Nothing ever stops me](https://open.spotify.com/album/6DTxwbv5viHypd3xU2wFNM) | 4:00 | 2024-09-19 | 2024-10-11 |
 | [NOTM \(No Other Than Me\)](https://open.spotify.com/track/2Xh1qw0X9rRTO3SVPUzr1r) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [NOTM \(No Other Than Me\)](https://open.spotify.com/album/4H2pn9g0rolyadQIHrBtcm) | 2:16 | 2025-02-27 | 2025-03-14 |
@@ -1351,7 +1352,7 @@
 | [新手](https://open.spotify.com/track/2tATmIy0X25YmMOx0PHgAi) | [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [新手](https://open.spotify.com/album/3w0y9OL1GGjgT1C2uaLTKy) | 4:23 | 2024-08-29 | 2024-09-20 |
 | [新郎](https://open.spotify.com/track/1AwHhS0vQrc2vzSpW7m7GH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [新郎](https://open.spotify.com/album/20F3ek2ax9tCi0XeUarWiF) | 3:42 | 2025-04-24 |  |
 | [新鞋踩三下](https://open.spotify.com/track/4NHdq5eDdmZjPV0S90WZBI) | [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Andrew Su](https://open.spotify.com/artist/4oIhsb4tPloa7dQH0TQfhu), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [新鞋踩三下](https://open.spotify.com/album/0aBxPBnD7czNZXy35P1dz4) | 2:14 | 2025-01-23 | 2025-02-07 |
-| [斷線](https://open.spotify.com/track/2v4naQglKacbiTKO2Ly7RW) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [斷線](https://open.spotify.com/album/1KRuDLI7VWP7HbcsPLLCHl) | 4:22 | 2025-04-24 |  |
+| [斷線 \- Live Version](https://open.spotify.com/track/2v4naQglKacbiTKO2Ly7RW) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [斷線 \(Live Version\)](https://open.spotify.com/album/1KRuDLI7VWP7HbcsPLLCHl) | 4:22 | 2025-04-24 |  |
 | [於是乎我忘了前奏](https://open.spotify.com/track/0WINYbctYz3CipUz3wD5jL) | [陳則皞](https://open.spotify.com/artist/2td4gZxQongsxOty2EnlB5) | [於是乎我忘了前奏](https://open.spotify.com/album/00ffr7yjfpuuD0p62DjQQx) | 3:20 | 2025-02-27 | 2025-03-07 |
 | [旋轉咖啡杯](https://open.spotify.com/track/4fqQlOGeCpyNhyaPDJU2A3) | [Yohee又熙](https://open.spotify.com/artist/3vF1H9QKCNIXvIDnRDiCke) | [旋轉咖啡杯](https://open.spotify.com/album/5ItjMVolyfUjV4jnKX783j) | 2:52 | 2025-03-20 | 2025-04-04 |
 | [日出](https://open.spotify.com/track/3Hq8Iuy3aeR5KAWTHY6LgC) | [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB) | [日出](https://open.spotify.com/album/4tt7zZaYC8JRyBSzF3ndfp) | 3:53 | 2024-11-28 | 2024-12-06 |

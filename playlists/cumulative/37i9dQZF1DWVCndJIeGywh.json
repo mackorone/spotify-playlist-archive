@@ -519,6 +519,32 @@
     },
     {
       "album": {
+        "name": "Danny Boy (Arr. by Joshua Pacey)",
+        "url": "https://open.spotify.com/album/2As2sK5fv5GO374Ikeoaqz"
+      },
+      "artists": [
+        {
+          "name": "Frederic Weatherly",
+          "url": "https://open.spotify.com/artist/4N2UiRNiRTGl6tsA4G0QWR"
+        },
+        {
+          "name": "Traditional (Arr. Joshua Pacey)",
+          "url": "https://open.spotify.com/artist/3RfKxYv0ru7I6aSxVzS43b"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259453,
+      "name": "Danny Boy (Arr. by Joshua Pacey)",
+      "url": "https://open.spotify.com/track/33RqYCVIX3J0AnDkpVOjIq"
+    },
+    {
+      "album": {
         "name": "The Lark Ascending collection",
         "url": "https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy"
       },

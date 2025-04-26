@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-165 songs - 7 hr 47 min
+165 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Call the Thunder](https://open.spotify.com/track/2a15jqyv9Sqm6hEPYZYFPz) | [Tropicallers](https://open.spotify.com/artist/4yWbv6GvbwNLjPGgvQkSfr) | [Call the Thunder](https://open.spotify.com/album/1Gnp8qSNJaOFC1emAF0z92) | 2:18 | 2023-09-20 |  |
 | [City Thunder](https://open.spotify.com/track/1tzD0vs1awlqfGT1eVeX61) | [Power Strike](https://open.spotify.com/artist/7ow9d4dYEfGrRcthtVCX9q) | [City Thunder](https://open.spotify.com/album/1Q4qC2dMKhrrU6hH0Lpdwo) | 3:04 | 2024-06-10 | 2024-11-29 |
 | [Contemplations \#2](https://open.spotify.com/track/4mWGn5BKWKD8YDXpTIG3py) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [Contemplations](https://open.spotify.com/album/2gOMTje0HNrjJZWB8n2W9K) | 2:03 | 2023-01-13 |  |
-| [Costa Tormenta](https://open.spotify.com/track/1fK6fnY1WSGzInlketXt6D) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Mal tiempo](https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr) | 1:52 | 2022-10-28 |  |
+| [Costa Tormenta](https://open.spotify.com/track/1fK6fnY1WSGzInlketXt6D) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Mal tiempo](https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr) | 2:27 | 2022-10-28 |  |
 | [Cows In Thunderstorm](https://open.spotify.com/track/0iJwPDaT91EQ7FE5JudDIp) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [The Sound Of Thunder](https://open.spotify.com/album/7w7vj19z0QzYlqkdAQYLGR) | 2:25 | 2023-09-20 |  |
 | [Cracking Thunderbolt](https://open.spotify.com/track/0BQQFdsmskQGCWO48DWRAc) | [Thunderstorm Sound Bank](https://open.spotify.com/artist/6xQDyC92UEZQCySBNTdkyx) | [Thunderstorm at Night](https://open.spotify.com/album/2xjEqt6RKzjRN4WvbDrV2b) | 2:15 | 2023-09-20 |  |
 | [Crackling Sky](https://open.spotify.com/track/2MLSAw581M4TTjguuua1oV) | [Oblitzy](https://open.spotify.com/artist/10uSPhynSCflghfXy9d11O) | [Deep Rumble](https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz) | 1:36 | 2023-09-20 |  |
@@ -28,7 +28,7 @@
 | [Distant Storm](https://open.spotify.com/track/6sZVHMKQ7lf57eTlgby2WL) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 | 2022-10-28 | 2023-01-06 |
 | [Distant Thunder At Night](https://open.spotify.com/track/1eAAKEMh69QfLafJAwgmXg) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Distant Thunder At Night](https://open.spotify.com/album/72gBU4g2D5LGIxe4HKm09V) | 2:22 | 2022-10-28 |  |
 | [Dripping Thunder](https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW) | [Thurricane](https://open.spotify.com/artist/336hn7XbKf5r6kzE4SZ1RP) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:34 | 2023-09-20 |  |
-| [El Trueno Desde Arriba](https://open.spotify.com/track/6zfCEuZfzq9vWeG22bj39P) | [Adela Amando](https://open.spotify.com/artist/4MxSvvBZgxyHPAuwKX5srl) | [El Trueno Desde Arriba](https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV) | 1:39 | 2023-09-20 |  |
+| [El Trueno Desde Arriba](https://open.spotify.com/track/6zfCEuZfzq9vWeG22bj39P) | [Adela Amando](https://open.spotify.com/artist/4MxSvvBZgxyHPAuwKX5srl) | [El Trueno Desde Arriba](https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV) | 2:29 | 2023-09-20 |  |
 | [Electric Dreams](https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Electric Thunder Strikes and Thunder](https://open.spotify.com/track/7GmmHMb5NLPWseryFhZWjX) | [Day & Night Rain](https://open.spotify.com/artist/5p3vgbXHS5XWeuHRq7pFzr) | [Electric Thunder Strikes and Thunder](https://open.spotify.com/album/5KxLnTTtdKuyqesUoiBbPe) | 1:53 | 2024-03-11 |  |
 | [Electrostatic](https://open.spotify.com/track/4Q73bV2I8Bl55TWlBBUyr5) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Electrostatic](https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv) | 2:43 | 2022-10-28 |  |

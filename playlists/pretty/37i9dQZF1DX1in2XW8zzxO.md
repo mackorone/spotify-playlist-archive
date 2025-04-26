@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,516 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,559 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 45 | [Woza La!](https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I) | [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Benny Maverick](https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO) | [Woza La!](https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn) | 8:04 |
 | 46 | [Hanyane Fela \(feat\. Wonder Flawz & Khalil Harrison\)](https://open.spotify.com/track/1yoomI2efiMQCmAHr2LjWx) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Wonder Flawz](https://open.spotify.com/artist/4MD1QDssyQYOuz7oGuQ702), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp) | [Hanyane Fela \(feat\. Wonder Flawz & Khalil Harrison\)](https://open.spotify.com/album/6nGmHmof2Zhm9WL36saQN9) | 6:22 |
 | 47 | [Party Mode](https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Party Mode](https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08) | 6:01 |
-| 48 | [Guitar Man \(feat\. Amukelani M\)](https://open.spotify.com/track/6FRLrkIn0LYUX7whLWVyoA) | [Nkulee501](https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75), [Skroef 28](https://open.spotify.com/artist/1dmGmys2aPdJowwjy8IK3F), [Amukelani M](https://open.spotify.com/artist/6acpaT0NzgAvsLOB4dmaZV) | [Numbers Didn't Lie](https://open.spotify.com/album/02041eZmy9EtIJAyc0wcFf) | 6:39 |
-| 49 | [All Night](https://open.spotify.com/track/64uHIutDM1LeKX12mONusv) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [All Night](https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch) | 5:58 |
+| 48 | [All Night](https://open.spotify.com/track/64uHIutDM1LeKX12mONusv) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [All Night](https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch) | 5:58 |
+| 49 | [Guitar Man \(feat\. Amukelani M\)](https://open.spotify.com/track/6FRLrkIn0LYUX7whLWVyoA) | [Nkulee501](https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75), [Skroef 28](https://open.spotify.com/artist/1dmGmys2aPdJowwjy8IK3F), [Amukelani M](https://open.spotify.com/artist/6acpaT0NzgAvsLOB4dmaZV) | [Numbers Didn't Lie](https://open.spotify.com/album/02041eZmy9EtIJAyc0wcFf) | 6:39 |
 | 50 | [Roba Letheka \(AmaPiano Remix\)](https://open.spotify.com/track/66l4V5ojB4sBzLEuWJbLS4) | [Ishmael](https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Roba Letheka \(AmaPiano Remix\)](https://open.spotify.com/album/7eTzelrwkx02RTznHbQJCJ) | 5:24 |
 
 Snapshot ID: `aAG/LwAAAAAa15/b8ZV65ERUtoM04qe7`

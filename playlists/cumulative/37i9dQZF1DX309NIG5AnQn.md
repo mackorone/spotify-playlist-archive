@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 reybruja.
 
-250 songs - 14 hr 14 min
+254 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,14 +235,18 @@
 | [Toxi](https://open.spotify.com/track/2zQFcTriw8DV1ZlajAUWpy) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/56QgvZNpKS8L7sVkDQyfYW) | 2:33 | 2022-03-25 | 2022-07-29 |
 | [Toxi](https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 2:33 | 2022-03-25 | 2023-03-25 |
 | [Transparente \- Lt Session](https://open.spotify.com/track/0z5Grn58q81DPgnQXyoU7b) | [Bicicletas](https://open.spotify.com/artist/1JwKBAe8O6J3z8knUBBIM1) | [Los Transparentes](https://open.spotify.com/album/0bD4ErLB6Z4H05LryfyqeJ) | 5:03 | 2022-03-25 | 2023-03-25 |
+| [Tres Viernes](https://open.spotify.com/track/1VWSXYPCYrZ7e1gJzlk81f) | [Radicäl](https://open.spotify.com/artist/4JyGBDOEYSDmMphGEacNAC) | [Tres Viernes](https://open.spotify.com/album/5lBRbfueJUu2GoikRpzSxl) | 2:37 | 2025-04-25 |  |
 | [Tráfico](https://open.spotify.com/track/0l2HLImZnyZqDydcgD6pDf) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Entrada Triunfal](https://open.spotify.com/album/4wP2yhVbsjzTNqn0g1YpT4) | 3:44 | 2023-03-23 |  |
 | [Tu Amigo para Siempre](https://open.spotify.com/track/221qzVqwYW5R3LaVblul9d) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Melodía y Drama](https://open.spotify.com/album/0EEqa3A9YiKuKAoBf57tuX) | 3:31 | 2022-03-25 | 2023-03-25 |
 | [Tu Amigo para Siempre](https://open.spotify.com/track/3WPQSk5fuwv3G6JH2IhjJu) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Tu Amigo para Siempre](https://open.spotify.com/album/4c9sXd1jiHln5Kw8NO1z28) | 3:31 | 2022-03-25 | 2022-07-29 |
 | [Un Cactus](https://open.spotify.com/track/04N3z5dU6x4eITjDuvlENM) | [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [SUPERSAD](https://open.spotify.com/album/0yRGn3oGpSAi41lV9RVBnP) | 2:16 | 2022-03-25 | 2023-03-25 |
 | [Un Documental Sobre Mí](https://open.spotify.com/track/1zaSe09Z9HQQBSj3SjzSZj) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 4:40 | 2022-03-25 | 2023-03-25 |
+| [UN PLAN B](https://open.spotify.com/track/5YKlZSo139XFVe5IWTXKcK) | [SIN DATOS](https://open.spotify.com/artist/6nR7tpxkxQxYjiYXMoETcj) | [UN PLAN B](https://open.spotify.com/album/2qsupLRpOKW6oUcFCp84BG) | 1:40 | 2025-04-25 |  |
 | [Un Rayo de Sol](https://open.spotify.com/track/0oAJBvPkXfLcA1Gh01jcdi) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [29:09:00](https://open.spotify.com/album/0jS4ed8WizhMKAqpafgrJf) | 4:54 | 2023-03-23 | 2024-11-30 |
 | [Una Canción](https://open.spotify.com/track/6uEZio7p3zHhIPSUiTFnLC) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Una Canción](https://open.spotify.com/album/4AR7pIVOrcS7KYeVJF9BpG) | 2:42 | 2023-03-23 | 2023-07-29 |
 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 | 2024-08-12 |  |
+| [Vecinos](https://open.spotify.com/track/7zM7vEt3CEHasWxqRomYuu) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [Vecinos](https://open.spotify.com/album/5balPtR0c16V31I9KdBBm2) | 2:01 | 2025-04-25 |  |
+| [Veneno](https://open.spotify.com/track/3u25jJHH7zuhsh4gCO7kf0) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ahora Que Te Gusta El Rock](https://open.spotify.com/album/6HgMAQiz2FbvgoeuQ9kKgl) | 2:44 | 2025-04-25 |  |
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-03-25 | 2023-03-25 |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-03-25 | 2023-03-25 |
 | [Voy a Explotar](https://open.spotify.com/track/31tWsQjBWejiJHa8nZxkiW) | [SINGULARES](https://open.spotify.com/artist/1T1jRBnri3kmiLINyCFkKN) | [Voy a Explotar](https://open.spotify.com/album/2sFTI7e9lwYYg2NyQTEcaH) | 3:02 | 2024-02-02 |  |

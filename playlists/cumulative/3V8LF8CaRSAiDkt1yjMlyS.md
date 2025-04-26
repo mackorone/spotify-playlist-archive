@@ -4,7 +4,7 @@
 
 > 
 
-191 songs - 10 hr 8 min
+192 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Ode to Vivian](https://open.spotify.com/track/5fqYqPWlfQhIkcUY3XAJlm) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 1:29 | 2024-01-22 |  |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2023-01-13 |  |
 | [Palm Trees](https://open.spotify.com/track/7mP15Z8FDbU8lq9ncSiDtL) | [Virtual Nobodies](https://open.spotify.com/artist/0ai61DeA6TloJOZ8TYcqMf) | [Palm Trees](https://open.spotify.com/album/7hFUx0qyUzi5FFly2aRSfB) | 3:50 | 2025-03-05 | 2025-03-27 |
-| [Peace With Myself](https://open.spotify.com/track/4SUYjalX720XNgsB4dECxV) | [Joseph Kemal](https://open.spotify.com/artist/7n0LVJN7Cl2FLSXVwYSk5I) | [Peace With Myself](https://open.spotify.com/album/21yV2TYUMsSPKvr4XmU6Qc) | 3:24 | 2025-04-10 |  |
+| [Peace With Myself](https://open.spotify.com/track/4SUYjalX720XNgsB4dECxV) | [Joseph Kemal](https://open.spotify.com/artist/7n0LVJN7Cl2FLSXVwYSk5I) | [Peace With Myself](https://open.spotify.com/album/21yV2TYUMsSPKvr4XmU6Qc) | 3:24 | 2025-04-10 | 2025-04-26 |
 | [Play It Safe](https://open.spotify.com/track/2JnV3vx2tg5W2NOhHy5f4S) | [T\-FINNY](https://open.spotify.com/artist/6tzLOXZOOoABldNEgrrZg9) | [Play It Safe](https://open.spotify.com/album/3ZJwQi9No5chnjVnux0bvc) | 2:52 | 2025-03-28 |  |
 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 | 2023-09-21 |  |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2023-09-08 |  |
@@ -179,6 +179,7 @@
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-09-05 |  |
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2023-09-21 |  |
 | [Velvet Alibi](https://open.spotify.com/track/7syPTABWrO1KnnVtistjmt) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Fracturas](https://open.spotify.com/album/3I1Z4DycLgxSpKAR4RvvbE) | 3:13 | 2024-12-11 |  |
+| [Walk Through Fire](https://open.spotify.com/track/0Y3jN7vqr3BXEXd4LO3Foc) | [Edon](https://open.spotify.com/artist/1s1yRLPxetOg08tr0XJfYD) | [Development Year](https://open.spotify.com/album/7pJaLXUfnoE3j8kOtNEaUm) | 2:54 | 2025-04-25 |  |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2023-01-13 |  |
 | [Wasting My Young Years](https://open.spotify.com/track/0CzKeBPCiBrGZRV9eLzzBo) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 3:24 | 2023-05-14 |  |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2025-04-17 |  |

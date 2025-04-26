@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,052,190 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,671 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 70 | [Lift Teri Bandh Hai](https://open.spotify.com/track/02ChyNqDE1nEJacyj2i2eQ) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Judwaa 2](https://open.spotify.com/album/5s5nSyhQFpoXZeqqTXQ16J) | 3:24 |
 | 71 | [Sher Khul Gaye](https://open.spotify.com/track/5EqAFRGd2E93JZfzOspD6m) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Fighter](https://open.spotify.com/album/5p1147cCqxrWBDZAtaDR54) | 3:00 |
 | 72 | [Slow Motion](https://open.spotify.com/track/7vnXEUbyvC5VAYLgpstOAQ) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Bharat](https://open.spotify.com/album/6Jl2MfI7pB2hWKvTUc5DbA) | 4:07 |
-| 73 | [Chamma Chamma](https://open.spotify.com/track/00NksXMaWtsTARuoZmt0GJ) | [Neha Kakkar](https://open.spotify.com/artist/1xhSZgJOFzhEyd1Zn0nTSq), [Romy](https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd), [Arun](https://open.spotify.com/artist/7gWRtSKGQ95UXoYMnOn83L), [Ikka](https://open.spotify.com/artist/2YqdhX6ZdyIM5a5GtnUIlQ) | [Fraud Saiyaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74YnleSJc8taZEOtTJX5vp) | 3:16 |
+| 73 | [Chamma Chamma](https://open.spotify.com/track/00NksXMaWtsTARuoZmt0GJ) | [Neha Kakkar](https://open.spotify.com/artist/1xhSZgJOFzhEyd1Zn0nTSq), [Romy](https://open.spotify.com/artist/5Gk7oe06A3tJc0IgIaPcuT), [Arun](https://open.spotify.com/artist/7gWRtSKGQ95UXoYMnOn83L), [Ikka](https://open.spotify.com/artist/2YqdhX6ZdyIM5a5GtnUIlQ) | [Fraud Saiyaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74YnleSJc8taZEOtTJX5vp) | 3:16 |
 | 74 | [Nain Matakka \- From "Baby John"](https://open.spotify.com/track/2We0kZg7AZaIMsrBkqp2SI) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Nain Matakka \(From "Baby John"\)](https://open.spotify.com/album/2xFg2ollu0FPiwvDBAVDT5) | 3:42 |
 | 75 | [Jai Jai Shivshankar](https://open.spotify.com/track/6IYS7wNZxRBvLpwMZDbcdP) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [War](https://open.spotify.com/album/0z7bJ6UpjUw8U4TATtc5Ku) | 3:50 |
 

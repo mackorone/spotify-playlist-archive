@@ -1,13 +1,29 @@
 {
-  "description": "pinoy alternative music . Cover: Mayonnaise",
-  "num_followers": 300034,
+  "description": "pinoy alternative music . Cover: ena mori",
+  "num_followers": 300028,
   "original_name": "alt.ph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/87KgAAAAD4su/DfjRJ/tbo0gwgC61r",
+  "snapshot_id": "aAsRRAAAAAAf5o59l4frXn+H43MzZKzP",
   "tracks": [
+    {
+      "added_at": "2025-04-25 04:36:20",
+      "album": {
+        "name": "little sunny baby",
+        "url": "https://open.spotify.com/album/5j9LCrE1Pfu23acGv9nXR4"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "little sunny baby",
+      "url": "https://open.spotify.com/track/2DLIiAWaKquMARkg1k6RpG"
+    },
     {
       "added_at": "2025-04-16 05:03:10",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/6ozec3Smt66vQKmDso6DVn"
     },
     {
+      "added_at": "2025-04-25 04:36:20",
+      "album": {
+        "name": "Master of Arts in Relaying Information Through Exaggerated Storytelling (MARITES)",
+        "url": "https://open.spotify.com/album/0stDA2tziXwHYmQSmxD9BF"
+      },
+      "artists": [
+        {
+          "name": "FNG Fun N Games",
+          "url": "https://open.spotify.com/artist/4VRV74YZ7ptNFYhTAhFma7"
+        }
+      ],
+      "duration_ms": 199684,
+      "name": "Master of Arts in Relaying Information Through Exaggerated Storytelling (MARITES)",
+      "url": "https://open.spotify.com/track/3Fn5euASkhm1atRBeJYL8S"
+    },
+    {
       "added_at": "2025-04-16 05:07:54",
       "album": {
         "name": "Hari Ng Kapalpakan",
@@ -39,6 +71,22 @@
       "duration_ms": 289950,
       "name": "Hari Ng Kapalpakan",
       "url": "https://open.spotify.com/track/0Wtbqa1y4LwXyMbU3ldQ88"
+    },
+    {
+      "added_at": "2025-04-25 04:36:20",
+      "album": {
+        "name": "Paano Tayo",
+        "url": "https://open.spotify.com/album/1OwOrNjmoRpCDXCd37cx0m"
+      },
+      "artists": [
+        {
+          "name": "End Street",
+          "url": "https://open.spotify.com/artist/1tDu9QYGiRTIVCnw5tn2pE"
+        }
+      ],
+      "duration_ms": 193075,
+      "name": "Paano Tayo",
+      "url": "https://open.spotify.com/track/42EXYGjRYIv9qFcej1BUXC"
     },
     {
       "added_at": "2025-04-16 05:03:10",
@@ -799,62 +847,6 @@
       "duration_ms": 270716,
       "name": "Kyusi",
       "url": "https://open.spotify.com/track/4IMI7CdeNMDzq544pAgXqj"
-    },
-    {
-      "added_at": "2025-04-16 05:03:10",
-      "album": {
-        "name": "Pillow",
-        "url": "https://open.spotify.com/album/055Hvov2rOVus107OstKMO"
-      },
-      "artists": [
-        {
-          "name": "POP MONEY WORLDWIDE",
-          "url": "https://open.spotify.com/artist/0E3yLyIpFoe2rznq1IsRPj"
-        },
-        {
-          "name": "serro",
-          "url": "https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0"
-        },
-        {
-          "name": "Carrot Mayor",
-          "url": "https://open.spotify.com/artist/5s7aEasAPVKh5b7kwRiykk"
-        }
-      ],
-      "duration_ms": 151091,
-      "name": "Pillow",
-      "url": "https://open.spotify.com/track/5sPCkfro9nUpKLM04LX7jp"
-    },
-    {
-      "added_at": "2025-04-16 05:03:10",
-      "album": {
-        "name": "wagnamuna",
-        "url": "https://open.spotify.com/album/0bPxuKS1QWyc43bCBbk31e"
-      },
-      "artists": [
-        {
-          "name": "JERGE",
-          "url": "https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "wagnamuna",
-      "url": "https://open.spotify.com/track/6UmMczHfLTjZa81JShbl82"
-    },
-    {
-      "added_at": "2025-04-16 05:03:10",
-      "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT"
-      },
-      "artists": [
-        {
-          "name": "Pastel Sky",
-          "url": "https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Lila",
-      "url": "https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV"
     }
   ],
   "unique_name": "alt.ph",

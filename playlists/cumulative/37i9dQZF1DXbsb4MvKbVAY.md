@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa Lorde.
 
-1,173 songs - 2 day 10 hr 41 min
+1,174 songs - 2 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-08 | 2024-11-16 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 | 2025-03-20 | 2025-04-25 |
-| [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 | 2025-03-20 | 2025-04-25 |
+| [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 | 2025-03-20 |  |
 | [Daddy Issues](https://open.spotify.com/track/4sip0CJPgFtCHGZ2aZYM1k) | [MIKAYLA](https://open.spotify.com/artist/1HTqDkXCcdMUAalw6a3BK8) | [Daddy Issues](https://open.spotify.com/album/6vhvGz0eOihgyEOaPSzJsy) | 3:25 | 2024-11-15 | 2024-11-22 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-09-06 |
 | [Dalia](https://open.spotify.com/track/0TUDaiLA9lJXaysRuslRc6) | [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [Dalia](https://open.spotify.com/album/3cFnI28cSrO7RSJk6PZGjG) | 2:27 | 2024-08-29 | 2024-09-06 |
@@ -242,6 +242,7 @@
 | [Ei mitään jäljellä](https://open.spotify.com/track/2gyWO91pg2ALSP3zZrwoUr) | [MB4](https://open.spotify.com/artist/2cz7WW7pepoebiMi19w4a6) | [Ei mitään jäljellä](https://open.spotify.com/album/5WTR8UNoADqaYM44MAxApc) | 2:56 | 2025-03-27 | 2025-04-04 |
 | [Ei noi muut](https://open.spotify.com/track/17FyLAcIYRhqY4doPeABpO) | [Vimma](https://open.spotify.com/artist/26vvDMY0SNr27F2CiWTxLa) | [Ei noi muut](https://open.spotify.com/album/65whftA1Vu7YLxiwYkDgWc) | 3:09 | 2025-04-10 | 2025-04-18 |
 | [ei oo bileit \(feat\. Nelli Orell\)](https://open.spotify.com/track/3S567uFKoM5C5QrPeiTH1y) | [EBBE](https://open.spotify.com/artist/4nhVCGCpzFhYDfAqCHxbp7), [Nelli Orell](https://open.spotify.com/artist/1Buj43f2VREVfcmEsNBjVd) | [ei oo bileit \(feat\. Nelli Orell\)](https://open.spotify.com/album/33ezt8Md5MzUxaxHYKkqcb) | 2:13 | 2024-10-10 | 2024-10-18 |
+| [Ei Rakkaut](https://open.spotify.com/track/1kWFPp9sMxfKNobdlebdRW) | [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Ei Rakkaut](https://open.spotify.com/album/2ke0tkFzyeuBMpuUenWGLg) | 3:08 | 2025-04-25 |  |
 | [Ei sydäntä saa](https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Ei sydäntä saa](https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt) | 3:11 | 2024-07-11 | 2024-07-27 |
 | [Ei tänää](https://open.spotify.com/track/2HoMv4IByvh1vpWzlWgm16) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [NEVERSELLOUT](https://open.spotify.com/album/0bMpFBfJWWVb3t8vIw2h44) | 2:03 | 2024-10-17 | 2024-10-25 |
 | [Ekaa kertaa](https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Ekaa kertaa](https://open.spotify.com/album/4XfVGVY6iTZS0ggYpMc7LF) | 3:13 | 2024-08-22 | 2024-09-07 |
@@ -434,7 +435,7 @@
 | [Ihan vähän sua](https://open.spotify.com/track/2a4cjRKZCV3HnJavEDVLLx) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Ihan vähän sua](https://open.spotify.com/album/1FyivtsWLHas4iXj9cavH5) | 2:50 | 2024-11-21 | 2025-01-11 |
 | [Ihmishirviö](https://open.spotify.com/track/6EsFnbuNzZmSgiKAd0weFZ) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ihmishirviö](https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17) | 3:06 | 2025-01-02 | 2025-01-17 |
 | [Ikuinen elokuu](https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Ikuinen elokuu](https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ) | 3:54 | 2024-08-22 | 2024-10-04 |
-| [Ikuisuuteen](https://open.spotify.com/track/0iDngbVf0f913F88x6oWCe) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Ikuisuuteen](https://open.spotify.com/album/75nGiUV5o6XnNkQ9rxOISk) | 3:03 | 2025-04-17 |  |
+| [Ikuisuuteen](https://open.spotify.com/track/0iDngbVf0f913F88x6oWCe) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Ikuisuuteen](https://open.spotify.com/album/75nGiUV5o6XnNkQ9rxOISk) | 3:03 | 2025-04-17 | 2025-04-26 |
 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 | 2025-02-13 | 2025-04-10 |
 | [Ilmaa](https://open.spotify.com/track/0aPEp3qLmKjXvDllQ5QwLQ) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Ilmaa](https://open.spotify.com/album/0DMZ5UVQ0He31eGtyehiJC) | 3:16 | 2024-10-24 | 2025-01-03 |
 | [ILYSMIH](https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ILYSMIH](https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e) | 3:33 | 2025-04-24 |  |
@@ -1173,7 +1174,7 @@
 | [You The One](https://open.spotify.com/track/0s5XQmXojAvhbX7IxpqDlq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [You The One](https://open.spotify.com/album/2t4e1LAgV9nYBCEO8lKpp6) | 2:45 | 2025-02-21 | 2025-02-27 |
 | [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 | 2025-04-17 | 2025-04-25 |
 | [Young Again](https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Young Again](https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym) | 3:16 | 2024-09-05 | 2024-10-11 |
-| [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-20 |  |
+| [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-20 | 2025-04-26 |
 | [Yötön yö](https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Yötön yö](https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac) | 2:49 | 2024-09-12 | 2024-10-18 |
 | [Äitis unohti opettaa](https://open.spotify.com/track/6StIdMFQP6DN1ubpW1C5r1) | [Sofia Autio](https://open.spotify.com/artist/4P4GmcWwG2U9kZfBzoGNGQ) | [Äitis unohti opettaa](https://open.spotify.com/album/30DGveEwZOhPonsxGG1oGz) | 3:05 | 2025-02-27 | 2025-03-07 |
 | [Älä huoli musta](https://open.spotify.com/track/4pMHOTYk6fOxwQ4ZUxGCIb) | [satu](https://open.spotify.com/artist/0fvfbRyjT4wCwKmn2n9FDx) | [Älä huoli musta](https://open.spotify.com/album/55rBJNROrblk9opsz1Fpzo) | 2:22 | 2024-11-28 | 2024-12-06 |
